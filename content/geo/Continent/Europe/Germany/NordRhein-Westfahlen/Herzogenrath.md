@@ -1,0 +1,20 @@
+﻿---
+location: [50.88,6.1]
+type: City
+tags:
+- geo/City
+
+
+SpocWebEntityId: 30926
+isDeleted: false
+confidential: public
+
+---
+[geo-lon::6.1]
+[geo-lat::50.88]
+[name::Herzogenrath]
+[Country::[Germany](geo/Continent/Europe/Germany.md)]
+[State::[NordRhein-Westfahlen](NordRhein-Westfahlen)]
+[Population::]
+[Unknown::]
+

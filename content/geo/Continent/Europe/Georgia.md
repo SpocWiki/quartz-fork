@@ -1,0 +1,26 @@
+﻿---
+location: [41.7167,44.7833]
+type: Country
+tags:
+- geo/Country
+
+SpocWebEntityId: 26901
+isDeleted: false
+confidential: public
+
+---
+[ISO2::GE]
+[ISO3::GEO]
+[name-en::Georgia]
+[name-de::Georgien]
+[Area-Total::69700]
+[Area-Land::0]
+[Continent::[Europe](geo/Continent/Europe.md)]
+[VehicleCode::GEO]
+[Capital::[Tbilisi](geo/Continent/Europe/Georgia/Tbilisi.md)]
+![Anthem-Georgia](xLarge/National-Anthem/Anthem-Georgia.mp3)
+[Alcohol-l::6.4]
+[Language-Id::]
+[geo-lon::44.7833]
+[geo-lat::41.7167]
+

@@ -1,0 +1,26 @@
+﻿---
+location: [59.7646,16.5434]
+type: Country
+tags:
+- geo/Country
+
+SpocWebEntityId: 27013
+isDeleted: false
+confidential: public
+
+---
+[ISO2::SE]
+[ISO3::SWE]
+[name-en::Sweden]
+[name-de::Schweden]
+[Area-Total::449964]
+[Area-Land::411620]
+[Continent::[Europe](geo/Continent/Europe.md)]
+[VehicleCode::S]
+[Capital::[Stockholm](geo/Continent/Europe/Sweden/Stockholm.md)]
+![Anthem-Sweden](xLarge/National-Anthem/Anthem-Sweden.mp3)
+[Alcohol-l::10.3]
+[Language-Id::]
+[geo-lon::16.5434]
+[geo-lat::59.7646]
+

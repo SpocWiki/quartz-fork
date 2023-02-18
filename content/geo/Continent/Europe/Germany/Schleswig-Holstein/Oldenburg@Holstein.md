@@ -1,0 +1,20 @@
+﻿---
+location: [54.29,10.88]
+type: City
+tags:
+- geo/City
+
+
+SpocWebEntityId: 33088
+isDeleted: false
+confidential: public
+
+---
+[geo-lon::10.88]
+[geo-lat::54.29]
+[name::Oldenburg@Holstein]
+[Country::[Germany](geo/Continent/Europe/Germany.md)]
+[State::[Schleswig-Holstein](geo/Continent/Europe/Germany/Schleswig-Holstein.md)]
+[Population::]
+[Unknown::]
+
