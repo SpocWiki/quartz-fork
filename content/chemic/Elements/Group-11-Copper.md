@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
  
 4) [Copper](Group-11-Copper/Copper.md)
 5) [Silver](Group-11-Copper/Silver.md)

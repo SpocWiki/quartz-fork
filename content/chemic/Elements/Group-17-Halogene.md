@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 2) [Fluorine](Group-17-Halogene/Fluorine.md)
 3) [Chlorine](Group-17-Halogene/Chlorine.md)

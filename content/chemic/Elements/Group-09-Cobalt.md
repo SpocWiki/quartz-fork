@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [Cobalt](Group-09-Cobalt/Cobalt.md)
 5) [Iridium](Group-09-Cobalt/Iridium.md)

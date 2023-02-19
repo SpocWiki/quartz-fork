@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 2) [Beryllium](Group-02-Earth-Alkaline/Beryllium.md)
 3) [Magnesium](Group-02-Earth-Alkaline/Magnesium.md)

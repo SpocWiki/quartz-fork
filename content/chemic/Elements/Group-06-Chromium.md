@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [Chromium](Group-06-Chromium/Chromium.md)
 5) [Molybdenum](Group-06-Chromium/Molybdenum.md)

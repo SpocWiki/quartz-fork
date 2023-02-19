@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 2) [Oxygen](Group-16-Chalcogene/Oxygen.md)
 3) [Sulfur](Group-16-Chalcogene/Sulfur.md)

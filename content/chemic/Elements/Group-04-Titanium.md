@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [Titanium](Group-04-Titanium/Titanium.md)
 5) [Zirconium](Group-04-Titanium/Zirconium.md)

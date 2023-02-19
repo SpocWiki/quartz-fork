@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 1) [Hydrogenium](Group-01-Alkali/Hydrogenium.md)
 2) [Lithium](Group-01-Alkali/Lithium.md)

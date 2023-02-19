@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 1) [Helium](Group-18-Nobel-Gases/Helium.md)
 2) [Neon](Group-18-Nobel-Gases/Neon.md)

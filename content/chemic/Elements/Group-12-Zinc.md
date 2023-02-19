@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
   
 4) [Zinc](Group-12-Zinc/Zinc.md)
 5) [Cadmium](Group-12-Zinc/Cadmium.md)

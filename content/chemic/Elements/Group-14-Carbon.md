@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 2) [Carbon](Group-14-Carbon/Carbon.md)
 3) [Silicon](Group-14-Carbon/Silicon.md)

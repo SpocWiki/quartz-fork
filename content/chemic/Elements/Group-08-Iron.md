@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [Iron](Group-08-Iron/Iron.md)
 5) [Osmium](Group-08-Iron/Osmium.md)

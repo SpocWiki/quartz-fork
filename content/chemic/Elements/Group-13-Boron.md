@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 2) [Boron](Group-13-Boron/Boron.md)
 3) [Aluminium](Group-13-Boron/Aluminium.md)

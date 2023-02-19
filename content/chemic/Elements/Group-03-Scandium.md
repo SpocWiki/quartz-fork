@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [Scandium](Group-03-Scandium/Scandium.md)
 5) [Yttrium](Group-03-Scandium/Yttrium.md)

@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [Nickel](Group-10-Nickel/Nickel.md)
 5) [Palladium](Group-10-Nickel/Palladium.md)

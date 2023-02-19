@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [Vanadium](Group-05-Vanadium/Vanadium.md)
 5) [Niobium](Group-05-Vanadium/Niobium.md)

@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 4) [Manganese](Group-07-Manganese/Manganese.md)
 5) [Technetium](Group-07-Manganese/Technetium.md)

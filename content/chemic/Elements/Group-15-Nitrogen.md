@@ -1,3 +1,7 @@
+---
+type: ElementGroup
+---
+#chemic/Group 
 
 2) [Nitrogen](Group-15-Nitrogen/Nitrogen.md)
 3) [Phosphorus](Group-15-Nitrogen/Phosphorus.md)
