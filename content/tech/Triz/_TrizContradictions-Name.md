@@ -1,1 +1,0 @@
-Contradict/Triz-{{GoodParameter}}+{{Principle}}-{{BadParameter}}.md

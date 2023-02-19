@@ -1,1 +1,0 @@
-_Cities/{{City}}.md
