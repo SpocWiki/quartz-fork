@@ -1,13 +1,19 @@
 ---
 type: TrizPrinciple
-aliases:
-- {{Name}}
 license: CC BY-SA 4.0
-copyright: https://github.com/SpocWeb
+publish: true
+confidential: public
+isDeleted: false
+isReadOnly: false
+
 tags: 
 - Triz/Principle
+
+aliases:
+- 
 ---
-[name::{{name}}]
 SpocWebEntityId: {{SpocWebEntityId}}
+
+[name::{{name}}]
 [Popularity::{{Popularity}}]
 

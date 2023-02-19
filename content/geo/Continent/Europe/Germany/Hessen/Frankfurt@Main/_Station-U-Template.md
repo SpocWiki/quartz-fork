@@ -1,20 +1,27 @@
-﻿---
-location: [{{GeoLat}},{{GeoLon}}]
+---
 type: Station
+license: CC BY-SA 4.0
+publish: true
+confidential: public
+isDeleted: false
+isReadOnly: false
+
 tags:
 - geo/Station
 
+aliases:
+- 
+
 ---
-[SpocWebEntityId::{{SpocWebEntityId}}]
-[StationUId::{{Id}}]
-isDeleted: false
-isReadOnly: false
-confidential: public
+location: [{{GeoLat}},{{GeoLon}}]
+SpocWebEntityId: {{SpocWebEntityId}}
+StationUId: {{Id}}
+
 [geo-lon::{{GeoLon}}]
 [geo-lat::{{GeoLat}}]
 [name::{{Bahnhof}}]
-[Country::[Germany](geo/Continent/Europe/Germany.md)]
-[City::[Frankfurt@Main](geo/Continent/Europe/Germany/Hessen/Frankfurt@Main.md)]
+[Country::[[Germany]]]
+[City::[[Frankfurt@Main]]]
 [switch-to-SPNV::{{SPNV-Umstieg}}]
 [switch-to-ÖPNV::{{ÖPNV-Umstieg}}]
 
