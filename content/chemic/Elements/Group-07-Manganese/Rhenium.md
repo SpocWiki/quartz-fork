@@ -1,4 +1,5 @@
----
+﻿---
+title: "Rhenium"
 type: Element
 GroupName: Group-07-Manganese
 ---

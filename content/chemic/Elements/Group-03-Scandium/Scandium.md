@@ -1,4 +1,5 @@
----
+﻿---
+title: "Scandium"
 type: Element
 GroupName: Group-03-Scandium
 ---

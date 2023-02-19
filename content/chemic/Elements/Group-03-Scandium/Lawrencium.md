@@ -1,4 +1,5 @@
----
+﻿---
+title: "Lawrencium"
 type: Element
 GroupName: Actinide-Group
 SpocWebEntityId: 21998

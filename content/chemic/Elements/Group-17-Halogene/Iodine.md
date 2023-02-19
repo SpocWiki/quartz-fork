@@ -1,4 +1,5 @@
----
+﻿---
+title: "Iodine"
 type: Element
 GroupName: Group-17-Halogene
 SpocWebEntityId: 21949

@@ -1,4 +1,5 @@
----
+﻿---
+title: "Curium"
 type: Element
 GroupName: Actinide-Group
 SpocWebEntityId: 21991

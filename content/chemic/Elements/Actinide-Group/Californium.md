@@ -1,4 +1,5 @@
----
+﻿---
+title: "Californium"
 type: Element
 GroupName: Actinide-Group
 SpocWebEntityId: 21993

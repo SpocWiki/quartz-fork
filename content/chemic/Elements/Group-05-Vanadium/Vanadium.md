@@ -1,4 +1,5 @@
----
+﻿---
+title: "Vanadium"
 type: Element
 GroupName: Group-05-Vanadium
 ---

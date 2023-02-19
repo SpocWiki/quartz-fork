@@ -1,4 +1,5 @@
----
+﻿---
+title: "Ytterbium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21966

@@ -1,4 +1,5 @@
----
+﻿---
+title: "Argon"
 type: Element
 GroupName: Group-18-Nobel-Gases
 SpocWebEntityId: 21919

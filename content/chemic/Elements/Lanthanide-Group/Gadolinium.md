@@ -1,4 +1,5 @@
----
+﻿---
+title: "Gadolinium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21960

@@ -13,16 +13,17 @@ tags:
 [ISO3::CAN]
 [name-en::Canada]
 [name-de::Kanada]
-![Coat_of_arms_of_Canada](North-America/Canada/Coat_of_arms_of_Canada.svg)
+
+![Coat_of_arms_of_Canada](Canada/Coat_of_arms_of_Canada.svg)
 
 ![Anthem-Canada.mp3](Anthem-Canada.mp3)
 
-![Flag_of_Canada_(Pantone)](North-America/Canada/Flag_of_Canada_(Pantone).svg)
+![Flag_of_Canada_(Pantone)](Canada/Flag_of_Canada_(Pantone).svg)
 [Area-Total::9958319]
 [Area-Land::9220970]
 [Continent::North-America]
 [VehicleCode::CDN]
-[Capital::[Ottawa](North-America/Canada/Ottawa.md)]
+[Capital::[Ottawa](Canada/Ottawa.md)]
 [Alcohol-l::9.8]
 [Language-Id::499]
 [geo-lon::-87.1444]

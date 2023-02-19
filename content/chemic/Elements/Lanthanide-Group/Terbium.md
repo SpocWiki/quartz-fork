@@ -1,4 +1,5 @@
----
+﻿---
+title: "Terbium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21961

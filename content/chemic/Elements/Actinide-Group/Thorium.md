@@ -1,4 +1,5 @@
----
+﻿---
+title: "Thorium"
 type: Element
 GroupName: Actinide-Group
 SpocWebEntityId: 21985

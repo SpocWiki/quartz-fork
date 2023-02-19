@@ -1,4 +1,5 @@
----
+﻿---
+title: "Nobelium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21997
