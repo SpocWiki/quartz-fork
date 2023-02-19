@@ -1,4 +1,4 @@
-baseURL = "https://spocwiki.github.io/quartz/"
+baseURL = "https://spocwiki.github.io/quartz-fork/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true

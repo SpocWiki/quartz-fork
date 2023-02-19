@@ -2,6 +2,8 @@
 title: "Alphabetic Alpha-Z,@a~z;(0=9)"
 ---
 
+#Alpha
+
 # Alpha-Z,@a~z;(0=9) 
 
 | Char | Alt   | Enc       | Semantics                          |
