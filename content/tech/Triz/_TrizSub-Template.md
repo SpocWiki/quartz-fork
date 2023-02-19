@@ -11,7 +11,7 @@ tags:
 - Triz/Principle/Sub
 ---
 [name::{{name}}]
-[SpocWebEntityId::{{SpocWebEntityId}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 [TrizPrincipleId::{{PrincipleId}}]
 
 {{Description}}

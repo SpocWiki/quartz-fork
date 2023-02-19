@@ -5,7 +5,7 @@ tags:
 - geo/State
 
 ---
-[SpocWebEntityId::{{SpocWebEntityId}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 isDeleted: false
 confidential: public
 [name::{{State}}]

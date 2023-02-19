@@ -11,8 +11,8 @@ tags:
 - Triz/Contradiction
 ---
 [name::{{GoodParameter}}+{{Principle}}-{{BadParameter}}]
-[SpocWebEntityId::{{SpocWebEntityId}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 + [pro::{{GoodParameter}}]
-[Triz/Principle::[{{Principle}}](%7B%7BPrinciple%7D%7D)]
+[Triz/Principle::[[{{Principle}}]]]
 - [con::{{BadParameter}}]
 

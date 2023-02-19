@@ -8,6 +8,6 @@ tags:
 - Triz/Principle
 ---
 [name::{{name}}]
-[SpocWebEntityId::{{SpocWebEntityId}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 [Popularity::{{Popularity}}]
 

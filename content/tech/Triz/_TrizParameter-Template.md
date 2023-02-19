@@ -11,7 +11,7 @@ tags:
 - Triz/Parameter
 ---
 [name::{{name}}]
-[SpocWebEntityId::{{SpocWebEntityId}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 [TrizParameterId::{{ID}}]
 
 {{Description}}

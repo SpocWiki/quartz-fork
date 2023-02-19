@@ -6,7 +6,7 @@ tags:
 - Europe/United_Kingdom/London
 
 ---
-[SpocWebEntityId::{{SpocWebEntityId}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 [StationSId::{{Id}}]
 isDeleted: false
 isReadOnly: false
@@ -17,6 +17,6 @@ confidential: public
 [zone::{{zone}}]
 [Num_lines::{{total_lines}}]
 [switch-to-Rail::{{rail}}]
-[Country::[United_Kingdom](geo/Continent/Europe/United_Kingdom.md)]
-[City::[London](geo/Continent/Europe/United_Kingdom/London.md)]
+[Country::[[United_Kingdom]]]
+[City::[[London]]]
 
