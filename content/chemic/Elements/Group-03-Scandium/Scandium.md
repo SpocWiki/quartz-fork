@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-03-Scandium
 ---
+
+# Scandium
+
 [Name-en::Scandium]
 [Name-de::Scandium]
 [Weight-u::44.9559]

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Crateris-2
+
 SpocWebEntityId: 27948
 isDeleted: false
 isReadOnly: false

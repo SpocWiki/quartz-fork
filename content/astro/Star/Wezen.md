@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Wezen
+
 SpocWebEntityId: 27266
 isDeleted: false
 isReadOnly: false

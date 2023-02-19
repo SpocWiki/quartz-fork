@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Columbae-3
+
 SpocWebEntityId: 27917
 isDeleted: false
 isReadOnly: false

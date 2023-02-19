@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Altais
+
 SpocWebEntityId: 27423
 isDeleted: false
 isReadOnly: false

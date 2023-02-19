@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Deneb Algedi
+
 SpocWebEntityId: 27367
 isDeleted: false
 isReadOnly: false

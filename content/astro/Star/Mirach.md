@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Mirach
+
 SpocWebEntityId: 27285
 isDeleted: false
 isReadOnly: false

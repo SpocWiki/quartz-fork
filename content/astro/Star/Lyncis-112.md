@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Lyncis-112
+
 SpocWebEntityId: 27999
 isDeleted: false
 isReadOnly: false

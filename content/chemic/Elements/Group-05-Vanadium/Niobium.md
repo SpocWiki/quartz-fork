@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-05-Vanadium
 ---
+
+# Niobium
+
 [Name-en::Niobium]
 [Name-de::Niob]
 [Weight-u::92.9064]

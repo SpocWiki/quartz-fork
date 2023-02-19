@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Herculis-18
+
 SpocWebEntityId: 27838
 isDeleted: false
 isReadOnly: false

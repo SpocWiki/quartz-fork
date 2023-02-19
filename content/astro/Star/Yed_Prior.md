@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Yed Prior
+
 SpocWebEntityId: 27345
 isDeleted: false
 isReadOnly: false

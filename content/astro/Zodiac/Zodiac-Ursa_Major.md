@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Ursa Major
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

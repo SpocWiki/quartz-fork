@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Group-15-Nitrogen
 SpocWebEntityId: 21978
 ---
+
+# Bismuth
+
 [Name-en::Bismuth]
 [Name-de::Bismut]
 [Weight-u::208.9804]

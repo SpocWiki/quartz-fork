@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Camelopardalis
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

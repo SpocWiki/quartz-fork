@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Ruticulus
+
 SpocWebEntityId: 27365
 isDeleted: false
 isReadOnly: false

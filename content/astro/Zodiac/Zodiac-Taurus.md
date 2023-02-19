@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Taurus
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

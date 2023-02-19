@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Muphrid
+
 SpocWebEntityId: 27343
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Coronae Borealis-4
+
 SpocWebEntityId: 27965
 isDeleted: false
 isReadOnly: false

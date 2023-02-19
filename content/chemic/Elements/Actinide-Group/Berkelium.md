@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Actinide-Group
 ---
+
+# Berkelium
+
 [SpocWebEntityId: 21992
 [Name-en::Berkelium]
 [Name-de::Berkelium]

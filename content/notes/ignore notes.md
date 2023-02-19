@@ -1,6 +1,9 @@
----
+﻿---
 title: "Ignoring Notes"
 ---
+
+# ignore notes
+
 
 ### Quartz Ignore
 Edit `ignoreFiles` in `config.toml` to include paths you'd like to exclude from being rendered.
@@ -19,9 +22,15 @@ To ignore a specific file, you can also add the tag `draft: true` to the frontma
 
 ```markdown
 ---
+
+# ignore notes
+
 title: Some Private Note
 draft: true
 ---
+
+# ignore notes
+
 ...
 ```
 

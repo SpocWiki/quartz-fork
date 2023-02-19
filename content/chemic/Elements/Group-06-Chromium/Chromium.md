@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-06-Chromium
 ---
+
+# Chromium
+
 [Name-en::Chromium]
 [Name-de::Chrom]
 [Weight-u::51.996]

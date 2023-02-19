@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Doradus-1
+
 SpocWebEntityId: 27472
 isDeleted: false
 isReadOnly: false

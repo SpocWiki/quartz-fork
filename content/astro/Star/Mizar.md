@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Mizar
+
 SpocWebEntityId: 27287
 isDeleted: false
 isReadOnly: false

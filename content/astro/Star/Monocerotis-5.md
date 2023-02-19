@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Monocerotis-5
+
 SpocWebEntityId: 27885
 isDeleted: false
 isReadOnly: false

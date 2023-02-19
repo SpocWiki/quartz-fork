@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Miaplacidus
+
 SpocWebEntityId: 27260
 isDeleted: false
 isReadOnly: false

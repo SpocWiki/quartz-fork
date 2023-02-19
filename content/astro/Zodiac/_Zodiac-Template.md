@@ -1,4 +1,4 @@
----
+﻿---
 type: Zodiac
 publish: true
 confidential: public
@@ -8,6 +8,9 @@ tags:
 - astro/Zodiac
 
 ---
+
+#  Zodiac-Template
+
 SpocWebEntityId: {{SpocWebEntityId}}
 
 [name-de::{{German}}]

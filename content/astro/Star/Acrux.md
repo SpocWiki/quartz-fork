@@ -1,10 +1,13 @@
----
+﻿---
 location: [-63.1,-173.35,400]
 type: Station
 tags:
 - astro/Star
 
 ---
+
+# Acrux
+
 SpocWebEntityId: 27242
 isDeleted: false
 isReadOnly: false

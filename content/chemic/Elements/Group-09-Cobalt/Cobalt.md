@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-09-Cobalt
 ---
+
+# Cobalt
+
 [Name-en::Cobalt]
 [Name-de::Kobalt]
 [Weight-u::58.9332]

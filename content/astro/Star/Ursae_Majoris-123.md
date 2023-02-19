@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Ursae Majoris-123
+
 SpocWebEntityId: 27585
 isDeleted: false
 isReadOnly: false

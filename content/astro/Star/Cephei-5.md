@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Cephei-5
+
 SpocWebEntityId: 27840
 isDeleted: false
 isReadOnly: false

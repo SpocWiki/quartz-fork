@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Centauri-5
+
 SpocWebEntityId: 27308
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Andromedae-4
+
 SpocWebEntityId: 27455
 isDeleted: false
 isReadOnly: false

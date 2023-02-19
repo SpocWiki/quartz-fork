@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Vulpeculae-1
+
 SpocWebEntityId: 27927
 isDeleted: false
 isReadOnly: false

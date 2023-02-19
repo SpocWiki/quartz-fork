@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Pegasi-101
+
 SpocWebEntityId: 27817
 isDeleted: false
 isReadOnly: false

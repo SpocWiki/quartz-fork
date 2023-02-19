@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Scorpii-28
+
 SpocWebEntityId: 27579
 isDeleted: false
 isReadOnly: false

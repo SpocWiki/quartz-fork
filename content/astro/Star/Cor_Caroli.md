@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Cor Caroli
+
 SpocWebEntityId: 27353
 isDeleted: false
 isReadOnly: false

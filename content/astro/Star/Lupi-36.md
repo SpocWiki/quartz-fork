@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Lupi-36
+
 SpocWebEntityId: 27956
 isDeleted: false
 isReadOnly: false

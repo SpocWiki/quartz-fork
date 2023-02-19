@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Orionis-101
+
 SpocWebEntityId: 27444
 isDeleted: false
 isReadOnly: false

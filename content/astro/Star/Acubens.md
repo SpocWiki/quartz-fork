@@ -1,9 +1,12 @@
----
+﻿---
 location: [11.86,134.625,150]
 type: Station
 tags:
 - astro/Star
 ---
+
+# Acubens
+
  in lightyears
  
 SpocWebEntityId: 27887

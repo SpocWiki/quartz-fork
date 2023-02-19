@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21997
 ---
+
+# Nobelium
+
 [Name-en::Nobelium]
 [Name-de::Nobelium]
 [Weight-u::254]

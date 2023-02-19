@@ -1,4 +1,4 @@
----
+﻿---
 type: StarClass
 SpocWebEntityId: 28193
 isDeleted: false
@@ -8,6 +8,9 @@ tags:
 - astro/StarClass
 
 ---
+
+# Star-Class-M
+
 
 [name::M]
 [Temperature::3350]

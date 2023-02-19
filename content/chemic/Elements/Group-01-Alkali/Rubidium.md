@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-01-Alkali
 ---
+
+# Rubidium
+
 [SpocWebEntityId: 21935
 [Name-en::Rubidium]
 [Name-de::Rubidium]

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Phoenicis-6
+
 SpocWebEntityId: 27714
 isDeleted: false
 isReadOnly: false

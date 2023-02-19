@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Trianguli Australis-2
+
 SpocWebEntityId: 27392
 isDeleted: false
 isReadOnly: false

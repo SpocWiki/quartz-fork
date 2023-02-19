@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Sculptoris-1
+
 SpocWebEntityId: 27875
 isDeleted: false
 isReadOnly: false

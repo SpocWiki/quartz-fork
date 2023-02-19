@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Gienah
+
 SpocWebEntityId: 27331
 isDeleted: false
 isReadOnly: false

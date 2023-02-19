@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - French
 tags: 
 - Lang/fr
 ---
+
+# Lang-fr
+
 [SpocWebEntityId: 496
 [Name::French]
 [PropId_Name::796]

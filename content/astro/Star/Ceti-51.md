@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Ceti-51
+
 SpocWebEntityId: 28035
 isDeleted: false
 isReadOnly: false

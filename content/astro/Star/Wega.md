@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Wega
+
 SpocWebEntityId: 27233
 isDeleted: false
 isReadOnly: false

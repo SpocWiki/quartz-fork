@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Group-18-Nobel-Gases
 SpocWebEntityId: 21919
 ---
+
+# Argon
+
 [Name-en::Argon]
 [Name-de::Argon]
 [Weight-u::39.948]

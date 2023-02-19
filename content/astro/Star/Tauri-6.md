@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Tauri-6
+
 SpocWebEntityId: 27400
 isDeleted: false
 isReadOnly: false

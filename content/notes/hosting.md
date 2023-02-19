@@ -1,4 +1,4 @@
----
+﻿---
 title: "Deploying Quartz to the Web"
 tags:
 - setup
@@ -6,6 +6,9 @@ weight: -1
 aliases:
 - hosting
 ---
+
+# hosting
+
 
 ## Hosting on GitHub Pages
 Quartz is designed to be effortless to deploy. If you forked and cloned Quartz directly from the repository, everything should already be good to go! Follow the steps below.
@@ -88,6 +91,9 @@ If you don't want to use a hosting service, you can host using [Docker](notes/do
 I would *not use this method* unless you know what you are doing.
 
 ---
+
+# hosting
+
 
 Now that your Quartz is live, let's figure out how to make Quartz really *yours*!
 

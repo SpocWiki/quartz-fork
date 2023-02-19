@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21958
 ---
+
+# Samarium
+
 [Name-en::Samarium]
 [Name-de::Samarium]
 [Weight-u::150.36]

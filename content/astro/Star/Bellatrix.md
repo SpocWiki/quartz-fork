@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Bellatrix
+
 SpocWebEntityId: 27254
 isDeleted: false
 isReadOnly: false

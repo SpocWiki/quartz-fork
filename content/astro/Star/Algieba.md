@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Algieba
+
 SpocWebEntityId: 27289
 isDeleted: false
 isReadOnly: false

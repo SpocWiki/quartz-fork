@@ -2,6 +2,9 @@
 type: Element
 GroupName: Actinide-Group
 ---
+
+# Lawrencium
+
 [SpocWebEntityId: 21998
 [Name-en::Lawrencium]
 [Name-de::Lawrencium]

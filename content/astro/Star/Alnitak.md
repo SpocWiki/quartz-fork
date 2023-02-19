@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Alnitak
+
 SpocWebEntityId: 27265
 isDeleted: false
 isReadOnly: false

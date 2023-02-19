@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-01-Alkali
 ---
+
+# Potassium
+
 [SpocWebEntityId: 21920
 [Name-en::Potassium]
 [Name-de::Kalium]

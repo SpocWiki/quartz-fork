@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Portuguese
 tags: 
 - Lang/pt
 ---
+
+# Lang-pt
+
 [SpocWebEntityId: 467
 [Name::Portuguese]
 [PropId_Name::767]

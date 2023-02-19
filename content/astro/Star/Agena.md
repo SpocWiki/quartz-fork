@@ -1,4 +1,4 @@
----
+﻿---
 location: [-60.37,-149.05,300]
 type: Station
 SpocWebEntityId: 27240
@@ -9,6 +9,9 @@ tags:
 - astro/Star
 
 ---
+
+# Agena
+
 [star-class::B1]
 [star-class-id::28188]
 [Mass-sol::]

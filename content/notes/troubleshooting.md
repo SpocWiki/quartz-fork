@@ -1,6 +1,9 @@
----
+﻿---
 title: "Troubleshooting and FAQ"
 ---
+
+# troubleshooting
+
 
 Still having trouble? Here are a list of common questions and problems people encounter when installing Quartz.
 

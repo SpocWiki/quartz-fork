@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Mirzam
+
 SpocWebEntityId: 27280
 isDeleted: false
 isReadOnly: false

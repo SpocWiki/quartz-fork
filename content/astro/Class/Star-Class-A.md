@@ -1,4 +1,4 @@
----
+﻿---
 type: StarClass
 SpocWebEntityId: 28189
 isDeleted: false
@@ -8,6 +8,9 @@ tags:
 - astro/StarClass
 
 ---
+
+# Star-Class-A
+
 [name::A]
 [Temperature::9750]
 [Radius-sol::2]

@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-02-Earth-Alkaline
 ---
+
+# Barium
+
 [Name-en::Barium]
 [Name-de::Barium]
 

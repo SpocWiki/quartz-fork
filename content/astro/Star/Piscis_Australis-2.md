@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Piscis Australis-2
+
 SpocWebEntityId: 27899
 isDeleted: false
 isReadOnly: false

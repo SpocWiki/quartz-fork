@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Cassiopeiae-3
+
 SpocWebEntityId: 27253
 isDeleted: false
 isReadOnly: false

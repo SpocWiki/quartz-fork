@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Errai
+
 SpocWebEntityId: 27442
 isDeleted: false
 isReadOnly: false

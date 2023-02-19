@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Capella
+
 SpocWebEntityId: 27235
 isDeleted: false
 isReadOnly: false

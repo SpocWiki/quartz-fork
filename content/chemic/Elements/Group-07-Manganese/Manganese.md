@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-07-Manganese
 ---
+
+# Manganese
+
 [Name-en::Manganese]
 [Name-de::Mangan]
 [Weight-u::54.938]

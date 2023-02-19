@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Pegasi-9
+
 SpocWebEntityId: 27660
 isDeleted: false
 isReadOnly: false

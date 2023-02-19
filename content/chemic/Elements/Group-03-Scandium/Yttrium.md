@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-03-Scandium
 ---
+
+# Yttrium
+
 [SpocWebEntityId: 21937
 [Name-en::Yttrium]
 [Name-de::Yttrium]

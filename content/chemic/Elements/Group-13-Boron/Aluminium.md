@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-13-Boron
 ---
+
+# Aluminium
+
 [Name-en::Aluminium]
 [Name-de::Aluminium]
 [Weight-u::26.9815]

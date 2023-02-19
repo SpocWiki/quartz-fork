@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Actinide-Group
 ---
+
+# Thorium
+
 [SpocWebEntityId: 21985
 [Name-en::Thorium]
 [Name-de::Thorium]

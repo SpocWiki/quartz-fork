@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Telescopii-6
+
 SpocWebEntityId: 27829
 isDeleted: false
 isReadOnly: false

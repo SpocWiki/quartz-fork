@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Arietis-11
+
 SpocWebEntityId: 27978
 isDeleted: false
 isReadOnly: false

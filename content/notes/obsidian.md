@@ -1,9 +1,12 @@
----
+﻿---
 title: "Obsidian Vault Integration"
 tags:
 - setup
 weight: -3
 ---
+
+# obsidian
+
 
 ## Setup
 Obsidian is the preferred way to use Quartz. You can either create a new Obsidian Vault or link one that your already have.

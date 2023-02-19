@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Punjabi
 tags: 
 - Lang/pa
 ---
+
+# Lang-pa
+
 [SpocWebEntityId: 465
 [Name::Punjabi]
 [PropId_Name::765]

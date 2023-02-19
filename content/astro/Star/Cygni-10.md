@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Cygni-10
+
 SpocWebEntityId: 27634
 isDeleted: false
 isReadOnly: false

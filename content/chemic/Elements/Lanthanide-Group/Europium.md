@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21959
 ---
+
+# Europium
+
 [Name-en::Europium]
 [Name-de::Europium]
 [Weight-u::151.96]

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Serpentis-14
+
 SpocWebEntityId: 27531
 isDeleted: false
 isReadOnly: false

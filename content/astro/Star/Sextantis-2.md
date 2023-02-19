@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Sextantis-2
+
 SpocWebEntityId: 28065
 isDeleted: false
 isReadOnly: false

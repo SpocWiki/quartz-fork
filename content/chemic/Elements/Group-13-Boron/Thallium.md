@@ -1,9 +1,12 @@
----
+﻿---
 type: Element
 GroupName: Group-13-Boron
 SpocWebEntityId: 21976
 
 ---
+
+# Thallium
+
 [Name-en::Thallium]
 [Name-de::Thallium]
 [Weight-u::204.383]

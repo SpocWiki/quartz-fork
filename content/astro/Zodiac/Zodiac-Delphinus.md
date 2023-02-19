@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Delphinus
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

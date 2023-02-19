@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Sirius
+
 SpocWebEntityId: 27230
 isDeleted: false
 isReadOnly: false

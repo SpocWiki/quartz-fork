@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Telescopium
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

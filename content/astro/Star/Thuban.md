@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Thuban
+
 SpocWebEntityId: 27587
 isDeleted: false
 isReadOnly: false

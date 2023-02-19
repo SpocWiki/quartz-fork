@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Carinae-41
+
 SpocWebEntityId: 27669
 isDeleted: false
 isReadOnly: false

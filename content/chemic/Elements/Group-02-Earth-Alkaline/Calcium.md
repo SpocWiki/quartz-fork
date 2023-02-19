@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-02-Earth-Alkaline
 ---
+
+# Calcium
+
 [Name-en::Calcium]
 [Name-de::Calcium]
 [Weight-u::40.078]

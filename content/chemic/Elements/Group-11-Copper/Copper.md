@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-11-Copper
 ---
+
+# Copper
+
 [Name-en::Copper]
 [Name-de::Kupfer]
 [Weight-u::63.546]

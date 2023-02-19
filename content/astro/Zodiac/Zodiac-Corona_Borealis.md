@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Corona Borealis
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

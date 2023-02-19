@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Orionis-122
+
 SpocWebEntityId: 27919
 isDeleted: false
 isReadOnly: false

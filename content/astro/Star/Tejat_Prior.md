@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Tejat Prior
+
 SpocWebEntityId: 27462
 isDeleted: false
 isReadOnly: false

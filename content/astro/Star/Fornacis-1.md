@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Fornacis-1
+
 SpocWebEntityId: 27685
 isDeleted: false
 isReadOnly: false

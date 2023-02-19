@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Aludra
+
 SpocWebEntityId: 27313
 isDeleted: false
 isReadOnly: false

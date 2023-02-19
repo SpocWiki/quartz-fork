@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-09-Cobalt
 ---
+
+# Rhodium
+
 [Name-en::Rhodium]
 [Name-de::Rhodium]
 [Weight-u::102.9055]

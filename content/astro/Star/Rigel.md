@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Rigel
+
 SpocWebEntityId: 27236
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Cursa
+
 SpocWebEntityId: 27357
 isDeleted: false
 isReadOnly: false

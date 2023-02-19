@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Trianguli-9
+
 SpocWebEntityId: 28016
 isDeleted: false
 isReadOnly: false

@@ -1,10 +1,13 @@
-h---
+﻿h---
 type: Lang
 aliases:
 - (Instrumental)
 tags: 
 - Lang/()
 ---
+
+# Lang-()
+
 [SpocWebEntityId: 102472
 [Name::(Instrumental)]
 [PropId_Name::]

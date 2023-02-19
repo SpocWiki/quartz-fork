@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Arcturus
+
 SpocWebEntityId: 27234
 isDeleted: false
 isReadOnly: false

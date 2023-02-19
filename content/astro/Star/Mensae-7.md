@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Mensae-7
+
 SpocWebEntityId: 28056
 isDeleted: false
 isReadOnly: false

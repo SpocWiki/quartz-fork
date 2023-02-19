@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-05-Vanadium
 ---
+
+# Dubnium
+
 [Name-en::Dubnium]
 [Name-de::Hahnium]
 [Weight-u::0]

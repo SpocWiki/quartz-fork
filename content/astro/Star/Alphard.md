@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Alphard
+
 SpocWebEntityId: 27281
 isDeleted: false
 isReadOnly: false

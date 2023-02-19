@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-12-Zinc
 ---
+
+# Zinc
+
 [Name-en::Zinc]
 [Name-de::Zink]
 [Weight-u::65.39]

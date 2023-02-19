@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Camelopardalis-178
+
 SpocWebEntityId: 27996
 isDeleted: false
 isReadOnly: false

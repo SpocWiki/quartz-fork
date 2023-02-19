@@ -1,4 +1,4 @@
----
+﻿---
 location: [-28.97,104.65,500]
 SpocWebEntityId: 27251
 isDeleted: false
@@ -9,6 +9,9 @@ tags:
 - astro/Star
 
 ---
+
+# Adhara
+
 
 [star-class::B2]
 [star-class-id::28188]

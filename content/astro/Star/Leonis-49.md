@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Leonis-49
+
 SpocWebEntityId: 27923
 isDeleted: false
 isReadOnly: false

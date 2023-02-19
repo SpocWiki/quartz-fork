@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Canum Venaticorum-2
+
 SpocWebEntityId: 27867
 isDeleted: false
 isReadOnly: false

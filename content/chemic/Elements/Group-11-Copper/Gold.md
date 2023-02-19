@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Group-11-Copper
 
 ---
+
+# Gold
+
 [Name-en::Gold]
 [Name-de::Gold]
 [Weight-u::196.9665]

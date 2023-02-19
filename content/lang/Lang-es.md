@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Spanish
 tags: 
 - Lang/es
 ---
+
+# Lang-es
+
 [SpocWebEntityId: 492
 [Name::Spanish]
 [PropId_Name::792]

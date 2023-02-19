@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Persei-4
+
 SpocWebEntityId: 27395
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Geminorum-10
+
 SpocWebEntityId: 27561
 isDeleted: false
 isReadOnly: false

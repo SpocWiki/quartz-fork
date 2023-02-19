@@ -1,7 +1,10 @@
----
+﻿---
 title: SpocWiki
 enableToc: true
 ---
+
+#  index
+
 
 # SpocWiki
 This Repository contains community-maintained, shared, public, freely usable Text and Data to mix into your personal Knowledge Base.

@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Actinide-Group
 ---
+
+# Curium
+
 [SpocWebEntityId: 21991
 [Name-en::Curium]
 [Name-de::Curium]

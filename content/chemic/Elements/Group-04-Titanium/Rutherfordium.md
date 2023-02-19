@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-04-Titanium
 ---
+
+# Rutherfordium
+
 [Name-en::Rutherfordium]
 [Name-de::Kurtschatovium]
 [Weight-u::0]

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Leporis-7
+
 SpocWebEntityId: 27596
 isDeleted: false
 isReadOnly: false

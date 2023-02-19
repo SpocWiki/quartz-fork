@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Corona Australis
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

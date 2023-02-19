@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Taygeta
+
 SpocWebEntityId: 27882
 isDeleted: false
 isReadOnly: false

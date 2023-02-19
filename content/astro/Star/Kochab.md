@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Kochab
+
 SpocWebEntityId: 27284
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Tucanae-2
+
 SpocWebEntityId: 27614
 isDeleted: false
 isReadOnly: false

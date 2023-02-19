@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Kaus Borealis
+
 SpocWebEntityId: 27366
 isDeleted: false
 isReadOnly: false

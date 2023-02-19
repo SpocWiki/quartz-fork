@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Hydra
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Lyrae-10
+
 SpocWebEntityId: 27871
 isDeleted: false
 isReadOnly: false

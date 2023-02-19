@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Beteigeuze
+
 SpocWebEntityId: 27237
 isDeleted: false
 isReadOnly: false

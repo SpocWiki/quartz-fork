@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Muscae-11
+
 SpocWebEntityId: 27574
 isDeleted: false
 isReadOnly: false

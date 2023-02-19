@@ -1,4 +1,4 @@
----
+﻿---
 location: [42.33,30.975,300]
 type: Station
 SpocWebEntityId: 27294
@@ -9,6 +9,9 @@ tags:
 - astro/Star
 
 ---
+
+# Alamak
+
 
 [star-class::K1]
 [star-class-id::28192]

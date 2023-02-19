@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Ursae Minoris-6
+
 SpocWebEntityId: 27864
 isDeleted: false
 isReadOnly: false

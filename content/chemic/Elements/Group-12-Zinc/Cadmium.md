@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-12-Zinc
 ---
+
+# Cadmium
+
 [Name-en::Cadmium]
 [Name-de::Cadmium]
 [Weight-u::112.41]

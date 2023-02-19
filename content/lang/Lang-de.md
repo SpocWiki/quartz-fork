@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - German
 tags: 
 - Lang/de
 ---
+
+# Lang-de
+
 [SpocWebEntityId: 497
 [Name::German]
 [PropId_Name::797]

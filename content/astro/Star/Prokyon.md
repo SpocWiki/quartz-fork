@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Prokyon
+
 SpocWebEntityId: 27238
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Pavonis-2
+
 SpocWebEntityId: 27510
 isDeleted: false
 isReadOnly: false

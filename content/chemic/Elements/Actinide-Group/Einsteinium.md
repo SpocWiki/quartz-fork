@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Actinide-Group
 ---
+
+# Einsteinium
+
 [SpocWebEntityId: 21994
 [Name-en::Einsteinium]
 [Name-de::Einsteinium]

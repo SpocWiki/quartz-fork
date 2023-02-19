@@ -2,6 +2,9 @@
 type: Element
 GroupName: Actinide-Group
 ---
+
+# Americium
+
 [SpocWebEntityId: 21990
 [Name-en::Americium]
 [Name-de::Americium]

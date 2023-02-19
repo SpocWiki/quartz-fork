@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Corvi-2
+
 SpocWebEntityId: 27342
 isDeleted: false
 isReadOnly: false

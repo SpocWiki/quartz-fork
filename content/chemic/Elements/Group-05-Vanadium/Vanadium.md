@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-05-Vanadium
 ---
+
+# Vanadium
+
 [Name-en::Vanadium]
 [Name-de::Vanadium]
 [Weight-u::50.9415]

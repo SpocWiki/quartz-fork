@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Asellus Borealis
+
 SpocWebEntityId: 27983
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Eridani-132
+
 SpocWebEntityId: 27944
 isDeleted: false
 isReadOnly: false

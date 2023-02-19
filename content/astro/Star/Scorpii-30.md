@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Scorpii-30
+
 SpocWebEntityId: 27578
 isDeleted: false
 isReadOnly: false

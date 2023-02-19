@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Castor
+
 SpocWebEntityId: 27255
 isDeleted: false
 isReadOnly: false

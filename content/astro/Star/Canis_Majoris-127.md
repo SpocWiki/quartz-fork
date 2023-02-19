@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Canis Majoris-127
+
 SpocWebEntityId: 27920
 isDeleted: false
 isReadOnly: false

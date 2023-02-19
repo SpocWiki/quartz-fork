@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-07-Manganese
 ---
+
+# Rhenium
+
 [Name-en::Rhenium]
 [Name-de::Rhenium]
 [Weight-u::186.207]

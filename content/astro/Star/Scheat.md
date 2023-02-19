@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Scheat
+
 SpocWebEntityId: 27305
 isDeleted: false
 isReadOnly: false

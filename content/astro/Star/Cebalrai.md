@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Cebalrai
+
 SpocWebEntityId: 27363
 isDeleted: false
 isReadOnly: false

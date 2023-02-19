@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Draconis-5
+
 SpocWebEntityId: 27633
 isDeleted: false
 isReadOnly: false

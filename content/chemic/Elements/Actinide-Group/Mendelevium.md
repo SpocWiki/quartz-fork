@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Actinide-Group
 ---
+
+# Mendelevium
+
 [SpocWebEntityId: 21996
 [Name-en::Mendelevium]
 [Name-de::Mendelevium]

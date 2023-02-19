@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Virginis-8
+
 SpocWebEntityId: 27925
 isDeleted: false
 isReadOnly: false

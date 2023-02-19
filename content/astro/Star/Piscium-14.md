@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Piscium-14
+
 SpocWebEntityId: 27960
 isDeleted: false
 isReadOnly: false

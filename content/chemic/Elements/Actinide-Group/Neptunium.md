@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Actinide-Group
 ---
+
+# Neptunium
+
 [SpocWebEntityId: 21988
 [Name-en::Neptunium]
 [Name-de::Neptunium]

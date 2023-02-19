@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Leonis Minoris-2
+
 SpocWebEntityId: 27836
 isDeleted: false
 isReadOnly: false

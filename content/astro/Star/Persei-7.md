@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Persei-7
+
 SpocWebEntityId: 27622
 isDeleted: false
 isReadOnly: false

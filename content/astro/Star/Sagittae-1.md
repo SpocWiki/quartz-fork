@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Sagittae-1
+
 SpocWebEntityId: 27928
 isDeleted: false
 isReadOnly: false

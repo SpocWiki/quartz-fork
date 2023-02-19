@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-04-Titanium
 ---
+
+# Hafnium
+
 [SpocWebEntityId: 21968
 [Name-en::Hafnium]
 [Name-de::Hafnium]

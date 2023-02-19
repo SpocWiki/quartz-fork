@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Group-17-Halogene
 SpocWebEntityId: 21918
 ---
+
+# Chlorine
+
 [Name-en::Chlorine]
 [Name-de::Chlor]
 [Weight-u::35.453]

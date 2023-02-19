@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Comae Berenices-2
+
 SpocWebEntityId: 27894
 isDeleted: false
 isReadOnly: false

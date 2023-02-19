@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Capricorni-24
+
 SpocWebEntityId: 27815
 isDeleted: false
 isReadOnly: false

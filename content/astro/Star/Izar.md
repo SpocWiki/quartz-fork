@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Izar
+
 SpocWebEntityId: 27314
 isDeleted: false
 isReadOnly: false

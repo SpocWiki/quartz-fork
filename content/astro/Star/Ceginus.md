@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Ceginus
+
 SpocWebEntityId: 27397
 isDeleted: false
 isReadOnly: false

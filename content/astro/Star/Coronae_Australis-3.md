@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Coronae Australis-3
+
 SpocWebEntityId: 27859
 isDeleted: false
 isReadOnly: false

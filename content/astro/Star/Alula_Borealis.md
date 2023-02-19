@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Alula Borealis
+
 SpocWebEntityId: 27512
 isDeleted: false
 isReadOnly: false

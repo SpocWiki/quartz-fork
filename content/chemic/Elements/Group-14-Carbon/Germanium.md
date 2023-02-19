@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Group-14-Carbon
 SpocWebEntityId: 21930
 ---
+
+# Germanium
+
 [Name-en::Germanium]
 [Name-de::Germanium]
 [Weight-u::72.59]

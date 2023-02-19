@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Piscis Australis
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Group-17-Halogene
 SpocWebEntityId: 21933
 ---
+
+# Bromine
+
 [Name-en::Bromine]
 [Name-de::Brom]
 

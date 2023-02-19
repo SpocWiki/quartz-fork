@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Reticuli-5
+
 SpocWebEntityId: 27932
 isDeleted: false
 isReadOnly: false

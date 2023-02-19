@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Algol
+
 SpocWebEntityId: 27286
 isDeleted: false
 isReadOnly: false

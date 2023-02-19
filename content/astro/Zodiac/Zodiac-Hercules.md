@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Hercules
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

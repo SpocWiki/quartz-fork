@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Velorum-23
+
 SpocWebEntityId: 27573
 isDeleted: false
 isReadOnly: false

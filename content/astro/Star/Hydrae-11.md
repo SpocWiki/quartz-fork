@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Hydrae-11
+
 SpocWebEntityId: 27562
 isDeleted: false
 isReadOnly: false

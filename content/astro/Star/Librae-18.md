@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Librae-18
+
 SpocWebEntityId: 27465
 isDeleted: false
 isReadOnly: false

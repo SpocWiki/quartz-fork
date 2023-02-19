@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Capricorni-17
+
 SpocWebEntityId: 27967
 isDeleted: false
 isReadOnly: false

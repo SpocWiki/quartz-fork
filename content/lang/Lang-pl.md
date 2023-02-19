@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Polish
 tags: 
 - Lang/pl
 ---
+
+# Lang-pl
+
 [SpocWebEntityId: 494
 [Name::Polish]
 [PropId_Name::794]

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Aurigae-5
+
 SpocWebEntityId: 27376
 isDeleted: false
 isReadOnly: false

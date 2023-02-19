@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Gacrux
+
 SpocWebEntityId: 27256
 isDeleted: false
 isReadOnly: false

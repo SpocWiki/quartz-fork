@@ -1,9 +1,12 @@
----
+﻿---
 title: "Preview Changes"
 tags:
 - setup
 weight: -2
 ---
+
+# preview changes
+
 
 If you'd like to preview what your Quartz site looks like before deploying it to the internet, the following
 instructions guide you through installing the proper dependencies to run it locally.

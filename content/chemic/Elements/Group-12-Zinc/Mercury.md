@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-12-Zinc
 ---
+
+# Mercury
+
 [Name-en::Mercury]
 [Name-de::Quecksilber]
 [Weight-u::200.59]

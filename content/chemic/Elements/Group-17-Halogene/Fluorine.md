@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Group-17-Halogene
 SpocWebEntityId: 21911
 ---
+
+# Fluorine
+
 [Name-en::Fluorine]
 [Name-de::Fluor]
 [Weight-u::18.9984]

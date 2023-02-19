@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-02-Earth-Alkaline
 ---
+
+# Magnesium
+
 [Name-en::Magnesium]
 [Name-de::Magnesium]
 [Weight-u::24.305]

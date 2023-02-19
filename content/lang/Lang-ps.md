@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Pashto
 tags: 
 - Lang/ps
 ---
+
+# Lang-ps
+
 [SpocWebEntityId: 455
 [Name::Pashto]
 [PropId_Name::755]

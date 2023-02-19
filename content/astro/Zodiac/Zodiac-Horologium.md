@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Horologium
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

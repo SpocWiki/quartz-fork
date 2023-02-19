@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Canopus
+
 SpocWebEntityId: 27231
 isDeleted: false
 isReadOnly: false

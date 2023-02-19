@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Lacertae-105
+
 SpocWebEntityId: 27913
 isDeleted: false
 isReadOnly: false

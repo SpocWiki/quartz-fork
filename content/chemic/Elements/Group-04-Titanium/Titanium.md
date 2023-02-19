@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-04-Titanium
 ---
+
+# Titanium
+
 [Name-en::Titanium]
 [Name-de::Titan]
 [Weight-u::47.88]

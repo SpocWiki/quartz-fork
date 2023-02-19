@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Aquarii-188
+
 SpocWebEntityId: 27613
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Crucis-5
+
 SpocWebEntityId: 27504
 isDeleted: false
 isReadOnly: false

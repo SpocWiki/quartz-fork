@@ -1,4 +1,4 @@
----
+﻿---
 type: StarClass
 SpocWebEntityId: 28190
 isDeleted: false
@@ -8,6 +8,9 @@ tags:
 - astro/StarClass
 
 ---
+
+# Star-Class-F
+
 [name::F]
 [Temperature::7350]
 [Radius-sol::1.5]

@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Ursa Minor
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

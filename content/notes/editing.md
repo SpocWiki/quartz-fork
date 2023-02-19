@@ -1,9 +1,12 @@
----
+﻿---
 title: "Editing Content in Quartz"
 tags:
 - setup
 weight: -4
 ---
+
+# editing
+
 
 ## Editing 
 Quartz runs on top of [Hugo](https://gohugo.io/) so all notes are written in [Markdown](https://www.markdownguide.org/getting-started/).
@@ -36,10 +39,16 @@ Hugo is picky when it comes to metadata for files. Make sure that your title is 
 
 ```yaml
 ---
+
+# editing
+
 title: "Example Title"
 tags:
 - example-tag
 ---
+
+# editing
+
 
 Rest of your content here...
 ```

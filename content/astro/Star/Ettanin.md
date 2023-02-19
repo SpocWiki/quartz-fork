@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Ettanin
+
 SpocWebEntityId: 27296
 isDeleted: false
 isReadOnly: false

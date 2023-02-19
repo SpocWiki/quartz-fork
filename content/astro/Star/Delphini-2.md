@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Delphini-2
+
 SpocWebEntityId: 27567
 isDeleted: false
 isReadOnly: false

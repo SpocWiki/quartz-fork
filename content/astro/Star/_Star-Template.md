@@ -1,4 +1,4 @@
----
+﻿---
 type: Star
 isDeleted: false
 isReadOnly: false
@@ -7,6 +7,9 @@ tags:
 - astro/Star
 
 ---
+
+#  Star-Template
+
 location: [{{Declin}},{{Rectasc}},{{Dist}}]
 SpocWebEntityId: {{SpocWebEntityId}}
 

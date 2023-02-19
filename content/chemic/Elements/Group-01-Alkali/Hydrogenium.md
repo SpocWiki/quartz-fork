@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-01-Alkali
 ---
+
+# Hydrogenium
+
 [SpocWebEntityId: 21904
 [Name-en::Hydrogenium]
 [Name-de::Wasserstoff]

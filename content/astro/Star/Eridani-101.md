@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Eridani-101
+
 SpocWebEntityId: 27942
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Sagittarii-6
+
 SpocWebEntityId: 27335
 isDeleted: false
 isReadOnly: false

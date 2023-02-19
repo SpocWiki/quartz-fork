@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Japanese
 tags: 
 - Lang/ja
 ---
+
+# Lang-ja
+
 [SpocWebEntityId: 466
 [Name::Japanese]
 [PropId_Name::766]

@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Canis Major
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

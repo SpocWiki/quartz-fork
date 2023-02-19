@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-03-Scandium
 ---
+
+# Actinium
+
 [Name-en::Actinium]
 [Name-de::Actinium]
 [Weight-u::227]

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Deneb
+
 SpocWebEntityId: 27248
 isDeleted: false
 isReadOnly: false

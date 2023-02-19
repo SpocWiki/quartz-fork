@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Mintaka
+
 SpocWebEntityId: 27298
 isDeleted: false
 isReadOnly: false

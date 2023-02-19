@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21960
 ---
+
+# Gadolinium
+
 [Name-en::Gadolinium]
 [Name-de::Gadolinium]
 [Weight-u::157.25]

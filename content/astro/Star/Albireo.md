@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Albireo
+
 SpocWebEntityId: 27377
 isDeleted: false
 isReadOnly: false

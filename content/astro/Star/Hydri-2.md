@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Hydri-2
+
 SpocWebEntityId: 27368
 isDeleted: false
 isReadOnly: false

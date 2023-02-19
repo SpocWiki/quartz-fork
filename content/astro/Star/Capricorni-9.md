@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Capricorni-9
+
 SpocWebEntityId: 27898
 isDeleted: false
 isReadOnly: false

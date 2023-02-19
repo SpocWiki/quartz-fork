@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-10-Nickel
 ---
+
+# Platinum
+
 [Name-en::Platinum]
 [Name-de::Platin]
 [Weight-u::195.08]

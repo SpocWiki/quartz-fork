@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Scuti-2
+
 SpocWebEntityId: 27854
 isDeleted: false
 isReadOnly: false

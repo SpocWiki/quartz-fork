@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Aldebaran
+
 SpocWebEntityId: 27243
 isDeleted: false
 isReadOnly: false

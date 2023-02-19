@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Bootis-20
+
 SpocWebEntityId: 27810
 isDeleted: false
 isReadOnly: false

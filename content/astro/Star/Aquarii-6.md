@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Aquarii-6
+
 SpocWebEntityId: 27612
 isDeleted: false
 isReadOnly: false

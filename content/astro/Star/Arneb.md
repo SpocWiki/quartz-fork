@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Arneb
+
 SpocWebEntityId: 27329
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Puppis-10
+
 SpocWebEntityId: 27644
 isDeleted: false
 isReadOnly: false

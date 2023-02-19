@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Fomalhaut
+
 SpocWebEntityId: 27247
 isDeleted: false
 isReadOnly: false

@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Group-14-Carbon
 SpocWebEntityId: 3285
 ---
+
+# Tin
+
 [Name-en::Tin]
 [Name-de::Zinn]
 

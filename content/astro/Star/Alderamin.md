@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Alderamin
+
 SpocWebEntityId: 27312
 isDeleted: false
 isReadOnly: false

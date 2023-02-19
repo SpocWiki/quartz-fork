@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Algenib
+
 SpocWebEntityId: 27356
 isDeleted: false
 isReadOnly: false

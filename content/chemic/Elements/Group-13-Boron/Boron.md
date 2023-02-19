@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-13-Boron
 ---
+
+# Boron
+
 [Name-en::Boron]
 [Name-de::Bor]
 [Weight-u::10.811]

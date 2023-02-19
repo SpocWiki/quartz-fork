@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Wasat
+
 SpocWebEntityId: 27524
 isDeleted: false
 isReadOnly: false

@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Telugu
 tags: 
 - Lang/te
 ---
+
+# Lang-te
+
 [SpocWebEntityId: 461
 [Name::Telugu]
 [PropId_Name::761]

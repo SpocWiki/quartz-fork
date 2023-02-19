@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Denebola
+
 SpocWebEntityId: 27290
 isDeleted: false
 isReadOnly: false

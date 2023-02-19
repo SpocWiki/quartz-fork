@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Scorpii-7
+
 SpocWebEntityId: 27479
 isDeleted: false
 isReadOnly: false

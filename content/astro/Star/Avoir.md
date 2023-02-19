@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Avoir
+
 SpocWebEntityId: 27271
 isDeleted: false
 isReadOnly: false

@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Group-17-Halogene
 SpocWebEntityId: 21949
 ---
+
+# Iodine
+
 [Name-en::Iodine]
 [Name-de::Iod]
 [Weight-u::126.9045]

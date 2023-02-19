@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Leonis Minoris-15
+
 SpocWebEntityId: 27628
 isDeleted: false
 isReadOnly: false

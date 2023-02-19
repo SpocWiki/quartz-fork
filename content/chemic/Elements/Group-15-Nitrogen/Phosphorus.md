@@ -1,8 +1,11 @@
----
+﻿---
 type: Element
 GroupName: Group-15-Nitrogen
 SpocWebEntityId: 21916
 ---
+
+# Phosphorus
+
 [Name-en::Phosphorus]
 [Name-de::Phosphor]
 [Weight-u::30.9738]

@@ -1,6 +1,9 @@
----
+﻿---
 title: "Custom Domain"
 ---
+
+# custom Domain
+
 
 ### Registrar
 This step is only applicable if you are using a **custom domain**! If you are using a `<YOUR-USERNAME>.github.io` domain, you can skip this step.

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Orionis-18
+
 SpocWebEntityId: 27557
 isDeleted: false
 isReadOnly: false

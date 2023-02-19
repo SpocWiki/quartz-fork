@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Gruis-9
+
 SpocWebEntityId: 27735
 isDeleted: false
 isReadOnly: false

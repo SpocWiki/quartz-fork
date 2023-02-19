@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-01-Alkali
 ---
+
+# Francium
+
 [Name-en::Francium]
 [Name-de::Francium]
 

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Indi-1
+
 SpocWebEntityId: 27434
 isDeleted: false
 isReadOnly: false

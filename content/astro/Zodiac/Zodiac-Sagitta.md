@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Sagitta
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

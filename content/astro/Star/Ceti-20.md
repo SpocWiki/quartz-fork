@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Ceti-20
+
 SpocWebEntityId: 27747
 isDeleted: false
 isReadOnly: false

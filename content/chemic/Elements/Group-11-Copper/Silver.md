@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-11-Copper
 ---
+
+# Silver
+
 [Name-en::Silver]
 [Name-de::Silber]
 [Weight-u::107.868]

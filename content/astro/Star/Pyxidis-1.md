@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Pyxidis-1
+
 SpocWebEntityId: 27600
 isDeleted: false
 isReadOnly: false

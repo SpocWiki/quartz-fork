@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Arabic
 tags: 
 - Lang/ar
 ---
+
+# Lang-ar
+
 [SpocWebEntityId: 472
 [Name::Arabic]
 [PropId_Name::772]

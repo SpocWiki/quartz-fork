@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Arae-3
+
 SpocWebEntityId: 27478
 isDeleted: false
 isReadOnly: false

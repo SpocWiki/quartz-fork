@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Kaus Australis
+
 SpocWebEntityId: 27267
 isDeleted: false
 isReadOnly: false

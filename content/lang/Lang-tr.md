@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Turkish
 tags: 
 - Lang/tr
 ---
+
+# Lang-tr
+
 [SpocWebEntityId: 456
 [Name::Turkish]
 [PropId_Name::756]

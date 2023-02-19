@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Actinide-Group
 ---
+
+# Fermium
+
 [SpocWebEntityId: 21995
 [Name-en::Fermium]
 [Name-de::Fermium]

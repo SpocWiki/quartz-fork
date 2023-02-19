@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Aquilae-6
+
 SpocWebEntityId: 27410
 isDeleted: false
 isReadOnly: false

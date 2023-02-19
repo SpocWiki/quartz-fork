@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Mira
+
 SpocWebEntityId: 27278
 isDeleted: false
 isReadOnly: false

@@ -1,7 +1,10 @@
----
+﻿---
 type: Element
 GroupName: Group-03-Scandium
 ---
+
+# Lanthanum
+
 [SpocWebEntityId: 21953
 [Name-en::Lanthanum]
 [Name-de::Lanthan]

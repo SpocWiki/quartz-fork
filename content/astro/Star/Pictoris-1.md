@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Pictoris-1
+
 SpocWebEntityId: 27473
 isDeleted: false
 isReadOnly: false

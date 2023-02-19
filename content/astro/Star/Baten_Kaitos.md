@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Baten Kaitos
+
 SpocWebEntityId: 27592
 isDeleted: false
 isReadOnly: false

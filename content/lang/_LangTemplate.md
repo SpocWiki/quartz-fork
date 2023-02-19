@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 license: CC BY-SA 4.0
 publish: true
@@ -9,6 +9,9 @@ isReadOnly: false
 aliases:
 - 
 ---
+
+#  LangTemplate
+
 tags: 
 - Lang/{{Iso2}}
 SpocWebEntityId: {{Id}}

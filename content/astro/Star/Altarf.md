@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Altarf
+
 SpocWebEntityId: 27525
 isDeleted: false
 isReadOnly: false

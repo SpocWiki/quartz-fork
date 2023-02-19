@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Canis Minoris-3
+
 SpocWebEntityId: 27886
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Ophiuchi-17
+
 SpocWebEntityId: 27926
 isDeleted: false
 isReadOnly: false

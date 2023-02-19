@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Regulus
+
 SpocWebEntityId: 27250
 isDeleted: false
 isReadOnly: false

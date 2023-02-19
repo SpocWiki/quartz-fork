@@ -1,9 +1,12 @@
----
+﻿---
 type: Zodiac
 tags:
 - astro/Zodiac
 
 ---
+
+# Zodiac-Musca
+
 [SpocWebEntityId::]
 isDeleted: false
 isReadOnly: false

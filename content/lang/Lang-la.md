@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Latin
 tags: 
 - Lang/la
 ---
+
+# Lang-la
+
 [SpocWebEntityId: 471
 [Name::Latin]
 [PropId_Name::771]

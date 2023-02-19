@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Korean
 tags: 
 - Lang/ko
 ---
+
+# Lang-ko
+
 [SpocWebEntityId: 459
 [Name::Korean]
 [PropId_Name::759]

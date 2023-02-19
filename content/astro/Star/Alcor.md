@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Alcor
+
 SpocWebEntityId: 27743
 isDeleted: false
 isReadOnly: false

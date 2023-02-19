@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Gomeisa
+
 SpocWebEntityId: 27380
 isDeleted: false
 isReadOnly: false

@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Atair
+
 SpocWebEntityId: 27241
 isDeleted: false
 isReadOnly: false

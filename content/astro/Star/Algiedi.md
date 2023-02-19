@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Algiedi
+
 SpocWebEntityId: 27855
 isDeleted: false
 isReadOnly: false

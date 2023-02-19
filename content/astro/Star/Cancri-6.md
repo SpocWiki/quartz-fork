@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Cancri-6
+
 SpocWebEntityId: 27982
 isDeleted: false
 isReadOnly: false

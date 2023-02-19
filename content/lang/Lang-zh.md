@@ -1,10 +1,13 @@
----
+﻿---
 type: Lang
 aliases:
 - Chinese
 tags: 
 - Lang/zh
 ---
+
+# Lang-zh
+
 [SpocWebEntityId: 485
 [Name::Chinese]
 [PropId_Name::785]

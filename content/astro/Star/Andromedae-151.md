@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Andromedae-151
+
 SpocWebEntityId: 27543
 isDeleted: false
 isReadOnly: false

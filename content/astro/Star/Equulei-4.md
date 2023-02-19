@@ -5,6 +5,9 @@ tags:
 - astro/Star
 
 ---
+
+# Equulei-4
+
 SpocWebEntityId: 27950
 isDeleted: false
 isReadOnly: false
