@@ -1,1 +1,0 @@
-Get-ChildItem *.md -Recurse | Rename-Item -NewName { $_.Name -replace ' ','_' }

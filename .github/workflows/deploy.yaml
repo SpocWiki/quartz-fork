@@ -5,6 +5,9 @@ on:
     branches:
       - hugo
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-20.04
@@ -12,7 +15,7 @@ jobs:
       - name: Checkout repositories
         uses: actions/checkout@v2
         with:
-          submodules: 'true'
+          submodules: recursive
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Build Link Index
