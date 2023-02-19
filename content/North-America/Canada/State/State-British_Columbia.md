@@ -1,4 +1,5 @@
 ﻿---
+title: "State-British Columbia"
 location: [48.8461,-123.243]
 type: State
 tags:

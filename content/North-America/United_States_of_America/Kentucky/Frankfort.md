@@ -1,4 +1,5 @@
 ﻿---
+title: "Frankfort"
 location: [38.19727,-84.86311]
 type: City
 tags:

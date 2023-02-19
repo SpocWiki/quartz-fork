@@ -1,4 +1,5 @@
 ﻿---
+title: "Fairmount"
 location: [40.42,-85.65]
 type: City
 tags:

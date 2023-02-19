@@ -1,4 +1,5 @@
 ﻿---
+title: "Santa Monika"
 location: [34.02,-118.5]
 type: City
 tags:

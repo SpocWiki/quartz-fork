@@ -1,4 +1,5 @@
 ﻿---
+title: "Richmond"
 location: [37.54097,-77.43289]
 type: City
 tags:

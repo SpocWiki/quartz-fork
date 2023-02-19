@@ -1,4 +1,5 @@
 ﻿---
+title: "New Orleans"
 location: [29.97,-90.12]
 type: City
 tags:

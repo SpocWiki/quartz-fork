@@ -1,4 +1,5 @@
 ﻿---
+title: "Miami"
 location: [25.77,-80.2]
 type: City
 tags:

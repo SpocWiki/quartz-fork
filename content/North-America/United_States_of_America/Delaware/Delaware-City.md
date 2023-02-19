@@ -1,4 +1,5 @@
 ﻿---
+title: "Delaware-City"
 location: [39.58,-74.57]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Detroit"
 location: [42.33,-83.05]
 type: City
 tags:

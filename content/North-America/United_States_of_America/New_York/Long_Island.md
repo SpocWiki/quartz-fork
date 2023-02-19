@@ -1,4 +1,5 @@
 ﻿---
+title: "Long Island"
 location: [40.77,-73.92]
 type: City
 tags:

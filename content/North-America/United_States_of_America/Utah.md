@@ -1,4 +1,5 @@
 ﻿---
+title: "Utah"
 location: [40.75,-111.883]
 type: State
 tags:

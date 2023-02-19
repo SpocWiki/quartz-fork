@@ -1,4 +1,5 @@
 ﻿---
+title: "Kansas City"
 location: [39.08,-98.25]
 type: City
 tags:

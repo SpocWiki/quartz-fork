@@ -1,4 +1,5 @@
 ﻿---
+title: "Massachusetts"
 location: [42.48,-71.2]
 type: State
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Minneapolis"
 location: [44.98,-93.22]
 type: City
 tags:

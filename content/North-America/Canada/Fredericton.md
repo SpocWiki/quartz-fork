@@ -1,4 +1,5 @@
 ﻿---
+title: "Fredericton"
 location: [45.95,-66.66666]
 type: City
 tags:

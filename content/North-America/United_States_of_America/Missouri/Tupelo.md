@@ -1,4 +1,5 @@
 ﻿---
+title: "Tupelo"
 location: [34.27,-88.72]
 type: City
 tags:

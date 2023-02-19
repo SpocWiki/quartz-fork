@@ -1,4 +1,5 @@
 ﻿---
+title: "Spokane"
 location: [47.63,-117.42]
 type: City
 tags:

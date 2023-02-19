@@ -1,4 +1,5 @@
 ﻿---
+title: "Quebec"
 location: [46.8,-71.27]
 type: City
 tags:

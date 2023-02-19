@@ -1,4 +1,5 @@
 ﻿---
+title: "Indianapolis"
 location: [39.79094,-86.14768]
 type: City
 tags:

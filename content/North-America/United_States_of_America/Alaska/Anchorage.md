@@ -1,4 +1,5 @@
 ﻿---
+title: "Anchorage"
 location: [61.22,-149.88]
 type: City
 tags:

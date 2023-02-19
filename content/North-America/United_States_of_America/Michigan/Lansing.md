@@ -1,4 +1,5 @@
 ﻿---
+title: "Lansing"
 location: [42.7335,-84.5467]
 type: City
 tags:

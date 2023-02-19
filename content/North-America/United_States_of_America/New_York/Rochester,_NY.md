@@ -1,4 +1,5 @@
 ﻿---
+title: "Rochester, NY"
 location: [43.1656,-77.6114]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Chicago"
 location: [41.83,-87.75]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Grand Rapids"
 location: [42.97,-85.67]
 type: City
 tags:

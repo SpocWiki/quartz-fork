@@ -1,4 +1,5 @@
 ﻿---
+title: "Nashville"
 location: [36.16667,-86.78333]
 type: City
 tags:

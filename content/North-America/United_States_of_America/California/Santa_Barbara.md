@@ -1,4 +1,5 @@
 ﻿---
+title: "Santa Barbara"
 location: [34.58,-119.7]
 type: City
 tags:

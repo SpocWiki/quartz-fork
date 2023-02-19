@@ -1,4 +1,5 @@
 ﻿---
+title: "Santa Fe"
 location: [35.66722,-105.9644]
 type: City
 tags:

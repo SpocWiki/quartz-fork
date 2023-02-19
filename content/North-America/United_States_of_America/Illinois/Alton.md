@@ -1,4 +1,5 @@
 ﻿---
+title: "Alton"
 location: [38.9,-90.17]
 type: City
 tags:

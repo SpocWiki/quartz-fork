@@ -1,4 +1,5 @@
 ﻿---
+title: "Denver"
 location: [39.72,-105]
 type: City
 tags:

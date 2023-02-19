@@ -1,4 +1,5 @@
 ﻿---
+title: "Winnipeg"
 location: [49.89944,-97.13917]
 type: City
 tags:

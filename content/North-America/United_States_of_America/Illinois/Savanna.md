@@ -1,4 +1,5 @@
 ﻿---
+title: "Savanna"
 location: [42.08,-90.13]
 type: City
 tags:

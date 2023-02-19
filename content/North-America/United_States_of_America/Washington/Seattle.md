@@ -1,4 +1,5 @@
 ﻿---
+title: "Seattle"
 location: [47.6097,-122.3331]
 type: City
 tags:

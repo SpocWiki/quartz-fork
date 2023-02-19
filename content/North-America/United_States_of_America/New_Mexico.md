@@ -1,4 +1,5 @@
 ﻿---
+title: "New Mexico"
 location: [35.6672,-105.964]
 type: State
 tags:

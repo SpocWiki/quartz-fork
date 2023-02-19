@@ -1,4 +1,5 @@
 ﻿---
+title: "Cupertino"
 location: [37.35,-121.95]
 type: City
 tags:

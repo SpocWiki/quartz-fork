@@ -1,4 +1,5 @@
 ﻿---
+title: "Columbia"
 location: [34.00056,-81.04417]
 type: City
 tags:

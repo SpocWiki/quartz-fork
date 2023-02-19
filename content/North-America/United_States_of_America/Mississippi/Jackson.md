@@ -1,4 +1,5 @@
 ﻿---
+title: "Jackson"
 location: [32.29889,-90.18472]
 type: City
 tags:

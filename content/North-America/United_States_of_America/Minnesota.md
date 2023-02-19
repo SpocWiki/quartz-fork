@@ -1,4 +1,5 @@
 ﻿---
+title: "Minnesota"
 location: [44.9747,-93.1584]
 type: State
 tags:

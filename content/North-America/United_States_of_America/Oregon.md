@@ -1,4 +1,5 @@
 ﻿---
+title: "Oregon"
 location: [45.2404,-122.814]
 type: State
 tags:

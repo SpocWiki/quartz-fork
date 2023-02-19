@@ -1,4 +1,5 @@
 ﻿---
+title: "Augusta"
 location: [44.32354,-69.76526]
 type: City
 tags:

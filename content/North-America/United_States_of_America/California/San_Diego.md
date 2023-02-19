@@ -1,4 +1,5 @@
 ﻿---
+title: "San Diego"
 location: [32.72,-117.15]
 type: City
 tags:

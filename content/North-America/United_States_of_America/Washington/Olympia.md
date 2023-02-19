@@ -1,4 +1,5 @@
 ﻿---
+title: "Olympia"
 location: [47.0425,-122.8931]
 type: City
 tags:

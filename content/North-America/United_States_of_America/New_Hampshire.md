@@ -1,4 +1,5 @@
 ﻿---
+title: "New Hampshire"
 location: [44.1283,-71.444]
 type: State
 tags:

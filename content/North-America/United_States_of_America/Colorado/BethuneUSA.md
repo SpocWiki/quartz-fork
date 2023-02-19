@@ -1,4 +1,5 @@
 ﻿---
+title: "BethuneUSA"
 location: [39.28,-102.42]
 type: City
 tags:

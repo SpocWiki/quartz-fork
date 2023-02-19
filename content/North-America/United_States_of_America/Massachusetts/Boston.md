@@ -1,4 +1,5 @@
 ﻿---
+title: "Boston"
 location: [42.33,-71.08]
 type: City
 tags:

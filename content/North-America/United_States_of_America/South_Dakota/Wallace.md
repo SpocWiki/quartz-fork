@@ -1,4 +1,5 @@
 ﻿---
+title: "Wallace"
 location: [45.08,-97.45]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Delaware~Dover"
 location: [39.16195,-75.52666]
 type: City
 tags:

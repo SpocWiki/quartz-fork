@@ -1,4 +1,5 @@
 ﻿---
+title: "Raleigh"
 location: [35.81889,-78.64472]
 type: City
 tags:

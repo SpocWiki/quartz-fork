@@ -1,4 +1,5 @@
 ﻿---
+title: "San Angelo"
 location: [31.47,-100.47]
 type: City
 tags:

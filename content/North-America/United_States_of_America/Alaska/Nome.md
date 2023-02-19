@@ -1,4 +1,5 @@
 ﻿---
+title: "Nome"
 location: [64.5,-165.2]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Connecticut"
 location: [41.7627,-72.6743]
 type: State
 tags:

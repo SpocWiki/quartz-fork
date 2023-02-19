@@ -1,4 +1,5 @@
 ﻿---
+title: "Montpelier"
 location: [44.25,-72.56667]
 type: City
 tags:

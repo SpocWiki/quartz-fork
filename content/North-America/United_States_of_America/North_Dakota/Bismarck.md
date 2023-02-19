@@ -1,4 +1,5 @@
 ﻿---
+title: "Bismarck"
 location: [46.81334,-100.779]
 type: City
 tags:

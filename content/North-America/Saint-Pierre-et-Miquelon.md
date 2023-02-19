@@ -1,4 +1,5 @@
 ﻿---
+title: "Saint-Pierre-et-Miquelon"
 location: [46.7833,-56.1667]
 type: Country
 tags:

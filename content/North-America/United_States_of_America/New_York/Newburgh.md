@@ -1,4 +1,5 @@
 ﻿---
+title: "Newburgh"
 location: [41.5,-74.02]
 type: City
 tags:

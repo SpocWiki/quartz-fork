@@ -1,4 +1,5 @@
 ﻿---
+title: "Tallahassee"
 location: [30.45167,-84.26853]
 type: City
 tags:

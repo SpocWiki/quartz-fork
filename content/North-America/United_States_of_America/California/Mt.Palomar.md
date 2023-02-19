@@ -1,4 +1,5 @@
 ﻿---
+title: "Mt.Palomar"
 location: [33.36,-116.86]
 type: City
 tags:

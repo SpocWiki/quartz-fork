@@ -1,4 +1,5 @@
 ﻿---
+title: "Ocala"
 location: [29.18,-82.15]
 type: City
 tags:

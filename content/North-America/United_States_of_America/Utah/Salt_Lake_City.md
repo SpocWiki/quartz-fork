@@ -1,4 +1,5 @@
 ﻿---
+title: "Salt Lake City"
 location: [40.75,-111.8833]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Kentucky"
 location: [38.1973,-84.8631]
 type: State
 tags:

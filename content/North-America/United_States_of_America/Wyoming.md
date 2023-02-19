@@ -1,4 +1,5 @@
 ﻿---
+title: "Wyoming"
 location: [41.1456,-104.802]
 type: State
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Bethlehem"
 location: [40.62,-75.42]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Dallas"
 location: [32.78,-96.82]
 type: City
 tags:

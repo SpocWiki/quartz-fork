@@ -1,4 +1,5 @@
 ﻿---
+title: "Lowell"
 location: [42.63,-71.32]
 type: City
 tags:

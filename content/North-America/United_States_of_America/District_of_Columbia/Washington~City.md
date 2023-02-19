@@ -1,4 +1,5 @@
 ﻿---
+title: "Washington~City"
 location: [38.89,-77.01]
 type: City
 tags:

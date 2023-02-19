@@ -1,4 +1,5 @@
 ﻿---
+title: "Edmonton"
 location: [53.56667,-113.5167]
 type: City
 tags:

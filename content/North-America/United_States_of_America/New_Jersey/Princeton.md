@@ -1,4 +1,5 @@
 ﻿---
+title: "Princeton"
 location: [40.3571,-74.6702]
 type: City
 tags:

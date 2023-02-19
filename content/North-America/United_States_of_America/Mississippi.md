@@ -1,4 +1,5 @@
 ﻿---
+title: "Mississippi"
 location: [32.2989,-90.1847]
 type: State
 tags:

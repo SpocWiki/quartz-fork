@@ -1,4 +1,5 @@
 ﻿---
+title: "Annapolis"
 location: [38.97295,-76.50116]
 type: City
 tags:

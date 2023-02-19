@@ -1,4 +1,5 @@
 ﻿---
+title: "Bloomingtown"
 location: [40.48,-89]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "New York-City"
 location: [40.72,-74.02]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Yellowknife"
 location: [62.44222,-114.3975]
 type: City
 tags:

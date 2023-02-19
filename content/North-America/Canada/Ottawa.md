@@ -1,4 +1,5 @@
 ﻿---
+title: "Ottawa"
 location: [45.42,-75.7]
 type: City
 tags:

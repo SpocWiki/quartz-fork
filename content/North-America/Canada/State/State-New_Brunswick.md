@@ -1,4 +1,5 @@
 ﻿---
+title: "State-New Brunswick"
 location: [45.95,-66.6667]
 type: State
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Summer"
 location: [39.75,-93.33]
 type: City
 tags:

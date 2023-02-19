@@ -1,4 +1,5 @@
 ﻿---
+title: "Albany"
 location: [42.6526,-73.75732]
 type: City
 tags:

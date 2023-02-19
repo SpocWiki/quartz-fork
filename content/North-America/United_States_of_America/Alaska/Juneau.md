@@ -1,4 +1,5 @@
 ﻿---
+title: "Juneau"
 location: [58.44444,-134.2297]
 type: City
 tags:

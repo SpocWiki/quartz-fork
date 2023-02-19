@@ -1,4 +1,5 @@
 ﻿---
+title: "Pearl Harbor"
 location: [21.37,-158]
 type: City
 tags:

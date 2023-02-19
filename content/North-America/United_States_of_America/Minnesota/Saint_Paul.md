@@ -1,4 +1,5 @@
 ﻿---
+title: "Saint Paul"
 location: [44.9441,-93.0852]
 type: City
 tags:

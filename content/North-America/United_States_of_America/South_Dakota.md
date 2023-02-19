@@ -1,4 +1,5 @@
 ﻿---
+title: "South Dakota"
 location: [44.724,-98.8932]
 type: State
 tags:

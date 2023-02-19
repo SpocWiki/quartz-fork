@@ -1,4 +1,5 @@
 ﻿---
+title: "Hartford"
 location: [41.76274,-72.67429]
 type: City
 tags:

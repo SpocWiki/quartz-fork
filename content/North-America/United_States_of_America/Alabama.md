@@ -1,4 +1,5 @@
 ﻿---
+title: "Alabama"
 location: [32.3617,-86.2792]
 type: State
 tags:

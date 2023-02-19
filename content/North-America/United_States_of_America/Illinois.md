@@ -1,4 +1,5 @@
 ﻿---
+title: "Illinois"
 location: [40.9405,-89.1829]
 type: State
 tags:

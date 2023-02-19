@@ -1,4 +1,5 @@
 ﻿---
+title: "Wisconsin"
 location: [43.0667,-89.4]
 type: State
 tags:

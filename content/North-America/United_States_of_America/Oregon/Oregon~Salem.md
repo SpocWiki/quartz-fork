@@ -1,4 +1,5 @@
 ﻿---
+title: "Oregon~Salem"
 location: [44.93083,-123.0289]
 type: City
 tags:

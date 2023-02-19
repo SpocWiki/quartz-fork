@@ -1,4 +1,5 @@
 ﻿---
+title: "Delaware"
 location: [39.371,-75.0483]
 type: State
 tags:

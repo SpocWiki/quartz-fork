@@ -1,4 +1,5 @@
 ﻿---
+title: "Montreal"
 location: [45.5,-73.6]
 type: City
 tags:

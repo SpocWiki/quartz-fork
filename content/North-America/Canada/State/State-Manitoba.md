@@ -1,4 +1,5 @@
 ﻿---
+title: "State-Manitoba"
 location: [49.8994,-97.1392]
 type: State
 tags:

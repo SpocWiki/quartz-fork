@@ -1,4 +1,5 @@
 ﻿---
+title: "Whitehorse"
 location: [60.71667,-135.05]
 type: City
 tags:

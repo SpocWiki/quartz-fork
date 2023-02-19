@@ -1,4 +1,5 @@
 ﻿---
+title: "Columbus"
 location: [39.98333,-82.98333]
 type: City
 tags:

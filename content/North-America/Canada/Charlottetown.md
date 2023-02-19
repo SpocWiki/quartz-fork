@@ -1,4 +1,5 @@
 ﻿---
+title: "Charlottetown"
 location: [46.24,-63.1399]
 type: City
 tags:

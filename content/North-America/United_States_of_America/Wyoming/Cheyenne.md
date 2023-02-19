@@ -1,4 +1,5 @@
 ﻿---
+title: "Cheyenne"
 location: [41.14556,-104.8019]
 type: City
 tags:

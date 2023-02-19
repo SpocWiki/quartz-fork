@@ -1,4 +1,5 @@
 ﻿---
+title: "NS~Halifax"
 location: [44.67,-63.61]
 type: City
 tags:

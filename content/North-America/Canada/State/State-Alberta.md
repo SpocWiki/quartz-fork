@@ -1,4 +1,5 @@
 ﻿---
+title: "State-Alberta"
 location: [53.5667,-113.517]
 type: State
 tags:

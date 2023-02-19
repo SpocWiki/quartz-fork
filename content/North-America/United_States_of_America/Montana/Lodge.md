@@ -1,4 +1,5 @@
 ﻿---
+title: "Lodge"
 location: [45.32,-107.37]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Plains"
 location: [32.03,-84.57]
 type: City
 tags:

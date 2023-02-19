@@ -1,4 +1,5 @@
 ﻿---
+title: "Concord"
 location: [43.20667,-71.53806]
 type: City
 tags:

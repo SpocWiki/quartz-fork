@@ -1,4 +1,5 @@
 ﻿---
+title: "Merced"
 location: [37.28,-120.49]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Baton Rouge"
 location: [30.45809,-91.14023]
 type: City
 tags:

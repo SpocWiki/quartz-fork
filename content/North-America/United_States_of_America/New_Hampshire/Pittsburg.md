@@ -1,4 +1,5 @@
 ﻿---
+title: "Pittsburg"
 location: [45.05,-71.35]
 type: City
 tags:

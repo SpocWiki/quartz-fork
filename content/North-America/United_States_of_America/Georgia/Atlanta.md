@@ -1,4 +1,5 @@
 ﻿---
+title: "Atlanta"
 location: [33.76,-84.38]
 type: City
 tags:

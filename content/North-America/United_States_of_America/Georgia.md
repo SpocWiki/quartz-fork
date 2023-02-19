@@ -1,4 +1,5 @@
 ﻿---
+title: "Georgia"
 location: [32.895,-84.475]
 type: State
 tags:

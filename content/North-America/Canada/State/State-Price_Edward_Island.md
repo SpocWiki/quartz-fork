@@ -1,4 +1,5 @@
 ﻿---
+title: "State-Price Edward Island"
 location: [46.24,-63.1399]
 type: State
 tags:

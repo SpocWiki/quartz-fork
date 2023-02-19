@@ -1,4 +1,5 @@
 ﻿---
+title: "Toronto"
 location: [43.32,-79.37]
 type: City
 tags:

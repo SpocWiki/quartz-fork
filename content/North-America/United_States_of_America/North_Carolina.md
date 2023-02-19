@@ -1,4 +1,5 @@
 ﻿---
+title: "North Carolina"
 location: [35.6594,-78.4874]
 type: State
 tags:

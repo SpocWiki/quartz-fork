@@ -1,4 +1,5 @@
 ﻿---
+title: "Carson City"
 location: [39.16083,-119.7539]
 type: City
 tags:

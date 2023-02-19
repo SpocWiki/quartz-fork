@@ -1,4 +1,5 @@
 ﻿---
+title: "Tampico"
 location: [41.63,-89.78]
 type: City
 tags:

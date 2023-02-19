@@ -1,4 +1,5 @@
 ﻿---
+title: "Boise"
 location: [43.61374,-116.2376]
 type: City
 tags:

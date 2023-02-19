@@ -1,4 +1,5 @@
 ﻿---
+title: "Louisiana"
 location: [30.214,-90.6301]
 type: State
 tags:

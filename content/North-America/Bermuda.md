@@ -1,4 +1,5 @@
 ﻿---
+title: "Bermuda"
 location: [32.3,]
 type: Country
 tags:

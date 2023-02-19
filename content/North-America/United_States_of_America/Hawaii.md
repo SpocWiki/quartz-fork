@@ -1,4 +1,5 @@
 ﻿---
+title: "Hawaii"
 location: [21.345,-157.935]
 type: State
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "SAS~Regina"
 location: [54.5,-105.6814]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "St.Paul"
 location: [45,-93.17]
 type: City
 tags:

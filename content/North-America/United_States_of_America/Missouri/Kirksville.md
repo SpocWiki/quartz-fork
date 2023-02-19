@@ -1,4 +1,5 @@
 ﻿---
+title: "Kirksville"
 location: [40.2,-92.58]
 type: City
 tags:

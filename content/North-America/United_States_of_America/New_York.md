@@ -1,4 +1,5 @@
 ﻿---
+title: "New York"
 location: [41.2905,-73.9355]
 type: State
 tags:

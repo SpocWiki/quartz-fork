@@ -1,4 +1,5 @@
 ﻿---
+title: "State-Newfoundland"
 location: [48.2838,-53.6536]
 type: State
 tags:

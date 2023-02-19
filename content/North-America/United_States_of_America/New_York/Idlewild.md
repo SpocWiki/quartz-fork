@@ -1,4 +1,5 @@
 ﻿---
+title: "Idlewild"
 location: [40.81,-73.96]
 type: City
 tags:

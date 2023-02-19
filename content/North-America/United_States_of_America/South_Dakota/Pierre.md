@@ -1,4 +1,5 @@
 ﻿---
+title: "Pierre"
 location: [44.36797,-100.3364]
 type: City
 tags:

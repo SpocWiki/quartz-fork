@@ -1,4 +1,5 @@
 ﻿---
+title: "Providence"
 location: [41.82361,-71.42223]
 type: City
 tags:

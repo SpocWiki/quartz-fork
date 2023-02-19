@@ -1,4 +1,5 @@
 ﻿---
+title: "Florida"
 location: [28.4672,-82.2062]
 type: State
 tags:

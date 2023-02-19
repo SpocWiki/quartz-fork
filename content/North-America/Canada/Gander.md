@@ -1,4 +1,5 @@
 ﻿---
+title: "Gander"
 location: [49,-54.6]
 type: City
 tags:

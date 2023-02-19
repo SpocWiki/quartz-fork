@@ -1,4 +1,5 @@
 ﻿---
+title: "Missouri"
 location: [38.2853,-91.3967]
 type: State
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Springfield"
 location: [39.78325,-89.65038]
 type: City
 tags:

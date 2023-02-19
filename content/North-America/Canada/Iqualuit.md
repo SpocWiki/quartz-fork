@@ -1,4 +1,5 @@
 ﻿---
+title: "Iqualuit"
 location: [63.74861,-68.51972]
 type: City
 tags:

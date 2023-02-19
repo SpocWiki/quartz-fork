@@ -1,4 +1,5 @@
 ﻿---
+title: "Charleston"
 location: [38.34722,-81.63333]
 type: City
 tags:

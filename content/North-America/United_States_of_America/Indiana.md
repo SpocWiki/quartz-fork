@@ -1,4 +1,5 @@
 ﻿---
+title: "Indiana"
 location: [39.6436,-86.0926]
 type: State
 tags:

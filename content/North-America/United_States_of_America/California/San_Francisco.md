@@ -1,4 +1,5 @@
 ﻿---
+title: "San Francisco"
 location: [37.79,-122.43]
 type: City
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Lincoln"
 location: [40.8,-96.7]
 type: City
 tags:

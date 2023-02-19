@@ -1,4 +1,5 @@
 ﻿---
+title: "Wapakoneta"
 location: [40.57,-84.2]
 type: City
 tags:

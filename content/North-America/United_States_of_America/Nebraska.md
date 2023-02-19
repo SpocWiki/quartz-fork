@@ -1,4 +1,5 @@
 ﻿---
+title: "Nebraska"
 location: [41.5333,-96.8733]
 type: State
 tags:

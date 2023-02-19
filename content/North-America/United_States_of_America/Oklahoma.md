@@ -1,4 +1,5 @@
 ﻿---
+title: "Oklahoma"
 location: [35.825,-96.735]
 type: State
 tags:

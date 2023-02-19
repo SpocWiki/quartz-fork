@@ -1,4 +1,5 @@
 ﻿---
+title: "Honolulu"
 location: [21.32,-157.87]
 type: City
 tags:

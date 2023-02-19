@@ -1,4 +1,5 @@
 ﻿---
+title: "Michigan"
 location: [42.6778,-84.4222]
 type: State
 tags:

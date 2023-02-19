@@ -1,4 +1,5 @@
 ﻿---
+title: "Idaho"
 location: [43.6137,-116.238]
 type: State
 tags:

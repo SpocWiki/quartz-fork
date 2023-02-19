@@ -1,4 +1,5 @@
 ﻿---
+title: "Los Angeles"
 location: [34.06,-118.25]
 type: City
 tags:

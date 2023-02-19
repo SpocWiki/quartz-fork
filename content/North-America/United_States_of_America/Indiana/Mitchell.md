@@ -1,4 +1,5 @@
 ﻿---
+title: "Mitchell"
 location: [38.72,-86.48]
 type: City
 tags:

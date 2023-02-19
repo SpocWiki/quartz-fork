@@ -1,4 +1,5 @@
 ﻿---
+title: "Jefferson City"
 location: [38.57667,-92.17361]
 type: City
 tags:

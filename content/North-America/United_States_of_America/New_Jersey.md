@@ -1,4 +1,5 @@
 ﻿---
+title: "New Jersey"
 location: [40.2806,-74.7587]
 type: State
 tags:

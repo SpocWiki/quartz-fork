@@ -1,4 +1,5 @@
 ﻿---
+title: "Arizona"
 location: [33.5,-112.05]
 type: State
 tags:

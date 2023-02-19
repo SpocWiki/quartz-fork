@@ -1,4 +1,5 @@
 ﻿---
+title: "Madison"
 location: [43.06667,-89.4]
 type: City
 tags:

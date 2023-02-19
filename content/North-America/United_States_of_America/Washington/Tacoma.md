@@ -1,4 +1,5 @@
 ﻿---
+title: "Tacoma"
 location: [47.25,-122.45]
 type: City
 tags:

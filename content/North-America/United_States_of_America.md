@@ -1,4 +1,5 @@
 ﻿---
+title: "United States of America"
 location: [39.2641,-94.8153]
 type: Country
 SpocWebEntityId: 27047

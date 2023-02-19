@@ -1,4 +1,5 @@
 ﻿---
+title: "Saint-Pierre"
 location: [46.78333,-56.16667]
 type: City
 tags:

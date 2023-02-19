@@ -1,4 +1,5 @@
 ﻿---
+title: "Philadelphia"
 location: [39.95,-75.12]
 type: City
 tags:

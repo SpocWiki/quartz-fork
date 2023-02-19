@@ -1,4 +1,5 @@
 ﻿---
+title: "Vancouver"
 location: [49.27,-123.12]
 type: City
 tags:

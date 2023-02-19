@@ -1,4 +1,5 @@
 ﻿---
+title: "Trenton"
 location: [40.22167,-74.75611]
 type: City
 tags:

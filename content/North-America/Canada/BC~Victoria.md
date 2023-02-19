@@ -1,4 +1,5 @@
 ﻿---
+title: "BC~Victoria"
 location: [48.42215,-123.3657]
 type: City
 tags:
