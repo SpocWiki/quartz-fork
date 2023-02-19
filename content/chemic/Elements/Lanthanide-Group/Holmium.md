@@ -1,12 +1,8 @@
-﻿---
-title: "Holmium"
+---
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21963
 ---
-
-# Holmium
-
 [Name-en::Holmium]
 [Name-de::Holmium]
 [Weight-u::164.9304]

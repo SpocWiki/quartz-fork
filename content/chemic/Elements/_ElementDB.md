@@ -1,15 +1,9 @@
-﻿
+
 ---
-
-#  ElementDB
-
 database-plugin: basic
 
 
 ---
-
-#  ElementDB
-
 ```yaml:dbfolder
 name: Elements
 description: List of chemical Elements
@@ -488,6 +482,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "Element", backgroundColor: "hsl(221, 95%, 90%)"}
+      - { label: "chemic/Element", backgroundColor: "hsl(167, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

@@ -1,12 +1,9 @@
-﻿---
-title: "Neptunium"
+---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21988
 ---
 
-# Neptunium
-
-[SpocWebEntityId: 21988
 [Name-en::Neptunium]
 [Name-de::Neptunium]
 (Abbr::Np)

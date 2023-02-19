@@ -1,12 +1,8 @@
-﻿---
-title: "Tellurium"
+---
 type: Element
 GroupName: Group-16-Chalcogene
 SpocWebEntityId: 21948
 ---
-
-# Tellurium
-
 [Name-en::Tellurium]
 [Name-de::Tellur]
 [Weight-u::127.6]

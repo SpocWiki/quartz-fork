@@ -1,12 +1,8 @@
-﻿---
-title: "Ytterbium"
+---
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21966
 ---
-
-# Ytterbium
-
 [Name-en::Ytterbium]
 [Name-de::Ytterbium]
 [Weight-u::173.04]

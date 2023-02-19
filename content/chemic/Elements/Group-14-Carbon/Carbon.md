@@ -1,12 +1,8 @@
-﻿---
-title: "Carbon"
+---
 type: Element
 GroupName: Group-14-Carbon
 SpocWebEntityId: 21480
 ---
-
-# Carbon
-
 [Name-en::Carbon]
 [Name-de::Kohlenstoff]
 [Weight-u::12.011]

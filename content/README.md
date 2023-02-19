@@ -2,8 +2,8 @@ This Repository/Folder/Wiki/Vault contains shared, public, freely usable Text an
 
 # How to include in your own projects
 This Repository can be cloned or referenced as a Submodule in other Wikis/Vaults.  
-Pull-Requests are welcome, but read the Section about [[#How to contribute]] first!
-The [[License]] is chosen to be compatible with Wikipedia and Wikidata,
+Pull-Requests are welcome, but read the Section about [#How to contribute](#How%20to%20contribute) first!
+The [LICENSE](LICENSE.md) is chosen to be compatible with Wikipedia and Wikidata,
 so that Information can freely be exchanged with this Repository.
 
 ## Wiki-Modules 
@@ -26,7 +26,7 @@ Nonetheless, private Repositories may find it useful to include this Repository 
 
 # How to contribute
 
-See [[Contributing]]
+See [Contributing](Contributing.md)
 
 
 

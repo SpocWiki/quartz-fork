@@ -1,12 +1,8 @@
-﻿---
-title: "Dysprosium"
+---
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21962
 ---
-
-# Dysprosium
-
 [Name-en::Dysprosium]
 [Name-de::Dysprosium]
 [Weight-u::162.5]

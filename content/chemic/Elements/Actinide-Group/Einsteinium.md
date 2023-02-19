@@ -1,12 +1,9 @@
-﻿---
-title: "Einsteinium"
+---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21994
 ---
 
-# Einsteinium
-
-[SpocWebEntityId: 21994
 [Name-en::Einsteinium]
 [Name-de::Einsteinium]
 (Abbr::Es)

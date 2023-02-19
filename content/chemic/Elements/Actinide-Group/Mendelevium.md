@@ -1,12 +1,9 @@
-﻿---
-title: "Mendelevium"
+---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21996
 ---
 
-# Mendelevium
-
-[SpocWebEntityId: 21996
 [Name-en::Mendelevium]
 [Name-de::Mendelevium]
 (Abbr::Md)

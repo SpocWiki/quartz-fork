@@ -1,12 +1,9 @@
-﻿---
-title: "Thorium"
+---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21985
 ---
 
-# Thorium
-
-[SpocWebEntityId: 21985
 [Name-en::Thorium]
 [Name-de::Thorium]
 (Abbr::Th)

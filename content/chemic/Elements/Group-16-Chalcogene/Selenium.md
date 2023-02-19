@@ -1,12 +1,9 @@
-﻿---
-title: "Selenium"
+---
 type: Element
 GroupName: Group-16-Chalcogene
+SpocWebEntityId: 21932
 ---
 
-# Selenium
-
-[SpocWebEntityId: 21932
 [Name-en::Selenium]
 [Name-de::Selen]
 

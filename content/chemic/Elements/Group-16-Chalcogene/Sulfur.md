@@ -1,12 +1,8 @@
-﻿---
-title: "Sulfur"
+---
 type: Element
 GroupName: Group-16-Chalcogene
 SpocWebEntityId: 21917
 ---
-
-# Sulfur
-
 [Name-en::Sulfur]
 [Name-de::Schwefel]
 [Weight-u::32.066]

@@ -1,12 +1,8 @@
-﻿---
-title: "Promethium"
+---
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21957
 ---
-
-# Promethium
-
 [Name-en::Promethium]
 [Name-de::Promethium]
 [Weight-u::147]

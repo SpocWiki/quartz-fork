@@ -1,12 +1,8 @@
-﻿---
-title: "Oxygen"
+---
 type: Element
 GroupName: Group-16-Chalcogene
 SpocWebEntityId: 21910
 ---
-
-# Oxygen
-
 [Name-en::Oxygen]
 [Name-de::Sauerstoff]
 [Weight-u::15.9994]

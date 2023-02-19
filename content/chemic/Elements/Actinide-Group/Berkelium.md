@@ -1,12 +1,9 @@
-﻿---
-title: "Berkelium"
+---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21992
 ---
 
-# Berkelium
-
-[SpocWebEntityId: 21992
 [Name-en::Berkelium]
 [Name-de::Berkelium]
 (Abbr::Bk)

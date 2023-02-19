@@ -1,12 +1,9 @@
-﻿---
-title: "Uranium"
+---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21987
 ---
 
-# Uranium
-
-[SpocWebEntityId: 21987
 [Name-en::Uranium]
 [Name-de::Uran]
 (Abbr::U)

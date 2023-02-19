@@ -1,12 +1,9 @@
-﻿---
-title: "Californium"
+---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21993
 ---
 
-# Californium
-
-[SpocWebEntityId: 21993
 [Name-en::Californium]
 [Name-de::Californium]
 (Abbr::Cf)

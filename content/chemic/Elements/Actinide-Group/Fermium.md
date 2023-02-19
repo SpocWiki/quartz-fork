@@ -1,12 +1,9 @@
-﻿---
-title: "Fermium"
+---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21995
 ---
 
-# Fermium
-
-[SpocWebEntityId: 21995
 [Name-en::Fermium]
 [Name-de::Fermium]
 (Abbr::Fm)

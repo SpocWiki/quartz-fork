@@ -1,12 +1,8 @@
-﻿---
-title: "Antimony"
+---
 type: Element
 GroupName: Group-15-Nitrogen
 SpocWebEntityId: 21947
 ---
-
-# Antimony
-
 [Name-en::Antimony]
 [Name-de::Antimon]
 [Weight-u::121.75]

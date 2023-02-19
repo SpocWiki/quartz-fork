@@ -1,12 +1,8 @@
-﻿---
-title: "Indium"
+---
 type: Element
 GroupName: Group-13-Boron
 SpocWebEntityId: 21946
 ---
-
-# Indium
-
 [Name-en::Indium]
 [Name-de::Indium]
 [Weight-u::114.82]

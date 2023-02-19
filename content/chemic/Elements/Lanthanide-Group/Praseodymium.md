@@ -1,12 +1,8 @@
-﻿---
-title: "Praseodymium"
+---
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21955
 ---
-
-# Praseodymium
-
 [Name-en::Praseodymium]
 [Name-de::Praseodym]
 [Weight-u::140.9077]

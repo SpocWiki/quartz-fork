@@ -1,13 +1,9 @@
-﻿---
-title: "ElementTemplate"
+---
 type: Element
 tags:
 - chemic/Element
 
 ---
-
-#  ElementTemplate
-
 SpocWebEntityId: {{SpocWebEntityId}}
 
 [Name-en::{{English}}]

@@ -1,11 +1,7 @@
-﻿---
-title: "Mercury"
+---
 type: Element
 GroupName: Group-12-Zinc
 ---
-
-# Mercury
-
 [Name-en::Mercury]
 [Name-de::Quecksilber]
 [Weight-u::200.59]
@@ -23,7 +19,7 @@ GroupName: Group-12-Zinc
 [FormEnergy-kj-mol::59.229]
 (PeriodNo::6)
 (GroupNo::12)
-[SpocWebEntityId: 21975
+SpocWebEntityId: 21975
 
 
 

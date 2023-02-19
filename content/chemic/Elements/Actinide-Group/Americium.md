@@ -1,12 +1,9 @@
-﻿---
-title: "Americium"
+---
 type: Element
 GroupName: Actinide-Group
+SpocWebEntityId: 21990
 ---
 
-# Americium
-
-[SpocWebEntityId: 21990
 [Name-en::Americium]
 [Name-de::Americium]
 (Abbr::Am)
