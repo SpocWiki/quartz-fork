@@ -59,7 +59,7 @@ enableRecentNotes: false
 # whether to display an 'edit' button next to the last edited field
 # that links to github
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/SpocWiki/quartz-fork/tree/hugo/content
 
 # whether to render mermaid diagrams
 enableMermaid: true
