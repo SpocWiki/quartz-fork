@@ -1,27 +1,45 @@
 ---
-title: 🪴 Quartz 3.
-enableToc: false
+title: SpocWiki
+enableToc: true
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# SpocWiki
+This Repository contains community-maintained, shared, public, freely usable Text and Data to mix into your personal Knowledge Base.
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+Different from Wikipedia, you can...
+- easily synchronize this with a local sub-folder on your local computer
+  and keep personal and public information separate.
+- simply update and expand the SpocWiki Data and push the changes back to the community for everyone to benefit 
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+# How to include in your own projects
+This Repository can be cloned or referenced as a Submodule in other Wikis/Vaults.  
+Pull-Requests are welcome, but read the Section about [#How to contribute](#How%20to%20contribute) first!
+The [LICENSE](LICENSE.md) is chosen to be compatible with Wikipedia and Wikidata,
+so that Information can freely be exchanged with this Repository.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+## Wiki-Modules 
+To limit the Size of this Repository, individual Sub-Repositories are singled out, which can be cloned and versioned independently. 
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+### xLarge Module
+An important one is the 'xLarge' (eXtra large) Module, dedicated to store 'Attachments', i.e. large, binary Files.  When mounted directly in Obsidian, this Folder should be marked as the Destination for Attachments.
+The name was chosen deliberately to place it at the end of the Folder List
+
+### GIT SubModules 
+SubModules proved to create friction and conflicts in a highly distributed System of Wiki-Repositories. 
+
+SubModules offer the Benefit of including all required Modules optionally, 
+but they fix the Module's Version/Hash and therefore need to be updated regularly to keep up with the linked Content. 
+
+Especially with nested Sub-Modules, Conflicts in Hashes are very likely, hard to resolve, and factually irrelevant. 
+Therefore the Modules should typically be cloned into an ignored Folder and versioned independently. 
+Nonetheless, private Repositories may find it useful to include this Repository as a Sub-Module for ease of use. 
+
+
+# How to contribute
+
+See [Contributing](Contributing.md)
+
+
 
