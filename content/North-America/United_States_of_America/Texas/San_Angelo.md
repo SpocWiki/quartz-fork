@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-100.47]
 [geo-lat::31.47]
 [name::San Angelo]
-[Country::[[United_States_of_America]]]
-[State::[[Texas]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Texas](North-America/United_States_of_America/Texas.md)]
 [Population::]
 [Unknown::]
 

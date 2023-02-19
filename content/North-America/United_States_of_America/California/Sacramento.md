@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-121.4689]
 [geo-lat::38.55556]
 [name::Sacramento]
-[Country::[[United_States_of_America]]]
-[State::[[California]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[California](North-America/United_States_of_America/California.md)]
 [Population::]
 [Unknown::]
 

@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-92.33111]
 [geo-lat::34.73611]
 [name::Little Rock]
-[Country::[[United_States_of_America]]]
-[State::[[Arkansas]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Arkansas](North-America/United_States_of_America/Arkansas.md)]
 [Population::]
 [Unknown::]
 

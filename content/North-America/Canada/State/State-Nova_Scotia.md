@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Nova Scotia]
 [name-abbr::NVS]
-[Country::[[Canada]]]
-[Capital::[[NS~Halifax]]]
+[Country::[Canada](North-America/Canada.md)]
+[Capital::[NS~Halifax](North-America/Canada/NS~Halifax.md)]
 [geo-lon::-63.61]
 [geo-lat::44.67]
 [Population::]

@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-100.779]
 [geo-lat::46.81334]
 [name::Bismarck]
-[Country::[[United_States_of_America]]]
-[State::[[North_Dakota]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[North_Dakota](North-America/United_States_of_America/North_Dakota.md)]
 [Population::]
 [Unknown::]
 

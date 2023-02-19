@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-97.45]
 [geo-lat::45.08]
 [name::Wallace]
-[Country::[[United_States_of_America]]]
-[State::[[South_Dakota]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[South_Dakota](North-America/United_States_of_America/South_Dakota.md)]
 [Population::]
 [Unknown::]
 

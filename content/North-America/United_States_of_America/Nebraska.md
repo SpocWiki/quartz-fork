@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Nebraska]
 [name-abbr::NE]
-[Country::[[United_States_of_America]]]
-[Capital::[[Lincoln]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Lincoln](North-America/United_States_of_America/Nebraska/Lincoln.md)]
 [geo-lon::-96.8733]
 [geo-lat::41.5333]
 [Population::]

@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Arizona]
 [name-abbr::AZ]
-[Country::[[United_States_of_America]]]
-[Capital::[[Phoenix]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Phoenix](North-America/United_States_of_America/Arizona/Phoenix.md)]
 [geo-lon::-112.05]
 [geo-lat::33.5]
 [Population::]

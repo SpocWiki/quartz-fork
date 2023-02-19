@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::49]
 [name::Gander]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36007]
 [Population::]
 [Unknown::]

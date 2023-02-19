@@ -12,16 +12,16 @@ tags:
 [ISO3::USA]
 [name-en::United States of America]
 [name-de::Vereinigte Staaten von Amerika]
-![[Coat_of_Arms_of_the_United_States_(obverse).svg]]
+![Coat_of_Arms_of_the_United_States_(obverse)](North-America/United_States_of_America/Coat_of_Arms_of_the_United_States_(obverse).svg)
 
-![[Anthem-United-states.mp3]]
+![Anthem-United-states.mp3](Anthem-United-states.mp3)
 
-![[Flag_of_the_United_States.svg]]
+![Flag_of_the_United_States](North-America/United_States_of_America/Flag_of_the_United_States.svg)
 [Area-Total::9809155]
 [Area-Land::9573110]
 [Continent::North-America]
 [VehicleCode::USA]
-[Capital::[[Washington~City]]]
+[Capital::[Washington~City](North-America/United_States_of_America/District_of_Columbia/Washington~City.md)]
 [Alcohol-l::9.4]
 [Language-Id::499]
 [geo-lon::-94.8153]

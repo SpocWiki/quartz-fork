@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-84.42]
 [geo-lat::39.13]
 [name::Cincinnatti]
-[Country::[[United_States_of_America]]]
-[State::[[Ohio]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Ohio](North-America/United_States_of_America/Ohio.md)]
 [Population::]
 [Unknown::]
 

@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-165.2]
 [geo-lat::64.5]
 [name::Nome]
-[Country::[[United_States_of_America]]]
-[State::[[Alaska]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Alaska](North-America/United_States_of_America/Alaska.md)]
 [Population::]
 [Unknown::]
 

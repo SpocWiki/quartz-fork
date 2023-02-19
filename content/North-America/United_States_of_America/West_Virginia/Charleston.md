@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-81.63333]
 [geo-lat::38.34722]
 [name::Charleston]
-[Country::[[United_States_of_America]]]
-[State::[[West_Virginia]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[West_Virginia](North-America/United_States_of_America/West_Virginia.md)]
 [Population::]
 [Unknown::]
 

@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-74.75611]
 [geo-lat::40.22167]
 [name::Trenton]
-[Country::[[United_States_of_America]]]
-[State::[[New_Jersey]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[New_Jersey](North-America/United_States_of_America/New_Jersey.md)]
 [Population::]
 [Unknown::]
 

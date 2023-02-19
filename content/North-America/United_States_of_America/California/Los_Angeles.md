@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-118.25]
 [geo-lat::34.06]
 [name::Los Angeles]
-[Country::[[United_States_of_America]]]
-[State::[[California]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[California](North-America/United_States_of_America/California.md)]
 [Population::]
 [Unknown::]
 

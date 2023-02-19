@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-104.8019]
 [geo-lat::41.14556]
 [name::Cheyenne]
-[Country::[[United_States_of_America]]]
-[State::[[Wyoming]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Wyoming](North-America/United_States_of_America/Wyoming.md)]
 [Population::]
 [Unknown::]
 

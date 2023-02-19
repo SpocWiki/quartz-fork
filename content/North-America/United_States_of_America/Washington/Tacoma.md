@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-122.45]
 [geo-lat::47.25]
 [name::Tacoma]
-[Country::[[United_States_of_America]]]
-[State::[[Washington]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Washington](North-America/United_States_of_America/Washington.md)]
 [Population::]
 [Unknown::]
 

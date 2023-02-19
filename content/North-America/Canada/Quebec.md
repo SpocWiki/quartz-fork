@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::46.8]
 [name::Quebec]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36011]
 [Population::]
 [Unknown::]

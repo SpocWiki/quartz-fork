@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Youkon Territory]
 [name-abbr::YKT]
-[Country::[[Canada]]]
-[Capital::[[Whitehorse]]]
+[Country::[Canada](North-America/Canada.md)]
+[Capital::[Whitehorse](North-America/Canada/Whitehorse.md)]
 [geo-lon::-135.05]
 [geo-lat::60.7167]
 [Population::]

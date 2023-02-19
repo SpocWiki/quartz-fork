@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::45.42]
 [name::Ottawa]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36009]
 [Population::]
 [Unknown::]

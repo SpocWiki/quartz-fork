@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-111.8833]
 [geo-lat::40.75]
 [name::Salt Lake City]
-[Country::[[United_States_of_America]]]
-[State::[[Utah]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Utah](North-America/United_States_of_America/Utah.md)]
 [Population::]
 [Unknown::]
 

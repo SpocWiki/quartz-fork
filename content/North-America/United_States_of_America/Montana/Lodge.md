@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-107.37]
 [geo-lat::45.32]
 [name::Lodge]
-[Country::[[United_States_of_America]]]
-[State::[[Montana]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Montana](North-America/United_States_of_America/Montana.md)]
 [Population::]
 [Unknown::]
 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::43.32]
 [name::Toronto]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36009]
 [Population::]
 [Unknown::]

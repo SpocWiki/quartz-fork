@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-90.05]
 [geo-lat::35.13]
 [name::Memphis]
-[Country::[[United_States_of_America]]]
-[State::[[Tennessee]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Tennessee](North-America/United_States_of_America/Tennessee.md)]
 [Population::]
 [Unknown::]
 

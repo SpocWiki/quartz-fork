@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Oregon]
 [name-abbr::OR]
-[Country::[[United_States_of_America]]]
-[Capital::[[Oregon~Salem]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Oregon~Salem](North-America/United_States_of_America/Oregon/Oregon~Salem.md)]
 [geo-lon::-122.814]
 [geo-lat::45.2404]
 [Population::]

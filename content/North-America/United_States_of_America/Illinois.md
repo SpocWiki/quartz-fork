@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Illinois]
 [name-abbr::IL]
-[Country::[[United_States_of_America]]]
-[Capital::[[Springfield]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Springfield](North-America/United_States_of_America/Illinois/Springfield.md)]
 [geo-lon::-89.1829]
 [geo-lat::40.9405]
 [Population::]

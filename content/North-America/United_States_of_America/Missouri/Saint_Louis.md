@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-90.18]
 [geo-lat::38.63]
 [name::Saint Louis]
-[Country::[[United_States_of_America]]]
-[State::[[Missouri]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Missouri](North-America/United_States_of_America/Missouri.md)]
 [Population::]
 [Unknown::]
 

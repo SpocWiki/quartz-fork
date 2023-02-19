@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-76.73]
 [geo-lat::40.15]
 [name::Harrisburg]
-[Country::[[United_States_of_America]]]
-[State::[[Pennsylvania]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Pennsylvania](North-America/United_States_of_America/Pennsylvania.md)]
 [Population::]
 [Unknown::]
 

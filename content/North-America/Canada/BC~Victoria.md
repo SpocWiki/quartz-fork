@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::48.42215]
 [name::BC~Victoria]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36004]
 [Population::]
 [Unknown::]

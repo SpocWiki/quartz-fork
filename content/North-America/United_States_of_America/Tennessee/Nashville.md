@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-86.78333]
 [geo-lat::36.16667]
 [name::Nashville]
-[Country::[[United_States_of_America]]]
-[State::[[Tennessee]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Tennessee](North-America/United_States_of_America/Tennessee.md)]
 [Population::]
 [Unknown::]
 

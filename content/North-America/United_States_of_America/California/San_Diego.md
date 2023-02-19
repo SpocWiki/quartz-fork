@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-117.15]
 [geo-lat::32.72]
 [name::San Diego]
-[Country::[[United_States_of_America]]]
-[State::[[California]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[California](North-America/United_States_of_America/California.md)]
 [Population::]
 [Unknown::]
 

@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-120.49]
 [geo-lat::37.28]
 [name::Merced]
-[Country::[[United_States_of_America]]]
-[State::[[California]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[California](North-America/United_States_of_America/California.md)]
 [Population::]
 [Unknown::]
 

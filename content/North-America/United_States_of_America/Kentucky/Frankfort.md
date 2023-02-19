@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-84.86311]
 [geo-lat::38.19727]
 [name::Frankfort]
-[Country::[[United_States_of_America]]]
-[State::[[Kentucky]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Kentucky](North-America/United_States_of_America/Kentucky.md)]
 [Population::]
 [Unknown::]
 

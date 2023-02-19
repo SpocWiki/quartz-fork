@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-82.38]
 [geo-lat::34.85]
 [name::Greenville]
-[Country::[[United_States_of_America]]]
-[State::[[South_Carolina]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[South_Carolina](North-America/United_States_of_America/South_Carolina.md)]
 [Population::]
 [Unknown::]
 

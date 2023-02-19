@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-90.17]
 [geo-lat::38.9]
 [name::Alton]
-[Country::[[United_States_of_America]]]
-[State::[[Illinois]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Illinois](North-America/United_States_of_America/Illinois.md)]
 [Population::]
 [Unknown::]
 

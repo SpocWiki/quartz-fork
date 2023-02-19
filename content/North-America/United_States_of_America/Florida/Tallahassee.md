@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-84.26853]
 [geo-lat::30.45167]
 [name::Tallahassee]
-[Country::[[United_States_of_America]]]
-[State::[[Florida]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Florida](North-America/United_States_of_America/Florida.md)]
 [Population::]
 [Unknown::]
 

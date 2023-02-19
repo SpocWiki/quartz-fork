@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::47.5675]
 [name::NFD~St. Johns]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36007]
 [Population::]
 [Unknown::]

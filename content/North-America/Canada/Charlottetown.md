@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::46.24]
 [name::Charlottetown]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36010]
 [Population::]
 [Unknown::]

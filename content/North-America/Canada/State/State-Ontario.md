@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Ontario]
 [name-abbr::ONT]
-[Country::[[Canada]]]
-[Capital::[[Toronto]]]
+[Country::[Canada](North-America/Canada.md)]
+[Capital::[Toronto](North-America/Canada/Toronto.md)]
 [geo-lon::-77.535]
 [geo-lat::44.37]
 [Population::]

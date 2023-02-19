@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-157.87]
 [geo-lat::21.32]
 [name::Honolulu]
-[Country::[[United_States_of_America]]]
-[State::[[Hawaii]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Hawaii](North-America/United_States_of_America/Hawaii.md)]
 [Population::]
 [Unknown::]
 

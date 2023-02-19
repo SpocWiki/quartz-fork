@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Vermont]
 [name-abbr::VT]
-[Country::[[United_States_of_America]]]
-[Capital::[[Montpelier]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Montpelier](North-America/United_States_of_America/Vermont/Montpelier.md)]
 [geo-lon::-72.5667]
 [geo-lat::44.25]
 [Population::]

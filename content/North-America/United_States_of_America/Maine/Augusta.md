@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-69.76526]
 [geo-lat::44.32354]
 [name::Augusta]
-[Country::[[United_States_of_America]]]
-[State::[[Maine]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Maine](North-America/United_States_of_America/Maine.md)]
 [Population::]
 [Unknown::]
 

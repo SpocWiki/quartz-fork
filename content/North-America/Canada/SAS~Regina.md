@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::54.5]
 [name::SAS~Regina]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36012]
 [Population::]
 [Unknown::]

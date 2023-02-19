@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-97.33]
 [geo-lat::32.75]
 [name::Fort Worth]
-[Country::[[United_States_of_America]]]
-[State::[[Texas]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Texas](North-America/United_States_of_America/Texas.md)]
 [Population::]
 [Unknown::]
 

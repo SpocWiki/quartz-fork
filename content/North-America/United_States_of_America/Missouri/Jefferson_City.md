@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-92.17361]
 [geo-lat::38.57667]
 [name::Jefferson City]
-[Country::[[United_States_of_America]]]
-[State::[[Missouri]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Missouri](North-America/United_States_of_America/Missouri.md)]
 [Population::]
 [Unknown::]
 

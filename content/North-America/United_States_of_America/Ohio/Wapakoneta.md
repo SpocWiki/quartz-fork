@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-84.2]
 [geo-lat::40.57]
 [name::Wapakoneta]
-[Country::[[United_States_of_America]]]
-[State::[[Ohio]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Ohio](North-America/United_States_of_America/Ohio.md)]
 [Population::]
 [Unknown::]
 

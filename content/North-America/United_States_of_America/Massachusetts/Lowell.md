@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-71.32]
 [geo-lat::42.63]
 [name::Lowell]
-[Country::[[United_States_of_America]]]
-[State::[[Massachusetts]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Massachusetts](North-America/United_States_of_America/Massachusetts.md)]
 [Population::]
 [Unknown::]
 

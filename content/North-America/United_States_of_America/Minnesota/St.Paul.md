@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-93.17]
 [geo-lat::45]
 [name::St.Paul]
-[Country::[[United_States_of_America]]]
-[State::[[Minnesota]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Minnesota](North-America/United_States_of_America/Minnesota.md)]
 [Population::]
 [Unknown::]
 

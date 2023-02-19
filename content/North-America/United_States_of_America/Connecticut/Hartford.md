@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-72.67429]
 [geo-lat::41.76274]
 [name::Hartford]
-[Country::[[United_States_of_America]]]
-[State::[[Connecticut]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Connecticut](North-America/United_States_of_America/Connecticut.md)]
 [Population::]
 [Unknown::]
 

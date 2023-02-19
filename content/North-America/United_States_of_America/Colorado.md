@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Colorado]
 [name-abbr::CO]
-[Country::[[United_States_of_America]]]
-[Capital::[[Denver]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Denver](North-America/United_States_of_America/Colorado/Denver.md)]
 [geo-lon::-103.71]
 [geo-lat::39.5]
 [Population::]

@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::44.67]
 [name::NS~Halifax]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36008]
 [Population::]
 [Unknown::]

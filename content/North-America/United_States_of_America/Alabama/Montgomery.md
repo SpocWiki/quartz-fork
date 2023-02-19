@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-86.27917]
 [geo-lat::32.36167]
 [name::Montgomery]
-[Country::[[United_States_of_America]]]
-[State::[[Alabama]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Alabama](North-America/United_States_of_America/Alabama.md)]
 [Population::]
 [Unknown::]
 

@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Michigan]
 [name-abbr::MI]
-[Country::[[United_States_of_America]]]
-[Capital::[[Lansing]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Lansing](North-America/United_States_of_America/Michigan/Lansing.md)]
 [geo-lon::-84.4222]
 [geo-lat::42.6778]
 [Population::]

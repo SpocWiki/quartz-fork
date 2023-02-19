@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Utah]
 [name-abbr::UT]
-[Country::[[United_States_of_America]]]
-[Capital::[[Salt_Lake_City]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Salt_Lake_City](North-America/United_States_of_America/Utah/Salt_Lake_City.md)]
 [geo-lon::-111.883]
 [geo-lat::40.75]
 [Population::]

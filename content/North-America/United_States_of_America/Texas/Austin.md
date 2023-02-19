@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-97.75]
 [geo-lat::30.25]
 [name::Austin]
-[Country::[[United_States_of_America]]]
-[State::[[Texas]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Texas](North-America/United_States_of_America/Texas.md)]
 [Population::]
 [Unknown::]
 

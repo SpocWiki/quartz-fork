@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-86.48]
 [geo-lat::38.72]
 [name::Mitchell]
-[Country::[[United_States_of_America]]]
-[State::[[Indiana]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Indiana](North-America/United_States_of_America/Indiana.md)]
 [Population::]
 [Unknown::]
 

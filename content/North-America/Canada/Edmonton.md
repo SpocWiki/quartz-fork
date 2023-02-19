@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::53.56667]
 [name::Edmonton]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36003]
 [Population::]
 [Unknown::]

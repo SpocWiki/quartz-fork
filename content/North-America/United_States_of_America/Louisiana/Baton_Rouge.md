@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-91.14023]
 [geo-lat::30.45809]
 [name::Baton Rouge]
-[Country::[[United_States_of_America]]]
-[State::[[Louisiana]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Louisiana](North-America/United_States_of_America/Louisiana.md)]
 [Population::]
 [Unknown::]
 

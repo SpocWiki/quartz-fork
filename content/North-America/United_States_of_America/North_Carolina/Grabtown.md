@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-78.33]
 [geo-lat::35.5]
 [name::Grabtown]
-[Country::[[United_States_of_America]]]
-[State::[[North_Carolina]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[North_Carolina](North-America/United_States_of_America/North_Carolina.md)]
 [Population::]
 [Unknown::]
 

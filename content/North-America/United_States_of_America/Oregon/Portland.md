@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-122.6]
 [geo-lat::45.55]
 [name::Portland]
-[Country::[[United_States_of_America]]]
-[State::[[Oregon]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Oregon](North-America/United_States_of_America/Oregon.md)]
 [Population::]
 [Unknown::]
 

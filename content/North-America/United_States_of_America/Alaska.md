@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Alaska]
 [name-abbr::AL]
-[Country::[[United_States_of_America]]]
-[Capital::[[Juneau]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Juneau](North-America/United_States_of_America/Alaska/Juneau.md)]
 [geo-lon::-149.77]
 [geo-lat::61.3881]
 [Population::]

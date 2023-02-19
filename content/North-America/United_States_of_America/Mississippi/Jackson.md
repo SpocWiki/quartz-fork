@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-90.18472]
 [geo-lat::32.29889]
 [name::Jackson]
-[Country::[[United_States_of_America]]]
-[State::[[Mississippi]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Mississippi](North-America/United_States_of_America/Mississippi.md)]
 [Population::]
 [Unknown::]
 

@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::49.89944]
 [name::Winnipeg]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36005]
 [Population::]
 [Unknown::]

@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Tennessee]
 [name-abbr::TN]
-[Country::[[United_States_of_America]]]
-[Capital::[[Nashville]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Nashville](North-America/United_States_of_America/Tennessee/Nashville.md)]
 [geo-lon::-86.9211]
 [geo-lat::35.7556]
 [Population::]

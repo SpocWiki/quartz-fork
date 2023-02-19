@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-85.67]
 [geo-lat::42.97]
 [name::Grand Rapids]
-[Country::[[United_States_of_America]]]
-[State::[[Michigan]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Michigan](North-America/United_States_of_America/Michigan.md)]
 [Population::]
 [Unknown::]
 

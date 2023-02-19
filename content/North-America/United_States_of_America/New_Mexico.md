@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::New Mexico]
 [name-abbr::NM]
-[Country::[[United_States_of_America]]]
-[Capital::[[Santa_Fe]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Santa_Fe](North-America/United_States_of_America/New_Mexico/Santa_Fe.md)]
 [geo-lon::-105.964]
 [geo-lat::35.6672]
 [Population::]

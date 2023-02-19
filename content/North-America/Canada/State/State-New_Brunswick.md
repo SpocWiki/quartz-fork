@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::New Brunswick]
 [name-abbr::NWB]
-[Country::[[Canada]]]
-[Capital::[[Fredericton]]]
+[Country::[Canada](North-America/Canada.md)]
+[Capital::[Fredericton](North-America/Canada/Fredericton.md)]
 [geo-lon::-66.6667]
 [geo-lat::45.95]
 [Population::]

@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-77.01]
 [geo-lat::38.89]
 [name::Washington~City]
-[Country::[[United_States_of_America]]]
-[State::[[District_of_Columbia]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[District_of_Columbia](North-America/United_States_of_America/District_of_Columbia.md)]
 [Population::]
 [Unknown::]
 

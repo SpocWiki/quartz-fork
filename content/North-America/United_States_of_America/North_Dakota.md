@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::North Dakota]
 [name-abbr::ND]
-[Country::[[United_States_of_America]]]
-[Capital::[[Bismarck]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Bismarck](North-America/United_States_of_America/North_Dakota/Bismarck.md)]
 [geo-lon::-100.779]
 [geo-lat::46.8133]
 [Population::]

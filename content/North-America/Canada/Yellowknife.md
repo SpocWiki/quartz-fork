@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::62.44222]
 [name::Yellowknife]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36013]
 [Population::]
 [Unknown::]

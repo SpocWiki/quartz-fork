@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-95.97]
 [geo-lat::36.15]
 [name::Tulsa]
-[Country::[[United_States_of_America]]]
-[State::[[Oklahoma]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Oklahoma](North-America/United_States_of_America/Oklahoma.md)]
 [Population::]
 [Unknown::]
 

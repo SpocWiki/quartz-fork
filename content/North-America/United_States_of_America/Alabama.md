@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Alabama]
 [name-abbr::AK]
-[Country::[[United_States_of_America]]]
-[Capital::[[Montgomery]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Montgomery](North-America/United_States_of_America/Alabama/Montgomery.md)]
 [geo-lon::-86.2792]
 [geo-lat::32.3617]
 [Population::]

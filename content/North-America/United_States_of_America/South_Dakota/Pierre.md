@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-100.3364]
 [geo-lat::44.36797]
 [name::Pierre]
-[Country::[[United_States_of_America]]]
-[State::[[South_Dakota]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[South_Dakota](North-America/United_States_of_America/South_Dakota.md)]
 [Population::]
 [Unknown::]
 

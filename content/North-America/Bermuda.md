@@ -18,7 +18,7 @@ confidential: public
 [Area-Land::0]
 [Continent::North-America]
 [VehicleCode::]
-[Capital::[[Hamilton]]]
+[Capital::[Hamilton](Hamilton)]
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::]

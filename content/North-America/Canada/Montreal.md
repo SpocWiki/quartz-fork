@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::45.5]
 [name::Montreal]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36011]
 [Population::]
 [Unknown::]

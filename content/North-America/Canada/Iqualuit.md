@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::63.74861]
 [name::Iqualuit]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::]
 [Population::]
 [Unknown::]

@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-97.97]
 [geo-lat::42.53]
 [name::Winnetoon]
-[Country::[[United_States_of_America]]]
-[State::[[Nebraska]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Nebraska](North-America/United_States_of_America/Nebraska.md)]
 [Population::]
 [Unknown::]
 

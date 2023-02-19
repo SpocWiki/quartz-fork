@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::British Columbia]
 [name-abbr::BRC]
-[Country::[[Canada]]]
-[Capital::[[Victoria]]]
+[Country::[Canada](North-America/Canada.md)]
+[Capital::[Victoria](Victoria)]
 [geo-lon::-123.243]
 [geo-lat::48.8461]
 [Population::]

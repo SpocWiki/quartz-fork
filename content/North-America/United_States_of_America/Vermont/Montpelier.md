@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-72.56667]
 [geo-lat::44.25]
 [name::Montpelier]
-[Country::[[United_States_of_America]]]
-[State::[[Vermont]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Vermont](North-America/United_States_of_America/Vermont.md)]
 [Population::]
 [Unknown::]
 

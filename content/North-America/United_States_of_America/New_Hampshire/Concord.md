@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-71.53806]
 [geo-lat::43.20667]
 [name::Concord]
-[Country::[[United_States_of_America]]]
-[State::[[New_Hampshire]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[New_Hampshire](North-America/United_States_of_America/New_Hampshire.md)]
 [Population::]
 [Unknown::]
 

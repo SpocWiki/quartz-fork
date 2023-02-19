@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-134.2297]
 [geo-lat::58.44444]
 [name::Juneau]
-[Country::[[United_States_of_America]]]
-[State::[[Alaska]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Alaska](North-America/United_States_of_America/Alaska.md)]
 [Population::]
 [Unknown::]
 

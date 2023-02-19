@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-97.5]
 [geo-lat::35.5]
 [name::Oklahoma City]
-[Country::[[United_States_of_America]]]
-[State::[[Oklahoma]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Oklahoma](North-America/United_States_of_America/Oklahoma.md)]
 [Population::]
 [Unknown::]
 

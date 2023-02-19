@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Maine]
 [name-abbr::ME]
-[Country::[[United_States_of_America]]]
-[Capital::[[Augusta]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Augusta](North-America/United_States_of_America/Maine/Augusta.md)]
 [geo-lon::-69.7653]
 [geo-lat::44.3235]
 [Population::]

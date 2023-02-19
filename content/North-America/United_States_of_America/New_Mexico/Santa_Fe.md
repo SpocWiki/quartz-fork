@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-105.9644]
 [geo-lat::35.66722]
 [name::Santa Fe]
-[Country::[[United_States_of_America]]]
-[State::[[New_Mexico]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[New_Mexico](North-America/United_States_of_America/New_Mexico.md)]
 [Population::]
 [Unknown::]
 

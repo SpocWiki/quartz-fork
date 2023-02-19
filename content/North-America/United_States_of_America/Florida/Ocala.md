@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-82.15]
 [geo-lat::29.18]
 [name::Ocala]
-[Country::[[United_States_of_America]]]
-[State::[[Florida]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Florida](North-America/United_States_of_America/Florida.md)]
 [Population::]
 [Unknown::]
 

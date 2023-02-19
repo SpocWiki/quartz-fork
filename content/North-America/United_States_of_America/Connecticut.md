@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Connecticut]
 [name-abbr::CT]
-[Country::[[United_States_of_America]]]
-[Capital::[[Hartford]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Hartford](North-America/United_States_of_America/Connecticut/Hartford.md)]
 [geo-lon::-72.6743]
 [geo-lat::41.7627]
 [Population::]

@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-74.57]
 [geo-lat::39.58]
 [name::Delaware]
-[Country::[[United_States_of_America]]]
-[State::[[Delaware]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Delaware](North-America/United_States_of_America/Delaware.md)]
 [Population::]
 [Unknown::]
 

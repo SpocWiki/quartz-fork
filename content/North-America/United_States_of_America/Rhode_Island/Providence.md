@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-71.42223]
 [geo-lat::41.82361]
 [name::Providence]
-[Country::[[United_States_of_America]]]
-[State::[[Rhode_Island]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Rhode_Island](North-America/United_States_of_America/Rhode_Island.md)]
 [Population::]
 [Unknown::]
 

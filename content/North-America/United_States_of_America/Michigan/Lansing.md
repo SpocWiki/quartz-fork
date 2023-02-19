@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-84.5467]
 [geo-lat::42.7335]
 [name::Lansing]
-[Country::[[United_States_of_America]]]
-[State::[[Michigan]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Michigan](North-America/United_States_of_America/Michigan.md)]
 [Population::]
 [Unknown::]
 

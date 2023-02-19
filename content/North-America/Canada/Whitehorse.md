@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::60.71667]
 [name::Whitehorse]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36014]
 [Population::]
 [Unknown::]

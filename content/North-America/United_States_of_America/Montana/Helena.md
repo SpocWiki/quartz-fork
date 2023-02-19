@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-112.02]
 [geo-lat::46.6]
 [name::Helena]
-[Country::[[United_States_of_America]]]
-[State::[[Montana]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Montana](North-America/United_States_of_America/Montana.md)]
 [Population::]
 [Unknown::]
 

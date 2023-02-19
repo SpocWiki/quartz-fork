@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Saskatchewan]
 [name-abbr::SAS]
-[Country::[[Canada]]]
-[Capital::[[SAS~Regina]]]
+[Country::[Canada](North-America/Canada.md)]
+[Capital::[SAS~Regina](North-America/Canada/SAS~Regina.md)]
 [geo-lon::-105.681]
 [geo-lat::54.5]
 [Population::]

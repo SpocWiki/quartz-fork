@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-82.98333]
 [geo-lat::39.98333]
 [name::Columbus]
-[Country::[[United_States_of_America]]]
-[State::[[Ohio]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Ohio](North-America/United_States_of_America/Ohio.md)]
 [Population::]
 [Unknown::]
 

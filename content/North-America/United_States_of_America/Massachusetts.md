@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Massachusetts]
 [name-abbr::MA]
-[Country::[[United_States_of_America]]]
-[Capital::[[Boston]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Boston](North-America/United_States_of_America/Massachusetts/Boston.md)]
 [geo-lon::-71.2]
 [geo-lat::42.48]
 [Population::]

@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::New York]
 [name-abbr::NY]
-[Country::[[United_States_of_America]]]
-[Capital::[[Albany]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Albany](North-America/United_States_of_America/New_York/Albany.md)]
 [geo-lon::-73.9355]
 [geo-lat::41.2905]
 [Population::]

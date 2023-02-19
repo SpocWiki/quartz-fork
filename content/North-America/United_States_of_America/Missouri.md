@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Missouri]
 [name-abbr::MO]
-[Country::[[United_States_of_America]]]
-[Capital::[[Jefferson_City]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Jefferson_City](North-America/United_States_of_America/Missouri/Jefferson_City.md)]
 [geo-lon::-91.3967]
 [geo-lat::38.2853]
 [Population::]

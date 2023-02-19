@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-105]
 [geo-lat::39.72]
 [name::Denver]
-[Country::[[United_States_of_America]]]
-[State::[[Colorado]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Colorado](North-America/United_States_of_America/Colorado.md)]
 [Population::]
 [Unknown::]
 

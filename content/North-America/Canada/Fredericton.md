@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::45.95]
 [name::Fredericton]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36006]
 [Population::]
 [Unknown::]

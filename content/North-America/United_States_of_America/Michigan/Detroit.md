@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-83.05]
 [geo-lat::42.33]
 [name::Detroit]
-[Country::[[United_States_of_America]]]
-[State::[[Michigan]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Michigan](North-America/United_States_of_America/Michigan.md)]
 [Population::]
 [Unknown::]
 

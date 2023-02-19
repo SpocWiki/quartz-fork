@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-89.65038]
 [geo-lat::39.78325]
 [name::Springfield]
-[Country::[[United_States_of_America]]]
-[State::[[Illinois]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Illinois](North-America/United_States_of_America/Illinois.md)]
 [Population::]
 [Unknown::]
 

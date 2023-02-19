@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Alberta]
 [name-abbr::ALB]
-[Country::[[Canada]]]
-[Capital::[[Edmonton]]]
+[Country::[Canada](North-America/Canada.md)]
+[Capital::[Edmonton](North-America/Canada/Edmonton.md)]
 [geo-lon::-113.517]
 [geo-lat::53.5667]
 [Population::]

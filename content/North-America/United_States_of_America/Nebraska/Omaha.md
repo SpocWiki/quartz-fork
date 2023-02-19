@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-95.95]
 [geo-lat::41.27]
 [name::Omaha]
-[Country::[[United_States_of_America]]]
-[State::[[Nebraska]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Nebraska](North-America/United_States_of_America/Nebraska.md)]
 [Population::]
 [Unknown::]
 

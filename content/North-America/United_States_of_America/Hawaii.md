@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Hawaii]
 [name-abbr::HI]
-[Country::[[United_States_of_America]]]
-[Capital::[[Honolulu]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Honolulu](North-America/United_States_of_America/Hawaii/Honolulu.md)]
 [geo-lon::-157.935]
 [geo-lat::21.345]
 [Population::]

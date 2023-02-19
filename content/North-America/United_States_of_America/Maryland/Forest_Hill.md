@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-76.38]
 [geo-lat::39.58]
 [name::Forest Hill]
-[Country::[[United_States_of_America]]]
-[State::[[Maryland]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Maryland](North-America/United_States_of_America/Maryland.md)]
 [Population::]
 [Unknown::]
 

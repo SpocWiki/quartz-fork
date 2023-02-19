@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-77.43289]
 [geo-lat::37.54097]
 [name::Richmond]
-[Country::[[United_States_of_America]]]
-[State::[[Virginia]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Virginia](North-America/United_States_of_America/Virginia.md)]
 [Population::]
 [Unknown::]
 

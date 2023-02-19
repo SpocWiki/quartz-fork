@@ -15,7 +15,7 @@ confidential: public
 [geo-lat::49.27]
 [name::Vancouver]
 [State::]
-[Country::[[Canada]]]
+[Country::[Canada](North-America/Canada.md)]
 [StateId::36004]
 [Population::]
 [Unknown::]

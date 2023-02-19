@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-116.2376]
 [geo-lat::43.61374]
 [name::Boise]
-[Country::[[United_States_of_America]]]
-[State::[[Idaho]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[Idaho](North-America/United_States_of_America/Idaho.md)]
 [Population::]
 [Unknown::]
 

@@ -13,8 +13,8 @@ confidential: public
 ---
 [name::Montana]
 [name-abbr::MT]
-[Country::[[United_States_of_America]]]
-[Capital::[[Helena]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[Capital::[Helena](North-America/United_States_of_America/Montana/Helena.md)]
 [geo-lon::-109.695]
 [geo-lat::45.96]
 [Population::]

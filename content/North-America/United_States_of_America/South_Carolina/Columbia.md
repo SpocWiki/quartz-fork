@@ -14,8 +14,8 @@ confidential: public
 [geo-lon::-81.04417]
 [geo-lat::34.00056]
 [name::Columbia]
-[Country::[[United_States_of_America]]]
-[State::[[South_Carolina]]]
+[Country::[United_States_of_America](North-America/United_States_of_America.md)]
+[State::[South_Carolina](North-America/United_States_of_America/South_Carolina.md)]
 [Population::]
 [Unknown::]
 
