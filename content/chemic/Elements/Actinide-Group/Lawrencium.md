@@ -1,5 +1,5 @@
 ﻿---
-title: "Lawrencium
+title: "Lawrencium"
 type: Element
 GroupName: Actinide-Group
 ---

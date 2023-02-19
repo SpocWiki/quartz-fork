@@ -1,5 +1,5 @@
 ﻿---
-title: "Hafnium
+title: "Hafnium"
 type: Element
 GroupName: Group-04-Titanium
 ---

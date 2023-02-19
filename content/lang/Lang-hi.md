@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-hi
+title: "Lang-hi"
 type: Lang
 aliases:
 - Hindi-Urdu

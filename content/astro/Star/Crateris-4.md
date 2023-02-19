@@ -1,5 +1,5 @@
 ﻿---
-title: "Crateris-4
+title: "Crateris-4"
 location: [-14.78,169.825,90]
 type: Station
 tags:

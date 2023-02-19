@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Auriga
+title: "Zodiac-Auriga"
 type: Zodiac
 tags:
 - astro/Zodiac

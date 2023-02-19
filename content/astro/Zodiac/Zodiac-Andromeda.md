@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Andromeda
+title: "Zodiac-Andromeda"
 type: Zodiac
 tags:
 - astro/Zodiac

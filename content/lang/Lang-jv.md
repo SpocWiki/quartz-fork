@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-jv
+title: "Lang-jv"
 type: Lang
 aliases:
 - Javanese

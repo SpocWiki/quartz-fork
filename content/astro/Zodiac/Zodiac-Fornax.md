@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Fornax
+title: "Zodiac-Fornax"
 type: Zodiac
 tags:
 - astro/Zodiac

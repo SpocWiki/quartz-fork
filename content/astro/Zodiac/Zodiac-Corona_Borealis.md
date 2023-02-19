@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Corona Borealis
+title: "Zodiac-Corona Borealis"
 type: Zodiac
 tags:
 - astro/Zodiac

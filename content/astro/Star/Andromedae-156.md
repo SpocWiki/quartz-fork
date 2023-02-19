@@ -1,5 +1,5 @@
 ﻿---
-title: "Andromedae-156
+title: "Andromedae-156"
 location: [37.26,29,250]
 type: Station
 tags:

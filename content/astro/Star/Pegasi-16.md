@@ -1,5 +1,5 @@
 ﻿---
-title: "Pegasi-16
+title: "Pegasi-16"
 location: [33.18,-27.5,300]
 type: Station
 tags:

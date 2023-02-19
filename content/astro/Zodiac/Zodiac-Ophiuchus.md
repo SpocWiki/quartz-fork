@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Ophiuchus
+title: "Zodiac-Ophiuchus"
 type: Zodiac
 tags:
 - astro/Zodiac

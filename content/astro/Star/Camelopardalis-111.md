@@ -1,5 +1,5 @@
 ﻿---
-title: "Camelopardalis-111
+title: "Camelopardalis-111"
 location: [58.98,76.55,600]
 type: Station
 tags:

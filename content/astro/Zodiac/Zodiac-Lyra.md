@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Lyra
+title: "Zodiac-Lyra"
 type: Zodiac
 tags:
 - astro/Zodiac

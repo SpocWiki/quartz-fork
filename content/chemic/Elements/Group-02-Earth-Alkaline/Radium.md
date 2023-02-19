@@ -1,5 +1,5 @@
 ﻿---
-title: "Radium
+title: "Radium"
 type: Element
 GroupName: Group-02-Earth-Alkaline
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Nunki
+title: "Nunki"
 location: [-26.3,-76.175,200]
 type: Station
 tags:

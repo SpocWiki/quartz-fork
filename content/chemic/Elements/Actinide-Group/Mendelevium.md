@@ -1,5 +1,5 @@
 ﻿---
-title: "Mendelevium
+title: "Mendelevium"
 type: Element
 GroupName: Actinide-Group
 ---

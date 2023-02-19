@@ -1,5 +1,5 @@
 ﻿---
-title: "post
+title: "post"
 title: "{{title}}"
 ---
 

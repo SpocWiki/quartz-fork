@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Mensa
+title: "Zodiac-Mensa"
 type: Zodiac
 tags:
 - astro/Zodiac

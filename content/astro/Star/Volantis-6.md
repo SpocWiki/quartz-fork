@@ -1,5 +1,5 @@
 ﻿---
-title: "Volantis-6
+title: "Volantis-6"
 location: [-72.61,115.45,200]
 type: Station
 tags:

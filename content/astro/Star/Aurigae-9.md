@@ -1,5 +1,5 @@
 ﻿---
-title: "Aurigae-9
+title: "Aurigae-9"
 location: [33.17,74.25,250]
 type: Station
 tags:

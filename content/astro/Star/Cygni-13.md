@@ -1,5 +1,5 @@
 ﻿---
-title: "Cygni-13
+title: "Cygni-13"
 location: [41.17,-45.7,150]
 type: Station
 tags:

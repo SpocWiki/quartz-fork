@@ -1,5 +1,5 @@
 ﻿---
-title: "Dubnium
+title: "Dubnium"
 type: Element
 GroupName: Group-05-Vanadium
 ---

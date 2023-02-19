@@ -1,5 +1,5 @@
 ﻿---
-title: "Phurud
+title: "Phurud"
 location: [-30.06,95.075,300]
 type: Station
 tags:

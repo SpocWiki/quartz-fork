@@ -1,5 +1,5 @@
 ﻿---
-title: "Mira
+title: "Mira"
 location: [-2.98,34.825,100]
 type: Station
 tags:

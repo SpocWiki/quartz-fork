@@ -1,5 +1,5 @@
 ﻿---
-title: "Arsenic
+title: "Arsenic"
 type: Element
 GroupName: Group-15-Nitrogen
 SpocWebEntityId: 21931

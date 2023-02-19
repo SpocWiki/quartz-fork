@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Crater
+title: "Zodiac-Crater"
 type: Zodiac
 tags:
 - astro/Zodiac

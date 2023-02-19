@@ -1,5 +1,5 @@
 ﻿---
-title: "setup
+title: "setup"
 title: "Setup"
 tags:
 - setup

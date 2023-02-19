@@ -1,5 +1,5 @@
 ﻿---
-title: "Sadalbari
+title: "Sadalbari"
 location: [24.6,-17.5,120]
 type: Station
 tags:

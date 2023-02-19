@@ -1,5 +1,5 @@
 ﻿---
-title: "Lyncis-131
+title: "Lyncis-131"
 location: [43.19,125.7,200]
 type: Station
 tags:

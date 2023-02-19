@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Carina
+title: "Zodiac-Carina"
 type: Zodiac
 tags:
 - astro/Zodiac

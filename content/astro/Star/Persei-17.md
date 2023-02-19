@@ -1,5 +1,5 @@
 ﻿---
-title: "Persei-17
+title: "Persei-17"
 location: [38.84,46.3,200]
 type: Station
 tags:

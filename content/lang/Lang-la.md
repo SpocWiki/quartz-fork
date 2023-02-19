@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-la
+title: "Lang-la"
 type: Lang
 aliases:
 - Latin

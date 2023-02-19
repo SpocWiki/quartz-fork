@@ -1,5 +1,5 @@
 ﻿---
-title: "Alula Australis
+title: "Alula Australis"
 location: [31.53,-190.45,25]
 type: Station
 tags:

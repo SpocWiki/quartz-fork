@@ -1,5 +1,5 @@
 ﻿---
-title: "Aquarii-201
+title: "Aquarii-201"
 location: [-20.91,-6.675,1000]
 type: Station
 tags:

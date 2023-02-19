@@ -1,5 +1,5 @@
 ﻿---
-title: "Ursae Majoris-178
+title: "Ursae Majoris-178"
 location: [56.37,-164.825,90]
 type: Station
 tags:

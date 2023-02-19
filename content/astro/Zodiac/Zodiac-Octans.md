@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Octans
+title: "Zodiac-Octans"
 type: Zodiac
 tags:
 - astro/Zodiac

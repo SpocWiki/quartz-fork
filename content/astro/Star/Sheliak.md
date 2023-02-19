@@ -1,5 +1,5 @@
 ﻿---
-title: "Sheliak
+title: "Sheliak"
 location: [33.36,-77.475,300]
 type: Station
 tags:

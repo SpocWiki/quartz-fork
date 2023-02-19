@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Phoenix
+title: "Zodiac-Phoenix"
 type: Zodiac
 tags:
 - astro/Zodiac

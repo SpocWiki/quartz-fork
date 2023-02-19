@@ -1,5 +1,5 @@
 ﻿---
-title: "Spica
+title: "Spica"
 location: [-11.16,-158.7,300]
 type: Station
 tags:

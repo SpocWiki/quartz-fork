@@ -1,5 +1,5 @@
 ﻿---
-title: "Megrez
+title: "Megrez"
 location: [57.03,-176.15,60]
 type: Station
 tags:

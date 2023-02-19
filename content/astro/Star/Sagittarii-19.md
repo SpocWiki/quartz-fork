@@ -1,5 +1,5 @@
 ﻿---
-title: "Sagittarii-19
+title: "Sagittarii-19"
 location: [-27.67,-73.275,120]
 type: Station
 tags:

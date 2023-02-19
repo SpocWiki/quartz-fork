@@ -1,5 +1,5 @@
 ﻿---
-title: "Erbium
+title: "Erbium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21964

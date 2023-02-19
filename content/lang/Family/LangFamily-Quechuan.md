@@ -1,5 +1,5 @@
 ﻿---
-title: "LangFamily-Quechuan
+title: "LangFamily-Quechuan"
 type: LangFamily
 tags: 
 - Lang_Family

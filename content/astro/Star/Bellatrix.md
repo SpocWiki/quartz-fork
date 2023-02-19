@@ -1,5 +1,5 @@
 ﻿---
-title: "Bellatrix
+title: "Bellatrix"
 location: [6.35,81.275,400]
 type: Station
 tags:

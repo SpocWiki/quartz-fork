@@ -1,5 +1,5 @@
 ﻿---
-title: "Aquilae-4
+title: "Aquilae-4"
 location: [3.11,-68.625,50]
 type: Station
 tags:

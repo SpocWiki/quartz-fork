@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Microscopium
+title: "Zodiac-Microscopium"
 type: Zodiac
 tags:
 - astro/Zodiac

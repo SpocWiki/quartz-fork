@@ -1,5 +1,5 @@
 ﻿---
-title: "Thallium
+title: "Thallium"
 type: Element
 GroupName: Group-13-Boron
 SpocWebEntityId: 21976

@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Capricornus
+title: "Zodiac-Capricornus"
 type: Zodiac
 tags:
 - astro/Zodiac

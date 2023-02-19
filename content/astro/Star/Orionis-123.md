@@ -1,5 +1,5 @@
 ﻿---
-title: "Orionis-123
+title: "Orionis-123"
 location: [3.55,80.7,1500]
 type: Station
 tags:

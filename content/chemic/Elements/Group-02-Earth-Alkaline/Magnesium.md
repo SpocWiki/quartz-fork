@@ -1,5 +1,5 @@
 ﻿---
-title: "Magnesium
+title: "Magnesium"
 type: Element
 GroupName: Group-02-Earth-Alkaline
 ---

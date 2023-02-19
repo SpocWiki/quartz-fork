@@ -1,5 +1,5 @@
 ﻿---
-title: "Silicon
+title: "Silicon"
 type: Element
 GroupName: Group-14-Carbon
 SpocWebEntityId: 21915

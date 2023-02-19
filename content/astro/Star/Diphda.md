@@ -1,5 +1,5 @@
 ﻿---
-title: "Diphda
+title: "Diphda"
 location: [-17.99,10.9,70]
 type: Station
 tags:

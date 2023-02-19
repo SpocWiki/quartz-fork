@@ -1,5 +1,5 @@
 ﻿---
-title: "Lutetium
+title: "Lutetium"
 type: Element
 GroupName: Actinide-Group
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Scorpius
+title: "Zodiac-Scorpius"
 type: Zodiac
 tags:
 - astro/Zodiac

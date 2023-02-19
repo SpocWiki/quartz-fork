@@ -1,5 +1,5 @@
 ﻿---
-title: "Ruticulus
+title: "Ruticulus"
 location: [21.49,-112.45,100]
 type: Station
 tags:

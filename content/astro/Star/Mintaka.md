@@ -1,5 +1,5 @@
 ﻿---
-title: "Mintaka
+title: "Mintaka"
 location: [-0.3,83,1500]
 type: Station
 tags:

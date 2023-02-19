@@ -1,5 +1,5 @@
 ﻿---
-title: "ignore notes
+title: "ignore notes"
 title: "Ignoring Notes"
 ---
 

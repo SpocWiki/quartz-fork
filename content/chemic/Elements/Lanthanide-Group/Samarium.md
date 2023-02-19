@@ -1,5 +1,5 @@
 ﻿---
-title: "Samarium
+title: "Samarium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21958

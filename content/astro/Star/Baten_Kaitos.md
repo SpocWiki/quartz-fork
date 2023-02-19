@@ -1,5 +1,5 @@
 ﻿---
-title: "Baten Kaitos
+title: "Baten Kaitos"
 location: [-10.34,27.875,200]
 type: Station
 tags:

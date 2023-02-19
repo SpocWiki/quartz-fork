@@ -1,5 +1,5 @@
 ﻿---
-title: "Talitha
+title: "Talitha"
 location: [48.04,-225.2,50]
 type: Station
 tags:

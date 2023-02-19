@@ -1,5 +1,5 @@
 ﻿---
-title: "Agena
+title: "Agena"
 location: [-60.37,-149.05,300]
 type: Station
 SpocWebEntityId: 27240

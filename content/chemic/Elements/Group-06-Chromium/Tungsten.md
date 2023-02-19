@@ -1,5 +1,5 @@
 ﻿---
-title: "Tungsten
+title: "Tungsten"
 type: Element
 GroupName: Group-06-Chromium
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "LangFamily-Japanese~Ryukyu
+title: "LangFamily-Japanese~Ryukyu"
 type: LangFamily
 tags: 
 - Lang_Family

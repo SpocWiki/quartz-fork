@@ -1,5 +1,5 @@
 ﻿---
-title: "Alnitak
+title: "Alnitak"
 location: [-1.94,85.2,1500]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "Lupi-9
+title: "Lupi-9"
 location: [-46.06,-145.15,400]
 type: Station
 tags:

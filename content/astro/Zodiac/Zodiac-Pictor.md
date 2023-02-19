@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Pictor
+title: "Zodiac-Pictor"
 type: Zodiac
 tags:
 - astro/Zodiac

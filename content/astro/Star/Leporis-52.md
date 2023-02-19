@@ -1,5 +1,5 @@
 ﻿---
-title: "Leporis-52
+title: "Leporis-52"
 location: [-11.85,77.85,500]
 type: Station
 tags:

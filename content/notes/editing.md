@@ -1,5 +1,5 @@
 ﻿---
-title: "editing
+title: "editing"
 title: "Editing Content in Quartz"
 tags:
 - setup

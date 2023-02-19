@@ -1,5 +1,5 @@
 ﻿---
-title: "Ophiuchi-8
+title: "Ophiuchi-8"
 location: [-25,-99.5,600]
 type: Station
 tags:

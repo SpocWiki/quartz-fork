@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Monoceros
+title: "Zodiac-Monoceros"
 type: Zodiac
 tags:
 - astro/Zodiac

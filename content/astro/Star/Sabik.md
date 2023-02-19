@@ -1,5 +1,5 @@
 ﻿---
-title: "Sabik
+title: "Sabik"
 location: [-15.72,-102.4,60]
 type: Station
 tags:

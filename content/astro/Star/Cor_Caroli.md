@@ -1,5 +1,5 @@
 ﻿---
-title: "Cor Caroli
+title: "Cor Caroli"
 location: [38.32,-166,120]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "LangFamily-Sino-Tibetan
+title: "LangFamily-Sino-Tibetan"
 type: LangFamily
 tags: 
 - Lang_Family

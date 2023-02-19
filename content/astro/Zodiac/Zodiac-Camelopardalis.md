@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Camelopardalis
+title: "Zodiac-Camelopardalis"
 type: Zodiac
 tags:
 - astro/Zodiac

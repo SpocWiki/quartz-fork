@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-te
+title: "Lang-te"
 type: Lang
 aliases:
 - Telugu

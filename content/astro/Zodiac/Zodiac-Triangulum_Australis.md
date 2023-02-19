@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Triangulum Australis
+title: "Zodiac-Triangulum Australis"
 type: Zodiac
 tags:
 - astro/Zodiac

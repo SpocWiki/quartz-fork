@@ -1,5 +1,5 @@
 ﻿---
-title: "Carinae-24
+title: "Carinae-24"
 location: [-70.04,153.425,250]
 type: Station
 tags:

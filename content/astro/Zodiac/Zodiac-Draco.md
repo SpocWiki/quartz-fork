@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Draco
+title: "Zodiac-Draco"
 type: Zodiac
 tags:
 - astro/Zodiac

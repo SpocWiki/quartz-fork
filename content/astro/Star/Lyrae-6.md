@@ -1,5 +1,5 @@
 ﻿---
-title: "Lyrae-6
+title: "Lyrae-6"
 location: [37.6,-78.8,200]
 type: Station
 tags:

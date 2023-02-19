@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Coma Berenices
+title: "Zodiac-Coma Berenices"
 type: Zodiac
 tags:
 - astro/Zodiac

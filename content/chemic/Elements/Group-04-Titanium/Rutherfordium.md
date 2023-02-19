@@ -1,5 +1,5 @@
 ﻿---
-title: "Rutherfordium
+title: "Rutherfordium"
 type: Element
 GroupName: Group-04-Titanium
 ---

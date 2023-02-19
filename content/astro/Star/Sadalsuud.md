@@ -1,5 +1,5 @@
 ﻿---
-title: "Sadalsuud
+title: "Sadalsuud"
 location: [-5.57,-37.1,1000]
 type: Station
 tags:

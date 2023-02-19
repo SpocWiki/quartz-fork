@@ -1,5 +1,5 @@
 ﻿---
-title: "Dysprosium
+title: "Dysprosium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21962

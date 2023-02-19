@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Sagittarius
+title: "Zodiac-Sagittarius"
 type: Zodiac
 tags:
 - astro/Zodiac

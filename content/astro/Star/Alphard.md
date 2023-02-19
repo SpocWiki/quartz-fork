@@ -1,5 +1,5 @@
 ﻿---
-title: "Alphard
+title: "Alphard"
 location: [-8.66,141.9,90]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "Alamak
+title: "Alamak"
 location: [42.33,30.975,300]
 type: Station
 SpocWebEntityId: 27294

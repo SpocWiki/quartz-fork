@@ -1,5 +1,5 @@
 ﻿---
-title: "Centauri-12
+title: "Centauri-12"
 location: [-42.47,-152.6,300]
 type: Station
 tags:

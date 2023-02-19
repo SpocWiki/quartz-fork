@@ -1,5 +1,5 @@
 ﻿---
-title: "Herculis-21
+title: "Herculis-21"
 location: [44.93,-117.8,200]
 type: Station
 tags:

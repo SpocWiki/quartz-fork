@@ -1,5 +1,5 @@
 ﻿---
-title: "Algenib
+title: "Algenib"
 location: [15.18,3.3,500]
 type: Station
 tags:

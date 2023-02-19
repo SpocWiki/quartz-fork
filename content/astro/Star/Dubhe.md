@@ -1,5 +1,5 @@
 ﻿---
-title: "Dubhe
+title: "Dubhe"
 location: [61.75,-194.075,80]
 type: Station
 tags:

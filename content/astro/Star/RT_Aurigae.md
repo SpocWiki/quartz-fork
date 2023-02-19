@@ -1,5 +1,5 @@
 ﻿---
-title: "RT Aurigae
+title: "RT Aurigae"
 location: [30.49,97.15,2500]
 type: Station
 tags:

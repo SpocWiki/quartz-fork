@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Sextans
+title: "Zodiac-Sextans"
 type: Zodiac
 tags:
 - astro/Zodiac

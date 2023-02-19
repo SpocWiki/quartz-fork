@@ -1,5 +1,5 @@
 ﻿---
-title: "Scorpii-19
+title: "Scorpii-19"
 location: [-28.22,-111.025,800]
 type: Station
 tags:

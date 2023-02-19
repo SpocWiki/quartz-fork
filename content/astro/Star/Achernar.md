@@ -1,5 +1,5 @@
 ﻿---
-title: "Achernar
+title: "Achernar"
 location: [-57.24,24.425,90]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "Berkelium
+title: "Berkelium"
 type: Element
 GroupName: Actinide-Group
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Sculptoris-1
+title: "Sculptoris-1"
 location: [-29.358,14.65,424]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Triangulum
+title: "Zodiac-Triangulum"
 type: Zodiac
 tags:
 - astro/Zodiac

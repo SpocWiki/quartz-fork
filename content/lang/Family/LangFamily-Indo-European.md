@@ -1,5 +1,5 @@
 ﻿---
-title: "LangFamily-Indo-European
+title: "LangFamily-Indo-European"
 type: LangFamily
 tags: 
 - Lang_Family

@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-fr
+title: "Lang-fr"
 type: Lang
 aliases:
 - French

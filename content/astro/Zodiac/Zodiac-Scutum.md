@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Scutum
+title: "Zodiac-Scutum"
 type: Zodiac
 tags:
 - astro/Zodiac

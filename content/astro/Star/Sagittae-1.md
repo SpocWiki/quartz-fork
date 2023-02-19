@@ -1,5 +1,5 @@
 ﻿---
-title: "Sagittae-1
+title: "Sagittae-1"
 location: [18.01,-64.975,600]
 type: Station
 tags:

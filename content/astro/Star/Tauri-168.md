@@ -1,5 +1,5 @@
 ﻿---
-title: "Tauri-168
+title: "Tauri-168"
 location: [17.93,66.375,150]
 type: Station
 tags:

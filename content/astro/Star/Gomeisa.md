@@ -1,5 +1,5 @@
 ﻿---
-title: "Gomeisa
+title: "Gomeisa"
 location: [8.29,111.775,150]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "Draconis-13
+title: "Draconis-13"
 location: [55.18,-96.95,120]
 type: Station
 tags:

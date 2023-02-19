@@ -1,5 +1,5 @@
 ﻿---
-title: "Gemma
+title: "Gemma"
 location: [26.71,-126.325,80]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Minor
+title: "Zodiac-Minor"
 type: Zodiac
 tags:
 - astro/Zodiac

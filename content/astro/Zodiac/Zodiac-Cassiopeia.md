@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Cassiopeia
+title: "Zodiac-Cassiopeia"
 type: Zodiac
 tags:
 - astro/Zodiac

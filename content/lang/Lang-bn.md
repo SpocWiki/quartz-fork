@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-bn
+title: "Lang-bn"
 type: Lang
 aliases:
 - Bengali

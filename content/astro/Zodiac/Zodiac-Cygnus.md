@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Cygnus
+title: "Zodiac-Cygnus"
 type: Zodiac
 tags:
 - astro/Zodiac

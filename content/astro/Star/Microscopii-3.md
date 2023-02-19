@@ -1,5 +1,5 @@
 ﻿---
-title: "Microscopii-3
+title: "Microscopii-3"
 location: [-32.258,-44.679,228]
 type: Station
 tags:

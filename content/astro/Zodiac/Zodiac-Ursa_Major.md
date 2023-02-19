@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Ursa Major
+title: "Zodiac-Ursa Major"
 type: Zodiac
 tags:
 - astro/Zodiac

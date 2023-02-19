@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-ar
+title: "Lang-ar"
 type: Lang
 aliases:
 - Arabic

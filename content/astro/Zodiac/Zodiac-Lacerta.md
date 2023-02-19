@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Lacerta
+title: "Zodiac-Lacerta"
 type: Zodiac
 tags:
 - astro/Zodiac

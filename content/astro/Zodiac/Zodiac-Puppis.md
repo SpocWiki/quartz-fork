@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Puppis
+title: "Zodiac-Puppis"
 type: Zodiac
 tags:
 - astro/Zodiac

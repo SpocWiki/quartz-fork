@@ -1,5 +1,5 @@
 ﻿---
-title: "Trianguli Australis-5
+title: "Trianguli Australis-5"
 location: [-66.32,-125.825,150]
 type: Station
 tags:

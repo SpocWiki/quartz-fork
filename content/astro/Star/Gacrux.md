@@ -1,5 +1,5 @@
 ﻿---
-title: "Gacrux
+title: "Gacrux"
 location: [-57.11,-172.2,120]
 type: Station
 tags:

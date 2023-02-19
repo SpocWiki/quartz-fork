@@ -1,5 +1,5 @@
 ﻿---
-title: "Yed Prior
+title: "Yed Prior"
 location: [-3.69,-116.425,150]
 type: Station
 tags:

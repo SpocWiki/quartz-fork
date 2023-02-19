@@ -1,5 +1,5 @@
 ﻿---
-title: "Virginis-6
+title: "Virginis-6"
 location: [-0.6,-156.325,80]
 type: Station
 tags:

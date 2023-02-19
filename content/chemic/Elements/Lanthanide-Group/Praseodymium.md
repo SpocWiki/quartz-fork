@@ -1,5 +1,5 @@
 ﻿---
-title: "Praseodymium
+title: "Praseodymium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21955

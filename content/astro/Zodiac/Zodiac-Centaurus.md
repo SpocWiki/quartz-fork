@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Centaurus
+title: "Zodiac-Centaurus"
 type: Zodiac
 tags:
 - astro/Zodiac

@@ -1,5 +1,5 @@
 ﻿---
-title: "Technetium
+title: "Technetium"
 type: Element
 GroupName: Group-07-Manganese
 ---

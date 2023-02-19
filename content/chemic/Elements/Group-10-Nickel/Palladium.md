@@ -1,5 +1,5 @@
 ﻿---
-title: "Palladium
+title: "Palladium"
 type: Element
 GroupName: Group-10-Nickel
 ---

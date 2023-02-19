@@ -1,5 +1,5 @@
 ﻿---
-title: "Capella
+title: "Capella"
 location: [46,79.175,40]
 type: Station
 tags:

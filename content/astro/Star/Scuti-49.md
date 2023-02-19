@@ -1,5 +1,5 @@
 ﻿---
-title: "Scuti-49
+title: "Scuti-49"
 location: [-5.7,-78.2,2500]
 type: Station
 tags:

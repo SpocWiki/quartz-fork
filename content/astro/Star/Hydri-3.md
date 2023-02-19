@@ -1,5 +1,5 @@
 ﻿---
-title: "Hydri-3
+title: "Hydri-3"
 location: [-74.24,56.8,150]
 type: Station
 tags:

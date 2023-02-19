@@ -1,5 +1,5 @@
 ﻿---
-title: "Hydrogenium
+title: "Hydrogenium"
 type: Element
 GroupName: Group-01-Alkali
 ---

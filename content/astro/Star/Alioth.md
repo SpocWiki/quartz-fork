@@ -1,5 +1,5 @@
 ﻿---
-title: "Alioth
+title: "Alioth"
 location: [55.96,-166.5,80]
 type: Station
 tags:

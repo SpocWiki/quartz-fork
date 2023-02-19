@@ -1,5 +1,5 @@
 ﻿---
-title: "Wezen
+title: "Wezen"
 location: [-26.39,107.1,3000]
 type: Station
 tags:

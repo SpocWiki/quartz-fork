@@ -1,5 +1,5 @@
 ﻿---
-title: "Beryllium
+title: "Beryllium"
 type: Element
 GroupName: Group-02-Earth-Alkaline
 ---

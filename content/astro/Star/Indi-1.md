@@ -1,5 +1,5 @@
 ﻿---
-title: "Indi-1
+title: "Indi-1"
 location: [-47.29,-50.6,120]
 type: Station
 tags:

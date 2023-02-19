@@ -1,5 +1,5 @@
 ﻿---
-title: "Piscis Australis-2
+title: "Piscis Australis-2"
 location: [-32.35,-22.125,150]
 type: Station
 tags:

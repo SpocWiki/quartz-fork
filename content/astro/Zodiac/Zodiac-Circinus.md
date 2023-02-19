@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Circinus
+title: "Zodiac-Circinus"
 type: Zodiac
 tags:
 - astro/Zodiac

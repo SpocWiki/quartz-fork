@@ -1,5 +1,5 @@
 ﻿---
-title: "Cephei-7
+title: "Cephei-7"
 location: [61.84,-48.675,45]
 type: Station
 tags:

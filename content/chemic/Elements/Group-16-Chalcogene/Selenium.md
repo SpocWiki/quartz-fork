@@ -1,5 +1,5 @@
 ﻿---
-title: "Selenium
+title: "Selenium"
 type: Element
 GroupName: Group-16-Chalcogene
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Sulfur
+title: "Sulfur"
 type: Element
 GroupName: Group-16-Chalcogene
 SpocWebEntityId: 21917

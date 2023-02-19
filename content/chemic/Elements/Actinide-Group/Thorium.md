@@ -1,5 +1,5 @@
 ﻿---
-title: "Thorium
+title: "Thorium"
 type: Element
 GroupName: Actinide-Group
 ---

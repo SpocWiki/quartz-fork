@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-gr
+title: "Lang-gr"
 type: Lang
 aliases:
 - Greek

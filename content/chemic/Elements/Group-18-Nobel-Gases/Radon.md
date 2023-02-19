@@ -1,5 +1,5 @@
 ﻿---
-title: "Radon
+title: "Radon"
 type: Element
 GroupName: Group-18-Nobel-Gases
 SpocWebEntityId: 21981

@@ -1,5 +1,5 @@
 ﻿---
-title: "Acrab
+title: "Acrab"
 location: [-19.8,-118.65,800]
 type: Station
 tags:

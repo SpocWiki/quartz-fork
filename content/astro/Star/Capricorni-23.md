@@ -1,5 +1,5 @@
 ﻿---
-title: "Capricorni-23
+title: "Capricorni-23"
 location: [-25.27,-48.475,35]
 type: Station
 tags:

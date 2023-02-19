@@ -1,5 +1,5 @@
 ﻿---
-title: "Ceti-51
+title: "Ceti-51"
 location: [-20.06,5.45,2000]
 type: Station
 tags:

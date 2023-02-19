@@ -1,5 +1,5 @@
 ﻿---
-title: "Alkaid
+title: "Alkaid"
 location: [49.31,-153.125,120]
 type: Station
 tags:

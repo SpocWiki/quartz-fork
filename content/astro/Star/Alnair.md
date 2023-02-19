@@ -1,5 +1,5 @@
 ﻿---
-title: "Alnair
+title: "Alnair"
 location: [-46.96,-27.95,70]
 type: Station
 tags:

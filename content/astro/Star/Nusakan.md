@@ -1,5 +1,5 @@
 ﻿---
-title: "Nusakan
+title: "Nusakan"
 location: [29.11,-128.05,120]
 type: Station
 tags:

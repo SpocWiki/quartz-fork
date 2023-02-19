@@ -1,5 +1,5 @@
 ﻿---
-title: "philosophy
+title: "philosophy"
 title: "Quartz Philosophy"
 ---
 

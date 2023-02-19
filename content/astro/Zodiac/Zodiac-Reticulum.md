@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Reticulum
+title: "Zodiac-Reticulum"
 type: Zodiac
 tags:
 - astro/Zodiac

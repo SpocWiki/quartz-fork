@@ -1,5 +1,5 @@
 ﻿---
-title: "Actinium
+title: "Actinium"
 type: Element
 GroupName: Group-03-Scandium
 ---

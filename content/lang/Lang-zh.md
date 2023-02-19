@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-zh
+title: "Lang-zh"
 type: Lang
 aliases:
 - Chinese

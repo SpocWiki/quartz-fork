@@ -1,5 +1,5 @@
 ﻿---
-title: "Ruchbah
+title: "Ruchbah"
 location: [60.24,21.45,80]
 type: Station
 tags:

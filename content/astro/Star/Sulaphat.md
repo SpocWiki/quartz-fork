@@ -1,5 +1,5 @@
 ﻿---
-title: "Sulaphat
+title: "Sulaphat"
 location: [32.69,-75.275,200]
 type: Station
 tags:

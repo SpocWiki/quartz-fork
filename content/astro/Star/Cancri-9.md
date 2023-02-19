@@ -1,5 +1,5 @@
 ﻿---
-title: "Cancri-9
+title: "Cancri-9"
 location: [28.76,131.675,300]
 type: Station
 tags:

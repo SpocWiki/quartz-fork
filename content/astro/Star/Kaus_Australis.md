@@ -1,5 +1,5 @@
 ﻿---
-title: "Kaus Australis
+title: "Kaus Australis"
 location: [-34.38,-83.95,100]
 type: Station
 tags:

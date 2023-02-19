@@ -1,5 +1,5 @@
 ﻿---
-title: "Asellus Borealis
+title: "Asellus Borealis"
 location: [21.47,130.825,150]
 type: Station
 tags:

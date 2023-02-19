@@ -1,5 +1,5 @@
 ﻿---
-title: "Andromedae-15
+title: "Andromedae-15"
 location: [42.33,-14.525,300]
 type: Station
 tags:

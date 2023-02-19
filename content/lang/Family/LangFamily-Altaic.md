@@ -1,5 +1,5 @@
 ﻿---
-title: "LangFamily-Altaic
+title: "LangFamily-Altaic"
 type: LangFamily
 tags: 
 - Lang_Family

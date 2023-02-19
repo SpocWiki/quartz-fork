@@ -1,5 +1,5 @@
 ﻿---
-title: "Mercury
+title: "Mercury"
 type: Element
 GroupName: Group-12-Zinc
 ---

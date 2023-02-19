@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Columba
+title: "Zodiac-Columba"
 type: Zodiac
 tags:
 - astro/Zodiac

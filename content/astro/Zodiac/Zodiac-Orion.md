@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Orion
+title: "Zodiac-Orion"
 type: Zodiac
 tags:
 - astro/Zodiac

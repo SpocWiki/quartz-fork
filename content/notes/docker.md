@@ -1,5 +1,5 @@
 ﻿---
-title: "docker
+title: "docker"
 title: "Hosting with Docker"
 tags:
 - setup

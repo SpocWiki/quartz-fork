@@ -1,5 +1,5 @@
 ﻿---
-title: "Caeli-2
+title: "Caeli-2"
 location: [-37.144,70.512,55]
 type: Station
 tags:

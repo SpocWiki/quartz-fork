@@ -1,5 +1,5 @@
 ﻿---
-title: "Serpentis-10
+title: "Serpentis-10"
 location: [18.14,-122.825,250]
 type: Station
 tags:

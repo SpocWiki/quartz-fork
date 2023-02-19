@@ -1,5 +1,5 @@
 ﻿---
-title: "troubleshooting
+title: "troubleshooting"
 title: "Troubleshooting and FAQ"
 ---
 

@@ -1,5 +1,5 @@
 ﻿---
-title: "Gruis-61
+title: "Gruis-61"
 location: [-43.75,-22.55,400]
 type: Station
 tags:

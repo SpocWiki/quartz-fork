@@ -1,5 +1,5 @@
 ﻿---
-title: "Polaris
+title: "Polaris"
 location: [89.26,37.95,800]
 type: Station
 tags:

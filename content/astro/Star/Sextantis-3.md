@@ -1,5 +1,5 @@
 ﻿---
-title: "Sextantis-3
+title: "Sextantis-3"
 location: [-8.105,148.125,52]
 type: Station
 tags:

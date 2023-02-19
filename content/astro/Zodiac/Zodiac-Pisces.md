@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Pisces
+title: "Zodiac-Pisces"
 type: Zodiac
 tags:
 - astro/Zodiac

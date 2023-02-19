@@ -1,5 +1,5 @@
 ﻿---
-title: "Aldhafera
+title: "Aldhafera"
 location: [23.42,154.175,120]
 type: Station
 tags:

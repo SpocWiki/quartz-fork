@@ -1,5 +1,5 @@
 ﻿---
-title: "Bootis-4
+title: "Bootis-4"
 location: [33.31,-131.125,150]
 type: Station
 tags:

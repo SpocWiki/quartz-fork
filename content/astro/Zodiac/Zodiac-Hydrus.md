@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Hydrus
+title: "Zodiac-Hydrus"
 type: Zodiac
 tags:
 - astro/Zodiac

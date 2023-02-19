@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Caelum
+title: "Zodiac-Caelum"
 type: Zodiac
 tags:
 - astro/Zodiac

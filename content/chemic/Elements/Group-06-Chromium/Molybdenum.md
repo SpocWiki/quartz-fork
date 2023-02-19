@@ -1,5 +1,5 @@
 ﻿---
-title: "Molybdenum
+title: "Molybdenum"
 type: Element
 GroupName: Group-06-Chromium
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Rubidium
+title: "Rubidium"
 type: Element
 GroupName: Group-01-Alkali
 ---

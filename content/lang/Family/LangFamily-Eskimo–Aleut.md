@@ -1,5 +1,5 @@
 ﻿---
-title: "LangFamily-Eskimo–Aleut
+title: "LangFamily-Eskimo–Aleut"
 type: LangFamily
 tags: 
 - Lang_Family

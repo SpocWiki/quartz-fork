@@ -1,5 +1,5 @@
 ﻿---
-title: "Geminorum-8
+title: "Geminorum-8"
 location: [33.96,103.2,150]
 type: Station
 tags:

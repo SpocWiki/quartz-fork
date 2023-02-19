@@ -1,5 +1,5 @@
 ﻿---
-title: "Arcturus
+title: "Arcturus"
 location: [19.18,-146.075,35]
 type: Station
 tags:

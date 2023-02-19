@@ -1,5 +1,5 @@
 ﻿---
-title: "showcase
+title: "showcase"
 title: "Showcase"
 ---
 

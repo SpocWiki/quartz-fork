@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-de
+title: "Lang-de"
 type: Lang
 aliases:
 - German

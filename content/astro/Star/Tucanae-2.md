@@ -1,5 +1,5 @@
 ﻿---
-title: "Tucanae-2
+title: "Tucanae-2"
 location: [-62.96,7.9,150]
 type: Station
 tags:

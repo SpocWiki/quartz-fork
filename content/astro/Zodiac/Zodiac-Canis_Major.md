@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Canis Major
+title: "Zodiac-Canis Major"
 type: Zodiac
 tags:
 - astro/Zodiac

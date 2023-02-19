@@ -1,5 +1,5 @@
 ﻿---
-title: "Electra
+title: "Electra"
 location: [24.11,56.225,400]
 type: Station
 tags:

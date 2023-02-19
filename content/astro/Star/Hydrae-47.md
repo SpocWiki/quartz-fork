@@ -1,5 +1,5 @@
 ﻿---
-title: "Hydrae-47
+title: "Hydrae-47"
 location: [-29.26,173.075,100]
 type: Station
 tags:

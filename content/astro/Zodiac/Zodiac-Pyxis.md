@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Pyxis
+title: "Zodiac-Pyxis"
 type: Zodiac
 tags:
 - astro/Zodiac

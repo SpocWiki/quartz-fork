@@ -1,5 +1,5 @@
 ﻿---
-title: "Puppis-19
+title: "Puppis-19"
 location: [-50.61,102.475,80]
 type: Station
 tags:

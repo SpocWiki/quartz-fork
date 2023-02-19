@@ -1,5 +1,5 @@
 ﻿---
-title: "Miaplacidus
+title: "Miaplacidus"
 location: [-69.72,138.3,80]
 type: Station
 tags:

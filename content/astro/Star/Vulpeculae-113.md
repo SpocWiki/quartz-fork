@@ -1,5 +1,5 @@
 ﻿---
-title: "Vulpeculae-113
+title: "Vulpeculae-113"
 location: [24.08,-61.633,360]
 type: Station
 tags:

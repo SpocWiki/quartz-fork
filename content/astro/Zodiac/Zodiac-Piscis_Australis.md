@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Piscis Australis
+title: "Zodiac-Piscis Australis"
 type: Zodiac
 tags:
 - astro/Zodiac

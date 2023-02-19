@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Libra
+title: "Zodiac-Libra"
 type: Zodiac
 tags:
 - astro/Zodiac

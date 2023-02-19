@@ -1,5 +1,5 @@
 ﻿---
-title: "Velorum-40
+title: "Velorum-40"
 location: [-42.12,153.675,100]
 type: Station
 tags:

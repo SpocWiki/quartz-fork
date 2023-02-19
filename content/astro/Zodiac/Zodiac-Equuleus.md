@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Equuleus
+title: "Zodiac-Equuleus"
 type: Zodiac
 tags:
 - astro/Zodiac

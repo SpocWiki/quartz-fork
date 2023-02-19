@@ -1,5 +1,5 @@
 ﻿---
-title: "Crucis-4
+title: "Crucis-4"
 location: [-58.75,-176.225,400]
 type: Station
 tags:

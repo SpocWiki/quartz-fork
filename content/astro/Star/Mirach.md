@@ -1,5 +1,5 @@
 ﻿---
-title: "Mirach
+title: "Mirach"
 location: [35.62,17.425,90]
 type: Station
 tags:

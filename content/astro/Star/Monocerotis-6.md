@@ -1,5 +1,5 @@
 ﻿---
-title: "Monocerotis-6
+title: "Monocerotis-6"
 location: [-2.98,122.15,2000]
 type: Station
 tags:

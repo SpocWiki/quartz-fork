@@ -1,5 +1,5 @@
 ﻿---
-title: "Muscae-3
+title: "Muscae-3"
 location: [-72.13,-171.875,200]
 type: Station
 tags:

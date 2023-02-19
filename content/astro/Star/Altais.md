@@ -1,5 +1,5 @@
 ﻿---
-title: "Altais
+title: "Altais"
 location: [67.66,-71.85,120]
 type: Station
 tags:

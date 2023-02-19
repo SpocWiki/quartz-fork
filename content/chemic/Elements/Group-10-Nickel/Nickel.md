@@ -1,5 +1,5 @@
 ﻿---
-title: "Nickel
+title: "Nickel"
 type: Element
 GroupName: Group-10-Nickel
 ---

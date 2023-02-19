@@ -1,5 +1,5 @@
 ﻿---
-title: "Aluminium
+title: "Aluminium"
 type: Element
 GroupName: Group-13-Boron
 ---

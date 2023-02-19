@@ -1,5 +1,5 @@
 ﻿---
-title: "Potassium
+title: "Potassium"
 type: Element
 GroupName: Group-01-Alkali
 ---

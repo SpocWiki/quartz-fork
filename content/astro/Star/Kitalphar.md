@@ -1,5 +1,5 @@
 ﻿---
-title: "Kitalphar
+title: "Kitalphar"
 location: [5.25,-41.05,150]
 type: Station
 tags:

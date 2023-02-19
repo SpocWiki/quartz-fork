@@ -1,5 +1,5 @@
 ﻿---
-title: " Zodiac-Template
+title: "Zodiac-Template"
 type: Zodiac
 publish: true
 confidential: public

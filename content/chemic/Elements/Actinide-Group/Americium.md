@@ -1,5 +1,5 @@
 ﻿---
-title: "Americium
+title: "Americium"
 type: Element
 GroupName: Actinide-Group
 ---

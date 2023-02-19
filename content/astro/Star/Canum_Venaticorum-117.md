@@ -1,5 +1,5 @@
 ﻿---
-title: "Canum Venaticorum-117
+title: "Canum Venaticorum-117"
 location: [38.5,-162.475,400]
 type: Station
 tags:

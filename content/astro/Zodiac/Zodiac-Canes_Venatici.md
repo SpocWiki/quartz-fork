@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Canes Venatici
+title: "Zodiac-Canes Venatici"
 type: Zodiac
 tags:
 - astro/Zodiac

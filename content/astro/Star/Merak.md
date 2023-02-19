@@ -1,5 +1,5 @@
 ﻿---
-title: "Merak
+title: "Merak"
 location: [56.38,-194.55,60]
 type: Station
 tags:

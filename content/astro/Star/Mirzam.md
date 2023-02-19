@@ -1,5 +1,5 @@
 ﻿---
-title: "Mirzam
+title: "Mirzam"
 location: [-17.96,95.675,733]
 type: Station
 tags:

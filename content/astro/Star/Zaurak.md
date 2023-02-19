@@ -1,5 +1,5 @@
 ﻿---
-title: "Zaurak
+title: "Zaurak"
 location: [-13.51,59.5,150]
 type: Station
 tags:

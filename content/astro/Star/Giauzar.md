@@ -1,5 +1,5 @@
 ﻿---
-title: "Giauzar
+title: "Giauzar"
 location: [69.33,-187.15,200]
 type: Station
 tags:

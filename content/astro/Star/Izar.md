@@ -1,5 +1,5 @@
 ﻿---
-title: "Izar
+title: "Izar"
 location: [27.07,-138.75,150]
 type: Station
 tags:

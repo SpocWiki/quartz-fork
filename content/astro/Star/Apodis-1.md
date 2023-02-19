@@ -1,5 +1,5 @@
 ﻿---
-title: "Apodis-1
+title: "Apodis-1"
 location: [-79.045,-138.033,200]
 type: Station
 tags:

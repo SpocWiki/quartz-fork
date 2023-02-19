@@ -1,5 +1,5 @@
 ﻿---
-title: "Antares
+title: "Antares"
 location: [-26.43,-112.65,500]
 type: Station
 tags:

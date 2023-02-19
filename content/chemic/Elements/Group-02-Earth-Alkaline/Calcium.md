@@ -1,5 +1,5 @@
 ﻿---
-title: "Calcium
+title: "Calcium"
 type: Element
 GroupName: Group-02-Earth-Alkaline
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Sirius
+title: "Sirius"
 location: [-16.72,101.275,8.7]
 type: Station
 tags:

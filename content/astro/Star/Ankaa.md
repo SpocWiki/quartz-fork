@@ -1,5 +1,5 @@
 ﻿---
-title: "Ankaa
+title: "Ankaa"
 location: [-42.31,6.575,80]
 type: Station
 tags:

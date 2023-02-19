@@ -1,5 +1,5 @@
 ﻿---
-title: "private-note
+title: "private-note"
 title: "Private Stuff"
 ---
 

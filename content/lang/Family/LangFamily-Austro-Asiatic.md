@@ -1,5 +1,5 @@
 ﻿---
-title: "LangFamily-Austro-Asiatic
+title: "LangFamily-Austro-Asiatic"
 type: LangFamily
 tags: 
 - Lang_Family

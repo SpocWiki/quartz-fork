@@ -1,5 +1,5 @@
 ﻿---
-title: "Antliae-8
+title: "Antliae-8"
 location: [-27.769,146.05,46]
 type: Station
 tags:

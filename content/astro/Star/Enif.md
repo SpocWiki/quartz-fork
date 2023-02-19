@@ -1,5 +1,5 @@
 ﻿---
-title: "Enif
+title: "Enif"
 location: [9.88,-33.95,500]
 type: Station
 tags:

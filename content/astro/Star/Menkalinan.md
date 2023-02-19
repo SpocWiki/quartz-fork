@@ -1,5 +1,5 @@
 ﻿---
-title: "Menkalinan
+title: "Menkalinan"
 location: [44.95,89.875,70]
 type: Station
 tags:

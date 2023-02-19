@@ -1,5 +1,5 @@
 ﻿---
-title: "Californium
+title: "Californium"
 type: Element
 GroupName: Actinide-Group
 ---

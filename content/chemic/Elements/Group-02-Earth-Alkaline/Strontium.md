@@ -1,5 +1,5 @@
 ﻿---
-title: "Strontium
+title: "Strontium"
 type: Element
 GroupName: Group-02-Earth-Alkaline
 ---

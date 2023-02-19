@@ -1,5 +1,5 @@
 ﻿---
-title: "Alcor
+title: "Alcor"
 location: [54.99,-158.7,70]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "Columbae-3
+title: "Columbae-3"
 location: [-35.28,89.375,800]
 type: Station
 tags:

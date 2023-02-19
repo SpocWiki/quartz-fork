@@ -1,5 +1,5 @@
 ﻿---
-title: "Neodymium
+title: "Neodymium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21956

@@ -1,5 +1,5 @@
 ﻿---
-title: "Fermium
+title: "Fermium"
 type: Element
 GroupName: Actinide-Group
 ---

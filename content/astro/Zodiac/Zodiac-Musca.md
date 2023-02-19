@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Musca
+title: "Zodiac-Musca"
 type: Zodiac
 tags:
 - astro/Zodiac

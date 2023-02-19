@@ -1,5 +1,5 @@
 ﻿---
-title: "Pyxidis-3
+title: "Pyxidis-3"
 location: [-27.71,132.625,200]
 type: Station
 tags:

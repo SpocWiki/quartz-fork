@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Corona Australis
+title: "Zodiac-Corona Australis"
 type: Zodiac
 tags:
 - astro/Zodiac

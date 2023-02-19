@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Chamaeleon
+title: "Zodiac-Chamaeleon"
 type: Zodiac
 tags:
 - astro/Zodiac

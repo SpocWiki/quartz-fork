@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Bootes
+title: "Zodiac-Bootes"
 type: Zodiac
 tags:
 - astro/Zodiac

@@ -1,5 +1,5 @@
 ﻿---
-title: "Caesium
+title: "Caesium"
 type: Element
 GroupName: Group-01-Alkali
 ---

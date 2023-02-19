@@ -1,5 +1,5 @@
 ﻿---
-title: "Chamaeleontis-1
+title: "Chamaeleontis-1"
 location: [-76.92,124.625,80]
 type: Station
 tags:

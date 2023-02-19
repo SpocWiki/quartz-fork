@@ -1,5 +1,5 @@
 ﻿---
-title: "TV Piscium
+title: "TV Piscium"
 location: [17.89,7,400]
 type: Station
 tags:

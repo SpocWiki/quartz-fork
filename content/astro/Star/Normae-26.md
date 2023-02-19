@@ -1,5 +1,5 @@
 ﻿---
-title: "Normae-26
+title: "Normae-26"
 location: [-50.16,-115.05,120]
 type: Station
 tags:

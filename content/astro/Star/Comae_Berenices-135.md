@@ -1,5 +1,5 @@
 ﻿---
-title: "Comae Berenices-135
+title: "Comae Berenices-135"
 location: [21.24,-166.675,250]
 type: Station
 tags:

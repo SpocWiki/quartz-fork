@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Aquila
+title: "Zodiac-Aquila"
 type: Zodiac
 tags:
 - astro/Zodiac

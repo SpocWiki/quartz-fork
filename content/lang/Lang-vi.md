@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-vi
+title: "Lang-vi"
 type: Lang
 aliases:
 - Vietnamese

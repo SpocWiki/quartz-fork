@@ -1,5 +1,5 @@
 ﻿---
-title: "LangFamily-Koreanic
+title: "LangFamily-Koreanic"
 type: LangFamily
 tags: 
 - Lang_Family

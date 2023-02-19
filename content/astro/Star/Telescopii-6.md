@@ -1,5 +1,5 @@
 ﻿---
-title: "Telescopii-6
+title: "Telescopii-6"
 location: [-49.07,-82.8,200]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "Mensae-2
+title: "Mensae-2"
 location: [-71.314,75.679,55]
 type: Station
 tags:

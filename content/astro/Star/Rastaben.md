@@ -1,5 +1,5 @@
 ﻿---
-title: "Rastaben
+title: "Rastaben"
 location: [52.3,-97.4,250]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "Protactinium
+title: "Protactinium"
 type: Element
 GroupName: Actinide-Group
 ---

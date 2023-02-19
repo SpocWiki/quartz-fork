@@ -1,5 +1,5 @@
 ﻿---
-title: "Thulium
+title: "Thulium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21965

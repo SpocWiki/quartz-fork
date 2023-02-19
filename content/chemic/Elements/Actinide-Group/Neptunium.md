@@ -1,5 +1,5 @@
 ﻿---
-title: "Neptunium
+title: "Neptunium"
 type: Element
 GroupName: Actinide-Group
 ---

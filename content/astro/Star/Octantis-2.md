@@ -1,5 +1,5 @@
 ﻿---
-title: "Octantis-2
+title: "Octantis-2"
 location: [-81.38,-18.475,100]
 type: Station
 tags:

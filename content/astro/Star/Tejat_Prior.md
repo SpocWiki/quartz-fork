@@ -1,5 +1,5 @@
 ﻿---
-title: "Tejat Prior
+title: "Tejat Prior"
 location: [22.51,93.725,200]
 type: Station
 tags:

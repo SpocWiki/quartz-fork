@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-ps
+title: "Lang-ps"
 type: Lang
 aliases:
 - Pashto

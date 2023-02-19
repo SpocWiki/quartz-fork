@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-wu
+title: "Lang-wu"
 type: Lang
 aliases:
 - Wu

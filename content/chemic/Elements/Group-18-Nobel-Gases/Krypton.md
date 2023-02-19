@@ -1,5 +1,5 @@
 ﻿---
-title: "Krypton
+title: "Krypton"
 type: Element
 GroupName: Group-18-Nobel-Gases
 SpocWebEntityId: 21934

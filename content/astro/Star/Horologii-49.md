@@ -1,5 +1,5 @@
 ﻿---
-title: "Horologii-49
+title: "Horologii-49"
 location: [-49.89,43.475,500]
 type: Station
 tags:

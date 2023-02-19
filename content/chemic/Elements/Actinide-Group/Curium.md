@@ -1,5 +1,5 @@
 ﻿---
-title: "Curium
+title: "Curium"
 type: Element
 GroupName: Actinide-Group
 ---

@@ -1,5 +1,5 @@
 ﻿---
-title: "Pavonis-10
+title: "Pavonis-10"
 location: [-67.23,-75.775,600]
 type: Station
 tags:

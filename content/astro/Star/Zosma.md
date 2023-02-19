@@ -1,5 +1,5 @@
 ﻿---
-title: "Zosma
+title: "Zosma"
 location: [20.52,168.525,60]
 type: Station
 tags:

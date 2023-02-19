@@ -1,5 +1,5 @@
 ﻿---
-title: "Reticuli-5
+title: "Reticuli-5"
 location: [-59.3,64.125,70]
 type: Station
 tags:

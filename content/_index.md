@@ -1,13 +1,10 @@
 ﻿---
-title: " index
+title: "index"
 title: SpocWiki Titel
 enableToc: true
 ---
 
-[A-Z,@a~z;(0.9)](A-Z,@a~z;(0.9).md) 
-
-Have a look at our [List of all Tags and Articles](/tags/)!
-
+[A-Z,@a~z;(0=9)](A-Z,@a~z;(0=9).md) 
 
 # index
 

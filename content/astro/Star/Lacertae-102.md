@@ -1,5 +1,5 @@
 ﻿---
-title: "Lacertae-102
+title: "Lacertae-102"
 location: [46.54,-24.75,400]
 type: Station
 tags:

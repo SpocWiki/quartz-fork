@@ -1,5 +1,5 @@
 ﻿---
-title: "Diadem
+title: "Diadem"
 location: [17.53,-162.5,60]
 type: Station
 tags:

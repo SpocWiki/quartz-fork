@@ -1,5 +1,5 @@
 ﻿---
-title: "Coronae Borealis-7
+title: "Coronae Borealis-7"
 location: [30.29,-129.2,55]
 type: Station
 tags:

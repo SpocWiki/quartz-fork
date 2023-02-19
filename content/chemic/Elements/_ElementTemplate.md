@@ -1,5 +1,5 @@
 ﻿---
-title: " ElementTemplate
+title: "ElementTemplate"
 type: Element
 tags:
 - chemic/Element

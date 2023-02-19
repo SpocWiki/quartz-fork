@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-tr
+title: "Lang-tr"
 type: Lang
 aliases:
 - Turkish

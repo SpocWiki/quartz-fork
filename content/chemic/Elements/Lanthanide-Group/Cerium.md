@@ -1,5 +1,5 @@
 ﻿---
-title: "Cerium
+title: "Cerium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21954

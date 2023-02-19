@@ -1,5 +1,5 @@
 ﻿---
-title: "Canis Majoris-129
+title: "Canis Majoris-129"
 location: [-24.56,109.675,5000]
 type: Station
 tags:

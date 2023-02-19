@@ -1,5 +1,5 @@
 ﻿---
-title: "Fornacis-2
+title: "Fornacis-2"
 location: [-32.41,42.275,200]
 type: Station
 tags:

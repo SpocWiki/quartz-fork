@@ -1,5 +1,5 @@
 ﻿---
-title: "Tejat Posterior
+title: "Tejat Posterior"
 location: [22.51,95.75,150]
 type: Station
 tags:

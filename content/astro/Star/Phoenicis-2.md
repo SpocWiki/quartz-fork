@@ -1,5 +1,5 @@
 ﻿---
-title: "Phoenicis-2
+title: "Phoenicis-2"
 location: [-46.72,16.525,150]
 type: Station
 tags:

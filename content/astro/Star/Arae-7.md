@@ -1,5 +1,5 @@
 ﻿---
-title: "Arae-7
+title: "Arae-7"
 location: [-59.04,-107.55,200]
 type: Station
 tags:

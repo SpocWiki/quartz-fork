@@ -1,5 +1,5 @@
 ﻿---
-title: "Europium
+title: "Europium"
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21959

@@ -1,5 +1,5 @@
 ﻿---
-title: "Asellus Australis
+title: "Asellus Australis"
 location: [18.15,131.175,150]
 type: Station
 tags:

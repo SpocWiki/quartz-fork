@@ -1,5 +1,5 @@
 ﻿---
-title: "Zinc
+title: "Zinc"
 type: Element
 GroupName: Group-12-Zinc
 ---

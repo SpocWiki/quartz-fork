@@ -1,5 +1,5 @@
 ﻿---
-title: "Librae-18
+title: "Librae-18"
 location: [-25.28,-133.975,120]
 type: Station
 tags:

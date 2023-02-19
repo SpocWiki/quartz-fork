@@ -1,5 +1,5 @@
 ﻿---
-title: "Eridani-139
+title: "Eridani-139"
 location: [-10.26,63.6,300]
 type: Station
 tags:

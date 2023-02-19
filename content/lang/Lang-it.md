@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-it
+title: "Lang-it"
 type: Lang
 aliases:
 - Italian

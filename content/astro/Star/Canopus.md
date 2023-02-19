@@ -1,5 +1,5 @@
 ﻿---
-title: "Canopus
+title: "Canopus"
 location: [-52.7,96,150]
 type: Station
 tags:

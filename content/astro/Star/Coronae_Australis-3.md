@@ -1,5 +1,5 @@
 ﻿---
-title: "Coronae Australis-3
+title: "Coronae Australis-3"
 location: [-37.06,-73.4,55]
 type: Station
 tags:

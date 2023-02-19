@@ -1,5 +1,5 @@
 ﻿---
-title: "Delphini-5
+title: "Delphini-5"
 location: [11.3,-51.7,500]
 type: Station
 tags:

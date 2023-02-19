@@ -1,5 +1,5 @@
 ﻿---
-title: "Yttrium
+title: "Yttrium"
 type: Element
 GroupName: Group-03-Scandium
 ---

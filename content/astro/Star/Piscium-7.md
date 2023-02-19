@@ -1,5 +1,5 @@
 ﻿---
-title: "Piscium-7
+title: "Piscium-7"
 location: [15.35,22.875,150]
 type: Station
 tags:

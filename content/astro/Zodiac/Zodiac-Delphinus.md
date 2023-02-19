@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Delphinus
+title: "Zodiac-Delphinus"
 type: Zodiac
 tags:
 - astro/Zodiac

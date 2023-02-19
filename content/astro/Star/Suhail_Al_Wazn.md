@@ -1,5 +1,5 @@
 ﻿---
-title: "Suhail Al Wazn
+title: "Suhail Al Wazn"
 location: [-43.43,137,500]
 type: Station
 tags:

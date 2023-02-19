@@ -1,5 +1,5 @@
 ﻿---
-title: "Cassiopeiae-104
+title: "Cassiopeiae-104"
 location: [62.28,-8.8,300]
 type: Station
 tags:

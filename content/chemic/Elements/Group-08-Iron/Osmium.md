@@ -1,5 +1,5 @@
 ﻿---
-title: "Osmium
+title: "Osmium"
 type: Element
 GroupName: Group-08-Iron
 ---

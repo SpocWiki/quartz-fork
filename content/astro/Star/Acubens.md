@@ -1,5 +1,5 @@
 ﻿---
-title: "Acubens
+title: "Acubens"
 location: [11.86,134.625,150]
 type: Station
 tags:

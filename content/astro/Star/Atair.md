@@ -1,5 +1,5 @@
 ﻿---
-title: "Atair
+title: "Atair"
 location: [8.87,-62.3,16]
 type: Station
 tags:

@@ -1,5 +1,5 @@
 ﻿---
-title: "Lang-pa
+title: "Lang-pa"
 type: Lang
 aliases:
 - Punjabi

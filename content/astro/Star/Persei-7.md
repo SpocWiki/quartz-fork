@@ -1,5 +1,5 @@
 ﻿---
-title: "Persei-7
+title: "Persei-7"
 location: [55.9,42.675,800]
 type: Station
 tags:

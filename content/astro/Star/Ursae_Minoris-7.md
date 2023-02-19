@@ -1,5 +1,5 @@
 ﻿---
-title: "Ursae Minoris-7
+title: "Ursae Minoris-7"
 location: [75.76,-115.625,80]
 type: Station
 tags:

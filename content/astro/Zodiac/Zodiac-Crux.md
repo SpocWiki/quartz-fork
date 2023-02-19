@@ -1,5 +1,5 @@
 ﻿---
-title: "Zodiac-Crux
+title: "Zodiac-Crux"
 type: Zodiac
 tags:
 - astro/Zodiac
