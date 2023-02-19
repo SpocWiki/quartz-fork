@@ -1,9 +1,11 @@
-﻿---
-title: SpocWiki
+---
+title: SpocWiki Titel
 enableToc: true
 ---
 
-#  index
+[A-Z,@a~z;(0=9)](A-Z,@a~z;(0=9).md) 
+
+# index
 
 
 # SpocWiki
