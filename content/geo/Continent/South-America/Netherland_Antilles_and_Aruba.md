@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -18,7 +18,7 @@ confidential: public
 [Continent::South-America]
 [VehicleCode::]
 [Capital-Id::]
-![Anthem-Netherlands-antilles](xLarge/National-Anthem/Anthem-Netherlands-antilles.mp3)
+![[Anthem-Netherlands-antilles.mp3]]
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::]

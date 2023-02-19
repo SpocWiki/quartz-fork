@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -15,10 +15,10 @@ confidential: public
 [name-de::Vatikanstadt]
 [Area-Total::0]
 [Area-Land::0]
-[Continent::[Europe](geo/Continent/Europe.md)]
+[Continent::[[Europe]]]
 [VehicleCode::V]
-[Capital::[Roma](geo/Continent/Europe/Italy/Roma.md)]
-![Anthem-Holy-see](xLarge/National-Anthem/Anthem-Holy-see.mp3)
+[Capital::[[Roma]]]
+![[Anthem-Holy-see.mp3]]
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::]

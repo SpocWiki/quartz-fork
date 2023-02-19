@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -15,7 +15,7 @@ confidential: public
 [name-de::Svalbard Inseln]
 [Area-Total::0]
 [Area-Land::0]
-[Continent::[Europe](geo/Continent/Europe.md)]
+[Continent::[[Europe]]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -15,7 +15,7 @@ confidential: public
 [name-de::Andere Schiffahrt]
 [Area-Total::]
 [Area-Land::]
-[Continent::[Oceania](geo/Continent/Oceania.md)]
+[Continent::[[Oceania]]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

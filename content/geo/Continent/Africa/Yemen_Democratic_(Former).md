@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -15,7 +15,7 @@ confidential: public
 [name-de::Süd Jemen]
 [Area-Total::]
 [Area-Land::]
-[Continent::[Africa](geo/Continent/Africa.md)]
+[Continent::[[Africa]]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

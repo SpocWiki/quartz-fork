@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -15,9 +15,9 @@ confidential: public
 [name-de::Frankreich, Metropolen]
 [Area-Total::0]
 [Area-Land::0]
-[Continent::[Europe](geo/Continent/Europe.md)]
+[Continent::[[Europe]]]
 [VehicleCode::F]
-[Capital::[Paris](geo/Continent/Europe/France/Paris.md)]
+[Capital::[[Paris]]]
 [Alcohol-l::]
 [Language-Id::496]
 [geo-lon::]

@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -15,7 +15,7 @@ confidential: public
 [name-de::Antarktische Fischgebiete]
 [Area-Total::]
 [Area-Land::]
-[Continent::[Antarctica](geo/Continent/Antarctica.md)]
+[Continent::[[Antarctica]]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

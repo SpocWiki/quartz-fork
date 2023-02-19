@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -13,7 +13,7 @@ confidential: public
 [name-de::Kanalinseln]
 [Area-Total::]
 [Area-Land::]
-[Continent::[Europe](geo/Continent/Europe.md)]
+[Continent::[[Europe]]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

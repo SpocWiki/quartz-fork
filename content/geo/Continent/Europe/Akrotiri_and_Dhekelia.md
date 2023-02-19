@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -15,7 +15,7 @@ confidential: public
 [name-de::Akrotiri und Dhekelia (Zypern)]
 [Area-Total::]
 [Area-Land::]
-[Continent::[Europe](geo/Continent/Europe.md)]
+[Continent::[[Europe]]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

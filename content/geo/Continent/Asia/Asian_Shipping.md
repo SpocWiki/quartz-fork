@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -15,7 +15,7 @@ confidential: public
 [name-de::Asien Schiffahrt]
 [Area-Total::]
 [Area-Land::]
-[Continent::[Asia](geo/Continent/Asia.md)]
+[Continent::[[Asia]]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

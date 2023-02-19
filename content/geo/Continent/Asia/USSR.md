@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 created:
 destroyed:
@@ -19,7 +19,7 @@ confidential: public
 [name-de::UdSSR]
 [Area-Total::]
 [Area-Land::]
-[Continent::[Asia](geo/Continent/Asia.md)]
+[Continent::[[Asia]]]
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

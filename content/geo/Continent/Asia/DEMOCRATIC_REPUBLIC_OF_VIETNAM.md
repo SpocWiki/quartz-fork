@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: Country
 tags:
 - geo/Country
@@ -15,9 +15,9 @@ confidential: public
 [name-de::Nord Vietnam]
 [Area-Total::]
 [Area-Land::]
-[Continent::[Asia](geo/Continent/Asia.md)]
+[Continent::[[Asia]]]
 [VehicleCode::]
-[Capital::[Hanoe](geo/Continent/Europe/Sweden/Hanoe.md)]
+[Capital::[[Hanoe]]]
 [Alcohol-l::]
 [Language-Id::]
 [geo-lon::]

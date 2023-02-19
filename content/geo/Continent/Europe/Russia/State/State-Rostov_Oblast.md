@@ -1,5 +1,5 @@
 ﻿---
-location: [,]
+
 type: State
 tags:
 - geo/State
@@ -12,8 +12,8 @@ confidential: public
 ---
 [name::Rostov Oblast]
 [name-abbr::]
-[Country::[Russia](geo/Continent/Europe/Russia.md)]
-[Capital::[Rostow=Rostov-na-Donu](geo/Continent/Europe/Russia/Rostow=Rostov-na-Donu.md)]
+[Country::[[Russia]]]
+[Capital::[[Rostow=Rostov-na-Donu]]]
 [geo-lon::]
 [geo-lat::]
 [Population::]
