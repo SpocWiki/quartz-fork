@@ -1,4 +1,5 @@
 ﻿---
+title: "Leonis-5
 location: [23.77,146.475,300]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Canis Minoris-3
 location: [8.93,112.05,200]
 type: Station
 tags:

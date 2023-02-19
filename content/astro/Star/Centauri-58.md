@@ -1,4 +1,5 @@
 ﻿---
+title: "Centauri-58
 location: [-60.99,-159.35,600]
 type: Station
 tags:

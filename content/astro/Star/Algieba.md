@@ -1,4 +1,5 @@
 ﻿---
+title: "Algieba
 location: [19.84,155,150]
 type: Station
 tags:

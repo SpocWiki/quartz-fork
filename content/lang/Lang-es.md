@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-es
 type: Lang
 aliases:
 - Spanish

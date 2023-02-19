@@ -1,4 +1,5 @@
 ﻿---
+title: "Silver
 type: Element
 GroupName: Group-11-Copper
 ---

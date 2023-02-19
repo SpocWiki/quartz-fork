@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Vulpecula
 type: Zodiac
 tags:
 - astro/Zodiac

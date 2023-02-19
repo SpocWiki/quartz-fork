@@ -1,4 +1,5 @@
 ﻿---
+title: "Leonis-49
 location: [11.43,146.9,300]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Cepheus
 type: Zodiac
 tags:
 - astro/Zodiac

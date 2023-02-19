@@ -1,4 +1,5 @@
 ﻿---
+title: "Aquarii-188
 location: [-21.17,-12.65,150]
 type: Station
 tags:

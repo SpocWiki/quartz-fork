@@ -1,4 +1,5 @@
 ﻿---
+title: "Lupi-32
 location: [-36.26,-129.55,200]
 type: Station
 tags:

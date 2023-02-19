@@ -1,4 +1,5 @@
 ﻿---
+title: "Titanium
 type: Element
 GroupName: Group-04-Titanium
 ---

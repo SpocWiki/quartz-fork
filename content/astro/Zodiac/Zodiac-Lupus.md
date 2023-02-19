@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Lupus
 type: Zodiac
 tags:
 - astro/Zodiac

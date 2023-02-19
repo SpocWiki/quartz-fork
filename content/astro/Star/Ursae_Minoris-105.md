@@ -1,4 +1,5 @@
 ﻿---
+title: "Ursae Minoris-105
 location: [75.7,-143.125,250]
 type: Station
 tags:

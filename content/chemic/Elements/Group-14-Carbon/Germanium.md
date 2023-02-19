@@ -1,4 +1,5 @@
 ﻿---
+title: "Germanium
 type: Element
 GroupName: Group-14-Carbon
 SpocWebEntityId: 21930

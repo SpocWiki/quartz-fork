@@ -1,4 +1,5 @@
 ﻿---
+title: " Star-Template
 type: Star
 isDeleted: false
 isReadOnly: false

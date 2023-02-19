@@ -1,4 +1,5 @@
 ﻿---
+title: "Trianguli-3
 location: [33.85,34.325,150]
 type: Station
 tags:

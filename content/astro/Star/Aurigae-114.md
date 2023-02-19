@@ -1,4 +1,5 @@
 ﻿---
+title: "Aurigae-114
 location: [32.69,78.85,200]
 type: Station
 tags:

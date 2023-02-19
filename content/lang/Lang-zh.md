@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-zh
 type: Lang
 aliases:
 - Chinese

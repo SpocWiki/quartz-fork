@@ -1,4 +1,5 @@
 ﻿---
+title: "Tarazed
 location: [10.61,-63.425,300]
 type: Station
 tags:

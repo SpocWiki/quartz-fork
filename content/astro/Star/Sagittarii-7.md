@@ -1,4 +1,5 @@
 ﻿---
+title: "Sagittarii-7
 location: [-36.76,-85.6,120]
 type: Station
 tags:

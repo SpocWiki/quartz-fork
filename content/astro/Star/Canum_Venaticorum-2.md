@@ -1,4 +1,5 @@
 ﻿---
+title: "Canum Venaticorum-2
 location: [41.36,-171.575,30]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-pl
 type: Lang
 aliases:
 - Polish

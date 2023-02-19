@@ -1,4 +1,5 @@
 ﻿---
+title: "Herculis-15
 location: [28.76,-88.125,150]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-pa
 type: Lang
 aliases:
 - Punjabi

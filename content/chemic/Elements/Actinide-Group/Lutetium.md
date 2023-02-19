@@ -1,4 +1,5 @@
 ﻿---
+title: "Lutetium
 type: Element
 GroupName: Actinide-Group
 ---

@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Equuleus
 type: Zodiac
 tags:
 - astro/Zodiac

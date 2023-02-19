@@ -1,4 +1,5 @@
 ﻿---
+title: "Reticuli-4
 location: [-61.4,59.675,300]
 type: Station
 tags:

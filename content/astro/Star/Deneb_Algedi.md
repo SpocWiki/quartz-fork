@@ -1,4 +1,5 @@
 ﻿---
+title: "Deneb Algedi
 location: [-16.13,-33.25,40]
 type: Station
 tags:

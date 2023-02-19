@@ -1,4 +1,5 @@
 ﻿---
+title: "Arae-8
 location: [-50.09,-88.35,2000]
 type: Station
 tags:

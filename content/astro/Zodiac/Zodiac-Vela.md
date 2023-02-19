@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Vela
 type: Zodiac
 tags:
 - astro/Zodiac

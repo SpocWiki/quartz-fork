@@ -1,4 +1,5 @@
 ﻿---
+title: "Persei-116
 location: [38.32,42.65,150]
 type: Station
 tags:

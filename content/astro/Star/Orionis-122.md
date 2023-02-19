@@ -1,4 +1,5 @@
 ﻿---
+title: "Orionis-122
 location: [-0.39,80.425,1500]
 type: Station
 tags:

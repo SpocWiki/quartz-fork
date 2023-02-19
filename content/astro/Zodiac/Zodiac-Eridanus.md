@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Eridanus
 type: Zodiac
 tags:
 - astro/Zodiac

@@ -1,4 +1,5 @@
 ﻿---
+title: "Castor
 location: [31.89,113.65,50]
 type: Station
 tags:

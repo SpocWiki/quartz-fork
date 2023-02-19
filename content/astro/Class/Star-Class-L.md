@@ -1,4 +1,5 @@
 ﻿---
+title: "Star-Class-L
 type: StarClass
 SpocWebEntityId: 28194
 isDeleted: false

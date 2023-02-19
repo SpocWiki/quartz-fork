@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-yu
 type: Lang
 aliases:
 - Yue

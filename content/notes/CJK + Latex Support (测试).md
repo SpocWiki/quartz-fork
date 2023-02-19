@@ -1,4 +1,5 @@
 ﻿---
+title: "CJK + Latex Support (测试)
 title: "CJK + Latex Support (测试)"
 ---
 

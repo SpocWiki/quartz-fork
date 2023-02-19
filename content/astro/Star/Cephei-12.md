@@ -1,4 +1,5 @@
 ﻿---
+title: "Cephei-12
 location: [58.78,-34.125,3000]
 type: Station
 tags:

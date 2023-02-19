@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-bn
 type: Lang
 aliases:
 - Bengali

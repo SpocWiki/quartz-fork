@@ -1,4 +1,5 @@
 ﻿---
+title: "Arietis-11
 location: [23.6,29.475,150]
 type: Station
 tags:

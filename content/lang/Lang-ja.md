@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-ja
 type: Lang
 aliases:
 - Japanese

@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Pisces
 type: Zodiac
 tags:
 - astro/Zodiac

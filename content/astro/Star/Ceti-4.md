@@ -1,4 +1,5 @@
 ﻿---
+title: "Ceti-4
 location: [0.33,39.875,800]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Coronae Australis-2
 location: [-39.34,-72.5,400]
 type: Station
 tags:

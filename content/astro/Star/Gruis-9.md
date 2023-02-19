@@ -1,4 +1,5 @@
 ﻿---
+title: "Gruis-9
 location: [-45.25,-12.4,150]
 type: Station
 tags:

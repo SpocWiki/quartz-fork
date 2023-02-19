@@ -1,4 +1,5 @@
 ﻿---
+title: "Lupi-10
 location: [-48.74,-132.025,200]
 type: Station
 tags:

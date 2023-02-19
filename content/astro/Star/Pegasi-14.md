@@ -1,4 +1,5 @@
 ﻿---
+title: "Pegasi-14
 location: [12.17,-18.325,60]
 type: Station
 tags:

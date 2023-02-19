@@ -1,4 +1,5 @@
 ﻿---
+title: "Eridani-152
 location: [-30.56,68.9,200]
 type: Station
 tags:

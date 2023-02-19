@@ -1,4 +1,5 @@
 ﻿---
+title: "Andromedae-20
 location: [41.41,24.2,45]
 type: Station
 tags:

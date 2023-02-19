@@ -1,4 +1,5 @@
 ﻿---
+title: "Thuban
 location: [64.38,-148.9,200]
 type: Station
 tags:

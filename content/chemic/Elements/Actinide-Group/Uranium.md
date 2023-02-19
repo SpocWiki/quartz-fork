@@ -1,4 +1,5 @@
 ﻿---
+title: "Uranium
 type: Element
 GroupName: Actinide-Group
 ---

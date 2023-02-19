@@ -1,4 +1,5 @@
 ﻿---
+title: "Virginis-22
 location: [-8,-170.2,250]
 type: Station
 tags:

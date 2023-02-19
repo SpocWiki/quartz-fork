@@ -1,4 +1,5 @@
 ﻿---
+title: "Puppis-48
 location: [-44.64,108.375,150]
 type: Station
 tags:

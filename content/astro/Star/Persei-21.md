@@ -1,4 +1,5 @@
 ﻿---
+title: "Persei-21
 location: [50.69,25.925,1000]
 type: Station
 tags:

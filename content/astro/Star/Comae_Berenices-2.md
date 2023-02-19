@@ -1,4 +1,5 @@
 ﻿---
+title: "Comae Berenices-2
 location: [27.88,-162.025,27]
 type: Station
 tags:

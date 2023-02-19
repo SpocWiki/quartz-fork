@@ -1,4 +1,5 @@
 ﻿---
+title: "Einsteinium
 type: Element
 GroupName: Actinide-Group
 ---

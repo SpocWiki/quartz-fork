@@ -1,4 +1,5 @@
 ﻿---
+title: "Francium
 type: Element
 GroupName: Group-01-Alkali
 ---

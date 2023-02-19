@@ -1,4 +1,5 @@
 ﻿---
+title: "Aquarii-6
 location: [-0.02,-22.8,100]
 type: Station
 tags:

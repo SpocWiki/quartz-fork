@@ -1,4 +1,5 @@
 ﻿---
+title: "Canis Majoris-245
 location: [-23.32,109.15,2000]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Lyrae-10
 location: [36.06,-85.025,250]
 type: Station
 tags:

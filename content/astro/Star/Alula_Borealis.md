@@ -1,4 +1,5 @@
 ﻿---
+title: "Alula Borealis
 location: [33.09,-190.375,150]
 type: Station
 tags:

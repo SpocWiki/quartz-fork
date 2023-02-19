@@ -1,4 +1,5 @@
 ﻿---
+title: "Kaus Borealis
 location: [-25.42,-83,100]
 type: Station
 tags:

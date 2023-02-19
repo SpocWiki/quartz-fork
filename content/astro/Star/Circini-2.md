@@ -1,4 +1,5 @@
 ﻿---
+title: "Circini-2
 location: [-58.8,-130.625,80]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Plutonium
 type: Element
 GroupName: Actinide-Group
 ---

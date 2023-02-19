@@ -1,4 +1,5 @@
 ﻿---
+title: "Velorum-43
 location: [-55.6,159.825,600]
 type: Station
 tags:

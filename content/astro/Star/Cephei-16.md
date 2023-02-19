@@ -1,4 +1,5 @@
 ﻿---
+title: "Cephei-16
 location: [75.39,-13.025,200]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Nitrogen
 type: Element
 GroupName: Group-15-Nitrogen
 SpocWebEntityId: 21909

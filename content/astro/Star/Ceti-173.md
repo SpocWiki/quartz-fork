@@ -1,4 +1,5 @@
 ﻿---
+title: "Ceti-173
 location: [8.46,37.05,300]
 type: Station
 tags:

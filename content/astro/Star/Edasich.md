@@ -1,4 +1,5 @@
 ﻿---
+title: "Edasich
 location: [58.97,-128.775,150]
 type: Station
 tags:

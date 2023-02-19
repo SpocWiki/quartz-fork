@@ -1,4 +1,5 @@
 ﻿---
+title: "Wasat
 location: [21.98,110.025,60]
 type: Station
 tags:

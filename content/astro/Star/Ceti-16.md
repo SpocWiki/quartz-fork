@@ -1,4 +1,5 @@
 ﻿---
+title: "Ceti-16
 location: [-13.86,41.025,300]
 type: Station
 tags:

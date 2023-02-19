@@ -1,4 +1,5 @@
 ﻿---
+title: "Persei-10
 location: [44.86,47.375,150]
 type: Station
 tags:

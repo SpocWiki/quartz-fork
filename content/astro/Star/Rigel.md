@@ -1,4 +1,5 @@
 ﻿---
+title: "Rigel
 location: [-8.2,78.625,1000]
 type: Station
 tags:

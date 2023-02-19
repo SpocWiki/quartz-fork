@@ -1,4 +1,5 @@
 ﻿---
+title: "Pleione
 location: [24.137,57.296,400]
 type: Station
 tags:

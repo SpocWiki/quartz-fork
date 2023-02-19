@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-te
 type: Lang
 aliases:
 - Telugu

@@ -1,4 +1,5 @@
 ﻿---
+title: "Ceginus
 location: [38.31,-141.975,100]
 type: Station
 tags:

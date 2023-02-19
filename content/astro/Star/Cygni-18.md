@@ -1,4 +1,5 @@
 ﻿---
+title: "Cygni-18
 location: [39.39,-40.65,5000]
 type: Station
 tags:

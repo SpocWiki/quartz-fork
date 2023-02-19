@@ -1,4 +1,5 @@
 ﻿---
+title: "Bootis-14
 location: [19.1,-137.15,22]
 type: Station
 tags:

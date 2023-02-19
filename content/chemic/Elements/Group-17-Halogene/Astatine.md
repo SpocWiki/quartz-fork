@@ -1,4 +1,5 @@
 ﻿---
+title: "Astatine
 type: Element
 GroupName: Group-17-Halogene
 SpocWebEntityId: 21980

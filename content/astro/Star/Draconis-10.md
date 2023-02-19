@@ -1,4 +1,5 @@
 ﻿---
+title: "Draconis-10
 location: [69.79,-171.625,400]
 type: Station
 tags:

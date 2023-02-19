@@ -1,4 +1,5 @@
 ﻿---
+title: "Virginis-8
 location: [-5.54,-162.525,150]
 type: Station
 tags:

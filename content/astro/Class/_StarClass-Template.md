@@ -1,4 +1,5 @@
 ﻿---
+title: " StarClass-Template
 type: StarClass
 license: CC BY-SA 4.0
 publish: true

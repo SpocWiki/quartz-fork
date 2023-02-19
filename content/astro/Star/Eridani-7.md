@@ -1,4 +1,5 @@
 ﻿---
+title: "Eridani-7
 location: [-8.9,44.1,100]
 type: Station
 tags:

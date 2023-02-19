@@ -1,4 +1,5 @@
 ﻿---
+title: "Cassiopeiae-18
 location: [55.76,-0.25,1500]
 type: Station
 tags:

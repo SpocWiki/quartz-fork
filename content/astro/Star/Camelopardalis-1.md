@@ -1,4 +1,5 @@
 ﻿---
+title: "Camelopardalis-1
 location: [66.34,73.525,3000]
 type: Station
 tags:

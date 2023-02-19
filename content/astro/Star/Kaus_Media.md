@@ -1,4 +1,5 @@
 ﻿---
+title: "Kaus Media
 location: [-29.83,-84.75,80]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Geminorum-138
 location: [13.18,103.65,80]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Indium
 type: Element
 GroupName: Group-13-Boron
 SpocWebEntityId: 21946

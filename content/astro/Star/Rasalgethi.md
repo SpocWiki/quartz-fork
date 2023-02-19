@@ -1,4 +1,5 @@
 ﻿---
+title: "Rasalgethi
 location: [14.39,-101.35,600]
 type: Station
 tags:

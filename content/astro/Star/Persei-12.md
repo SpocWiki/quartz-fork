@@ -1,4 +1,5 @@
 ﻿---
+title: "Persei-12
 location: [48.41,63.725,1500]
 type: Station
 tags:

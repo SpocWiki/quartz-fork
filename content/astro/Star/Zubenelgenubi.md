@@ -1,4 +1,5 @@
 ﻿---
+title: "Zubenelgenubi
 location: [-16.04,-137.275,70]
 type: Station
 tags:

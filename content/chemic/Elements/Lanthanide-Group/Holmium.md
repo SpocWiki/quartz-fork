@@ -1,4 +1,5 @@
 ﻿---
+title: "Holmium
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21963

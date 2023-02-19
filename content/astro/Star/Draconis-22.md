@@ -1,4 +1,5 @@
 ﻿---
+title: "Draconis-22
 location: [72.73,-84.725,25]
 type: Station
 tags:

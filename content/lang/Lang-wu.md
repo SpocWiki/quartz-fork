@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-wu
 type: Lang
 aliases:
 - Wu

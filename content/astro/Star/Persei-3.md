@@ -1,4 +1,5 @@
 ﻿---
+title: "Persei-3
 location: [53.51,46.2,150]
 type: Station
 tags:

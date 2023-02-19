@@ -1,4 +1,5 @@
 ﻿---
+title: "Scuti-1
 location: [-8.24,-81.2,150]
 type: Station
 tags:

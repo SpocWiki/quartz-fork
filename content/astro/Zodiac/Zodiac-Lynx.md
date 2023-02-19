@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Lynx
 type: Zodiac
 tags:
 - astro/Zodiac

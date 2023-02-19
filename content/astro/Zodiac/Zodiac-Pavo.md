@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Pavo
 type: Zodiac
 tags:
 - astro/Zodiac

@@ -1,4 +1,5 @@
 ﻿---
+title: "Eridani-21
 location: [-51.51,34.125,120]
 type: Station
 tags:

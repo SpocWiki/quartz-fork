@@ -1,4 +1,5 @@
 ﻿---
+title: "Scorpii-7
 location: [-43.24,-101.975,60]
 type: Station
 tags:

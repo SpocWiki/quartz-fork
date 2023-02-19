@@ -1,4 +1,5 @@
 ﻿---
+title: "Nihal
 location: [-20.76,82.05,300]
 type: Station
 tags:

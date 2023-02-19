@@ -1,4 +1,5 @@
 ﻿---
+title: "Cygni-19
 location: [38.05,-41.3,70]
 type: Station
 tags:

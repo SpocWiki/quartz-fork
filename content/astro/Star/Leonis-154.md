@@ -1,4 +1,5 @@
 ﻿---
+title: "Leonis-154
 location: [24.75,163.9,200]
 type: Station
 tags:

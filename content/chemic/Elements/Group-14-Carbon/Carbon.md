@@ -1,4 +1,5 @@
 ﻿---
+title: "Carbon
 type: Element
 GroupName: Group-14-Carbon
 SpocWebEntityId: 21480

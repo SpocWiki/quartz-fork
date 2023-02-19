@@ -1,4 +1,5 @@
 ﻿---
+title: "Taygeta
 location: [24.47,56.3,400]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Boron
 type: Element
 GroupName: Group-13-Boron
 ---

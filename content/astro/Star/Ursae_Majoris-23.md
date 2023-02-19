@@ -1,4 +1,5 @@
 ﻿---
+title: "Ursae Majoris-23
 location: [44.5,-192.575,120]
 type: Station
 tags:

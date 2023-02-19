@@ -1,4 +1,5 @@
 ﻿---
+title: "Leonis-12
 location: [26.01,148.2,200]
 type: Station
 tags:

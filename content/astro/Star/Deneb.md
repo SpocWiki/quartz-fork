@@ -1,4 +1,5 @@
 ﻿---
+title: "Deneb
 location: [45.28,-49.65,2000]
 type: Station
 tags:

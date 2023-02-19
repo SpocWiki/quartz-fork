@@ -1,4 +1,5 @@
 ﻿---
+title: "Cadmium
 type: Element
 GroupName: Group-12-Zinc
 ---

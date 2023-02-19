@@ -1,4 +1,5 @@
 ﻿---
+title: "Lyrae-113
 location: [43.95,-76.175,250]
 type: Station
 tags:

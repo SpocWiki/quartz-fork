@@ -1,4 +1,5 @@
 ﻿---
+title: "Capricorni-2
 location: [-14.78,-54.75,100]
 type: Station
 tags:

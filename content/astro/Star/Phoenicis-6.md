@@ -1,4 +1,5 @@
 ﻿---
+title: "Phoenicis-6
 location: [-55.25,17.1,250]
 type: Station
 tags:

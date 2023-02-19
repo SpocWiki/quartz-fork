@@ -1,4 +1,5 @@
 ﻿---
+title: "Carinae-42
 location: [-58.86,163.375,70]
 type: Station
 tags:

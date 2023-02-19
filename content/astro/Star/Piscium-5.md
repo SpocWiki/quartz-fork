@@ -1,4 +1,5 @@
 ﻿---
+title: "Piscium-5
 location: [7.89,15.725,200]
 type: Station
 tags:

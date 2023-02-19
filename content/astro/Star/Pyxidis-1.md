@@ -1,4 +1,5 @@
 ﻿---
+title: "Pyxidis-1
 location: [-33.19,130.9,1200]
 type: Station
 tags:

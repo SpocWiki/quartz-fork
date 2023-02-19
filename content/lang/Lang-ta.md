@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-ta
 type: Lang
 aliases:
 - Tamil

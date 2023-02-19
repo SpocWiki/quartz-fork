@@ -1,4 +1,5 @@
 ﻿---
+title: "Circini-3
 location: [-59.32,-129.15,500]
 type: Station
 tags:

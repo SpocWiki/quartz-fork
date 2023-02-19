@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-ko
 type: Lang
 aliases:
 - Korean

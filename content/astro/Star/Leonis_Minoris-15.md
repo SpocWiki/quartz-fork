@@ -1,4 +1,5 @@
 ﻿---
+title: "Leonis Minoris-15
 location: [34.21,163.325,80]
 type: Station
 tags:

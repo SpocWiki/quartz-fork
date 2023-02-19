@@ -1,4 +1,5 @@
 ﻿---
+title: "Albireo
 location: [27.96,-67.325,400]
 type: Station
 tags:

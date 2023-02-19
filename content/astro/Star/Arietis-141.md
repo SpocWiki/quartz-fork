@@ -1,4 +1,5 @@
 ﻿---
+title: "Arietis-141
 location: [27.26,42.5,120]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Mizar
 location: [54.93,-159.025,70]
 type: Station
 tags:

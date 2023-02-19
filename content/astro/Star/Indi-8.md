@@ -1,4 +1,5 @@
 ﻿---
+title: "Indi-8
 location: [-53.45,-40.025,100]
 type: Station
 tags:

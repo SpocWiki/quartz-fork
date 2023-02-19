@@ -1,4 +1,5 @@
 ﻿---
+title: "Geminorum-9
 location: [27.8,111.425,150]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Leonis-17
 location: [9.31,158.2,2500]
 type: Station
 tags:

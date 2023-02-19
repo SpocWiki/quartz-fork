@@ -1,4 +1,5 @@
 ﻿---
+title: "Piscium-24
 location: [6.86,-0.175,120]
 type: Station
 tags:

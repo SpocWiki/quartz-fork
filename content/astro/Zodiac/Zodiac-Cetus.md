@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Cetus
 type: Zodiac
 tags:
 - astro/Zodiac

@@ -1,4 +1,5 @@
 ﻿---
+title: "Promethium
 type: Element
 GroupName: Lanthanide-Group
 SpocWebEntityId: 21957

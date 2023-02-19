@@ -1,4 +1,5 @@
 ﻿---
+title: "Ophiuchi-22
 location: [-18.46,-113.25,600]
 type: Station
 tags:

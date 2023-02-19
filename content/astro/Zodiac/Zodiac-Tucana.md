@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Tucana
 type: Zodiac
 tags:
 - astro/Zodiac

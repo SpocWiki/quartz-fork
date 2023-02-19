@@ -1,4 +1,5 @@
 ﻿---
+title: "Cygni-17
 location: [45.59,-36.5,200]
 type: Station
 tags:

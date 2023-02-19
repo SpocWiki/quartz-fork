@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Gemini
 type: Zodiac
 tags:
 - astro/Zodiac

@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Aquarius
 type: Zodiac
 tags:
 - astro/Zodiac

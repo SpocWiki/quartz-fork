@@ -1,4 +1,5 @@
 ﻿---
+title: "Canis Majoris-107
 location: [-19.26,99.175,80]
 type: Station
 tags:

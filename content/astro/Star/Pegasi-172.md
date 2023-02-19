@@ -1,4 +1,5 @@
 ﻿---
+title: "Pegasi-172
 location: [31.33,-6.5,600]
 type: Station
 tags:

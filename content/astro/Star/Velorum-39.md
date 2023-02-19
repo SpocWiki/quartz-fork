@@ -1,4 +1,5 @@
 ﻿---
+title: "Velorum-39
 location: [-48.23,159.325,80]
 type: Station
 tags:

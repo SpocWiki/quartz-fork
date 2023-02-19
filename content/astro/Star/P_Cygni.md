@@ -1,4 +1,5 @@
 ﻿---
+title: "P Cygni
 location: [38.03,-55.55,5000]
 type: Station
 tags:

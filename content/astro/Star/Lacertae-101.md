@@ -1,4 +1,5 @@
 ﻿---
+title: "Lacertae-101
 location: [37.75,-26,300]
 type: Station
 tags:

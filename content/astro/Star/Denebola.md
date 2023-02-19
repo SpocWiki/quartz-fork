@@ -1,4 +1,5 @@
 ﻿---
+title: "Denebola
 location: [14.57,177.275,40]
 type: Station
 tags:

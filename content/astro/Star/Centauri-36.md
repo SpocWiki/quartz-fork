@@ -1,4 +1,5 @@
 ﻿---
+title: "Centauri-36
 location: [-39.41,-157.25,400]
 type: Station
 tags:

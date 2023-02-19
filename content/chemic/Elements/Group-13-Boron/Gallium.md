@@ -1,4 +1,5 @@
 ﻿---
+title: "Gallium
 type: Element
 GroupName: Group-13-Boron
 SpocWebEntityId: 21929

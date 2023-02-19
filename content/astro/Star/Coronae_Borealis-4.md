@@ -1,4 +1,5 @@
 ﻿---
+title: "Coronae Borealis-4
 location: [26.07,-122.6,150]
 type: Station
 tags:

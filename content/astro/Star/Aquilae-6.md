@@ -1,4 +1,5 @@
 ﻿---
+title: "Aquilae-6
 location: [13.86,-73.65,100]
 type: Station
 tags:

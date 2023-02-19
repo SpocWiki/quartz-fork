@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Telescopium
 type: Zodiac
 tags:
 - astro/Zodiac

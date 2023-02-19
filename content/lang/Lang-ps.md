@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-ps
 type: Lang
 aliases:
 - Pashto

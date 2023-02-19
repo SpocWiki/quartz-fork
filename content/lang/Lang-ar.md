@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-ar
 type: Lang
 aliases:
 - Arabic

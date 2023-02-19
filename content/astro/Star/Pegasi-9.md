@@ -1,4 +1,5 @@
 ﻿---
+title: "Pegasi-9
 location: [25.35,-28.25,40]
 type: Station
 tags:

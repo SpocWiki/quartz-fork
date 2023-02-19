@@ -1,4 +1,5 @@
----
+﻿---
+title: "private-note
 title: "Private Stuff"
 ---
 

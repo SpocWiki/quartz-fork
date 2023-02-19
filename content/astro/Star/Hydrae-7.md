@@ -1,4 +1,5 @@
 ﻿---
+title: "Hydrae-7
 location: [3.4,130.8,500]
 type: Station
 tags:

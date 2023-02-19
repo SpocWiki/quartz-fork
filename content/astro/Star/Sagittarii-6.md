@@ -1,4 +1,5 @@
 ﻿---
+title: "Sagittarii-6
 location: [-29.88,-74.35,100]
 type: Station
 tags:

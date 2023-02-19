@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-mr
 type: Lang
 aliases:
 - Marathi

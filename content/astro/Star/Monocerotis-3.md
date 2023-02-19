@@ -1,4 +1,5 @@
 ﻿---
+title: "Monocerotis-3
 location: [-6.27,93.725,200]
 type: Station
 tags:

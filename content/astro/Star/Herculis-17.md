@@ -1,4 +1,5 @@
 ﻿---
+title: "Herculis-17
 location: [37.15,-99.075,300]
 type: Station
 tags:

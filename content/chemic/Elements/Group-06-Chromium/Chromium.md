@@ -1,4 +1,5 @@
 ﻿---
+title: "Chromium
 type: Element
 GroupName: Group-06-Chromium
 ---

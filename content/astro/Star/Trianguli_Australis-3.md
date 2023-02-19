@@ -1,4 +1,5 @@
 ﻿---
+title: "Trianguli Australis-3
 location: [-68.68,-130.275,100]
 type: Station
 tags:

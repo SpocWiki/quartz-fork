@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Sculptor
 type: Zodiac
 tags:
 - astro/Zodiac

@@ -1,4 +1,5 @@
 ﻿---
+title: "Cassiopeiae-7
 location: [57.82,12.275,19]
 type: Station
 tags:

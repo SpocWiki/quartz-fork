@@ -1,4 +1,5 @@
 ﻿---
+title: "Piscis Australis-3
 location: [-32.88,-16.875,200]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Atik
 location: [32.29,56.075,1000]
 type: Station
 tags:

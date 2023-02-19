@@ -1,4 +1,5 @@
 ﻿---
+title: "Regulus
 location: [11.97,152.1,80]
 type: Station
 tags:

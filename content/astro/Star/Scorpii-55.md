@@ -1,4 +1,5 @@
 ﻿---
+title: "Scorpii-55
 location: [-30.58,-105.85,1000]
 type: Station
 tags:

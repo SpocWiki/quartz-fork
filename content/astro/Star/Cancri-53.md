@@ -1,4 +1,5 @@
 ﻿---
+title: "Cancri-53
 location: [30.96,137.65,2000]
 type: Station
 tags:

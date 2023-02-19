@@ -1,4 +1,5 @@
 ﻿---
+title: "Piscium-1
 location: [2.76,30.5,150]
 type: Station
 tags:

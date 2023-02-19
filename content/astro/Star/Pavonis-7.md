@@ -1,4 +1,5 @@
 ﻿---
+title: "Pavonis-7
 location: [-64.72,-93.575,300]
 type: Station
 tags:

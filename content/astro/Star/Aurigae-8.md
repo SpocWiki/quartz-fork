@@ -1,4 +1,5 @@
 ﻿---
+title: "Aurigae-8
 location: [37.21,89.925,150]
 type: Station
 tags:

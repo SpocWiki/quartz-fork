@@ -1,4 +1,5 @@
 ﻿---
+title: "Centauri-19
 location: [-48.54,-170.575,100]
 type: Station
 tags:

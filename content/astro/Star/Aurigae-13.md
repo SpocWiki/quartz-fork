@@ -1,4 +1,5 @@
 ﻿---
+title: "Aurigae-13
 location: [39.15,87.875,150]
 type: Station
 tags:

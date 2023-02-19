@@ -1,4 +1,5 @@
 ﻿---
+title: "Ursae Majoris-8
 location: [51.68,-216.775,50]
 type: Station
 tags:

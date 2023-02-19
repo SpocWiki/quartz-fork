@@ -1,4 +1,5 @@
 ﻿---
+title: "Aspidiske
 location: [-24.86,117.325,800]
 type: Station
 tags:

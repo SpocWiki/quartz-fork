@@ -1,4 +1,5 @@
 ﻿---
+title: "Orionis-8
 location: [-5.4,83.825,1500]
 type: Station
 tags:

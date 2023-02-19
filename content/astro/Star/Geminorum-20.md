@@ -1,4 +1,5 @@
 ﻿---
+title: "Geminorum-20
 location: [26.9,113.975,250]
 type: Station
 tags:

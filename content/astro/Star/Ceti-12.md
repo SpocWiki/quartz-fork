@@ -1,4 +1,5 @@
 ﻿---
+title: "Ceti-12
 location: [10.11,41.225,100]
 type: Station
 tags:

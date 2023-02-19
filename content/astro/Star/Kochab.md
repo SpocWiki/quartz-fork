@@ -1,4 +1,5 @@
 ﻿---
+title: "Kochab
 location: [74.16,-137.325,100]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Leporis-7
 location: [-14.17,89.1,70]
 type: Station
 tags:

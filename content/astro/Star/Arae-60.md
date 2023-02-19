@@ -1,4 +1,5 @@
 ﻿---
+title: "Arae-60
 location: [-53.16,-105.1,250]
 type: Station
 tags:

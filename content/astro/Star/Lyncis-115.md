@@ -1,4 +1,5 @@
 ﻿---
+title: "Lyncis-115
 location: [58.42,104.325,150]
 type: Station
 tags:

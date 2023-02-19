@@ -1,4 +1,5 @@
 ﻿---
+title: "Hamal
 location: [23.46,31.8,80]
 type: Station
 tags:

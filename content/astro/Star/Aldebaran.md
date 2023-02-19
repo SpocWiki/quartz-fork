@@ -1,4 +1,5 @@
 ﻿---
+title: "Aldebaran
 location: [16.51,68.975,60]
 type: Station
 tags:

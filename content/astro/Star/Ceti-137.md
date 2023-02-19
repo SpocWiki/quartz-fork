@@ -1,4 +1,5 @@
 ﻿---
+title: "Ceti-137
 location: [-7.92,18.6,80]
 type: Station
 tags:

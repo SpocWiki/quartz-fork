@@ -1,4 +1,5 @@
 ﻿---
+title: "Doradus-1
 location: [-55.05,68.75,200]
 type: Station
 tags:

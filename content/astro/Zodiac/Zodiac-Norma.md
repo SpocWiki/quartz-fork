@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Norma
 type: Zodiac
 tags:
 - astro/Zodiac

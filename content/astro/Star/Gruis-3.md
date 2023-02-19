@@ -1,4 +1,5 @@
 ﻿---
+title: "Gruis-3
 location: [-37.37,-31.525,250]
 type: Station
 tags:

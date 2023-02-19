@@ -1,4 +1,5 @@
 ﻿---
+title: "Andromedae-6
 location: [24.27,11.825,150]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Bootis-10
 location: [51.79,-146.625,150]
 type: Station
 tags:

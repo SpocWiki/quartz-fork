@@ -1,4 +1,5 @@
 ﻿---
+title: "Mirphak
 location: [49.86,51.075,600]
 type: Station
 tags:

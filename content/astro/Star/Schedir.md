@@ -1,4 +1,5 @@
 ﻿---
+title: "Schedir
 location: [56.54,10.125,120]
 type: Station
 tags:

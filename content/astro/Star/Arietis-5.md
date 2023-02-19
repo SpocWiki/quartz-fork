@@ -1,4 +1,5 @@
 ﻿---
+title: "Arietis-5
 location: [21.34,44.8,200]
 type: Station
 tags:

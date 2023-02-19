@@ -1,4 +1,5 @@
 ﻿---
+title: "Chamaeleontis-3
 location: [-78.61,158.875,250]
 type: Station
 tags:

@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Leo
 type: Zodiac
 tags:
 - astro/Zodiac

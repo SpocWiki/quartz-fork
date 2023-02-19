@@ -1,4 +1,5 @@
 ﻿---
+title: "Ophiuchi-10
 location: [9.38,-105.575,120]
 type: Station
 tags:

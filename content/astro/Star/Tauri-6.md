@@ -1,4 +1,5 @@
 ﻿---
+title: "Tauri-6
 location: [21.14,84.4,500]
 type: Station
 tags:

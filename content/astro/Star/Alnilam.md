@@ -1,4 +1,5 @@
 ﻿---
+title: "Alnilam
 location: [-1.2,84.05,1500]
 type: Station
 tags:

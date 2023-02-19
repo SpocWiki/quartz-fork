@@ -1,4 +1,5 @@
 ﻿---
+title: "Lang-ru
 type: Lang
 aliases:
 - Russian

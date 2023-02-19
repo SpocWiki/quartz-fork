@@ -1,4 +1,5 @@
 ﻿---
+title: "Algol
 location: [40.96,47.05,90]
 type: Station
 tags:

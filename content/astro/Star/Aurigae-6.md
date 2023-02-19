@@ -1,4 +1,5 @@
 ﻿---
+title: "Aurigae-6
 location: [41.08,75.625,500]
 type: Station
 tags:

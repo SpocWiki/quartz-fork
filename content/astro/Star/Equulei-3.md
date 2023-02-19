@@ -1,4 +1,5 @@
 ﻿---
+title: "Equulei-3
 location: [10.13,-42.425,120]
 type: Station
 tags:

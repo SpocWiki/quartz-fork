@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Hercules
 type: Zodiac
 tags:
 - astro/Zodiac

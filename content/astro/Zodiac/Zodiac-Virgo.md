@@ -1,4 +1,5 @@
 ﻿---
+title: "Zodiac-Virgo
 type: Zodiac
 tags:
 - astro/Zodiac

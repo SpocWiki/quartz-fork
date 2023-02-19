@@ -1,4 +1,5 @@
 ﻿---
+title: "Andromedae-9
 location: [43.27,-5.475,250]
 type: Station
 tags:

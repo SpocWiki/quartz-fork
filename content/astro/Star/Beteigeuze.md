@@ -1,4 +1,5 @@
 ﻿---
+title: "Beteigeuze
 location: [7.41,88.8,400]
 type: Station
 tags:
