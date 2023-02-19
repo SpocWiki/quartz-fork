@@ -1,7 +1,6 @@
 ---
 type: StarClass
-[SpocWebEntityId::{{SpocWebEntityId}}]
-[StationUId::{{Id}}]
+SpocWebEntityId: {{SpocWebEntityId}}
 isDeleted: false
 isReadOnly: false
 confidential: public
