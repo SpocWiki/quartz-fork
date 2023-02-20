@@ -4,9 +4,9 @@ type: ElementGroup
 ---
 #chemic/Group 
 
-1) [Hydrogenium](Group-01-Alkali/Hydrogenium.md)
-2) [Lithium](Group-01-Alkali/Lithium.md)
-3) [Sodium](Group-01-Alkali/Sodium.md)
+1) [Hydrogenium](./Group-01-Alkali/Hydrogenium.md)
+2) [Lithium](./Group-01-Alkali/Lithium.md)
+3) [Sodium](./Group-01-Alkali/Sodium.md)
 4) [Potassium](Group-01-Alkali/Potassium.md)
 5) [Rubidium](Group-01-Alkali/Rubidium.md)
 6) [Caesium](Group-01-Alkali/Caesium.md)
