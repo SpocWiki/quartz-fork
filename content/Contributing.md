@@ -1,4 +1,4 @@
-bbbbbbbbbbbbbbbbbbb# Introduction
+# Introduction
 
 First off, thank you for considering contributing to this project.
 It's people like you that make this Wiki a great resource.

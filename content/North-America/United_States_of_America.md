@@ -13,11 +13,11 @@ tags:
 [name-en::United States of America]
 [name-de::Vereinigte Staaten von Amerika]
 
-![Coat_of_Arms_of_the_United_States_(obverse)](United_States_of_America/Coat_of_Arms_of_the_United_States_(obverse).svg)
+<img href='United_States_of_America/Coat_of_Arms_of_the_United_States_(obverse).svg'/>
 
 ![Anthem-United-states.mp3](Anthem-United-states.mp3)
 
-![Flag_of_the_United_States](United_States_of_America/Flag_of_the_United_States.svg)
+<img href="United_States_of_America/Flag_of_the_United_States.svg"/>
 [Area-Total::9809155]
 [Area-Land::9573110]
 [Continent::North-America]
