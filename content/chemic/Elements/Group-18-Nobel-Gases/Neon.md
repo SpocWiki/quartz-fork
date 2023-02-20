@@ -6,7 +6,7 @@ SpocWebEntityId: 21912
 ---
 
 #chemic/Element 
-[GroupName::[[Group-18-Nobel-Gases]]]
+[GroupName::[Group-18-Nobel-Gases](../Group-18-Nobel-Gases.md)]
 
 [Name-en::Neon]
 [Name-de::Neon]

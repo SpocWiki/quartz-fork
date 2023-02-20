@@ -4,9 +4,9 @@ type: ElementGroup
 ---
 #chemic/Group 
 
-4) [[Cobalt]]
-5) [[Iridium]]
-6) [[Rhodium]]
+4) [Cobalt](Group-09-Cobalt/Cobalt.md)
+5) [Iridium](Group-09-Cobalt/Iridium.md)
+6) [Rhodium](Group-09-Cobalt/Rhodium.md)
 
 
 > Group 9, by modern IUPAC numbering, is a group (column) of chemical elements in the periodic table. Members of Group 9 include cobalt (Co), rhodium (Rh), iridium (Ir) and meitnerium (Mt). These are all transition metals in the d-block, considered to be some of the most rare of which.Like other groups, the members of this family show patterns in electron configuration, especially in the outermost shells, resulting in trends in chemical behavior;  however, rhodium deviates from the pattern.

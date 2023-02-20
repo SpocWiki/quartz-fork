@@ -6,7 +6,7 @@ SpocWebEntityId: 21930
 ---
 
 #chemic/Element 
-[GroupName::[[Group-14-Carbon]]]
+[GroupName::[Group-14-Carbon](../Group-14-Carbon.md)]
 
 [Name-en::Germanium]
 [Name-de::Germanium]

@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-08-Iron]]]
+[GroupName::[Group-08-Iron](../Group-08-Iron.md)]
 
 [Name-en::Osmium]
 [Name-de::Osmium]

@@ -5,7 +5,7 @@ type: Element
 ---
 
 #chemic/Element 
-[GroupName::[[Actinide-Group]]]
+[GroupName::[Actinide-Group](../Actinide-Group.md)]
 
 [Name-en::Actinium]
 [Name-de::Actinium]

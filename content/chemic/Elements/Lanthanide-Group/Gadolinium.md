@@ -6,7 +6,7 @@ SpocWebEntityId: 21960
 ---
 
 #chemic/Element 
-[GroupName::[[Lanthanide-Group]]]
+[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
 
 [Name-en::Gadolinium]
 [Name-de::Gadolinium]

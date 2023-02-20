@@ -5,7 +5,7 @@ type: Element
 SpocWebEntityId: 21935
 ---
 #chemic/Element 
-[GroupName::[[Group-01-Alkali]]]
+[GroupName::[Group-01-Alkali](../Group-01-Alkali.md)]
 
 [Name-en::Rubidium]
 [Name-de::Rubidium]

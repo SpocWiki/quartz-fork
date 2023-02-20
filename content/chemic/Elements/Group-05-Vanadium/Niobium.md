@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-05-Vanadium]]]
+[GroupName::[Group-05-Vanadium](../Group-05-Vanadium.md)]
 
 [Name-en::Niobium]
 [Name-de::Niob]

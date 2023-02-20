@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-07-Manganese]]]
+[GroupName::[Group-07-Manganese](../Group-07-Manganese.md)]
 
 [Name-en::Manganese]
 [Name-de::Mangan]

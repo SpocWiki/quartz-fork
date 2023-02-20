@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-06-Chromium]]]
+[GroupName::[Group-06-Chromium](../Group-06-Chromium.md)]
 
 [Name-en::Molybdenum]
 [Name-de::Molybdaen]

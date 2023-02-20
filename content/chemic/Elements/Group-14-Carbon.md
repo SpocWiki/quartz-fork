@@ -4,11 +4,11 @@ type: ElementGroup
 ---
 #chemic/Group 
 
-2) [[Carbon]]
-3) [[Silicon]]
-4) [[Germanium]]
-5) [[Tin]]
-6) [[Lead]]
+2) [Carbon](Group-14-Carbon/Carbon.md)
+3) [Silicon](Group-14-Carbon/Silicon.md)
+4) [Germanium](Group-14-Carbon/Germanium.md)
+5) [Tin](Group-14-Carbon/Tin.md)
+6) [Lead](Group-14-Carbon/Lead.md)
 
 > The carbon group is a periodic table group consisting of carbon (C), silicon (Si), germanium (Ge), tin (Sn), lead (Pb), and flerovium (Fl). It lies within the p-block.
 >

@@ -4,12 +4,12 @@ type: ElementGroup
 ---
 #chemic/Group 
 
-1) [[Helium]]
-2) [[Neon]]
-3) [[Argon]]
-4) [[Krypton]]
-5) [[Xenon]]
-6) [[Radon]]
+1) [Helium](Group-18-Nobel-Gases/Helium.md)
+2) [Neon](Group-18-Nobel-Gases/Neon.md)
+3) [Argon](Group-18-Nobel-Gases/Argon.md)
+4) [Krypton](Group-18-Nobel-Gases/Krypton.md)
+5) [Xenon](Group-18-Nobel-Gases/Xenon.md)
+6) [Radon](Group-18-Nobel-Gases/Radon.md)
 
 
 > The noble gases (historically also the inert gases; sometimes referred to as aerogens) make up a class of chemical elements with similar properties; under standard conditions, they are all odorless, colorless, monatomic gases with very low chemical reactivity. The six naturally occurring noble gases are helium (He), neon (Ne), argon (Ar), krypton (Kr), xenon (Xe), and the radioactive radon (Rn).

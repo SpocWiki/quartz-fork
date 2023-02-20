@@ -5,7 +5,7 @@ SpocWebEntityId: 21977
 ---
 
 #chemic/Element 
-[GroupName::[[Group-14-Carbon]]]
+[GroupName::[Group-14-Carbon](../Group-14-Carbon.md)]
 
 [Name-en::Lead]
 [Name-de::Blei]

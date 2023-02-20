@@ -6,7 +6,7 @@ SpocWebEntityId: 21988
 ---
 
 #chemic/Element 
-[GroupName::[[Actinide-Group]]]
+[GroupName::[Actinide-Group](../Actinide-Group.md)]
 
 
 [Name-en::Neptunium]

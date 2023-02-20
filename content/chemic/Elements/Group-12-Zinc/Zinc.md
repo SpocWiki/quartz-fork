@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-12-Zinc]]]
+[GroupName::[Group-12-Zinc](../Group-12-Zinc.md)]
 
 [Name-en::Zinc]
 [Name-de::Zink]

@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-02-Earth-Alkaline]]]
+[GroupName::[Group-02-Earth-Alkaline](../Group-02-Earth-Alkaline.md)]
 
 [Name-en::Radium]
 [Name-de::Radium]

@@ -4,9 +4,9 @@ type: ElementGroup
 ---
 #chemic/Group 
  
-4) [[Copper]]
-5) [[Silver]]
-6) [[Gold]]
+4) [Copper](Group-11-Copper/Copper.md)
+5) [Silver](Group-11-Copper/Silver.md)
+6) [Gold](Group-11-Copper/Gold.md)
 
 
 > Group 11, by modern IUPAC numbering, is a group of chemical elements in the periodic table, consisting of copper (Cu), silver (Ag), and gold (Au), and roentgenium (Rg), although no chemical experiments have yet been carried out to confirm that roentgenium behaves like the heavier homologue to gold. Group 11 is also known as the coinage metals, due to their usage in minting coins—while the rise in metal prices mean that silver and gold are no longer used for circulating currency, remaining in use for bullion, copper remains a common metal in coins to date, either in the form of copper clad coinage or as part of the cupronickel alloy. They were most likely the first three elements discovered. Copper, silver, and gold all occur naturally in elemental form.

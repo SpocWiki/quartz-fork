@@ -6,7 +6,7 @@ SpocWebEntityId: 21480
 ---
 
 #chemic/Element 
-[GroupName::[[Group-14-Carbon]]]
+[GroupName::[Group-14-Carbon](../Group-14-Carbon.md)]
 
 [Name-en::Carbon]
 [Name-de::Kohlenstoff]

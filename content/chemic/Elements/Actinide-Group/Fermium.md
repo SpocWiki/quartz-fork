@@ -6,7 +6,7 @@ SpocWebEntityId: 21995
 ---
 
 #chemic/Element 
-[GroupName::[[Actinide-Group]]]
+[GroupName::[Actinide-Group](../Actinide-Group.md)]
 
 
 [Name-en::Fermium]

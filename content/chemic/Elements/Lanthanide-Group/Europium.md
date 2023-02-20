@@ -6,7 +6,7 @@ SpocWebEntityId: 21959
 ---
 
 #chemic/Element 
-[GroupName::[[Lanthanide-Group]]]
+[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
 
 [Name-en::Europium]
 [Name-de::Europium]

@@ -6,7 +6,7 @@ SpocWebEntityId: 21957
 ---
 
 #chemic/Element 
-[GroupName::[[Lanthanide-Group]]]
+[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
 
 [Name-en::Promethium]
 [Name-de::Promethium]

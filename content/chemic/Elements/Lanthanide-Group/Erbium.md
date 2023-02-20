@@ -6,7 +6,7 @@ SpocWebEntityId: 21964
 ---
 
 #chemic/Element 
-[GroupName::[[Lanthanide-Group]]]
+[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
 
 [Name-en::Erbium]
 [Name-de::Erbium]

@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-11-Copper]]]
+[GroupName::[Group-11-Copper](../Group-11-Copper.md)]
 
 [Name-en::Gold]
 [Name-de::Gold]

@@ -4,11 +4,11 @@ type: ElementGroup
 ---
 #chemic/Group 
 
-2) [[Nitrogen]]
-3) [[Phosphorus]]
-4) [[Arsenic]]
-5) [[Antimony]]
-6) [[Bismuth]]
+2) [Nitrogen](Group-15-Nitrogen/Nitrogen.md)
+3) [Phosphorus](Group-15-Nitrogen/Phosphorus.md)
+4) [Arsenic](Group-15-Nitrogen/Arsenic.md)
+5) [Antimony](Group-15-Nitrogen/Antimony.md)
+6) [Bismuth](Group-15-Nitrogen/Bismuth.md)
 
 > A pnictogen ( or ; from Ancient Greek: πνῑ́γω "to choke" and -gen, "generator") is any of the chemical elements in group 15 of the periodic table. Group 15 is also known as the nitrogen group or nitrogen family. Group 15 consists of the elements nitrogen (N), phosphorus (P), arsenic (As), antimony (Sb), bismuth (Bi), and moscovium (Mc).
 >

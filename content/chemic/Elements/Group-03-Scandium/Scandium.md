@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-03-Scandium]]]
+[GroupName::[Group-03-Scandium](../Group-03-Scandium.md)]
 
 [Name-en::Scandium]
 [Name-de::Scandium]

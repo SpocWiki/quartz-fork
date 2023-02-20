@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-10-Nickel]]]
+[GroupName::[Group-10-Nickel](../Group-10-Nickel.md)]
 
 [Name-en::Nickel]
 [Name-de::Nickel]

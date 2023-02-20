@@ -6,7 +6,7 @@ SpocWebEntityId: 21954
 ---
 
 #chemic/Element 
-[GroupName::[[Lanthanide-Group]]]
+[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
 
 [Name-en::Cerium]
 [Name-de::Cer]

@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-09-Cobalt]]]
+[GroupName::[Group-09-Cobalt](../Group-09-Cobalt.md)]
 
 [Name-en::Cobalt]
 [Name-de::Kobalt]

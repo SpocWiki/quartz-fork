@@ -6,7 +6,7 @@ SpocWebEntityId: 21978
 ---
 
 #chemic/Element 
-[GroupName::[[Group-15-Nitrogen]]]
+[GroupName::[Group-15-Nitrogen](../Group-15-Nitrogen.md)]
 
 [Name-en::Bismuth]
 [Name-de::Bismut]

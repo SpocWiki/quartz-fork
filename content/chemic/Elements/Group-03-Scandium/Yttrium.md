@@ -5,7 +5,7 @@ type: Element
 SpocWebEntityId: 21937
 ---
 #chemic/Element 
-[GroupName::[[Group-03-Scandium]]]
+[GroupName::[Group-03-Scandium](../Group-03-Scandium.md)]
 
 [Name-en::Yttrium]
 [Name-de::Yttrium]

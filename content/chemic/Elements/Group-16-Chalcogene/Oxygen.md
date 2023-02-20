@@ -6,7 +6,7 @@ SpocWebEntityId: 21910
 ---
 
 #chemic/Element 
-[GroupName::[[Group-16-Chalcogene]]]
+[GroupName::[Group-16-Chalcogene](../Group-16-Chalcogene.md)]
 
 [Name-en::Oxygen]
 [Name-de::Sauerstoff]

@@ -5,7 +5,7 @@ SpocWebEntityId: 21976
 
 ---
 #chemic/Element 
-[GroupName::[[Group-13-Boron]]]
+[GroupName::[Group-13-Boron](../Group-13-Boron.md)]
 
 [Name-en::Thallium]
 [Name-de::Thallium]

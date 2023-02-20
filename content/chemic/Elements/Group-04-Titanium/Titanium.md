@@ -4,7 +4,7 @@ type: Element
 
 ---
 #chemic/Element 
-[GroupName::[[Group-04-Titanium]]]
+[GroupName::[Group-04-Titanium](../Group-04-Titanium.md)]
 
 [Name-en::Titanium]
 [Name-de::Titan]

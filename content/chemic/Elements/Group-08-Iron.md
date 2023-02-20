@@ -4,9 +4,9 @@ type: ElementGroup
 ---
 #chemic/Group 
 
-4) [[Iron]]
-5) [[Osmium]]
-6) [[Ruthenium]]
+4) [Iron](Group-08-Iron/Iron.md)
+5) [Osmium](Group-08-Iron/Osmium.md)
+6) [Ruthenium](Group-08-Iron/Ruthenium.md)
 
 
 > Group 8 is a group (column) of chemical elements in the periodic table. It  consists of iron (Fe), ruthenium (Ru), osmium (Os) and hassium (Hs). They are all transition metals.

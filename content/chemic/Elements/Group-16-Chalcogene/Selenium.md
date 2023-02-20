@@ -6,7 +6,7 @@ SpocWebEntityId: 21932
 ---
 
 #chemic/Element 
-[GroupName::[[Group-16-Chalcogene]]]
+[GroupName::[Group-16-Chalcogene](../Group-16-Chalcogene.md)]
 
 
 [Name-en::Selenium]

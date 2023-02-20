@@ -4,10 +4,10 @@ type: ElementGroup
 ---
 #chemic/Group 
 
-4) [[Titanium]]
-5) [[Zirconium]]
-6) [[Hafnium]]
-7) [[Rutherfordium]]
+4) [Titanium](Group-04-Titanium/Titanium.md)
+5) [Zirconium](Group-04-Titanium/Zirconium.md)
+6) [Hafnium](Group-04-Titanium/Hafnium.md)
+7) [Rutherfordium](Group-04-Titanium/Rutherfordium.md)
 
 
 > Group 4 is the second group of transition metals in the periodic table. It contains the four elements titanium (Ti), zirconium (Zr), hafnium (Hf), and rutherfordium (Rf). The group is also called the titanium group or titanium family after its lightest member.
