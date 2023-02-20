@@ -13,7 +13,7 @@ tags:
 [name-en::United States of America]
 [name-de::Vereinigte Staaten von Amerika]
 
-<img href='United_States_of_America/Coat_of_Arms_of_the_United_States_(obverse).svg'/>
+<img href='Coat_of_Arms_of_the_United_States_(obverse).svg'/>
 
 ![Anthem-United-states.mp3](Anthem-United-states.mp3)
 

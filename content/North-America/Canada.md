@@ -14,7 +14,7 @@ tags:
 [name-en::Canada]
 [name-de::Kanada]
 
-<img href='Canada/Coat_of_arms_of_Canada.svg'/>
+<img href='Coat_of_arms_of_Canada.svg'/>
 
 
 <img href='Canada/Flag_of_Canada_(Pantone).svg'/>

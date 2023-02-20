@@ -6,9 +6,9 @@ enableToc: true
 
 # Samples
 
-[Elements](chemic/Elements.md)
-[United_States_of_America](North-America/United_States_of_America.md)
-[Canada](North-America/Canada.md)
+- [Elements](chemic/Elements.md)
+- [United_States_of_America](North-America/United_States_of_America.md)
+- [Canada](North-America/Canada.md)
 
 
 # SpocWiki
