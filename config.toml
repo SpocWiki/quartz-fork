@@ -1,6 +1,6 @@
-baseURL = "https://spocwiki.github.io/quartz-fork/"
+baseURL = "./"
 languageCode = "en-us"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
