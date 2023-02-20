@@ -1,8 +1,11 @@
 ﻿---
 title: "Rhodium"
 type: Element
-GroupName: Group-09-Cobalt
+
 ---
+#chemic/Element 
+[GroupName::[[Group-09-Cobalt]]]
+
 [Name-en::Rhodium]
 [Name-de::Rhodium]
 [Weight-u::102.9055]

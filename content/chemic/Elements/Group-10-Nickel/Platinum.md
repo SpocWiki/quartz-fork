@@ -1,8 +1,11 @@
 ﻿---
 title: "Platinum"
 type: Element
-GroupName: Group-10-Nickel
+
 ---
+#chemic/Element 
+[GroupName::[[Group-10-Nickel]]]
+
 [Name-en::Platinum]
 [Name-de::Platin]
 [Weight-u::195.08]

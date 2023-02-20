@@ -1,9 +1,13 @@
 ﻿---
 title: "Einsteinium"
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21994
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Einsteinium]
 [Name-de::Einsteinium]

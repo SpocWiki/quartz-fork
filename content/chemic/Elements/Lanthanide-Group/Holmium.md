@@ -1,9 +1,13 @@
 ﻿---
 title: "Holmium"
 type: Element
-GroupName: Lanthanide-Group
+
 SpocWebEntityId: 21963
 ---
+
+#chemic/Element 
+[GroupName::[[Lanthanide-Group]]]
+
 [Name-en::Holmium]
 [Name-de::Holmium]
 [Weight-u::164.9304]

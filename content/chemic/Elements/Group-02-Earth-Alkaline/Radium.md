@@ -1,8 +1,11 @@
 ﻿---
 title: "Radium"
 type: Element
-GroupName: Group-02-Earth-Alkaline
+
 ---
+#chemic/Element 
+[GroupName::[[Group-02-Earth-Alkaline]]]
+
 [Name-en::Radium]
 [Name-de::Radium]
 [Weight-u::226.0254]

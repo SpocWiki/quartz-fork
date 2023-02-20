@@ -2,7 +2,7 @@
 
 
 ## Primary Groups 
-8 Groups corresponding to 2 \* 4  Electrons in [sp-Orbitals](sp-Orbitals)
+8 Groups corresponding to 2 \* 4  Electrons in [[sp-Orbitals]]
 
 [Group-01-Alkali](Elements/Group-01-Alkali.md)
 
@@ -27,7 +27,7 @@ as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
 [Group-18-Nobel-Gases](Elements/Group-18-Nobel-Gases.md)
 
 ## Metallic Groups
-10 Groups corresponding to 2 \* 5  Electrons in [d-Orbitals](d-Orbitals)
+10 Groups corresponding to 2 \* 5  Electrons in [[d-Orbitals]]
 
 [Group-03-Scandium](Elements/Group-03-Scandium.md)
 

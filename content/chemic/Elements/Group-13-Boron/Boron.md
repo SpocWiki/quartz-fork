@@ -1,8 +1,11 @@
 ﻿---
 title: "Boron"
 type: Element
-GroupName: Group-13-Boron
+
 ---
+#chemic/Element 
+[GroupName::[[Group-13-Boron]]]
+
 [Name-en::Boron]
 [Name-de::Bor]
 [Weight-u::10.811]

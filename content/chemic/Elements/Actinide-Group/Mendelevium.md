@@ -1,9 +1,13 @@
 ﻿---
 title: "Mendelevium"
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21996
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Mendelevium]
 [Name-de::Mendelevium]

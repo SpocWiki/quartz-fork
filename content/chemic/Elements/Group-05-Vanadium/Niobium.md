@@ -1,8 +1,11 @@
 ﻿---
 title: "Niobium"
 type: Element
-GroupName: Group-05-Vanadium
+
 ---
+#chemic/Element 
+[GroupName::[[Group-05-Vanadium]]]
+
 [Name-en::Niobium]
 [Name-de::Niob]
 [Weight-u::92.9064]

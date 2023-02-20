@@ -1,9 +1,11 @@
----
+﻿---
 title: "Hydrogenium"
 type: Element
-GroupName: Group-01-Alkali
+
 SpocWebEntityId: 21904
 ---
+#chemic/Element 
+[GroupName::[[Group-01-Alkali]]]
 
 [Name-en::Hydrogenium]
 [Name-de::Wasserstoff]

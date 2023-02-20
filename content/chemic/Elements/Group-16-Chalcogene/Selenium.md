@@ -1,9 +1,13 @@
 ﻿---
 title: "Selenium"
 type: Element
-GroupName: Group-16-Chalcogene
+
 SpocWebEntityId: 21932
 ---
+
+#chemic/Element 
+[GroupName::[[Group-16-Chalcogene]]]
+
 
 [Name-en::Selenium]
 [Name-de::Selen]

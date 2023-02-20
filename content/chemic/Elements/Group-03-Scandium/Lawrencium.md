@@ -1,9 +1,11 @@
 ﻿---
 title: "Lawrencium"
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21998
 ---
+#chemic/Element 
+[GroupName::[[Group-03-Scandium]]]
 
 [Name-en::Lawrencium]
 [Name-de::Lawrencium]

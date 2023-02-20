@@ -1,9 +1,11 @@
 ﻿---
 title: "Potassium"
 type: Element
-GroupName: Group-01-Alkali
+
 SpocWebEntityId: 21920
 ---
+#chemic/Element 
+[GroupName::[[Group-01-Alkali]]]
 
 [Name-en::Potassium]
 [Name-de::Kalium]

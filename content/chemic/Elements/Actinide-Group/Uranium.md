@@ -1,9 +1,13 @@
 ﻿---
 title: "Uranium"
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21987
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Uranium]
 [Name-de::Uran]

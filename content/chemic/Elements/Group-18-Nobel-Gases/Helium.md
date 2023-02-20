@@ -1,9 +1,13 @@
 ﻿---
 title: "Helium"
 type: Element
-GroupName: Group-18-Nobel-Gases
+
 SpocWebEntityId: 21905
 ---
+
+#chemic/Element 
+[GroupName::[[Group-18-Nobel-Gases]]]
+
 [Name-en::Helium]
 [Name-de::Helium]
 

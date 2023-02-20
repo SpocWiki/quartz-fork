@@ -1,9 +1,13 @@
 ﻿---
 title: "Arsenic"
 type: Element
-GroupName: Group-15-Nitrogen
+
 SpocWebEntityId: 21931
 ---
+
+#chemic/Element 
+[GroupName::[[Group-15-Nitrogen]]]
+
 [Name-en::Arsenic]
 [Name-de::Arsen]
 [Weight-u::74.9216]

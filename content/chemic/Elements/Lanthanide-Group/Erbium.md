@@ -1,9 +1,13 @@
 ﻿---
 title: "Erbium"
 type: Element
-GroupName: Lanthanide-Group
+
 SpocWebEntityId: 21964
 ---
+
+#chemic/Element 
+[GroupName::[[Lanthanide-Group]]]
+
 [Name-en::Erbium]
 [Name-de::Erbium]
 [Weight-u::167.26]

@@ -1,8 +1,11 @@
 ﻿---
 title: "Ruthenium"
 type: Element
-GroupName: Group-08-Iron
+
 ---
+#chemic/Element 
+[GroupName::[[Group-08-Iron]]]
+
 [Name-en::Ruthenium]
 [Name-de::Ruthenium]
 [Weight-u::101.07]

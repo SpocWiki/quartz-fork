@@ -1,8 +1,11 @@
 ﻿---
 title: "Magnesium"
 type: Element
-GroupName: Group-02-Earth-Alkaline
+
 ---
+#chemic/Element 
+[GroupName::[[Group-02-Earth-Alkaline]]]
+
 [Name-en::Magnesium]
 [Name-de::Magnesium]
 [Weight-u::24.305]

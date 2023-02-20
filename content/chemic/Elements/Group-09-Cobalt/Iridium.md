@@ -1,8 +1,11 @@
 ﻿---
 title: "Iridium"
 type: Element
-GroupName: Group-09-Cobalt
+
 ---
+#chemic/Element 
+[GroupName::[[Group-09-Cobalt]]]
+
 [Name-en::Iridium]
 [Name-de::Iridium]
 [Weight-u::192.22]

@@ -1,9 +1,13 @@
 ﻿---
 title: "Argon"
 type: Element
-GroupName: Group-18-Nobel-Gases
+
 SpocWebEntityId: 21919
 ---
+
+#chemic/Element 
+[GroupName::[[Group-18-Nobel-Gases]]]
+
 [Name-en::Argon]
 [Name-de::Argon]
 [Weight-u::39.948]

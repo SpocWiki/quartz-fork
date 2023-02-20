@@ -1,8 +1,11 @@
 ﻿---
 title: "Vanadium"
 type: Element
-GroupName: Group-05-Vanadium
+
 ---
+#chemic/Element 
+[GroupName::[[Group-05-Vanadium]]]
+
 [Name-en::Vanadium]
 [Name-de::Vanadium]
 [Weight-u::50.9415]

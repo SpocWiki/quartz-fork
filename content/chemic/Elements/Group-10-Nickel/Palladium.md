@@ -1,8 +1,11 @@
 ﻿---
 title: "Palladium"
 type: Element
-GroupName: Group-10-Nickel
+
 ---
+#chemic/Element 
+[GroupName::[[Group-10-Nickel]]]
+
 [Name-en::Palladium]
 [Name-de::Palladium]
 [Weight-u::106.42]

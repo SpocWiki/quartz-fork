@@ -1,9 +1,13 @@
 ﻿---
 title: "Curium"
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21991
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Curium]
 [Name-de::Curium]

@@ -1,9 +1,13 @@
 ﻿---
 title: "Protactinium"
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21986
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Protactinium]
 [Name-de::Protactinium]

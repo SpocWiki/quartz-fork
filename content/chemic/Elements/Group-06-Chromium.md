@@ -1,11 +1,12 @@
----
+﻿---
+title: "Group-06-Chromium"
 type: ElementGroup
 ---
 #chemic/Group 
 
-4) [Chromium](Group-06-Chromium/Chromium.md)
-5) [Molybdenum](Group-06-Chromium/Molybdenum.md)
-6) [Tungsten](Group-06-Chromium/Tungsten.md)
+4) [[Chromium]]
+5) [[Molybdenum]]
+6) [[Tungsten]]
 
 
 > Group 6, numbered by IUPAC style, is a group of elements in the periodic table. Its members are chromium (Cr), molybdenum (Mo), tungsten (W), and seaborgium (Sg). These are all transition metals and chromium, molybdenum and tungsten are refractory metals.

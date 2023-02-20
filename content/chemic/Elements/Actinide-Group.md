@@ -1,4 +1,5 @@
----
+﻿---
+title: "Actinide-Group"
 type: ElementGroup
 ---
 #chemic/Group 

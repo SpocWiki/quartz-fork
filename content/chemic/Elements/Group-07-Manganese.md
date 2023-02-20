@@ -1,11 +1,12 @@
----
+﻿---
+title: "Group-07-Manganese"
 type: ElementGroup
 ---
 #chemic/Group 
 
-4) [Manganese](Group-07-Manganese/Manganese.md)
-5) [Technetium](Group-07-Manganese/Technetium.md)
-6) [Rhenium](Group-07-Manganese/Rhenium.md)
+4) [[Manganese]]
+5) [[Technetium]]
+6) [[Rhenium]]
 
 
 > Group 7, numbered by IUPAC nomenclature, is a group of elements in the periodic table. They are manganese (Mn), technetium (Tc), rhenium (Re), and bohrium (Bh). All known elements of group 7 are transition metals.

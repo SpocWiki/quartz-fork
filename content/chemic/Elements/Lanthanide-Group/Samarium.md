@@ -1,9 +1,13 @@
 ﻿---
 title: "Samarium"
 type: Element
-GroupName: Lanthanide-Group
+
 SpocWebEntityId: 21958
 ---
+
+#chemic/Element 
+[GroupName::[[Lanthanide-Group]]]
+
 [Name-en::Samarium]
 [Name-de::Samarium]
 [Weight-u::150.36]

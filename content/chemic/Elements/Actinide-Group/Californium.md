@@ -1,9 +1,13 @@
 ﻿---
 title: "Californium"
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21993
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Californium]
 [Name-de::Californium]

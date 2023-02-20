@@ -1,8 +1,11 @@
 ﻿---
 title: "Rutherfordium"
 type: Element
-GroupName: Group-04-Titanium
+
 ---
+#chemic/Element 
+[GroupName::[[Group-04-Titanium]]]
+
 [Name-en::Rutherfordium]
 [Name-de::Kurtschatovium]
 [Weight-u::0]

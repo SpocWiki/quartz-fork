@@ -1,8 +1,11 @@
 ﻿---
 title: "Cobalt"
 type: Element
-GroupName: Group-09-Cobalt
+
 ---
+#chemic/Element 
+[GroupName::[[Group-09-Cobalt]]]
+
 [Name-en::Cobalt]
 [Name-de::Kobalt]
 [Weight-u::58.9332]

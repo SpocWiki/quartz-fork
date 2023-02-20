@@ -1,9 +1,13 @@
 ﻿---
 title: "Europium"
 type: Element
-GroupName: Lanthanide-Group
+
 SpocWebEntityId: 21959
 ---
+
+#chemic/Element 
+[GroupName::[[Lanthanide-Group]]]
+
 [Name-en::Europium]
 [Name-de::Europium]
 [Weight-u::151.96]

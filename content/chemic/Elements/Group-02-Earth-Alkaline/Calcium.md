@@ -1,8 +1,11 @@
 ﻿---
 title: "Calcium"
 type: Element
-GroupName: Group-02-Earth-Alkaline
+
 ---
+#chemic/Element 
+[GroupName::[[Group-02-Earth-Alkaline]]]
+
 [Name-en::Calcium]
 [Name-de::Calcium]
 [Weight-u::40.078]

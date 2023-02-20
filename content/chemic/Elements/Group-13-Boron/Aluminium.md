@@ -1,8 +1,11 @@
 ﻿---
 title: "Aluminium"
 type: Element
-GroupName: Group-13-Boron
+
 ---
+#chemic/Element 
+[GroupName::[[Group-13-Boron]]]
+
 [Name-en::Aluminium]
 [Name-de::Aluminium]
 [Weight-u::26.9815]

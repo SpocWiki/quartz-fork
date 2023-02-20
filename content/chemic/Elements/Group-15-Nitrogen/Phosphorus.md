@@ -1,9 +1,13 @@
 ﻿---
 title: "Phosphorus"
 type: Element
-GroupName: Group-15-Nitrogen
+
 SpocWebEntityId: 21916
 ---
+
+#chemic/Element 
+[GroupName::[[Group-15-Nitrogen]]]
+
 [Name-en::Phosphorus]
 [Name-de::Phosphor]
 [Weight-u::30.9738]

@@ -1,8 +1,11 @@
 ﻿---
 title: "Nickel"
 type: Element
-GroupName: Group-10-Nickel
+
 ---
+#chemic/Element 
+[GroupName::[[Group-10-Nickel]]]
+
 [Name-en::Nickel]
 [Name-de::Nickel]
 [Weight-u::58.69]

@@ -1,9 +1,13 @@
 ﻿---
 title: "Neodymium"
 type: Element
-GroupName: Lanthanide-Group
+
 SpocWebEntityId: 21956
 ---
+
+#chemic/Element 
+[GroupName::[[Lanthanide-Group]]]
+
 [Name-en::Neodymium]
 [Name-de::Neodym]
 [Weight-u::144.24]

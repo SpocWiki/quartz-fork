@@ -1,9 +1,13 @@
 ﻿---
 title: "Dysprosium"
 type: Element
-GroupName: Lanthanide-Group
+
 SpocWebEntityId: 21962
 ---
+
+#chemic/Element 
+[GroupName::[[Lanthanide-Group]]]
+
 [Name-en::Dysprosium]
 [Name-de::Dysprosium]
 [Weight-u::162.5]

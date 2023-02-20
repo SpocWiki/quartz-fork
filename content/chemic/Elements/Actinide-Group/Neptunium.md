@@ -1,9 +1,13 @@
 ﻿---
 title: "Neptunium"
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21988
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Neptunium]
 [Name-de::Neptunium]

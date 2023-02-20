@@ -1,9 +1,13 @@
 ﻿---
 title: "Berkelium"
 type: Element
-GroupName: Actinide-Group
+
 SpocWebEntityId: 21992
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 
 [Name-en::Berkelium]
 [Name-de::Berkelium]

@@ -1,8 +1,11 @@
 ﻿---
 title: "Zinc"
 type: Element
-GroupName: Group-12-Zinc
+
 ---
+#chemic/Element 
+[GroupName::[[Group-12-Zinc]]]
+
 [Name-en::Zinc]
 [Name-de::Zink]
 [Weight-u::65.39]

@@ -1,8 +1,11 @@
 ﻿---
 title: "Chromium"
 type: Element
-GroupName: Group-06-Chromium
+
 ---
+#chemic/Element 
+[GroupName::[[Group-06-Chromium]]]
+
 [Name-en::Chromium]
 [Name-de::Chrom]
 [Weight-u::51.996]

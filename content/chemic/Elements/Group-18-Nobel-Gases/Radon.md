@@ -1,9 +1,13 @@
 ﻿---
 title: "Radon"
 type: Element
-GroupName: Group-18-Nobel-Gases
+
 SpocWebEntityId: 21981
 ---
+
+#chemic/Element 
+[GroupName::[[Group-18-Nobel-Gases]]]
+
 [Name-en::Radon]
 [Name-de::Radon]
 [Weight-u::222]

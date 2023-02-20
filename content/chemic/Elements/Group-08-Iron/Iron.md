@@ -1,8 +1,11 @@
 ﻿---
 title: "Iron"
 type: Element
-GroupName: Group-08-Iron
+
 ---
+#chemic/Element 
+[GroupName::[[Group-08-Iron]]]
+
 [Name-en::Iron]
 [Name-de::Eisen]
 [Weight-u::55.847]

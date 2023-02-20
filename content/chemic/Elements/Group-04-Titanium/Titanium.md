@@ -1,8 +1,11 @@
 ﻿---
 title: "Titanium"
 type: Element
-GroupName: Group-04-Titanium
+
 ---
+#chemic/Element 
+[GroupName::[[Group-04-Titanium]]]
+
 [Name-en::Titanium]
 [Name-de::Titan]
 [Weight-u::47.88]

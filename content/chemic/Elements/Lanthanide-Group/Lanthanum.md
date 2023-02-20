@@ -1,9 +1,13 @@
 ﻿---
 title: "Lanthanum"
 type: Element
-GroupName: Group-03-Scandium
+
 SpocWebEntityId: 21953
 ---
+
+#chemic/Element 
+[GroupName::[[Lanthanide-Group]]]
+
 
 [Name-en::Lanthanum]
 [Name-de::Lanthan]

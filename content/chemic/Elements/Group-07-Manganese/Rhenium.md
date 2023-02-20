@@ -1,8 +1,11 @@
 ﻿---
 title: "Rhenium"
 type: Element
-GroupName: Group-07-Manganese
+
 ---
+#chemic/Element 
+[GroupName::[[Group-07-Manganese]]]
+
 [Name-en::Rhenium]
 [Name-de::Rhenium]
 [Weight-u::186.207]

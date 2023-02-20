@@ -1,9 +1,13 @@
 ﻿---
 title: "Nitrogen"
 type: Element
-GroupName: Group-15-Nitrogen
+
 SpocWebEntityId: 21909
 ---
+
+#chemic/Element 
+[GroupName::[[Group-15-Nitrogen]]]
+
 [Name-en::Nitrogen]
 [Name-de::Stickstoff]
 [Weight-u::14.0067]

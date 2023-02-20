@@ -1,9 +1,12 @@
 ﻿---
 title: "Francium"
 type: Element
-GroupName: Group-01-Alkali
+
 SpocWebEntityId: 21982
 ---
+#chemic/Element 
+[GroupName::[[Group-01-Alkali]]]
+
 [Name-en::Francium]
 [Name-de::Francium]
 

@@ -1,9 +1,11 @@
 ﻿---
 title: "Gold"
 type: Element
-GroupName: Group-11-Copper
 
 ---
+#chemic/Element 
+[GroupName::[[Group-11-Copper]]]
+
 [Name-en::Gold]
 [Name-de::Gold]
 [Weight-u::196.9665]

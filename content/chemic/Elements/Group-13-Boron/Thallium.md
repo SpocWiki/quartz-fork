@@ -1,10 +1,12 @@
 ﻿---
 title: "Thallium"
 type: Element
-GroupName: Group-13-Boron
 SpocWebEntityId: 21976
 
 ---
+#chemic/Element 
+[GroupName::[[Group-13-Boron]]]
+
 [Name-en::Thallium]
 [Name-de::Thallium]
 [Weight-u::204.383]

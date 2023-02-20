@@ -1,8 +1,12 @@
 ﻿---
 title: "Actinium"
 type: Element
-GroupName: Group-03-Scandium
+
 ---
+
+#chemic/Element 
+[GroupName::[[Actinide-Group]]]
+
 [Name-en::Actinium]
 [Name-de::Actinium]
 [Weight-u::227]
