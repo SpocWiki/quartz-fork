@@ -16,6 +16,8 @@ tags:
 
 <img href='Coat_of_arms_of_Canada.svg'>Coat_of_Arms</img>
 
+![Obsidian](https://obsidian.md/images/banner.png) maybe it's only svg the problem?
+
 <img href='Canada/Flag_of_Canada_(Pantone).svg'/>Flag</img>
 
 ```md
