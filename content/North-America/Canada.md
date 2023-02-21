@@ -14,10 +14,10 @@ tags:
 [name-en::Canada]
 [name-de::Kanada]
 
-<img href='Coat_of_arms_of_Canada.svg'/>
+<img href='Coat_of_arms_of_Canada.svg'>Coat_of_Arms</img>
 
 
-<img href='Canada/Flag_of_Canada_(Pantone).svg'/>
+<img href='Canada/Flag_of_Canada_(Pantone).svg'/>Flag</img>
 
 [Area-Total::9958319]
 [Area-Land::9220970]

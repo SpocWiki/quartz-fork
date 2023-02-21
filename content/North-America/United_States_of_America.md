@@ -1,4 +1,4 @@
-﻿---
+---
 title: "United States of America"
 location: [39.2641,-94.8153]
 type: Country
@@ -13,11 +13,12 @@ tags:
 [name-en::United States of America]
 [name-de::Vereinigte Staaten von Amerika]
 
-<img href='Coat_of_Arms_of_the_United_States_(obverse).svg'/>
+<img href='Coat_of_Arms_of_the_United_States_(obverse).svg'>Coat_of_Arms</img>
 
 ![Anthem-United-states.mp3](Anthem-United-states.mp3)
 
-<img href="United_States_of_America/Flag_of_the_United_States.svg"/>
+<img href='United_States_of_America/Flag_of_the_United_States.svg' >Flag</img>
+
 [Area-Total::9809155]
 [Area-Land::9573110]
 [Continent::North-America]
