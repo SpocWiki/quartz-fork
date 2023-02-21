@@ -16,8 +16,11 @@ tags:
 
 <img href='Coat_of_arms_of_Canada.svg'>Coat_of_Arms</img>
 
-
 <img href='Canada/Flag_of_Canada_(Pantone).svg'/>Flag</img>
+
+```md
+![Obsidian](https://obsidian.md/images/banner.png)
+```
 
 [Area-Total::9958319]
 [Area-Land::9220970]
