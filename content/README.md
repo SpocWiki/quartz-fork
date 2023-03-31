@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-title: How to include this in your own vault:
+title: How to include this in your own vault
 ---
 This Repository/Folder/Wiki/Vault contains shared, public, freely usable Text and Data. 
 
