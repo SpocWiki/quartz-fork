@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-title: Periods:
+title: Periods
 ---
 > ISO 8601 is an international standard covering the worldwide exchange and communication of date and time-related data. It is maintained by the Geneva-based International Organization for Standardization (ISO) and was first published in 1988, with updates in 1991, 2000, 2004, and 2019, and an amendment in 2022. The standard provides a well-defined, unambiguous method of representing calendar dates and times in worldwide communications, especially to avoid misinterpreting numeric dates and times when such data is transferred between countries with different conventions for writing numeric dates and times.
 >

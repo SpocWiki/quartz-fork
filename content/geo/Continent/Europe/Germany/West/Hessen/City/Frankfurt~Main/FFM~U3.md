@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-title: Stationen:
+title: Stationen
 ---
 S-Bahn in [Frankfurt~Main](geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main.md) 
 

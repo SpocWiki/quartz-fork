@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-title: Stations:
+title: Stations
 ---
 > The **Waterloo & City Line**, colloquially known as The Drain, is a London Underground shuttle line that runs between Waterloo and Bank with no intermediate stops. Its primary traffic consists of commuters from south-west London, Surrey and Hampshire arriving at Waterloo main line station and travelling forward to the City of London financial district. For this reason, the line has historically not operated on Sundays or public holidays, except in very limited circumstances. However, following the COVID-19 pandemic, the line is currently only open on weekdays. It is one of only two lines on the Underground network to run completely underground, the other being the Victoria line.Printed in turquoise on the Tube map, it is by far the shortest line on the Underground network, being 2.37 km (1.47 miles) long, with an end-to-end journey lasting just four minutes. In absolute terms, it is the least-used Tube line, carrying just over 15 million passengers annually. However, in terms of the average number of journeys per mile it is the third-most intensively-used line behind the Jubilee and Victoria lines.
 >

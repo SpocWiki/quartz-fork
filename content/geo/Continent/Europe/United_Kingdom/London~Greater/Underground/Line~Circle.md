@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-title: Stations:
+title: Stations
 ---
 Subway Line in [../../City/London](../../City/London)
 
