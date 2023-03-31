@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>schema.org/Predicate/Date on</title><link>https://spocwiki.github.io/quartz-fork/tags/schema.org/Predicate/Date/</link><description>Recent content in schema.org/Predicate/Date on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://spocwiki.github.io/quartz-fork/tags/schema.org/Predicate/Date/index.xml" rel="self" type="application/rss+xml"/><item><title>has_date_available_from</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_available_from/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_available_from/</guid><description>Predicate to describe the date of DeliveryEvent.
+[is_part_of:: ]
+Use it like this:
+[has_date_available_from::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_available_from::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_available_through</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_available_through/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_available_through/</guid><description>Predicate to describe the date of DeliveryEvent.
+[is_part_of:: ]
+Use it like this:
+[has_date_available_through::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_available_through::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_created</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_created/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_created/</guid><description>Predicate to describe the date of CreativeWork, DataFeedItem.
+[is_part_of:: ]
+Use it like this:
+[has_date_created::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_created::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_deleted</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_deleted/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_deleted/</guid><description>Predicate to describe the date of DataFeedItem.
+[is_part_of:: ]
+Use it like this:
+[has_date_deleted::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_deleted::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_excepted</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_excepted/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_excepted/</guid><description>Predicate to describe the date of Schedule.
+[is_part_of:: pending:]
+Use it like this:
+[has_date_excepted::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_excepted::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_issued</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_issued/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_issued/</guid><description>Predicate to describe the date of Ticket.
+[is_part_of:: ]
+Use it like this:
+[has_date_issued::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_issued::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_modified</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_modified/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_modified/</guid><description>Predicate to describe the date of CreativeWork, DataFeedItem.
+[is_part_of:: ]
+Use it like this:
+[has_date_modified::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_modified::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_application_deadline</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_application_deadline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_application_deadline/</guid><description>Predicate to describe the date of EducationalOccupationalProgram.
+[is_part_of:: pending:]
+Use it like this:
+[has_date_of_application_deadline::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_application_deadline::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_application_start</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_application_start/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_application_start/</guid><description>Predicate to describe the date of EducationalOccupationalProgram.
+[is_part_of:: pending:]
+Use it like this:
+[has_date_of_application_start::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_application_start::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_birth</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_birth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_birth/</guid><description>Predicate to describe the date of Person.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_birth::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_birth::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_cvd_collection</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_cvd_collection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_cvd_collection/</guid><description>Predicate to describe the date of CDCPMDRecord.
+[is_part_of:: pending:]
+Use it like this:
+[has_date_of_cvd_collection::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_cvd_collection::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_death</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_death/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_death/</guid><description>Predicate to describe the date of Person.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_death::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_death::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_dissolution</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_dissolution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_dissolution/</guid><description>Predicate to describe the date of Organization.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_dissolution::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_dissolution::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_expected_arrival_from</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_expected_arrival_from/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_expected_arrival_from/</guid><description>Predicate to describe the date of ParcelDelivery.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_expected_arrival_from::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_expected_arrival_from::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_expected_arrival_until</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_expected_arrival_until/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_expected_arrival_until/</guid><description>Predicate to describe the date of ParcelDelivery.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_expected_arrival_until::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_expected_arrival_until::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_founding</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_founding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_founding/</guid><description>Predicate to describe the date of Organization.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_founding::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_founding::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_guideline</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_guideline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_guideline/</guid><description>Predicate to describe the date of MedicalGuideline.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_guideline::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_guideline::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_last_review</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_last_review/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_last_review/</guid><description>Predicate to describe the date of WebPage.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_last_review::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_last_review::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_legislation</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_legislation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_legislation/</guid><description>Predicate to describe the date of Legislation.
+[is_part_of:: pending:]
+Use it like this:
+[has_date_of_legislation::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_legislation::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_legislation_version</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_legislation_version/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_legislation_version/</guid><description>Predicate to describe the date of Legislation.
+[is_part_of:: pending:]
+Use it like this:
+[has_date_of_legislation_version::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_legislation_version::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_merchant_return_days</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days/</guid><description>Predicate to describe the date of MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride.
+[is_part_of:: pending:]
+Use it like this:
+[has_date_of_merchant_return_days::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_merchant_return_days::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_model</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_model/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_model/</guid><description>Predicate to describe the date of Vehicle.
+[is_part_of:: https://auto.schema.org]
+Use it like this:
+[has_date_of_model::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_model::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_observation</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_observation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_observation/</guid><description>Predicate to describe the date of Observation.
+[is_part_of:: pending:]
+Use it like this:
+[has_date_of_observation::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_observation::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_order</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_order/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_order/</guid><description>Predicate to describe the date of Order.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_order::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_order::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_payment_due</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_payment_due/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_payment_due/</guid><description>Predicate to describe the date of Invoice, Order.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_payment_due::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_payment_due::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_previous_start</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_previous_start/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_previous_start/</guid><description>Predicate to describe the date of Event.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_previous_start::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_previous_start::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_price_valid_until</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_price_valid_until/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_price_valid_until/</guid><description>Predicate to describe the date of Offer.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_price_valid_until::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_price_valid_until::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_production</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_production/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_production/</guid><description>Predicate to describe the date of Product, Vehicle.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_production::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_production::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_purchase</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_purchase/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_purchase/</guid><description>Predicate to describe the date of Product, Vehicle.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_purchase::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_purchase::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_release</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_release/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_release/</guid><description>Predicate to describe the date of Product.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_release::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_release::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_scheduled_payment</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment/</guid><description>Predicate to describe the date of Invoice.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_scheduled_payment::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_scheduled_payment::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_sd_published</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_sd_published/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_sd_published/</guid><description>Predicate to describe the date of CreativeWork.
+[is_part_of:: pending:]
+Use it like this:
+[has_date_of_sd_published::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_sd_published::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_temporal</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_temporal/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_temporal/</guid><description>Predicate to describe the date of CreativeWork.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_temporal::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_temporal::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_temporal_coverage</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_temporal_coverage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_temporal_coverage/</guid><description>Predicate to describe the date of CreativeWork.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_temporal_coverage::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_temporal_coverage::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_upload</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_upload/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_upload/</guid><description>Predicate to describe the date of MediaObject.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_upload::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_upload::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_of_vehicle_model</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_vehicle_model/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_of_vehicle_model/</guid><description>Predicate to describe the date of Vehicle.
+[is_part_of:: ]
+Use it like this:
+[has_date_of_vehicle_model::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_of_vehicle_model::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_owned_from</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_owned_from/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_owned_from/</guid><description>Predicate to describe the date of OwnershipInfo.
+[is_part_of:: ]
+Use it like this:
+[has_date_owned_from::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_owned_from::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_owned_through</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_owned_through/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_owned_through/</guid><description>Predicate to describe the date of OwnershipInfo.
+[is_part_of:: ]
+Use it like this:
+[has_date_owned_through::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_owned_through::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_posted</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_posted/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_posted/</guid><description>Predicate to describe the date of CDCPMDRecord, JobPosting, RealEstateListing, SpecialAnnouncement.
+[is_part_of:: ]
+Use it like this:
+[has_date_posted::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_posted::P#Y#M#W#DT#H#M#s.</description></item><item><title>has_date_published</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_published/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_published/</guid><description>Predicate to describe the date of CreativeWork.
+[is_part_of:: ]
+Use it like this:
+[has_date_published::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_published::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_read</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_read/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_read/</guid><description>Predicate to describe the date of Message.
+[is_part_of:: ]
+Use it like this:
+[has_date_read::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_read::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_received</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_received/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_received/</guid><description>Predicate to describe the date of Message.
+[is_part_of:: ]
+Use it like this:
+[has_date_received::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_received::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_sent</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_sent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_sent/</guid><description>Predicate to describe the date of Message.
+[is_part_of:: ]
+Use it like this:
+[has_date_sent::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_sent::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_to_end</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_to_end/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_to_end/</guid><description>Predicate to describe the date of CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule.
+[is_part_of:: ]
+Use it like this:</description></item><item><title>has_date_to_expire</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_to_expire/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_to_expire/</guid><description>Predicate to describe the date of CreativeWork.
+[is_part_of:: ]
+Use it like this:
+[has_date_to_expire::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_to_expire::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_to_start</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_to_start/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_to_start/</guid><description>Predicate to describe the date of CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule.
+[is_part_of:: ]
+Use it like this:</description></item><item><title>has_date_to_start_job</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_to_start_job/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_to_start_job/</guid><description>Predicate to describe the date of JobPosting.
+[is_part_of:: pending:]
+Use it like this:
+[has_date_to_start_job::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_to_start_job::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_valid_from</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_valid_from/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_valid_from/</guid><description>Predicate to describe the date of Demand, LocationFeatureSpecification, MonetaryAmount, Offer, OpeningHoursSpecification, Permit, PriceSpecification.
+[is_part_of:: ]
+Use it like this:
+[has_date_valid_from::P#Y#M#W#DT#H#M#s.</description></item><item><title>has_date_valid_through</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_valid_through/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_valid_through/</guid><description>Predicate to describe the date of Demand, JobPosting, LocationFeatureSpecification, MonetaryAmount, Offer, OpeningHoursSpecification, PriceSpecification.
+[is_part_of:: ]
+Use it like this:
+[has_date_valid_through::P#Y#M#W#DT#H#M#s.</description></item><item><title>has_date_valid_until</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_valid_until/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_valid_until/</guid><description>Predicate to describe the date of Permit.
+[is_part_of:: ]
+Use it like this:
+[has_date_valid_until::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_valid_until::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_vehicle_first_registered</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_vehicle_first_registered/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_vehicle_first_registered/</guid><description>Predicate to describe the date of Vehicle.
+[is_part_of:: ]
+Use it like this:
+[has_date_vehicle_first_registered::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_vehicle_first_registered::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_when_availability_ends</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_when_availability_ends/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_when_availability_ends/</guid><description>Predicate to describe the date of ActionAccessSpecification, Demand, Offer.
+[is_part_of:: ]
+Use it like this:
+[has_date_when_availability_ends::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_when_availability_ends::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_date_when_availability_starts</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_when_availability_starts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_date_when_availability_starts/</guid><description>Predicate to describe the date of ActionAccessSpecification, Demand, Offer.
+[is_part_of:: ]
+Use it like this:
+[has_date_when_availability_starts::P#Y#M#W#DT#H#M#s.fff] or [ #has_/date/_when_availability_starts::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_interval_of_dataset</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_interval_of_dataset/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_interval_of_dataset/</guid><description>Predicate to describe the date of Dataset.
+[is_part_of:: ]
+Use it like this:
+[has_time_interval_of_dataset::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_interval_of_dataset::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_modified</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_modified/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_modified/</guid><description>Predicate to describe the time of Reservation.
+[is_part_of:: ]
+Use it like this:
+[has_time_modified::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_of_modified_time::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_of_arrival</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_arrival/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_arrival/</guid><description>Predicate to describe the date of Trip.
+[is_part_of:: ]
+Use it like this:
+[has_time_of_arrival::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_of_arrival::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_of_booking</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_booking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_booking/</guid><description>Predicate to describe the time of Reservation.
+[is_part_of:: ]
+Use it like this:
+[has_time_of_booking_time::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_of_booking_time::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_of_checkin</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_checkin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_checkin/</guid><description>Predicate to describe the time of LodgingBusiness, LodgingReservation.
+[is_part_of:: ]
+Use it like this:
+[has_time_of_checkin_time::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_of_checkin_time::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_of_comment</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_comment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_comment/</guid><description>Predicate to describe the time of UserComments.
+[is_part_of:: ]
+Use it like this:
+[has_time_of_comment::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_of_comment_time::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_of_content_reference</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_content_reference/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_content_reference/</guid><description>Predicate to describe the time of CreativeWork.
+[is_part_of:: pending:]
+Use it like this:
+[has_time_of_content_reference::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_of_content_reference::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Date Format .</description></item><item><title>has_time_of_coverage_end</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_coverage_end/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_coverage_end/</guid><description>Predicate to describe the time of LiveBlogPosting.
+[is_part_of:: ]
+Use it like this:
+[has_time_of_coverage_end::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_of_coverage_end::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Date Format .</description></item><item><title>has_time_of_coverage_start</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_coverage_start/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_coverage_start/</guid><description>Predicate to describe the time of LiveBlogPosting.
+[is_part_of:: ]
+Use it like this:
+[has_time_of_coverage_start::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_of_coverage_start::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Date Format .</description></item><item><title>has_time_of_door</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_door/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_door/</guid><description>Predicate to describe the time of Event.
+[is_part_of:: ]
+Use it like this:
+[has_time_of_door::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_of_door::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Date Format .</description></item><item><title>has_time_of_web_checkin</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_web_checkin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_of_web_checkin/</guid><description>Predicate to describe the date of Flight.
+[is_part_of:: ]
+Use it like this:
+[has_time_of_web_checkin::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_of_web_checkin::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_scheduled</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_scheduled/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_scheduled/</guid><description>Predicate to describe the date of PlanAction.
+[is_part_of:: ]
+Use it like this:
+[has_time_scheduled::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_scheduled::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_to_check_out</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_check_out/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_check_out/</guid><description>Predicate to describe the time of LodgingBusiness, LodgingReservation.
+[is_part_of:: ]
+Use it like this:
+[has_time_to_check_out::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_to_check_out::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_to_depart</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_depart/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_depart/</guid><description>Predicate to describe the time of Trip.
+[is_part_of:: ]
+Use it like this:
+[has_time_to_depart::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_to_depart::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Date Format .</description></item><item><title>has_time_to_drop_off</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_drop_off/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_drop_off/</guid><description>Predicate to describe the time of RentalCarReservation.
+[is_part_of:: ]
+Use it like this:
+[has_time_to_drop_off::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_to_drop_off::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Date Format .</description></item><item><title>has_time_to_end</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_end/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_end/</guid><description>Predicate to describe the time of Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule.
+[is_part_of:: ]
+Use it like this:
+[has_time_to_end::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_to_end::P#Y#M#W#DT#H#M#s.</description></item><item><title>has_time_to_pick_up</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_pick_up/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_pick_up/</guid><description>Predicate to describe the time of RentalCarReservation, TaxiReservation.
+[is_part_of:: ]
+Use it like this:
+[has_time_to_pick_up::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_to_pick_up::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-date Format .</description></item><item><title>has_time_to_start</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_start/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Date_Times/has_time_to_start/</guid><description>Predicate to describe the time of Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule.
+[is_part_of:: ]
+Use it like this:
+[has_time_to_start::P#Y#M#W#DT#H#M#s.fff] or [ #has_/time/_to_start_time::P#Y#M#W#DT#H#M#s.</description></item></channel></rss>

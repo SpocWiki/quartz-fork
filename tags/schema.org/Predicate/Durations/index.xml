@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>schema.org/Predicate/Durations on</title><link>https://spocwiki.github.io/quartz-fork/tags/schema.org/Predicate/Durations/</link><description>Recent content in schema.org/Predicate/Durations on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://spocwiki.github.io/quartz-fork/tags/schema.org/Predicate/Durations/index.xml" rel="self" type="application/rss+xml"/><item><title>has_duration</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration/</guid><description>Predicate to describe the Duration of Audiobook, Episode, Event, MediaObject, Movie, MusicRecording, MusicRelease, QuantitativeValueDistribution, Schedule.
+[is_part_of:: ]
+Use it like this:</description></item><item><title>has_duration_of_activity</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_activity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_activity/</guid><description>Predicate to describe the Duration of ExercisePlan.
+[is_part_of:: ]
+Use it like this:
+[has_duration_of_activity::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_of_activity::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_of_billing</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_billing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_billing/</guid><description>Predicate to describe the Duration of UnitPriceSpecification.
+[is_part_of:: pending:]
+Use it like this:
+[has_duration_of_billing::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_of_billing::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_of_billing_period</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_billing_period/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_billing_period/</guid><description>Predicate to describe the Duration of Invoice.
+[is_part_of:: ]
+Use it like this:
+[has_duration_of_billing_period::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_of_billing_period::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_of_cooking</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_cooking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_cooking/</guid><description>Predicate to describe the Duration of Recipe.
+[is_part_of:: ]
+Use it like this:
+[has_duration_of_cooking::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_of_cooking::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_of_flight</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_flight/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_flight/</guid><description>Predicate to describe the Duration of Flight.
+[is_part_of:: ]
+Use it like this:
+[has_duration_of_flight::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_of_flight::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_of_grace_period</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_grace_period/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_grace_period/</guid><description>Predicate to describe the Duration of LoanOrCredit.
+[is_part_of:: pending:]
+Use it like this:
+[has_duration_of_grace_period::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_of_grace_period::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_of_lease</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_lease/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_lease/</guid><description>Predicate to describe the Duration of Accommodation, Offer, RealEstateListing.
+[is_part_of:: pending:]
+Use it like this:
+[has_duration_of_lease::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_of_lease::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_of_term</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_term/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_term/</guid><description>Predicate to describe the Duration of EducationalOccupationalProgram.
+[is_part_of:: pending:]
+Use it like this:
+[has_duration_of_term::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_of_term::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_of_validity</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_validity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_of_validity/</guid><description>Predicate to describe the Duration of EducationalOccupationalCredential, Permit.
+[is_part_of:: ]
+Use it like this:
+[has_duration_of_validity::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_of_validity::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_required</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_required/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_required/</guid><description>Predicate to describe the Duration of CreativeWork.
+[is_part_of:: ]
+Use it like this:
+[has_duration_required::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_required::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_to_complete</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_to_complete/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_to_complete/</guid><description>Predicate to describe the Duration of EducationalOccupationalProgram.
+[is_part_of:: pending:]
+Use it like this:
+[has_duration_to_complete::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_to_complete::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_to_perform</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_to_perform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_to_perform/</guid><description>Predicate to describe the Duration of HowTo, HowToDirection.
+[is_part_of:: ]
+Use it like this:
+[has_duration_to_perform::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_to_perform::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_to_prepare</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_to_prepare/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_to_prepare/</guid><description>Predicate to describe the Duration of HowTo, HowToDirection.
+[is_part_of:: ]
+Use it like this:
+[has_duration_to_prepare::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_to_prepare::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_to_process</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_to_process/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_to_process/</guid><description>Predicate to describe the Duration of ServiceChannel.
+[is_part_of:: ]
+Use it like this:
+[has_duration_to_process::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_to_process::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_total</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_total/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_total/</guid><description>Predicate to describe the Duration of HowTo, HowToDirection.
+[is_part_of:: ]
+Use it like this:
+[has_duration_total::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_total::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item><item><title>has_duration_until_repeat</title><link>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_until_repeat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://spocwiki.github.io/quartz-fork/schema.org/Predicate/Durations/has_duration_until_repeat/</guid><description>Predicate to describe the Duration of Schedule.
+[is_part_of:: pending:]
+Use it like this:
+[has_duration_until_repeat::P#Y#M#W#DT#H#M#s.fff] or [ #has_/duration/_until_repeat::P#Y#M#W#DT#H#M#s.fff] with the ISO_8601-Duration Format .</description></item></channel></rss>
