@@ -1,12 +1,14 @@
-﻿---
-title: "Praseodymium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21955
+title: Praseodymium
 ---
 
 #chemic/Element 
-[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
+[GroupName::[Lanthanide-Group](chemic/Elements/Lanthanide-Group.md)]
 
 [Name-en::Praseodymium]
 [Name-de::Praseodym]
@@ -35,3 +37,11 @@ SpocWebEntityId: 21955
 > Like most rare-earth elements, praseodymium most readily forms the +3 oxidation state, which is the only stable state in aqueous solution, although the +4 oxidation state is known in some solid compounds and, uniquely among the lanthanides, the +5 oxidation state is attainable in matrix-isolation conditions. The 0, +1, and +2 oxidation states are rarely found. Aqueous praseodymium ions are yellowish-green, and similarly, praseodymium results in various shades of yellow-green when incorporated into glasses. Many of praseodymium's industrial uses involve its ability to filter yellow light from light sources.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Praseodymium)
+
+## Confidential Links & Embeds: 
+- [Praseodymium](../../../../_public/chemic/Elements/Lanthanide-Group/Praseodymium.md) 
+- [Praseodymium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Praseodymium.internal.md) 
+- [Praseodymium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Praseodymium.protect.md) 
+- [Praseodymium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Praseodymium.private.md) 
+- [Praseodymium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Praseodymium.personal.md) 
+- [Praseodymium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Praseodymium.secret.md) 

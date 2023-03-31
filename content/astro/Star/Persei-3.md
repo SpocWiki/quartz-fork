@@ -1,14 +1,12 @@
-﻿---
-title: "Persei-3"
+---
+aliases: 
 location: [53.51,46.2,150]
 type: Station
 tags:
 - astro/Star
 
+title: Persei-3
 ---
-
-# Persei-3
-
 SpocWebEntityId: 27373
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28145]
 [NextStarId::27622]
 
+
+
+## Confidential Links & Embeds: 
+- [Persei-3](../../../_public/astro/Star/Persei-3.md) 
+- [Persei-3.internal](../../../_internal/astro/Star/Persei-3.internal.md) 
+- [Persei-3.protect](../../../_protect/astro/Star/Persei-3.protect.md) 
+- [Persei-3.private](../../../_private/astro/Star/Persei-3.private.md) 
+- [Persei-3.personal](../../../_personal/astro/Star/Persei-3.personal.md) 
+- [Persei-3.secret](../../../_secret/astro/Star/Persei-3.secret.md) 

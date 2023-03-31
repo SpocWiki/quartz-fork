@@ -1,14 +1,12 @@
-﻿---
-title: "Ruticulus"
+---
+aliases: 
 location: [21.49,-112.45,100]
 type: Station
 tags:
 - astro/Star
 
+title: Ruticulus
 ---
-
-# Ruticulus
-
 SpocWebEntityId: 27365
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28122]
 [NextStarId::27653]
 
+
+
+## Confidential Links & Embeds: 
+- [Ruticulus](../../../_public/astro/Star/Ruticulus.md) 
+- [Ruticulus.internal](../../../_internal/astro/Star/Ruticulus.internal.md) 
+- [Ruticulus.protect](../../../_protect/astro/Star/Ruticulus.protect.md) 
+- [Ruticulus.private](../../../_private/astro/Star/Ruticulus.private.md) 
+- [Ruticulus.personal](../../../_personal/astro/Star/Ruticulus.personal.md) 
+- [Ruticulus.secret](../../../_secret/astro/Star/Ruticulus.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Alterf"
+---
+aliases: 
 location: [22.97,142.925,250]
 type: Station
 tags:
 - astro/Star
 
+title: Alterf
 ---
-
-# Alterf
-
 SpocWebEntityId: 27890
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::11]
 [ZodiacId::28128]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Alterf](../../../_public/astro/Star/Alterf.md) 
+- [Alterf.internal](../../../_internal/astro/Star/Alterf.internal.md) 
+- [Alterf.protect](../../../_protect/astro/Star/Alterf.protect.md) 
+- [Alterf.private](../../../_private/astro/Star/Alterf.private.md) 
+- [Alterf.personal](../../../_personal/astro/Star/Alterf.personal.md) 
+- [Alterf.secret](../../../_secret/astro/Star/Alterf.secret.md)
 

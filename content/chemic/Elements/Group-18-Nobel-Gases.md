@@ -1,15 +1,17 @@
-﻿---
-title: "Group-18-Nobel-Gases"
+---
+aliases: 
+tags: 
 type: ElementGroup
+title: Group-18-Nobel-Gases
 ---
 #chemic/Group 
 
-1) [Helium](Group-18-Nobel-Gases/Helium.md)
-2) [Neon](Group-18-Nobel-Gases/Neon.md)
-3) [Argon](Group-18-Nobel-Gases/Argon.md)
-4) [Krypton](Group-18-Nobel-Gases/Krypton.md)
-5) [Xenon](Group-18-Nobel-Gases/Xenon.md)
-6) [Radon](Group-18-Nobel-Gases/Radon.md)
+1) [Helium](chemic/Elements/Group-18-Nobel-Gases/Helium.md)
+2) [Neon](chemic/Elements/Group-18-Nobel-Gases/Neon.md)
+3) [Argon](chemic/Elements/Group-18-Nobel-Gases/Argon.md)
+4) [Krypton](chemic/Elements/Group-18-Nobel-Gases/Krypton.md)
+5) [Xenon](chemic/Elements/Group-18-Nobel-Gases/Xenon.md)
+6) [Radon](chemic/Elements/Group-18-Nobel-Gases/Radon.md)
 
 
 > The noble gases (historically also the inert gases; sometimes referred to as aerogens) make up a class of chemical elements with similar properties; under standard conditions, they are all odorless, colorless, monatomic gases with very low chemical reactivity. The six naturally occurring noble gases are helium (He), neon (Ne), argon (Ar), krypton (Kr), xenon (Xe), and the radioactive radon (Rn).
@@ -24,3 +26,11 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Noble%20gas)
  
+
+## Confidential Links & Embeds: 
+- [Group-18-Nobel-Gases](../../../_public/chemic/Elements/Group-18-Nobel-Gases.md) 
+- [Group-18-Nobel-Gases.internal](../../../_internal/chemic/Elements/Group-18-Nobel-Gases.internal.md) 
+- [Group-18-Nobel-Gases.protect](../../../_protect/chemic/Elements/Group-18-Nobel-Gases.protect.md) 
+- [Group-18-Nobel-Gases.private](../../../_private/chemic/Elements/Group-18-Nobel-Gases.private.md) 
+- [Group-18-Nobel-Gases.personal](../../../_personal/chemic/Elements/Group-18-Nobel-Gases.personal.md) 
+- [Group-18-Nobel-Gases.secret](../../../_secret/chemic/Elements/Group-18-Nobel-Gases.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Microscopii-5"
+---
+aliases: 
 location: [-32.173,-40.517,46]
 type: Station
 tags:
 - astro/Star
 
+title: Microscopii-5
 ---
-
-# Microscopii-5
-
 SpocWebEntityId: 28060
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28136]
 [NextStarId::28061]
 
+
+
+## Confidential Links & Embeds: 
+- [Microscopii-5](../../../_public/astro/Star/Microscopii-5.md) 
+- [Microscopii-5.internal](../../../_internal/astro/Star/Microscopii-5.internal.md) 
+- [Microscopii-5.protect](../../../_protect/astro/Star/Microscopii-5.protect.md) 
+- [Microscopii-5.private](../../../_private/astro/Star/Microscopii-5.private.md) 
+- [Microscopii-5.personal](../../../_personal/astro/Star/Microscopii-5.personal.md) 
+- [Microscopii-5.secret](../../../_secret/astro/Star/Microscopii-5.secret.md) 

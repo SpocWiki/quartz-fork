@@ -1,0 +1,28 @@
+---
+type: TrizContradiction
+aliases:
+- Quantity+Mechanical_vibration-Difficulty
+license: CC BY-SA 4.0
+copyright: https://github.com/SpocWeb
+IsDeleted: false
+IsReadOnly: false
+Confidential: public
+tags: 
+- Triz/Contradiction
+title: Triz-Quantity+Mechanical_vibration-Difficulty
+---
+[name::Quantity+Mechanical_vibration-Difficulty]
+[SpocWebEntityId::25225]
++ [pro::[Triz-Quantity](tech/Triz/Parameter/Triz-Quantity.md)]
+[Triz-Principle::[Triz-Mechanical_vibration](tech/Triz/Principle/Triz-Mechanical_vibration.md)]
+- [con::[Triz-Difficulty](tech/Triz/Parameter/Triz-Difficulty.md)]
+
+
+
+## Confidential Links & Embeds: 
+- [Triz-Quantity+Mechanical_vibration-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.md) 
+- [Triz-Quantity+Mechanical_vibration-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.internal.md) 
+- [Triz-Quantity+Mechanical_vibration-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.protect.md) 
+- [Triz-Quantity+Mechanical_vibration-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.private.md) 
+- [Triz-Quantity+Mechanical_vibration-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.personal.md) 
+- [Triz-Quantity+Mechanical_vibration-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.secret.md) 

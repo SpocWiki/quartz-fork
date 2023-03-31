@@ -1,14 +1,12 @@
-﻿---
-title: "Pollux"
+---
+aliases: 
 location: [28.03,116.325,35]
 type: Station
 tags:
 - astro/Star
 
+title: Pollux
 ---
-
-# Pollux
-
 SpocWebEntityId: 27246
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28120]
 [NextStarId::27524]
 
+
+
+## Confidential Links & Embeds: 
+- [Pollux](../../../_public/astro/Star/Pollux.md) 
+- [Pollux.internal](../../../_internal/astro/Star/Pollux.internal.md) 
+- [Pollux.protect](../../../_protect/astro/Star/Pollux.protect.md) 
+- [Pollux.private](../../../_private/astro/Star/Pollux.private.md) 
+- [Pollux.personal](../../../_personal/astro/Star/Pollux.personal.md) 
+- [Pollux.secret](../../../_secret/astro/Star/Pollux.secret.md) 

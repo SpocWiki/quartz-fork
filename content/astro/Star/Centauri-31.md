@@ -1,14 +1,12 @@
-﻿---
-title: "Centauri-31"
+---
+aliases: 
 location: [-44.8,-150.325,600]
 type: Station
 tags:
 - astro/Star
 
+title: Centauri-31
 ---
-
-# Centauri-31
-
 SpocWebEntityId: 27729
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::31]
 [ZodiacId::28101]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Centauri-31](../../../_public/astro/Star/Centauri-31.md) 
+- [Centauri-31.internal](../../../_internal/astro/Star/Centauri-31.internal.md) 
+- [Centauri-31.protect](../../../_protect/astro/Star/Centauri-31.protect.md) 
+- [Centauri-31.private](../../../_private/astro/Star/Centauri-31.private.md) 
+- [Centauri-31.personal](../../../_personal/astro/Star/Centauri-31.personal.md) 
+- [Centauri-31.secret](../../../_secret/astro/Star/Centauri-31.secret.md)
 

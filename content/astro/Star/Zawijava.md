@@ -1,14 +1,12 @@
-﻿---
-title: "Zawijava"
+---
+aliases: 
 location: [1.76,-182.325,32]
 type: Station
 tags:
 - astro/Star
 
+title: Zawijava
 ---
-
-# Zawijava
-
 SpocWebEntityId: 27564
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28168]
 [NextStarId::27757]
 
+
+
+## Confidential Links & Embeds: 
+- [Zawijava](../../../_public/astro/Star/Zawijava.md) 
+- [Zawijava.internal](../../../_internal/astro/Star/Zawijava.internal.md) 
+- [Zawijava.protect](../../../_protect/astro/Star/Zawijava.protect.md) 
+- [Zawijava.private](../../../_private/astro/Star/Zawijava.private.md) 
+- [Zawijava.personal](../../../_personal/astro/Star/Zawijava.personal.md) 
+- [Zawijava.secret](../../../_secret/astro/Star/Zawijava.secret.md) 

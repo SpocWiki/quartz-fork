@@ -1,14 +1,12 @@
-﻿---
-title: "Sextantis-2"
+---
+aliases: 
 location: [-0.637,157.571,522]
 type: Station
 tags:
 - astro/Star
 
+title: Sextantis-2
 ---
-
-# Sextantis-2
-
 SpocWebEntityId: 28065
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28159]
 [NextStarId::27947]
 
+
+
+## Confidential Links & Embeds: 
+- [Sextantis-2](../../../_public/astro/Star/Sextantis-2.md) 
+- [Sextantis-2.internal](../../../_internal/astro/Star/Sextantis-2.internal.md) 
+- [Sextantis-2.protect](../../../_protect/astro/Star/Sextantis-2.protect.md) 
+- [Sextantis-2.private](../../../_private/astro/Star/Sextantis-2.private.md) 
+- [Sextantis-2.personal](../../../_personal/astro/Star/Sextantis-2.personal.md) 
+- [Sextantis-2.secret](../../../_secret/astro/Star/Sextantis-2.secret.md) 

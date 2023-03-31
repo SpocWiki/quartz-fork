@@ -1,14 +1,12 @@
-﻿---
-title: "Aquilae-5"
+---
+aliases: 
 location: [15.07,-75.1,200]
 type: Station
 tags:
 - astro/Star
 
+title: Aquilae-5
 ---
-
-# Aquilae-5
-
 SpocWebEntityId: 27763
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::5]
 [ZodiacId::28087]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Aquilae-5](../../../_public/astro/Star/Aquilae-5.md) 
+- [Aquilae-5.internal](../../../_internal/astro/Star/Aquilae-5.internal.md) 
+- [Aquilae-5.protect](../../../_protect/astro/Star/Aquilae-5.protect.md) 
+- [Aquilae-5.private](../../../_private/astro/Star/Aquilae-5.private.md) 
+- [Aquilae-5.personal](../../../_personal/astro/Star/Aquilae-5.personal.md) 
+- [Aquilae-5.secret](../../../_secret/astro/Star/Aquilae-5.secret.md)
 

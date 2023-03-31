@@ -1,14 +1,12 @@
-﻿---
-title: "Circini-2"
+---
+aliases: 
 location: [-58.8,-130.625,80]
 type: Station
 tags:
 - astro/Star
 
+title: Circini-2
 ---
-
-# Circini-2
-
 SpocWebEntityId: 27826
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28105]
 [NextStarId::27452]
+
+
+
+## Confidential Links & Embeds: 
+- [Circini-2](../../../_public/astro/Star/Circini-2.md) 
+- [Circini-2.internal](../../../_internal/astro/Star/Circini-2.internal.md) 
+- [Circini-2.protect](../../../_protect/astro/Star/Circini-2.protect.md) 
+- [Circini-2.private](../../../_private/astro/Star/Circini-2.private.md) 
+- [Circini-2.personal](../../../_personal/astro/Star/Circini-2.personal.md) 
+- [Circini-2.secret](../../../_secret/astro/Star/Circini-2.secret.md)
 

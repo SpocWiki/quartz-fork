@@ -1,14 +1,12 @@
-﻿---
-title: "Reticuli-2"
+---
+aliases: 
 location: [-64.81,56.05,60]
 type: Station
 tags:
 - astro/Star
 
+title: Reticuli-2
 ---
-
-# Reticuli-2
-
 SpocWebEntityId: 27715
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28152]
 [NextStarId::27968]
 
+
+
+## Confidential Links & Embeds: 
+- [Reticuli-2](../../../_public/astro/Star/Reticuli-2.md) 
+- [Reticuli-2.internal](../../../_internal/astro/Star/Reticuli-2.internal.md) 
+- [Reticuli-2.protect](../../../_protect/astro/Star/Reticuli-2.protect.md) 
+- [Reticuli-2.private](../../../_private/astro/Star/Reticuli-2.private.md) 
+- [Reticuli-2.personal](../../../_personal/astro/Star/Reticuli-2.personal.md) 
+- [Reticuli-2.secret](../../../_secret/astro/Star/Reticuli-2.secret.md) 

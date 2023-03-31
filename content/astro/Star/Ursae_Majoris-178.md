@@ -1,14 +1,12 @@
-﻿---
-title: "Ursae Majoris-178"
+---
+aliases: 
 location: [56.37,-164.825,90]
 type: Station
 tags:
 - astro/Star
 
+title: Ursae_Majoris-178
 ---
-
-# Ursae Majoris-178
-
 SpocWebEntityId: 28018
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Ursae_Majoris-178](../../../_public/astro/Star/Ursae_Majoris-178.md) 
+- [Ursae_Majoris-178.internal](../../../_internal/astro/Star/Ursae_Majoris-178.internal.md) 
+- [Ursae_Majoris-178.protect](../../../_protect/astro/Star/Ursae_Majoris-178.protect.md) 
+- [Ursae_Majoris-178.private](../../../_private/astro/Star/Ursae_Majoris-178.private.md) 
+- [Ursae_Majoris-178.personal](../../../_personal/astro/Star/Ursae_Majoris-178.personal.md) 
+- [Ursae_Majoris-178.secret](../../../_secret/astro/Star/Ursae_Majoris-178.secret.md) 

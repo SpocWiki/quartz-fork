@@ -1,14 +1,12 @@
-﻿---
-title: "Sagittae-3"
+---
+aliases: 
 location: [19.49,-60.3,200]
 type: Station
 tags:
 - astro/Star
 
+title: Sagittae-3
 ---
-
-# Sagittae-3
-
 SpocWebEntityId: 27534
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28153]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Sagittae-3](../../../_public/astro/Star/Sagittae-3.md) 
+- [Sagittae-3.internal](../../../_internal/astro/Star/Sagittae-3.internal.md) 
+- [Sagittae-3.protect](../../../_protect/astro/Star/Sagittae-3.protect.md) 
+- [Sagittae-3.private](../../../_private/astro/Star/Sagittae-3.private.md) 
+- [Sagittae-3.personal](../../../_personal/astro/Star/Sagittae-3.personal.md) 
+- [Sagittae-3.secret](../../../_secret/astro/Star/Sagittae-3.secret.md) 

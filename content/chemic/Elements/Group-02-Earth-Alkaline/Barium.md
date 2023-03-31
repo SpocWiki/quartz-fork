@@ -1,9 +1,11 @@
-﻿---
-title: "Barium"
+---
+aliases: 
+tags: 
 type: Element
+title: Barium
 ---
 #chemic/Element 
-[GroupName::[Group-02-Earth-Alkaline](../Group-02-Earth-Alkaline.md)]
+[GroupName::[Group-02-Earth-Alkaline](chemic/Elements/Group-02-Earth-Alkaline.md)]
 
 [Name-en::Barium]
 [Name-de::Barium]
@@ -31,3 +33,11 @@ SpocWebEntityId: 21952
 > Barium has few industrial applications. Historically, it was used as a getter for vacuum tubes and in oxide form as the emissive coating on indirectly heated cathodes. It is a component of YBCO (high-temperature superconductors) and electroceramics, and is added to steel and cast iron to reduce the size of carbon grains within the microstructure. Barium compounds are added to fireworks to impart a green color. Barium sulfate is used as an insoluble additive to oil well drilling fluid. In a purer form it is used as X-ray radiocontrast agents for imaging the human gastrointestinal tract. Water-soluble barium compounds are poisonous and have been used as rodenticides.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Barium)
+
+## Confidential Links & Embeds: 
+- [Barium](../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Barium.md) 
+- [Barium.internal](../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Barium.internal.md) 
+- [Barium.protect](../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Barium.protect.md) 
+- [Barium.private](../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Barium.private.md) 
+- [Barium.personal](../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Barium.personal.md) 
+- [Barium.secret](../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Barium.secret.md) 

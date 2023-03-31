@@ -1,14 +1,12 @@
-﻿---
-title: "Puppis-48"
+---
+aliases: 
 location: [-44.64,108.375,150]
 type: Station
 tags:
 - astro/Star
 
+title: Puppis-48
 ---
-
-# Puppis-48
-
 SpocWebEntityId: 27336
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28150]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Puppis-48](../../../_public/astro/Star/Puppis-48.md) 
+- [Puppis-48.internal](../../../_internal/astro/Star/Puppis-48.internal.md) 
+- [Puppis-48.protect](../../../_protect/astro/Star/Puppis-48.protect.md) 
+- [Puppis-48.private](../../../_private/astro/Star/Puppis-48.private.md) 
+- [Puppis-48.personal](../../../_personal/astro/Star/Puppis-48.personal.md) 
+- [Puppis-48.secret](../../../_secret/astro/Star/Puppis-48.secret.md) 

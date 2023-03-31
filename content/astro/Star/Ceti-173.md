@@ -1,14 +1,12 @@
-﻿---
-title: "Ceti-173"
+---
+aliases: 
 location: [8.46,37.05,300]
 type: Station
 tags:
 - astro/Star
 
+title: Ceti-173
 ---
-
-# Ceti-173
-
 SpocWebEntityId: 27876
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::173]
 [ZodiacId::28103]
 [NextStarId::27519]
+
+
+
+## Confidential Links & Embeds: 
+- [Ceti-173](../../../_public/astro/Star/Ceti-173.md) 
+- [Ceti-173.internal](../../../_internal/astro/Star/Ceti-173.internal.md) 
+- [Ceti-173.protect](../../../_protect/astro/Star/Ceti-173.protect.md) 
+- [Ceti-173.private](../../../_private/astro/Star/Ceti-173.private.md) 
+- [Ceti-173.personal](../../../_personal/astro/Star/Ceti-173.personal.md) 
+- [Ceti-173.secret](../../../_secret/astro/Star/Ceti-173.secret.md)
 

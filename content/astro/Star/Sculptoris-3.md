@@ -1,14 +1,12 @@
-﻿---
-title: "Sculptoris-3"
+---
+aliases: 
 location: [-32.532,-10.296,154]
 type: Station
 tags:
 - astro/Star
 
+title: Sculptoris-3
 ---
-
-# Sculptoris-3
-
 SpocWebEntityId: 28063
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28156]
 [NextStarId::28064]
 
+
+
+## Confidential Links & Embeds: 
+- [Sculptoris-3](../../../_public/astro/Star/Sculptoris-3.md) 
+- [Sculptoris-3.internal](../../../_internal/astro/Star/Sculptoris-3.internal.md) 
+- [Sculptoris-3.protect](../../../_protect/astro/Star/Sculptoris-3.protect.md) 
+- [Sculptoris-3.private](../../../_private/astro/Star/Sculptoris-3.private.md) 
+- [Sculptoris-3.personal](../../../_personal/astro/Star/Sculptoris-3.personal.md) 
+- [Sculptoris-3.secret](../../../_secret/astro/Star/Sculptoris-3.secret.md) 

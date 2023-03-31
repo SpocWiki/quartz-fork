@@ -1,14 +1,12 @@
-﻿---
-title: "Muscae-1"
+---
+aliases: 
 location: [-69.14,-170.7,300]
 type: Station
 tags:
 - astro/Star
 
+title: Muscae-1
 ---
-
-# Muscae-1
-
 SpocWebEntityId: 27350
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28138]
 [NextStarId::27430]
 
+
+
+## Confidential Links & Embeds: 
+- [Muscae-1](../../../_public/astro/Star/Muscae-1.md) 
+- [Muscae-1.internal](../../../_internal/astro/Star/Muscae-1.internal.md) 
+- [Muscae-1.protect](../../../_protect/astro/Star/Muscae-1.protect.md) 
+- [Muscae-1.private](../../../_private/astro/Star/Muscae-1.private.md) 
+- [Muscae-1.personal](../../../_personal/astro/Star/Muscae-1.personal.md) 
+- [Muscae-1.secret](../../../_secret/astro/Star/Muscae-1.secret.md) 

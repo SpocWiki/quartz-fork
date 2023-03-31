@@ -1,14 +1,12 @@
-﻿---
-title: "Homam"
+---
+aliases: 
 location: [10.83,-19.625,150]
 type: Station
 tags:
 - astro/Star
 
+title: Homam
 ---
-
-# Homam
-
 SpocWebEntityId: 27499
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::6]
 [ZodiacId::28144]
 [NextStarId::27858]
+
+
+
+## Confidential Links & Embeds: 
+- [Homam](../../../_public/astro/Star/Homam.md) 
+- [Homam.internal](../../../_internal/astro/Star/Homam.internal.md) 
+- [Homam.protect](../../../_protect/astro/Star/Homam.protect.md) 
+- [Homam.private](../../../_private/astro/Star/Homam.private.md) 
+- [Homam.personal](../../../_personal/astro/Star/Homam.personal.md) 
+- [Homam.secret](../../../_secret/astro/Star/Homam.secret.md)
 

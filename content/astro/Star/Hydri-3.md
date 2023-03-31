@@ -1,14 +1,12 @@
-﻿---
-title: "Hydri-3"
+---
+aliases: 
 location: [-74.24,56.8,150]
 type: Station
 tags:
 - astro/Star
 
+title: Hydri-3
 ---
-
-# Hydri-3
-
 SpocWebEntityId: 27450
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28125]
 [NextStarId::27368]
+
+
+
+## Confidential Links & Embeds: 
+- [Hydri-3](../../../_public/astro/Star/Hydri-3.md) 
+- [Hydri-3.internal](../../../_internal/astro/Star/Hydri-3.internal.md) 
+- [Hydri-3.protect](../../../_protect/astro/Star/Hydri-3.protect.md) 
+- [Hydri-3.private](../../../_private/astro/Star/Hydri-3.private.md) 
+- [Hydri-3.personal](../../../_personal/astro/Star/Hydri-3.personal.md) 
+- [Hydri-3.secret](../../../_secret/astro/Star/Hydri-3.secret.md)
 

@@ -1,11 +1,13 @@
-﻿---
-title: "Lithium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21906
+title: Lithium
 ---
 #chemic/Element 
-[GroupName::[Group-01-Alkali](../Group-01-Alkali.md)]
+[GroupName::[Group-01-Alkali](chemic/Elements/Group-01-Alkali.md)]
 
 [Name-en::Lithium]
 [Name-de::Lithium]
@@ -34,3 +36,11 @@ SpocWebEntityId: 21906
 > Lithium is present in biological systems in trace amounts; its functions are uncertain. Lithium salts have proven to be useful as a mood stabilizer and antidepressant   in the treatment of mental illness such as bipolar disorder.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lithium)
+
+## Confidential Links & Embeds: 
+- [Lithium](../../../../_public/chemic/Elements/Group-01-Alkali/Lithium.md) 
+- [Lithium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Lithium.internal.md) 
+- [Lithium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Lithium.protect.md) 
+- [Lithium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Lithium.private.md) 
+- [Lithium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Lithium.personal.md) 
+- [Lithium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Lithium.secret.md) 

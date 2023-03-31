@@ -1,14 +1,12 @@
-﻿---
-title: "Cassiopeiae-5"
+---
+aliases: 
 location: [63.67,28.6,500]
 type: Station
 tags:
 - astro/Star
 
+title: Cassiopeiae-5
 ---
-
-# Cassiopeiae-5
-
 SpocWebEntityId: 27482
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::5]
 [ZodiacId::28100]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Cassiopeiae-5](../../../_public/astro/Star/Cassiopeiae-5.md) 
+- [Cassiopeiae-5.internal](../../../_internal/astro/Star/Cassiopeiae-5.internal.md) 
+- [Cassiopeiae-5.protect](../../../_protect/astro/Star/Cassiopeiae-5.protect.md) 
+- [Cassiopeiae-5.private](../../../_private/astro/Star/Cassiopeiae-5.private.md) 
+- [Cassiopeiae-5.personal](../../../_personal/astro/Star/Cassiopeiae-5.personal.md) 
+- [Cassiopeiae-5.secret](../../../_secret/astro/Star/Cassiopeiae-5.secret.md)
 

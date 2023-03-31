@@ -1,14 +1,12 @@
-﻿---
-title: "Acrab"
+---
+aliases: 
 location: [-19.8,-118.65,800]
 type: Station
 tags:
 - astro/Star
 
+title: Acrab
 ---
-
-# Acrab
-
 SpocWebEntityId: 27323
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28155]
 [NextStarId::27382]
+
+
+
+## Confidential Links & Embeds: 
+- [Acrab](../../../_public/astro/Star/Acrab.md) 
+- [Acrab.internal](../../../_internal/astro/Star/Acrab.internal.md) 
+- [Acrab.protect](../../../_protect/astro/Star/Acrab.protect.md) 
+- [Acrab.private](../../../_private/astro/Star/Acrab.private.md) 
+- [Acrab.personal](../../../_personal/astro/Star/Acrab.personal.md) 
+- [Acrab.secret](../../../_secret/astro/Star/Acrab.secret.md)
 

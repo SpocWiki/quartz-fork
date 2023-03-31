@@ -1,14 +1,12 @@
-﻿---
-title: "Chamaeleontis-5"
+---
+aliases: 
 location: [-78.22,179.925,300]
 type: Station
 tags:
 - astro/Star
 
+title: Chamaeleontis-5
 ---
-
-# Chamaeleontis-5
-
 SpocWebEntityId: 27994
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::5]
 [ZodiacId::28104]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Chamaeleontis-5](../../../_public/astro/Star/Chamaeleontis-5.md) 
+- [Chamaeleontis-5.internal](../../../_internal/astro/Star/Chamaeleontis-5.internal.md) 
+- [Chamaeleontis-5.protect](../../../_protect/astro/Star/Chamaeleontis-5.protect.md) 
+- [Chamaeleontis-5.private](../../../_private/astro/Star/Chamaeleontis-5.private.md) 
+- [Chamaeleontis-5.personal](../../../_personal/astro/Star/Chamaeleontis-5.personal.md) 
+- [Chamaeleontis-5.secret](../../../_secret/astro/Star/Chamaeleontis-5.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Delphini-3"
+---
+aliases: 
 location: [16.12,-48.325,80]
 type: Station
 tags:
 - astro/Star
 
+title: Delphini-3
 ---
-
-# Delphini-3
-
 SpocWebEntityId: 27709
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28114]
 [NextStarId::27930]
+
+
+
+## Confidential Links & Embeds: 
+- [Delphini-3](../../../_public/astro/Star/Delphini-3.md) 
+- [Delphini-3.internal](../../../_internal/astro/Star/Delphini-3.internal.md) 
+- [Delphini-3.protect](../../../_protect/astro/Star/Delphini-3.protect.md) 
+- [Delphini-3.private](../../../_private/astro/Star/Delphini-3.private.md) 
+- [Delphini-3.personal](../../../_personal/astro/Star/Delphini-3.personal.md) 
+- [Delphini-3.secret](../../../_secret/astro/Star/Delphini-3.secret.md)
 

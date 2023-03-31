@@ -1,14 +1,12 @@
-﻿---
-title: "Scorpii-4"
+---
+aliases: 
 location: [-22.62,-119.925,800]
 type: Station
 tags:
 - astro/Star
 
+title: Scorpii-4
 ---
-
-# Scorpii-4
-
 SpocWebEntityId: 27303
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Scorpii-4](../../../_public/astro/Star/Scorpii-4.md) 
+- [Scorpii-4.internal](../../../_internal/astro/Star/Scorpii-4.internal.md) 
+- [Scorpii-4.protect](../../../_protect/astro/Star/Scorpii-4.protect.md) 
+- [Scorpii-4.private](../../../_private/astro/Star/Scorpii-4.private.md) 
+- [Scorpii-4.personal](../../../_personal/astro/Star/Scorpii-4.personal.md) 
+- [Scorpii-4.secret](../../../_secret/astro/Star/Scorpii-4.secret.md) 

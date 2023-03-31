@@ -1,0 +1,30 @@
+---
+type: TrizPrincipleSub
+license: CC BY-SA 4.0
+copyright: https://github.com/SpocWiki
+IsDeleted: false
+IsReadOnly: false
+Confidential: public
+
+tags: 
+- Triz/Principle/Sub
+
+aliases:
+- 
+title: _TrizSub-Template
+---
+SpocWebEntityId: {{SpocWebEntityId}}
+TrizPrincipleId: {{PrincipleId}}
+
+[name::{{name}}]
+
+{{Description}}
+
+
+## Confidential Links & Embeds: 
+- [_TrizSub-Template](../../../_public/tech/Triz/_TrizSub-Template.md) 
+- [_TrizSub-Template.internal](../../../_internal/tech/Triz/_TrizSub-Template.internal.md) 
+- [_TrizSub-Template.protect](../../../_protect/tech/Triz/_TrizSub-Template.protect.md) 
+- [_TrizSub-Template.private](../../../_private/tech/Triz/_TrizSub-Template.private.md) 
+- [_TrizSub-Template.personal](../../../_personal/tech/Triz/_TrizSub-Template.personal.md) 
+- [_TrizSub-Template.secret](../../../_secret/tech/Triz/_TrizSub-Template.secret.md) 

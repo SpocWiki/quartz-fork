@@ -1,14 +1,12 @@
-﻿---
-title: "Merope"
+---
+aliases: 
 location: [23.95,56.575,400]
 type: Station
 tags:
 - astro/Star
 
+title: Merope
 ---
-
-# Merope
-
 SpocWebEntityId: 27844
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Merope](../../../_public/astro/Star/Merope.md) 
+- [Merope.internal](../../../_internal/astro/Star/Merope.internal.md) 
+- [Merope.protect](../../../_protect/astro/Star/Merope.protect.md) 
+- [Merope.private](../../../_private/astro/Star/Merope.private.md) 
+- [Merope.personal](../../../_personal/astro/Star/Merope.personal.md) 
+- [Merope.secret](../../../_secret/astro/Star/Merope.secret.md) 

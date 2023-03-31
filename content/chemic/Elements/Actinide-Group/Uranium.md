@@ -1,12 +1,14 @@
-﻿---
-title: "Uranium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21987
+title: Uranium
 ---
 
 #chemic/Element 
-[GroupName::[Actinide-Group](../Actinide-Group.md)]
+[GroupName::[Actinide-Group](chemic/Elements/Actinide-Group.md)]
 
 
 [Name-en::Uranium]
@@ -30,3 +32,12 @@ SpocWebEntityId: 21987
 []
 (Charge-e::92)
 
+
+
+## Confidential Links & Embeds: 
+- [Uranium](../../../../_public/chemic/Elements/Actinide-Group/Uranium.md) 
+- [Uranium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Uranium.internal.md) 
+- [Uranium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Uranium.protect.md) 
+- [Uranium.private](../../../../_private/chemic/Elements/Actinide-Group/Uranium.private.md) 
+- [Uranium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Uranium.personal.md) 
+- [Uranium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Uranium.secret.md) 

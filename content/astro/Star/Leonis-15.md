@@ -1,14 +1,12 @@
-﻿---
-title: "Leonis-15"
+---
+aliases: 
 location: [9.89,145.275,70]
 type: Station
 tags:
 - astro/Star
 
+title: Leonis-15
 ---
-
-# Leonis-15
-
 SpocWebEntityId: 27526
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::15]
 [ZodiacId::28128]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Leonis-15](../../../_public/astro/Star/Leonis-15.md) 
+- [Leonis-15.internal](../../../_internal/astro/Star/Leonis-15.internal.md) 
+- [Leonis-15.protect](../../../_protect/astro/Star/Leonis-15.protect.md) 
+- [Leonis-15.private](../../../_private/astro/Star/Leonis-15.private.md) 
+- [Leonis-15.personal](../../../_personal/astro/Star/Leonis-15.personal.md) 
+- [Leonis-15.secret](../../../_secret/astro/Star/Leonis-15.secret.md)
 

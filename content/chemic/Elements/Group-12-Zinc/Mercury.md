@@ -1,10 +1,12 @@
-﻿---
-title: "Mercury"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Mercury
 ---
 #chemic/Element 
-[GroupName::[Group-12-Zinc](../Group-12-Zinc.md)]
+[GroupName::[Group-12-Zinc](chemic/Elements/Group-12-Zinc.md)]
 
 [Name-en::Mercury]
 [Name-de::Quecksilber]
@@ -39,3 +41,12 @@ SpocWebEntityId: 21975
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mercury%20(element))
 
+
+
+## Confidential Links & Embeds: 
+- [Mercury](../../../../_public/chemic/Elements/Group-12-Zinc/Mercury.md) 
+- [Mercury.internal](../../../../_internal/chemic/Elements/Group-12-Zinc/Mercury.internal.md) 
+- [Mercury.protect](../../../../_protect/chemic/Elements/Group-12-Zinc/Mercury.protect.md) 
+- [Mercury.private](../../../../_private/chemic/Elements/Group-12-Zinc/Mercury.private.md) 
+- [Mercury.personal](../../../../_personal/chemic/Elements/Group-12-Zinc/Mercury.personal.md) 
+- [Mercury.secret](../../../../_secret/chemic/Elements/Group-12-Zinc/Mercury.secret.md) 

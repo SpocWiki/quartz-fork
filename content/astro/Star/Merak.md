@@ -1,14 +1,12 @@
-﻿---
-title: "Merak"
+---
+aliases: 
 location: [56.38,-194.55,60]
 type: Station
 tags:
 - astro/Star
 
+title: Merak
 ---
-
-# Merak
-
 SpocWebEntityId: 27310
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::27263]
 
+
+
+## Confidential Links & Embeds: 
+- [Merak](../../../_public/astro/Star/Merak.md) 
+- [Merak.internal](../../../_internal/astro/Star/Merak.internal.md) 
+- [Merak.protect](../../../_protect/astro/Star/Merak.protect.md) 
+- [Merak.private](../../../_private/astro/Star/Merak.private.md) 
+- [Merak.personal](../../../_personal/astro/Star/Merak.personal.md) 
+- [Merak.secret](../../../_secret/astro/Star/Merak.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Geminorum-20"
+---
+aliases: 
 location: [26.9,113.975,250]
 type: Station
 tags:
 - astro/Star
 
+title: Geminorum-20
 ---
-
-# Geminorum-20
-
 SpocWebEntityId: 27805
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::20]
 [ZodiacId::28120]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Geminorum-20](../../../_public/astro/Star/Geminorum-20.md) 
+- [Geminorum-20.internal](../../../_internal/astro/Star/Geminorum-20.internal.md) 
+- [Geminorum-20.protect](../../../_protect/astro/Star/Geminorum-20.protect.md) 
+- [Geminorum-20.private](../../../_private/astro/Star/Geminorum-20.private.md) 
+- [Geminorum-20.personal](../../../_personal/astro/Star/Geminorum-20.personal.md) 
+- [Geminorum-20.secret](../../../_secret/astro/Star/Geminorum-20.secret.md)
 

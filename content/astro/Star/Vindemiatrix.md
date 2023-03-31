@@ -1,14 +1,12 @@
-﻿---
-title: "Vindemiatrix"
+---
+aliases: 
 location: [10.96,-164.45,100]
 type: Station
 tags:
 - astro/Star
 
+title: Vindemiatrix
 ---
-
-# Vindemiatrix
-
 SpocWebEntityId: 27362
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28168]
 [NextStarId::27494]
 
+
+
+## Confidential Links & Embeds: 
+- [Vindemiatrix](../../../_public/astro/Star/Vindemiatrix.md) 
+- [Vindemiatrix.internal](../../../_internal/astro/Star/Vindemiatrix.internal.md) 
+- [Vindemiatrix.protect](../../../_protect/astro/Star/Vindemiatrix.protect.md) 
+- [Vindemiatrix.private](../../../_private/astro/Star/Vindemiatrix.private.md) 
+- [Vindemiatrix.personal](../../../_personal/astro/Star/Vindemiatrix.personal.md) 
+- [Vindemiatrix.secret](../../../_secret/astro/Star/Vindemiatrix.secret.md) 

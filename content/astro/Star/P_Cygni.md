@@ -1,14 +1,12 @@
-﻿---
-title: "P Cygni"
+---
+aliases: 
 location: [38.03,-55.55,5000]
 type: Station
 tags:
 - astro/Star
 
+title: P_Cygni
 ---
-
-# P Cygni
-
 SpocWebEntityId: 27398
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28113]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [P_Cygni](../../../_public/astro/Star/P_Cygni.md) 
+- [P_Cygni.internal](../../../_internal/astro/Star/P_Cygni.internal.md) 
+- [P_Cygni.protect](../../../_protect/astro/Star/P_Cygni.protect.md) 
+- [P_Cygni.private](../../../_private/astro/Star/P_Cygni.private.md) 
+- [P_Cygni.personal](../../../_personal/astro/Star/P_Cygni.personal.md) 
+- [P_Cygni.secret](../../../_secret/astro/Star/P_Cygni.secret.md) 

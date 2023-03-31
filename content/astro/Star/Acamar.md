@@ -1,5 +1,5 @@
-﻿---
-title: "Acamar"
+---
+aliases: 
 location: [-40.3,44.575,120]
 type: Station
 SpocWebEntityId: 27413
@@ -9,10 +9,8 @@ confidential: public
 tags:
 - astro/Star
 
+title: Acamar
 ---
-
-# Acamar
-
 [star-class::A3]
 [star-class-id::28189]
 [Mass-sol::]
@@ -27,4 +25,14 @@ tags:
 [Zodiac-index::8]
 [ZodiacId::28118]
 [NextStarId::27902]
+
+
+
+## Confidential Links & Embeds: 
+- [Acamar](../../../_public/astro/Star/Acamar.md) 
+- [Acamar.internal](../../../_internal/astro/Star/Acamar.internal.md) 
+- [Acamar.protect](../../../_protect/astro/Star/Acamar.protect.md) 
+- [Acamar.private](../../../_private/astro/Star/Acamar.private.md) 
+- [Acamar.personal](../../../_personal/astro/Star/Acamar.personal.md) 
+- [Acamar.secret](../../../_secret/astro/Star/Acamar.secret.md)
 

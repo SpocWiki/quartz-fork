@@ -1,14 +1,12 @@
-﻿---
-title: "Altarf"
+---
+aliases: 
 location: [9.19,124.125,200]
 type: Station
 tags:
 - astro/Star
 
+title: Altarf
 ---
-
-# Altarf
-
 SpocWebEntityId: 27525
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28094]
 [NextStarId::27694]
+
+
+
+## Confidential Links & Embeds: 
+- [Altarf](../../../_public/astro/Star/Altarf.md) 
+- [Altarf.internal](../../../_internal/astro/Star/Altarf.internal.md) 
+- [Altarf.protect](../../../_protect/astro/Star/Altarf.protect.md) 
+- [Altarf.private](../../../_private/astro/Star/Altarf.private.md) 
+- [Altarf.personal](../../../_personal/astro/Star/Altarf.personal.md) 
+- [Altarf.secret](../../../_secret/astro/Star/Altarf.secret.md)
 

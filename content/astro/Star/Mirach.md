@@ -1,14 +1,12 @@
-﻿---
-title: "Mirach"
+---
+aliases: 
 location: [35.62,17.425,90]
 type: Station
 tags:
 - astro/Star
 
+title: Mirach
 ---
-
-# Mirach
-
 SpocWebEntityId: 27285
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28083]
 [NextStarId::27294]
 
+
+
+## Confidential Links & Embeds: 
+- [Mirach](../../../_public/astro/Star/Mirach.md) 
+- [Mirach.internal](../../../_internal/astro/Star/Mirach.internal.md) 
+- [Mirach.protect](../../../_protect/astro/Star/Mirach.protect.md) 
+- [Mirach.private](../../../_private/astro/Star/Mirach.private.md) 
+- [Mirach.personal](../../../_personal/astro/Star/Mirach.personal.md) 
+- [Mirach.secret](../../../_secret/astro/Star/Mirach.secret.md) 

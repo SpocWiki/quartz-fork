@@ -1,14 +1,12 @@
-﻿---
-title: "Horologii-49"
+---
+aliases: 
 location: [-49.89,43.475,500]
 type: Station
 tags:
 - astro/Star
 
+title: Horologii-49
 ---
-
-# Horologii-49
-
 SpocWebEntityId: 27992
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::49]
 [ZodiacId::28123]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Horologii-49](../../../_public/astro/Star/Horologii-49.md) 
+- [Horologii-49.internal](../../../_internal/astro/Star/Horologii-49.internal.md) 
+- [Horologii-49.protect](../../../_protect/astro/Star/Horologii-49.protect.md) 
+- [Horologii-49.private](../../../_private/astro/Star/Horologii-49.private.md) 
+- [Horologii-49.personal](../../../_personal/astro/Star/Horologii-49.personal.md) 
+- [Horologii-49.secret](../../../_secret/astro/Star/Horologii-49.secret.md)
 

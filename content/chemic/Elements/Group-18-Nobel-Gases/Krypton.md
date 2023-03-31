@@ -1,12 +1,14 @@
-﻿---
-title: "Krypton"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21934
+title: Krypton
 ---
 
 #chemic/Element 
-[GroupName::[Group-18-Nobel-Gases](../Group-18-Nobel-Gases.md)]
+[GroupName::[Group-18-Nobel-Gases](chemic/Elements/Group-18-Nobel-Gases.md)]
 
 [Name-en::Krypton]
 [Name-de::Krypton]
@@ -32,3 +34,11 @@ SpocWebEntityId: 21934
 > Krypton, like the other noble gases, is used in lighting and photography. Krypton light has many spectral lines, and krypton plasma is useful in bright, high-powered gas lasers (krypton ion and excimer lasers), each of which resonates and amplifies a single spectral line. Krypton fluoride also makes a useful laser medium. From 1960 to 1983, the official definition of meter was based on the wavelength of one spectral line of krypton-86, because of the high power and relative ease of operation of krypton discharge tubes.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Krypton)
+
+## Confidential Links & Embeds: 
+- [Krypton](../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Krypton.md) 
+- [Krypton.internal](../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Krypton.internal.md) 
+- [Krypton.protect](../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Krypton.protect.md) 
+- [Krypton.private](../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Krypton.private.md) 
+- [Krypton.personal](../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Krypton.personal.md) 
+- [Krypton.secret](../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Krypton.secret.md) 

@@ -1,0 +1,42 @@
+---
+aliases: 
+location: [52.98,14.47]
+mapzoom: [7,12] 
+mapmarker: city 
+type: City
+tags:
+- geo/City
+
+
+SpocWebEntityId: 29138
+isDeleted: false
+confidential: public
+
+title: Bernikow
+---
+[geo-lon::14.47]
+[geo-lat::52.98]
+[name::Bernikow]
+[State::]
+[Country::[Portugal](geo/Continent/Europe/Portugal.md)]
+[StateId::]
+[Population::]
+[Unknown::]
+
+
+```leaflet
+id: Bernikow
+coordinates: [Bernikow](geo/Continent/Europe/Portugal/City/Bernikow.md)
+markerFile: [Bernikow](geo/Continent/Europe/Portugal/City/Bernikow.md)
+defaultZoom: 11 
+maxZoom: 18
+```
+
+
+## Confidential Links & Embeds: 
+- [Bernikow](../../../../../../_public/geo/Continent/Europe/Portugal/City/Bernikow.md) 
+- [Bernikow.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Bernikow.internal.md) 
+- [Bernikow.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Bernikow.protect.md) 
+- [Bernikow.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Bernikow.private.md) 
+- [Bernikow.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Bernikow.personal.md) 
+- [Bernikow.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Bernikow.secret.md) 

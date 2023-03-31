@@ -1,14 +1,12 @@
-﻿---
-title: "Sagittarii-19"
+---
+aliases: 
 location: [-27.67,-73.275,120]
 type: Station
 tags:
 - astro/Star
 
+title: Sagittarii-19
 ---
-
-# Sagittarii-19
-
 SpocWebEntityId: 27469
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28154]
 [NextStarId::27282]
 
+
+
+## Confidential Links & Embeds: 
+- [Sagittarii-19](../../../_public/astro/Star/Sagittarii-19.md) 
+- [Sagittarii-19.internal](../../../_internal/astro/Star/Sagittarii-19.internal.md) 
+- [Sagittarii-19.protect](../../../_protect/astro/Star/Sagittarii-19.protect.md) 
+- [Sagittarii-19.private](../../../_private/astro/Star/Sagittarii-19.private.md) 
+- [Sagittarii-19.personal](../../../_personal/astro/Star/Sagittarii-19.personal.md) 
+- [Sagittarii-19.secret](../../../_secret/astro/Star/Sagittarii-19.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Aquilae-11"
+---
+aliases: 
 location: [-4.88,-73.45,100]
 type: Station
 tags:
 - astro/Star
 
+title: Aquilae-11
 ---
-
-# Aquilae-11
-
 SpocWebEntityId: 27497
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::11]
 [ZodiacId::28087]
 [NextStarId::27498]
+
+
+
+## Confidential Links & Embeds: 
+- [Aquilae-11](../../../_public/astro/Star/Aquilae-11.md) 
+- [Aquilae-11.internal](../../../_internal/astro/Star/Aquilae-11.internal.md) 
+- [Aquilae-11.protect](../../../_protect/astro/Star/Aquilae-11.protect.md) 
+- [Aquilae-11.private](../../../_private/astro/Star/Aquilae-11.private.md) 
+- [Aquilae-11.personal](../../../_personal/astro/Star/Aquilae-11.personal.md) 
+- [Aquilae-11.secret](../../../_secret/astro/Star/Aquilae-11.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Phact"
+---
+aliases: 
 location: [-34.07,84.9,150]
 type: Station
 tags:
 - astro/Star
 
+title: Phact
 ---
-
-# Phact
-
 SpocWebEntityId: 27328
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28106]
 [NextStarId::27424]
 
+
+
+## Confidential Links & Embeds: 
+- [Phact](../../../_public/astro/Star/Phact.md) 
+- [Phact.internal](../../../_internal/astro/Star/Phact.internal.md) 
+- [Phact.protect](../../../_protect/astro/Star/Phact.protect.md) 
+- [Phact.private](../../../_private/astro/Star/Phact.private.md) 
+- [Phact.personal](../../../_personal/astro/Star/Phact.personal.md) 
+- [Phact.secret](../../../_secret/astro/Star/Phact.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Sagittarii-25"
+---
+aliases: 
 location: [-44.46,-69.35,200]
 type: Station
 tags:
 - astro/Star
 
+title: Sagittarii-25
 ---
-
-# Sagittarii-25
-
 SpocWebEntityId: 27731
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28154]
 [NextStarId::27781]
 
+
+
+## Confidential Links & Embeds: 
+- [Sagittarii-25](../../../_public/astro/Star/Sagittarii-25.md) 
+- [Sagittarii-25.internal](../../../_internal/astro/Star/Sagittarii-25.internal.md) 
+- [Sagittarii-25.protect](../../../_protect/astro/Star/Sagittarii-25.protect.md) 
+- [Sagittarii-25.private](../../../_private/astro/Star/Sagittarii-25.private.md) 
+- [Sagittarii-25.personal](../../../_personal/astro/Star/Sagittarii-25.personal.md) 
+- [Sagittarii-25.secret](../../../_secret/astro/Star/Sagittarii-25.secret.md) 

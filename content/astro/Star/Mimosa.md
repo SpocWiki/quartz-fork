@@ -1,14 +1,12 @@
-﻿---
-title: "Mimosa"
+---
+aliases: 
 location: [-59.69,-168.075,400]
 type: Station
 tags:
 - astro/Star
 
+title: Mimosa
 ---
-
-# Mimosa
-
 SpocWebEntityId: 27249
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28112]
 [NextStarId::27370]
 
+
+
+## Confidential Links & Embeds: 
+- [Mimosa](../../../_public/astro/Star/Mimosa.md) 
+- [Mimosa.internal](../../../_internal/astro/Star/Mimosa.internal.md) 
+- [Mimosa.protect](../../../_protect/astro/Star/Mimosa.protect.md) 
+- [Mimosa.private](../../../_private/astro/Star/Mimosa.private.md) 
+- [Mimosa.personal](../../../_personal/astro/Star/Mimosa.personal.md) 
+- [Mimosa.secret](../../../_secret/astro/Star/Mimosa.secret.md) 

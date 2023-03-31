@@ -1,12 +1,14 @@
-﻿---
-title: "Promethium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21957
+title: Promethium
 ---
 
 #chemic/Element 
-[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
+[GroupName::[Lanthanide-Group](chemic/Elements/Lanthanide-Group.md)]
 
 [Name-en::Promethium]
 [Name-de::Promethium]
@@ -36,3 +38,12 @@ SpocWebEntityId: 21957
 > [Wikipedia](https://en.wikipedia.org/wiki/Promethium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Promethium](../../../../_public/chemic/Elements/Lanthanide-Group/Promethium.md) 
+- [Promethium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Promethium.internal.md) 
+- [Promethium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Promethium.protect.md) 
+- [Promethium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Promethium.private.md) 
+- [Promethium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Promethium.personal.md) 
+- [Promethium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Promethium.secret.md) 

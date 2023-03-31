@@ -1,5 +1,4 @@
-﻿---
-title: "config"
+---
 title: "Configuration"
 tags:
 - setup

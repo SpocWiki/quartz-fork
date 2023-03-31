@@ -1,14 +1,12 @@
-﻿---
-title: "Polaris"
+---
+aliases: 
 location: [89.26,37.95,800]
 type: Station
 tags:
 - astro/Star
 
+title: Polaris
 ---
-
-# Polaris
-
 SpocWebEntityId: 27275
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28166]
 [NextStarId::27907]
 
+
+
+## Confidential Links & Embeds: 
+- [Polaris](../../../_public/astro/Star/Polaris.md) 
+- [Polaris.internal](../../../_internal/astro/Star/Polaris.internal.md) 
+- [Polaris.protect](../../../_protect/astro/Star/Polaris.protect.md) 
+- [Polaris.private](../../../_private/astro/Star/Polaris.private.md) 
+- [Polaris.personal](../../../_personal/astro/Star/Polaris.personal.md) 
+- [Polaris.secret](../../../_secret/astro/Star/Polaris.secret.md) 

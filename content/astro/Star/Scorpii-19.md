@@ -1,14 +1,12 @@
-﻿---
-title: "Scorpii-19"
+---
+aliases: 
 location: [-28.22,-111.025,800]
 type: Station
 tags:
 - astro/Star
 
+title: Scorpii-19
 ---
-
-# Scorpii-19
-
 SpocWebEntityId: 27364
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27244]
 
+
+
+## Confidential Links & Embeds: 
+- [Scorpii-19](../../../_public/astro/Star/Scorpii-19.md) 
+- [Scorpii-19.internal](../../../_internal/astro/Star/Scorpii-19.internal.md) 
+- [Scorpii-19.protect](../../../_protect/astro/Star/Scorpii-19.protect.md) 
+- [Scorpii-19.private](../../../_private/astro/Star/Scorpii-19.private.md) 
+- [Scorpii-19.personal](../../../_personal/astro/Star/Scorpii-19.personal.md) 
+- [Scorpii-19.secret](../../../_secret/astro/Star/Scorpii-19.secret.md) 

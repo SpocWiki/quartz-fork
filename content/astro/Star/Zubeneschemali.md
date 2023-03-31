@@ -1,14 +1,12 @@
-﻿---
-title: "Zubeneschemali"
+---
+aliases: 
 location: [-9.38,-130.75,120]
 type: Station
 tags:
 - astro/Star
 
+title: Zubeneschemali
 ---
-
-# Zubeneschemali
-
 SpocWebEntityId: 27333
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28131]
 [NextStarId::27704]
 
+
+
+## Confidential Links & Embeds: 
+- [Zubeneschemali](../../../_public/astro/Star/Zubeneschemali.md) 
+- [Zubeneschemali.internal](../../../_internal/astro/Star/Zubeneschemali.internal.md) 
+- [Zubeneschemali.protect](../../../_protect/astro/Star/Zubeneschemali.protect.md) 
+- [Zubeneschemali.private](../../../_private/astro/Star/Zubeneschemali.private.md) 
+- [Zubeneschemali.personal](../../../_personal/astro/Star/Zubeneschemali.personal.md) 
+- [Zubeneschemali.secret](../../../_secret/astro/Star/Zubeneschemali.secret.md) 

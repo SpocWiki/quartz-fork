@@ -1,14 +1,11 @@
-﻿---
-title: "Lang-ru"
+---
 type: Lang
 aliases:
 - Russian
 tags: 
 - Lang/ru
+title: Lang-ru
 ---
-
-# Lang-ru
-
 [SpocWebEntityId: 469
 [Name::Russian]
 [PropId_Name::769]
@@ -19,4 +16,14 @@ tags:
 [NumSpeakers_native::144000000]
 [Iso2::ru]
 [Iso3::rus]
+
+
+
+## Confidential Links & Embeds: 
+- [Lang-ru](../../_public/lang/Lang-ru.md) 
+- [Lang-ru.internal](../../_internal/lang/Lang-ru.internal.md) 
+- [Lang-ru.protect](../../_protect/lang/Lang-ru.protect.md) 
+- [Lang-ru.private](../../_private/lang/Lang-ru.private.md) 
+- [Lang-ru.personal](../../_personal/lang/Lang-ru.personal.md) 
+- [Lang-ru.secret](../../_secret/lang/Lang-ru.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Orionis-142"
+---
+aliases: 
 location: [-4.84,83.85,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Orionis-142
 ---
-
-# Orionis-142
-
 SpocWebEntityId: 27962
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Orionis-142](../../../_public/astro/Star/Orionis-142.md) 
+- [Orionis-142.internal](../../../_internal/astro/Star/Orionis-142.internal.md) 
+- [Orionis-142.protect](../../../_protect/astro/Star/Orionis-142.protect.md) 
+- [Orionis-142.private](../../../_private/astro/Star/Orionis-142.private.md) 
+- [Orionis-142.personal](../../../_personal/astro/Star/Orionis-142.personal.md) 
+- [Orionis-142.secret](../../../_secret/astro/Star/Orionis-142.secret.md) 

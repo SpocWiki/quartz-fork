@@ -1,12 +1,14 @@
-﻿---
-title: "Terbium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21961
+title: Terbium
 ---
 
 #chemic/Element 
-[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
+[GroupName::[Lanthanide-Group](chemic/Elements/Lanthanide-Group.md)]
 
 [Name-en::Terbium]
 [Name-de::Terbium]
@@ -36,3 +38,11 @@ SpocWebEntityId: 21961
 > Most of the world's terbium supply is used in green phosphors. Terbium oxide is in fluorescent lamps and television and monitor cathode-ray tubes (CRTs). Terbium green phosphors are combined with divalent europium blue phosphors and trivalent europium red phosphors to provide trichromatic lighting technology, a high-efficiency white light used for standard illumination in indoor lighting.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Terbium)
+
+## Confidential Links & Embeds: 
+- [Terbium](../../../../_public/chemic/Elements/Lanthanide-Group/Terbium.md) 
+- [Terbium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Terbium.internal.md) 
+- [Terbium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Terbium.protect.md) 
+- [Terbium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Terbium.private.md) 
+- [Terbium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Terbium.personal.md) 
+- [Terbium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Terbium.secret.md) 

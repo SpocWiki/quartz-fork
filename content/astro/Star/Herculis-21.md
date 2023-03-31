@@ -1,14 +1,12 @@
-﻿---
-title: "Herculis-21"
+---
+aliases: 
 location: [44.93,-117.8,200]
 type: Station
 tags:
 - astro/Star
 
+title: Herculis-21
 ---
-
-# Herculis-21
-
 SpocWebEntityId: 27868
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::21]
 [ZodiacId::28122]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Herculis-21](../../../_public/astro/Star/Herculis-21.md) 
+- [Herculis-21.internal](../../../_internal/astro/Star/Herculis-21.internal.md) 
+- [Herculis-21.protect](../../../_protect/astro/Star/Herculis-21.protect.md) 
+- [Herculis-21.private](../../../_private/astro/Star/Herculis-21.private.md) 
+- [Herculis-21.personal](../../../_personal/astro/Star/Herculis-21.personal.md) 
+- [Herculis-21.secret](../../../_secret/astro/Star/Herculis-21.secret.md)
 

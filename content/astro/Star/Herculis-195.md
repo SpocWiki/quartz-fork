@@ -1,14 +1,12 @@
-﻿---
-title: "Herculis-195"
+---
+aliases: 
 location: [21.6,-89.625,300]
 type: Station
 tags:
 - astro/Star
 
+title: Herculis-195
 ---
-
-# Herculis-195
-
 SpocWebEntityId: 27897
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::195]
 [ZodiacId::28122]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Herculis-195](../../../_public/astro/Star/Herculis-195.md) 
+- [Herculis-195.internal](../../../_internal/astro/Star/Herculis-195.internal.md) 
+- [Herculis-195.protect](../../../_protect/astro/Star/Herculis-195.protect.md) 
+- [Herculis-195.private](../../../_private/astro/Star/Herculis-195.private.md) 
+- [Herculis-195.personal](../../../_personal/astro/Star/Herculis-195.personal.md) 
+- [Herculis-195.secret](../../../_secret/astro/Star/Herculis-195.secret.md)
 

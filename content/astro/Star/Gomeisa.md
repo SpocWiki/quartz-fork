@@ -1,14 +1,12 @@
-﻿---
-title: "Gomeisa"
+---
+aliases: 
 location: [8.29,111.775,150]
 type: Station
 tags:
 - astro/Star
 
+title: Gomeisa
 ---
-
-# Gomeisa
-
 SpocWebEntityId: 27380
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28097]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Gomeisa](../../../_public/astro/Star/Gomeisa.md) 
+- [Gomeisa.internal](../../../_internal/astro/Star/Gomeisa.internal.md) 
+- [Gomeisa.protect](../../../_protect/astro/Star/Gomeisa.protect.md) 
+- [Gomeisa.private](../../../_private/astro/Star/Gomeisa.private.md) 
+- [Gomeisa.personal](../../../_personal/astro/Star/Gomeisa.personal.md) 
+- [Gomeisa.secret](../../../_secret/astro/Star/Gomeisa.secret.md)
 

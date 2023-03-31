@@ -1,12 +1,14 @@
-﻿---
-title: "Americium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21990
+title: Americium
 ---
 
 #chemic/Element 
-[GroupName::[Actinide-Group](../Actinide-Group.md)]
+[GroupName::[Actinide-Group](chemic/Elements/Actinide-Group.md)]
 
 
 [Name-en::Americium]
@@ -30,3 +32,12 @@ SpocWebEntityId: 21990
 []
 (Charge-e::95)
 
+
+
+## Confidential Links & Embeds: 
+- [Americium](../../../../_public/chemic/Elements/Actinide-Group/Americium.md) 
+- [Americium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Americium.internal.md) 
+- [Americium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Americium.protect.md) 
+- [Americium.private](../../../../_private/chemic/Elements/Actinide-Group/Americium.private.md) 
+- [Americium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Americium.personal.md) 
+- [Americium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Americium.secret.md) 

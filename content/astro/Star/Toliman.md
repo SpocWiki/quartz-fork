@@ -1,14 +1,12 @@
-﻿---
-title: "Toliman"
+---
+aliases: 
 location: [-60.83,-140.1,4.4]
 type: Station
 tags:
 - astro/Star
 
+title: Toliman
 ---
-
-# Toliman
-
 SpocWebEntityId: 27232
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28101]
 [NextStarId::27240]
 
+
+
+## Confidential Links & Embeds: 
+- [Toliman](../../../_public/astro/Star/Toliman.md) 
+- [Toliman.internal](../../../_internal/astro/Star/Toliman.internal.md) 
+- [Toliman.protect](../../../_protect/astro/Star/Toliman.protect.md) 
+- [Toliman.private](../../../_private/astro/Star/Toliman.private.md) 
+- [Toliman.personal](../../../_personal/astro/Star/Toliman.personal.md) 
+- [Toliman.secret](../../../_secret/astro/Star/Toliman.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Indi-2"
+---
+aliases: 
 location: [-58.45,-46.3,400]
 type: Station
 tags:
 - astro/Star
 
+title: Indi-2
 ---
-
-# Indi-2
-
 SpocWebEntityId: 27621
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28126]
 [NextStarId::27934]
+
+
+
+## Confidential Links & Embeds: 
+- [Indi-2](../../../_public/astro/Star/Indi-2.md) 
+- [Indi-2.internal](../../../_internal/astro/Star/Indi-2.internal.md) 
+- [Indi-2.protect](../../../_protect/astro/Star/Indi-2.protect.md) 
+- [Indi-2.private](../../../_private/astro/Star/Indi-2.private.md) 
+- [Indi-2.personal](../../../_personal/astro/Star/Indi-2.personal.md) 
+- [Indi-2.secret](../../../_secret/astro/Star/Indi-2.secret.md)
 

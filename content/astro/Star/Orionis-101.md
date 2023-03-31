@@ -1,14 +1,12 @@
-﻿---
-title: "Orionis-101"
+---
+aliases: 
 location: [6.96,72.45,25]
 type: Station
 tags:
 - astro/Star
 
+title: Orionis-101
 ---
-
-# Orionis-101
-
 SpocWebEntityId: 27444
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Orionis-101](../../../_public/astro/Star/Orionis-101.md) 
+- [Orionis-101.internal](../../../_internal/astro/Star/Orionis-101.internal.md) 
+- [Orionis-101.protect](../../../_protect/astro/Star/Orionis-101.protect.md) 
+- [Orionis-101.private](../../../_private/astro/Star/Orionis-101.private.md) 
+- [Orionis-101.personal](../../../_personal/astro/Star/Orionis-101.personal.md) 
+- [Orionis-101.secret](../../../_secret/astro/Star/Orionis-101.secret.md) 

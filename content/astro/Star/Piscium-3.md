@@ -1,14 +1,12 @@
-﻿---
-title: "Piscium-3"
+---
+aliases: 
 location: [3.28,-10.7,120]
 type: Station
 tags:
 - astro/Star
 
+title: Piscium-3
 ---
-
-# Piscium-3
-
 SpocWebEntityId: 27611
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28148]
 [NextStarId::27951]
 
+
+
+## Confidential Links & Embeds: 
+- [Piscium-3](../../../_public/astro/Star/Piscium-3.md) 
+- [Piscium-3.internal](../../../_internal/astro/Star/Piscium-3.internal.md) 
+- [Piscium-3.protect](../../../_protect/astro/Star/Piscium-3.protect.md) 
+- [Piscium-3.private](../../../_private/astro/Star/Piscium-3.private.md) 
+- [Piscium-3.personal](../../../_personal/astro/Star/Piscium-3.personal.md) 
+- [Piscium-3.secret](../../../_secret/astro/Star/Piscium-3.secret.md) 

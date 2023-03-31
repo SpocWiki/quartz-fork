@@ -1,14 +1,12 @@
-﻿---
-title: "Cebalrai"
+---
+aliases: 
 location: [4.57,-94.125,120]
 type: Station
 tags:
 - astro/Star
 
+title: Cebalrai
 ---
-
-# Cebalrai
-
 SpocWebEntityId: 27363
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28141]
 [NextStarId::27291]
+
+
+
+## Confidential Links & Embeds: 
+- [Cebalrai](../../../_public/astro/Star/Cebalrai.md) 
+- [Cebalrai.internal](../../../_internal/astro/Star/Cebalrai.internal.md) 
+- [Cebalrai.protect](../../../_protect/astro/Star/Cebalrai.protect.md) 
+- [Cebalrai.private](../../../_private/astro/Star/Cebalrai.private.md) 
+- [Cebalrai.personal](../../../_personal/astro/Star/Cebalrai.personal.md) 
+- [Cebalrai.secret](../../../_secret/astro/Star/Cebalrai.secret.md)
 

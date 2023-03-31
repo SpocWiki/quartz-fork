@@ -1,8 +1,13 @@
+---
+aliases: 
+tags: 
+title: Elements
+---
 
 
 
 ## Primary Groups 
-8 Groups corresponding to 2 \* 4  Electrons in [[sp-Orbitals]]
+8 Groups corresponding to 2 \* 4  Electrons in [sp-Orbitals](sp-Orbitals)
 
 [Group-01-Alkali](Elements/Group-01-Alkali.md)
 
@@ -27,7 +32,7 @@ as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
 [Group-18-Nobel-Gases](Elements/Group-18-Nobel-Gases.md)
 
 ## Metallic Groups
-10 Groups corresponding to 2 \* 5  Electrons in [[d-Orbitals]]
+10 Groups corresponding to 2 \* 5  Electrons in [d-Orbitals](d-Orbitals)
 
 [Group-03-Scandium](Elements/Group-03-Scandium.md)
 
@@ -58,3 +63,13 @@ as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
 > By November 2016, the International Union of Pure and Applied Chemistry had recognized a total of 118 elements. The first 94 occur naturally on Earth, and the remaining 24 are synthetic elements produced in nuclear reactions. Save for unstable radioactive elements (radionuclides) which decay quickly, nearly all of the elements are available industrially in varying amounts.  The discovery and synthesis of further new elements is an ongoing area of scientific study.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20element)
+
+
+## Confidential Links & Embeds: 
+- [Elements](../../_public/chemic/Elements.md) 
+- [Elements.internal](../../_internal/chemic/Elements.internal.md) 
+- [Elements.protect](../../_protect/chemic/Elements.protect.md) 
+- [Elements.private](../../_private/chemic/Elements.private.md) 
+- [Elements.personal](../../_personal/chemic/Elements.personal.md) 
+- [Elements.secret](../../_secret/chemic/Elements.secret.md)
+

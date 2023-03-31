@@ -1,6 +1,5 @@
-﻿---
+---
 title: "callouts"
-title: "Callouts"
 ---
 
 # callouts

@@ -1,14 +1,12 @@
-﻿---
-title: "Shaula"
+---
+aliases: 
 location: [-37.1,-96.6,300]
 type: Station
 tags:
 - astro/Star
 
+title: Shaula
 ---
-
-# Shaula
-
 SpocWebEntityId: 27257
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27320]
 
+
+
+## Confidential Links & Embeds: 
+- [Shaula](../../../_public/astro/Star/Shaula.md) 
+- [Shaula.internal](../../../_internal/astro/Star/Shaula.internal.md) 
+- [Shaula.protect](../../../_protect/astro/Star/Shaula.protect.md) 
+- [Shaula.private](../../../_private/astro/Star/Shaula.private.md) 
+- [Shaula.personal](../../../_personal/astro/Star/Shaula.personal.md) 
+- [Shaula.secret](../../../_secret/astro/Star/Shaula.secret.md) 

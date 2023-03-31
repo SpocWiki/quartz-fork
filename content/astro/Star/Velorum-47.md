@@ -1,14 +1,12 @@
-﻿---
-title: "Velorum-47"
+---
+aliases: 
 location: [-57.03,142.8,150]
 type: Station
 tags:
 - astro/Star
 
+title: Velorum-47
 ---
-
-# Velorum-47
-
 SpocWebEntityId: 27428
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28167]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Velorum-47](../../../_public/astro/Star/Velorum-47.md) 
+- [Velorum-47.internal](../../../_internal/astro/Star/Velorum-47.internal.md) 
+- [Velorum-47.protect](../../../_protect/astro/Star/Velorum-47.protect.md) 
+- [Velorum-47.private](../../../_private/astro/Star/Velorum-47.private.md) 
+- [Velorum-47.personal](../../../_personal/astro/Star/Velorum-47.personal.md) 
+- [Velorum-47.secret](../../../_secret/astro/Star/Velorum-47.secret.md) 

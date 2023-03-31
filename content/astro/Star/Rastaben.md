@@ -1,14 +1,12 @@
-﻿---
-title: "Rastaben"
+---
+aliases: 
 location: [52.3,-97.4,250]
 type: Station
 tags:
 - astro/Star
 
+title: Rastaben
 ---
-
-# Rastaben
-
 SpocWebEntityId: 27355
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28116]
 [NextStarId::28019]
 
+
+
+## Confidential Links & Embeds: 
+- [Rastaben](../../../_public/astro/Star/Rastaben.md) 
+- [Rastaben.internal](../../../_internal/astro/Star/Rastaben.internal.md) 
+- [Rastaben.protect](../../../_protect/astro/Star/Rastaben.protect.md) 
+- [Rastaben.private](../../../_private/astro/Star/Rastaben.private.md) 
+- [Rastaben.personal](../../../_personal/astro/Star/Rastaben.personal.md) 
+- [Rastaben.secret](../../../_secret/astro/Star/Rastaben.secret.md) 

@@ -1,12 +1,14 @@
-﻿---
-title: "Thorium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21985
+title: Thorium
 ---
 
 #chemic/Element 
-[GroupName::[Actinide-Group](../Actinide-Group.md)]
+[GroupName::[Actinide-Group](chemic/Elements/Actinide-Group.md)]
 
 
 [Name-en::Thorium]
@@ -30,3 +32,12 @@ SpocWebEntityId: 21985
 []
 (Charge-e::90)
 
+
+
+## Confidential Links & Embeds: 
+- [Thorium](../../../../_public/chemic/Elements/Actinide-Group/Thorium.md) 
+- [Thorium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Thorium.internal.md) 
+- [Thorium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Thorium.protect.md) 
+- [Thorium.private](../../../../_private/chemic/Elements/Actinide-Group/Thorium.private.md) 
+- [Thorium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Thorium.personal.md) 
+- [Thorium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Thorium.secret.md) 

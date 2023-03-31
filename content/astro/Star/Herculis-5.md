@@ -1,14 +1,12 @@
-﻿---
-title: "Herculis-5"
+---
+aliases: 
 location: [30.93,-104.925,100]
 type: Station
 tags:
 - astro/Star
 
+title: Herculis-5
 ---
-
-# Herculis-5
-
 SpocWebEntityId: 27676
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::5]
 [ZodiacId::28122]
 [NextStarId::27354]
+
+
+
+## Confidential Links & Embeds: 
+- [Herculis-5](../../../_public/astro/Star/Herculis-5.md) 
+- [Herculis-5.internal](../../../_internal/astro/Star/Herculis-5.internal.md) 
+- [Herculis-5.protect](../../../_protect/astro/Star/Herculis-5.protect.md) 
+- [Herculis-5.private](../../../_private/astro/Star/Herculis-5.private.md) 
+- [Herculis-5.personal](../../../_personal/astro/Star/Herculis-5.personal.md) 
+- [Herculis-5.secret](../../../_secret/astro/Star/Herculis-5.secret.md)
 

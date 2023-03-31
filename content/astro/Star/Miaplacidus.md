@@ -1,14 +1,12 @@
-﻿---
-title: "Miaplacidus"
+---
+aliases: 
 location: [-69.72,138.3,80]
 type: Station
 tags:
 - astro/Star
 
+title: Miaplacidus
 ---
-
-# Miaplacidus
-
 SpocWebEntityId: 27260
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28099]
 [NextStarId::27414]
 
+
+
+## Confidential Links & Embeds: 
+- [Miaplacidus](../../../_public/astro/Star/Miaplacidus.md) 
+- [Miaplacidus.internal](../../../_internal/astro/Star/Miaplacidus.internal.md) 
+- [Miaplacidus.protect](../../../_protect/astro/Star/Miaplacidus.protect.md) 
+- [Miaplacidus.private](../../../_private/astro/Star/Miaplacidus.private.md) 
+- [Miaplacidus.personal](../../../_personal/astro/Star/Miaplacidus.personal.md) 
+- [Miaplacidus.secret](../../../_secret/astro/Star/Miaplacidus.secret.md) 

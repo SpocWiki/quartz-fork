@@ -1,14 +1,12 @@
-﻿---
-title: "Centauri-10"
+---
+aliases: 
 location: [-42.1,-135.2,500]
 type: Station
 tags:
 - astro/Star
 
+title: Centauri-10
 ---
-
-# Centauri-10
-
 SpocWebEntityId: 27431
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::10]
 [ZodiacId::28101]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Centauri-10](../../../_public/astro/Star/Centauri-10.md) 
+- [Centauri-10.internal](../../../_internal/astro/Star/Centauri-10.internal.md) 
+- [Centauri-10.protect](../../../_protect/astro/Star/Centauri-10.protect.md) 
+- [Centauri-10.private](../../../_private/astro/Star/Centauri-10.private.md) 
+- [Centauri-10.personal](../../../_personal/astro/Star/Centauri-10.personal.md) 
+- [Centauri-10.secret](../../../_secret/astro/Star/Centauri-10.secret.md)
 

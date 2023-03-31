@@ -1,14 +1,12 @@
-﻿---
-title: "Alkalurops"
+---
+aliases: 
 location: [37.37,-128.875,100]
 type: Station
 tags:
 - astro/Star
 
+title: Alkalurops
 ---
-
-# Alkalurops
-
 SpocWebEntityId: 27837
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::12]
 [ZodiacId::28091]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Alkalurops](../../../_public/astro/Star/Alkalurops.md) 
+- [Alkalurops.internal](../../../_internal/astro/Star/Alkalurops.internal.md) 
+- [Alkalurops.protect](../../../_protect/astro/Star/Alkalurops.protect.md) 
+- [Alkalurops.private](../../../_private/astro/Star/Alkalurops.private.md) 
+- [Alkalurops.personal](../../../_personal/astro/Star/Alkalurops.personal.md) 
+- [Alkalurops.secret](../../../_secret/astro/Star/Alkalurops.secret.md)
 

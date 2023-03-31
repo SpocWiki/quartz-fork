@@ -1,14 +1,12 @@
-﻿---
-title: "Piscium-24"
+---
+aliases: 
 location: [6.86,-0.175,120]
 type: Station
 tags:
 - astro/Star
 
+title: Piscium-24
 ---
-
-# Piscium-24
-
 SpocWebEntityId: 27767
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28148]
 [NextStarId::27819]
 
+
+
+## Confidential Links & Embeds: 
+- [Piscium-24](../../../_public/astro/Star/Piscium-24.md) 
+- [Piscium-24.internal](../../../_internal/astro/Star/Piscium-24.internal.md) 
+- [Piscium-24.protect](../../../_protect/astro/Star/Piscium-24.protect.md) 
+- [Piscium-24.private](../../../_private/astro/Star/Piscium-24.private.md) 
+- [Piscium-24.personal](../../../_personal/astro/Star/Piscium-24.personal.md) 
+- [Piscium-24.secret](../../../_secret/astro/Star/Piscium-24.secret.md) 

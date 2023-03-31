@@ -1,6 +1,5 @@
-﻿---
+---
 title: "preview changes"
-title: "Preview Changes"
 tags:
 - setup
 weight: -2

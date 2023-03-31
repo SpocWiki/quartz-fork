@@ -1,14 +1,12 @@
-﻿---
-title: "Zubenelgenubi"
+---
+aliases: 
 location: [-16.04,-137.275,70]
 type: Station
 tags:
 - astro/Star
 
+title: Zubenelgenubi
 ---
-
-# Zubenelgenubi
-
 SpocWebEntityId: 27332
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28131]
 [NextStarId::27333]
 
+
+
+## Confidential Links & Embeds: 
+- [Zubenelgenubi](../../../_public/astro/Star/Zubenelgenubi.md) 
+- [Zubenelgenubi.internal](../../../_internal/astro/Star/Zubenelgenubi.internal.md) 
+- [Zubenelgenubi.protect](../../../_protect/astro/Star/Zubenelgenubi.protect.md) 
+- [Zubenelgenubi.private](../../../_private/astro/Star/Zubenelgenubi.private.md) 
+- [Zubenelgenubi.personal](../../../_personal/astro/Star/Zubenelgenubi.personal.md) 
+- [Zubenelgenubi.secret](../../../_secret/astro/Star/Zubenelgenubi.secret.md) 

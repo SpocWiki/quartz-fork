@@ -1,14 +1,12 @@
-﻿---
-title: "Kaus Media"
+---
+aliases: 
 location: [-29.83,-84.75,80]
 type: Station
 tags:
 - astro/Star
 
+title: Kaus_Media
 ---
-
-# Kaus Media
-
 SpocWebEntityId: 27346
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::4]
 [ZodiacId::28154]
 [NextStarId::27267]
+
+
+
+## Confidential Links & Embeds: 
+- [Kaus_Media](../../../_public/astro/Star/Kaus_Media.md) 
+- [Kaus_Media.internal](../../../_internal/astro/Star/Kaus_Media.internal.md) 
+- [Kaus_Media.protect](../../../_protect/astro/Star/Kaus_Media.protect.md) 
+- [Kaus_Media.private](../../../_private/astro/Star/Kaus_Media.private.md) 
+- [Kaus_Media.personal](../../../_personal/astro/Star/Kaus_Media.personal.md) 
+- [Kaus_Media.secret](../../../_secret/astro/Star/Kaus_Media.secret.md)
 

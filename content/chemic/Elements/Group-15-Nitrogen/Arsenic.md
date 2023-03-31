@@ -1,12 +1,14 @@
-﻿---
-title: "Arsenic"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21931
+title: Arsenic
 ---
 
 #chemic/Element 
-[GroupName::[Group-15-Nitrogen](../Group-15-Nitrogen.md)]
+[GroupName::[Group-15-Nitrogen](chemic/Elements/Group-15-Nitrogen.md)]
 
 [Name-en::Arsenic]
 [Name-de::Arsen]
@@ -34,3 +36,11 @@ SpocWebEntityId: 21931
 > The United States' Environmental Protection Agency states that all forms of arsenic are a serious risk to human health. The United States' Agency for Toxic Substances and Disease Registry ranked arsenic as number 1 in its 2001 Priority List of Hazardous Substances at Superfund sites. Arsenic is classified as a Group-A carcinogen.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arsenic)
+
+## Confidential Links & Embeds: 
+- [Arsenic](../../../../_public/chemic/Elements/Group-15-Nitrogen/Arsenic.md) 
+- [Arsenic.internal](../../../../_internal/chemic/Elements/Group-15-Nitrogen/Arsenic.internal.md) 
+- [Arsenic.protect](../../../../_protect/chemic/Elements/Group-15-Nitrogen/Arsenic.protect.md) 
+- [Arsenic.private](../../../../_private/chemic/Elements/Group-15-Nitrogen/Arsenic.private.md) 
+- [Arsenic.personal](../../../../_personal/chemic/Elements/Group-15-Nitrogen/Arsenic.personal.md) 
+- [Arsenic.secret](../../../../_secret/chemic/Elements/Group-15-Nitrogen/Arsenic.secret.md) 

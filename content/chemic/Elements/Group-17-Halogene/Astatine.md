@@ -1,12 +1,14 @@
-﻿---
-title: "Astatine"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21980
+title: Astatine
 ---
 
 #chemic/Element 
-[GroupName::[Group-17-Halogene](../Group-17-Halogene.md)]
+[GroupName::[Group-17-Halogene](chemic/Elements/Group-17-Halogene.md)]
 
 [Name-en::Astatine]
 [Name-de::Astat]
@@ -34,3 +36,11 @@ SpocWebEntityId: 21980
 > The first synthesis of the element was in 1940 by Dale R. Corson, Kenneth Ross MacKenzie, and Emilio G. Segrè at the University of California, Berkeley, who named it from the Ancient Greek ἄστατος (astatos) 'unstable'. Four isotopes of astatine were subsequently found to be naturally occurring, although much less than one gram is present at any given time in the Earth's crust. Neither the most stable isotope astatine-210, nor the medically useful astatine-211, occur naturally; they can only be produced synthetically, usually by bombarding bismuth-209 with alpha particles.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astatine)
+
+## Confidential Links & Embeds: 
+- [Astatine](../../../../_public/chemic/Elements/Group-17-Halogene/Astatine.md) 
+- [Astatine.internal](../../../../_internal/chemic/Elements/Group-17-Halogene/Astatine.internal.md) 
+- [Astatine.protect](../../../../_protect/chemic/Elements/Group-17-Halogene/Astatine.protect.md) 
+- [Astatine.private](../../../../_private/chemic/Elements/Group-17-Halogene/Astatine.private.md) 
+- [Astatine.personal](../../../../_personal/chemic/Elements/Group-17-Halogene/Astatine.personal.md) 
+- [Astatine.secret](../../../../_secret/chemic/Elements/Group-17-Halogene/Astatine.secret.md) 

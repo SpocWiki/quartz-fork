@@ -1,14 +1,12 @@
-﻿---
-title: "Kaus Borealis"
+---
+aliases: 
 location: [-25.42,-83,100]
 type: Station
 tags:
 - astro/Star
 
+title: Kaus_Borealis
 ---
-
-# Kaus Borealis
-
 SpocWebEntityId: 27366
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::11]
 [ZodiacId::28154]
 [NextStarId::27346]
+
+
+
+## Confidential Links & Embeds: 
+- [Kaus_Borealis](../../../_public/astro/Star/Kaus_Borealis.md) 
+- [Kaus_Borealis.internal](../../../_internal/astro/Star/Kaus_Borealis.internal.md) 
+- [Kaus_Borealis.protect](../../../_protect/astro/Star/Kaus_Borealis.protect.md) 
+- [Kaus_Borealis.private](../../../_private/astro/Star/Kaus_Borealis.private.md) 
+- [Kaus_Borealis.personal](../../../_personal/astro/Star/Kaus_Borealis.personal.md) 
+- [Kaus_Borealis.secret](../../../_secret/astro/Star/Kaus_Borealis.secret.md)
 

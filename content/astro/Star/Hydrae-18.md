@@ -1,14 +1,12 @@
-﻿---
-title: "Hydrae-18"
+---
+aliases: 
 location: [3.34,129.7,150]
 type: Station
 tags:
 - astro/Star
 
+title: Hydrae-18
 ---
-
-# Hydrae-18
-
 SpocWebEntityId: 27921
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::18]
 [ZodiacId::28124]
 [NextStarId::27888]
+
+
+
+## Confidential Links & Embeds: 
+- [Hydrae-18](../../../_public/astro/Star/Hydrae-18.md) 
+- [Hydrae-18.internal](../../../_internal/astro/Star/Hydrae-18.internal.md) 
+- [Hydrae-18.protect](../../../_protect/astro/Star/Hydrae-18.protect.md) 
+- [Hydrae-18.private](../../../_private/astro/Star/Hydrae-18.private.md) 
+- [Hydrae-18.personal](../../../_personal/astro/Star/Hydrae-18.personal.md) 
+- [Hydrae-18.secret](../../../_secret/astro/Star/Hydrae-18.secret.md)
 

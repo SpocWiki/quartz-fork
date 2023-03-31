@@ -1,14 +1,12 @@
-﻿---
-title: "Prokyon"
+---
+aliases: 
 location: [5.22,114.825,11]
 type: Station
 tags:
 - astro/Star
 
+title: Prokyon
 ---
-
-# Prokyon
-
 SpocWebEntityId: 27238
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28097]
 [NextStarId::27380]
 
+
+
+## Confidential Links & Embeds: 
+- [Prokyon](../../../_public/astro/Star/Prokyon.md) 
+- [Prokyon.internal](../../../_internal/astro/Star/Prokyon.internal.md) 
+- [Prokyon.protect](../../../_protect/astro/Star/Prokyon.protect.md) 
+- [Prokyon.private](../../../_private/astro/Star/Prokyon.private.md) 
+- [Prokyon.personal](../../../_personal/astro/Star/Prokyon.personal.md) 
+- [Prokyon.secret](../../../_secret/astro/Star/Prokyon.secret.md) 

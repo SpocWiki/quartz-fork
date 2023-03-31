@@ -1,14 +1,12 @@
-﻿---
-title: "Ettanin"
+---
+aliases: 
 location: [51.49,-90.85,100]
 type: Station
 tags:
 - astro/Star
 
+title: Ettanin
 ---
-
-# Ettanin
-
 SpocWebEntityId: 27296
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28116]
 [NextStarId::27355]
+
+
+
+## Confidential Links & Embeds: 
+- [Ettanin](../../../_public/astro/Star/Ettanin.md) 
+- [Ettanin.internal](../../../_internal/astro/Star/Ettanin.internal.md) 
+- [Ettanin.protect](../../../_protect/astro/Star/Ettanin.protect.md) 
+- [Ettanin.private](../../../_private/astro/Star/Ettanin.private.md) 
+- [Ettanin.personal](../../../_personal/astro/Star/Ettanin.personal.md) 
+- [Ettanin.secret](../../../_secret/astro/Star/Ettanin.secret.md)
 

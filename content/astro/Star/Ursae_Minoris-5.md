@@ -1,14 +1,12 @@
-﻿---
-title: "Ursae Minoris-5"
+---
+aliases: 
 location: [82.04,-108.5,200]
 type: Station
 tags:
 - astro/Star
 
+title: Ursae_Minoris-5
 ---
-
-# Ursae Minoris-5
-
 SpocWebEntityId: 27834
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28166]
 [NextStarId::27864]
 
+
+
+## Confidential Links & Embeds: 
+- [Ursae_Minoris-5](../../../_public/astro/Star/Ursae_Minoris-5.md) 
+- [Ursae_Minoris-5.internal](../../../_internal/astro/Star/Ursae_Minoris-5.internal.md) 
+- [Ursae_Minoris-5.protect](../../../_protect/astro/Star/Ursae_Minoris-5.protect.md) 
+- [Ursae_Minoris-5.private](../../../_private/astro/Star/Ursae_Minoris-5.private.md) 
+- [Ursae_Minoris-5.personal](../../../_personal/astro/Star/Ursae_Minoris-5.personal.md) 
+- [Ursae_Minoris-5.secret](../../../_secret/astro/Star/Ursae_Minoris-5.secret.md) 

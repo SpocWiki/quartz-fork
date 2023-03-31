@@ -1,11 +1,13 @@
-﻿---
-title: "Gallium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21929
+title: Gallium
 ---
 #chemic/Element 
-[GroupName::[Group-13-Boron](../Group-13-Boron.md)]
+[GroupName::[Group-13-Boron](chemic/Elements/Group-13-Boron.md)]
 
 [Name-en::Gallium]
 [Name-de::Gallium]
@@ -37,3 +39,11 @@ SpocWebEntityId: 21929
 > Gallium is predominantly used in electronics. Gallium arsenide, the primary chemical compound of gallium in electronics, is used in microwave circuits, high-speed switching circuits, and infrared circuits. Semiconducting gallium nitride and indium gallium nitride produce blue and violet light-emitting diodes and diode lasers. Gallium is also used in the production of artificial gadolinium gallium garnet for jewelry. Gallium is considered a technology-critical element by the United States National Library of Medicine and Frontiers Media.Gallium has no known natural role in biology. Gallium(III) behaves in a similar manner to ferric salts in biological systems and has been used in some medical applications, including pharmaceuticals and radiopharmaceuticals.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gallium)
+
+## Confidential Links & Embeds: 
+- [Gallium](../../../../_public/chemic/Elements/Group-13-Boron/Gallium.md) 
+- [Gallium.internal](../../../../_internal/chemic/Elements/Group-13-Boron/Gallium.internal.md) 
+- [Gallium.protect](../../../../_protect/chemic/Elements/Group-13-Boron/Gallium.protect.md) 
+- [Gallium.private](../../../../_private/chemic/Elements/Group-13-Boron/Gallium.private.md) 
+- [Gallium.personal](../../../../_personal/chemic/Elements/Group-13-Boron/Gallium.personal.md) 
+- [Gallium.secret](../../../../_secret/chemic/Elements/Group-13-Boron/Gallium.secret.md) 

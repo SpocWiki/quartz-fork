@@ -1,14 +1,12 @@
-﻿---
-title: "Phoenicis-10"
+---
+aliases: 
 location: [-43.68,6.55,60]
 type: Station
 tags:
 - astro/Star
 
+title: Phoenicis-10
 ---
-
-# Phoenicis-10
-
 SpocWebEntityId: 27713
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28146]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Phoenicis-10](../../../_public/astro/Star/Phoenicis-10.md) 
+- [Phoenicis-10.internal](../../../_internal/astro/Star/Phoenicis-10.internal.md) 
+- [Phoenicis-10.protect](../../../_protect/astro/Star/Phoenicis-10.protect.md) 
+- [Phoenicis-10.private](../../../_private/astro/Star/Phoenicis-10.private.md) 
+- [Phoenicis-10.personal](../../../_personal/astro/Star/Phoenicis-10.personal.md) 
+- [Phoenicis-10.secret](../../../_secret/astro/Star/Phoenicis-10.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Lupi-4"
+---
+aliases: 
 location: [-40.65,-129.65,600]
 type: Station
 tags:
 - astro/Star
 
+title: Lupi-4
 ---
-
-# Lupi-4
-
 SpocWebEntityId: 27453
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28132]
 [NextStarId::27372]
 
+
+
+## Confidential Links & Embeds: 
+- [Lupi-4](../../../_public/astro/Star/Lupi-4.md) 
+- [Lupi-4.internal](../../../_internal/astro/Star/Lupi-4.internal.md) 
+- [Lupi-4.protect](../../../_protect/astro/Star/Lupi-4.protect.md) 
+- [Lupi-4.private](../../../_private/astro/Star/Lupi-4.private.md) 
+- [Lupi-4.personal](../../../_personal/astro/Star/Lupi-4.personal.md) 
+- [Lupi-4.secret](../../../_secret/astro/Star/Lupi-4.secret.md) 

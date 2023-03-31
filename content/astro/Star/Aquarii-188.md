@@ -1,14 +1,12 @@
-﻿---
-title: "Aquarii-188"
+---
+aliases: 
 location: [-21.17,-12.65,150]
 type: Station
 tags:
 - astro/Star
 
+title: Aquarii-188
 ---
-
-# Aquarii-188
-
 SpocWebEntityId: 27613
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::188]
 [ZodiacId::28086]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Aquarii-188](../../../_public/astro/Star/Aquarii-188.md) 
+- [Aquarii-188.internal](../../../_internal/astro/Star/Aquarii-188.internal.md) 
+- [Aquarii-188.protect](../../../_protect/astro/Star/Aquarii-188.protect.md) 
+- [Aquarii-188.private](../../../_private/astro/Star/Aquarii-188.private.md) 
+- [Aquarii-188.personal](../../../_personal/astro/Star/Aquarii-188.personal.md) 
+- [Aquarii-188.secret](../../../_secret/astro/Star/Aquarii-188.secret.md)
 

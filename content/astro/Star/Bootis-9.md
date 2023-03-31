@@ -1,14 +1,12 @@
-﻿---
-title: "Bootis-9"
+---
+aliases: 
 location: [51.37,-145.95,100]
 type: Station
 tags:
 - astro/Star
 
+title: Bootis-9
 ---
-
-# Bootis-9
-
 SpocWebEntityId: 27972
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::9]
 [ZodiacId::28091]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Bootis-9](../../../_public/astro/Star/Bootis-9.md) 
+- [Bootis-9.internal](../../../_internal/astro/Star/Bootis-9.internal.md) 
+- [Bootis-9.protect](../../../_protect/astro/Star/Bootis-9.protect.md) 
+- [Bootis-9.private](../../../_private/astro/Star/Bootis-9.private.md) 
+- [Bootis-9.personal](../../../_personal/astro/Star/Bootis-9.personal.md) 
+- [Bootis-9.secret](../../../_secret/astro/Star/Bootis-9.secret.md)
 

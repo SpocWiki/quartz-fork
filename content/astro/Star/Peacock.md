@@ -1,14 +1,12 @@
-﻿---
-title: "Peacock"
+---
+aliases: 
 location: [-56.74,-53.6,250]
 type: Station
 tags:
 - astro/Star
 
+title: Peacock
 ---
-
-# Peacock
-
 SpocWebEntityId: 27274
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28143]
 [NextStarId::27510]
 
+
+
+## Confidential Links & Embeds: 
+- [Peacock](../../../_public/astro/Star/Peacock.md) 
+- [Peacock.internal](../../../_internal/astro/Star/Peacock.internal.md) 
+- [Peacock.protect](../../../_protect/astro/Star/Peacock.protect.md) 
+- [Peacock.private](../../../_private/astro/Star/Peacock.private.md) 
+- [Peacock.personal](../../../_personal/astro/Star/Peacock.personal.md) 
+- [Peacock.secret](../../../_secret/astro/Star/Peacock.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Tauri-177"
+---
+aliases: 
 location: [15.96,67.15,150]
 type: Station
 tags:
 - astro/Star
 
+title: Tauri-177
 ---
-
-# Tauri-177
-
 SpocWebEntityId: 27641
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Tauri-177](../../../_public/astro/Star/Tauri-177.md) 
+- [Tauri-177.internal](../../../_internal/astro/Star/Tauri-177.internal.md) 
+- [Tauri-177.protect](../../../_protect/astro/Star/Tauri-177.protect.md) 
+- [Tauri-177.private](../../../_private/astro/Star/Tauri-177.private.md) 
+- [Tauri-177.personal](../../../_personal/astro/Star/Tauri-177.personal.md) 
+- [Tauri-177.secret](../../../_secret/astro/Star/Tauri-177.secret.md) 

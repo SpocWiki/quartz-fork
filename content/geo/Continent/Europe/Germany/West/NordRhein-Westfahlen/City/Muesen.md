@@ -1,0 +1,41 @@
+---
+aliases: 
+location: [50.98,8.05]
+mapzoom: [7,12] 
+mapmarker: city 
+type: City
+tags:
+- geo/City
+
+
+SpocWebEntityId: 32684
+isDeleted: false
+confidential: public
+
+title: Muesen
+---
+[geo-lon::8.05]
+[geo-lat::50.98]
+[name::Muesen]
+[Country::[Germany](geo/Continent/Europe/Germany.md)]
+[State::[NordRhein-Westfahlen](NordRhein-Westfahlen)]
+[Population::]
+[Unknown::]
+
+
+```leaflet
+id: Muesen
+coordinates: [Muesen](geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muesen.md)
+markerFile: [Muesen](geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muesen.md)
+defaultZoom: 11 
+maxZoom: 18
+```
+
+
+## Confidential Links & Embeds: 
+- [Muesen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muesen.md) 
+- [Muesen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muesen.internal.md) 
+- [Muesen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muesen.protect.md) 
+- [Muesen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muesen.private.md) 
+- [Muesen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muesen.personal.md) 
+- [Muesen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muesen.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Alfirk"
+---
+aliases: 
 location: [70.56,-37.825,800]
 type: Station
 tags:
 - astro/Star
 
+title: Alfirk
 ---
-
-# Alfirk
-
 SpocWebEntityId: 27441
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28102]
 [NextStarId::27442]
+
+
+
+## Confidential Links & Embeds: 
+- [Alfirk](../../../_public/astro/Star/Alfirk.md) 
+- [Alfirk.internal](../../../_internal/astro/Star/Alfirk.internal.md) 
+- [Alfirk.protect](../../../_protect/astro/Star/Alfirk.protect.md) 
+- [Alfirk.private](../../../_private/astro/Star/Alfirk.private.md) 
+- [Alfirk.personal](../../../_personal/astro/Star/Alfirk.personal.md) 
+- [Alfirk.secret](../../../_secret/astro/Star/Alfirk.secret.md)
 

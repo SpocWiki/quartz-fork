@@ -1,14 +1,12 @@
-﻿---
-title: "Sagittae-4"
+---
+aliases: 
 location: [18.53,-63.15,600]
 type: Station
 tags:
 - astro/Star
 
+title: Sagittae-4
 ---
-
-# Sagittae-4
-
 SpocWebEntityId: 27658
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28153]
 [NextStarId::27534]
 
+
+
+## Confidential Links & Embeds: 
+- [Sagittae-4](../../../_public/astro/Star/Sagittae-4.md) 
+- [Sagittae-4.internal](../../../_internal/astro/Star/Sagittae-4.internal.md) 
+- [Sagittae-4.protect](../../../_protect/astro/Star/Sagittae-4.protect.md) 
+- [Sagittae-4.private](../../../_private/astro/Star/Sagittae-4.private.md) 
+- [Sagittae-4.personal](../../../_personal/astro/Star/Sagittae-4.personal.md) 
+- [Sagittae-4.secret](../../../_secret/astro/Star/Sagittae-4.secret.md) 

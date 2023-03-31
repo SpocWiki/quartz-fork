@@ -1,14 +1,12 @@
-﻿---
-title: "Nunki"
+---
+aliases: 
 location: [-26.3,-76.175,200]
 type: Station
 tags:
 - astro/Star
 
+title: Nunki
 ---
-
-# Nunki
-
 SpocWebEntityId: 27282
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28154]
 [NextStarId::27448]
 
+
+
+## Confidential Links & Embeds: 
+- [Nunki](../../../_public/astro/Star/Nunki.md) 
+- [Nunki.internal](../../../_internal/astro/Star/Nunki.internal.md) 
+- [Nunki.protect](../../../_protect/astro/Star/Nunki.protect.md) 
+- [Nunki.private](../../../_private/astro/Star/Nunki.private.md) 
+- [Nunki.personal](../../../_personal/astro/Star/Nunki.personal.md) 
+- [Nunki.secret](../../../_secret/astro/Star/Nunki.secret.md) 

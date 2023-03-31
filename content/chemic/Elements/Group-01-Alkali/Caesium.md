@@ -1,11 +1,13 @@
-﻿---
-title: "Caesium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21951
+title: Caesium
 ---
 #chemic/Element 
-[GroupName::[Group-01-Alkali](../Group-01-Alkali.md)]
+[GroupName::[Group-01-Alkali](chemic/Elements/Group-01-Alkali.md)]
 
 [Name-en::Caesium]
 [Name-de::Caesium]
@@ -34,3 +36,12 @@ SpocWebEntityId: 21951
 > [Wikipedia](https://en.wikipedia.org/wiki/Caesium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Caesium](../../../../_public/chemic/Elements/Group-01-Alkali/Caesium.md) 
+- [Caesium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Caesium.internal.md) 
+- [Caesium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Caesium.protect.md) 
+- [Caesium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Caesium.private.md) 
+- [Caesium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Caesium.personal.md) 
+- [Caesium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Caesium.secret.md) 

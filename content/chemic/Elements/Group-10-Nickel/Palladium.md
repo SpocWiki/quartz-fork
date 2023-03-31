@@ -1,10 +1,12 @@
-﻿---
-title: "Palladium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Palladium
 ---
 #chemic/Element 
-[GroupName::[Group-10-Nickel](../Group-10-Nickel.md)]
+[GroupName::[Group-10-Nickel](chemic/Elements/Group-10-Nickel.md)]
 
 [Name-en::Palladium]
 [Name-de::Palladium]
@@ -34,3 +36,12 @@ SpocWebEntityId: 21944
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Palladium)
 
+
+
+## Confidential Links & Embeds: 
+- [Palladium](../../../../_public/chemic/Elements/Group-10-Nickel/Palladium.md) 
+- [Palladium.internal](../../../../_internal/chemic/Elements/Group-10-Nickel/Palladium.internal.md) 
+- [Palladium.protect](../../../../_protect/chemic/Elements/Group-10-Nickel/Palladium.protect.md) 
+- [Palladium.private](../../../../_private/chemic/Elements/Group-10-Nickel/Palladium.private.md) 
+- [Palladium.personal](../../../../_personal/chemic/Elements/Group-10-Nickel/Palladium.personal.md) 
+- [Palladium.secret](../../../../_secret/chemic/Elements/Group-10-Nickel/Palladium.secret.md) 

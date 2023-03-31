@@ -1,12 +1,14 @@
-﻿---
-title: "Group-09-Cobalt"
+---
+aliases: 
+tags: 
 type: ElementGroup
+title: Group-09-Cobalt
 ---
 #chemic/Group 
 
-4) [Cobalt](Group-09-Cobalt/Cobalt.md)
-5) [Iridium](Group-09-Cobalt/Iridium.md)
-6) [Rhodium](Group-09-Cobalt/Rhodium.md)
+4) [Cobalt](chemic/Elements/Group-09-Cobalt/Cobalt.md)
+5) [Iridium](chemic/Elements/Group-09-Cobalt/Iridium.md)
+6) [Rhodium](chemic/Elements/Group-09-Cobalt/Rhodium.md)
 
 
 > Group 9, by modern IUPAC numbering, is a group (column) of chemical elements in the periodic table. Members of Group 9 include cobalt (Co), rhodium (Rh), iridium (Ir) and meitnerium (Mt). These are all transition metals in the d-block, considered to be some of the most rare of which.Like other groups, the members of this family show patterns in electron configuration, especially in the outermost shells, resulting in trends in chemical behavior;  however, rhodium deviates from the pattern.
@@ -15,3 +17,12 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%209%20element)
 
+
+
+## Confidential Links & Embeds: 
+- [Group-09-Cobalt](../../../_public/chemic/Elements/Group-09-Cobalt.md) 
+- [Group-09-Cobalt.internal](../../../_internal/chemic/Elements/Group-09-Cobalt.internal.md) 
+- [Group-09-Cobalt.protect](../../../_protect/chemic/Elements/Group-09-Cobalt.protect.md) 
+- [Group-09-Cobalt.private](../../../_private/chemic/Elements/Group-09-Cobalt.private.md) 
+- [Group-09-Cobalt.personal](../../../_personal/chemic/Elements/Group-09-Cobalt.personal.md) 
+- [Group-09-Cobalt.secret](../../../_secret/chemic/Elements/Group-09-Cobalt.secret.md) 

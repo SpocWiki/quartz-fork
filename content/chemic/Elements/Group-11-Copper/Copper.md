@@ -1,10 +1,12 @@
-﻿---
-title: "Copper"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Copper
 ---
 #chemic/Element 
-[GroupName::[Group-11-Copper](../Group-11-Copper.md)]
+[GroupName::[Group-11-Copper](chemic/Elements/Group-11-Copper.md)]
 
 [Name-en::Copper]
 [Name-de::Kupfer]
@@ -36,3 +38,12 @@ SpocWebEntityId: 6012
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Copper)
 
+
+
+## Confidential Links & Embeds: 
+- [Copper](../../../../_public/chemic/Elements/Group-11-Copper/Copper.md) 
+- [Copper.internal](../../../../_internal/chemic/Elements/Group-11-Copper/Copper.internal.md) 
+- [Copper.protect](../../../../_protect/chemic/Elements/Group-11-Copper/Copper.protect.md) 
+- [Copper.private](../../../../_private/chemic/Elements/Group-11-Copper/Copper.private.md) 
+- [Copper.personal](../../../../_personal/chemic/Elements/Group-11-Copper/Copper.personal.md) 
+- [Copper.secret](../../../../_secret/chemic/Elements/Group-11-Copper/Copper.secret.md) 

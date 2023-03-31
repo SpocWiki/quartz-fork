@@ -1,14 +1,12 @@
-﻿---
-title: "Mizar"
+---
+aliases: 
 location: [54.93,-159.025,70]
 type: Station
 tags:
 - astro/Star
 
+title: Mizar
 ---
-
-# Mizar
-
 SpocWebEntityId: 27287
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::27264]
 
+
+
+## Confidential Links & Embeds: 
+- [Mizar](../../../_public/astro/Star/Mizar.md) 
+- [Mizar.internal](../../../_internal/astro/Star/Mizar.internal.md) 
+- [Mizar.protect](../../../_protect/astro/Star/Mizar.protect.md) 
+- [Mizar.private](../../../_private/astro/Star/Mizar.private.md) 
+- [Mizar.personal](../../../_personal/astro/Star/Mizar.personal.md) 
+- [Mizar.secret](../../../_secret/astro/Star/Mizar.secret.md) 

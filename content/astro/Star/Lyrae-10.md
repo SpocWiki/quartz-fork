@@ -1,14 +1,12 @@
-﻿---
-title: "Lyrae-10"
+---
+aliases: 
 location: [36.06,-85.025,250]
 type: Station
 tags:
 - astro/Star
 
+title: Lyrae-10
 ---
-
-# Lyrae-10
-
 SpocWebEntityId: 27871
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28134]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Lyrae-10](../../../_public/astro/Star/Lyrae-10.md) 
+- [Lyrae-10.internal](../../../_internal/astro/Star/Lyrae-10.internal.md) 
+- [Lyrae-10.protect](../../../_protect/astro/Star/Lyrae-10.protect.md) 
+- [Lyrae-10.private](../../../_private/astro/Star/Lyrae-10.private.md) 
+- [Lyrae-10.personal](../../../_personal/astro/Star/Lyrae-10.personal.md) 
+- [Lyrae-10.secret](../../../_secret/astro/Star/Lyrae-10.secret.md) 

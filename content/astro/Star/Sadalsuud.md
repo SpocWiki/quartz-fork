@@ -1,14 +1,12 @@
-﻿---
-title: "Sadalsuud"
+---
+aliases: 
 location: [-5.57,-37.1,1000]
 type: Station
 tags:
 - astro/Star
 
+title: Sadalsuud
 ---
-
-# Sadalsuud
-
 SpocWebEntityId: 27386
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28086]
 [NextStarId::27412]
 
+
+
+## Confidential Links & Embeds: 
+- [Sadalsuud](../../../_public/astro/Star/Sadalsuud.md) 
+- [Sadalsuud.internal](../../../_internal/astro/Star/Sadalsuud.internal.md) 
+- [Sadalsuud.protect](../../../_protect/astro/Star/Sadalsuud.protect.md) 
+- [Sadalsuud.private](../../../_private/astro/Star/Sadalsuud.private.md) 
+- [Sadalsuud.personal](../../../_personal/astro/Star/Sadalsuud.personal.md) 
+- [Sadalsuud.secret](../../../_secret/astro/Star/Sadalsuud.secret.md) 

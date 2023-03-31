@@ -1,14 +1,12 @@
-﻿---
-title: "Nusakan"
+---
+aliases: 
 location: [29.11,-128.05,120]
 type: Station
 tags:
 - astro/Star
 
+title: Nusakan
 ---
-
-# Nusakan
-
 SpocWebEntityId: 27602
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28109]
 [NextStarId::27302]
 
+
+
+## Confidential Links & Embeds: 
+- [Nusakan](../../../_public/astro/Star/Nusakan.md) 
+- [Nusakan.internal](../../../_internal/astro/Star/Nusakan.internal.md) 
+- [Nusakan.protect](../../../_protect/astro/Star/Nusakan.protect.md) 
+- [Nusakan.private](../../../_private/astro/Star/Nusakan.private.md) 
+- [Nusakan.personal](../../../_personal/astro/Star/Nusakan.personal.md) 
+- [Nusakan.secret](../../../_secret/astro/Star/Nusakan.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Orionis-122"
+---
+aliases: 
 location: [-0.39,80.425,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Orionis-122
 ---
-
-# Orionis-122
-
 SpocWebEntityId: 27919
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Orionis-122](../../../_public/astro/Star/Orionis-122.md) 
+- [Orionis-122.internal](../../../_internal/astro/Star/Orionis-122.internal.md) 
+- [Orionis-122.protect](../../../_protect/astro/Star/Orionis-122.protect.md) 
+- [Orionis-122.private](../../../_private/astro/Star/Orionis-122.private.md) 
+- [Orionis-122.personal](../../../_personal/astro/Star/Orionis-122.personal.md) 
+- [Orionis-122.secret](../../../_secret/astro/Star/Orionis-122.secret.md) 

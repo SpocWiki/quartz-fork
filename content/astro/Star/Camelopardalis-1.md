@@ -1,14 +1,12 @@
-﻿---
-title: "Camelopardalis-1"
+---
+aliases: 
 location: [66.34,73.525,3000]
 type: Station
 tags:
 - astro/Star
 
+title: Camelopardalis-1
 ---
-
-# Camelopardalis-1
-
 SpocWebEntityId: 27865
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28093]
 [NextStarId::27738]
+
+
+
+## Confidential Links & Embeds: 
+- [Camelopardalis-1](../../../_public/astro/Star/Camelopardalis-1.md) 
+- [Camelopardalis-1.internal](../../../_internal/astro/Star/Camelopardalis-1.internal.md) 
+- [Camelopardalis-1.protect](../../../_protect/astro/Star/Camelopardalis-1.protect.md) 
+- [Camelopardalis-1.private](../../../_private/astro/Star/Camelopardalis-1.private.md) 
+- [Camelopardalis-1.personal](../../../_personal/astro/Star/Camelopardalis-1.personal.md) 
+- [Camelopardalis-1.secret](../../../_secret/astro/Star/Camelopardalis-1.secret.md)
 

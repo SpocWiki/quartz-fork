@@ -1,14 +1,12 @@
-﻿---
-title: "Cygni-17"
+---
+aliases: 
 location: [45.59,-36.5,200]
 type: Station
 tags:
 - astro/Star
 
+title: Cygni-17
 ---
-
-# Cygni-17
-
 SpocWebEntityId: 27787
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::17]
 [ZodiacId::28113]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Cygni-17](../../../_public/astro/Star/Cygni-17.md) 
+- [Cygni-17.internal](../../../_internal/astro/Star/Cygni-17.internal.md) 
+- [Cygni-17.protect](../../../_protect/astro/Star/Cygni-17.protect.md) 
+- [Cygni-17.private](../../../_private/astro/Star/Cygni-17.private.md) 
+- [Cygni-17.personal](../../../_personal/astro/Star/Cygni-17.personal.md) 
+- [Cygni-17.secret](../../../_secret/astro/Star/Cygni-17.secret.md)
 

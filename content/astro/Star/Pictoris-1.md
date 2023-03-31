@@ -1,14 +1,12 @@
-﻿---
-title: "Pictoris-1"
+---
+aliases: 
 location: [-61.94,102.05,60]
 type: Station
 tags:
 - astro/Star
 
+title: Pictoris-1
 ---
-
-# Pictoris-1
-
 SpocWebEntityId: 27473
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28147]
 [NextStarId::27954]
 
+
+
+## Confidential Links & Embeds: 
+- [Pictoris-1](../../../_public/astro/Star/Pictoris-1.md) 
+- [Pictoris-1.internal](../../../_internal/astro/Star/Pictoris-1.internal.md) 
+- [Pictoris-1.protect](../../../_protect/astro/Star/Pictoris-1.protect.md) 
+- [Pictoris-1.private](../../../_private/astro/Star/Pictoris-1.private.md) 
+- [Pictoris-1.personal](../../../_personal/astro/Star/Pictoris-1.personal.md) 
+- [Pictoris-1.secret](../../../_secret/astro/Star/Pictoris-1.secret.md) 

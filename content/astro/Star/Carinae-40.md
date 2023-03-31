@@ -1,14 +1,12 @@
-﻿---
-title: "Carinae-40"
+---
+aliases: 
 location: [-61.33,154.275,600]
 type: Station
 tags:
 - astro/Star
 
+title: Carinae-40
 ---
-
-# Carinae-40
-
 SpocWebEntityId: 27503
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::40]
 [ZodiacId::28099]
 [NextStarId::27477]
+
+
+
+## Confidential Links & Embeds: 
+- [Carinae-40](../../../_public/astro/Star/Carinae-40.md) 
+- [Carinae-40.internal](../../../_internal/astro/Star/Carinae-40.internal.md) 
+- [Carinae-40.protect](../../../_protect/astro/Star/Carinae-40.protect.md) 
+- [Carinae-40.private](../../../_private/astro/Star/Carinae-40.private.md) 
+- [Carinae-40.personal](../../../_personal/astro/Star/Carinae-40.personal.md) 
+- [Carinae-40.secret](../../../_secret/astro/Star/Carinae-40.secret.md)
 

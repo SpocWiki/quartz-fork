@@ -1,14 +1,12 @@
-﻿---
-title: "Grumium"
+---
+aliases: 
 location: [56.87,-91.625,200]
 type: Station
 tags:
 - astro/Star
 
+title: Grumium
 ---
-
-# Grumium
-
 SpocWebEntityId: 27632
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::14]
 [ZodiacId::28116]
 [NextStarId::27296]
+
+
+
+## Confidential Links & Embeds: 
+- [Grumium](../../../_public/astro/Star/Grumium.md) 
+- [Grumium.internal](../../../_internal/astro/Star/Grumium.internal.md) 
+- [Grumium.protect](../../../_protect/astro/Star/Grumium.protect.md) 
+- [Grumium.private](../../../_private/astro/Star/Grumium.private.md) 
+- [Grumium.personal](../../../_personal/astro/Star/Grumium.personal.md) 
+- [Grumium.secret](../../../_secret/astro/Star/Grumium.secret.md)
 

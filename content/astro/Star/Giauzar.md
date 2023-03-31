@@ -1,14 +1,12 @@
-﻿---
-title: "Giauzar"
+---
+aliases: 
 location: [69.33,-187.15,200]
 type: Station
 tags:
 - astro/Star
 
+title: Giauzar
 ---
-
-# Giauzar
-
 SpocWebEntityId: 27631
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::11]
 [ZodiacId::28116]
 [NextStarId::27678]
+
+
+
+## Confidential Links & Embeds: 
+- [Giauzar](../../../_public/astro/Star/Giauzar.md) 
+- [Giauzar.internal](../../../_internal/astro/Star/Giauzar.internal.md) 
+- [Giauzar.protect](../../../_protect/astro/Star/Giauzar.protect.md) 
+- [Giauzar.private](../../../_private/astro/Star/Giauzar.private.md) 
+- [Giauzar.personal](../../../_personal/astro/Star/Giauzar.personal.md) 
+- [Giauzar.secret](../../../_secret/astro/Star/Giauzar.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Aspidiske"
+---
+aliases: 
 location: [-24.86,117.325,800]
 type: Station
 tags:
 - astro/Star
 
+title: Aspidiske
 ---
-
-# Aspidiske
-
 SpocWebEntityId: 27445
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::14]
 [ZodiacId::28150]
 [NextStarId::27644]
+
+
+
+## Confidential Links & Embeds: 
+- [Aspidiske](../../../_public/astro/Star/Aspidiske.md) 
+- [Aspidiske.internal](../../../_internal/astro/Star/Aspidiske.internal.md) 
+- [Aspidiske.protect](../../../_protect/astro/Star/Aspidiske.protect.md) 
+- [Aspidiske.private](../../../_private/astro/Star/Aspidiske.private.md) 
+- [Aspidiske.personal](../../../_personal/astro/Star/Aspidiske.personal.md) 
+- [Aspidiske.secret](../../../_secret/astro/Star/Aspidiske.secret.md)
 

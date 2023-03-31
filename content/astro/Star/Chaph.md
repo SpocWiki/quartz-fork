@@ -1,14 +1,12 @@
-﻿---
-title: "Chaph"
+---
+aliases: 
 location: [59.15,2.3,45]
 type: Station
 tags:
 - astro/Star
 
+title: Chaph
 ---
-
-# Chaph
-
 SpocWebEntityId: 27301
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28100]
 [NextStarId::27295]
+
+
+
+## Confidential Links & Embeds: 
+- [Chaph](../../../_public/astro/Star/Chaph.md) 
+- [Chaph.internal](../../../_internal/astro/Star/Chaph.internal.md) 
+- [Chaph.protect](../../../_protect/astro/Star/Chaph.protect.md) 
+- [Chaph.private](../../../_private/astro/Star/Chaph.private.md) 
+- [Chaph.personal](../../../_personal/astro/Star/Chaph.personal.md) 
+- [Chaph.secret](../../../_secret/astro/Star/Chaph.secret.md)
 

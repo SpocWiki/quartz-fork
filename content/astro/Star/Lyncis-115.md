@@ -1,14 +1,12 @@
-﻿---
-title: "Lyncis-115"
+---
+aliases: 
 location: [58.42,104.325,150]
 type: Station
 tags:
 - astro/Star
 
+title: Lyncis-115
 ---
-
-# Lyncis-115
-
 SpocWebEntityId: 27908
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28133]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Lyncis-115](../../../_public/astro/Star/Lyncis-115.md) 
+- [Lyncis-115.internal](../../../_internal/astro/Star/Lyncis-115.internal.md) 
+- [Lyncis-115.protect](../../../_protect/astro/Star/Lyncis-115.protect.md) 
+- [Lyncis-115.private](../../../_private/astro/Star/Lyncis-115.private.md) 
+- [Lyncis-115.personal](../../../_personal/astro/Star/Lyncis-115.personal.md) 
+- [Lyncis-115.secret](../../../_secret/astro/Star/Lyncis-115.secret.md) 

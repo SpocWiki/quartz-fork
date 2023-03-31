@@ -1,11 +1,13 @@
-﻿---
-title: "Hafnium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21968
+title: Hafnium
 ---
 #chemic/Element 
-[GroupName::[Group-04-Titanium](../Group-04-Titanium.md)]
+[GroupName::[Group-04-Titanium](chemic/Elements/Group-04-Titanium.md)]
 
 [Name-en::Hafnium]
 [Name-de::Hafnium]
@@ -28,3 +30,12 @@ SpocWebEntityId: 21968
 []
 (Charge-e::72)
 
+
+
+## Confidential Links & Embeds: 
+- [Hafnium](../../../../_public/chemic/Elements/Group-04-Titanium/Hafnium.md) 
+- [Hafnium.internal](../../../../_internal/chemic/Elements/Group-04-Titanium/Hafnium.internal.md) 
+- [Hafnium.protect](../../../../_protect/chemic/Elements/Group-04-Titanium/Hafnium.protect.md) 
+- [Hafnium.private](../../../../_private/chemic/Elements/Group-04-Titanium/Hafnium.private.md) 
+- [Hafnium.personal](../../../../_personal/chemic/Elements/Group-04-Titanium/Hafnium.personal.md) 
+- [Hafnium.secret](../../../../_secret/chemic/Elements/Group-04-Titanium/Hafnium.secret.md) 

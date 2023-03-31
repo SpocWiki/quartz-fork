@@ -1,16 +1,18 @@
-﻿---
-title: "Group-01-Alkali"
+---
+aliases: 
+tags: 
 type: ElementGroup
+title: Group-01-Alkali
 ---
 #chemic/Group 
 
-1) [Hydrogenium](./Group-01-Alkali/Hydrogenium.md)
-2) [Lithium](./Group-01-Alkali/Lithium.md)
-3) [Sodium](./Group-01-Alkali/Sodium.md)
-4) [Potassium](Group-01-Alkali/Potassium.md)
-5) [Rubidium](Group-01-Alkali/Rubidium.md)
-6) [Caesium](Group-01-Alkali/Caesium.md)
-7) [Francium](Group-01-Alkali/Francium.md)
+1) [Hydrogenium](chemic/Elements/Group-01-Alkali/Hydrogenium.md)
+2) [Lithium](chemic/Elements/Group-01-Alkali/Lithium.md)
+3) [Sodium](chemic/Elements/Group-01-Alkali/Sodium.md)
+4) [Potassium](chemic/Elements/Group-01-Alkali/Potassium.md)
+5) [Rubidium](chemic/Elements/Group-01-Alkali/Rubidium.md)
+6) [Caesium](chemic/Elements/Group-01-Alkali/Caesium.md)
+7) [Francium](chemic/Elements/Group-01-Alkali/Francium.md)
 
 > The alkali metals consist of the chemical elements lithium (Li), sodium (Na), potassium (K), rubidium (Rb), caesium (Cs), and francium (Fr). Together with hydrogen they constitute group 1, which lies in the s-block of the periodic table. All alkali metals have their outermost electron in an s-orbital: this shared electron configuration results in their having very similar characteristic properties. Indeed, the alkali metals provide the best example of group trends in properties in the periodic table, with elements exhibiting well-characterised homologous behaviour. This family of elements is also known as the lithium family after its leading element.
 >
@@ -22,3 +24,12 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkali%20metal)
 
+
+
+## Confidential Links & Embeds: 
+- [Group-01-Alkali](../../../_public/chemic/Elements/Group-01-Alkali.md) 
+- [Group-01-Alkali.internal](../../../_internal/chemic/Elements/Group-01-Alkali.internal.md) 
+- [Group-01-Alkali.protect](../../../_protect/chemic/Elements/Group-01-Alkali.protect.md) 
+- [Group-01-Alkali.private](../../../_private/chemic/Elements/Group-01-Alkali.private.md) 
+- [Group-01-Alkali.personal](../../../_personal/chemic/Elements/Group-01-Alkali.personal.md) 
+- [Group-01-Alkali.secret](../../../_secret/chemic/Elements/Group-01-Alkali.secret.md) 

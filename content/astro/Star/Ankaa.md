@@ -1,14 +1,12 @@
-﻿---
-title: "Ankaa"
+---
+aliases: 
 location: [-42.31,6.575,80]
 type: Station
 tags:
 - astro/Star
 
+title: Ankaa
 ---
-
-# Ankaa
-
 SpocWebEntityId: 27317
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28146]
 [NextStarId::27471]
+
+
+
+## Confidential Links & Embeds: 
+- [Ankaa](../../../_public/astro/Star/Ankaa.md) 
+- [Ankaa.internal](../../../_internal/astro/Star/Ankaa.internal.md) 
+- [Ankaa.protect](../../../_protect/astro/Star/Ankaa.protect.md) 
+- [Ankaa.private](../../../_private/astro/Star/Ankaa.private.md) 
+- [Ankaa.personal](../../../_personal/astro/Star/Ankaa.personal.md) 
+- [Ankaa.secret](../../../_secret/astro/Star/Ankaa.secret.md)
 

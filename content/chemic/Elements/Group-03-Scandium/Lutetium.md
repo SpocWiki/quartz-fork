@@ -1,11 +1,13 @@
-﻿---
-title: "Lutetium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21967
+title: Lutetium
 ---
 #chemic/Element 
-[GroupName::[Group-03-Scandium](../Group-03-Scandium.md)]
+[GroupName::[Group-03-Scandium](chemic/Elements/Group-03-Scandium.md)]
 
 
 [Name-en::Lutetium]
@@ -29,3 +31,12 @@ SpocWebEntityId: 21967
 []
 (Charge-e::71)
 
+
+
+## Confidential Links & Embeds: 
+- [Lutetium](../../../../_public/chemic/Elements/Group-03-Scandium/Lutetium.md) 
+- [Lutetium.internal](../../../../_internal/chemic/Elements/Group-03-Scandium/Lutetium.internal.md) 
+- [Lutetium.protect](../../../../_protect/chemic/Elements/Group-03-Scandium/Lutetium.protect.md) 
+- [Lutetium.private](../../../../_private/chemic/Elements/Group-03-Scandium/Lutetium.private.md) 
+- [Lutetium.personal](../../../../_personal/chemic/Elements/Group-03-Scandium/Lutetium.personal.md) 
+- [Lutetium.secret](../../../../_secret/chemic/Elements/Group-03-Scandium/Lutetium.secret.md) 

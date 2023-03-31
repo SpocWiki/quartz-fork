@@ -1,14 +1,16 @@
-﻿---
-title: "Group-15-Nitrogen"
+---
+aliases: 
+tags: 
 type: ElementGroup
+title: Group-15-Nitrogen
 ---
 #chemic/Group 
 
-2) [Nitrogen](Group-15-Nitrogen/Nitrogen.md)
-3) [Phosphorus](Group-15-Nitrogen/Phosphorus.md)
-4) [Arsenic](Group-15-Nitrogen/Arsenic.md)
-5) [Antimony](Group-15-Nitrogen/Antimony.md)
-6) [Bismuth](Group-15-Nitrogen/Bismuth.md)
+2) [Nitrogen](chemic/Elements/Group-15-Nitrogen/Nitrogen.md)
+3) [Phosphorus](chemic/Elements/Group-15-Nitrogen/Phosphorus.md)
+4) [Arsenic](chemic/Elements/Group-15-Nitrogen/Arsenic.md)
+5) [Antimony](chemic/Elements/Group-15-Nitrogen/Antimony.md)
+6) [Bismuth](chemic/Elements/Group-15-Nitrogen/Bismuth.md)
 
 > A pnictogen ( or ; from Ancient Greek: πνῑ́γω "to choke" and -gen, "generator") is any of the chemical elements in group 15 of the periodic table. Group 15 is also known as the nitrogen group or nitrogen family. Group 15 consists of the elements nitrogen (N), phosphorus (P), arsenic (As), antimony (Sb), bismuth (Bi), and moscovium (Mc).
 >
@@ -16,3 +18,12 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pnictogen)
  
+
+
+## Confidential Links & Embeds: 
+- [Group-15-Nitrogen](../../../_public/chemic/Elements/Group-15-Nitrogen.md) 
+- [Group-15-Nitrogen.internal](../../../_internal/chemic/Elements/Group-15-Nitrogen.internal.md) 
+- [Group-15-Nitrogen.protect](../../../_protect/chemic/Elements/Group-15-Nitrogen.protect.md) 
+- [Group-15-Nitrogen.private](../../../_private/chemic/Elements/Group-15-Nitrogen.private.md) 
+- [Group-15-Nitrogen.personal](../../../_personal/chemic/Elements/Group-15-Nitrogen.personal.md) 
+- [Group-15-Nitrogen.secret](../../../_secret/chemic/Elements/Group-15-Nitrogen.secret.md) 

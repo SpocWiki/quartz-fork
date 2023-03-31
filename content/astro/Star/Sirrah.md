@@ -1,14 +1,12 @@
-﻿---
-title: "Sirrah"
+---
+aliases: 
 location: [29.09,2.1,90]
 type: Station
 tags:
 - astro/Star
 
+title: Sirrah
 ---
-
-# Sirrah
-
 SpocWebEntityId: 27276
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28083]
 [NextStarId::27455]
 
+
+
+## Confidential Links & Embeds: 
+- [Sirrah](../../../_public/astro/Star/Sirrah.md) 
+- [Sirrah.internal](../../../_internal/astro/Star/Sirrah.internal.md) 
+- [Sirrah.protect](../../../_protect/astro/Star/Sirrah.protect.md) 
+- [Sirrah.private](../../../_private/astro/Star/Sirrah.private.md) 
+- [Sirrah.personal](../../../_personal/astro/Star/Sirrah.personal.md) 
+- [Sirrah.secret](../../../_secret/astro/Star/Sirrah.secret.md) 

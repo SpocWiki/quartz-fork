@@ -1,14 +1,12 @@
-﻿---
-title: "Zaurak"
+---
+aliases: 
 location: [-13.51,59.5,150]
 type: Station
 tags:
 - astro/Star
 
+title: Zaurak
 ---
-
-# Zaurak
-
 SpocWebEntityId: 27399
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28118]
 [NextStarId::27748]
 
+
+
+## Confidential Links & Embeds: 
+- [Zaurak](../../../_public/astro/Star/Zaurak.md) 
+- [Zaurak.internal](../../../_internal/astro/Star/Zaurak.internal.md) 
+- [Zaurak.protect](../../../_protect/astro/Star/Zaurak.protect.md) 
+- [Zaurak.private](../../../_private/astro/Star/Zaurak.private.md) 
+- [Zaurak.personal](../../../_personal/astro/Star/Zaurak.personal.md) 
+- [Zaurak.secret](../../../_secret/astro/Star/Zaurak.secret.md) 

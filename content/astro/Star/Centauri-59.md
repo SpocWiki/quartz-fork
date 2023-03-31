@@ -1,14 +1,12 @@
-﻿---
-title: "Centauri-59"
+---
+aliases: 
 location: [-54.56,-154.575,400]
 type: Station
 tags:
 - astro/Star
 
+title: Centauri-59
 ---
-
-# Centauri-59
-
 SpocWebEntityId: 28046
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::59]
 [ZodiacId::28101]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Centauri-59](../../../_public/astro/Star/Centauri-59.md) 
+- [Centauri-59.internal](../../../_internal/astro/Star/Centauri-59.internal.md) 
+- [Centauri-59.protect](../../../_protect/astro/Star/Centauri-59.protect.md) 
+- [Centauri-59.private](../../../_private/astro/Star/Centauri-59.private.md) 
+- [Centauri-59.personal](../../../_personal/astro/Star/Centauri-59.personal.md) 
+- [Centauri-59.secret](../../../_secret/astro/Star/Centauri-59.secret.md)
 

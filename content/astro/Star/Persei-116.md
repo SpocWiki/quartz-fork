@@ -1,14 +1,12 @@
-﻿---
-title: "Persei-116"
+---
+aliases: 
 location: [38.32,42.65,150]
 type: Station
 tags:
 - astro/Star
 
+title: Persei-116
 ---
-
-# Persei-116
-
 SpocWebEntityId: 27835
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28145]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Persei-116](../../../_public/astro/Star/Persei-116.md) 
+- [Persei-116.internal](../../../_internal/astro/Star/Persei-116.internal.md) 
+- [Persei-116.protect](../../../_protect/astro/Star/Persei-116.protect.md) 
+- [Persei-116.private](../../../_private/astro/Star/Persei-116.private.md) 
+- [Persei-116.personal](../../../_personal/astro/Star/Persei-116.personal.md) 
+- [Persei-116.secret](../../../_secret/astro/Star/Persei-116.secret.md) 

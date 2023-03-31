@@ -1,14 +1,12 @@
-﻿---
-title: "Monocerotis-5"
+---
+aliases: 
 location: [4.59,95.95,150]
 type: Station
 tags:
 - astro/Star
 
+title: Monocerotis-5
 ---
-
-# Monocerotis-5
-
 SpocWebEntityId: 27885
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28137]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Monocerotis-5](../../../_public/astro/Star/Monocerotis-5.md) 
+- [Monocerotis-5.internal](../../../_internal/astro/Star/Monocerotis-5.internal.md) 
+- [Monocerotis-5.protect](../../../_protect/astro/Star/Monocerotis-5.protect.md) 
+- [Monocerotis-5.private](../../../_private/astro/Star/Monocerotis-5.private.md) 
+- [Monocerotis-5.personal](../../../_personal/astro/Star/Monocerotis-5.personal.md) 
+- [Monocerotis-5.secret](../../../_secret/astro/Star/Monocerotis-5.secret.md) 

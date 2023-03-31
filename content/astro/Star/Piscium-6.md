@@ -1,14 +1,12 @@
-﻿---
-title: "Piscium-6"
+---
+aliases: 
 location: [7.58,18.425,150]
 type: Station
 tags:
 - astro/Star
 
+title: Piscium-6
 ---
-
-# Piscium-6
-
 SpocWebEntityId: 28024
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28148]
 [NextStarId::27879]
 
+
+
+## Confidential Links & Embeds: 
+- [Piscium-6](../../../_public/astro/Star/Piscium-6.md) 
+- [Piscium-6.internal](../../../_internal/astro/Star/Piscium-6.internal.md) 
+- [Piscium-6.protect](../../../_protect/astro/Star/Piscium-6.protect.md) 
+- [Piscium-6.private](../../../_private/astro/Star/Piscium-6.private.md) 
+- [Piscium-6.personal](../../../_personal/astro/Star/Piscium-6.personal.md) 
+- [Piscium-6.secret](../../../_secret/astro/Star/Piscium-6.secret.md) 

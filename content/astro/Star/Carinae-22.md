@@ -1,14 +1,12 @@
-﻿---
-title: "Carinae-22"
+---
+aliases: 
 location: [-52.98,119.2,600]
 type: Station
 tags:
 - astro/Star
 
+title: Carinae-22
 ---
-
-# Carinae-22
-
 SpocWebEntityId: 27538
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::22]
 [ZodiacId::28099]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Carinae-22](../../../_public/astro/Star/Carinae-22.md) 
+- [Carinae-22.internal](../../../_internal/astro/Star/Carinae-22.internal.md) 
+- [Carinae-22.protect](../../../_protect/astro/Star/Carinae-22.protect.md) 
+- [Carinae-22.private](../../../_private/astro/Star/Carinae-22.private.md) 
+- [Carinae-22.personal](../../../_personal/astro/Star/Carinae-22.personal.md) 
+- [Carinae-22.secret](../../../_secret/astro/Star/Carinae-22.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Schedir"
+---
+aliases: 
 location: [56.54,10.125,120]
 type: Station
 tags:
 - astro/Star
 
+title: Schedir
 ---
-
-# Schedir
-
 SpocWebEntityId: 27295
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28100]
 [NextStarId::27253]
 
+
+
+## Confidential Links & Embeds: 
+- [Schedir](../../../_public/astro/Star/Schedir.md) 
+- [Schedir.internal](../../../_internal/astro/Star/Schedir.internal.md) 
+- [Schedir.protect](../../../_protect/astro/Star/Schedir.protect.md) 
+- [Schedir.private](../../../_private/astro/Star/Schedir.private.md) 
+- [Schedir.personal](../../../_personal/astro/Star/Schedir.personal.md) 
+- [Schedir.secret](../../../_secret/astro/Star/Schedir.secret.md) 

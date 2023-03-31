@@ -1,14 +1,12 @@
-﻿---
-title: "Sadachbia"
+---
+aliases: 
 location: [-1.39,-24.575,100]
 type: Station
 tags:
 - astro/Star
 
+title: Sadachbia
 ---
-
-# Sadachbia
-
 SpocWebEntityId: 27662
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28086]
 [NextStarId::27612]
 
+
+
+## Confidential Links & Embeds: 
+- [Sadachbia](../../../_public/astro/Star/Sadachbia.md) 
+- [Sadachbia.internal](../../../_internal/astro/Star/Sadachbia.internal.md) 
+- [Sadachbia.protect](../../../_protect/astro/Star/Sadachbia.protect.md) 
+- [Sadachbia.private](../../../_private/astro/Star/Sadachbia.private.md) 
+- [Sadachbia.personal](../../../_personal/astro/Star/Sadachbia.personal.md) 
+- [Sadachbia.secret](../../../_secret/astro/Star/Sadachbia.secret.md) 

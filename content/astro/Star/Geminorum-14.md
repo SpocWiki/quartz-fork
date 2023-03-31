@@ -1,14 +1,12 @@
-﻿---
-title: "Geminorum-14"
+---
+aliases: 
 location: [12.9,101.325,80]
 type: Station
 tags:
 - astro/Star
 
+title: Geminorum-14
 ---
-
-# Geminorum-14
-
 SpocWebEntityId: 27491
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::14]
 [ZodiacId::28120]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Geminorum-14](../../../_public/astro/Star/Geminorum-14.md) 
+- [Geminorum-14.internal](../../../_internal/astro/Star/Geminorum-14.internal.md) 
+- [Geminorum-14.protect](../../../_protect/astro/Star/Geminorum-14.protect.md) 
+- [Geminorum-14.private](../../../_private/astro/Star/Geminorum-14.private.md) 
+- [Geminorum-14.personal](../../../_personal/astro/Star/Geminorum-14.personal.md) 
+- [Geminorum-14.secret](../../../_secret/astro/Star/Geminorum-14.secret.md)
 

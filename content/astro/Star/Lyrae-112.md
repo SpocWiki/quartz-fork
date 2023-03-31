@@ -1,14 +1,12 @@
-﻿---
-title: "Lyrae-112"
+---
+aliases: 
 location: [36.9,-76.375,800]
 type: Station
 tags:
 - astro/Star
 
+title: Lyrae-112
 ---
-
-# Lyrae-112
-
 SpocWebEntityId: 27872
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28134]
 [NextStarId::27797]
 
+
+
+## Confidential Links & Embeds: 
+- [Lyrae-112](../../../_public/astro/Star/Lyrae-112.md) 
+- [Lyrae-112.internal](../../../_internal/astro/Star/Lyrae-112.internal.md) 
+- [Lyrae-112.protect](../../../_protect/astro/Star/Lyrae-112.protect.md) 
+- [Lyrae-112.private](../../../_private/astro/Star/Lyrae-112.private.md) 
+- [Lyrae-112.personal](../../../_personal/astro/Star/Lyrae-112.personal.md) 
+- [Lyrae-112.secret](../../../_secret/astro/Star/Lyrae-112.secret.md) 

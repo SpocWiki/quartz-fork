@@ -1,10 +1,12 @@
-﻿---
-title: "Rutherfordium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Rutherfordium
 ---
 #chemic/Element 
-[GroupName::[Group-04-Titanium](../Group-04-Titanium.md)]
+[GroupName::[Group-04-Titanium](chemic/Elements/Group-04-Titanium.md)]
 
 [Name-en::Rutherfordium]
 [Name-de::Kurtschatovium]
@@ -33,3 +35,11 @@ SpocWebEntityId: 21999
 > In the 1960s, small amounts of rutherfordium were produced at Joint Institute for Nuclear Research in the Soviet Union and at Lawrence Berkeley National Laboratory in California. Priority of discovery and hence the name of the element was disputed between Soviet and American scientists, and it was not until 1997 that the International Union of Pure and Applied Chemistry (IUPAC) established rutherfordium as the official name of the element.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rutherfordium)
+
+## Confidential Links & Embeds: 
+- [Rutherfordium](../../../../_public/chemic/Elements/Group-04-Titanium/Rutherfordium.md) 
+- [Rutherfordium.internal](../../../../_internal/chemic/Elements/Group-04-Titanium/Rutherfordium.internal.md) 
+- [Rutherfordium.protect](../../../../_protect/chemic/Elements/Group-04-Titanium/Rutherfordium.protect.md) 
+- [Rutherfordium.private](../../../../_private/chemic/Elements/Group-04-Titanium/Rutherfordium.private.md) 
+- [Rutherfordium.personal](../../../../_personal/chemic/Elements/Group-04-Titanium/Rutherfordium.personal.md) 
+- [Rutherfordium.secret](../../../../_secret/chemic/Elements/Group-04-Titanium/Rutherfordium.secret.md) 

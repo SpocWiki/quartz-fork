@@ -1,14 +1,12 @@
-﻿---
-title: "Lupi-36"
+---
+aliases: 
 location: [-44.96,-126.025,800]
 type: Station
 tags:
 - astro/Star
 
+title: Lupi-36
 ---
-
-# Lupi-36
-
 SpocWebEntityId: 27956
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28132]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Lupi-36](../../../_public/astro/Star/Lupi-36.md) 
+- [Lupi-36.internal](../../../_internal/astro/Star/Lupi-36.internal.md) 
+- [Lupi-36.protect](../../../_protect/astro/Star/Lupi-36.protect.md) 
+- [Lupi-36.private](../../../_private/astro/Star/Lupi-36.private.md) 
+- [Lupi-36.personal](../../../_personal/astro/Star/Lupi-36.personal.md) 
+- [Lupi-36.secret](../../../_secret/astro/Star/Lupi-36.secret.md) 

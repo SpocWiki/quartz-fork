@@ -1,14 +1,12 @@
-﻿---
-title: "Phoenicis-6"
+---
+aliases: 
 location: [-55.25,17.1,250]
 type: Station
 tags:
 - astro/Star
 
+title: Phoenicis-6
 ---
-
-# Phoenicis-6
-
 SpocWebEntityId: 27714
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28146]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Phoenicis-6](../../../_public/astro/Star/Phoenicis-6.md) 
+- [Phoenicis-6.internal](../../../_internal/astro/Star/Phoenicis-6.internal.md) 
+- [Phoenicis-6.protect](../../../_protect/astro/Star/Phoenicis-6.protect.md) 
+- [Phoenicis-6.private](../../../_private/astro/Star/Phoenicis-6.private.md) 
+- [Phoenicis-6.personal](../../../_personal/astro/Star/Phoenicis-6.personal.md) 
+- [Phoenicis-6.secret](../../../_secret/astro/Star/Phoenicis-6.secret.md) 

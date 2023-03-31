@@ -1,14 +1,12 @@
-﻿---
-title: "Deneb Algedi"
+---
+aliases: 
 location: [-16.13,-33.25,40]
 type: Station
 tags:
 - astro/Star
 
+title: Deneb_Algedi
 ---
-
-# Deneb Algedi
-
 SpocWebEntityId: 27367
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::4]
 [ZodiacId::28098]
 [NextStarId::27609]
+
+
+
+## Confidential Links & Embeds: 
+- [Deneb_Algedi](../../../_public/astro/Star/Deneb_Algedi.md) 
+- [Deneb_Algedi.internal](../../../_internal/astro/Star/Deneb_Algedi.internal.md) 
+- [Deneb_Algedi.protect](../../../_protect/astro/Star/Deneb_Algedi.protect.md) 
+- [Deneb_Algedi.private](../../../_private/astro/Star/Deneb_Algedi.private.md) 
+- [Deneb_Algedi.personal](../../../_personal/astro/Star/Deneb_Algedi.personal.md) 
+- [Deneb_Algedi.secret](../../../_secret/astro/Star/Deneb_Algedi.secret.md)
 

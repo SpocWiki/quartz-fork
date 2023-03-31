@@ -1,14 +1,12 @@
-﻿---
-title: "Volantis-2"
+---
+aliases: 
 location: [-66.14,126.425,150]
 type: Station
 tags:
 - astro/Star
 
+title: Volantis-2
 ---
-
-# Volantis-2
-
 SpocWebEntityId: 27664
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28169]
 [NextStarId::27773]
 
+
+
+## Confidential Links & Embeds: 
+- [Volantis-2](../../../_public/astro/Star/Volantis-2.md) 
+- [Volantis-2.internal](../../../_internal/astro/Star/Volantis-2.internal.md) 
+- [Volantis-2.protect](../../../_protect/astro/Star/Volantis-2.protect.md) 
+- [Volantis-2.private](../../../_private/astro/Star/Volantis-2.private.md) 
+- [Volantis-2.personal](../../../_personal/astro/Star/Volantis-2.personal.md) 
+- [Volantis-2.secret](../../../_secret/astro/Star/Volantis-2.secret.md) 

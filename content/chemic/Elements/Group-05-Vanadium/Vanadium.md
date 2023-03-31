@@ -1,10 +1,12 @@
-﻿---
-title: "Vanadium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Vanadium
 ---
 #chemic/Element 
-[GroupName::[Group-05-Vanadium](../Group-05-Vanadium.md)]
+[GroupName::[Group-05-Vanadium](chemic/Elements/Group-05-Vanadium.md)]
 
 [Name-en::Vanadium]
 [Name-de::Vanadium]
@@ -35,3 +37,11 @@ SpocWebEntityId: 21923
 > Large amounts of vanadium ions are found in a few organisms, possibly as a toxin. The oxide and some other salts of vanadium have moderate toxicity. Particularly in the ocean, vanadium is used by some life forms as an active center of enzymes, such as the vanadium bromoperoxidase of some ocean algae.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vanadium)
+
+## Confidential Links & Embeds: 
+- [Vanadium](../../../../_public/chemic/Elements/Group-05-Vanadium/Vanadium.md) 
+- [Vanadium.internal](../../../../_internal/chemic/Elements/Group-05-Vanadium/Vanadium.internal.md) 
+- [Vanadium.protect](../../../../_protect/chemic/Elements/Group-05-Vanadium/Vanadium.protect.md) 
+- [Vanadium.private](../../../../_private/chemic/Elements/Group-05-Vanadium/Vanadium.private.md) 
+- [Vanadium.personal](../../../../_personal/chemic/Elements/Group-05-Vanadium/Vanadium.personal.md) 
+- [Vanadium.secret](../../../../_secret/chemic/Elements/Group-05-Vanadium/Vanadium.secret.md) 

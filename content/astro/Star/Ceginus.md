@@ -1,14 +1,12 @@
-﻿---
-title: "Ceginus"
+---
+aliases: 
 location: [38.31,-141.975,100]
 type: Station
 tags:
 - astro/Star
 
+title: Ceginus
 ---
-
-# Ceginus
-
 SpocWebEntityId: 27397
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28091]
 [NextStarId::27565]
+
+
+
+## Confidential Links & Embeds: 
+- [Ceginus](../../../_public/astro/Star/Ceginus.md) 
+- [Ceginus.internal](../../../_internal/astro/Star/Ceginus.internal.md) 
+- [Ceginus.protect](../../../_protect/astro/Star/Ceginus.protect.md) 
+- [Ceginus.private](../../../_private/astro/Star/Ceginus.private.md) 
+- [Ceginus.personal](../../../_personal/astro/Star/Ceginus.personal.md) 
+- [Ceginus.secret](../../../_secret/astro/Star/Ceginus.secret.md)
 

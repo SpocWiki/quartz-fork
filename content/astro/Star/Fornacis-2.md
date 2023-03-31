@@ -1,14 +1,12 @@
-﻿---
-title: "Fornacis-2"
+---
+aliases: 
 location: [-32.41,42.275,200]
 type: Station
 tags:
 - astro/Star
 
+title: Fornacis-2
 ---
-
-# Fornacis-2
-
 SpocWebEntityId: 27943
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28119]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Fornacis-2](../../../_public/astro/Star/Fornacis-2.md) 
+- [Fornacis-2.internal](../../../_internal/astro/Star/Fornacis-2.internal.md) 
+- [Fornacis-2.protect](../../../_protect/astro/Star/Fornacis-2.protect.md) 
+- [Fornacis-2.private](../../../_private/astro/Star/Fornacis-2.private.md) 
+- [Fornacis-2.personal](../../../_personal/astro/Star/Fornacis-2.personal.md) 
+- [Fornacis-2.secret](../../../_secret/astro/Star/Fornacis-2.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Orionis-8"
+---
+aliases: 
 location: [-5.4,83.825,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Orionis-8
 ---
-
-# Orionis-8
-
 SpocWebEntityId: 27751
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Orionis-8](../../../_public/astro/Star/Orionis-8.md) 
+- [Orionis-8.internal](../../../_internal/astro/Star/Orionis-8.internal.md) 
+- [Orionis-8.protect](../../../_protect/astro/Star/Orionis-8.protect.md) 
+- [Orionis-8.private](../../../_private/astro/Star/Orionis-8.private.md) 
+- [Orionis-8.personal](../../../_personal/astro/Star/Orionis-8.personal.md) 
+- [Orionis-8.secret](../../../_secret/astro/Star/Orionis-8.secret.md) 

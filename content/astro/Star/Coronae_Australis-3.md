@@ -1,14 +1,12 @@
-﻿---
-title: "Coronae Australis-3"
+---
+aliases: 
 location: [-37.06,-73.4,55]
 type: Station
 tags:
 - astro/Star
 
+title: Coronae_Australis-3
 ---
-
-# Coronae Australis-3
-
 SpocWebEntityId: 27859
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28108]
 [NextStarId::27830]
+
+
+
+## Confidential Links & Embeds: 
+- [Coronae_Australis-3](../../../_public/astro/Star/Coronae_Australis-3.md) 
+- [Coronae_Australis-3.internal](../../../_internal/astro/Star/Coronae_Australis-3.internal.md) 
+- [Coronae_Australis-3.protect](../../../_protect/astro/Star/Coronae_Australis-3.protect.md) 
+- [Coronae_Australis-3.private](../../../_private/astro/Star/Coronae_Australis-3.private.md) 
+- [Coronae_Australis-3.personal](../../../_personal/astro/Star/Coronae_Australis-3.personal.md) 
+- [Coronae_Australis-3.secret](../../../_secret/astro/Star/Coronae_Australis-3.secret.md)
 

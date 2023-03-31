@@ -1,14 +1,12 @@
-﻿---
-title: "Andromedae-6"
+---
+aliases: 
 location: [24.27,11.825,150]
 type: Station
 tags:
 - astro/Star
 
+title: Andromedae-6
 ---
-
-# Andromedae-6
-
 SpocWebEntityId: 27788
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::6]
 [ZodiacId::28083]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Andromedae-6](../../../_public/astro/Star/Andromedae-6.md) 
+- [Andromedae-6.internal](../../../_internal/astro/Star/Andromedae-6.internal.md) 
+- [Andromedae-6.protect](../../../_protect/astro/Star/Andromedae-6.protect.md) 
+- [Andromedae-6.private](../../../_private/astro/Star/Andromedae-6.private.md) 
+- [Andromedae-6.personal](../../../_personal/astro/Star/Andromedae-6.personal.md) 
+- [Andromedae-6.secret](../../../_secret/astro/Star/Andromedae-6.secret.md)
 

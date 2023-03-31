@@ -1,14 +1,12 @@
-﻿---
-title: "Fomalhaut"
+---
+aliases: 
 location: [-29.62,-15.6,22]
 type: Station
 tags:
 - astro/Star
 
+title: Fomalhaut
 ---
-
-# Fomalhaut
-
 SpocWebEntityId: 27247
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28149]
 [NextStarId::27857]
+
+
+
+## Confidential Links & Embeds: 
+- [Fomalhaut](../../../_public/astro/Star/Fomalhaut.md) 
+- [Fomalhaut.internal](../../../_internal/astro/Star/Fomalhaut.internal.md) 
+- [Fomalhaut.protect](../../../_protect/astro/Star/Fomalhaut.protect.md) 
+- [Fomalhaut.private](../../../_private/astro/Star/Fomalhaut.private.md) 
+- [Fomalhaut.personal](../../../_personal/astro/Star/Fomalhaut.personal.md) 
+- [Fomalhaut.secret](../../../_secret/astro/Star/Fomalhaut.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Denebola"
+---
+aliases: 
 location: [14.57,177.275,40]
 type: Station
 tags:
 - astro/Star
 
+title: Denebola
 ---
-
-# Denebola
-
 SpocWebEntityId: 27290
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28128]
 [NextStarId::27330]
+
+
+
+## Confidential Links & Embeds: 
+- [Denebola](../../../_public/astro/Star/Denebola.md) 
+- [Denebola.internal](../../../_internal/astro/Star/Denebola.internal.md) 
+- [Denebola.protect](../../../_protect/astro/Star/Denebola.protect.md) 
+- [Denebola.private](../../../_private/astro/Star/Denebola.private.md) 
+- [Denebola.personal](../../../_personal/astro/Star/Denebola.personal.md) 
+- [Denebola.secret](../../../_secret/astro/Star/Denebola.secret.md)
 

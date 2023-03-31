@@ -1,10 +1,12 @@
-﻿---
-title: "Ruthenium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Ruthenium
 ---
 #chemic/Element 
-[GroupName::[Group-08-Iron](../Group-08-Iron.md)]
+[GroupName::[Group-08-Iron](chemic/Elements/Group-08-Iron.md)]
 
 [Name-en::Ruthenium]
 [Name-de::Ruthenium]
@@ -31,3 +33,12 @@ SpocWebEntityId: 21942
 > [Wikipedia](https://en.wikipedia.org/wiki/Ruthenium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Ruthenium](../../../../_public/chemic/Elements/Group-08-Iron/Ruthenium.md) 
+- [Ruthenium.internal](../../../../_internal/chemic/Elements/Group-08-Iron/Ruthenium.internal.md) 
+- [Ruthenium.protect](../../../../_protect/chemic/Elements/Group-08-Iron/Ruthenium.protect.md) 
+- [Ruthenium.private](../../../../_private/chemic/Elements/Group-08-Iron/Ruthenium.private.md) 
+- [Ruthenium.personal](../../../../_personal/chemic/Elements/Group-08-Iron/Ruthenium.personal.md) 
+- [Ruthenium.secret](../../../../_secret/chemic/Elements/Group-08-Iron/Ruthenium.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Corvi-2"
+---
+aliases: 
 location: [-23.4,-171.4,300]
 type: Station
 tags:
 - astro/Star
 
+title: Corvi-2
 ---
-
-# Corvi-2
-
 SpocWebEntityId: 27342
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28110]
 [NextStarId::27407]
+
+
+
+## Confidential Links & Embeds: 
+- [Corvi-2](../../../_public/astro/Star/Corvi-2.md) 
+- [Corvi-2.internal](../../../_internal/astro/Star/Corvi-2.internal.md) 
+- [Corvi-2.protect](../../../_protect/astro/Star/Corvi-2.protect.md) 
+- [Corvi-2.private](../../../_private/astro/Star/Corvi-2.private.md) 
+- [Corvi-2.personal](../../../_personal/astro/Star/Corvi-2.personal.md) 
+- [Corvi-2.secret](../../../_secret/astro/Star/Corvi-2.secret.md)
 

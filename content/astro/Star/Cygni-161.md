@@ -1,14 +1,12 @@
-﻿---
-title: "Cygni-161"
+---
+aliases: 
 location: [38.75,-43.275,11]
 type: Station
 tags:
 - astro/Star
 
+title: Cygni-161
 ---
-
-# Cygni-161
-
 SpocWebEntityId: 28005
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::161]
 [ZodiacId::28113]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Cygni-161](../../../_public/astro/Star/Cygni-161.md) 
+- [Cygni-161.internal](../../../_internal/astro/Star/Cygni-161.internal.md) 
+- [Cygni-161.protect](../../../_protect/astro/Star/Cygni-161.protect.md) 
+- [Cygni-161.private](../../../_private/astro/Star/Cygni-161.private.md) 
+- [Cygni-161.personal](../../../_personal/astro/Star/Cygni-161.personal.md) 
+- [Cygni-161.secret](../../../_secret/astro/Star/Cygni-161.secret.md)
 

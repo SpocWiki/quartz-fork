@@ -1,14 +1,12 @@
-﻿---
-title: "Leporis-7"
+---
+aliases: 
 location: [-14.17,89.1,70]
 type: Station
 tags:
 - astro/Star
 
+title: Leporis-7
 ---
-
-# Leporis-7
-
 SpocWebEntityId: 27596
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28130]
 [NextStarId::27556]
 
+
+
+## Confidential Links & Embeds: 
+- [Leporis-7](../../../_public/astro/Star/Leporis-7.md) 
+- [Leporis-7.internal](../../../_internal/astro/Star/Leporis-7.internal.md) 
+- [Leporis-7.protect](../../../_protect/astro/Star/Leporis-7.protect.md) 
+- [Leporis-7.private](../../../_private/astro/Star/Leporis-7.private.md) 
+- [Leporis-7.personal](../../../_personal/astro/Star/Leporis-7.personal.md) 
+- [Leporis-7.secret](../../../_secret/astro/Star/Leporis-7.secret.md) 

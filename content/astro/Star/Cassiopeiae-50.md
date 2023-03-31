@@ -1,14 +1,12 @@
-﻿---
-title: "Cassiopeiae-50"
+---
+aliases: 
 location: [58.55,-7.5,600]
 type: Station
 tags:
 - astro/Star
 
+title: Cassiopeiae-50
 ---
-
-# Cassiopeiae-50
-
 SpocWebEntityId: 28004
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::50]
 [ZodiacId::28100]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Cassiopeiae-50](../../../_public/astro/Star/Cassiopeiae-50.md) 
+- [Cassiopeiae-50.internal](../../../_internal/astro/Star/Cassiopeiae-50.internal.md) 
+- [Cassiopeiae-50.protect](../../../_protect/astro/Star/Cassiopeiae-50.protect.md) 
+- [Cassiopeiae-50.private](../../../_private/astro/Star/Cassiopeiae-50.private.md) 
+- [Cassiopeiae-50.personal](../../../_personal/astro/Star/Cassiopeiae-50.personal.md) 
+- [Cassiopeiae-50.secret](../../../_secret/astro/Star/Cassiopeiae-50.secret.md)
 

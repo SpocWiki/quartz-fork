@@ -1,14 +1,12 @@
-﻿---
-title: "Saiph"
+---
+aliases: 
 location: [-9.67,86.95,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Saiph
 ---
-
-# Saiph
-
 SpocWebEntityId: 27288
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::27265]
 
+
+
+## Confidential Links & Embeds: 
+- [Saiph](../../../_public/astro/Star/Saiph.md) 
+- [Saiph.internal](../../../_internal/astro/Star/Saiph.internal.md) 
+- [Saiph.protect](../../../_protect/astro/Star/Saiph.protect.md) 
+- [Saiph.private](../../../_private/astro/Star/Saiph.private.md) 
+- [Saiph.personal](../../../_personal/astro/Star/Saiph.personal.md) 
+- [Saiph.secret](../../../_secret/astro/Star/Saiph.secret.md) 

@@ -1,3 +1,8 @@
+---
+aliases: 
+tags: 
+title: Introduction
+---
 # Introduction
 
 First off, thank you for considering contributing to this project.
@@ -5,18 +10,24 @@ It's people like you that make this Wiki a great resource.
 
 Following these guidelines helps to communicate
 that you respect the time of the people managing and developing this open source project. 
-In return, they should reciprocate that resfdpect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
 ### What kinds of contributions we are looking for.
 
-Keep an open mind! Improving documentation, bug triaging, or writing tutorials are all examples of helpful contributions that mean less work for you.
+Anyone can contribute Articles and Data by editing the Files locally and the pushing them to this repository. 
+
+But there is more to do:
+- Reviewing and accepting these changes are in the hands of trusted community members that are regularly elected
+- Improving documentation and tutorials on how to use this repository
+- discussing and researching bugs and open questions
+- moderating discussions on 
 
 This is an open documentation project and we love to receive contributions from our community — you!
 There are many ways to contribute, from supplying Data and Articles, writing tutorials or blog posts, 
 improving the documentation, submitting bug reports and content requests to, ultimately moderating the Content and Pull Requests.
 
 
-### What contributions you are NOT looking for (if any).
+### What contributions we are NOT looking for.
 
 We may restrict the use of the issue tracker in the future and direct you to other communication Channels, but for now, please use it for any inquiries. 
 
@@ -25,7 +36,7 @@ We may restrict the use of the issue tracker in the future and direct you to oth
 
 Responsibilities
  * Ensure that your content and communication meets all [LICENSE](LICENSE.md) and [Code_of_Conduct](Code_of_Conduct.md) requirements 
- * Before starting any major changes and enhancements, create an issue to explain what you wish to make. 
+ * Before starting any major changes and enhancements, [submit an Issue](https://github.com/SpocWiki/_public/issues) to explain what you wish to make. 
  * Discuss things transparently and get community feedback.
  - Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. 
 
@@ -43,7 +54,7 @@ At this point, you're ready to make your changes! Feel free to ask for help; eve
 
 If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed, and that you need to update your branch so it's easier to merge.
 
-You can start by looking through these beginner and help-wanted issues:
+You can start by looking through the [Issues](https://github.com/SpocWiki/_public/issues):
 - **Beginner** issues - issues which should only require a few lines of code, and a test or two.
 - **Help wanted** issues - issues which should be a bit more involved than beginner issues.
 - Both issue lists are sorted by total number of comments. While not perfect, number of comments is a reasonable proxy for impact a given change will have.
@@ -64,7 +75,7 @@ You can start by looking through these beginner and help-wanted issues:
 
 ### Use the Labels for issues.
 
-Please apply one or more Tags to your issues: 
+Please apply one or more Tags to your [Issues](https://github.com/SpocWiki/_public/issues): 
 - **Spelling** for purely syntactical or grammatical changes. 
 - **Bug** for fixing the semantics/meaning of the text or data.
 - **Feature** for a completely new (set of) articles or data.
@@ -92,13 +103,14 @@ Likely examples include the following:
 
 If you find a security vulnerability, do NOT open an issue. Email 10584012+SpocWeb@users.noreply.github.com instead.
 In order to determine whether you are dealing with a security issue, ask yourself these two questions:
- * Can I access something that's obvously not for public, or something I shouldn't have access to?
+ * Can I access something that's obviously not for public, or something I shouldn't have access to?
  * Can I disable something for other people?
 
  If the answer to either of those two questions are "yes", then you're probably dealing with a security issue. 
  Note that even if you answer "no" to both questions, you may still be dealing with a security issue, so if you're unsure, just email us at  10584012+SpocWeb@users.noreply.github.com. 
 
-When filing an issue, make sure to answer these five questions:
+When [filing an Issue](https://github.com/SpocWiki/_public/issues),
+make sure to answer these five questions:
  1. What did you see?
  2. What did you expect to see?
  3. What did you see instead?
@@ -121,9 +133,9 @@ If you find yourself wishing for content that doesn't exist yet, you are probabl
 There are bound to be others out there with similar needs. 
 Many of the contents has been added because our users saw the need. 
 
-Open an issue on our issues list on GitHub which describes the content you would like to see, 
-why you need it, and if you can start to provide it.
-
+[Open an Issue](https://github.com/SpocWiki/_public/issues), on our issues list on GitHub
+which describes the content you would like to see, 
+why you need it, and if you can help to provide it.
 
 # Review process
 
@@ -215,4 +227,18 @@ For Attribute Names we recommend camelCase or PascalCase like [Schema.org](https
 
 - **createdPlace**: Location of Creation/Birth, preferably in geo-coordinates (longitude, latitude)
 - **demisedPlace**: Location of Destruction/Death/Dissolution 
+
+# Credits
+
+Thanks to all of the different people who have contributed to this Repository!
+Let's continue to make this a great resource for everybody on this planet.
+
+
+## Confidential Links & Embeds: 
+- [Contributing](../_public/Contributing.md) 
+- [Contributing.internal](../_internal/Contributing.internal.md) 
+- [Contributing.protect](../_protect/Contributing.protect.md) 
+- [Contributing.private](../_private/Contributing.private.md) 
+- [Contributing.personal](../_personal/Contributing.personal.md) 
+- [Contributing.secret](../_secret/Contributing.secret.md)
 

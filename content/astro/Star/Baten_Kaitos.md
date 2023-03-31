@@ -1,14 +1,12 @@
-﻿---
-title: "Baten Kaitos"
+---
+aliases: 
 location: [-10.34,27.875,200]
 type: Station
 tags:
 - astro/Star
 
+title: Baten_Kaitos
 ---
-
-# Baten Kaitos
-
 SpocWebEntityId: 27592
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::6]
 [ZodiacId::28103]
 [NextStarId::27518]
+
+
+
+## Confidential Links & Embeds: 
+- [Baten_Kaitos](../../../_public/astro/Star/Baten_Kaitos.md) 
+- [Baten_Kaitos.internal](../../../_internal/astro/Star/Baten_Kaitos.internal.md) 
+- [Baten_Kaitos.protect](../../../_protect/astro/Star/Baten_Kaitos.protect.md) 
+- [Baten_Kaitos.private](../../../_private/astro/Star/Baten_Kaitos.private.md) 
+- [Baten_Kaitos.personal](../../../_personal/astro/Star/Baten_Kaitos.personal.md) 
+- [Baten_Kaitos.secret](../../../_secret/astro/Star/Baten_Kaitos.secret.md)
 

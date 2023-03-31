@@ -1,10 +1,12 @@
-﻿---
-title: "Iridium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Iridium
 ---
 #chemic/Element 
-[GroupName::[Group-09-Cobalt](../Group-09-Cobalt.md)]
+[GroupName::[Group-09-Cobalt](chemic/Elements/Group-09-Cobalt.md)]
 
 [Name-en::Iridium]
 [Name-de::Iridium]
@@ -36,3 +38,12 @@ SpocWebEntityId: 21973
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iridium)
 
+
+
+## Confidential Links & Embeds: 
+- [Iridium](../../../../_public/chemic/Elements/Group-09-Cobalt/Iridium.md) 
+- [Iridium.internal](../../../../_internal/chemic/Elements/Group-09-Cobalt/Iridium.internal.md) 
+- [Iridium.protect](../../../../_protect/chemic/Elements/Group-09-Cobalt/Iridium.protect.md) 
+- [Iridium.private](../../../../_private/chemic/Elements/Group-09-Cobalt/Iridium.private.md) 
+- [Iridium.personal](../../../../_personal/chemic/Elements/Group-09-Cobalt/Iridium.personal.md) 
+- [Iridium.secret](../../../../_secret/chemic/Elements/Group-09-Cobalt/Iridium.secret.md) 

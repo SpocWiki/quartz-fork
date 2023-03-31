@@ -1,14 +1,12 @@
-﻿---
-title: "Scorpii-28"
+---
+aliases: 
 location: [-42.36,-106.35,150]
 type: Station
 tags:
 - astro/Star
 
+title: Scorpii-28
 ---
-
-# Scorpii-28
-
 SpocWebEntityId: 27579
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27416]
 
+
+
+## Confidential Links & Embeds: 
+- [Scorpii-28](../../../_public/astro/Star/Scorpii-28.md) 
+- [Scorpii-28.internal](../../../_internal/astro/Star/Scorpii-28.internal.md) 
+- [Scorpii-28.protect](../../../_protect/astro/Star/Scorpii-28.protect.md) 
+- [Scorpii-28.private](../../../_private/astro/Star/Scorpii-28.private.md) 
+- [Scorpii-28.personal](../../../_personal/astro/Star/Scorpii-28.personal.md) 
+- [Scorpii-28.secret](../../../_secret/astro/Star/Scorpii-28.secret.md) 

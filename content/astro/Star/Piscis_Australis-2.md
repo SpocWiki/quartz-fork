@@ -1,14 +1,12 @@
-﻿---
-title: "Piscis Australis-2"
+---
+aliases: 
 location: [-32.35,-22.125,150]
 type: Station
 tags:
 - astro/Star
 
+title: Piscis_Australis-2
 ---
-
-# Piscis Australis-2
-
 SpocWebEntityId: 27899
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28149]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Piscis_Australis-2](../../../_public/astro/Star/Piscis_Australis-2.md) 
+- [Piscis_Australis-2.internal](../../../_internal/astro/Star/Piscis_Australis-2.internal.md) 
+- [Piscis_Australis-2.protect](../../../_protect/astro/Star/Piscis_Australis-2.protect.md) 
+- [Piscis_Australis-2.private](../../../_private/astro/Star/Piscis_Australis-2.private.md) 
+- [Piscis_Australis-2.personal](../../../_personal/astro/Star/Piscis_Australis-2.personal.md) 
+- [Piscis_Australis-2.secret](../../../_secret/astro/Star/Piscis_Australis-2.secret.md) 

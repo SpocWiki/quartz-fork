@@ -1,11 +1,13 @@
-﻿---
-title: "Hydrogenium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21904
+title: Hydrogenium
 ---
 #chemic/Element 
-[GroupName::[Group-01-Alkali](../Group-01-Alkali.md)]
+[GroupName::[Group-01-Alkali](chemic/Elements/Group-01-Alkali.md)]
 
 [Name-en::Hydrogenium]
 [Name-de::Wasserstoff]
@@ -34,3 +36,11 @@ SpocWebEntityId: 21904
 > The trihydrogen cation is the simplest triatomic molecule, because its two electrons are the only valence electrons in the system. It is also the simplest example of a three-center two-electron bond system.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trihydrogen%20cation)
+
+## Confidential Links & Embeds: 
+- [Hydrogenium](../../../../_public/chemic/Elements/Group-01-Alkali/Hydrogenium.md) 
+- [Hydrogenium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Hydrogenium.internal.md) 
+- [Hydrogenium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Hydrogenium.protect.md) 
+- [Hydrogenium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Hydrogenium.private.md) 
+- [Hydrogenium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Hydrogenium.personal.md) 
+- [Hydrogenium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Hydrogenium.secret.md) 

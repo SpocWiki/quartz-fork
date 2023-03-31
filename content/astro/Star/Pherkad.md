@@ -1,14 +1,12 @@
-﻿---
-title: "Pherkad"
+---
+aliases: 
 location: [71.83,-129.825,200]
 type: Station
 tags:
 - astro/Star
 
+title: Pherkad
 ---
-
-# Pherkad
-
 SpocWebEntityId: 27419
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28166]
 [NextStarId::28030]
 
+
+
+## Confidential Links & Embeds: 
+- [Pherkad](../../../_public/astro/Star/Pherkad.md) 
+- [Pherkad.internal](../../../_internal/astro/Star/Pherkad.internal.md) 
+- [Pherkad.protect](../../../_protect/astro/Star/Pherkad.protect.md) 
+- [Pherkad.private](../../../_private/astro/Star/Pherkad.private.md) 
+- [Pherkad.personal](../../../_personal/astro/Star/Pherkad.personal.md) 
+- [Pherkad.secret](../../../_secret/astro/Star/Pherkad.secret.md) 

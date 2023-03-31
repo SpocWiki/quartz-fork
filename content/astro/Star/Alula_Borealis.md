@@ -1,14 +1,12 @@
-﻿---
-title: "Alula Borealis"
+---
+aliases: 
 location: [33.09,-190.375,150]
 type: Station
 tags:
 - astro/Star
 
+title: Alula_Borealis
 ---
-
-# Alula Borealis
-
 SpocWebEntityId: 27512
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::13]
 [ZodiacId::28165]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Alula_Borealis](../../../_public/astro/Star/Alula_Borealis.md) 
+- [Alula_Borealis.internal](../../../_internal/astro/Star/Alula_Borealis.internal.md) 
+- [Alula_Borealis.protect](../../../_protect/astro/Star/Alula_Borealis.protect.md) 
+- [Alula_Borealis.private](../../../_private/astro/Star/Alula_Borealis.private.md) 
+- [Alula_Borealis.personal](../../../_personal/astro/Star/Alula_Borealis.personal.md) 
+- [Alula_Borealis.secret](../../../_secret/astro/Star/Alula_Borealis.secret.md)
 

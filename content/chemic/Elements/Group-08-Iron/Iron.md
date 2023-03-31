@@ -1,10 +1,12 @@
-﻿---
-title: "Iron"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Iron
 ---
 #chemic/Element 
-[GroupName::[Group-08-Iron](../Group-08-Iron.md)]
+[GroupName::[Group-08-Iron](chemic/Elements/Group-08-Iron.md)]
 
 [Name-en::Iron]
 [Name-de::Eisen]
@@ -36,3 +38,12 @@ SpocWebEntityId: 16528
 > [Wikipedia](https://en.wikipedia.org/wiki/Iron)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Iron](../../../../_public/chemic/Elements/Group-08-Iron/Iron.md) 
+- [Iron.internal](../../../../_internal/chemic/Elements/Group-08-Iron/Iron.internal.md) 
+- [Iron.protect](../../../../_protect/chemic/Elements/Group-08-Iron/Iron.protect.md) 
+- [Iron.private](../../../../_private/chemic/Elements/Group-08-Iron/Iron.private.md) 
+- [Iron.personal](../../../../_personal/chemic/Elements/Group-08-Iron/Iron.personal.md) 
+- [Iron.secret](../../../../_secret/chemic/Elements/Group-08-Iron/Iron.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Leonis-49"
+---
+aliases: 
 location: [11.43,146.9,300]
 type: Station
 tags:
 - astro/Star
 
+title: Leonis-49
 ---
-
-# Leonis-49
-
 SpocWebEntityId: 27923
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::49]
 [ZodiacId::28128]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Leonis-49](../../../_public/astro/Star/Leonis-49.md) 
+- [Leonis-49.internal](../../../_internal/astro/Star/Leonis-49.internal.md) 
+- [Leonis-49.protect](../../../_protect/astro/Star/Leonis-49.protect.md) 
+- [Leonis-49.private](../../../_private/astro/Star/Leonis-49.private.md) 
+- [Leonis-49.personal](../../../_personal/astro/Star/Leonis-49.personal.md) 
+- [Leonis-49.secret](../../../_secret/astro/Star/Leonis-49.secret.md)
 

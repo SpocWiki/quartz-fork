@@ -1,14 +1,12 @@
-﻿---
-title: "Velorum-33"
+---
+aliases: 
 location: [-46.04,131.5,250]
 type: Station
 tags:
 - astro/Star
 
+title: Velorum-33
 ---
-
-# Velorum-33
-
 SpocWebEntityId: 27719
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28167]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Velorum-33](../../../_public/astro/Star/Velorum-33.md) 
+- [Velorum-33.internal](../../../_internal/astro/Star/Velorum-33.internal.md) 
+- [Velorum-33.protect](../../../_protect/astro/Star/Velorum-33.protect.md) 
+- [Velorum-33.private](../../../_private/astro/Star/Velorum-33.private.md) 
+- [Velorum-33.personal](../../../_personal/astro/Star/Velorum-33.personal.md) 
+- [Velorum-33.secret](../../../_secret/astro/Star/Velorum-33.secret.md) 

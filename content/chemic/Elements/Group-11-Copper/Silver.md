@@ -1,10 +1,12 @@
-﻿---
-title: "Silver"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Silver
 ---
 #chemic/Element 
-[GroupName::[Group-11-Copper](../Group-11-Copper.md)]
+[GroupName::[Group-11-Copper](chemic/Elements/Group-11-Copper.md)]
 
 [Name-en::Silver]
 [Name-de::Silber]
@@ -33,3 +35,11 @@ SpocWebEntityId: 17799
 > Other than in currency and as an investment medium (coins and bullion), silver is used in solar panels, water filtration, jewellery, ornaments, high-value tableware and utensils (hence the term "silverware"), in electrical contacts and conductors, in specialized mirrors, window coatings, in catalysis of chemical reactions, as a colorant in stained glass, and in specialized confectionery. Its compounds are used in photographic and X-ray film. Dilute solutions of silver nitrate and other silver compounds are used as disinfectants and microbiocides (oligodynamic effect), added to bandages, wound-dressings, catheters, and other medical instruments.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silver)
+
+## Confidential Links & Embeds: 
+- [Silver](../../../../_public/chemic/Elements/Group-11-Copper/Silver.md) 
+- [Silver.internal](../../../../_internal/chemic/Elements/Group-11-Copper/Silver.internal.md) 
+- [Silver.protect](../../../../_protect/chemic/Elements/Group-11-Copper/Silver.protect.md) 
+- [Silver.private](../../../../_private/chemic/Elements/Group-11-Copper/Silver.private.md) 
+- [Silver.personal](../../../../_personal/chemic/Elements/Group-11-Copper/Silver.personal.md) 
+- [Silver.secret](../../../../_secret/chemic/Elements/Group-11-Copper/Silver.secret.md) 

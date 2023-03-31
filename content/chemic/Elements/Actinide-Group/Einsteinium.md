@@ -1,12 +1,14 @@
-﻿---
-title: "Einsteinium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21994
+title: Einsteinium
 ---
 
 #chemic/Element 
-[GroupName::[Actinide-Group](../Actinide-Group.md)]
+[GroupName::[Actinide-Group](chemic/Elements/Actinide-Group.md)]
 
 
 [Name-en::Einsteinium]
@@ -30,3 +32,12 @@ SpocWebEntityId: 21994
 []
 (Charge-e::99)
 
+
+
+## Confidential Links & Embeds: 
+- [Einsteinium](../../../../_public/chemic/Elements/Actinide-Group/Einsteinium.md) 
+- [Einsteinium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Einsteinium.internal.md) 
+- [Einsteinium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Einsteinium.protect.md) 
+- [Einsteinium.private](../../../../_private/chemic/Elements/Actinide-Group/Einsteinium.private.md) 
+- [Einsteinium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Einsteinium.personal.md) 
+- [Einsteinium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Einsteinium.secret.md) 

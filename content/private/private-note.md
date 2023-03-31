@@ -1,6 +1,5 @@
-﻿---
+---
 title: "private-note"
-title: "Private Stuff"
 ---
 
 # private-note

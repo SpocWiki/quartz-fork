@@ -1,14 +1,12 @@
-﻿---
-title: "Coronae Borealis-8"
+---
+aliases: 
 location: [31.36,-126.775,300]
 type: Station
 tags:
 - astro/Star
 
+title: Coronae_Borealis-8
 ---
-
-# Coronae Borealis-8
-
 SpocWebEntityId: 27811
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::8]
 [ZodiacId::28109]
 [NextStarId::27602]
+
+
+
+## Confidential Links & Embeds: 
+- [Coronae_Borealis-8](../../../_public/astro/Star/Coronae_Borealis-8.md) 
+- [Coronae_Borealis-8.internal](../../../_internal/astro/Star/Coronae_Borealis-8.internal.md) 
+- [Coronae_Borealis-8.protect](../../../_protect/astro/Star/Coronae_Borealis-8.protect.md) 
+- [Coronae_Borealis-8.private](../../../_private/astro/Star/Coronae_Borealis-8.private.md) 
+- [Coronae_Borealis-8.personal](../../../_personal/astro/Star/Coronae_Borealis-8.personal.md) 
+- [Coronae_Borealis-8.secret](../../../_secret/astro/Star/Coronae_Borealis-8.secret.md)
 

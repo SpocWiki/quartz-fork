@@ -1,14 +1,12 @@
-﻿---
-title: "Algiedi"
+---
+aliases: 
 location: [-12.51,-55.6,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Algiedi
 ---
-
-# Algiedi
-
 SpocWebEntityId: 27855
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::105]
 [ZodiacId::28098]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Algiedi](../../../_public/astro/Star/Algiedi.md) 
+- [Algiedi.internal](../../../_internal/astro/Star/Algiedi.internal.md) 
+- [Algiedi.protect](../../../_protect/astro/Star/Algiedi.protect.md) 
+- [Algiedi.private](../../../_private/astro/Star/Algiedi.private.md) 
+- [Algiedi.personal](../../../_personal/astro/Star/Algiedi.personal.md) 
+- [Algiedi.secret](../../../_secret/astro/Star/Algiedi.secret.md)
 

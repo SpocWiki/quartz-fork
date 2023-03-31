@@ -1,14 +1,12 @@
-﻿---
-title: "Menkalinan"
+---
+aliases: 
 location: [44.95,89.875,70]
 type: Station
 tags:
 - astro/Star
 
+title: Menkalinan
 ---
-
-# Menkalinan
-
 SpocWebEntityId: 27268
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28090]
 [NextStarId::27235]
 
+
+
+## Confidential Links & Embeds: 
+- [Menkalinan](../../../_public/astro/Star/Menkalinan.md) 
+- [Menkalinan.internal](../../../_internal/astro/Star/Menkalinan.internal.md) 
+- [Menkalinan.protect](../../../_protect/astro/Star/Menkalinan.protect.md) 
+- [Menkalinan.private](../../../_private/astro/Star/Menkalinan.private.md) 
+- [Menkalinan.personal](../../../_personal/astro/Star/Menkalinan.personal.md) 
+- [Menkalinan.secret](../../../_secret/astro/Star/Menkalinan.secret.md) 

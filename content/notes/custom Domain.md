@@ -1,6 +1,5 @@
-﻿---
+---
 title: "custom Domain"
-title: "Custom Domain"
 ---
 
 # custom Domain

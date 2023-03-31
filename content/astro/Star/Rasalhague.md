@@ -1,14 +1,12 @@
-﻿---
-title: "Rasalhague"
+---
+aliases: 
 location: [12.56,-96.275,60]
 type: Station
 tags:
 - astro/Star
 
+title: Rasalhague
 ---
-
-# Rasalhague
-
 SpocWebEntityId: 27291
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28141]
 [NextStarId::27447]
 
+
+
+## Confidential Links & Embeds: 
+- [Rasalhague](../../../_public/astro/Star/Rasalhague.md) 
+- [Rasalhague.internal](../../../_internal/astro/Star/Rasalhague.internal.md) 
+- [Rasalhague.protect](../../../_protect/astro/Star/Rasalhague.protect.md) 
+- [Rasalhague.private](../../../_private/astro/Star/Rasalhague.private.md) 
+- [Rasalhague.personal](../../../_personal/astro/Star/Rasalhague.personal.md) 
+- [Rasalhague.secret](../../../_secret/astro/Star/Rasalhague.secret.md) 

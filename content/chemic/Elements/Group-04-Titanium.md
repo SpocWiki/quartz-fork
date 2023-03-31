@@ -1,13 +1,15 @@
-﻿---
-title: "Group-04-Titanium"
+---
+aliases: 
+tags: 
 type: ElementGroup
+title: Group-04-Titanium
 ---
 #chemic/Group 
 
-4) [Titanium](Group-04-Titanium/Titanium.md)
-5) [Zirconium](Group-04-Titanium/Zirconium.md)
-6) [Hafnium](Group-04-Titanium/Hafnium.md)
-7) [Rutherfordium](Group-04-Titanium/Rutherfordium.md)
+4) [Titanium](chemic/Elements/Group-04-Titanium/Titanium.md)
+5) [Zirconium](chemic/Elements/Group-04-Titanium/Zirconium.md)
+6) [Hafnium](chemic/Elements/Group-04-Titanium/Hafnium.md)
+7) [Rutherfordium](chemic/Elements/Group-04-Titanium/Rutherfordium.md)
 
 
 > Group 4 is the second group of transition metals in the periodic table. It contains the four elements titanium (Ti), zirconium (Zr), hafnium (Hf), and rutherfordium (Rf). The group is also called the titanium group or titanium family after its lightest member.
@@ -18,3 +20,12 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%204%20element)
 
+
+
+## Confidential Links & Embeds: 
+- [Group-04-Titanium](../../../_public/chemic/Elements/Group-04-Titanium.md) 
+- [Group-04-Titanium.internal](../../../_internal/chemic/Elements/Group-04-Titanium.internal.md) 
+- [Group-04-Titanium.protect](../../../_protect/chemic/Elements/Group-04-Titanium.protect.md) 
+- [Group-04-Titanium.private](../../../_private/chemic/Elements/Group-04-Titanium.private.md) 
+- [Group-04-Titanium.personal](../../../_personal/chemic/Elements/Group-04-Titanium.personal.md) 
+- [Group-04-Titanium.secret](../../../_secret/chemic/Elements/Group-04-Titanium.secret.md) 

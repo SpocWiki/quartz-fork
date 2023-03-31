@@ -1,14 +1,12 @@
-﻿---
-title: "Ophiuchi-22"
+---
+aliases: 
 location: [-18.46,-113.25,600]
 type: Station
 tags:
 - astro/Star
 
+title: Ophiuchi-22
 ---
-
-# Ophiuchi-22
-
 SpocWebEntityId: 27853
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28141]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Ophiuchi-22](../../../_public/astro/Star/Ophiuchi-22.md) 
+- [Ophiuchi-22.internal](../../../_internal/astro/Star/Ophiuchi-22.internal.md) 
+- [Ophiuchi-22.protect](../../../_protect/astro/Star/Ophiuchi-22.protect.md) 
+- [Ophiuchi-22.private](../../../_private/astro/Star/Ophiuchi-22.private.md) 
+- [Ophiuchi-22.personal](../../../_personal/astro/Star/Ophiuchi-22.personal.md) 
+- [Ophiuchi-22.secret](../../../_secret/astro/Star/Ophiuchi-22.secret.md) 

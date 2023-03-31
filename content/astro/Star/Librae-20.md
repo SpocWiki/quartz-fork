@@ -1,14 +1,12 @@
-﻿---
-title: "Librae-20"
+---
+aliases: 
 location: [-28.13,-125.75,120]
 type: Station
 tags:
 - astro/Star
 
+title: Librae-20
 ---
-
-# Librae-20
-
 SpocWebEntityId: 27566
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28131]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Librae-20](../../../_public/astro/Star/Librae-20.md) 
+- [Librae-20.internal](../../../_internal/astro/Star/Librae-20.internal.md) 
+- [Librae-20.protect](../../../_protect/astro/Star/Librae-20.protect.md) 
+- [Librae-20.private](../../../_private/astro/Star/Librae-20.private.md) 
+- [Librae-20.personal](../../../_personal/astro/Star/Librae-20.personal.md) 
+- [Librae-20.secret](../../../_secret/astro/Star/Librae-20.secret.md) 

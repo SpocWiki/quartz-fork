@@ -1,14 +1,12 @@
-﻿---
-title: "Capricorni-6"
+---
+aliases: 
 location: [-22.41,-38.325,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Capricorni-6
 ---
-
-# Capricorni-6
-
 SpocWebEntityId: 27609
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::6]
 [ZodiacId::28098]
 [NextStarId::27815]
+
+
+
+## Confidential Links & Embeds: 
+- [Capricorni-6](../../../_public/astro/Star/Capricorni-6.md) 
+- [Capricorni-6.internal](../../../_internal/astro/Star/Capricorni-6.internal.md) 
+- [Capricorni-6.protect](../../../_protect/astro/Star/Capricorni-6.protect.md) 
+- [Capricorni-6.private](../../../_private/astro/Star/Capricorni-6.private.md) 
+- [Capricorni-6.personal](../../../_personal/astro/Star/Capricorni-6.personal.md) 
+- [Capricorni-6.secret](../../../_secret/astro/Star/Capricorni-6.secret.md)
 

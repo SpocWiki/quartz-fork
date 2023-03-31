@@ -1,14 +1,12 @@
-﻿---
-title: "Canis Majoris-10"
+---
+aliases: 
 location: [-32.51,102.45,800]
 type: Station
 tags:
 - astro/Star
 
+title: Canis_Majoris-10
 ---
-
-# Canis Majoris-10
-
 SpocWebEntityId: 27692
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::10]
 [ZodiacId::28096]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Canis_Majoris-10](../../../_public/astro/Star/Canis_Majoris-10.md) 
+- [Canis_Majoris-10.internal](../../../_internal/astro/Star/Canis_Majoris-10.internal.md) 
+- [Canis_Majoris-10.protect](../../../_protect/astro/Star/Canis_Majoris-10.protect.md) 
+- [Canis_Majoris-10.private](../../../_private/astro/Star/Canis_Majoris-10.private.md) 
+- [Canis_Majoris-10.personal](../../../_personal/astro/Star/Canis_Majoris-10.personal.md) 
+- [Canis_Majoris-10.secret](../../../_secret/astro/Star/Canis_Majoris-10.secret.md)
 

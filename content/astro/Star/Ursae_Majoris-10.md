@@ -1,14 +1,12 @@
-﻿---
-title: "Ursae Majoris-10"
+---
+aliases: 
 location: [47.16,-224.1,120]
 type: Station
 tags:
 - astro/Star
 
+title: Ursae_Majoris-10
 ---
-
-# Ursae Majoris-10
-
 SpocWebEntityId: 27544
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Ursae_Majoris-10](../../../_public/astro/Star/Ursae_Majoris-10.md) 
+- [Ursae_Majoris-10.internal](../../../_internal/astro/Star/Ursae_Majoris-10.internal.md) 
+- [Ursae_Majoris-10.protect](../../../_protect/astro/Star/Ursae_Majoris-10.protect.md) 
+- [Ursae_Majoris-10.private](../../../_private/astro/Star/Ursae_Majoris-10.private.md) 
+- [Ursae_Majoris-10.personal](../../../_personal/astro/Star/Ursae_Majoris-10.personal.md) 
+- [Ursae_Majoris-10.secret](../../../_secret/astro/Star/Ursae_Majoris-10.secret.md) 

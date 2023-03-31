@@ -1,14 +1,12 @@
-﻿---
-title: "Algieba"
+---
+aliases: 
 location: [19.84,155,150]
 type: Station
 tags:
 - astro/Star
 
+title: Algieba
 ---
-
-# Algieba
-
 SpocWebEntityId: 27289
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28128]
 [NextStarId::27527]
+
+
+
+## Confidential Links & Embeds: 
+- [Algieba](../../../_public/astro/Star/Algieba.md) 
+- [Algieba.internal](../../../_internal/astro/Star/Algieba.internal.md) 
+- [Algieba.protect](../../../_protect/astro/Star/Algieba.protect.md) 
+- [Algieba.private](../../../_private/astro/Star/Algieba.private.md) 
+- [Algieba.personal](../../../_personal/astro/Star/Algieba.personal.md) 
+- [Algieba.secret](../../../_secret/astro/Star/Algieba.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Wezen"
+---
+aliases: 
 location: [-26.39,107.1,3000]
 type: Station
 tags:
 - astro/Star
 
+title: Wezen
 ---
-
-# Wezen
-
 SpocWebEntityId: 27266
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28096]
 [NextStarId::27523]
 
+
+
+## Confidential Links & Embeds: 
+- [Wezen](../../../_public/astro/Star/Wezen.md) 
+- [Wezen.internal](../../../_internal/astro/Star/Wezen.internal.md) 
+- [Wezen.protect](../../../_protect/astro/Star/Wezen.protect.md) 
+- [Wezen.private](../../../_private/astro/Star/Wezen.private.md) 
+- [Wezen.personal](../../../_personal/astro/Star/Wezen.personal.md) 
+- [Wezen.secret](../../../_secret/astro/Star/Wezen.secret.md) 

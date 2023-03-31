@@ -1,14 +1,12 @@
-﻿---
-title: "Crucis-12"
+---
+aliases: 
 location: [-57.18,-166.35,600]
 type: Station
 tags:
 - astro/Star
 
+title: Crucis-12
 ---
-
-# Crucis-12
-
 SpocWebEntityId: 27618
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::12]
 [ZodiacId::28112]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Crucis-12](../../../_public/astro/Star/Crucis-12.md) 
+- [Crucis-12.internal](../../../_internal/astro/Star/Crucis-12.internal.md) 
+- [Crucis-12.protect](../../../_protect/astro/Star/Crucis-12.protect.md) 
+- [Crucis-12.private](../../../_private/astro/Star/Crucis-12.private.md) 
+- [Crucis-12.personal](../../../_personal/astro/Star/Crucis-12.personal.md) 
+- [Crucis-12.secret](../../../_secret/astro/Star/Crucis-12.secret.md)
 

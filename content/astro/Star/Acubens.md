@@ -1,13 +1,11 @@
-﻿---
-title: "Acubens"
+---
+aliases: 
 location: [11.86,134.625,150]
 type: Station
 tags:
 - astro/Star
+title: Acubens
 ---
-
-# Acubens
-
  in lightyears
  
 SpocWebEntityId: 27887
@@ -28,4 +26,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28094]
 [NextStarId::27694]
+
+
+
+## Confidential Links & Embeds: 
+- [Acubens](../../../_public/astro/Star/Acubens.md) 
+- [Acubens.internal](../../../_internal/astro/Star/Acubens.internal.md) 
+- [Acubens.protect](../../../_protect/astro/Star/Acubens.protect.md) 
+- [Acubens.private](../../../_private/astro/Star/Acubens.private.md) 
+- [Acubens.personal](../../../_personal/astro/Star/Acubens.personal.md) 
+- [Acubens.secret](../../../_secret/astro/Star/Acubens.secret.md)
 

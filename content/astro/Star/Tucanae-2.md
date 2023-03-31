@@ -1,14 +1,12 @@
-﻿---
-title: "Tucanae-2"
+---
+aliases: 
 location: [-62.96,7.9,150]
 type: Station
 tags:
 - astro/Star
 
+title: Tucanae-2
 ---
-
-# Tucanae-2
-
 SpocWebEntityId: 27614
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28164]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Tucanae-2](../../../_public/astro/Star/Tucanae-2.md) 
+- [Tucanae-2.internal](../../../_internal/astro/Star/Tucanae-2.internal.md) 
+- [Tucanae-2.protect](../../../_protect/astro/Star/Tucanae-2.protect.md) 
+- [Tucanae-2.private](../../../_private/astro/Star/Tucanae-2.private.md) 
+- [Tucanae-2.personal](../../../_personal/astro/Star/Tucanae-2.personal.md) 
+- [Tucanae-2.secret](../../../_secret/astro/Star/Tucanae-2.secret.md) 

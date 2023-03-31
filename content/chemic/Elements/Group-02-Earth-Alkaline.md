@@ -1,15 +1,17 @@
-﻿---
-title: "Group-02-Earth-Alkaline"
+---
+aliases: 
+tags: 
 type: ElementGroup
+title: Group-02-Earth-Alkaline
 ---
 #chemic/Group 
 
-2) [Beryllium](Group-02-Earth-Alkaline/Beryllium.md)
-3) [Magnesium](Group-02-Earth-Alkaline/Magnesium.md)
-4) [Calcium](Group-02-Earth-Alkaline/Calcium.md)
-5) [Strontium](Group-02-Earth-Alkaline/Strontium.md)
-6) [Barium](Group-02-Earth-Alkaline/Barium.md)
-7) [Radium](Group-02-Earth-Alkaline/Radium.md)
+2) [Beryllium](chemic/Elements/Group-02-Earth-Alkaline/Beryllium.md)
+3) [Magnesium](chemic/Elements/Group-02-Earth-Alkaline/Magnesium.md)
+4) [Calcium](chemic/Elements/Group-02-Earth-Alkaline/Calcium.md)
+5) [Strontium](chemic/Elements/Group-02-Earth-Alkaline/Strontium.md)
+6) [Barium](chemic/Elements/Group-02-Earth-Alkaline/Barium.md)
+7) [Radium](chemic/Elements/Group-02-Earth-Alkaline/Radium.md)
 
 
 > The alkaline earth metals are six chemical elements in group 2 of the periodic table. They are beryllium (Be), magnesium (Mg), calcium (Ca), strontium (Sr), barium (Ba), and radium (Ra). The elements have very similar properties: they are all shiny, silvery-white, somewhat reactive metals at standard temperature and pressure.Structurally, they (together with helium) have in common an outer s-orbital which is full—
@@ -18,3 +20,11 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkaline%20earth%20metal)
  
+
+## Confidential Links & Embeds: 
+- [Group-02-Earth-Alkaline](../../../_public/chemic/Elements/Group-02-Earth-Alkaline.md) 
+- [Group-02-Earth-Alkaline.internal](../../../_internal/chemic/Elements/Group-02-Earth-Alkaline.internal.md) 
+- [Group-02-Earth-Alkaline.protect](../../../_protect/chemic/Elements/Group-02-Earth-Alkaline.protect.md) 
+- [Group-02-Earth-Alkaline.private](../../../_private/chemic/Elements/Group-02-Earth-Alkaline.private.md) 
+- [Group-02-Earth-Alkaline.personal](../../../_personal/chemic/Elements/Group-02-Earth-Alkaline.personal.md) 
+- [Group-02-Earth-Alkaline.secret](../../../_secret/chemic/Elements/Group-02-Earth-Alkaline.secret.md) 

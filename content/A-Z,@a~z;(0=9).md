@@ -1,5 +1,7 @@
-﻿---
-title: Alphabetic Alpha-Z,@a~z;(0=9)
+---
+aliases: 
+tags: 
+title: Alpha-Z,@a~z;(0=9) 
 ---
 
 #Alpha

@@ -1,5 +1,4 @@
-﻿---
-title: "philosophy"
+---
 title: "Quartz Philosophy"
 ---
 

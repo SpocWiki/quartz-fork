@@ -1,14 +1,12 @@
-﻿---
-title: "Herculis-3"
+---
+aliases: 
 location: [19.15,-114.525,150]
 type: Station
 tags:
 - astro/Star
 
+title: Herculis-3
 ---
-
-# Herculis-3
-
 SpocWebEntityId: 27653
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28122]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Herculis-3](../../../_public/astro/Star/Herculis-3.md) 
+- [Herculis-3.internal](../../../_internal/astro/Star/Herculis-3.internal.md) 
+- [Herculis-3.protect](../../../_protect/astro/Star/Herculis-3.protect.md) 
+- [Herculis-3.private](../../../_private/astro/Star/Herculis-3.private.md) 
+- [Herculis-3.personal](../../../_personal/astro/Star/Herculis-3.personal.md) 
+- [Herculis-3.secret](../../../_secret/astro/Star/Herculis-3.secret.md)
 

@@ -1,11 +1,13 @@
-﻿---
-title: "Lead"
+---
+aliases: 
+tags: 
 type: Element
 SpocWebEntityId: 21977
+title: Lead
 ---
 
 #chemic/Element 
-[GroupName::[Group-14-Carbon](../Group-14-Carbon.md)]
+[GroupName::[Group-14-Carbon](chemic/Elements/Group-14-Carbon.md)]
 
 [Name-en::Lead]
 [Name-de::Blei]
@@ -37,3 +39,11 @@ SpocWebEntityId: 21977
 > Lead's toxicity became widely recognized in the late 19th century, although a number of well-educated ancient Greek and Roman writers were aware of this fact and even knew some of the symptoms of lead poisoning. Lead is a neurotoxin that accumulates in soft tissues and bones; it damages the nervous system and interferes with the function of biological enzymes, causing neurological disorders ranging from behavioral problems to brain damage, and also affects general health, cardiovascular, and renal systems.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lead)
+
+## Confidential Links & Embeds: 
+- [Lead](../../../../_public/chemic/Elements/Group-14-Carbon/Lead.md) 
+- [Lead.internal](../../../../_internal/chemic/Elements/Group-14-Carbon/Lead.internal.md) 
+- [Lead.protect](../../../../_protect/chemic/Elements/Group-14-Carbon/Lead.protect.md) 
+- [Lead.private](../../../../_private/chemic/Elements/Group-14-Carbon/Lead.private.md) 
+- [Lead.personal](../../../../_personal/chemic/Elements/Group-14-Carbon/Lead.personal.md) 
+- [Lead.secret](../../../../_secret/chemic/Elements/Group-14-Carbon/Lead.secret.md) 

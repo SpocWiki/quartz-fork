@@ -1,0 +1,28 @@
+---
+type: TrizContradiction
+aliases:
+- Complexity+Extraction-Energy-Loss
+license: CC BY-SA 4.0
+copyright: https://github.com/SpocWeb
+IsDeleted: false
+IsReadOnly: false
+Confidential: public
+tags: 
+- Triz/Contradiction
+title: Triz-Complexity+Extraction-Energy-Loss
+---
+[name::Complexity+Extraction-Energy-Loss]
+[SpocWebEntityId::26354]
++ [pro::[Triz-Complexity](tech/Triz/Parameter/Triz-Complexity.md)]
+[Triz-Principle::[Triz-Extraction](tech/Triz/Principle/Triz-Extraction.md)]
+- [con::Energy-Loss]
+
+
+
+## Confidential Links & Embeds: 
+- [Triz-Complexity+Extraction-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Extraction-Energy-Loss.md) 
+- [Triz-Complexity+Extraction-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Extraction-Energy-Loss.internal.md) 
+- [Triz-Complexity+Extraction-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Extraction-Energy-Loss.protect.md) 
+- [Triz-Complexity+Extraction-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Extraction-Energy-Loss.private.md) 
+- [Triz-Complexity+Extraction-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Extraction-Energy-Loss.personal.md) 
+- [Triz-Complexity+Extraction-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Extraction-Energy-Loss.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Alnitak"
+---
+aliases: 
 location: [-1.94,85.2,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Alnitak
 ---
-
-# Alnitak
-
 SpocWebEntityId: 27265
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::6]
 [ZodiacId::28142]
 [NextStarId::27237]
+
+
+
+## Confidential Links & Embeds: 
+- [Alnitak](../../../_public/astro/Star/Alnitak.md) 
+- [Alnitak.internal](../../../_internal/astro/Star/Alnitak.internal.md) 
+- [Alnitak.protect](../../../_protect/astro/Star/Alnitak.protect.md) 
+- [Alnitak.private](../../../_private/astro/Star/Alnitak.private.md) 
+- [Alnitak.personal](../../../_personal/astro/Star/Alnitak.personal.md) 
+- [Alnitak.secret](../../../_secret/astro/Star/Alnitak.secret.md)
 

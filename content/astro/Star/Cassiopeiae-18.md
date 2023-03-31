@@ -1,14 +1,12 @@
-﻿---
-title: "Cassiopeiae-18"
+---
+aliases: 
 location: [55.76,-0.25,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Cassiopeiae-18
 ---
-
-# Cassiopeiae-18
-
 SpocWebEntityId: 28022
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::18]
 [ZodiacId::28100]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Cassiopeiae-18](../../../_public/astro/Star/Cassiopeiae-18.md) 
+- [Cassiopeiae-18.internal](../../../_internal/astro/Star/Cassiopeiae-18.internal.md) 
+- [Cassiopeiae-18.protect](../../../_protect/astro/Star/Cassiopeiae-18.protect.md) 
+- [Cassiopeiae-18.private](../../../_private/astro/Star/Cassiopeiae-18.private.md) 
+- [Cassiopeiae-18.personal](../../../_personal/astro/Star/Cassiopeiae-18.personal.md) 
+- [Cassiopeiae-18.secret](../../../_secret/astro/Star/Cassiopeiae-18.secret.md)
 

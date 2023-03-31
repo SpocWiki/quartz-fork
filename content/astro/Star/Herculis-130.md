@@ -1,14 +1,12 @@
-﻿---
-title: "Herculis-130"
+---
+aliases: 
 location: [41.88,-112.85,400]
 type: Station
 tags:
 - astro/Star
 
+title: Herculis-130
 ---
-
-# Herculis-130
-
 SpocWebEntityId: 27869
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::130]
 [ZodiacId::28122]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Herculis-130](../../../_public/astro/Star/Herculis-130.md) 
+- [Herculis-130.internal](../../../_internal/astro/Star/Herculis-130.internal.md) 
+- [Herculis-130.protect](../../../_protect/astro/Star/Herculis-130.protect.md) 
+- [Herculis-130.private](../../../_private/astro/Star/Herculis-130.private.md) 
+- [Herculis-130.personal](../../../_personal/astro/Star/Herculis-130.personal.md) 
+- [Herculis-130.secret](../../../_secret/astro/Star/Herculis-130.secret.md)
 

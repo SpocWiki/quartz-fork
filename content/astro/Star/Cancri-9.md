@@ -1,14 +1,12 @@
-﻿---
-title: "Cancri-9"
+---
+aliases: 
 location: [28.76,131.675,300]
 type: Station
 tags:
 - astro/Star
 
+title: Cancri-9
 ---
-
-# Cancri-9
-
 SpocWebEntityId: 27695
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::9]
 [ZodiacId::28094]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Cancri-9](../../../_public/astro/Star/Cancri-9.md) 
+- [Cancri-9.internal](../../../_internal/astro/Star/Cancri-9.internal.md) 
+- [Cancri-9.protect](../../../_protect/astro/Star/Cancri-9.protect.md) 
+- [Cancri-9.private](../../../_private/astro/Star/Cancri-9.private.md) 
+- [Cancri-9.personal](../../../_personal/astro/Star/Cancri-9.personal.md) 
+- [Cancri-9.secret](../../../_secret/astro/Star/Cancri-9.secret.md)
 

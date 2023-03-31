@@ -1,14 +1,12 @@
-﻿---
-title: "Canis Majoris-8"
+---
+aliases: 
 location: [-12.04,103.55,200]
 type: Station
 tags:
 - astro/Star
 
+title: Canis_Majoris-8
 ---
-
-# Canis Majoris-8
-
 SpocWebEntityId: 27806
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::8]
 [ZodiacId::28096]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Canis_Majoris-8](../../../_public/astro/Star/Canis_Majoris-8.md) 
+- [Canis_Majoris-8.internal](../../../_internal/astro/Star/Canis_Majoris-8.internal.md) 
+- [Canis_Majoris-8.protect](../../../_protect/astro/Star/Canis_Majoris-8.protect.md) 
+- [Canis_Majoris-8.private](../../../_private/astro/Star/Canis_Majoris-8.private.md) 
+- [Canis_Majoris-8.personal](../../../_personal/astro/Star/Canis_Majoris-8.personal.md) 
+- [Canis_Majoris-8.secret](../../../_secret/astro/Star/Canis_Majoris-8.secret.md)
 

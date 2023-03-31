@@ -1,14 +1,12 @@
-﻿---
-title: "Suhail Al Muhlif"
+---
+aliases: 
 location: [-47.34,122.375,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Suhail_Al_Muhlif
 ---
-
-# Suhail Al Muhlif
-
 SpocWebEntityId: 27252
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28167]
 [NextStarId::27299]
 
+
+
+## Confidential Links & Embeds: 
+- [Suhail_Al_Muhlif](../../../_public/astro/Star/Suhail_Al_Muhlif.md) 
+- [Suhail_Al_Muhlif.internal](../../../_internal/astro/Star/Suhail_Al_Muhlif.internal.md) 
+- [Suhail_Al_Muhlif.protect](../../../_protect/astro/Star/Suhail_Al_Muhlif.protect.md) 
+- [Suhail_Al_Muhlif.private](../../../_private/astro/Star/Suhail_Al_Muhlif.private.md) 
+- [Suhail_Al_Muhlif.personal](../../../_personal/astro/Star/Suhail_Al_Muhlif.personal.md) 
+- [Suhail_Al_Muhlif.secret](../../../_secret/astro/Star/Suhail_Al_Muhlif.secret.md) 

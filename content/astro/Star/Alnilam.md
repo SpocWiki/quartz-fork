@@ -1,14 +1,12 @@
-﻿---
-title: "Alnilam"
+---
+aliases: 
 location: [-1.2,84.05,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Alnilam
 ---
-
-# Alnilam
-
 SpocWebEntityId: 27259
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::5]
 [ZodiacId::28142]
 [NextStarId::27265]
+
+
+
+## Confidential Links & Embeds: 
+- [Alnilam](../../../_public/astro/Star/Alnilam.md) 
+- [Alnilam.internal](../../../_internal/astro/Star/Alnilam.internal.md) 
+- [Alnilam.protect](../../../_protect/astro/Star/Alnilam.protect.md) 
+- [Alnilam.private](../../../_private/astro/Star/Alnilam.private.md) 
+- [Alnilam.personal](../../../_personal/astro/Star/Alnilam.personal.md) 
+- [Alnilam.secret](../../../_secret/astro/Star/Alnilam.secret.md)
 

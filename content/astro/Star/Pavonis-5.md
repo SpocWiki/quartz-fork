@@ -1,14 +1,12 @@
-﻿---
-title: "Pavonis-5"
+---
+aliases: 
 location: [-72.91,-59.85,120]
 type: Station
 tags:
 - astro/Star
 
+title: Pavonis-5
 ---
-
-# Pavonis-5
-
 SpocWebEntityId: 27783
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28143]
 [NextStarId::27510]
 
+
+
+## Confidential Links & Embeds: 
+- [Pavonis-5](../../../_public/astro/Star/Pavonis-5.md) 
+- [Pavonis-5.internal](../../../_internal/astro/Star/Pavonis-5.internal.md) 
+- [Pavonis-5.protect](../../../_protect/astro/Star/Pavonis-5.protect.md) 
+- [Pavonis-5.private](../../../_private/astro/Star/Pavonis-5.private.md) 
+- [Pavonis-5.personal](../../../_personal/astro/Star/Pavonis-5.personal.md) 
+- [Pavonis-5.secret](../../../_secret/astro/Star/Pavonis-5.secret.md) 

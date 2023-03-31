@@ -1,14 +1,12 @@
-﻿---
-title: "Mira"
+---
+aliases: 
 location: [-2.98,34.825,100]
 type: Station
 tags:
 - astro/Star
 
+title: Mira
 ---
-
-# Mira
-
 SpocWebEntityId: 27278
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28103]
 [NextStarId::27592]
 
+
+
+## Confidential Links & Embeds: 
+- [Mira](../../../_public/astro/Star/Mira.md) 
+- [Mira.internal](../../../_internal/astro/Star/Mira.internal.md) 
+- [Mira.protect](../../../_protect/astro/Star/Mira.protect.md) 
+- [Mira.private](../../../_private/astro/Star/Mira.private.md) 
+- [Mira.personal](../../../_personal/astro/Star/Mira.personal.md) 
+- [Mira.secret](../../../_secret/astro/Star/Mira.secret.md) 

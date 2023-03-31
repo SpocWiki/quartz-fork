@@ -1,14 +1,12 @@
-﻿---
-title: "Geminorum-8"
+---
+aliases: 
 location: [33.96,103.2,150]
 type: Station
 tags:
 - astro/Star
 
+title: Geminorum-8
 ---
-
-# Geminorum-8
-
 SpocWebEntityId: 27559
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::8]
 [ZodiacId::28120]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Geminorum-8](../../../_public/astro/Star/Geminorum-8.md) 
+- [Geminorum-8.internal](../../../_internal/astro/Star/Geminorum-8.internal.md) 
+- [Geminorum-8.protect](../../../_protect/astro/Star/Geminorum-8.protect.md) 
+- [Geminorum-8.private](../../../_private/astro/Star/Geminorum-8.private.md) 
+- [Geminorum-8.personal](../../../_personal/astro/Star/Geminorum-8.personal.md) 
+- [Geminorum-8.secret](../../../_secret/astro/Star/Geminorum-8.secret.md)
 

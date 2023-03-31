@@ -1,14 +1,12 @@
-﻿---
-title: "Gruis-2"
+---
+aliases: 
 location: [-46.88,-19.325,150]
 type: Station
 tags:
 - astro/Star
 
+title: Gruis-2
 ---
-
-# Gruis-2
-
 SpocWebEntityId: 27293
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28121]
 [NextStarId::27542]
+
+
+
+## Confidential Links & Embeds: 
+- [Gruis-2](../../../_public/astro/Star/Gruis-2.md) 
+- [Gruis-2.internal](../../../_internal/astro/Star/Gruis-2.internal.md) 
+- [Gruis-2.protect](../../../_protect/astro/Star/Gruis-2.protect.md) 
+- [Gruis-2.private](../../../_private/astro/Star/Gruis-2.private.md) 
+- [Gruis-2.personal](../../../_personal/astro/Star/Gruis-2.personal.md) 
+- [Gruis-2.secret](../../../_secret/astro/Star/Gruis-2.secret.md)
 

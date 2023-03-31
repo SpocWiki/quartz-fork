@@ -1,14 +1,12 @@
-﻿---
-title: "Achernar"
+---
+aliases: 
 location: [-57.24,24.425,90]
 type: Station
 tags:
 - astro/Star
 
+title: Achernar
 ---
-
-# Achernar
-
 SpocWebEntityId: 27239
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28118]
 [NextStarId::27615]
+
+
+
+## Confidential Links & Embeds: 
+- [Achernar](../../../_public/astro/Star/Achernar.md) 
+- [Achernar.internal](../../../_internal/astro/Star/Achernar.internal.md) 
+- [Achernar.protect](../../../_protect/astro/Star/Achernar.protect.md) 
+- [Achernar.private](../../../_private/astro/Star/Achernar.private.md) 
+- [Achernar.personal](../../../_personal/astro/Star/Achernar.personal.md) 
+- [Achernar.secret](../../../_secret/astro/Star/Achernar.secret.md)
 

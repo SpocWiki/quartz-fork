@@ -1,14 +1,12 @@
-﻿---
-title: "Carinae-49"
+---
+aliases: 
 location: [-62.79,143.05,500]
 type: Station
 tags:
 - astro/Star
 
+title: Carinae-49
 ---
-
-# Carinae-49
-
 SpocWebEntityId: 27721
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::49]
 [ZodiacId::28099]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Carinae-49](../../../_public/astro/Star/Carinae-49.md) 
+- [Carinae-49.internal](../../../_internal/astro/Star/Carinae-49.internal.md) 
+- [Carinae-49.protect](../../../_protect/astro/Star/Carinae-49.protect.md) 
+- [Carinae-49.private](../../../_private/astro/Star/Carinae-49.private.md) 
+- [Carinae-49.personal](../../../_personal/astro/Star/Carinae-49.personal.md) 
+- [Carinae-49.secret](../../../_secret/astro/Star/Carinae-49.secret.md)
 

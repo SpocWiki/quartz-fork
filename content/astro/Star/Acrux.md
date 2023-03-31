@@ -1,14 +1,12 @@
-﻿---
-title: "Acrux"
+---
+aliases: 
 location: [-63.1,-173.35,400]
 type: Station
 tags:
 - astro/Star
 
+title: Acrux
 ---
-
-# Acrux
-
 SpocWebEntityId: 27242
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28112]
 [NextStarId::27256]
+
+
+
+## Confidential Links & Embeds: 
+- [Acrux](../../../_public/astro/Star/Acrux.md) 
+- [Acrux.internal](../../../_internal/astro/Star/Acrux.internal.md) 
+- [Acrux.protect](../../../_protect/astro/Star/Acrux.protect.md) 
+- [Acrux.private](../../../_private/astro/Star/Acrux.private.md) 
+- [Acrux.personal](../../../_personal/astro/Star/Acrux.personal.md) 
+- [Acrux.secret](../../../_secret/astro/Star/Acrux.secret.md)
 

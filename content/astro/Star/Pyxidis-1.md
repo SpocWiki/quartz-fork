@@ -1,14 +1,12 @@
-﻿---
-title: "Pyxidis-1"
+---
+aliases: 
 location: [-33.19,130.9,1200]
 type: Station
 tags:
 - astro/Star
 
+title: Pyxidis-1
 ---
-
-# Pyxidis-1
-
 SpocWebEntityId: 27600
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28151]
 [NextStarId::27756]
 
+
+
+## Confidential Links & Embeds: 
+- [Pyxidis-1](../../../_public/astro/Star/Pyxidis-1.md) 
+- [Pyxidis-1.internal](../../../_internal/astro/Star/Pyxidis-1.internal.md) 
+- [Pyxidis-1.protect](../../../_protect/astro/Star/Pyxidis-1.protect.md) 
+- [Pyxidis-1.private](../../../_private/astro/Star/Pyxidis-1.private.md) 
+- [Pyxidis-1.personal](../../../_personal/astro/Star/Pyxidis-1.personal.md) 
+- [Pyxidis-1.secret](../../../_secret/astro/Star/Pyxidis-1.secret.md) 

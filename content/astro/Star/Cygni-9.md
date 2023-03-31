@@ -1,14 +1,12 @@
-﻿---
-title: "Cygni-9"
+---
+aliases: 
 location: [51.73,-67.575,100]
 type: Station
 tags:
 - astro/Star
 
+title: Cygni-9
 ---
-
-# Cygni-9
-
 SpocWebEntityId: 27635
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::9]
 [ZodiacId::28113]
 [NextStarId::27939]
+
+
+
+## Confidential Links & Embeds: 
+- [Cygni-9](../../../_public/astro/Star/Cygni-9.md) 
+- [Cygni-9.internal](../../../_internal/astro/Star/Cygni-9.internal.md) 
+- [Cygni-9.protect](../../../_protect/astro/Star/Cygni-9.protect.md) 
+- [Cygni-9.private](../../../_private/astro/Star/Cygni-9.private.md) 
+- [Cygni-9.personal](../../../_personal/astro/Star/Cygni-9.personal.md) 
+- [Cygni-9.secret](../../../_secret/astro/Star/Cygni-9.secret.md)
 

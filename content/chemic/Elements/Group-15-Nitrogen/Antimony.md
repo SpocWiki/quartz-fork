@@ -1,12 +1,14 @@
-﻿---
-title: "Antimony"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21947
+title: Antimony
 ---
 
 #chemic/Element 
-[GroupName::[Group-15-Nitrogen](../Group-15-Nitrogen.md)]
+[GroupName::[Group-15-Nitrogen](chemic/Elements/Group-15-Nitrogen.md)]
 
 [Name-en::Antimony]
 [Name-de::Antimon]
@@ -35,3 +37,11 @@ SpocWebEntityId: 21947
 > The largest applications for metallic antimony are in alloys with lead and tin, which have improved properties for solders, bullets, and plain bearings. It improves the rigidity of lead-alloy plates in lead–acid batteries. Antimony trioxide is a prominent additive for halogen-containing flame retardants. Antimony is used as a dopant in semiconductor devices.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antimony)
+
+## Confidential Links & Embeds: 
+- [Antimony](../../../../_public/chemic/Elements/Group-15-Nitrogen/Antimony.md) 
+- [Antimony.internal](../../../../_internal/chemic/Elements/Group-15-Nitrogen/Antimony.internal.md) 
+- [Antimony.protect](../../../../_protect/chemic/Elements/Group-15-Nitrogen/Antimony.protect.md) 
+- [Antimony.private](../../../../_private/chemic/Elements/Group-15-Nitrogen/Antimony.private.md) 
+- [Antimony.personal](../../../../_personal/chemic/Elements/Group-15-Nitrogen/Antimony.personal.md) 
+- [Antimony.secret](../../../../_secret/chemic/Elements/Group-15-Nitrogen/Antimony.secret.md) 

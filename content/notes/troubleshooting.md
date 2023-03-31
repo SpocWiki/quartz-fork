@@ -1,6 +1,5 @@
-﻿---
+---
 title: "troubleshooting"
-title: "Troubleshooting and FAQ"
 ---
 
 # troubleshooting

@@ -1,12 +1,14 @@
-﻿---
-title: "Nitrogen"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21909
+title: Nitrogen
 ---
 
 #chemic/Element 
-[GroupName::[Group-15-Nitrogen](../Group-15-Nitrogen.md)]
+[GroupName::[Group-15-Nitrogen](chemic/Elements/Group-15-Nitrogen.md)]
 
 [Name-en::Nitrogen]
 [Name-de::Stickstoff]
@@ -36,3 +38,11 @@ SpocWebEntityId: 21909
 > Apart from its use in fertilisers and energy stores, nitrogen is a constituent of organic compounds as diverse as Kevlar used in high-strength fabric and cyanoacrylate used in superglue. Nitrogen is a constituent of every major pharmacological drug class, including antibiotics. Many drugs are mimics or prodrugs of natural nitrogen-containing signal molecules: for example, the organic nitrates nitroglycerin and nitroprusside control blood pressure by metabolizing into nitric oxide. Many notable nitrogen-containing drugs, such as the natural caffeine and morphine or the synthetic amphetamines, act on receptors of animal neurotransmitters.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitrogen)
+
+## Confidential Links & Embeds: 
+- [Nitrogen](../../../../_public/chemic/Elements/Group-15-Nitrogen/Nitrogen.md) 
+- [Nitrogen.internal](../../../../_internal/chemic/Elements/Group-15-Nitrogen/Nitrogen.internal.md) 
+- [Nitrogen.protect](../../../../_protect/chemic/Elements/Group-15-Nitrogen/Nitrogen.protect.md) 
+- [Nitrogen.private](../../../../_private/chemic/Elements/Group-15-Nitrogen/Nitrogen.private.md) 
+- [Nitrogen.personal](../../../../_personal/chemic/Elements/Group-15-Nitrogen/Nitrogen.personal.md) 
+- [Nitrogen.secret](../../../../_secret/chemic/Elements/Group-15-Nitrogen/Nitrogen.secret.md) 

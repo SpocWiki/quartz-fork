@@ -1,14 +1,12 @@
-﻿---
-title: "Herculis-18"
+---
+aliases: 
 location: [42.44,-111.475,200]
 type: Station
 tags:
 - astro/Star
 
+title: Herculis-18
 ---
-
-# Herculis-18
-
 SpocWebEntityId: 27838
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::18]
 [ZodiacId::28122]
 [NextStarId::27515]
+
+
+
+## Confidential Links & Embeds: 
+- [Herculis-18](../../../_public/astro/Star/Herculis-18.md) 
+- [Herculis-18.internal](../../../_internal/astro/Star/Herculis-18.internal.md) 
+- [Herculis-18.protect](../../../_protect/astro/Star/Herculis-18.protect.md) 
+- [Herculis-18.private](../../../_private/astro/Star/Herculis-18.private.md) 
+- [Herculis-18.personal](../../../_personal/astro/Star/Herculis-18.personal.md) 
+- [Herculis-18.secret](../../../_secret/astro/Star/Herculis-18.secret.md)
 

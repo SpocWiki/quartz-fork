@@ -1,14 +1,12 @@
-﻿---
-title: "Tauri-11"
+---
+aliases: 
 location: [12.49,60.175,300]
 type: Station
 tags:
 - astro/Star
 
+title: Tauri-11
 ---
-
-# Tauri-11
-
 SpocWebEntityId: 27487
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::27594]
 
+
+
+## Confidential Links & Embeds: 
+- [Tauri-11](../../../_public/astro/Star/Tauri-11.md) 
+- [Tauri-11.internal](../../../_internal/astro/Star/Tauri-11.internal.md) 
+- [Tauri-11.protect](../../../_protect/astro/Star/Tauri-11.protect.md) 
+- [Tauri-11.private](../../../_private/astro/Star/Tauri-11.private.md) 
+- [Tauri-11.personal](../../../_personal/astro/Star/Tauri-11.personal.md) 
+- [Tauri-11.secret](../../../_secret/astro/Star/Tauri-11.secret.md) 

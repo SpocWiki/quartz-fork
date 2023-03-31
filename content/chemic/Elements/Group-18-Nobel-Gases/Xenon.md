@@ -1,12 +1,14 @@
-﻿---
-title: "Xenon"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21950
+title: Xenon
 ---
 
 #chemic/Element 
-[GroupName::[Group-18-Nobel-Gases](../Group-18-Nobel-Gases.md)]
+[GroupName::[Group-18-Nobel-Gases](chemic/Elements/Group-18-Nobel-Gases.md)]
 
 [Name-en::Xenon]
 [Name-de::Xenon]
@@ -35,3 +37,12 @@ SpocWebEntityId: 21950
 > [Wikipedia](https://en.wikipedia.org/wiki/Xenon)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Xenon](../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Xenon.md) 
+- [Xenon.internal](../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Xenon.internal.md) 
+- [Xenon.protect](../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Xenon.protect.md) 
+- [Xenon.private](../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Xenon.private.md) 
+- [Xenon.personal](../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Xenon.personal.md) 
+- [Xenon.secret](../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Xenon.secret.md) 

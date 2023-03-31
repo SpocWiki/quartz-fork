@@ -1,14 +1,12 @@
-﻿---
-title: "Phurud"
+---
+aliases: 
 location: [-30.06,95.075,300]
 type: Station
 tags:
 - astro/Star
 
+title: Phurud
 ---
-
-# Phurud
-
 SpocWebEntityId: 27402
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28096]
 [NextStarId::27280]
 
+
+
+## Confidential Links & Embeds: 
+- [Phurud](../../../_public/astro/Star/Phurud.md) 
+- [Phurud.internal](../../../_internal/astro/Star/Phurud.internal.md) 
+- [Phurud.protect](../../../_protect/astro/Star/Phurud.protect.md) 
+- [Phurud.private](../../../_private/astro/Star/Phurud.private.md) 
+- [Phurud.personal](../../../_personal/astro/Star/Phurud.personal.md) 
+- [Phurud.secret](../../../_secret/astro/Star/Phurud.secret.md) 

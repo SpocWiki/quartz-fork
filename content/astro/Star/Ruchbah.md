@@ -1,14 +1,12 @@
-﻿---
-title: "Ruchbah"
+---
+aliases: 
 location: [60.24,21.45,80]
 type: Station
 tags:
 - astro/Star
 
+title: Ruchbah
 ---
-
-# Ruchbah
-
 SpocWebEntityId: 27338
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28100]
 [NextStarId::27482]
 
+
+
+## Confidential Links & Embeds: 
+- [Ruchbah](../../../_public/astro/Star/Ruchbah.md) 
+- [Ruchbah.internal](../../../_internal/astro/Star/Ruchbah.internal.md) 
+- [Ruchbah.protect](../../../_protect/astro/Star/Ruchbah.protect.md) 
+- [Ruchbah.private](../../../_private/astro/Star/Ruchbah.private.md) 
+- [Ruchbah.personal](../../../_personal/astro/Star/Ruchbah.personal.md) 
+- [Ruchbah.secret](../../../_secret/astro/Star/Ruchbah.secret.md) 

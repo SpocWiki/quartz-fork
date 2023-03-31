@@ -1,12 +1,14 @@
-﻿---
-title: "Carbon"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21480
+title: Carbon
 ---
 
 #chemic/Element 
-[GroupName::[Group-14-Carbon](../Group-14-Carbon.md)]
+[GroupName::[Group-14-Carbon](chemic/Elements/Group-14-Carbon.md)]
 
 [Name-en::Carbon]
 [Name-de::Kohlenstoff]
@@ -32,3 +34,11 @@ SpocWebEntityId: 21480
 > The most common oxidation state of carbon in inorganic compounds is +4, while +2 is found in carbon monoxide and transition metal carbonyl complexes. The largest sources of inorganic carbon are limestones, dolomites and carbon dioxide, but significant quantities occur in organic deposits of coal, peat, oil, and methane clathrates. Carbon forms a vast number of compounds, with almost ten million compounds described to date, and yet that number is but a fraction of the number of theoretically possible compounds under standard conditions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbon)
+
+## Confidential Links & Embeds: 
+- [Carbon](../../../../_public/chemic/Elements/Group-14-Carbon/Carbon.md) 
+- [Carbon.internal](../../../../_internal/chemic/Elements/Group-14-Carbon/Carbon.internal.md) 
+- [Carbon.protect](../../../../_protect/chemic/Elements/Group-14-Carbon/Carbon.protect.md) 
+- [Carbon.private](../../../../_private/chemic/Elements/Group-14-Carbon/Carbon.private.md) 
+- [Carbon.personal](../../../../_personal/chemic/Elements/Group-14-Carbon/Carbon.personal.md) 
+- [Carbon.secret](../../../../_secret/chemic/Elements/Group-14-Carbon/Carbon.secret.md) 

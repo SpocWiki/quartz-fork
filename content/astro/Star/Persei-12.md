@@ -1,14 +1,12 @@
-﻿---
-title: "Persei-12"
+---
+aliases: 
 location: [48.41,63.725,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Persei-12
 ---
-
-# Persei-12
-
 SpocWebEntityId: 27794
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28145]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Persei-12](../../../_public/astro/Star/Persei-12.md) 
+- [Persei-12.internal](../../../_internal/astro/Star/Persei-12.internal.md) 
+- [Persei-12.protect](../../../_protect/astro/Star/Persei-12.protect.md) 
+- [Persei-12.private](../../../_private/astro/Star/Persei-12.private.md) 
+- [Persei-12.personal](../../../_personal/astro/Star/Persei-12.personal.md) 
+- [Persei-12.secret](../../../_secret/astro/Star/Persei-12.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Draconis-12"
+---
+aliases: 
 location: [54.47,-103.675,80]
 type: Station
 tags:
 - astro/Star
 
+title: Draconis-12
 ---
-
-# Draconis-12
-
 SpocWebEntityId: 28048
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::12]
 [ZodiacId::28116]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Draconis-12](../../../_public/astro/Star/Draconis-12.md) 
+- [Draconis-12.internal](../../../_internal/astro/Star/Draconis-12.internal.md) 
+- [Draconis-12.protect](../../../_protect/astro/Star/Draconis-12.protect.md) 
+- [Draconis-12.private](../../../_private/astro/Star/Draconis-12.private.md) 
+- [Draconis-12.personal](../../../_personal/astro/Star/Draconis-12.personal.md) 
+- [Draconis-12.secret](../../../_secret/astro/Star/Draconis-12.secret.md)
 

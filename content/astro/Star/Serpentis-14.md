@@ -1,14 +1,12 @@
-﻿---
-title: "Serpentis-14"
+---
+aliases: 
 location: [-15.4,-95.6,80]
 type: Station
 tags:
 - astro/Star
 
+title: Serpentis-14
 ---
-
-# Serpentis-14
-
 SpocWebEntityId: 27531
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28158]
 [NextStarId::27530]
 
+
+
+## Confidential Links & Embeds: 
+- [Serpentis-14](../../../_public/astro/Star/Serpentis-14.md) 
+- [Serpentis-14.internal](../../../_internal/astro/Star/Serpentis-14.internal.md) 
+- [Serpentis-14.protect](../../../_protect/astro/Star/Serpentis-14.protect.md) 
+- [Serpentis-14.private](../../../_private/astro/Star/Serpentis-14.private.md) 
+- [Serpentis-14.personal](../../../_personal/astro/Star/Serpentis-14.personal.md) 
+- [Serpentis-14.secret](../../../_secret/astro/Star/Serpentis-14.secret.md) 

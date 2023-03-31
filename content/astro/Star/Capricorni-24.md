@@ -1,14 +1,12 @@
-﻿---
-title: "Capricorni-24"
+---
+aliases: 
 location: [-26.92,-47.05,300]
 type: Station
 tags:
 - astro/Star
 
+title: Capricorni-24
 ---
-
-# Capricorni-24
-
 SpocWebEntityId: 27815
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::24]
 [ZodiacId::28098]
 [NextStarId::27814]
+
+
+
+## Confidential Links & Embeds: 
+- [Capricorni-24](../../../_public/astro/Star/Capricorni-24.md) 
+- [Capricorni-24.internal](../../../_internal/astro/Star/Capricorni-24.internal.md) 
+- [Capricorni-24.protect](../../../_protect/astro/Star/Capricorni-24.protect.md) 
+- [Capricorni-24.private](../../../_private/astro/Star/Capricorni-24.private.md) 
+- [Capricorni-24.personal](../../../_personal/astro/Star/Capricorni-24.personal.md) 
+- [Capricorni-24.secret](../../../_secret/astro/Star/Capricorni-24.secret.md)
 

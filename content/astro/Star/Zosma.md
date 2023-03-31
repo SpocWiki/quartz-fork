@@ -1,14 +1,12 @@
-﻿---
-title: "Zosma"
+---
+aliases: 
 location: [20.52,168.525,60]
 type: Station
 tags:
 - astro/Star
 
+title: Zosma
 ---
-
-# Zosma
-
 SpocWebEntityId: 27330
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28128]
 [NextStarId::27289]
 
+
+
+## Confidential Links & Embeds: 
+- [Zosma](../../../_public/astro/Star/Zosma.md) 
+- [Zosma.internal](../../../_internal/astro/Star/Zosma.internal.md) 
+- [Zosma.protect](../../../_protect/astro/Star/Zosma.protect.md) 
+- [Zosma.private](../../../_private/astro/Star/Zosma.private.md) 
+- [Zosma.personal](../../../_personal/astro/Star/Zosma.personal.md) 
+- [Zosma.secret](../../../_secret/astro/Star/Zosma.secret.md) 

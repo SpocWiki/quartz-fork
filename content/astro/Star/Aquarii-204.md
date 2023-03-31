@@ -1,14 +1,12 @@
-﻿---
-title: "Aquarii-204"
+---
+aliases: 
 location: [-17.81,-4.55,1000]
 type: Station
 tags:
 - astro/Star
 
+title: Aquarii-204
 ---
-
-# Aquarii-204
-
 SpocWebEntityId: 27991
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::204]
 [ZodiacId::28086]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Aquarii-204](../../../_public/astro/Star/Aquarii-204.md) 
+- [Aquarii-204.internal](../../../_internal/astro/Star/Aquarii-204.internal.md) 
+- [Aquarii-204.protect](../../../_protect/astro/Star/Aquarii-204.protect.md) 
+- [Aquarii-204.private](../../../_private/astro/Star/Aquarii-204.private.md) 
+- [Aquarii-204.personal](../../../_personal/astro/Star/Aquarii-204.personal.md) 
+- [Aquarii-204.secret](../../../_secret/astro/Star/Aquarii-204.secret.md)
 

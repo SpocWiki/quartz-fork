@@ -1,14 +1,12 @@
-﻿---
-title: "Andromedae-11"
+---
+aliases: 
 location: [46.46,-5.6,70]
 type: Station
 tags:
 - astro/Star
 
+title: Andromedae-11
 ---
-
-# Andromedae-11
-
 SpocWebEntityId: 27591
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::11]
 [ZodiacId::28083]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Andromedae-11](../../../_public/astro/Star/Andromedae-11.md) 
+- [Andromedae-11.internal](../../../_internal/astro/Star/Andromedae-11.internal.md) 
+- [Andromedae-11.protect](../../../_protect/astro/Star/Andromedae-11.protect.md) 
+- [Andromedae-11.private](../../../_private/astro/Star/Andromedae-11.private.md) 
+- [Andromedae-11.personal](../../../_personal/astro/Star/Andromedae-11.personal.md) 
+- [Andromedae-11.secret](../../../_secret/astro/Star/Andromedae-11.secret.md)
 

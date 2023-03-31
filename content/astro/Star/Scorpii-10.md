@@ -1,14 +1,12 @@
-﻿---
-title: "Scorpii-10"
+---
+aliases: 
 location: [-39.03,-94.375,400]
 type: Station
 tags:
 - astro/Star
 
+title: Scorpii-10
 ---
-
-# Scorpii-10
-
 SpocWebEntityId: 27320
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27417]
 
+
+
+## Confidential Links & Embeds: 
+- [Scorpii-10](../../../_public/astro/Star/Scorpii-10.md) 
+- [Scorpii-10.internal](../../../_internal/astro/Star/Scorpii-10.internal.md) 
+- [Scorpii-10.protect](../../../_protect/astro/Star/Scorpii-10.protect.md) 
+- [Scorpii-10.private](../../../_private/astro/Star/Scorpii-10.private.md) 
+- [Scorpii-10.personal](../../../_personal/astro/Star/Scorpii-10.personal.md) 
+- [Scorpii-10.secret](../../../_secret/astro/Star/Scorpii-10.secret.md) 

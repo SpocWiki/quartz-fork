@@ -1,14 +1,12 @@
-﻿---
-title: "Mensae-1"
+---
+aliases: 
 location: [-74.531,92.563,28]
 type: Station
 tags:
 - astro/Star
 
+title: Mensae-1
 ---
-
-# Mensae-1
-
 SpocWebEntityId: 28054
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28135]
 [NextStarId::28055]
 
+
+
+## Confidential Links & Embeds: 
+- [Mensae-1](../../../_public/astro/Star/Mensae-1.md) 
+- [Mensae-1.internal](../../../_internal/astro/Star/Mensae-1.internal.md) 
+- [Mensae-1.protect](../../../_protect/astro/Star/Mensae-1.protect.md) 
+- [Mensae-1.private](../../../_private/astro/Star/Mensae-1.private.md) 
+- [Mensae-1.personal](../../../_personal/astro/Star/Mensae-1.personal.md) 
+- [Mensae-1.secret](../../../_secret/astro/Star/Mensae-1.secret.md) 

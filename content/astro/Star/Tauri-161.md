@@ -1,14 +1,12 @@
-﻿---
-title: "Tauri-161"
+---
+aliases: 
 location: [17.54,65.725,150]
 type: Station
 tags:
 - astro/Star
 
+title: Tauri-161
 ---
-
-# Tauri-161
-
 SpocWebEntityId: 27640
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::27554]
 
+
+
+## Confidential Links & Embeds: 
+- [Tauri-161](../../../_public/astro/Star/Tauri-161.md) 
+- [Tauri-161.internal](../../../_internal/astro/Star/Tauri-161.internal.md) 
+- [Tauri-161.protect](../../../_protect/astro/Star/Tauri-161.protect.md) 
+- [Tauri-161.private](../../../_private/astro/Star/Tauri-161.private.md) 
+- [Tauri-161.personal](../../../_personal/astro/Star/Tauri-161.personal.md) 
+- [Tauri-161.secret](../../../_secret/astro/Star/Tauri-161.secret.md) 

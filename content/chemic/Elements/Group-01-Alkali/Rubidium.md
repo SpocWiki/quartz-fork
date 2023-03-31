@@ -1,11 +1,13 @@
-﻿---
-title: "Rubidium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21935
+title: Rubidium
 ---
 #chemic/Element 
-[GroupName::[Group-01-Alkali](../Group-01-Alkali.md)]
+[GroupName::[Group-01-Alkali](chemic/Elements/Group-01-Alkali.md)]
 
 [Name-en::Rubidium]
 [Name-de::Rubidium]
@@ -28,3 +30,12 @@ SpocWebEntityId: 21935
 []
 (Charge-e::37)
 
+
+
+## Confidential Links & Embeds: 
+- [Rubidium](../../../../_public/chemic/Elements/Group-01-Alkali/Rubidium.md) 
+- [Rubidium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Rubidium.internal.md) 
+- [Rubidium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Rubidium.protect.md) 
+- [Rubidium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Rubidium.private.md) 
+- [Rubidium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Rubidium.personal.md) 
+- [Rubidium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Rubidium.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Tania Borealis"
+---
+aliases: 
 location: [42.91,-205.725,120]
 type: Station
 tags:
 - astro/Star
 
+title: Tania_Borealis
 ---
-
-# Tania Borealis
-
 SpocWebEntityId: 27511
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Tania_Borealis](../../../_public/astro/Star/Tania_Borealis.md) 
+- [Tania_Borealis.internal](../../../_internal/astro/Star/Tania_Borealis.internal.md) 
+- [Tania_Borealis.protect](../../../_protect/astro/Star/Tania_Borealis.protect.md) 
+- [Tania_Borealis.private](../../../_private/astro/Star/Tania_Borealis.private.md) 
+- [Tania_Borealis.personal](../../../_personal/astro/Star/Tania_Borealis.personal.md) 
+- [Tania_Borealis.secret](../../../_secret/astro/Star/Tania_Borealis.secret.md) 

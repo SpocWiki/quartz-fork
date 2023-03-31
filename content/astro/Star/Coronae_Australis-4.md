@@ -1,14 +1,12 @@
-﻿---
-title: "Coronae Australis-4"
+---
+aliases: 
 location: [-40.5,-72.925,200]
 type: Station
 tags:
 - astro/Star
 
+title: Coronae_Australis-4
 ---
-
-# Coronae Australis-4
-
 SpocWebEntityId: 27970
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::4]
 [ZodiacId::28108]
 [NextStarId::28015]
+
+
+
+## Confidential Links & Embeds: 
+- [Coronae_Australis-4](../../../_public/astro/Star/Coronae_Australis-4.md) 
+- [Coronae_Australis-4.internal](../../../_internal/astro/Star/Coronae_Australis-4.internal.md) 
+- [Coronae_Australis-4.protect](../../../_protect/astro/Star/Coronae_Australis-4.protect.md) 
+- [Coronae_Australis-4.private](../../../_private/astro/Star/Coronae_Australis-4.private.md) 
+- [Coronae_Australis-4.personal](../../../_personal/astro/Star/Coronae_Australis-4.personal.md) 
+- [Coronae_Australis-4.secret](../../../_secret/astro/Star/Coronae_Australis-4.secret.md)
 

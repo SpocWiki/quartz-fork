@@ -1,14 +1,12 @@
-﻿---
-title: "Alderamin"
+---
+aliases: 
 location: [62.59,-40.35,45]
 type: Station
 tags:
 - astro/Star
 
+title: Alderamin
 ---
-
-# Alderamin
-
 SpocWebEntityId: 27312
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28102]
 [NextStarId::27441]
+
+
+
+## Confidential Links & Embeds: 
+- [Alderamin](../../../_public/astro/Star/Alderamin.md) 
+- [Alderamin.internal](../../../_internal/astro/Star/Alderamin.internal.md) 
+- [Alderamin.protect](../../../_protect/astro/Star/Alderamin.protect.md) 
+- [Alderamin.private](../../../_private/astro/Star/Alderamin.private.md) 
+- [Alderamin.personal](../../../_personal/astro/Star/Alderamin.personal.md) 
+- [Alderamin.secret](../../../_secret/astro/Star/Alderamin.secret.md)
 

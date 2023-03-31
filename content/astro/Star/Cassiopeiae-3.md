@@ -1,14 +1,12 @@
-﻿---
-title: "Cassiopeiae-3"
+---
+aliases: 
 location: [60.72,14.175,800]
 type: Station
 tags:
 - astro/Star
 
+title: Cassiopeiae-3
 ---
-
-# Cassiopeiae-3
-
 SpocWebEntityId: 27253
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28100]
 [NextStarId::27338]
+
+
+
+## Confidential Links & Embeds: 
+- [Cassiopeiae-3](../../../_public/astro/Star/Cassiopeiae-3.md) 
+- [Cassiopeiae-3.internal](../../../_internal/astro/Star/Cassiopeiae-3.internal.md) 
+- [Cassiopeiae-3.protect](../../../_protect/astro/Star/Cassiopeiae-3.protect.md) 
+- [Cassiopeiae-3.private](../../../_private/astro/Star/Cassiopeiae-3.private.md) 
+- [Cassiopeiae-3.personal](../../../_personal/astro/Star/Cassiopeiae-3.personal.md) 
+- [Cassiopeiae-3.secret](../../../_secret/astro/Star/Cassiopeiae-3.secret.md)
 

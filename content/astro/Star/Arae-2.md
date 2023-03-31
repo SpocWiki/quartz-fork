@@ -1,14 +1,12 @@
-﻿---
-title: "Arae-2"
+---
+aliases: 
 location: [-55.53,-98.675,800]
 type: Station
 tags:
 - astro/Star
 
+title: Arae-2
 ---
-
-# Arae-2
-
 SpocWebEntityId: 27390
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28088]
 [NextStarId::27478]
+
+
+
+## Confidential Links & Embeds: 
+- [Arae-2](../../../_public/astro/Star/Arae-2.md) 
+- [Arae-2.internal](../../../_internal/astro/Star/Arae-2.internal.md) 
+- [Arae-2.protect](../../../_protect/astro/Star/Arae-2.protect.md) 
+- [Arae-2.private](../../../_private/astro/Star/Arae-2.private.md) 
+- [Arae-2.personal](../../../_personal/astro/Star/Arae-2.personal.md) 
+- [Arae-2.secret](../../../_secret/astro/Star/Arae-2.secret.md)
 

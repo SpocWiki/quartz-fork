@@ -1,14 +1,12 @@
-﻿---
-title: "Virginis-12"
+---
+aliases: 
 location: [-5.66,-139.225,100]
 type: Station
 tags:
 - astro/Star
 
+title: Virginis-12
 ---
-
-# Virginis-12
-
 SpocWebEntityId: 27703
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28168]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Virginis-12](../../../_public/astro/Star/Virginis-12.md) 
+- [Virginis-12.internal](../../../_internal/astro/Star/Virginis-12.internal.md) 
+- [Virginis-12.protect](../../../_protect/astro/Star/Virginis-12.protect.md) 
+- [Virginis-12.private](../../../_private/astro/Star/Virginis-12.private.md) 
+- [Virginis-12.personal](../../../_personal/astro/Star/Virginis-12.personal.md) 
+- [Virginis-12.secret](../../../_secret/astro/Star/Virginis-12.secret.md) 

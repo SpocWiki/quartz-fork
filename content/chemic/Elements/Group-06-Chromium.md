@@ -1,12 +1,14 @@
-﻿---
-title: "Group-06-Chromium"
+---
+aliases: 
+tags: 
 type: ElementGroup
+title: Group-06-Chromium
 ---
 #chemic/Group 
 
-4) [Chromium](Group-06-Chromium/Chromium.md)
-5) [Molybdenum](Group-06-Chromium/Molybdenum.md)
-6) [Tungsten](Group-06-Chromium/Tungsten.md)
+4) [Chromium](chemic/Elements/Group-06-Chromium/Chromium.md)
+5) [Molybdenum](chemic/Elements/Group-06-Chromium/Molybdenum.md)
+6) [Tungsten](chemic/Elements/Group-06-Chromium/Tungsten.md)
 
 
 > Group 6, numbered by IUPAC style, is a group of elements in the periodic table. Its members are chromium (Cr), molybdenum (Mo), tungsten (W), and seaborgium (Sg). These are all transition metals and chromium, molybdenum and tungsten are refractory metals.
@@ -17,3 +19,12 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%206%20element)
 
+
+
+## Confidential Links & Embeds: 
+- [Group-06-Chromium](../../../_public/chemic/Elements/Group-06-Chromium.md) 
+- [Group-06-Chromium.internal](../../../_internal/chemic/Elements/Group-06-Chromium.internal.md) 
+- [Group-06-Chromium.protect](../../../_protect/chemic/Elements/Group-06-Chromium.protect.md) 
+- [Group-06-Chromium.private](../../../_private/chemic/Elements/Group-06-Chromium.private.md) 
+- [Group-06-Chromium.personal](../../../_personal/chemic/Elements/Group-06-Chromium.personal.md) 
+- [Group-06-Chromium.secret](../../../_secret/chemic/Elements/Group-06-Chromium.secret.md) 

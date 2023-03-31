@@ -1,14 +1,12 @@
-﻿---
-title: "Lesath"
+---
+aliases: 
 location: [-37.3,-97.3,600]
 type: Station
 tags:
 - astro/Star
 
+title: Lesath
 ---
-
-# Lesath
-
 SpocWebEntityId: 27352
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27257]
 
+
+
+## Confidential Links & Embeds: 
+- [Lesath](../../../_public/astro/Star/Lesath.md) 
+- [Lesath.internal](../../../_internal/astro/Star/Lesath.internal.md) 
+- [Lesath.protect](../../../_protect/astro/Star/Lesath.protect.md) 
+- [Lesath.private](../../../_private/astro/Star/Lesath.private.md) 
+- [Lesath.personal](../../../_personal/astro/Star/Lesath.personal.md) 
+- [Lesath.secret](../../../_secret/astro/Star/Lesath.secret.md) 

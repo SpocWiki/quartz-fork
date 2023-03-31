@@ -1,12 +1,14 @@
-﻿---
-title: "Neodymium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21956
+title: Neodymium
 ---
 
 #chemic/Element 
-[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
+[GroupName::[Lanthanide-Group](chemic/Elements/Lanthanide-Group.md)]
 
 [Name-en::Neodymium]
 [Name-de::Neodym]
@@ -37,3 +39,12 @@ SpocWebEntityId: 21956
 > [Wikipedia](https://en.wikipedia.org/wiki/Neodymium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Neodymium](../../../../_public/chemic/Elements/Lanthanide-Group/Neodymium.md) 
+- [Neodymium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Neodymium.internal.md) 
+- [Neodymium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Neodymium.protect.md) 
+- [Neodymium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Neodymium.private.md) 
+- [Neodymium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Neodymium.personal.md) 
+- [Neodymium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Neodymium.secret.md) 

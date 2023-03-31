@@ -1,12 +1,14 @@
-﻿---
-title: "Protactinium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21986
+title: Protactinium
 ---
 
 #chemic/Element 
-[GroupName::[Actinide-Group](../Actinide-Group.md)]
+[GroupName::[Actinide-Group](chemic/Elements/Actinide-Group.md)]
 
 
 [Name-en::Protactinium]
@@ -30,3 +32,12 @@ SpocWebEntityId: 21986
 []
 (Charge-e::91)
 
+
+
+## Confidential Links & Embeds: 
+- [Protactinium](../../../../_public/chemic/Elements/Actinide-Group/Protactinium.md) 
+- [Protactinium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Protactinium.internal.md) 
+- [Protactinium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Protactinium.protect.md) 
+- [Protactinium.private](../../../../_private/chemic/Elements/Actinide-Group/Protactinium.private.md) 
+- [Protactinium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Protactinium.personal.md) 
+- [Protactinium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Protactinium.secret.md) 

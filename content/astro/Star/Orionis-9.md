@@ -1,14 +1,12 @@
-﻿---
-title: "Orionis-9"
+---
+aliases: 
 location: [-5.91,83.85,1500]
 type: Station
 tags:
 - astro/Star
 
+title: Orionis-9
 ---
-
-# Orionis-9
-
 SpocWebEntityId: 27360
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Orionis-9](../../../_public/astro/Star/Orionis-9.md) 
+- [Orionis-9.internal](../../../_internal/astro/Star/Orionis-9.internal.md) 
+- [Orionis-9.protect](../../../_protect/astro/Star/Orionis-9.protect.md) 
+- [Orionis-9.private](../../../_private/astro/Star/Orionis-9.private.md) 
+- [Orionis-9.personal](../../../_personal/astro/Star/Orionis-9.personal.md) 
+- [Orionis-9.secret](../../../_secret/astro/Star/Orionis-9.secret.md) 

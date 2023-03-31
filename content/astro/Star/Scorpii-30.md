@@ -1,14 +1,12 @@
-﻿---
-title: "Scorpii-30"
+---
+aliases: 
 location: [-38.02,-106.925,600]
 type: Station
 tags:
 - astro/Star
 
+title: Scorpii-30
 ---
-
-# Scorpii-30
-
 SpocWebEntityId: 27578
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Scorpii-30](../../../_public/astro/Star/Scorpii-30.md) 
+- [Scorpii-30.internal](../../../_internal/astro/Star/Scorpii-30.internal.md) 
+- [Scorpii-30.protect](../../../_protect/astro/Star/Scorpii-30.protect.md) 
+- [Scorpii-30.private](../../../_private/astro/Star/Scorpii-30.private.md) 
+- [Scorpii-30.personal](../../../_personal/astro/Star/Scorpii-30.personal.md) 
+- [Scorpii-30.secret](../../../_secret/astro/Star/Scorpii-30.secret.md) 

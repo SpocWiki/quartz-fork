@@ -1,10 +1,12 @@
-﻿---
-title: "Zinc"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Zinc
 ---
 #chemic/Element 
-[GroupName::[Group-12-Zinc](../Group-12-Zinc.md)]
+[GroupName::[Group-12-Zinc](chemic/Elements/Group-12-Zinc.md)]
 
 [Name-en::Zinc]
 [Name-de::Zink]
@@ -36,3 +38,12 @@ SpocWebEntityId: 21928
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zinc)
 
+
+
+## Confidential Links & Embeds: 
+- [Zinc](../../../../_public/chemic/Elements/Group-12-Zinc/Zinc.md) 
+- [Zinc.internal](../../../../_internal/chemic/Elements/Group-12-Zinc/Zinc.internal.md) 
+- [Zinc.protect](../../../../_protect/chemic/Elements/Group-12-Zinc/Zinc.protect.md) 
+- [Zinc.private](../../../../_private/chemic/Elements/Group-12-Zinc/Zinc.private.md) 
+- [Zinc.personal](../../../../_personal/chemic/Elements/Group-12-Zinc/Zinc.personal.md) 
+- [Zinc.secret](../../../../_secret/chemic/Elements/Group-12-Zinc/Zinc.secret.md) 

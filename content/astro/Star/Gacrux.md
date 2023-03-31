@@ -1,14 +1,12 @@
-﻿---
-title: "Gacrux"
+---
+aliases: 
 location: [-57.11,-172.2,120]
 type: Station
 tags:
 - astro/Star
 
+title: Gacrux
 ---
-
-# Gacrux
-
 SpocWebEntityId: 27256
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28112]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Gacrux](../../../_public/astro/Star/Gacrux.md) 
+- [Gacrux.internal](../../../_internal/astro/Star/Gacrux.internal.md) 
+- [Gacrux.protect](../../../_protect/astro/Star/Gacrux.protect.md) 
+- [Gacrux.private](../../../_private/astro/Star/Gacrux.private.md) 
+- [Gacrux.personal](../../../_personal/astro/Star/Gacrux.personal.md) 
+- [Gacrux.secret](../../../_secret/astro/Star/Gacrux.secret.md)
 

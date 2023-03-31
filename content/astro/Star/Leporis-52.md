@@ -1,14 +1,12 @@
-﻿---
-title: "Leporis-52"
+---
+aliases: 
 location: [-11.85,77.85,500]
 type: Station
 tags:
 - astro/Star
 
+title: Leporis-52
 ---
-
-# Leporis-52
-
 SpocWebEntityId: 28037
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28130]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Leporis-52](../../../_public/astro/Star/Leporis-52.md) 
+- [Leporis-52.internal](../../../_internal/astro/Star/Leporis-52.internal.md) 
+- [Leporis-52.protect](../../../_protect/astro/Star/Leporis-52.protect.md) 
+- [Leporis-52.private](../../../_private/astro/Star/Leporis-52.private.md) 
+- [Leporis-52.personal](../../../_personal/astro/Star/Leporis-52.personal.md) 
+- [Leporis-52.secret](../../../_secret/astro/Star/Leporis-52.secret.md) 

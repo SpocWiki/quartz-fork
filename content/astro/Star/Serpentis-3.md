@@ -1,14 +1,12 @@
-﻿---
-title: "Serpentis-3"
+---
+aliases: 
 location: [15.66,-120.875,40]
 type: Station
 tags:
 - astro/Star
 
+title: Serpentis-3
 ---
-
-# Serpentis-3
-
 SpocWebEntityId: 27705
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28158]
 [NextStarId::27604]
 
+
+
+## Confidential Links & Embeds: 
+- [Serpentis-3](../../../_public/astro/Star/Serpentis-3.md) 
+- [Serpentis-3.internal](../../../_internal/astro/Star/Serpentis-3.internal.md) 
+- [Serpentis-3.protect](../../../_protect/astro/Star/Serpentis-3.protect.md) 
+- [Serpentis-3.private](../../../_private/astro/Star/Serpentis-3.private.md) 
+- [Serpentis-3.personal](../../../_personal/astro/Star/Serpentis-3.personal.md) 
+- [Serpentis-3.secret](../../../_secret/astro/Star/Serpentis-3.secret.md) 

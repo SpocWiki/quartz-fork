@@ -1,14 +1,12 @@
-﻿---
-title: "Edasich"
+---
+aliases: 
 location: [58.97,-128.775,150]
 type: Station
 tags:
 - astro/Star
 
+title: Edasich
 ---
-
-# Edasich
-
 SpocWebEntityId: 27459
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::9]
 [ZodiacId::28116]
 [NextStarId::27744]
+
+
+
+## Confidential Links & Embeds: 
+- [Edasich](../../../_public/astro/Star/Edasich.md) 
+- [Edasich.internal](../../../_internal/astro/Star/Edasich.internal.md) 
+- [Edasich.protect](../../../_protect/astro/Star/Edasich.protect.md) 
+- [Edasich.private](../../../_private/astro/Star/Edasich.private.md) 
+- [Edasich.personal](../../../_personal/astro/Star/Edasich.personal.md) 
+- [Edasich.secret](../../../_secret/astro/Star/Edasich.secret.md)
 

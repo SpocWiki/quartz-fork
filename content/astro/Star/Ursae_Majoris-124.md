@@ -1,14 +1,12 @@
-﻿---
-title: "Ursae Majoris-124"
+---
+aliases: 
 location: [69.83,-216.375,80]
 type: Station
 tags:
 - astro/Star
 
+title: Ursae_Majoris-124
 ---
-
-# Ursae Majoris-124
-
 SpocWebEntityId: 27957
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Ursae_Majoris-124](../../../_public/astro/Star/Ursae_Majoris-124.md) 
+- [Ursae_Majoris-124.internal](../../../_internal/astro/Star/Ursae_Majoris-124.internal.md) 
+- [Ursae_Majoris-124.protect](../../../_protect/astro/Star/Ursae_Majoris-124.protect.md) 
+- [Ursae_Majoris-124.private](../../../_private/astro/Star/Ursae_Majoris-124.private.md) 
+- [Ursae_Majoris-124.personal](../../../_personal/astro/Star/Ursae_Majoris-124.personal.md) 
+- [Ursae_Majoris-124.secret](../../../_secret/astro/Star/Ursae_Majoris-124.secret.md) 

@@ -1,10 +1,12 @@
-﻿---
-title: "Beryllium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Beryllium
 ---
 #chemic/Element 
-[GroupName::[Group-02-Earth-Alkaline](../Group-02-Earth-Alkaline.md)]
+[GroupName::[Group-02-Earth-Alkaline](chemic/Elements/Group-02-Earth-Alkaline.md)]
 
 [Name-de::Beryllium]
 [Weight-u::9.0122]
@@ -31,3 +33,11 @@ SpocWebEntityId: 21907 á à ô
 > The commercial use of beryllium requires the use of appropriate dust control equipment and industrial controls at all times because of the toxicity of inhaled beryllium-containing dusts that can cause a chronic life-threatening allergic disease in some people called berylliosis. Berylliosis causes pneumonia and other associated respiratory illness.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beryllium)
+
+## Confidential Links & Embeds: 
+- [Beryllium](../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.md) 
+- [Beryllium.internal](../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.internal.md) 
+- [Beryllium.protect](../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.protect.md) 
+- [Beryllium.private](../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.private.md) 
+- [Beryllium.personal](../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.personal.md) 
+- [Beryllium.secret](../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Beryllium.secret.md) 

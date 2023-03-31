@@ -1,12 +1,14 @@
-﻿---
-title: "Californium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21993
+title: Californium
 ---
 
 #chemic/Element 
-[GroupName::[Actinide-Group](../Actinide-Group.md)]
+[GroupName::[Actinide-Group](chemic/Elements/Actinide-Group.md)]
 
 
 [Name-en::Californium]
@@ -30,3 +32,12 @@ SpocWebEntityId: 21993
 []
 (Charge-e::98)
 
+
+
+## Confidential Links & Embeds: 
+- [Californium](../../../../_public/chemic/Elements/Actinide-Group/Californium.md) 
+- [Californium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Californium.internal.md) 
+- [Californium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Californium.protect.md) 
+- [Californium.private](../../../../_private/chemic/Elements/Actinide-Group/Californium.private.md) 
+- [Californium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Californium.personal.md) 
+- [Californium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Californium.secret.md) 

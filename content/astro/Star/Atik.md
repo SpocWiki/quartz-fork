@@ -1,14 +1,12 @@
-﻿---
-title: "Atik"
+---
+aliases: 
 location: [32.29,56.075,1000]
 type: Station
 tags:
 - astro/Star
 
+title: Atik
 ---
-
-# Atik
-
 SpocWebEntityId: 27624
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::15]
 [ZodiacId::28145]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Atik](../../../_public/astro/Star/Atik.md) 
+- [Atik.internal](../../../_internal/astro/Star/Atik.internal.md) 
+- [Atik.protect](../../../_protect/astro/Star/Atik.protect.md) 
+- [Atik.private](../../../_private/astro/Star/Atik.private.md) 
+- [Atik.personal](../../../_personal/astro/Star/Atik.personal.md) 
+- [Atik.secret](../../../_secret/astro/Star/Atik.secret.md)
 

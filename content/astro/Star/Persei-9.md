@@ -1,14 +1,12 @@
-﻿---
-title: "Persei-9"
+---
+aliases: 
 location: [49.61,47.275,35]
 type: Station
 tags:
 - astro/Star
 
+title: Persei-9
 ---
-
-# Persei-9
-
 SpocWebEntityId: 27793
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28145]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Persei-9](../../../_public/astro/Star/Persei-9.md) 
+- [Persei-9.internal](../../../_internal/astro/Star/Persei-9.internal.md) 
+- [Persei-9.protect](../../../_protect/astro/Star/Persei-9.protect.md) 
+- [Persei-9.private](../../../_private/astro/Star/Persei-9.private.md) 
+- [Persei-9.personal](../../../_personal/astro/Star/Persei-9.personal.md) 
+- [Persei-9.secret](../../../_secret/astro/Star/Persei-9.secret.md) 

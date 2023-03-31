@@ -1,14 +1,12 @@
-﻿---
-title: "Arae-7"
+---
+aliases: 
 location: [-59.04,-107.55,200]
 type: Station
 tags:
 - astro/Star
 
+title: Arae-7
 ---
-
-# Arae-7
-
 SpocWebEntityId: 27671
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::7]
 [ZodiacId::28088]
 [NextStarId::27432]
+
+
+
+## Confidential Links & Embeds: 
+- [Arae-7](../../../_public/astro/Star/Arae-7.md) 
+- [Arae-7.internal](../../../_internal/astro/Star/Arae-7.internal.md) 
+- [Arae-7.protect](../../../_protect/astro/Star/Arae-7.protect.md) 
+- [Arae-7.private](../../../_private/astro/Star/Arae-7.private.md) 
+- [Arae-7.personal](../../../_personal/astro/Star/Arae-7.personal.md) 
+- [Arae-7.secret](../../../_secret/astro/Star/Arae-7.secret.md)
 

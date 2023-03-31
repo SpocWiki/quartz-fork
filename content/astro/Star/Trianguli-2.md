@@ -1,14 +1,12 @@
-﻿---
-title: "Trianguli-2"
+---
+aliases: 
 location: [34.99,32.375,120]
 type: Station
 tags:
 - astro/Star
 
+title: Trianguli-2
 ---
-
-# Trianguli-2
-
 SpocWebEntityId: 27394
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28162]
 [NextStarId::27737]
 
+
+
+## Confidential Links & Embeds: 
+- [Trianguli-2](../../../_public/astro/Star/Trianguli-2.md) 
+- [Trianguli-2.internal](../../../_internal/astro/Star/Trianguli-2.internal.md) 
+- [Trianguli-2.protect](../../../_protect/astro/Star/Trianguli-2.protect.md) 
+- [Trianguli-2.private](../../../_private/astro/Star/Trianguli-2.private.md) 
+- [Trianguli-2.personal](../../../_personal/astro/Star/Trianguli-2.personal.md) 
+- [Trianguli-2.secret](../../../_secret/astro/Star/Trianguli-2.secret.md) 

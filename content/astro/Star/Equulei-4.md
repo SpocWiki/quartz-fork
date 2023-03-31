@@ -1,14 +1,12 @@
-﻿---
-title: "Equulei-4"
+---
+aliases: 
 location: [10.01,-41.375,55]
 type: Station
 tags:
 - astro/Star
 
+title: Equulei-4
 ---
-
-# Equulei-4
-
 SpocWebEntityId: 27950
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::4]
 [ZodiacId::28117]
 [NextStarId::27989]
+
+
+
+## Confidential Links & Embeds: 
+- [Equulei-4](../../../_public/astro/Star/Equulei-4.md) 
+- [Equulei-4.internal](../../../_internal/astro/Star/Equulei-4.internal.md) 
+- [Equulei-4.protect](../../../_protect/astro/Star/Equulei-4.protect.md) 
+- [Equulei-4.private](../../../_private/astro/Star/Equulei-4.private.md) 
+- [Equulei-4.personal](../../../_personal/astro/Star/Equulei-4.personal.md) 
+- [Equulei-4.secret](../../../_secret/astro/Star/Equulei-4.secret.md)
 

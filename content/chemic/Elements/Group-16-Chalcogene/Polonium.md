@@ -1,12 +1,14 @@
-﻿---
-title: "Polonium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21979
+title: Polonium
 ---
 
 #chemic/Element 
-[GroupName::[Group-16-Chalcogene](../Group-16-Chalcogene.md)]
+[GroupName::[Group-16-Chalcogene](chemic/Elements/Group-16-Chalcogene.md)]
 
 [Name-en::Polonium]
 [Name-de::Polonium]
@@ -33,3 +35,11 @@ SpocWebEntityId: 21979
 > Polonium was discovered in July 1898 by Marie Skłodowska-Curie and Pierre Curie, when it was extracted from the uranium ore pitchblende and identified solely by its strong radioactivity: it was the first element to be so discovered. Polonium was named after Marie Curie's homeland of Poland. Polonium has few applications, and those are related to its radioactivity: heaters in space probes, antistatic devices, sources of neutrons and alpha particles, and poison. It is extremely dangerous to humans.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polonium)
+
+## Confidential Links & Embeds: 
+- [Polonium](../../../../_public/chemic/Elements/Group-16-Chalcogene/Polonium.md) 
+- [Polonium.internal](../../../../_internal/chemic/Elements/Group-16-Chalcogene/Polonium.internal.md) 
+- [Polonium.protect](../../../../_protect/chemic/Elements/Group-16-Chalcogene/Polonium.protect.md) 
+- [Polonium.private](../../../../_private/chemic/Elements/Group-16-Chalcogene/Polonium.private.md) 
+- [Polonium.personal](../../../../_personal/chemic/Elements/Group-16-Chalcogene/Polonium.personal.md) 
+- [Polonium.secret](../../../../_secret/chemic/Elements/Group-16-Chalcogene/Polonium.secret.md) 

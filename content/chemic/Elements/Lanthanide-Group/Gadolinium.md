@@ -1,12 +1,14 @@
-﻿---
-title: "Gadolinium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21960
+title: Gadolinium
 ---
 
 #chemic/Element 
-[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
+[GroupName::[Lanthanide-Group](chemic/Elements/Lanthanide-Group.md)]
 
 [Name-en::Gadolinium]
 [Name-de::Gadolinium]
@@ -41,3 +43,12 @@ SpocWebEntityId: 21960
 > [Wikipedia](https://en.wikipedia.org/wiki/Gadolinium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Gadolinium](../../../../_public/chemic/Elements/Lanthanide-Group/Gadolinium.md) 
+- [Gadolinium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Gadolinium.internal.md) 
+- [Gadolinium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Gadolinium.protect.md) 
+- [Gadolinium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Gadolinium.private.md) 
+- [Gadolinium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Gadolinium.personal.md) 
+- [Gadolinium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Gadolinium.secret.md) 

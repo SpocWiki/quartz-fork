@@ -1,14 +1,12 @@
-﻿---
-title: "Ceti-9"
+---
+aliases: 
 location: [-8.82,4.85,200]
 type: Station
 tags:
 - astro/Star
 
+title: Ceti-9
 ---
-
-# Ceti-9
-
 SpocWebEntityId: 27546
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::9]
 [ZodiacId::28103]
 [NextStarId::27517]
+
+
+
+## Confidential Links & Embeds: 
+- [Ceti-9](../../../_public/astro/Star/Ceti-9.md) 
+- [Ceti-9.internal](../../../_internal/astro/Star/Ceti-9.internal.md) 
+- [Ceti-9.protect](../../../_protect/astro/Star/Ceti-9.protect.md) 
+- [Ceti-9.private](../../../_private/astro/Star/Ceti-9.private.md) 
+- [Ceti-9.personal](../../../_personal/astro/Star/Ceti-9.personal.md) 
+- [Ceti-9.secret](../../../_secret/astro/Star/Ceti-9.secret.md)
 

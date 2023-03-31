@@ -1,5 +1,4 @@
-﻿---
-title: "ignore notes"
+---
 title: "Ignoring Notes"
 ---
 

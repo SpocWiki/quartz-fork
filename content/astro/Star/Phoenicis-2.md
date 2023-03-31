@@ -1,14 +1,12 @@
-﻿---
-title: "Phoenicis-2"
+---
+aliases: 
 location: [-46.72,16.525,150]
 type: Station
 tags:
 - astro/Star
 
+title: Phoenicis-2
 ---
-
-# Phoenicis-2
-
 SpocWebEntityId: 27471
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28146]
 [NextStarId::27771]
 
+
+
+## Confidential Links & Embeds: 
+- [Phoenicis-2](../../../_public/astro/Star/Phoenicis-2.md) 
+- [Phoenicis-2.internal](../../../_internal/astro/Star/Phoenicis-2.internal.md) 
+- [Phoenicis-2.protect](../../../_protect/astro/Star/Phoenicis-2.protect.md) 
+- [Phoenicis-2.private](../../../_private/astro/Star/Phoenicis-2.private.md) 
+- [Phoenicis-2.personal](../../../_personal/astro/Star/Phoenicis-2.personal.md) 
+- [Phoenicis-2.secret](../../../_secret/astro/Star/Phoenicis-2.secret.md) 

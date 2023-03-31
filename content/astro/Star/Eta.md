@@ -1,14 +1,12 @@
-﻿---
-title: "Eta"
+---
+aliases: 
 location: [35.08,-60.925,200]
 type: Station
 tags:
 - astro/Star
 
+title: Eta
 ---
-
-# Eta
-
 SpocWebEntityId: 27681
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::7]
 [ZodiacId::28113]
 [NextStarId::27377]
+
+
+
+## Confidential Links & Embeds: 
+- [Eta](../../../_public/astro/Star/Eta.md) 
+- [Eta.internal](../../../_internal/astro/Star/Eta.internal.md) 
+- [Eta.protect](../../../_protect/astro/Star/Eta.protect.md) 
+- [Eta.private](../../../_private/astro/Star/Eta.private.md) 
+- [Eta.personal](../../../_personal/astro/Star/Eta.personal.md) 
+- [Eta.secret](../../../_secret/astro/Star/Eta.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Apodis-1"
+---
+aliases: 
 location: [-79.045,-138.033,200]
 type: Station
 tags:
 - astro/Star
 
+title: Apodis-1
 ---
-
-# Apodis-1
-
 SpocWebEntityId: 27672
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28085]
 [NextStarId::27860]
+
+
+
+## Confidential Links & Embeds: 
+- [Apodis-1](../../../_public/astro/Star/Apodis-1.md) 
+- [Apodis-1.internal](../../../_internal/astro/Star/Apodis-1.internal.md) 
+- [Apodis-1.protect](../../../_protect/astro/Star/Apodis-1.protect.md) 
+- [Apodis-1.private](../../../_private/astro/Star/Apodis-1.private.md) 
+- [Apodis-1.personal](../../../_personal/astro/Star/Apodis-1.personal.md) 
+- [Apodis-1.secret](../../../_secret/astro/Star/Apodis-1.secret.md)
 

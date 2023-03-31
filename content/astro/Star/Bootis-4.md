@@ -1,14 +1,12 @@
-﻿---
-title: "Bootis-4"
+---
+aliases: 
 location: [33.31,-131.125,150]
 type: Station
 tags:
 - astro/Star
 
+title: Bootis-4
 ---
-
-# Bootis-4
-
 SpocWebEntityId: 27514
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::4]
 [ZodiacId::28091]
 [NextStarId::27513]
+
+
+
+## Confidential Links & Embeds: 
+- [Bootis-4](../../../_public/astro/Star/Bootis-4.md) 
+- [Bootis-4.internal](../../../_internal/astro/Star/Bootis-4.internal.md) 
+- [Bootis-4.protect](../../../_protect/astro/Star/Bootis-4.protect.md) 
+- [Bootis-4.private](../../../_private/astro/Star/Bootis-4.private.md) 
+- [Bootis-4.personal](../../../_personal/astro/Star/Bootis-4.personal.md) 
+- [Bootis-4.secret](../../../_secret/astro/Star/Bootis-4.secret.md)
 

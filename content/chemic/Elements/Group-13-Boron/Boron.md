@@ -1,10 +1,12 @@
-﻿---
-title: "Boron"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Boron
 ---
 #chemic/Element 
-[GroupName::[Group-13-Boron](../Group-13-Boron.md)]
+[GroupName::[Group-13-Boron](chemic/Elements/Group-13-Boron.md)]
 
 [Name-en::Boron]
 [Name-de::Bor]
@@ -39,3 +41,12 @@ SpocWebEntityId: 21908
 > [Wikipedia](https://en.wikipedia.org/wiki/Boron)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Boron](../../../../_public/chemic/Elements/Group-13-Boron/Boron.md) 
+- [Boron.internal](../../../../_internal/chemic/Elements/Group-13-Boron/Boron.internal.md) 
+- [Boron.protect](../../../../_protect/chemic/Elements/Group-13-Boron/Boron.protect.md) 
+- [Boron.private](../../../../_private/chemic/Elements/Group-13-Boron/Boron.private.md) 
+- [Boron.personal](../../../../_personal/chemic/Elements/Group-13-Boron/Boron.personal.md) 
+- [Boron.secret](../../../../_secret/chemic/Elements/Group-13-Boron/Boron.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Piscium-9"
+---
+aliases: 
 location: [5.63,-5.025,45]
 type: Station
 tags:
 - astro/Star
 
+title: Piscium-9
 ---
-
-# Piscium-9
-
 SpocWebEntityId: 27819
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28148]
 [NextStarId::27901]
 
+
+
+## Confidential Links & Embeds: 
+- [Piscium-9](../../../_public/astro/Star/Piscium-9.md) 
+- [Piscium-9.internal](../../../_internal/astro/Star/Piscium-9.internal.md) 
+- [Piscium-9.protect](../../../_protect/astro/Star/Piscium-9.protect.md) 
+- [Piscium-9.private](../../../_private/astro/Star/Piscium-9.private.md) 
+- [Piscium-9.personal](../../../_personal/astro/Star/Piscium-9.personal.md) 
+- [Piscium-9.secret](../../../_secret/astro/Star/Piscium-9.secret.md) 

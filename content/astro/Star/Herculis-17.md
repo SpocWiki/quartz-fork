@@ -1,14 +1,12 @@
-﻿---
-title: "Herculis-17"
+---
+aliases: 
 location: [37.15,-99.075,300]
 type: Station
 tags:
 - astro/Star
 
+title: Herculis-17
 ---
-
-# Herculis-17
-
 SpocWebEntityId: 27796
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::17]
 [ZodiacId::28122]
 [NextStarId::27437]
+
+
+
+## Confidential Links & Embeds: 
+- [Herculis-17](../../../_public/astro/Star/Herculis-17.md) 
+- [Herculis-17.internal](../../../_internal/astro/Star/Herculis-17.internal.md) 
+- [Herculis-17.protect](../../../_protect/astro/Star/Herculis-17.protect.md) 
+- [Herculis-17.private](../../../_private/astro/Star/Herculis-17.private.md) 
+- [Herculis-17.personal](../../../_personal/astro/Star/Herculis-17.personal.md) 
+- [Herculis-17.secret](../../../_secret/astro/Star/Herculis-17.secret.md)
 

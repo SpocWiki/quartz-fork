@@ -1,6 +1,5 @@
-﻿---
+---
 title: "showcase"
-title: "Showcase"
 ---
 
 # showcase

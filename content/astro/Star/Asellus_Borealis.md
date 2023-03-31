@@ -1,14 +1,12 @@
-﻿---
-title: "Asellus Borealis"
+---
+aliases: 
 location: [21.47,130.825,150]
 type: Station
 tags:
 - astro/Star
 
+title: Asellus_Borealis
 ---
-
-# Asellus Borealis
-
 SpocWebEntityId: 27983
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28094]
 [NextStarId::27695]
+
+
+
+## Confidential Links & Embeds: 
+- [Asellus_Borealis](../../../_public/astro/Star/Asellus_Borealis.md) 
+- [Asellus_Borealis.internal](../../../_internal/astro/Star/Asellus_Borealis.internal.md) 
+- [Asellus_Borealis.protect](../../../_protect/astro/Star/Asellus_Borealis.protect.md) 
+- [Asellus_Borealis.private](../../../_private/astro/Star/Asellus_Borealis.private.md) 
+- [Asellus_Borealis.personal](../../../_personal/astro/Star/Asellus_Borealis.personal.md) 
+- [Asellus_Borealis.secret](../../../_secret/astro/Star/Asellus_Borealis.secret.md)
 

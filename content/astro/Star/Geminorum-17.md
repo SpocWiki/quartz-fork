@@ -1,14 +1,12 @@
-﻿---
-title: "Geminorum-17"
+---
+aliases: 
 location: [31.78,112.275,60]
 type: Station
 tags:
 - astro/Star
 
+title: Geminorum-17
 ---
-
-# Geminorum-17
-
 SpocWebEntityId: 27849
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::17]
 [ZodiacId::28120]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Geminorum-17](../../../_public/astro/Star/Geminorum-17.md) 
+- [Geminorum-17.internal](../../../_internal/astro/Star/Geminorum-17.internal.md) 
+- [Geminorum-17.protect](../../../_protect/astro/Star/Geminorum-17.protect.md) 
+- [Geminorum-17.private](../../../_private/astro/Star/Geminorum-17.private.md) 
+- [Geminorum-17.personal](../../../_personal/astro/Star/Geminorum-17.personal.md) 
+- [Geminorum-17.secret](../../../_secret/astro/Star/Geminorum-17.secret.md)
 

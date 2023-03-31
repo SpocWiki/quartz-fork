@@ -1,12 +1,14 @@
-﻿---
-title: "Ytterbium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21966
+title: Ytterbium
 ---
 
 #chemic/Element 
-[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
+[GroupName::[Lanthanide-Group](chemic/Elements/Lanthanide-Group.md)]
 
 [Name-en::Ytterbium]
 [Name-de::Ytterbium]
@@ -35,3 +37,12 @@ SpocWebEntityId: 21966
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ytterbium)
 
+
+
+## Confidential Links & Embeds: 
+- [Ytterbium](../../../../_public/chemic/Elements/Lanthanide-Group/Ytterbium.md) 
+- [Ytterbium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Ytterbium.internal.md) 
+- [Ytterbium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Ytterbium.protect.md) 
+- [Ytterbium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Ytterbium.private.md) 
+- [Ytterbium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Ytterbium.personal.md) 
+- [Ytterbium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Ytterbium.secret.md) 

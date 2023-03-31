@@ -1,14 +1,12 @@
-﻿---
-title: "Lupi-12"
+---
+aliases: 
 location: [-47.88,-130.375,250]
 type: Station
 tags:
 - astro/Star
 
+title: Lupi-12
 ---
-
-# Lupi-12
-
 SpocWebEntityId: 27827
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28132]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Lupi-12](../../../_public/astro/Star/Lupi-12.md) 
+- [Lupi-12.internal](../../../_internal/astro/Star/Lupi-12.internal.md) 
+- [Lupi-12.protect](../../../_protect/astro/Star/Lupi-12.protect.md) 
+- [Lupi-12.private](../../../_private/astro/Star/Lupi-12.private.md) 
+- [Lupi-12.personal](../../../_personal/astro/Star/Lupi-12.personal.md) 
+- [Lupi-12.secret](../../../_secret/astro/Star/Lupi-12.secret.md) 

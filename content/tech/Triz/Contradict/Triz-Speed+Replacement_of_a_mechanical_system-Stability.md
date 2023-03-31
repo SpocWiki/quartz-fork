@@ -1,0 +1,28 @@
+---
+type: TrizContradiction
+aliases:
+- Speed+Replacement_of_a_mechanical_system-Stability
+license: CC BY-SA 4.0
+copyright: https://github.com/SpocWeb
+IsDeleted: false
+IsReadOnly: false
+Confidential: public
+tags: 
+- Triz/Contradiction
+title: Triz-Speed+Replacement_of_a_mechanical_system-Stability
+---
+[name::Speed+Replacement_of_a_mechanical_system-Stability]
+[SpocWebEntityId::23391]
++ [pro::[Triz-Speed](tech/Triz/Parameter/Triz-Speed.md)]
+[Triz-Principle::[Triz-Replacement_of_a_mechanical_system](tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.md)]
+- [con::[Triz-Stability](tech/Triz/Parameter/Triz-Stability.md)]
+
+
+
+## Confidential Links & Embeds: 
+- [Triz-Speed+Replacement_of_a_mechanical_system-Stability](../../../../_public/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Stability.md) 
+- [Triz-Speed+Replacement_of_a_mechanical_system-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Stability.internal.md) 
+- [Triz-Speed+Replacement_of_a_mechanical_system-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Stability.protect.md) 
+- [Triz-Speed+Replacement_of_a_mechanical_system-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Stability.private.md) 
+- [Triz-Speed+Replacement_of_a_mechanical_system-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Stability.personal.md) 
+- [Triz-Speed+Replacement_of_a_mechanical_system-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Stability.secret.md) 

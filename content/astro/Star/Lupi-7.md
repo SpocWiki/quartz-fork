@@ -1,14 +1,12 @@
-﻿---
-title: "Lupi-7"
+---
+aliases: 
 location: [-38.4,-119.975,600]
 type: Station
 tags:
 - astro/Star
 
+title: Lupi-7
 ---
-
-# Lupi-7
-
 SpocWebEntityId: 27508
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28132]
 [NextStarId::27372]
 
+
+
+## Confidential Links & Embeds: 
+- [Lupi-7](../../../_public/astro/Star/Lupi-7.md) 
+- [Lupi-7.internal](../../../_internal/astro/Star/Lupi-7.internal.md) 
+- [Lupi-7.protect](../../../_protect/astro/Star/Lupi-7.protect.md) 
+- [Lupi-7.private](../../../_private/astro/Star/Lupi-7.private.md) 
+- [Lupi-7.personal](../../../_personal/astro/Star/Lupi-7.personal.md) 
+- [Lupi-7.secret](../../../_secret/astro/Star/Lupi-7.secret.md) 

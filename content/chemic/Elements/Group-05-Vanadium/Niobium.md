@@ -1,10 +1,12 @@
-﻿---
-title: "Niobium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Niobium
 ---
 #chemic/Element 
-[GroupName::[Group-05-Vanadium](../Group-05-Vanadium.md)]
+[GroupName::[Group-05-Vanadium](chemic/Elements/Group-05-Vanadium.md)]
 
 [Name-en::Niobium]
 [Name-de::Niob]
@@ -33,3 +35,12 @@ SpocWebEntityId: 21939
 > Niobium is used in various superconducting materials. These alloys, also containing titanium and tin, are widely used in the superconducting magnets of MRI scanners. Other applications of niobium include welding, nuclear industries, electronics, optics, numismatics, and jewelry. In the last two applications, the low toxicity and iridescence produced by anodization are highly desired properties. Niobium is considered a technology-critical element.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Niobium)
+
+
+## Confidential Links & Embeds: 
+- [Niobium](../../../../_public/chemic/Elements/Group-05-Vanadium/Niobium.md) 
+- [Niobium.internal](../../../../_internal/chemic/Elements/Group-05-Vanadium/Niobium.internal.md) 
+- [Niobium.protect](../../../../_protect/chemic/Elements/Group-05-Vanadium/Niobium.protect.md) 
+- [Niobium.private](../../../../_private/chemic/Elements/Group-05-Vanadium/Niobium.private.md) 
+- [Niobium.personal](../../../../_personal/chemic/Elements/Group-05-Vanadium/Niobium.personal.md) 
+- [Niobium.secret](../../../../_secret/chemic/Elements/Group-05-Vanadium/Niobium.secret.md) 

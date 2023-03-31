@@ -1,14 +1,12 @@
-﻿---
-title: "Antares"
+---
+aliases: 
 location: [-26.43,-112.65,500]
 type: Station
 tags:
 - astro/Star
 
+title: Antares
 ---
-
-# Antares
-
 SpocWebEntityId: 27244
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28155]
 [NextStarId::27382]
+
+
+
+## Confidential Links & Embeds: 
+- [Antares](../../../_public/astro/Star/Antares.md) 
+- [Antares.internal](../../../_internal/astro/Star/Antares.internal.md) 
+- [Antares.protect](../../../_protect/astro/Star/Antares.protect.md) 
+- [Antares.private](../../../_private/astro/Star/Antares.private.md) 
+- [Antares.personal](../../../_personal/astro/Star/Antares.personal.md) 
+- [Antares.secret](../../../_secret/astro/Star/Antares.secret.md)
 

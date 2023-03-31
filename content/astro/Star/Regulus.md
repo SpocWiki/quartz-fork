@@ -1,14 +1,12 @@
-﻿---
-title: "Regulus"
+---
+aliases: 
 location: [11.97,152.1,80]
 type: Station
 tags:
 - astro/Star
 
+title: Regulus
 ---
-
-# Regulus
-
 SpocWebEntityId: 27250
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28128]
 [NextStarId::27463]
 
+
+
+## Confidential Links & Embeds: 
+- [Regulus](../../../_public/astro/Star/Regulus.md) 
+- [Regulus.internal](../../../_internal/astro/Star/Regulus.internal.md) 
+- [Regulus.protect](../../../_protect/astro/Star/Regulus.protect.md) 
+- [Regulus.private](../../../_private/astro/Star/Regulus.private.md) 
+- [Regulus.personal](../../../_personal/astro/Star/Regulus.personal.md) 
+- [Regulus.secret](../../../_secret/astro/Star/Regulus.secret.md) 

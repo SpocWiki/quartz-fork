@@ -1,14 +1,12 @@
-﻿---
-title: "Centauri-8"
+---
+aliases: 
 location: [-36.37,-148.325,50]
 type: Station
 tags:
 - astro/Star
 
+title: Centauri-8
 ---
-
-# Centauri-8
-
 SpocWebEntityId: 27292
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::8]
 [ZodiacId::28101]
 [NextStarId::27319]
+
+
+
+## Confidential Links & Embeds: 
+- [Centauri-8](../../../_public/astro/Star/Centauri-8.md) 
+- [Centauri-8.internal](../../../_internal/astro/Star/Centauri-8.internal.md) 
+- [Centauri-8.protect](../../../_protect/astro/Star/Centauri-8.protect.md) 
+- [Centauri-8.private](../../../_private/astro/Star/Centauri-8.private.md) 
+- [Centauri-8.personal](../../../_personal/astro/Star/Centauri-8.personal.md) 
+- [Centauri-8.secret](../../../_secret/astro/Star/Centauri-8.secret.md)
 

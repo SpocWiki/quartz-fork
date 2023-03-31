@@ -1,14 +1,12 @@
-﻿---
-title: "Centauri-4"
+---
+aliases: 
 location: [-50.71,-177.925,500]
 type: Station
 tags:
 - astro/Star
 
+title: Centauri-4
 ---
-
-# Centauri-4
-
 SpocWebEntityId: 27318
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::4]
 [ZodiacId::28101]
 [NextStarId::27300]
+
+
+
+## Confidential Links & Embeds: 
+- [Centauri-4](../../../_public/astro/Star/Centauri-4.md) 
+- [Centauri-4.internal](../../../_internal/astro/Star/Centauri-4.internal.md) 
+- [Centauri-4.protect](../../../_protect/astro/Star/Centauri-4.protect.md) 
+- [Centauri-4.private](../../../_private/astro/Star/Centauri-4.private.md) 
+- [Centauri-4.personal](../../../_personal/astro/Star/Centauri-4.personal.md) 
+- [Centauri-4.secret](../../../_secret/astro/Star/Centauri-4.secret.md)
 

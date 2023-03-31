@@ -1,12 +1,14 @@
-﻿---
-title: "Selenium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21932
+title: Selenium
 ---
 
 #chemic/Element 
-[GroupName::[Group-16-Chalcogene](../Group-16-Chalcogene.md)]
+[GroupName::[Group-16-Chalcogene](chemic/Elements/Group-16-Chalcogene.md)]
 
 
 [Name-en::Selenium]
@@ -36,3 +38,11 @@ SpocWebEntityId: 21932
 > Although trace amounts of selenium are necessary for cellular function in many animals, including humans, both elemental selenium and (especially) selenium salts are toxic in even small doses, causing selenosis. Selenium is listed as an ingredient in many multivitamins and other dietary supplements, as well as in infant formula, and is a component of the antioxidant enzymes glutathione peroxidase and thioredoxin reductase (which indirectly reduce certain oxidized molecules in animals and some plants) as well as in 3 deiodinase enzymes. Selenium requirements in plants differ by species, with some plants requiring relatively large amounts and others apparently not requiring any.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Selenium)
+
+## Confidential Links & Embeds: 
+- [Selenium](../../../../_public/chemic/Elements/Group-16-Chalcogene/Selenium.md) 
+- [Selenium.internal](../../../../_internal/chemic/Elements/Group-16-Chalcogene/Selenium.internal.md) 
+- [Selenium.protect](../../../../_protect/chemic/Elements/Group-16-Chalcogene/Selenium.protect.md) 
+- [Selenium.private](../../../../_private/chemic/Elements/Group-16-Chalcogene/Selenium.private.md) 
+- [Selenium.personal](../../../../_personal/chemic/Elements/Group-16-Chalcogene/Selenium.personal.md) 
+- [Selenium.secret](../../../../_secret/chemic/Elements/Group-16-Chalcogene/Selenium.secret.md) 

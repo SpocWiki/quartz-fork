@@ -1,14 +1,12 @@
-﻿---
-title: "Ophiuchi-13"
+---
+aliases: 
 location: [-9.77,-90.25,150]
 type: Station
 tags:
 - astro/Star
 
+title: Ophiuchi-13
 ---
-
-# Ophiuchi-13
-
 SpocWebEntityId: 27466
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28141]
 [NextStarId::27652]
 
+
+
+## Confidential Links & Embeds: 
+- [Ophiuchi-13](../../../_public/astro/Star/Ophiuchi-13.md) 
+- [Ophiuchi-13.internal](../../../_internal/astro/Star/Ophiuchi-13.internal.md) 
+- [Ophiuchi-13.protect](../../../_protect/astro/Star/Ophiuchi-13.protect.md) 
+- [Ophiuchi-13.private](../../../_private/astro/Star/Ophiuchi-13.private.md) 
+- [Ophiuchi-13.personal](../../../_personal/astro/Star/Ophiuchi-13.personal.md) 
+- [Ophiuchi-13.secret](../../../_secret/astro/Star/Ophiuchi-13.secret.md) 

@@ -1,10 +1,12 @@
-﻿---
-title: "Aluminium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Aluminium
 ---
 #chemic/Element 
-[GroupName::[Group-13-Boron](../Group-13-Boron.md)]
+[GroupName::[Group-13-Boron](chemic/Elements/Group-13-Boron.md)]
 
 [Name-en::Aluminium]
 [Name-de::Aluminium]
@@ -36,3 +38,12 @@ SpocWebEntityId: 9523
 > [Wikipedia](https://en.wikipedia.org/wiki/Aluminium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Aluminium](../../../../_public/chemic/Elements/Group-13-Boron/Aluminium.md) 
+- [Aluminium.internal](../../../../_internal/chemic/Elements/Group-13-Boron/Aluminium.internal.md) 
+- [Aluminium.protect](../../../../_protect/chemic/Elements/Group-13-Boron/Aluminium.protect.md) 
+- [Aluminium.private](../../../../_private/chemic/Elements/Group-13-Boron/Aluminium.private.md) 
+- [Aluminium.personal](../../../../_personal/chemic/Elements/Group-13-Boron/Aluminium.personal.md) 
+- [Aluminium.secret](../../../../_secret/chemic/Elements/Group-13-Boron/Aluminium.secret.md) 

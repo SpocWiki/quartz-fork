@@ -1,14 +1,12 @@
-﻿---
-title: "Aurigae-9"
+---
+aliases: 
 location: [33.17,74.25,250]
 type: Station
 tags:
 - astro/Star
 
+title: Aurigae-9
 ---
-
-# Aurigae-9
-
 SpocWebEntityId: 27339
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::9]
 [ZodiacId::28090]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Aurigae-9](../../../_public/astro/Star/Aurigae-9.md) 
+- [Aurigae-9.internal](../../../_internal/astro/Star/Aurigae-9.internal.md) 
+- [Aurigae-9.protect](../../../_protect/astro/Star/Aurigae-9.protect.md) 
+- [Aurigae-9.private](../../../_private/astro/Star/Aurigae-9.private.md) 
+- [Aurigae-9.personal](../../../_personal/astro/Star/Aurigae-9.personal.md) 
+- [Aurigae-9.secret](../../../_secret/astro/Star/Aurigae-9.secret.md)
 

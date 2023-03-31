@@ -1,14 +1,12 @@
-﻿---
-title: "Lyncis-131"
+---
+aliases: 
 location: [43.19,125.7,200]
 type: Station
 tags:
 - astro/Star
 
+title: Lyncis-131
 ---
-
-# Lyncis-131
-
 SpocWebEntityId: 27866
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28133]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Lyncis-131](../../../_public/astro/Star/Lyncis-131.md) 
+- [Lyncis-131.internal](../../../_internal/astro/Star/Lyncis-131.internal.md) 
+- [Lyncis-131.protect](../../../_protect/astro/Star/Lyncis-131.protect.md) 
+- [Lyncis-131.private](../../../_private/astro/Star/Lyncis-131.private.md) 
+- [Lyncis-131.personal](../../../_personal/astro/Star/Lyncis-131.personal.md) 
+- [Lyncis-131.secret](../../../_secret/astro/Star/Lyncis-131.secret.md) 

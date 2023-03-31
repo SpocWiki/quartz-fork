@@ -1,14 +1,12 @@
-﻿---
-title: "Aludra"
+---
+aliases: 
 location: [-29.3,111.025,2500]
 type: Station
 tags:
 - astro/Star
 
+title: Aludra
 ---
-
-# Aludra
-
 SpocWebEntityId: 27313
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::7]
 [ZodiacId::28096]
 [NextStarId::27558]
+
+
+
+## Confidential Links & Embeds: 
+- [Aludra](../../../_public/astro/Star/Aludra.md) 
+- [Aludra.internal](../../../_internal/astro/Star/Aludra.internal.md) 
+- [Aludra.protect](../../../_protect/astro/Star/Aludra.protect.md) 
+- [Aludra.private](../../../_private/astro/Star/Aludra.private.md) 
+- [Aludra.personal](../../../_personal/astro/Star/Aludra.personal.md) 
+- [Aludra.secret](../../../_secret/astro/Star/Aludra.secret.md)
 

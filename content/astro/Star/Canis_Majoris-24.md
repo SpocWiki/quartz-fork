@@ -1,14 +1,12 @@
-﻿---
-title: "Canis Majoris-24"
+---
+aliases: 
 location: [-26.77,108.7,500]
 type: Station
 tags:
 - astro/Star
 
+title: Canis_Majoris-24
 ---
-
-# Canis Majoris-24
-
 SpocWebEntityId: 27558
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::24]
 [ZodiacId::28096]
 [NextStarId::27266]
+
+
+
+## Confidential Links & Embeds: 
+- [Canis_Majoris-24](../../../_public/astro/Star/Canis_Majoris-24.md) 
+- [Canis_Majoris-24.internal](../../../_internal/astro/Star/Canis_Majoris-24.internal.md) 
+- [Canis_Majoris-24.protect](../../../_protect/astro/Star/Canis_Majoris-24.protect.md) 
+- [Canis_Majoris-24.private](../../../_private/astro/Star/Canis_Majoris-24.private.md) 
+- [Canis_Majoris-24.personal](../../../_personal/astro/Star/Canis_Majoris-24.personal.md) 
+- [Canis_Majoris-24.secret](../../../_secret/astro/Star/Canis_Majoris-24.secret.md)
 

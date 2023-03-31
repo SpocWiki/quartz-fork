@@ -1,14 +1,12 @@
-﻿---
-title: "Carinae-8"
+---
+aliases: 
 location: [-64.39,160.75,800]
 type: Station
 tags:
 - astro/Star
 
+title: Carinae-8
 ---
-
-# Carinae-8
-
 SpocWebEntityId: 27369
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::8]
 [ZodiacId::28099]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Carinae-8](../../../_public/astro/Star/Carinae-8.md) 
+- [Carinae-8.internal](../../../_internal/astro/Star/Carinae-8.internal.md) 
+- [Carinae-8.protect](../../../_protect/astro/Star/Carinae-8.protect.md) 
+- [Carinae-8.private](../../../_private/astro/Star/Carinae-8.private.md) 
+- [Carinae-8.personal](../../../_personal/astro/Star/Carinae-8.personal.md) 
+- [Carinae-8.secret](../../../_secret/astro/Star/Carinae-8.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Aldhafera"
+---
+aliases: 
 location: [23.42,154.175,120]
 type: Station
 tags:
 - astro/Star
 
+title: Aldhafera
 ---
-
-# Aldhafera
-
 SpocWebEntityId: 27493
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::6]
 [ZodiacId::28128]
 [NextStarId::27289]
+
+
+
+## Confidential Links & Embeds: 
+- [Aldhafera](../../../_public/astro/Star/Aldhafera.md) 
+- [Aldhafera.internal](../../../_internal/astro/Star/Aldhafera.internal.md) 
+- [Aldhafera.protect](../../../_protect/astro/Star/Aldhafera.protect.md) 
+- [Aldhafera.private](../../../_private/astro/Star/Aldhafera.private.md) 
+- [Aldhafera.personal](../../../_personal/astro/Star/Aldhafera.personal.md) 
+- [Aldhafera.secret](../../../_secret/astro/Star/Aldhafera.secret.md)
 

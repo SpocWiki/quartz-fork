@@ -1,14 +1,12 @@
-﻿---
-title: "Electra"
+---
+aliases: 
 location: [24.11,56.225,400]
 type: Station
 tags:
 - astro/Star
 
+title: Electra
 ---
-
-# Electra
-
 SpocWebEntityId: 27595
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::117]
 [ZodiacId::28160]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Electra](../../../_public/astro/Star/Electra.md) 
+- [Electra.internal](../../../_internal/astro/Star/Electra.internal.md) 
+- [Electra.protect](../../../_protect/astro/Star/Electra.protect.md) 
+- [Electra.private](../../../_private/astro/Star/Electra.private.md) 
+- [Electra.personal](../../../_personal/astro/Star/Electra.personal.md) 
+- [Electra.secret](../../../_secret/astro/Star/Electra.secret.md)
 

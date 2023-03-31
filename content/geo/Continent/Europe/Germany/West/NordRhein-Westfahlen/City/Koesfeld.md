@@ -1,0 +1,41 @@
+---
+aliases: 
+location: [51.95,7.17]
+mapzoom: [7,12] 
+mapmarker: city 
+type: City
+tags:
+- geo/City
+
+
+SpocWebEntityId: 31759
+isDeleted: false
+confidential: public
+
+title: Koesfeld
+---
+[geo-lon::7.17]
+[geo-lat::51.95]
+[name::Koesfeld]
+[Country::[Germany](geo/Continent/Europe/Germany.md)]
+[State::[NordRhein-Westfahlen](NordRhein-Westfahlen)]
+[Population::]
+[Unknown::]
+
+
+```leaflet
+id: Koesfeld
+coordinates: [Koesfeld](geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.md)
+markerFile: [Koesfeld](geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.md)
+defaultZoom: 11 
+maxZoom: 18
+```
+
+
+## Confidential Links & Embeds: 
+- [Koesfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.md) 
+- [Koesfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.internal.md) 
+- [Koesfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.protect.md) 
+- [Koesfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.private.md) 
+- [Koesfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.personal.md) 
+- [Koesfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koesfeld.secret.md) 

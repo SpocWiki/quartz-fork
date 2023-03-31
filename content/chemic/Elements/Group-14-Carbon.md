@@ -1,14 +1,16 @@
-﻿---
-title: "Group-14-Carbon"
+---
+aliases: 
+tags: 
 type: ElementGroup
+title: Group-14-Carbon
 ---
 #chemic/Group 
 
-2) [Carbon](Group-14-Carbon/Carbon.md)
-3) [Silicon](Group-14-Carbon/Silicon.md)
-4) [Germanium](Group-14-Carbon/Germanium.md)
-5) [Tin](Group-14-Carbon/Tin.md)
-6) [Lead](Group-14-Carbon/Lead.md)
+2) [Carbon](chemic/Elements/Group-14-Carbon/Carbon.md)
+3) [Silicon](chemic/Elements/Group-14-Carbon/Silicon.md)
+4) [Germanium](chemic/Elements/Group-14-Carbon/Germanium.md)
+5) [Tin](chemic/Elements/Group-14-Carbon/Tin.md)
+6) [Lead](chemic/Elements/Group-14-Carbon/Lead.md)
 
 > The carbon group is a periodic table group consisting of carbon (C), silicon (Si), germanium (Ge), tin (Sn), lead (Pb), and flerovium (Fl). It lies within the p-block.
 >
@@ -16,3 +18,12 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbon%20group)
 
+
+
+## Confidential Links & Embeds: 
+- [Group-14-Carbon](../../../_public/chemic/Elements/Group-14-Carbon.md) 
+- [Group-14-Carbon.internal](../../../_internal/chemic/Elements/Group-14-Carbon.internal.md) 
+- [Group-14-Carbon.protect](../../../_protect/chemic/Elements/Group-14-Carbon.protect.md) 
+- [Group-14-Carbon.private](../../../_private/chemic/Elements/Group-14-Carbon.private.md) 
+- [Group-14-Carbon.personal](../../../_personal/chemic/Elements/Group-14-Carbon.personal.md) 
+- [Group-14-Carbon.secret](../../../_secret/chemic/Elements/Group-14-Carbon.secret.md) 

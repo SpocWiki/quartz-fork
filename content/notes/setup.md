@@ -1,6 +1,5 @@
-﻿---
+---
 title: "setup"
-title: "Setup"
 tags:
 - setup
 weight: -5

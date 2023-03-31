@@ -1,14 +1,12 @@
-﻿---
-title: "Carinae-42"
+---
+aliases: 
 location: [-58.86,163.375,70]
 type: Station
 tags:
 - astro/Star
 
+title: Carinae-42
 ---
-
-# Carinae-42
-
 SpocWebEntityId: 27617
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::42]
 [ZodiacId::28099]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Carinae-42](../../../_public/astro/Star/Carinae-42.md) 
+- [Carinae-42.internal](../../../_internal/astro/Star/Carinae-42.internal.md) 
+- [Carinae-42.protect](../../../_protect/astro/Star/Carinae-42.protect.md) 
+- [Carinae-42.private](../../../_private/astro/Star/Carinae-42.private.md) 
+- [Carinae-42.personal](../../../_personal/astro/Star/Carinae-42.personal.md) 
+- [Carinae-42.secret](../../../_secret/astro/Star/Carinae-42.secret.md)
 

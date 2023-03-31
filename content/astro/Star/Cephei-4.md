@@ -1,14 +1,12 @@
-﻿---
-title: "Cephei-4"
+---
+aliases: 
 location: [58.42,-22.7,1200]
 type: Station
 tags:
 - astro/Star
 
+title: Cephei-4
 ---
-
-# Cephei-4
-
 SpocWebEntityId: 27486
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::4]
 [ZodiacId::28102]
 [NextStarId::27485]
+
+
+
+## Confidential Links & Embeds: 
+- [Cephei-4](../../../_public/astro/Star/Cephei-4.md) 
+- [Cephei-4.internal](../../../_internal/astro/Star/Cephei-4.internal.md) 
+- [Cephei-4.protect](../../../_protect/astro/Star/Cephei-4.protect.md) 
+- [Cephei-4.private](../../../_private/astro/Star/Cephei-4.private.md) 
+- [Cephei-4.personal](../../../_personal/astro/Star/Cephei-4.personal.md) 
+- [Cephei-4.secret](../../../_secret/astro/Star/Cephei-4.secret.md)
 

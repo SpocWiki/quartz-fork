@@ -1,14 +1,12 @@
-﻿---
-title: "Lupi-16"
+---
+aliases: 
 location: [-47.05,-133.725,400]
 type: Station
 tags:
 - astro/Star
 
+title: Lupi-16
 ---
-
-# Lupi-16
-
 SpocWebEntityId: 27730
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28132]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Lupi-16](../../../_public/astro/Star/Lupi-16.md) 
+- [Lupi-16.internal](../../../_internal/astro/Star/Lupi-16.internal.md) 
+- [Lupi-16.protect](../../../_protect/astro/Star/Lupi-16.protect.md) 
+- [Lupi-16.private](../../../_private/astro/Star/Lupi-16.private.md) 
+- [Lupi-16.personal](../../../_personal/astro/Star/Lupi-16.personal.md) 
+- [Lupi-16.secret](../../../_secret/astro/Star/Lupi-16.secret.md) 

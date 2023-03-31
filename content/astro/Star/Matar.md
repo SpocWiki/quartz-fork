@@ -1,14 +1,12 @@
-﻿---
-title: "Matar"
+---
+aliases: 
 location: [30.22,-19.25,200]
 type: Station
 tags:
 - astro/Star
 
+title: Matar
 ---
-
-# Matar
-
 SpocWebEntityId: 27385
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28144]
 [NextStarId::27766]
 
+
+
+## Confidential Links & Embeds: 
+- [Matar](../../../_public/astro/Star/Matar.md) 
+- [Matar.internal](../../../_internal/astro/Star/Matar.internal.md) 
+- [Matar.protect](../../../_protect/astro/Star/Matar.protect.md) 
+- [Matar.private](../../../_private/astro/Star/Matar.private.md) 
+- [Matar.personal](../../../_personal/astro/Star/Matar.personal.md) 
+- [Matar.secret](../../../_secret/astro/Star/Matar.secret.md) 

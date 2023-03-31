@@ -1,10 +1,12 @@
-﻿---
-title: "Platinum"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Platinum
 ---
 #chemic/Element 
-[GroupName::[Group-10-Nickel](../Group-10-Nickel.md)]
+[GroupName::[Group-10-Nickel](chemic/Elements/Group-10-Nickel.md)]
 
 [Name-en::Platinum]
 [Name-de::Platin]
@@ -32,3 +34,12 @@ SpocWebEntityId: 21974
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Platinum)
 
+
+
+## Confidential Links & Embeds: 
+- [Platinum](../../../../_public/chemic/Elements/Group-10-Nickel/Platinum.md) 
+- [Platinum.internal](../../../../_internal/chemic/Elements/Group-10-Nickel/Platinum.internal.md) 
+- [Platinum.protect](../../../../_protect/chemic/Elements/Group-10-Nickel/Platinum.protect.md) 
+- [Platinum.private](../../../../_private/chemic/Elements/Group-10-Nickel/Platinum.private.md) 
+- [Platinum.personal](../../../../_personal/chemic/Elements/Group-10-Nickel/Platinum.personal.md) 
+- [Platinum.secret](../../../../_secret/chemic/Elements/Group-10-Nickel/Platinum.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Centauri-13"
+---
+aliases: 
 location: [-41.69,-152.625,600]
 type: Station
 tags:
 - astro/Star
 
+title: Centauri-13
 ---
-
-# Centauri-13
-
 SpocWebEntityId: 27505
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::13]
 [ZodiacId::28101]
 [NextStarId::27292]
+
+
+
+## Confidential Links & Embeds: 
+- [Centauri-13](../../../_public/astro/Star/Centauri-13.md) 
+- [Centauri-13.internal](../../../_internal/astro/Star/Centauri-13.internal.md) 
+- [Centauri-13.protect](../../../_protect/astro/Star/Centauri-13.protect.md) 
+- [Centauri-13.private](../../../_private/astro/Star/Centauri-13.private.md) 
+- [Centauri-13.personal](../../../_personal/astro/Star/Centauri-13.personal.md) 
+- [Centauri-13.secret](../../../_secret/astro/Star/Centauri-13.secret.md)
 

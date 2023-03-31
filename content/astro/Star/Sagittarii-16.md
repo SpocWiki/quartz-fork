@@ -1,14 +1,12 @@
-﻿---
-title: "Sagittarii-16"
+---
+aliases: 
 location: [-21.02,-72.55,300]
 type: Station
 tags:
 - astro/Star
 
+title: Sagittarii-16
 ---
-
-# Sagittarii-16
-
 SpocWebEntityId: 27384
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28154]
 [NextStarId::27657]
 
+
+
+## Confidential Links & Embeds: 
+- [Sagittarii-16](../../../_public/astro/Star/Sagittarii-16.md) 
+- [Sagittarii-16.internal](../../../_internal/astro/Star/Sagittarii-16.internal.md) 
+- [Sagittarii-16.protect](../../../_protect/astro/Star/Sagittarii-16.protect.md) 
+- [Sagittarii-16.private](../../../_private/astro/Star/Sagittarii-16.private.md) 
+- [Sagittarii-16.personal](../../../_personal/astro/Star/Sagittarii-16.personal.md) 
+- [Sagittarii-16.secret](../../../_secret/astro/Star/Sagittarii-16.secret.md) 

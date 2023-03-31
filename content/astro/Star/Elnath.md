@@ -1,14 +1,12 @@
-﻿---
-title: "Elnath"
+---
+aliases: 
 location: [28.61,81.575,120]
 type: Station
 tags:
 - astro/Star
 
+title: Elnath
 ---
-
-# Elnath
-
 SpocWebEntityId: 27258
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28160]
 [NextStarId::27521]
+
+
+
+## Confidential Links & Embeds: 
+- [Elnath](../../../_public/astro/Star/Elnath.md) 
+- [Elnath.internal](../../../_internal/astro/Star/Elnath.internal.md) 
+- [Elnath.protect](../../../_protect/astro/Star/Elnath.protect.md) 
+- [Elnath.private](../../../_private/astro/Star/Elnath.private.md) 
+- [Elnath.personal](../../../_personal/astro/Star/Elnath.personal.md) 
+- [Elnath.secret](../../../_secret/astro/Star/Elnath.secret.md)
 

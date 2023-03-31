@@ -1,10 +1,12 @@
-﻿---
-title: "Nickel"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Nickel
 ---
 #chemic/Element 
-[GroupName::[Group-10-Nickel](../Group-10-Nickel.md)]
+[GroupName::[Group-10-Nickel](chemic/Elements/Group-10-Nickel.md)]
 
 [Name-en::Nickel]
 [Name-de::Nickel]
@@ -34,3 +36,12 @@ SpocWebEntityId: 21927
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nickel)
 
+
+
+## Confidential Links & Embeds: 
+- [Nickel](../../../../_public/chemic/Elements/Group-10-Nickel/Nickel.md) 
+- [Nickel.internal](../../../../_internal/chemic/Elements/Group-10-Nickel/Nickel.internal.md) 
+- [Nickel.protect](../../../../_protect/chemic/Elements/Group-10-Nickel/Nickel.protect.md) 
+- [Nickel.private](../../../../_private/chemic/Elements/Group-10-Nickel/Nickel.private.md) 
+- [Nickel.personal](../../../../_personal/chemic/Elements/Group-10-Nickel/Nickel.personal.md) 
+- [Nickel.secret](../../../../_secret/chemic/Elements/Group-10-Nickel/Nickel.secret.md) 

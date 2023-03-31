@@ -1,14 +1,12 @@
-﻿---
-title: "Puppis-33"
+---
+aliases: 
 location: [-40.58,118.05,250]
 type: Station
 tags:
 - astro/Star
 
+title: Puppis-33
 ---
-
-# Puppis-33
-
 SpocWebEntityId: 27616
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28150]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Puppis-33](../../../_public/astro/Star/Puppis-33.md) 
+- [Puppis-33.internal](../../../_internal/astro/Star/Puppis-33.internal.md) 
+- [Puppis-33.protect](../../../_protect/astro/Star/Puppis-33.protect.md) 
+- [Puppis-33.private](../../../_private/astro/Star/Puppis-33.private.md) 
+- [Puppis-33.personal](../../../_personal/astro/Star/Puppis-33.personal.md) 
+- [Puppis-33.secret](../../../_secret/astro/Star/Puppis-33.secret.md) 

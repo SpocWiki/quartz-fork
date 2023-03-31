@@ -1,14 +1,12 @@
-﻿---
-title: "Centauri-36"
+---
+aliases: 
 location: [-39.41,-157.25,400]
 type: Station
 tags:
 - astro/Star
 
+title: Centauri-36
 ---
-
-# Centauri-36
-
 SpocWebEntityId: 27728
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::36]
 [ZodiacId::28101]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Centauri-36](../../../_public/astro/Star/Centauri-36.md) 
+- [Centauri-36.internal](../../../_internal/astro/Star/Centauri-36.internal.md) 
+- [Centauri-36.protect](../../../_protect/astro/Star/Centauri-36.protect.md) 
+- [Centauri-36.private](../../../_private/astro/Star/Centauri-36.private.md) 
+- [Centauri-36.personal](../../../_personal/astro/Star/Centauri-36.personal.md) 
+- [Centauri-36.secret](../../../_secret/astro/Star/Centauri-36.secret.md)
 

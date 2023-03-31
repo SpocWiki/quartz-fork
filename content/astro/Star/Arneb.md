@@ -1,14 +1,12 @@
-﻿---
-title: "Arneb"
+---
+aliases: 
 location: [-17.82,83.175,1000]
 type: Station
 tags:
 - astro/Star
 
+title: Arneb
 ---
-
-# Arneb
-
 SpocWebEntityId: 27329
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28130]
 [NextStarId::27359]
+
+
+
+## Confidential Links & Embeds: 
+- [Arneb](../../../_public/astro/Star/Arneb.md) 
+- [Arneb.internal](../../../_internal/astro/Star/Arneb.internal.md) 
+- [Arneb.protect](../../../_protect/astro/Star/Arneb.protect.md) 
+- [Arneb.private](../../../_private/astro/Star/Arneb.private.md) 
+- [Arneb.personal](../../../_personal/astro/Star/Arneb.personal.md) 
+- [Arneb.secret](../../../_secret/astro/Star/Arneb.secret.md)
 

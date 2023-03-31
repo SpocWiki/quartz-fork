@@ -1,14 +1,12 @@
-﻿---
-title: "Phad"
+---
+aliases: 
 location: [53.69,-181.55,70]
 type: Station
 tags:
 - astro/Star
 
+title: Phad
 ---
-
-# Phad
-
 SpocWebEntityId: 27311
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::27310]
 
+
+
+## Confidential Links & Embeds: 
+- [Phad](../../../_public/astro/Star/Phad.md) 
+- [Phad.internal](../../../_internal/astro/Star/Phad.internal.md) 
+- [Phad.protect](../../../_protect/astro/Star/Phad.protect.md) 
+- [Phad.private](../../../_private/astro/Star/Phad.private.md) 
+- [Phad.personal](../../../_personal/astro/Star/Phad.personal.md) 
+- [Phad.secret](../../../_secret/astro/Star/Phad.secret.md) 

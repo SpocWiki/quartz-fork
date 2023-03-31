@@ -1,14 +1,12 @@
-﻿---
-title: "Draconis-22"
+---
+aliases: 
 location: [72.73,-84.725,25]
 type: Station
 tags:
 - astro/Star
 
+title: Draconis-22
 ---
-
-# Draconis-22
-
 SpocWebEntityId: 27545
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::22]
 [ZodiacId::28116]
 [NextStarId::27633]
+
+
+
+## Confidential Links & Embeds: 
+- [Draconis-22](../../../_public/astro/Star/Draconis-22.md) 
+- [Draconis-22.internal](../../../_internal/astro/Star/Draconis-22.internal.md) 
+- [Draconis-22.protect](../../../_protect/astro/Star/Draconis-22.protect.md) 
+- [Draconis-22.private](../../../_private/astro/Star/Draconis-22.private.md) 
+- [Draconis-22.personal](../../../_personal/astro/Star/Draconis-22.personal.md) 
+- [Draconis-22.secret](../../../_secret/astro/Star/Draconis-22.secret.md)
 

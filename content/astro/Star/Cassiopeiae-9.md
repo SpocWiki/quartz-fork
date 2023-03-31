@@ -1,14 +1,12 @@
-﻿---
-title: "Cassiopeiae-9"
+---
+aliases: 
 location: [67.4,37.275,150]
 type: Station
 tags:
 - astro/Star
 
+title: Cassiopeiae-9
 ---
-
-# Cassiopeiae-9
-
 SpocWebEntityId: 27937
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::9]
 [ZodiacId::28100]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Cassiopeiae-9](../../../_public/astro/Star/Cassiopeiae-9.md) 
+- [Cassiopeiae-9.internal](../../../_internal/astro/Star/Cassiopeiae-9.internal.md) 
+- [Cassiopeiae-9.protect](../../../_protect/astro/Star/Cassiopeiae-9.protect.md) 
+- [Cassiopeiae-9.private](../../../_private/astro/Star/Cassiopeiae-9.private.md) 
+- [Cassiopeiae-9.personal](../../../_personal/astro/Star/Cassiopeiae-9.personal.md) 
+- [Cassiopeiae-9.secret](../../../_secret/astro/Star/Cassiopeiae-9.secret.md)
 

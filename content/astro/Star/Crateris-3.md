@@ -1,14 +1,12 @@
-﻿---
-title: "Crateris-3"
+---
+aliases: 
 location: [-17.68,171.225,100]
 type: Station
 tags:
 - astro/Star
 
+title: Crateris-3
 ---
-
-# Crateris-3
-
 SpocWebEntityId: 27809
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::3]
 [ZodiacId::28111]
 [NextStarId::27563]
+
+
+
+## Confidential Links & Embeds: 
+- [Crateris-3](../../../_public/astro/Star/Crateris-3.md) 
+- [Crateris-3.internal](../../../_internal/astro/Star/Crateris-3.internal.md) 
+- [Crateris-3.protect](../../../_protect/astro/Star/Crateris-3.protect.md) 
+- [Crateris-3.private](../../../_private/astro/Star/Crateris-3.private.md) 
+- [Crateris-3.personal](../../../_personal/astro/Star/Crateris-3.personal.md) 
+- [Crateris-3.secret](../../../_secret/astro/Star/Crateris-3.secret.md)
 

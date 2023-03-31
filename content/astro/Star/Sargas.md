@@ -1,14 +1,12 @@
-﻿---
-title: "Sargas"
+---
+aliases: 
 location: [-43,-95.675,300]
 type: Station
 tags:
 - astro/Star
 
+title: Sargas
 ---
-
-# Sargas
-
 SpocWebEntityId: 27272
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28155]
 [NextStarId::27479]
 
+
+
+## Confidential Links & Embeds: 
+- [Sargas](../../../_public/astro/Star/Sargas.md) 
+- [Sargas.internal](../../../_internal/astro/Star/Sargas.internal.md) 
+- [Sargas.protect](../../../_protect/astro/Star/Sargas.protect.md) 
+- [Sargas.private](../../../_private/astro/Star/Sargas.private.md) 
+- [Sargas.personal](../../../_personal/astro/Star/Sargas.personal.md) 
+- [Sargas.secret](../../../_secret/astro/Star/Sargas.secret.md) 

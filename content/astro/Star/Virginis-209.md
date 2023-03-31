@@ -1,14 +1,12 @@
-﻿---
-title: "Virginis-209"
+---
+aliases: 
 location: [1.89,-138.45,120]
 type: Station
 tags:
 - astro/Star
 
+title: Virginis-209
 ---
-
-# Virginis-209
-
 SpocWebEntityId: 27601
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28168]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Virginis-209](../../../_public/astro/Star/Virginis-209.md) 
+- [Virginis-209.internal](../../../_internal/astro/Star/Virginis-209.internal.md) 
+- [Virginis-209.protect](../../../_protect/astro/Star/Virginis-209.protect.md) 
+- [Virginis-209.private](../../../_private/astro/Star/Virginis-209.private.md) 
+- [Virginis-209.personal](../../../_personal/astro/Star/Virginis-209.personal.md) 
+- [Virginis-209.secret](../../../_secret/astro/Star/Virginis-209.secret.md) 

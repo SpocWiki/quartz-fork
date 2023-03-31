@@ -1,0 +1,42 @@
+---
+aliases: 
+location: [53.63,19.15]
+mapzoom: [7,12] 
+mapmarker: city 
+type: City
+tags:
+- geo/City
+
+
+SpocWebEntityId: 35615
+isDeleted: false
+confidential: public
+
+title: Wilkau~Westpommern
+---
+[geo-lon::19.15]
+[geo-lat::53.63]
+[name::Wilkau~Westpommern]
+[State::]
+[Country::[Poland](geo/Continent/Europe/Poland.md)]
+[StateId::]
+[Population::]
+[Unknown::]
+
+
+```leaflet
+id: Wilkau~Westpommern
+coordinates: [Wilkau~Westpommern](geo/Continent/Europe/Poland/City/Wilkau~Westpommern.md)
+markerFile: [Wilkau~Westpommern](geo/Continent/Europe/Poland/City/Wilkau~Westpommern.md)
+defaultZoom: 11 
+maxZoom: 18
+```
+
+
+## Confidential Links & Embeds: 
+- [Wilkau~Westpommern](../../../../../../_public/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.md) 
+- [Wilkau~Westpommern.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.internal.md) 
+- [Wilkau~Westpommern.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.protect.md) 
+- [Wilkau~Westpommern.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.private.md) 
+- [Wilkau~Westpommern.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.personal.md) 
+- [Wilkau~Westpommern.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.secret.md) 

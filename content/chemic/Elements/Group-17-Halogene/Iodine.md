@@ -1,12 +1,14 @@
-﻿---
-title: "Iodine"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21949
+title: Iodine
 ---
 
 #chemic/Element 
-[GroupName::[Group-17-Halogene](../Group-17-Halogene.md)]
+[GroupName::[Group-17-Halogene](chemic/Elements/Group-17-Halogene.md)]
 
 [Name-en::Iodine]
 [Name-de::Iod]
@@ -35,3 +37,11 @@ SpocWebEntityId: 21949
 > It is on the World Health Organization's List of Essential Medicines.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iodine)
+
+## Confidential Links & Embeds: 
+- [Iodine](../../../../_public/chemic/Elements/Group-17-Halogene/Iodine.md) 
+- [Iodine.internal](../../../../_internal/chemic/Elements/Group-17-Halogene/Iodine.internal.md) 
+- [Iodine.protect](../../../../_protect/chemic/Elements/Group-17-Halogene/Iodine.protect.md) 
+- [Iodine.private](../../../../_private/chemic/Elements/Group-17-Halogene/Iodine.private.md) 
+- [Iodine.personal](../../../../_personal/chemic/Elements/Group-17-Halogene/Iodine.personal.md) 
+- [Iodine.secret](../../../../_secret/chemic/Elements/Group-17-Halogene/Iodine.secret.md) 

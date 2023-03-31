@@ -1,14 +1,12 @@
-﻿---
-title: "Eridani-139"
+---
+aliases: 
 location: [-10.26,63.6,300]
 type: Station
 tags:
 - astro/Star
 
+title: Eridani-139
 ---
-
-# Eridani-139
-
 SpocWebEntityId: 28006
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::139]
 [ZodiacId::28118]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Eridani-139](../../../_public/astro/Star/Eridani-139.md) 
+- [Eridani-139.internal](../../../_internal/astro/Star/Eridani-139.internal.md) 
+- [Eridani-139.protect](../../../_protect/astro/Star/Eridani-139.protect.md) 
+- [Eridani-139.private](../../../_private/astro/Star/Eridani-139.private.md) 
+- [Eridani-139.personal](../../../_personal/astro/Star/Eridani-139.personal.md) 
+- [Eridani-139.secret](../../../_secret/astro/Star/Eridani-139.secret.md)
 

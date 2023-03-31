@@ -1,14 +1,12 @@
-﻿---
-title: "Orionis-7"
+---
+aliases: 
 location: [-2.4,81.125,800]
 type: Station
 tags:
 - astro/Star
 
+title: Orionis-7
 ---
-
-# Orionis-7
-
 SpocWebEntityId: 27489
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28142]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Orionis-7](../../../_public/astro/Star/Orionis-7.md) 
+- [Orionis-7.internal](../../../_internal/astro/Star/Orionis-7.internal.md) 
+- [Orionis-7.protect](../../../_protect/astro/Star/Orionis-7.protect.md) 
+- [Orionis-7.private](../../../_private/astro/Star/Orionis-7.private.md) 
+- [Orionis-7.personal](../../../_personal/astro/Star/Orionis-7.personal.md) 
+- [Orionis-7.secret](../../../_secret/astro/Star/Orionis-7.secret.md) 

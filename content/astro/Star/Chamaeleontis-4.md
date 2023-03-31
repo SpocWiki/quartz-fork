@@ -1,14 +1,12 @@
-﻿---
-title: "Chamaeleontis-4"
+---
+aliases: 
 location: [-80.52,161.4,800]
 type: Station
 tags:
 - astro/Star
 
+title: Chamaeleontis-4
 ---
-
-# Chamaeleontis-4
-
 SpocWebEntityId: 27825
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::4]
 [ZodiacId::28104]
 [NextStarId::27824]
+
+
+
+## Confidential Links & Embeds: 
+- [Chamaeleontis-4](../../../_public/astro/Star/Chamaeleontis-4.md) 
+- [Chamaeleontis-4.internal](../../../_internal/astro/Star/Chamaeleontis-4.internal.md) 
+- [Chamaeleontis-4.protect](../../../_protect/astro/Star/Chamaeleontis-4.protect.md) 
+- [Chamaeleontis-4.private](../../../_private/astro/Star/Chamaeleontis-4.private.md) 
+- [Chamaeleontis-4.personal](../../../_personal/astro/Star/Chamaeleontis-4.personal.md) 
+- [Chamaeleontis-4.secret](../../../_secret/astro/Star/Chamaeleontis-4.secret.md)
 

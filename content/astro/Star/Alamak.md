@@ -1,5 +1,5 @@
-﻿---
-title: "Alamak"
+---
+aliases: 
 location: [42.33,30.975,300]
 type: Station
 SpocWebEntityId: 27294
@@ -9,10 +9,8 @@ confidential: public
 tags:
 - astro/Star
 
+title: Alamak
 ---
-
-# Alamak
-
 
 [star-class::K1]
 [star-class-id::28192]
@@ -28,4 +26,14 @@ tags:
 [Zodiac-index::3]
 [ZodiacId::28083]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Alamak](../../../_public/astro/Star/Alamak.md) 
+- [Alamak.internal](../../../_internal/astro/Star/Alamak.internal.md) 
+- [Alamak.protect](../../../_protect/astro/Star/Alamak.protect.md) 
+- [Alamak.private](../../../_private/astro/Star/Alamak.private.md) 
+- [Alamak.personal](../../../_personal/astro/Star/Alamak.personal.md) 
+- [Alamak.secret](../../../_secret/astro/Star/Alamak.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Herculis-7"
+---
+aliases: 
 location: [38.92,-109.275,80]
 type: Station
 tags:
 - astro/Star
 
+title: Herculis-7
 ---
-
-# Herculis-7
-
 SpocWebEntityId: 27515
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::7]
 [ZodiacId::28122]
 [NextStarId::27354]
+
+
+
+## Confidential Links & Embeds: 
+- [Herculis-7](../../../_public/astro/Star/Herculis-7.md) 
+- [Herculis-7.internal](../../../_internal/astro/Star/Herculis-7.internal.md) 
+- [Herculis-7.protect](../../../_protect/astro/Star/Herculis-7.protect.md) 
+- [Herculis-7.private](../../../_private/astro/Star/Herculis-7.private.md) 
+- [Herculis-7.personal](../../../_personal/astro/Star/Herculis-7.personal.md) 
+- [Herculis-7.secret](../../../_secret/astro/Star/Herculis-7.secret.md)
 

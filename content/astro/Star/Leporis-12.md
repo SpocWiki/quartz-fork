@@ -1,14 +1,12 @@
-﻿---
-title: "Leporis-12"
+---
+aliases: 
 location: [-16.21,78.225,200]
 type: Station
 tags:
 - astro/Star
 
+title: Leporis-12
 ---
-
-# Leporis-12
-
 SpocWebEntityId: 27401
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28130]
 [NextStarId::27329]
 
+
+
+## Confidential Links & Embeds: 
+- [Leporis-12](../../../_public/astro/Star/Leporis-12.md) 
+- [Leporis-12.internal](../../../_internal/astro/Star/Leporis-12.internal.md) 
+- [Leporis-12.protect](../../../_protect/astro/Star/Leporis-12.protect.md) 
+- [Leporis-12.private](../../../_private/astro/Star/Leporis-12.private.md) 
+- [Leporis-12.personal](../../../_personal/astro/Star/Leporis-12.personal.md) 
+- [Leporis-12.secret](../../../_secret/astro/Star/Leporis-12.secret.md) 

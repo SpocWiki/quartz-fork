@@ -1,14 +1,12 @@
-﻿---
-title: "Scheat"
+---
+aliases: 
 location: [28.08,-14.05,200]
 type: Station
 tags:
 - astro/Star
 
+title: Scheat
 ---
-
-# Scheat
-
 SpocWebEntityId: 27305
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28144]
 [NextStarId::27385]
 
+
+
+## Confidential Links & Embeds: 
+- [Scheat](../../../_public/astro/Star/Scheat.md) 
+- [Scheat.internal](../../../_internal/astro/Star/Scheat.internal.md) 
+- [Scheat.protect](../../../_protect/astro/Star/Scheat.protect.md) 
+- [Scheat.private](../../../_private/astro/Star/Scheat.private.md) 
+- [Scheat.personal](../../../_personal/astro/Star/Scheat.personal.md) 
+- [Scheat.secret](../../../_secret/astro/Star/Scheat.secret.md) 

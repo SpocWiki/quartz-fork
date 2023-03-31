@@ -1,14 +1,12 @@
-﻿---
-title: "Kochab"
+---
+aliases: 
 location: [74.16,-137.325,100]
 type: Station
 tags:
 - astro/Star
 
+title: Kochab
 ---
-
-# Kochab
-
 SpocWebEntityId: 27284
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28166]
 [NextStarId::27419]
+
+
+
+## Confidential Links & Embeds: 
+- [Kochab](../../../_public/astro/Star/Kochab.md) 
+- [Kochab.internal](../../../_internal/astro/Star/Kochab.internal.md) 
+- [Kochab.protect](../../../_protect/astro/Star/Kochab.protect.md) 
+- [Kochab.private](../../../_private/astro/Star/Kochab.private.md) 
+- [Kochab.personal](../../../_personal/astro/Star/Kochab.personal.md) 
+- [Kochab.secret](../../../_secret/astro/Star/Kochab.secret.md)
 

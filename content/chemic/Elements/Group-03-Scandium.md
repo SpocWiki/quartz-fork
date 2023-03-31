@@ -1,13 +1,15 @@
-﻿---
-title: "Group-03-Scandium"
+---
+aliases: 
+tags: 
 type: ElementGroup
+title: Group-03-Scandium
 ---
 #chemic/Group 
 
-4) [Scandium](Group-03-Scandium/Scandium.md)
-5) [Yttrium](Group-03-Scandium/Yttrium.md)
-6) [Lutetium](Actinide-Group/Lutetium.md)
-7) [Lawrencium](Actinide-Group/Lawrencium.md)
+4) [Scandium](chemic/Elements/Group-03-Scandium/Scandium.md)
+5) [Yttrium](chemic/Elements/Group-03-Scandium/Yttrium.md)
+6) [Lutetium](chemic/Elements/Actinide-Group/Lutetium.md)
+7) [Lawrencium](chemic/Elements/Actinide-Group/Lawrencium.md)
 
 
 > Group 3 is the first group of transition metals in the periodic table. This group is closely related to the rare-earth elements. It contains the four elements scandium (Sc), yttrium (Y), lutetium (Lu), and lawrencium (Lr). The group is also called the scandium group or scandium family after its lightest member.
@@ -21,3 +23,12 @@ type: ElementGroup
 > [Wikipedia](https://en.wikipedia.org/wiki/Group%203%20element)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Group-03-Scandium](../../../_public/chemic/Elements/Group-03-Scandium.md) 
+- [Group-03-Scandium.internal](../../../_internal/chemic/Elements/Group-03-Scandium.internal.md) 
+- [Group-03-Scandium.protect](../../../_protect/chemic/Elements/Group-03-Scandium.protect.md) 
+- [Group-03-Scandium.private](../../../_private/chemic/Elements/Group-03-Scandium.private.md) 
+- [Group-03-Scandium.personal](../../../_personal/chemic/Elements/Group-03-Scandium.personal.md) 
+- [Group-03-Scandium.secret](../../../_secret/chemic/Elements/Group-03-Scandium.secret.md) 

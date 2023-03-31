@@ -1,14 +1,12 @@
-﻿---
-title: "Carinae-46"
+---
+aliases: 
 location: [-74.02,156.1,60]
 type: Station
 tags:
 - astro/Star
 
+title: Carinae-46
 ---
-
-# Carinae-46
-
 SpocWebEntityId: 27722
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::46]
 [ZodiacId::28099]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Carinae-46](../../../_public/astro/Star/Carinae-46.md) 
+- [Carinae-46.internal](../../../_internal/astro/Star/Carinae-46.internal.md) 
+- [Carinae-46.protect](../../../_protect/astro/Star/Carinae-46.protect.md) 
+- [Carinae-46.private](../../../_private/astro/Star/Carinae-46.private.md) 
+- [Carinae-46.personal](../../../_personal/astro/Star/Carinae-46.personal.md) 
+- [Carinae-46.secret](../../../_secret/astro/Star/Carinae-46.secret.md)
 

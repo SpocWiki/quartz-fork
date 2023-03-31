@@ -1,14 +1,12 @@
-﻿---
-title: "Sadalmelik"
+---
+aliases: 
 location: [-0.32,-28.55,1000]
 type: Station
 tags:
 - astro/Star
 
+title: Sadalmelik
 ---
-
-# Sadalmelik
-
 SpocWebEntityId: 27412
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28086]
 [NextStarId::27662]
 
+
+
+## Confidential Links & Embeds: 
+- [Sadalmelik](../../../_public/astro/Star/Sadalmelik.md) 
+- [Sadalmelik.internal](../../../_internal/astro/Star/Sadalmelik.internal.md) 
+- [Sadalmelik.protect](../../../_protect/astro/Star/Sadalmelik.protect.md) 
+- [Sadalmelik.private](../../../_private/astro/Star/Sadalmelik.private.md) 
+- [Sadalmelik.personal](../../../_personal/astro/Star/Sadalmelik.personal.md) 
+- [Sadalmelik.secret](../../../_secret/astro/Star/Sadalmelik.secret.md) 

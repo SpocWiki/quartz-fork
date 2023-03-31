@@ -1,14 +1,12 @@
-﻿---
-title: "Pleione"
+---
+aliases: 
 location: [24.137,57.296,400]
 type: Station
 tags:
 - astro/Star
 
+title: Pleione
 ---
-
-# Pleione
-
 SpocWebEntityId: 28007
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Pleione](../../../_public/astro/Star/Pleione.md) 
+- [Pleione.internal](../../../_internal/astro/Star/Pleione.internal.md) 
+- [Pleione.protect](../../../_protect/astro/Star/Pleione.protect.md) 
+- [Pleione.private](../../../_private/astro/Star/Pleione.private.md) 
+- [Pleione.personal](../../../_personal/astro/Star/Pleione.personal.md) 
+- [Pleione.secret](../../../_secret/astro/Star/Pleione.secret.md) 

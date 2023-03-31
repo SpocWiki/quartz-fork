@@ -1,14 +1,12 @@
-﻿---
-title: "Leonis-154"
+---
+aliases: 
 location: [24.75,163.9,200]
 type: Station
 tags:
 - astro/Star
 
+title: Leonis-154
 ---
-
-# Leonis-154
-
 SpocWebEntityId: 27891
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::154]
 [ZodiacId::28128]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Leonis-154](../../../_public/astro/Star/Leonis-154.md) 
+- [Leonis-154.internal](../../../_internal/astro/Star/Leonis-154.internal.md) 
+- [Leonis-154.protect](../../../_protect/astro/Star/Leonis-154.protect.md) 
+- [Leonis-154.private](../../../_private/astro/Star/Leonis-154.private.md) 
+- [Leonis-154.personal](../../../_personal/astro/Star/Leonis-154.personal.md) 
+- [Leonis-154.secret](../../../_secret/astro/Star/Leonis-154.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Gruis-5"
+---
+aliases: 
 location: [-51.32,-17.85,80]
 type: Station
 tags:
 - astro/Star
 
+title: Gruis-5
 ---
-
-# Gruis-5
-
 SpocWebEntityId: 27542
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::5]
 [ZodiacId::28121]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Gruis-5](../../../_public/astro/Star/Gruis-5.md) 
+- [Gruis-5.internal](../../../_internal/astro/Star/Gruis-5.internal.md) 
+- [Gruis-5.protect](../../../_protect/astro/Star/Gruis-5.protect.md) 
+- [Gruis-5.private](../../../_private/astro/Star/Gruis-5.private.md) 
+- [Gruis-5.personal](../../../_personal/astro/Star/Gruis-5.personal.md) 
+- [Gruis-5.secret](../../../_secret/astro/Star/Gruis-5.secret.md)
 

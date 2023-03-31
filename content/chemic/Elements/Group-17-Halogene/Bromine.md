@@ -1,12 +1,14 @@
-﻿---
-title: "Bromine"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21933
+title: Bromine
 ---
 
 #chemic/Element 
-[GroupName::[Group-17-Halogene](../Group-17-Halogene.md)]
+[GroupName::[Group-17-Halogene](chemic/Elements/Group-17-Halogene.md)]
 
 [Name-en::Bromine]
 [Name-de::Brom]
@@ -37,3 +39,11 @@ SpocWebEntityId: 21933
 > Large amounts of bromide salts are toxic from the action of soluble bromide ions, causing bromism. However, a clear biological role for bromide ions and hypobromous acid has recently been elucidated, and it now appears that bromine is an essential trace element in humans. The role of biological organobromine compounds in sea life such as algae has been known for much longer. As a pharmaceutical, the simple bromide ion (Br−) has inhibitory effects on the central nervous system, and bromide salts were once a major medical sedative, before replacement by shorter-acting drugs. They retain niche uses as antiepileptics.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bromine)
+
+## Confidential Links & Embeds: 
+- [Bromine](../../../../_public/chemic/Elements/Group-17-Halogene/Bromine.md) 
+- [Bromine.internal](../../../../_internal/chemic/Elements/Group-17-Halogene/Bromine.internal.md) 
+- [Bromine.protect](../../../../_protect/chemic/Elements/Group-17-Halogene/Bromine.protect.md) 
+- [Bromine.private](../../../../_private/chemic/Elements/Group-17-Halogene/Bromine.private.md) 
+- [Bromine.personal](../../../../_personal/chemic/Elements/Group-17-Halogene/Bromine.personal.md) 
+- [Bromine.secret](../../../../_secret/chemic/Elements/Group-17-Halogene/Bromine.secret.md) 

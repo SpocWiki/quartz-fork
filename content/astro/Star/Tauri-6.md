@@ -1,14 +1,12 @@
-﻿---
-title: "Tauri-6"
+---
+aliases: 
 location: [21.14,84.4,500]
 type: Station
 tags:
 - astro/Star
 
+title: Tauri-6
 ---
-
-# Tauri-6
-
 SpocWebEntityId: 27400
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::27243]
 
+
+
+## Confidential Links & Embeds: 
+- [Tauri-6](../../../_public/astro/Star/Tauri-6.md) 
+- [Tauri-6.internal](../../../_internal/astro/Star/Tauri-6.internal.md) 
+- [Tauri-6.protect](../../../_protect/astro/Star/Tauri-6.protect.md) 
+- [Tauri-6.private](../../../_private/astro/Star/Tauri-6.private.md) 
+- [Tauri-6.personal](../../../_personal/astro/Star/Tauri-6.personal.md) 
+- [Tauri-6.secret](../../../_secret/astro/Star/Tauri-6.secret.md) 

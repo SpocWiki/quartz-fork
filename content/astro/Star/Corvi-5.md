@@ -1,14 +1,12 @@
-﻿---
-title: "Corvi-5"
+---
+aliases: 
 location: [-22.62,-177.475,100]
 type: Station
 tags:
 - astro/Star
 
+title: Corvi-5
 ---
-
-# Corvi-5
-
 SpocWebEntityId: 27406
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::5]
 [ZodiacId::28110]
 [NextStarId::27342]
+
+
+
+## Confidential Links & Embeds: 
+- [Corvi-5](../../../_public/astro/Star/Corvi-5.md) 
+- [Corvi-5.internal](../../../_internal/astro/Star/Corvi-5.internal.md) 
+- [Corvi-5.protect](../../../_protect/astro/Star/Corvi-5.protect.md) 
+- [Corvi-5.private](../../../_private/astro/Star/Corvi-5.private.md) 
+- [Corvi-5.personal](../../../_personal/astro/Star/Corvi-5.personal.md) 
+- [Corvi-5.secret](../../../_secret/astro/Star/Corvi-5.secret.md)
 

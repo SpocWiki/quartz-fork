@@ -1,12 +1,14 @@
-﻿---
-title: "Europium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21959
+title: Europium
 ---
 
 #chemic/Element 
-[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
+[GroupName::[Lanthanide-Group](chemic/Elements/Lanthanide-Group.md)]
 
 [Name-en::Europium]
 [Name-de::Europium]
@@ -33,3 +35,12 @@ SpocWebEntityId: 21959
 > [Wikipedia](https://en.wikipedia.org/wiki/Europium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Europium](../../../../_public/chemic/Elements/Lanthanide-Group/Europium.md) 
+- [Europium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Europium.internal.md) 
+- [Europium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Europium.protect.md) 
+- [Europium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Europium.private.md) 
+- [Europium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Europium.personal.md) 
+- [Europium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Europium.secret.md) 

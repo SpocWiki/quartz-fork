@@ -1,12 +1,14 @@
-﻿---
-title: "Oxygen"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21910
+title: Oxygen
 ---
 
 #chemic/Element 
-[GroupName::[Group-16-Chalcogene](../Group-16-Chalcogene.md)]
+[GroupName::[Group-16-Chalcogene](chemic/Elements/Group-16-Chalcogene.md)]
 
 [Name-en::Oxygen]
 [Name-de::Sauerstoff]
@@ -35,3 +37,11 @@ SpocWebEntityId: 21910
 > Common uses of oxygen include production of steel, plastics and textiles, brazing, welding and cutting of steels and other metals, rocket propellant, oxygen therapy, and life support systems in aircraft, submarines, spaceflight and diving.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxygen)
+
+## Confidential Links & Embeds: 
+- [Oxygen](../../../../_public/chemic/Elements/Group-16-Chalcogene/Oxygen.md) 
+- [Oxygen.internal](../../../../_internal/chemic/Elements/Group-16-Chalcogene/Oxygen.internal.md) 
+- [Oxygen.protect](../../../../_protect/chemic/Elements/Group-16-Chalcogene/Oxygen.protect.md) 
+- [Oxygen.private](../../../../_private/chemic/Elements/Group-16-Chalcogene/Oxygen.private.md) 
+- [Oxygen.personal](../../../../_personal/chemic/Elements/Group-16-Chalcogene/Oxygen.personal.md) 
+- [Oxygen.secret](../../../../_secret/chemic/Elements/Group-16-Chalcogene/Oxygen.secret.md) 

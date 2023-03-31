@@ -1,10 +1,12 @@
-﻿---
-title: "Cobalt"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Cobalt
 ---
 #chemic/Element 
-[GroupName::[Group-09-Cobalt](../Group-09-Cobalt.md)]
+[GroupName::[Group-09-Cobalt](chemic/Elements/Group-09-Cobalt.md)]
 
 [Name-en::Cobalt]
 [Name-de::Kobalt]
@@ -37,3 +39,12 @@ SpocWebEntityId: 21926
 > [Wikipedia](https://en.wikipedia.org/wiki/Cobalt)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Cobalt](../../../../_public/chemic/Elements/Group-09-Cobalt/Cobalt.md) 
+- [Cobalt.internal](../../../../_internal/chemic/Elements/Group-09-Cobalt/Cobalt.internal.md) 
+- [Cobalt.protect](../../../../_protect/chemic/Elements/Group-09-Cobalt/Cobalt.protect.md) 
+- [Cobalt.private](../../../../_private/chemic/Elements/Group-09-Cobalt/Cobalt.private.md) 
+- [Cobalt.personal](../../../../_personal/chemic/Elements/Group-09-Cobalt/Cobalt.personal.md) 
+- [Cobalt.secret](../../../../_secret/chemic/Elements/Group-09-Cobalt/Cobalt.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Antliae-1"
+---
+aliases: 
 location: [-31.068,156.788,280]
 type: Station
 tags:
 - astro/Star
 
+title: Antliae-1
 ---
-
-# Antliae-1
-
 SpocWebEntityId: 27889
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28084]
 [NextStarId::28050]
+
+
+
+## Confidential Links & Embeds: 
+- [Antliae-1](../../../_public/astro/Star/Antliae-1.md) 
+- [Antliae-1.internal](../../../_internal/astro/Star/Antliae-1.internal.md) 
+- [Antliae-1.protect](../../../_protect/astro/Star/Antliae-1.protect.md) 
+- [Antliae-1.private](../../../_private/astro/Star/Antliae-1.private.md) 
+- [Antliae-1.personal](../../../_personal/astro/Star/Antliae-1.personal.md) 
+- [Antliae-1.secret](../../../_secret/astro/Star/Antliae-1.secret.md)
 

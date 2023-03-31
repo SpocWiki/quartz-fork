@@ -1,3 +1,8 @@
+---
+aliases: 
+tags: 
+title: Contributor Covenant Code of Conduct
+---
 # Contributor Covenant Code of Conduct
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
@@ -132,4 +137,14 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+
+
+## Confidential Links & Embeds: 
+- [Code_of_Conduct](../_public/Code_of_Conduct.md) 
+- [Code_of_Conduct.internal](../_internal/Code_of_Conduct.internal.md) 
+- [Code_of_Conduct.protect](../_protect/Code_of_Conduct.protect.md) 
+- [Code_of_Conduct.private](../_private/Code_of_Conduct.private.md) 
+- [Code_of_Conduct.personal](../_personal/Code_of_Conduct.personal.md) 
+- [Code_of_Conduct.secret](../_secret/Code_of_Conduct.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Nekkar"
+---
+aliases: 
 location: [40.39,-134.525,150]
 type: Station
 tags:
 - astro/Star
 
+title: Nekkar
 ---
-
-# Nekkar
-
 SpocWebEntityId: 27513
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28091]
 [NextStarId::27397]
 
+
+
+## Confidential Links & Embeds: 
+- [Nekkar](../../../_public/astro/Star/Nekkar.md) 
+- [Nekkar.internal](../../../_internal/astro/Star/Nekkar.internal.md) 
+- [Nekkar.protect](../../../_protect/astro/Star/Nekkar.protect.md) 
+- [Nekkar.private](../../../_private/astro/Star/Nekkar.private.md) 
+- [Nekkar.personal](../../../_personal/astro/Star/Nekkar.personal.md) 
+- [Nekkar.secret](../../../_secret/astro/Star/Nekkar.secret.md) 

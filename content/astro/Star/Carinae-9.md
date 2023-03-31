@@ -1,14 +1,12 @@
-﻿---
-title: "Carinae-9"
+---
+aliases: 
 location: [-59.28,139.275,800]
 type: Station
 tags:
 - astro/Star
 
+title: Carinae-9
 ---
-
-# Carinae-9
-
 SpocWebEntityId: 27307
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::9]
 [ZodiacId::28099]
 [NextStarId::27503]
+
+
+
+## Confidential Links & Embeds: 
+- [Carinae-9](../../../_public/astro/Star/Carinae-9.md) 
+- [Carinae-9.internal](../../../_internal/astro/Star/Carinae-9.internal.md) 
+- [Carinae-9.protect](../../../_protect/astro/Star/Carinae-9.protect.md) 
+- [Carinae-9.private](../../../_private/astro/Star/Carinae-9.private.md) 
+- [Carinae-9.personal](../../../_personal/astro/Star/Carinae-9.personal.md) 
+- [Carinae-9.secret](../../../_secret/astro/Star/Carinae-9.secret.md)
 

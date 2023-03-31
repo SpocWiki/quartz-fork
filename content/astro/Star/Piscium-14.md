@@ -1,14 +1,12 @@
-﻿---
-title: "Piscium-14"
+---
+aliases: 
 location: [3.19,28.4,250]
 type: Station
 tags:
 - astro/Star
 
+title: Piscium-14
 ---
-
-# Piscium-14
-
 SpocWebEntityId: 27960
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28148]
 [NextStarId::27915]
 
+
+
+## Confidential Links & Embeds: 
+- [Piscium-14](../../../_public/astro/Star/Piscium-14.md) 
+- [Piscium-14.internal](../../../_internal/astro/Star/Piscium-14.internal.md) 
+- [Piscium-14.protect](../../../_protect/astro/Star/Piscium-14.protect.md) 
+- [Piscium-14.private](../../../_private/astro/Star/Piscium-14.private.md) 
+- [Piscium-14.personal](../../../_personal/astro/Star/Piscium-14.personal.md) 
+- [Piscium-14.secret](../../../_secret/astro/Star/Piscium-14.secret.md) 

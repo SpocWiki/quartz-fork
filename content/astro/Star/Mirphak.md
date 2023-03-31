@@ -1,14 +1,12 @@
-﻿---
-title: "Mirphak"
+---
+aliases: 
 location: [49.86,51.075,600]
 type: Station
 tags:
 - astro/Star
 
+title: Mirphak
 ---
-
-# Mirphak
-
 SpocWebEntityId: 27262
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28145]
 [NextStarId::27373]
 
+
+
+## Confidential Links & Embeds: 
+- [Mirphak](../../../_public/astro/Star/Mirphak.md) 
+- [Mirphak.internal](../../../_internal/astro/Star/Mirphak.internal.md) 
+- [Mirphak.protect](../../../_protect/astro/Star/Mirphak.protect.md) 
+- [Mirphak.private](../../../_private/astro/Star/Mirphak.private.md) 
+- [Mirphak.personal](../../../_personal/astro/Star/Mirphak.personal.md) 
+- [Mirphak.secret](../../../_secret/astro/Star/Mirphak.secret.md) 

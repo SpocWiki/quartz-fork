@@ -1,12 +1,14 @@
-﻿---
-title: "Thulium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21965
+title: Thulium
 ---
 
 #chemic/Element 
-[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
+[GroupName::[Lanthanide-Group](chemic/Elements/Lanthanide-Group.md)]
 
 [Name-en::Thulium]
 [Name-de::Thulium]
@@ -34,3 +36,11 @@ SpocWebEntityId: 21965
 > Thulium is the second-least abundant of the lanthanides, after radioactively unstable promethium which is only found in trace quantities on Earth. It is an easily workable metal with a bright silvery-gray luster. It is fairly soft and slowly tarnishes in air. Despite its high price and rarity, thulium is used as the radiation source in portable X-ray devices, and in some solid-state lasers. It has no significant biological role and is not particularly toxic.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thulium)
+
+## Confidential Links & Embeds: 
+- [Thulium](../../../../_public/chemic/Elements/Lanthanide-Group/Thulium.md) 
+- [Thulium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Thulium.internal.md) 
+- [Thulium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Thulium.protect.md) 
+- [Thulium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Thulium.private.md) 
+- [Thulium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Thulium.personal.md) 
+- [Thulium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Thulium.secret.md) 

@@ -1,14 +1,12 @@
-﻿---
-title: "Deneb"
+---
+aliases: 
 location: [45.28,-49.65,2000]
 type: Station
 tags:
 - astro/Star
 
+title: Deneb
 ---
-
-# Deneb
-
 SpocWebEntityId: 27248
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28113]
 [NextStarId::27297]
+
+
+
+## Confidential Links & Embeds: 
+- [Deneb](../../../_public/astro/Star/Deneb.md) 
+- [Deneb.internal](../../../_internal/astro/Star/Deneb.internal.md) 
+- [Deneb.protect](../../../_protect/astro/Star/Deneb.protect.md) 
+- [Deneb.private](../../../_private/astro/Star/Deneb.private.md) 
+- [Deneb.personal](../../../_personal/astro/Star/Deneb.personal.md) 
+- [Deneb.secret](../../../_secret/astro/Star/Deneb.secret.md)
 

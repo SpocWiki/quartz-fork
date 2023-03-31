@@ -1,14 +1,12 @@
-﻿---
-title: "Octantis-13"
+---
+aliases: 
 location: [-77.39,-34.625,90]
 type: Station
 tags:
 - astro/Star
 
+title: Octantis-13
 ---
-
-# Octantis-13
-
 SpocWebEntityId: 27673
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28140]
 [NextStarId::27862]
 
+
+
+## Confidential Links & Embeds: 
+- [Octantis-13](../../../_public/astro/Star/Octantis-13.md) 
+- [Octantis-13.internal](../../../_internal/astro/Star/Octantis-13.internal.md) 
+- [Octantis-13.protect](../../../_protect/astro/Star/Octantis-13.protect.md) 
+- [Octantis-13.private](../../../_private/astro/Star/Octantis-13.private.md) 
+- [Octantis-13.personal](../../../_personal/astro/Star/Octantis-13.personal.md) 
+- [Octantis-13.secret](../../../_secret/astro/Star/Octantis-13.secret.md) 

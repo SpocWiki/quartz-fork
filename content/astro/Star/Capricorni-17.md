@@ -1,14 +1,12 @@
-﻿---
-title: "Capricorni-17"
+---
+aliases: 
 location: [-17.82,-52.775,100]
 type: Station
 tags:
 - astro/Star
 
+title: Capricorni-17
 ---
-
-# Capricorni-17
-
 SpocWebEntityId: 27967
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::17]
 [ZodiacId::28098]
 [NextStarId::27411]
+
+
+
+## Confidential Links & Embeds: 
+- [Capricorni-17](../../../_public/astro/Star/Capricorni-17.md) 
+- [Capricorni-17.internal](../../../_internal/astro/Star/Capricorni-17.internal.md) 
+- [Capricorni-17.protect](../../../_protect/astro/Star/Capricorni-17.protect.md) 
+- [Capricorni-17.private](../../../_private/astro/Star/Capricorni-17.private.md) 
+- [Capricorni-17.personal](../../../_personal/astro/Star/Capricorni-17.personal.md) 
+- [Capricorni-17.secret](../../../_secret/astro/Star/Capricorni-17.secret.md)
 

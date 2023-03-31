@@ -1,14 +1,12 @@
-﻿---
-title: "Cygni-12"
+---
+aliases: 
 location: [28.74,-33.975,60]
 type: Station
 tags:
 - astro/Star
 
+title: Cygni-12
 ---
-
-# Cygni-12
-
 SpocWebEntityId: 27911
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::12]
 [ZodiacId::28113]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Cygni-12](../../../_public/astro/Star/Cygni-12.md) 
+- [Cygni-12.internal](../../../_internal/astro/Star/Cygni-12.internal.md) 
+- [Cygni-12.protect](../../../_protect/astro/Star/Cygni-12.protect.md) 
+- [Cygni-12.private](../../../_private/astro/Star/Cygni-12.private.md) 
+- [Cygni-12.personal](../../../_personal/astro/Star/Cygni-12.personal.md) 
+- [Cygni-12.secret](../../../_secret/astro/Star/Cygni-12.secret.md)
 

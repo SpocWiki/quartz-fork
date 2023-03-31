@@ -1,14 +1,12 @@
-﻿---
-title: "Aquarii-13"
+---
+aliases: 
 location: [-11.37,-42.6,250]
 type: Station
 tags:
 - astro/Star
 
+title: Aquarii-13
 ---
-
-# Aquarii-13
-
 SpocWebEntityId: 27953
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::13]
 [ZodiacId::28086]
 [NextStarId::27661]
+
+
+
+## Confidential Links & Embeds: 
+- [Aquarii-13](../../../_public/astro/Star/Aquarii-13.md) 
+- [Aquarii-13.internal](../../../_internal/astro/Star/Aquarii-13.internal.md) 
+- [Aquarii-13.protect](../../../_protect/astro/Star/Aquarii-13.protect.md) 
+- [Aquarii-13.private](../../../_private/astro/Star/Aquarii-13.private.md) 
+- [Aquarii-13.personal](../../../_personal/astro/Star/Aquarii-13.personal.md) 
+- [Aquarii-13.secret](../../../_secret/astro/Star/Aquarii-13.secret.md)
 

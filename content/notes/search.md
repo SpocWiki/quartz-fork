@@ -1,6 +1,5 @@
-﻿---
+---
 title: "search"
-title: "Search"
 ---
 
 # search

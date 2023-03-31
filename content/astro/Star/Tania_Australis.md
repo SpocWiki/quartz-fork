@@ -1,14 +1,12 @@
-﻿---
-title: "Tania Australis"
+---
+aliases: 
 location: [41.5,-204.425,150]
 type: Station
 tags:
 - astro/Star
 
+title: Tania_Australis
 ---
-
-# Tania Australis
-
 SpocWebEntityId: 27422
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Tania_Australis](../../../_public/astro/Star/Tania_Australis.md) 
+- [Tania_Australis.internal](../../../_internal/astro/Star/Tania_Australis.internal.md) 
+- [Tania_Australis.protect](../../../_protect/astro/Star/Tania_Australis.protect.md) 
+- [Tania_Australis.private](../../../_private/astro/Star/Tania_Australis.private.md) 
+- [Tania_Australis.personal](../../../_personal/astro/Star/Tania_Australis.personal.md) 
+- [Tania_Australis.secret](../../../_secret/astro/Star/Tania_Australis.secret.md) 

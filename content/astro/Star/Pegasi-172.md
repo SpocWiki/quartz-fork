@@ -1,14 +1,12 @@
-﻿---
-title: "Pegasi-172"
+---
+aliases: 
 location: [31.33,-6.5,600]
 type: Station
 tags:
 - astro/Star
 
+title: Pegasi-172
 ---
-
-# Pegasi-172
-
 SpocWebEntityId: 28045
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28144]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Pegasi-172](../../../_public/astro/Star/Pegasi-172.md) 
+- [Pegasi-172.internal](../../../_internal/astro/Star/Pegasi-172.internal.md) 
+- [Pegasi-172.protect](../../../_protect/astro/Star/Pegasi-172.protect.md) 
+- [Pegasi-172.private](../../../_private/astro/Star/Pegasi-172.private.md) 
+- [Pegasi-172.personal](../../../_personal/astro/Star/Pegasi-172.personal.md) 
+- [Pegasi-172.secret](../../../_secret/astro/Star/Pegasi-172.secret.md) 

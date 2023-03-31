@@ -1,14 +1,12 @@
-﻿---
-title: "Alnair"
+---
+aliases: 
 location: [-46.96,-27.95,70]
 type: Station
 tags:
 - astro/Star
 
+title: Alnair
 ---
-
-# Alnair
-
 SpocWebEntityId: 27261
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::1]
 [ZodiacId::28121]
 [NextStarId::27784]
+
+
+
+## Confidential Links & Embeds: 
+- [Alnair](../../../_public/astro/Star/Alnair.md) 
+- [Alnair.internal](../../../_internal/astro/Star/Alnair.internal.md) 
+- [Alnair.protect](../../../_protect/astro/Star/Alnair.protect.md) 
+- [Alnair.private](../../../_private/astro/Star/Alnair.private.md) 
+- [Alnair.personal](../../../_personal/astro/Star/Alnair.personal.md) 
+- [Alnair.secret](../../../_secret/astro/Star/Alnair.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Aurigae-4"
+---
+aliases: 
 location: [54.28,89.875,150]
 type: Station
 tags:
 - astro/Star
 
+title: Aurigae-4
 ---
-
-# Aurigae-4
-
 SpocWebEntityId: 27584
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::4]
 [ZodiacId::28090]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Aurigae-4](../../../_public/astro/Star/Aurigae-4.md) 
+- [Aurigae-4.internal](../../../_internal/astro/Star/Aurigae-4.internal.md) 
+- [Aurigae-4.protect](../../../_protect/astro/Star/Aurigae-4.protect.md) 
+- [Aurigae-4.private](../../../_private/astro/Star/Aurigae-4.private.md) 
+- [Aurigae-4.personal](../../../_personal/astro/Star/Aurigae-4.personal.md) 
+- [Aurigae-4.secret](../../../_secret/astro/Star/Aurigae-4.secret.md)
 

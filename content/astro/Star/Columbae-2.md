@@ -1,14 +1,12 @@
-﻿---
-title: "Columbae-2"
+---
+aliases: 
 location: [-35.77,87.75,150]
 type: Station
 tags:
 - astro/Star
 
+title: Columbae-2
 ---
-
-# Columbae-2
-
 SpocWebEntityId: 27424
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28106]
 [NextStarId::27917]
+
+
+
+## Confidential Links & Embeds: 
+- [Columbae-2](../../../_public/astro/Star/Columbae-2.md) 
+- [Columbae-2.internal](../../../_internal/astro/Star/Columbae-2.internal.md) 
+- [Columbae-2.protect](../../../_protect/astro/Star/Columbae-2.protect.md) 
+- [Columbae-2.private](../../../_private/astro/Star/Columbae-2.private.md) 
+- [Columbae-2.personal](../../../_personal/astro/Star/Columbae-2.personal.md) 
+- [Columbae-2.secret](../../../_secret/astro/Star/Columbae-2.secret.md)
 

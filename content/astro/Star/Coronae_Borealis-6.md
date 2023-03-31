@@ -1,14 +1,12 @@
-﻿---
-title: "Coronae Borealis-6"
+---
+aliases: 
 location: [36.64,-125.15,400]
 type: Station
 tags:
 - astro/Star
 
+title: Coronae_Borealis-6
 ---
-
-# Coronae Borealis-6
-
 SpocWebEntityId: 27973
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::6]
 [ZodiacId::28109]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Coronae_Borealis-6](../../../_public/astro/Star/Coronae_Borealis-6.md) 
+- [Coronae_Borealis-6.internal](../../../_internal/astro/Star/Coronae_Borealis-6.internal.md) 
+- [Coronae_Borealis-6.protect](../../../_protect/astro/Star/Coronae_Borealis-6.protect.md) 
+- [Coronae_Borealis-6.private](../../../_private/astro/Star/Coronae_Borealis-6.private.md) 
+- [Coronae_Borealis-6.personal](../../../_personal/astro/Star/Coronae_Borealis-6.personal.md) 
+- [Coronae_Borealis-6.secret](../../../_secret/astro/Star/Coronae_Borealis-6.secret.md)
 

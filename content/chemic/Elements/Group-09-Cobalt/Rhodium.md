@@ -1,10 +1,12 @@
-﻿---
-title: "Rhodium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Rhodium
 ---
 #chemic/Element 
-[GroupName::[Group-09-Cobalt](../Group-09-Cobalt.md)]
+[GroupName::[Group-09-Cobalt](chemic/Elements/Group-09-Cobalt.md)]
 
 [Name-en::Rhodium]
 [Name-de::Rhodium]
@@ -34,3 +36,12 @@ SpocWebEntityId: 21943
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhodium)
 
+
+
+## Confidential Links & Embeds: 
+- [Rhodium](../../../../_public/chemic/Elements/Group-09-Cobalt/Rhodium.md) 
+- [Rhodium.internal](../../../../_internal/chemic/Elements/Group-09-Cobalt/Rhodium.internal.md) 
+- [Rhodium.protect](../../../../_protect/chemic/Elements/Group-09-Cobalt/Rhodium.protect.md) 
+- [Rhodium.private](../../../../_private/chemic/Elements/Group-09-Cobalt/Rhodium.private.md) 
+- [Rhodium.personal](../../../../_personal/chemic/Elements/Group-09-Cobalt/Rhodium.personal.md) 
+- [Rhodium.secret](../../../../_secret/chemic/Elements/Group-09-Cobalt/Rhodium.secret.md) 

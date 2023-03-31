@@ -1,12 +1,14 @@
-﻿---
-title: "Dysprosium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21962
+title: Dysprosium
 ---
 
 #chemic/Element 
-[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
+[GroupName::[Lanthanide-Group](chemic/Elements/Lanthanide-Group.md)]
 
 [Name-en::Dysprosium]
 [Name-de::Dysprosium]
@@ -32,3 +34,11 @@ SpocWebEntityId: 21962
 > Dysprosium was first identified in 1886 by Paul Émile Lecoq de Boisbaudran, but it was not isolated in pure form until the development of ion-exchange techniques in the 1950s. Dysprosium has relatively few applications where it cannot be replaced by other chemical elements. It is used for its high thermal neutron absorption cross-section in making control rods in nuclear reactors, for its high magnetic susceptibility (χv ≈ 5.44×10−3) in data-storage applications, and as a component of Terfenol-D (a magnetostrictive material). Soluble dysprosium salts are mildly toxic, while the insoluble salts are considered non-toxic.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dysprosium)
+
+## Confidential Links & Embeds: 
+- [Dysprosium](../../../../_public/chemic/Elements/Lanthanide-Group/Dysprosium.md) 
+- [Dysprosium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Dysprosium.internal.md) 
+- [Dysprosium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Dysprosium.protect.md) 
+- [Dysprosium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Dysprosium.private.md) 
+- [Dysprosium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Dysprosium.personal.md) 
+- [Dysprosium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Dysprosium.secret.md) 

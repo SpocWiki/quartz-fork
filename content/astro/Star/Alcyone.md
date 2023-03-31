@@ -1,14 +1,12 @@
-﻿---
-title: "Alcyone"
+---
+aliases: 
 location: [24.11,56.875,400]
 type: Station
 tags:
 - astro/Star
 
+title: Alcyone
 ---
-
-# Alcyone
-
 SpocWebEntityId: 27358
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::7]
 [ZodiacId::28160]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Alcyone](../../../_public/astro/Star/Alcyone.md) 
+- [Alcyone.internal](../../../_internal/astro/Star/Alcyone.internal.md) 
+- [Alcyone.protect](../../../_protect/astro/Star/Alcyone.protect.md) 
+- [Alcyone.private](../../../_private/astro/Star/Alcyone.private.md) 
+- [Alcyone.personal](../../../_personal/astro/Star/Alcyone.personal.md) 
+- [Alcyone.secret](../../../_secret/astro/Star/Alcyone.secret.md)
 

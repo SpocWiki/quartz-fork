@@ -1,14 +1,12 @@
-﻿---
-title: "Atlas"
+---
+aliases: 
 location: [24.05,57.3,400]
 type: Station
 tags:
 - astro/Star
 
+title: Atlas
 ---
-
-# Atlas
-
 SpocWebEntityId: 27553
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::127]
 [ZodiacId::28160]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Atlas](../../../_public/astro/Star/Atlas.md) 
+- [Atlas.internal](../../../_internal/astro/Star/Atlas.internal.md) 
+- [Atlas.protect](../../../_protect/astro/Star/Atlas.protect.md) 
+- [Atlas.private](../../../_private/astro/Star/Atlas.private.md) 
+- [Atlas.personal](../../../_personal/astro/Star/Atlas.personal.md) 
+- [Atlas.secret](../../../_secret/astro/Star/Atlas.secret.md)
 

@@ -1,14 +1,12 @@
-﻿---
-title: "Canis Majoris-116"
+---
+aliases: 
 location: [-24.18,103.525,2000]
 type: Station
 tags:
 - astro/Star
 
+title: Canis_Majoris-116
 ---
-
-# Canis Majoris-116
-
 SpocWebEntityId: 27643
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::116]
 [ZodiacId::28096]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Canis_Majoris-116](../../../_public/astro/Star/Canis_Majoris-116.md) 
+- [Canis_Majoris-116.internal](../../../_internal/astro/Star/Canis_Majoris-116.internal.md) 
+- [Canis_Majoris-116.protect](../../../_protect/astro/Star/Canis_Majoris-116.protect.md) 
+- [Canis_Majoris-116.private](../../../_private/astro/Star/Canis_Majoris-116.private.md) 
+- [Canis_Majoris-116.personal](../../../_personal/astro/Star/Canis_Majoris-116.personal.md) 
+- [Canis_Majoris-116.secret](../../../_secret/astro/Star/Canis_Majoris-116.secret.md)
 

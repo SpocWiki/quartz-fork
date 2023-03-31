@@ -1,14 +1,12 @@
-﻿---
-title: "Megrez"
+---
+aliases: 
 location: [57.03,-176.15,60]
 type: Station
 tags:
 - astro/Star
 
+title: Megrez
 ---
-
-# Megrez
-
 SpocWebEntityId: 27458
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28165]
 [NextStarId::27311]
 
+
+
+## Confidential Links & Embeds: 
+- [Megrez](../../../_public/astro/Star/Megrez.md) 
+- [Megrez.internal](../../../_internal/astro/Star/Megrez.internal.md) 
+- [Megrez.protect](../../../_protect/astro/Star/Megrez.protect.md) 
+- [Megrez.private](../../../_private/astro/Star/Megrez.private.md) 
+- [Megrez.personal](../../../_personal/astro/Star/Megrez.personal.md) 
+- [Megrez.secret](../../../_secret/astro/Star/Megrez.secret.md) 

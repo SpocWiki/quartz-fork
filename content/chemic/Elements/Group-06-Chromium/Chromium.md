@@ -1,10 +1,12 @@
-﻿---
-title: "Chromium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Chromium
 ---
 #chemic/Element 
-[GroupName::[Group-06-Chromium](../Group-06-Chromium.md)]
+[GroupName::[Group-06-Chromium](chemic/Elements/Group-06-Chromium.md)]
 
 [Name-en::Chromium]
 [Name-de::Chrom]
@@ -33,3 +35,12 @@ SpocWebEntityId: 21924
 > [Wikipedia](https://en.wikipedia.org/wiki/Chromium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Chromium](../../../../_public/chemic/Elements/Group-06-Chromium/Chromium.md) 
+- [Chromium.internal](../../../../_internal/chemic/Elements/Group-06-Chromium/Chromium.internal.md) 
+- [Chromium.protect](../../../../_protect/chemic/Elements/Group-06-Chromium/Chromium.protect.md) 
+- [Chromium.private](../../../../_private/chemic/Elements/Group-06-Chromium/Chromium.private.md) 
+- [Chromium.personal](../../../../_personal/chemic/Elements/Group-06-Chromium/Chromium.personal.md) 
+- [Chromium.secret](../../../../_secret/chemic/Elements/Group-06-Chromium/Chromium.secret.md) 

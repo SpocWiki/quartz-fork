@@ -1,12 +1,14 @@
-﻿---
-title: "Plutonium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21989
+title: Plutonium
 ---
 
 #chemic/Element 
-[GroupName::[Actinide-Group](../Actinide-Group.md)]
+[GroupName::[Actinide-Group](chemic/Elements/Actinide-Group.md)]
 
 
 [Name-en::Plutonium]
@@ -30,3 +32,12 @@ SpocWebEntityId: 21989
 []
 (Charge-e::94)
 
+
+
+## Confidential Links & Embeds: 
+- [Plutonium](../../../../_public/chemic/Elements/Actinide-Group/Plutonium.md) 
+- [Plutonium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Plutonium.internal.md) 
+- [Plutonium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Plutonium.protect.md) 
+- [Plutonium.private](../../../../_private/chemic/Elements/Actinide-Group/Plutonium.private.md) 
+- [Plutonium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Plutonium.personal.md) 
+- [Plutonium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Plutonium.secret.md) 

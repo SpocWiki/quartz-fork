@@ -1,10 +1,12 @@
-﻿---
-title: "Manganese"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Manganese
 ---
 #chemic/Element 
-[GroupName::[Group-07-Manganese](../Group-07-Manganese.md)]
+[GroupName::[Group-07-Manganese](chemic/Elements/Group-07-Manganese.md)]
 
 [Name-en::Manganese]
 [Name-de::Mangan]
@@ -35,3 +37,12 @@ SpocWebEntityId: 21925
 > [Wikipedia](https://en.wikipedia.org/wiki/Manganese)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Manganese](../../../../_public/chemic/Elements/Group-07-Manganese/Manganese.md) 
+- [Manganese.internal](../../../../_internal/chemic/Elements/Group-07-Manganese/Manganese.internal.md) 
+- [Manganese.protect](../../../../_protect/chemic/Elements/Group-07-Manganese/Manganese.protect.md) 
+- [Manganese.private](../../../../_private/chemic/Elements/Group-07-Manganese/Manganese.private.md) 
+- [Manganese.personal](../../../../_personal/chemic/Elements/Group-07-Manganese/Manganese.personal.md) 
+- [Manganese.secret](../../../../_secret/chemic/Elements/Group-07-Manganese/Manganese.secret.md) 

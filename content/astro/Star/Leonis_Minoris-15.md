@@ -1,14 +1,12 @@
-﻿---
-title: "Leonis Minoris-15"
+---
+aliases: 
 location: [34.21,163.325,80]
 type: Station
 tags:
 - astro/Star
 
+title: Leonis_Minoris-15
 ---
-
-# Leonis Minoris-15
-
 SpocWebEntityId: 27628
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28129]
 [NextStarId::27836]
 
+
+
+## Confidential Links & Embeds: 
+- [Leonis_Minoris-15](../../../_public/astro/Star/Leonis_Minoris-15.md) 
+- [Leonis_Minoris-15.internal](../../../_internal/astro/Star/Leonis_Minoris-15.internal.md) 
+- [Leonis_Minoris-15.protect](../../../_protect/astro/Star/Leonis_Minoris-15.protect.md) 
+- [Leonis_Minoris-15.private](../../../_private/astro/Star/Leonis_Minoris-15.private.md) 
+- [Leonis_Minoris-15.personal](../../../_personal/astro/Star/Leonis_Minoris-15.personal.md) 
+- [Leonis_Minoris-15.secret](../../../_secret/astro/Star/Leonis_Minoris-15.secret.md) 

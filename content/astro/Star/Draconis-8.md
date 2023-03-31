@@ -1,14 +1,12 @@
-﻿---
-title: "Draconis-8"
+---
+aliases: 
 location: [58.57,-119.525,60]
 type: Station
 tags:
 - astro/Star
 
+title: Draconis-8
 ---
-
-# Draconis-8
-
 SpocWebEntityId: 27744
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::8]
 [ZodiacId::28116]
 [NextStarId::27340]
+
+
+
+## Confidential Links & Embeds: 
+- [Draconis-8](../../../_public/astro/Star/Draconis-8.md) 
+- [Draconis-8.internal](../../../_internal/astro/Star/Draconis-8.internal.md) 
+- [Draconis-8.protect](../../../_protect/astro/Star/Draconis-8.protect.md) 
+- [Draconis-8.private](../../../_private/astro/Star/Draconis-8.private.md) 
+- [Draconis-8.personal](../../../_personal/astro/Star/Draconis-8.personal.md) 
+- [Draconis-8.secret](../../../_secret/astro/Star/Draconis-8.secret.md)
 

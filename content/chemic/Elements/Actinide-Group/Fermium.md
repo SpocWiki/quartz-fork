@@ -1,12 +1,14 @@
-﻿---
-title: "Fermium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21995
+title: Fermium
 ---
 
 #chemic/Element 
-[GroupName::[Actinide-Group](../Actinide-Group.md)]
+[GroupName::[Actinide-Group](chemic/Elements/Actinide-Group.md)]
 
 
 [Name-en::Fermium]
@@ -30,3 +32,12 @@ SpocWebEntityId: 21995
 []
 (Charge-e::100)
 
+
+
+## Confidential Links & Embeds: 
+- [Fermium](../../../../_public/chemic/Elements/Actinide-Group/Fermium.md) 
+- [Fermium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Fermium.internal.md) 
+- [Fermium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Fermium.protect.md) 
+- [Fermium.private](../../../../_private/chemic/Elements/Actinide-Group/Fermium.private.md) 
+- [Fermium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Fermium.personal.md) 
+- [Fermium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Fermium.secret.md) 

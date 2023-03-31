@@ -1,14 +1,12 @@
-﻿---
-title: "Tauri-3"
+---
+aliases: 
 location: [15.63,64.95,150]
 type: Station
 tags:
 - astro/Star
 
+title: Tauri-3
 ---
-
-# Tauri-3
-
 SpocWebEntityId: 27554
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::27487]
 
+
+
+## Confidential Links & Embeds: 
+- [Tauri-3](../../../_public/astro/Star/Tauri-3.md) 
+- [Tauri-3.internal](../../../_internal/astro/Star/Tauri-3.internal.md) 
+- [Tauri-3.protect](../../../_protect/astro/Star/Tauri-3.protect.md) 
+- [Tauri-3.private](../../../_private/astro/Star/Tauri-3.private.md) 
+- [Tauri-3.personal](../../../_personal/astro/Star/Tauri-3.personal.md) 
+- [Tauri-3.secret](../../../_secret/astro/Star/Tauri-3.secret.md) 

@@ -1,14 +1,11 @@
-﻿---
-title: "Lang-en"
+---
 type: Lang
 aliases:
 - English
 tags: 
 - Lang/en
+title: Lang-en
 ---
-
-# Lang-en
-
 [SpocWebEntityId: 499
 [Name::English]
 [PropId_Name::799]
@@ -19,4 +16,14 @@ tags:
 [NumSpeakers_native::328000000]
 [Iso2::en]
 [Iso3::eng]
+
+
+
+## Confidential Links & Embeds: 
+- [Lang-en](../../_public/lang/Lang-en.md) 
+- [Lang-en.internal](../../_internal/lang/Lang-en.internal.md) 
+- [Lang-en.protect](../../_protect/lang/Lang-en.protect.md) 
+- [Lang-en.private](../../_private/lang/Lang-en.private.md) 
+- [Lang-en.personal](../../_personal/lang/Lang-en.personal.md) 
+- [Lang-en.secret](../../_secret/lang/Lang-en.secret.md)
 

@@ -1,12 +1,14 @@
-﻿---
-title: "Erbium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21964
+title: Erbium
 ---
 
 #chemic/Element 
-[GroupName::[Lanthanide-Group](../Lanthanide-Group.md)]
+[GroupName::[Lanthanide-Group](chemic/Elements/Lanthanide-Group.md)]
 
 [Name-en::Erbium]
 [Name-de::Erbium]
@@ -37,3 +39,12 @@ SpocWebEntityId: 21964
 > [Wikipedia](https://en.wikipedia.org/wiki/Erbium)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Erbium](../../../../_public/chemic/Elements/Lanthanide-Group/Erbium.md) 
+- [Erbium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Erbium.internal.md) 
+- [Erbium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Erbium.protect.md) 
+- [Erbium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Erbium.private.md) 
+- [Erbium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Erbium.personal.md) 
+- [Erbium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Erbium.secret.md) 

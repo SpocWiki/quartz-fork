@@ -1,10 +1,12 @@
-﻿---
-title: "Gold"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Gold
 ---
 #chemic/Element 
-[GroupName::[Group-11-Copper](../Group-11-Copper.md)]
+[GroupName::[Group-11-Copper](chemic/Elements/Group-11-Copper.md)]
 
 [Name-en::Gold]
 [Name-de::Gold]
@@ -37,3 +39,12 @@ SpocWebEntityId: 17995
 > [Wikipedia](https://en.wikipedia.org/wiki/Gold)
 
 
+
+
+## Confidential Links & Embeds: 
+- [Gold](../../../../_public/chemic/Elements/Group-11-Copper/Gold.md) 
+- [Gold.internal](../../../../_internal/chemic/Elements/Group-11-Copper/Gold.internal.md) 
+- [Gold.protect](../../../../_protect/chemic/Elements/Group-11-Copper/Gold.protect.md) 
+- [Gold.private](../../../../_private/chemic/Elements/Group-11-Copper/Gold.private.md) 
+- [Gold.personal](../../../../_personal/chemic/Elements/Group-11-Copper/Gold.personal.md) 
+- [Gold.secret](../../../../_secret/chemic/Elements/Group-11-Copper/Gold.secret.md) 

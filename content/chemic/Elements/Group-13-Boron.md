@@ -1,14 +1,16 @@
-﻿---
-title: "Group-13-Boron"
+---
+aliases: 
+tags: 
 type: ElementGroup
+title: Group-13-Boron
 ---
 #chemic/Group 
 
-2) [Boron](Group-13-Boron/Boron.md)
-3) [Aluminium](Group-13-Boron/Aluminium.md)
-4) [Gallium](Group-13-Boron/Gallium.md)
-5) [Indium](Group-13-Boron/Indium.md)
-6) [Thallium](Group-13-Boron/Thallium.md)
+2) [Boron](chemic/Elements/Group-13-Boron/Boron.md)
+3) [Aluminium](chemic/Elements/Group-13-Boron/Aluminium.md)
+4) [Gallium](chemic/Elements/Group-13-Boron/Gallium.md)
+5) [Indium](chemic/Elements/Group-13-Boron/Indium.md)
+6) [Thallium](chemic/Elements/Group-13-Boron/Thallium.md)
 
 > The boron group are the chemical elements in group 13 of the periodic table, comprising boron (B), aluminium (Al), gallium (Ga), indium (In), thallium (Tl), and nihonium (Nh). The elements in the boron group are characterized by having three valence electrons. These elements have also been referred to as the triels. Boron is commonly classified as a (metalloid) while the rest, with the possible exception of nihonium, are considered post-transition metals. Boron occurs sparsely, probably because bombardment by the subatomic particles produced from natural radioactivity disrupts its nuclei. Aluminium occurs widely on earth, and indeed is the third most abundant element in the Earth's crust (8.3%). Gallium is found in the earth with an abundance of 13 ppm. Indium is the 61st most abundant element in the earth's crust, and thallium is found in moderate amounts throughout the planet. Nihonium is not known to occur in nature and therefore is termed a synthetic element.
 >
@@ -21,3 +23,12 @@ type: folder_brief_live
 ```
  
 
+
+
+## Confidential Links & Embeds: 
+- [Group-13-Boron](../../../_public/chemic/Elements/Group-13-Boron.md) 
+- [Group-13-Boron.internal](../../../_internal/chemic/Elements/Group-13-Boron.internal.md) 
+- [Group-13-Boron.protect](../../../_protect/chemic/Elements/Group-13-Boron.protect.md) 
+- [Group-13-Boron.private](../../../_private/chemic/Elements/Group-13-Boron.private.md) 
+- [Group-13-Boron.personal](../../../_personal/chemic/Elements/Group-13-Boron.personal.md) 
+- [Group-13-Boron.secret](../../../_secret/chemic/Elements/Group-13-Boron.secret.md) 

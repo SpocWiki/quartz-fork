@@ -1,14 +1,12 @@
-﻿---
-title: "Tauri-15"
+---
+aliases: 
 location: [9.03,51.2,150]
 type: Station
 tags:
 - astro/Star
 
+title: Tauri-15
 ---
-
-# Tauri-15
-
 SpocWebEntityId: 27552
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28160]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Tauri-15](../../../_public/astro/Star/Tauri-15.md) 
+- [Tauri-15.internal](../../../_internal/astro/Star/Tauri-15.internal.md) 
+- [Tauri-15.protect](../../../_protect/astro/Star/Tauri-15.protect.md) 
+- [Tauri-15.private](../../../_private/astro/Star/Tauri-15.private.md) 
+- [Tauri-15.personal](../../../_personal/astro/Star/Tauri-15.personal.md) 
+- [Tauri-15.secret](../../../_secret/astro/Star/Tauri-15.secret.md) 

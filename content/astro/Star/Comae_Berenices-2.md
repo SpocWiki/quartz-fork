@@ -1,14 +1,12 @@
-﻿---
-title: "Comae Berenices-2"
+---
+aliases: 
 location: [27.88,-162.025,27]
 type: Station
 tags:
 - astro/Star
 
+title: Comae_Berenices-2
 ---
-
-# Comae Berenices-2
-
 SpocWebEntityId: 27894
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::2]
 [ZodiacId::28107]
 [NextStarId::27924]
+
+
+
+## Confidential Links & Embeds: 
+- [Comae_Berenices-2](../../../_public/astro/Star/Comae_Berenices-2.md) 
+- [Comae_Berenices-2.internal](../../../_internal/astro/Star/Comae_Berenices-2.internal.md) 
+- [Comae_Berenices-2.protect](../../../_protect/astro/Star/Comae_Berenices-2.protect.md) 
+- [Comae_Berenices-2.private](../../../_private/astro/Star/Comae_Berenices-2.private.md) 
+- [Comae_Berenices-2.personal](../../../_personal/astro/Star/Comae_Berenices-2.personal.md) 
+- [Comae_Berenices-2.secret](../../../_secret/astro/Star/Comae_Berenices-2.secret.md)
 

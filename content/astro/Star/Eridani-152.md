@@ -1,14 +1,12 @@
-﻿---
-title: "Eridani-152"
+---
+aliases: 
 location: [-30.56,68.9,200]
 type: Station
 tags:
 - astro/Star
 
+title: Eridani-152
 ---
-
-# Eridani-152
-
 SpocWebEntityId: 27639
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::152]
 [ZodiacId::28118]
 [NextStarId::27843]
+
+
+
+## Confidential Links & Embeds: 
+- [Eridani-152](../../../_public/astro/Star/Eridani-152.md) 
+- [Eridani-152.internal](../../../_internal/astro/Star/Eridani-152.internal.md) 
+- [Eridani-152.protect](../../../_protect/astro/Star/Eridani-152.protect.md) 
+- [Eridani-152.private](../../../_private/astro/Star/Eridani-152.private.md) 
+- [Eridani-152.personal](../../../_personal/astro/Star/Eridani-152.personal.md) 
+- [Eridani-152.secret](../../../_secret/astro/Star/Eridani-152.secret.md)
 

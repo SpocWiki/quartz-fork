@@ -1,10 +1,12 @@
-﻿---
-title: "Calcium"
+---
+aliases: 
+tags: 
 type: Element
 
+title: Calcium
 ---
 #chemic/Element 
-[GroupName::[Group-02-Earth-Alkaline](../Group-02-Earth-Alkaline.md)]
+[GroupName::[Group-02-Earth-Alkaline](chemic/Elements/Group-02-Earth-Alkaline.md)]
 
 [Name-en::Calcium]
 [Name-de::Calcium]
@@ -32,3 +34,11 @@ SpocWebEntityId: 21921
 > Calcium is the most abundant metal and the fifth-most abundant element in the human body. As electrolytes, calcium ions (Ca2+) play a vital role in the physiological and biochemical processes of organisms and cells: in signal transduction pathways where they act as a second messenger; in neurotransmitter release from neurons; in contraction of all muscle cell types; as cofactors in many enzymes; and in fertilization. Calcium ions outside cells are important for maintaining the potential difference across excitable cell membranes, protein synthesis, and bone formation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calcium)
+
+## Confidential Links & Embeds: 
+- [Calcium](../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Calcium.md) 
+- [Calcium.internal](../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Calcium.internal.md) 
+- [Calcium.protect](../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Calcium.protect.md) 
+- [Calcium.private](../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Calcium.private.md) 
+- [Calcium.personal](../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Calcium.personal.md) 
+- [Calcium.secret](../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Calcium.secret.md) 

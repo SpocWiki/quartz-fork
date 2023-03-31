@@ -1,3 +1,8 @@
+---
+aliases: 
+tags: 
+title: Creative Commons Legal Code
+---
 # Creative Commons Legal Code
 
 [![License: CC BY-SA 3.0](https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/3.0/)
@@ -109,3 +114,13 @@ Creative Commons is not a party to this License, and makes no warranty whatsoeve
 Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, Creative Commons does not authorize the use by either party of the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time. For the avoidance of doubt, this trademark restriction does not form part of the License.
 
 Creative Commons may be contacted at <http://creativecommons.org/>.
+
+
+## Confidential Links & Embeds: 
+- [License](../_public/License.md) 
+- [License.internal](../_internal/License.internal.md) 
+- [License.protect](../_protect/License.protect.md) 
+- [License.private](../_private/License.private.md) 
+- [License.personal](../_personal/License.personal.md) 
+- [License.secret](../_secret/License.secret.md)
+

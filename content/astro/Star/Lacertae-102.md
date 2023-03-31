@@ -1,14 +1,12 @@
-﻿---
-title: "Lacertae-102"
+---
+aliases: 
 location: [46.54,-24.75,400]
 type: Station
 tags:
 - astro/Star
 
+title: Lacertae-102
 ---
-
-# Lacertae-102
-
 SpocWebEntityId: 27958
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::102]
 [ZodiacId::28127]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Lacertae-102](../../../_public/astro/Star/Lacertae-102.md) 
+- [Lacertae-102.internal](../../../_internal/astro/Star/Lacertae-102.internal.md) 
+- [Lacertae-102.protect](../../../_protect/astro/Star/Lacertae-102.protect.md) 
+- [Lacertae-102.private](../../../_private/astro/Star/Lacertae-102.private.md) 
+- [Lacertae-102.personal](../../../_personal/astro/Star/Lacertae-102.personal.md) 
+- [Lacertae-102.secret](../../../_secret/astro/Star/Lacertae-102.secret.md)
 

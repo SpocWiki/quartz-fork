@@ -1,12 +1,14 @@
-﻿---
-title: "Neptunium"
+---
+aliases: 
+tags: 
 type: Element
 
 SpocWebEntityId: 21988
+title: Neptunium
 ---
 
 #chemic/Element 
-[GroupName::[Actinide-Group](../Actinide-Group.md)]
+[GroupName::[Actinide-Group](chemic/Elements/Actinide-Group.md)]
 
 
 [Name-en::Neptunium]
@@ -30,3 +32,12 @@ SpocWebEntityId: 21988
 []
 (Charge-e::93)
 
+
+
+## Confidential Links & Embeds: 
+- [Neptunium](../../../../_public/chemic/Elements/Actinide-Group/Neptunium.md) 
+- [Neptunium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Neptunium.internal.md) 
+- [Neptunium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Neptunium.protect.md) 
+- [Neptunium.private](../../../../_private/chemic/Elements/Actinide-Group/Neptunium.private.md) 
+- [Neptunium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Neptunium.personal.md) 
+- [Neptunium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Neptunium.secret.md) 

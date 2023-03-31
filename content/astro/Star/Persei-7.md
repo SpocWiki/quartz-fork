@@ -1,14 +1,12 @@
-﻿---
-title: "Persei-7"
+---
+aliases: 
 location: [55.9,42.675,800]
 type: Station
 tags:
 - astro/Star
 
+title: Persei-7
 ---
-
-# Persei-7
-
 SpocWebEntityId: 27622
 isDeleted: false
 isReadOnly: false
@@ -28,3 +26,12 @@ confidential: public
 [ZodiacId::28145]
 [NextStarId::]
 
+
+
+## Confidential Links & Embeds: 
+- [Persei-7](../../../_public/astro/Star/Persei-7.md) 
+- [Persei-7.internal](../../../_internal/astro/Star/Persei-7.internal.md) 
+- [Persei-7.protect](../../../_protect/astro/Star/Persei-7.protect.md) 
+- [Persei-7.private](../../../_private/astro/Star/Persei-7.private.md) 
+- [Persei-7.personal](../../../_personal/astro/Star/Persei-7.personal.md) 
+- [Persei-7.secret](../../../_secret/astro/Star/Persei-7.secret.md) 

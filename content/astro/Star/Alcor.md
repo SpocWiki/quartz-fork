@@ -1,14 +1,12 @@
-﻿---
-title: "Alcor"
+---
+aliases: 
 location: [54.99,-158.7,70]
 type: Station
 tags:
 - astro/Star
 
+title: Alcor
 ---
-
-# Alcor
-
 SpocWebEntityId: 27743
 isDeleted: false
 isReadOnly: false
@@ -27,4 +25,14 @@ confidential: public
 [Zodiac-index::180]
 [ZodiacId::28165]
 [NextStarId::]
+
+
+
+## Confidential Links & Embeds: 
+- [Alcor](../../../_public/astro/Star/Alcor.md) 
+- [Alcor.internal](../../../_internal/astro/Star/Alcor.internal.md) 
+- [Alcor.protect](../../../_protect/astro/Star/Alcor.protect.md) 
+- [Alcor.private](../../../_private/astro/Star/Alcor.private.md) 
+- [Alcor.personal](../../../_personal/astro/Star/Alcor.personal.md) 
+- [Alcor.secret](../../../_secret/astro/Star/Alcor.secret.md)
 
