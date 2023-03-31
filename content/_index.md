@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-title: Browse Data by Tag/Category:
+title: Browse Data by Tag/Category
 enableToc: true
 ---
 
