@@ -14,6 +14,7 @@ source: https://datahub.io/core/country-codes
 cssclass: Country
 publish: true
 title: Canada
+layout: leaflet-map
 linkTitle: 
 keywords: 
 layout: 

@@ -9,6 +9,7 @@ SpocWebEntityId: 27158
 tags:
   - geo/Continent
 title: North-America
+layout: leaflet
 ---
 
 
