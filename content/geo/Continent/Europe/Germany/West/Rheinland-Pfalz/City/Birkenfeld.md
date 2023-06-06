@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Birkenfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Birkenfeld.md) 
-- [Birkenfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Birkenfeld.internal.md) 
-- [Birkenfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Birkenfeld.protect.md) 
-- [Birkenfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Birkenfeld.private.md) 
-- [Birkenfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Birkenfeld.personal.md) 
-- [Birkenfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Birkenfeld.secret.md) 

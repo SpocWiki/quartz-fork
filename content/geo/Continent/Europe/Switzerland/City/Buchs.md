@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buchs](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Buchs.md) 
-- [Buchs.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Buchs.internal.md) 
-- [Buchs.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Buchs.protect.md) 
-- [Buchs.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Buchs.private.md) 
-- [Buchs.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Buchs.personal.md) 
-- [Buchs.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Buchs.secret.md) 

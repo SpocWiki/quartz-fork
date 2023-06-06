@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sneek](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Sneek.md) 
-- [Sneek.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Sneek.internal.md) 
-- [Sneek.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Sneek.protect.md) 
-- [Sneek.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Sneek.private.md) 
-- [Sneek.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Sneek.personal.md) 
-- [Sneek.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Sneek.secret.md) 

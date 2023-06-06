@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poesing](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Poesing.md) 
-- [Poesing.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Poesing.internal.md) 
-- [Poesing.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Poesing.protect.md) 
-- [Poesing.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Poesing.private.md) 
-- [Poesing.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Poesing.personal.md) 
-- [Poesing.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Poesing.secret.md) 

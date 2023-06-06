@@ -43,10 +43,3 @@ The act of participating in exertive activity for the purposes of improving heal
 
 
 
-## Confidential Links & Embeds: 
-- [exercise_action](../../../../../../_public/schema.org/Type/is_a_/action/play_action/exercise_action.md) 
-- [exercise_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/play_action/exercise_action.internal.md) 
-- [exercise_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/play_action/exercise_action.protect.md) 
-- [exercise_action.private](../../../../../../_private/schema.org/Type/is_a_/action/play_action/exercise_action.private.md) 
-- [exercise_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/play_action/exercise_action.personal.md) 
-- [exercise_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/play_action/exercise_action.secret.md) 

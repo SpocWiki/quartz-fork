@@ -19,10 +19,3 @@ title: Triz-Strength+Local_quality-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Local_quality-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.md) 
-- [Triz-Strength+Local_quality-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.internal.md) 
-- [Triz-Strength+Local_quality-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.protect.md) 
-- [Triz-Strength+Local_quality-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.private.md) 
-- [Triz-Strength+Local_quality-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.personal.md) 
-- [Triz-Strength+Local_quality-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-Versatility.secret.md) 

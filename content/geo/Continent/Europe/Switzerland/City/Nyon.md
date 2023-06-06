@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nyon](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Nyon.md) 
-- [Nyon.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Nyon.internal.md) 
-- [Nyon.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Nyon.protect.md) 
-- [Nyon.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Nyon.private.md) 
-- [Nyon.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Nyon.personal.md) 
-- [Nyon.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Nyon.secret.md) 

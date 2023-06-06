@@ -43,10 +43,3 @@ Nutritional information about the recipe.
 
 
 
-## Confidential Links & Embeds: 
-- [nutrition_information](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/nutrition_information.md) 
-- [nutrition_information.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/nutrition_information.internal.md) 
-- [nutrition_information.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/nutrition_information.protect.md) 
-- [nutrition_information.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/nutrition_information.private.md) 
-- [nutrition_information.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/nutrition_information.personal.md) 
-- [nutrition_information.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/nutrition_information.secret.md) 

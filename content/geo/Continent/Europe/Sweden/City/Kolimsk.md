@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kolimsk](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kolimsk.md) 
-- [Kolimsk.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kolimsk.internal.md) 
-- [Kolimsk.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kolimsk.protect.md) 
-- [Kolimsk.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kolimsk.private.md) 
-- [Kolimsk.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kolimsk.personal.md) 
-- [Kolimsk.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kolimsk.secret.md) 

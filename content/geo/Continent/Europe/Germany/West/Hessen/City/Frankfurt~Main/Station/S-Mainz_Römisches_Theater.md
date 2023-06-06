@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Mainz_Römisches_Theater](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_R%C3%B6misches_Theater.md) 
-- [S-Mainz_Römisches_Theater.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_R%C3%B6misches_Theater.internal.md) 
-- [S-Mainz_Römisches_Theater.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_R%C3%B6misches_Theater.protect.md) 
-- [S-Mainz_Römisches_Theater.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_R%C3%B6misches_Theater.private.md) 
-- [S-Mainz_Römisches_Theater.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_R%C3%B6misches_Theater.personal.md) 
-- [S-Mainz_Römisches_Theater.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz_R%C3%B6misches_Theater.secret.md) 

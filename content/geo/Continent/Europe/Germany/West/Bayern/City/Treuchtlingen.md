@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Treuchtlingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.md) 
-- [Treuchtlingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.internal.md) 
-- [Treuchtlingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.protect.md) 
-- [Treuchtlingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.private.md) 
-- [Treuchtlingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.personal.md) 
-- [Treuchtlingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Treuchtlingen.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ebeleben](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ebeleben.md) 
-- [Ebeleben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ebeleben.internal.md) 
-- [Ebeleben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ebeleben.protect.md) 
-- [Ebeleben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ebeleben.private.md) 
-- [Ebeleben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ebeleben.personal.md) 
-- [Ebeleben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ebeleben.secret.md) 

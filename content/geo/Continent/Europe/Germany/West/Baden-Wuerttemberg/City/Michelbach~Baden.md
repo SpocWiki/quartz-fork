@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Michelbach~Baden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.md) 
-- [Michelbach~Baden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.internal.md) 
-- [Michelbach~Baden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.protect.md) 
-- [Michelbach~Baden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.private.md) 
-- [Michelbach~Baden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.personal.md) 
-- [Michelbach~Baden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Michelbach~Baden.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Useldange](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Useldange.md) 
-- [Useldange.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Useldange.internal.md) 
-- [Useldange.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Useldange.protect.md) 
-- [Useldange.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Useldange.private.md) 
-- [Useldange.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Useldange.personal.md) 
-- [Useldange.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Useldange.secret.md) 

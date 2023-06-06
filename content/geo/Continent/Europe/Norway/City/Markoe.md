@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Markoe](../../../../../../_public/geo/Continent/Europe/Norway/City/Markoe.md) 
-- [Markoe.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Markoe.internal.md) 
-- [Markoe.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Markoe.protect.md) 
-- [Markoe.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Markoe.private.md) 
-- [Markoe.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Markoe.personal.md) 
-- [Markoe.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Markoe.secret.md) 

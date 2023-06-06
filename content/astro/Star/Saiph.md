@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Saiph](../../../_public/astro/Star/Saiph.md) 
-- [Saiph.internal](../../../_internal/astro/Star/Saiph.internal.md) 
-- [Saiph.protect](../../../_protect/astro/Star/Saiph.protect.md) 
-- [Saiph.private](../../../_private/astro/Star/Saiph.private.md) 
-- [Saiph.personal](../../../_personal/astro/Star/Saiph.personal.md) 
-- [Saiph.secret](../../../_secret/astro/Star/Saiph.secret.md) 

@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_required_max_age](../../../../_public/schema.org/Predicate/Counts/has_number_of_required_max_age.md) 
-- [has_number_of_required_max_age.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_required_max_age.internal.md) 
-- [has_number_of_required_max_age.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_required_max_age.protect.md) 
-- [has_number_of_required_max_age.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_required_max_age.private.md) 
-- [has_number_of_required_max_age.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_required_max_age.personal.md) 
-- [has_number_of_required_max_age.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_required_max_age.secret.md) 

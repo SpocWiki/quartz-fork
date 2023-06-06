@@ -19,10 +19,3 @@ title: Triz-Speed+Use_strong_oxidisers-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Use_strong_oxidisers-Power](../../../../_public/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Power.md) 
-- [Triz-Speed+Use_strong_oxidisers-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Power.internal.md) 
-- [Triz-Speed+Use_strong_oxidisers-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Power.protect.md) 
-- [Triz-Speed+Use_strong_oxidisers-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Power.private.md) 
-- [Triz-Speed+Use_strong_oxidisers-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Power.personal.md) 
-- [Triz-Speed+Use_strong_oxidisers-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Power.secret.md) 

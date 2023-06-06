@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Ealing_Broadway](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.md) 
-- [Sub-Ealing_Broadway.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.internal.md) 
-- [Sub-Ealing_Broadway.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.protect.md) 
-- [Sub-Ealing_Broadway.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.private.md) 
-- [Sub-Ealing_Broadway.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.personal.md) 
-- [Sub-Ealing_Broadway.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ealing_Broadway.secret.md) 

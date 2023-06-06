@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaettis](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Vaettis.md) 
-- [Vaettis.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Vaettis.internal.md) 
-- [Vaettis.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Vaettis.protect.md) 
-- [Vaettis.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Vaettis.private.md) 
-- [Vaettis.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Vaettis.personal.md) 
-- [Vaettis.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Vaettis.secret.md) 

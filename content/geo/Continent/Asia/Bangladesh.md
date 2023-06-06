@@ -121,7 +121,7 @@ markerFolder: ./Bangladesh/City
 
 ![350](Coat_of_arms_of_Bangladesh.svg)
 
-![Anthem-Bangladesh](xLarge/National-Anthem/Anthem-Bangladesh.mp3)
+[Anthem-Bangladesh](xLarge/National-Anthem/Anthem-Bangladesh.mp3)
 
 ![350](geo/Continent/Asia/Bangladesh/Flag_of_Bangladesh.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Bangladesh/City
 
 
 
-## Confidential Links & Embeds: 
-- [Bangladesh](../../../../_public/geo/Continent/Asia/Bangladesh.md) 
-- [Bangladesh.internal](../../../../_internal/geo/Continent/Asia/Bangladesh.internal.md) 
-- [Bangladesh.protect](../../../../_protect/geo/Continent/Asia/Bangladesh.protect.md) 
-- [Bangladesh.private](../../../../_private/geo/Continent/Asia/Bangladesh.private.md) 
-- [Bangladesh.personal](../../../../_personal/geo/Continent/Asia/Bangladesh.personal.md) 
-- [Bangladesh.secret](../../../../_secret/geo/Continent/Asia/Bangladesh.secret.md) 

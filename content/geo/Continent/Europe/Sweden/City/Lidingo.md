@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lidingo](../../../../../../_public/geo/Continent/Europe/Sweden/City/Lidingo.md) 
-- [Lidingo.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lidingo.internal.md) 
-- [Lidingo.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lidingo.protect.md) 
-- [Lidingo.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Lidingo.private.md) 
-- [Lidingo.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lidingo.personal.md) 
-- [Lidingo.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lidingo.secret.md) 

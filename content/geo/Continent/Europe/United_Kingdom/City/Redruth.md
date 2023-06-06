@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Redruth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Redruth.md) 
-- [Redruth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Redruth.internal.md) 
-- [Redruth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Redruth.protect.md) 
-- [Redruth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Redruth.private.md) 
-- [Redruth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Redruth.personal.md) 
-- [Redruth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Redruth.secret.md) 

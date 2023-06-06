@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sulingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sulingen.md) 
-- [Sulingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sulingen.internal.md) 
-- [Sulingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sulingen.protect.md) 
-- [Sulingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sulingen.private.md) 
-- [Sulingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sulingen.personal.md) 
-- [Sulingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sulingen.secret.md) 

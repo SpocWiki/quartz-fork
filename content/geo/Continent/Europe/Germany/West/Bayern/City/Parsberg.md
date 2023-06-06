@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Parsberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Parsberg.md) 
-- [Parsberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Parsberg.internal.md) 
-- [Parsberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Parsberg.protect.md) 
-- [Parsberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Parsberg.private.md) 
-- [Parsberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Parsberg.personal.md) 
-- [Parsberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Parsberg.secret.md) 

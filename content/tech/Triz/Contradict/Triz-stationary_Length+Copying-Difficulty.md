@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Copying-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Copying-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.md) 
-- [Triz-stationary_Length+Copying-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.internal.md) 
-- [Triz-stationary_Length+Copying-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.protect.md) 
-- [Triz-stationary_Length+Copying-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.private.md) 
-- [Triz-stationary_Length+Copying-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.personal.md) 
-- [Triz-stationary_Length+Copying-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Copying-Difficulty.secret.md) 

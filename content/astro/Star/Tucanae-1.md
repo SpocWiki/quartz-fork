@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Tucanae-1](../../../_public/astro/Star/Tucanae-1.md) 
-- [Tucanae-1.internal](../../../_internal/astro/Star/Tucanae-1.internal.md) 
-- [Tucanae-1.protect](../../../_protect/astro/Star/Tucanae-1.protect.md) 
-- [Tucanae-1.private](../../../_private/astro/Star/Tucanae-1.private.md) 
-- [Tucanae-1.personal](../../../_personal/astro/Star/Tucanae-1.personal.md) 
-- [Tucanae-1.secret](../../../_secret/astro/Star/Tucanae-1.secret.md) 

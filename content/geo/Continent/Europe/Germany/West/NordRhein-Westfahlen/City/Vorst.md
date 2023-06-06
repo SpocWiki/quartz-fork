@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vorst](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vorst.md) 
-- [Vorst.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vorst.internal.md) 
-- [Vorst.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vorst.protect.md) 
-- [Vorst.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vorst.private.md) 
-- [Vorst.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vorst.personal.md) 
-- [Vorst.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Vorst.secret.md) 

@@ -46,11 +46,3 @@ Other Document Formats like TRTL (AKA Turtle) allow to specify Triples directly 
 
 
 
-## Confidential Links & Embeds: 
-- [Proposition](../../_public/schema.org/Proposition.md) 
-- [Proposition.internal](../../_internal/schema.org/Proposition.internal.md) 
-- [Proposition.protect](../../_protect/schema.org/Proposition.protect.md) 
-- [Proposition.private](../../_private/schema.org/Proposition.private.md) 
-- [Proposition.personal](../../_personal/schema.org/Proposition.personal.md) 
-- [Proposition.secret](../../_secret/schema.org/Proposition.secret.md)
-

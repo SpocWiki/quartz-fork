@@ -19,10 +19,3 @@ title: Triz-affected_harm+Composite_materials-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Composite_materials-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Difficulty.md) 
-- [Triz-affected_harm+Composite_materials-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Difficulty.internal.md) 
-- [Triz-affected_harm+Composite_materials-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Difficulty.protect.md) 
-- [Triz-affected_harm+Composite_materials-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Difficulty.private.md) 
-- [Triz-affected_harm+Composite_materials-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Difficulty.personal.md) 
-- [Triz-affected_harm+Composite_materials-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Difficulty.secret.md) 

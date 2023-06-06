@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ottmachau](../../../../../../_public/geo/Continent/Europe/Poland/City/Ottmachau.md) 
-- [Ottmachau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ottmachau.internal.md) 
-- [Ottmachau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ottmachau.protect.md) 
-- [Ottmachau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ottmachau.private.md) 
-- [Ottmachau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ottmachau.personal.md) 
-- [Ottmachau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ottmachau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spurn_Head](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.md) 
-- [Spurn_Head.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.internal.md) 
-- [Spurn_Head.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.protect.md) 
-- [Spurn_Head.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.private.md) 
-- [Spurn_Head.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.personal.md) 
-- [Spurn_Head.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Spurn_Head.secret.md) 

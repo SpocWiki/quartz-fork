@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hradisch](../../../../../../_public/geo/Continent/Europe/Hungary/City/Hradisch.md) 
-- [Hradisch.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hradisch.internal.md) 
-- [Hradisch.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hradisch.protect.md) 
-- [Hradisch.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Hradisch.private.md) 
-- [Hradisch.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hradisch.personal.md) 
-- [Hradisch.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hradisch.secret.md) 

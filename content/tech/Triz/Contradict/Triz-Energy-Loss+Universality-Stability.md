@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Universality-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Universality-Stability](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Universality-Stability.md) 
-- [Triz-Energy-Loss+Universality-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Universality-Stability.internal.md) 
-- [Triz-Energy-Loss+Universality-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Universality-Stability.protect.md) 
-- [Triz-Energy-Loss+Universality-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Universality-Stability.private.md) 
-- [Triz-Energy-Loss+Universality-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Universality-Stability.personal.md) 
-- [Triz-Energy-Loss+Universality-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Universality-Stability.secret.md) 

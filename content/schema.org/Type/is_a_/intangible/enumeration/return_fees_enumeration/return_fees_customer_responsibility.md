@@ -47,10 +47,3 @@ Specifies that product returns must be paid for, and are the responsibility of, 
 
 
 
-## Confidential Links & Embeds: 
-- [return_fees_customer_responsibility](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.md) 
-- [return_fees_customer_responsibility.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.internal.md) 
-- [return_fees_customer_responsibility.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.protect.md) 
-- [return_fees_customer_responsibility.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.private.md) 
-- [return_fees_customer_responsibility.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.personal.md) 
-- [return_fees_customer_responsibility.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.secret.md) 

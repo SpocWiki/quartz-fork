@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brunnthal](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.md) 
-- [Brunnthal.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.internal.md) 
-- [Brunnthal.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.protect.md) 
-- [Brunnthal.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.private.md) 
-- [Brunnthal.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.personal.md) 
-- [Brunnthal.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dorf-Itter](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.md) 
-- [Dorf-Itter.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.internal.md) 
-- [Dorf-Itter.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.protect.md) 
-- [Dorf-Itter.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.private.md) 
-- [Dorf-Itter.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.personal.md) 
-- [Dorf-Itter.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Dorf-Itter.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-10307+22198-stationary_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22198-stationary_Volume](../../../../_public/tech/Triz/Contradict/Triz-10307+22198-stationary_Volume.md) 
-- [Triz-10307+22198-stationary_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22198-stationary_Volume.internal.md) 
-- [Triz-10307+22198-stationary_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22198-stationary_Volume.protect.md) 
-- [Triz-10307+22198-stationary_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22198-stationary_Volume.private.md) 
-- [Triz-10307+22198-stationary_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22198-stationary_Volume.personal.md) 
-- [Triz-10307+22198-stationary_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22198-stationary_Volume.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suwalki](../../../../../../_public/geo/Continent/Europe/Poland/City/Suwalki.md) 
-- [Suwalki.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Suwalki.internal.md) 
-- [Suwalki.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Suwalki.protect.md) 
-- [Suwalki.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Suwalki.private.md) 
-- [Suwalki.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Suwalki.personal.md) 
-- [Suwalki.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Suwalki.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_du
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture](../../../../_public/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.md) 
-- [Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.internal.md) 
-- [Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.protect.md) 
-- [Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.private.md) 
-- [Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.personal.md) 
-- [Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_manufacture.secret.md) 

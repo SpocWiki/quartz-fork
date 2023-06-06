@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valmy](../../../../../../_public/geo/Continent/Europe/France/City/Valmy.md) 
-- [Valmy.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Valmy.internal.md) 
-- [Valmy.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Valmy.protect.md) 
-- [Valmy.private](../../../../../../_private/geo/Continent/Europe/France/City/Valmy.private.md) 
-- [Valmy.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Valmy.personal.md) 
-- [Valmy.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Valmy.secret.md) 

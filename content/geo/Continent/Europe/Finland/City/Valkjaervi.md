@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valkjaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Valkjaervi.md) 
-- [Valkjaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Valkjaervi.internal.md) 
-- [Valkjaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Valkjaervi.protect.md) 
-- [Valkjaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Valkjaervi.private.md) 
-- [Valkjaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Valkjaervi.personal.md) 
-- [Valkjaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Valkjaervi.secret.md) 

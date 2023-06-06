@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muehlhausen~Oberfranken](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.md) 
-- [Muehlhausen~Oberfranken.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.internal.md) 
-- [Muehlhausen~Oberfranken.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.protect.md) 
-- [Muehlhausen~Oberfranken.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.private.md) 
-- [Muehlhausen~Oberfranken.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.personal.md) 
-- [Muehlhausen~Oberfranken.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Muehlhausen~Oberfranken.secret.md) 

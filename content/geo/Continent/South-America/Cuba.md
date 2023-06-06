@@ -121,7 +121,7 @@ markerFolder: ./Cuba/City
 
 ![350](geo/Continent/South-America/Cuba/Coat_of_arms_of_Cuba.svg)
 
-![Anthem-Cuba](xLarge/National-Anthem/Anthem-Cuba.mp3)
+[Anthem-Cuba](xLarge/National-Anthem/Anthem-Cuba.mp3)
 
 ![350](geo/Continent/South-America/Cuba/Flag_of_Cuba.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Cuba/City
 
 
 
-## Confidential Links & Embeds: 
-- [Cuba](../../../../_public/geo/Continent/South-America/Cuba.md) 
-- [Cuba.internal](../../../../_internal/geo/Continent/South-America/Cuba.internal.md) 
-- [Cuba.protect](../../../../_protect/geo/Continent/South-America/Cuba.protect.md) 
-- [Cuba.private](../../../../_private/geo/Continent/South-America/Cuba.private.md) 
-- [Cuba.personal](../../../../_personal/geo/Continent/South-America/Cuba.personal.md) 
-- [Cuba.secret](../../../../_secret/geo/Continent/South-America/Cuba.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Volpersdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Volpersdorf.md) 
-- [Volpersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Volpersdorf.internal.md) 
-- [Volpersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Volpersdorf.protect.md) 
-- [Volpersdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Volpersdorf.private.md) 
-- [Volpersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Volpersdorf.personal.md) 
-- [Volpersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Volpersdorf.secret.md) 

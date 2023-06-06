@@ -136,10 +136,3 @@ markerFolder: ./Palau/City
 
 
 
-## Confidential Links & Embeds: 
-- [Palau](../../../../_public/geo/Continent/Oceania/Palau.md) 
-- [Palau.internal](../../../../_internal/geo/Continent/Oceania/Palau.internal.md) 
-- [Palau.protect](../../../../_protect/geo/Continent/Oceania/Palau.protect.md) 
-- [Palau.private](../../../../_private/geo/Continent/Oceania/Palau.private.md) 
-- [Palau.personal](../../../../_personal/geo/Continent/Oceania/Palau.personal.md) 
-- [Palau.secret](../../../../_secret/geo/Continent/Oceania/Palau.secret.md) 

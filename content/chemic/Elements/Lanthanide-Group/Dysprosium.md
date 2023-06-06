@@ -35,10 +35,3 @@ title: Dysprosium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dysprosium)
 
-## Confidential Links & Embeds: 
-- [Dysprosium](../../../../_public/chemic/Elements/Lanthanide-Group/Dysprosium.md) 
-- [Dysprosium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Dysprosium.internal.md) 
-- [Dysprosium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Dysprosium.protect.md) 
-- [Dysprosium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Dysprosium.private.md) 
-- [Dysprosium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Dysprosium.personal.md) 
-- [Dysprosium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Dysprosium.secret.md) 

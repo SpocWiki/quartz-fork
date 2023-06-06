@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_yearly_revenue](../../../../_public/schema.org/Predicate/Quantities/has_value_for_yearly_revenue.md) 
-- [has_value_for_yearly_revenue.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_yearly_revenue.internal.md) 
-- [has_value_for_yearly_revenue.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_yearly_revenue.protect.md) 
-- [has_value_for_yearly_revenue.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_yearly_revenue.private.md) 
-- [has_value_for_yearly_revenue.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_yearly_revenue.personal.md) 
-- [has_value_for_yearly_revenue.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_yearly_revenue.secret.md) 

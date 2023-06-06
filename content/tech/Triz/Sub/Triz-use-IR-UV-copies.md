@@ -18,10 +18,3 @@ title: Triz-use-IR-UV-copies
 If visible optical copies are already used, move to infrared or ultraviolet copies.
 
 
-## Confidential Links & Embeds: 
-- [Triz-use-IR-UV-copies](../../../../_public/tech/Triz/Sub/Triz-use-IR-UV-copies.md) 
-- [Triz-use-IR-UV-copies.internal](../../../../_internal/tech/Triz/Sub/Triz-use-IR-UV-copies.internal.md) 
-- [Triz-use-IR-UV-copies.protect](../../../../_protect/tech/Triz/Sub/Triz-use-IR-UV-copies.protect.md) 
-- [Triz-use-IR-UV-copies.private](../../../../_private/tech/Triz/Sub/Triz-use-IR-UV-copies.private.md) 
-- [Triz-use-IR-UV-copies.personal](../../../../_personal/tech/Triz/Sub/Triz-use-IR-UV-copies.personal.md) 
-- [Triz-use-IR-UV-copies.secret](../../../../_secret/tech/Triz/Sub/Triz-use-IR-UV-copies.secret.md) 

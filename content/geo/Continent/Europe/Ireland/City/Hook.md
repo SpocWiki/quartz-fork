@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hook](../../../../../../_public/geo/Continent/Europe/Ireland/City/Hook.md) 
-- [Hook.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Hook.internal.md) 
-- [Hook.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Hook.protect.md) 
-- [Hook.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Hook.private.md) 
-- [Hook.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Hook.personal.md) 
-- [Hook.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Hook.secret.md) 

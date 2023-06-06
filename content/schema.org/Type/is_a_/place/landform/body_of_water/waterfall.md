@@ -43,10 +43,3 @@ A waterfall, like Niagara.
 
 
 
-## Confidential Links & Embeds: 
-- [waterfall](../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.md) 
-- [waterfall.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.internal.md) 
-- [waterfall.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.protect.md) 
-- [waterfall.private](../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.private.md) 
-- [waterfall.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.personal.md) 
-- [waterfall.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.secret.md) 

@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_warranty_promise](../../../../../_public/schema.org/Predicate/Relations/has/has_warranty_promise.md) 
-- [has_warranty_promise.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_warranty_promise.internal.md) 
-- [has_warranty_promise.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_warranty_promise.protect.md) 
-- [has_warranty_promise.private](../../../../../_private/schema.org/Predicate/Relations/has/has_warranty_promise.private.md) 
-- [has_warranty_promise.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_warranty_promise.personal.md) 
-- [has_warranty_promise.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_warranty_promise.secret.md) 

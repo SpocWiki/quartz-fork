@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freudenthal](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Freudenthal.md) 
-- [Freudenthal.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Freudenthal.internal.md) 
-- [Freudenthal.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Freudenthal.protect.md) 
-- [Freudenthal.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Freudenthal.private.md) 
-- [Freudenthal.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Freudenthal.personal.md) 
-- [Freudenthal.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Freudenthal.secret.md) 

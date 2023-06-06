@@ -36,10 +36,3 @@ markerFolder: ./Akrotiri_and_Dhekelia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Akrotiri_and_Dhekelia](../../../../_public/geo/Continent/Europe/Akrotiri_and_Dhekelia.md) 
-- [Akrotiri_and_Dhekelia.internal](../../../../_internal/geo/Continent/Europe/Akrotiri_and_Dhekelia.internal.md) 
-- [Akrotiri_and_Dhekelia.protect](../../../../_protect/geo/Continent/Europe/Akrotiri_and_Dhekelia.protect.md) 
-- [Akrotiri_and_Dhekelia.private](../../../../_private/geo/Continent/Europe/Akrotiri_and_Dhekelia.private.md) 
-- [Akrotiri_and_Dhekelia.personal](../../../../_personal/geo/Continent/Europe/Akrotiri_and_Dhekelia.personal.md) 
-- [Akrotiri_and_Dhekelia.secret](../../../../_secret/geo/Continent/Europe/Akrotiri_and_Dhekelia.secret.md) 

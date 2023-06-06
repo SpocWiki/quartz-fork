@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-West_Hampstead](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Hampstead.md) 
-- [Sub-West_Hampstead.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Hampstead.internal.md) 
-- [Sub-West_Hampstead.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Hampstead.protect.md) 
-- [Sub-West_Hampstead.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Hampstead.private.md) 
-- [Sub-West_Hampstead.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Hampstead.personal.md) 
-- [Sub-West_Hampstead.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Hampstead.secret.md) 

@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_calories](../../../../../_public/schema.org/Predicate/Relations/has/has_calories.md) 
-- [has_calories.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_calories.internal.md) 
-- [has_calories.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_calories.protect.md) 
-- [has_calories.private](../../../../../_private/schema.org/Predicate/Relations/has/has_calories.private.md) 
-- [has_calories.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_calories.personal.md) 
-- [has_calories.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_calories.secret.md) 

@@ -51,10 +51,3 @@ The LearningResource type can be used to indicate <a class="localLink" href="/Cr
 
 
 
-## Confidential Links & Embeds: 
-- [learning_resource](../../../../../_public/schema.org/Type/is_a_/creative_work/learning_resource.md) 
-- [learning_resource.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/learning_resource.internal.md) 
-- [learning_resource.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/learning_resource.protect.md) 
-- [learning_resource.private](../../../../../_private/schema.org/Type/is_a_/creative_work/learning_resource.private.md) 
-- [learning_resource.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/learning_resource.personal.md) 
-- [learning_resource.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/learning_resource.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Murnau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Murnau.md) 
-- [Murnau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Murnau.internal.md) 
-- [Murnau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Murnau.protect.md) 
-- [Murnau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Murnau.private.md) 
-- [Murnau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Murnau.personal.md) 
-- [Murnau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Murnau.secret.md) 

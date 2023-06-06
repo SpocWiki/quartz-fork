@@ -23,10 +23,3 @@ type: folder_brief_live
  
 
 
-## Confidential Links & Embeds: 
-- [Lanthanide-Group](../../../_public/chemic/Elements/Lanthanide-Group.md) 
-- [Lanthanide-Group.internal](../../../_internal/chemic/Elements/Lanthanide-Group.internal.md) 
-- [Lanthanide-Group.protect](../../../_protect/chemic/Elements/Lanthanide-Group.protect.md) 
-- [Lanthanide-Group.private](../../../_private/chemic/Elements/Lanthanide-Group.private.md) 
-- [Lanthanide-Group.personal](../../../_personal/chemic/Elements/Lanthanide-Group.personal.md) 
-- [Lanthanide-Group.secret](../../../_secret/chemic/Elements/Lanthanide-Group.secret.md) 

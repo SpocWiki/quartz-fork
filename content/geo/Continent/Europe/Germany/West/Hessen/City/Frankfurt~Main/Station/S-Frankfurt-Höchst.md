@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Frankfurt-Höchst](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst.md) 
-- [S-Frankfurt-Höchst.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst.internal.md) 
-- [S-Frankfurt-Höchst.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst.protect.md) 
-- [S-Frankfurt-Höchst.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst.private.md) 
-- [S-Frankfurt-Höchst.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst.personal.md) 
-- [S-Frankfurt-Höchst.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst.secret.md) 

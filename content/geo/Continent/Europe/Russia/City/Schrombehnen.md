@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schrombehnen](../../../../../../_public/geo/Continent/Europe/Russia/City/Schrombehnen.md) 
-- [Schrombehnen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Schrombehnen.internal.md) 
-- [Schrombehnen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Schrombehnen.protect.md) 
-- [Schrombehnen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Schrombehnen.private.md) 
-- [Schrombehnen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Schrombehnen.personal.md) 
-- [Schrombehnen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Schrombehnen.secret.md) 

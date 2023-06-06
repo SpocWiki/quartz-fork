@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pescara](../../../../../../_public/geo/Continent/Europe/Italy/City/Pescara.md) 
-- [Pescara.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pescara.internal.md) 
-- [Pescara.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pescara.protect.md) 
-- [Pescara.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pescara.private.md) 
-- [Pescara.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pescara.personal.md) 
-- [Pescara.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pescara.secret.md) 

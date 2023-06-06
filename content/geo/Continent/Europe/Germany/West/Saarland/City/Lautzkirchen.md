@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lautzkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Lautzkirchen.md) 
-- [Lautzkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Lautzkirchen.internal.md) 
-- [Lautzkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Lautzkirchen.protect.md) 
-- [Lautzkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Lautzkirchen.private.md) 
-- [Lautzkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Lautzkirchen.personal.md) 
-- [Lautzkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Lautzkirchen.secret.md) 

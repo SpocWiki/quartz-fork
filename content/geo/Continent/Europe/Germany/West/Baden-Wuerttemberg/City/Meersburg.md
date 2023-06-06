@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meersburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.md) 
-- [Meersburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.internal.md) 
-- [Meersburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.protect.md) 
-- [Meersburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.private.md) 
-- [Meersburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.personal.md) 
-- [Meersburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Meersburg.secret.md) 

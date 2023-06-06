@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blagoveshchensk](../../../../../../_public/geo/Continent/Europe/Russia/City/Blagoveshchensk.md) 
-- [Blagoveshchensk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Blagoveshchensk.internal.md) 
-- [Blagoveshchensk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Blagoveshchensk.protect.md) 
-- [Blagoveshchensk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Blagoveshchensk.private.md) 
-- [Blagoveshchensk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Blagoveshchensk.personal.md) 
-- [Blagoveshchensk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Blagoveshchensk.secret.md) 

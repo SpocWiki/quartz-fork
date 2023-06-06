@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nastaetten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Nastaetten.md) 
-- [Nastaetten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nastaetten.internal.md) 
-- [Nastaetten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nastaetten.protect.md) 
-- [Nastaetten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nastaetten.private.md) 
-- [Nastaetten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Nastaetten.personal.md) 
-- [Nastaetten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Nastaetten.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wesermuende](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wesermuende.md) 
-- [Wesermuende.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wesermuende.internal.md) 
-- [Wesermuende.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wesermuende.protect.md) 
-- [Wesermuende.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wesermuende.private.md) 
-- [Wesermuende.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wesermuende.personal.md) 
-- [Wesermuende.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wesermuende.secret.md) 

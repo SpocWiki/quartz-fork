@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wiltz](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Wiltz.md) 
-- [Wiltz.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Wiltz.internal.md) 
-- [Wiltz.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Wiltz.protect.md) 
-- [Wiltz.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Wiltz.private.md) 
-- [Wiltz.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Wiltz.personal.md) 
-- [Wiltz.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Wiltz.secret.md) 

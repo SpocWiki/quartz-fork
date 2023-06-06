@@ -40,10 +40,3 @@ SpocWebEntityId: 6012
 
 
 
-## Confidential Links & Embeds: 
-- [Copper](../../../../_public/chemic/Elements/Group-11-Copper/Copper.md) 
-- [Copper.internal](../../../../_internal/chemic/Elements/Group-11-Copper/Copper.internal.md) 
-- [Copper.protect](../../../../_protect/chemic/Elements/Group-11-Copper/Copper.protect.md) 
-- [Copper.private](../../../../_private/chemic/Elements/Group-11-Copper/Copper.private.md) 
-- [Copper.personal](../../../../_personal/chemic/Elements/Group-11-Copper/Copper.personal.md) 
-- [Copper.secret](../../../../_secret/chemic/Elements/Group-11-Copper/Copper.secret.md) 

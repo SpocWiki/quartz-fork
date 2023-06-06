@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_duration_to_complete](../../../../_public/schema.org/Predicate/Durations/has_duration_to_complete.md) 
-- [has_duration_to_complete.internal](../../../../_internal/schema.org/Predicate/Durations/has_duration_to_complete.internal.md) 
-- [has_duration_to_complete.protect](../../../../_protect/schema.org/Predicate/Durations/has_duration_to_complete.protect.md) 
-- [has_duration_to_complete.private](../../../../_private/schema.org/Predicate/Durations/has_duration_to_complete.private.md) 
-- [has_duration_to_complete.personal](../../../../_personal/schema.org/Predicate/Durations/has_duration_to_complete.personal.md) 
-- [has_duration_to_complete.secret](../../../../_secret/schema.org/Predicate/Durations/has_duration_to_complete.secret.md) 

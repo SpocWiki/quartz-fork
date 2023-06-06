@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fléche](../../../../../../_public/geo/Continent/Europe/France/City/Fl%C3%A9che.md) 
-- [Fléche.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Fl%C3%A9che.internal.md) 
-- [Fléche.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Fl%C3%A9che.protect.md) 
-- [Fléche.private](../../../../../../_private/geo/Continent/Europe/France/City/Fl%C3%A9che.private.md) 
-- [Fléche.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Fl%C3%A9che.personal.md) 
-- [Fléche.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Fl%C3%A9che.secret.md) 

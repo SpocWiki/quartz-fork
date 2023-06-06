@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Puy-en-Velay](../../../../../../_public/geo/Continent/Europe/France/City/Puy-en-Velay.md) 
-- [Puy-en-Velay.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Puy-en-Velay.internal.md) 
-- [Puy-en-Velay.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Puy-en-Velay.protect.md) 
-- [Puy-en-Velay.private](../../../../../../_private/geo/Continent/Europe/France/City/Puy-en-Velay.private.md) 
-- [Puy-en-Velay.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Puy-en-Velay.personal.md) 
-- [Puy-en-Velay.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Puy-en-Velay.secret.md) 

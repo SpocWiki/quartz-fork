@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kerki](../../../../../../_public/geo/Continent/Europe/Russia/City/Kerki.md) 
-- [Kerki.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kerki.internal.md) 
-- [Kerki.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kerki.protect.md) 
-- [Kerki.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kerki.private.md) 
-- [Kerki.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kerki.personal.md) 
-- [Kerki.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kerki.secret.md) 

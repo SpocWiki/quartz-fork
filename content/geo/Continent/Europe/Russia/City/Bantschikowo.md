@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bantschikowo](../../../../../../_public/geo/Continent/Europe/Russia/City/Bantschikowo.md) 
-- [Bantschikowo.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Bantschikowo.internal.md) 
-- [Bantschikowo.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Bantschikowo.protect.md) 
-- [Bantschikowo.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Bantschikowo.private.md) 
-- [Bantschikowo.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Bantschikowo.personal.md) 
-- [Bantschikowo.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Bantschikowo.secret.md) 

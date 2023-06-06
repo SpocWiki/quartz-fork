@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Newry](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.md) 
-- [Newry.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.internal.md) 
-- [Newry.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.protect.md) 
-- [Newry.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.private.md) 
-- [Newry.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.personal.md) 
-- [Newry.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Newry.secret.md) 

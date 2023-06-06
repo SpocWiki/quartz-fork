@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Den_Haag](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Den_Haag.md) 
-- [Den_Haag.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Den_Haag.internal.md) 
-- [Den_Haag.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Den_Haag.protect.md) 
-- [Den_Haag.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Den_Haag.private.md) 
-- [Den_Haag.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Den_Haag.personal.md) 
-- [Den_Haag.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Den_Haag.secret.md) 

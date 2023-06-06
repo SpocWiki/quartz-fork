@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Colljure](../../../../../../_public/geo/Continent/Europe/France/City/Colljure.md) 
-- [Colljure.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Colljure.internal.md) 
-- [Colljure.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Colljure.protect.md) 
-- [Colljure.private](../../../../../../_private/geo/Continent/Europe/France/City/Colljure.private.md) 
-- [Colljure.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Colljure.personal.md) 
-- [Colljure.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Colljure.secret.md) 

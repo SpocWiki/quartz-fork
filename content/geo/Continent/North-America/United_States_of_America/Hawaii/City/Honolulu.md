@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Honolulu](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.md) 
-- [Honolulu.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.internal.md) 
-- [Honolulu.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.protect.md) 
-- [Honolulu.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.private.md) 
-- [Honolulu.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.personal.md) 
-- [Honolulu.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Hawaii/City/Honolulu.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Strength+Dynamicity-stationary_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Dynamicity-stationary_Length](../../../../_public/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Length.md) 
-- [Triz-Strength+Dynamicity-stationary_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Length.internal.md) 
-- [Triz-Strength+Dynamicity-stationary_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Length.protect.md) 
-- [Triz-Strength+Dynamicity-stationary_Length.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Length.private.md) 
-- [Triz-Strength+Dynamicity-stationary_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Length.personal.md) 
-- [Triz-Strength+Dynamicity-stationary_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Dynamicity-stationary_Length.secret.md) 

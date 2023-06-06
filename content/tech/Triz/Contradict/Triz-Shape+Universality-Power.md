@@ -19,10 +19,3 @@ title: Triz-Shape+Universality-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Universality-Power](../../../../_public/tech/Triz/Contradict/Triz-Shape+Universality-Power.md) 
-- [Triz-Shape+Universality-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Universality-Power.internal.md) 
-- [Triz-Shape+Universality-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Universality-Power.protect.md) 
-- [Triz-Shape+Universality-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Universality-Power.private.md) 
-- [Triz-Shape+Universality-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Universality-Power.personal.md) 
-- [Triz-Shape+Universality-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Universality-Power.secret.md) 

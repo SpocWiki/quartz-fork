@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Georgiewsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Georgiewsk.md) 
-- [Georgiewsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Georgiewsk.internal.md) 
-- [Georgiewsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Georgiewsk.protect.md) 
-- [Georgiewsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Georgiewsk.private.md) 
-- [Georgiewsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Georgiewsk.personal.md) 
-- [Georgiewsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Georgiewsk.secret.md) 

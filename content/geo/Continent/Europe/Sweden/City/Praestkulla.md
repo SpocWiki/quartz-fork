@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Praestkulla](../../../../../../_public/geo/Continent/Europe/Sweden/City/Praestkulla.md) 
-- [Praestkulla.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Praestkulla.internal.md) 
-- [Praestkulla.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Praestkulla.protect.md) 
-- [Praestkulla.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Praestkulla.private.md) 
-- [Praestkulla.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Praestkulla.personal.md) 
-- [Praestkulla.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Praestkulla.secret.md) 

@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_associated_pathophysiology](../../../../_public/schema.org/Predicate/Texts/has_associated_pathophysiology.md) 
-- [has_associated_pathophysiology.internal](../../../../_internal/schema.org/Predicate/Texts/has_associated_pathophysiology.internal.md) 
-- [has_associated_pathophysiology.protect](../../../../_protect/schema.org/Predicate/Texts/has_associated_pathophysiology.protect.md) 
-- [has_associated_pathophysiology.private](../../../../_private/schema.org/Predicate/Texts/has_associated_pathophysiology.private.md) 
-- [has_associated_pathophysiology.personal](../../../../_personal/schema.org/Predicate/Texts/has_associated_pathophysiology.personal.md) 
-- [has_associated_pathophysiology.secret](../../../../_secret/schema.org/Predicate/Texts/has_associated_pathophysiology.secret.md) 

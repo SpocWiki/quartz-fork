@@ -43,10 +43,3 @@ A country.
 
 
 
-## Confidential Links & Embeds: 
-- [country](../../../../../../_public/schema.org/Type/is_a_/place/administrative_area/country.md) 
-- [country.internal](../../../../../../_internal/schema.org/Type/is_a_/place/administrative_area/country.internal.md) 
-- [country.protect](../../../../../../_protect/schema.org/Type/is_a_/place/administrative_area/country.protect.md) 
-- [country.private](../../../../../../_private/schema.org/Type/is_a_/place/administrative_area/country.private.md) 
-- [country.personal](../../../../../../_personal/schema.org/Type/is_a_/place/administrative_area/country.personal.md) 
-- [country.secret](../../../../../../_secret/schema.org/Type/is_a_/place/administrative_area/country.secret.md) 

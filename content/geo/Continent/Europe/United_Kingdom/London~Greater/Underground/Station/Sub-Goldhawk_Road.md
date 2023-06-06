@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Goldhawk_Road](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.md) 
-- [Sub-Goldhawk_Road.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.internal.md) 
-- [Sub-Goldhawk_Road.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.protect.md) 
-- [Sub-Goldhawk_Road.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.private.md) 
-- [Sub-Goldhawk_Road.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.personal.md) 
-- [Sub-Goldhawk_Road.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Goldhawk_Road.secret.md) 

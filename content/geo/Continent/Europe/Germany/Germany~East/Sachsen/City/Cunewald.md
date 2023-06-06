@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cunewald](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cunewald.md) 
-- [Cunewald.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cunewald.internal.md) 
-- [Cunewald.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cunewald.protect.md) 
-- [Cunewald.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cunewald.private.md) 
-- [Cunewald.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cunewald.personal.md) 
-- [Cunewald.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cunewald.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krasnogorsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Krasnogorsk.md) 
-- [Krasnogorsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Krasnogorsk.internal.md) 
-- [Krasnogorsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Krasnogorsk.protect.md) 
-- [Krasnogorsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Krasnogorsk.private.md) 
-- [Krasnogorsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Krasnogorsk.personal.md) 
-- [Krasnogorsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Krasnogorsk.secret.md) 

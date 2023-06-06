@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Römerstadt](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-R%C3%B6merstadt.md) 
-- [U-Römerstadt.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-R%C3%B6merstadt.internal.md) 
-- [U-Römerstadt.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-R%C3%B6merstadt.protect.md) 
-- [U-Römerstadt.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-R%C3%B6merstadt.private.md) 
-- [U-Römerstadt.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-R%C3%B6merstadt.personal.md) 
-- [U-Römerstadt.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-R%C3%B6merstadt.secret.md) 

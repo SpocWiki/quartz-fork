@@ -43,10 +43,3 @@ A medical procedure intended primarily for diagnostic, as opposed to therapeutic
 
 
 
-## Confidential Links & Embeds: 
-- [diagnostic_procedure](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.md) 
-- [diagnostic_procedure.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.internal.md) 
-- [diagnostic_procedure.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.protect.md) 
-- [diagnostic_procedure.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.private.md) 
-- [diagnostic_procedure.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.personal.md) 
-- [diagnostic_procedure.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.secret.md) 

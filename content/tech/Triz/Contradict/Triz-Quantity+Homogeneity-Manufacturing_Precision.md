@@ -19,10 +19,3 @@ title: Triz-Quantity+Homogeneity-Manufacturing_Precision
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Homogeneity-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.md) 
-- [Triz-Quantity+Homogeneity-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.internal.md) 
-- [Triz-Quantity+Homogeneity-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.protect.md) 
-- [Triz-Quantity+Homogeneity-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.private.md) 
-- [Triz-Quantity+Homogeneity-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.personal.md) 
-- [Triz-Quantity+Homogeneity-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Homogeneity-Manufacturing_Precision.secret.md) 

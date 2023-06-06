@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barry](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Barry.md) 
-- [Barry.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barry.internal.md) 
-- [Barry.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barry.protect.md) 
-- [Barry.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barry.private.md) 
-- [Barry.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barry.personal.md) 
-- [Barry.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barry.secret.md) 

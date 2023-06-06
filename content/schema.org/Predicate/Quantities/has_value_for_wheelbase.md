@@ -49,10 +49,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_wheelbase](../../../../_public/schema.org/Predicate/Quantities/has_value_for_wheelbase.md) 
-- [has_value_for_wheelbase.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_wheelbase.internal.md) 
-- [has_value_for_wheelbase.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_wheelbase.protect.md) 
-- [has_value_for_wheelbase.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_wheelbase.private.md) 
-- [has_value_for_wheelbase.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_wheelbase.personal.md) 
-- [has_value_for_wheelbase.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_wheelbase.secret.md) 

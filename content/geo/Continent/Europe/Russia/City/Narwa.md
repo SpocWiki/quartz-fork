@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Narwa](../../../../../../_public/geo/Continent/Europe/Russia/City/Narwa.md) 
-- [Narwa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Narwa.internal.md) 
-- [Narwa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Narwa.protect.md) 
-- [Narwa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Narwa.private.md) 
-- [Narwa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Narwa.personal.md) 
-- [Narwa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Narwa.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Prior_action-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Prior_action-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Complexity.md) 
-- [Triz-Substance-Loss+Prior_action-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Complexity.internal.md) 
-- [Triz-Substance-Loss+Prior_action-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Complexity.protect.md) 
-- [Triz-Substance-Loss+Prior_action-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Complexity.private.md) 
-- [Triz-Substance-Loss+Prior_action-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Complexity.personal.md) 
-- [Triz-Substance-Loss+Prior_action-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Complexity.secret.md) 

@@ -122,7 +122,7 @@ markerFolder: ./Serbia/City
 [VehicleCode::SRB]
 [Capital::[Beograd](geo/Continent/Europe/Serbia/City/Beograd.md)]
 ![350](Coat_of_arms_of_Serbia.svg)
-![Anthem-Serbia](xLarge/National-Anthem/Anthem-Serbia.mp3)
+[Anthem-Serbia](xLarge/National-Anthem/Anthem-Serbia.mp3)
 ![350](Flag_of_Serbia.svg)
 [Alcohol-l::11.1]
 [Language-Id::]
@@ -131,10 +131,3 @@ markerFolder: ./Serbia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Serbia](../../../../_public/geo/Continent/Europe/Serbia.md) 
-- [Serbia.internal](../../../../_internal/geo/Continent/Europe/Serbia.internal.md) 
-- [Serbia.protect](../../../../_protect/geo/Continent/Europe/Serbia.protect.md) 
-- [Serbia.private](../../../../_private/geo/Continent/Europe/Serbia.private.md) 
-- [Serbia.personal](../../../../_personal/geo/Continent/Europe/Serbia.personal.md) 
-- [Serbia.secret](../../../../_secret/geo/Continent/Europe/Serbia.secret.md) 

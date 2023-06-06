@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nurmijaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Nurmijaervi.md) 
-- [Nurmijaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Nurmijaervi.internal.md) 
-- [Nurmijaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Nurmijaervi.protect.md) 
-- [Nurmijaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Nurmijaervi.private.md) 
-- [Nurmijaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Nurmijaervi.personal.md) 
-- [Nurmijaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Nurmijaervi.secret.md) 

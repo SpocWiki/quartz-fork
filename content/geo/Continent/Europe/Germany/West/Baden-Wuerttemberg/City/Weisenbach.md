@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weisenbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weisenbach.md) 
-- [Weisenbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weisenbach.internal.md) 
-- [Weisenbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weisenbach.protect.md) 
-- [Weisenbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weisenbach.private.md) 
-- [Weisenbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weisenbach.personal.md) 
-- [Weisenbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weisenbach.secret.md) 

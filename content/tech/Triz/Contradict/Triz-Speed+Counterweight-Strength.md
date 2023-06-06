@@ -19,10 +19,3 @@ title: Triz-Speed+Counterweight-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Counterweight-Strength](../../../../_public/tech/Triz/Contradict/Triz-Speed+Counterweight-Strength.md) 
-- [Triz-Speed+Counterweight-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Counterweight-Strength.internal.md) 
-- [Triz-Speed+Counterweight-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Counterweight-Strength.protect.md) 
-- [Triz-Speed+Counterweight-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Counterweight-Strength.private.md) 
-- [Triz-Speed+Counterweight-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Counterweight-Strength.personal.md) 
-- [Triz-Speed+Counterweight-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Counterweight-Strength.secret.md) 

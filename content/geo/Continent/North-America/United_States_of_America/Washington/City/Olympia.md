@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Olympia](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Washington/City/Olympia.md) 
-- [Olympia.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington/City/Olympia.internal.md) 
-- [Olympia.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington/City/Olympia.protect.md) 
-- [Olympia.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington/City/Olympia.private.md) 
-- [Olympia.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington/City/Olympia.personal.md) 
-- [Olympia.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington/City/Olympia.secret.md) 

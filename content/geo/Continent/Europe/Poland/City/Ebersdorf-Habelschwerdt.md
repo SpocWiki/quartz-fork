@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ebersdorf-Habelschwerdt](../../../../../../_public/geo/Continent/Europe/Poland/City/Ebersdorf-Habelschwerdt.md) 
-- [Ebersdorf-Habelschwerdt.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ebersdorf-Habelschwerdt.internal.md) 
-- [Ebersdorf-Habelschwerdt.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ebersdorf-Habelschwerdt.protect.md) 
-- [Ebersdorf-Habelschwerdt.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ebersdorf-Habelschwerdt.private.md) 
-- [Ebersdorf-Habelschwerdt.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ebersdorf-Habelschwerdt.personal.md) 
-- [Ebersdorf-Habelschwerdt.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ebersdorf-Habelschwerdt.secret.md) 

@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_file_format](../../../../_public/schema.org/Predicate/Texts/has_file_format.md) 
-- [has_file_format.internal](../../../../_internal/schema.org/Predicate/Texts/has_file_format.internal.md) 
-- [has_file_format.protect](../../../../_protect/schema.org/Predicate/Texts/has_file_format.protect.md) 
-- [has_file_format.private](../../../../_private/schema.org/Predicate/Texts/has_file_format.private.md) 
-- [has_file_format.personal](../../../../_personal/schema.org/Predicate/Texts/has_file_format.personal.md) 
-- [has_file_format.secret](../../../../_secret/schema.org/Predicate/Texts/has_file_format.secret.md) 

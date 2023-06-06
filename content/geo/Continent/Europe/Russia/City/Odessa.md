@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Odessa](../../../../../../_public/geo/Continent/Europe/Russia/City/Odessa.md) 
-- [Odessa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Odessa.internal.md) 
-- [Odessa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Odessa.protect.md) 
-- [Odessa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Odessa.private.md) 
-- [Odessa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Odessa.personal.md) 
-- [Odessa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Odessa.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Diphda](../../../_public/astro/Star/Diphda.md) 
-- [Diphda.internal](../../../_internal/astro/Star/Diphda.internal.md) 
-- [Diphda.protect](../../../_protect/astro/Star/Diphda.protect.md) 
-- [Diphda.private](../../../_private/astro/Star/Diphda.private.md) 
-- [Diphda.personal](../../../_personal/astro/Star/Diphda.personal.md) 
-- [Diphda.secret](../../../_secret/astro/Star/Diphda.secret.md)
-

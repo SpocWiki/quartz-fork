@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Geldern](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Geldern.md) 
-- [Geldern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Geldern.internal.md) 
-- [Geldern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Geldern.protect.md) 
-- [Geldern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Geldern.private.md) 
-- [Geldern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Geldern.personal.md) 
-- [Geldern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Geldern.secret.md) 

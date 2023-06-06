@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hochredlau](../../../../../../_public/geo/Continent/Europe/Poland/City/Hochredlau.md) 
-- [Hochredlau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Hochredlau.internal.md) 
-- [Hochredlau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Hochredlau.protect.md) 
-- [Hochredlau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Hochredlau.private.md) 
-- [Hochredlau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Hochredlau.personal.md) 
-- [Hochredlau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Hochredlau.secret.md) 

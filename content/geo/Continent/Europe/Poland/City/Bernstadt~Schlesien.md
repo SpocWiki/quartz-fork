@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bernstadt~Schlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.md) 
-- [Bernstadt~Schlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.internal.md) 
-- [Bernstadt~Schlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.protect.md) 
-- [Bernstadt~Schlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.private.md) 
-- [Bernstadt~Schlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.personal.md) 
-- [Bernstadt~Schlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bernstadt~Schlesien.secret.md) 

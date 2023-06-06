@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Asymmetry-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Asymmetry-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.md) 
-- [Triz-Ease_of_repair+Asymmetry-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.internal.md) 
-- [Triz-Ease_of_repair+Asymmetry-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.protect.md) 
-- [Triz-Ease_of_repair+Asymmetry-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.private.md) 
-- [Triz-Ease_of_repair+Asymmetry-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.personal.md) 
-- [Triz-Ease_of_repair+Asymmetry-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Temperature.secret.md) 

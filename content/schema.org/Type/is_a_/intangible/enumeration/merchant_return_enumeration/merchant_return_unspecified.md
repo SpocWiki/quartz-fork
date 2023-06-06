@@ -49,10 +49,3 @@ Specifies that a product return policy is not provided.
 
 
 
-## Confidential Links & Embeds: 
-- [merchant_return_unspecified](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.md) 
-- [merchant_return_unspecified.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.internal.md) 
-- [merchant_return_unspecified.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.protect.md) 
-- [merchant_return_unspecified.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.private.md) 
-- [merchant_return_unspecified.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.personal.md) 
-- [merchant_return_unspecified.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.secret.md) 

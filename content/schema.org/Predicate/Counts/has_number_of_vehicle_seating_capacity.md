@@ -49,10 +49,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_vehicle_seating_capacity](../../../../_public/schema.org/Predicate/Counts/has_number_of_vehicle_seating_capacity.md) 
-- [has_number_of_vehicle_seating_capacity.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_vehicle_seating_capacity.internal.md) 
-- [has_number_of_vehicle_seating_capacity.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_vehicle_seating_capacity.protect.md) 
-- [has_number_of_vehicle_seating_capacity.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_vehicle_seating_capacity.private.md) 
-- [has_number_of_vehicle_seating_capacity.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_vehicle_seating_capacity.personal.md) 
-- [has_number_of_vehicle_seating_capacity.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_vehicle_seating_capacity.secret.md) 

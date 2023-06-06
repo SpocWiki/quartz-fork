@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ruhla](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ruhla.md) 
-- [Ruhla.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ruhla.internal.md) 
-- [Ruhla.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ruhla.protect.md) 
-- [Ruhla.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ruhla.private.md) 
-- [Ruhla.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ruhla.personal.md) 
-- [Ruhla.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ruhla.secret.md) 

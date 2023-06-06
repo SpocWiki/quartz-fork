@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kolbergermuende](../../../../../../_public/geo/Continent/Europe/Poland/City/Kolbergermuende.md) 
-- [Kolbergermuende.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kolbergermuende.internal.md) 
-- [Kolbergermuende.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kolbergermuende.protect.md) 
-- [Kolbergermuende.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kolbergermuende.private.md) 
-- [Kolbergermuende.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kolbergermuende.personal.md) 
-- [Kolbergermuende.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kolbergermuende.secret.md) 

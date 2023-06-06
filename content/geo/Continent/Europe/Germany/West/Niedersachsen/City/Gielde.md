@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gielde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gielde.md) 
-- [Gielde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gielde.internal.md) 
-- [Gielde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gielde.protect.md) 
-- [Gielde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gielde.private.md) 
-- [Gielde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gielde.personal.md) 
-- [Gielde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gielde.secret.md) 

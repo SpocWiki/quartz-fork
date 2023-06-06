@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gussing](../../../../../../_public/geo/Continent/Europe/Austria/City/Gussing.md) 
-- [Gussing.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Gussing.internal.md) 
-- [Gussing.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Gussing.protect.md) 
-- [Gussing.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Gussing.private.md) 
-- [Gussing.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Gussing.personal.md) 
-- [Gussing.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Gussing.secret.md) 

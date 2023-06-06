@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pontedera](../../../../../../_public/geo/Continent/Europe/Italy/City/Pontedera.md) 
-- [Pontedera.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pontedera.internal.md) 
-- [Pontedera.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pontedera.protect.md) 
-- [Pontedera.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pontedera.private.md) 
-- [Pontedera.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pontedera.personal.md) 
-- [Pontedera.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pontedera.secret.md) 

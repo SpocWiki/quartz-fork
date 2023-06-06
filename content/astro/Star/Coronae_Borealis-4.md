@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Coronae_Borealis-4](../../../_public/astro/Star/Coronae_Borealis-4.md) 
-- [Coronae_Borealis-4.internal](../../../_internal/astro/Star/Coronae_Borealis-4.internal.md) 
-- [Coronae_Borealis-4.protect](../../../_protect/astro/Star/Coronae_Borealis-4.protect.md) 
-- [Coronae_Borealis-4.private](../../../_private/astro/Star/Coronae_Borealis-4.private.md) 
-- [Coronae_Borealis-4.personal](../../../_personal/astro/Star/Coronae_Borealis-4.personal.md) 
-- [Coronae_Borealis-4.secret](../../../_secret/astro/Star/Coronae_Borealis-4.secret.md)
-

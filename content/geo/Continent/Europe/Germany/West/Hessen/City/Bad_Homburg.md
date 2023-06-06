@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Homburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg.md) 
-- [Bad_Homburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg.internal.md) 
-- [Bad_Homburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg.protect.md) 
-- [Bad_Homburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg.private.md) 
-- [Bad_Homburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg.personal.md) 
-- [Bad_Homburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Homburg.secret.md) 

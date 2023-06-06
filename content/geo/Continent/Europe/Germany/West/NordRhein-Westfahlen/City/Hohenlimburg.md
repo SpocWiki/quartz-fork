@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hohenlimburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hohenlimburg.md) 
-- [Hohenlimburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hohenlimburg.internal.md) 
-- [Hohenlimburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hohenlimburg.protect.md) 
-- [Hohenlimburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hohenlimburg.private.md) 
-- [Hohenlimburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hohenlimburg.personal.md) 
-- [Hohenlimburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hohenlimburg.secret.md) 

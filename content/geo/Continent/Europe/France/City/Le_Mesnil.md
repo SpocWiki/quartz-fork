@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Le_Mesnil](../../../../../../_public/geo/Continent/Europe/France/City/Le_Mesnil.md) 
-- [Le_Mesnil.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Le_Mesnil.internal.md) 
-- [Le_Mesnil.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Le_Mesnil.protect.md) 
-- [Le_Mesnil.private](../../../../../../_private/geo/Continent/Europe/France/City/Le_Mesnil.private.md) 
-- [Le_Mesnil.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Le_Mesnil.personal.md) 
-- [Le_Mesnil.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Le_Mesnil.secret.md) 

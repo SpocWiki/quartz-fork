@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eussenheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Eussenheim.md) 
-- [Eussenheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Eussenheim.internal.md) 
-- [Eussenheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Eussenheim.protect.md) 
-- [Eussenheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Eussenheim.private.md) 
-- [Eussenheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Eussenheim.personal.md) 
-- [Eussenheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Eussenheim.secret.md) 

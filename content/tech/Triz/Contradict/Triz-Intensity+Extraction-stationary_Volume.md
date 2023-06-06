@@ -19,10 +19,3 @@ title: Triz-Intensity+Extraction-stationary_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Extraction-stationary_Volume](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Extraction-stationary_Volume.md) 
-- [Triz-Intensity+Extraction-stationary_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Extraction-stationary_Volume.internal.md) 
-- [Triz-Intensity+Extraction-stationary_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Extraction-stationary_Volume.protect.md) 
-- [Triz-Intensity+Extraction-stationary_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Extraction-stationary_Volume.private.md) 
-- [Triz-Intensity+Extraction-stationary_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Extraction-stationary_Volume.personal.md) 
-- [Triz-Intensity+Extraction-stationary_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Extraction-stationary_Volume.secret.md) 

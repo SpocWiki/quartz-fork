@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radmannsdorf](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.md) 
-- [Radmannsdorf.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.internal.md) 
-- [Radmannsdorf.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.protect.md) 
-- [Radmannsdorf.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.private.md) 
-- [Radmannsdorf.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.personal.md) 
-- [Radmannsdorf.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Radmannsdorf.secret.md) 

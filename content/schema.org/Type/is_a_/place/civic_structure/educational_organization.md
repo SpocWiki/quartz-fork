@@ -45,10 +45,3 @@ An educational organization.
 
 
 
-## Confidential Links & Embeds: 
-- [educational_organization](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/educational_organization.md) 
-- [educational_organization.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/educational_organization.internal.md) 
-- [educational_organization.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/educational_organization.protect.md) 
-- [educational_organization.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/educational_organization.private.md) 
-- [educational_organization.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/educational_organization.personal.md) 
-- [educational_organization.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/educational_organization.secret.md) 

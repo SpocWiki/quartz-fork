@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Viken](../../../../../../_public/geo/Continent/Europe/Sweden/City/Viken.md) 
-- [Viken.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Viken.internal.md) 
-- [Viken.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Viken.protect.md) 
-- [Viken.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Viken.private.md) 
-- [Viken.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Viken.personal.md) 
-- [Viken.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Viken.secret.md) 

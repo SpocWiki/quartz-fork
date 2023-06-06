@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Segmentation-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Segmentation-Stress](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.md) 
-- [Triz-stationary_Length+Segmentation-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.internal.md) 
-- [Triz-stationary_Length+Segmentation-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.protect.md) 
-- [Triz-stationary_Length+Segmentation-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.private.md) 
-- [Triz-stationary_Length+Segmentation-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.personal.md) 
-- [Triz-stationary_Length+Segmentation-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Stress.secret.md) 

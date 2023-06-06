@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Prades](../../../../../../_public/geo/Continent/Europe/France/City/Prades.md) 
-- [Prades.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Prades.internal.md) 
-- [Prades.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Prades.protect.md) 
-- [Prades.private](../../../../../../_private/geo/Continent/Europe/France/City/Prades.private.md) 
-- [Prades.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Prades.personal.md) 
-- [Prades.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Prades.secret.md) 

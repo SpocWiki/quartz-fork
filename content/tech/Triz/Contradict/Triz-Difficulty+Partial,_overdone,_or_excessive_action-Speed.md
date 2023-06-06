@@ -19,10 +19,3 @@ title: Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.md) 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.internal.md) 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.protect.md) 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.private.md) 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.personal.md) 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Speed.secret.md) 

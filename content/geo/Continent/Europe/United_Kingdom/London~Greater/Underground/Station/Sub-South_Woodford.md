@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-South_Woodford](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.md) 
-- [Sub-South_Woodford.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.internal.md) 
-- [Sub-South_Woodford.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.protect.md) 
-- [Sub-South_Woodford.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.private.md) 
-- [Sub-South_Woodford.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.personal.md) 
-- [Sub-South_Woodford.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Woodford.secret.md) 

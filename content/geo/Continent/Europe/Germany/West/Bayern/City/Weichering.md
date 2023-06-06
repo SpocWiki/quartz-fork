@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weichering](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Weichering.md) 
-- [Weichering.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Weichering.internal.md) 
-- [Weichering.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Weichering.protect.md) 
-- [Weichering.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Weichering.private.md) 
-- [Weichering.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Weichering.personal.md) 
-- [Weichering.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Weichering.secret.md) 

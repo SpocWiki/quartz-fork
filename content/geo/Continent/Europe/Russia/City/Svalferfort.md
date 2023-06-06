@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Svalferfort](../../../../../../_public/geo/Continent/Europe/Russia/City/Svalferfort.md) 
-- [Svalferfort.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Svalferfort.internal.md) 
-- [Svalferfort.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Svalferfort.protect.md) 
-- [Svalferfort.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Svalferfort.private.md) 
-- [Svalferfort.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Svalferfort.personal.md) 
-- [Svalferfort.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Svalferfort.secret.md) 

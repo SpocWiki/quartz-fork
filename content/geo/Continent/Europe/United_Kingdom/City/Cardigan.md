@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cardigan](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cardigan.md) 
-- [Cardigan.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cardigan.internal.md) 
-- [Cardigan.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cardigan.protect.md) 
-- [Cardigan.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cardigan.private.md) 
-- [Cardigan.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cardigan.personal.md) 
-- [Cardigan.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cardigan.secret.md) 

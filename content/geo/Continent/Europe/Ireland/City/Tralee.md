@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tralee](../../../../../../_public/geo/Continent/Europe/Ireland/City/Tralee.md) 
-- [Tralee.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tralee.internal.md) 
-- [Tralee.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tralee.protect.md) 
-- [Tralee.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Tralee.private.md) 
-- [Tralee.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tralee.personal.md) 
-- [Tralee.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tralee.secret.md) 

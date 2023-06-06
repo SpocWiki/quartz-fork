@@ -45,10 +45,3 @@ A media object, such as an image, video, or audio object embedded in a web page 
 
 
 
-## Confidential Links & Embeds: 
-- [media_object](../../../../../_public/schema.org/Type/is_a_/creative_work/media_object.md) 
-- [media_object.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object.internal.md) 
-- [media_object.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object.protect.md) 
-- [media_object.private](../../../../../_private/schema.org/Type/is_a_/creative_work/media_object.private.md) 
-- [media_object.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object.personal.md) 
-- [media_object.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object.secret.md) 

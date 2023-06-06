@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_type_of_good](../../../../../_public/schema.org/Predicate/Relations/has/has_type_of_good.md) 
-- [has_type_of_good.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_type_of_good.internal.md) 
-- [has_type_of_good.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_type_of_good.protect.md) 
-- [has_type_of_good.private](../../../../../_private/schema.org/Predicate/Relations/has/has_type_of_good.private.md) 
-- [has_type_of_good.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_type_of_good.personal.md) 
-- [has_type_of_good.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_type_of_good.secret.md) 

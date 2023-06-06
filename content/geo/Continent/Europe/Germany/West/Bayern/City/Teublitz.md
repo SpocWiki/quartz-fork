@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teublitz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Teublitz.md) 
-- [Teublitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Teublitz.internal.md) 
-- [Teublitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Teublitz.protect.md) 
-- [Teublitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Teublitz.private.md) 
-- [Teublitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Teublitz.personal.md) 
-- [Teublitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Teublitz.secret.md) 

@@ -45,10 +45,3 @@ A unique instance of a radio BroadcastService on a CableOrSatelliteService lineu
 
 
 
-## Confidential Links & Embeds: 
-- [radio_channel](../../../../../../_public/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.md) 
-- [radio_channel.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.internal.md) 
-- [radio_channel.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.protect.md) 
-- [radio_channel.private](../../../../../../_private/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.private.md) 
-- [radio_channel.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.personal.md) 
-- [radio_channel.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel.secret.md) 

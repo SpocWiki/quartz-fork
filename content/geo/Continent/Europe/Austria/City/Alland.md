@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alland](../../../../../../_public/geo/Continent/Europe/Austria/City/Alland.md) 
-- [Alland.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Alland.internal.md) 
-- [Alland.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Alland.protect.md) 
-- [Alland.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Alland.private.md) 
-- [Alland.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Alland.personal.md) 
-- [Alland.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Alland.secret.md) 

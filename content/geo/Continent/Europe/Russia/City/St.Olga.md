@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Olga](../../../../../../_public/geo/Continent/Europe/Russia/City/St.Olga.md) 
-- [St.Olga.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/St.Olga.internal.md) 
-- [St.Olga.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/St.Olga.protect.md) 
-- [St.Olga.private](../../../../../../_private/geo/Continent/Europe/Russia/City/St.Olga.private.md) 
-- [St.Olga.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/St.Olga.personal.md) 
-- [St.Olga.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/St.Olga.secret.md) 

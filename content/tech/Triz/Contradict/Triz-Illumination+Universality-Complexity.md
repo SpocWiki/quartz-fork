@@ -19,10 +19,3 @@ title: Triz-Illumination+Universality-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Universality-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.md) 
-- [Triz-Illumination+Universality-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.internal.md) 
-- [Triz-Illumination+Universality-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.protect.md) 
-- [Triz-Illumination+Universality-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.private.md) 
-- [Triz-Illumination+Universality-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.personal.md) 
-- [Triz-Illumination+Universality-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Universality-Complexity.secret.md) 

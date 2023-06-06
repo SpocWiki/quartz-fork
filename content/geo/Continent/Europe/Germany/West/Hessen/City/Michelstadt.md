@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Michelstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Michelstadt.md) 
-- [Michelstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Michelstadt.internal.md) 
-- [Michelstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Michelstadt.protect.md) 
-- [Michelstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Michelstadt.private.md) 
-- [Michelstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Michelstadt.personal.md) 
-- [Michelstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Michelstadt.secret.md) 

@@ -36,10 +36,3 @@ markerFolder: ./FRENCH_WEST_AFRICA/City
 
 
 
-## Confidential Links & Embeds: 
-- [FRENCH_WEST_AFRICA](../../../../_public/geo/Continent/Africa/FRENCH_WEST_AFRICA.md) 
-- [FRENCH_WEST_AFRICA.internal](../../../../_internal/geo/Continent/Africa/FRENCH_WEST_AFRICA.internal.md) 
-- [FRENCH_WEST_AFRICA.protect](../../../../_protect/geo/Continent/Africa/FRENCH_WEST_AFRICA.protect.md) 
-- [FRENCH_WEST_AFRICA.private](../../../../_private/geo/Continent/Africa/FRENCH_WEST_AFRICA.private.md) 
-- [FRENCH_WEST_AFRICA.personal](../../../../_personal/geo/Continent/Africa/FRENCH_WEST_AFRICA.personal.md) 
-- [FRENCH_WEST_AFRICA.secret](../../../../_secret/geo/Continent/Africa/FRENCH_WEST_AFRICA.secret.md) 

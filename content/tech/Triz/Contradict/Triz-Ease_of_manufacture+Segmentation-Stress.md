@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Segmentation-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Segmentation-Stress](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stress.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stress.internal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stress.protect.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stress.private.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stress.personal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Stress.secret.md) 

@@ -43,10 +43,3 @@ A recipe. For dietary restrictions covered by the recipe, a few common restricti
 
 
 
-## Confidential Links & Embeds: 
-- [recipe](../../../../../../_public/schema.org/Type/is_a_/creative_work/how_to/recipe.md) 
-- [recipe.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/how_to/recipe.internal.md) 
-- [recipe.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/how_to/recipe.protect.md) 
-- [recipe.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/how_to/recipe.private.md) 
-- [recipe.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/how_to/recipe.personal.md) 
-- [recipe.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/how_to/recipe.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gralow](../../../../../../_public/geo/Continent/Europe/Poland/City/Gralow.md) 
-- [Gralow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gralow.internal.md) 
-- [Gralow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gralow.protect.md) 
-- [Gralow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gralow.private.md) 
-- [Gralow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gralow.personal.md) 
-- [Gralow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gralow.secret.md) 

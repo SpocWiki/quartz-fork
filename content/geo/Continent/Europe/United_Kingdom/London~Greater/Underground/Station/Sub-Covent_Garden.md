@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Covent_Garden](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.md) 
-- [Sub-Covent_Garden.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.internal.md) 
-- [Sub-Covent_Garden.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.protect.md) 
-- [Sub-Covent_Garden.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.private.md) 
-- [Sub-Covent_Garden.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.personal.md) 
-- [Sub-Covent_Garden.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Covent_Garden.secret.md) 

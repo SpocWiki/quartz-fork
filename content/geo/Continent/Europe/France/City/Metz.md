@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Metz](../../../../../../_public/geo/Continent/Europe/France/City/Metz.md) 
-- [Metz.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Metz.internal.md) 
-- [Metz.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Metz.protect.md) 
-- [Metz.private](../../../../../../_private/geo/Continent/Europe/France/City/Metz.private.md) 
-- [Metz.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Metz.personal.md) 
-- [Metz.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Metz.secret.md) 

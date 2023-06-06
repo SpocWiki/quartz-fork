@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Besigheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Besigheim.md) 
-- [Besigheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Besigheim.internal.md) 
-- [Besigheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Besigheim.protect.md) 
-- [Besigheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Besigheim.private.md) 
-- [Besigheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Besigheim.personal.md) 
-- [Besigheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Besigheim.secret.md) 

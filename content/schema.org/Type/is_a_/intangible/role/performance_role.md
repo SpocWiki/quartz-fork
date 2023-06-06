@@ -43,10 +43,3 @@ A PerformanceRole is a Role that some entity places with regard to a theatrical 
 
 
 
-## Confidential Links & Embeds: 
-- [performance_role](../../../../../../_public/schema.org/Type/is_a_/intangible/role/performance_role.md) 
-- [performance_role.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/role/performance_role.internal.md) 
-- [performance_role.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/role/performance_role.protect.md) 
-- [performance_role.private](../../../../../../_private/schema.org/Type/is_a_/intangible/role/performance_role.private.md) 
-- [performance_role.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/role/performance_role.personal.md) 
-- [performance_role.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/role/performance_role.secret.md) 

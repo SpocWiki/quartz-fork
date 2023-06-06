@@ -34,10 +34,3 @@ markerFolder: ./State-Bremen/City
 
 
 
-## Confidential Links & Embeds: 
-- [State-Bremen](../../../../../../_public/geo/Continent/Europe/Germany/West/State-Bremen.md) 
-- [State-Bremen.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Bremen.internal.md) 
-- [State-Bremen.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Bremen.protect.md) 
-- [State-Bremen.private](../../../../../../_private/geo/Continent/Europe/Germany/West/State-Bremen.private.md) 
-- [State-Bremen.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Bremen.personal.md) 
-- [State-Bremen.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Bremen.secret.md) 

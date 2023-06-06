@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ettal](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ettal.md) 
-- [Ettal.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ettal.internal.md) 
-- [Ettal.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ettal.protect.md) 
-- [Ettal.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ettal.private.md) 
-- [Ettal.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ettal.personal.md) 
-- [Ettal.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ettal.secret.md) 

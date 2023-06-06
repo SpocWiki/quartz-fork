@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Namslau](../../../../../../_public/geo/Continent/Europe/Poland/City/Namslau.md) 
-- [Namslau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Namslau.internal.md) 
-- [Namslau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Namslau.protect.md) 
-- [Namslau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Namslau.private.md) 
-- [Namslau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Namslau.personal.md) 
-- [Namslau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Namslau.secret.md) 

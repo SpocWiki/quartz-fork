@@ -122,7 +122,7 @@ markerFolder: ./Gabon/City
 
 ![350](geo/Continent/Africa/Gabon/Coat_of_arms_of_Gabon.svg)
 
-![Anthem-Gabon](xLarge/National-Anthem/Anthem-Gabon.mp3)
+[Anthem-Gabon](xLarge/National-Anthem/Anthem-Gabon.mp3)
 
 ![350](geo/Continent/Africa/Gabon/Flag_of_Gabon.svg)
 [Alcohol-l::9.3]
@@ -132,10 +132,3 @@ markerFolder: ./Gabon/City
 
 
 
-## Confidential Links & Embeds: 
-- [Gabon](../../../../_public/geo/Continent/Africa/Gabon.md) 
-- [Gabon.internal](../../../../_internal/geo/Continent/Africa/Gabon.internal.md) 
-- [Gabon.protect](../../../../_protect/geo/Continent/Africa/Gabon.protect.md) 
-- [Gabon.private](../../../../_private/geo/Continent/Africa/Gabon.private.md) 
-- [Gabon.personal](../../../../_personal/geo/Continent/Africa/Gabon.personal.md) 
-- [Gabon.secret](../../../../_secret/geo/Continent/Africa/Gabon.secret.md) 

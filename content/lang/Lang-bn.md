@@ -19,11 +19,3 @@ title: Lang-bn
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-bn](../../_public/lang/Lang-bn.md) 
-- [Lang-bn.internal](../../_internal/lang/Lang-bn.internal.md) 
-- [Lang-bn.protect](../../_protect/lang/Lang-bn.protect.md) 
-- [Lang-bn.private](../../_private/lang/Lang-bn.private.md) 
-- [Lang-bn.personal](../../_personal/lang/Lang-bn.personal.md) 
-- [Lang-bn.secret](../../_secret/lang/Lang-bn.secret.md)
-

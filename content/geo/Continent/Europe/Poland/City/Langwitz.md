@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Langwitz.md) 
-- [Langwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Langwitz.internal.md) 
-- [Langwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Langwitz.protect.md) 
-- [Langwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Langwitz.private.md) 
-- [Langwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Langwitz.personal.md) 
-- [Langwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Langwitz.secret.md) 

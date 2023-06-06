@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Daugavpils](../../../../../../_public/geo/Continent/Europe/Russia/City/Daugavpils.md) 
-- [Daugavpils.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Daugavpils.internal.md) 
-- [Daugavpils.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Daugavpils.protect.md) 
-- [Daugavpils.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Daugavpils.private.md) 
-- [Daugavpils.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Daugavpils.personal.md) 
-- [Daugavpils.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Daugavpils.secret.md) 

@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_competency_required](../../../../../_public/schema.org/Predicate/Relations/has/has_competency_required.md) 
-- [has_competency_required.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_competency_required.internal.md) 
-- [has_competency_required.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_competency_required.protect.md) 
-- [has_competency_required.private](../../../../../_private/schema.org/Predicate/Relations/has/has_competency_required.private.md) 
-- [has_competency_required.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_competency_required.personal.md) 
-- [has_competency_required.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_competency_required.secret.md) 

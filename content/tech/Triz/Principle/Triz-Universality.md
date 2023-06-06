@@ -14,10 +14,3 @@ title: Triz-Universality
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Universality](../../../../_public/tech/Triz/Principle/Triz-Universality.md) 
-- [Triz-Universality.internal](../../../../_internal/tech/Triz/Principle/Triz-Universality.internal.md) 
-- [Triz-Universality.protect](../../../../_protect/tech/Triz/Principle/Triz-Universality.protect.md) 
-- [Triz-Universality.private](../../../../_private/tech/Triz/Principle/Triz-Universality.private.md) 
-- [Triz-Universality.personal](../../../../_personal/tech/Triz/Principle/Triz-Universality.personal.md) 
-- [Triz-Universality.secret](../../../../_secret/tech/Triz/Principle/Triz-Universality.secret.md) 

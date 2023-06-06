@@ -43,10 +43,3 @@ A river (for example, the broad majestic Shannon).
 
 
 
-## Confidential Links & Embeds: 
-- [river_body_of_water](../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/river_body_of_water.md) 
-- [river_body_of_water.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/river_body_of_water.internal.md) 
-- [river_body_of_water.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/river_body_of_water.protect.md) 
-- [river_body_of_water.private](../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/river_body_of_water.private.md) 
-- [river_body_of_water.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/river_body_of_water.personal.md) 
-- [river_body_of_water.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/river_body_of_water.secret.md) 

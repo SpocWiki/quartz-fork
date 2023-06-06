@@ -43,10 +43,3 @@ A specific strength in which a medical drug is available in a specific country.
 
 
 
-## Confidential Links & Embeds: 
-- [drug_strength](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.md) 
-- [drug_strength.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.internal.md) 
-- [drug_strength.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.protect.md) 
-- [drug_strength.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.private.md) 
-- [drug_strength.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.personal.md) 
-- [drug_strength.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.secret.md) 

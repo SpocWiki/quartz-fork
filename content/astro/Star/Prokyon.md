@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Prokyon](../../../_public/astro/Star/Prokyon.md) 
-- [Prokyon.internal](../../../_internal/astro/Star/Prokyon.internal.md) 
-- [Prokyon.protect](../../../_protect/astro/Star/Prokyon.protect.md) 
-- [Prokyon.private](../../../_private/astro/Star/Prokyon.private.md) 
-- [Prokyon.personal](../../../_personal/astro/Star/Prokyon.personal.md) 
-- [Prokyon.secret](../../../_secret/astro/Star/Prokyon.secret.md) 

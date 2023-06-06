@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Veszprem](../../../../../../_public/geo/Continent/Europe/Hungary/City/Veszprem.md) 
-- [Veszprem.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Veszprem.internal.md) 
-- [Veszprem.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Veszprem.protect.md) 
-- [Veszprem.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Veszprem.private.md) 
-- [Veszprem.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Veszprem.personal.md) 
-- [Veszprem.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Veszprem.secret.md) 

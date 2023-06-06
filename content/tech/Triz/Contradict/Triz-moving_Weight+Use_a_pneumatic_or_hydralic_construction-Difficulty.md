@@ -19,10 +19,3 @@ title: Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.md) 
-- [Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.internal.md) 
-- [Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.protect.md) 
-- [Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.private.md) 
-- [Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.personal.md) 
-- [Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Use_a_pneumatic_or_hydralic_construction-Difficulty.secret.md) 

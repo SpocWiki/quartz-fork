@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wuenschelburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Wuenschelburg.md) 
-- [Wuenschelburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wuenschelburg.internal.md) 
-- [Wuenschelburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wuenschelburg.protect.md) 
-- [Wuenschelburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wuenschelburg.private.md) 
-- [Wuenschelburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wuenschelburg.personal.md) 
-- [Wuenschelburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wuenschelburg.secret.md) 

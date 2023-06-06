@@ -19,11 +19,3 @@ title: Lang-ja
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-ja](../../_public/lang/Lang-ja.md) 
-- [Lang-ja.internal](../../_internal/lang/Lang-ja.internal.md) 
-- [Lang-ja.protect](../../_protect/lang/Lang-ja.protect.md) 
-- [Lang-ja.private](../../_private/lang/Lang-ja.private.md) 
-- [Lang-ja.personal](../../_personal/lang/Lang-ja.personal.md) 
-- [Lang-ja.secret](../../_secret/lang/Lang-ja.secret.md)
-

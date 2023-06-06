@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Bornheim_Mitte](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bornheim_Mitte.md) 
-- [T-Bornheim_Mitte.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bornheim_Mitte.internal.md) 
-- [T-Bornheim_Mitte.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bornheim_Mitte.protect.md) 
-- [T-Bornheim_Mitte.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bornheim_Mitte.private.md) 
-- [T-Bornheim_Mitte.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bornheim_Mitte.personal.md) 
-- [T-Bornheim_Mitte.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bornheim_Mitte.secret.md) 

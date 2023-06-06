@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Banjul](../../../../../../_public/geo/Continent/Africa/Gambia/City/Banjul.md) 
-- [Banjul.internal](../../../../../../_internal/geo/Continent/Africa/Gambia/City/Banjul.internal.md) 
-- [Banjul.protect](../../../../../../_protect/geo/Continent/Africa/Gambia/City/Banjul.protect.md) 
-- [Banjul.private](../../../../../../_private/geo/Continent/Africa/Gambia/City/Banjul.private.md) 
-- [Banjul.personal](../../../../../../_personal/geo/Continent/Africa/Gambia/City/Banjul.personal.md) 
-- [Banjul.secret](../../../../../../_secret/geo/Continent/Africa/Gambia/City/Banjul.secret.md) 

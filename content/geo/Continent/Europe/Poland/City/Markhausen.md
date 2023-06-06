@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Markhausen](../../../../../../_public/geo/Continent/Europe/Poland/City/Markhausen.md) 
-- [Markhausen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Markhausen.internal.md) 
-- [Markhausen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Markhausen.protect.md) 
-- [Markhausen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Markhausen.private.md) 
-- [Markhausen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Markhausen.personal.md) 
-- [Markhausen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Markhausen.secret.md) 

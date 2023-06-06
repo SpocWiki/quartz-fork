@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ufa](../../../../../../_public/geo/Continent/Europe/Russia/City/Ufa.md) 
-- [Ufa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ufa.internal.md) 
-- [Ufa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ufa.protect.md) 
-- [Ufa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ufa.private.md) 
-- [Ufa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ufa.personal.md) 
-- [Ufa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ufa.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Szigetvar](../../../../../../_public/geo/Continent/Europe/Hungary/City/Szigetvar.md) 
-- [Szigetvar.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szigetvar.internal.md) 
-- [Szigetvar.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szigetvar.protect.md) 
-- [Szigetvar.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Szigetvar.private.md) 
-- [Szigetvar.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szigetvar.personal.md) 
-- [Szigetvar.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szigetvar.secret.md) 

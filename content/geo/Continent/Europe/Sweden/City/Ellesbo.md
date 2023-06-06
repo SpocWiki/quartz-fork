@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ellesbo](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ellesbo.md) 
-- [Ellesbo.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ellesbo.internal.md) 
-- [Ellesbo.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ellesbo.protect.md) 
-- [Ellesbo.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ellesbo.private.md) 
-- [Ellesbo.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ellesbo.personal.md) 
-- [Ellesbo.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ellesbo.secret.md) 

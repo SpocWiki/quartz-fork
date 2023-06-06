@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waechtersbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Waechtersbach.md) 
-- [Waechtersbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Waechtersbach.internal.md) 
-- [Waechtersbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Waechtersbach.protect.md) 
-- [Waechtersbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Waechtersbach.private.md) 
-- [Waechtersbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Waechtersbach.personal.md) 
-- [Waechtersbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Waechtersbach.secret.md) 

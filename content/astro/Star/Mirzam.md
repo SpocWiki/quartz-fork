@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Mirzam](../../../_public/astro/Star/Mirzam.md) 
-- [Mirzam.internal](../../../_internal/astro/Star/Mirzam.internal.md) 
-- [Mirzam.protect](../../../_protect/astro/Star/Mirzam.protect.md) 
-- [Mirzam.private](../../../_private/astro/Star/Mirzam.private.md) 
-- [Mirzam.personal](../../../_personal/astro/Star/Mirzam.personal.md) 
-- [Mirzam.secret](../../../_secret/astro/Star/Mirzam.secret.md) 

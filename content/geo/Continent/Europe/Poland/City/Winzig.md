@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winzig](../../../../../../_public/geo/Continent/Europe/Poland/City/Winzig.md) 
-- [Winzig.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Winzig.internal.md) 
-- [Winzig.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Winzig.protect.md) 
-- [Winzig.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Winzig.private.md) 
-- [Winzig.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Winzig.personal.md) 
-- [Winzig.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Winzig.secret.md) 

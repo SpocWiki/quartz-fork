@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Belomorsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Belomorsk.md) 
-- [Belomorsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Belomorsk.internal.md) 
-- [Belomorsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Belomorsk.protect.md) 
-- [Belomorsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Belomorsk.private.md) 
-- [Belomorsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Belomorsk.personal.md) 
-- [Belomorsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Belomorsk.secret.md) 

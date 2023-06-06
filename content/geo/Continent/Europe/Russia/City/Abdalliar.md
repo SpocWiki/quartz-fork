@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abdalliar](../../../../../../_public/geo/Continent/Europe/Russia/City/Abdalliar.md) 
-- [Abdalliar.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Abdalliar.internal.md) 
-- [Abdalliar.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Abdalliar.protect.md) 
-- [Abdalliar.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Abdalliar.private.md) 
-- [Abdalliar.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Abdalliar.personal.md) 
-- [Abdalliar.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Abdalliar.secret.md) 

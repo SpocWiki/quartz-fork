@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tunis](../../../../../../_public/geo/Continent/Africa/Tunisia/City/Tunis.md) 
-- [Tunis.internal](../../../../../../_internal/geo/Continent/Africa/Tunisia/City/Tunis.internal.md) 
-- [Tunis.protect](../../../../../../_protect/geo/Continent/Africa/Tunisia/City/Tunis.protect.md) 
-- [Tunis.private](../../../../../../_private/geo/Continent/Africa/Tunisia/City/Tunis.private.md) 
-- [Tunis.personal](../../../../../../_personal/geo/Continent/Africa/Tunisia/City/Tunis.personal.md) 
-- [Tunis.secret](../../../../../../_secret/geo/Continent/Africa/Tunisia/City/Tunis.secret.md) 

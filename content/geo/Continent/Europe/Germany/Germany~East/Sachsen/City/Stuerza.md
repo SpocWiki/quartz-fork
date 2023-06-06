@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stuerza](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stuerza.md) 
-- [Stuerza.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stuerza.internal.md) 
-- [Stuerza.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stuerza.protect.md) 
-- [Stuerza.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stuerza.private.md) 
-- [Stuerza.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stuerza.personal.md) 
-- [Stuerza.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stuerza.secret.md) 

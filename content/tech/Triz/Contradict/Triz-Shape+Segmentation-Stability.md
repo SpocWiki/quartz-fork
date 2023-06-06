@@ -19,10 +19,3 @@ title: Triz-Shape+Segmentation-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Segmentation-Stability](../../../../_public/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.md) 
-- [Triz-Shape+Segmentation-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.internal.md) 
-- [Triz-Shape+Segmentation-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.protect.md) 
-- [Triz-Shape+Segmentation-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.private.md) 
-- [Triz-Shape+Segmentation-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.personal.md) 
-- [Triz-Shape+Segmentation-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Segmentation-Stability.secret.md) 

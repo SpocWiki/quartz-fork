@@ -19,10 +19,3 @@ title: Triz-Shape+Spheroidality-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Spheroidality-Strength](../../../../_public/tech/Triz/Contradict/Triz-Shape+Spheroidality-Strength.md) 
-- [Triz-Shape+Spheroidality-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Strength.internal.md) 
-- [Triz-Shape+Spheroidality-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Spheroidality-Strength.protect.md) 
-- [Triz-Shape+Spheroidality-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Spheroidality-Strength.private.md) 
-- [Triz-Shape+Spheroidality-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Strength.personal.md) 
-- [Triz-Shape+Spheroidality-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Spheroidality-Strength.secret.md) 

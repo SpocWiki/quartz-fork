@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Sudbury_Hill](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Hill.md) 
-- [Sub-Sudbury_Hill.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Hill.internal.md) 
-- [Sub-Sudbury_Hill.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Hill.protect.md) 
-- [Sub-Sudbury_Hill.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Hill.private.md) 
-- [Sub-Sudbury_Hill.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Hill.personal.md) 
-- [Sub-Sudbury_Hill.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Sudbury_Hill.secret.md) 

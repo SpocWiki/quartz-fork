@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Ursae_Minoris-105](../../../_public/astro/Star/Ursae_Minoris-105.md) 
-- [Ursae_Minoris-105.internal](../../../_internal/astro/Star/Ursae_Minoris-105.internal.md) 
-- [Ursae_Minoris-105.protect](../../../_protect/astro/Star/Ursae_Minoris-105.protect.md) 
-- [Ursae_Minoris-105.private](../../../_private/astro/Star/Ursae_Minoris-105.private.md) 
-- [Ursae_Minoris-105.personal](../../../_personal/astro/Star/Ursae_Minoris-105.personal.md) 
-- [Ursae_Minoris-105.secret](../../../_secret/astro/Star/Ursae_Minoris-105.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-moving_Energy+Prior_counteracion-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy+Prior_counteracion-Strength](../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.md) 
-- [Triz-moving_Energy+Prior_counteracion-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.internal.md) 
-- [Triz-moving_Energy+Prior_counteracion-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.protect.md) 
-- [Triz-moving_Energy+Prior_counteracion-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.private.md) 
-- [Triz-moving_Energy+Prior_counteracion-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.personal.md) 
-- [Triz-moving_Energy+Prior_counteracion-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Prior_counteracion-Strength.secret.md) 

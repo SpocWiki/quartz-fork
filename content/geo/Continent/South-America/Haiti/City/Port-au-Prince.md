@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Port-au-Prince](../../../../../../_public/geo/Continent/South-America/Haiti/City/Port-au-Prince.md) 
-- [Port-au-Prince.internal](../../../../../../_internal/geo/Continent/South-America/Haiti/City/Port-au-Prince.internal.md) 
-- [Port-au-Prince.protect](../../../../../../_protect/geo/Continent/South-America/Haiti/City/Port-au-Prince.protect.md) 
-- [Port-au-Prince.private](../../../../../../_private/geo/Continent/South-America/Haiti/City/Port-au-Prince.private.md) 
-- [Port-au-Prince.personal](../../../../../../_personal/geo/Continent/South-America/Haiti/City/Port-au-Prince.personal.md) 
-- [Port-au-Prince.secret](../../../../../../_secret/geo/Continent/South-America/Haiti/City/Port-au-Prince.secret.md) 

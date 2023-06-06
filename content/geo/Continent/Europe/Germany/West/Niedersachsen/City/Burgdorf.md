@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Burgdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burgdorf.md) 
-- [Burgdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burgdorf.internal.md) 
-- [Burgdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burgdorf.protect.md) 
-- [Burgdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burgdorf.private.md) 
-- [Burgdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burgdorf.personal.md) 
-- [Burgdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burgdorf.secret.md) 

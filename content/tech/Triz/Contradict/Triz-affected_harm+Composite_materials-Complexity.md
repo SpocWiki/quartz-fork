@@ -19,10 +19,3 @@ title: Triz-affected_harm+Composite_materials-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Composite_materials-Complexity](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.md) 
-- [Triz-affected_harm+Composite_materials-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.internal.md) 
-- [Triz-affected_harm+Composite_materials-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.protect.md) 
-- [Triz-affected_harm+Composite_materials-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.private.md) 
-- [Triz-affected_harm+Composite_materials-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.personal.md) 
-- [Triz-affected_harm+Composite_materials-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Composite_materials-Complexity.secret.md) 

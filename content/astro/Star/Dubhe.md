@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Dubhe](../../../_public/astro/Star/Dubhe.md) 
-- [Dubhe.internal](../../../_internal/astro/Star/Dubhe.internal.md) 
-- [Dubhe.protect](../../../_protect/astro/Star/Dubhe.protect.md) 
-- [Dubhe.private](../../../_private/astro/Star/Dubhe.private.md) 
-- [Dubhe.personal](../../../_personal/astro/Star/Dubhe.personal.md) 
-- [Dubhe.secret](../../../_secret/astro/Star/Dubhe.secret.md)
-

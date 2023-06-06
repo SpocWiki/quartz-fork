@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klingenthal](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klingenthal.md) 
-- [Klingenthal.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klingenthal.internal.md) 
-- [Klingenthal.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klingenthal.protect.md) 
-- [Klingenthal.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klingenthal.private.md) 
-- [Klingenthal.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klingenthal.personal.md) 
-- [Klingenthal.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klingenthal.secret.md) 

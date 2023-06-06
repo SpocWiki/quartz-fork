@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vesanto](../../../../../../_public/geo/Continent/Europe/Finland/City/Vesanto.md) 
-- [Vesanto.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Vesanto.internal.md) 
-- [Vesanto.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Vesanto.protect.md) 
-- [Vesanto.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Vesanto.private.md) 
-- [Vesanto.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Vesanto.personal.md) 
-- [Vesanto.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Vesanto.secret.md) 

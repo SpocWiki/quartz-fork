@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tulcea](../../../../../../_public/geo/Continent/Europe/Romania/City/Tulcea.md) 
-- [Tulcea.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Tulcea.internal.md) 
-- [Tulcea.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Tulcea.protect.md) 
-- [Tulcea.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Tulcea.private.md) 
-- [Tulcea.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Tulcea.personal.md) 
-- [Tulcea.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Tulcea.secret.md) 

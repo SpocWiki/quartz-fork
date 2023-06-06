@@ -43,10 +43,3 @@ An agent orders a (not yet released) object/product/service to be delivered/sent
 
 
 
-## Confidential Links & Embeds: 
-- [pre_order_action](../../../../../../_public/schema.org/Type/is_a_/action/trade_action/pre_order_action.md) 
-- [pre_order_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/pre_order_action.internal.md) 
-- [pre_order_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/pre_order_action.protect.md) 
-- [pre_order_action.private](../../../../../../_private/schema.org/Type/is_a_/action/trade_action/pre_order_action.private.md) 
-- [pre_order_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/pre_order_action.personal.md) 
-- [pre_order_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/pre_order_action.secret.md) 

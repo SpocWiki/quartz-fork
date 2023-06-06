@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dodoma](../../../../../../_public/geo/Continent/Africa/Tanzania/City/Dodoma.md) 
-- [Dodoma.internal](../../../../../../_internal/geo/Continent/Africa/Tanzania/City/Dodoma.internal.md) 
-- [Dodoma.protect](../../../../../../_protect/geo/Continent/Africa/Tanzania/City/Dodoma.protect.md) 
-- [Dodoma.private](../../../../../../_private/geo/Continent/Africa/Tanzania/City/Dodoma.private.md) 
-- [Dodoma.personal](../../../../../../_personal/geo/Continent/Africa/Tanzania/City/Dodoma.personal.md) 
-- [Dodoma.secret](../../../../../../_secret/geo/Continent/Africa/Tanzania/City/Dodoma.secret.md) 

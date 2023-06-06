@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wigstadtl](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.md) 
-- [Wigstadtl.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.internal.md) 
-- [Wigstadtl.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.protect.md) 
-- [Wigstadtl.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.private.md) 
-- [Wigstadtl.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.personal.md) 
-- [Wigstadtl.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.secret.md) 

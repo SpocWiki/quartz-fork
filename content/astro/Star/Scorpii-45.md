@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Scorpii-45](../../../_public/astro/Star/Scorpii-45.md) 
-- [Scorpii-45.internal](../../../_internal/astro/Star/Scorpii-45.internal.md) 
-- [Scorpii-45.protect](../../../_protect/astro/Star/Scorpii-45.protect.md) 
-- [Scorpii-45.private](../../../_private/astro/Star/Scorpii-45.private.md) 
-- [Scorpii-45.personal](../../../_personal/astro/Star/Scorpii-45.personal.md) 
-- [Scorpii-45.secret](../../../_secret/astro/Star/Scorpii-45.secret.md) 

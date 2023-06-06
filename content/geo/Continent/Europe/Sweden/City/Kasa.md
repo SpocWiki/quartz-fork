@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kasa](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kasa.md) 
-- [Kasa.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kasa.internal.md) 
-- [Kasa.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kasa.protect.md) 
-- [Kasa.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kasa.private.md) 
-- [Kasa.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kasa.personal.md) 
-- [Kasa.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kasa.secret.md) 

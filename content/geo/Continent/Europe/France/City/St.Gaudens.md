@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Gaudens](../../../../../../_public/geo/Continent/Europe/France/City/St.Gaudens.md) 
-- [St.Gaudens.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Gaudens.internal.md) 
-- [St.Gaudens.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Gaudens.protect.md) 
-- [St.Gaudens.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Gaudens.private.md) 
-- [St.Gaudens.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Gaudens.personal.md) 
-- [St.Gaudens.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Gaudens.secret.md) 

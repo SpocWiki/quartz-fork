@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Schießhüttenstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schie%C3%9Fh%C3%BCttenstra%C3%9Fe.md) 
-- [T-Schießhüttenstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schie%C3%9Fh%C3%BCttenstra%C3%9Fe.internal.md) 
-- [T-Schießhüttenstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schie%C3%9Fh%C3%BCttenstra%C3%9Fe.protect.md) 
-- [T-Schießhüttenstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schie%C3%9Fh%C3%BCttenstra%C3%9Fe.private.md) 
-- [T-Schießhüttenstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schie%C3%9Fh%C3%BCttenstra%C3%9Fe.personal.md) 
-- [T-Schießhüttenstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schie%C3%9Fh%C3%BCttenstra%C3%9Fe.secret.md) 

@@ -45,10 +45,3 @@ A subclass of Role used to describe roles within organizations.
 
 
 
-## Confidential Links & Embeds: 
-- [organization_role](../../../../../../_public/schema.org/Type/is_a_/intangible/role/organization_role.md) 
-- [organization_role.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/role/organization_role.internal.md) 
-- [organization_role.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/role/organization_role.protect.md) 
-- [organization_role.private](../../../../../../_private/schema.org/Type/is_a_/intangible/role/organization_role.private.md) 
-- [organization_role.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/role/organization_role.personal.md) 
-- [organization_role.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/role/organization_role.secret.md) 

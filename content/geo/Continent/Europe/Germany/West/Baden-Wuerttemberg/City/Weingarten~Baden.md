@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weingarten~Baden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Baden.md) 
-- [Weingarten~Baden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Baden.internal.md) 
-- [Weingarten~Baden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Baden.protect.md) 
-- [Weingarten~Baden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Baden.private.md) 
-- [Weingarten~Baden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Baden.personal.md) 
-- [Weingarten~Baden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Baden.secret.md) 

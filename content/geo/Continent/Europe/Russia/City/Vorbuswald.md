@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vorbuswald](../../../../../../_public/geo/Continent/Europe/Russia/City/Vorbuswald.md) 
-- [Vorbuswald.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vorbuswald.internal.md) 
-- [Vorbuswald.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vorbuswald.protect.md) 
-- [Vorbuswald.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vorbuswald.private.md) 
-- [Vorbuswald.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vorbuswald.personal.md) 
-- [Vorbuswald.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vorbuswald.secret.md) 

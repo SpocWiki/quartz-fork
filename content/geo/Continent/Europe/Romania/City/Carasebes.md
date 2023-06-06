@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Carasebes](../../../../../../_public/geo/Continent/Europe/Romania/City/Carasebes.md) 
-- [Carasebes.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Carasebes.internal.md) 
-- [Carasebes.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Carasebes.protect.md) 
-- [Carasebes.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Carasebes.private.md) 
-- [Carasebes.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Carasebes.personal.md) 
-- [Carasebes.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Carasebes.secret.md) 

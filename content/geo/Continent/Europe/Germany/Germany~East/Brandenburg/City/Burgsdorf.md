@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Burgsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Burgsdorf.md) 
-- [Burgsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Burgsdorf.internal.md) 
-- [Burgsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Burgsdorf.protect.md) 
-- [Burgsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Burgsdorf.private.md) 
-- [Burgsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Burgsdorf.personal.md) 
-- [Burgsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Burgsdorf.secret.md) 

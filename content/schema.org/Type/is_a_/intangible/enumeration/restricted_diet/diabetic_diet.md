@@ -45,10 +45,3 @@ A diet appropriate for people with diabetes.
 
 
 
-## Confidential Links & Embeds: 
-- [diabetic_diet](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.md) 
-- [diabetic_diet.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.internal.md) 
-- [diabetic_diet.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.protect.md) 
-- [diabetic_diet.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.private.md) 
-- [diabetic_diet.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.personal.md) 
-- [diabetic_diet.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.secret.md) 

@@ -45,10 +45,3 @@ OrderStatus representing that an order has been returned.
 
 
 
-## Confidential Links & Embeds: 
-- [order_returned](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_returned.md) 
-- [order_returned.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_returned.internal.md) 
-- [order_returned.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_returned.protect.md) 
-- [order_returned.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_returned.private.md) 
-- [order_returned.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_returned.personal.md) 
-- [order_returned.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_returned.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gallarate](../../../../../../_public/geo/Continent/Europe/Italy/City/Gallarate.md) 
-- [Gallarate.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Gallarate.internal.md) 
-- [Gallarate.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Gallarate.protect.md) 
-- [Gallarate.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Gallarate.private.md) 
-- [Gallarate.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Gallarate.personal.md) 
-- [Gallarate.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Gallarate.secret.md) 

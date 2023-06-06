@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sjoeholmen](../../../../../../_public/geo/Continent/Europe/Sweden/City/Sjoeholmen.md) 
-- [Sjoeholmen.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sjoeholmen.internal.md) 
-- [Sjoeholmen.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sjoeholmen.protect.md) 
-- [Sjoeholmen.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Sjoeholmen.private.md) 
-- [Sjoeholmen.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sjoeholmen.personal.md) 
-- [Sjoeholmen.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sjoeholmen.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Frankfurt_Hauptwache](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Hauptwache.md) 
-- [S-Frankfurt_Hauptwache.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Hauptwache.internal.md) 
-- [S-Frankfurt_Hauptwache.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Hauptwache.protect.md) 
-- [S-Frankfurt_Hauptwache.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Hauptwache.private.md) 
-- [S-Frankfurt_Hauptwache.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Hauptwache.personal.md) 
-- [S-Frankfurt_Hauptwache.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Hauptwache.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberstaufen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Oberstaufen.md) 
-- [Oberstaufen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberstaufen.internal.md) 
-- [Oberstaufen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberstaufen.protect.md) 
-- [Oberstaufen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberstaufen.private.md) 
-- [Oberstaufen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oberstaufen.personal.md) 
-- [Oberstaufen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oberstaufen.secret.md) 

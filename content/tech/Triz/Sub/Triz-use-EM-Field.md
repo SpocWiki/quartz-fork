@@ -18,10 +18,3 @@ title: Triz-use-EM-Field
 Use electric, magnetic and electromagnetic fields to interact with the object.
 
 
-## Confidential Links & Embeds: 
-- [Triz-use-EM-Field](../../../../_public/tech/Triz/Sub/Triz-use-EM-Field.md) 
-- [Triz-use-EM-Field.internal](../../../../_internal/tech/Triz/Sub/Triz-use-EM-Field.internal.md) 
-- [Triz-use-EM-Field.protect](../../../../_protect/tech/Triz/Sub/Triz-use-EM-Field.protect.md) 
-- [Triz-use-EM-Field.private](../../../../_private/tech/Triz/Sub/Triz-use-EM-Field.private.md) 
-- [Triz-use-EM-Field.personal](../../../../_personal/tech/Triz/Sub/Triz-use-EM-Field.personal.md) 
-- [Triz-use-EM-Field.secret](../../../../_secret/tech/Triz/Sub/Triz-use-EM-Field.secret.md) 

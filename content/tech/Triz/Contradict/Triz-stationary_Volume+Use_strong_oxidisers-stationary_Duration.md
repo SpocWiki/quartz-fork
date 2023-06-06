@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.md) 
-- [Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.internal.md) 
-- [Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.protect.md) 
-- [Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.private.md) 
-- [Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.personal.md) 
-- [Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Use_strong_oxidisers-stationary_Duration.secret.md) 

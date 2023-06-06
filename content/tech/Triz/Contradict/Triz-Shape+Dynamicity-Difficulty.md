@@ -19,10 +19,3 @@ title: Triz-Shape+Dynamicity-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Dynamicity-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Difficulty.md) 
-- [Triz-Shape+Dynamicity-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Difficulty.internal.md) 
-- [Triz-Shape+Dynamicity-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Difficulty.protect.md) 
-- [Triz-Shape+Dynamicity-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Difficulty.private.md) 
-- [Triz-Shape+Dynamicity-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Difficulty.personal.md) 
-- [Triz-Shape+Dynamicity-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Dynamicity-Difficulty.secret.md) 

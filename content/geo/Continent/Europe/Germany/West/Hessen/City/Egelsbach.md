@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Egelsbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Egelsbach.md) 
-- [Egelsbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Egelsbach.internal.md) 
-- [Egelsbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Egelsbach.protect.md) 
-- [Egelsbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Egelsbach.private.md) 
-- [Egelsbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Egelsbach.personal.md) 
-- [Egelsbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Egelsbach.secret.md) 

@@ -27,10 +27,3 @@ markerFolder: ./Oberösterreich/City
 
 
 
-## Confidential Links & Embeds: 
-- [Oberösterreich](../../../../../../_public/geo/Continent/Europe/Austria/State/Ober%C3%B6sterreich.md) 
-- [Oberösterreich.internal](../../../../../../_internal/geo/Continent/Europe/Austria/State/Ober%C3%B6sterreich.internal.md) 
-- [Oberösterreich.protect](../../../../../../_protect/geo/Continent/Europe/Austria/State/Ober%C3%B6sterreich.protect.md) 
-- [Oberösterreich.private](../../../../../../_private/geo/Continent/Europe/Austria/State/Ober%C3%B6sterreich.private.md) 
-- [Oberösterreich.personal](../../../../../../_personal/geo/Continent/Europe/Austria/State/Ober%C3%B6sterreich.personal.md) 
-- [Oberösterreich.secret](../../../../../../_secret/geo/Continent/Europe/Austria/State/Ober%C3%B6sterreich.secret.md) 

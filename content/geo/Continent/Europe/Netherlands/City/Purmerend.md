@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Purmerend](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Purmerend.md) 
-- [Purmerend.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Purmerend.internal.md) 
-- [Purmerend.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Purmerend.protect.md) 
-- [Purmerend.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Purmerend.private.md) 
-- [Purmerend.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Purmerend.personal.md) 
-- [Purmerend.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Purmerend.secret.md) 

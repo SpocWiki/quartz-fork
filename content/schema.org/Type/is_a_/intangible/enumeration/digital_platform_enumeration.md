@@ -43,10 +43,3 @@ Enumerates some common technology platforms, for use with properties such as <a 
 
 
 
-## Confidential Links & Embeds: 
-- [digital_platform_enumeration](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration.md) 
-- [digital_platform_enumeration.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration.internal.md) 
-- [digital_platform_enumeration.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration.protect.md) 
-- [digital_platform_enumeration.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration.private.md) 
-- [digital_platform_enumeration.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration.personal.md) 
-- [digital_platform_enumeration.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration.secret.md) 

@@ -45,10 +45,3 @@ A structured value representing a price or price range. Typically, only the subc
 
 
 
-## Confidential Links & Embeds: 
-- [price_specification](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/price_specification.md) 
-- [price_specification.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/price_specification.internal.md) 
-- [price_specification.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/price_specification.protect.md) 
-- [price_specification.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/price_specification.private.md) 
-- [price_specification.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/price_specification.personal.md) 
-- [price_specification.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/price_specification.secret.md) 

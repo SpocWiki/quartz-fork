@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eisenstadt](../../../../../../_public/geo/Continent/Europe/Austria/City/Eisenstadt.md) 
-- [Eisenstadt.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Eisenstadt.internal.md) 
-- [Eisenstadt.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Eisenstadt.protect.md) 
-- [Eisenstadt.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Eisenstadt.private.md) 
-- [Eisenstadt.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Eisenstadt.personal.md) 
-- [Eisenstadt.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Eisenstadt.secret.md) 

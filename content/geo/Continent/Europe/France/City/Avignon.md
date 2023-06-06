@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Avignon](../../../../../../_public/geo/Continent/Europe/France/City/Avignon.md) 
-- [Avignon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Avignon.internal.md) 
-- [Avignon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Avignon.protect.md) 
-- [Avignon.private](../../../../../../_private/geo/Continent/Europe/France/City/Avignon.private.md) 
-- [Avignon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Avignon.personal.md) 
-- [Avignon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Avignon.secret.md) 

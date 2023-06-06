@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_multiple_value](../../../../_public/schema.org/Predicate/Flags/is_multiple_value.md) 
-- [is_multiple_value.internal](../../../../_internal/schema.org/Predicate/Flags/is_multiple_value.internal.md) 
-- [is_multiple_value.protect](../../../../_protect/schema.org/Predicate/Flags/is_multiple_value.protect.md) 
-- [is_multiple_value.private](../../../../_private/schema.org/Predicate/Flags/is_multiple_value.private.md) 
-- [is_multiple_value.personal](../../../../_personal/schema.org/Predicate/Flags/is_multiple_value.personal.md) 
-- [is_multiple_value.secret](../../../../_secret/schema.org/Predicate/Flags/is_multiple_value.secret.md) 

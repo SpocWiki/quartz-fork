@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Polaris](../../../_public/astro/Star/Polaris.md) 
-- [Polaris.internal](../../../_internal/astro/Star/Polaris.internal.md) 
-- [Polaris.protect](../../../_protect/astro/Star/Polaris.protect.md) 
-- [Polaris.private](../../../_private/astro/Star/Polaris.private.md) 
-- [Polaris.personal](../../../_personal/astro/Star/Polaris.personal.md) 
-- [Polaris.secret](../../../_secret/astro/Star/Polaris.secret.md) 

@@ -45,10 +45,3 @@ One of the sections into which a book is divided. A chapter usually has a sectio
 
 
 
-## Confidential Links & Embeds: 
-- [chapter](../../../../../_public/schema.org/Type/is_a_/creative_work/chapter.md) 
-- [chapter.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/chapter.internal.md) 
-- [chapter.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/chapter.protect.md) 
-- [chapter.private](../../../../../_private/schema.org/Type/is_a_/creative_work/chapter.private.md) 
-- [chapter.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/chapter.personal.md) 
-- [chapter.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/chapter.secret.md) 

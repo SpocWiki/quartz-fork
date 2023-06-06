@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weinboehla](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weinboehla.md) 
-- [Weinboehla.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weinboehla.internal.md) 
-- [Weinboehla.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weinboehla.protect.md) 
-- [Weinboehla.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weinboehla.private.md) 
-- [Weinboehla.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weinboehla.personal.md) 
-- [Weinboehla.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weinboehla.secret.md) 

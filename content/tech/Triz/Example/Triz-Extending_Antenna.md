@@ -17,10 +17,3 @@ title: Triz-Extending_Antenna
 
 Extending Radio Telescope Antenna
 
-## Confidential Links & Embeds: 
-- [Triz-Extending_Antenna](../../../../_public/tech/Triz/Example/Triz-Extending_Antenna.md) 
-- [Triz-Extending_Antenna.internal](../../../../_internal/tech/Triz/Example/Triz-Extending_Antenna.internal.md) 
-- [Triz-Extending_Antenna.protect](../../../../_protect/tech/Triz/Example/Triz-Extending_Antenna.protect.md) 
-- [Triz-Extending_Antenna.private](../../../../_private/tech/Triz/Example/Triz-Extending_Antenna.private.md) 
-- [Triz-Extending_Antenna.personal](../../../../_personal/tech/Triz/Example/Triz-Extending_Antenna.personal.md) 
-- [Triz-Extending_Antenna.secret](../../../../_secret/tech/Triz/Example/Triz-Extending_Antenna.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lyngdal](../../../../../../_public/geo/Continent/Europe/Norway/City/Lyngdal.md) 
-- [Lyngdal.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Lyngdal.internal.md) 
-- [Lyngdal.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Lyngdal.protect.md) 
-- [Lyngdal.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Lyngdal.private.md) 
-- [Lyngdal.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Lyngdal.personal.md) 
-- [Lyngdal.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Lyngdal.secret.md) 

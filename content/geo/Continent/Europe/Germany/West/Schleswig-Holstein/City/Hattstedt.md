@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hattstedt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.md) 
-- [Hattstedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.internal.md) 
-- [Hattstedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.protect.md) 
-- [Hattstedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.private.md) 
-- [Hattstedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.personal.md) 
-- [Hattstedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hattstedt.secret.md) 

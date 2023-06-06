@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cholchester](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cholchester.md) 
-- [Cholchester.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cholchester.internal.md) 
-- [Cholchester.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cholchester.protect.md) 
-- [Cholchester.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cholchester.private.md) 
-- [Cholchester.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cholchester.personal.md) 
-- [Cholchester.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cholchester.secret.md) 

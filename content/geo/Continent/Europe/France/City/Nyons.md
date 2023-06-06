@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nyons](../../../../../../_public/geo/Continent/Europe/France/City/Nyons.md) 
-- [Nyons.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nyons.internal.md) 
-- [Nyons.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nyons.protect.md) 
-- [Nyons.private](../../../../../../_private/geo/Continent/Europe/France/City/Nyons.private.md) 
-- [Nyons.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nyons.personal.md) 
-- [Nyons.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nyons.secret.md) 

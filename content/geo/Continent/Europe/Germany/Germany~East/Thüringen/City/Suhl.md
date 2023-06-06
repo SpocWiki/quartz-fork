@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suhl](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Suhl.md) 
-- [Suhl.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Suhl.internal.md) 
-- [Suhl.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Suhl.protect.md) 
-- [Suhl.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Suhl.private.md) 
-- [Suhl.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Suhl.personal.md) 
-- [Suhl.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Suhl.secret.md) 

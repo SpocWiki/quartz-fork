@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Droviani](../../../../../../_public/geo/Continent/Europe/Albania/City/Droviani.md) 
-- [Droviani.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Droviani.internal.md) 
-- [Droviani.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Droviani.protect.md) 
-- [Droviani.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Droviani.private.md) 
-- [Droviani.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Droviani.personal.md) 
-- [Droviani.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Droviani.secret.md) 

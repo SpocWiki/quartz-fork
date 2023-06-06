@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rauschenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Rauschenberg.md) 
-- [Rauschenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Rauschenberg.internal.md) 
-- [Rauschenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Rauschenberg.protect.md) 
-- [Rauschenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Rauschenberg.private.md) 
-- [Rauschenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Rauschenberg.personal.md) 
-- [Rauschenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Rauschenberg.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Daun](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Daun.md) 
-- [Daun.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Daun.internal.md) 
-- [Daun.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Daun.protect.md) 
-- [Daun.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Daun.private.md) 
-- [Daun.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Daun.personal.md) 
-- [Daun.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Daun.secret.md) 

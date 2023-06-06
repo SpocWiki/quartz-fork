@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lungern](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lungern.md) 
-- [Lungern.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lungern.internal.md) 
-- [Lungern.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lungern.protect.md) 
-- [Lungern.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lungern.private.md) 
-- [Lungern.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lungern.personal.md) 
-- [Lungern.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lungern.secret.md) 

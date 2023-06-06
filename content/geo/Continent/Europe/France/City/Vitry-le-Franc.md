@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vitry-le-Franc](../../../../../../_public/geo/Continent/Europe/France/City/Vitry-le-Franc.md) 
-- [Vitry-le-Franc.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vitry-le-Franc.internal.md) 
-- [Vitry-le-Franc.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vitry-le-Franc.protect.md) 
-- [Vitry-le-Franc.private](../../../../../../_private/geo/Continent/Europe/France/City/Vitry-le-Franc.private.md) 
-- [Vitry-le-Franc.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vitry-le-Franc.personal.md) 
-- [Vitry-le-Franc.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vitry-le-Franc.secret.md) 

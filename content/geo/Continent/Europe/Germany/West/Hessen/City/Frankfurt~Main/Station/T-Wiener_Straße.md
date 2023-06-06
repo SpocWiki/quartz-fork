@@ -31,10 +31,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Wiener_Straße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wiener_Stra%C3%9Fe.md) 
-- [T-Wiener_Straße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wiener_Stra%C3%9Fe.internal.md) 
-- [T-Wiener_Straße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wiener_Stra%C3%9Fe.protect.md) 
-- [T-Wiener_Straße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wiener_Stra%C3%9Fe.private.md) 
-- [T-Wiener_Straße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wiener_Stra%C3%9Fe.personal.md) 
-- [T-Wiener_Straße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Wiener_Stra%C3%9Fe.secret.md) 

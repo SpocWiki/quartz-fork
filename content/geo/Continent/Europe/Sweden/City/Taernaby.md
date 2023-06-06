@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taernaby](../../../../../../_public/geo/Continent/Europe/Sweden/City/Taernaby.md) 
-- [Taernaby.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Taernaby.internal.md) 
-- [Taernaby.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Taernaby.protect.md) 
-- [Taernaby.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Taernaby.private.md) 
-- [Taernaby.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Taernaby.personal.md) 
-- [Taernaby.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Taernaby.secret.md) 

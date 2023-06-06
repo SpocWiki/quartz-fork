@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Luton.md) 
-- [Luton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Luton.internal.md) 
-- [Luton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Luton.protect.md) 
-- [Luton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Luton.private.md) 
-- [Luton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Luton.personal.md) 
-- [Luton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Luton.secret.md) 

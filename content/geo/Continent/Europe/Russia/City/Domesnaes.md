@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Domesnaes](../../../../../../_public/geo/Continent/Europe/Russia/City/Domesnaes.md) 
-- [Domesnaes.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Domesnaes.internal.md) 
-- [Domesnaes.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Domesnaes.protect.md) 
-- [Domesnaes.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Domesnaes.private.md) 
-- [Domesnaes.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Domesnaes.personal.md) 
-- [Domesnaes.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Domesnaes.secret.md) 

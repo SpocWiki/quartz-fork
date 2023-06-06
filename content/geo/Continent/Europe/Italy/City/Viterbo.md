@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Viterbo](../../../../../../_public/geo/Continent/Europe/Italy/City/Viterbo.md) 
-- [Viterbo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Viterbo.internal.md) 
-- [Viterbo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Viterbo.protect.md) 
-- [Viterbo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Viterbo.private.md) 
-- [Viterbo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Viterbo.personal.md) 
-- [Viterbo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Viterbo.secret.md) 

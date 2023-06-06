@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gravesande](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Gravesande.md) 
-- [Gravesande.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Gravesande.internal.md) 
-- [Gravesande.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Gravesande.protect.md) 
-- [Gravesande.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Gravesande.private.md) 
-- [Gravesande.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Gravesande.personal.md) 
-- [Gravesande.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Gravesande.secret.md) 

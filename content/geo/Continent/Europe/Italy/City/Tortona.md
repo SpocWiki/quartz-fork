@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tortona](../../../../../../_public/geo/Continent/Europe/Italy/City/Tortona.md) 
-- [Tortona.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Tortona.internal.md) 
-- [Tortona.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Tortona.protect.md) 
-- [Tortona.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Tortona.private.md) 
-- [Tortona.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Tortona.personal.md) 
-- [Tortona.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Tortona.secret.md) 

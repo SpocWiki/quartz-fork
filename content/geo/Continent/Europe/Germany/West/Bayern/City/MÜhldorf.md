@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [MÜhldorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%9Chldorf.md) 
-- [MÜhldorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%9Chldorf.internal.md) 
-- [MÜhldorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%9Chldorf.protect.md) 
-- [MÜhldorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%9Chldorf.private.md) 
-- [MÜhldorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%9Chldorf.personal.md) 
-- [MÜhldorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%9Chldorf.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Waldfriedhof_Goldstein](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.md) 
-- [T-Waldfriedhof_Goldstein.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.internal.md) 
-- [T-Waldfriedhof_Goldstein.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.protect.md) 
-- [T-Waldfriedhof_Goldstein.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.private.md) 
-- [T-Waldfriedhof_Goldstein.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.personal.md) 
-- [T-Waldfriedhof_Goldstein.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Waldfriedhof_Goldstein.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rixdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.md) 
-- [Rixdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.internal.md) 
-- [Rixdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.protect.md) 
-- [Rixdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.private.md) 
-- [Rixdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.personal.md) 
-- [Rixdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Rixdorf.secret.md) 

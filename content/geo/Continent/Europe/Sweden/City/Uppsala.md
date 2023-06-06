@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uppsala](../../../../../../_public/geo/Continent/Europe/Sweden/City/Uppsala.md) 
-- [Uppsala.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Uppsala.internal.md) 
-- [Uppsala.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Uppsala.protect.md) 
-- [Uppsala.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Uppsala.private.md) 
-- [Uppsala.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Uppsala.personal.md) 
-- [Uppsala.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Uppsala.secret.md) 

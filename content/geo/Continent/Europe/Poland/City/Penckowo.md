@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Penckowo](../../../../../../_public/geo/Continent/Europe/Poland/City/Penckowo.md) 
-- [Penckowo.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Penckowo.internal.md) 
-- [Penckowo.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Penckowo.protect.md) 
-- [Penckowo.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Penckowo.private.md) 
-- [Penckowo.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Penckowo.personal.md) 
-- [Penckowo.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Penckowo.secret.md) 

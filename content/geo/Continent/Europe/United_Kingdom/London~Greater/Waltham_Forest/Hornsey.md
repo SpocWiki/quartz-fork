@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hornsey](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.md) 
-- [Hornsey.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.internal.md) 
-- [Hornsey.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.protect.md) 
-- [Hornsey.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.private.md) 
-- [Hornsey.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.personal.md) 
-- [Hornsey.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Hornsey.secret.md) 

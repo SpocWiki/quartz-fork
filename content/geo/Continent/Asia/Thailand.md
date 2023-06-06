@@ -132,10 +132,3 @@ markerFolder: ./Thailand/City
 
 
 
-## Confidential Links & Embeds: 
-- [Thailand](../../../../_public/geo/Continent/Asia/Thailand.md) 
-- [Thailand.internal](../../../../_internal/geo/Continent/Asia/Thailand.internal.md) 
-- [Thailand.protect](../../../../_protect/geo/Continent/Asia/Thailand.protect.md) 
-- [Thailand.private](../../../../_private/geo/Continent/Asia/Thailand.private.md) 
-- [Thailand.personal](../../../../_personal/geo/Continent/Asia/Thailand.personal.md) 
-- [Thailand.secret](../../../../_secret/geo/Continent/Asia/Thailand.secret.md) 

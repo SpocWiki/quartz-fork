@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Draconis-117](../../../_public/astro/Star/Draconis-117.md) 
-- [Draconis-117.internal](../../../_internal/astro/Star/Draconis-117.internal.md) 
-- [Draconis-117.protect](../../../_protect/astro/Star/Draconis-117.protect.md) 
-- [Draconis-117.private](../../../_private/astro/Star/Draconis-117.private.md) 
-- [Draconis-117.personal](../../../_personal/astro/Star/Draconis-117.personal.md) 
-- [Draconis-117.secret](../../../_secret/astro/Star/Draconis-117.secret.md)
-

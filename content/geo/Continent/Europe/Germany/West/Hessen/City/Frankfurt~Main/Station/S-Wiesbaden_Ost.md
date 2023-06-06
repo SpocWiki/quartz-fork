@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Wiesbaden_Ost](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Ost.md) 
-- [S-Wiesbaden_Ost.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Ost.internal.md) 
-- [S-Wiesbaden_Ost.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Ost.protect.md) 
-- [S-Wiesbaden_Ost.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Ost.private.md) 
-- [S-Wiesbaden_Ost.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Ost.personal.md) 
-- [S-Wiesbaden_Ost.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Wiesbaden_Ost.secret.md) 

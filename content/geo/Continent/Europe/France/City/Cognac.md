@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cognac](../../../../../../_public/geo/Continent/Europe/France/City/Cognac.md) 
-- [Cognac.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Cognac.internal.md) 
-- [Cognac.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Cognac.protect.md) 
-- [Cognac.private](../../../../../../_private/geo/Continent/Europe/France/City/Cognac.private.md) 
-- [Cognac.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Cognac.personal.md) 
-- [Cognac.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Cognac.secret.md) 

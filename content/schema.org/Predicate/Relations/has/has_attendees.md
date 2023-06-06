@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_attendees](../../../../../_public/schema.org/Predicate/Relations/has/has_attendees.md) 
-- [has_attendees.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_attendees.internal.md) 
-- [has_attendees.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_attendees.protect.md) 
-- [has_attendees.private](../../../../../_private/schema.org/Predicate/Relations/has/has_attendees.private.md) 
-- [has_attendees.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_attendees.personal.md) 
-- [has_attendees.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_attendees.secret.md) 

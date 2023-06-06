@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Unukalhai](../../../_public/astro/Star/Unukalhai.md) 
-- [Unukalhai.internal](../../../_internal/astro/Star/Unukalhai.internal.md) 
-- [Unukalhai.protect](../../../_protect/astro/Star/Unukalhai.protect.md) 
-- [Unukalhai.private](../../../_private/astro/Star/Unukalhai.private.md) 
-- [Unukalhai.personal](../../../_personal/astro/Star/Unukalhai.personal.md) 
-- [Unukalhai.secret](../../../_secret/astro/Star/Unukalhai.secret.md) 

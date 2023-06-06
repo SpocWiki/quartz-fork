@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wilkersdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Wilkersdorf.md) 
-- [Wilkersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wilkersdorf.internal.md) 
-- [Wilkersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wilkersdorf.protect.md) 
-- [Wilkersdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wilkersdorf.private.md) 
-- [Wilkersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wilkersdorf.personal.md) 
-- [Wilkersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wilkersdorf.secret.md) 

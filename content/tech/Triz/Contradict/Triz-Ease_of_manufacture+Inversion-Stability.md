@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Inversion-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Inversion-Stability](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.md) 
-- [Triz-Ease_of_manufacture+Inversion-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.internal.md) 
-- [Triz-Ease_of_manufacture+Inversion-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.protect.md) 
-- [Triz-Ease_of_manufacture+Inversion-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.private.md) 
-- [Triz-Ease_of_manufacture+Inversion-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.personal.md) 
-- [Triz-Ease_of_manufacture+Inversion-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Stability.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Natternberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Natternberg.md) 
-- [Natternberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Natternberg.internal.md) 
-- [Natternberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Natternberg.protect.md) 
-- [Natternberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Natternberg.private.md) 
-- [Natternberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Natternberg.personal.md) 
-- [Natternberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Natternberg.secret.md) 

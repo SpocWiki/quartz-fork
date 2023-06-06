@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Razzolo](../../../../../../_public/geo/Continent/Europe/Italy/City/Razzolo.md) 
-- [Razzolo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Razzolo.internal.md) 
-- [Razzolo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Razzolo.protect.md) 
-- [Razzolo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Razzolo.private.md) 
-- [Razzolo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Razzolo.personal.md) 
-- [Razzolo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Razzolo.secret.md) 

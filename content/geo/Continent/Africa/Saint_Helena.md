@@ -27,7 +27,7 @@ markerFolder: ./Saint_Helena/City
 
 ![350](geo/Continent/Africa/Saint_Helena/Coat_of_arms_of_Saint_Helena.svg)
 
-![Anthem-Saint_Helena.mp3](Anthem-Saint_Helena.mp3)
+[Anthem-Saint_Helena.mp3](Anthem-Saint_Helena.mp3)
 
 ![350](geo/Continent/Africa/Saint_Helena/Flag_of_Saint_Helena.svg)
 
@@ -44,10 +44,3 @@ markerFolder: ./Saint_Helena/City
 
 
 
-## Confidential Links & Embeds: 
-- [Saint_Helena](../../../../_public/geo/Continent/Africa/Saint_Helena.md) 
-- [Saint_Helena.internal](../../../../_internal/geo/Continent/Africa/Saint_Helena.internal.md) 
-- [Saint_Helena.protect](../../../../_protect/geo/Continent/Africa/Saint_Helena.protect.md) 
-- [Saint_Helena.private](../../../../_private/geo/Continent/Africa/Saint_Helena.private.md) 
-- [Saint_Helena.personal](../../../../_personal/geo/Continent/Africa/Saint_Helena.personal.md) 
-- [Saint_Helena.secret](../../../../_secret/geo/Continent/Africa/Saint_Helena.secret.md) 

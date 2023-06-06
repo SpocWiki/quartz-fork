@@ -45,10 +45,3 @@ The act of ingesting information/resources/food.
 
 
 
-## Confidential Links & Embeds: 
-- [consume_action](../../../../../_public/schema.org/Type/is_a_/action/consume_action.md) 
-- [consume_action.internal](../../../../../_internal/schema.org/Type/is_a_/action/consume_action.internal.md) 
-- [consume_action.protect](../../../../../_protect/schema.org/Type/is_a_/action/consume_action.protect.md) 
-- [consume_action.private](../../../../../_private/schema.org/Type/is_a_/action/consume_action.private.md) 
-- [consume_action.personal](../../../../../_personal/schema.org/Type/is_a_/action/consume_action.personal.md) 
-- [consume_action.secret](../../../../../_secret/schema.org/Type/is_a_/action/consume_action.secret.md) 

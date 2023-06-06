@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wasbeck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wasbeck.md) 
-- [Wasbeck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wasbeck.internal.md) 
-- [Wasbeck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wasbeck.protect.md) 
-- [Wasbeck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wasbeck.private.md) 
-- [Wasbeck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wasbeck.personal.md) 
-- [Wasbeck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wasbeck.secret.md) 

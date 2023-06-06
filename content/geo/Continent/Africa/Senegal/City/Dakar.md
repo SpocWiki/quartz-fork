@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dakar](../../../../../../_public/geo/Continent/Africa/Senegal/City/Dakar.md) 
-- [Dakar.internal](../../../../../../_internal/geo/Continent/Africa/Senegal/City/Dakar.internal.md) 
-- [Dakar.protect](../../../../../../_protect/geo/Continent/Africa/Senegal/City/Dakar.protect.md) 
-- [Dakar.private](../../../../../../_private/geo/Continent/Africa/Senegal/City/Dakar.private.md) 
-- [Dakar.personal](../../../../../../_personal/geo/Continent/Africa/Senegal/City/Dakar.personal.md) 
-- [Dakar.secret](../../../../../../_secret/geo/Continent/Africa/Senegal/City/Dakar.secret.md) 

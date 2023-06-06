@@ -19,10 +19,3 @@ title: Triz-Automation+Changing_the_color-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Changing_the_color-Shape](../../../../_public/tech/Triz/Contradict/Triz-Automation+Changing_the_color-Shape.md) 
-- [Triz-Automation+Changing_the_color-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Changing_the_color-Shape.internal.md) 
-- [Triz-Automation+Changing_the_color-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Changing_the_color-Shape.protect.md) 
-- [Triz-Automation+Changing_the_color-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Changing_the_color-Shape.private.md) 
-- [Triz-Automation+Changing_the_color-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Changing_the_color-Shape.personal.md) 
-- [Triz-Automation+Changing_the_color-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Changing_the_color-Shape.secret.md) 

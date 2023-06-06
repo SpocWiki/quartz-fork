@@ -41,10 +41,3 @@ Indicates whether this game is multi-player, co-op or single-player.
 
 
 
-## Confidential Links & Embeds: 
-- [game_play_mode](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.md) 
-- [game_play_mode.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.internal.md) 
-- [game_play_mode.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.protect.md) 
-- [game_play_mode.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.private.md) 
-- [game_play_mode.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.personal.md) 
-- [game_play_mode.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.secret.md) 

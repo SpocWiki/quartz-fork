@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoeningen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.md) 
-- [Schoeningen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.internal.md) 
-- [Schoeningen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.protect.md) 
-- [Schoeningen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.private.md) 
-- [Schoeningen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.personal.md) 
-- [Schoeningen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeningen.secret.md) 

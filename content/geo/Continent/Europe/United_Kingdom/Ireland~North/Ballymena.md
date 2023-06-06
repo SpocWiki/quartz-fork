@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ballymena](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.md) 
-- [Ballymena.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.internal.md) 
-- [Ballymena.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.protect.md) 
-- [Ballymena.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.private.md) 
-- [Ballymena.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.personal.md) 
-- [Ballymena.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Ballymena.secret.md) 

@@ -43,10 +43,3 @@ Any branch of a field in which people typically develop specific expertise, usua
 
 
 
-## Confidential Links & Embeds: 
-- [specialty](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/specialty.md) 
-- [specialty.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/specialty.internal.md) 
-- [specialty.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/specialty.protect.md) 
-- [specialty.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/specialty.private.md) 
-- [specialty.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/specialty.personal.md) 
-- [specialty.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/specialty.secret.md) 

@@ -17,10 +17,3 @@ title: Triz-liquidate_Gases
 
 Transport Oxygen or Nitrogen or Petroleum Gas as a Liquid, instead of a Gas, to reduce Volume.
 
-## Confidential Links & Embeds: 
-- [Triz-liquidate_Gases](../../../../_public/tech/Triz/Example/Triz-liquidate_Gases.md) 
-- [Triz-liquidate_Gases.internal](../../../../_internal/tech/Triz/Example/Triz-liquidate_Gases.internal.md) 
-- [Triz-liquidate_Gases.protect](../../../../_protect/tech/Triz/Example/Triz-liquidate_Gases.protect.md) 
-- [Triz-liquidate_Gases.private](../../../../_private/tech/Triz/Example/Triz-liquidate_Gases.private.md) 
-- [Triz-liquidate_Gases.personal](../../../../_personal/tech/Triz/Example/Triz-liquidate_Gases.personal.md) 
-- [Triz-liquidate_Gases.secret](../../../../_secret/tech/Triz/Example/Triz-liquidate_Gases.secret.md) 

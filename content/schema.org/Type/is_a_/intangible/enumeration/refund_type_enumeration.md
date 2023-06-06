@@ -43,10 +43,3 @@ Enumerates several kinds of product return refund types.
 
 
 
-## Confidential Links & Embeds: 
-- [refund_type_enumeration](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration.md) 
-- [refund_type_enumeration.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration.internal.md) 
-- [refund_type_enumeration.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration.protect.md) 
-- [refund_type_enumeration.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration.private.md) 
-- [refund_type_enumeration.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration.personal.md) 
-- [refund_type_enumeration.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration.secret.md) 

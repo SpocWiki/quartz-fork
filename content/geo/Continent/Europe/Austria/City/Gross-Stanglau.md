@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gross-Stanglau](../../../../../../_public/geo/Continent/Europe/Austria/City/Gross-Stanglau.md) 
-- [Gross-Stanglau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Gross-Stanglau.internal.md) 
-- [Gross-Stanglau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Gross-Stanglau.protect.md) 
-- [Gross-Stanglau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Gross-Stanglau.private.md) 
-- [Gross-Stanglau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Gross-Stanglau.personal.md) 
-- [Gross-Stanglau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Gross-Stanglau.secret.md) 

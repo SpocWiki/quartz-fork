@@ -128,7 +128,7 @@ markerFolder: ./United_Arab_Emirates/City
 
 ![350](geo/Continent/Asia/United_Arab_Emirates/Emblem_of_the_United_Arab_Emirates.svg)
 
-![Anthem-United-arab-emirates](xLarge/National-Anthem/Anthem-United-arab-emirates.mp3)
+[Anthem-United-arab-emirates](xLarge/National-Anthem/Anthem-United-arab-emirates.mp3)
 
 ![350](geo/Continent/Asia/United_Arab_Emirates/Flag_of_the_United_Arab_Emirates.svg)
 
@@ -143,10 +143,3 @@ United_Arab_Emirates (orthographic):
 By <a href="//commons.wikimedia.org/wiki/User:NuclearVacuum" title="User:NuclearVacuum">NuclearVacuum</a> - <a href="//commons.wikimedia.org/wiki/File:Middle_East_(orthographic_projection).svg" title="File:Middle East (orthographic projection).svg">Middle East (orthographic projection).svg</a>, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0 "Creative Commons Attribution-Share Alike 3.0"), [Link](https://commons.wikimedia.org/w/index.php?curid=7466795)
 
 
-## Confidential Links & Embeds: 
-- [United_Arab_Emirates](../../../../_public/geo/Continent/Asia/United_Arab_Emirates.md) 
-- [United_Arab_Emirates.internal](../../../../_internal/geo/Continent/Asia/United_Arab_Emirates.internal.md) 
-- [United_Arab_Emirates.protect](../../../../_protect/geo/Continent/Asia/United_Arab_Emirates.protect.md) 
-- [United_Arab_Emirates.private](../../../../_private/geo/Continent/Asia/United_Arab_Emirates.private.md) 
-- [United_Arab_Emirates.personal](../../../../_personal/geo/Continent/Asia/United_Arab_Emirates.personal.md) 
-- [United_Arab_Emirates.secret](../../../../_secret/geo/Continent/Asia/United_Arab_Emirates.secret.md) 

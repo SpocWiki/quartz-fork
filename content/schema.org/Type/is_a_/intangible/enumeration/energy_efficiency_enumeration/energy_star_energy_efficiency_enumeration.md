@@ -43,10 +43,3 @@ Used to indicate whether a product is EnergyStar certified.
 
 
 
-## Confidential Links & Embeds: 
-- [energy_star_energy_efficiency_enumeration](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.md) 
-- [energy_star_energy_efficiency_enumeration.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.internal.md) 
-- [energy_star_energy_efficiency_enumeration.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.protect.md) 
-- [energy_star_energy_efficiency_enumeration.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.private.md) 
-- [energy_star_energy_efficiency_enumeration.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.personal.md) 
-- [energy_star_energy_efficiency_enumeration.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.secret.md) 

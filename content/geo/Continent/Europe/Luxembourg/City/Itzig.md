@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Itzig](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Itzig.md) 
-- [Itzig.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Itzig.internal.md) 
-- [Itzig.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Itzig.protect.md) 
-- [Itzig.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Itzig.private.md) 
-- [Itzig.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Itzig.personal.md) 
-- [Itzig.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Itzig.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Frankfurt_Konstablerwache](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Konstablerwache.md) 
-- [S-Frankfurt_Konstablerwache.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Konstablerwache.internal.md) 
-- [S-Frankfurt_Konstablerwache.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Konstablerwache.protect.md) 
-- [S-Frankfurt_Konstablerwache.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Konstablerwache.private.md) 
-- [S-Frankfurt_Konstablerwache.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Konstablerwache.personal.md) 
-- [S-Frankfurt_Konstablerwache.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Konstablerwache.secret.md) 

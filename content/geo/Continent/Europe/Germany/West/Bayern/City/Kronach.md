@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kronach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kronach.md) 
-- [Kronach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kronach.internal.md) 
-- [Kronach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kronach.protect.md) 
-- [Kronach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kronach.private.md) 
-- [Kronach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kronach.personal.md) 
-- [Kronach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kronach.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lovere](../../../../../../_public/geo/Continent/Europe/Italy/City/Lovere.md) 
-- [Lovere.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Lovere.internal.md) 
-- [Lovere.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Lovere.protect.md) 
-- [Lovere.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Lovere.private.md) 
-- [Lovere.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Lovere.personal.md) 
-- [Lovere.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Lovere.secret.md) 

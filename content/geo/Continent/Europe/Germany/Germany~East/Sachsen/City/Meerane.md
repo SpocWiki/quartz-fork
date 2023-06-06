@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meerane](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meerane.md) 
-- [Meerane.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meerane.internal.md) 
-- [Meerane.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meerane.protect.md) 
-- [Meerane.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meerane.private.md) 
-- [Meerane.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meerane.personal.md) 
-- [Meerane.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meerane.secret.md) 

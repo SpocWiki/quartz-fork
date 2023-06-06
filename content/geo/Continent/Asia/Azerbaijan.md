@@ -124,7 +124,7 @@ markerFolder: ./Azerbaijan/City
 
 ![350](geo/Continent/Asia/Azerbaijan/Emblem_of_Azerbaijan.svg)
 
-![Anthem-Azerbaijan](xLarge/National-Anthem/Anthem-Azerbaijan.mp3)
+[Anthem-Azerbaijan](xLarge/National-Anthem/Anthem-Azerbaijan.mp3)
 
 ![350](geo/Continent/Asia/Azerbaijan/Flag_of_Azerbaijan.svg)
 
@@ -135,10 +135,3 @@ markerFolder: ./Azerbaijan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Azerbaijan](../../../../_public/geo/Continent/Asia/Azerbaijan.md) 
-- [Azerbaijan.internal](../../../../_internal/geo/Continent/Asia/Azerbaijan.internal.md) 
-- [Azerbaijan.protect](../../../../_protect/geo/Continent/Asia/Azerbaijan.protect.md) 
-- [Azerbaijan.private](../../../../_private/geo/Continent/Asia/Azerbaijan.private.md) 
-- [Azerbaijan.personal](../../../../_personal/geo/Continent/Asia/Azerbaijan.personal.md) 
-- [Azerbaijan.secret](../../../../_secret/geo/Continent/Asia/Azerbaijan.secret.md) 

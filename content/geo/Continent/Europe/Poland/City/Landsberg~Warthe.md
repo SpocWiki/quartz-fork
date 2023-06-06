@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landsberg~Warthe](../../../../../../_public/geo/Continent/Europe/Poland/City/Landsberg~Warthe.md) 
-- [Landsberg~Warthe.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Landsberg~Warthe.internal.md) 
-- [Landsberg~Warthe.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Landsberg~Warthe.protect.md) 
-- [Landsberg~Warthe.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Landsberg~Warthe.private.md) 
-- [Landsberg~Warthe.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Landsberg~Warthe.personal.md) 
-- [Landsberg~Warthe.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Landsberg~Warthe.secret.md) 

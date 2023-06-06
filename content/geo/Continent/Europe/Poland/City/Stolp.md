@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stolp](../../../../../../_public/geo/Continent/Europe/Poland/City/Stolp.md) 
-- [Stolp.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Stolp.internal.md) 
-- [Stolp.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Stolp.protect.md) 
-- [Stolp.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Stolp.private.md) 
-- [Stolp.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Stolp.personal.md) 
-- [Stolp.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Stolp.secret.md) 

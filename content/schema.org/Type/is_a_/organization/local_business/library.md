@@ -43,10 +43,3 @@ A library.
 
 
 
-## Confidential Links & Embeds: 
-- [library](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/library.md) 
-- [library.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/library.internal.md) 
-- [library.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/library.protect.md) 
-- [library.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/library.private.md) 
-- [library.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/library.personal.md) 
-- [library.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/library.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maerket](../../../../../../_public/geo/Continent/Europe/Finland/City/Maerket.md) 
-- [Maerket.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Maerket.internal.md) 
-- [Maerket.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Maerket.protect.md) 
-- [Maerket.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Maerket.private.md) 
-- [Maerket.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Maerket.personal.md) 
-- [Maerket.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Maerket.secret.md) 

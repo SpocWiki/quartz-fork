@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Indianapolis](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.md) 
-- [Indianapolis.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.internal.md) 
-- [Indianapolis.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.protect.md) 
-- [Indianapolis.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.private.md) 
-- [Indianapolis.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.personal.md) 
-- [Indianapolis.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Indiana/City/Indianapolis.secret.md) 

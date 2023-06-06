@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Parthenay](../../../../../../_public/geo/Continent/Europe/France/City/Parthenay.md) 
-- [Parthenay.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Parthenay.internal.md) 
-- [Parthenay.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Parthenay.protect.md) 
-- [Parthenay.private](../../../../../../_private/geo/Continent/Europe/France/City/Parthenay.private.md) 
-- [Parthenay.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Parthenay.personal.md) 
-- [Parthenay.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Parthenay.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hazerswoude](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hazerswoude.md) 
-- [Hazerswoude.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hazerswoude.internal.md) 
-- [Hazerswoude.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hazerswoude.protect.md) 
-- [Hazerswoude.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hazerswoude.private.md) 
-- [Hazerswoude.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hazerswoude.personal.md) 
-- [Hazerswoude.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hazerswoude.secret.md) 

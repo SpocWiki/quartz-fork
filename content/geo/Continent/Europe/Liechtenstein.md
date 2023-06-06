@@ -118,7 +118,7 @@ markerFolder: ./Liechtenstein/City
 [VehicleCode::FL]
 [Capital::[Vaduz](geo/Continent/Europe/Liechtenstein/City/Vaduz.md)]
 ![350](geo/Continent/Europe/Liechtenstein/Coat_of_arms_of_Liechtenstein.svg)
-![Anthem-Liechtenstein](xLarge/National-Anthem/Anthem-Liechtenstein.mp3)
+[Anthem-Liechtenstein](xLarge/National-Anthem/Anthem-Liechtenstein.mp3)
 ![350](geo/Continent/Europe/Liechtenstein/Flag_of_Liechtenstein.svg)
 [Alcohol-l::]
 [Language-Id::497]
@@ -127,10 +127,3 @@ markerFolder: ./Liechtenstein/City
 
 
 
-## Confidential Links & Embeds: 
-- [Liechtenstein](../../../../_public/geo/Continent/Europe/Liechtenstein.md) 
-- [Liechtenstein.internal](../../../../_internal/geo/Continent/Europe/Liechtenstein.internal.md) 
-- [Liechtenstein.protect](../../../../_protect/geo/Continent/Europe/Liechtenstein.protect.md) 
-- [Liechtenstein.private](../../../../_private/geo/Continent/Europe/Liechtenstein.private.md) 
-- [Liechtenstein.personal](../../../../_personal/geo/Continent/Europe/Liechtenstein.personal.md) 
-- [Liechtenstein.secret](../../../../_secret/geo/Continent/Europe/Liechtenstein.secret.md) 

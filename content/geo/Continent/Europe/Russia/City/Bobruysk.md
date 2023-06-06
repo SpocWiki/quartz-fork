@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bobruysk](../../../../../../_public/geo/Continent/Europe/Russia/City/Bobruysk.md) 
-- [Bobruysk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Bobruysk.internal.md) 
-- [Bobruysk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Bobruysk.protect.md) 
-- [Bobruysk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Bobruysk.private.md) 
-- [Bobruysk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Bobruysk.personal.md) 
-- [Bobruysk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Bobruysk.secret.md) 

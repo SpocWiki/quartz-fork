@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schneeherz](../../../../../../_public/geo/Continent/Europe/Austria/City/Schneeherz.md) 
-- [Schneeherz.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Schneeherz.internal.md) 
-- [Schneeherz.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Schneeherz.protect.md) 
-- [Schneeherz.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Schneeherz.private.md) 
-- [Schneeherz.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Schneeherz.personal.md) 
-- [Schneeherz.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Schneeherz.secret.md) 

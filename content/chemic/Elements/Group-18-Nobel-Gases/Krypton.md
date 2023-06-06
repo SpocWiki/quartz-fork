@@ -35,10 +35,3 @@ title: Krypton
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Krypton)
 
-## Confidential Links & Embeds: 
-- [Krypton](../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Krypton.md) 
-- [Krypton.internal](../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Krypton.internal.md) 
-- [Krypton.protect](../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Krypton.protect.md) 
-- [Krypton.private](../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Krypton.private.md) 
-- [Krypton.personal](../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Krypton.personal.md) 
-- [Krypton.secret](../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Krypton.secret.md) 

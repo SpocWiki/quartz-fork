@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kyritz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kyritz.md) 
-- [Kyritz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kyritz.internal.md) 
-- [Kyritz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kyritz.protect.md) 
-- [Kyritz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kyritz.private.md) 
-- [Kyritz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kyritz.personal.md) 
-- [Kyritz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kyritz.secret.md) 

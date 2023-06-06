@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Oberursel-Weißkirchen_Steinbach](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Wei%C3%9Fkirchen_Steinbach.md) 
-- [S-Oberursel-Weißkirchen_Steinbach.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Wei%C3%9Fkirchen_Steinbach.internal.md) 
-- [S-Oberursel-Weißkirchen_Steinbach.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Wei%C3%9Fkirchen_Steinbach.protect.md) 
-- [S-Oberursel-Weißkirchen_Steinbach.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Wei%C3%9Fkirchen_Steinbach.private.md) 
-- [S-Oberursel-Weißkirchen_Steinbach.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Wei%C3%9Fkirchen_Steinbach.personal.md) 
-- [S-Oberursel-Weißkirchen_Steinbach.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel-Wei%C3%9Fkirchen_Steinbach.secret.md) 

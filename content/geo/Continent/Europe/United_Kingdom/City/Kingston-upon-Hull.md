@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kingston-upon-Hull](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kingston-upon-Hull.md) 
-- [Kingston-upon-Hull.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kingston-upon-Hull.internal.md) 
-- [Kingston-upon-Hull.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kingston-upon-Hull.protect.md) 
-- [Kingston-upon-Hull.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kingston-upon-Hull.private.md) 
-- [Kingston-upon-Hull.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kingston-upon-Hull.personal.md) 
-- [Kingston-upon-Hull.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kingston-upon-Hull.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lusaka](../../../../../../_public/geo/Continent/Africa/Zambia/City/Lusaka.md) 
-- [Lusaka.internal](../../../../../../_internal/geo/Continent/Africa/Zambia/City/Lusaka.internal.md) 
-- [Lusaka.protect](../../../../../../_protect/geo/Continent/Africa/Zambia/City/Lusaka.protect.md) 
-- [Lusaka.private](../../../../../../_private/geo/Continent/Africa/Zambia/City/Lusaka.private.md) 
-- [Lusaka.personal](../../../../../../_personal/geo/Continent/Africa/Zambia/City/Lusaka.personal.md) 
-- [Lusaka.secret](../../../../../../_secret/geo/Continent/Africa/Zambia/City/Lusaka.secret.md) 

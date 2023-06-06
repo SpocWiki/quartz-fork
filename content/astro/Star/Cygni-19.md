@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Cygni-19](../../../_public/astro/Star/Cygni-19.md) 
-- [Cygni-19.internal](../../../_internal/astro/Star/Cygni-19.internal.md) 
-- [Cygni-19.protect](../../../_protect/astro/Star/Cygni-19.protect.md) 
-- [Cygni-19.private](../../../_private/astro/Star/Cygni-19.private.md) 
-- [Cygni-19.personal](../../../_personal/astro/Star/Cygni-19.personal.md) 
-- [Cygni-19.secret](../../../_secret/astro/Star/Cygni-19.secret.md)
-

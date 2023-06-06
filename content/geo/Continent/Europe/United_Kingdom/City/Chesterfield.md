@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chesterfield](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Chesterfield.md) 
-- [Chesterfield.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chesterfield.internal.md) 
-- [Chesterfield.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chesterfield.protect.md) 
-- [Chesterfield.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chesterfield.private.md) 
-- [Chesterfield.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chesterfield.personal.md) 
-- [Chesterfield.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chesterfield.secret.md) 

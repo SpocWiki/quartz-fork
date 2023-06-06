@@ -17,10 +17,3 @@ title: Triz-Recycle_Waste
 
 Recycle Waste (Scrap) Material from one Process as Raw Materials for another.
 
-## Confidential Links & Embeds: 
-- [Triz-Recycle_Waste](../../../../_public/tech/Triz/Example/Triz-Recycle_Waste.md) 
-- [Triz-Recycle_Waste.internal](../../../../_internal/tech/Triz/Example/Triz-Recycle_Waste.internal.md) 
-- [Triz-Recycle_Waste.protect](../../../../_protect/tech/Triz/Example/Triz-Recycle_Waste.protect.md) 
-- [Triz-Recycle_Waste.private](../../../../_private/tech/Triz/Example/Triz-Recycle_Waste.private.md) 
-- [Triz-Recycle_Waste.personal](../../../../_personal/tech/Triz/Example/Triz-Recycle_Waste.personal.md) 
-- [Triz-Recycle_Waste.secret](../../../../_secret/tech/Triz/Example/Triz-Recycle_Waste.secret.md) 

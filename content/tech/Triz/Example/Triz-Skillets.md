@@ -17,10 +17,3 @@ title: Triz-Skillets
 
 'Skillets' in an automobile plant that bring all tools to the right position (also demonstrates Principle 10, Preliminary Action)
 
-## Confidential Links & Embeds: 
-- [Triz-Skillets](../../../../_public/tech/Triz/Example/Triz-Skillets.md) 
-- [Triz-Skillets.internal](../../../../_internal/tech/Triz/Example/Triz-Skillets.internal.md) 
-- [Triz-Skillets.protect](../../../../_protect/tech/Triz/Example/Triz-Skillets.protect.md) 
-- [Triz-Skillets.private](../../../../_private/tech/Triz/Example/Triz-Skillets.private.md) 
-- [Triz-Skillets.personal](../../../../_personal/tech/Triz/Example/Triz-Skillets.personal.md) 
-- [Triz-Skillets.secret](../../../../_secret/tech/Triz/Example/Triz-Skillets.secret.md) 

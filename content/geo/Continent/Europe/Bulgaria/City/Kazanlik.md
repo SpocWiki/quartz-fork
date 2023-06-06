@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kazanlik](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Kazanlik.md) 
-- [Kazanlik.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Kazanlik.internal.md) 
-- [Kazanlik.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Kazanlik.protect.md) 
-- [Kazanlik.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Kazanlik.private.md) 
-- [Kazanlik.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Kazanlik.personal.md) 
-- [Kazanlik.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Kazanlik.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Temperature+Flexible_film_or_thin_membranes-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Flexible_film_or_thin_membranes-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.md) 
-- [Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.internal.md) 
-- [Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.protect.md) 
-- [Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.private.md) 
-- [Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.personal.md) 
-- [Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Flexible_film_or_thin_membranes-Illumination.secret.md) 

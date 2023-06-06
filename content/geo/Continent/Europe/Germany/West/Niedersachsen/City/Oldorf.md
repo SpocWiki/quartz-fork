@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oldorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldorf.md) 
-- [Oldorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldorf.internal.md) 
-- [Oldorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldorf.protect.md) 
-- [Oldorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldorf.private.md) 
-- [Oldorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldorf.personal.md) 
-- [Oldorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldorf.secret.md) 

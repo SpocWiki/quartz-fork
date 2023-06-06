@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Essen~Ruhr](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.md) 
-- [Essen~Ruhr.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.internal.md) 
-- [Essen~Ruhr.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.protect.md) 
-- [Essen~Ruhr.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.private.md) 
-- [Essen~Ruhr.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.personal.md) 
-- [Essen~Ruhr.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Essen~Ruhr.secret.md) 

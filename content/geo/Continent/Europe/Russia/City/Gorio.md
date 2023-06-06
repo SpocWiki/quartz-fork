@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gorio](../../../../../../_public/geo/Continent/Europe/Russia/City/Gorio.md) 
-- [Gorio.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Gorio.internal.md) 
-- [Gorio.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Gorio.protect.md) 
-- [Gorio.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Gorio.private.md) 
-- [Gorio.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Gorio.personal.md) 
-- [Gorio.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Gorio.secret.md) 

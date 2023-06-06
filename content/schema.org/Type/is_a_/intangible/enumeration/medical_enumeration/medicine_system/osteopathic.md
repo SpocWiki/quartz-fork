@@ -45,10 +45,3 @@ A system of medicine focused on promoting the body's innate ability to heal itse
 
 
 
-## Confidential Links & Embeds: 
-- [osteopathic](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/osteopathic.md) 
-- [osteopathic.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/osteopathic.internal.md) 
-- [osteopathic.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/osteopathic.protect.md) 
-- [osteopathic.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/osteopathic.private.md) 
-- [osteopathic.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/osteopathic.personal.md) 
-- [osteopathic.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/osteopathic.secret.md) 

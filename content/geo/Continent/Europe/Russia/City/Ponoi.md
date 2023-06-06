@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ponoi](../../../../../../_public/geo/Continent/Europe/Russia/City/Ponoi.md) 
-- [Ponoi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ponoi.internal.md) 
-- [Ponoi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ponoi.protect.md) 
-- [Ponoi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ponoi.private.md) 
-- [Ponoi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ponoi.personal.md) 
-- [Ponoi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ponoi.secret.md) 

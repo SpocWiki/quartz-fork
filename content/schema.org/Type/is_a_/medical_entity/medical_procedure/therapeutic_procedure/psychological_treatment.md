@@ -43,10 +43,3 @@ A process of care relying upon counseling, dialogue and communication  aimed at 
 
 
 
-## Confidential Links & Embeds: 
-- [psychological_treatment](../../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.md) 
-- [psychological_treatment.internal](../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.internal.md) 
-- [psychological_treatment.protect](../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.protect.md) 
-- [psychological_treatment.private](../../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.private.md) 
-- [psychological_treatment.personal](../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.personal.md) 
-- [psychological_treatment.secret](../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/psychological_treatment.secret.md) 

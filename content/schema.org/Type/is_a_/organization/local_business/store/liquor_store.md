@@ -43,10 +43,3 @@ A shop that sells alcoholic drinks such as wine, beer, whisky and other spirits.
 
 
 
-## Confidential Links & Embeds: 
-- [liquor_store](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/liquor_store.md) 
-- [liquor_store.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/liquor_store.internal.md) 
-- [liquor_store.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/liquor_store.protect.md) 
-- [liquor_store.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/liquor_store.private.md) 
-- [liquor_store.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/liquor_store.personal.md) 
-- [liquor_store.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/liquor_store.secret.md) 

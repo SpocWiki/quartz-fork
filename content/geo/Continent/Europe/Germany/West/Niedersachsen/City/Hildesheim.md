@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hildesheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.md) 
-- [Hildesheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.internal.md) 
-- [Hildesheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.protect.md) 
-- [Hildesheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.private.md) 
-- [Hildesheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.personal.md) 
-- [Hildesheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hildesheim.secret.md) 

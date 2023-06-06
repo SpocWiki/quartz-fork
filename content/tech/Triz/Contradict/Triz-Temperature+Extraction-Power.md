@@ -19,10 +19,3 @@ title: Triz-Temperature+Extraction-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Extraction-Power](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.md) 
-- [Triz-Temperature+Extraction-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.internal.md) 
-- [Triz-Temperature+Extraction-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.protect.md) 
-- [Triz-Temperature+Extraction-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.private.md) 
-- [Triz-Temperature+Extraction-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.personal.md) 
-- [Triz-Temperature+Extraction-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-Power.secret.md) 

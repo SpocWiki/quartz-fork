@@ -28,11 +28,3 @@ title: Acamar
 
 
 
-## Confidential Links & Embeds: 
-- [Acamar](../../../_public/astro/Star/Acamar.md) 
-- [Acamar.internal](../../../_internal/astro/Star/Acamar.internal.md) 
-- [Acamar.protect](../../../_protect/astro/Star/Acamar.protect.md) 
-- [Acamar.private](../../../_private/astro/Star/Acamar.private.md) 
-- [Acamar.personal](../../../_personal/astro/Star/Acamar.personal.md) 
-- [Acamar.secret](../../../_secret/astro/Star/Acamar.secret.md)
-

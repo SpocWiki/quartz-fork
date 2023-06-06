@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beyersdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Beyersdorf.md) 
-- [Beyersdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Beyersdorf.internal.md) 
-- [Beyersdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Beyersdorf.protect.md) 
-- [Beyersdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Beyersdorf.private.md) 
-- [Beyersdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Beyersdorf.personal.md) 
-- [Beyersdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Beyersdorf.secret.md) 

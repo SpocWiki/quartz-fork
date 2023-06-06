@@ -14,10 +14,3 @@ title: Triz-Phase_transition
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Phase_transition](../../../../_public/tech/Triz/Principle/Triz-Phase_transition.md) 
-- [Triz-Phase_transition.internal](../../../../_internal/tech/Triz/Principle/Triz-Phase_transition.internal.md) 
-- [Triz-Phase_transition.protect](../../../../_protect/tech/Triz/Principle/Triz-Phase_transition.protect.md) 
-- [Triz-Phase_transition.private](../../../../_private/tech/Triz/Principle/Triz-Phase_transition.private.md) 
-- [Triz-Phase_transition.personal](../../../../_personal/tech/Triz/Principle/Triz-Phase_transition.personal.md) 
-- [Triz-Phase_transition.secret](../../../../_secret/tech/Triz/Principle/Triz-Phase_transition.secret.md) 

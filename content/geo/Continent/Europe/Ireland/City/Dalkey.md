@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dalkey](../../../../../../_public/geo/Continent/Europe/Ireland/City/Dalkey.md) 
-- [Dalkey.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Dalkey.internal.md) 
-- [Dalkey.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Dalkey.protect.md) 
-- [Dalkey.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Dalkey.private.md) 
-- [Dalkey.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Dalkey.personal.md) 
-- [Dalkey.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Dalkey.secret.md) 

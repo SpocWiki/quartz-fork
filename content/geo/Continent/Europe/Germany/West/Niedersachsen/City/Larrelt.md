@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Larrelt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Larrelt.md) 
-- [Larrelt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Larrelt.internal.md) 
-- [Larrelt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Larrelt.protect.md) 
-- [Larrelt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Larrelt.private.md) 
-- [Larrelt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Larrelt.personal.md) 
-- [Larrelt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Larrelt.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoboken](../../../../../../_public/geo/Continent/Europe/Belgium/City/Hoboken.md) 
-- [Hoboken.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Hoboken.internal.md) 
-- [Hoboken.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Hoboken.protect.md) 
-- [Hoboken.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Hoboken.private.md) 
-- [Hoboken.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Hoboken.personal.md) 
-- [Hoboken.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Hoboken.secret.md) 

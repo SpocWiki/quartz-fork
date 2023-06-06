@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arizona](../../../../../_public/geo/Continent/North-America/United_States_of_America/Arizona.md) 
-- [Arizona.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Arizona.internal.md) 
-- [Arizona.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Arizona.protect.md) 
-- [Arizona.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Arizona.private.md) 
-- [Arizona.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Arizona.personal.md) 
-- [Arizona.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Arizona.secret.md) 

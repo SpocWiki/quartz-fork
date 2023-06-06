@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montmorillon](../../../../../../_public/geo/Continent/Europe/France/City/Montmorillon.md) 
-- [Montmorillon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Montmorillon.internal.md) 
-- [Montmorillon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Montmorillon.protect.md) 
-- [Montmorillon.private](../../../../../../_private/geo/Continent/Europe/France/City/Montmorillon.private.md) 
-- [Montmorillon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Montmorillon.personal.md) 
-- [Montmorillon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Montmorillon.secret.md) 

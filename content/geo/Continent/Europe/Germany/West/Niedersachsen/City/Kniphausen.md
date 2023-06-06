@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kniphausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kniphausen.md) 
-- [Kniphausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kniphausen.internal.md) 
-- [Kniphausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kniphausen.protect.md) 
-- [Kniphausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kniphausen.private.md) 
-- [Kniphausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kniphausen.personal.md) 
-- [Kniphausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kniphausen.secret.md) 

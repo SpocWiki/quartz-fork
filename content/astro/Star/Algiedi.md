@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Algiedi](../../../_public/astro/Star/Algiedi.md) 
-- [Algiedi.internal](../../../_internal/astro/Star/Algiedi.internal.md) 
-- [Algiedi.protect](../../../_protect/astro/Star/Algiedi.protect.md) 
-- [Algiedi.private](../../../_private/astro/Star/Algiedi.private.md) 
-- [Algiedi.personal](../../../_personal/astro/Star/Algiedi.personal.md) 
-- [Algiedi.secret](../../../_secret/astro/Star/Algiedi.secret.md)
-

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tarachtcha](../../../../../../_public/geo/Continent/Europe/Russia/City/Tarachtcha.md) 
-- [Tarachtcha.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tarachtcha.internal.md) 
-- [Tarachtcha.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tarachtcha.protect.md) 
-- [Tarachtcha.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tarachtcha.private.md) 
-- [Tarachtcha.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tarachtcha.personal.md) 
-- [Tarachtcha.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tarachtcha.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neutitschein](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Neutitschein.md) 
-- [Neutitschein.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Neutitschein.internal.md) 
-- [Neutitschein.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Neutitschein.protect.md) 
-- [Neutitschein.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Neutitschein.private.md) 
-- [Neutitschein.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Neutitschein.personal.md) 
-- [Neutitschein.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Neutitschein.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ploenzig](../../../../../../_public/geo/Continent/Europe/Poland/City/Ploenzig.md) 
-- [Ploenzig.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ploenzig.internal.md) 
-- [Ploenzig.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ploenzig.protect.md) 
-- [Ploenzig.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ploenzig.private.md) 
-- [Ploenzig.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ploenzig.personal.md) 
-- [Ploenzig.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ploenzig.secret.md) 

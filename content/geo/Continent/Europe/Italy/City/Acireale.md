@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Acireale](../../../../../../_public/geo/Continent/Europe/Italy/City/Acireale.md) 
-- [Acireale.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Acireale.internal.md) 
-- [Acireale.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Acireale.protect.md) 
-- [Acireale.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Acireale.private.md) 
-- [Acireale.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Acireale.personal.md) 
-- [Acireale.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Acireale.secret.md) 

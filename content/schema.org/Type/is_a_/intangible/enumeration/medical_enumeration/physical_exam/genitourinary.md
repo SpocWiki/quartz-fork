@@ -45,10 +45,3 @@ Genitourinary system function assessment with clinical examination.
 
 
 
-## Confidential Links & Embeds: 
-- [genitourinary](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.md) 
-- [genitourinary.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.internal.md) 
-- [genitourinary.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.protect.md) 
-- [genitourinary.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.private.md) 
-- [genitourinary.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.personal.md) 
-- [genitourinary.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/genitourinary.secret.md) 

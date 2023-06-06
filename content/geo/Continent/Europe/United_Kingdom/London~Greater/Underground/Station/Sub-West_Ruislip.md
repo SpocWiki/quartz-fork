@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-West_Ruislip](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.md) 
-- [Sub-West_Ruislip.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.internal.md) 
-- [Sub-West_Ruislip.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.protect.md) 
-- [Sub-West_Ruislip.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.private.md) 
-- [Sub-West_Ruislip.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.personal.md) 
-- [Sub-West_Ruislip.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Ruislip.secret.md) 

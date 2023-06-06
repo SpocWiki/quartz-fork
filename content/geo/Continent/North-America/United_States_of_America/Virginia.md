@@ -38,10 +38,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Virginia](../../../../../_public/geo/Continent/North-America/United_States_of_America/Virginia.md) 
-- [Virginia.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Virginia.internal.md) 
-- [Virginia.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Virginia.protect.md) 
-- [Virginia.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Virginia.private.md) 
-- [Virginia.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Virginia.personal.md) 
-- [Virginia.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Virginia.secret.md) 

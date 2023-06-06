@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saint_Denis](../../../../../../_public/geo/Continent/Africa/Reunion/City/Saint_Denis.md) 
-- [Saint_Denis.internal](../../../../../../_internal/geo/Continent/Africa/Reunion/City/Saint_Denis.internal.md) 
-- [Saint_Denis.protect](../../../../../../_protect/geo/Continent/Africa/Reunion/City/Saint_Denis.protect.md) 
-- [Saint_Denis.private](../../../../../../_private/geo/Continent/Africa/Reunion/City/Saint_Denis.private.md) 
-- [Saint_Denis.personal](../../../../../../_personal/geo/Continent/Africa/Reunion/City/Saint_Denis.personal.md) 
-- [Saint_Denis.secret](../../../../../../_secret/geo/Continent/Africa/Reunion/City/Saint_Denis.secret.md) 

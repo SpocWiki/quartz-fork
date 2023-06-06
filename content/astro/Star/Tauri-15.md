@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Tauri-15](../../../_public/astro/Star/Tauri-15.md) 
-- [Tauri-15.internal](../../../_internal/astro/Star/Tauri-15.internal.md) 
-- [Tauri-15.protect](../../../_protect/astro/Star/Tauri-15.protect.md) 
-- [Tauri-15.private](../../../_private/astro/Star/Tauri-15.private.md) 
-- [Tauri-15.personal](../../../_personal/astro/Star/Tauri-15.personal.md) 
-- [Tauri-15.secret](../../../_secret/astro/Star/Tauri-15.secret.md) 

@@ -57,10 +57,3 @@ Commonly used values:
 
 
 
-## Confidential Links & Embeds: 
-- [payment_method](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/payment_method.md) 
-- [payment_method.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/payment_method.internal.md) 
-- [payment_method.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/payment_method.protect.md) 
-- [payment_method.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/payment_method.private.md) 
-- [payment_method.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/payment_method.personal.md) 
-- [payment_method.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/payment_method.secret.md) 

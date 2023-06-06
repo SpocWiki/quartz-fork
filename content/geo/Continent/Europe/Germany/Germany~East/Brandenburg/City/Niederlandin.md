@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Niederlandin](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Niederlandin.md) 
-- [Niederlandin.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Niederlandin.internal.md) 
-- [Niederlandin.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Niederlandin.protect.md) 
-- [Niederlandin.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Niederlandin.private.md) 
-- [Niederlandin.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Niederlandin.personal.md) 
-- [Niederlandin.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Niederlandin.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ballum](../../../../../../_public/geo/Continent/Europe/Denmark/City/Ballum.md) 
-- [Ballum.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Ballum.internal.md) 
-- [Ballum.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Ballum.protect.md) 
-- [Ballum.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Ballum.private.md) 
-- [Ballum.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Ballum.personal.md) 
-- [Ballum.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Ballum.secret.md) 

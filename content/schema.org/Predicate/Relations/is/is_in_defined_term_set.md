@@ -48,10 +48,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_in_defined_term_set](../../../../../_public/schema.org/Predicate/Relations/is/is_in_defined_term_set.md) 
-- [is_in_defined_term_set.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_in_defined_term_set.internal.md) 
-- [is_in_defined_term_set.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_in_defined_term_set.protect.md) 
-- [is_in_defined_term_set.private](../../../../../_private/schema.org/Predicate/Relations/is/is_in_defined_term_set.private.md) 
-- [is_in_defined_term_set.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_in_defined_term_set.personal.md) 
-- [is_in_defined_term_set.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_in_defined_term_set.secret.md) 

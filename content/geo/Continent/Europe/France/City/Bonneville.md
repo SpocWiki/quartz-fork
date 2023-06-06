@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bonneville](../../../../../../_public/geo/Continent/Europe/France/City/Bonneville.md) 
-- [Bonneville.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bonneville.internal.md) 
-- [Bonneville.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bonneville.protect.md) 
-- [Bonneville.private](../../../../../../_private/geo/Continent/Europe/France/City/Bonneville.private.md) 
-- [Bonneville.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bonneville.personal.md) 
-- [Bonneville.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bonneville.secret.md) 

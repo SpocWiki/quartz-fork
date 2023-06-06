@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Edam](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Edam.md) 
-- [Edam.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Edam.internal.md) 
-- [Edam.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Edam.protect.md) 
-- [Edam.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Edam.private.md) 
-- [Edam.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Edam.personal.md) 
-- [Edam.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Edam.secret.md) 

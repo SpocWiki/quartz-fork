@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rorregg](../../../../../../_public/geo/Continent/Europe/Austria/City/Rorregg.md) 
-- [Rorregg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Rorregg.internal.md) 
-- [Rorregg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Rorregg.protect.md) 
-- [Rorregg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Rorregg.private.md) 
-- [Rorregg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Rorregg.personal.md) 
-- [Rorregg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Rorregg.secret.md) 

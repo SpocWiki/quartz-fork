@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aulié-Ata](../../../../../../_public/geo/Continent/Europe/Russia/City/Auli%C3%A9-Ata.md) 
-- [Aulié-Ata.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Auli%C3%A9-Ata.internal.md) 
-- [Aulié-Ata.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Auli%C3%A9-Ata.protect.md) 
-- [Aulié-Ata.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Auli%C3%A9-Ata.private.md) 
-- [Aulié-Ata.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Auli%C3%A9-Ata.personal.md) 
-- [Aulié-Ata.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Auli%C3%A9-Ata.secret.md) 

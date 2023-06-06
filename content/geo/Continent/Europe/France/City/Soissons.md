@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soissons](../../../../../../_public/geo/Continent/Europe/France/City/Soissons.md) 
-- [Soissons.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Soissons.internal.md) 
-- [Soissons.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Soissons.protect.md) 
-- [Soissons.private](../../../../../../_private/geo/Continent/Europe/France/City/Soissons.private.md) 
-- [Soissons.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Soissons.personal.md) 
-- [Soissons.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Soissons.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meinerzhagen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Meinerzhagen.md) 
-- [Meinerzhagen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Meinerzhagen.internal.md) 
-- [Meinerzhagen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Meinerzhagen.protect.md) 
-- [Meinerzhagen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Meinerzhagen.private.md) 
-- [Meinerzhagen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Meinerzhagen.personal.md) 
-- [Meinerzhagen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Meinerzhagen.secret.md) 

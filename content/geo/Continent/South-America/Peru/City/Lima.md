@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lima](../../../../../../_public/geo/Continent/South-America/Peru/City/Lima.md) 
-- [Lima.internal](../../../../../../_internal/geo/Continent/South-America/Peru/City/Lima.internal.md) 
-- [Lima.protect](../../../../../../_protect/geo/Continent/South-America/Peru/City/Lima.protect.md) 
-- [Lima.private](../../../../../../_private/geo/Continent/South-America/Peru/City/Lima.private.md) 
-- [Lima.personal](../../../../../../_personal/geo/Continent/South-America/Peru/City/Lima.personal.md) 
-- [Lima.secret](../../../../../../_secret/geo/Continent/South-America/Peru/City/Lima.secret.md) 

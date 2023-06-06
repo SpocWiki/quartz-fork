@@ -45,10 +45,3 @@ A Series in schema.org is a group of related items, typically but not necessaril
 
 
 
-## Confidential Links & Embeds: 
-- [series](../../../../../_public/schema.org/Type/is_a_/intangible/series.md) 
-- [series.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/series.internal.md) 
-- [series.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/series.protect.md) 
-- [series.private](../../../../../_private/schema.org/Type/is_a_/intangible/series.private.md) 
-- [series.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/series.personal.md) 
-- [series.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/series.secret.md) 

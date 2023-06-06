@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cetinje](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Cetinje.md) 
-- [Cetinje.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Cetinje.internal.md) 
-- [Cetinje.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Cetinje.protect.md) 
-- [Cetinje.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Cetinje.private.md) 
-- [Cetinje.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Cetinje.personal.md) 
-- [Cetinje.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Cetinje.secret.md) 

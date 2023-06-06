@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Andernach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Andernach.md) 
-- [Andernach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Andernach.internal.md) 
-- [Andernach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Andernach.protect.md) 
-- [Andernach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Andernach.private.md) 
-- [Andernach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Andernach.personal.md) 
-- [Andernach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Andernach.secret.md) 

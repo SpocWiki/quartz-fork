@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_family_friendly](../../../../_public/schema.org/Predicate/Flags/is_family_friendly.md) 
-- [is_family_friendly.internal](../../../../_internal/schema.org/Predicate/Flags/is_family_friendly.internal.md) 
-- [is_family_friendly.protect](../../../../_protect/schema.org/Predicate/Flags/is_family_friendly.protect.md) 
-- [is_family_friendly.private](../../../../_private/schema.org/Predicate/Flags/is_family_friendly.private.md) 
-- [is_family_friendly.personal](../../../../_personal/schema.org/Predicate/Flags/is_family_friendly.personal.md) 
-- [is_family_friendly.secret](../../../../_secret/schema.org/Predicate/Flags/is_family_friendly.secret.md) 

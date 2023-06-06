@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tyumen](../../../../../../_public/geo/Continent/Europe/Russia/City/Tyumen.md) 
-- [Tyumen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tyumen.internal.md) 
-- [Tyumen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tyumen.protect.md) 
-- [Tyumen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tyumen.private.md) 
-- [Tyumen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tyumen.personal.md) 
-- [Tyumen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tyumen.secret.md) 

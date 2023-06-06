@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Inverary](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Inverary.md) 
-- [Inverary.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Inverary.internal.md) 
-- [Inverary.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Inverary.protect.md) 
-- [Inverary.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Inverary.private.md) 
-- [Inverary.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Inverary.personal.md) 
-- [Inverary.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Inverary.secret.md) 

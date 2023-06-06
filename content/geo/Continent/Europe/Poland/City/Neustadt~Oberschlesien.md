@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neustadt~Oberschlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.md) 
-- [Neustadt~Oberschlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.internal.md) 
-- [Neustadt~Oberschlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.protect.md) 
-- [Neustadt~Oberschlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.private.md) 
-- [Neustadt~Oberschlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.personal.md) 
-- [Neustadt~Oberschlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neustadt~Oberschlesien.secret.md) 

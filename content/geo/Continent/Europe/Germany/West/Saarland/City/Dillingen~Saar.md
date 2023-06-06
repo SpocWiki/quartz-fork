@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dillingen~Saar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Dillingen~Saar.md) 
-- [Dillingen~Saar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Dillingen~Saar.internal.md) 
-- [Dillingen~Saar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Dillingen~Saar.protect.md) 
-- [Dillingen~Saar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Dillingen~Saar.private.md) 
-- [Dillingen~Saar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Dillingen~Saar.personal.md) 
-- [Dillingen~Saar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Dillingen~Saar.secret.md) 

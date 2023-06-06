@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Naarden](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Naarden.md) 
-- [Naarden.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Naarden.internal.md) 
-- [Naarden.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Naarden.protect.md) 
-- [Naarden.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Naarden.private.md) 
-- [Naarden.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Naarden.personal.md) 
-- [Naarden.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Naarden.secret.md) 

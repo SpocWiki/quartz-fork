@@ -19,10 +19,3 @@ title: Triz-Speed+Inversion-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Inversion-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Speed+Inversion-Intensity.md) 
-- [Triz-Speed+Inversion-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Inversion-Intensity.internal.md) 
-- [Triz-Speed+Inversion-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Inversion-Intensity.protect.md) 
-- [Triz-Speed+Inversion-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Inversion-Intensity.private.md) 
-- [Triz-Speed+Inversion-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Inversion-Intensity.personal.md) 
-- [Triz-Speed+Inversion-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Inversion-Intensity.secret.md) 

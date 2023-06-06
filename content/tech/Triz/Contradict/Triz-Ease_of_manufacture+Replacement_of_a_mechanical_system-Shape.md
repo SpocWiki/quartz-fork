@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.internal.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.protect.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.private.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.personal.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Shape.secret.md) 

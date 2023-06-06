@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oskarsham](../../../../../../_public/geo/Continent/Europe/Sweden/City/Oskarsham.md) 
-- [Oskarsham.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oskarsham.internal.md) 
-- [Oskarsham.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oskarsham.protect.md) 
-- [Oskarsham.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Oskarsham.private.md) 
-- [Oskarsham.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oskarsham.personal.md) 
-- [Oskarsham.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oskarsham.secret.md) 

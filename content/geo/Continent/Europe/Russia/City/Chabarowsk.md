@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chabarowsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Chabarowsk.md) 
-- [Chabarowsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Chabarowsk.internal.md) 
-- [Chabarowsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Chabarowsk.protect.md) 
-- [Chabarowsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Chabarowsk.private.md) 
-- [Chabarowsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Chabarowsk.personal.md) 
-- [Chabarowsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Chabarowsk.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dijon](../../../../../../_public/geo/Continent/Europe/France/City/Dijon.md) 
-- [Dijon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Dijon.internal.md) 
-- [Dijon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Dijon.protect.md) 
-- [Dijon.private](../../../../../../_private/geo/Continent/Europe/France/City/Dijon.private.md) 
-- [Dijon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Dijon.personal.md) 
-- [Dijon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Dijon.secret.md) 

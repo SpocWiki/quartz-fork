@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skagen](../../../../../../_public/geo/Continent/Europe/Denmark/City/Skagen.md) 
-- [Skagen.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Skagen.internal.md) 
-- [Skagen.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Skagen.protect.md) 
-- [Skagen.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Skagen.private.md) 
-- [Skagen.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Skagen.personal.md) 
-- [Skagen.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Skagen.secret.md) 

@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_loan_recourseable](../../../../_public/schema.org/Predicate/Flags/is_loan_recourseable.md) 
-- [is_loan_recourseable.internal](../../../../_internal/schema.org/Predicate/Flags/is_loan_recourseable.internal.md) 
-- [is_loan_recourseable.protect](../../../../_protect/schema.org/Predicate/Flags/is_loan_recourseable.protect.md) 
-- [is_loan_recourseable.private](../../../../_private/schema.org/Predicate/Flags/is_loan_recourseable.private.md) 
-- [is_loan_recourseable.personal](../../../../_personal/schema.org/Predicate/Flags/is_loan_recourseable.personal.md) 
-- [is_loan_recourseable.secret](../../../../_secret/schema.org/Predicate/Flags/is_loan_recourseable.secret.md) 

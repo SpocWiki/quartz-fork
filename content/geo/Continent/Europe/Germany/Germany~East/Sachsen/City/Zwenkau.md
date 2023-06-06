@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zwenkau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwenkau.md) 
-- [Zwenkau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwenkau.internal.md) 
-- [Zwenkau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwenkau.protect.md) 
-- [Zwenkau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwenkau.private.md) 
-- [Zwenkau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwenkau.personal.md) 
-- [Zwenkau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwenkau.secret.md) 

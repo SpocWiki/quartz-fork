@@ -45,10 +45,3 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 
 
-## Confidential Links & Embeds: 
-- [user_likes](../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_likes.md) 
-- [user_likes.internal](../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_likes.internal.md) 
-- [user_likes.protect](../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_likes.protect.md) 
-- [user_likes.private](../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_likes.private.md) 
-- [user_likes.personal](../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_likes.personal.md) 
-- [user_likes.secret](../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_likes.secret.md) 

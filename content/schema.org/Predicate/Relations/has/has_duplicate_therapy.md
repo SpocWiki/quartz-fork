@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_duplicate_therapy](../../../../../_public/schema.org/Predicate/Relations/has/has_duplicate_therapy.md) 
-- [has_duplicate_therapy.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_duplicate_therapy.internal.md) 
-- [has_duplicate_therapy.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_duplicate_therapy.protect.md) 
-- [has_duplicate_therapy.private](../../../../../_private/schema.org/Predicate/Relations/has/has_duplicate_therapy.private.md) 
-- [has_duplicate_therapy.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_duplicate_therapy.personal.md) 
-- [has_duplicate_therapy.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_duplicate_therapy.secret.md) 

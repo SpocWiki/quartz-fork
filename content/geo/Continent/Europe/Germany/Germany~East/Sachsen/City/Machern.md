@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Machern](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Machern.md) 
-- [Machern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Machern.internal.md) 
-- [Machern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Machern.protect.md) 
-- [Machern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Machern.private.md) 
-- [Machern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Machern.personal.md) 
-- [Machern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Machern.secret.md) 

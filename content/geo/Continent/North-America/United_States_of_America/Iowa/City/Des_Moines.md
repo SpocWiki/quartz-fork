@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Des_Moines](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.md) 
-- [Des_Moines.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.internal.md) 
-- [Des_Moines.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.protect.md) 
-- [Des_Moines.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.private.md) 
-- [Des_Moines.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.personal.md) 
-- [Des_Moines.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Iowa/City/Des_Moines.secret.md) 

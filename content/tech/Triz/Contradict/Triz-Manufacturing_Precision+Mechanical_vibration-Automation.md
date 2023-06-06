@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Mechanical_vibration-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Mechanical_vibration-Automation](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.md) 
-- [Triz-Manufacturing_Precision+Mechanical_vibration-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.internal.md) 
-- [Triz-Manufacturing_Precision+Mechanical_vibration-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.protect.md) 
-- [Triz-Manufacturing_Precision+Mechanical_vibration-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.private.md) 
-- [Triz-Manufacturing_Precision+Mechanical_vibration-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.personal.md) 
-- [Triz-Manufacturing_Precision+Mechanical_vibration-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Mechanical_vibration-Automation.secret.md) 

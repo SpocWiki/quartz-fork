@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dornau](../../../../../../_public/geo/Continent/Europe/Austria/City/Dornau.md) 
-- [Dornau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Dornau.internal.md) 
-- [Dornau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Dornau.protect.md) 
-- [Dornau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Dornau.private.md) 
-- [Dornau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Dornau.personal.md) 
-- [Dornau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Dornau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zmerinka](../../../../../../_public/geo/Continent/Europe/Russia/City/Zmerinka.md) 
-- [Zmerinka.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zmerinka.internal.md) 
-- [Zmerinka.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zmerinka.protect.md) 
-- [Zmerinka.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zmerinka.private.md) 
-- [Zmerinka.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zmerinka.personal.md) 
-- [Zmerinka.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zmerinka.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Local_quality-stationary_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Local_quality-stationary_Volume](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-stationary_Volume.md) 
-- [Triz-Substance-Loss+Local_quality-stationary_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-stationary_Volume.internal.md) 
-- [Triz-Substance-Loss+Local_quality-stationary_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-stationary_Volume.protect.md) 
-- [Triz-Substance-Loss+Local_quality-stationary_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-stationary_Volume.private.md) 
-- [Triz-Substance-Loss+Local_quality-stationary_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-stationary_Volume.personal.md) 
-- [Triz-Substance-Loss+Local_quality-stationary_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-stationary_Volume.secret.md) 

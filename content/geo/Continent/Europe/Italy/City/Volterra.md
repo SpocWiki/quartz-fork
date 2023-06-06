@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Volterra](../../../../../../_public/geo/Continent/Europe/Italy/City/Volterra.md) 
-- [Volterra.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Volterra.internal.md) 
-- [Volterra.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Volterra.protect.md) 
-- [Volterra.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Volterra.private.md) 
-- [Volterra.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Volterra.personal.md) 
-- [Volterra.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Volterra.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Coronae_Australis-3](../../../_public/astro/Star/Coronae_Australis-3.md) 
-- [Coronae_Australis-3.internal](../../../_internal/astro/Star/Coronae_Australis-3.internal.md) 
-- [Coronae_Australis-3.protect](../../../_protect/astro/Star/Coronae_Australis-3.protect.md) 
-- [Coronae_Australis-3.private](../../../_private/astro/Star/Coronae_Australis-3.private.md) 
-- [Coronae_Australis-3.personal](../../../_personal/astro/Star/Coronae_Australis-3.personal.md) 
-- [Coronae_Australis-3.secret](../../../_secret/astro/Star/Coronae_Australis-3.secret.md)
-

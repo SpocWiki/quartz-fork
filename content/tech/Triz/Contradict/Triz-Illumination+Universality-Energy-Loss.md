@@ -19,10 +19,3 @@ title: Triz-Illumination+Universality-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Universality-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.md) 
-- [Triz-Illumination+Universality-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.internal.md) 
-- [Triz-Illumination+Universality-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.protect.md) 
-- [Triz-Illumination+Universality-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.private.md) 
-- [Triz-Illumination+Universality-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.personal.md) 
-- [Triz-Illumination+Universality-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Universality-Energy-Loss.secret.md) 

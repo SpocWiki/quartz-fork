@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Doebeln](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doebeln.md) 
-- [Doebeln.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doebeln.internal.md) 
-- [Doebeln.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doebeln.protect.md) 
-- [Doebeln.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doebeln.private.md) 
-- [Doebeln.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doebeln.personal.md) 
-- [Doebeln.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doebeln.secret.md) 

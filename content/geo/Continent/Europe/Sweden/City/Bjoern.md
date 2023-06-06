@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bjoern](../../../../../../_public/geo/Continent/Europe/Sweden/City/Bjoern.md) 
-- [Bjoern.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bjoern.internal.md) 
-- [Bjoern.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bjoern.protect.md) 
-- [Bjoern.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Bjoern.private.md) 
-- [Bjoern.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bjoern.personal.md) 
-- [Bjoern.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bjoern.secret.md) 

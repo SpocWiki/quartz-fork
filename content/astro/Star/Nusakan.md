@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Nusakan](../../../_public/astro/Star/Nusakan.md) 
-- [Nusakan.internal](../../../_internal/astro/Star/Nusakan.internal.md) 
-- [Nusakan.protect](../../../_protect/astro/Star/Nusakan.protect.md) 
-- [Nusakan.private](../../../_private/astro/Star/Nusakan.private.md) 
-- [Nusakan.personal](../../../_personal/astro/Star/Nusakan.personal.md) 
-- [Nusakan.secret](../../../_secret/astro/Star/Nusakan.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pirna](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pirna.md) 
-- [Pirna.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pirna.internal.md) 
-- [Pirna.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pirna.protect.md) 
-- [Pirna.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pirna.private.md) 
-- [Pirna.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pirna.personal.md) 
-- [Pirna.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pirna.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Segmentation-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Segmentation-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.md) 
-- [Triz-Ease_of_operation+Segmentation-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.internal.md) 
-- [Triz-Ease_of_operation+Segmentation-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.protect.md) 
-- [Triz-Ease_of_operation+Segmentation-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.private.md) 
-- [Triz-Ease_of_operation+Segmentation-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.personal.md) 
-- [Triz-Ease_of_operation+Segmentation-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Versatility.secret.md) 

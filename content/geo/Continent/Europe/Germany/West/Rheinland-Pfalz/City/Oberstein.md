@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberstein.md) 
-- [Oberstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberstein.internal.md) 
-- [Oberstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberstein.protect.md) 
-- [Oberstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberstein.private.md) 
-- [Oberstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberstein.personal.md) 
-- [Oberstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberstein.secret.md) 

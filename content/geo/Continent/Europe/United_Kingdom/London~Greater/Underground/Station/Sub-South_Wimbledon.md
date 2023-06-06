@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-South_Wimbledon](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Wimbledon.md) 
-- [Sub-South_Wimbledon.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Wimbledon.internal.md) 
-- [Sub-South_Wimbledon.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Wimbledon.protect.md) 
-- [Sub-South_Wimbledon.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Wimbledon.private.md) 
-- [Sub-South_Wimbledon.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Wimbledon.personal.md) 
-- [Sub-South_Wimbledon.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-South_Wimbledon.secret.md) 

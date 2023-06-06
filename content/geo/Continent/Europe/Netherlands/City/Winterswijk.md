@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winterswijk](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Winterswijk.md) 
-- [Winterswijk.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Winterswijk.internal.md) 
-- [Winterswijk.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Winterswijk.protect.md) 
-- [Winterswijk.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Winterswijk.private.md) 
-- [Winterswijk.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Winterswijk.personal.md) 
-- [Winterswijk.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Winterswijk.secret.md) 

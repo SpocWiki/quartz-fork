@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bruex](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bruex.md) 
-- [Bruex.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bruex.internal.md) 
-- [Bruex.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bruex.protect.md) 
-- [Bruex.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bruex.private.md) 
-- [Bruex.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bruex.personal.md) 
-- [Bruex.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bruex.secret.md) 

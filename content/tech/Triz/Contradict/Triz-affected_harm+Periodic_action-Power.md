@@ -19,10 +19,3 @@ title: Triz-affected_harm+Periodic_action-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Periodic_action-Power](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Power.md) 
-- [Triz-affected_harm+Periodic_action-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Power.internal.md) 
-- [Triz-affected_harm+Periodic_action-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Power.protect.md) 
-- [Triz-affected_harm+Periodic_action-Power.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Power.private.md) 
-- [Triz-affected_harm+Periodic_action-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Power.personal.md) 
-- [Triz-affected_harm+Periodic_action-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Power.secret.md) 

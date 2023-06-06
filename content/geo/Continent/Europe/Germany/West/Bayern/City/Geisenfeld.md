@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Geisenfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Geisenfeld.md) 
-- [Geisenfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Geisenfeld.internal.md) 
-- [Geisenfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Geisenfeld.protect.md) 
-- [Geisenfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Geisenfeld.private.md) 
-- [Geisenfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Geisenfeld.personal.md) 
-- [Geisenfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Geisenfeld.secret.md) 

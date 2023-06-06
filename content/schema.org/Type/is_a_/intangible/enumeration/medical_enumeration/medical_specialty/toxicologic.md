@@ -45,10 +45,3 @@ A specific branch of medical science that is concerned with poisons, their natur
 
 
 
-## Confidential Links & Embeds: 
-- [toxicologic](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.md) 
-- [toxicologic.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.internal.md) 
-- [toxicologic.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.protect.md) 
-- [toxicologic.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.private.md) 
-- [toxicologic.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.personal.md) 
-- [toxicologic.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/toxicologic.secret.md) 

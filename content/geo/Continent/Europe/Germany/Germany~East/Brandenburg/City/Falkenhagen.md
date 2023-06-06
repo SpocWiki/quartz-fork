@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falkenhagen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkenhagen.md) 
-- [Falkenhagen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkenhagen.internal.md) 
-- [Falkenhagen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkenhagen.protect.md) 
-- [Falkenhagen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkenhagen.private.md) 
-- [Falkenhagen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkenhagen.personal.md) 
-- [Falkenhagen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkenhagen.secret.md) 

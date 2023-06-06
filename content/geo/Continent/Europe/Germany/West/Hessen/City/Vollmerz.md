@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vollmerz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.md) 
-- [Vollmerz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.internal.md) 
-- [Vollmerz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.protect.md) 
-- [Vollmerz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.private.md) 
-- [Vollmerz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.personal.md) 
-- [Vollmerz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Vollmerz.secret.md) 

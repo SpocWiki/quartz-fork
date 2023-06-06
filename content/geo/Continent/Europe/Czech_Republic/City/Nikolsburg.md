@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nikolsburg](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.md) 
-- [Nikolsburg.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.internal.md) 
-- [Nikolsburg.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.protect.md) 
-- [Nikolsburg.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.private.md) 
-- [Nikolsburg.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.personal.md) 
-- [Nikolsburg.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Nikolsburg.secret.md) 

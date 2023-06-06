@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ploermel](../../../../../../_public/geo/Continent/Europe/France/City/Ploermel.md) 
-- [Ploermel.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Ploermel.internal.md) 
-- [Ploermel.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Ploermel.protect.md) 
-- [Ploermel.private](../../../../../../_private/geo/Continent/Europe/France/City/Ploermel.private.md) 
-- [Ploermel.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Ploermel.personal.md) 
-- [Ploermel.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Ploermel.secret.md) 

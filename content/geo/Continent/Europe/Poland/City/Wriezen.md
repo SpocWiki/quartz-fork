@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wriezen](../../../../../../_public/geo/Continent/Europe/Poland/City/Wriezen.md) 
-- [Wriezen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wriezen.internal.md) 
-- [Wriezen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wriezen.protect.md) 
-- [Wriezen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wriezen.private.md) 
-- [Wriezen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wriezen.personal.md) 
-- [Wriezen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wriezen.secret.md) 

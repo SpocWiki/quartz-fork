@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kigali](../../../../../../_public/geo/Continent/Africa/Rwanda/City/Kigali.md) 
-- [Kigali.internal](../../../../../../_internal/geo/Continent/Africa/Rwanda/City/Kigali.internal.md) 
-- [Kigali.protect](../../../../../../_protect/geo/Continent/Africa/Rwanda/City/Kigali.protect.md) 
-- [Kigali.private](../../../../../../_private/geo/Continent/Africa/Rwanda/City/Kigali.private.md) 
-- [Kigali.personal](../../../../../../_personal/geo/Continent/Africa/Rwanda/City/Kigali.personal.md) 
-- [Kigali.secret](../../../../../../_secret/geo/Continent/Africa/Rwanda/City/Kigali.secret.md) 

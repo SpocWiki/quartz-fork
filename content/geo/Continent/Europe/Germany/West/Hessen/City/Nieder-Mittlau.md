@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nieder-Mittlau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.md) 
-- [Nieder-Mittlau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.internal.md) 
-- [Nieder-Mittlau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.protect.md) 
-- [Nieder-Mittlau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.private.md) 
-- [Nieder-Mittlau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.personal.md) 
-- [Nieder-Mittlau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Mittlau.secret.md) 

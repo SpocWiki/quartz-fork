@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rathgar](../../../../../../_public/geo/Continent/Europe/Ireland/City/Rathgar.md) 
-- [Rathgar.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Rathgar.internal.md) 
-- [Rathgar.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Rathgar.protect.md) 
-- [Rathgar.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Rathgar.private.md) 
-- [Rathgar.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Rathgar.personal.md) 
-- [Rathgar.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Rathgar.secret.md) 

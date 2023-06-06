@@ -41,10 +41,3 @@ title: Neodymium
 
 
 
-## Confidential Links & Embeds: 
-- [Neodymium](../../../../_public/chemic/Elements/Lanthanide-Group/Neodymium.md) 
-- [Neodymium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Neodymium.internal.md) 
-- [Neodymium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Neodymium.protect.md) 
-- [Neodymium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Neodymium.private.md) 
-- [Neodymium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Neodymium.personal.md) 
-- [Neodymium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Neodymium.secret.md) 

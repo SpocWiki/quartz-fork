@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Altai_Krai](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Altai_Krai.md) 
-- [State-Altai_Krai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Altai_Krai.internal.md) 
-- [State-Altai_Krai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Altai_Krai.protect.md) 
-- [State-Altai_Krai.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Altai_Krai.private.md) 
-- [State-Altai_Krai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Altai_Krai.personal.md) 
-- [State-Altai_Krai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Altai_Krai.secret.md) 

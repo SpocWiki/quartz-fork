@@ -17,10 +17,3 @@ title: Triz-Pencil_
 
 Mechanical Pencil with Lead stored inside.
 
-## Confidential Links & Embeds: 
-- [Triz-Pencil_](../../../../_public/tech/Triz/Example/Triz-Pencil_.md) 
-- [Triz-Pencil_.internal](../../../../_internal/tech/Triz/Example/Triz-Pencil_.internal.md) 
-- [Triz-Pencil_.protect](../../../../_protect/tech/Triz/Example/Triz-Pencil_.protect.md) 
-- [Triz-Pencil_.private](../../../../_private/tech/Triz/Example/Triz-Pencil_.private.md) 
-- [Triz-Pencil_.personal](../../../../_personal/tech/Triz/Example/Triz-Pencil_.personal.md) 
-- [Triz-Pencil_.secret](../../../../_secret/tech/Triz/Example/Triz-Pencil_.secret.md) 

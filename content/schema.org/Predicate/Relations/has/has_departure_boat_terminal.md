@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_departure_boat_terminal](../../../../../_public/schema.org/Predicate/Relations/has/has_departure_boat_terminal.md) 
-- [has_departure_boat_terminal.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_boat_terminal.internal.md) 
-- [has_departure_boat_terminal.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_departure_boat_terminal.protect.md) 
-- [has_departure_boat_terminal.private](../../../../../_private/schema.org/Predicate/Relations/has/has_departure_boat_terminal.private.md) 
-- [has_departure_boat_terminal.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_departure_boat_terminal.personal.md) 
-- [has_departure_boat_terminal.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_departure_boat_terminal.secret.md) 

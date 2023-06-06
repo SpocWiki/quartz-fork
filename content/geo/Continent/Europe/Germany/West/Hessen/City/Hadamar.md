@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hadamar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Hadamar.md) 
-- [Hadamar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hadamar.internal.md) 
-- [Hadamar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hadamar.protect.md) 
-- [Hadamar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hadamar.private.md) 
-- [Hadamar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hadamar.personal.md) 
-- [Hadamar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hadamar.secret.md) 

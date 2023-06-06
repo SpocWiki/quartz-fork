@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wohlenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wohlenberg.md) 
-- [Wohlenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wohlenberg.internal.md) 
-- [Wohlenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wohlenberg.protect.md) 
-- [Wohlenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wohlenberg.private.md) 
-- [Wohlenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wohlenberg.personal.md) 
-- [Wohlenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Wohlenberg.secret.md) 

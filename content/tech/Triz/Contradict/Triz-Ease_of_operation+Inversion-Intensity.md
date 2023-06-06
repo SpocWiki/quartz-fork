@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Inversion-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Inversion-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Intensity.md) 
-- [Triz-Ease_of_operation+Inversion-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Intensity.internal.md) 
-- [Triz-Ease_of_operation+Inversion-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Intensity.protect.md) 
-- [Triz-Ease_of_operation+Inversion-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Intensity.private.md) 
-- [Triz-Ease_of_operation+Inversion-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Intensity.personal.md) 
-- [Triz-Ease_of_operation+Inversion-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Intensity.secret.md) 

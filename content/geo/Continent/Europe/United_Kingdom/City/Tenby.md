@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tenby](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tenby.md) 
-- [Tenby.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tenby.internal.md) 
-- [Tenby.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tenby.protect.md) 
-- [Tenby.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tenby.private.md) 
-- [Tenby.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tenby.personal.md) 
-- [Tenby.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tenby.secret.md) 

@@ -47,10 +47,3 @@ A schedule defines a repeating time period used to describe a regularly occurrin
 
 
 
-## Confidential Links & Embeds: 
-- [schedule](../../../../../_public/schema.org/Type/is_a_/intangible/schedule.md) 
-- [schedule.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/schedule.internal.md) 
-- [schedule.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/schedule.protect.md) 
-- [schedule.private](../../../../../_private/schema.org/Type/is_a_/intangible/schedule.private.md) 
-- [schedule.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/schedule.personal.md) 
-- [schedule.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/schedule.secret.md) 

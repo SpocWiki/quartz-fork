@@ -10,11 +10,3 @@ title: inOrganic
 
 
 
-## Confidential Links & Embeds: 
-- [inOrganic](../../_public/chemic/inOrganic.md) 
-- [inOrganic.internal](../../_internal/chemic/inOrganic.internal.md) 
-- [inOrganic.protect](../../_protect/chemic/inOrganic.protect.md) 
-- [inOrganic.private](../../_private/chemic/inOrganic.private.md) 
-- [inOrganic.personal](../../_personal/chemic/inOrganic.personal.md) 
-- [inOrganic.secret](../../_secret/chemic/inOrganic.secret.md)
-

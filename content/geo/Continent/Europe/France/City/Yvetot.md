@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yvetot](../../../../../../_public/geo/Continent/Europe/France/City/Yvetot.md) 
-- [Yvetot.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Yvetot.internal.md) 
-- [Yvetot.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Yvetot.protect.md) 
-- [Yvetot.private](../../../../../../_private/geo/Continent/Europe/France/City/Yvetot.private.md) 
-- [Yvetot.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Yvetot.personal.md) 
-- [Yvetot.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Yvetot.secret.md) 

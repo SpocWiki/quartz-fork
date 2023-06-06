@@ -19,10 +19,3 @@ title: Triz-Information-Loss+Feedback-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Information-Loss+Feedback-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Feedback-Reliability.md) 
-- [Triz-Information-Loss+Feedback-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Feedback-Reliability.internal.md) 
-- [Triz-Information-Loss+Feedback-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Feedback-Reliability.protect.md) 
-- [Triz-Information-Loss+Feedback-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Feedback-Reliability.private.md) 
-- [Triz-Information-Loss+Feedback-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Feedback-Reliability.personal.md) 
-- [Triz-Information-Loss+Feedback-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Feedback-Reliability.secret.md) 

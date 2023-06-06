@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Porrima](../../../_public/astro/Star/Porrima.md) 
-- [Porrima.internal](../../../_internal/astro/Star/Porrima.internal.md) 
-- [Porrima.protect](../../../_protect/astro/Star/Porrima.protect.md) 
-- [Porrima.private](../../../_private/astro/Star/Porrima.private.md) 
-- [Porrima.personal](../../../_personal/astro/Star/Porrima.personal.md) 
-- [Porrima.secret](../../../_secret/astro/Star/Porrima.secret.md) 

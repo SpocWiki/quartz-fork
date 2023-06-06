@@ -45,10 +45,3 @@ A scholarly article.
 
 
 
-## Confidential Links & Embeds: 
-- [scholarly_article](../../../../../../_public/schema.org/Type/is_a_/creative_work/article/scholarly_article.md) 
-- [scholarly_article.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/scholarly_article.internal.md) 
-- [scholarly_article.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/scholarly_article.protect.md) 
-- [scholarly_article.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/article/scholarly_article.private.md) 
-- [scholarly_article.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/scholarly_article.personal.md) 
-- [scholarly_article.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/scholarly_article.secret.md) 

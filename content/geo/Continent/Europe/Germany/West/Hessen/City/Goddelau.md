@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goddelau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Goddelau.md) 
-- [Goddelau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Goddelau.internal.md) 
-- [Goddelau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Goddelau.protect.md) 
-- [Goddelau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Goddelau.private.md) 
-- [Goddelau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Goddelau.personal.md) 
-- [Goddelau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Goddelau.secret.md) 

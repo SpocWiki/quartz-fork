@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grasse](../../../../../../_public/geo/Continent/Europe/France/City/Grasse.md) 
-- [Grasse.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Grasse.internal.md) 
-- [Grasse.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Grasse.protect.md) 
-- [Grasse.private](../../../../../../_private/geo/Continent/Europe/France/City/Grasse.private.md) 
-- [Grasse.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Grasse.personal.md) 
-- [Grasse.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Grasse.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hilversum](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hilversum.md) 
-- [Hilversum.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hilversum.internal.md) 
-- [Hilversum.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hilversum.protect.md) 
-- [Hilversum.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hilversum.private.md) 
-- [Hilversum.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hilversum.personal.md) 
-- [Hilversum.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hilversum.secret.md) 

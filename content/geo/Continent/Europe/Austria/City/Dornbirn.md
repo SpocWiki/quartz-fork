@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dornbirn](../../../../../../_public/geo/Continent/Europe/Austria/City/Dornbirn.md) 
-- [Dornbirn.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Dornbirn.internal.md) 
-- [Dornbirn.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Dornbirn.protect.md) 
-- [Dornbirn.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Dornbirn.private.md) 
-- [Dornbirn.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Dornbirn.personal.md) 
-- [Dornbirn.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Dornbirn.secret.md) 

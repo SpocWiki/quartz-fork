@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Offenbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Offenbach.md) 
-- [Offenbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Offenbach.internal.md) 
-- [Offenbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Offenbach.protect.md) 
-- [Offenbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Offenbach.private.md) 
-- [Offenbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Offenbach.personal.md) 
-- [Offenbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Offenbach.secret.md) 

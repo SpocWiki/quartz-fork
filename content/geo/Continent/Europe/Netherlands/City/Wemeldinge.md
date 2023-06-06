@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wemeldinge](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Wemeldinge.md) 
-- [Wemeldinge.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Wemeldinge.internal.md) 
-- [Wemeldinge.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Wemeldinge.protect.md) 
-- [Wemeldinge.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Wemeldinge.private.md) 
-- [Wemeldinge.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Wemeldinge.personal.md) 
-- [Wemeldinge.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Wemeldinge.secret.md) 

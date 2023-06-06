@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radbruch](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Radbruch.md) 
-- [Radbruch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Radbruch.internal.md) 
-- [Radbruch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Radbruch.protect.md) 
-- [Radbruch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Radbruch.private.md) 
-- [Radbruch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Radbruch.personal.md) 
-- [Radbruch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Radbruch.secret.md) 

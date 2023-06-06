@@ -19,10 +19,3 @@ title: Triz-affected_harm+Extraction-Ease_of_repair
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Extraction-Ease_of_repair](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.md) 
-- [Triz-affected_harm+Extraction-Ease_of_repair.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.internal.md) 
-- [Triz-affected_harm+Extraction-Ease_of_repair.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.protect.md) 
-- [Triz-affected_harm+Extraction-Ease_of_repair.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.private.md) 
-- [Triz-affected_harm+Extraction-Ease_of_repair.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.personal.md) 
-- [Triz-affected_harm+Extraction-Ease_of_repair.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-Ease_of_repair.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Quantity+Extraction-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Extraction-Stability](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.md) 
-- [Triz-Quantity+Extraction-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.internal.md) 
-- [Triz-Quantity+Extraction-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.protect.md) 
-- [Triz-Quantity+Extraction-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.private.md) 
-- [Triz-Quantity+Extraction-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.personal.md) 
-- [Triz-Quantity+Extraction-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Extraction-Stability.secret.md) 

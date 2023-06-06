@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Finthen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Finthen.md) 
-- [Finthen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Finthen.internal.md) 
-- [Finthen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Finthen.protect.md) 
-- [Finthen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Finthen.private.md) 
-- [Finthen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Finthen.personal.md) 
-- [Finthen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Finthen.secret.md) 

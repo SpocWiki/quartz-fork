@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Golschwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Golschwitz.md) 
-- [Golschwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Golschwitz.internal.md) 
-- [Golschwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Golschwitz.protect.md) 
-- [Golschwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Golschwitz.private.md) 
-- [Golschwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Golschwitz.personal.md) 
-- [Golschwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Golschwitz.secret.md) 

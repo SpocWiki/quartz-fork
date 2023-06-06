@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_part_of_tv_series](../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_tv_series.md) 
-- [is_part_of_tv_series.internal](../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_tv_series.internal.md) 
-- [is_part_of_tv_series.protect](../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_tv_series.protect.md) 
-- [is_part_of_tv_series.private](../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_tv_series.private.md) 
-- [is_part_of_tv_series.personal](../../../../../_personal/schema.org/Predicate/Relations/has/is_part_of_tv_series.personal.md) 
-- [is_part_of_tv_series.secret](../../../../../_secret/schema.org/Predicate/Relations/has/is_part_of_tv_series.secret.md) 

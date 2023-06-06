@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Santiago](../../../../../../_public/geo/Continent/South-America/Chile/City/Santiago.md) 
-- [Santiago.internal](../../../../../../_internal/geo/Continent/South-America/Chile/City/Santiago.internal.md) 
-- [Santiago.protect](../../../../../../_protect/geo/Continent/South-America/Chile/City/Santiago.protect.md) 
-- [Santiago.private](../../../../../../_private/geo/Continent/South-America/Chile/City/Santiago.private.md) 
-- [Santiago.personal](../../../../../../_personal/geo/Continent/South-America/Chile/City/Santiago.personal.md) 
-- [Santiago.secret](../../../../../../_secret/geo/Continent/South-America/Chile/City/Santiago.secret.md) 

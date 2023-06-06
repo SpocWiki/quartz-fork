@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Inert_environment-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Inert_environment-Stability](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Inert_environment-Stability.md) 
-- [Triz-Energy-Loss+Inert_environment-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Inert_environment-Stability.internal.md) 
-- [Triz-Energy-Loss+Inert_environment-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Inert_environment-Stability.protect.md) 
-- [Triz-Energy-Loss+Inert_environment-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Inert_environment-Stability.private.md) 
-- [Triz-Energy-Loss+Inert_environment-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Inert_environment-Stability.personal.md) 
-- [Triz-Energy-Loss+Inert_environment-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Inert_environment-Stability.secret.md) 

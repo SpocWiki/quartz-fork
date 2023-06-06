@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berdichef](../../../../../../_public/geo/Continent/Europe/Russia/City/Berdichef.md) 
-- [Berdichef.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Berdichef.internal.md) 
-- [Berdichef.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Berdichef.protect.md) 
-- [Berdichef.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Berdichef.private.md) 
-- [Berdichef.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Berdichef.personal.md) 
-- [Berdichef.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Berdichef.secret.md) 

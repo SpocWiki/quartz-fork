@@ -19,10 +19,3 @@ title: Triz-moving_Area+Copying-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Copying-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.md) 
-- [Triz-moving_Area+Copying-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.internal.md) 
-- [Triz-moving_Area+Copying-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.protect.md) 
-- [Triz-moving_Area+Copying-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.private.md) 
-- [Triz-moving_Area+Copying-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.personal.md) 
-- [Triz-moving_Area+Copying-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Copying-Information-Loss.secret.md) 

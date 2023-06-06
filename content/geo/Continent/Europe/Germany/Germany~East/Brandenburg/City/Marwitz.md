@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marwitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Marwitz.md) 
-- [Marwitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Marwitz.internal.md) 
-- [Marwitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Marwitz.protect.md) 
-- [Marwitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Marwitz.private.md) 
-- [Marwitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Marwitz.personal.md) 
-- [Marwitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Marwitz.secret.md) 

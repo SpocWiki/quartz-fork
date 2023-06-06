@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gunzenhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Gunzenhausen.md) 
-- [Gunzenhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gunzenhausen.internal.md) 
-- [Gunzenhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gunzenhausen.protect.md) 
-- [Gunzenhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gunzenhausen.private.md) 
-- [Gunzenhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Gunzenhausen.personal.md) 
-- [Gunzenhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Gunzenhausen.secret.md) 

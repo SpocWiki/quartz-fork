@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Clusone](../../../../../../_public/geo/Continent/Europe/Italy/City/Clusone.md) 
-- [Clusone.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Clusone.internal.md) 
-- [Clusone.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Clusone.protect.md) 
-- [Clusone.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Clusone.private.md) 
-- [Clusone.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Clusone.personal.md) 
-- [Clusone.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Clusone.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rotterdam](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Rotterdam.md) 
-- [Rotterdam.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Rotterdam.internal.md) 
-- [Rotterdam.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Rotterdam.protect.md) 
-- [Rotterdam.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Rotterdam.private.md) 
-- [Rotterdam.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Rotterdam.personal.md) 
-- [Rotterdam.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Rotterdam.secret.md) 

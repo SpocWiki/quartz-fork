@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tipton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tipton.md) 
-- [Tipton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tipton.internal.md) 
-- [Tipton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tipton.protect.md) 
-- [Tipton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tipton.private.md) 
-- [Tipton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tipton.personal.md) 
-- [Tipton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tipton.secret.md) 

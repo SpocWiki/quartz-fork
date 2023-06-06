@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loitmark](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Loitmark.md) 
-- [Loitmark.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Loitmark.internal.md) 
-- [Loitmark.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Loitmark.protect.md) 
-- [Loitmark.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Loitmark.private.md) 
-- [Loitmark.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Loitmark.personal.md) 
-- [Loitmark.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Loitmark.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wenden](../../../../../../_public/geo/Continent/Europe/Russia/City/Wenden.md) 
-- [Wenden.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Wenden.internal.md) 
-- [Wenden.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Wenden.protect.md) 
-- [Wenden.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Wenden.private.md) 
-- [Wenden.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Wenden.personal.md) 
-- [Wenden.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Wenden.secret.md) 

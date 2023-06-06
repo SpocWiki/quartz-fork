@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zillerthal](../../../../../../_public/geo/Continent/Europe/Poland/City/Zillerthal.md) 
-- [Zillerthal.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zillerthal.internal.md) 
-- [Zillerthal.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zillerthal.protect.md) 
-- [Zillerthal.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zillerthal.private.md) 
-- [Zillerthal.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zillerthal.personal.md) 
-- [Zillerthal.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zillerthal.secret.md) 

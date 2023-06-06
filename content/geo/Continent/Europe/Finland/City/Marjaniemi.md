@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marjaniemi](../../../../../../_public/geo/Continent/Europe/Finland/City/Marjaniemi.md) 
-- [Marjaniemi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Marjaniemi.internal.md) 
-- [Marjaniemi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Marjaniemi.protect.md) 
-- [Marjaniemi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Marjaniemi.private.md) 
-- [Marjaniemi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Marjaniemi.personal.md) 
-- [Marjaniemi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Marjaniemi.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Miesbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Miesbach.md) 
-- [Miesbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Miesbach.internal.md) 
-- [Miesbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Miesbach.protect.md) 
-- [Miesbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Miesbach.private.md) 
-- [Miesbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Miesbach.personal.md) 
-- [Miesbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Miesbach.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Shape+Dynamicity-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Dynamicity-Speed](../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Speed.md) 
-- [Triz-Shape+Dynamicity-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Speed.internal.md) 
-- [Triz-Shape+Dynamicity-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Speed.protect.md) 
-- [Triz-Shape+Dynamicity-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Speed.private.md) 
-- [Triz-Shape+Dynamicity-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Speed.personal.md) 
-- [Triz-Shape+Dynamicity-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Dynamicity-Speed.secret.md) 

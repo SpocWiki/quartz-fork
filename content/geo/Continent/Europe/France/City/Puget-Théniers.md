@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Puget-Théniers](../../../../../../_public/geo/Continent/Europe/France/City/Puget-Th%C3%A9niers.md) 
-- [Puget-Théniers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Puget-Th%C3%A9niers.internal.md) 
-- [Puget-Théniers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Puget-Th%C3%A9niers.protect.md) 
-- [Puget-Théniers.private](../../../../../../_private/geo/Continent/Europe/France/City/Puget-Th%C3%A9niers.private.md) 
-- [Puget-Théniers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Puget-Th%C3%A9niers.personal.md) 
-- [Puget-Théniers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Puget-Th%C3%A9niers.secret.md) 

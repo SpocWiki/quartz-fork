@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuestrin](../../../../../../_public/geo/Continent/Europe/Poland/City/Kuestrin.md) 
-- [Kuestrin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kuestrin.internal.md) 
-- [Kuestrin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kuestrin.protect.md) 
-- [Kuestrin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kuestrin.private.md) 
-- [Kuestrin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kuestrin.personal.md) 
-- [Kuestrin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kuestrin.secret.md) 

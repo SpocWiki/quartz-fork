@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Charolles](../../../../../../_public/geo/Continent/Europe/France/City/Charolles.md) 
-- [Charolles.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Charolles.internal.md) 
-- [Charolles.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Charolles.protect.md) 
-- [Charolles.private](../../../../../../_private/geo/Continent/Europe/France/City/Charolles.private.md) 
-- [Charolles.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Charolles.personal.md) 
-- [Charolles.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Charolles.secret.md) 

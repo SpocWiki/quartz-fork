@@ -31,10 +31,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bombay](../../../../../../_public/geo/Continent/Asia/India/City/Bombay.md) 
-- [Bombay.internal](../../../../../../_internal/geo/Continent/Asia/India/City/Bombay.internal.md) 
-- [Bombay.protect](../../../../../../_protect/geo/Continent/Asia/India/City/Bombay.protect.md) 
-- [Bombay.private](../../../../../../_private/geo/Continent/Asia/India/City/Bombay.private.md) 
-- [Bombay.personal](../../../../../../_personal/geo/Continent/Asia/India/City/Bombay.personal.md) 
-- [Bombay.secret](../../../../../../_secret/geo/Continent/Asia/India/City/Bombay.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krafensko](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Krafensko.md) 
-- [Krafensko.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krafensko.internal.md) 
-- [Krafensko.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krafensko.protect.md) 
-- [Krafensko.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krafensko.private.md) 
-- [Krafensko.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krafensko.personal.md) 
-- [Krafensko.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krafensko.secret.md) 

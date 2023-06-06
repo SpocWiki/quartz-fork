@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heldrungen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Heldrungen.md) 
-- [Heldrungen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Heldrungen.internal.md) 
-- [Heldrungen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Heldrungen.protect.md) 
-- [Heldrungen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Heldrungen.private.md) 
-- [Heldrungen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Heldrungen.personal.md) 
-- [Heldrungen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Heldrungen.secret.md) 

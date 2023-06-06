@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bleiberg](../../../../../../_public/geo/Continent/Europe/Austria/City/Bleiberg.md) 
-- [Bleiberg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Bleiberg.internal.md) 
-- [Bleiberg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Bleiberg.protect.md) 
-- [Bleiberg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Bleiberg.private.md) 
-- [Bleiberg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Bleiberg.personal.md) 
-- [Bleiberg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Bleiberg.secret.md) 

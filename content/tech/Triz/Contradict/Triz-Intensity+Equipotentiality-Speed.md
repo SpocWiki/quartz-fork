@@ -19,10 +19,3 @@ title: Triz-Intensity+Equipotentiality-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Equipotentiality-Speed](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-Speed.md) 
-- [Triz-Intensity+Equipotentiality-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-Speed.internal.md) 
-- [Triz-Intensity+Equipotentiality-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-Speed.protect.md) 
-- [Triz-Intensity+Equipotentiality-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-Speed.private.md) 
-- [Triz-Intensity+Equipotentiality-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-Speed.personal.md) 
-- [Triz-Intensity+Equipotentiality-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Equipotentiality-Speed.secret.md) 

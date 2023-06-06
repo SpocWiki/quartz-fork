@@ -19,10 +19,3 @@ title: Triz-Speed+Use_strong_oxidisers-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Use_strong_oxidisers-Stress](../../../../_public/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.md) 
-- [Triz-Speed+Use_strong_oxidisers-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.internal.md) 
-- [Triz-Speed+Use_strong_oxidisers-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.protect.md) 
-- [Triz-Speed+Use_strong_oxidisers-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.private.md) 
-- [Triz-Speed+Use_strong_oxidisers-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.personal.md) 
-- [Triz-Speed+Use_strong_oxidisers-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-Stress.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eupen](../../../../../../_public/geo/Continent/Europe/Belgium/City/Eupen.md) 
-- [Eupen.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Eupen.internal.md) 
-- [Eupen.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Eupen.protect.md) 
-- [Eupen.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Eupen.private.md) 
-- [Eupen.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Eupen.personal.md) 
-- [Eupen.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Eupen.secret.md) 

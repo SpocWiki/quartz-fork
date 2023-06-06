@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Huddersfield](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Huddersfield.md) 
-- [Huddersfield.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Huddersfield.internal.md) 
-- [Huddersfield.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Huddersfield.protect.md) 
-- [Huddersfield.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Huddersfield.private.md) 
-- [Huddersfield.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Huddersfield.personal.md) 
-- [Huddersfield.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Huddersfield.secret.md) 

@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_jurisdiction](../../../../../_public/schema.org/Predicate/Relations/has/has_jurisdiction.md) 
-- [has_jurisdiction.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_jurisdiction.internal.md) 
-- [has_jurisdiction.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_jurisdiction.protect.md) 
-- [has_jurisdiction.private](../../../../../_private/schema.org/Predicate/Relations/has/has_jurisdiction.private.md) 
-- [has_jurisdiction.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_jurisdiction.personal.md) 
-- [has_jurisdiction.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_jurisdiction.secret.md) 

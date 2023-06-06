@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schluechtern](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Schluechtern.md) 
-- [Schluechtern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schluechtern.internal.md) 
-- [Schluechtern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schluechtern.protect.md) 
-- [Schluechtern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schluechtern.private.md) 
-- [Schluechtern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Schluechtern.personal.md) 
-- [Schluechtern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Schluechtern.secret.md) 

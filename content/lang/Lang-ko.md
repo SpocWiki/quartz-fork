@@ -19,11 +19,3 @@ title: Lang-ko
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-ko](../../_public/lang/Lang-ko.md) 
-- [Lang-ko.internal](../../_internal/lang/Lang-ko.internal.md) 
-- [Lang-ko.protect](../../_protect/lang/Lang-ko.protect.md) 
-- [Lang-ko.private](../../_private/lang/Lang-ko.private.md) 
-- [Lang-ko.personal](../../_personal/lang/Lang-ko.personal.md) 
-- [Lang-ko.secret](../../_secret/lang/Lang-ko.secret.md)
-

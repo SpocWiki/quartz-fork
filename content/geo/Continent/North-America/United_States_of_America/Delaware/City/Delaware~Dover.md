@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Delaware~Dover](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware~Dover.md) 
-- [Delaware~Dover.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware~Dover.internal.md) 
-- [Delaware~Dover.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware~Dover.protect.md) 
-- [Delaware~Dover.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware~Dover.private.md) 
-- [Delaware~Dover.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware~Dover.personal.md) 
-- [Delaware~Dover.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware~Dover.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Murow](../../../../../../_public/geo/Continent/Europe/Poland/City/Murow.md) 
-- [Murow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Murow.internal.md) 
-- [Murow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Murow.protect.md) 
-- [Murow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Murow.private.md) 
-- [Murow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Murow.personal.md) 
-- [Murow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Murow.secret.md) 

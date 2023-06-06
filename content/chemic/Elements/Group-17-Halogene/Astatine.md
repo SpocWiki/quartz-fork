@@ -37,10 +37,3 @@ title: Astatine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Astatine)
 
-## Confidential Links & Embeds: 
-- [Astatine](../../../../_public/chemic/Elements/Group-17-Halogene/Astatine.md) 
-- [Astatine.internal](../../../../_internal/chemic/Elements/Group-17-Halogene/Astatine.internal.md) 
-- [Astatine.protect](../../../../_protect/chemic/Elements/Group-17-Halogene/Astatine.protect.md) 
-- [Astatine.private](../../../../_private/chemic/Elements/Group-17-Halogene/Astatine.private.md) 
-- [Astatine.personal](../../../../_personal/chemic/Elements/Group-17-Halogene/Astatine.personal.md) 
-- [Astatine.secret](../../../../_secret/chemic/Elements/Group-17-Halogene/Astatine.secret.md) 

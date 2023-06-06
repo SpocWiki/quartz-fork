@@ -43,10 +43,3 @@ A casino.
 
 
 
-## Confidential Links & Embeds: 
-- [casino](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business/casino.md) 
-- [casino.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business/casino.internal.md) 
-- [casino.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business/casino.protect.md) 
-- [casino.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business/casino.private.md) 
-- [casino.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business/casino.personal.md) 
-- [casino.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business/casino.secret.md) 

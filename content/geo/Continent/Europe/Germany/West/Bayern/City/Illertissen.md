@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Illertissen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Illertissen.md) 
-- [Illertissen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Illertissen.internal.md) 
-- [Illertissen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Illertissen.protect.md) 
-- [Illertissen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Illertissen.private.md) 
-- [Illertissen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Illertissen.personal.md) 
-- [Illertissen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Illertissen.secret.md) 

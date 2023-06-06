@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suez](../../../../../../_public/geo/Continent/Africa/Egypt/City/Suez.md) 
-- [Suez.internal](../../../../../../_internal/geo/Continent/Africa/Egypt/City/Suez.internal.md) 
-- [Suez.protect](../../../../../../_protect/geo/Continent/Africa/Egypt/City/Suez.protect.md) 
-- [Suez.private](../../../../../../_private/geo/Continent/Africa/Egypt/City/Suez.private.md) 
-- [Suez.personal](../../../../../../_personal/geo/Continent/Africa/Egypt/City/Suez.personal.md) 
-- [Suez.secret](../../../../../../_secret/geo/Continent/Africa/Egypt/City/Suez.secret.md) 

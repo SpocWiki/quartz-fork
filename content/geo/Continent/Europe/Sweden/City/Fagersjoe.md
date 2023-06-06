@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fagersjoe](../../../../../../_public/geo/Continent/Europe/Sweden/City/Fagersjoe.md) 
-- [Fagersjoe.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Fagersjoe.internal.md) 
-- [Fagersjoe.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Fagersjoe.protect.md) 
-- [Fagersjoe.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Fagersjoe.private.md) 
-- [Fagersjoe.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Fagersjoe.personal.md) 
-- [Fagersjoe.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Fagersjoe.secret.md) 

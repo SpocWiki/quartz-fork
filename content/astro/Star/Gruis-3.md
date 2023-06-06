@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Gruis-3](../../../_public/astro/Star/Gruis-3.md) 
-- [Gruis-3.internal](../../../_internal/astro/Star/Gruis-3.internal.md) 
-- [Gruis-3.protect](../../../_protect/astro/Star/Gruis-3.protect.md) 
-- [Gruis-3.private](../../../_private/astro/Star/Gruis-3.private.md) 
-- [Gruis-3.personal](../../../_personal/astro/Star/Gruis-3.personal.md) 
-- [Gruis-3.secret](../../../_secret/astro/Star/Gruis-3.secret.md)
-

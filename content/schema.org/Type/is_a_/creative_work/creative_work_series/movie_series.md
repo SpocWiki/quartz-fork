@@ -43,10 +43,3 @@ A series of movies. Included movies can be indicated with the hasPart property.
 
 
 
-## Confidential Links & Embeds: 
-- [movie_series](../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.md) 
-- [movie_series.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.internal.md) 
-- [movie_series.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.protect.md) 
-- [movie_series.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.private.md) 
-- [movie_series.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.personal.md) 
-- [movie_series.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.secret.md) 

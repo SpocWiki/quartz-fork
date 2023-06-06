@@ -19,10 +19,3 @@ title: Triz-Difficulty+Replacement_of_a_mechanical_system-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-Strength](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.md) 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.internal.md) 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.protect.md) 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.private.md) 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.personal.md) 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-Strength.secret.md) 

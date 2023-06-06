@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hachenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hachenburg.md) 
-- [Hachenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hachenburg.internal.md) 
-- [Hachenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hachenburg.protect.md) 
-- [Hachenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hachenburg.private.md) 
-- [Hachenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hachenburg.personal.md) 
-- [Hachenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hachenburg.secret.md) 

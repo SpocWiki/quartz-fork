@@ -123,7 +123,7 @@ markerFolder: ./Saudi_Arabia/City
 
 ![350](geo/Continent/Asia/Saudi_Arabia/Emblem_of_Saudi_Arabia.svg)
 
-![Anthem-Saudi-arabia](xLarge/National-Anthem/Anthem-Saudi-arabia.mp3)
+[Anthem-Saudi-arabia](xLarge/National-Anthem/Anthem-Saudi-arabia.mp3)
 
 ![350](geo/Continent/Asia/Saudi_Arabia/Flag_of_Saudi_Arabia.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Saudi_Arabia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Saudi_Arabia](../../../../_public/geo/Continent/Asia/Saudi_Arabia.md) 
-- [Saudi_Arabia.internal](../../../../_internal/geo/Continent/Asia/Saudi_Arabia.internal.md) 
-- [Saudi_Arabia.protect](../../../../_protect/geo/Continent/Asia/Saudi_Arabia.protect.md) 
-- [Saudi_Arabia.private](../../../../_private/geo/Continent/Asia/Saudi_Arabia.private.md) 
-- [Saudi_Arabia.personal](../../../../_personal/geo/Continent/Asia/Saudi_Arabia.personal.md) 
-- [Saudi_Arabia.secret](../../../../_secret/geo/Continent/Asia/Saudi_Arabia.secret.md) 

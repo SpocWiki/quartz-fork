@@ -119,7 +119,7 @@ markerFolder: ./Portugal/City
 [VehicleCode::P]
 [Capital::[Lissabon=Lisboa=Lisbon](geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.md)]
 ![450](geo/Continent/Europe/Portugal/Coat_of_arms_of_Portugal.svg)
-![Anthem-Portugal](xLarge/National-Anthem/Anthem-Portugal.mp3)
+[Anthem-Portugal](xLarge/National-Anthem/Anthem-Portugal.mp3)
 ![350](geo/Continent/Europe/Portugal/Flag_of_Portugal.svg)
 [Alcohol-l::14.6]
 [Language-Id::467]
@@ -128,10 +128,3 @@ markerFolder: ./Portugal/City
 
 
 
-## Confidential Links & Embeds: 
-- [Portugal](../../../../_public/geo/Continent/Europe/Portugal.md) 
-- [Portugal.internal](../../../../_internal/geo/Continent/Europe/Portugal.internal.md) 
-- [Portugal.protect](../../../../_protect/geo/Continent/Europe/Portugal.protect.md) 
-- [Portugal.private](../../../../_private/geo/Continent/Europe/Portugal.private.md) 
-- [Portugal.personal](../../../../_personal/geo/Continent/Europe/Portugal.personal.md) 
-- [Portugal.secret](../../../../_secret/geo/Continent/Europe/Portugal.secret.md) 

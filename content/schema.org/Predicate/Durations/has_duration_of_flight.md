@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_duration_of_flight](../../../../_public/schema.org/Predicate/Durations/has_duration_of_flight.md) 
-- [has_duration_of_flight.internal](../../../../_internal/schema.org/Predicate/Durations/has_duration_of_flight.internal.md) 
-- [has_duration_of_flight.protect](../../../../_protect/schema.org/Predicate/Durations/has_duration_of_flight.protect.md) 
-- [has_duration_of_flight.private](../../../../_private/schema.org/Predicate/Durations/has_duration_of_flight.private.md) 
-- [has_duration_of_flight.personal](../../../../_personal/schema.org/Predicate/Durations/has_duration_of_flight.personal.md) 
-- [has_duration_of_flight.secret](../../../../_secret/schema.org/Predicate/Durations/has_duration_of_flight.secret.md) 

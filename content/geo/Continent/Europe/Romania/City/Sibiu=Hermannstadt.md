@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sibiu=Hermannstadt](../../../../../../_public/geo/Continent/Europe/Romania/City/Sibiu=Hermannstadt.md) 
-- [Sibiu=Hermannstadt.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Sibiu=Hermannstadt.internal.md) 
-- [Sibiu=Hermannstadt.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Sibiu=Hermannstadt.protect.md) 
-- [Sibiu=Hermannstadt.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Sibiu=Hermannstadt.private.md) 
-- [Sibiu=Hermannstadt.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Sibiu=Hermannstadt.personal.md) 
-- [Sibiu=Hermannstadt.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Sibiu=Hermannstadt.secret.md) 

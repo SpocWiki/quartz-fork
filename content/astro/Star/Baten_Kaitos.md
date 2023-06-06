@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Baten_Kaitos](../../../_public/astro/Star/Baten_Kaitos.md) 
-- [Baten_Kaitos.internal](../../../_internal/astro/Star/Baten_Kaitos.internal.md) 
-- [Baten_Kaitos.protect](../../../_protect/astro/Star/Baten_Kaitos.protect.md) 
-- [Baten_Kaitos.private](../../../_private/astro/Star/Baten_Kaitos.private.md) 
-- [Baten_Kaitos.personal](../../../_personal/astro/Star/Baten_Kaitos.personal.md) 
-- [Baten_Kaitos.secret](../../../_secret/astro/Star/Baten_Kaitos.secret.md)
-

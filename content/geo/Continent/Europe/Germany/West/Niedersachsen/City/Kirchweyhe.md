@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirchweyhe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.md) 
-- [Kirchweyhe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.internal.md) 
-- [Kirchweyhe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.protect.md) 
-- [Kirchweyhe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.private.md) 
-- [Kirchweyhe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.personal.md) 
-- [Kirchweyhe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchweyhe.secret.md) 

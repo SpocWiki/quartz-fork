@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Temesvar](../../../../../../_public/geo/Continent/Europe/Romania/City/Temesvar.md) 
-- [Temesvar.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Temesvar.internal.md) 
-- [Temesvar.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Temesvar.protect.md) 
-- [Temesvar.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Temesvar.private.md) 
-- [Temesvar.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Temesvar.personal.md) 
-- [Temesvar.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Temesvar.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pargas](../../../../../../_public/geo/Continent/Europe/Finland/City/Pargas.md) 
-- [Pargas.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Pargas.internal.md) 
-- [Pargas.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Pargas.protect.md) 
-- [Pargas.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Pargas.private.md) 
-- [Pargas.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Pargas.personal.md) 
-- [Pargas.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Pargas.secret.md) 

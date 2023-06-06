@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lampertheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.md) 
-- [Lampertheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.internal.md) 
-- [Lampertheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.protect.md) 
-- [Lampertheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.private.md) 
-- [Lampertheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.personal.md) 
-- [Lampertheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Lampertheim.secret.md) 

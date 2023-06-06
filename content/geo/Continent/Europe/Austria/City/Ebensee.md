@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ebensee](../../../../../../_public/geo/Continent/Europe/Austria/City/Ebensee.md) 
-- [Ebensee.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Ebensee.internal.md) 
-- [Ebensee.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Ebensee.protect.md) 
-- [Ebensee.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Ebensee.private.md) 
-- [Ebensee.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Ebensee.personal.md) 
-- [Ebensee.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Ebensee.secret.md) 

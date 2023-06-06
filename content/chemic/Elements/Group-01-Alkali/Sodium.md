@@ -37,10 +37,3 @@ title: Sodium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium)
 
-## Confidential Links & Embeds: 
-- [Sodium](../../../../_public/chemic/Elements/Group-01-Alkali/Sodium.md) 
-- [Sodium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Sodium.internal.md) 
-- [Sodium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Sodium.protect.md) 
-- [Sodium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Sodium.private.md) 
-- [Sodium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Sodium.personal.md) 
-- [Sodium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Sodium.secret.md) 

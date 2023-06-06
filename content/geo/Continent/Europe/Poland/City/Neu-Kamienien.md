@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neu-Kamienien](../../../../../../_public/geo/Continent/Europe/Poland/City/Neu-Kamienien.md) 
-- [Neu-Kamienien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neu-Kamienien.internal.md) 
-- [Neu-Kamienien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neu-Kamienien.protect.md) 
-- [Neu-Kamienien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neu-Kamienien.private.md) 
-- [Neu-Kamienien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neu-Kamienien.personal.md) 
-- [Neu-Kamienien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neu-Kamienien.secret.md) 

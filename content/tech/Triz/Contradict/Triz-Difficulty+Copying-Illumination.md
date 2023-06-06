@@ -19,10 +19,3 @@ title: Triz-Difficulty+Copying-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Copying-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.md) 
-- [Triz-Difficulty+Copying-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.internal.md) 
-- [Triz-Difficulty+Copying-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.protect.md) 
-- [Triz-Difficulty+Copying-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.private.md) 
-- [Triz-Difficulty+Copying-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.personal.md) 
-- [Triz-Difficulty+Copying-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Copying-Illumination.secret.md) 

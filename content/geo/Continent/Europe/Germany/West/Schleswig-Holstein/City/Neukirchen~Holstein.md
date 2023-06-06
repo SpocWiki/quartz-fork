@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neukirchen~Holstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.md) 
-- [Neukirchen~Holstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.internal.md) 
-- [Neukirchen~Holstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.protect.md) 
-- [Neukirchen~Holstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.private.md) 
-- [Neukirchen~Holstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.personal.md) 
-- [Neukirchen~Holstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neukirchen~Holstein.secret.md) 

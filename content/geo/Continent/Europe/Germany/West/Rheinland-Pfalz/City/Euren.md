@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Euren](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Euren.md) 
-- [Euren.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Euren.internal.md) 
-- [Euren.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Euren.protect.md) 
-- [Euren.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Euren.private.md) 
-- [Euren.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Euren.personal.md) 
-- [Euren.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Euren.secret.md) 

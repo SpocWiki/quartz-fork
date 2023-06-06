@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Remiremont](../../../../../../_public/geo/Continent/Europe/France/City/Remiremont.md) 
-- [Remiremont.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Remiremont.internal.md) 
-- [Remiremont.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Remiremont.protect.md) 
-- [Remiremont.private](../../../../../../_private/geo/Continent/Europe/France/City/Remiremont.private.md) 
-- [Remiremont.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Remiremont.personal.md) 
-- [Remiremont.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Remiremont.secret.md) 

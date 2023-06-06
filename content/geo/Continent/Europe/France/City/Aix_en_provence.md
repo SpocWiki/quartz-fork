@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aix_en_provence](../../../../../../_public/geo/Continent/Europe/France/City/Aix_en_provence.md) 
-- [Aix_en_provence.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Aix_en_provence.internal.md) 
-- [Aix_en_provence.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Aix_en_provence.protect.md) 
-- [Aix_en_provence.private](../../../../../../_private/geo/Continent/Europe/France/City/Aix_en_provence.private.md) 
-- [Aix_en_provence.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Aix_en_provence.personal.md) 
-- [Aix_en_provence.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Aix_en_provence.secret.md) 

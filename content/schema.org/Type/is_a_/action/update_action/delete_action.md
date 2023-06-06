@@ -43,10 +43,3 @@ The act of editing a recipient by removing one of its objects.
 
 
 
-## Confidential Links & Embeds: 
-- [delete_action](../../../../../../_public/schema.org/Type/is_a_/action/update_action/delete_action.md) 
-- [delete_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/update_action/delete_action.internal.md) 
-- [delete_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/update_action/delete_action.protect.md) 
-- [delete_action.private](../../../../../../_private/schema.org/Type/is_a_/action/update_action/delete_action.private.md) 
-- [delete_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/update_action/delete_action.personal.md) 
-- [delete_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/update_action/delete_action.secret.md) 

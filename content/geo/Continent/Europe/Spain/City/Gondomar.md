@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gondomar](../../../../../../_public/geo/Continent/Europe/Spain/City/Gondomar.md) 
-- [Gondomar.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Gondomar.internal.md) 
-- [Gondomar.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Gondomar.protect.md) 
-- [Gondomar.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Gondomar.private.md) 
-- [Gondomar.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Gondomar.personal.md) 
-- [Gondomar.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Gondomar.secret.md) 

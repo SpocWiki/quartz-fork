@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Isny](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Isny.md) 
-- [Isny.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Isny.internal.md) 
-- [Isny.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Isny.protect.md) 
-- [Isny.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Isny.private.md) 
-- [Isny.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Isny.personal.md) 
-- [Isny.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Isny.secret.md) 

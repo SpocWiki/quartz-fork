@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Perovsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Perovsk.md) 
-- [Perovsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Perovsk.internal.md) 
-- [Perovsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Perovsk.protect.md) 
-- [Perovsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Perovsk.private.md) 
-- [Perovsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Perovsk.personal.md) 
-- [Perovsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Perovsk.secret.md) 

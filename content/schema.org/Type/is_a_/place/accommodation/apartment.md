@@ -43,10 +43,3 @@ An apartment (in American English) or flat (in British English) is a self-contai
 
 
 
-## Confidential Links & Embeds: 
-- [apartment](../../../../../../_public/schema.org/Type/is_a_/place/accommodation/apartment.md) 
-- [apartment.internal](../../../../../../_internal/schema.org/Type/is_a_/place/accommodation/apartment.internal.md) 
-- [apartment.protect](../../../../../../_protect/schema.org/Type/is_a_/place/accommodation/apartment.protect.md) 
-- [apartment.private](../../../../../../_private/schema.org/Type/is_a_/place/accommodation/apartment.private.md) 
-- [apartment.personal](../../../../../../_personal/schema.org/Type/is_a_/place/accommodation/apartment.personal.md) 
-- [apartment.secret](../../../../../../_secret/schema.org/Type/is_a_/place/accommodation/apartment.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pielavesi](../../../../../../_public/geo/Continent/Europe/Finland/City/Pielavesi.md) 
-- [Pielavesi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Pielavesi.internal.md) 
-- [Pielavesi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Pielavesi.protect.md) 
-- [Pielavesi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Pielavesi.private.md) 
-- [Pielavesi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Pielavesi.personal.md) 
-- [Pielavesi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Pielavesi.secret.md) 

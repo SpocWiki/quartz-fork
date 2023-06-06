@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Duncon](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Duncon.md) 
-- [Duncon.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Duncon.internal.md) 
-- [Duncon.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Duncon.protect.md) 
-- [Duncon.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Duncon.private.md) 
-- [Duncon.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Duncon.personal.md) 
-- [Duncon.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Duncon.secret.md) 

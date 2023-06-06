@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Miswalde](../../../../../../_public/geo/Continent/Europe/Poland/City/Miswalde.md) 
-- [Miswalde.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Miswalde.internal.md) 
-- [Miswalde.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Miswalde.protect.md) 
-- [Miswalde.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Miswalde.private.md) 
-- [Miswalde.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Miswalde.personal.md) 
-- [Miswalde.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Miswalde.secret.md) 

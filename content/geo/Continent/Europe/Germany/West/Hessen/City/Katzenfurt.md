@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Katzenfurt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.md) 
-- [Katzenfurt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.internal.md) 
-- [Katzenfurt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.protect.md) 
-- [Katzenfurt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.private.md) 
-- [Katzenfurt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.personal.md) 
-- [Katzenfurt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Katzenfurt.secret.md) 

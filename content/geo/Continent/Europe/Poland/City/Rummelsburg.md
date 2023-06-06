@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rummelsburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Rummelsburg.md) 
-- [Rummelsburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rummelsburg.internal.md) 
-- [Rummelsburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rummelsburg.protect.md) 
-- [Rummelsburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rummelsburg.private.md) 
-- [Rummelsburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rummelsburg.personal.md) 
-- [Rummelsburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rummelsburg.secret.md) 

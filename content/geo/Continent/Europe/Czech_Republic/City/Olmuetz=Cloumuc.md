@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Olmuetz=Cloumuc](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.md) 
-- [Olmuetz=Cloumuc.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.internal.md) 
-- [Olmuetz=Cloumuc.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.protect.md) 
-- [Olmuetz=Cloumuc.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.private.md) 
-- [Olmuetz=Cloumuc.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.personal.md) 
-- [Olmuetz=Cloumuc.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.secret.md) 

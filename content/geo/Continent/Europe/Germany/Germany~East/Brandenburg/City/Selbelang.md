@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Selbelang](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.md) 
-- [Selbelang.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.internal.md) 
-- [Selbelang.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.protect.md) 
-- [Selbelang.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.private.md) 
-- [Selbelang.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.personal.md) 
-- [Selbelang.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Selbelang.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bedretto](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bedretto.md) 
-- [Bedretto.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bedretto.internal.md) 
-- [Bedretto.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bedretto.protect.md) 
-- [Bedretto.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bedretto.private.md) 
-- [Bedretto.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bedretto.personal.md) 
-- [Bedretto.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bedretto.secret.md) 

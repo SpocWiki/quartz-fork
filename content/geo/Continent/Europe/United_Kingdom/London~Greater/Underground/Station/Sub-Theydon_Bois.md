@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Theydon_Bois](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.md) 
-- [Sub-Theydon_Bois.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.internal.md) 
-- [Sub-Theydon_Bois.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.protect.md) 
-- [Sub-Theydon_Bois.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.private.md) 
-- [Sub-Theydon_Bois.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.personal.md) 
-- [Sub-Theydon_Bois.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Theydon_Bois.secret.md) 

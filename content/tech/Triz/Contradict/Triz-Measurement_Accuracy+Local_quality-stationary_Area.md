@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Local_quality-stationary_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Local_quality-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-stationary_Area.md) 
-- [Triz-Measurement_Accuracy+Local_quality-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-stationary_Area.internal.md) 
-- [Triz-Measurement_Accuracy+Local_quality-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-stationary_Area.protect.md) 
-- [Triz-Measurement_Accuracy+Local_quality-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-stationary_Area.private.md) 
-- [Triz-Measurement_Accuracy+Local_quality-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-stationary_Area.personal.md) 
-- [Triz-Measurement_Accuracy+Local_quality-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-stationary_Area.secret.md) 

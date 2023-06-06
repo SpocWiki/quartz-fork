@@ -19,10 +19,3 @@ title: Triz-Temperature+Moving_to_a_new_dimension-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Moving_to_a_new_dimension-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.md) 
-- [Triz-Temperature+Moving_to_a_new_dimension-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.internal.md) 
-- [Triz-Temperature+Moving_to_a_new_dimension-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.protect.md) 
-- [Triz-Temperature+Moving_to_a_new_dimension-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.private.md) 
-- [Triz-Temperature+Moving_to_a_new_dimension-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.personal.md) 
-- [Triz-Temperature+Moving_to_a_new_dimension-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Moving_to_a_new_dimension-Quantity.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Worbis](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Worbis.md) 
-- [Worbis.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Worbis.internal.md) 
-- [Worbis.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Worbis.protect.md) 
-- [Worbis.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Worbis.private.md) 
-- [Worbis.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Worbis.personal.md) 
-- [Worbis.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Worbis.secret.md) 

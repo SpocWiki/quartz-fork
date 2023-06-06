@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grozny](../../../../../../_public/geo/Continent/Europe/Russia/City/Grozny.md) 
-- [Grozny.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Grozny.internal.md) 
-- [Grozny.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Grozny.protect.md) 
-- [Grozny.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Grozny.private.md) 
-- [Grozny.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Grozny.personal.md) 
-- [Grozny.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Grozny.secret.md) 

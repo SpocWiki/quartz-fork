@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aquileja](../../../../../../_public/geo/Continent/Europe/Italy/City/Aquileja.md) 
-- [Aquileja.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Aquileja.internal.md) 
-- [Aquileja.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Aquileja.protect.md) 
-- [Aquileja.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Aquileja.private.md) 
-- [Aquileja.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Aquileja.personal.md) 
-- [Aquileja.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Aquileja.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Osmussaar](../../../../../../_public/geo/Continent/Europe/Russia/City/Osmussaar.md) 
-- [Osmussaar.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Osmussaar.internal.md) 
-- [Osmussaar.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Osmussaar.protect.md) 
-- [Osmussaar.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Osmussaar.private.md) 
-- [Osmussaar.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Osmussaar.personal.md) 
-- [Osmussaar.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Osmussaar.secret.md) 

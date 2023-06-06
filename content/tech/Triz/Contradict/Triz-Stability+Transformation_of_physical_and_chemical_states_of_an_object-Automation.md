@@ -19,10 +19,3 @@ title: Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_objec
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation](../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.internal.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.protect.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.private.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.personal.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Automation.secret.md) 

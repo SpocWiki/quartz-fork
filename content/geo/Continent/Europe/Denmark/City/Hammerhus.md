@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hammerhus](../../../../../../_public/geo/Continent/Europe/Denmark/City/Hammerhus.md) 
-- [Hammerhus.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Hammerhus.internal.md) 
-- [Hammerhus.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Hammerhus.protect.md) 
-- [Hammerhus.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Hammerhus.private.md) 
-- [Hammerhus.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Hammerhus.personal.md) 
-- [Hammerhus.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Hammerhus.secret.md) 

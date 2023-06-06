@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kinsale](../../../../../../_public/geo/Continent/Europe/Ireland/City/Kinsale.md) 
-- [Kinsale.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Kinsale.internal.md) 
-- [Kinsale.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Kinsale.protect.md) 
-- [Kinsale.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Kinsale.private.md) 
-- [Kinsale.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Kinsale.personal.md) 
-- [Kinsale.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Kinsale.secret.md) 

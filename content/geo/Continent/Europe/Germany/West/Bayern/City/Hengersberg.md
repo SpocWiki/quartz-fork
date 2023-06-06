@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hengersberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hengersberg.md) 
-- [Hengersberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hengersberg.internal.md) 
-- [Hengersberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hengersberg.protect.md) 
-- [Hengersberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hengersberg.private.md) 
-- [Hengersberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hengersberg.personal.md) 
-- [Hengersberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hengersberg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weisswampach](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Weisswampach.md) 
-- [Weisswampach.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Weisswampach.internal.md) 
-- [Weisswampach.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Weisswampach.protect.md) 
-- [Weisswampach.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Weisswampach.private.md) 
-- [Weisswampach.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Weisswampach.personal.md) 
-- [Weisswampach.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Weisswampach.secret.md) 

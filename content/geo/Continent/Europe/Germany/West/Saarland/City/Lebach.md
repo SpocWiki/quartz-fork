@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lebach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Lebach.md) 
-- [Lebach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Lebach.internal.md) 
-- [Lebach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Lebach.protect.md) 
-- [Lebach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Lebach.private.md) 
-- [Lebach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Lebach.personal.md) 
-- [Lebach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Lebach.secret.md) 

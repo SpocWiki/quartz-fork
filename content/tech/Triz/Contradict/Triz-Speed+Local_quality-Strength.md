@@ -19,10 +19,3 @@ title: Triz-Speed+Local_quality-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Local_quality-Strength](../../../../_public/tech/Triz/Contradict/Triz-Speed+Local_quality-Strength.md) 
-- [Triz-Speed+Local_quality-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Local_quality-Strength.internal.md) 
-- [Triz-Speed+Local_quality-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Local_quality-Strength.protect.md) 
-- [Triz-Speed+Local_quality-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Local_quality-Strength.private.md) 
-- [Triz-Speed+Local_quality-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Local_quality-Strength.personal.md) 
-- [Triz-Speed+Local_quality-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Local_quality-Strength.secret.md) 

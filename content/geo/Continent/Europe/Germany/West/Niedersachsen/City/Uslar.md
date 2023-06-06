@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uslar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uslar.md) 
-- [Uslar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uslar.internal.md) 
-- [Uslar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uslar.protect.md) 
-- [Uslar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uslar.private.md) 
-- [Uslar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uslar.personal.md) 
-- [Uslar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uslar.secret.md) 

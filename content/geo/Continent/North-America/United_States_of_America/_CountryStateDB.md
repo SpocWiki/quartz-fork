@@ -320,10 +320,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_CountryStateDB](../../../../../_public/geo/Continent/North-America/United_States_of_America/_CountryStateDB.md) 
-- [_CountryStateDB.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/_CountryStateDB.internal.md) 
-- [_CountryStateDB.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/_CountryStateDB.protect.md) 
-- [_CountryStateDB.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/_CountryStateDB.private.md) 
-- [_CountryStateDB.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/_CountryStateDB.personal.md) 
-- [_CountryStateDB.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/_CountryStateDB.secret.md) 

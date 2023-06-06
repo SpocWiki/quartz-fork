@@ -45,10 +45,3 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 
 
-## Confidential Links & Embeds: 
-- [gastroenterologic](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.md) 
-- [gastroenterologic.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.internal.md) 
-- [gastroenterologic.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.protect.md) 
-- [gastroenterologic.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.private.md) 
-- [gastroenterologic.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.personal.md) 
-- [gastroenterologic.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/gastroenterologic.secret.md) 

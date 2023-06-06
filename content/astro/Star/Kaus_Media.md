@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Kaus_Media](../../../_public/astro/Star/Kaus_Media.md) 
-- [Kaus_Media.internal](../../../_internal/astro/Star/Kaus_Media.internal.md) 
-- [Kaus_Media.protect](../../../_protect/astro/Star/Kaus_Media.protect.md) 
-- [Kaus_Media.private](../../../_private/astro/Star/Kaus_Media.private.md) 
-- [Kaus_Media.personal](../../../_personal/astro/Star/Kaus_Media.personal.md) 
-- [Kaus_Media.secret](../../../_secret/astro/Star/Kaus_Media.secret.md)
-

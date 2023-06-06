@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Worksop](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Worksop.md) 
-- [Worksop.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Worksop.internal.md) 
-- [Worksop.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Worksop.protect.md) 
-- [Worksop.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Worksop.private.md) 
-- [Worksop.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Worksop.personal.md) 
-- [Worksop.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Worksop.secret.md) 

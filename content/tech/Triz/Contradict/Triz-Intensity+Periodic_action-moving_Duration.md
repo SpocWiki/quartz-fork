@@ -19,10 +19,3 @@ title: Triz-Intensity+Periodic_action-moving_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Periodic_action-moving_Duration](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.md) 
-- [Triz-Intensity+Periodic_action-moving_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.internal.md) 
-- [Triz-Intensity+Periodic_action-moving_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.protect.md) 
-- [Triz-Intensity+Periodic_action-moving_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.private.md) 
-- [Triz-Intensity+Periodic_action-moving_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.personal.md) 
-- [Triz-Intensity+Periodic_action-moving_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Duration.secret.md) 

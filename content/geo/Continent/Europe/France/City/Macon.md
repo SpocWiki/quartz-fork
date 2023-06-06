@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Macon](../../../../../../_public/geo/Continent/Europe/France/City/Macon.md) 
-- [Macon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Macon.internal.md) 
-- [Macon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Macon.protect.md) 
-- [Macon.private](../../../../../../_private/geo/Continent/Europe/France/City/Macon.private.md) 
-- [Macon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Macon.personal.md) 
-- [Macon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Macon.secret.md) 

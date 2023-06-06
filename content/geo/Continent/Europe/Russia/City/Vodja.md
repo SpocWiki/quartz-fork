@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vodja](../../../../../../_public/geo/Continent/Europe/Russia/City/Vodja.md) 
-- [Vodja.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vodja.internal.md) 
-- [Vodja.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vodja.protect.md) 
-- [Vodja.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vodja.private.md) 
-- [Vodja.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vodja.personal.md) 
-- [Vodja.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vodja.secret.md) 

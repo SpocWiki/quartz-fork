@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Große_Nelkenstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gro%C3%9Fe_Nelkenstra%C3%9Fe.md) 
-- [U-Große_Nelkenstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gro%C3%9Fe_Nelkenstra%C3%9Fe.internal.md) 
-- [U-Große_Nelkenstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gro%C3%9Fe_Nelkenstra%C3%9Fe.protect.md) 
-- [U-Große_Nelkenstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gro%C3%9Fe_Nelkenstra%C3%9Fe.private.md) 
-- [U-Große_Nelkenstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gro%C3%9Fe_Nelkenstra%C3%9Fe.personal.md) 
-- [U-Große_Nelkenstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gro%C3%9Fe_Nelkenstra%C3%9Fe.secret.md) 

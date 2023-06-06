@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Scowen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Scowen.md) 
-- [Scowen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Scowen.internal.md) 
-- [Scowen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Scowen.protect.md) 
-- [Scowen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Scowen.private.md) 
-- [Scowen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Scowen.personal.md) 
-- [Scowen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Scowen.secret.md) 

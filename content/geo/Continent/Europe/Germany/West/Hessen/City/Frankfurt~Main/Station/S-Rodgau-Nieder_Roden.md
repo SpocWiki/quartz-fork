@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Rodgau-Nieder_Roden](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Nieder_Roden.md) 
-- [S-Rodgau-Nieder_Roden.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Nieder_Roden.internal.md) 
-- [S-Rodgau-Nieder_Roden.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Nieder_Roden.protect.md) 
-- [S-Rodgau-Nieder_Roden.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Nieder_Roden.private.md) 
-- [S-Rodgau-Nieder_Roden.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Nieder_Roden.personal.md) 
-- [S-Rodgau-Nieder_Roden.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Nieder_Roden.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seegutten](../../../../../../_public/geo/Continent/Europe/Poland/City/Seegutten.md) 
-- [Seegutten.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Seegutten.internal.md) 
-- [Seegutten.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Seegutten.protect.md) 
-- [Seegutten.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Seegutten.private.md) 
-- [Seegutten.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Seegutten.personal.md) 
-- [Seegutten.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Seegutten.secret.md) 

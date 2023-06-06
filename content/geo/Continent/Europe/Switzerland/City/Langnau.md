@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langnau](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Langnau.md) 
-- [Langnau.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Langnau.internal.md) 
-- [Langnau.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Langnau.protect.md) 
-- [Langnau.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Langnau.private.md) 
-- [Langnau.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Langnau.personal.md) 
-- [Langnau.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Langnau.secret.md) 

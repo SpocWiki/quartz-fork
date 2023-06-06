@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Neuenahr](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Neuenahr.md) 
-- [Bad_Neuenahr.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Neuenahr.internal.md) 
-- [Bad_Neuenahr.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Neuenahr.protect.md) 
-- [Bad_Neuenahr.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Neuenahr.private.md) 
-- [Bad_Neuenahr.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Neuenahr.personal.md) 
-- [Bad_Neuenahr.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bad_Neuenahr.secret.md) 

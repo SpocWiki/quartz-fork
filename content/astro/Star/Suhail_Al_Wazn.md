@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Suhail_Al_Wazn](../../../_public/astro/Star/Suhail_Al_Wazn.md) 
-- [Suhail_Al_Wazn.internal](../../../_internal/astro/Star/Suhail_Al_Wazn.internal.md) 
-- [Suhail_Al_Wazn.protect](../../../_protect/astro/Star/Suhail_Al_Wazn.protect.md) 
-- [Suhail_Al_Wazn.private](../../../_private/astro/Star/Suhail_Al_Wazn.private.md) 
-- [Suhail_Al_Wazn.personal](../../../_personal/astro/Star/Suhail_Al_Wazn.personal.md) 
-- [Suhail_Al_Wazn.secret](../../../_secret/astro/Star/Suhail_Al_Wazn.secret.md) 

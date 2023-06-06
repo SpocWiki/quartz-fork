@@ -119,7 +119,7 @@ markerFolder: ./Armenia/City
 [VehicleCode::ARM]
 [Capital::[Yerevan](geo/Continent/Asia/Armenia/City/Yerevan.md)]
 ![350](geo/Continent/Asia/Armenia/Coat_of_arms_of_Armenia.svg)
-![Anthem-Armenia](xLarge/National-Anthem/Anthem-Armenia.mp3)
+[Anthem-Armenia](xLarge/National-Anthem/Anthem-Armenia.mp3)
 ![350](geo/Continent/Asia/Armenia/Flag_of_Armenia.svg)
 [Alcohol-l::11.4]
 [Language-Id::]
@@ -128,10 +128,3 @@ markerFolder: ./Armenia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Armenia](../../../../_public/geo/Continent/Asia/Armenia.md) 
-- [Armenia.internal](../../../../_internal/geo/Continent/Asia/Armenia.internal.md) 
-- [Armenia.protect](../../../../_protect/geo/Continent/Asia/Armenia.protect.md) 
-- [Armenia.private](../../../../_private/geo/Continent/Asia/Armenia.private.md) 
-- [Armenia.personal](../../../../_personal/geo/Continent/Asia/Armenia.personal.md) 
-- [Armenia.secret](../../../../_secret/geo/Continent/Asia/Armenia.secret.md) 

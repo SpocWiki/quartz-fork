@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_child_max_age](../../../../_public/schema.org/Predicate/Quantities/has_value_for_child_max_age.md) 
-- [has_value_for_child_max_age.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_child_max_age.internal.md) 
-- [has_value_for_child_max_age.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_child_max_age.protect.md) 
-- [has_value_for_child_max_age.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_child_max_age.private.md) 
-- [has_value_for_child_max_age.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_child_max_age.personal.md) 
-- [has_value_for_child_max_age.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_child_max_age.secret.md) 

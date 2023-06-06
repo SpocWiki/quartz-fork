@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klukhari](../../../../../../_public/geo/Continent/Europe/Russia/City/Klukhari.md) 
-- [Klukhari.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Klukhari.internal.md) 
-- [Klukhari.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Klukhari.protect.md) 
-- [Klukhari.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Klukhari.private.md) 
-- [Klukhari.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Klukhari.personal.md) 
-- [Klukhari.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Klukhari.secret.md) 

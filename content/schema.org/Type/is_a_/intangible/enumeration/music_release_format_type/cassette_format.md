@@ -45,10 +45,3 @@ CassetteFormat.
 
 
 
-## Confidential Links & Embeds: 
-- [cassette_format](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.md) 
-- [cassette_format.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.internal.md) 
-- [cassette_format.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.protect.md) 
-- [cassette_format.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.private.md) 
-- [cassette_format.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.personal.md) 
-- [cassette_format.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwabenitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.md) 
-- [Schwabenitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.internal.md) 
-- [Schwabenitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.protect.md) 
-- [Schwabenitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.private.md) 
-- [Schwabenitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.personal.md) 
-- [Schwabenitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.secret.md) 

@@ -43,10 +43,3 @@ A service which provides access to media programming like TV or radio. Access ma
 
 
 
-## Confidential Links & Embeds: 
-- [cable_or_satellite_service](../../../../../../_public/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.md) 
-- [cable_or_satellite_service.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.internal.md) 
-- [cable_or_satellite_service.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.protect.md) 
-- [cable_or_satellite_service.private](../../../../../../_private/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.private.md) 
-- [cable_or_satellite_service.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.personal.md) 
-- [cable_or_satellite_service.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.secret.md) 

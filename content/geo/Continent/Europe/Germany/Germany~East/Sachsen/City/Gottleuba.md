@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gottleuba](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gottleuba.md) 
-- [Gottleuba.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gottleuba.internal.md) 
-- [Gottleuba.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gottleuba.protect.md) 
-- [Gottleuba.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gottleuba.private.md) 
-- [Gottleuba.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gottleuba.personal.md) 
-- [Gottleuba.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gottleuba.secret.md) 

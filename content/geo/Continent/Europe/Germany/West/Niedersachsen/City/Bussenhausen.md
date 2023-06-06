@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bussenhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.md) 
-- [Bussenhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.internal.md) 
-- [Bussenhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.protect.md) 
-- [Bussenhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.private.md) 
-- [Bussenhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.personal.md) 
-- [Bussenhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bussenhausen.secret.md) 

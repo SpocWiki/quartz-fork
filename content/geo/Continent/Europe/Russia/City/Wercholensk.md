@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wercholensk](../../../../../../_public/geo/Continent/Europe/Russia/City/Wercholensk.md) 
-- [Wercholensk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Wercholensk.internal.md) 
-- [Wercholensk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Wercholensk.protect.md) 
-- [Wercholensk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Wercholensk.private.md) 
-- [Wercholensk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Wercholensk.personal.md) 
-- [Wercholensk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Wercholensk.secret.md) 

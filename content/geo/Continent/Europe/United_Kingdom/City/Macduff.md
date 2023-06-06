@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Macduff](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Macduff.md) 
-- [Macduff.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Macduff.internal.md) 
-- [Macduff.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Macduff.protect.md) 
-- [Macduff.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Macduff.private.md) 
-- [Macduff.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Macduff.personal.md) 
-- [Macduff.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Macduff.secret.md) 

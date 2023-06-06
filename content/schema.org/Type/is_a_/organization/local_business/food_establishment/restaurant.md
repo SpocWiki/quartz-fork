@@ -43,10 +43,3 @@ A restaurant.
 
 
 
-## Confidential Links & Embeds: 
-- [restaurant](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.md) 
-- [restaurant.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.internal.md) 
-- [restaurant.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.protect.md) 
-- [restaurant.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.private.md) 
-- [restaurant.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.personal.md) 
-- [restaurant.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pontevedra](../../../../../../_public/geo/Continent/Europe/Spain/City/Pontevedra.md) 
-- [Pontevedra.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Pontevedra.internal.md) 
-- [Pontevedra.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Pontevedra.protect.md) 
-- [Pontevedra.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Pontevedra.private.md) 
-- [Pontevedra.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Pontevedra.personal.md) 
-- [Pontevedra.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Pontevedra.secret.md) 

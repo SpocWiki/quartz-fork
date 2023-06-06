@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soedarskaes](../../../../../../_public/geo/Continent/Europe/Finland/City/Soedarskaes.md) 
-- [Soedarskaes.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Soedarskaes.internal.md) 
-- [Soedarskaes.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Soedarskaes.protect.md) 
-- [Soedarskaes.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Soedarskaes.private.md) 
-- [Soedarskaes.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Soedarskaes.personal.md) 
-- [Soedarskaes.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Soedarskaes.secret.md) 

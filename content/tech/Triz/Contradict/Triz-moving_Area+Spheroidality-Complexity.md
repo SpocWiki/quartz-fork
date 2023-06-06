@@ -19,10 +19,3 @@ title: Triz-moving_Area+Spheroidality-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Spheroidality-Complexity](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.md) 
-- [Triz-moving_Area+Spheroidality-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.internal.md) 
-- [Triz-moving_Area+Spheroidality-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.protect.md) 
-- [Triz-moving_Area+Spheroidality-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.private.md) 
-- [Triz-moving_Area+Spheroidality-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.personal.md) 
-- [Triz-moving_Area+Spheroidality-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Complexity.secret.md) 

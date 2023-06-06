@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Yed_Prior](../../../_public/astro/Star/Yed_Prior.md) 
-- [Yed_Prior.internal](../../../_internal/astro/Star/Yed_Prior.internal.md) 
-- [Yed_Prior.protect](../../../_protect/astro/Star/Yed_Prior.protect.md) 
-- [Yed_Prior.private](../../../_private/astro/Star/Yed_Prior.private.md) 
-- [Yed_Prior.personal](../../../_personal/astro/Star/Yed_Prior.personal.md) 
-- [Yed_Prior.secret](../../../_secret/astro/Star/Yed_Prior.secret.md) 

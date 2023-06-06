@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_date_of_scheduled_payment](../../../../_public/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.md) 
-- [has_date_of_scheduled_payment.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.internal.md) 
-- [has_date_of_scheduled_payment.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.protect.md) 
-- [has_date_of_scheduled_payment.private](../../../../_private/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.private.md) 
-- [has_date_of_scheduled_payment.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.personal.md) 
-- [has_date_of_scheduled_payment.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_date_of_scheduled_payment.secret.md) 

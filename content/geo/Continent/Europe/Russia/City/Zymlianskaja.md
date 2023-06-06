@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zymlianskaja](../../../../../../_public/geo/Continent/Europe/Russia/City/Zymlianskaja.md) 
-- [Zymlianskaja.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zymlianskaja.internal.md) 
-- [Zymlianskaja.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zymlianskaja.protect.md) 
-- [Zymlianskaja.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zymlianskaja.private.md) 
-- [Zymlianskaja.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zymlianskaja.personal.md) 
-- [Zymlianskaja.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zymlianskaja.secret.md) 

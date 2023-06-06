@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Michendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Michendorf.md) 
-- [Michendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Michendorf.internal.md) 
-- [Michendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Michendorf.protect.md) 
-- [Michendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Michendorf.private.md) 
-- [Michendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Michendorf.personal.md) 
-- [Michendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Michendorf.secret.md) 

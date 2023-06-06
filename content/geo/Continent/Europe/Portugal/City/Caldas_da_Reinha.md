@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Caldas_da_Reinha](../../../../../../_public/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.md) 
-- [Caldas_da_Reinha.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.internal.md) 
-- [Caldas_da_Reinha.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.protect.md) 
-- [Caldas_da_Reinha.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.private.md) 
-- [Caldas_da_Reinha.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.personal.md) 
-- [Caldas_da_Reinha.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Caldas_da_Reinha.secret.md) 

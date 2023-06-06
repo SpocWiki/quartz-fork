@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alessandria](../../../../../../_public/geo/Continent/Europe/Italy/City/Alessandria.md) 
-- [Alessandria.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Alessandria.internal.md) 
-- [Alessandria.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Alessandria.protect.md) 
-- [Alessandria.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Alessandria.private.md) 
-- [Alessandria.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Alessandria.personal.md) 
-- [Alessandria.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Alessandria.secret.md) 

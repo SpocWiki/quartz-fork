@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mohacs](../../../../../../_public/geo/Continent/Europe/Hungary/City/Mohacs.md) 
-- [Mohacs.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Mohacs.internal.md) 
-- [Mohacs.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Mohacs.protect.md) 
-- [Mohacs.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Mohacs.private.md) 
-- [Mohacs.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Mohacs.personal.md) 
-- [Mohacs.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Mohacs.secret.md) 

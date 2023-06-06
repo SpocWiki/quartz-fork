@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Changing_the_color-moving_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Weight](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.internal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.protect.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.private.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.personal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Weight.secret.md) 

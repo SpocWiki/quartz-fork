@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Rigel](../../../_public/astro/Star/Rigel.md) 
-- [Rigel.internal](../../../_internal/astro/Star/Rigel.internal.md) 
-- [Rigel.protect](../../../_protect/astro/Star/Rigel.protect.md) 
-- [Rigel.private](../../../_private/astro/Star/Rigel.private.md) 
-- [Rigel.personal](../../../_personal/astro/Star/Rigel.personal.md) 
-- [Rigel.secret](../../../_secret/astro/Star/Rigel.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chatelleroult](../../../../../../_public/geo/Continent/Europe/France/City/Chatelleroult.md) 
-- [Chatelleroult.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chatelleroult.internal.md) 
-- [Chatelleroult.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chatelleroult.protect.md) 
-- [Chatelleroult.private](../../../../../../_private/geo/Continent/Europe/France/City/Chatelleroult.private.md) 
-- [Chatelleroult.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chatelleroult.personal.md) 
-- [Chatelleroult.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chatelleroult.secret.md) 

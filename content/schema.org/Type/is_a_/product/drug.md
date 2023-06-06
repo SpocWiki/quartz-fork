@@ -45,10 +45,3 @@ A chemical or biologic substance, used as a medical therapy, that has a physiolo
 
 
 
-## Confidential Links & Embeds: 
-- [drug](../../../../../_public/schema.org/Type/is_a_/product/drug.md) 
-- [drug.internal](../../../../../_internal/schema.org/Type/is_a_/product/drug.internal.md) 
-- [drug.protect](../../../../../_protect/schema.org/Type/is_a_/product/drug.protect.md) 
-- [drug.private](../../../../../_private/schema.org/Type/is_a_/product/drug.private.md) 
-- [drug.personal](../../../../../_personal/schema.org/Type/is_a_/product/drug.personal.md) 
-- [drug.secret](../../../../../_secret/schema.org/Type/is_a_/product/drug.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Askhabad](../../../../../../_public/geo/Continent/Europe/Russia/City/Askhabad.md) 
-- [Askhabad.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Askhabad.internal.md) 
-- [Askhabad.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Askhabad.protect.md) 
-- [Askhabad.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Askhabad.private.md) 
-- [Askhabad.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Askhabad.personal.md) 
-- [Askhabad.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Askhabad.secret.md) 

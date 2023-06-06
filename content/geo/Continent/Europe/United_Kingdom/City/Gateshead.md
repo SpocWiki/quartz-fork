@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gateshead](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Gateshead.md) 
-- [Gateshead.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gateshead.internal.md) 
-- [Gateshead.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gateshead.protect.md) 
-- [Gateshead.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gateshead.private.md) 
-- [Gateshead.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gateshead.personal.md) 
-- [Gateshead.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gateshead.secret.md) 

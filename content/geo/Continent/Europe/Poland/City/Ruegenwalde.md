@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ruegenwalde](../../../../../../_public/geo/Continent/Europe/Poland/City/Ruegenwalde.md) 
-- [Ruegenwalde.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ruegenwalde.internal.md) 
-- [Ruegenwalde.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ruegenwalde.protect.md) 
-- [Ruegenwalde.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ruegenwalde.private.md) 
-- [Ruegenwalde.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ruegenwalde.personal.md) 
-- [Ruegenwalde.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ruegenwalde.secret.md) 

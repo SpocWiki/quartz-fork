@@ -19,10 +19,3 @@ title: Triz-Automation+Feedback-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Feedback-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Automation+Feedback-Energy-Loss.md) 
-- [Triz-Automation+Feedback-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Feedback-Energy-Loss.internal.md) 
-- [Triz-Automation+Feedback-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Feedback-Energy-Loss.protect.md) 
-- [Triz-Automation+Feedback-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Feedback-Energy-Loss.private.md) 
-- [Triz-Automation+Feedback-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Feedback-Energy-Loss.personal.md) 
-- [Triz-Automation+Feedback-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Feedback-Energy-Loss.secret.md) 

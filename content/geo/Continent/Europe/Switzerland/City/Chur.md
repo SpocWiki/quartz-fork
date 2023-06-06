@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chur](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chur.md) 
-- [Chur.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chur.internal.md) 
-- [Chur.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chur.protect.md) 
-- [Chur.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chur.private.md) 
-- [Chur.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chur.personal.md) 
-- [Chur.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chur.secret.md) 

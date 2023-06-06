@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sarau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sarau.md) 
-- [Sarau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sarau.internal.md) 
-- [Sarau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sarau.protect.md) 
-- [Sarau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sarau.private.md) 
-- [Sarau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sarau.personal.md) 
-- [Sarau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sarau.secret.md) 

@@ -125,10 +125,3 @@ markerFolder: ./Cayman_Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [Cayman~Islands](../../../../_public/geo/Continent/South-America/Cayman~Islands.md) 
-- [Cayman~Islands.internal](../../../../_internal/geo/Continent/South-America/Cayman~Islands.internal.md) 
-- [Cayman~Islands.protect](../../../../_protect/geo/Continent/South-America/Cayman~Islands.protect.md) 
-- [Cayman~Islands.private](../../../../_private/geo/Continent/South-America/Cayman~Islands.private.md) 
-- [Cayman~Islands.personal](../../../../_personal/geo/Continent/South-America/Cayman~Islands.personal.md) 
-- [Cayman~Islands.secret](../../../../_secret/geo/Continent/South-America/Cayman~Islands.secret.md) 

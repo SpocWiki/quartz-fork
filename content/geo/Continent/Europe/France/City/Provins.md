@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Provins](../../../../../../_public/geo/Continent/Europe/France/City/Provins.md) 
-- [Provins.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Provins.internal.md) 
-- [Provins.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Provins.protect.md) 
-- [Provins.private](../../../../../../_private/geo/Continent/Europe/France/City/Provins.private.md) 
-- [Provins.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Provins.personal.md) 
-- [Provins.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Provins.secret.md) 

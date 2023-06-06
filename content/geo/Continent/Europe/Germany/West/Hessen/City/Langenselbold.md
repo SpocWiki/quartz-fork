@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langenselbold](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Langenselbold.md) 
-- [Langenselbold.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Langenselbold.internal.md) 
-- [Langenselbold.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Langenselbold.protect.md) 
-- [Langenselbold.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Langenselbold.private.md) 
-- [Langenselbold.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Langenselbold.personal.md) 
-- [Langenselbold.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Langenselbold.secret.md) 

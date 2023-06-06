@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [New_Mexico](../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Mexico.md) 
-- [New_Mexico.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Mexico.internal.md) 
-- [New_Mexico.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Mexico.protect.md) 
-- [New_Mexico.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Mexico.private.md) 
-- [New_Mexico.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Mexico.personal.md) 
-- [New_Mexico.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Mexico.secret.md) 

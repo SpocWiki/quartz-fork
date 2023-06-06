@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Padstow](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Padstow.md) 
-- [Padstow.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Padstow.internal.md) 
-- [Padstow.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Padstow.protect.md) 
-- [Padstow.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Padstow.private.md) 
-- [Padstow.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Padstow.personal.md) 
-- [Padstow.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Padstow.secret.md) 

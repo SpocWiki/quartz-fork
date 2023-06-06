@@ -19,10 +19,3 @@ title: Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation](../../../../_public/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.md) 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.internal.md) 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.protect.md) 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.private.md) 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.personal.md) 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.secret.md) 

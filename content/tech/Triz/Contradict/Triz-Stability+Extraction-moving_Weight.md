@@ -19,10 +19,3 @@ title: Triz-Stability+Extraction-moving_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Extraction-moving_Weight](../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.md) 
-- [Triz-Stability+Extraction-moving_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.internal.md) 
-- [Triz-Stability+Extraction-moving_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.protect.md) 
-- [Triz-Stability+Extraction-moving_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.private.md) 
-- [Triz-Stability+Extraction-moving_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.personal.md) 
-- [Triz-Stability+Extraction-moving_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Extraction-moving_Weight.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kola](../../../../../../_public/geo/Continent/Europe/Russia/City/Kola.md) 
-- [Kola.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kola.internal.md) 
-- [Kola.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kola.protect.md) 
-- [Kola.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kola.private.md) 
-- [Kola.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kola.personal.md) 
-- [Kola.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kola.secret.md) 

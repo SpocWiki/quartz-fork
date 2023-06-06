@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Steenwijk](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Steenwijk.md) 
-- [Steenwijk.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Steenwijk.internal.md) 
-- [Steenwijk.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Steenwijk.protect.md) 
-- [Steenwijk.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Steenwijk.private.md) 
-- [Steenwijk.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Steenwijk.personal.md) 
-- [Steenwijk.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Steenwijk.secret.md) 

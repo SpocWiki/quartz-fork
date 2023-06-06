@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenig](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Koenig.md) 
-- [Koenig.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Koenig.internal.md) 
-- [Koenig.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Koenig.protect.md) 
-- [Koenig.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Koenig.private.md) 
-- [Koenig.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Koenig.personal.md) 
-- [Koenig.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Koenig.secret.md) 

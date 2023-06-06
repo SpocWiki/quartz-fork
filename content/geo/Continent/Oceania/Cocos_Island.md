@@ -36,10 +36,3 @@ markerFolder: ./Cocos_Island/City
 
 
 
-## Confidential Links & Embeds: 
-- [Cocos_Island](../../../../_public/geo/Continent/Oceania/Cocos_Island.md) 
-- [Cocos_Island.internal](../../../../_internal/geo/Continent/Oceania/Cocos_Island.internal.md) 
-- [Cocos_Island.protect](../../../../_protect/geo/Continent/Oceania/Cocos_Island.protect.md) 
-- [Cocos_Island.private](../../../../_private/geo/Continent/Oceania/Cocos_Island.private.md) 
-- [Cocos_Island.personal](../../../../_personal/geo/Continent/Oceania/Cocos_Island.personal.md) 
-- [Cocos_Island.secret](../../../../_secret/geo/Continent/Oceania/Cocos_Island.secret.md) 

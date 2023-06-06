@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strasburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Strasburg.md) 
-- [Strasburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Strasburg.internal.md) 
-- [Strasburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Strasburg.protect.md) 
-- [Strasburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Strasburg.private.md) 
-- [Strasburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Strasburg.personal.md) 
-- [Strasburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Strasburg.secret.md) 

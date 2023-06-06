@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Carrara](../../../../../../_public/geo/Continent/Europe/Italy/City/Carrara.md) 
-- [Carrara.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Carrara.internal.md) 
-- [Carrara.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Carrara.protect.md) 
-- [Carrara.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Carrara.private.md) 
-- [Carrara.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Carrara.personal.md) 
-- [Carrara.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Carrara.secret.md) 

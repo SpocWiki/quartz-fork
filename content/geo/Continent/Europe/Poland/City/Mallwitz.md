@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mallwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Mallwitz.md) 
-- [Mallwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Mallwitz.internal.md) 
-- [Mallwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Mallwitz.protect.md) 
-- [Mallwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Mallwitz.private.md) 
-- [Mallwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Mallwitz.personal.md) 
-- [Mallwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Mallwitz.secret.md) 

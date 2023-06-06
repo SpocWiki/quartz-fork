@@ -43,10 +43,3 @@ A dance group&#x2014;for example, the Alvin Ailey Dance Theater or Riverdance.
 
 
 
-## Confidential Links & Embeds: 
-- [dance_group](../../../../../../_public/schema.org/Type/is_a_/organization/performing_group/dance_group.md) 
-- [dance_group.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/performing_group/dance_group.internal.md) 
-- [dance_group.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/performing_group/dance_group.protect.md) 
-- [dance_group.private](../../../../../../_private/schema.org/Type/is_a_/organization/performing_group/dance_group.private.md) 
-- [dance_group.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/performing_group/dance_group.personal.md) 
-- [dance_group.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/performing_group/dance_group.secret.md) 

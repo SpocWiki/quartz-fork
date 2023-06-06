@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nortrup](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortrup.md) 
-- [Nortrup.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortrup.internal.md) 
-- [Nortrup.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortrup.protect.md) 
-- [Nortrup.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortrup.private.md) 
-- [Nortrup.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortrup.personal.md) 
-- [Nortrup.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortrup.secret.md) 

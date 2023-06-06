@@ -19,10 +19,3 @@ title: Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.md) 
-- [Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.internal.md) 
-- [Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.protect.md) 
-- [Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.private.md) 
-- [Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.personal.md) 
-- [Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Use_a_pneumatic_or_hydralic_construction-Power.secret.md) 

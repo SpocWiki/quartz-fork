@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_value_required](../../../../_public/schema.org/Predicate/Flags/is_value_required.md) 
-- [is_value_required.internal](../../../../_internal/schema.org/Predicate/Flags/is_value_required.internal.md) 
-- [is_value_required.protect](../../../../_protect/schema.org/Predicate/Flags/is_value_required.protect.md) 
-- [is_value_required.private](../../../../_private/schema.org/Predicate/Flags/is_value_required.private.md) 
-- [is_value_required.personal](../../../../_personal/schema.org/Predicate/Flags/is_value_required.personal.md) 
-- [is_value_required.secret](../../../../_secret/schema.org/Predicate/Flags/is_value_required.secret.md) 

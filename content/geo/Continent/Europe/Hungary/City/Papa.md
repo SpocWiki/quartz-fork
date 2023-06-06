@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Papa](../../../../../../_public/geo/Continent/Europe/Hungary/City/Papa.md) 
-- [Papa.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Papa.internal.md) 
-- [Papa.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Papa.protect.md) 
-- [Papa.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Papa.private.md) 
-- [Papa.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Papa.personal.md) 
-- [Papa.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Papa.secret.md) 

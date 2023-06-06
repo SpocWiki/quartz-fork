@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Travna](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Travna.md) 
-- [Travna.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Travna.internal.md) 
-- [Travna.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Travna.protect.md) 
-- [Travna.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Travna.private.md) 
-- [Travna.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Travna.personal.md) 
-- [Travna.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Travna.secret.md) 

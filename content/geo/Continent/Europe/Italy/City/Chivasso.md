@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chivasso](../../../../../../_public/geo/Continent/Europe/Italy/City/Chivasso.md) 
-- [Chivasso.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Chivasso.internal.md) 
-- [Chivasso.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Chivasso.protect.md) 
-- [Chivasso.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Chivasso.private.md) 
-- [Chivasso.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Chivasso.personal.md) 
-- [Chivasso.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Chivasso.secret.md) 

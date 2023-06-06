@@ -19,10 +19,3 @@ title: Triz-affected_harm+Homogeneity-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Homogeneity-Automation](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.md) 
-- [Triz-affected_harm+Homogeneity-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.internal.md) 
-- [Triz-affected_harm+Homogeneity-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.protect.md) 
-- [Triz-affected_harm+Homogeneity-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.private.md) 
-- [Triz-affected_harm+Homogeneity-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.personal.md) 
-- [Triz-affected_harm+Homogeneity-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Automation.secret.md) 

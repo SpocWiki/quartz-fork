@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_child_taxon](../../../../../_public/schema.org/Predicate/Relations/has/has_child_taxon.md) 
-- [has_child_taxon.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_child_taxon.internal.md) 
-- [has_child_taxon.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_child_taxon.protect.md) 
-- [has_child_taxon.private](../../../../../_private/schema.org/Predicate/Relations/has/has_child_taxon.private.md) 
-- [has_child_taxon.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_child_taxon.personal.md) 
-- [has_child_taxon.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_child_taxon.secret.md) 

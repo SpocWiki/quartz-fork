@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Chalfont_&_Latimer](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalfont_&_Latimer.md) 
-- [Sub-Chalfont_&_Latimer.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalfont_&_Latimer.internal.md) 
-- [Sub-Chalfont_&_Latimer.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalfont_&_Latimer.protect.md) 
-- [Sub-Chalfont_&_Latimer.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalfont_&_Latimer.private.md) 
-- [Sub-Chalfont_&_Latimer.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalfont_&_Latimer.personal.md) 
-- [Sub-Chalfont_&_Latimer.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalfont_&_Latimer.secret.md) 

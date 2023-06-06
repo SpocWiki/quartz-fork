@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guels](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Guels.md) 
-- [Guels.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Guels.internal.md) 
-- [Guels.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Guels.protect.md) 
-- [Guels.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Guels.private.md) 
-- [Guels.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Guels.personal.md) 
-- [Guels.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Guels.secret.md) 

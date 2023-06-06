@@ -32,10 +32,3 @@ title: Hafnium
 
 
 
-## Confidential Links & Embeds: 
-- [Hafnium](../../../../_public/chemic/Elements/Group-04-Titanium/Hafnium.md) 
-- [Hafnium.internal](../../../../_internal/chemic/Elements/Group-04-Titanium/Hafnium.internal.md) 
-- [Hafnium.protect](../../../../_protect/chemic/Elements/Group-04-Titanium/Hafnium.protect.md) 
-- [Hafnium.private](../../../../_private/chemic/Elements/Group-04-Titanium/Hafnium.private.md) 
-- [Hafnium.personal](../../../../_personal/chemic/Elements/Group-04-Titanium/Hafnium.personal.md) 
-- [Hafnium.secret](../../../../_secret/chemic/Elements/Group-04-Titanium/Hafnium.secret.md) 

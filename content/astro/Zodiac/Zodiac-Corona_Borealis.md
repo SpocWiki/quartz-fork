@@ -15,10 +15,3 @@ confidential: public
 [name-de::Noerdliche Krone]
 
 
-## Confidential Links & Embeds: 
-- [Zodiac-Corona_Borealis](../../../_public/astro/Zodiac/Zodiac-Corona_Borealis.md) 
-- [Zodiac-Corona_Borealis.internal](../../../_internal/astro/Zodiac/Zodiac-Corona_Borealis.internal.md) 
-- [Zodiac-Corona_Borealis.protect](../../../_protect/astro/Zodiac/Zodiac-Corona_Borealis.protect.md) 
-- [Zodiac-Corona_Borealis.private](../../../_private/astro/Zodiac/Zodiac-Corona_Borealis.private.md) 
-- [Zodiac-Corona_Borealis.personal](../../../_personal/astro/Zodiac/Zodiac-Corona_Borealis.personal.md) 
-- [Zodiac-Corona_Borealis.secret](../../../_secret/astro/Zodiac/Zodiac-Corona_Borealis.secret.md) 

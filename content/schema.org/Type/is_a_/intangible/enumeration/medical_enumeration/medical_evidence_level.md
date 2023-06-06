@@ -41,10 +41,3 @@ Level of evidence for a medical guideline. Enumerated type.
 
 
 
-## Confidential Links & Embeds: 
-- [medical_evidence_level](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.md) 
-- [medical_evidence_level.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.internal.md) 
-- [medical_evidence_level.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.protect.md) 
-- [medical_evidence_level.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.private.md) 
-- [medical_evidence_level.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.personal.md) 
-- [medical_evidence_level.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.secret.md) 

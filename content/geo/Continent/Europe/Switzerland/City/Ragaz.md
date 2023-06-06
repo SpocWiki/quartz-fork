@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ragaz](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Ragaz.md) 
-- [Ragaz.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Ragaz.internal.md) 
-- [Ragaz.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Ragaz.protect.md) 
-- [Ragaz.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Ragaz.private.md) 
-- [Ragaz.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Ragaz.personal.md) 
-- [Ragaz.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Ragaz.secret.md) 

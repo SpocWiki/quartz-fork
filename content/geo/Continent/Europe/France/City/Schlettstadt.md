@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schlettstadt](../../../../../../_public/geo/Continent/Europe/France/City/Schlettstadt.md) 
-- [Schlettstadt.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Schlettstadt.internal.md) 
-- [Schlettstadt.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Schlettstadt.protect.md) 
-- [Schlettstadt.private](../../../../../../_private/geo/Continent/Europe/France/City/Schlettstadt.private.md) 
-- [Schlettstadt.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Schlettstadt.personal.md) 
-- [Schlettstadt.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Schlettstadt.secret.md) 

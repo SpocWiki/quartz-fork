@@ -19,10 +19,3 @@ title: Triz-Stress+Thermal_expansion-stationary_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Thermal_expansion-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.md) 
-- [Triz-Stress+Thermal_expansion-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.internal.md) 
-- [Triz-Stress+Thermal_expansion-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.protect.md) 
-- [Triz-Stress+Thermal_expansion-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.private.md) 
-- [Triz-Stress+Thermal_expansion-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.personal.md) 
-- [Triz-Stress+Thermal_expansion-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-stationary_Area.secret.md) 

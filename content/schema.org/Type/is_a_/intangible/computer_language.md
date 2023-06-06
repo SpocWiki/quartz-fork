@@ -43,10 +43,3 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 
 
 
-## Confidential Links & Embeds: 
-- [computer_language](../../../../../_public/schema.org/Type/is_a_/intangible/computer_language.md) 
-- [computer_language.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/computer_language.internal.md) 
-- [computer_language.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/computer_language.protect.md) 
-- [computer_language.private](../../../../../_private/schema.org/Type/is_a_/intangible/computer_language.private.md) 
-- [computer_language.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/computer_language.personal.md) 
-- [computer_language.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/computer_language.secret.md) 

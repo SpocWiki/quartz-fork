@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Vindemiatrix](../../../_public/astro/Star/Vindemiatrix.md) 
-- [Vindemiatrix.internal](../../../_internal/astro/Star/Vindemiatrix.internal.md) 
-- [Vindemiatrix.protect](../../../_protect/astro/Star/Vindemiatrix.protect.md) 
-- [Vindemiatrix.private](../../../_private/astro/Star/Vindemiatrix.private.md) 
-- [Vindemiatrix.personal](../../../_personal/astro/Star/Vindemiatrix.personal.md) 
-- [Vindemiatrix.secret](../../../_secret/astro/Star/Vindemiatrix.secret.md) 

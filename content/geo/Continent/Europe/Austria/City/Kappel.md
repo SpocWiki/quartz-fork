@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kappel](../../../../../../_public/geo/Continent/Europe/Austria/City/Kappel.md) 
-- [Kappel.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Kappel.internal.md) 
-- [Kappel.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Kappel.protect.md) 
-- [Kappel.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Kappel.private.md) 
-- [Kappel.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Kappel.personal.md) 
-- [Kappel.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Kappel.secret.md) 

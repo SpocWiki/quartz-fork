@@ -19,10 +19,3 @@ title: Triz-Intensity+Prior_counteracion-moving_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Prior_counteracion-moving_Volume](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.md) 
-- [Triz-Intensity+Prior_counteracion-moving_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.internal.md) 
-- [Triz-Intensity+Prior_counteracion-moving_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.protect.md) 
-- [Triz-Intensity+Prior_counteracion-moving_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.private.md) 
-- [Triz-Intensity+Prior_counteracion-moving_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.personal.md) 
-- [Triz-Intensity+Prior_counteracion-moving_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Prior_counteracion-moving_Volume.secret.md) 

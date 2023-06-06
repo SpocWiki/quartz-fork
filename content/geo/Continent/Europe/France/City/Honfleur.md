@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Honfleur](../../../../../../_public/geo/Continent/Europe/France/City/Honfleur.md) 
-- [Honfleur.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Honfleur.internal.md) 
-- [Honfleur.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Honfleur.protect.md) 
-- [Honfleur.private](../../../../../../_private/geo/Continent/Europe/France/City/Honfleur.private.md) 
-- [Honfleur.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Honfleur.personal.md) 
-- [Honfleur.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Honfleur.secret.md) 

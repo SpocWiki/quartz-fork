@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Novadoniskaia](../../../../../../_public/geo/Continent/Europe/Russia/City/Novadoniskaia.md) 
-- [Novadoniskaia.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Novadoniskaia.internal.md) 
-- [Novadoniskaia.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Novadoniskaia.protect.md) 
-- [Novadoniskaia.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Novadoniskaia.private.md) 
-- [Novadoniskaia.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Novadoniskaia.personal.md) 
-- [Novadoniskaia.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Novadoniskaia.secret.md) 

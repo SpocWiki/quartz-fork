@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-sta
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.md) 
-- [Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.internal.md) 
-- [Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.protect.md) 
-- [Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.private.md) 
-- [Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.personal.md) 
-- [Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Use_a_pneumatic_or_hydralic_construction-stationary_Area.secret.md) 

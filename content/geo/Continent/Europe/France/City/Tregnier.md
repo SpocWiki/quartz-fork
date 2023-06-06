@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tregnier](../../../../../../_public/geo/Continent/Europe/France/City/Tregnier.md) 
-- [Tregnier.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Tregnier.internal.md) 
-- [Tregnier.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Tregnier.protect.md) 
-- [Tregnier.private](../../../../../../_private/geo/Continent/Europe/France/City/Tregnier.private.md) 
-- [Tregnier.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Tregnier.personal.md) 
-- [Tregnier.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Tregnier.secret.md) 

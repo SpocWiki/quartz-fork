@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stoke-upon-Trent](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stoke-upon-Trent.md) 
-- [Stoke-upon-Trent.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stoke-upon-Trent.internal.md) 
-- [Stoke-upon-Trent.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stoke-upon-Trent.protect.md) 
-- [Stoke-upon-Trent.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stoke-upon-Trent.private.md) 
-- [Stoke-upon-Trent.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stoke-upon-Trent.personal.md) 
-- [Stoke-upon-Trent.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stoke-upon-Trent.secret.md) 

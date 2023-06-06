@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lengefeld](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lengefeld.md) 
-- [Lengefeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lengefeld.internal.md) 
-- [Lengefeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lengefeld.protect.md) 
-- [Lengefeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lengefeld.private.md) 
-- [Lengefeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lengefeld.personal.md) 
-- [Lengefeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lengefeld.secret.md) 

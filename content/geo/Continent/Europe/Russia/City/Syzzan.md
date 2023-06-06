@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Syzzan](../../../../../../_public/geo/Continent/Europe/Russia/City/Syzzan.md) 
-- [Syzzan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Syzzan.internal.md) 
-- [Syzzan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Syzzan.protect.md) 
-- [Syzzan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Syzzan.private.md) 
-- [Syzzan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Syzzan.personal.md) 
-- [Syzzan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Syzzan.secret.md) 

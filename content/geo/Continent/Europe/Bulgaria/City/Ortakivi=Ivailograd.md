@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ortakivi=Ivailograd](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.md) 
-- [Ortakivi=Ivailograd.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.internal.md) 
-- [Ortakivi=Ivailograd.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.protect.md) 
-- [Ortakivi=Ivailograd.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.private.md) 
-- [Ortakivi=Ivailograd.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.personal.md) 
-- [Ortakivi=Ivailograd.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Ortakivi=Ivailograd.secret.md) 

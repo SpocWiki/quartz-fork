@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sextantis-2](../../../_public/astro/Star/Sextantis-2.md) 
-- [Sextantis-2.internal](../../../_internal/astro/Star/Sextantis-2.internal.md) 
-- [Sextantis-2.protect](../../../_protect/astro/Star/Sextantis-2.protect.md) 
-- [Sextantis-2.private](../../../_private/astro/Star/Sextantis-2.private.md) 
-- [Sextantis-2.personal](../../../_personal/astro/Star/Sextantis-2.personal.md) 
-- [Sextantis-2.secret](../../../_secret/astro/Star/Sextantis-2.secret.md) 

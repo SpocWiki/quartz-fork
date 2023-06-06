@@ -19,10 +19,3 @@ title: Triz-Quantity+Local_quality-stationary_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Local_quality-stationary_Energy](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.md) 
-- [Triz-Quantity+Local_quality-stationary_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.internal.md) 
-- [Triz-Quantity+Local_quality-stationary_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.protect.md) 
-- [Triz-Quantity+Local_quality-stationary_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.private.md) 
-- [Triz-Quantity+Local_quality-stationary_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.personal.md) 
-- [Triz-Quantity+Local_quality-stationary_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Energy.secret.md) 

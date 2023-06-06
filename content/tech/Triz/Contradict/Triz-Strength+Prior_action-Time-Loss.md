@@ -19,10 +19,3 @@ title: Triz-Strength+Prior_action-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Prior_action-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.md) 
-- [Triz-Strength+Prior_action-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.internal.md) 
-- [Triz-Strength+Prior_action-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.protect.md) 
-- [Triz-Strength+Prior_action-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.private.md) 
-- [Triz-Strength+Prior_action-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.personal.md) 
-- [Triz-Strength+Prior_action-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Prior_action-Time-Loss.secret.md) 

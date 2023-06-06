@@ -19,10 +19,3 @@ title: Triz-Stability+Replacement_of_a_mechanical_system-moving_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Replacement_of_a_mechanical_system-moving_Length](../../../../_public/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.md) 
-- [Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.internal.md) 
-- [Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.protect.md) 
-- [Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.private.md) 
-- [Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.personal.md) 
-- [Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Replacement_of_a_mechanical_system-moving_Length.secret.md) 

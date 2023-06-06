@@ -45,10 +45,3 @@ A HyperToc represents a hypertext table of contents for complex media objects, s
 
 
 
-## Confidential Links & Embeds: 
-- [hyper_toc](../../../../../_public/schema.org/Type/is_a_/creative_work/hyper_toc.md) 
-- [hyper_toc.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/hyper_toc.internal.md) 
-- [hyper_toc.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/hyper_toc.protect.md) 
-- [hyper_toc.private](../../../../../_private/schema.org/Type/is_a_/creative_work/hyper_toc.private.md) 
-- [hyper_toc.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/hyper_toc.personal.md) 
-- [hyper_toc.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/hyper_toc.secret.md) 

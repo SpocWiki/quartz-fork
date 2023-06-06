@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Svaloev](../../../../../../_public/geo/Continent/Europe/Sweden/City/Svaloev.md) 
-- [Svaloev.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Svaloev.internal.md) 
-- [Svaloev.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Svaloev.protect.md) 
-- [Svaloev.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Svaloev.private.md) 
-- [Svaloev.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Svaloev.personal.md) 
-- [Svaloev.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Svaloev.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kongsberg](../../../../../../_public/geo/Continent/Europe/Norway/City/Kongsberg.md) 
-- [Kongsberg.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Kongsberg.internal.md) 
-- [Kongsberg.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Kongsberg.protect.md) 
-- [Kongsberg.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Kongsberg.private.md) 
-- [Kongsberg.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Kongsberg.personal.md) 
-- [Kongsberg.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Kongsberg.secret.md) 

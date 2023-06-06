@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Alfio](../../../../../../_public/geo/Continent/Europe/Italy/City/St.Alfio.md) 
-- [St.Alfio.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/St.Alfio.internal.md) 
-- [St.Alfio.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/St.Alfio.protect.md) 
-- [St.Alfio.private](../../../../../../_private/geo/Continent/Europe/Italy/City/St.Alfio.private.md) 
-- [St.Alfio.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/St.Alfio.personal.md) 
-- [St.Alfio.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/St.Alfio.secret.md) 

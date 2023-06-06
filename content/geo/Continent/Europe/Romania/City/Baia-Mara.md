@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baia-Mara](../../../../../../_public/geo/Continent/Europe/Romania/City/Baia-Mara.md) 
-- [Baia-Mara.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Baia-Mara.internal.md) 
-- [Baia-Mara.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Baia-Mara.protect.md) 
-- [Baia-Mara.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Baia-Mara.private.md) 
-- [Baia-Mara.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Baia-Mara.personal.md) 
-- [Baia-Mara.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Baia-Mara.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dunfermline](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dunfermline.md) 
-- [Dunfermline.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dunfermline.internal.md) 
-- [Dunfermline.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dunfermline.protect.md) 
-- [Dunfermline.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dunfermline.private.md) 
-- [Dunfermline.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dunfermline.personal.md) 
-- [Dunfermline.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dunfermline.secret.md) 

@@ -49,10 +49,3 @@ As a <a class="localLink" href="/LocalBusiness">LocalBusiness</a> it can be desc
 
 
 
-## Confidential Links & Embeds: 
-- [home_and_construction_business](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/home_and_construction_business.md) 
-- [home_and_construction_business.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business.internal.md) 
-- [home_and_construction_business.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/home_and_construction_business.protect.md) 
-- [home_and_construction_business.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/home_and_construction_business.private.md) 
-- [home_and_construction_business.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business.personal.md) 
-- [home_and_construction_business.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/home_and_construction_business.secret.md) 

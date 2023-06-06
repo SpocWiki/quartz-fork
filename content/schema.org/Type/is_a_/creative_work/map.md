@@ -43,10 +43,3 @@ A map.
 
 
 
-## Confidential Links & Embeds: 
-- [map](../../../../../_public/schema.org/Type/is_a_/creative_work/map.md) 
-- [map.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/map.internal.md) 
-- [map.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/map.protect.md) 
-- [map.private](../../../../../_private/schema.org/Type/is_a_/creative_work/map.private.md) 
-- [map.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/map.personal.md) 
-- [map.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/map.secret.md) 

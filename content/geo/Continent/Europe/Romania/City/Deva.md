@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Deva](../../../../../../_public/geo/Continent/Europe/Romania/City/Deva.md) 
-- [Deva.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Deva.internal.md) 
-- [Deva.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Deva.protect.md) 
-- [Deva.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Deva.private.md) 
-- [Deva.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Deva.personal.md) 
-- [Deva.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Deva.secret.md) 

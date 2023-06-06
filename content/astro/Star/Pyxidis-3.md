@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Pyxidis-3](../../../_public/astro/Star/Pyxidis-3.md) 
-- [Pyxidis-3.internal](../../../_internal/astro/Star/Pyxidis-3.internal.md) 
-- [Pyxidis-3.protect](../../../_protect/astro/Star/Pyxidis-3.protect.md) 
-- [Pyxidis-3.private](../../../_private/astro/Star/Pyxidis-3.private.md) 
-- [Pyxidis-3.personal](../../../_personal/astro/Star/Pyxidis-3.personal.md) 
-- [Pyxidis-3.secret](../../../_secret/astro/Star/Pyxidis-3.secret.md) 

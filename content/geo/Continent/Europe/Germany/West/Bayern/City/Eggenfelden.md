@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eggenfelden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Eggenfelden.md) 
-- [Eggenfelden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Eggenfelden.internal.md) 
-- [Eggenfelden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Eggenfelden.protect.md) 
-- [Eggenfelden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Eggenfelden.private.md) 
-- [Eggenfelden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Eggenfelden.personal.md) 
-- [Eggenfelden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Eggenfelden.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jelisawetpol](../../../../../../_public/geo/Continent/Europe/Russia/City/Jelisawetpol.md) 
-- [Jelisawetpol.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jelisawetpol.internal.md) 
-- [Jelisawetpol.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jelisawetpol.protect.md) 
-- [Jelisawetpol.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jelisawetpol.private.md) 
-- [Jelisawetpol.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jelisawetpol.personal.md) 
-- [Jelisawetpol.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jelisawetpol.secret.md) 

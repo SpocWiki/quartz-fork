@@ -19,10 +19,3 @@ title: Triz-Intensity+Prior_action-moving_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Prior_action-moving_Area](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Prior_action-moving_Area.md) 
-- [Triz-Intensity+Prior_action-moving_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Prior_action-moving_Area.internal.md) 
-- [Triz-Intensity+Prior_action-moving_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Prior_action-moving_Area.protect.md) 
-- [Triz-Intensity+Prior_action-moving_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Prior_action-moving_Area.private.md) 
-- [Triz-Intensity+Prior_action-moving_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Prior_action-moving_Area.personal.md) 
-- [Triz-Intensity+Prior_action-moving_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Prior_action-moving_Area.secret.md) 

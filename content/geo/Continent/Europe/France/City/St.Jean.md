@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Jean](../../../../../../_public/geo/Continent/Europe/France/City/St.Jean.md) 
-- [St.Jean.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Jean.internal.md) 
-- [St.Jean.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Jean.protect.md) 
-- [St.Jean.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Jean.private.md) 
-- [St.Jean.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Jean.personal.md) 
-- [St.Jean.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Jean.secret.md) 

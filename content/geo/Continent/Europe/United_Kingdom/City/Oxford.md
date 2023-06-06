@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oxford](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Oxford.md) 
-- [Oxford.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Oxford.internal.md) 
-- [Oxford.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Oxford.protect.md) 
-- [Oxford.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Oxford.private.md) 
-- [Oxford.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Oxford.personal.md) 
-- [Oxford.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Oxford.secret.md) 

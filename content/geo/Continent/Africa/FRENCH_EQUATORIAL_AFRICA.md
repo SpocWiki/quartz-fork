@@ -36,10 +36,3 @@ markerFolder: ./FRENCH_EQUATORIAL_AFRICA/City
 
 
 
-## Confidential Links & Embeds: 
-- [FRENCH_EQUATORIAL_AFRICA](../../../../_public/geo/Continent/Africa/FRENCH_EQUATORIAL_AFRICA.md) 
-- [FRENCH_EQUATORIAL_AFRICA.internal](../../../../_internal/geo/Continent/Africa/FRENCH_EQUATORIAL_AFRICA.internal.md) 
-- [FRENCH_EQUATORIAL_AFRICA.protect](../../../../_protect/geo/Continent/Africa/FRENCH_EQUATORIAL_AFRICA.protect.md) 
-- [FRENCH_EQUATORIAL_AFRICA.private](../../../../_private/geo/Continent/Africa/FRENCH_EQUATORIAL_AFRICA.private.md) 
-- [FRENCH_EQUATORIAL_AFRICA.personal](../../../../_personal/geo/Continent/Africa/FRENCH_EQUATORIAL_AFRICA.personal.md) 
-- [FRENCH_EQUATORIAL_AFRICA.secret](../../../../_secret/geo/Continent/Africa/FRENCH_EQUATORIAL_AFRICA.secret.md) 

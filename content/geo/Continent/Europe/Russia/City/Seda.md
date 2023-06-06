@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seda](../../../../../../_public/geo/Continent/Europe/Russia/City/Seda.md) 
-- [Seda.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Seda.internal.md) 
-- [Seda.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Seda.protect.md) 
-- [Seda.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Seda.private.md) 
-- [Seda.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Seda.personal.md) 
-- [Seda.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Seda.secret.md) 

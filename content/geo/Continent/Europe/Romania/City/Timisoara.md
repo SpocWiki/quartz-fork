@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Timisoara](../../../../../../_public/geo/Continent/Europe/Romania/City/Timisoara.md) 
-- [Timisoara.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Timisoara.internal.md) 
-- [Timisoara.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Timisoara.protect.md) 
-- [Timisoara.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Timisoara.private.md) 
-- [Timisoara.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Timisoara.personal.md) 
-- [Timisoara.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Timisoara.secret.md) 

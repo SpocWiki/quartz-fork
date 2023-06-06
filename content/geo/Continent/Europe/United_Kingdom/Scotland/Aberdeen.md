@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aberdeen](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.md) 
-- [Aberdeen.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.internal.md) 
-- [Aberdeen.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.protect.md) 
-- [Aberdeen.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.private.md) 
-- [Aberdeen.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.personal.md) 
-- [Aberdeen.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Aberdeen.secret.md) 

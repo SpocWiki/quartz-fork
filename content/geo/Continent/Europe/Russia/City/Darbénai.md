@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Darbénai](../../../../../../_public/geo/Continent/Europe/Russia/City/Darb%C3%A9nai.md) 
-- [Darbénai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Darb%C3%A9nai.internal.md) 
-- [Darbénai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Darb%C3%A9nai.protect.md) 
-- [Darbénai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Darb%C3%A9nai.private.md) 
-- [Darbénai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Darb%C3%A9nai.personal.md) 
-- [Darbénai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Darb%C3%A9nai.secret.md) 

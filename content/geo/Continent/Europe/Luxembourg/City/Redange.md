@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Redange](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Redange.md) 
-- [Redange.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Redange.internal.md) 
-- [Redange.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Redange.protect.md) 
-- [Redange.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Redange.private.md) 
-- [Redange.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Redange.personal.md) 
-- [Redange.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Redange.secret.md) 

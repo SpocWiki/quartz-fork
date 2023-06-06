@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mysore](../../../../../../_public/geo/Continent/Asia/India/City/Mysore.md) 
-- [Mysore.internal](../../../../../../_internal/geo/Continent/Asia/India/City/Mysore.internal.md) 
-- [Mysore.protect](../../../../../../_protect/geo/Continent/Asia/India/City/Mysore.protect.md) 
-- [Mysore.private](../../../../../../_private/geo/Continent/Asia/India/City/Mysore.private.md) 
-- [Mysore.personal](../../../../../../_personal/geo/Continent/Asia/India/City/Mysore.personal.md) 
-- [Mysore.secret](../../../../../../_secret/geo/Continent/Asia/India/City/Mysore.secret.md) 

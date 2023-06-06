@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koepenick](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.md) 
-- [Koepenick.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.internal.md) 
-- [Koepenick.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.protect.md) 
-- [Koepenick.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.private.md) 
-- [Koepenick.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.personal.md) 
-- [Koepenick.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Koepenick.secret.md) 

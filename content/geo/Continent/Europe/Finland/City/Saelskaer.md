@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saelskaer](../../../../../../_public/geo/Continent/Europe/Finland/City/Saelskaer.md) 
-- [Saelskaer.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Saelskaer.internal.md) 
-- [Saelskaer.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Saelskaer.protect.md) 
-- [Saelskaer.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Saelskaer.private.md) 
-- [Saelskaer.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Saelskaer.personal.md) 
-- [Saelskaer.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Saelskaer.secret.md) 

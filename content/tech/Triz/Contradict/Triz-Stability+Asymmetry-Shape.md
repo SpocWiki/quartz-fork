@@ -19,10 +19,3 @@ title: Triz-Stability+Asymmetry-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Asymmetry-Shape](../../../../_public/tech/Triz/Contradict/Triz-Stability+Asymmetry-Shape.md) 
-- [Triz-Stability+Asymmetry-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Asymmetry-Shape.internal.md) 
-- [Triz-Stability+Asymmetry-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Asymmetry-Shape.protect.md) 
-- [Triz-Stability+Asymmetry-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Asymmetry-Shape.private.md) 
-- [Triz-Stability+Asymmetry-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Asymmetry-Shape.personal.md) 
-- [Triz-Stability+Asymmetry-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Asymmetry-Shape.secret.md) 

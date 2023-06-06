@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saslave](../../../../../../_public/geo/Continent/Europe/Russia/City/Saslave.md) 
-- [Saslave.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Saslave.internal.md) 
-- [Saslave.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Saslave.protect.md) 
-- [Saslave.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Saslave.private.md) 
-- [Saslave.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Saslave.personal.md) 
-- [Saslave.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Saslave.secret.md) 

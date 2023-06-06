@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Albany](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.md) 
-- [Albany.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.internal.md) 
-- [Albany.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.protect.md) 
-- [Albany.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.private.md) 
-- [Albany.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.personal.md) 
-- [Albany.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/Albany.secret.md) 

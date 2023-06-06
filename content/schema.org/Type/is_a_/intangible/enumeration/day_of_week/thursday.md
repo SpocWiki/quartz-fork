@@ -45,10 +45,3 @@ The day of the week between Wednesday and Friday.
 
 
 
-## Confidential Links & Embeds: 
-- [thursday](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.md) 
-- [thursday.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.internal.md) 
-- [thursday.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.protect.md) 
-- [thursday.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.private.md) 
-- [thursday.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.personal.md) 
-- [thursday.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.secret.md) 

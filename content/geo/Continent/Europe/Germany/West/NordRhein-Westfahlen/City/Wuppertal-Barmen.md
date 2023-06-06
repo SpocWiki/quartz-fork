@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wuppertal-Barmen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Barmen.md) 
-- [Wuppertal-Barmen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Barmen.internal.md) 
-- [Wuppertal-Barmen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Barmen.protect.md) 
-- [Wuppertal-Barmen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Barmen.private.md) 
-- [Wuppertal-Barmen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Barmen.personal.md) 
-- [Wuppertal-Barmen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wuppertal-Barmen.secret.md) 

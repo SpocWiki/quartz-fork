@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cowes](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cowes.md) 
-- [Cowes.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cowes.internal.md) 
-- [Cowes.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cowes.protect.md) 
-- [Cowes.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cowes.private.md) 
-- [Cowes.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cowes.personal.md) 
-- [Cowes.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cowes.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schlabitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Schlabitz.md) 
-- [Schlabitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlabitz.internal.md) 
-- [Schlabitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlabitz.protect.md) 
-- [Schlabitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schlabitz.private.md) 
-- [Schlabitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlabitz.personal.md) 
-- [Schlabitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlabitz.secret.md) 

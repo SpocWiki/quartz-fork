@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oelschuetz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelschuetz.md) 
-- [Oelschuetz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelschuetz.internal.md) 
-- [Oelschuetz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelschuetz.protect.md) 
-- [Oelschuetz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelschuetz.private.md) 
-- [Oelschuetz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelschuetz.personal.md) 
-- [Oelschuetz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelschuetz.secret.md) 

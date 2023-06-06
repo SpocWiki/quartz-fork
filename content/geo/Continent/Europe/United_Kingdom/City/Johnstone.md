@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Johnstone](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Johnstone.md) 
-- [Johnstone.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Johnstone.internal.md) 
-- [Johnstone.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Johnstone.protect.md) 
-- [Johnstone.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Johnstone.private.md) 
-- [Johnstone.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Johnstone.personal.md) 
-- [Johnstone.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Johnstone.secret.md) 

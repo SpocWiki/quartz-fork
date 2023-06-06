@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brisbane](../../../../../../_public/geo/Continent/Australia/Australia/City/Brisbane.md) 
-- [Brisbane.internal](../../../../../../_internal/geo/Continent/Australia/Australia/City/Brisbane.internal.md) 
-- [Brisbane.protect](../../../../../../_protect/geo/Continent/Australia/Australia/City/Brisbane.protect.md) 
-- [Brisbane.private](../../../../../../_private/geo/Continent/Australia/Australia/City/Brisbane.private.md) 
-- [Brisbane.personal](../../../../../../_personal/geo/Continent/Australia/Australia/City/Brisbane.personal.md) 
-- [Brisbane.secret](../../../../../../_secret/geo/Continent/Australia/Australia/City/Brisbane.secret.md) 

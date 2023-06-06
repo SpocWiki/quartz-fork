@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Segré](../../../../../../_public/geo/Continent/Europe/France/City/Segr%C3%A9.md) 
-- [Segré.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Segr%C3%A9.internal.md) 
-- [Segré.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Segr%C3%A9.protect.md) 
-- [Segré.private](../../../../../../_private/geo/Continent/Europe/France/City/Segr%C3%A9.private.md) 
-- [Segré.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Segr%C3%A9.personal.md) 
-- [Segré.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Segr%C3%A9.secret.md) 

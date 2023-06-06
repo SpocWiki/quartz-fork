@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Seven_Sisters](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.md) 
-- [Sub-Seven_Sisters.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.internal.md) 
-- [Sub-Seven_Sisters.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.protect.md) 
-- [Sub-Seven_Sisters.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.private.md) 
-- [Sub-Seven_Sisters.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.personal.md) 
-- [Sub-Seven_Sisters.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Seven_Sisters.secret.md) 

@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_accommodation_floor_plan](../../../../../_public/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.md) 
-- [has_accommodation_floor_plan.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.internal.md) 
-- [has_accommodation_floor_plan.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.protect.md) 
-- [has_accommodation_floor_plan.private](../../../../../_private/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.private.md) 
-- [has_accommodation_floor_plan.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.personal.md) 
-- [has_accommodation_floor_plan.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.secret.md) 

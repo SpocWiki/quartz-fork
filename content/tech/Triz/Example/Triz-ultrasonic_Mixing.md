@@ -17,10 +17,3 @@ title: Triz-ultrasonic_Mixing
 
 Mixing Alloys in an Induction Furnace using ultrasonic Waves.
 
-## Confidential Links & Embeds: 
-- [Triz-ultrasonic_Mixing](../../../../_public/tech/Triz/Example/Triz-ultrasonic_Mixing.md) 
-- [Triz-ultrasonic_Mixing.internal](../../../../_internal/tech/Triz/Example/Triz-ultrasonic_Mixing.internal.md) 
-- [Triz-ultrasonic_Mixing.protect](../../../../_protect/tech/Triz/Example/Triz-ultrasonic_Mixing.protect.md) 
-- [Triz-ultrasonic_Mixing.private](../../../../_private/tech/Triz/Example/Triz-ultrasonic_Mixing.private.md) 
-- [Triz-ultrasonic_Mixing.personal](../../../../_personal/tech/Triz/Example/Triz-ultrasonic_Mixing.personal.md) 
-- [Triz-ultrasonic_Mixing.secret](../../../../_secret/tech/Triz/Example/Triz-ultrasonic_Mixing.secret.md) 

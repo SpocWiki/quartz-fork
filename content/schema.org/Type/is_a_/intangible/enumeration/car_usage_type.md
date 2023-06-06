@@ -43,10 +43,3 @@ A value indicating a special usage of a car, e.g. commercial rental, driving sch
 
 
 
-## Confidential Links & Embeds: 
-- [car_usage_type](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/car_usage_type.md) 
-- [car_usage_type.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/car_usage_type.internal.md) 
-- [car_usage_type.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/car_usage_type.protect.md) 
-- [car_usage_type.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/car_usage_type.private.md) 
-- [car_usage_type.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/car_usage_type.personal.md) 
-- [car_usage_type.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/car_usage_type.secret.md) 

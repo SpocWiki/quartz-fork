@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Lyrae-112](../../../_public/astro/Star/Lyrae-112.md) 
-- [Lyrae-112.internal](../../../_internal/astro/Star/Lyrae-112.internal.md) 
-- [Lyrae-112.protect](../../../_protect/astro/Star/Lyrae-112.protect.md) 
-- [Lyrae-112.private](../../../_private/astro/Star/Lyrae-112.private.md) 
-- [Lyrae-112.personal](../../../_personal/astro/Star/Lyrae-112.personal.md) 
-- [Lyrae-112.secret](../../../_secret/astro/Star/Lyrae-112.secret.md) 

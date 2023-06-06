@@ -45,10 +45,3 @@ Book format: Ebook.
 
 
 
-## Confidential Links & Embeds: 
-- [e_book](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/book_format_type/e_book.md) 
-- [e_book.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/e_book.internal.md) 
-- [e_book.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/book_format_type/e_book.protect.md) 
-- [e_book.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/book_format_type/e_book.private.md) 
-- [e_book.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/e_book.personal.md) 
-- [e_book.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/book_format_type/e_book.secret.md) 

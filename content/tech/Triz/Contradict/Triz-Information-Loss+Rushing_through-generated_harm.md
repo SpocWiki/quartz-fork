@@ -19,10 +19,3 @@ title: Triz-Information-Loss+Rushing_through-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Information-Loss+Rushing_through-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Rushing_through-generated_harm.md) 
-- [Triz-Information-Loss+Rushing_through-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Rushing_through-generated_harm.internal.md) 
-- [Triz-Information-Loss+Rushing_through-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Rushing_through-generated_harm.protect.md) 
-- [Triz-Information-Loss+Rushing_through-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Rushing_through-generated_harm.private.md) 
-- [Triz-Information-Loss+Rushing_through-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Rushing_through-generated_harm.personal.md) 
-- [Triz-Information-Loss+Rushing_through-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Rushing_through-generated_harm.secret.md) 

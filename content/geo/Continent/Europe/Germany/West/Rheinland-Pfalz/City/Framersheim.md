@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Framersheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.md) 
-- [Framersheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.internal.md) 
-- [Framersheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.protect.md) 
-- [Framersheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.private.md) 
-- [Framersheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.personal.md) 
-- [Framersheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Framersheim.secret.md) 

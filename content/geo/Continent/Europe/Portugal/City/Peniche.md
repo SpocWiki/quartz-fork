@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peniche](../../../../../../_public/geo/Continent/Europe/Portugal/City/Peniche.md) 
-- [Peniche.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Peniche.internal.md) 
-- [Peniche.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Peniche.protect.md) 
-- [Peniche.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Peniche.private.md) 
-- [Peniche.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Peniche.personal.md) 
-- [Peniche.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Peniche.secret.md) 

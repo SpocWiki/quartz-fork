@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_first_performance](../../../../../_public/schema.org/Predicate/Relations/has/has_first_performance.md) 
-- [has_first_performance.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_first_performance.internal.md) 
-- [has_first_performance.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_first_performance.protect.md) 
-- [has_first_performance.private](../../../../../_private/schema.org/Predicate/Relations/has/has_first_performance.private.md) 
-- [has_first_performance.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_first_performance.personal.md) 
-- [has_first_performance.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_first_performance.secret.md) 

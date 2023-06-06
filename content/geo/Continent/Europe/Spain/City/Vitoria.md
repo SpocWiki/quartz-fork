@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vitoria](../../../../../../_public/geo/Continent/Europe/Spain/City/Vitoria.md) 
-- [Vitoria.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Vitoria.internal.md) 
-- [Vitoria.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Vitoria.protect.md) 
-- [Vitoria.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Vitoria.private.md) 
-- [Vitoria.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Vitoria.personal.md) 
-- [Vitoria.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Vitoria.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Burkhardsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Burkhardsdorf.md) 
-- [Burkhardsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Burkhardsdorf.internal.md) 
-- [Burkhardsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Burkhardsdorf.protect.md) 
-- [Burkhardsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Burkhardsdorf.private.md) 
-- [Burkhardsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Burkhardsdorf.personal.md) 
-- [Burkhardsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Burkhardsdorf.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldsassen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Waldsassen.md) 
-- [Waldsassen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waldsassen.internal.md) 
-- [Waldsassen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waldsassen.protect.md) 
-- [Waldsassen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waldsassen.private.md) 
-- [Waldsassen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Waldsassen.personal.md) 
-- [Waldsassen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Waldsassen.secret.md) 

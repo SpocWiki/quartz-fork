@@ -45,10 +45,3 @@ A <a class="localLink" href="/comment">comment</a> that corrects <a class="local
 
 
 
-## Confidential Links & Embeds: 
-- [correction_comment](../../../../../../_public/schema.org/Type/is_a_/creative_work/comment/correction_comment.md) 
-- [correction_comment.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/comment/correction_comment.internal.md) 
-- [correction_comment.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/comment/correction_comment.protect.md) 
-- [correction_comment.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/comment/correction_comment.private.md) 
-- [correction_comment.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/comment/correction_comment.personal.md) 
-- [correction_comment.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/comment/correction_comment.secret.md) 

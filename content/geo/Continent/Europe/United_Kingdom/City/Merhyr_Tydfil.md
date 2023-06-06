@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Merhyr_Tydfil](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.md) 
-- [Merhyr_Tydfil.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.internal.md) 
-- [Merhyr_Tydfil.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.protect.md) 
-- [Merhyr_Tydfil.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.private.md) 
-- [Merhyr_Tydfil.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.personal.md) 
-- [Merhyr_Tydfil.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Merhyr_Tydfil.secret.md) 

@@ -43,10 +43,3 @@ A photograph.
 
 
 
-## Confidential Links & Embeds: 
-- [photograph](../../../../../_public/schema.org/Type/is_a_/creative_work/photograph.md) 
-- [photograph.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/photograph.internal.md) 
-- [photograph.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/photograph.protect.md) 
-- [photograph.private](../../../../../_private/schema.org/Type/is_a_/creative_work/photograph.private.md) 
-- [photograph.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/photograph.personal.md) 
-- [photograph.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/photograph.secret.md) 

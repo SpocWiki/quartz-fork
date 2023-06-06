@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_down_payment](../../../../_public/schema.org/Predicate/Quantities/has_value_for_down_payment.md) 
-- [has_value_for_down_payment.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_down_payment.internal.md) 
-- [has_value_for_down_payment.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_down_payment.protect.md) 
-- [has_value_for_down_payment.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_down_payment.private.md) 
-- [has_value_for_down_payment.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_down_payment.personal.md) 
-- [has_value_for_down_payment.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_down_payment.secret.md) 

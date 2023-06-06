@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Issoire](../../../../../../_public/geo/Continent/Europe/France/City/Issoire.md) 
-- [Issoire.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Issoire.internal.md) 
-- [Issoire.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Issoire.protect.md) 
-- [Issoire.private](../../../../../../_private/geo/Continent/Europe/France/City/Issoire.private.md) 
-- [Issoire.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Issoire.personal.md) 
-- [Issoire.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Issoire.secret.md) 

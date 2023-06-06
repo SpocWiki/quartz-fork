@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kristiansand](../../../../../../_public/geo/Continent/Europe/Norway/City/Kristiansand.md) 
-- [Kristiansand.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Kristiansand.internal.md) 
-- [Kristiansand.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Kristiansand.protect.md) 
-- [Kristiansand.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Kristiansand.private.md) 
-- [Kristiansand.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Kristiansand.personal.md) 
-- [Kristiansand.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Kristiansand.secret.md) 

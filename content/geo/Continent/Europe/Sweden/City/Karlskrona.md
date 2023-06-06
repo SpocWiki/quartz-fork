@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karlskrona](../../../../../../_public/geo/Continent/Europe/Sweden/City/Karlskrona.md) 
-- [Karlskrona.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Karlskrona.internal.md) 
-- [Karlskrona.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Karlskrona.protect.md) 
-- [Karlskrona.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Karlskrona.private.md) 
-- [Karlskrona.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Karlskrona.personal.md) 
-- [Karlskrona.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Karlskrona.secret.md) 

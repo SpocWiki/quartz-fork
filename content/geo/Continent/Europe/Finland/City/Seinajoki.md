@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seinajoki](../../../../../../_public/geo/Continent/Europe/Finland/City/Seinajoki.md) 
-- [Seinajoki.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Seinajoki.internal.md) 
-- [Seinajoki.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Seinajoki.protect.md) 
-- [Seinajoki.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Seinajoki.private.md) 
-- [Seinajoki.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Seinajoki.personal.md) 
-- [Seinajoki.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Seinajoki.secret.md) 

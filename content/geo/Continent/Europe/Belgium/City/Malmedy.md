@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Malmedy](../../../../../../_public/geo/Continent/Europe/Belgium/City/Malmedy.md) 
-- [Malmedy.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Malmedy.internal.md) 
-- [Malmedy.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Malmedy.protect.md) 
-- [Malmedy.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Malmedy.private.md) 
-- [Malmedy.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Malmedy.personal.md) 
-- [Malmedy.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Malmedy.secret.md) 

@@ -45,10 +45,3 @@ Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, rad
 
 
 
-## Confidential Links & Embeds: 
-- [molecular_entity](../../../../../_public/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.md) 
-- [molecular_entity.internal](../../../../../_internal/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.internal.md) 
-- [molecular_entity.protect](../../../../../_protect/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.protect.md) 
-- [molecular_entity.private](../../../../../_private/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.private.md) 
-- [molecular_entity.personal](../../../../../_personal/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.personal.md) 
-- [molecular_entity.secret](../../../../../_secret/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.secret.md) 

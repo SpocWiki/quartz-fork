@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Agin-Buryat~Okrug](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Agin-Buryat~Okrug.md) 
-- [State-Agin-Buryat~Okrug.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Agin-Buryat~Okrug.internal.md) 
-- [State-Agin-Buryat~Okrug.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Agin-Buryat~Okrug.protect.md) 
-- [State-Agin-Buryat~Okrug.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Agin-Buryat~Okrug.private.md) 
-- [State-Agin-Buryat~Okrug.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Agin-Buryat~Okrug.personal.md) 
-- [State-Agin-Buryat~Okrug.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Agin-Buryat~Okrug.secret.md) 

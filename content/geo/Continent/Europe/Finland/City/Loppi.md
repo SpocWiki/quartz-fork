@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loppi](../../../../../../_public/geo/Continent/Europe/Finland/City/Loppi.md) 
-- [Loppi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Loppi.internal.md) 
-- [Loppi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Loppi.protect.md) 
-- [Loppi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Loppi.private.md) 
-- [Loppi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Loppi.personal.md) 
-- [Loppi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Loppi.secret.md) 

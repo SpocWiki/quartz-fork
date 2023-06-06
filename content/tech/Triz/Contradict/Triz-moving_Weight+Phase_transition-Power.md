@@ -19,10 +19,3 @@ title: Triz-moving_Weight+Phase_transition-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Weight+Phase_transition-Power](../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.md) 
-- [Triz-moving_Weight+Phase_transition-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.internal.md) 
-- [Triz-moving_Weight+Phase_transition-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.protect.md) 
-- [Triz-moving_Weight+Phase_transition-Power.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.private.md) 
-- [Triz-moving_Weight+Phase_transition-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.personal.md) 
-- [Triz-moving_Weight+Phase_transition-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Power.secret.md) 

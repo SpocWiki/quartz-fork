@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hermanitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hermanitz.md) 
-- [Hermanitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hermanitz.internal.md) 
-- [Hermanitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hermanitz.protect.md) 
-- [Hermanitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hermanitz.private.md) 
-- [Hermanitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hermanitz.personal.md) 
-- [Hermanitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hermanitz.secret.md) 

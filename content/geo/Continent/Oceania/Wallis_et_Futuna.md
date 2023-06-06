@@ -36,10 +36,3 @@ markerFolder: ./Wallis_et_Futuna/City
 
 
 
-## Confidential Links & Embeds: 
-- [Wallis_et_Futuna](../../../../_public/geo/Continent/Oceania/Wallis_et_Futuna.md) 
-- [Wallis_et_Futuna.internal](../../../../_internal/geo/Continent/Oceania/Wallis_et_Futuna.internal.md) 
-- [Wallis_et_Futuna.protect](../../../../_protect/geo/Continent/Oceania/Wallis_et_Futuna.protect.md) 
-- [Wallis_et_Futuna.private](../../../../_private/geo/Continent/Oceania/Wallis_et_Futuna.private.md) 
-- [Wallis_et_Futuna.personal](../../../../_personal/geo/Continent/Oceania/Wallis_et_Futuna.personal.md) 
-- [Wallis_et_Futuna.secret](../../../../_secret/geo/Continent/Oceania/Wallis_et_Futuna.secret.md) 

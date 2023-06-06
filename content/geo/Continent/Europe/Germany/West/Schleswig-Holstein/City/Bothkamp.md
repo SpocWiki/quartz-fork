@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bothkamp](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.md) 
-- [Bothkamp.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.internal.md) 
-- [Bothkamp.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.protect.md) 
-- [Bothkamp.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.private.md) 
-- [Bothkamp.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.personal.md) 
-- [Bothkamp.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bothkamp.secret.md) 

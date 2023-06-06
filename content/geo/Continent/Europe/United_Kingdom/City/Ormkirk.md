@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ormkirk](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ormkirk.md) 
-- [Ormkirk.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ormkirk.internal.md) 
-- [Ormkirk.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ormkirk.protect.md) 
-- [Ormkirk.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ormkirk.private.md) 
-- [Ormkirk.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ormkirk.personal.md) 
-- [Ormkirk.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ormkirk.secret.md) 

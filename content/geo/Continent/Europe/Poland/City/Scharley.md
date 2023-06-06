@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Scharley](../../../../../../_public/geo/Continent/Europe/Poland/City/Scharley.md) 
-- [Scharley.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Scharley.internal.md) 
-- [Scharley.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Scharley.protect.md) 
-- [Scharley.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Scharley.private.md) 
-- [Scharley.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Scharley.personal.md) 
-- [Scharley.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Scharley.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Locarno](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Locarno.md) 
-- [Locarno.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Locarno.internal.md) 
-- [Locarno.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Locarno.protect.md) 
-- [Locarno.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Locarno.private.md) 
-- [Locarno.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Locarno.personal.md) 
-- [Locarno.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Locarno.secret.md) 

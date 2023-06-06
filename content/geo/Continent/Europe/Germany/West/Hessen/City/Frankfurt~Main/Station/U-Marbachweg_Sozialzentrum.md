@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Marbachweg_Sozialzentrum](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.md) 
-- [U-Marbachweg_Sozialzentrum.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.internal.md) 
-- [U-Marbachweg_Sozialzentrum.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.protect.md) 
-- [U-Marbachweg_Sozialzentrum.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.private.md) 
-- [U-Marbachweg_Sozialzentrum.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.personal.md) 
-- [U-Marbachweg_Sozialzentrum.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Marbachweg_Sozialzentrum.secret.md) 

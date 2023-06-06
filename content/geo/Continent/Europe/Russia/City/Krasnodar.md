@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krasnodar](../../../../../../_public/geo/Continent/Europe/Russia/City/Krasnodar.md) 
-- [Krasnodar.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Krasnodar.internal.md) 
-- [Krasnodar.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Krasnodar.protect.md) 
-- [Krasnodar.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Krasnodar.private.md) 
-- [Krasnodar.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Krasnodar.personal.md) 
-- [Krasnodar.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Krasnodar.secret.md) 

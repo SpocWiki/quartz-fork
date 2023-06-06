@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grono](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Grono.md) 
-- [Grono.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Grono.internal.md) 
-- [Grono.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Grono.protect.md) 
-- [Grono.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Grono.private.md) 
-- [Grono.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Grono.personal.md) 
-- [Grono.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Grono.secret.md) 

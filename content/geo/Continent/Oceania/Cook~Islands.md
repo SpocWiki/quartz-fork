@@ -132,10 +132,3 @@ markerFolder: ./Cook_Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [Cook~Islands](../../../../_public/geo/Continent/Oceania/Cook~Islands.md) 
-- [Cook~Islands.internal](../../../../_internal/geo/Continent/Oceania/Cook~Islands.internal.md) 
-- [Cook~Islands.protect](../../../../_protect/geo/Continent/Oceania/Cook~Islands.protect.md) 
-- [Cook~Islands.private](../../../../_private/geo/Continent/Oceania/Cook~Islands.private.md) 
-- [Cook~Islands.personal](../../../../_personal/geo/Continent/Oceania/Cook~Islands.personal.md) 
-- [Cook~Islands.secret](../../../../_secret/geo/Continent/Oceania/Cook~Islands.secret.md) 

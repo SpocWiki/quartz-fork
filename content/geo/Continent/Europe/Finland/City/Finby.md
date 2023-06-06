@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Finby](../../../../../../_public/geo/Continent/Europe/Finland/City/Finby.md) 
-- [Finby.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Finby.internal.md) 
-- [Finby.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Finby.protect.md) 
-- [Finby.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Finby.private.md) 
-- [Finby.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Finby.personal.md) 
-- [Finby.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Finby.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Santarem](../../../../../../_public/geo/Continent/Europe/Poland/City/Santarem.md) 
-- [Santarem.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Santarem.internal.md) 
-- [Santarem.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Santarem.protect.md) 
-- [Santarem.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Santarem.private.md) 
-- [Santarem.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Santarem.personal.md) 
-- [Santarem.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Santarem.secret.md) 

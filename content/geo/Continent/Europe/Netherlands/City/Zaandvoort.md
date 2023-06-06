@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zaandvoort](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Zaandvoort.md) 
-- [Zaandvoort.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zaandvoort.internal.md) 
-- [Zaandvoort.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zaandvoort.protect.md) 
-- [Zaandvoort.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zaandvoort.private.md) 
-- [Zaandvoort.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zaandvoort.personal.md) 
-- [Zaandvoort.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zaandvoort.secret.md) 

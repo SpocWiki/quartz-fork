@@ -43,10 +43,3 @@ The act of consuming dynamic/moving visual content.
 
 
 
-## Confidential Links & Embeds: 
-- [watch_action](../../../../../../_public/schema.org/Type/is_a_/action/consume_action/watch_action.md) 
-- [watch_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/watch_action.internal.md) 
-- [watch_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/watch_action.protect.md) 
-- [watch_action.private](../../../../../../_private/schema.org/Type/is_a_/action/consume_action/watch_action.private.md) 
-- [watch_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/watch_action.personal.md) 
-- [watch_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/watch_action.secret.md) 

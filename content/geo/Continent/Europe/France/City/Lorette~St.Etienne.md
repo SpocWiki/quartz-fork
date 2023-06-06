@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lorette~St.Etienne](../../../../../../_public/geo/Continent/Europe/France/City/Lorette~St.Etienne.md) 
-- [Lorette~St.Etienne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lorette~St.Etienne.internal.md) 
-- [Lorette~St.Etienne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lorette~St.Etienne.protect.md) 
-- [Lorette~St.Etienne.private](../../../../../../_private/geo/Continent/Europe/France/City/Lorette~St.Etienne.private.md) 
-- [Lorette~St.Etienne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lorette~St.Etienne.personal.md) 
-- [Lorette~St.Etienne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lorette~St.Etienne.secret.md) 

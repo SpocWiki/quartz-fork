@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Inversion-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Inversion-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Inversion-Illumination.md) 
-- [Triz-Energy-Loss+Inversion-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Inversion-Illumination.internal.md) 
-- [Triz-Energy-Loss+Inversion-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Inversion-Illumination.protect.md) 
-- [Triz-Energy-Loss+Inversion-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Inversion-Illumination.private.md) 
-- [Triz-Energy-Loss+Inversion-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Inversion-Illumination.personal.md) 
-- [Triz-Energy-Loss+Inversion-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Inversion-Illumination.secret.md) 

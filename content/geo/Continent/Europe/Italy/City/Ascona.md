@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ascona](../../../../../../_public/geo/Continent/Europe/Italy/City/Ascona.md) 
-- [Ascona.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ascona.internal.md) 
-- [Ascona.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ascona.protect.md) 
-- [Ascona.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ascona.private.md) 
-- [Ascona.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ascona.personal.md) 
-- [Ascona.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ascona.secret.md) 

@@ -45,10 +45,3 @@ A service provided by an organization, e.g. delivery service, print services, et
 
 
 
-## Confidential Links & Embeds: 
-- [service](../../../../../_public/schema.org/Type/is_a_/intangible/service.md) 
-- [service.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/service.internal.md) 
-- [service.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/service.protect.md) 
-- [service.private](../../../../../_private/schema.org/Type/is_a_/intangible/service.private.md) 
-- [service.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/service.personal.md) 
-- [service.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/service.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schuh=Schuls](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.md) 
-- [Schuh=Schuls.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.internal.md) 
-- [Schuh=Schuls.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.protect.md) 
-- [Schuh=Schuls.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.private.md) 
-- [Schuh=Schuls.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.personal.md) 
-- [Schuh=Schuls.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schuh=Schuls.secret.md) 

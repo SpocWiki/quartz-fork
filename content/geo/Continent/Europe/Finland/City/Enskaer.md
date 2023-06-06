@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Enskaer](../../../../../../_public/geo/Continent/Europe/Finland/City/Enskaer.md) 
-- [Enskaer.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Enskaer.internal.md) 
-- [Enskaer.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Enskaer.protect.md) 
-- [Enskaer.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Enskaer.private.md) 
-- [Enskaer.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Enskaer.personal.md) 
-- [Enskaer.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Enskaer.secret.md) 

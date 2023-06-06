@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mons](../../../../../../_public/geo/Continent/Europe/Belgium/City/Mons.md) 
-- [Mons.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Mons.internal.md) 
-- [Mons.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Mons.protect.md) 
-- [Mons.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Mons.private.md) 
-- [Mons.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Mons.personal.md) 
-- [Mons.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Mons.secret.md) 

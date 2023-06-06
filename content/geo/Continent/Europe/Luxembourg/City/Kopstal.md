@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kopstal](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Kopstal.md) 
-- [Kopstal.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Kopstal.internal.md) 
-- [Kopstal.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Kopstal.protect.md) 
-- [Kopstal.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Kopstal.private.md) 
-- [Kopstal.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Kopstal.personal.md) 
-- [Kopstal.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Kopstal.secret.md) 

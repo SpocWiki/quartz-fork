@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kronberg](../../../../../../_public/geo/Continent/Europe/Denmark/City/Kronberg.md) 
-- [Kronberg.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Kronberg.internal.md) 
-- [Kronberg.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Kronberg.protect.md) 
-- [Kronberg.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Kronberg.private.md) 
-- [Kronberg.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Kronberg.personal.md) 
-- [Kronberg.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Kronberg.secret.md) 

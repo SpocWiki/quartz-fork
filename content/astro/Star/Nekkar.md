@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Nekkar](../../../_public/astro/Star/Nekkar.md) 
-- [Nekkar.internal](../../../_internal/astro/Star/Nekkar.internal.md) 
-- [Nekkar.protect](../../../_protect/astro/Star/Nekkar.protect.md) 
-- [Nekkar.private](../../../_private/astro/Star/Nekkar.private.md) 
-- [Nekkar.personal](../../../_personal/astro/Star/Nekkar.personal.md) 
-- [Nekkar.secret](../../../_secret/astro/Star/Nekkar.secret.md) 

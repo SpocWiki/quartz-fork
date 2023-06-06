@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Tufnell_Park](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.md) 
-- [Sub-Tufnell_Park.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.internal.md) 
-- [Sub-Tufnell_Park.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.protect.md) 
-- [Sub-Tufnell_Park.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.private.md) 
-- [Sub-Tufnell_Park.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.personal.md) 
-- [Sub-Tufnell_Park.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tufnell_Park.secret.md) 

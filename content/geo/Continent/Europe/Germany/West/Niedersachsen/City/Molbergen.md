@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Molbergen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Molbergen.md) 
-- [Molbergen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Molbergen.internal.md) 
-- [Molbergen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Molbergen.protect.md) 
-- [Molbergen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Molbergen.private.md) 
-- [Molbergen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Molbergen.personal.md) 
-- [Molbergen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Molbergen.secret.md) 

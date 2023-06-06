@@ -45,10 +45,3 @@ A media season, e.g. TV, radio, video game etc.
 
 
 
-## Confidential Links & Embeds: 
-- [season](../../../../../_public/schema.org/Type/is_a_/creative_work/season.md) 
-- [season.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/season.internal.md) 
-- [season.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/season.protect.md) 
-- [season.private](../../../../../_private/schema.org/Type/is_a_/creative_work/season.private.md) 
-- [season.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/season.personal.md) 
-- [season.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/season.secret.md) 

@@ -43,10 +43,3 @@ A theater or other performing art center.
 
 
 
-## Confidential Links & Embeds: 
-- [performing_arts_theater](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/performing_arts_theater.md) 
-- [performing_arts_theater.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/performing_arts_theater.internal.md) 
-- [performing_arts_theater.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/performing_arts_theater.protect.md) 
-- [performing_arts_theater.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/performing_arts_theater.private.md) 
-- [performing_arts_theater.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/performing_arts_theater.personal.md) 
-- [performing_arts_theater.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/performing_arts_theater.secret.md) 

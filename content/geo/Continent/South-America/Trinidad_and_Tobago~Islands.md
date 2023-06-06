@@ -30,7 +30,7 @@ markerFolder: ./Trinidad_And_Tobago/City
 [VehicleCode::TT]
 [Capital::[Port_of_Spain](geo/Continent/South-America/Trinidad_and_Tobago~Islands/City/Port_of_Spain.md)]
 ![350](Coat_of_arms_of_Trinidad-and-tobago.svg)
-![Anthem-Trinidad-and-tobago](xLarge/National-Anthem/Anthem-Trinidad-and-tobago.mp3)
+[Anthem-Trinidad-and-tobago](xLarge/National-Anthem/Anthem-Trinidad-and-tobago.mp3)
 ![350](Flag_of_Trinidad-and-tobago.svg)
 [Alcohol-l::6.3]
 [Language-Id::499]
@@ -39,10 +39,3 @@ markerFolder: ./Trinidad_And_Tobago/City
 
 
 
-## Confidential Links & Embeds: 
-- [Trinidad_and_Tobago~Islands](../../../../_public/geo/Continent/South-America/Trinidad_and_Tobago~Islands.md) 
-- [Trinidad_and_Tobago~Islands.internal](../../../../_internal/geo/Continent/South-America/Trinidad_and_Tobago~Islands.internal.md) 
-- [Trinidad_and_Tobago~Islands.protect](../../../../_protect/geo/Continent/South-America/Trinidad_and_Tobago~Islands.protect.md) 
-- [Trinidad_and_Tobago~Islands.private](../../../../_private/geo/Continent/South-America/Trinidad_and_Tobago~Islands.private.md) 
-- [Trinidad_and_Tobago~Islands.personal](../../../../_personal/geo/Continent/South-America/Trinidad_and_Tobago~Islands.personal.md) 
-- [Trinidad_and_Tobago~Islands.secret](../../../../_secret/geo/Continent/South-America/Trinidad_and_Tobago~Islands.secret.md) 

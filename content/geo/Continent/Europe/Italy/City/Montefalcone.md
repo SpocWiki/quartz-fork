@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montefalcone](../../../../../../_public/geo/Continent/Europe/Italy/City/Montefalcone.md) 
-- [Montefalcone.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Montefalcone.internal.md) 
-- [Montefalcone.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Montefalcone.protect.md) 
-- [Montefalcone.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Montefalcone.private.md) 
-- [Montefalcone.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Montefalcone.personal.md) 
-- [Montefalcone.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Montefalcone.secret.md) 

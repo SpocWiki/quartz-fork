@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sofienwald](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Sofienwald.md) 
-- [Sofienwald.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Sofienwald.internal.md) 
-- [Sofienwald.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Sofienwald.protect.md) 
-- [Sofienwald.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Sofienwald.private.md) 
-- [Sofienwald.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Sofienwald.personal.md) 
-- [Sofienwald.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Sofienwald.secret.md) 

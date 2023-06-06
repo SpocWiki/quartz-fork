@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Helgoland](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Helgoland.md) 
-- [Helgoland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Helgoland.internal.md) 
-- [Helgoland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Helgoland.protect.md) 
-- [Helgoland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Helgoland.private.md) 
-- [Helgoland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Helgoland.personal.md) 
-- [Helgoland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Helgoland.secret.md) 

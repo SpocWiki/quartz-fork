@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moskopole](../../../../../../_public/geo/Continent/Europe/Albania/City/Moskopole.md) 
-- [Moskopole.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Moskopole.internal.md) 
-- [Moskopole.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Moskopole.protect.md) 
-- [Moskopole.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Moskopole.private.md) 
-- [Moskopole.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Moskopole.personal.md) 
-- [Moskopole.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Moskopole.secret.md) 

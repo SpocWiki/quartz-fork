@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Arkhangelsk_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Arkhangelsk_Oblast.md) 
-- [State-Arkhangelsk_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Arkhangelsk_Oblast.internal.md) 
-- [State-Arkhangelsk_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Arkhangelsk_Oblast.protect.md) 
-- [State-Arkhangelsk_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Arkhangelsk_Oblast.private.md) 
-- [State-Arkhangelsk_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Arkhangelsk_Oblast.personal.md) 
-- [State-Arkhangelsk_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Arkhangelsk_Oblast.secret.md) 

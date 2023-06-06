@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marsala](../../../../../../_public/geo/Continent/Europe/Italy/City/Marsala.md) 
-- [Marsala.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Marsala.internal.md) 
-- [Marsala.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Marsala.protect.md) 
-- [Marsala.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Marsala.private.md) 
-- [Marsala.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Marsala.personal.md) 
-- [Marsala.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Marsala.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buchara=Bukhara](../../../../../../_public/geo/Continent/Europe/Russia/City/Buchara=Bukhara.md) 
-- [Buchara=Bukhara.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Buchara=Bukhara.internal.md) 
-- [Buchara=Bukhara.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Buchara=Bukhara.protect.md) 
-- [Buchara=Bukhara.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Buchara=Bukhara.private.md) 
-- [Buchara=Bukhara.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Buchara=Bukhara.personal.md) 
-- [Buchara=Bukhara.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Buchara=Bukhara.secret.md) 

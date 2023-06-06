@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Changing_the_color-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Changing_the_color-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.md) 
-- [Triz-Substance-Loss+Changing_the_color-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.internal.md) 
-- [Triz-Substance-Loss+Changing_the_color-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.protect.md) 
-- [Triz-Substance-Loss+Changing_the_color-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.private.md) 
-- [Triz-Substance-Loss+Changing_the_color-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.personal.md) 
-- [Triz-Substance-Loss+Changing_the_color-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Changing_the_color-stationary_Weight.secret.md) 

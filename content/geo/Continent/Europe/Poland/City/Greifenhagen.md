@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Greifenhagen](../../../../../../_public/geo/Continent/Europe/Poland/City/Greifenhagen.md) 
-- [Greifenhagen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Greifenhagen.internal.md) 
-- [Greifenhagen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Greifenhagen.protect.md) 
-- [Greifenhagen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Greifenhagen.private.md) 
-- [Greifenhagen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Greifenhagen.personal.md) 
-- [Greifenhagen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Greifenhagen.secret.md) 

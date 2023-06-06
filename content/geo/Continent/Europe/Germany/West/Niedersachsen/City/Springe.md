@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Springe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Springe.md) 
-- [Springe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Springe.internal.md) 
-- [Springe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Springe.protect.md) 
-- [Springe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Springe.private.md) 
-- [Springe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Springe.personal.md) 
-- [Springe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Springe.secret.md) 

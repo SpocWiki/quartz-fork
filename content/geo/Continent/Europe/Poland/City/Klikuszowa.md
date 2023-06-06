@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klikuszowa](../../../../../../_public/geo/Continent/Europe/Poland/City/Klikuszowa.md) 
-- [Klikuszowa.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Klikuszowa.internal.md) 
-- [Klikuszowa.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Klikuszowa.protect.md) 
-- [Klikuszowa.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Klikuszowa.private.md) 
-- [Klikuszowa.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Klikuszowa.personal.md) 
-- [Klikuszowa.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Klikuszowa.secret.md) 

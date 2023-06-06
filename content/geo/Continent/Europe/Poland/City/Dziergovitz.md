@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dziergovitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Dziergovitz.md) 
-- [Dziergovitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Dziergovitz.internal.md) 
-- [Dziergovitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Dziergovitz.protect.md) 
-- [Dziergovitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Dziergovitz.private.md) 
-- [Dziergovitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Dziergovitz.personal.md) 
-- [Dziergovitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Dziergovitz.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stedesand](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.md) 
-- [Stedesand.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.internal.md) 
-- [Stedesand.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.protect.md) 
-- [Stedesand.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.private.md) 
-- [Stedesand.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.personal.md) 
-- [Stedesand.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Stedesand.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sierpe](../../../../../../_public/geo/Continent/Europe/Poland/City/Sierpe.md) 
-- [Sierpe.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sierpe.internal.md) 
-- [Sierpe.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sierpe.protect.md) 
-- [Sierpe.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sierpe.private.md) 
-- [Sierpe.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sierpe.personal.md) 
-- [Sierpe.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sierpe.secret.md) 

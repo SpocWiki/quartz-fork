@@ -121,7 +121,7 @@ markerFolder: ./Luxembourg/City
 [VehicleCode::L]
 [Capital::[Luxembourg](geo/Continent/Europe/Luxembourg.md)]
 ![650](geo/Continent/Europe/Luxembourg/Coat_of_arms_of_Luxembourg.svg)
-![Anthem-Luxembourg](xLarge/National-Anthem/Anthem-Luxembourg.mp3)
+[Anthem-Luxembourg](xLarge/National-Anthem/Anthem-Luxembourg.mp3)
 ![350](geo/Continent/Europe/Luxembourg/Flag_of_Luxembourg.svg)
 [Alcohol-l::13]
 [Language-Id::496]
@@ -130,10 +130,3 @@ markerFolder: ./Luxembourg/City
 
 
 
-## Confidential Links & Embeds: 
-- [Luxembourg](../../../../_public/geo/Continent/Europe/Luxembourg.md) 
-- [Luxembourg.internal](../../../../_internal/geo/Continent/Europe/Luxembourg.internal.md) 
-- [Luxembourg.protect](../../../../_protect/geo/Continent/Europe/Luxembourg.protect.md) 
-- [Luxembourg.private](../../../../_private/geo/Continent/Europe/Luxembourg.private.md) 
-- [Luxembourg.personal](../../../../_personal/geo/Continent/Europe/Luxembourg.personal.md) 
-- [Luxembourg.secret](../../../../_secret/geo/Continent/Europe/Luxembourg.secret.md) 

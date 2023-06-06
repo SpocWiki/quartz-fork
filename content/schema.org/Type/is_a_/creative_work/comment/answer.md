@@ -43,10 +43,3 @@ An answer offered to a question; perhaps correct, perhaps opinionated or wrong.
 
 
 
-## Confidential Links & Embeds: 
-- [answer](../../../../../../_public/schema.org/Type/is_a_/creative_work/comment/answer.md) 
-- [answer.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/comment/answer.internal.md) 
-- [answer.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/comment/answer.protect.md) 
-- [answer.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/comment/answer.private.md) 
-- [answer.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/comment/answer.personal.md) 
-- [answer.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/comment/answer.secret.md) 

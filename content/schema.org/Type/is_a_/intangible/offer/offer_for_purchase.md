@@ -47,10 +47,3 @@ An <a class="localLink" href="/OfferForPurchase">OfferForPurchase</a> in Schema.
 
 
 
-## Confidential Links & Embeds: 
-- [offer_for_purchase](../../../../../../_public/schema.org/Type/is_a_/intangible/offer/offer_for_purchase.md) 
-- [offer_for_purchase.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/offer/offer_for_purchase.internal.md) 
-- [offer_for_purchase.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/offer/offer_for_purchase.protect.md) 
-- [offer_for_purchase.private](../../../../../../_private/schema.org/Type/is_a_/intangible/offer/offer_for_purchase.private.md) 
-- [offer_for_purchase.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/offer/offer_for_purchase.personal.md) 
-- [offer_for_purchase.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/offer/offer_for_purchase.secret.md) 

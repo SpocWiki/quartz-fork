@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_bcc_recipient](../../../../../_public/schema.org/Predicate/Relations/has/has_bcc_recipient.md) 
-- [has_bcc_recipient.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_bcc_recipient.internal.md) 
-- [has_bcc_recipient.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_bcc_recipient.protect.md) 
-- [has_bcc_recipient.private](../../../../../_private/schema.org/Predicate/Relations/has/has_bcc_recipient.private.md) 
-- [has_bcc_recipient.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_bcc_recipient.personal.md) 
-- [has_bcc_recipient.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_bcc_recipient.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Botosani](../../../../../../_public/geo/Continent/Europe/Romania/City/Botosani.md) 
-- [Botosani.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Botosani.internal.md) 
-- [Botosani.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Botosani.protect.md) 
-- [Botosani.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Botosani.private.md) 
-- [Botosani.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Botosani.personal.md) 
-- [Botosani.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Botosani.secret.md) 

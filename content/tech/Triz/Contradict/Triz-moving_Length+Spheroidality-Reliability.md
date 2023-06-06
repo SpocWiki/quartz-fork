@@ -19,10 +19,3 @@ title: Triz-moving_Length+Spheroidality-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Spheroidality-Reliability](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.md) 
-- [Triz-moving_Length+Spheroidality-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.internal.md) 
-- [Triz-moving_Length+Spheroidality-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.protect.md) 
-- [Triz-moving_Length+Spheroidality-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.private.md) 
-- [Triz-moving_Length+Spheroidality-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.personal.md) 
-- [Triz-moving_Length+Spheroidality-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Reliability.secret.md) 

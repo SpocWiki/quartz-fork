@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Breda](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Breda.md) 
-- [Breda.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Breda.internal.md) 
-- [Breda.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Breda.protect.md) 
-- [Breda.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Breda.private.md) 
-- [Breda.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Breda.personal.md) 
-- [Breda.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Breda.secret.md) 

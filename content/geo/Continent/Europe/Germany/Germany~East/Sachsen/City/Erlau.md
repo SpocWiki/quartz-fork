@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Erlau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Erlau.md) 
-- [Erlau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Erlau.internal.md) 
-- [Erlau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Erlau.protect.md) 
-- [Erlau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Erlau.private.md) 
-- [Erlau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Erlau.personal.md) 
-- [Erlau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Erlau.secret.md) 

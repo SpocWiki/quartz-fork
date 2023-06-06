@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ebersheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ebersheim.md) 
-- [Ebersheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ebersheim.internal.md) 
-- [Ebersheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ebersheim.protect.md) 
-- [Ebersheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ebersheim.private.md) 
-- [Ebersheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ebersheim.personal.md) 
-- [Ebersheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ebersheim.secret.md) 

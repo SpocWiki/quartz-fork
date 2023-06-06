@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oviedo](../../../../../../_public/geo/Continent/Europe/Spain/City/Oviedo.md) 
-- [Oviedo.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Oviedo.internal.md) 
-- [Oviedo.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Oviedo.protect.md) 
-- [Oviedo.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Oviedo.private.md) 
-- [Oviedo.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Oviedo.personal.md) 
-- [Oviedo.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Oviedo.secret.md) 

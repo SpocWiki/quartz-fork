@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Tillystraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Tillystra%C3%9Fe.md) 
-- [T-Tillystraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Tillystra%C3%9Fe.internal.md) 
-- [T-Tillystraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Tillystra%C3%9Fe.protect.md) 
-- [T-Tillystraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Tillystra%C3%9Fe.private.md) 
-- [T-Tillystraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Tillystra%C3%9Fe.personal.md) 
-- [T-Tillystraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Tillystra%C3%9Fe.secret.md) 

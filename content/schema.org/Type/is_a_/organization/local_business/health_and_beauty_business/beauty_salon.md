@@ -43,10 +43,3 @@ Beauty salon.
 
 
 
-## Confidential Links & Embeds: 
-- [beauty_salon](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.md) 
-- [beauty_salon.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.internal.md) 
-- [beauty_salon.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.protect.md) 
-- [beauty_salon.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.private.md) 
-- [beauty_salon.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.personal.md) 
-- [beauty_salon.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/beauty_salon.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Desenzano](../../../../../../_public/geo/Continent/Europe/Italy/City/Desenzano.md) 
-- [Desenzano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Desenzano.internal.md) 
-- [Desenzano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Desenzano.protect.md) 
-- [Desenzano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Desenzano.private.md) 
-- [Desenzano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Desenzano.personal.md) 
-- [Desenzano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Desenzano.secret.md) 

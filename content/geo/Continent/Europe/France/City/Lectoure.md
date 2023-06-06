@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lectoure](../../../../../../_public/geo/Continent/Europe/France/City/Lectoure.md) 
-- [Lectoure.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lectoure.internal.md) 
-- [Lectoure.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lectoure.protect.md) 
-- [Lectoure.private](../../../../../../_private/geo/Continent/Europe/France/City/Lectoure.private.md) 
-- [Lectoure.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lectoure.personal.md) 
-- [Lectoure.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lectoure.secret.md) 

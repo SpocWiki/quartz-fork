@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Whitehaven](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Whitehaven.md) 
-- [Whitehaven.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Whitehaven.internal.md) 
-- [Whitehaven.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Whitehaven.protect.md) 
-- [Whitehaven.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Whitehaven.private.md) 
-- [Whitehaven.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Whitehaven.personal.md) 
-- [Whitehaven.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Whitehaven.secret.md) 

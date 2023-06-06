@@ -43,10 +43,3 @@ Used to describe a ticket to an event, a flight, a bus ride, etc.
 
 
 
-## Confidential Links & Embeds: 
-- [ticket](../../../../../_public/schema.org/Type/is_a_/intangible/ticket.md) 
-- [ticket.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/ticket.internal.md) 
-- [ticket.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/ticket.protect.md) 
-- [ticket.private](../../../../../_private/schema.org/Type/is_a_/intangible/ticket.private.md) 
-- [ticket.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/ticket.personal.md) 
-- [ticket.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/ticket.secret.md) 

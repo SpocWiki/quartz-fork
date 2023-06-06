@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Copying-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Copying-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.md) 
-- [Triz-Ease_of_manufacture+Copying-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.internal.md) 
-- [Triz-Ease_of_manufacture+Copying-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.protect.md) 
-- [Triz-Ease_of_manufacture+Copying-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.private.md) 
-- [Triz-Ease_of_manufacture+Copying-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.personal.md) 
-- [Triz-Ease_of_manufacture+Copying-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Temperature.secret.md) 

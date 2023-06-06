@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tuam](../../../../../../_public/geo/Continent/Europe/Ireland/City/Tuam.md) 
-- [Tuam.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tuam.internal.md) 
-- [Tuam.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tuam.protect.md) 
-- [Tuam.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Tuam.private.md) 
-- [Tuam.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tuam.personal.md) 
-- [Tuam.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tuam.secret.md) 

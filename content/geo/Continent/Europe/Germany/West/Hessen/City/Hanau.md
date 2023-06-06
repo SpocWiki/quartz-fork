@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hanau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Hanau.md) 
-- [Hanau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hanau.internal.md) 
-- [Hanau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hanau.protect.md) 
-- [Hanau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hanau.private.md) 
-- [Hanau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hanau.personal.md) 
-- [Hanau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hanau.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirchhuchting](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.md) 
-- [Kirchhuchting.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.internal.md) 
-- [Kirchhuchting.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.protect.md) 
-- [Kirchhuchting.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.private.md) 
-- [Kirchhuchting.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.personal.md) 
-- [Kirchhuchting.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchhuchting.secret.md) 

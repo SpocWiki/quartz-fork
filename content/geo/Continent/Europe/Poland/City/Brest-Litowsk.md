@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brest-Litowsk](../../../../../../_public/geo/Continent/Europe/Poland/City/Brest-Litowsk.md) 
-- [Brest-Litowsk.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Brest-Litowsk.internal.md) 
-- [Brest-Litowsk.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Brest-Litowsk.protect.md) 
-- [Brest-Litowsk.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Brest-Litowsk.private.md) 
-- [Brest-Litowsk.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Brest-Litowsk.personal.md) 
-- [Brest-Litowsk.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Brest-Litowsk.secret.md) 

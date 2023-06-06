@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rezekne](../../../../../../_public/geo/Continent/Europe/Russia/City/Rezekne.md) 
-- [Rezekne.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Rezekne.internal.md) 
-- [Rezekne.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Rezekne.protect.md) 
-- [Rezekne.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Rezekne.private.md) 
-- [Rezekne.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Rezekne.personal.md) 
-- [Rezekne.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Rezekne.secret.md) 

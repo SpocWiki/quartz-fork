@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accura
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.md) 
-- [Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.internal.md) 
-- [Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.protect.md) 
-- [Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.private.md) 
-- [Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.personal.md) 
-- [Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Replacement_of_a_mechanical_system-Measurement_Accuracy.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Murat](../../../../../../_public/geo/Continent/Europe/France/City/Murat.md) 
-- [Murat.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Murat.internal.md) 
-- [Murat.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Murat.protect.md) 
-- [Murat.private](../../../../../../_private/geo/Continent/Europe/France/City/Murat.private.md) 
-- [Murat.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Murat.personal.md) 
-- [Murat.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Murat.secret.md) 

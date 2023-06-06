@@ -43,10 +43,3 @@ An ice cream shop.
 
 
 
-## Confidential Links & Embeds: 
-- [ice_cream_shop](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.md) 
-- [ice_cream_shop.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.internal.md) 
-- [ice_cream_shop.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.protect.md) 
-- [ice_cream_shop.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.private.md) 
-- [ice_cream_shop.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.personal.md) 
-- [ice_cream_shop.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.secret.md) 

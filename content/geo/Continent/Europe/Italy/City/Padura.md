@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Padura](../../../../../../_public/geo/Continent/Europe/Italy/City/Padura.md) 
-- [Padura.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Padura.internal.md) 
-- [Padura.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Padura.protect.md) 
-- [Padura.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Padura.private.md) 
-- [Padura.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Padura.personal.md) 
-- [Padura.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Padura.secret.md) 

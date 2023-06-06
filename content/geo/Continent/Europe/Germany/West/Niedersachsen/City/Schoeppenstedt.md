@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoeppenstedt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.md) 
-- [Schoeppenstedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.internal.md) 
-- [Schoeppenstedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.protect.md) 
-- [Schoeppenstedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.private.md) 
-- [Schoeppenstedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.personal.md) 
-- [Schoeppenstedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoeppenstedt.secret.md) 

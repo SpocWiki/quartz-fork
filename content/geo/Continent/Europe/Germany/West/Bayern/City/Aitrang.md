@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aitrang](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Aitrang.md) 
-- [Aitrang.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Aitrang.internal.md) 
-- [Aitrang.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Aitrang.protect.md) 
-- [Aitrang.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Aitrang.private.md) 
-- [Aitrang.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Aitrang.personal.md) 
-- [Aitrang.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Aitrang.secret.md) 

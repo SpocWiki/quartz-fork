@@ -43,10 +43,3 @@ A city hall.
 
 
 
-## Confidential Links & Embeds: 
-- [city_hall](../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.md) 
-- [city_hall.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.internal.md) 
-- [city_hall.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.protect.md) 
-- [city_hall.private](../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.private.md) 
-- [city_hall.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.personal.md) 
-- [city_hall.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.secret.md) 

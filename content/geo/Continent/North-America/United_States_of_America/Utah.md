@@ -40,10 +40,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Utah](../../../../../_public/geo/Continent/North-America/United_States_of_America/Utah.md) 
-- [Utah.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Utah.internal.md) 
-- [Utah.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Utah.protect.md) 
-- [Utah.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Utah.private.md) 
-- [Utah.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Utah.personal.md) 
-- [Utah.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Utah.secret.md) 

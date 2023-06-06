@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pihtipudas](../../../../../../_public/geo/Continent/Europe/Finland/City/Pihtipudas.md) 
-- [Pihtipudas.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Pihtipudas.internal.md) 
-- [Pihtipudas.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Pihtipudas.protect.md) 
-- [Pihtipudas.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Pihtipudas.private.md) 
-- [Pihtipudas.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Pihtipudas.personal.md) 
-- [Pihtipudas.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Pihtipudas.secret.md) 

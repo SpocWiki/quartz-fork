@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Antliae-8](../../../_public/astro/Star/Antliae-8.md) 
-- [Antliae-8.internal](../../../_internal/astro/Star/Antliae-8.internal.md) 
-- [Antliae-8.protect](../../../_protect/astro/Star/Antliae-8.protect.md) 
-- [Antliae-8.private](../../../_private/astro/Star/Antliae-8.private.md) 
-- [Antliae-8.personal](../../../_personal/astro/Star/Antliae-8.personal.md) 
-- [Antliae-8.secret](../../../_secret/astro/Star/Antliae-8.secret.md)
-

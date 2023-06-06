@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Redon](../../../../../../_public/geo/Continent/Europe/France/City/Redon.md) 
-- [Redon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Redon.internal.md) 
-- [Redon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Redon.protect.md) 
-- [Redon.private](../../../../../../_private/geo/Continent/Europe/France/City/Redon.private.md) 
-- [Redon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Redon.personal.md) 
-- [Redon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Redon.secret.md) 

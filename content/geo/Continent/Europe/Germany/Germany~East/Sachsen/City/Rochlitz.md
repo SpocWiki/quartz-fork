@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rochlitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rochlitz.md) 
-- [Rochlitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rochlitz.internal.md) 
-- [Rochlitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rochlitz.protect.md) 
-- [Rochlitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rochlitz.private.md) 
-- [Rochlitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rochlitz.personal.md) 
-- [Rochlitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rochlitz.secret.md) 

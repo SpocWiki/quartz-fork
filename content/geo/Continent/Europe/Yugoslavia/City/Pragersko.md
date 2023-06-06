@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pragersko](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Pragersko.md) 
-- [Pragersko.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Pragersko.internal.md) 
-- [Pragersko.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Pragersko.protect.md) 
-- [Pragersko.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Pragersko.private.md) 
-- [Pragersko.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Pragersko.personal.md) 
-- [Pragersko.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Pragersko.secret.md) 

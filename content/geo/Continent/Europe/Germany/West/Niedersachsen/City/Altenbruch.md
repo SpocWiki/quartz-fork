@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altenbruch](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenbruch.md) 
-- [Altenbruch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenbruch.internal.md) 
-- [Altenbruch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenbruch.protect.md) 
-- [Altenbruch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenbruch.private.md) 
-- [Altenbruch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenbruch.personal.md) 
-- [Altenbruch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenbruch.secret.md) 

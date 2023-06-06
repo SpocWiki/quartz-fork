@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sprendlingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.md) 
-- [Sprendlingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.internal.md) 
-- [Sprendlingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.protect.md) 
-- [Sprendlingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.private.md) 
-- [Sprendlingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.personal.md) 
-- [Sprendlingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Sprendlingen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Noyers](../../../../../../_public/geo/Continent/Europe/Italy/City/Noyers.md) 
-- [Noyers.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Noyers.internal.md) 
-- [Noyers.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Noyers.protect.md) 
-- [Noyers.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Noyers.private.md) 
-- [Noyers.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Noyers.personal.md) 
-- [Noyers.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Noyers.secret.md) 

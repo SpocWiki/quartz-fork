@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Troivierges](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Troivierges.md) 
-- [Troivierges.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Troivierges.internal.md) 
-- [Troivierges.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Troivierges.protect.md) 
-- [Troivierges.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Troivierges.private.md) 
-- [Troivierges.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Troivierges.personal.md) 
-- [Troivierges.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Troivierges.secret.md) 

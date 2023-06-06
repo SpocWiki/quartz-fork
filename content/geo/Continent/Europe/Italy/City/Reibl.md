@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reibl](../../../../../../_public/geo/Continent/Europe/Italy/City/Reibl.md) 
-- [Reibl.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Reibl.internal.md) 
-- [Reibl.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Reibl.protect.md) 
-- [Reibl.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Reibl.private.md) 
-- [Reibl.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Reibl.personal.md) 
-- [Reibl.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Reibl.secret.md) 

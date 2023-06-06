@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cherbourg](../../../../../../_public/geo/Continent/Europe/France/City/Cherbourg.md) 
-- [Cherbourg.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Cherbourg.internal.md) 
-- [Cherbourg.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Cherbourg.protect.md) 
-- [Cherbourg.private](../../../../../../_private/geo/Continent/Europe/France/City/Cherbourg.private.md) 
-- [Cherbourg.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Cherbourg.personal.md) 
-- [Cherbourg.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Cherbourg.secret.md) 

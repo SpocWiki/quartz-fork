@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Local_quality-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Local_quality-Stress](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.md) 
-- [Triz-Substance-Loss+Local_quality-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.internal.md) 
-- [Triz-Substance-Loss+Local_quality-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.protect.md) 
-- [Triz-Substance-Loss+Local_quality-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.private.md) 
-- [Triz-Substance-Loss+Local_quality-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.personal.md) 
-- [Triz-Substance-Loss+Local_quality-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Local_quality-Stress.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weichsel](../../../../../../_public/geo/Continent/Europe/Poland/City/Weichsel.md) 
-- [Weichsel.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Weichsel.internal.md) 
-- [Weichsel.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Weichsel.protect.md) 
-- [Weichsel.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Weichsel.private.md) 
-- [Weichsel.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Weichsel.personal.md) 
-- [Weichsel.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Weichsel.secret.md) 

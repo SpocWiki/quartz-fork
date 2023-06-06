@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mahon](../../../../../../_public/geo/Continent/Europe/Spain/City/Mahon.md) 
-- [Mahon.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Mahon.internal.md) 
-- [Mahon.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Mahon.protect.md) 
-- [Mahon.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Mahon.private.md) 
-- [Mahon.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Mahon.personal.md) 
-- [Mahon.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Mahon.secret.md) 

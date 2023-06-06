@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuwied](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neuwied.md) 
-- [Neuwied.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neuwied.internal.md) 
-- [Neuwied.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neuwied.protect.md) 
-- [Neuwied.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neuwied.private.md) 
-- [Neuwied.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neuwied.personal.md) 
-- [Neuwied.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neuwied.secret.md) 

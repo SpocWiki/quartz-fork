@@ -18,10 +18,3 @@ title: Triz-change-frequency
 Increase its frequency (even up to the ultrasonic).
 
 
-## Confidential Links & Embeds: 
-- [Triz-change-frequency](../../../../_public/tech/Triz/Sub/Triz-change-frequency.md) 
-- [Triz-change-frequency.internal](../../../../_internal/tech/Triz/Sub/Triz-change-frequency.internal.md) 
-- [Triz-change-frequency.protect](../../../../_protect/tech/Triz/Sub/Triz-change-frequency.protect.md) 
-- [Triz-change-frequency.private](../../../../_private/tech/Triz/Sub/Triz-change-frequency.private.md) 
-- [Triz-change-frequency.personal](../../../../_personal/tech/Triz/Sub/Triz-change-frequency.personal.md) 
-- [Triz-change-frequency.secret](../../../../_secret/tech/Triz/Sub/Triz-change-frequency.secret.md) 

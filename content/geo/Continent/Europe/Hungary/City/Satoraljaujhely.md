@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Satoraljaujhely](../../../../../../_public/geo/Continent/Europe/Hungary/City/Satoraljaujhely.md) 
-- [Satoraljaujhely.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Satoraljaujhely.internal.md) 
-- [Satoraljaujhely.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Satoraljaujhely.protect.md) 
-- [Satoraljaujhely.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Satoraljaujhely.private.md) 
-- [Satoraljaujhely.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Satoraljaujhely.personal.md) 
-- [Satoraljaujhely.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Satoraljaujhely.secret.md) 

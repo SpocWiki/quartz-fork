@@ -17,10 +17,3 @@ title: Triz-Preparing_Work_Area
 
 Preparing and cleaning Work Area
 
-## Confidential Links & Embeds: 
-- [Triz-Preparing_Work_Area](../../../../_public/tech/Triz/Example/Triz-Preparing_Work_Area.md) 
-- [Triz-Preparing_Work_Area.internal](../../../../_internal/tech/Triz/Example/Triz-Preparing_Work_Area.internal.md) 
-- [Triz-Preparing_Work_Area.protect](../../../../_protect/tech/Triz/Example/Triz-Preparing_Work_Area.protect.md) 
-- [Triz-Preparing_Work_Area.private](../../../../_private/tech/Triz/Example/Triz-Preparing_Work_Area.private.md) 
-- [Triz-Preparing_Work_Area.personal](../../../../_personal/tech/Triz/Example/Triz-Preparing_Work_Area.personal.md) 
-- [Triz-Preparing_Work_Area.secret](../../../../_secret/tech/Triz/Example/Triz-Preparing_Work_Area.secret.md) 

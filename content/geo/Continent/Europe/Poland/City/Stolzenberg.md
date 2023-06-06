@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stolzenberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Stolzenberg.md) 
-- [Stolzenberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Stolzenberg.internal.md) 
-- [Stolzenberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Stolzenberg.protect.md) 
-- [Stolzenberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Stolzenberg.private.md) 
-- [Stolzenberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Stolzenberg.personal.md) 
-- [Stolzenberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Stolzenberg.secret.md) 

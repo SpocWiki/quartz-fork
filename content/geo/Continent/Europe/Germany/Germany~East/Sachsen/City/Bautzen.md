@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bautzen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bautzen.md) 
-- [Bautzen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bautzen.internal.md) 
-- [Bautzen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bautzen.protect.md) 
-- [Bautzen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bautzen.private.md) 
-- [Bautzen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bautzen.personal.md) 
-- [Bautzen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bautzen.secret.md) 

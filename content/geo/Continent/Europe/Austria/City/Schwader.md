@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwader](../../../../../../_public/geo/Continent/Europe/Austria/City/Schwader.md) 
-- [Schwader.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwader.internal.md) 
-- [Schwader.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwader.protect.md) 
-- [Schwader.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Schwader.private.md) 
-- [Schwader.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwader.personal.md) 
-- [Schwader.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwader.secret.md) 

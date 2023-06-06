@@ -47,10 +47,3 @@ Size group "Extra Tall" for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_group_extra_tall](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_tall.md) 
-- [wearable_size_group_extra_tall.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_tall.internal.md) 
-- [wearable_size_group_extra_tall.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_tall.protect.md) 
-- [wearable_size_group_extra_tall.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_tall.private.md) 
-- [wearable_size_group_extra_tall.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_tall.personal.md) 
-- [wearable_size_group_extra_tall.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_extra_tall.secret.md) 

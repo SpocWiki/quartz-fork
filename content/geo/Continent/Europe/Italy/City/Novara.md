@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Novara](../../../../../../_public/geo/Continent/Europe/Italy/City/Novara.md) 
-- [Novara.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Novara.internal.md) 
-- [Novara.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Novara.protect.md) 
-- [Novara.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Novara.private.md) 
-- [Novara.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Novara.personal.md) 
-- [Novara.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Novara.secret.md) 

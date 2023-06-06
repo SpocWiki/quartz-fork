@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Elista](../../../../../../_public/geo/Continent/Europe/Russia/City/Elista.md) 
-- [Elista.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Elista.internal.md) 
-- [Elista.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Elista.protect.md) 
-- [Elista.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Elista.private.md) 
-- [Elista.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Elista.personal.md) 
-- [Elista.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Elista.secret.md) 

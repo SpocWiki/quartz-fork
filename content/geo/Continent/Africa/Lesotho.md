@@ -123,7 +123,7 @@ markerFolder: ./Lesotho/City
 
 ![550](geo/Continent/Africa/Lesotho/Coat_of_arms_of_Lesotho.svg)
 
-![Anthem-Lesotho](xLarge/National-Anthem/Anthem-Lesotho.mp3)
+[Anthem-Lesotho](xLarge/National-Anthem/Anthem-Lesotho.mp3)
 
 ![350](geo/Continent/Africa/Lesotho/Flag_of_Lesotho.svg)
 [Alcohol-l::5.6]
@@ -133,10 +133,3 @@ markerFolder: ./Lesotho/City
 
 
 
-## Confidential Links & Embeds: 
-- [Lesotho](../../../../_public/geo/Continent/Africa/Lesotho.md) 
-- [Lesotho.internal](../../../../_internal/geo/Continent/Africa/Lesotho.internal.md) 
-- [Lesotho.protect](../../../../_protect/geo/Continent/Africa/Lesotho.protect.md) 
-- [Lesotho.private](../../../../_private/geo/Continent/Africa/Lesotho.private.md) 
-- [Lesotho.personal](../../../../_personal/geo/Continent/Africa/Lesotho.personal.md) 
-- [Lesotho.secret](../../../../_secret/geo/Continent/Africa/Lesotho.secret.md) 

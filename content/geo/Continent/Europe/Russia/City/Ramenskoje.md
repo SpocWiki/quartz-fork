@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ramenskoje](../../../../../../_public/geo/Continent/Europe/Russia/City/Ramenskoje.md) 
-- [Ramenskoje.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ramenskoje.internal.md) 
-- [Ramenskoje.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ramenskoje.protect.md) 
-- [Ramenskoje.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ramenskoje.private.md) 
-- [Ramenskoje.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ramenskoje.personal.md) 
-- [Ramenskoje.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ramenskoje.secret.md) 

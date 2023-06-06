@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Adra](../../../../../../_public/geo/Continent/Europe/Spain/City/Adra.md) 
-- [Adra.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Adra.internal.md) 
-- [Adra.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Adra.protect.md) 
-- [Adra.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Adra.private.md) 
-- [Adra.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Adra.personal.md) 
-- [Adra.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Adra.secret.md) 

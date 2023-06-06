@@ -51,10 +51,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_date_of_merchant_return_days](../../../../_public/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.md) 
-- [has_date_of_merchant_return_days.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.internal.md) 
-- [has_date_of_merchant_return_days.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.protect.md) 
-- [has_date_of_merchant_return_days.private](../../../../_private/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.private.md) 
-- [has_date_of_merchant_return_days.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.personal.md) 
-- [has_date_of_merchant_return_days.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_date_of_merchant_return_days.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Menden~Iserlohn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.md) 
-- [Menden~Iserlohn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.internal.md) 
-- [Menden~Iserlohn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.protect.md) 
-- [Menden~Iserlohn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.private.md) 
-- [Menden~Iserlohn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.personal.md) 
-- [Menden~Iserlohn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Menden~Iserlohn.secret.md) 

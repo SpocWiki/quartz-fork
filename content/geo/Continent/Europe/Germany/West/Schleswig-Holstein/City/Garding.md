@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Garding](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Garding.md) 
-- [Garding.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Garding.internal.md) 
-- [Garding.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Garding.protect.md) 
-- [Garding.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Garding.private.md) 
-- [Garding.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Garding.personal.md) 
-- [Garding.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Garding.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_objec
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.md) 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.internal.md) 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.protect.md) 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.private.md) 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.personal.md) 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Stability.secret.md) 

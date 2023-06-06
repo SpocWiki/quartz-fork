@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Niesky](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Niesky.md) 
-- [Niesky.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Niesky.internal.md) 
-- [Niesky.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Niesky.protect.md) 
-- [Niesky.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Niesky.private.md) 
-- [Niesky.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Niesky.personal.md) 
-- [Niesky.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Niesky.secret.md) 

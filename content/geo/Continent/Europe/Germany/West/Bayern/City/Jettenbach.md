@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jettenbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Jettenbach.md) 
-- [Jettenbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Jettenbach.internal.md) 
-- [Jettenbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Jettenbach.protect.md) 
-- [Jettenbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Jettenbach.private.md) 
-- [Jettenbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Jettenbach.personal.md) 
-- [Jettenbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Jettenbach.secret.md) 

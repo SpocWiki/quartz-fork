@@ -122,7 +122,7 @@ markerFolder: ./Oman/City
 [VehicleCode::OM]
 [Capital::[Muscat=Maskat](geo/Continent/Asia/Oman/City/Muscat=Maskat.md)]
 ![350](Coat_of_arms_of_Oman.svg)
-![Anthem-Oman](xLarge/National-Anthem/Anthem-Oman.mp3)
+[Anthem-Oman](xLarge/National-Anthem/Anthem-Oman.mp3)
 ![350](geo/Continent/Asia/Oman/Flag_of_Oman.svg)
 [Alcohol-l::0.9]
 [Language-Id::472]
@@ -131,10 +131,3 @@ markerFolder: ./Oman/City
 
 
 
-## Confidential Links & Embeds: 
-- [Oman](../../../../_public/geo/Continent/Asia/Oman.md) 
-- [Oman.internal](../../../../_internal/geo/Continent/Asia/Oman.internal.md) 
-- [Oman.protect](../../../../_protect/geo/Continent/Asia/Oman.protect.md) 
-- [Oman.private](../../../../_private/geo/Continent/Asia/Oman.private.md) 
-- [Oman.personal](../../../../_personal/geo/Continent/Asia/Oman.personal.md) 
-- [Oman.secret](../../../../_secret/geo/Continent/Asia/Oman.secret.md) 

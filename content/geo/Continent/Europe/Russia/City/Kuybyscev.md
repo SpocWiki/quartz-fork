@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuybyscev](../../../../../../_public/geo/Continent/Europe/Russia/City/Kuybyscev.md) 
-- [Kuybyscev.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kuybyscev.internal.md) 
-- [Kuybyscev.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kuybyscev.protect.md) 
-- [Kuybyscev.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kuybyscev.private.md) 
-- [Kuybyscev.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kuybyscev.personal.md) 
-- [Kuybyscev.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kuybyscev.secret.md) 

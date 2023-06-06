@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marktbreit](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Marktbreit.md) 
-- [Marktbreit.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Marktbreit.internal.md) 
-- [Marktbreit.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Marktbreit.protect.md) 
-- [Marktbreit.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Marktbreit.private.md) 
-- [Marktbreit.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Marktbreit.personal.md) 
-- [Marktbreit.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Marktbreit.secret.md) 

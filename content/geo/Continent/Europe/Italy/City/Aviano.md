@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aviano](../../../../../../_public/geo/Continent/Europe/Italy/City/Aviano.md) 
-- [Aviano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Aviano.internal.md) 
-- [Aviano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Aviano.protect.md) 
-- [Aviano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Aviano.private.md) 
-- [Aviano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Aviano.personal.md) 
-- [Aviano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Aviano.secret.md) 

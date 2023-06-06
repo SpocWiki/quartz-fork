@@ -43,10 +43,3 @@ A playground.
 
 
 
-## Confidential Links & Embeds: 
-- [playground](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/playground.md) 
-- [playground.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/playground.internal.md) 
-- [playground.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/playground.protect.md) 
-- [playground.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/playground.private.md) 
-- [playground.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/playground.personal.md) 
-- [playground.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/playground.secret.md) 

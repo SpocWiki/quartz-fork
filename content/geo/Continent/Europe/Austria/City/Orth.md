@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orth](../../../../../../_public/geo/Continent/Europe/Austria/City/Orth.md) 
-- [Orth.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Orth.internal.md) 
-- [Orth.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Orth.protect.md) 
-- [Orth.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Orth.private.md) 
-- [Orth.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Orth.personal.md) 
-- [Orth.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Orth.secret.md) 

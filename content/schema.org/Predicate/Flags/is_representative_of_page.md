@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_representative_of_page](../../../../_public/schema.org/Predicate/Flags/is_representative_of_page.md) 
-- [is_representative_of_page.internal](../../../../_internal/schema.org/Predicate/Flags/is_representative_of_page.internal.md) 
-- [is_representative_of_page.protect](../../../../_protect/schema.org/Predicate/Flags/is_representative_of_page.protect.md) 
-- [is_representative_of_page.private](../../../../_private/schema.org/Predicate/Flags/is_representative_of_page.private.md) 
-- [is_representative_of_page.personal](../../../../_personal/schema.org/Predicate/Flags/is_representative_of_page.personal.md) 
-- [is_representative_of_page.secret](../../../../_secret/schema.org/Predicate/Flags/is_representative_of_page.secret.md) 

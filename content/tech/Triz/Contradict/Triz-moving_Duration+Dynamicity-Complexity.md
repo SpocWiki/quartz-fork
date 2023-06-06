@@ -19,10 +19,3 @@ title: Triz-moving_Duration+Dynamicity-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Duration+Dynamicity-Complexity](../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.md) 
-- [Triz-moving_Duration+Dynamicity-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.internal.md) 
-- [Triz-moving_Duration+Dynamicity-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.protect.md) 
-- [Triz-moving_Duration+Dynamicity-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.private.md) 
-- [Triz-moving_Duration+Dynamicity-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.personal.md) 
-- [Triz-moving_Duration+Dynamicity-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Dynamicity-Complexity.secret.md) 

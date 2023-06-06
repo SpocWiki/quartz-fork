@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaiserslautern](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaiserslautern.md) 
-- [Kaiserslautern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaiserslautern.internal.md) 
-- [Kaiserslautern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaiserslautern.protect.md) 
-- [Kaiserslautern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaiserslautern.private.md) 
-- [Kaiserslautern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaiserslautern.personal.md) 
-- [Kaiserslautern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kaiserslautern.secret.md) 

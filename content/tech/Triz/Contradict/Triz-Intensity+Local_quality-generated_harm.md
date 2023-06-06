@@ -19,10 +19,3 @@ title: Triz-Intensity+Local_quality-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Local_quality-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.md) 
-- [Triz-Intensity+Local_quality-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.internal.md) 
-- [Triz-Intensity+Local_quality-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.protect.md) 
-- [Triz-Intensity+Local_quality-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.private.md) 
-- [Triz-Intensity+Local_quality-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.personal.md) 
-- [Triz-Intensity+Local_quality-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Local_quality-generated_harm.secret.md) 

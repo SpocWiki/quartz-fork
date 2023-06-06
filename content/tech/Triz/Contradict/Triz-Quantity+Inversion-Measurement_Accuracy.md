@@ -19,10 +19,3 @@ title: Triz-Quantity+Inversion-Measurement_Accuracy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Inversion-Measurement_Accuracy](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.md) 
-- [Triz-Quantity+Inversion-Measurement_Accuracy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.internal.md) 
-- [Triz-Quantity+Inversion-Measurement_Accuracy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.protect.md) 
-- [Triz-Quantity+Inversion-Measurement_Accuracy.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.private.md) 
-- [Triz-Quantity+Inversion-Measurement_Accuracy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.personal.md) 
-- [Triz-Quantity+Inversion-Measurement_Accuracy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Inversion-Measurement_Accuracy.secret.md) 

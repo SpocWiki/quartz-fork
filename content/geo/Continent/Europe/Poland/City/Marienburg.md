@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marienburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Marienburg.md) 
-- [Marienburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Marienburg.internal.md) 
-- [Marienburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Marienburg.protect.md) 
-- [Marienburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Marienburg.private.md) 
-- [Marienburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Marienburg.personal.md) 
-- [Marienburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Marienburg.secret.md) 

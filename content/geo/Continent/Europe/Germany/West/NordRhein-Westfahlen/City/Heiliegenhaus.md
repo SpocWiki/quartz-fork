@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heiliegenhaus](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenhaus.md) 
-- [Heiliegenhaus.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenhaus.internal.md) 
-- [Heiliegenhaus.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenhaus.protect.md) 
-- [Heiliegenhaus.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenhaus.private.md) 
-- [Heiliegenhaus.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenhaus.personal.md) 
-- [Heiliegenhaus.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenhaus.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sachsenhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Sachsenhausen.md) 
-- [Sachsenhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Sachsenhausen.internal.md) 
-- [Sachsenhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Sachsenhausen.protect.md) 
-- [Sachsenhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Sachsenhausen.private.md) 
-- [Sachsenhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Sachsenhausen.personal.md) 
-- [Sachsenhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Sachsenhausen.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Speed+Replacement_of_a_mechanical_system-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Replacement_of_a_mechanical_system-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.md) 
-- [Triz-Speed+Replacement_of_a_mechanical_system-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.internal.md) 
-- [Triz-Speed+Replacement_of_a_mechanical_system-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.protect.md) 
-- [Triz-Speed+Replacement_of_a_mechanical_system-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.private.md) 
-- [Triz-Speed+Replacement_of_a_mechanical_system-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.personal.md) 
-- [Triz-Speed+Replacement_of_a_mechanical_system-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-Temperature.secret.md) 

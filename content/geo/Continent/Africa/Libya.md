@@ -122,7 +122,7 @@ markerFolder: ./Libya/City
 
 ![350](geo/Continent/Africa/Libya/Seal_of_the_Government_of_National_Unity_(Libya).svg)
 
-![Anthem-Libya](xLarge/National-Anthem/Anthem-Libya.mp3)
+[Anthem-Libya](xLarge/National-Anthem/Anthem-Libya.mp3)
 
 ![350](geo/Continent/Africa/Libya/Flag_of_Libya.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Libya/City
 
 
 
-## Confidential Links & Embeds: 
-- [Libya](../../../../_public/geo/Continent/Africa/Libya.md) 
-- [Libya.internal](../../../../_internal/geo/Continent/Africa/Libya.internal.md) 
-- [Libya.protect](../../../../_protect/geo/Continent/Africa/Libya.protect.md) 
-- [Libya.private](../../../../_private/geo/Continent/Africa/Libya.private.md) 
-- [Libya.personal](../../../../_personal/geo/Continent/Africa/Libya.personal.md) 
-- [Libya.secret](../../../../_secret/geo/Continent/Africa/Libya.secret.md) 

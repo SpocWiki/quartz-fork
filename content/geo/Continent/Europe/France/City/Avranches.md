@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Avranches](../../../../../../_public/geo/Continent/Europe/France/City/Avranches.md) 
-- [Avranches.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Avranches.internal.md) 
-- [Avranches.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Avranches.protect.md) 
-- [Avranches.private](../../../../../../_private/geo/Continent/Europe/France/City/Avranches.private.md) 
-- [Avranches.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Avranches.personal.md) 
-- [Avranches.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Avranches.secret.md) 

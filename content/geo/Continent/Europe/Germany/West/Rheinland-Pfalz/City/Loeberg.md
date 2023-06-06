@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loeberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Loeberg.md) 
-- [Loeberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Loeberg.internal.md) 
-- [Loeberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Loeberg.protect.md) 
-- [Loeberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Loeberg.private.md) 
-- [Loeberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Loeberg.personal.md) 
-- [Loeberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Loeberg.secret.md) 

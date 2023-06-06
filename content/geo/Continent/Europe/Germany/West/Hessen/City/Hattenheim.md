@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hattenheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Hattenheim.md) 
-- [Hattenheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hattenheim.internal.md) 
-- [Hattenheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hattenheim.protect.md) 
-- [Hattenheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hattenheim.private.md) 
-- [Hattenheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hattenheim.personal.md) 
-- [Hattenheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hattenheim.secret.md) 

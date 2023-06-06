@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stamford](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stamford.md) 
-- [Stamford.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stamford.internal.md) 
-- [Stamford.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stamford.protect.md) 
-- [Stamford.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stamford.private.md) 
-- [Stamford.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stamford.personal.md) 
-- [Stamford.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stamford.secret.md) 

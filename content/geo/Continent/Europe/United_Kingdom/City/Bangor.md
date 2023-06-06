@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bangor](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bangor.md) 
-- [Bangor.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bangor.internal.md) 
-- [Bangor.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bangor.protect.md) 
-- [Bangor.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bangor.private.md) 
-- [Bangor.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bangor.personal.md) 
-- [Bangor.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bangor.secret.md) 

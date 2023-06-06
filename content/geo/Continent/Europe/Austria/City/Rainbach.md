@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rainbach](../../../../../../_public/geo/Continent/Europe/Austria/City/Rainbach.md) 
-- [Rainbach.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Rainbach.internal.md) 
-- [Rainbach.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Rainbach.protect.md) 
-- [Rainbach.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Rainbach.private.md) 
-- [Rainbach.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Rainbach.personal.md) 
-- [Rainbach.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Rainbach.secret.md) 

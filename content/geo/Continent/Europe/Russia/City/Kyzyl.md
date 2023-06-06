@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kyzyl](../../../../../../_public/geo/Continent/Europe/Russia/City/Kyzyl.md) 
-- [Kyzyl.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kyzyl.internal.md) 
-- [Kyzyl.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kyzyl.protect.md) 
-- [Kyzyl.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kyzyl.private.md) 
-- [Kyzyl.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kyzyl.personal.md) 
-- [Kyzyl.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kyzyl.secret.md) 

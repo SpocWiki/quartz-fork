@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Clémency](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Cl%C3%A9mency.md) 
-- [Clémency.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Cl%C3%A9mency.internal.md) 
-- [Clémency.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Cl%C3%A9mency.protect.md) 
-- [Clémency.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Cl%C3%A9mency.private.md) 
-- [Clémency.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Cl%C3%A9mency.personal.md) 
-- [Clémency.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Cl%C3%A9mency.secret.md) 

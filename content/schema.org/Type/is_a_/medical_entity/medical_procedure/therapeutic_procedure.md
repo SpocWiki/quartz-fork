@@ -47,10 +47,3 @@ A medical procedure intended primarily for therapeutic purposes, aimed at improv
 
 
 
-## Confidential Links & Embeds: 
-- [therapeutic_procedure](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.md) 
-- [therapeutic_procedure.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.internal.md) 
-- [therapeutic_procedure.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.protect.md) 
-- [therapeutic_procedure.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.private.md) 
-- [therapeutic_procedure.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.personal.md) 
-- [therapeutic_procedure.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.secret.md) 

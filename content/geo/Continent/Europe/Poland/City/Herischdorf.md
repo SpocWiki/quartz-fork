@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Herischdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Herischdorf.md) 
-- [Herischdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Herischdorf.internal.md) 
-- [Herischdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Herischdorf.protect.md) 
-- [Herischdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Herischdorf.private.md) 
-- [Herischdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Herischdorf.personal.md) 
-- [Herischdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Herischdorf.secret.md) 

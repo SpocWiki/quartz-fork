@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haelsan](../../../../../../_public/geo/Continent/Europe/Sweden/City/Haelsan.md) 
-- [Haelsan.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haelsan.internal.md) 
-- [Haelsan.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haelsan.protect.md) 
-- [Haelsan.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Haelsan.private.md) 
-- [Haelsan.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haelsan.personal.md) 
-- [Haelsan.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haelsan.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Yaroslavl_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Yaroslavl_Oblast.md) 
-- [State-Yaroslavl_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Yaroslavl_Oblast.internal.md) 
-- [State-Yaroslavl_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Yaroslavl_Oblast.protect.md) 
-- [State-Yaroslavl_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Yaroslavl_Oblast.private.md) 
-- [State-Yaroslavl_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Yaroslavl_Oblast.personal.md) 
-- [State-Yaroslavl_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Yaroslavl_Oblast.secret.md) 

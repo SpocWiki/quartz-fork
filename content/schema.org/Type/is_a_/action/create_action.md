@@ -45,10 +45,3 @@ The act of deliberately creating/producing/generating/building a result out of t
 
 
 
-## Confidential Links & Embeds: 
-- [create_action](../../../../../_public/schema.org/Type/is_a_/action/create_action.md) 
-- [create_action.internal](../../../../../_internal/schema.org/Type/is_a_/action/create_action.internal.md) 
-- [create_action.protect](../../../../../_protect/schema.org/Type/is_a_/action/create_action.protect.md) 
-- [create_action.private](../../../../../_private/schema.org/Type/is_a_/action/create_action.private.md) 
-- [create_action.personal](../../../../../_personal/schema.org/Type/is_a_/action/create_action.personal.md) 
-- [create_action.secret](../../../../../_secret/schema.org/Type/is_a_/action/create_action.secret.md) 

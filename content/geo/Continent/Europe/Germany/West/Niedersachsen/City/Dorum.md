@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dorum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.md) 
-- [Dorum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.internal.md) 
-- [Dorum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.protect.md) 
-- [Dorum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.private.md) 
-- [Dorum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.personal.md) 
-- [Dorum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dorum.secret.md) 

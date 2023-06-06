@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brezinek](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Brezinek.md) 
-- [Brezinek.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Brezinek.internal.md) 
-- [Brezinek.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Brezinek.protect.md) 
-- [Brezinek.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Brezinek.private.md) 
-- [Brezinek.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Brezinek.personal.md) 
-- [Brezinek.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Brezinek.secret.md) 

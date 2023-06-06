@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Geyer](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geyer.md) 
-- [Geyer.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geyer.internal.md) 
-- [Geyer.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geyer.protect.md) 
-- [Geyer.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geyer.private.md) 
-- [Geyer.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geyer.personal.md) 
-- [Geyer.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geyer.secret.md) 

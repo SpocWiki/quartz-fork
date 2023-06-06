@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Aubin_du_Cernier](../../../../../../_public/geo/Continent/Europe/France/City/St.Aubin_du_Cernier.md) 
-- [St.Aubin_du_Cernier.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Aubin_du_Cernier.internal.md) 
-- [St.Aubin_du_Cernier.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Aubin_du_Cernier.protect.md) 
-- [St.Aubin_du_Cernier.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Aubin_du_Cernier.private.md) 
-- [St.Aubin_du_Cernier.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Aubin_du_Cernier.personal.md) 
-- [St.Aubin_du_Cernier.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Aubin_du_Cernier.secret.md) 

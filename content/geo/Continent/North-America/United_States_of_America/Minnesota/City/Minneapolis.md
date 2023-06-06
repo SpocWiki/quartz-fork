@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Minneapolis](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Minnesota/City/Minneapolis.md) 
-- [Minneapolis.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Minnesota/City/Minneapolis.internal.md) 
-- [Minneapolis.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Minnesota/City/Minneapolis.protect.md) 
-- [Minneapolis.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Minnesota/City/Minneapolis.private.md) 
-- [Minneapolis.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Minnesota/City/Minneapolis.personal.md) 
-- [Minneapolis.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Minnesota/City/Minneapolis.secret.md) 

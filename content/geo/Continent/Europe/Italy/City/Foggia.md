@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Foggia](../../../../../../_public/geo/Continent/Europe/Italy/City/Foggia.md) 
-- [Foggia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Foggia.internal.md) 
-- [Foggia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Foggia.protect.md) 
-- [Foggia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Foggia.private.md) 
-- [Foggia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Foggia.personal.md) 
-- [Foggia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Foggia.secret.md) 

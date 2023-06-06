@@ -43,10 +43,3 @@ The act of reaching a draw in a competitive activity.
 
 
 
-## Confidential Links & Embeds: 
-- [tie_action](../../../../../../_public/schema.org/Type/is_a_/action/achieve_action/tie_action.md) 
-- [tie_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/achieve_action/tie_action.internal.md) 
-- [tie_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/achieve_action/tie_action.protect.md) 
-- [tie_action.private](../../../../../../_private/schema.org/Type/is_a_/action/achieve_action/tie_action.private.md) 
-- [tie_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/achieve_action/tie_action.personal.md) 
-- [tie_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/achieve_action/tie_action.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gilching](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Gilching.md) 
-- [Gilching.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gilching.internal.md) 
-- [Gilching.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gilching.protect.md) 
-- [Gilching.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gilching.private.md) 
-- [Gilching.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Gilching.personal.md) 
-- [Gilching.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Gilching.secret.md) 

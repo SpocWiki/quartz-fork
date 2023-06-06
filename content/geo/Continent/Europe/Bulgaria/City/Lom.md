@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lom](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Lom.md) 
-- [Lom.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Lom.internal.md) 
-- [Lom.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Lom.protect.md) 
-- [Lom.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Lom.private.md) 
-- [Lom.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Lom.personal.md) 
-- [Lom.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Lom.secret.md) 

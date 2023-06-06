@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oeregrund](../../../../../../_public/geo/Continent/Europe/Sweden/City/Oeregrund.md) 
-- [Oeregrund.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oeregrund.internal.md) 
-- [Oeregrund.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oeregrund.protect.md) 
-- [Oeregrund.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Oeregrund.private.md) 
-- [Oeregrund.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oeregrund.personal.md) 
-- [Oeregrund.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oeregrund.secret.md) 

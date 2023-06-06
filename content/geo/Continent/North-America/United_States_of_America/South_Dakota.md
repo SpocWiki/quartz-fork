@@ -38,10 +38,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [South_Dakota](../../../../../_public/geo/Continent/North-America/United_States_of_America/South_Dakota.md) 
-- [South_Dakota.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Dakota.internal.md) 
-- [South_Dakota.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Dakota.protect.md) 
-- [South_Dakota.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Dakota.private.md) 
-- [South_Dakota.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Dakota.personal.md) 
-- [South_Dakota.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Dakota.secret.md) 

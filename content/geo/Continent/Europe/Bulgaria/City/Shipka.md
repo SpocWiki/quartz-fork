@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Shipka](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Shipka.md) 
-- [Shipka.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Shipka.internal.md) 
-- [Shipka.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Shipka.protect.md) 
-- [Shipka.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Shipka.private.md) 
-- [Shipka.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Shipka.personal.md) 
-- [Shipka.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Shipka.secret.md) 

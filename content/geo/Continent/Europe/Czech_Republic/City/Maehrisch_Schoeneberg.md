@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maehrisch_Schoeneberg](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.md) 
-- [Maehrisch_Schoeneberg.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.internal.md) 
-- [Maehrisch_Schoeneberg.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.protect.md) 
-- [Maehrisch_Schoeneberg.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.private.md) 
-- [Maehrisch_Schoeneberg.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.personal.md) 
-- [Maehrisch_Schoeneberg.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.secret.md) 

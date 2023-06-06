@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sarepta](../../../../../../_public/geo/Continent/Europe/Russia/City/Sarepta.md) 
-- [Sarepta.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sarepta.internal.md) 
-- [Sarepta.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sarepta.protect.md) 
-- [Sarepta.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sarepta.private.md) 
-- [Sarepta.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sarepta.personal.md) 
-- [Sarepta.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sarepta.secret.md) 

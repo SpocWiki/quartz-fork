@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sztutowo](../../../../../../_public/geo/Continent/Europe/Poland/City/Sztutowo.md) 
-- [Sztutowo.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sztutowo.internal.md) 
-- [Sztutowo.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sztutowo.protect.md) 
-- [Sztutowo.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sztutowo.private.md) 
-- [Sztutowo.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sztutowo.personal.md) 
-- [Sztutowo.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sztutowo.secret.md) 

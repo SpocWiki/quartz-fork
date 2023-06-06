@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maastricht](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Maastricht.md) 
-- [Maastricht.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Maastricht.internal.md) 
-- [Maastricht.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Maastricht.protect.md) 
-- [Maastricht.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Maastricht.private.md) 
-- [Maastricht.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Maastricht.personal.md) 
-- [Maastricht.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Maastricht.secret.md) 

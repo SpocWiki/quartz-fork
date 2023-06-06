@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nantua](../../../../../../_public/geo/Continent/Europe/France/City/Nantua.md) 
-- [Nantua.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nantua.internal.md) 
-- [Nantua.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nantua.protect.md) 
-- [Nantua.private](../../../../../../_private/geo/Continent/Europe/France/City/Nantua.private.md) 
-- [Nantua.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nantua.personal.md) 
-- [Nantua.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nantua.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meaux](../../../../../../_public/geo/Continent/Europe/France/City/Meaux.md) 
-- [Meaux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Meaux.internal.md) 
-- [Meaux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Meaux.protect.md) 
-- [Meaux.private](../../../../../../_private/geo/Continent/Europe/France/City/Meaux.private.md) 
-- [Meaux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Meaux.personal.md) 
-- [Meaux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Meaux.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Angers](../../../../../../_public/geo/Continent/Europe/France/City/Angers.md) 
-- [Angers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Angers.internal.md) 
-- [Angers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Angers.protect.md) 
-- [Angers.private](../../../../../../_private/geo/Continent/Europe/France/City/Angers.private.md) 
-- [Angers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Angers.personal.md) 
-- [Angers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Angers.secret.md) 

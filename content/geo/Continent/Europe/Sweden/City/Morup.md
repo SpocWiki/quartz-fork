@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Morup](../../../../../../_public/geo/Continent/Europe/Sweden/City/Morup.md) 
-- [Morup.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Morup.internal.md) 
-- [Morup.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Morup.protect.md) 
-- [Morup.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Morup.private.md) 
-- [Morup.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Morup.personal.md) 
-- [Morup.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Morup.secret.md) 

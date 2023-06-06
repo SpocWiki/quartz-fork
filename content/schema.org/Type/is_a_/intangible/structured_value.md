@@ -45,10 +45,3 @@ Structured values are used when the value of a property has a more complex struc
 
 
 
-## Confidential Links & Embeds: 
-- [structured_value](../../../../../_public/schema.org/Type/is_a_/intangible/structured_value.md) 
-- [structured_value.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value.internal.md) 
-- [structured_value.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value.protect.md) 
-- [structured_value.private](../../../../../_private/schema.org/Type/is_a_/intangible/structured_value.private.md) 
-- [structured_value.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value.personal.md) 
-- [structured_value.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value.secret.md) 

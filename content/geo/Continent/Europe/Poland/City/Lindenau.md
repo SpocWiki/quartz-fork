@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lindenau](../../../../../../_public/geo/Continent/Europe/Poland/City/Lindenau.md) 
-- [Lindenau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lindenau.internal.md) 
-- [Lindenau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lindenau.protect.md) 
-- [Lindenau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lindenau.private.md) 
-- [Lindenau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lindenau.personal.md) 
-- [Lindenau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lindenau.secret.md) 

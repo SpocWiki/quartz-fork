@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_carrier](../../../../../_public/schema.org/Predicate/Relations/has/has_carrier.md) 
-- [has_carrier.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_carrier.internal.md) 
-- [has_carrier.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_carrier.protect.md) 
-- [has_carrier.private](../../../../../_private/schema.org/Predicate/Relations/has/has_carrier.private.md) 
-- [has_carrier.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_carrier.personal.md) 
-- [has_carrier.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_carrier.secret.md) 

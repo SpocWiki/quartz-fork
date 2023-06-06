@@ -34,10 +34,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kingston~Thames](../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.md) 
-- [Kingston~Thames.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.internal.md) 
-- [Kingston~Thames.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.protect.md) 
-- [Kingston~Thames.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.private.md) 
-- [Kingston~Thames.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.personal.md) 
-- [Kingston~Thames.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Kingston~Thames.secret.md) 

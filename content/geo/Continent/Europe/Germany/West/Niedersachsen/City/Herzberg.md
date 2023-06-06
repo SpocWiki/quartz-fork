@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Herzberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.md) 
-- [Herzberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.internal.md) 
-- [Herzberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.protect.md) 
-- [Herzberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.private.md) 
-- [Herzberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.personal.md) 
-- [Herzberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Herzberg.secret.md) 

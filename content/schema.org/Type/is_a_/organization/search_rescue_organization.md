@@ -45,10 +45,3 @@ A Search and Rescue organization of some kind.
 
 
 
-## Confidential Links & Embeds: 
-- [search_rescue_organization](../../../../../_public/schema.org/Type/is_a_/organization/search_rescue_organization.md) 
-- [search_rescue_organization.internal](../../../../../_internal/schema.org/Type/is_a_/organization/search_rescue_organization.internal.md) 
-- [search_rescue_organization.protect](../../../../../_protect/schema.org/Type/is_a_/organization/search_rescue_organization.protect.md) 
-- [search_rescue_organization.private](../../../../../_private/schema.org/Type/is_a_/organization/search_rescue_organization.private.md) 
-- [search_rescue_organization.personal](../../../../../_personal/schema.org/Type/is_a_/organization/search_rescue_organization.personal.md) 
-- [search_rescue_organization.secret](../../../../../_secret/schema.org/Type/is_a_/organization/search_rescue_organization.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Triliessy](../../../../../../_public/geo/Continent/Europe/Russia/City/Triliessy.md) 
-- [Triliessy.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Triliessy.internal.md) 
-- [Triliessy.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Triliessy.protect.md) 
-- [Triliessy.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Triliessy.private.md) 
-- [Triliessy.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Triliessy.personal.md) 
-- [Triliessy.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Triliessy.secret.md) 

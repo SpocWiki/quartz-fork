@@ -18,10 +18,3 @@ title: Triz-change-consistency
 Change the Concentration or Consistency.
 
 
-## Confidential Links & Embeds: 
-- [Triz-change-consistency](../../../../_public/tech/Triz/Sub/Triz-change-consistency.md) 
-- [Triz-change-consistency.internal](../../../../_internal/tech/Triz/Sub/Triz-change-consistency.internal.md) 
-- [Triz-change-consistency.protect](../../../../_protect/tech/Triz/Sub/Triz-change-consistency.protect.md) 
-- [Triz-change-consistency.private](../../../../_private/tech/Triz/Sub/Triz-change-consistency.private.md) 
-- [Triz-change-consistency.personal](../../../../_personal/tech/Triz/Sub/Triz-change-consistency.personal.md) 
-- [Triz-change-consistency.secret](../../../../_secret/tech/Triz/Sub/Triz-change-consistency.secret.md) 

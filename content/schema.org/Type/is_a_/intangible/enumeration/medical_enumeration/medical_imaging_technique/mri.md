@@ -45,10 +45,3 @@ Magnetic resonance imaging.
 
 
 
-## Confidential Links & Embeds: 
-- [mri](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.md) 
-- [mri.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.internal.md) 
-- [mri.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.protect.md) 
-- [mri.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.private.md) 
-- [mri.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.personal.md) 
-- [mri.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.secret.md) 

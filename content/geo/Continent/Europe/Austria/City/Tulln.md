@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tulln](../../../../../../_public/geo/Continent/Europe/Austria/City/Tulln.md) 
-- [Tulln.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Tulln.internal.md) 
-- [Tulln.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Tulln.protect.md) 
-- [Tulln.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Tulln.private.md) 
-- [Tulln.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Tulln.personal.md) 
-- [Tulln.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Tulln.secret.md) 

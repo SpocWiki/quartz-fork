@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.md) 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.internal.md) 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.protect.md) 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.private.md) 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.personal.md) 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Information-Loss.secret.md) 

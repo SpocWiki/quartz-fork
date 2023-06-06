@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kalau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kalau.md) 
-- [Kalau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kalau.internal.md) 
-- [Kalau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kalau.protect.md) 
-- [Kalau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kalau.private.md) 
-- [Kalau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kalau.personal.md) 
-- [Kalau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kalau.secret.md) 

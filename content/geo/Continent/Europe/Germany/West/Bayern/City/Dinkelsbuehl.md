@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dinkelsbuehl](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.md) 
-- [Dinkelsbuehl.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.internal.md) 
-- [Dinkelsbuehl.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.protect.md) 
-- [Dinkelsbuehl.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.private.md) 
-- [Dinkelsbuehl.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.personal.md) 
-- [Dinkelsbuehl.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbuehl.secret.md) 

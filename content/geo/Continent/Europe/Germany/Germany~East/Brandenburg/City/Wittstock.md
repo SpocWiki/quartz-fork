@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wittstock](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.md) 
-- [Wittstock.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.internal.md) 
-- [Wittstock.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.protect.md) 
-- [Wittstock.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.private.md) 
-- [Wittstock.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.personal.md) 
-- [Wittstock.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittstock.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-22172+Partial,_overdone,_or_excessive_action-10307
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-22172+Partial,_overdone,_or_excessive_action-10307](../../../../_public/tech/Triz/Contradict/Triz-22172+Partial,_overdone,_or_excessive_action-10307.md) 
-- [Triz-22172+Partial,_overdone,_or_excessive_action-10307.internal](../../../../_internal/tech/Triz/Contradict/Triz-22172+Partial,_overdone,_or_excessive_action-10307.internal.md) 
-- [Triz-22172+Partial,_overdone,_or_excessive_action-10307.protect](../../../../_protect/tech/Triz/Contradict/Triz-22172+Partial,_overdone,_or_excessive_action-10307.protect.md) 
-- [Triz-22172+Partial,_overdone,_or_excessive_action-10307.private](../../../../_private/tech/Triz/Contradict/Triz-22172+Partial,_overdone,_or_excessive_action-10307.private.md) 
-- [Triz-22172+Partial,_overdone,_or_excessive_action-10307.personal](../../../../_personal/tech/Triz/Contradict/Triz-22172+Partial,_overdone,_or_excessive_action-10307.personal.md) 
-- [Triz-22172+Partial,_overdone,_or_excessive_action-10307.secret](../../../../_secret/tech/Triz/Contradict/Triz-22172+Partial,_overdone,_or_excessive_action-10307.secret.md) 

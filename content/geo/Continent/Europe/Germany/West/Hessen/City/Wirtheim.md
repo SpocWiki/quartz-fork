@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wirtheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.md) 
-- [Wirtheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.internal.md) 
-- [Wirtheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.protect.md) 
-- [Wirtheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.private.md) 
-- [Wirtheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.personal.md) 
-- [Wirtheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wirtheim.secret.md) 

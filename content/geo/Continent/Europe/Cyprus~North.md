@@ -36,10 +36,3 @@ markerFolder: ./Cyprus/City
 
 
 
-## Confidential Links & Embeds: 
-- [Cyprus~North](../../../../_public/geo/Continent/Europe/Cyprus~North.md) 
-- [Cyprus~North.internal](../../../../_internal/geo/Continent/Europe/Cyprus~North.internal.md) 
-- [Cyprus~North.protect](../../../../_protect/geo/Continent/Europe/Cyprus~North.protect.md) 
-- [Cyprus~North.private](../../../../_private/geo/Continent/Europe/Cyprus~North.private.md) 
-- [Cyprus~North.personal](../../../../_personal/geo/Continent/Europe/Cyprus~North.personal.md) 
-- [Cyprus~North.secret](../../../../_secret/geo/Continent/Europe/Cyprus~North.secret.md) 

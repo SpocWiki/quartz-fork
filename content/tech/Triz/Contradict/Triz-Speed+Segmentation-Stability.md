@@ -19,10 +19,3 @@ title: Triz-Speed+Segmentation-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Segmentation-Stability](../../../../_public/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.md) 
-- [Triz-Speed+Segmentation-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.internal.md) 
-- [Triz-Speed+Segmentation-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.protect.md) 
-- [Triz-Speed+Segmentation-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.private.md) 
-- [Triz-Speed+Segmentation-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.personal.md) 
-- [Triz-Speed+Segmentation-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Segmentation-Stability.secret.md) 

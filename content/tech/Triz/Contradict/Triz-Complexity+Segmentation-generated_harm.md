@@ -19,10 +19,3 @@ title: Triz-Complexity+Segmentation-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Segmentation-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Segmentation-generated_harm.md) 
-- [Triz-Complexity+Segmentation-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Segmentation-generated_harm.internal.md) 
-- [Triz-Complexity+Segmentation-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Segmentation-generated_harm.protect.md) 
-- [Triz-Complexity+Segmentation-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Segmentation-generated_harm.private.md) 
-- [Triz-Complexity+Segmentation-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Segmentation-generated_harm.personal.md) 
-- [Triz-Complexity+Segmentation-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Segmentation-generated_harm.secret.md) 

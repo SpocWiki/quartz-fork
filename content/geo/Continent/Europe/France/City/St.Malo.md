@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Malo](../../../../../../_public/geo/Continent/Europe/France/City/St.Malo.md) 
-- [St.Malo.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Malo.internal.md) 
-- [St.Malo.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Malo.protect.md) 
-- [St.Malo.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Malo.private.md) 
-- [St.Malo.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Malo.personal.md) 
-- [St.Malo.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Malo.secret.md) 

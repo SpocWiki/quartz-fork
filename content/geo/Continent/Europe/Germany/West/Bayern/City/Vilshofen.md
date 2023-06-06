@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vilshofen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Vilshofen.md) 
-- [Vilshofen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Vilshofen.internal.md) 
-- [Vilshofen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Vilshofen.protect.md) 
-- [Vilshofen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Vilshofen.private.md) 
-- [Vilshofen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Vilshofen.personal.md) 
-- [Vilshofen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Vilshofen.secret.md) 

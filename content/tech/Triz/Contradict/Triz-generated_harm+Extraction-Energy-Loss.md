@@ -19,10 +19,3 @@ title: Triz-generated_harm+Extraction-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Extraction-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.md) 
-- [Triz-generated_harm+Extraction-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.internal.md) 
-- [Triz-generated_harm+Extraction-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.protect.md) 
-- [Triz-generated_harm+Extraction-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.private.md) 
-- [Triz-generated_harm+Extraction-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.personal.md) 
-- [Triz-generated_harm+Extraction-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Extraction-Energy-Loss.secret.md) 

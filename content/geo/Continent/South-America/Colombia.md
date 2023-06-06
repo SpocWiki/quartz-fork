@@ -121,7 +121,7 @@ markerFolder: ./Colombia/City
 
 ![550](geo/Continent/South-America/Colombia/Coat_of_arms_of_Colombia.svg)
 
-![Anthem-Colombia](xLarge/National-Anthem/Anthem-Colombia.mp3)
+[Anthem-Colombia](xLarge/National-Anthem/Anthem-Colombia.mp3)
 
 ![350](geo/Continent/South-America/Colombia/Flag_of_Colombia.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Colombia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Colombia](../../../../_public/geo/Continent/South-America/Colombia.md) 
-- [Colombia.internal](../../../../_internal/geo/Continent/South-America/Colombia.internal.md) 
-- [Colombia.protect](../../../../_protect/geo/Continent/South-America/Colombia.protect.md) 
-- [Colombia.private](../../../../_private/geo/Continent/South-America/Colombia.private.md) 
-- [Colombia.personal](../../../../_personal/geo/Continent/South-America/Colombia.personal.md) 
-- [Colombia.secret](../../../../_secret/geo/Continent/South-America/Colombia.secret.md) 

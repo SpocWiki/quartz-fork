@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Glatz](../../../../../../_public/geo/Continent/Europe/Poland/City/Glatz.md) 
-- [Glatz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Glatz.internal.md) 
-- [Glatz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Glatz.protect.md) 
-- [Glatz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Glatz.private.md) 
-- [Glatz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Glatz.personal.md) 
-- [Glatz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Glatz.secret.md) 

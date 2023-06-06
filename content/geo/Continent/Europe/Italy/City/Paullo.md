@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Paullo](../../../../../../_public/geo/Continent/Europe/Italy/City/Paullo.md) 
-- [Paullo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Paullo.internal.md) 
-- [Paullo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Paullo.protect.md) 
-- [Paullo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Paullo.private.md) 
-- [Paullo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Paullo.personal.md) 
-- [Paullo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Paullo.secret.md) 

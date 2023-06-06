@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_acquired_from](../../../../../_public/schema.org/Predicate/Relations/is/is_acquired_from.md) 
-- [is_acquired_from.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_acquired_from.internal.md) 
-- [is_acquired_from.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_acquired_from.protect.md) 
-- [is_acquired_from.private](../../../../../_private/schema.org/Predicate/Relations/is/is_acquired_from.private.md) 
-- [is_acquired_from.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_acquired_from.personal.md) 
-- [is_acquired_from.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_acquired_from.secret.md) 

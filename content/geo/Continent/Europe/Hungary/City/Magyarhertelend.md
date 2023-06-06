@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Magyarhertelend](../../../../../../_public/geo/Continent/Europe/Hungary/City/Magyarhertelend.md) 
-- [Magyarhertelend.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Magyarhertelend.internal.md) 
-- [Magyarhertelend.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Magyarhertelend.protect.md) 
-- [Magyarhertelend.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Magyarhertelend.private.md) 
-- [Magyarhertelend.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Magyarhertelend.personal.md) 
-- [Magyarhertelend.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Magyarhertelend.secret.md) 

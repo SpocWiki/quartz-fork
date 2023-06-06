@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loebau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Loebau.md) 
-- [Loebau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Loebau.internal.md) 
-- [Loebau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Loebau.protect.md) 
-- [Loebau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Loebau.private.md) 
-- [Loebau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Loebau.personal.md) 
-- [Loebau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Loebau.secret.md) 

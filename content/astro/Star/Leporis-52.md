@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Leporis-52](../../../_public/astro/Star/Leporis-52.md) 
-- [Leporis-52.internal](../../../_internal/astro/Star/Leporis-52.internal.md) 
-- [Leporis-52.protect](../../../_protect/astro/Star/Leporis-52.protect.md) 
-- [Leporis-52.private](../../../_private/astro/Star/Leporis-52.private.md) 
-- [Leporis-52.personal](../../../_personal/astro/Star/Leporis-52.personal.md) 
-- [Leporis-52.secret](../../../_secret/astro/Star/Leporis-52.secret.md) 

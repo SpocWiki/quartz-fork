@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aosta](../../../../../../_public/geo/Continent/Europe/Italy/City/Aosta.md) 
-- [Aosta.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Aosta.internal.md) 
-- [Aosta.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Aosta.protect.md) 
-- [Aosta.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Aosta.private.md) 
-- [Aosta.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Aosta.personal.md) 
-- [Aosta.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Aosta.secret.md) 

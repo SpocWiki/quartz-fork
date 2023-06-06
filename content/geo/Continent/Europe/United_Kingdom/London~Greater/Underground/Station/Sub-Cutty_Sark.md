@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Cutty_Sark](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.md) 
-- [Sub-Cutty_Sark.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.internal.md) 
-- [Sub-Cutty_Sark.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.protect.md) 
-- [Sub-Cutty_Sark.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.private.md) 
-- [Sub-Cutty_Sark.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.personal.md) 
-- [Sub-Cutty_Sark.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Cutty_Sark.secret.md) 

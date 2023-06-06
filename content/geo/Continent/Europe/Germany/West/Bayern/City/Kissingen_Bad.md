@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kissingen_Bad](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.md) 
-- [Kissingen_Bad.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.internal.md) 
-- [Kissingen_Bad.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.protect.md) 
-- [Kissingen_Bad.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.private.md) 
-- [Kissingen_Bad.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.personal.md) 
-- [Kissingen_Bad.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Diyatalawa](../../../../../../_public/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.md) 
-- [Diyatalawa.internal](../../../../../../_internal/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.internal.md) 
-- [Diyatalawa.protect](../../../../../../_protect/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.protect.md) 
-- [Diyatalawa.private](../../../../../../_private/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.private.md) 
-- [Diyatalawa.personal](../../../../../../_personal/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.personal.md) 
-- [Diyatalawa.secret](../../../../../../_secret/geo/Continent/Asia/Sri_Lanka/City/Diyatalawa.secret.md) 

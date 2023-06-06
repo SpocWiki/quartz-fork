@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gelnhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Gelnhausen.md) 
-- [Gelnhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Gelnhausen.internal.md) 
-- [Gelnhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Gelnhausen.protect.md) 
-- [Gelnhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Gelnhausen.private.md) 
-- [Gelnhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Gelnhausen.personal.md) 
-- [Gelnhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Gelnhausen.secret.md) 

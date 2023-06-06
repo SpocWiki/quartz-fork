@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_issn](../../../../_public/schema.org/Predicate/Texts/has_issn.md) 
-- [has_issn.internal](../../../../_internal/schema.org/Predicate/Texts/has_issn.internal.md) 
-- [has_issn.protect](../../../../_protect/schema.org/Predicate/Texts/has_issn.protect.md) 
-- [has_issn.private](../../../../_private/schema.org/Predicate/Texts/has_issn.private.md) 
-- [has_issn.personal](../../../../_personal/schema.org/Predicate/Texts/has_issn.personal.md) 
-- [has_issn.secret](../../../../_secret/schema.org/Predicate/Texts/has_issn.secret.md) 

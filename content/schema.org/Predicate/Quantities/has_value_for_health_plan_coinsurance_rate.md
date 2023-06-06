@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_health_plan_coinsurance_rate](../../../../_public/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.md) 
-- [has_value_for_health_plan_coinsurance_rate.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.internal.md) 
-- [has_value_for_health_plan_coinsurance_rate.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.protect.md) 
-- [has_value_for_health_plan_coinsurance_rate.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.private.md) 
-- [has_value_for_health_plan_coinsurance_rate.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.personal.md) 
-- [has_value_for_health_plan_coinsurance_rate.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.secret.md) 

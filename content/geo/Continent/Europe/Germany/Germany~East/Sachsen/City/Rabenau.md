@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rabenau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rabenau.md) 
-- [Rabenau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rabenau.internal.md) 
-- [Rabenau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rabenau.protect.md) 
-- [Rabenau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rabenau.private.md) 
-- [Rabenau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rabenau.personal.md) 
-- [Rabenau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rabenau.secret.md) 

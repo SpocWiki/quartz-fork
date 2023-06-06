@@ -47,10 +47,3 @@ A process of care used in either a diagnostic, therapeutic, preventive or pallia
 
 
 
-## Confidential Links & Embeds: 
-- [medical_procedure](../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure.md) 
-- [medical_procedure.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure.internal.md) 
-- [medical_procedure.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure.protect.md) 
-- [medical_procedure.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure.private.md) 
-- [medical_procedure.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure.personal.md) 
-- [medical_procedure.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure.secret.md) 

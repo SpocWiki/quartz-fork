@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.md) 
-- [Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.internal.md) 
-- [Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.protect.md) 
-- [Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.private.md) 
-- [Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.personal.md) 
-- [Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Use_a_pneumatic_or_hydralic_construction-Reliability.secret.md) 

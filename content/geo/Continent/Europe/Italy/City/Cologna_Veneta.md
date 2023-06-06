@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cologna_Veneta](../../../../../../_public/geo/Continent/Europe/Italy/City/Cologna_Veneta.md) 
-- [Cologna_Veneta.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cologna_Veneta.internal.md) 
-- [Cologna_Veneta.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cologna_Veneta.protect.md) 
-- [Cologna_Veneta.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cologna_Veneta.private.md) 
-- [Cologna_Veneta.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cologna_Veneta.personal.md) 
-- [Cologna_Veneta.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cologna_Veneta.secret.md) 

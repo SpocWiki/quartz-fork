@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Holzkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Holzkirchen.md) 
-- [Holzkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Holzkirchen.internal.md) 
-- [Holzkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Holzkirchen.protect.md) 
-- [Holzkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Holzkirchen.private.md) 
-- [Holzkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Holzkirchen.personal.md) 
-- [Holzkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Holzkirchen.secret.md) 

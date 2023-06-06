@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borssum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borssum.md) 
-- [Borssum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borssum.internal.md) 
-- [Borssum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borssum.protect.md) 
-- [Borssum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borssum.private.md) 
-- [Borssum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borssum.personal.md) 
-- [Borssum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borssum.secret.md) 

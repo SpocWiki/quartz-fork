@@ -45,10 +45,3 @@ A designation by the US FDA signifying that studies in animals or humans have de
 
 
 
-## Confidential Links & Embeds: 
-- [fd_acategory_x](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_x.md) 
-- [fd_acategory_x.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_x.internal.md) 
-- [fd_acategory_x.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_x.protect.md) 
-- [fd_acategory_x.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_x.private.md) 
-- [fd_acategory_x.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_x.personal.md) 
-- [fd_acategory_x.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_x.secret.md) 

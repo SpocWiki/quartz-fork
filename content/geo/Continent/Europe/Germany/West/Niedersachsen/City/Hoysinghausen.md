@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoysinghausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hoysinghausen.md) 
-- [Hoysinghausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hoysinghausen.internal.md) 
-- [Hoysinghausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hoysinghausen.protect.md) 
-- [Hoysinghausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hoysinghausen.private.md) 
-- [Hoysinghausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hoysinghausen.personal.md) 
-- [Hoysinghausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hoysinghausen.secret.md) 

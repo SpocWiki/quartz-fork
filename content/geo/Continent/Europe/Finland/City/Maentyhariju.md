@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maentyhariju](../../../../../../_public/geo/Continent/Europe/Finland/City/Maentyhariju.md) 
-- [Maentyhariju.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Maentyhariju.internal.md) 
-- [Maentyhariju.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Maentyhariju.protect.md) 
-- [Maentyhariju.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Maentyhariju.private.md) 
-- [Maentyhariju.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Maentyhariju.personal.md) 
-- [Maentyhariju.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Maentyhariju.secret.md) 

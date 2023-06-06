@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuhmoniemi](../../../../../../_public/geo/Continent/Europe/Finland/City/Kuhmoniemi.md) 
-- [Kuhmoniemi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuhmoniemi.internal.md) 
-- [Kuhmoniemi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuhmoniemi.protect.md) 
-- [Kuhmoniemi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kuhmoniemi.private.md) 
-- [Kuhmoniemi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuhmoniemi.personal.md) 
-- [Kuhmoniemi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuhmoniemi.secret.md) 

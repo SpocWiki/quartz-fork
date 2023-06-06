@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_that_overlaps](../../../../_public/schema.org/Predicate/geos/has_geo_that_overlaps.md) 
-- [has_geo_that_overlaps.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_that_overlaps.internal.md) 
-- [has_geo_that_overlaps.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_that_overlaps.protect.md) 
-- [has_geo_that_overlaps.private](../../../../_private/schema.org/Predicate/geos/has_geo_that_overlaps.private.md) 
-- [has_geo_that_overlaps.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_that_overlaps.personal.md) 
-- [has_geo_that_overlaps.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_that_overlaps.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bangkok](../../../../../../_public/geo/Continent/Asia/Thailand/City/Bangkok.md) 
-- [Bangkok.internal](../../../../../../_internal/geo/Continent/Asia/Thailand/City/Bangkok.internal.md) 
-- [Bangkok.protect](../../../../../../_protect/geo/Continent/Asia/Thailand/City/Bangkok.protect.md) 
-- [Bangkok.private](../../../../../../_private/geo/Continent/Asia/Thailand/City/Bangkok.private.md) 
-- [Bangkok.personal](../../../../../../_personal/geo/Continent/Asia/Thailand/City/Bangkok.personal.md) 
-- [Bangkok.secret](../../../../../../_secret/geo/Continent/Asia/Thailand/City/Bangkok.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jassy](../../../../../../_public/geo/Continent/Europe/Romania/City/Jassy.md) 
-- [Jassy.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Jassy.internal.md) 
-- [Jassy.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Jassy.protect.md) 
-- [Jassy.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Jassy.private.md) 
-- [Jassy.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Jassy.personal.md) 
-- [Jassy.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Jassy.secret.md) 

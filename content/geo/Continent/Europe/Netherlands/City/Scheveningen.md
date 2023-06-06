@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Scheveningen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Scheveningen.md) 
-- [Scheveningen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Scheveningen.internal.md) 
-- [Scheveningen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Scheveningen.protect.md) 
-- [Scheveningen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Scheveningen.private.md) 
-- [Scheveningen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Scheveningen.personal.md) 
-- [Scheveningen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Scheveningen.secret.md) 

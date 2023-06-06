@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taronwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Taronwitz.md) 
-- [Taronwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Taronwitz.internal.md) 
-- [Taronwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Taronwitz.protect.md) 
-- [Taronwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Taronwitz.private.md) 
-- [Taronwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Taronwitz.personal.md) 
-- [Taronwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Taronwitz.secret.md) 

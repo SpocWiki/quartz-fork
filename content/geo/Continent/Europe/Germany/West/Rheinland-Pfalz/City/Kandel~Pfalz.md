@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kandel~Pfalz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.md) 
-- [Kandel~Pfalz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.internal.md) 
-- [Kandel~Pfalz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.protect.md) 
-- [Kandel~Pfalz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.private.md) 
-- [Kandel~Pfalz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.personal.md) 
-- [Kandel~Pfalz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kandel~Pfalz.secret.md) 

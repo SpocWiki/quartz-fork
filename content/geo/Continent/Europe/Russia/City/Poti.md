@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poti](../../../../../../_public/geo/Continent/Europe/Russia/City/Poti.md) 
-- [Poti.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Poti.internal.md) 
-- [Poti.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Poti.protect.md) 
-- [Poti.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Poti.private.md) 
-- [Poti.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Poti.personal.md) 
-- [Poti.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Poti.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karlsbad](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Karlsbad.md) 
-- [Karlsbad.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Karlsbad.internal.md) 
-- [Karlsbad.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Karlsbad.protect.md) 
-- [Karlsbad.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Karlsbad.private.md) 
-- [Karlsbad.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Karlsbad.personal.md) 
-- [Karlsbad.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Karlsbad.secret.md) 

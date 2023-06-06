@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ortenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ortenburg.md) 
-- [Ortenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ortenburg.internal.md) 
-- [Ortenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ortenburg.protect.md) 
-- [Ortenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ortenburg.private.md) 
-- [Ortenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ortenburg.personal.md) 
-- [Ortenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ortenburg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Turinsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Turinsk.md) 
-- [Turinsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Turinsk.internal.md) 
-- [Turinsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Turinsk.protect.md) 
-- [Turinsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Turinsk.private.md) 
-- [Turinsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Turinsk.personal.md) 
-- [Turinsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Turinsk.secret.md) 

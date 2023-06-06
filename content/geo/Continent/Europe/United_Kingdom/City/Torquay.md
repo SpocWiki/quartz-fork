@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Torquay](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Torquay.md) 
-- [Torquay.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Torquay.internal.md) 
-- [Torquay.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Torquay.protect.md) 
-- [Torquay.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Torquay.private.md) 
-- [Torquay.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Torquay.personal.md) 
-- [Torquay.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Torquay.secret.md) 

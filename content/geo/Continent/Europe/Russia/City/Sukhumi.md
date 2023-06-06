@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sukhumi](../../../../../../_public/geo/Continent/Europe/Russia/City/Sukhumi.md) 
-- [Sukhumi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sukhumi.internal.md) 
-- [Sukhumi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sukhumi.protect.md) 
-- [Sukhumi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sukhumi.private.md) 
-- [Sukhumi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sukhumi.personal.md) 
-- [Sukhumi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sukhumi.secret.md) 

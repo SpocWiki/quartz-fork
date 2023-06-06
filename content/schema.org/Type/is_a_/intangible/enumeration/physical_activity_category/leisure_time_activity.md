@@ -45,10 +45,3 @@ Any physical activity engaged in for recreational purposes. Examples may include
 
 
 
-## Confidential Links & Embeds: 
-- [leisure_time_activity](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/leisure_time_activity.md) 
-- [leisure_time_activity.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/leisure_time_activity.internal.md) 
-- [leisure_time_activity.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/leisure_time_activity.protect.md) 
-- [leisure_time_activity.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/leisure_time_activity.private.md) 
-- [leisure_time_activity.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/leisure_time_activity.personal.md) 
-- [leisure_time_activity.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/leisure_time_activity.secret.md) 

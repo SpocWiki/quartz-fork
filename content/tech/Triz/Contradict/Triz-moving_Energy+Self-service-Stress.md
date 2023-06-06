@@ -19,10 +19,3 @@ title: Triz-moving_Energy+Self-service-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy+Self-service-Stress](../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.md) 
-- [Triz-moving_Energy+Self-service-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.internal.md) 
-- [Triz-moving_Energy+Self-service-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.protect.md) 
-- [Triz-moving_Energy+Self-service-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.private.md) 
-- [Triz-moving_Energy+Self-service-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.personal.md) 
-- [Triz-moving_Energy+Self-service-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Self-service-Stress.secret.md) 

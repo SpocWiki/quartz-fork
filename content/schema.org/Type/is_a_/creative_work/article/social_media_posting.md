@@ -45,10 +45,3 @@ A post to a social media platform, including blog posts, tweets, Facebook posts,
 
 
 
-## Confidential Links & Embeds: 
-- [social_media_posting](../../../../../../_public/schema.org/Type/is_a_/creative_work/article/social_media_posting.md) 
-- [social_media_posting.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/social_media_posting.internal.md) 
-- [social_media_posting.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/social_media_posting.protect.md) 
-- [social_media_posting.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/article/social_media_posting.private.md) 
-- [social_media_posting.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/social_media_posting.personal.md) 
-- [social_media_posting.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/social_media_posting.secret.md) 

@@ -49,10 +49,3 @@ In Markdown this is even riskier, since there are no clear limits, except for th
 
 
 
-## Confidential Links & Embeds: 
-- [comment_permission](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.md) 
-- [comment_permission.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.internal.md) 
-- [comment_permission.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.protect.md) 
-- [comment_permission.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.private.md) 
-- [comment_permission.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.personal.md) 
-- [comment_permission.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/comment_permission.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Inzell](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Inzell.md) 
-- [Inzell.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Inzell.internal.md) 
-- [Inzell.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Inzell.protect.md) 
-- [Inzell.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Inzell.private.md) 
-- [Inzell.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Inzell.personal.md) 
-- [Inzell.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Inzell.secret.md) 

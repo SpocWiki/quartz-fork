@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sprendlingen~Rheinhessen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.md) 
-- [Sprendlingen~Rheinhessen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.internal.md) 
-- [Sprendlingen~Rheinhessen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.protect.md) 
-- [Sprendlingen~Rheinhessen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.private.md) 
-- [Sprendlingen~Rheinhessen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.personal.md) 
-- [Sprendlingen~Rheinhessen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sprendlingen~Rheinhessen.secret.md) 

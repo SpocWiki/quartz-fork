@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Platta_Medels](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Platta_Medels.md) 
-- [Platta_Medels.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Platta_Medels.internal.md) 
-- [Platta_Medels.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Platta_Medels.protect.md) 
-- [Platta_Medels.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Platta_Medels.private.md) 
-- [Platta_Medels.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Platta_Medels.personal.md) 
-- [Platta_Medels.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Platta_Medels.secret.md) 

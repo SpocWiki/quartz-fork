@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pfarrkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.md) 
-- [Pfarrkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.internal.md) 
-- [Pfarrkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.protect.md) 
-- [Pfarrkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.private.md) 
-- [Pfarrkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.personal.md) 
-- [Pfarrkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pfarrkirchen.secret.md) 

@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sagittarii-19](../../../_public/astro/Star/Sagittarii-19.md) 
-- [Sagittarii-19.internal](../../../_internal/astro/Star/Sagittarii-19.internal.md) 
-- [Sagittarii-19.protect](../../../_protect/astro/Star/Sagittarii-19.protect.md) 
-- [Sagittarii-19.private](../../../_private/astro/Star/Sagittarii-19.private.md) 
-- [Sagittarii-19.personal](../../../_personal/astro/Star/Sagittarii-19.personal.md) 
-- [Sagittarii-19.secret](../../../_secret/astro/Star/Sagittarii-19.secret.md) 

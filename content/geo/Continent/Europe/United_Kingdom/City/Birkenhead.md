@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Birkenhead](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Birkenhead.md) 
-- [Birkenhead.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Birkenhead.internal.md) 
-- [Birkenhead.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Birkenhead.protect.md) 
-- [Birkenhead.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Birkenhead.private.md) 
-- [Birkenhead.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Birkenhead.personal.md) 
-- [Birkenhead.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Birkenhead.secret.md) 

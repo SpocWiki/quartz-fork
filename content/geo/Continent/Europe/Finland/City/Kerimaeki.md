@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kerimaeki](../../../../../../_public/geo/Continent/Europe/Finland/City/Kerimaeki.md) 
-- [Kerimaeki.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kerimaeki.internal.md) 
-- [Kerimaeki.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kerimaeki.protect.md) 
-- [Kerimaeki.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kerimaeki.private.md) 
-- [Kerimaeki.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kerimaeki.personal.md) 
-- [Kerimaeki.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kerimaeki.secret.md) 

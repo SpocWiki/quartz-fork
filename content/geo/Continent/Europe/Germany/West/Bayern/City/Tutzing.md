@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tutzing](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Tutzing.md) 
-- [Tutzing.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tutzing.internal.md) 
-- [Tutzing.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tutzing.protect.md) 
-- [Tutzing.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tutzing.private.md) 
-- [Tutzing.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Tutzing.personal.md) 
-- [Tutzing.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Tutzing.secret.md) 

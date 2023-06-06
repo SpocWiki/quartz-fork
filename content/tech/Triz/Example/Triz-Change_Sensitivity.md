@@ -17,10 +17,3 @@ title: Triz-Change_Sensitivity
 
 Change Sensitivity of a Thermostat when cooling vs. heating, since it uses Energy less efficiently when cooling.
 
-## Confidential Links & Embeds: 
-- [Triz-Change_Sensitivity](../../../../_public/tech/Triz/Example/Triz-Change_Sensitivity.md) 
-- [Triz-Change_Sensitivity.internal](../../../../_internal/tech/Triz/Example/Triz-Change_Sensitivity.internal.md) 
-- [Triz-Change_Sensitivity.protect](../../../../_protect/tech/Triz/Example/Triz-Change_Sensitivity.protect.md) 
-- [Triz-Change_Sensitivity.private](../../../../_private/tech/Triz/Example/Triz-Change_Sensitivity.private.md) 
-- [Triz-Change_Sensitivity.personal](../../../../_personal/tech/Triz/Example/Triz-Change_Sensitivity.personal.md) 
-- [Triz-Change_Sensitivity.secret](../../../../_secret/tech/Triz/Example/Triz-Change_Sensitivity.secret.md) 

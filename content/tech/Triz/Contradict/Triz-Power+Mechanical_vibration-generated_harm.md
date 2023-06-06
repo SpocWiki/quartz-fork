@@ -19,10 +19,3 @@ title: Triz-Power+Mechanical_vibration-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Mechanical_vibration-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.md) 
-- [Triz-Power+Mechanical_vibration-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.internal.md) 
-- [Triz-Power+Mechanical_vibration-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.protect.md) 
-- [Triz-Power+Mechanical_vibration-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.private.md) 
-- [Triz-Power+Mechanical_vibration-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.personal.md) 
-- [Triz-Power+Mechanical_vibration-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-generated_harm.secret.md) 

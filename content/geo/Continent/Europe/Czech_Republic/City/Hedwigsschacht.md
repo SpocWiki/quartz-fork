@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hedwigsschacht](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.md) 
-- [Hedwigsschacht.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.internal.md) 
-- [Hedwigsschacht.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.protect.md) 
-- [Hedwigsschacht.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.private.md) 
-- [Hedwigsschacht.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.personal.md) 
-- [Hedwigsschacht.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.secret.md) 

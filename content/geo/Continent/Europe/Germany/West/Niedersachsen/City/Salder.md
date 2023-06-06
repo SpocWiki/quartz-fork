@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salder](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.md) 
-- [Salder.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.internal.md) 
-- [Salder.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.protect.md) 
-- [Salder.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.private.md) 
-- [Salder.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.personal.md) 
-- [Salder.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salder.secret.md) 

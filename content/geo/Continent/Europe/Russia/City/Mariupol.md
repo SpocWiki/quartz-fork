@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mariupol](../../../../../../_public/geo/Continent/Europe/Russia/City/Mariupol.md) 
-- [Mariupol.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mariupol.internal.md) 
-- [Mariupol.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mariupol.protect.md) 
-- [Mariupol.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mariupol.private.md) 
-- [Mariupol.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mariupol.personal.md) 
-- [Mariupol.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mariupol.secret.md) 

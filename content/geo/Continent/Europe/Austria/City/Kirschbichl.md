@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirschbichl](../../../../../../_public/geo/Continent/Europe/Austria/City/Kirschbichl.md) 
-- [Kirschbichl.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Kirschbichl.internal.md) 
-- [Kirschbichl.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Kirschbichl.protect.md) 
-- [Kirschbichl.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Kirschbichl.private.md) 
-- [Kirschbichl.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Kirschbichl.personal.md) 
-- [Kirschbichl.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Kirschbichl.secret.md) 

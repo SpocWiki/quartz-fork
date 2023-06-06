@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Tver_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Tver_Oblast.md) 
-- [State-Tver_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Tver_Oblast.internal.md) 
-- [State-Tver_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Tver_Oblast.protect.md) 
-- [State-Tver_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Tver_Oblast.private.md) 
-- [State-Tver_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Tver_Oblast.personal.md) 
-- [State-Tver_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Tver_Oblast.secret.md) 

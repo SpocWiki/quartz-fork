@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Friedrichsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.md) 
-- [Friedrichsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.internal.md) 
-- [Friedrichsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.protect.md) 
-- [Friedrichsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.private.md) 
-- [Friedrichsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.personal.md) 
-- [Friedrichsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Friedrichsdorf.secret.md) 

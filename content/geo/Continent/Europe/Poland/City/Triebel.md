@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Triebel](../../../../../../_public/geo/Continent/Europe/Poland/City/Triebel.md) 
-- [Triebel.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Triebel.internal.md) 
-- [Triebel.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Triebel.protect.md) 
-- [Triebel.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Triebel.private.md) 
-- [Triebel.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Triebel.personal.md) 
-- [Triebel.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Triebel.secret.md) 

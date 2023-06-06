@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sensburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Sensburg.md) 
-- [Sensburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sensburg.internal.md) 
-- [Sensburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sensburg.protect.md) 
-- [Sensburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sensburg.private.md) 
-- [Sensburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sensburg.personal.md) 
-- [Sensburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sensburg.secret.md) 

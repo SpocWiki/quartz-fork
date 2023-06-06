@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muehlhausen=Mulhouse](../../../../../../_public/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.md) 
-- [Muehlhausen=Mulhouse.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.internal.md) 
-- [Muehlhausen=Mulhouse.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.protect.md) 
-- [Muehlhausen=Mulhouse.private](../../../../../../_private/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.private.md) 
-- [Muehlhausen=Mulhouse.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.personal.md) 
-- [Muehlhausen=Mulhouse.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Muehlhausen=Mulhouse.secret.md) 

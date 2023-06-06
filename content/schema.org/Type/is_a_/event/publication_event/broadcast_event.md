@@ -43,10 +43,3 @@ An over the air or online broadcast event.
 
 
 
-## Confidential Links & Embeds: 
-- [broadcast_event](../../../../../../_public/schema.org/Type/is_a_/event/publication_event/broadcast_event.md) 
-- [broadcast_event.internal](../../../../../../_internal/schema.org/Type/is_a_/event/publication_event/broadcast_event.internal.md) 
-- [broadcast_event.protect](../../../../../../_protect/schema.org/Type/is_a_/event/publication_event/broadcast_event.protect.md) 
-- [broadcast_event.private](../../../../../../_private/schema.org/Type/is_a_/event/publication_event/broadcast_event.private.md) 
-- [broadcast_event.personal](../../../../../../_personal/schema.org/Type/is_a_/event/publication_event/broadcast_event.personal.md) 
-- [broadcast_event.secret](../../../../../../_secret/schema.org/Type/is_a_/event/publication_event/broadcast_event.secret.md) 

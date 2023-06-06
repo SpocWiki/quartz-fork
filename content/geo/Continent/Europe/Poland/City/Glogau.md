@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Glogau](../../../../../../_public/geo/Continent/Europe/Poland/City/Glogau.md) 
-- [Glogau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Glogau.internal.md) 
-- [Glogau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Glogau.protect.md) 
-- [Glogau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Glogau.private.md) 
-- [Glogau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Glogau.personal.md) 
-- [Glogau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Glogau.secret.md) 

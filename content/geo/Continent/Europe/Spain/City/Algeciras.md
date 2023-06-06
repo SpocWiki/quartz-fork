@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Algeciras](../../../../../../_public/geo/Continent/Europe/Spain/City/Algeciras.md) 
-- [Algeciras.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Algeciras.internal.md) 
-- [Algeciras.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Algeciras.protect.md) 
-- [Algeciras.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Algeciras.private.md) 
-- [Algeciras.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Algeciras.personal.md) 
-- [Algeciras.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Algeciras.secret.md) 

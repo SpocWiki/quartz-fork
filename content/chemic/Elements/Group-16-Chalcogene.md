@@ -22,10 +22,3 @@ title: Group-16-Chalcogene
 
 
 
-## Confidential Links & Embeds: 
-- [Group-16-Chalcogene](../../../_public/chemic/Elements/Group-16-Chalcogene.md) 
-- [Group-16-Chalcogene.internal](../../../_internal/chemic/Elements/Group-16-Chalcogene.internal.md) 
-- [Group-16-Chalcogene.protect](../../../_protect/chemic/Elements/Group-16-Chalcogene.protect.md) 
-- [Group-16-Chalcogene.private](../../../_private/chemic/Elements/Group-16-Chalcogene.private.md) 
-- [Group-16-Chalcogene.personal](../../../_personal/chemic/Elements/Group-16-Chalcogene.personal.md) 
-- [Group-16-Chalcogene.secret](../../../_secret/chemic/Elements/Group-16-Chalcogene.secret.md) 

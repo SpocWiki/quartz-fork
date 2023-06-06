@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hereny](../../../../../../_public/geo/Continent/Europe/Hungary/City/Hereny.md) 
-- [Hereny.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hereny.internal.md) 
-- [Hereny.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hereny.protect.md) 
-- [Hereny.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Hereny.private.md) 
-- [Hereny.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hereny.personal.md) 
-- [Hereny.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hereny.secret.md) 

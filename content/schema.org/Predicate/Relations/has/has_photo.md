@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_photo](../../../../../_public/schema.org/Predicate/Relations/has/has_photo.md) 
-- [has_photo.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_photo.internal.md) 
-- [has_photo.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_photo.protect.md) 
-- [has_photo.private](../../../../../_private/schema.org/Predicate/Relations/has/has_photo.private.md) 
-- [has_photo.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_photo.personal.md) 
-- [has_photo.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_photo.secret.md) 

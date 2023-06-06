@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_maximum_enrollments](../../../../_public/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.md) 
-- [has_number_of_maximum_enrollments.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.internal.md) 
-- [has_number_of_maximum_enrollments.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.protect.md) 
-- [has_number_of_maximum_enrollments.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.private.md) 
-- [has_number_of_maximum_enrollments.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.personal.md) 
-- [has_number_of_maximum_enrollments.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sankt_Moritz](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.md) 
-- [Sankt_Moritz.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.internal.md) 
-- [Sankt_Moritz.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.protect.md) 
-- [Sankt_Moritz.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.private.md) 
-- [Sankt_Moritz.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.personal.md) 
-- [Sankt_Moritz.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sankt_Moritz.secret.md) 

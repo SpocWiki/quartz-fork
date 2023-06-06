@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soligalitsch](../../../../../../_public/geo/Continent/Europe/Russia/City/Soligalitsch.md) 
-- [Soligalitsch.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Soligalitsch.internal.md) 
-- [Soligalitsch.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Soligalitsch.protect.md) 
-- [Soligalitsch.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Soligalitsch.private.md) 
-- [Soligalitsch.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Soligalitsch.personal.md) 
-- [Soligalitsch.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Soligalitsch.secret.md) 

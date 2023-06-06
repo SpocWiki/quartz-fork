@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Aquilae-8](../../../_public/astro/Star/Aquilae-8.md) 
-- [Aquilae-8.internal](../../../_internal/astro/Star/Aquilae-8.internal.md) 
-- [Aquilae-8.protect](../../../_protect/astro/Star/Aquilae-8.protect.md) 
-- [Aquilae-8.private](../../../_private/astro/Star/Aquilae-8.private.md) 
-- [Aquilae-8.personal](../../../_personal/astro/Star/Aquilae-8.personal.md) 
-- [Aquilae-8.secret](../../../_secret/astro/Star/Aquilae-8.secret.md)
-

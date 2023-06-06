@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zaisan](../../../../../../_public/geo/Continent/Europe/Russia/City/Zaisan.md) 
-- [Zaisan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zaisan.internal.md) 
-- [Zaisan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zaisan.protect.md) 
-- [Zaisan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zaisan.private.md) 
-- [Zaisan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zaisan.personal.md) 
-- [Zaisan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zaisan.secret.md) 

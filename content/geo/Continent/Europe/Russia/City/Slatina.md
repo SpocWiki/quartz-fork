@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Slatina](../../../../../../_public/geo/Continent/Europe/Russia/City/Slatina.md) 
-- [Slatina.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Slatina.internal.md) 
-- [Slatina.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Slatina.protect.md) 
-- [Slatina.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Slatina.private.md) 
-- [Slatina.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Slatina.personal.md) 
-- [Slatina.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Slatina.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Dynamicity-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Dynamicity-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Difficulty.md) 
-- [Triz-stationary_Weight+Dynamicity-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Difficulty.internal.md) 
-- [Triz-stationary_Weight+Dynamicity-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Difficulty.protect.md) 
-- [Triz-stationary_Weight+Dynamicity-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Difficulty.private.md) 
-- [Triz-stationary_Weight+Dynamicity-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Difficulty.personal.md) 
-- [Triz-stationary_Weight+Dynamicity-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Difficulty.secret.md) 

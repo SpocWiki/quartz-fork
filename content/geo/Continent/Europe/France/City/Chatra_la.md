@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chatra_la](../../../../../../_public/geo/Continent/Europe/France/City/Chatra_la.md) 
-- [Chatra_la.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chatra_la.internal.md) 
-- [Chatra_la.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chatra_la.protect.md) 
-- [Chatra_la.private](../../../../../../_private/geo/Continent/Europe/France/City/Chatra_la.private.md) 
-- [Chatra_la.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chatra_la.personal.md) 
-- [Chatra_la.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chatra_la.secret.md) 

@@ -17,10 +17,3 @@ title: Triz-Seat_Belt
 
 Retraction Mechanism
 
-## Confidential Links & Embeds: 
-- [Triz-Seat_Belt](../../../../_public/tech/Triz/Example/Triz-Seat_Belt.md) 
-- [Triz-Seat_Belt.internal](../../../../_internal/tech/Triz/Example/Triz-Seat_Belt.internal.md) 
-- [Triz-Seat_Belt.protect](../../../../_protect/tech/Triz/Example/Triz-Seat_Belt.protect.md) 
-- [Triz-Seat_Belt.private](../../../../_private/tech/Triz/Example/Triz-Seat_Belt.private.md) 
-- [Triz-Seat_Belt.personal](../../../../_personal/tech/Triz/Example/Triz-Seat_Belt.personal.md) 
-- [Triz-Seat_Belt.secret](../../../../_secret/tech/Triz/Example/Triz-Seat_Belt.secret.md) 

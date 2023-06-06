@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dungannon](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.md) 
-- [Dungannon.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.internal.md) 
-- [Dungannon.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.protect.md) 
-- [Dungannon.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.private.md) 
-- [Dungannon.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.personal.md) 
-- [Dungannon.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Dungannon.secret.md) 

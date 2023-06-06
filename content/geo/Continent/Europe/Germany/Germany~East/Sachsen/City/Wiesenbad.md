@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wiesenbad](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wiesenbad.md) 
-- [Wiesenbad.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wiesenbad.internal.md) 
-- [Wiesenbad.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wiesenbad.protect.md) 
-- [Wiesenbad.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wiesenbad.private.md) 
-- [Wiesenbad.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wiesenbad.personal.md) 
-- [Wiesenbad.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wiesenbad.secret.md) 

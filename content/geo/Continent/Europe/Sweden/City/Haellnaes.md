@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haellnaes](../../../../../../_public/geo/Continent/Europe/Sweden/City/Haellnaes.md) 
-- [Haellnaes.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haellnaes.internal.md) 
-- [Haellnaes.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haellnaes.protect.md) 
-- [Haellnaes.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Haellnaes.private.md) 
-- [Haellnaes.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haellnaes.personal.md) 
-- [Haellnaes.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haellnaes.secret.md) 

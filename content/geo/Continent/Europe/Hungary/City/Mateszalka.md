@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mateszalka](../../../../../../_public/geo/Continent/Europe/Hungary/City/Mateszalka.md) 
-- [Mateszalka.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Mateszalka.internal.md) 
-- [Mateszalka.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Mateszalka.protect.md) 
-- [Mateszalka.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Mateszalka.private.md) 
-- [Mateszalka.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Mateszalka.personal.md) 
-- [Mateszalka.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Mateszalka.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gaustadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Gaustadt.md) 
-- [Gaustadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gaustadt.internal.md) 
-- [Gaustadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gaustadt.protect.md) 
-- [Gaustadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gaustadt.private.md) 
-- [Gaustadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Gaustadt.personal.md) 
-- [Gaustadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Gaustadt.secret.md) 

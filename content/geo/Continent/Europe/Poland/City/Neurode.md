@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neurode](../../../../../../_public/geo/Continent/Europe/Poland/City/Neurode.md) 
-- [Neurode.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neurode.internal.md) 
-- [Neurode.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neurode.protect.md) 
-- [Neurode.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neurode.private.md) 
-- [Neurode.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neurode.personal.md) 
-- [Neurode.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neurode.secret.md) 

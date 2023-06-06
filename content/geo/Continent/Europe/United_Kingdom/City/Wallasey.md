@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wallasey](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wallasey.md) 
-- [Wallasey.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wallasey.internal.md) 
-- [Wallasey.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wallasey.protect.md) 
-- [Wallasey.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wallasey.private.md) 
-- [Wallasey.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wallasey.personal.md) 
-- [Wallasey.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wallasey.secret.md) 

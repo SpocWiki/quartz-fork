@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nitau](../../../../../../_public/geo/Continent/Europe/Russia/City/Nitau.md) 
-- [Nitau.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nitau.internal.md) 
-- [Nitau.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nitau.protect.md) 
-- [Nitau.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nitau.private.md) 
-- [Nitau.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nitau.personal.md) 
-- [Nitau.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nitau.secret.md) 

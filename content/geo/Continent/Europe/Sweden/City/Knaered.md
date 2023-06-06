@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Knaered](../../../../../../_public/geo/Continent/Europe/Sweden/City/Knaered.md) 
-- [Knaered.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Knaered.internal.md) 
-- [Knaered.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Knaered.protect.md) 
-- [Knaered.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Knaered.private.md) 
-- [Knaered.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Knaered.personal.md) 
-- [Knaered.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Knaered.secret.md) 

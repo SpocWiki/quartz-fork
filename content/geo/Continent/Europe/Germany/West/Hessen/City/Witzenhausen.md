@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Witzenhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Witzenhausen.md) 
-- [Witzenhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Witzenhausen.internal.md) 
-- [Witzenhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Witzenhausen.protect.md) 
-- [Witzenhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Witzenhausen.private.md) 
-- [Witzenhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Witzenhausen.personal.md) 
-- [Witzenhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Witzenhausen.secret.md) 

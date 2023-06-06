@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pasing](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Pasing.md) 
-- [Pasing.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pasing.internal.md) 
-- [Pasing.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pasing.protect.md) 
-- [Pasing.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pasing.private.md) 
-- [Pasing.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pasing.personal.md) 
-- [Pasing.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pasing.secret.md) 

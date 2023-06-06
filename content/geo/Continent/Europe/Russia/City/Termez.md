@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Termez](../../../../../../_public/geo/Continent/Europe/Russia/City/Termez.md) 
-- [Termez.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Termez.internal.md) 
-- [Termez.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Termez.protect.md) 
-- [Termez.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Termez.private.md) 
-- [Termez.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Termez.personal.md) 
-- [Termez.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Termez.secret.md) 

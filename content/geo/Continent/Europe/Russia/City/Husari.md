@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Husari](../../../../../../_public/geo/Continent/Europe/Russia/City/Husari.md) 
-- [Husari.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Husari.internal.md) 
-- [Husari.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Husari.protect.md) 
-- [Husari.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Husari.private.md) 
-- [Husari.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Husari.personal.md) 
-- [Husari.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Husari.secret.md) 

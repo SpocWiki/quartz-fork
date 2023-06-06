@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Braganza](../../../../../../_public/geo/Continent/Europe/Portugal/City/Braganza.md) 
-- [Braganza.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Braganza.internal.md) 
-- [Braganza.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Braganza.protect.md) 
-- [Braganza.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Braganza.private.md) 
-- [Braganza.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Braganza.personal.md) 
-- [Braganza.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Braganza.secret.md) 

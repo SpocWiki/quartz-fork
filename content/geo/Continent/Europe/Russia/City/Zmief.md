@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zmief](../../../../../../_public/geo/Continent/Europe/Russia/City/Zmief.md) 
-- [Zmief.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zmief.internal.md) 
-- [Zmief.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zmief.protect.md) 
-- [Zmief.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zmief.private.md) 
-- [Zmief.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zmief.personal.md) 
-- [Zmief.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zmief.secret.md) 

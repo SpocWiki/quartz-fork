@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Milseburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.md) 
-- [Milseburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.internal.md) 
-- [Milseburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.protect.md) 
-- [Milseburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.private.md) 
-- [Milseburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.personal.md) 
-- [Milseburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Milseburg.secret.md) 

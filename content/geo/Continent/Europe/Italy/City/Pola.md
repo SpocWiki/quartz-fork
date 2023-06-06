@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pola](../../../../../../_public/geo/Continent/Europe/Italy/City/Pola.md) 
-- [Pola.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pola.internal.md) 
-- [Pola.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pola.protect.md) 
-- [Pola.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pola.private.md) 
-- [Pola.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pola.personal.md) 
-- [Pola.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pola.secret.md) 

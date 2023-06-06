@@ -43,10 +43,3 @@ A music venue.
 
 
 
-## Confidential Links & Embeds: 
-- [music_venue](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/music_venue.md) 
-- [music_venue.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/music_venue.internal.md) 
-- [music_venue.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/music_venue.protect.md) 
-- [music_venue.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/music_venue.private.md) 
-- [music_venue.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/music_venue.personal.md) 
-- [music_venue.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/music_venue.secret.md) 

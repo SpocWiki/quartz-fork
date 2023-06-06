@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Totteridge_&_Whetstone](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Totteridge_&_Whetstone.md) 
-- [Sub-Totteridge_&_Whetstone.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Totteridge_&_Whetstone.internal.md) 
-- [Sub-Totteridge_&_Whetstone.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Totteridge_&_Whetstone.protect.md) 
-- [Sub-Totteridge_&_Whetstone.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Totteridge_&_Whetstone.private.md) 
-- [Sub-Totteridge_&_Whetstone.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Totteridge_&_Whetstone.personal.md) 
-- [Sub-Totteridge_&_Whetstone.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Totteridge_&_Whetstone.secret.md) 

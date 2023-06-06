@@ -19,10 +19,3 @@ title: Triz-moving_Area+Flexible_film_or_thin_membranes-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Speed](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.md) 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.internal.md) 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.protect.md) 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.private.md) 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.personal.md) 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Speed.secret.md) 

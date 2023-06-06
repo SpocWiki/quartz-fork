@@ -43,10 +43,3 @@ A TV episode which can be part of a series or season.
 
 
 
-## Confidential Links & Embeds: 
-- [tv_episode](../../../../../../_public/schema.org/Type/is_a_/creative_work/episode/tv_episode.md) 
-- [tv_episode.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/episode/tv_episode.internal.md) 
-- [tv_episode.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/episode/tv_episode.protect.md) 
-- [tv_episode.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/episode/tv_episode.private.md) 
-- [tv_episode.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/episode/tv_episode.personal.md) 
-- [tv_episode.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/episode/tv_episode.secret.md) 

@@ -45,10 +45,3 @@ A patient is any person recipient of health care services.
 
 
 
-## Confidential Links & Embeds: 
-- [patient](../../../../../../../_public/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.md) 
-- [patient.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.internal.md) 
-- [patient.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.protect.md) 
-- [patient.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.private.md) 
-- [patient.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.personal.md) 
-- [patient.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.secret.md) 

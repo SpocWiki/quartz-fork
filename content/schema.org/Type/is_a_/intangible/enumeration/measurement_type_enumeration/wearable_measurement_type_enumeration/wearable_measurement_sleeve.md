@@ -47,10 +47,3 @@ Measurement of the sleeve length, for example of a shirt
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_measurement_sleeve](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.md) 
-- [wearable_measurement_sleeve.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.internal.md) 
-- [wearable_measurement_sleeve.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.protect.md) 
-- [wearable_measurement_sleeve.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.private.md) 
-- [wearable_measurement_sleeve.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.personal.md) 
-- [wearable_measurement_sleeve.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_sleeve.secret.md) 

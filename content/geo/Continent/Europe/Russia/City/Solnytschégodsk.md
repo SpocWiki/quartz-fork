@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Solnytschégodsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Solnytsch%C3%A9godsk.md) 
-- [Solnytschégodsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Solnytsch%C3%A9godsk.internal.md) 
-- [Solnytschégodsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Solnytsch%C3%A9godsk.protect.md) 
-- [Solnytschégodsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Solnytsch%C3%A9godsk.private.md) 
-- [Solnytschégodsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Solnytsch%C3%A9godsk.personal.md) 
-- [Solnytschégodsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Solnytsch%C3%A9godsk.secret.md) 

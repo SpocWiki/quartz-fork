@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Glasgow~Schottland](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.md) 
-- [Glasgow~Schottland.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.internal.md) 
-- [Glasgow~Schottland.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.protect.md) 
-- [Glasgow~Schottland.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.private.md) 
-- [Glasgow~Schottland.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.personal.md) 
-- [Glasgow~Schottland.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Glasgow~Schottland.secret.md) 

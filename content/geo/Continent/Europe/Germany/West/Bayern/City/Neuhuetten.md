@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuhuetten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neuhuetten.md) 
-- [Neuhuetten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neuhuetten.internal.md) 
-- [Neuhuetten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neuhuetten.protect.md) 
-- [Neuhuetten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neuhuetten.private.md) 
-- [Neuhuetten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neuhuetten.personal.md) 
-- [Neuhuetten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neuhuetten.secret.md) 

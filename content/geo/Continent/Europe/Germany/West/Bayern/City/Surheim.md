@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Surheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Surheim.md) 
-- [Surheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Surheim.internal.md) 
-- [Surheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Surheim.protect.md) 
-- [Surheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Surheim.private.md) 
-- [Surheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Surheim.personal.md) 
-- [Surheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Surheim.secret.md) 

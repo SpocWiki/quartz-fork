@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lagfors](../../../../../../_public/geo/Continent/Europe/Sweden/City/Lagfors.md) 
-- [Lagfors.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lagfors.internal.md) 
-- [Lagfors.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lagfors.protect.md) 
-- [Lagfors.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Lagfors.private.md) 
-- [Lagfors.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lagfors.personal.md) 
-- [Lagfors.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lagfors.secret.md) 

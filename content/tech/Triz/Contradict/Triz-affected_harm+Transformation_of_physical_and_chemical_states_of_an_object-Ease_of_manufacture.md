@@ -19,10 +19,3 @@ title: Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_o
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.md) 
-- [Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.internal.md) 
-- [Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.protect.md) 
-- [Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.private.md) 
-- [Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.personal.md) 
-- [Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Transformation_of_physical_and_chemical_states_of_an_object-Ease_of_manufacture.secret.md) 

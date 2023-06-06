@@ -122,7 +122,7 @@ markerFolder: ./Lithuania/City
 [VehicleCode::LT]
 [Capital::[Vilnius](geo/Continent/Europe/Lithuania/City/Vilnius.md)]
 ![350](geo/Continent/Europe/Lithuania/Coat_of_arms_of_Lithuania.svg)
-![Anthem-Lithuania](xLarge/National-Anthem/Anthem-Lithuania.mp3)
+[Anthem-Lithuania](xLarge/National-Anthem/Anthem-Lithuania.mp3)
 ![350](geo/Continent/Europe/Lithuania/Flag_of_Lithuania.svg)
 [Alcohol-l::15]
 [Language-Id::]
@@ -131,10 +131,3 @@ markerFolder: ./Lithuania/City
 
 
 
-## Confidential Links & Embeds: 
-- [Lithuania](../../../../_public/geo/Continent/Europe/Lithuania.md) 
-- [Lithuania.internal](../../../../_internal/geo/Continent/Europe/Lithuania.internal.md) 
-- [Lithuania.protect](../../../../_protect/geo/Continent/Europe/Lithuania.protect.md) 
-- [Lithuania.private](../../../../_private/geo/Continent/Europe/Lithuania.private.md) 
-- [Lithuania.personal](../../../../_personal/geo/Continent/Europe/Lithuania.personal.md) 
-- [Lithuania.secret](../../../../_secret/geo/Continent/Europe/Lithuania.secret.md) 

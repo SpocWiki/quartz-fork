@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Composite_materials-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Composite_materials-Shape](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.md) 
-- [Triz-Manufacturing_Precision+Composite_materials-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.internal.md) 
-- [Triz-Manufacturing_Precision+Composite_materials-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.protect.md) 
-- [Triz-Manufacturing_Precision+Composite_materials-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.private.md) 
-- [Triz-Manufacturing_Precision+Composite_materials-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.personal.md) 
-- [Triz-Manufacturing_Precision+Composite_materials-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Composite_materials-Shape.secret.md) 

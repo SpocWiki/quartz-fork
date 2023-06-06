@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tyrvaea](../../../../../../_public/geo/Continent/Europe/Finland/City/Tyrvaea.md) 
-- [Tyrvaea.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Tyrvaea.internal.md) 
-- [Tyrvaea.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Tyrvaea.protect.md) 
-- [Tyrvaea.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Tyrvaea.private.md) 
-- [Tyrvaea.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Tyrvaea.personal.md) 
-- [Tyrvaea.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Tyrvaea.secret.md) 

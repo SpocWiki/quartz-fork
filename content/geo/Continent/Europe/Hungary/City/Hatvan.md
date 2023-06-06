@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hatvan](../../../../../../_public/geo/Continent/Europe/Hungary/City/Hatvan.md) 
-- [Hatvan.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hatvan.internal.md) 
-- [Hatvan.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hatvan.protect.md) 
-- [Hatvan.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Hatvan.private.md) 
-- [Hatvan.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hatvan.personal.md) 
-- [Hatvan.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hatvan.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tschimkent](../../../../../../_public/geo/Continent/Europe/Russia/City/Tschimkent.md) 
-- [Tschimkent.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschimkent.internal.md) 
-- [Tschimkent.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschimkent.protect.md) 
-- [Tschimkent.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tschimkent.private.md) 
-- [Tschimkent.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschimkent.personal.md) 
-- [Tschimkent.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschimkent.secret.md) 

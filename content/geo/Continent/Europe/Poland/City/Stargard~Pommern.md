@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stargard~Pommern](../../../../../../_public/geo/Continent/Europe/Poland/City/Stargard~Pommern.md) 
-- [Stargard~Pommern.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Stargard~Pommern.internal.md) 
-- [Stargard~Pommern.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Stargard~Pommern.protect.md) 
-- [Stargard~Pommern.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Stargard~Pommern.private.md) 
-- [Stargard~Pommern.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Stargard~Pommern.personal.md) 
-- [Stargard~Pommern.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Stargard~Pommern.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Segmentation-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Segmentation-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Versatility.md) 
-- [Triz-Ease_of_repair+Segmentation-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Versatility.internal.md) 
-- [Triz-Ease_of_repair+Segmentation-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Versatility.protect.md) 
-- [Triz-Ease_of_repair+Segmentation-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Versatility.private.md) 
-- [Triz-Ease_of_repair+Segmentation-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Versatility.personal.md) 
-- [Triz-Ease_of_repair+Segmentation-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Versatility.secret.md) 

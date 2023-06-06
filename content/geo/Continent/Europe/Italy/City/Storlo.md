@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Storlo](../../../../../../_public/geo/Continent/Europe/Italy/City/Storlo.md) 
-- [Storlo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Storlo.internal.md) 
-- [Storlo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Storlo.protect.md) 
-- [Storlo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Storlo.private.md) 
-- [Storlo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Storlo.personal.md) 
-- [Storlo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Storlo.secret.md) 

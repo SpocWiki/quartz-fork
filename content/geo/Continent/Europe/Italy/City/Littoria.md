@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Littoria](../../../../../../_public/geo/Continent/Europe/Italy/City/Littoria.md) 
-- [Littoria.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Littoria.internal.md) 
-- [Littoria.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Littoria.protect.md) 
-- [Littoria.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Littoria.private.md) 
-- [Littoria.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Littoria.personal.md) 
-- [Littoria.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Littoria.secret.md) 

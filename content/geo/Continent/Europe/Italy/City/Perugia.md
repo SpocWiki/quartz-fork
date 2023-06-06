@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Perugia](../../../../../../_public/geo/Continent/Europe/Italy/City/Perugia.md) 
-- [Perugia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Perugia.internal.md) 
-- [Perugia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Perugia.protect.md) 
-- [Perugia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Perugia.private.md) 
-- [Perugia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Perugia.personal.md) 
-- [Perugia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Perugia.secret.md) 

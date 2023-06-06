@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cookstown](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.md) 
-- [Cookstown.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.internal.md) 
-- [Cookstown.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.protect.md) 
-- [Cookstown.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.private.md) 
-- [Cookstown.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.personal.md) 
-- [Cookstown.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Cookstown.secret.md) 

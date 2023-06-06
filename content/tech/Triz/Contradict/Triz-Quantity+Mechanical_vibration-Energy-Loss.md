@@ -19,10 +19,3 @@ title: Triz-Quantity+Mechanical_vibration-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Mechanical_vibration-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Energy-Loss.md) 
-- [Triz-Quantity+Mechanical_vibration-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Energy-Loss.internal.md) 
-- [Triz-Quantity+Mechanical_vibration-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Energy-Loss.protect.md) 
-- [Triz-Quantity+Mechanical_vibration-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Energy-Loss.private.md) 
-- [Triz-Quantity+Mechanical_vibration-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Energy-Loss.personal.md) 
-- [Triz-Quantity+Mechanical_vibration-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Energy-Loss.secret.md) 

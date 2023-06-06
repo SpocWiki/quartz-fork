@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Biswang](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.md) 
-- [Biswang.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.internal.md) 
-- [Biswang.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.protect.md) 
-- [Biswang.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.private.md) 
-- [Biswang.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.personal.md) 
-- [Biswang.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Biswang.secret.md) 

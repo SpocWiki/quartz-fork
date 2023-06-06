@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bohnsack](../../../../../../_public/geo/Continent/Europe/Poland/City/Bohnsack.md) 
-- [Bohnsack.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bohnsack.internal.md) 
-- [Bohnsack.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bohnsack.protect.md) 
-- [Bohnsack.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bohnsack.private.md) 
-- [Bohnsack.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bohnsack.personal.md) 
-- [Bohnsack.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bohnsack.secret.md) 

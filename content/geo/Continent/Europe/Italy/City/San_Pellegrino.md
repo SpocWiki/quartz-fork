@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [San_Pellegrino](../../../../../../_public/geo/Continent/Europe/Italy/City/San_Pellegrino.md) 
-- [San_Pellegrino.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Pellegrino.internal.md) 
-- [San_Pellegrino.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Pellegrino.protect.md) 
-- [San_Pellegrino.private](../../../../../../_private/geo/Continent/Europe/Italy/City/San_Pellegrino.private.md) 
-- [San_Pellegrino.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Pellegrino.personal.md) 
-- [San_Pellegrino.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Pellegrino.secret.md) 

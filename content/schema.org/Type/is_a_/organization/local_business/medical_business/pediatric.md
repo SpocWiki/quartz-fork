@@ -45,10 +45,3 @@ A specific branch of medical science that specializes in the care of infants, ch
 
 
 
-## Confidential Links & Embeds: 
-- [pediatric](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/pediatric.md) 
-- [pediatric.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/pediatric.internal.md) 
-- [pediatric.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/pediatric.protect.md) 
-- [pediatric.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/pediatric.private.md) 
-- [pediatric.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/pediatric.personal.md) 
-- [pediatric.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/pediatric.secret.md) 

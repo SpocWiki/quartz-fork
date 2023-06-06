@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gebweiler](../../../../../../_public/geo/Continent/Europe/France/City/Gebweiler.md) 
-- [Gebweiler.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Gebweiler.internal.md) 
-- [Gebweiler.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Gebweiler.protect.md) 
-- [Gebweiler.private](../../../../../../_private/geo/Continent/Europe/France/City/Gebweiler.private.md) 
-- [Gebweiler.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Gebweiler.personal.md) 
-- [Gebweiler.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Gebweiler.secret.md) 

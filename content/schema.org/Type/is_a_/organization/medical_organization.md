@@ -45,10 +45,3 @@ A medical organization (physical or not), such as hospital, institution or clini
 
 
 
-## Confidential Links & Embeds: 
-- [medical_organization](../../../../../_public/schema.org/Type/is_a_/organization/medical_organization.md) 
-- [medical_organization.internal](../../../../../_internal/schema.org/Type/is_a_/organization/medical_organization.internal.md) 
-- [medical_organization.protect](../../../../../_protect/schema.org/Type/is_a_/organization/medical_organization.protect.md) 
-- [medical_organization.private](../../../../../_private/schema.org/Type/is_a_/organization/medical_organization.private.md) 
-- [medical_organization.personal](../../../../../_personal/schema.org/Type/is_a_/organization/medical_organization.personal.md) 
-- [medical_organization.secret](../../../../../_secret/schema.org/Type/is_a_/organization/medical_organization.secret.md) 

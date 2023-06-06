@@ -43,10 +43,3 @@ A mountain, like Mount Whitney or Mount Everest.
 
 
 
-## Confidential Links & Embeds: 
-- [mountain](../../../../../../_public/schema.org/Type/is_a_/place/landform/mountain.md) 
-- [mountain.internal](../../../../../../_internal/schema.org/Type/is_a_/place/landform/mountain.internal.md) 
-- [mountain.protect](../../../../../../_protect/schema.org/Type/is_a_/place/landform/mountain.protect.md) 
-- [mountain.private](../../../../../../_private/schema.org/Type/is_a_/place/landform/mountain.private.md) 
-- [mountain.personal](../../../../../../_personal/schema.org/Type/is_a_/place/landform/mountain.personal.md) 
-- [mountain.secret](../../../../../../_secret/schema.org/Type/is_a_/place/landform/mountain.secret.md) 

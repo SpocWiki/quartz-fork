@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Staudach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Staudach.md) 
-- [Staudach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Staudach.internal.md) 
-- [Staudach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Staudach.protect.md) 
-- [Staudach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Staudach.private.md) 
-- [Staudach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Staudach.personal.md) 
-- [Staudach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Staudach.secret.md) 

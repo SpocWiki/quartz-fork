@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Melbourne](../../../../../../_public/geo/Continent/Australia/Australia/City/Melbourne.md) 
-- [Melbourne.internal](../../../../../../_internal/geo/Continent/Australia/Australia/City/Melbourne.internal.md) 
-- [Melbourne.protect](../../../../../../_protect/geo/Continent/Australia/Australia/City/Melbourne.protect.md) 
-- [Melbourne.private](../../../../../../_private/geo/Continent/Australia/Australia/City/Melbourne.private.md) 
-- [Melbourne.personal](../../../../../../_personal/geo/Continent/Australia/Australia/City/Melbourne.personal.md) 
-- [Melbourne.secret](../../../../../../_secret/geo/Continent/Australia/Australia/City/Melbourne.secret.md) 

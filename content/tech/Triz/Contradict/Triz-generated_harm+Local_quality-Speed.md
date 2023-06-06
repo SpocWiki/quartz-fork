@@ -19,10 +19,3 @@ title: Triz-generated_harm+Local_quality-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Local_quality-Speed](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Speed.md) 
-- [Triz-generated_harm+Local_quality-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Speed.internal.md) 
-- [Triz-generated_harm+Local_quality-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Speed.protect.md) 
-- [Triz-generated_harm+Local_quality-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Speed.private.md) 
-- [Triz-generated_harm+Local_quality-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Speed.personal.md) 
-- [Triz-generated_harm+Local_quality-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Local_quality-Speed.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sandown](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sandown.md) 
-- [Sandown.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sandown.internal.md) 
-- [Sandown.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sandown.protect.md) 
-- [Sandown.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sandown.private.md) 
-- [Sandown.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sandown.personal.md) 
-- [Sandown.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sandown.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lugo](../../../../../../_public/geo/Continent/Europe/Spain/City/Lugo.md) 
-- [Lugo.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Lugo.internal.md) 
-- [Lugo.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Lugo.protect.md) 
-- [Lugo.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Lugo.private.md) 
-- [Lugo.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Lugo.personal.md) 
-- [Lugo.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Lugo.secret.md) 

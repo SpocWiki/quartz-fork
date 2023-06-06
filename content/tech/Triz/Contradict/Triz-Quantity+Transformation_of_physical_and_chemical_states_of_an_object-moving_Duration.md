@@ -19,10 +19,3 @@ title: Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.internal.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.protect.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.private.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.personal.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-moving_Duration.secret.md) 

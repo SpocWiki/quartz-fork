@@ -45,10 +45,3 @@ A <a href="https://en.wikipedia.org/wiki/Hackathon">hackathon</a> event.
 
 
 
-## Confidential Links & Embeds: 
-- [hackathon](../../../../../_public/schema.org/Type/is_a_/event/hackathon.md) 
-- [hackathon.internal](../../../../../_internal/schema.org/Type/is_a_/event/hackathon.internal.md) 
-- [hackathon.protect](../../../../../_protect/schema.org/Type/is_a_/event/hackathon.protect.md) 
-- [hackathon.private](../../../../../_private/schema.org/Type/is_a_/event/hackathon.private.md) 
-- [hackathon.personal](../../../../../_personal/schema.org/Type/is_a_/event/hackathon.personal.md) 
-- [hackathon.secret](../../../../../_secret/schema.org/Type/is_a_/event/hackathon.secret.md) 

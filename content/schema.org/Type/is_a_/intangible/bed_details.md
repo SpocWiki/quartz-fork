@@ -43,10 +43,3 @@ An entity holding detailed information about the available bed types, e.g. the q
 
 
 
-## Confidential Links & Embeds: 
-- [bed_details](../../../../../_public/schema.org/Type/is_a_/intangible/bed_details.md) 
-- [bed_details.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/bed_details.internal.md) 
-- [bed_details.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/bed_details.protect.md) 
-- [bed_details.private](../../../../../_private/schema.org/Type/is_a_/intangible/bed_details.private.md) 
-- [bed_details.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/bed_details.personal.md) 
-- [bed_details.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/bed_details.secret.md) 

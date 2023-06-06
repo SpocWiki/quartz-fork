@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ottersberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ottersberg.md) 
-- [Ottersberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ottersberg.internal.md) 
-- [Ottersberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ottersberg.protect.md) 
-- [Ottersberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ottersberg.private.md) 
-- [Ottersberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ottersberg.personal.md) 
-- [Ottersberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ottersberg.secret.md) 

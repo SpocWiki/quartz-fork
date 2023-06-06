@@ -19,10 +19,3 @@ title: Triz-Shape+Convert_harm_into_benefit-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Convert_harm_into_benefit-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Quantity.md) 
-- [Triz-Shape+Convert_harm_into_benefit-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Quantity.internal.md) 
-- [Triz-Shape+Convert_harm_into_benefit-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Quantity.protect.md) 
-- [Triz-Shape+Convert_harm_into_benefit-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Quantity.private.md) 
-- [Triz-Shape+Convert_harm_into_benefit-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Quantity.personal.md) 
-- [Triz-Shape+Convert_harm_into_benefit-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Quantity.secret.md) 

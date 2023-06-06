@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oropesa](../../../../../../_public/geo/Continent/Europe/Spain/City/Oropesa.md) 
-- [Oropesa.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Oropesa.internal.md) 
-- [Oropesa.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Oropesa.protect.md) 
-- [Oropesa.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Oropesa.private.md) 
-- [Oropesa.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Oropesa.personal.md) 
-- [Oropesa.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Oropesa.secret.md) 

@@ -43,10 +43,3 @@ Researchers.
 
 
 
-## Confidential Links & Embeds: 
-- [researcher](../../../../../../_public/schema.org/Type/is_a_/intangible/audience/researcher.md) 
-- [researcher.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/researcher.internal.md) 
-- [researcher.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/researcher.protect.md) 
-- [researcher.private](../../../../../../_private/schema.org/Type/is_a_/intangible/audience/researcher.private.md) 
-- [researcher.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/researcher.personal.md) 
-- [researcher.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/researcher.secret.md) 

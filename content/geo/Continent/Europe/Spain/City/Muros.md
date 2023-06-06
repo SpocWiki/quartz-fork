@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muros](../../../../../../_public/geo/Continent/Europe/Spain/City/Muros.md) 
-- [Muros.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Muros.internal.md) 
-- [Muros.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Muros.protect.md) 
-- [Muros.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Muros.private.md) 
-- [Muros.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Muros.personal.md) 
-- [Muros.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Muros.secret.md) 

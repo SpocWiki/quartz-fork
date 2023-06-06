@@ -121,7 +121,7 @@ markerFolder: ./Japan/City
 [VehicleCode::J]
 [Capital::[Tokio](geo/Continent/Asia/Japan/City/Tokio.md)]
 ![350](Coat_of_arms_of_Japan.svg)
-![Anthem-Japan](xLarge/National-Anthem/Anthem-Japan.mp3)
+[Anthem-Japan](xLarge/National-Anthem/Anthem-Japan.mp3)
 ![350](geo/Continent/Asia/Japan/Flag_of_Japan.svg)
 [Alcohol-l::8]
 [Language-Id::466]
@@ -130,10 +130,3 @@ markerFolder: ./Japan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Japan](../../../../_public/geo/Continent/Asia/Japan.md) 
-- [Japan.internal](../../../../_internal/geo/Continent/Asia/Japan.internal.md) 
-- [Japan.protect](../../../../_protect/geo/Continent/Asia/Japan.protect.md) 
-- [Japan.private](../../../../_private/geo/Continent/Asia/Japan.private.md) 
-- [Japan.personal](../../../../_personal/geo/Continent/Asia/Japan.personal.md) 
-- [Japan.secret](../../../../_secret/geo/Continent/Asia/Japan.secret.md) 

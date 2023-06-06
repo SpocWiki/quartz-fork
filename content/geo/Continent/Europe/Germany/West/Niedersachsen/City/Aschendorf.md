@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aschendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.md) 
-- [Aschendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.internal.md) 
-- [Aschendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.protect.md) 
-- [Aschendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.private.md) 
-- [Aschendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.personal.md) 
-- [Aschendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Aschendorf.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenigsberg~Neumark](../../../../../../_public/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.md) 
-- [Koenigsberg~Neumark.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.internal.md) 
-- [Koenigsberg~Neumark.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.protect.md) 
-- [Koenigsberg~Neumark.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.private.md) 
-- [Koenigsberg~Neumark.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.personal.md) 
-- [Koenigsberg~Neumark.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Koenigsberg~Neumark.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heerlen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Heerlen.md) 
-- [Heerlen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Heerlen.internal.md) 
-- [Heerlen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Heerlen.protect.md) 
-- [Heerlen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Heerlen.private.md) 
-- [Heerlen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Heerlen.personal.md) 
-- [Heerlen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Heerlen.secret.md) 

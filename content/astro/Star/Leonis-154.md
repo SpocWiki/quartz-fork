@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Leonis-154](../../../_public/astro/Star/Leonis-154.md) 
-- [Leonis-154.internal](../../../_internal/astro/Star/Leonis-154.internal.md) 
-- [Leonis-154.protect](../../../_protect/astro/Star/Leonis-154.protect.md) 
-- [Leonis-154.private](../../../_private/astro/Star/Leonis-154.private.md) 
-- [Leonis-154.personal](../../../_personal/astro/Star/Leonis-154.personal.md) 
-- [Leonis-154.secret](../../../_secret/astro/Star/Leonis-154.secret.md)
-

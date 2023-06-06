@@ -45,10 +45,3 @@ The act of playing a video game.
 
 
 
-## Confidential Links & Embeds: 
-- [play_game_action](../../../../../../_public/schema.org/Type/is_a_/action/consume_action/play_game_action.md) 
-- [play_game_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/play_game_action.internal.md) 
-- [play_game_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/play_game_action.protect.md) 
-- [play_game_action.private](../../../../../../_private/schema.org/Type/is_a_/action/consume_action/play_game_action.private.md) 
-- [play_game_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/play_game_action.personal.md) 
-- [play_game_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/play_game_action.secret.md) 

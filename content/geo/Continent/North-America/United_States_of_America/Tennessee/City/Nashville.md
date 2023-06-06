@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nashville](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.md) 
-- [Nashville.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.internal.md) 
-- [Nashville.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.protect.md) 
-- [Nashville.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.private.md) 
-- [Nashville.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.personal.md) 
-- [Nashville.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Tennessee/City/Nashville.secret.md) 

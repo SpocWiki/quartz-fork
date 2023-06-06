@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuhaldensleben](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Neuhaldensleben.md) 
-- [Neuhaldensleben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Neuhaldensleben.internal.md) 
-- [Neuhaldensleben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Neuhaldensleben.protect.md) 
-- [Neuhaldensleben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Neuhaldensleben.private.md) 
-- [Neuhaldensleben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Neuhaldensleben.personal.md) 
-- [Neuhaldensleben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Neuhaldensleben.secret.md) 

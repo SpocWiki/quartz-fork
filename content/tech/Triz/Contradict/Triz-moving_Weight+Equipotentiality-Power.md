@@ -19,10 +19,3 @@ title: Triz-moving_Weight+Equipotentiality-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Weight+Equipotentiality-Power](../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.md) 
-- [Triz-moving_Weight+Equipotentiality-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.internal.md) 
-- [Triz-moving_Weight+Equipotentiality-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.protect.md) 
-- [Triz-moving_Weight+Equipotentiality-Power.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.private.md) 
-- [Triz-moving_Weight+Equipotentiality-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.personal.md) 
-- [Triz-moving_Weight+Equipotentiality-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Equipotentiality-Power.secret.md) 

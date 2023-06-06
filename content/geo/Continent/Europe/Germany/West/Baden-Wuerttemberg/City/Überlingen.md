@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Überlingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/%C3%9Cberlingen.md) 
-- [Überlingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/%C3%9Cberlingen.internal.md) 
-- [Überlingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/%C3%9Cberlingen.protect.md) 
-- [Überlingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/%C3%9Cberlingen.private.md) 
-- [Überlingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/%C3%9Cberlingen.personal.md) 
-- [Überlingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/%C3%9Cberlingen.secret.md) 

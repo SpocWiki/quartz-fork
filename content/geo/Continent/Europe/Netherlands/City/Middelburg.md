@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Middelburg](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Middelburg.md) 
-- [Middelburg.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Middelburg.internal.md) 
-- [Middelburg.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Middelburg.protect.md) 
-- [Middelburg.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Middelburg.private.md) 
-- [Middelburg.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Middelburg.personal.md) 
-- [Middelburg.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Middelburg.secret.md) 

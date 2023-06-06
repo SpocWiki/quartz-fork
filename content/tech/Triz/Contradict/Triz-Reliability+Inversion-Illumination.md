@@ -19,10 +19,3 @@ title: Triz-Reliability+Inversion-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Inversion-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.md) 
-- [Triz-Reliability+Inversion-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.internal.md) 
-- [Triz-Reliability+Inversion-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.protect.md) 
-- [Triz-Reliability+Inversion-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.private.md) 
-- [Triz-Reliability+Inversion-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.personal.md) 
-- [Triz-Reliability+Inversion-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Inversion-Illumination.secret.md) 

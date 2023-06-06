@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wilhermsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.md) 
-- [Wilhermsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.internal.md) 
-- [Wilhermsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.protect.md) 
-- [Wilhermsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.private.md) 
-- [Wilhermsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.personal.md) 
-- [Wilhermsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.secret.md) 

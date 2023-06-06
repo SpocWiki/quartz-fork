@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stadtamhof](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.md) 
-- [Stadtamhof.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.internal.md) 
-- [Stadtamhof.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.protect.md) 
-- [Stadtamhof.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.private.md) 
-- [Stadtamhof.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.personal.md) 
-- [Stadtamhof.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.secret.md) 

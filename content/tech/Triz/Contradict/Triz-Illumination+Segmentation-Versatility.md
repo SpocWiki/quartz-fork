@@ -19,10 +19,3 @@ title: Triz-Illumination+Segmentation-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Segmentation-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.md) 
-- [Triz-Illumination+Segmentation-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.internal.md) 
-- [Triz-Illumination+Segmentation-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.protect.md) 
-- [Triz-Illumination+Segmentation-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.private.md) 
-- [Triz-Illumination+Segmentation-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.personal.md) 
-- [Triz-Illumination+Segmentation-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Segmentation-Versatility.secret.md) 

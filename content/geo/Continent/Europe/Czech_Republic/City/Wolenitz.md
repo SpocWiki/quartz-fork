@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolenitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Wolenitz.md) 
-- [Wolenitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Wolenitz.internal.md) 
-- [Wolenitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Wolenitz.protect.md) 
-- [Wolenitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Wolenitz.private.md) 
-- [Wolenitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Wolenitz.personal.md) 
-- [Wolenitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Wolenitz.secret.md) 

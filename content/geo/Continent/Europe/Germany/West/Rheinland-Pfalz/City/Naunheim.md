@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Naunheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Naunheim.md) 
-- [Naunheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Naunheim.internal.md) 
-- [Naunheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Naunheim.protect.md) 
-- [Naunheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Naunheim.private.md) 
-- [Naunheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Naunheim.personal.md) 
-- [Naunheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Naunheim.secret.md) 

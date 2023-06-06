@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_crossing](../../../../_public/schema.org/Predicate/geos/has_geo_crossing.md) 
-- [has_geo_crossing.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_crossing.internal.md) 
-- [has_geo_crossing.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_crossing.protect.md) 
-- [has_geo_crossing.private](../../../../_private/schema.org/Predicate/geos/has_geo_crossing.private.md) 
-- [has_geo_crossing.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_crossing.personal.md) 
-- [has_geo_crossing.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_crossing.secret.md) 

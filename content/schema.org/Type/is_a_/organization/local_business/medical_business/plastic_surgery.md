@@ -45,10 +45,3 @@ A specific branch of medical science that pertains to therapeutic or cosmetic re
 
 
 
-## Confidential Links & Embeds: 
-- [plastic_surgery](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/plastic_surgery.md) 
-- [plastic_surgery.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/plastic_surgery.internal.md) 
-- [plastic_surgery.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/plastic_surgery.protect.md) 
-- [plastic_surgery.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/plastic_surgery.private.md) 
-- [plastic_surgery.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/plastic_surgery.personal.md) 
-- [plastic_surgery.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/plastic_surgery.secret.md) 

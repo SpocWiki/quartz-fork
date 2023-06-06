@@ -19,10 +19,3 @@ title: Triz-moving_Area+Universality-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Universality-Quantity](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.md) 
-- [Triz-moving_Area+Universality-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.internal.md) 
-- [Triz-moving_Area+Universality-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.protect.md) 
-- [Triz-moving_Area+Universality-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.private.md) 
-- [Triz-moving_Area+Universality-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.personal.md) 
-- [Triz-moving_Area+Universality-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Universality-Quantity.secret.md) 

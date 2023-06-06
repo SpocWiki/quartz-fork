@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winterton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Winterton.md) 
-- [Winterton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Winterton.internal.md) 
-- [Winterton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Winterton.protect.md) 
-- [Winterton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Winterton.private.md) 
-- [Winterton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Winterton.personal.md) 
-- [Winterton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Winterton.secret.md) 

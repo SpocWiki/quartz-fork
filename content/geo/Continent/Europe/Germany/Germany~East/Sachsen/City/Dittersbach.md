@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dittersbach](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittersbach.md) 
-- [Dittersbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittersbach.internal.md) 
-- [Dittersbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittersbach.protect.md) 
-- [Dittersbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittersbach.private.md) 
-- [Dittersbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittersbach.personal.md) 
-- [Dittersbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittersbach.secret.md) 

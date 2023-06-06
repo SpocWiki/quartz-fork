@@ -45,10 +45,3 @@ Indicates that the item is available for pre-order.
 
 
 
-## Confidential Links & Embeds: 
-- [pre_order](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_order.md) 
-- [pre_order.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_order.internal.md) 
-- [pre_order.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_order.protect.md) 
-- [pre_order.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_order.private.md) 
-- [pre_order.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_order.personal.md) 
-- [pre_order.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_order.secret.md) 

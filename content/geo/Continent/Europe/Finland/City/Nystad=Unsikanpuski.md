@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nystad=Unsikanpuski](../../../../../../_public/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.md) 
-- [Nystad=Unsikanpuski.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.internal.md) 
-- [Nystad=Unsikanpuski.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.protect.md) 
-- [Nystad=Unsikanpuski.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.private.md) 
-- [Nystad=Unsikanpuski.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.personal.md) 
-- [Nystad=Unsikanpuski.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Nystad=Unsikanpuski.secret.md) 

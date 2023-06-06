@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Laibach=Ljubljana](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.md) 
-- [Laibach=Ljubljana.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.internal.md) 
-- [Laibach=Ljubljana.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.protect.md) 
-- [Laibach=Ljubljana.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.private.md) 
-- [Laibach=Ljubljana.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.personal.md) 
-- [Laibach=Ljubljana.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Laibach=Ljubljana.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tallahassee](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.md) 
-- [Tallahassee.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.internal.md) 
-- [Tallahassee.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.protect.md) 
-- [Tallahassee.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.private.md) 
-- [Tallahassee.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.personal.md) 
-- [Tallahassee.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Florida/City/Tallahassee.secret.md) 

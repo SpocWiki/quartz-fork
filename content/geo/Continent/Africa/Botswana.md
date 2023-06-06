@@ -121,7 +121,7 @@ markerFolder: ./Botswana/City
 
 ![350](geo/Continent/Africa/Botswana/Coat_of_arms_of_Botswana.svg)
 
-![Anthem-Botswana](xLarge/National-Anthem/Anthem-Botswana.mp3)
+[Anthem-Botswana](xLarge/National-Anthem/Anthem-Botswana.mp3)
 
 ![350](geo/Continent/Africa/Botswana/Flag_of_Botswana.svg)
 [Alcohol-l::8]
@@ -131,10 +131,3 @@ markerFolder: ./Botswana/City
 
 
 
-## Confidential Links & Embeds: 
-- [Botswana](../../../../_public/geo/Continent/Africa/Botswana.md) 
-- [Botswana.internal](../../../../_internal/geo/Continent/Africa/Botswana.internal.md) 
-- [Botswana.protect](../../../../_protect/geo/Continent/Africa/Botswana.protect.md) 
-- [Botswana.private](../../../../_private/geo/Continent/Africa/Botswana.private.md) 
-- [Botswana.personal](../../../../_personal/geo/Continent/Africa/Botswana.personal.md) 
-- [Botswana.secret](../../../../_secret/geo/Continent/Africa/Botswana.secret.md) 

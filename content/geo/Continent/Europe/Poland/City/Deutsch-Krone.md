@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Deutsch-Krone](../../../../../../_public/geo/Continent/Europe/Poland/City/Deutsch-Krone.md) 
-- [Deutsch-Krone.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Deutsch-Krone.internal.md) 
-- [Deutsch-Krone.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Deutsch-Krone.protect.md) 
-- [Deutsch-Krone.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Deutsch-Krone.private.md) 
-- [Deutsch-Krone.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Deutsch-Krone.personal.md) 
-- [Deutsch-Krone.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Deutsch-Krone.secret.md) 

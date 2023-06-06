@@ -19,10 +19,3 @@ title: Triz-Shape+Prior_action-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Prior_action-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.md) 
-- [Triz-Shape+Prior_action-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.internal.md) 
-- [Triz-Shape+Prior_action-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.protect.md) 
-- [Triz-Shape+Prior_action-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.private.md) 
-- [Triz-Shape+Prior_action-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.personal.md) 
-- [Triz-Shape+Prior_action-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Prior_action-Reliability.secret.md) 

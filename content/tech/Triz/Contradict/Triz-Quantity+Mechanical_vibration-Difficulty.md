@@ -19,10 +19,3 @@ title: Triz-Quantity+Mechanical_vibration-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Mechanical_vibration-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.md) 
-- [Triz-Quantity+Mechanical_vibration-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.internal.md) 
-- [Triz-Quantity+Mechanical_vibration-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.protect.md) 
-- [Triz-Quantity+Mechanical_vibration-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.private.md) 
-- [Triz-Quantity+Mechanical_vibration-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.personal.md) 
-- [Triz-Quantity+Mechanical_vibration-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Difficulty.secret.md) 

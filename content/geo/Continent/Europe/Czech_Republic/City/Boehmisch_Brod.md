@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Boehmisch_Brod](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.md) 
-- [Boehmisch_Brod.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.internal.md) 
-- [Boehmisch_Brod.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.protect.md) 
-- [Boehmisch_Brod.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.private.md) 
-- [Boehmisch_Brod.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.personal.md) 
-- [Boehmisch_Brod.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.secret.md) 

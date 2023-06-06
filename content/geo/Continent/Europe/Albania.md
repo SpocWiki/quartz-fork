@@ -120,7 +120,7 @@ markerFolder: ./Albania/City
 [VehicleCode::AL]
 [Capital::[Tirana](geo/Continent/Europe/Albania/City/Tirana.md)]
 ![350](geo/Continent/Europe/Albania/Coat_of_arms_of_Albania.svg)
-![Anthem-Albania](xLarge/National-Anthem/Anthem-Albania.mp3)
+[Anthem-Albania](xLarge/National-Anthem/Anthem-Albania.mp3)
 ![350](geo/Continent/Europe/Albania/Flag_of_Albania.svg)
 [Alcohol-l::6.7]
 [Language-Id::]
@@ -129,10 +129,3 @@ markerFolder: ./Albania/City
 
 
 
-## Confidential Links & Embeds: 
-- [Albania](../../../../_public/geo/Continent/Europe/Albania.md) 
-- [Albania.internal](../../../../_internal/geo/Continent/Europe/Albania.internal.md) 
-- [Albania.protect](../../../../_protect/geo/Continent/Europe/Albania.protect.md) 
-- [Albania.private](../../../../_private/geo/Continent/Europe/Albania.private.md) 
-- [Albania.personal](../../../../_personal/geo/Continent/Europe/Albania.personal.md) 
-- [Albania.secret](../../../../_secret/geo/Continent/Europe/Albania.secret.md) 

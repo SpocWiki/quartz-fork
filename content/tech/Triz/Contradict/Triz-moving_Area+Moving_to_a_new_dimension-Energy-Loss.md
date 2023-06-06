@@ -19,10 +19,3 @@ title: Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.md) 
-- [Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.internal.md) 
-- [Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.protect.md) 
-- [Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.private.md) 
-- [Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.personal.md) 
-- [Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Moving_to_a_new_dimension-Energy-Loss.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lesina](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Lesina.md) 
-- [Lesina.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Lesina.internal.md) 
-- [Lesina.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Lesina.protect.md) 
-- [Lesina.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Lesina.private.md) 
-- [Lesina.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Lesina.personal.md) 
-- [Lesina.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Lesina.secret.md) 

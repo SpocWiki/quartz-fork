@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Aspidiske](../../../_public/astro/Star/Aspidiske.md) 
-- [Aspidiske.internal](../../../_internal/astro/Star/Aspidiske.internal.md) 
-- [Aspidiske.protect](../../../_protect/astro/Star/Aspidiske.protect.md) 
-- [Aspidiske.private](../../../_private/astro/Star/Aspidiske.private.md) 
-- [Aspidiske.personal](../../../_personal/astro/Star/Aspidiske.personal.md) 
-- [Aspidiske.secret](../../../_secret/astro/Star/Aspidiske.secret.md)
-

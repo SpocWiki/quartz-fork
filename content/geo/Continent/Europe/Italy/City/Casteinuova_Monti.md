@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Casteinuova_Monti](../../../../../../_public/geo/Continent/Europe/Italy/City/Casteinuova_Monti.md) 
-- [Casteinuova_Monti.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Casteinuova_Monti.internal.md) 
-- [Casteinuova_Monti.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Casteinuova_Monti.protect.md) 
-- [Casteinuova_Monti.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Casteinuova_Monti.private.md) 
-- [Casteinuova_Monti.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Casteinuova_Monti.personal.md) 
-- [Casteinuova_Monti.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Casteinuova_Monti.secret.md) 

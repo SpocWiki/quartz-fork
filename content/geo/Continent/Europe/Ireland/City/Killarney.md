@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Killarney](../../../../../../_public/geo/Continent/Europe/Ireland/City/Killarney.md) 
-- [Killarney.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Killarney.internal.md) 
-- [Killarney.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Killarney.protect.md) 
-- [Killarney.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Killarney.private.md) 
-- [Killarney.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Killarney.personal.md) 
-- [Killarney.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Killarney.secret.md) 

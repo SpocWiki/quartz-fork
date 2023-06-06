@@ -19,10 +19,3 @@ title: Triz-Intensity+Spheroidality-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Spheroidality-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.md) 
-- [Triz-Intensity+Spheroidality-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.internal.md) 
-- [Triz-Intensity+Spheroidality-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.protect.md) 
-- [Triz-Intensity+Spheroidality-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.private.md) 
-- [Triz-Intensity+Spheroidality-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.personal.md) 
-- [Triz-Intensity+Spheroidality-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Spheroidality-Energy-Loss.secret.md) 

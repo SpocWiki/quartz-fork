@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Merzig](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.md) 
-- [Merzig.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.internal.md) 
-- [Merzig.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.protect.md) 
-- [Merzig.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.private.md) 
-- [Merzig.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.personal.md) 
-- [Merzig.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Merzig.secret.md) 

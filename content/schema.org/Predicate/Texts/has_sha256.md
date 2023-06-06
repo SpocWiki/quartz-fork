@@ -49,10 +49,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_sha256](../../../../_public/schema.org/Predicate/Texts/has_sha256.md) 
-- [has_sha256.internal](../../../../_internal/schema.org/Predicate/Texts/has_sha256.internal.md) 
-- [has_sha256.protect](../../../../_protect/schema.org/Predicate/Texts/has_sha256.protect.md) 
-- [has_sha256.private](../../../../_private/schema.org/Predicate/Texts/has_sha256.private.md) 
-- [has_sha256.personal](../../../../_personal/schema.org/Predicate/Texts/has_sha256.personal.md) 
-- [has_sha256.secret](../../../../_secret/schema.org/Predicate/Texts/has_sha256.secret.md) 

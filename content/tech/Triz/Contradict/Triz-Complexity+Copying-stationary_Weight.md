@@ -19,10 +19,3 @@ title: Triz-Complexity+Copying-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Copying-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.md) 
-- [Triz-Complexity+Copying-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.internal.md) 
-- [Triz-Complexity+Copying-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.protect.md) 
-- [Triz-Complexity+Copying-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.private.md) 
-- [Triz-Complexity+Copying-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.personal.md) 
-- [Triz-Complexity+Copying-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Copying-stationary_Weight.secret.md) 

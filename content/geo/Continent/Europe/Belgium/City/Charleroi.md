@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Charleroi](../../../../../../_public/geo/Continent/Europe/Belgium/City/Charleroi.md) 
-- [Charleroi.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Charleroi.internal.md) 
-- [Charleroi.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Charleroi.protect.md) 
-- [Charleroi.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Charleroi.private.md) 
-- [Charleroi.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Charleroi.personal.md) 
-- [Charleroi.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Charleroi.secret.md) 

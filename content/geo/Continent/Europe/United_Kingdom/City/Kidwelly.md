@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kidwelly](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kidwelly.md) 
-- [Kidwelly.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kidwelly.internal.md) 
-- [Kidwelly.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kidwelly.protect.md) 
-- [Kidwelly.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kidwelly.private.md) 
-- [Kidwelly.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kidwelly.personal.md) 
-- [Kidwelly.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kidwelly.secret.md) 

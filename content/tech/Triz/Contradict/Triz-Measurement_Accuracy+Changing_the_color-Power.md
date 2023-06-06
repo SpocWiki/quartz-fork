@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Changing_the_color-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Changing_the_color-Power](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.internal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.protect.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.private.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.personal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Power.secret.md) 

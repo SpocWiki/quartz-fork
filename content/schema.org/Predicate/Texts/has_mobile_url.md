@@ -49,10 +49,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_mobile_url](../../../../_public/schema.org/Predicate/Texts/has_mobile_url.md) 
-- [has_mobile_url.internal](../../../../_internal/schema.org/Predicate/Texts/has_mobile_url.internal.md) 
-- [has_mobile_url.protect](../../../../_protect/schema.org/Predicate/Texts/has_mobile_url.protect.md) 
-- [has_mobile_url.private](../../../../_private/schema.org/Predicate/Texts/has_mobile_url.private.md) 
-- [has_mobile_url.personal](../../../../_personal/schema.org/Predicate/Texts/has_mobile_url.personal.md) 
-- [has_mobile_url.secret](../../../../_secret/schema.org/Predicate/Texts/has_mobile_url.secret.md) 

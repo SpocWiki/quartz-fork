@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ammerfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ammerfeld.md) 
-- [Ammerfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ammerfeld.internal.md) 
-- [Ammerfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ammerfeld.protect.md) 
-- [Ammerfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ammerfeld.private.md) 
-- [Ammerfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ammerfeld.personal.md) 
-- [Ammerfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ammerfeld.secret.md) 

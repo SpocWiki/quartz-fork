@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nannhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nannhausen.md) 
-- [Nannhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nannhausen.internal.md) 
-- [Nannhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nannhausen.protect.md) 
-- [Nannhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nannhausen.private.md) 
-- [Nannhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nannhausen.personal.md) 
-- [Nannhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nannhausen.secret.md) 

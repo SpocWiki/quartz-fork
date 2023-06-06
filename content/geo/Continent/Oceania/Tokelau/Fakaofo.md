@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fakaofo](../../../../../_public/geo/Continent/Oceania/Tokelau/Fakaofo.md) 
-- [Fakaofo.internal](../../../../../_internal/geo/Continent/Oceania/Tokelau/Fakaofo.internal.md) 
-- [Fakaofo.protect](../../../../../_protect/geo/Continent/Oceania/Tokelau/Fakaofo.protect.md) 
-- [Fakaofo.private](../../../../../_private/geo/Continent/Oceania/Tokelau/Fakaofo.private.md) 
-- [Fakaofo.personal](../../../../../_personal/geo/Continent/Oceania/Tokelau/Fakaofo.personal.md) 
-- [Fakaofo.secret](../../../../../_secret/geo/Continent/Oceania/Tokelau/Fakaofo.secret.md) 

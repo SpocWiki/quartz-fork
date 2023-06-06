@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dieppe](../../../../../../_public/geo/Continent/Europe/France/City/Dieppe.md) 
-- [Dieppe.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Dieppe.internal.md) 
-- [Dieppe.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Dieppe.protect.md) 
-- [Dieppe.private](../../../../../../_private/geo/Continent/Europe/France/City/Dieppe.private.md) 
-- [Dieppe.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Dieppe.personal.md) 
-- [Dieppe.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Dieppe.secret.md) 

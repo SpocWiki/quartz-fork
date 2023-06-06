@@ -122,7 +122,7 @@ markerFolder: ./Turkmenistan/City
 
 ![350](geo/Continent/Asia/Turkmenistan/Emblem_of_Turkmenistan.svg)
 
-![Anthem-Turkmenistan](xLarge/National-Anthem/Anthem-Turkmenistan.mp3)
+[Anthem-Turkmenistan](xLarge/National-Anthem/Anthem-Turkmenistan.mp3)
 
 ![350](geo/Continent/Asia/Turkmenistan/Flag_of_Turkmenistan.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Turkmenistan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Turkmenistan](../../../../_public/geo/Continent/Asia/Turkmenistan.md) 
-- [Turkmenistan.internal](../../../../_internal/geo/Continent/Asia/Turkmenistan.internal.md) 
-- [Turkmenistan.protect](../../../../_protect/geo/Continent/Asia/Turkmenistan.protect.md) 
-- [Turkmenistan.private](../../../../_private/geo/Continent/Asia/Turkmenistan.private.md) 
-- [Turkmenistan.personal](../../../../_personal/geo/Continent/Asia/Turkmenistan.personal.md) 
-- [Turkmenistan.secret](../../../../_secret/geo/Continent/Asia/Turkmenistan.secret.md) 

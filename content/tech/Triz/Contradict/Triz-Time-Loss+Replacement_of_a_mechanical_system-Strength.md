@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.internal.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.protect.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.private.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.personal.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Strength.secret.md) 

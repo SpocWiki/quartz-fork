@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Caltagirone](../../../../../../_public/geo/Continent/Europe/Italy/City/Caltagirone.md) 
-- [Caltagirone.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Caltagirone.internal.md) 
-- [Caltagirone.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Caltagirone.protect.md) 
-- [Caltagirone.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Caltagirone.private.md) 
-- [Caltagirone.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Caltagirone.personal.md) 
-- [Caltagirone.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Caltagirone.secret.md) 

@@ -43,10 +43,3 @@ A jewelry store.
 
 
 
-## Confidential Links & Embeds: 
-- [jewelry_store](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.md) 
-- [jewelry_store.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.internal.md) 
-- [jewelry_store.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.protect.md) 
-- [jewelry_store.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.private.md) 
-- [jewelry_store.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.personal.md) 
-- [jewelry_store.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.secret.md) 

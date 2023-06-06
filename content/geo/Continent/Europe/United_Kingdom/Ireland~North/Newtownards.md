@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Newtownards](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Newtownards.md) 
-- [Newtownards.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Newtownards.internal.md) 
-- [Newtownards.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Newtownards.protect.md) 
-- [Newtownards.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Newtownards.private.md) 
-- [Newtownards.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Newtownards.personal.md) 
-- [Newtownards.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Newtownards.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kallies](../../../../../../_public/geo/Continent/Europe/Poland/City/Kallies.md) 
-- [Kallies.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kallies.internal.md) 
-- [Kallies.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kallies.protect.md) 
-- [Kallies.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kallies.private.md) 
-- [Kallies.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kallies.personal.md) 
-- [Kallies.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kallies.secret.md) 

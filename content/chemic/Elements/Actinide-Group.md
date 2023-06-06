@@ -20,10 +20,3 @@ type: folder_brief_live
  
 
 
-## Confidential Links & Embeds: 
-- [Actinide-Group](../../../_public/chemic/Elements/Actinide-Group.md) 
-- [Actinide-Group.internal](../../../_internal/chemic/Elements/Actinide-Group.internal.md) 
-- [Actinide-Group.protect](../../../_protect/chemic/Elements/Actinide-Group.protect.md) 
-- [Actinide-Group.private](../../../_private/chemic/Elements/Actinide-Group.private.md) 
-- [Actinide-Group.personal](../../../_personal/chemic/Elements/Actinide-Group.personal.md) 
-- [Actinide-Group.secret](../../../_secret/chemic/Elements/Actinide-Group.secret.md) 

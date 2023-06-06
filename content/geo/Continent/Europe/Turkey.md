@@ -126,7 +126,7 @@ markerFolder: ./Turkey/City
 
 ![350](geo/Continent/Europe/Turkey/Emblem_of_Turkey.svg)
 
-![Anthem-Turkey](xLarge/National-Anthem/Anthem-Turkey.mp3)
+[Anthem-Turkey](xLarge/National-Anthem/Anthem-Turkey.mp3)
 
 ![350](geo/Continent/Europe/Turkey/Flag_of_Turkey.svg)
 
@@ -137,10 +137,3 @@ markerFolder: ./Turkey/City
 
 
 
-## Confidential Links & Embeds: 
-- [Turkey](../../../../_public/geo/Continent/Europe/Turkey.md) 
-- [Turkey.internal](../../../../_internal/geo/Continent/Europe/Turkey.internal.md) 
-- [Turkey.protect](../../../../_protect/geo/Continent/Europe/Turkey.protect.md) 
-- [Turkey.private](../../../../_private/geo/Continent/Europe/Turkey.private.md) 
-- [Turkey.personal](../../../../_personal/geo/Continent/Europe/Turkey.personal.md) 
-- [Turkey.secret](../../../../_secret/geo/Continent/Europe/Turkey.secret.md) 

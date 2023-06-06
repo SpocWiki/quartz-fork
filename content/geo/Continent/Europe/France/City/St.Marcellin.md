@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Marcellin](../../../../../../_public/geo/Continent/Europe/France/City/St.Marcellin.md) 
-- [St.Marcellin.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Marcellin.internal.md) 
-- [St.Marcellin.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Marcellin.protect.md) 
-- [St.Marcellin.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Marcellin.private.md) 
-- [St.Marcellin.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Marcellin.personal.md) 
-- [St.Marcellin.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Marcellin.secret.md) 

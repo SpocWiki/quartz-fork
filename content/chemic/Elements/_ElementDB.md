@@ -553,10 +553,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_ElementDB](../../../_public/chemic/Elements/_ElementDB.md) 
-- [_ElementDB.internal](../../../_internal/chemic/Elements/_ElementDB.internal.md) 
-- [_ElementDB.protect](../../../_protect/chemic/Elements/_ElementDB.protect.md) 
-- [_ElementDB.private](../../../_private/chemic/Elements/_ElementDB.private.md) 
-- [_ElementDB.personal](../../../_personal/chemic/Elements/_ElementDB.personal.md) 
-- [_ElementDB.secret](../../../_secret/chemic/Elements/_ElementDB.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauffen~Neckar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.md) 
-- [Lauffen~Neckar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.internal.md) 
-- [Lauffen~Neckar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.protect.md) 
-- [Lauffen~Neckar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.private.md) 
-- [Lauffen~Neckar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.personal.md) 
-- [Lauffen~Neckar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lauffen~Neckar.secret.md) 

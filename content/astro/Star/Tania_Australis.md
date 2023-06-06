@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Tania_Australis](../../../_public/astro/Star/Tania_Australis.md) 
-- [Tania_Australis.internal](../../../_internal/astro/Star/Tania_Australis.internal.md) 
-- [Tania_Australis.protect](../../../_protect/astro/Star/Tania_Australis.protect.md) 
-- [Tania_Australis.private](../../../_private/astro/Star/Tania_Australis.private.md) 
-- [Tania_Australis.personal](../../../_personal/astro/Star/Tania_Australis.personal.md) 
-- [Tania_Australis.secret](../../../_secret/astro/Star/Tania_Australis.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sibiu](../../../../../../_public/geo/Continent/Europe/Romania/City/Sibiu.md) 
-- [Sibiu.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Sibiu.internal.md) 
-- [Sibiu.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Sibiu.protect.md) 
-- [Sibiu.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Sibiu.private.md) 
-- [Sibiu.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Sibiu.personal.md) 
-- [Sibiu.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Sibiu.secret.md) 

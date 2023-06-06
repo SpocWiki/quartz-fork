@@ -19,10 +19,3 @@ title: Triz-Reliability+Mediator-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Mediator-Stress](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.md) 
-- [Triz-Reliability+Mediator-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.internal.md) 
-- [Triz-Reliability+Mediator-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.protect.md) 
-- [Triz-Reliability+Mediator-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.private.md) 
-- [Triz-Reliability+Mediator-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.personal.md) 
-- [Triz-Reliability+Mediator-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Mediator-Stress.secret.md) 

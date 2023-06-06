@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kreuzenort](../../../../../../_public/geo/Continent/Europe/Poland/City/Kreuzenort.md) 
-- [Kreuzenort.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kreuzenort.internal.md) 
-- [Kreuzenort.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kreuzenort.protect.md) 
-- [Kreuzenort.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kreuzenort.private.md) 
-- [Kreuzenort.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kreuzenort.personal.md) 
-- [Kreuzenort.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kreuzenort.secret.md) 

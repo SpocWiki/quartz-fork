@@ -43,10 +43,3 @@ The header section of the page.
 
 
 
-## Confidential Links & Embeds: 
-- [wp_header](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/wp_header.md) 
-- [wp_header.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/wp_header.internal.md) 
-- [wp_header.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/wp_header.protect.md) 
-- [wp_header.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/wp_header.private.md) 
-- [wp_header.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/wp_header.personal.md) 
-- [wp_header.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/wp_header.secret.md) 

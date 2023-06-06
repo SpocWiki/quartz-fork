@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Rodgau-Dudenhofen](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.md) 
-- [S-Rodgau-Dudenhofen.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.internal.md) 
-- [S-Rodgau-Dudenhofen.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.protect.md) 
-- [S-Rodgau-Dudenhofen.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.private.md) 
-- [S-Rodgau-Dudenhofen.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.personal.md) 
-- [S-Rodgau-Dudenhofen.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Dudenhofen.secret.md) 

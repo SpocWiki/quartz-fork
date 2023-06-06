@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_natural_progression](../../../../_public/schema.org/Predicate/Texts/has_natural_progression.md) 
-- [has_natural_progression.internal](../../../../_internal/schema.org/Predicate/Texts/has_natural_progression.internal.md) 
-- [has_natural_progression.protect](../../../../_protect/schema.org/Predicate/Texts/has_natural_progression.protect.md) 
-- [has_natural_progression.private](../../../../_private/schema.org/Predicate/Texts/has_natural_progression.private.md) 
-- [has_natural_progression.personal](../../../../_personal/schema.org/Predicate/Texts/has_natural_progression.personal.md) 
-- [has_natural_progression.secret](../../../../_secret/schema.org/Predicate/Texts/has_natural_progression.secret.md) 

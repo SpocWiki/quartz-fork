@@ -10,11 +10,3 @@ It also involves Media (Graphics, Music, Photos etc.) which should [preferably b
 If you _do_ hotlink, then it is still necessary to follow the licensing conditions. 
 
 
-## Confidential Links & Embeds: 
-- [SpocWiki](../_public/SpocWiki.md) 
-- [SpocWiki.internal](../_internal/SpocWiki.internal.md) 
-- [SpocWiki.protect](../_protect/SpocWiki.protect.md) 
-- [SpocWiki.private](../_private/SpocWiki.private.md) 
-- [SpocWiki.personal](../_personal/SpocWiki.personal.md) 
-- [SpocWiki.secret](../_secret/SpocWiki.secret.md)
-

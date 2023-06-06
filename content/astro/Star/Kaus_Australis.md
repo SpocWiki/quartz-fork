@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Kaus_Australis](../../../_public/astro/Star/Kaus_Australis.md) 
-- [Kaus_Australis.internal](../../../_internal/astro/Star/Kaus_Australis.internal.md) 
-- [Kaus_Australis.protect](../../../_protect/astro/Star/Kaus_Australis.protect.md) 
-- [Kaus_Australis.private](../../../_private/astro/Star/Kaus_Australis.private.md) 
-- [Kaus_Australis.personal](../../../_personal/astro/Star/Kaus_Australis.personal.md) 
-- [Kaus_Australis.secret](../../../_secret/astro/Star/Kaus_Australis.secret.md)
-

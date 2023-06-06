@@ -19,10 +19,3 @@ title: Triz-Difficulty+Equipotentiality-Ease_of_repair
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Equipotentiality-Ease_of_repair](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.md) 
-- [Triz-Difficulty+Equipotentiality-Ease_of_repair.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.internal.md) 
-- [Triz-Difficulty+Equipotentiality-Ease_of_repair.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.protect.md) 
-- [Triz-Difficulty+Equipotentiality-Ease_of_repair.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.private.md) 
-- [Triz-Difficulty+Equipotentiality-Ease_of_repair.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.personal.md) 
-- [Triz-Difficulty+Equipotentiality-Ease_of_repair.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Equipotentiality-Ease_of_repair.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Malung](../../../../../../_public/geo/Continent/Europe/Sweden/City/Malung.md) 
-- [Malung.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Malung.internal.md) 
-- [Malung.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Malung.protect.md) 
-- [Malung.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Malung.private.md) 
-- [Malung.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Malung.personal.md) 
-- [Malung.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Malung.secret.md) 

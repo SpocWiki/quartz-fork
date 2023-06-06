@@ -43,10 +43,3 @@ One or more messages between organizations or people on a particular topic. Indi
 
 
 
-## Confidential Links & Embeds: 
-- [conversation](../../../../../_public/schema.org/Type/is_a_/creative_work/conversation.md) 
-- [conversation.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/conversation.internal.md) 
-- [conversation.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/conversation.protect.md) 
-- [conversation.private](../../../../../_private/schema.org/Type/is_a_/creative_work/conversation.private.md) 
-- [conversation.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/conversation.personal.md) 
-- [conversation.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/conversation.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trani](../../../../../../_public/geo/Continent/Europe/Italy/City/Trani.md) 
-- [Trani.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Trani.internal.md) 
-- [Trani.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Trani.protect.md) 
-- [Trani.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Trani.private.md) 
-- [Trani.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Trani.personal.md) 
-- [Trani.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Trani.secret.md) 

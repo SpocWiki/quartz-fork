@@ -17,10 +17,3 @@ title: Triz-Rotate_Part
 
 Rotate the Part instead of the Tool.
 
-## Confidential Links & Embeds: 
-- [Triz-Rotate_Part](../../../../_public/tech/Triz/Example/Triz-Rotate_Part.md) 
-- [Triz-Rotate_Part.internal](../../../../_internal/tech/Triz/Example/Triz-Rotate_Part.internal.md) 
-- [Triz-Rotate_Part.protect](../../../../_protect/tech/Triz/Example/Triz-Rotate_Part.protect.md) 
-- [Triz-Rotate_Part.private](../../../../_private/tech/Triz/Example/Triz-Rotate_Part.private.md) 
-- [Triz-Rotate_Part.personal](../../../../_personal/tech/Triz/Example/Triz-Rotate_Part.personal.md) 
-- [Triz-Rotate_Part.secret](../../../../_secret/tech/Triz/Example/Triz-Rotate_Part.secret.md) 

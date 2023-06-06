@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krakau](../../../../../../_public/geo/Continent/Europe/Poland/City/Krakau.md) 
-- [Krakau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Krakau.internal.md) 
-- [Krakau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Krakau.protect.md) 
-- [Krakau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Krakau.private.md) 
-- [Krakau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Krakau.personal.md) 
-- [Krakau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Krakau.secret.md) 

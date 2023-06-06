@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tyrnau=Trnava](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.md) 
-- [Tyrnau=Trnava.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.internal.md) 
-- [Tyrnau=Trnava.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.protect.md) 
-- [Tyrnau=Trnava.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.private.md) 
-- [Tyrnau=Trnava.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.personal.md) 
-- [Tyrnau=Trnava.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tyrnau=Trnava.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tomorica](../../../../../../_public/geo/Continent/Europe/Albania/City/Tomorica.md) 
-- [Tomorica.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Tomorica.internal.md) 
-- [Tomorica.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Tomorica.protect.md) 
-- [Tomorica.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Tomorica.private.md) 
-- [Tomorica.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Tomorica.personal.md) 
-- [Tomorica.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Tomorica.secret.md) 

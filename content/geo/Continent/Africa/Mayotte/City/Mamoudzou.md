@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mamoudzou](../../../../../../_public/geo/Continent/Africa/Mayotte/City/Mamoudzou.md) 
-- [Mamoudzou.internal](../../../../../../_internal/geo/Continent/Africa/Mayotte/City/Mamoudzou.internal.md) 
-- [Mamoudzou.protect](../../../../../../_protect/geo/Continent/Africa/Mayotte/City/Mamoudzou.protect.md) 
-- [Mamoudzou.private](../../../../../../_private/geo/Continent/Africa/Mayotte/City/Mamoudzou.private.md) 
-- [Mamoudzou.personal](../../../../../../_personal/geo/Continent/Africa/Mayotte/City/Mamoudzou.personal.md) 
-- [Mamoudzou.secret](../../../../../../_secret/geo/Continent/Africa/Mayotte/City/Mamoudzou.secret.md) 

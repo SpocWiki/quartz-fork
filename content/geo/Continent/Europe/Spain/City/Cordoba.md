@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cordoba](../../../../../../_public/geo/Continent/Europe/Spain/City/Cordoba.md) 
-- [Cordoba.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Cordoba.internal.md) 
-- [Cordoba.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Cordoba.protect.md) 
-- [Cordoba.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Cordoba.private.md) 
-- [Cordoba.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Cordoba.personal.md) 
-- [Cordoba.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Cordoba.secret.md) 

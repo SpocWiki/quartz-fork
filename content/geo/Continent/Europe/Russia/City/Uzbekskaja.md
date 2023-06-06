@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uzbekskaja](../../../../../../_public/geo/Continent/Europe/Russia/City/Uzbekskaja.md) 
-- [Uzbekskaja.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Uzbekskaja.internal.md) 
-- [Uzbekskaja.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Uzbekskaja.protect.md) 
-- [Uzbekskaja.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Uzbekskaja.private.md) 
-- [Uzbekskaja.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Uzbekskaja.personal.md) 
-- [Uzbekskaja.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Uzbekskaja.secret.md) 

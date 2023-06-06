@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_interpreted_as_claim](../../../../../_public/schema.org/Predicate/Relations/is/is_interpreted_as_claim.md) 
-- [is_interpreted_as_claim.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_interpreted_as_claim.internal.md) 
-- [is_interpreted_as_claim.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_interpreted_as_claim.protect.md) 
-- [is_interpreted_as_claim.private](../../../../../_private/schema.org/Predicate/Relations/is/is_interpreted_as_claim.private.md) 
-- [is_interpreted_as_claim.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_interpreted_as_claim.personal.md) 
-- [is_interpreted_as_claim.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_interpreted_as_claim.secret.md) 

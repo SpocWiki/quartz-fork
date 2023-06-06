@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radldorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.md) 
-- [Radldorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.internal.md) 
-- [Radldorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.protect.md) 
-- [Radldorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.private.md) 
-- [Radldorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.personal.md) 
-- [Radldorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.secret.md) 

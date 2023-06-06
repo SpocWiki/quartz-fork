@@ -45,10 +45,3 @@ A specific branch of medical science that is concerned with the ear, nose and th
 
 
 
-## Confidential Links & Embeds: 
-- [otolaryngologic](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.md) 
-- [otolaryngologic.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.internal.md) 
-- [otolaryngologic.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.protect.md) 
-- [otolaryngologic.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.private.md) 
-- [otolaryngologic.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.personal.md) 
-- [otolaryngologic.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.secret.md) 

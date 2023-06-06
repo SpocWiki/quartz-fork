@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Frankfurt-Höchst_Farbwerke](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst_Farbwerke.md) 
-- [S-Frankfurt-Höchst_Farbwerke.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst_Farbwerke.internal.md) 
-- [S-Frankfurt-Höchst_Farbwerke.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst_Farbwerke.protect.md) 
-- [S-Frankfurt-Höchst_Farbwerke.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst_Farbwerke.private.md) 
-- [S-Frankfurt-Höchst_Farbwerke.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst_Farbwerke.personal.md) 
-- [S-Frankfurt-Höchst_Farbwerke.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-H%C3%B6chst_Farbwerke.secret.md) 

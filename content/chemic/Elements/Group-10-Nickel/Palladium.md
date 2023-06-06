@@ -38,10 +38,3 @@ SpocWebEntityId: 21944
 
 
 
-## Confidential Links & Embeds: 
-- [Palladium](../../../../_public/chemic/Elements/Group-10-Nickel/Palladium.md) 
-- [Palladium.internal](../../../../_internal/chemic/Elements/Group-10-Nickel/Palladium.internal.md) 
-- [Palladium.protect](../../../../_protect/chemic/Elements/Group-10-Nickel/Palladium.protect.md) 
-- [Palladium.private](../../../../_private/chemic/Elements/Group-10-Nickel/Palladium.private.md) 
-- [Palladium.personal](../../../../_personal/chemic/Elements/Group-10-Nickel/Palladium.personal.md) 
-- [Palladium.secret](../../../../_secret/chemic/Elements/Group-10-Nickel/Palladium.secret.md) 

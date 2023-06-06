@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tianjin=Tientsin](../../../../../../_public/geo/Continent/Asia/China/City/Tianjin=Tientsin.md) 
-- [Tianjin=Tientsin.internal](../../../../../../_internal/geo/Continent/Asia/China/City/Tianjin=Tientsin.internal.md) 
-- [Tianjin=Tientsin.protect](../../../../../../_protect/geo/Continent/Asia/China/City/Tianjin=Tientsin.protect.md) 
-- [Tianjin=Tientsin.private](../../../../../../_private/geo/Continent/Asia/China/City/Tianjin=Tientsin.private.md) 
-- [Tianjin=Tientsin.personal](../../../../../../_personal/geo/Continent/Asia/China/City/Tianjin=Tientsin.personal.md) 
-- [Tianjin=Tientsin.secret](../../../../../../_secret/geo/Continent/Asia/China/City/Tianjin=Tientsin.secret.md) 

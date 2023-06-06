@@ -43,10 +43,3 @@ A short band of tough, flexible, fibrous connective tissue that functions to con
 
 
 
-## Confidential Links & Embeds: 
-- [ligament](../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.md) 
-- [ligament.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.internal.md) 
-- [ligament.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.protect.md) 
-- [ligament.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.private.md) 
-- [ligament.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.personal.md) 
-- [ligament.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.secret.md) 

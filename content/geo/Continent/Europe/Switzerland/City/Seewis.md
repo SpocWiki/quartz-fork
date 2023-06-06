@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seewis](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Seewis.md) 
-- [Seewis.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Seewis.internal.md) 
-- [Seewis.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Seewis.protect.md) 
-- [Seewis.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Seewis.private.md) 
-- [Seewis.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Seewis.personal.md) 
-- [Seewis.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Seewis.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Extraction-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Extraction-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Intensity.md) 
-- [Triz-Measurement_Accuracy+Extraction-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Intensity.internal.md) 
-- [Triz-Measurement_Accuracy+Extraction-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Intensity.protect.md) 
-- [Triz-Measurement_Accuracy+Extraction-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Intensity.private.md) 
-- [Triz-Measurement_Accuracy+Extraction-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Intensity.personal.md) 
-- [Triz-Measurement_Accuracy+Extraction-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Intensity.secret.md) 

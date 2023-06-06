@@ -47,10 +47,3 @@ Maximum girth of chest. Used, for example, to fit men's suits.
 
 
 
-## Confidential Links & Embeds: 
-- [body_measurement_chest](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.md) 
-- [body_measurement_chest.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.internal.md) 
-- [body_measurement_chest.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.protect.md) 
-- [body_measurement_chest.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.private.md) 
-- [body_measurement_chest.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.personal.md) 
-- [body_measurement_chest.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.secret.md) 

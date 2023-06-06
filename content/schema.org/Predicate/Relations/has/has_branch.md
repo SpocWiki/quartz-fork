@@ -45,10 +45,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_branch](../../../../../_public/schema.org/Predicate/Relations/has/has_branch.md) 
-- [has_branch.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_branch.internal.md) 
-- [has_branch.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_branch.protect.md) 
-- [has_branch.private](../../../../../_private/schema.org/Predicate/Relations/has/has_branch.private.md) 
-- [has_branch.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_branch.personal.md) 
-- [has_branch.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_branch.secret.md) 

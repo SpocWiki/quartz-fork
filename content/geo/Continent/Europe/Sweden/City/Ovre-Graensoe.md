@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ovre-Graensoe](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.md) 
-- [Ovre-Graensoe.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.internal.md) 
-- [Ovre-Graensoe.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.protect.md) 
-- [Ovre-Graensoe.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.private.md) 
-- [Ovre-Graensoe.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.personal.md) 
-- [Ovre-Graensoe.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ovre-Graensoe.secret.md) 

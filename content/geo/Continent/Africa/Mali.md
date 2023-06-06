@@ -122,7 +122,7 @@ markerFolder: ./Mali/City
 
 ![350](geo/Continent/Africa/Mali/Coat_of_arms_of_Mali.svg)
 
-![Anthem-Mali](xLarge/National-Anthem/Anthem-Mali.mp3)
+[Anthem-Mali](xLarge/National-Anthem/Anthem-Mali.mp3)
 
 ![350](geo/Continent/Africa/Mali/Flag_of_Mali.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Mali/City
 
 
 
-## Confidential Links & Embeds: 
-- [Mali](../../../../_public/geo/Continent/Africa/Mali.md) 
-- [Mali.internal](../../../../_internal/geo/Continent/Africa/Mali.internal.md) 
-- [Mali.protect](../../../../_protect/geo/Continent/Africa/Mali.protect.md) 
-- [Mali.private](../../../../_private/geo/Continent/Africa/Mali.private.md) 
-- [Mali.personal](../../../../_personal/geo/Continent/Africa/Mali.personal.md) 
-- [Mali.secret](../../../../_secret/geo/Continent/Africa/Mali.secret.md) 

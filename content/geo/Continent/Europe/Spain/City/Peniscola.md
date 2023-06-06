@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peniscola](../../../../../../_public/geo/Continent/Europe/Spain/City/Peniscola.md) 
-- [Peniscola.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Peniscola.internal.md) 
-- [Peniscola.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Peniscola.protect.md) 
-- [Peniscola.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Peniscola.private.md) 
-- [Peniscola.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Peniscola.personal.md) 
-- [Peniscola.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Peniscola.secret.md) 

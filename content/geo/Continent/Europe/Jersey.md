@@ -124,10 +124,3 @@ markerFolder: ./Jersey/City
 
 
 
-## Confidential Links & Embeds: 
-- [Jersey](../../../../_public/geo/Continent/Europe/Jersey.md) 
-- [Jersey.internal](../../../../_internal/geo/Continent/Europe/Jersey.internal.md) 
-- [Jersey.protect](../../../../_protect/geo/Continent/Europe/Jersey.protect.md) 
-- [Jersey.private](../../../../_private/geo/Continent/Europe/Jersey.private.md) 
-- [Jersey.personal](../../../../_personal/geo/Continent/Europe/Jersey.personal.md) 
-- [Jersey.secret](../../../../_secret/geo/Continent/Europe/Jersey.secret.md) 

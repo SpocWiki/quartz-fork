@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saragossa](../../../../../../_public/geo/Continent/Europe/Spain/City/Saragossa.md) 
-- [Saragossa.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Saragossa.internal.md) 
-- [Saragossa.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Saragossa.protect.md) 
-- [Saragossa.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Saragossa.private.md) 
-- [Saragossa.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Saragossa.personal.md) 
-- [Saragossa.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Saragossa.secret.md) 

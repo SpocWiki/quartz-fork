@@ -19,10 +19,3 @@ title: Triz-10307+22208-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22208-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-10307+22208-Information-Loss.md) 
-- [Triz-10307+22208-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22208-Information-Loss.internal.md) 
-- [Triz-10307+22208-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22208-Information-Loss.protect.md) 
-- [Triz-10307+22208-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22208-Information-Loss.private.md) 
-- [Triz-10307+22208-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22208-Information-Loss.personal.md) 
-- [Triz-10307+22208-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22208-Information-Loss.secret.md) 

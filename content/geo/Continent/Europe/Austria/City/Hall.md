@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hall](../../../../../../_public/geo/Continent/Europe/Austria/City/Hall.md) 
-- [Hall.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Hall.internal.md) 
-- [Hall.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Hall.protect.md) 
-- [Hall.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Hall.private.md) 
-- [Hall.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Hall.personal.md) 
-- [Hall.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Hall.secret.md) 

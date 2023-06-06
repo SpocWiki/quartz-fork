@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_ticker_symbol](../../../../_public/schema.org/Predicate/Texts/has_ticker_symbol.md) 
-- [has_ticker_symbol.internal](../../../../_internal/schema.org/Predicate/Texts/has_ticker_symbol.internal.md) 
-- [has_ticker_symbol.protect](../../../../_protect/schema.org/Predicate/Texts/has_ticker_symbol.protect.md) 
-- [has_ticker_symbol.private](../../../../_private/schema.org/Predicate/Texts/has_ticker_symbol.private.md) 
-- [has_ticker_symbol.personal](../../../../_personal/schema.org/Predicate/Texts/has_ticker_symbol.personal.md) 
-- [has_ticker_symbol.secret](../../../../_secret/schema.org/Predicate/Texts/has_ticker_symbol.secret.md) 

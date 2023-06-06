@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaasa](../../../../../../_public/geo/Continent/Europe/Finland/City/Vaasa.md) 
-- [Vaasa.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Vaasa.internal.md) 
-- [Vaasa.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Vaasa.protect.md) 
-- [Vaasa.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Vaasa.private.md) 
-- [Vaasa.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Vaasa.personal.md) 
-- [Vaasa.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Vaasa.secret.md) 

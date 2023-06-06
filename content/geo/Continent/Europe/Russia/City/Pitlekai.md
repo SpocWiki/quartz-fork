@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pitlekai](../../../../../../_public/geo/Continent/Europe/Russia/City/Pitlekai.md) 
-- [Pitlekai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Pitlekai.internal.md) 
-- [Pitlekai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Pitlekai.protect.md) 
-- [Pitlekai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Pitlekai.private.md) 
-- [Pitlekai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Pitlekai.personal.md) 
-- [Pitlekai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Pitlekai.secret.md) 

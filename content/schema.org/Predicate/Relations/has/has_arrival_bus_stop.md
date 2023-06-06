@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_arrival_bus_stop](../../../../../_public/schema.org/Predicate/Relations/has/has_arrival_bus_stop.md) 
-- [has_arrival_bus_stop.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_arrival_bus_stop.internal.md) 
-- [has_arrival_bus_stop.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_arrival_bus_stop.protect.md) 
-- [has_arrival_bus_stop.private](../../../../../_private/schema.org/Predicate/Relations/has/has_arrival_bus_stop.private.md) 
-- [has_arrival_bus_stop.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_arrival_bus_stop.personal.md) 
-- [has_arrival_bus_stop.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_arrival_bus_stop.secret.md) 

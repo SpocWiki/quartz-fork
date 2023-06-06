@@ -19,10 +19,3 @@ title: Triz-moving_Weight+Cushion_in_advance-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Weight+Cushion_in_advance-Reliability](../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Cushion_in_advance-Reliability.md) 
-- [Triz-moving_Weight+Cushion_in_advance-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Cushion_in_advance-Reliability.internal.md) 
-- [Triz-moving_Weight+Cushion_in_advance-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Cushion_in_advance-Reliability.protect.md) 
-- [Triz-moving_Weight+Cushion_in_advance-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Cushion_in_advance-Reliability.private.md) 
-- [Triz-moving_Weight+Cushion_in_advance-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Cushion_in_advance-Reliability.personal.md) 
-- [Triz-moving_Weight+Cushion_in_advance-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Cushion_in_advance-Reliability.secret.md) 

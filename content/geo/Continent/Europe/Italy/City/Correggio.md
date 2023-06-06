@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Correggio](../../../../../../_public/geo/Continent/Europe/Italy/City/Correggio.md) 
-- [Correggio.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Correggio.internal.md) 
-- [Correggio.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Correggio.protect.md) 
-- [Correggio.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Correggio.private.md) 
-- [Correggio.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Correggio.personal.md) 
-- [Correggio.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Correggio.secret.md) 

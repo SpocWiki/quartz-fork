@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Menkib](../../../_public/astro/Star/Menkib.md) 
-- [Menkib.internal](../../../_internal/astro/Star/Menkib.internal.md) 
-- [Menkib.protect](../../../_protect/astro/Star/Menkib.protect.md) 
-- [Menkib.private](../../../_private/astro/Star/Menkib.private.md) 
-- [Menkib.personal](../../../_personal/astro/Star/Menkib.personal.md) 
-- [Menkib.secret](../../../_secret/astro/Star/Menkib.secret.md) 

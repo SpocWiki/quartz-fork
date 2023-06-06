@@ -47,10 +47,3 @@ Side effects that can be observed from the usage of the topic.
 
 
 
-## Confidential Links & Embeds: 
-- [side_effects_health_aspect](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.md) 
-- [side_effects_health_aspect.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.internal.md) 
-- [side_effects_health_aspect.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.protect.md) 
-- [side_effects_health_aspect.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.private.md) 
-- [side_effects_health_aspect.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.personal.md) 
-- [side_effects_health_aspect.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.secret.md) 

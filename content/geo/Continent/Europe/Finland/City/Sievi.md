@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sievi](../../../../../../_public/geo/Continent/Europe/Finland/City/Sievi.md) 
-- [Sievi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Sievi.internal.md) 
-- [Sievi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Sievi.protect.md) 
-- [Sievi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Sievi.private.md) 
-- [Sievi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Sievi.personal.md) 
-- [Sievi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Sievi.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Otranto](../../../../../../_public/geo/Continent/Europe/Italy/City/Otranto.md) 
-- [Otranto.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Otranto.internal.md) 
-- [Otranto.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Otranto.protect.md) 
-- [Otranto.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Otranto.private.md) 
-- [Otranto.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Otranto.personal.md) 
-- [Otranto.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Otranto.secret.md) 

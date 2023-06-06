@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cassino](../../../../../../_public/geo/Continent/Europe/Italy/City/Cassino.md) 
-- [Cassino.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cassino.internal.md) 
-- [Cassino.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cassino.protect.md) 
-- [Cassino.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cassino.private.md) 
-- [Cassino.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cassino.personal.md) 
-- [Cassino.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cassino.secret.md) 

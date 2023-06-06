@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heiliegenkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenkirchen.md) 
-- [Heiliegenkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenkirchen.internal.md) 
-- [Heiliegenkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenkirchen.protect.md) 
-- [Heiliegenkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenkirchen.private.md) 
-- [Heiliegenkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenkirchen.personal.md) 
-- [Heiliegenkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heiliegenkirchen.secret.md) 

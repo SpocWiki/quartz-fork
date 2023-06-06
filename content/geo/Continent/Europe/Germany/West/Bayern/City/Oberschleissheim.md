@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberschleissheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.md) 
-- [Oberschleissheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.internal.md) 
-- [Oberschleissheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.protect.md) 
-- [Oberschleissheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.private.md) 
-- [Oberschleissheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.personal.md) 
-- [Oberschleissheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.secret.md) 

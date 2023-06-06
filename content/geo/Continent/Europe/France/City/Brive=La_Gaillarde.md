@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brive=La_Gaillarde](../../../../../../_public/geo/Continent/Europe/France/City/Brive=La_Gaillarde.md) 
-- [Brive=La_Gaillarde.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Brive=La_Gaillarde.internal.md) 
-- [Brive=La_Gaillarde.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Brive=La_Gaillarde.protect.md) 
-- [Brive=La_Gaillarde.private](../../../../../../_private/geo/Continent/Europe/France/City/Brive=La_Gaillarde.private.md) 
-- [Brive=La_Gaillarde.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Brive=La_Gaillarde.personal.md) 
-- [Brive=La_Gaillarde.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Brive=La_Gaillarde.secret.md) 

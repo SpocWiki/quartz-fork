@@ -45,10 +45,3 @@ The payee received the payment, but it was declined for some reason.
 
 
 
-## Confidential Links & Embeds: 
-- [payment_declined](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.md) 
-- [payment_declined.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.internal.md) 
-- [payment_declined.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.protect.md) 
-- [payment_declined.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.private.md) 
-- [payment_declined.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.personal.md) 
-- [payment_declined.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.secret.md) 

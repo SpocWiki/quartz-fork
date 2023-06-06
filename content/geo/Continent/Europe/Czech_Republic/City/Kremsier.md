@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kremsier](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kremsier.md) 
-- [Kremsier.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kremsier.internal.md) 
-- [Kremsier.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kremsier.protect.md) 
-- [Kremsier.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kremsier.private.md) 
-- [Kremsier.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kremsier.personal.md) 
-- [Kremsier.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kremsier.secret.md) 

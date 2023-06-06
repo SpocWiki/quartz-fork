@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teheran=Tehran](../../../../../../_public/geo/Continent/Asia/Iran/City/Teheran=Tehran.md) 
-- [Teheran=Tehran.internal](../../../../../../_internal/geo/Continent/Asia/Iran/City/Teheran=Tehran.internal.md) 
-- [Teheran=Tehran.protect](../../../../../../_protect/geo/Continent/Asia/Iran/City/Teheran=Tehran.protect.md) 
-- [Teheran=Tehran.private](../../../../../../_private/geo/Continent/Asia/Iran/City/Teheran=Tehran.private.md) 
-- [Teheran=Tehran.personal](../../../../../../_personal/geo/Continent/Asia/Iran/City/Teheran=Tehran.personal.md) 
-- [Teheran=Tehran.secret](../../../../../../_secret/geo/Continent/Asia/Iran/City/Teheran=Tehran.secret.md) 

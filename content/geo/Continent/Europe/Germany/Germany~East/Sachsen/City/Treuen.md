@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Treuen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Treuen.md) 
-- [Treuen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Treuen.internal.md) 
-- [Treuen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Treuen.protect.md) 
-- [Treuen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Treuen.private.md) 
-- [Treuen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Treuen.personal.md) 
-- [Treuen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Treuen.secret.md) 

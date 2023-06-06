@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Errai](../../../_public/astro/Star/Errai.md) 
-- [Errai.internal](../../../_internal/astro/Star/Errai.internal.md) 
-- [Errai.protect](../../../_protect/astro/Star/Errai.protect.md) 
-- [Errai.private](../../../_private/astro/Star/Errai.private.md) 
-- [Errai.personal](../../../_personal/astro/Star/Errai.personal.md) 
-- [Errai.secret](../../../_secret/astro/Star/Errai.secret.md)
-

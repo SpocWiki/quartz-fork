@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dalliden](../../../../../../_public/geo/Continent/Europe/Sweden/City/Dalliden.md) 
-- [Dalliden.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Dalliden.internal.md) 
-- [Dalliden.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Dalliden.protect.md) 
-- [Dalliden.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Dalliden.private.md) 
-- [Dalliden.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Dalliden.personal.md) 
-- [Dalliden.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Dalliden.secret.md) 

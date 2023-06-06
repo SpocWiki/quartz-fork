@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mailand=Milano](../../../../../../_public/geo/Continent/Europe/Italy/City/Mailand=Milano.md) 
-- [Mailand=Milano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Mailand=Milano.internal.md) 
-- [Mailand=Milano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Mailand=Milano.protect.md) 
-- [Mailand=Milano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Mailand=Milano.private.md) 
-- [Mailand=Milano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Mailand=Milano.personal.md) 
-- [Mailand=Milano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Mailand=Milano.secret.md) 

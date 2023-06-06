@@ -19,10 +19,3 @@ title: Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durab
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307](../../../../_public/tech/Triz/Contradict/Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.md) 
-- [Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.internal](../../../../_internal/tech/Triz/Contradict/Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.internal.md) 
-- [Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.protect](../../../../_protect/tech/Triz/Contradict/Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.protect.md) 
-- [Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.private](../../../../_private/tech/Triz/Contradict/Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.private.md) 
-- [Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.personal](../../../../_personal/tech/Triz/Contradict/Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.personal.md) 
-- [Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.secret](../../../../_secret/tech/Triz/Contradict/Triz-22180+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-10307.secret.md) 

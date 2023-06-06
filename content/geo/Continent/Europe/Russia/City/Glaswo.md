@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Glaswo](../../../../../../_public/geo/Continent/Europe/Russia/City/Glaswo.md) 
-- [Glaswo.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Glaswo.internal.md) 
-- [Glaswo.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Glaswo.protect.md) 
-- [Glaswo.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Glaswo.private.md) 
-- [Glaswo.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Glaswo.personal.md) 
-- [Glaswo.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Glaswo.secret.md) 

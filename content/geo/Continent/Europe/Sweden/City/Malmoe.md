@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Malmoe](../../../../../../_public/geo/Continent/Europe/Sweden/City/Malmoe.md) 
-- [Malmoe.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Malmoe.internal.md) 
-- [Malmoe.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Malmoe.protect.md) 
-- [Malmoe.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Malmoe.private.md) 
-- [Malmoe.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Malmoe.personal.md) 
-- [Malmoe.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Malmoe.secret.md) 

@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_estimated_cost](../../../../_public/schema.org/Predicate/Quantities/has_value_for_estimated_cost.md) 
-- [has_value_for_estimated_cost.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_estimated_cost.internal.md) 
-- [has_value_for_estimated_cost.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_estimated_cost.protect.md) 
-- [has_value_for_estimated_cost.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_estimated_cost.private.md) 
-- [has_value_for_estimated_cost.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_estimated_cost.personal.md) 
-- [has_value_for_estimated_cost.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_estimated_cost.secret.md) 

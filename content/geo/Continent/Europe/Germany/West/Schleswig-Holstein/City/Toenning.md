@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Toenning](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Toenning.md) 
-- [Toenning.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Toenning.internal.md) 
-- [Toenning.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Toenning.protect.md) 
-- [Toenning.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Toenning.private.md) 
-- [Toenning.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Toenning.personal.md) 
-- [Toenning.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Toenning.secret.md) 

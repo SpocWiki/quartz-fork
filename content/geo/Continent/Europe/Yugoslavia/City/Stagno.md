@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stagno](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Stagno.md) 
-- [Stagno.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Stagno.internal.md) 
-- [Stagno.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Stagno.protect.md) 
-- [Stagno.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Stagno.private.md) 
-- [Stagno.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Stagno.personal.md) 
-- [Stagno.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Stagno.secret.md) 

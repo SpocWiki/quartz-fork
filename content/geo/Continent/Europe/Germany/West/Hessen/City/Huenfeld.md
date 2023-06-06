@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Huenfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Huenfeld.md) 
-- [Huenfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Huenfeld.internal.md) 
-- [Huenfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Huenfeld.protect.md) 
-- [Huenfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Huenfeld.private.md) 
-- [Huenfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Huenfeld.personal.md) 
-- [Huenfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Huenfeld.secret.md) 

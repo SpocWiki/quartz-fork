@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Andover](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Andover.md) 
-- [Andover.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Andover.internal.md) 
-- [Andover.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Andover.protect.md) 
-- [Andover.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Andover.private.md) 
-- [Andover.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Andover.personal.md) 
-- [Andover.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Andover.secret.md) 

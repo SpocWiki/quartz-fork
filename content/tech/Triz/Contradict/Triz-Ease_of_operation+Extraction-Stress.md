@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Extraction-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Extraction-Stress](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.md) 
-- [Triz-Ease_of_operation+Extraction-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.internal.md) 
-- [Triz-Ease_of_operation+Extraction-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.protect.md) 
-- [Triz-Ease_of_operation+Extraction-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.private.md) 
-- [Triz-Ease_of_operation+Extraction-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.personal.md) 
-- [Triz-Ease_of_operation+Extraction-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Stress.secret.md) 

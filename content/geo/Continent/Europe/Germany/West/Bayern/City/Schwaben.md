@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwaben](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schwaben.md) 
-- [Schwaben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schwaben.internal.md) 
-- [Schwaben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schwaben.protect.md) 
-- [Schwaben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schwaben.private.md) 
-- [Schwaben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schwaben.personal.md) 
-- [Schwaben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schwaben.secret.md) 

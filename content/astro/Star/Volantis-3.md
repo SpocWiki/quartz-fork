@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Volantis-3](../../../_public/astro/Star/Volantis-3.md) 
-- [Volantis-3.internal](../../../_internal/astro/Star/Volantis-3.internal.md) 
-- [Volantis-3.protect](../../../_protect/astro/Star/Volantis-3.protect.md) 
-- [Volantis-3.private](../../../_private/astro/Star/Volantis-3.private.md) 
-- [Volantis-3.personal](../../../_personal/astro/Star/Volantis-3.personal.md) 
-- [Volantis-3.secret](../../../_secret/astro/Star/Volantis-3.secret.md) 

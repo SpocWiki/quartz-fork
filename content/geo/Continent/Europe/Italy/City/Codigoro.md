@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Codigoro](../../../../../../_public/geo/Continent/Europe/Italy/City/Codigoro.md) 
-- [Codigoro.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Codigoro.internal.md) 
-- [Codigoro.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Codigoro.protect.md) 
-- [Codigoro.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Codigoro.private.md) 
-- [Codigoro.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Codigoro.personal.md) 
-- [Codigoro.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Codigoro.secret.md) 

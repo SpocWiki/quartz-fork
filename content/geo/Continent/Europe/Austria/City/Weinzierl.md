@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weinzierl](../../../../../../_public/geo/Continent/Europe/Austria/City/Weinzierl.md) 
-- [Weinzierl.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Weinzierl.internal.md) 
-- [Weinzierl.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Weinzierl.protect.md) 
-- [Weinzierl.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Weinzierl.private.md) 
-- [Weinzierl.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Weinzierl.personal.md) 
-- [Weinzierl.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Weinzierl.secret.md) 

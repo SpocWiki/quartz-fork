@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Golkovska](../../../../../../_public/geo/Continent/Europe/Russia/City/Golkovska.md) 
-- [Golkovska.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Golkovska.internal.md) 
-- [Golkovska.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Golkovska.protect.md) 
-- [Golkovska.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Golkovska.private.md) 
-- [Golkovska.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Golkovska.personal.md) 
-- [Golkovska.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Golkovska.secret.md) 

@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_review_rating_stars](../../../../_public/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.md) 
-- [has_value_for_review_rating_stars.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.internal.md) 
-- [has_value_for_review_rating_stars.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.protect.md) 
-- [has_value_for_review_rating_stars.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.private.md) 
-- [has_value_for_review_rating_stars.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.personal.md) 
-- [has_value_for_review_rating_stars.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.secret.md) 

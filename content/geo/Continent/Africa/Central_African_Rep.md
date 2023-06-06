@@ -30,7 +30,7 @@ markerFolder: ./Central_African_Rep/City
 [VehicleCode::RCA]
 [Capital::[Bangui](geo/Continent/Africa/Central_African_Rep/City/Bangui.md)]
 ![350](Coat_of_arms_of_Central-african-republic.svg)
-![Anthem-Central-african-republic](xLarge/National-Anthem/Anthem-Central-african-republic.mp3)
+[Anthem-Central-african-republic](xLarge/National-Anthem/Anthem-Central-african-republic.mp3)
 ![350](Flag_of_Central-african-republic.svg)
 [Alcohol-l::3.4]
 [Language-Id::496]
@@ -39,10 +39,3 @@ markerFolder: ./Central_African_Rep/City
 
 
 
-## Confidential Links & Embeds: 
-- [Central_African_Rep](../../../../_public/geo/Continent/Africa/Central_African_Rep.md) 
-- [Central_African_Rep.internal](../../../../_internal/geo/Continent/Africa/Central_African_Rep.internal.md) 
-- [Central_African_Rep.protect](../../../../_protect/geo/Continent/Africa/Central_African_Rep.protect.md) 
-- [Central_African_Rep.private](../../../../_private/geo/Continent/Africa/Central_African_Rep.private.md) 
-- [Central_African_Rep.personal](../../../../_personal/geo/Continent/Africa/Central_African_Rep.personal.md) 
-- [Central_African_Rep.secret](../../../../_secret/geo/Continent/Africa/Central_African_Rep.secret.md) 

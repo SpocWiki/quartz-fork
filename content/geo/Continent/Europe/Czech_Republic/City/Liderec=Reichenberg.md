@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liderec=Reichenberg](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.md) 
-- [Liderec=Reichenberg.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.internal.md) 
-- [Liderec=Reichenberg.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.protect.md) 
-- [Liderec=Reichenberg.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.private.md) 
-- [Liderec=Reichenberg.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.personal.md) 
-- [Liderec=Reichenberg.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Liderec=Reichenberg.secret.md) 

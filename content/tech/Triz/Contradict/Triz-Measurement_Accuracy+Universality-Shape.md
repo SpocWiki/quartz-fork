@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Universality-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Universality-Shape](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.md) 
-- [Triz-Measurement_Accuracy+Universality-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.internal.md) 
-- [Triz-Measurement_Accuracy+Universality-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.protect.md) 
-- [Triz-Measurement_Accuracy+Universality-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.private.md) 
-- [Triz-Measurement_Accuracy+Universality-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.personal.md) 
-- [Triz-Measurement_Accuracy+Universality-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Shape.secret.md) 

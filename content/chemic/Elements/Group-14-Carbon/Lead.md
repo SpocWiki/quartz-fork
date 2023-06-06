@@ -40,10 +40,3 @@ title: Lead
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lead)
 
-## Confidential Links & Embeds: 
-- [Lead](../../../../_public/chemic/Elements/Group-14-Carbon/Lead.md) 
-- [Lead.internal](../../../../_internal/chemic/Elements/Group-14-Carbon/Lead.internal.md) 
-- [Lead.protect](../../../../_protect/chemic/Elements/Group-14-Carbon/Lead.protect.md) 
-- [Lead.private](../../../../_private/chemic/Elements/Group-14-Carbon/Lead.private.md) 
-- [Lead.personal](../../../../_personal/chemic/Elements/Group-14-Carbon/Lead.personal.md) 
-- [Lead.secret](../../../../_secret/chemic/Elements/Group-14-Carbon/Lead.secret.md) 

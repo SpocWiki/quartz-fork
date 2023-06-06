@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klensby](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Klensby.md) 
-- [Klensby.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Klensby.internal.md) 
-- [Klensby.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Klensby.protect.md) 
-- [Klensby.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Klensby.private.md) 
-- [Klensby.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Klensby.personal.md) 
-- [Klensby.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Klensby.secret.md) 

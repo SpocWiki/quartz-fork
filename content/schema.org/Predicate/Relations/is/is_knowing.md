@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_knowing](../../../../../_public/schema.org/Predicate/Relations/is/is_knowing.md) 
-- [is_knowing.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_knowing.internal.md) 
-- [is_knowing.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_knowing.protect.md) 
-- [is_knowing.private](../../../../../_private/schema.org/Predicate/Relations/is/is_knowing.private.md) 
-- [is_knowing.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_knowing.personal.md) 
-- [is_knowing.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_knowing.secret.md) 

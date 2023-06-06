@@ -45,10 +45,3 @@ The most generic type of entity related to health and the practice of medicine.
 
 
 
-## Confidential Links & Embeds: 
-- [medical_entity](../../../../_public/schema.org/Type/is_a_/medical_entity.md) 
-- [medical_entity.internal](../../../../_internal/schema.org/Type/is_a_/medical_entity.internal.md) 
-- [medical_entity.protect](../../../../_protect/schema.org/Type/is_a_/medical_entity.protect.md) 
-- [medical_entity.private](../../../../_private/schema.org/Type/is_a_/medical_entity.private.md) 
-- [medical_entity.personal](../../../../_personal/schema.org/Type/is_a_/medical_entity.personal.md) 
-- [medical_entity.secret](../../../../_secret/schema.org/Type/is_a_/medical_entity.secret.md) 

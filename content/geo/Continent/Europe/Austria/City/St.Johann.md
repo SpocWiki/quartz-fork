@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Johann](../../../../../../_public/geo/Continent/Europe/Austria/City/St.Johann.md) 
-- [St.Johann.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Johann.internal.md) 
-- [St.Johann.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Johann.protect.md) 
-- [St.Johann.private](../../../../../../_private/geo/Continent/Europe/Austria/City/St.Johann.private.md) 
-- [St.Johann.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Johann.personal.md) 
-- [St.Johann.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Johann.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arsdorf](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Arsdorf.md) 
-- [Arsdorf.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Arsdorf.internal.md) 
-- [Arsdorf.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Arsdorf.protect.md) 
-- [Arsdorf.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Arsdorf.private.md) 
-- [Arsdorf.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Arsdorf.personal.md) 
-- [Arsdorf.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Arsdorf.secret.md) 

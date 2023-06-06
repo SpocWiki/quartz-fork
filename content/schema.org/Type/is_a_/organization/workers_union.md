@@ -43,10 +43,3 @@ A Workers Union (also known as a Labor Union, Labour Union, or Trade Union) is a
 
 
 
-## Confidential Links & Embeds: 
-- [workers_union](../../../../../_public/schema.org/Type/is_a_/organization/workers_union.md) 
-- [workers_union.internal](../../../../../_internal/schema.org/Type/is_a_/organization/workers_union.internal.md) 
-- [workers_union.protect](../../../../../_protect/schema.org/Type/is_a_/organization/workers_union.protect.md) 
-- [workers_union.private](../../../../../_private/schema.org/Type/is_a_/organization/workers_union.private.md) 
-- [workers_union.personal](../../../../../_personal/schema.org/Type/is_a_/organization/workers_union.personal.md) 
-- [workers_union.secret](../../../../../_secret/schema.org/Type/is_a_/organization/workers_union.secret.md) 

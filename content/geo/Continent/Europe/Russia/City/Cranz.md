@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cranz](../../../../../../_public/geo/Continent/Europe/Russia/City/Cranz.md) 
-- [Cranz.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Cranz.internal.md) 
-- [Cranz.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Cranz.protect.md) 
-- [Cranz.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Cranz.private.md) 
-- [Cranz.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Cranz.personal.md) 
-- [Cranz.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Cranz.secret.md) 

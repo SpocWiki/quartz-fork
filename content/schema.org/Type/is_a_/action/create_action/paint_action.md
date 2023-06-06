@@ -43,10 +43,3 @@ The act of producing a painting, typically with paint and canvas as instruments.
 
 
 
-## Confidential Links & Embeds: 
-- [paint_action](../../../../../../_public/schema.org/Type/is_a_/action/create_action/paint_action.md) 
-- [paint_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/create_action/paint_action.internal.md) 
-- [paint_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/create_action/paint_action.protect.md) 
-- [paint_action.private](../../../../../../_private/schema.org/Type/is_a_/action/create_action/paint_action.private.md) 
-- [paint_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/create_action/paint_action.personal.md) 
-- [paint_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/create_action/paint_action.secret.md) 

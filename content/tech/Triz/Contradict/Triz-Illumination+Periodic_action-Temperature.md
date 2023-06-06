@@ -19,10 +19,3 @@ title: Triz-Illumination+Periodic_action-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Periodic_action-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.md) 
-- [Triz-Illumination+Periodic_action-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.internal.md) 
-- [Triz-Illumination+Periodic_action-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.protect.md) 
-- [Triz-Illumination+Periodic_action-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.private.md) 
-- [Triz-Illumination+Periodic_action-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.personal.md) 
-- [Triz-Illumination+Periodic_action-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Temperature.secret.md) 

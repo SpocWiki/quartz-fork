@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Rüsselsheim](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim.md) 
-- [S-Rüsselsheim.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim.internal.md) 
-- [S-Rüsselsheim.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim.protect.md) 
-- [S-Rüsselsheim.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim.private.md) 
-- [S-Rüsselsheim.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim.personal.md) 
-- [S-Rüsselsheim.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim.secret.md) 

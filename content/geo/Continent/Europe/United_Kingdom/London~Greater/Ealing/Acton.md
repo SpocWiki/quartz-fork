@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Acton](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing/Acton.md) 
-- [Acton.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing/Acton.internal.md) 
-- [Acton.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing/Acton.protect.md) 
-- [Acton.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing/Acton.private.md) 
-- [Acton.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing/Acton.personal.md) 
-- [Acton.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing/Acton.secret.md) 

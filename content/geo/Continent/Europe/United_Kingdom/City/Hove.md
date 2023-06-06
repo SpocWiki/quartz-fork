@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hove](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hove.md) 
-- [Hove.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hove.internal.md) 
-- [Hove.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hove.protect.md) 
-- [Hove.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hove.private.md) 
-- [Hove.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hove.personal.md) 
-- [Hove.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hove.secret.md) 

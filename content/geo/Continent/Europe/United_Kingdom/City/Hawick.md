@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hawick](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hawick.md) 
-- [Hawick.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hawick.internal.md) 
-- [Hawick.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hawick.protect.md) 
-- [Hawick.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hawick.private.md) 
-- [Hawick.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hawick.personal.md) 
-- [Hawick.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hawick.secret.md) 

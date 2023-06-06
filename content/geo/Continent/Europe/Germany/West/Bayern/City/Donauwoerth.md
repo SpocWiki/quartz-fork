@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Donauwoerth](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Donauwoerth.md) 
-- [Donauwoerth.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Donauwoerth.internal.md) 
-- [Donauwoerth.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Donauwoerth.protect.md) 
-- [Donauwoerth.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Donauwoerth.private.md) 
-- [Donauwoerth.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Donauwoerth.personal.md) 
-- [Donauwoerth.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Donauwoerth.secret.md) 

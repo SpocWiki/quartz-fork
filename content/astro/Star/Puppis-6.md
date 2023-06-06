@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Puppis-6](../../../_public/astro/Star/Puppis-6.md) 
-- [Puppis-6.internal](../../../_internal/astro/Star/Puppis-6.internal.md) 
-- [Puppis-6.protect](../../../_protect/astro/Star/Puppis-6.protect.md) 
-- [Puppis-6.private](../../../_private/astro/Star/Puppis-6.private.md) 
-- [Puppis-6.personal](../../../_personal/astro/Star/Puppis-6.personal.md) 
-- [Puppis-6.secret](../../../_secret/astro/Star/Puppis-6.secret.md) 

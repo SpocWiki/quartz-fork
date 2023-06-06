@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pyttis](../../../../../../_public/geo/Continent/Europe/Finland/City/Pyttis.md) 
-- [Pyttis.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Pyttis.internal.md) 
-- [Pyttis.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Pyttis.protect.md) 
-- [Pyttis.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Pyttis.private.md) 
-- [Pyttis.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Pyttis.personal.md) 
-- [Pyttis.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Pyttis.secret.md) 

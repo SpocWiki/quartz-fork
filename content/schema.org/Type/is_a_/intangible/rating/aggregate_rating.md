@@ -45,10 +45,3 @@ The average rating based on multiple ratings or reviews.
 
 
 
-## Confidential Links & Embeds: 
-- [aggregate_rating](../../../../../../_public/schema.org/Type/is_a_/intangible/rating/aggregate_rating.md) 
-- [aggregate_rating.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/rating/aggregate_rating.internal.md) 
-- [aggregate_rating.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/rating/aggregate_rating.protect.md) 
-- [aggregate_rating.private](../../../../../../_private/schema.org/Type/is_a_/intangible/rating/aggregate_rating.private.md) 
-- [aggregate_rating.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/rating/aggregate_rating.personal.md) 
-- [aggregate_rating.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/rating/aggregate_rating.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strassebersberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Strassebersberg.md) 
-- [Strassebersberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Strassebersberg.internal.md) 
-- [Strassebersberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Strassebersberg.protect.md) 
-- [Strassebersberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Strassebersberg.private.md) 
-- [Strassebersberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Strassebersberg.personal.md) 
-- [Strassebersberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Strassebersberg.secret.md) 

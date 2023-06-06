@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Slavianossechsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Slavianossechsk.md) 
-- [Slavianossechsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Slavianossechsk.internal.md) 
-- [Slavianossechsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Slavianossechsk.protect.md) 
-- [Slavianossechsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Slavianossechsk.private.md) 
-- [Slavianossechsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Slavianossechsk.personal.md) 
-- [Slavianossechsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Slavianossechsk.secret.md) 

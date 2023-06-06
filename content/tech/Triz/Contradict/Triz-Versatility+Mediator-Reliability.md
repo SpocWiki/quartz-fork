@@ -19,10 +19,3 @@ title: Triz-Versatility+Mediator-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Mediator-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Mediator-Reliability.md) 
-- [Triz-Versatility+Mediator-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Mediator-Reliability.internal.md) 
-- [Triz-Versatility+Mediator-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Mediator-Reliability.protect.md) 
-- [Triz-Versatility+Mediator-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Mediator-Reliability.private.md) 
-- [Triz-Versatility+Mediator-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Mediator-Reliability.personal.md) 
-- [Triz-Versatility+Mediator-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Mediator-Reliability.secret.md) 

@@ -131,10 +131,3 @@ markerFolder: ./French_Polynesia/City
 
 
 
-## Confidential Links & Embeds: 
-- [French_Polynesia](../../../../_public/geo/Continent/Oceania/French_Polynesia.md) 
-- [French_Polynesia.internal](../../../../_internal/geo/Continent/Oceania/French_Polynesia.internal.md) 
-- [French_Polynesia.protect](../../../../_protect/geo/Continent/Oceania/French_Polynesia.protect.md) 
-- [French_Polynesia.private](../../../../_private/geo/Continent/Oceania/French_Polynesia.private.md) 
-- [French_Polynesia.personal](../../../../_personal/geo/Continent/Oceania/French_Polynesia.personal.md) 
-- [French_Polynesia.secret](../../../../_secret/geo/Continent/Oceania/French_Polynesia.secret.md) 

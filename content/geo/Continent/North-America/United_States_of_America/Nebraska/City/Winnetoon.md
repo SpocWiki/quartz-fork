@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winnetoon](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Nebraska/City/Winnetoon.md) 
-- [Winnetoon.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nebraska/City/Winnetoon.internal.md) 
-- [Winnetoon.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nebraska/City/Winnetoon.protect.md) 
-- [Winnetoon.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Nebraska/City/Winnetoon.private.md) 
-- [Winnetoon.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nebraska/City/Winnetoon.personal.md) 
-- [Winnetoon.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nebraska/City/Winnetoon.secret.md) 

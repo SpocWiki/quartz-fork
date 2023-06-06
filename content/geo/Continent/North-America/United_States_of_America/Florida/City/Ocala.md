@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ocala](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Florida/City/Ocala.md) 
-- [Ocala.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Florida/City/Ocala.internal.md) 
-- [Ocala.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Florida/City/Ocala.protect.md) 
-- [Ocala.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Florida/City/Ocala.private.md) 
-- [Ocala.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Florida/City/Ocala.personal.md) 
-- [Ocala.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Florida/City/Ocala.secret.md) 

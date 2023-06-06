@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Pskov_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Pskov_Oblast.md) 
-- [State-Pskov_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Pskov_Oblast.internal.md) 
-- [State-Pskov_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Pskov_Oblast.protect.md) 
-- [State-Pskov_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Pskov_Oblast.private.md) 
-- [State-Pskov_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Pskov_Oblast.personal.md) 
-- [State-Pskov_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Pskov_Oblast.secret.md) 

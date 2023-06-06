@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tongres](../../../../../../_public/geo/Continent/Europe/Belgium/City/Tongres.md) 
-- [Tongres.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Tongres.internal.md) 
-- [Tongres.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Tongres.protect.md) 
-- [Tongres.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Tongres.private.md) 
-- [Tongres.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Tongres.personal.md) 
-- [Tongres.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Tongres.secret.md) 

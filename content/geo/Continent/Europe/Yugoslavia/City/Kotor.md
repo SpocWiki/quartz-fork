@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kotor](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Kotor.md) 
-- [Kotor.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kotor.internal.md) 
-- [Kotor.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kotor.protect.md) 
-- [Kotor.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kotor.private.md) 
-- [Kotor.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kotor.personal.md) 
-- [Kotor.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kotor.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ekefors](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ekefors.md) 
-- [Ekefors.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ekefors.internal.md) 
-- [Ekefors.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ekefors.protect.md) 
-- [Ekefors.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ekefors.private.md) 
-- [Ekefors.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ekefors.personal.md) 
-- [Ekefors.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ekefors.secret.md) 

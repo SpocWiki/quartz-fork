@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Santo_Domingo](../../../../../../_public/geo/Continent/South-America/Dominican_Rep/City/Santo_Domingo.md) 
-- [Santo_Domingo.internal](../../../../../../_internal/geo/Continent/South-America/Dominican_Rep/City/Santo_Domingo.internal.md) 
-- [Santo_Domingo.protect](../../../../../../_protect/geo/Continent/South-America/Dominican_Rep/City/Santo_Domingo.protect.md) 
-- [Santo_Domingo.private](../../../../../../_private/geo/Continent/South-America/Dominican_Rep/City/Santo_Domingo.private.md) 
-- [Santo_Domingo.personal](../../../../../../_personal/geo/Continent/South-America/Dominican_Rep/City/Santo_Domingo.personal.md) 
-- [Santo_Domingo.secret](../../../../../../_secret/geo/Continent/South-America/Dominican_Rep/City/Santo_Domingo.secret.md) 

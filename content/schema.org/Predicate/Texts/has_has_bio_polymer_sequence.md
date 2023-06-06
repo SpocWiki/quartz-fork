@@ -49,10 +49,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_has_bio_polymer_sequence](../../../../_public/schema.org/Predicate/Texts/has_has_bio_polymer_sequence.md) 
-- [has_has_bio_polymer_sequence.internal](../../../../_internal/schema.org/Predicate/Texts/has_has_bio_polymer_sequence.internal.md) 
-- [has_has_bio_polymer_sequence.protect](../../../../_protect/schema.org/Predicate/Texts/has_has_bio_polymer_sequence.protect.md) 
-- [has_has_bio_polymer_sequence.private](../../../../_private/schema.org/Predicate/Texts/has_has_bio_polymer_sequence.private.md) 
-- [has_has_bio_polymer_sequence.personal](../../../../_personal/schema.org/Predicate/Texts/has_has_bio_polymer_sequence.personal.md) 
-- [has_has_bio_polymer_sequence.secret](../../../../_secret/schema.org/Predicate/Texts/has_has_bio_polymer_sequence.secret.md) 

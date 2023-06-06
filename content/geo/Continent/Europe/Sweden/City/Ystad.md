@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ystad](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ystad.md) 
-- [Ystad.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ystad.internal.md) 
-- [Ystad.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ystad.protect.md) 
-- [Ystad.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ystad.private.md) 
-- [Ystad.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ystad.personal.md) 
-- [Ystad.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ystad.secret.md) 

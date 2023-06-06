@@ -19,10 +19,3 @@ title: Triz-Quantity+Extraction-Measurement_Accuracy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Extraction-Measurement_Accuracy](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.md) 
-- [Triz-Quantity+Extraction-Measurement_Accuracy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.internal.md) 
-- [Triz-Quantity+Extraction-Measurement_Accuracy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.protect.md) 
-- [Triz-Quantity+Extraction-Measurement_Accuracy.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.private.md) 
-- [Triz-Quantity+Extraction-Measurement_Accuracy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.personal.md) 
-- [Triz-Quantity+Extraction-Measurement_Accuracy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Extraction-Measurement_Accuracy.secret.md) 

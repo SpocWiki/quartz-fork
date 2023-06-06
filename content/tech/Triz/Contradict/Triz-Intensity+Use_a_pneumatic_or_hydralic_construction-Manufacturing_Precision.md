@@ -19,10 +19,3 @@ title: Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Pre
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.md) 
-- [Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.internal.md) 
-- [Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.protect.md) 
-- [Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.private.md) 
-- [Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.personal.md) 
-- [Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Use_a_pneumatic_or_hydralic_construction-Manufacturing_Precision.secret.md) 

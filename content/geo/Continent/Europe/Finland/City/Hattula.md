@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hattula](../../../../../../_public/geo/Continent/Europe/Finland/City/Hattula.md) 
-- [Hattula.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Hattula.internal.md) 
-- [Hattula.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Hattula.protect.md) 
-- [Hattula.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Hattula.private.md) 
-- [Hattula.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Hattula.personal.md) 
-- [Hattula.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Hattula.secret.md) 

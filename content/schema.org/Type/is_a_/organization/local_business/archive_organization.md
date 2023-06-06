@@ -45,10 +45,3 @@ An organization with archival holdings. An organization which keeps and preserve
 
 
 
-## Confidential Links & Embeds: 
-- [archive_organization](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/archive_organization.md) 
-- [archive_organization.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/archive_organization.internal.md) 
-- [archive_organization.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/archive_organization.protect.md) 
-- [archive_organization.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/archive_organization.private.md) 
-- [archive_organization.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/archive_organization.personal.md) 
-- [archive_organization.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/archive_organization.secret.md) 

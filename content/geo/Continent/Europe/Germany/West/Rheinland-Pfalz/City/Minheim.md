@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Minheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Minheim.md) 
-- [Minheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Minheim.internal.md) 
-- [Minheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Minheim.protect.md) 
-- [Minheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Minheim.private.md) 
-- [Minheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Minheim.personal.md) 
-- [Minheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Minheim.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lensalm](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lensalm.md) 
-- [Lensalm.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lensalm.internal.md) 
-- [Lensalm.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lensalm.protect.md) 
-- [Lensalm.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lensalm.private.md) 
-- [Lensalm.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lensalm.personal.md) 
-- [Lensalm.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lensalm.secret.md) 

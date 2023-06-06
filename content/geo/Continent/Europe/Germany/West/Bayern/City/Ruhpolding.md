@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ruhpolding](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ruhpolding.md) 
-- [Ruhpolding.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ruhpolding.internal.md) 
-- [Ruhpolding.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ruhpolding.protect.md) 
-- [Ruhpolding.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ruhpolding.private.md) 
-- [Ruhpolding.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ruhpolding.personal.md) 
-- [Ruhpolding.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ruhpolding.secret.md) 

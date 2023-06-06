@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Menin](../../../../../../_public/geo/Continent/Europe/Belgium/City/Menin.md) 
-- [Menin.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Menin.internal.md) 
-- [Menin.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Menin.protect.md) 
-- [Menin.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Menin.private.md) 
-- [Menin.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Menin.personal.md) 
-- [Menin.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Menin.secret.md) 

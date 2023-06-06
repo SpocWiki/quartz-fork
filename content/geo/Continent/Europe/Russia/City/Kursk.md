@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kursk](../../../../../../_public/geo/Continent/Europe/Russia/City/Kursk.md) 
-- [Kursk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kursk.internal.md) 
-- [Kursk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kursk.protect.md) 
-- [Kursk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kursk.private.md) 
-- [Kursk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kursk.personal.md) 
-- [Kursk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kursk.secret.md) 

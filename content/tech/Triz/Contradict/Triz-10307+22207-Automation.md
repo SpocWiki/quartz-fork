@@ -19,10 +19,3 @@ title: Triz-10307+22207-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22207-Automation](../../../../_public/tech/Triz/Contradict/Triz-10307+22207-Automation.md) 
-- [Triz-10307+22207-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22207-Automation.internal.md) 
-- [Triz-10307+22207-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22207-Automation.protect.md) 
-- [Triz-10307+22207-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22207-Automation.private.md) 
-- [Triz-10307+22207-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22207-Automation.personal.md) 
-- [Triz-10307+22207-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22207-Automation.secret.md) 

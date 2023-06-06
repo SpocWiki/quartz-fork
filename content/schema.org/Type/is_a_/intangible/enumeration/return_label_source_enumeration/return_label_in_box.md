@@ -47,10 +47,3 @@ Specifies that a return label will be provided by the seller in the shipping box
 
 
 
-## Confidential Links & Embeds: 
-- [return_label_in_box](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_in_box.md) 
-- [return_label_in_box.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_in_box.internal.md) 
-- [return_label_in_box.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_in_box.protect.md) 
-- [return_label_in_box.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_in_box.private.md) 
-- [return_label_in_box.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_in_box.personal.md) 
-- [return_label_in_box.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_in_box.secret.md) 

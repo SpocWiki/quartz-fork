@@ -47,10 +47,3 @@ population, and does not imply that the population consists of people. For examp
 
 
 
-## Confidential Links & Embeds: 
-- [statistical_population](../../../../../_public/schema.org/Type/is_a_/intangible/statistical_population.md) 
-- [statistical_population.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/statistical_population.internal.md) 
-- [statistical_population.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/statistical_population.protect.md) 
-- [statistical_population.private](../../../../../_private/schema.org/Type/is_a_/intangible/statistical_population.private.md) 
-- [statistical_population.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/statistical_population.personal.md) 
-- [statistical_population.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/statistical_population.secret.md) 

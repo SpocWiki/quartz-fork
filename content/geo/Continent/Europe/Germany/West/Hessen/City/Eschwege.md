@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eschwege](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Eschwege.md) 
-- [Eschwege.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Eschwege.internal.md) 
-- [Eschwege.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Eschwege.protect.md) 
-- [Eschwege.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Eschwege.private.md) 
-- [Eschwege.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Eschwege.personal.md) 
-- [Eschwege.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Eschwege.secret.md) 

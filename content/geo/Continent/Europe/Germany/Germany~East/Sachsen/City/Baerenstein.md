@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baerenstein](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Baerenstein.md) 
-- [Baerenstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Baerenstein.internal.md) 
-- [Baerenstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Baerenstein.protect.md) 
-- [Baerenstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Baerenstein.private.md) 
-- [Baerenstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Baerenstein.personal.md) 
-- [Baerenstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Baerenstein.secret.md) 

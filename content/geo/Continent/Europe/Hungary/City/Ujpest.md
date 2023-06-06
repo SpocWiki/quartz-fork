@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ujpest](../../../../../../_public/geo/Continent/Europe/Hungary/City/Ujpest.md) 
-- [Ujpest.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Ujpest.internal.md) 
-- [Ujpest.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Ujpest.protect.md) 
-- [Ujpest.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Ujpest.private.md) 
-- [Ujpest.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Ujpest.personal.md) 
-- [Ujpest.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Ujpest.secret.md) 

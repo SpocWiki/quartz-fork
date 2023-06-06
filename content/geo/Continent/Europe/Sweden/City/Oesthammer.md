@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oesthammer](../../../../../../_public/geo/Continent/Europe/Sweden/City/Oesthammer.md) 
-- [Oesthammer.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oesthammer.internal.md) 
-- [Oesthammer.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oesthammer.protect.md) 
-- [Oesthammer.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Oesthammer.private.md) 
-- [Oesthammer.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oesthammer.personal.md) 
-- [Oesthammer.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oesthammer.secret.md) 

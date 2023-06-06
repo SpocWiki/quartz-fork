@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reinerz](../../../../../../_public/geo/Continent/Europe/Poland/City/Reinerz.md) 
-- [Reinerz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Reinerz.internal.md) 
-- [Reinerz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Reinerz.protect.md) 
-- [Reinerz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Reinerz.private.md) 
-- [Reinerz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Reinerz.personal.md) 
-- [Reinerz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Reinerz.secret.md) 

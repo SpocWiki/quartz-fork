@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lestijaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Lestijaervi.md) 
-- [Lestijaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Lestijaervi.internal.md) 
-- [Lestijaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Lestijaervi.protect.md) 
-- [Lestijaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Lestijaervi.private.md) 
-- [Lestijaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Lestijaervi.personal.md) 
-- [Lestijaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Lestijaervi.secret.md) 

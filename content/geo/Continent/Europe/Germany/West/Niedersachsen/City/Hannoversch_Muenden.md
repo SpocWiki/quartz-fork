@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hannoversch_Muenden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.md) 
-- [Hannoversch_Muenden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.internal.md) 
-- [Hannoversch_Muenden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.protect.md) 
-- [Hannoversch_Muenden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.private.md) 
-- [Hannoversch_Muenden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.personal.md) 
-- [Hannoversch_Muenden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannoversch_Muenden.secret.md) 

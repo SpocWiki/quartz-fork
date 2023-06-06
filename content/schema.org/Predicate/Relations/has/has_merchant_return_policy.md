@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_merchant_return_policy](../../../../../_public/schema.org/Predicate/Relations/has/has_merchant_return_policy.md) 
-- [has_merchant_return_policy.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_merchant_return_policy.internal.md) 
-- [has_merchant_return_policy.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_merchant_return_policy.protect.md) 
-- [has_merchant_return_policy.private](../../../../../_private/schema.org/Predicate/Relations/has/has_merchant_return_policy.private.md) 
-- [has_merchant_return_policy.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_merchant_return_policy.personal.md) 
-- [has_merchant_return_policy.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_merchant_return_policy.secret.md) 

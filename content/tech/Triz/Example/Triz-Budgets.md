@@ -17,10 +17,3 @@ title: Triz-Budgets
 
 --Measurements are used to decide when to modify a Process.
 
-## Confidential Links & Embeds: 
-- [Triz-Budgets](../../../../_public/tech/Triz/Example/Triz-Budgets.md) 
-- [Triz-Budgets.internal](../../../../_internal/tech/Triz/Example/Triz-Budgets.internal.md) 
-- [Triz-Budgets.protect](../../../../_protect/tech/Triz/Example/Triz-Budgets.protect.md) 
-- [Triz-Budgets.private](../../../../_private/tech/Triz/Example/Triz-Budgets.private.md) 
-- [Triz-Budgets.personal](../../../../_personal/tech/Triz/Example/Triz-Budgets.personal.md) 
-- [Triz-Budgets.secret](../../../../_secret/tech/Triz/Example/Triz-Budgets.secret.md) 

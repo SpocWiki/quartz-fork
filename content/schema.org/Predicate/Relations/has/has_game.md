@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_game](../../../../../_public/schema.org/Predicate/Relations/has/has_game.md) 
-- [has_game.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_game.internal.md) 
-- [has_game.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_game.protect.md) 
-- [has_game.private](../../../../../_private/schema.org/Predicate/Relations/has/has_game.private.md) 
-- [has_game.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_game.personal.md) 
-- [has_game.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_game.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bridgetown](../../../../../../_public/geo/Continent/South-America/Barbados/City/Bridgetown.md) 
-- [Bridgetown.internal](../../../../../../_internal/geo/Continent/South-America/Barbados/City/Bridgetown.internal.md) 
-- [Bridgetown.protect](../../../../../../_protect/geo/Continent/South-America/Barbados/City/Bridgetown.protect.md) 
-- [Bridgetown.private](../../../../../../_private/geo/Continent/South-America/Barbados/City/Bridgetown.private.md) 
-- [Bridgetown.personal](../../../../../../_personal/geo/Continent/South-America/Barbados/City/Bridgetown.personal.md) 
-- [Bridgetown.secret](../../../../../../_secret/geo/Continent/South-America/Barbados/City/Bridgetown.secret.md) 

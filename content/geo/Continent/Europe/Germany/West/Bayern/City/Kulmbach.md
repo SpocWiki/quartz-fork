@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kulmbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kulmbach.md) 
-- [Kulmbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kulmbach.internal.md) 
-- [Kulmbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kulmbach.protect.md) 
-- [Kulmbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kulmbach.private.md) 
-- [Kulmbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kulmbach.personal.md) 
-- [Kulmbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kulmbach.secret.md) 

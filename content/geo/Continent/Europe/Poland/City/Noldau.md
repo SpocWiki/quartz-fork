@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Noldau](../../../../../../_public/geo/Continent/Europe/Poland/City/Noldau.md) 
-- [Noldau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Noldau.internal.md) 
-- [Noldau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Noldau.protect.md) 
-- [Noldau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Noldau.private.md) 
-- [Noldau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Noldau.personal.md) 
-- [Noldau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Noldau.secret.md) 

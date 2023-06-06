@@ -43,10 +43,3 @@ A department store.
 
 
 
-## Confidential Links & Embeds: 
-- [department_store](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/department_store.md) 
-- [department_store.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/department_store.internal.md) 
-- [department_store.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/department_store.protect.md) 
-- [department_store.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/department_store.private.md) 
-- [department_store.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/department_store.personal.md) 
-- [department_store.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/department_store.secret.md) 

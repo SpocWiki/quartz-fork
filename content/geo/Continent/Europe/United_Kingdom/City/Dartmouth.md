@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dartmouth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dartmouth.md) 
-- [Dartmouth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dartmouth.internal.md) 
-- [Dartmouth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dartmouth.protect.md) 
-- [Dartmouth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dartmouth.private.md) 
-- [Dartmouth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dartmouth.personal.md) 
-- [Dartmouth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dartmouth.secret.md) 

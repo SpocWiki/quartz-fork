@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Narvik](../../../../../../_public/geo/Continent/Europe/Norway/City/Narvik.md) 
-- [Narvik.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Narvik.internal.md) 
-- [Narvik.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Narvik.protect.md) 
-- [Narvik.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Narvik.private.md) 
-- [Narvik.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Narvik.personal.md) 
-- [Narvik.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Narvik.secret.md) 

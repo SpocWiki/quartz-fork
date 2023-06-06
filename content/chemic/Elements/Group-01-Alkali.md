@@ -26,10 +26,3 @@ title: Group-01-Alkali
 
 
 
-## Confidential Links & Embeds: 
-- [Group-01-Alkali](../../../_public/chemic/Elements/Group-01-Alkali.md) 
-- [Group-01-Alkali.internal](../../../_internal/chemic/Elements/Group-01-Alkali.internal.md) 
-- [Group-01-Alkali.protect](../../../_protect/chemic/Elements/Group-01-Alkali.protect.md) 
-- [Group-01-Alkali.private](../../../_private/chemic/Elements/Group-01-Alkali.private.md) 
-- [Group-01-Alkali.personal](../../../_personal/chemic/Elements/Group-01-Alkali.personal.md) 
-- [Group-01-Alkali.secret](../../../_secret/chemic/Elements/Group-01-Alkali.secret.md) 

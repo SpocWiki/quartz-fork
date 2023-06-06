@@ -41,10 +41,3 @@ SpocWebEntityId: 17995
 
 
 
-## Confidential Links & Embeds: 
-- [Gold](../../../../_public/chemic/Elements/Group-11-Copper/Gold.md) 
-- [Gold.internal](../../../../_internal/chemic/Elements/Group-11-Copper/Gold.internal.md) 
-- [Gold.protect](../../../../_protect/chemic/Elements/Group-11-Copper/Gold.protect.md) 
-- [Gold.private](../../../../_private/chemic/Elements/Group-11-Copper/Gold.private.md) 
-- [Gold.personal](../../../../_personal/chemic/Elements/Group-11-Copper/Gold.personal.md) 
-- [Gold.secret](../../../../_secret/chemic/Elements/Group-11-Copper/Gold.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Power+Rejecting_and_regenerating_parts-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Rejecting_and_regenerating_parts-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Versatility.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Versatility.internal.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Versatility.protect.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Versatility.private.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Versatility.personal.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Versatility.secret.md) 

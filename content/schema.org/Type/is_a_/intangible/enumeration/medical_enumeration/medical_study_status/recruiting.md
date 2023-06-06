@@ -45,10 +45,3 @@ Recruiting participants.
 
 
 
-## Confidential Links & Embeds: 
-- [recruiting](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/recruiting.md) 
-- [recruiting.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/recruiting.internal.md) 
-- [recruiting.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/recruiting.protect.md) 
-- [recruiting.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/recruiting.private.md) 
-- [recruiting.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/recruiting.personal.md) 
-- [recruiting.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/recruiting.secret.md) 

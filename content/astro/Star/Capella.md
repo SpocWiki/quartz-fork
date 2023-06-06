@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Capella](../../../_public/astro/Star/Capella.md) 
-- [Capella.internal](../../../_internal/astro/Star/Capella.internal.md) 
-- [Capella.protect](../../../_protect/astro/Star/Capella.protect.md) 
-- [Capella.private](../../../_private/astro/Star/Capella.private.md) 
-- [Capella.personal](../../../_personal/astro/Star/Capella.personal.md) 
-- [Capella.secret](../../../_secret/astro/Star/Capella.secret.md)
-

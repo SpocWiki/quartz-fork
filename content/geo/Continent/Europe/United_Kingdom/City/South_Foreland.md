@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [South_Foreland](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/South_Foreland.md) 
-- [South_Foreland.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/South_Foreland.internal.md) 
-- [South_Foreland.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/South_Foreland.protect.md) 
-- [South_Foreland.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/South_Foreland.private.md) 
-- [South_Foreland.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/South_Foreland.personal.md) 
-- [South_Foreland.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/South_Foreland.secret.md) 

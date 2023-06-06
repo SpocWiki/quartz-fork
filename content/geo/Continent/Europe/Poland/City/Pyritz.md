@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pyritz](../../../../../../_public/geo/Continent/Europe/Poland/City/Pyritz.md) 
-- [Pyritz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Pyritz.internal.md) 
-- [Pyritz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Pyritz.protect.md) 
-- [Pyritz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Pyritz.private.md) 
-- [Pyritz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Pyritz.personal.md) 
-- [Pyritz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Pyritz.secret.md) 

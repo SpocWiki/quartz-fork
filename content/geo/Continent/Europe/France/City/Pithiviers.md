@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pithiviers](../../../../../../_public/geo/Continent/Europe/France/City/Pithiviers.md) 
-- [Pithiviers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Pithiviers.internal.md) 
-- [Pithiviers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Pithiviers.protect.md) 
-- [Pithiviers.private](../../../../../../_private/geo/Continent/Europe/France/City/Pithiviers.private.md) 
-- [Pithiviers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Pithiviers.personal.md) 
-- [Pithiviers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Pithiviers.secret.md) 

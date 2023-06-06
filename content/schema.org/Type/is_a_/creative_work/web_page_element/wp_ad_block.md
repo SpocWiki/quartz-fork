@@ -43,10 +43,3 @@ An advertising section of the page.
 
 
 
-## Confidential Links & Embeds: 
-- [wp_ad_block](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.md) 
-- [wp_ad_block.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.internal.md) 
-- [wp_ad_block.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.protect.md) 
-- [wp_ad_block.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.private.md) 
-- [wp_ad_block.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.personal.md) 
-- [wp_ad_block.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.secret.md) 

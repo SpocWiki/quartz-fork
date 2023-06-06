@@ -45,10 +45,3 @@ A list of items of any sort&#x2014;for example, Top 10 Movies About Weathermen, 
 
 
 
-## Confidential Links & Embeds: 
-- [item_list](../../../../../_public/schema.org/Type/is_a_/intangible/item_list.md) 
-- [item_list.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/item_list.internal.md) 
-- [item_list.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/item_list.protect.md) 
-- [item_list.private](../../../../../_private/schema.org/Type/is_a_/intangible/item_list.private.md) 
-- [item_list.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/item_list.personal.md) 
-- [item_list.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/item_list.secret.md) 

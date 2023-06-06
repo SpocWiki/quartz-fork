@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trondheim](../../../../../../_public/geo/Continent/Europe/Norway/City/Trondheim.md) 
-- [Trondheim.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Trondheim.internal.md) 
-- [Trondheim.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Trondheim.protect.md) 
-- [Trondheim.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Trondheim.private.md) 
-- [Trondheim.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Trondheim.personal.md) 
-- [Trondheim.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Trondheim.secret.md) 

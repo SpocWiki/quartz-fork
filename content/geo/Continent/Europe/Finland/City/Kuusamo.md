@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuusamo](../../../../../../_public/geo/Continent/Europe/Finland/City/Kuusamo.md) 
-- [Kuusamo.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuusamo.internal.md) 
-- [Kuusamo.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuusamo.protect.md) 
-- [Kuusamo.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kuusamo.private.md) 
-- [Kuusamo.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuusamo.personal.md) 
-- [Kuusamo.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuusamo.secret.md) 

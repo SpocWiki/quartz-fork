@@ -43,10 +43,3 @@ Organization: Sports team.
 
 
 
-## Confidential Links & Embeds: 
-- [sports_team](../../../../../../_public/schema.org/Type/is_a_/organization/sports_organization/sports_team.md) 
-- [sports_team.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/sports_organization/sports_team.internal.md) 
-- [sports_team.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/sports_organization/sports_team.protect.md) 
-- [sports_team.private](../../../../../../_private/schema.org/Type/is_a_/organization/sports_organization/sports_team.private.md) 
-- [sports_team.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/sports_organization/sports_team.personal.md) 
-- [sports_team.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/sports_organization/sports_team.secret.md) 

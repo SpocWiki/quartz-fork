@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sliven](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Sliven.md) 
-- [Sliven.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Sliven.internal.md) 
-- [Sliven.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Sliven.protect.md) 
-- [Sliven.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Sliven.private.md) 
-- [Sliven.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Sliven.personal.md) 
-- [Sliven.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Sliven.secret.md) 

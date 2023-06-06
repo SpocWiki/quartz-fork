@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tarbes](../../../../../../_public/geo/Continent/Europe/France/City/Tarbes.md) 
-- [Tarbes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Tarbes.internal.md) 
-- [Tarbes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Tarbes.protect.md) 
-- [Tarbes.private](../../../../../../_private/geo/Continent/Europe/France/City/Tarbes.private.md) 
-- [Tarbes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Tarbes.personal.md) 
-- [Tarbes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Tarbes.secret.md) 

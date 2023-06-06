@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Remagen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Remagen.md) 
-- [Remagen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Remagen.internal.md) 
-- [Remagen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Remagen.protect.md) 
-- [Remagen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Remagen.private.md) 
-- [Remagen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Remagen.personal.md) 
-- [Remagen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Remagen.secret.md) 

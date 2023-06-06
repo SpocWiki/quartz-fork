@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loegumkloster](../../../../../../_public/geo/Continent/Europe/Denmark/City/Loegumkloster.md) 
-- [Loegumkloster.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Loegumkloster.internal.md) 
-- [Loegumkloster.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Loegumkloster.protect.md) 
-- [Loegumkloster.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Loegumkloster.private.md) 
-- [Loegumkloster.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Loegumkloster.personal.md) 
-- [Loegumkloster.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Loegumkloster.secret.md) 

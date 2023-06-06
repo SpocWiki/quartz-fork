@@ -24,10 +24,3 @@ title: Group-05-Vanadium
 
 
 
-## Confidential Links & Embeds: 
-- [Group-05-Vanadium](../../../_public/chemic/Elements/Group-05-Vanadium.md) 
-- [Group-05-Vanadium.internal](../../../_internal/chemic/Elements/Group-05-Vanadium.internal.md) 
-- [Group-05-Vanadium.protect](../../../_protect/chemic/Elements/Group-05-Vanadium.protect.md) 
-- [Group-05-Vanadium.private](../../../_private/chemic/Elements/Group-05-Vanadium.private.md) 
-- [Group-05-Vanadium.personal](../../../_personal/chemic/Elements/Group-05-Vanadium.personal.md) 
-- [Group-05-Vanadium.secret](../../../_secret/chemic/Elements/Group-05-Vanadium.secret.md) 

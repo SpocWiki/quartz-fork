@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Doerscheid](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Doerscheid.md) 
-- [Doerscheid.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Doerscheid.internal.md) 
-- [Doerscheid.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Doerscheid.protect.md) 
-- [Doerscheid.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Doerscheid.private.md) 
-- [Doerscheid.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Doerscheid.personal.md) 
-- [Doerscheid.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Doerscheid.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Edenkoben](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edenkoben.md) 
-- [Edenkoben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edenkoben.internal.md) 
-- [Edenkoben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edenkoben.protect.md) 
-- [Edenkoben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edenkoben.private.md) 
-- [Edenkoben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edenkoben.personal.md) 
-- [Edenkoben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edenkoben.secret.md) 

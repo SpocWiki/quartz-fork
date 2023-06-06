@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Centauri-13](../../../_public/astro/Star/Centauri-13.md) 
-- [Centauri-13.internal](../../../_internal/astro/Star/Centauri-13.internal.md) 
-- [Centauri-13.protect](../../../_protect/astro/Star/Centauri-13.protect.md) 
-- [Centauri-13.private](../../../_private/astro/Star/Centauri-13.private.md) 
-- [Centauri-13.personal](../../../_personal/astro/Star/Centauri-13.personal.md) 
-- [Centauri-13.secret](../../../_secret/astro/Star/Centauri-13.secret.md)
-

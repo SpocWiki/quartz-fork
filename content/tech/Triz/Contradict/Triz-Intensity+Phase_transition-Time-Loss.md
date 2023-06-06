@@ -19,10 +19,3 @@ title: Triz-Intensity+Phase_transition-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Phase_transition-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.md) 
-- [Triz-Intensity+Phase_transition-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.internal.md) 
-- [Triz-Intensity+Phase_transition-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.protect.md) 
-- [Triz-Intensity+Phase_transition-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.private.md) 
-- [Triz-Intensity+Phase_transition-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.personal.md) 
-- [Triz-Intensity+Phase_transition-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Time-Loss.secret.md) 

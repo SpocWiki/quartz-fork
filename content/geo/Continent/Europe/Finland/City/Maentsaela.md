@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maentsaela](../../../../../../_public/geo/Continent/Europe/Finland/City/Maentsaela.md) 
-- [Maentsaela.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Maentsaela.internal.md) 
-- [Maentsaela.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Maentsaela.protect.md) 
-- [Maentsaela.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Maentsaela.private.md) 
-- [Maentsaela.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Maentsaela.personal.md) 
-- [Maentsaela.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Maentsaela.secret.md) 

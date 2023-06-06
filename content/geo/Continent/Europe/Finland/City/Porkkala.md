@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Porkkala](../../../../../../_public/geo/Continent/Europe/Finland/City/Porkkala.md) 
-- [Porkkala.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Porkkala.internal.md) 
-- [Porkkala.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Porkkala.protect.md) 
-- [Porkkala.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Porkkala.private.md) 
-- [Porkkala.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Porkkala.personal.md) 
-- [Porkkala.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Porkkala.secret.md) 

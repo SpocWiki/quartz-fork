@@ -19,10 +19,3 @@ title: Triz-Complexity+Prior_action-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Prior_action-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Prior_action-Difficulty.md) 
-- [Triz-Complexity+Prior_action-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Prior_action-Difficulty.internal.md) 
-- [Triz-Complexity+Prior_action-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Prior_action-Difficulty.protect.md) 
-- [Triz-Complexity+Prior_action-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Prior_action-Difficulty.private.md) 
-- [Triz-Complexity+Prior_action-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Prior_action-Difficulty.personal.md) 
-- [Triz-Complexity+Prior_action-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Prior_action-Difficulty.secret.md) 

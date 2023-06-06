@@ -19,10 +19,3 @@ title: Triz-affected_harm+Segmentation-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Segmentation-Strength](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.md) 
-- [Triz-affected_harm+Segmentation-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.internal.md) 
-- [Triz-affected_harm+Segmentation-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.protect.md) 
-- [Triz-affected_harm+Segmentation-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.private.md) 
-- [Triz-affected_harm+Segmentation-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.personal.md) 
-- [Triz-affected_harm+Segmentation-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Segmentation-Strength.secret.md) 

@@ -39,10 +39,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Connecticut](../../../../../_public/geo/Continent/North-America/United_States_of_America/Connecticut.md) 
-- [Connecticut.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Connecticut.internal.md) 
-- [Connecticut.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Connecticut.protect.md) 
-- [Connecticut.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Connecticut.private.md) 
-- [Connecticut.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Connecticut.personal.md) 
-- [Connecticut.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Connecticut.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beograd=Belgrad](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Beograd=Belgrad.md) 
-- [Beograd=Belgrad.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Beograd=Belgrad.internal.md) 
-- [Beograd=Belgrad.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Beograd=Belgrad.protect.md) 
-- [Beograd=Belgrad.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Beograd=Belgrad.private.md) 
-- [Beograd=Belgrad.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Beograd=Belgrad.personal.md) 
-- [Beograd=Belgrad.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Beograd=Belgrad.secret.md) 

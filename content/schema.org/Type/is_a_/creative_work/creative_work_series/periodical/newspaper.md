@@ -45,10 +45,3 @@ A publication containing information about varied topics that are pertinent to g
 
 
 
-## Confidential Links & Embeds: 
-- [newspaper](../../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.md) 
-- [newspaper.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.internal.md) 
-- [newspaper.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.protect.md) 
-- [newspaper.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.private.md) 
-- [newspaper.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.personal.md) 
-- [newspaper.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.secret.md) 

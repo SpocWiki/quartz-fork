@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Workum](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Workum.md) 
-- [Workum.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Workum.internal.md) 
-- [Workum.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Workum.protect.md) 
-- [Workum.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Workum.private.md) 
-- [Workum.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Workum.personal.md) 
-- [Workum.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Workum.secret.md) 

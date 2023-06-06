@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Altai~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Altai~Republic.md) 
-- [State-Altai~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Altai~Republic.internal.md) 
-- [State-Altai~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Altai~Republic.protect.md) 
-- [State-Altai~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Altai~Republic.private.md) 
-- [State-Altai~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Altai~Republic.personal.md) 
-- [State-Altai~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Altai~Republic.secret.md) 

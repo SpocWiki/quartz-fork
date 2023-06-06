@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_plan_for_apartment](../../../../../_public/schema.org/Predicate/Relations/is/is_plan_for_apartment.md) 
-- [is_plan_for_apartment.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_plan_for_apartment.internal.md) 
-- [is_plan_for_apartment.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_plan_for_apartment.protect.md) 
-- [is_plan_for_apartment.private](../../../../../_private/schema.org/Predicate/Relations/is/is_plan_for_apartment.private.md) 
-- [is_plan_for_apartment.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_plan_for_apartment.personal.md) 
-- [is_plan_for_apartment.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_plan_for_apartment.secret.md) 

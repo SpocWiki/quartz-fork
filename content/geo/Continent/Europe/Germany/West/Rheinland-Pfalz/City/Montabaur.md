@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montabaur](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Montabaur.md) 
-- [Montabaur.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Montabaur.internal.md) 
-- [Montabaur.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Montabaur.protect.md) 
-- [Montabaur.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Montabaur.private.md) 
-- [Montabaur.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Montabaur.personal.md) 
-- [Montabaur.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Montabaur.secret.md) 

@@ -44,10 +44,3 @@ Computer programming source code. Example: Full (compile ready) solutions, code 
 
 
 
-## Confidential Links & Embeds: 
-- [code](../../../../../_public/schema.org/Type/is_a_/creative_work/code.md) 
-- [code.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/code.internal.md) 
-- [code.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/code.protect.md) 
-- [code.private](../../../../../_private/schema.org/Type/is_a_/creative_work/code.private.md) 
-- [code.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/code.personal.md) 
-- [code.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/code.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [La_Coruna](../../../../../../_public/geo/Continent/Europe/Spain/City/La_Coruna.md) 
-- [La_Coruna.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/La_Coruna.internal.md) 
-- [La_Coruna.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/La_Coruna.protect.md) 
-- [La_Coruna.private](../../../../../../_private/geo/Continent/Europe/Spain/City/La_Coruna.private.md) 
-- [La_Coruna.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/La_Coruna.personal.md) 
-- [La_Coruna.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/La_Coruna.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Simbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Simbach.md) 
-- [Simbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Simbach.internal.md) 
-- [Simbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Simbach.protect.md) 
-- [Simbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Simbach.private.md) 
-- [Simbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Simbach.personal.md) 
-- [Simbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Simbach.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eugenienhof](../../../../../../_public/geo/Continent/Europe/Poland/City/Eugenienhof.md) 
-- [Eugenienhof.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Eugenienhof.internal.md) 
-- [Eugenienhof.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Eugenienhof.protect.md) 
-- [Eugenienhof.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Eugenienhof.private.md) 
-- [Eugenienhof.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Eugenienhof.personal.md) 
-- [Eugenienhof.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Eugenienhof.secret.md) 

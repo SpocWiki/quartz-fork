@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barcelona](../../../../../../_public/geo/Continent/Europe/Spain/City/Barcelona.md) 
-- [Barcelona.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Barcelona.internal.md) 
-- [Barcelona.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Barcelona.protect.md) 
-- [Barcelona.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Barcelona.private.md) 
-- [Barcelona.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Barcelona.personal.md) 
-- [Barcelona.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Barcelona.secret.md) 

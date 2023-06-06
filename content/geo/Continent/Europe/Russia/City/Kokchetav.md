@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kokchetav](../../../../../../_public/geo/Continent/Europe/Russia/City/Kokchetav.md) 
-- [Kokchetav.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kokchetav.internal.md) 
-- [Kokchetav.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kokchetav.protect.md) 
-- [Kokchetav.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kokchetav.private.md) 
-- [Kokchetav.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kokchetav.personal.md) 
-- [Kokchetav.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kokchetav.secret.md) 

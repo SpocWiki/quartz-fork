@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zofingen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zofingen.md) 
-- [Zofingen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zofingen.internal.md) 
-- [Zofingen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zofingen.protect.md) 
-- [Zofingen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zofingen.private.md) 
-- [Zofingen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zofingen.personal.md) 
-- [Zofingen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zofingen.secret.md) 

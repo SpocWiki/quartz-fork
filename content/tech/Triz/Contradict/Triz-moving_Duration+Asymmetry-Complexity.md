@@ -19,10 +19,3 @@ title: Triz-moving_Duration+Asymmetry-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Duration+Asymmetry-Complexity](../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.md) 
-- [Triz-moving_Duration+Asymmetry-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.internal.md) 
-- [Triz-moving_Duration+Asymmetry-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.protect.md) 
-- [Triz-moving_Duration+Asymmetry-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.private.md) 
-- [Triz-moving_Duration+Asymmetry-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.personal.md) 
-- [Triz-moving_Duration+Asymmetry-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Asymmetry-Complexity.secret.md) 

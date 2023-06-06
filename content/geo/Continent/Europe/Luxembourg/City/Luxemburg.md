@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luxemburg](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Luxemburg.md) 
-- [Luxemburg.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Luxemburg.internal.md) 
-- [Luxemburg.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Luxemburg.protect.md) 
-- [Luxemburg.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Luxemburg.private.md) 
-- [Luxemburg.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Luxemburg.personal.md) 
-- [Luxemburg.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Luxemburg.secret.md) 

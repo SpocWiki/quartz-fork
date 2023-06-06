@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vervins](../../../../../../_public/geo/Continent/Europe/France/City/Vervins.md) 
-- [Vervins.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vervins.internal.md) 
-- [Vervins.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vervins.protect.md) 
-- [Vervins.private](../../../../../../_private/geo/Continent/Europe/France/City/Vervins.private.md) 
-- [Vervins.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vervins.personal.md) 
-- [Vervins.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vervins.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alcyone](../../../_public/astro/Star/Alcyone.md) 
-- [Alcyone.internal](../../../_internal/astro/Star/Alcyone.internal.md) 
-- [Alcyone.protect](../../../_protect/astro/Star/Alcyone.protect.md) 
-- [Alcyone.private](../../../_private/astro/Star/Alcyone.private.md) 
-- [Alcyone.personal](../../../_personal/astro/Star/Alcyone.personal.md) 
-- [Alcyone.secret](../../../_secret/astro/Star/Alcyone.secret.md)
-

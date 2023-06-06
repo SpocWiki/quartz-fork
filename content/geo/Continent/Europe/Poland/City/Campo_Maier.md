@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Campo_Maier](../../../../../../_public/geo/Continent/Europe/Poland/City/Campo_Maier.md) 
-- [Campo_Maier.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Campo_Maier.internal.md) 
-- [Campo_Maier.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Campo_Maier.protect.md) 
-- [Campo_Maier.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Campo_Maier.private.md) 
-- [Campo_Maier.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Campo_Maier.personal.md) 
-- [Campo_Maier.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Campo_Maier.secret.md) 

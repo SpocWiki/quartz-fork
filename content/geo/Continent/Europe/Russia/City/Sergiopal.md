@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sergiopal](../../../../../../_public/geo/Continent/Europe/Russia/City/Sergiopal.md) 
-- [Sergiopal.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sergiopal.internal.md) 
-- [Sergiopal.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sergiopal.protect.md) 
-- [Sergiopal.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sergiopal.private.md) 
-- [Sergiopal.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sergiopal.personal.md) 
-- [Sergiopal.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sergiopal.secret.md) 

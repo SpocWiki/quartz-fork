@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Schäfflestraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sch%C3%A4fflestra%C3%9Fe.md) 
-- [U-Schäfflestraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sch%C3%A4fflestra%C3%9Fe.internal.md) 
-- [U-Schäfflestraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sch%C3%A4fflestra%C3%9Fe.protect.md) 
-- [U-Schäfflestraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sch%C3%A4fflestra%C3%9Fe.private.md) 
-- [U-Schäfflestraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sch%C3%A4fflestra%C3%9Fe.personal.md) 
-- [U-Schäfflestraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sch%C3%A4fflestra%C3%9Fe.secret.md) 

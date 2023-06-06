@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Scheibenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Scheibenberg.md) 
-- [Scheibenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Scheibenberg.internal.md) 
-- [Scheibenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Scheibenberg.protect.md) 
-- [Scheibenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Scheibenberg.private.md) 
-- [Scheibenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Scheibenberg.personal.md) 
-- [Scheibenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Scheibenberg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tura](../../../../../../_public/geo/Continent/Europe/Russia/City/Tura.md) 
-- [Tura.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tura.internal.md) 
-- [Tura.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tura.protect.md) 
-- [Tura.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tura.private.md) 
-- [Tura.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tura.personal.md) 
-- [Tura.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tura.secret.md) 

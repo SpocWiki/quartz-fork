@@ -19,10 +19,3 @@ title: Triz-generated_harm+Inert_environment-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Inert_environment-Quantity](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Quantity.md) 
-- [Triz-generated_harm+Inert_environment-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Quantity.internal.md) 
-- [Triz-generated_harm+Inert_environment-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Quantity.protect.md) 
-- [Triz-generated_harm+Inert_environment-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Quantity.private.md) 
-- [Triz-generated_harm+Inert_environment-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Quantity.personal.md) 
-- [Triz-generated_harm+Inert_environment-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Quantity.secret.md) 

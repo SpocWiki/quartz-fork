@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Foppolo](../../../../../../_public/geo/Continent/Europe/Italy/City/Foppolo.md) 
-- [Foppolo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Foppolo.internal.md) 
-- [Foppolo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Foppolo.protect.md) 
-- [Foppolo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Foppolo.private.md) 
-- [Foppolo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Foppolo.personal.md) 
-- [Foppolo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Foppolo.secret.md) 

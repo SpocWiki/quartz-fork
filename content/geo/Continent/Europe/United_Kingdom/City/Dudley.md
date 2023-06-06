@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dudley](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dudley.md) 
-- [Dudley.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dudley.internal.md) 
-- [Dudley.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dudley.protect.md) 
-- [Dudley.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dudley.private.md) 
-- [Dudley.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dudley.personal.md) 
-- [Dudley.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dudley.secret.md) 

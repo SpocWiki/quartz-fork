@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wildhaus](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Wildhaus.md) 
-- [Wildhaus.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Wildhaus.internal.md) 
-- [Wildhaus.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Wildhaus.protect.md) 
-- [Wildhaus.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Wildhaus.private.md) 
-- [Wildhaus.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Wildhaus.personal.md) 
-- [Wildhaus.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Wildhaus.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cremella](../../../../../../_public/geo/Continent/Europe/Italy/City/Cremella.md) 
-- [Cremella.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cremella.internal.md) 
-- [Cremella.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cremella.protect.md) 
-- [Cremella.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cremella.private.md) 
-- [Cremella.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cremella.personal.md) 
-- [Cremella.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cremella.secret.md) 

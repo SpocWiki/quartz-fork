@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_prescribing_by_mail](../../../../_public/schema.org/Predicate/Flags/is_prescribing_by_mail.md) 
-- [is_prescribing_by_mail.internal](../../../../_internal/schema.org/Predicate/Flags/is_prescribing_by_mail.internal.md) 
-- [is_prescribing_by_mail.protect](../../../../_protect/schema.org/Predicate/Flags/is_prescribing_by_mail.protect.md) 
-- [is_prescribing_by_mail.private](../../../../_private/schema.org/Predicate/Flags/is_prescribing_by_mail.private.md) 
-- [is_prescribing_by_mail.personal](../../../../_personal/schema.org/Predicate/Flags/is_prescribing_by_mail.personal.md) 
-- [is_prescribing_by_mail.secret](../../../../_secret/schema.org/Predicate/Flags/is_prescribing_by_mail.secret.md) 

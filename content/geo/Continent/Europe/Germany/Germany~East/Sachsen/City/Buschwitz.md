@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buschwitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Buschwitz.md) 
-- [Buschwitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Buschwitz.internal.md) 
-- [Buschwitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Buschwitz.protect.md) 
-- [Buschwitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Buschwitz.private.md) 
-- [Buschwitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Buschwitz.personal.md) 
-- [Buschwitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Buschwitz.secret.md) 

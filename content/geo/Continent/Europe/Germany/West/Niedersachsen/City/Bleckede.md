@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bleckede](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bleckede.md) 
-- [Bleckede.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bleckede.internal.md) 
-- [Bleckede.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bleckede.protect.md) 
-- [Bleckede.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bleckede.private.md) 
-- [Bleckede.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bleckede.personal.md) 
-- [Bleckede.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bleckede.secret.md) 

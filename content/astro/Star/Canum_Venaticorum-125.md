@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Canum_Venaticorum-125](../../../_public/astro/Star/Canum_Venaticorum-125.md) 
-- [Canum_Venaticorum-125.internal](../../../_internal/astro/Star/Canum_Venaticorum-125.internal.md) 
-- [Canum_Venaticorum-125.protect](../../../_protect/astro/Star/Canum_Venaticorum-125.protect.md) 
-- [Canum_Venaticorum-125.private](../../../_private/astro/Star/Canum_Venaticorum-125.private.md) 
-- [Canum_Venaticorum-125.personal](../../../_personal/astro/Star/Canum_Venaticorum-125.personal.md) 
-- [Canum_Venaticorum-125.secret](../../../_secret/astro/Star/Canum_Venaticorum-125.secret.md)
-

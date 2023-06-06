@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nitra](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Nitra.md) 
-- [Nitra.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Nitra.internal.md) 
-- [Nitra.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Nitra.protect.md) 
-- [Nitra.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Nitra.private.md) 
-- [Nitra.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Nitra.personal.md) 
-- [Nitra.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Nitra.secret.md) 

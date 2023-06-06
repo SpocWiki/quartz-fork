@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marmande](../../../../../../_public/geo/Continent/Europe/France/City/Marmande.md) 
-- [Marmande.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Marmande.internal.md) 
-- [Marmande.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Marmande.protect.md) 
-- [Marmande.private](../../../../../../_private/geo/Continent/Europe/France/City/Marmande.private.md) 
-- [Marmande.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Marmande.personal.md) 
-- [Marmande.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Marmande.secret.md) 

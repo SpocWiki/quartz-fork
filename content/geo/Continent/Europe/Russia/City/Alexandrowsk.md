@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alexandrowsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Alexandrowsk.md) 
-- [Alexandrowsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Alexandrowsk.internal.md) 
-- [Alexandrowsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Alexandrowsk.protect.md) 
-- [Alexandrowsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Alexandrowsk.private.md) 
-- [Alexandrowsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Alexandrowsk.personal.md) 
-- [Alexandrowsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Alexandrowsk.secret.md) 

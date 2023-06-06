@@ -40,10 +40,3 @@ title: Fluorine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fluorine)
 
-## Confidential Links & Embeds: 
-- [Fluorine](../../../../_public/chemic/Elements/Group-17-Halogene/Fluorine.md) 
-- [Fluorine.internal](../../../../_internal/chemic/Elements/Group-17-Halogene/Fluorine.internal.md) 
-- [Fluorine.protect](../../../../_protect/chemic/Elements/Group-17-Halogene/Fluorine.protect.md) 
-- [Fluorine.private](../../../../_private/chemic/Elements/Group-17-Halogene/Fluorine.private.md) 
-- [Fluorine.personal](../../../../_personal/chemic/Elements/Group-17-Halogene/Fluorine.personal.md) 
-- [Fluorine.secret](../../../../_secret/chemic/Elements/Group-17-Halogene/Fluorine.secret.md) 

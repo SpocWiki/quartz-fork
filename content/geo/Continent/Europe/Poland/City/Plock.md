@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Plock](../../../../../../_public/geo/Continent/Europe/Poland/City/Plock.md) 
-- [Plock.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Plock.internal.md) 
-- [Plock.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Plock.protect.md) 
-- [Plock.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Plock.private.md) 
-- [Plock.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Plock.personal.md) 
-- [Plock.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Plock.secret.md) 

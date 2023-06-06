@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Asten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Asten.md) 
-- [Asten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Asten.internal.md) 
-- [Asten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Asten.protect.md) 
-- [Asten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Asten.private.md) 
-- [Asten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Asten.personal.md) 
-- [Asten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Asten.secret.md) 

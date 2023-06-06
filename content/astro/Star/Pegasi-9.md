@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Pegasi-9](../../../_public/astro/Star/Pegasi-9.md) 
-- [Pegasi-9.internal](../../../_internal/astro/Star/Pegasi-9.internal.md) 
-- [Pegasi-9.protect](../../../_protect/astro/Star/Pegasi-9.protect.md) 
-- [Pegasi-9.private](../../../_private/astro/Star/Pegasi-9.private.md) 
-- [Pegasi-9.personal](../../../_personal/astro/Star/Pegasi-9.personal.md) 
-- [Pegasi-9.secret](../../../_secret/astro/Star/Pegasi-9.secret.md) 

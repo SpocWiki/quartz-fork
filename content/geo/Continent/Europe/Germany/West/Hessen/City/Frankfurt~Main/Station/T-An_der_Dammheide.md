@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-An_der_Dammheide](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-An_der_Dammheide.md) 
-- [T-An_der_Dammheide.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-An_der_Dammheide.internal.md) 
-- [T-An_der_Dammheide.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-An_der_Dammheide.protect.md) 
-- [T-An_der_Dammheide.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-An_der_Dammheide.private.md) 
-- [T-An_der_Dammheide.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-An_der_Dammheide.personal.md) 
-- [T-An_der_Dammheide.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-An_der_Dammheide.secret.md) 

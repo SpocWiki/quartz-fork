@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_reserved_ticket](../../../../../_public/schema.org/Predicate/Relations/has/has_reserved_ticket.md) 
-- [has_reserved_ticket.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_reserved_ticket.internal.md) 
-- [has_reserved_ticket.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_reserved_ticket.protect.md) 
-- [has_reserved_ticket.private](../../../../../_private/schema.org/Predicate/Relations/has/has_reserved_ticket.private.md) 
-- [has_reserved_ticket.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_reserved_ticket.personal.md) 
-- [has_reserved_ticket.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_reserved_ticket.secret.md) 

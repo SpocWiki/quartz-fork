@@ -45,10 +45,3 @@ The act of adding at a specific location in an ordered collection.
 
 
 
-## Confidential Links & Embeds: 
-- [insert_action](../../../../../../../_public/schema.org/Type/is_a_/action/update_action/add_action/insert_action.md) 
-- [insert_action.internal](../../../../../../../_internal/schema.org/Type/is_a_/action/update_action/add_action/insert_action.internal.md) 
-- [insert_action.protect](../../../../../../../_protect/schema.org/Type/is_a_/action/update_action/add_action/insert_action.protect.md) 
-- [insert_action.private](../../../../../../../_private/schema.org/Type/is_a_/action/update_action/add_action/insert_action.private.md) 
-- [insert_action.personal](../../../../../../../_personal/schema.org/Type/is_a_/action/update_action/add_action/insert_action.personal.md) 
-- [insert_action.secret](../../../../../../../_secret/schema.org/Type/is_a_/action/update_action/add_action/insert_action.secret.md) 

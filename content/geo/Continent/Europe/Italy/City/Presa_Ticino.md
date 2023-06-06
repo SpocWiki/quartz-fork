@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Presa_Ticino](../../../../../../_public/geo/Continent/Europe/Italy/City/Presa_Ticino.md) 
-- [Presa_Ticino.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Presa_Ticino.internal.md) 
-- [Presa_Ticino.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Presa_Ticino.protect.md) 
-- [Presa_Ticino.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Presa_Ticino.private.md) 
-- [Presa_Ticino.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Presa_Ticino.personal.md) 
-- [Presa_Ticino.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Presa_Ticino.secret.md) 

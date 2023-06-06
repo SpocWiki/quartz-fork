@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ploen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.md) 
-- [Ploen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.internal.md) 
-- [Ploen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.protect.md) 
-- [Ploen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.private.md) 
-- [Ploen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.personal.md) 
-- [Ploen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ploen.secret.md) 

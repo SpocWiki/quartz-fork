@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jessnitz~Anhalt](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Jessnitz~Anhalt.md) 
-- [Jessnitz~Anhalt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Jessnitz~Anhalt.internal.md) 
-- [Jessnitz~Anhalt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Jessnitz~Anhalt.protect.md) 
-- [Jessnitz~Anhalt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Jessnitz~Anhalt.private.md) 
-- [Jessnitz~Anhalt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Jessnitz~Anhalt.personal.md) 
-- [Jessnitz~Anhalt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Jessnitz~Anhalt.secret.md) 

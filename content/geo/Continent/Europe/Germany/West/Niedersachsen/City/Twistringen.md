@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Twistringen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.md) 
-- [Twistringen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.internal.md) 
-- [Twistringen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.protect.md) 
-- [Twistringen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.private.md) 
-- [Twistringen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.personal.md) 
-- [Twistringen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Twistringen.secret.md) 

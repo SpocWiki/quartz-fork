@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Knittelfeld](../../../../../../_public/geo/Continent/Europe/Austria/City/Knittelfeld.md) 
-- [Knittelfeld.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Knittelfeld.internal.md) 
-- [Knittelfeld.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Knittelfeld.protect.md) 
-- [Knittelfeld.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Knittelfeld.private.md) 
-- [Knittelfeld.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Knittelfeld.personal.md) 
-- [Knittelfeld.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Knittelfeld.secret.md) 

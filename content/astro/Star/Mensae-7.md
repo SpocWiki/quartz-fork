@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Mensae-7](../../../_public/astro/Star/Mensae-7.md) 
-- [Mensae-7.internal](../../../_internal/astro/Star/Mensae-7.internal.md) 
-- [Mensae-7.protect](../../../_protect/astro/Star/Mensae-7.protect.md) 
-- [Mensae-7.private](../../../_private/astro/Star/Mensae-7.private.md) 
-- [Mensae-7.personal](../../../_personal/astro/Star/Mensae-7.personal.md) 
-- [Mensae-7.secret](../../../_secret/astro/Star/Mensae-7.secret.md) 

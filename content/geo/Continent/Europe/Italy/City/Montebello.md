@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montebello](../../../../../../_public/geo/Continent/Europe/Italy/City/Montebello.md) 
-- [Montebello.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Montebello.internal.md) 
-- [Montebello.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Montebello.protect.md) 
-- [Montebello.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Montebello.private.md) 
-- [Montebello.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Montebello.personal.md) 
-- [Montebello.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Montebello.secret.md) 

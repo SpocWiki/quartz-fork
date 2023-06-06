@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dietenheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.md) 
-- [Dietenheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.internal.md) 
-- [Dietenheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.protect.md) 
-- [Dietenheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.private.md) 
-- [Dietenheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.personal.md) 
-- [Dietenheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dietenheim.secret.md) 

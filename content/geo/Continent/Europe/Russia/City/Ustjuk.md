@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ustjuk](../../../../../../_public/geo/Continent/Europe/Russia/City/Ustjuk.md) 
-- [Ustjuk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ustjuk.internal.md) 
-- [Ustjuk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ustjuk.protect.md) 
-- [Ustjuk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ustjuk.private.md) 
-- [Ustjuk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ustjuk.personal.md) 
-- [Ustjuk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ustjuk.secret.md) 

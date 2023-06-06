@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Laholm](../../../../../../_public/geo/Continent/Europe/Sweden/City/Laholm.md) 
-- [Laholm.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Laholm.internal.md) 
-- [Laholm.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Laholm.protect.md) 
-- [Laholm.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Laholm.private.md) 
-- [Laholm.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Laholm.personal.md) 
-- [Laholm.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Laholm.secret.md) 

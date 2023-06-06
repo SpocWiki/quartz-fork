@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neiden](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neiden.md) 
-- [Neiden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neiden.internal.md) 
-- [Neiden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neiden.protect.md) 
-- [Neiden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neiden.private.md) 
-- [Neiden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neiden.personal.md) 
-- [Neiden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neiden.secret.md) 

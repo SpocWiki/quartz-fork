@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Josefsberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Josefsberg.md) 
-- [Josefsberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Josefsberg.internal.md) 
-- [Josefsberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Josefsberg.protect.md) 
-- [Josefsberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Josefsberg.private.md) 
-- [Josefsberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Josefsberg.personal.md) 
-- [Josefsberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Josefsberg.secret.md) 

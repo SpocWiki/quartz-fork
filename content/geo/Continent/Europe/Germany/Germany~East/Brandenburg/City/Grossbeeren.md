@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grossbeeren](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grossbeeren.md) 
-- [Grossbeeren.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grossbeeren.internal.md) 
-- [Grossbeeren.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grossbeeren.protect.md) 
-- [Grossbeeren.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grossbeeren.private.md) 
-- [Grossbeeren.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grossbeeren.personal.md) 
-- [Grossbeeren.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grossbeeren.secret.md) 

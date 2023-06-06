@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Forshult](../../../../../../_public/geo/Continent/Europe/Sweden/City/Forshult.md) 
-- [Forshult.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Forshult.internal.md) 
-- [Forshult.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Forshult.protect.md) 
-- [Forshult.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Forshult.private.md) 
-- [Forshult.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Forshult.personal.md) 
-- [Forshult.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Forshult.secret.md) 

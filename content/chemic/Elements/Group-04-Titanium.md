@@ -22,10 +22,3 @@ title: Group-04-Titanium
 
 
 
-## Confidential Links & Embeds: 
-- [Group-04-Titanium](../../../_public/chemic/Elements/Group-04-Titanium.md) 
-- [Group-04-Titanium.internal](../../../_internal/chemic/Elements/Group-04-Titanium.internal.md) 
-- [Group-04-Titanium.protect](../../../_protect/chemic/Elements/Group-04-Titanium.protect.md) 
-- [Group-04-Titanium.private](../../../_private/chemic/Elements/Group-04-Titanium.private.md) 
-- [Group-04-Titanium.personal](../../../_personal/chemic/Elements/Group-04-Titanium.personal.md) 
-- [Group-04-Titanium.secret](../../../_secret/chemic/Elements/Group-04-Titanium.secret.md) 

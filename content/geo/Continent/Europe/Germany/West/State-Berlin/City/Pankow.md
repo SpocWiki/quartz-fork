@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pankow](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.md) 
-- [Pankow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.internal.md) 
-- [Pankow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.protect.md) 
-- [Pankow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.private.md) 
-- [Pankow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.personal.md) 
-- [Pankow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Pankow.secret.md) 

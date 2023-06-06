@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_value_min_length](../../../../_public/schema.org/Predicate/Quantities/has_value_for_value_min_length.md) 
-- [has_value_for_value_min_length.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_value_min_length.internal.md) 
-- [has_value_for_value_min_length.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_value_min_length.protect.md) 
-- [has_value_for_value_min_length.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_value_min_length.private.md) 
-- [has_value_for_value_min_length.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_value_min_length.personal.md) 
-- [has_value_for_value_min_length.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_value_min_length.secret.md) 

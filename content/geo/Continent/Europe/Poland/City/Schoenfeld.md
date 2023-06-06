@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoenfeld](../../../../../../_public/geo/Continent/Europe/Poland/City/Schoenfeld.md) 
-- [Schoenfeld.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenfeld.internal.md) 
-- [Schoenfeld.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenfeld.protect.md) 
-- [Schoenfeld.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenfeld.private.md) 
-- [Schoenfeld.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenfeld.personal.md) 
-- [Schoenfeld.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenfeld.secret.md) 

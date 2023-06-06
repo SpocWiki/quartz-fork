@@ -45,10 +45,3 @@ Any physical activity engaged in for job-related purposes. Examples may include 
 
 
 
-## Confidential Links & Embeds: 
-- [occupational_activity](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.md) 
-- [occupational_activity.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.internal.md) 
-- [occupational_activity.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.protect.md) 
-- [occupational_activity.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.private.md) 
-- [occupational_activity.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.personal.md) 
-- [occupational_activity.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.secret.md) 

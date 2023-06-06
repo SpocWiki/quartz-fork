@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schull](../../../../../../_public/geo/Continent/Europe/Ireland/City/Schull.md) 
-- [Schull.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Schull.internal.md) 
-- [Schull.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Schull.protect.md) 
-- [Schull.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Schull.private.md) 
-- [Schull.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Schull.personal.md) 
-- [Schull.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Schull.secret.md) 

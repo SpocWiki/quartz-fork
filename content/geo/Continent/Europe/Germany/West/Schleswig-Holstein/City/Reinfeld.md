@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reinfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Reinfeld.md) 
-- [Reinfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Reinfeld.internal.md) 
-- [Reinfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Reinfeld.protect.md) 
-- [Reinfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Reinfeld.private.md) 
-- [Reinfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Reinfeld.personal.md) 
-- [Reinfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Reinfeld.secret.md) 

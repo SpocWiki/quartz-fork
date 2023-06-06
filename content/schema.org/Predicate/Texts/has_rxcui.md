@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_rxcui](../../../../_public/schema.org/Predicate/Texts/has_rxcui.md) 
-- [has_rxcui.internal](../../../../_internal/schema.org/Predicate/Texts/has_rxcui.internal.md) 
-- [has_rxcui.protect](../../../../_protect/schema.org/Predicate/Texts/has_rxcui.protect.md) 
-- [has_rxcui.private](../../../../_private/schema.org/Predicate/Texts/has_rxcui.private.md) 
-- [has_rxcui.personal](../../../../_personal/schema.org/Predicate/Texts/has_rxcui.personal.md) 
-- [has_rxcui.secret](../../../../_secret/schema.org/Predicate/Texts/has_rxcui.secret.md) 

@@ -45,10 +45,3 @@ A trial that takes place at multiple centers.
 
 
 
-## Confidential Links & Embeds: 
-- [multi_center_trial](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.md) 
-- [multi_center_trial.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.internal.md) 
-- [multi_center_trial.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.protect.md) 
-- [multi_center_trial.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.private.md) 
-- [multi_center_trial.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.personal.md) 
-- [multi_center_trial.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.secret.md) 

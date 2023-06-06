@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dittmannsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittmannsdorf.md) 
-- [Dittmannsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittmannsdorf.internal.md) 
-- [Dittmannsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittmannsdorf.protect.md) 
-- [Dittmannsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittmannsdorf.private.md) 
-- [Dittmannsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittmannsdorf.personal.md) 
-- [Dittmannsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dittmannsdorf.secret.md) 

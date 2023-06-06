@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberhaunstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.md) 
-- [Oberhaunstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.internal.md) 
-- [Oberhaunstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.protect.md) 
-- [Oberhaunstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.private.md) 
-- [Oberhaunstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.personal.md) 
-- [Oberhaunstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.secret.md) 

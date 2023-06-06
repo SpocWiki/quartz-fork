@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tobolsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Tobolsk.md) 
-- [Tobolsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tobolsk.internal.md) 
-- [Tobolsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tobolsk.protect.md) 
-- [Tobolsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tobolsk.private.md) 
-- [Tobolsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tobolsk.personal.md) 
-- [Tobolsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tobolsk.secret.md) 

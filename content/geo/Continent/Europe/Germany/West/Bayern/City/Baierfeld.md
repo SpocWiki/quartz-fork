@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baierfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Baierfeld.md) 
-- [Baierfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Baierfeld.internal.md) 
-- [Baierfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Baierfeld.protect.md) 
-- [Baierfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Baierfeld.private.md) 
-- [Baierfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Baierfeld.personal.md) 
-- [Baierfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Baierfeld.secret.md) 

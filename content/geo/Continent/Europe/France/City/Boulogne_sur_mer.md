@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Boulogne_sur_mer](../../../../../../_public/geo/Continent/Europe/France/City/Boulogne_sur_mer.md) 
-- [Boulogne_sur_mer.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Boulogne_sur_mer.internal.md) 
-- [Boulogne_sur_mer.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Boulogne_sur_mer.protect.md) 
-- [Boulogne_sur_mer.private](../../../../../../_private/geo/Continent/Europe/France/City/Boulogne_sur_mer.private.md) 
-- [Boulogne_sur_mer.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Boulogne_sur_mer.personal.md) 
-- [Boulogne_sur_mer.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Boulogne_sur_mer.secret.md) 

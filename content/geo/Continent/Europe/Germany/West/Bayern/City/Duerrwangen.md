@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Duerrwangen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.md) 
-- [Duerrwangen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.internal.md) 
-- [Duerrwangen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.protect.md) 
-- [Duerrwangen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.private.md) 
-- [Duerrwangen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.personal.md) 
-- [Duerrwangen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Duerrwangen.secret.md) 

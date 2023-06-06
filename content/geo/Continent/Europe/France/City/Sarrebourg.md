@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sarrebourg](../../../../../../_public/geo/Continent/Europe/France/City/Sarrebourg.md) 
-- [Sarrebourg.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Sarrebourg.internal.md) 
-- [Sarrebourg.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Sarrebourg.protect.md) 
-- [Sarrebourg.private](../../../../../../_private/geo/Continent/Europe/France/City/Sarrebourg.private.md) 
-- [Sarrebourg.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Sarrebourg.personal.md) 
-- [Sarrebourg.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Sarrebourg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vicenza](../../../../../../_public/geo/Continent/Europe/Italy/City/Vicenza.md) 
-- [Vicenza.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Vicenza.internal.md) 
-- [Vicenza.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Vicenza.protect.md) 
-- [Vicenza.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Vicenza.private.md) 
-- [Vicenza.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Vicenza.personal.md) 
-- [Vicenza.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Vicenza.secret.md) 

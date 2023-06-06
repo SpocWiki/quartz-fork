@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klausen](../../../../../../_public/geo/Continent/Europe/Poland/City/Klausen.md) 
-- [Klausen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Klausen.internal.md) 
-- [Klausen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Klausen.protect.md) 
-- [Klausen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Klausen.private.md) 
-- [Klausen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Klausen.personal.md) 
-- [Klausen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Klausen.secret.md) 

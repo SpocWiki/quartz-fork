@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldshut-Tiengen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.md) 
-- [Waldshut-Tiengen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.internal.md) 
-- [Waldshut-Tiengen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.protect.md) 
-- [Waldshut-Tiengen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.private.md) 
-- [Waldshut-Tiengen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.personal.md) 
-- [Waldshut-Tiengen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Waldshut-Tiengen.secret.md) 

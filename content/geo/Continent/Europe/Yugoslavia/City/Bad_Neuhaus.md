@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Neuhaus](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.md) 
-- [Bad_Neuhaus.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.internal.md) 
-- [Bad_Neuhaus.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.protect.md) 
-- [Bad_Neuhaus.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.private.md) 
-- [Bad_Neuhaus.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.personal.md) 
-- [Bad_Neuhaus.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Bad_Neuhaus.secret.md) 

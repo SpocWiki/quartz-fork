@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blasenau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Blasenau.md) 
-- [Blasenau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Blasenau.internal.md) 
-- [Blasenau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Blasenau.protect.md) 
-- [Blasenau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Blasenau.private.md) 
-- [Blasenau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Blasenau.personal.md) 
-- [Blasenau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Blasenau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heinaevesi](../../../../../../_public/geo/Continent/Europe/Finland/City/Heinaevesi.md) 
-- [Heinaevesi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Heinaevesi.internal.md) 
-- [Heinaevesi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Heinaevesi.protect.md) 
-- [Heinaevesi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Heinaevesi.private.md) 
-- [Heinaevesi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Heinaevesi.personal.md) 
-- [Heinaevesi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Heinaevesi.secret.md) 

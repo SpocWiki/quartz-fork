@@ -45,10 +45,3 @@ A placebo-controlled trial design.
 
 
 
-## Confidential Links & Embeds: 
-- [placebo_controlled_trial](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.md) 
-- [placebo_controlled_trial.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.internal.md) 
-- [placebo_controlled_trial.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.protect.md) 
-- [placebo_controlled_trial.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.private.md) 
-- [placebo_controlled_trial.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.personal.md) 
-- [placebo_controlled_trial.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.secret.md) 

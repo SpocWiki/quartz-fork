@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Tejat_Posterior](../../../_public/astro/Star/Tejat_Posterior.md) 
-- [Tejat_Posterior.internal](../../../_internal/astro/Star/Tejat_Posterior.internal.md) 
-- [Tejat_Posterior.protect](../../../_protect/astro/Star/Tejat_Posterior.protect.md) 
-- [Tejat_Posterior.private](../../../_private/astro/Star/Tejat_Posterior.private.md) 
-- [Tejat_Posterior.personal](../../../_personal/astro/Star/Tejat_Posterior.personal.md) 
-- [Tejat_Posterior.secret](../../../_secret/astro/Star/Tejat_Posterior.secret.md) 

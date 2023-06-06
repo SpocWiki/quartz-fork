@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Villefranch_de_Rouergue](../../../../../../_public/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.md) 
-- [Villefranch_de_Rouergue.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.internal.md) 
-- [Villefranch_de_Rouergue.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.protect.md) 
-- [Villefranch_de_Rouergue.private](../../../../../../_private/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.private.md) 
-- [Villefranch_de_Rouergue.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.personal.md) 
-- [Villefranch_de_Rouergue.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Villefranch_de_Rouergue.secret.md) 

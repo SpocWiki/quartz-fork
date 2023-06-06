@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Mechanical_vibration-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Mechanical_vibration-Automation](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Automation.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Automation.internal.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Automation.protect.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Automation.private.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Automation.personal.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-Automation.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lichtenfels](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Lichtenfels.md) 
-- [Lichtenfels.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Lichtenfels.internal.md) 
-- [Lichtenfels.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Lichtenfels.protect.md) 
-- [Lichtenfels.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Lichtenfels.private.md) 
-- [Lichtenfels.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Lichtenfels.personal.md) 
-- [Lichtenfels.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Lichtenfels.secret.md) 

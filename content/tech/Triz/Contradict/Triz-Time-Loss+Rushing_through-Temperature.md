@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Rushing_through-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Rushing_through-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Rushing_through-Temperature.md) 
-- [Triz-Time-Loss+Rushing_through-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Rushing_through-Temperature.internal.md) 
-- [Triz-Time-Loss+Rushing_through-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Rushing_through-Temperature.protect.md) 
-- [Triz-Time-Loss+Rushing_through-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Rushing_through-Temperature.private.md) 
-- [Triz-Time-Loss+Rushing_through-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Rushing_through-Temperature.personal.md) 
-- [Triz-Time-Loss+Rushing_through-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Rushing_through-Temperature.secret.md) 

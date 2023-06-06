@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lachia](../../../../../../_public/geo/Continent/Europe/Russia/City/Lachia.md) 
-- [Lachia.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Lachia.internal.md) 
-- [Lachia.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Lachia.protect.md) 
-- [Lachia.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Lachia.private.md) 
-- [Lachia.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Lachia.personal.md) 
-- [Lachia.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Lachia.secret.md) 

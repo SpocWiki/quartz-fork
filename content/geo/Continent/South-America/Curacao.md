@@ -108,10 +108,3 @@ Languages: [nl,pap]
 [	ISO3166-1-numeric	 :: 531 ]
 
 
-## Confidential Links & Embeds: 
-- [Curacao](../../../../_public/geo/Continent/South-America/Curacao.md) 
-- [Curacao.internal](../../../../_internal/geo/Continent/South-America/Curacao.internal.md) 
-- [Curacao.protect](../../../../_protect/geo/Continent/South-America/Curacao.protect.md) 
-- [Curacao.private](../../../../_private/geo/Continent/South-America/Curacao.private.md) 
-- [Curacao.personal](../../../../_personal/geo/Continent/South-America/Curacao.personal.md) 
-- [Curacao.secret](../../../../_secret/geo/Continent/South-America/Curacao.secret.md) 

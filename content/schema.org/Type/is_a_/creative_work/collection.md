@@ -47,10 +47,3 @@ A collection of items, e.g. creative works or products.
 
 
 
-## Confidential Links & Embeds: 
-- [collection](../../../../../_public/schema.org/Type/is_a_/creative_work/collection.md) 
-- [collection.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/collection.internal.md) 
-- [collection.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/collection.protect.md) 
-- [collection.private](../../../../../_private/schema.org/Type/is_a_/creative_work/collection.private.md) 
-- [collection.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/collection.personal.md) 
-- [collection.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/collection.secret.md) 

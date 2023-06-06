@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kluse](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kluse.md) 
-- [Kluse.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kluse.internal.md) 
-- [Kluse.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kluse.protect.md) 
-- [Kluse.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kluse.private.md) 
-- [Kluse.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kluse.personal.md) 
-- [Kluse.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kluse.secret.md) 

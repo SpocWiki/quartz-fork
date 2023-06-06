@@ -45,10 +45,3 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 
 
 
-## Confidential Links & Embeds: 
-- [medical_intangible](../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_intangible.md) 
-- [medical_intangible.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_intangible.internal.md) 
-- [medical_intangible.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_intangible.protect.md) 
-- [medical_intangible.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_intangible.private.md) 
-- [medical_intangible.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_intangible.personal.md) 
-- [medical_intangible.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_intangible.secret.md) 

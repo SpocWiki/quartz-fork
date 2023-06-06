@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palma~Mallorca](../../../../../../_public/geo/Continent/Europe/Spain/City/Palma~Mallorca.md) 
-- [Palma~Mallorca.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Palma~Mallorca.internal.md) 
-- [Palma~Mallorca.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Palma~Mallorca.protect.md) 
-- [Palma~Mallorca.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Palma~Mallorca.private.md) 
-- [Palma~Mallorca.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Palma~Mallorca.personal.md) 
-- [Palma~Mallorca.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Palma~Mallorca.secret.md) 

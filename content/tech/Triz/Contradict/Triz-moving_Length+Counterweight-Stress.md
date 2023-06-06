@@ -19,10 +19,3 @@ title: Triz-moving_Length+Counterweight-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Counterweight-Stress](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.md) 
-- [Triz-moving_Length+Counterweight-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.internal.md) 
-- [Triz-moving_Length+Counterweight-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.protect.md) 
-- [Triz-moving_Length+Counterweight-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.private.md) 
-- [Triz-moving_Length+Counterweight-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.personal.md) 
-- [Triz-moving_Length+Counterweight-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Stress.secret.md) 

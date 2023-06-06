@@ -19,10 +19,3 @@ title: Triz-Reliability+Composite_materials-stationary_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Composite_materials-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Area.md) 
-- [Triz-Reliability+Composite_materials-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Area.internal.md) 
-- [Triz-Reliability+Composite_materials-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Area.protect.md) 
-- [Triz-Reliability+Composite_materials-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Area.private.md) 
-- [Triz-Reliability+Composite_materials-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Area.personal.md) 
-- [Triz-Reliability+Composite_materials-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Area.secret.md) 

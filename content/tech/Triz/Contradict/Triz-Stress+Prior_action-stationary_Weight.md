@@ -19,10 +19,3 @@ title: Triz-Stress+Prior_action-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Prior_action-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Stress+Prior_action-stationary_Weight.md) 
-- [Triz-Stress+Prior_action-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Prior_action-stationary_Weight.internal.md) 
-- [Triz-Stress+Prior_action-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Prior_action-stationary_Weight.protect.md) 
-- [Triz-Stress+Prior_action-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Prior_action-stationary_Weight.private.md) 
-- [Triz-Stress+Prior_action-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Prior_action-stationary_Weight.personal.md) 
-- [Triz-Stress+Prior_action-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Prior_action-stationary_Weight.secret.md) 

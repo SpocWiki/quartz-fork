@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nontron](../../../../../../_public/geo/Continent/Europe/France/City/Nontron.md) 
-- [Nontron.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nontron.internal.md) 
-- [Nontron.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nontron.protect.md) 
-- [Nontron.private](../../../../../../_private/geo/Continent/Europe/France/City/Nontron.private.md) 
-- [Nontron.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nontron.personal.md) 
-- [Nontron.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nontron.secret.md) 

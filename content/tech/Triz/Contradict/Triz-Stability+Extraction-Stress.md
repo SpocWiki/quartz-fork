@@ -19,10 +19,3 @@ title: Triz-Stability+Extraction-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Extraction-Stress](../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-Stress.md) 
-- [Triz-Stability+Extraction-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-Stress.internal.md) 
-- [Triz-Stability+Extraction-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-Stress.protect.md) 
-- [Triz-Stability+Extraction-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-Stress.private.md) 
-- [Triz-Stability+Extraction-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Extraction-Stress.personal.md) 
-- [Triz-Stability+Extraction-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Extraction-Stress.secret.md) 

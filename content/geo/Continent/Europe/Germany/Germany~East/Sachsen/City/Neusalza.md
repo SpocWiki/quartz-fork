@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neusalza](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neusalza.md) 
-- [Neusalza.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neusalza.internal.md) 
-- [Neusalza.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neusalza.protect.md) 
-- [Neusalza.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neusalza.private.md) 
-- [Neusalza.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neusalza.personal.md) 
-- [Neusalza.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neusalza.secret.md) 

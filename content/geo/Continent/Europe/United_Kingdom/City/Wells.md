@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wells](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wells.md) 
-- [Wells.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wells.internal.md) 
-- [Wells.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wells.protect.md) 
-- [Wells.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wells.private.md) 
-- [Wells.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wells.personal.md) 
-- [Wells.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wells.secret.md) 

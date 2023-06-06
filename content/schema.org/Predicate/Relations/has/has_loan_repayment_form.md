@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_loan_repayment_form](../../../../../_public/schema.org/Predicate/Relations/has/has_loan_repayment_form.md) 
-- [has_loan_repayment_form.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_loan_repayment_form.internal.md) 
-- [has_loan_repayment_form.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_loan_repayment_form.protect.md) 
-- [has_loan_repayment_form.private](../../../../../_private/schema.org/Predicate/Relations/has/has_loan_repayment_form.private.md) 
-- [has_loan_repayment_form.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_loan_repayment_form.personal.md) 
-- [has_loan_repayment_form.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_loan_repayment_form.secret.md) 

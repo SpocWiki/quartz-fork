@@ -17,10 +17,3 @@ title: Triz-Mulching_lawnmower
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Mulching_lawnmower](../../../../_public/tech/Triz/Example/Triz-Mulching_lawnmower.md) 
-- [Triz-Mulching_lawnmower.internal](../../../../_internal/tech/Triz/Example/Triz-Mulching_lawnmower.internal.md) 
-- [Triz-Mulching_lawnmower.protect](../../../../_protect/tech/Triz/Example/Triz-Mulching_lawnmower.protect.md) 
-- [Triz-Mulching_lawnmower.private](../../../../_private/tech/Triz/Example/Triz-Mulching_lawnmower.private.md) 
-- [Triz-Mulching_lawnmower.personal](../../../../_personal/tech/Triz/Example/Triz-Mulching_lawnmower.personal.md) 
-- [Triz-Mulching_lawnmower.secret](../../../../_secret/tech/Triz/Example/Triz-Mulching_lawnmower.secret.md) 

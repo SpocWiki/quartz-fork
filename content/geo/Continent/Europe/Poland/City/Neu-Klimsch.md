@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neu-Klimsch](../../../../../../_public/geo/Continent/Europe/Poland/City/Neu-Klimsch.md) 
-- [Neu-Klimsch.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neu-Klimsch.internal.md) 
-- [Neu-Klimsch.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neu-Klimsch.protect.md) 
-- [Neu-Klimsch.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neu-Klimsch.private.md) 
-- [Neu-Klimsch.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neu-Klimsch.personal.md) 
-- [Neu-Klimsch.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neu-Klimsch.secret.md) 

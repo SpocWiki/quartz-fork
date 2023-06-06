@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolfpassing](../../../../../../_public/geo/Continent/Europe/Austria/City/Wolfpassing.md) 
-- [Wolfpassing.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Wolfpassing.internal.md) 
-- [Wolfpassing.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Wolfpassing.protect.md) 
-- [Wolfpassing.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Wolfpassing.private.md) 
-- [Wolfpassing.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Wolfpassing.personal.md) 
-- [Wolfpassing.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Wolfpassing.secret.md) 

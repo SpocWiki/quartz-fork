@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Erkner](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Erkner.md) 
-- [Erkner.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Erkner.internal.md) 
-- [Erkner.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Erkner.protect.md) 
-- [Erkner.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Erkner.private.md) 
-- [Erkner.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Erkner.personal.md) 
-- [Erkner.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Erkner.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vevey](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Vevey.md) 
-- [Vevey.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Vevey.internal.md) 
-- [Vevey.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Vevey.protect.md) 
-- [Vevey.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Vevey.private.md) 
-- [Vevey.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Vevey.personal.md) 
-- [Vevey.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Vevey.secret.md) 

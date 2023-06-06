@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oelsnitz~Vogtland](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.md) 
-- [Oelsnitz~Vogtland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.internal.md) 
-- [Oelsnitz~Vogtland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.protect.md) 
-- [Oelsnitz~Vogtland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.private.md) 
-- [Oelsnitz~Vogtland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.personal.md) 
-- [Oelsnitz~Vogtland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Vogtland.secret.md) 

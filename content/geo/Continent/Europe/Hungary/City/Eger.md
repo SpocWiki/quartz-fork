@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eger](../../../../../../_public/geo/Continent/Europe/Hungary/City/Eger.md) 
-- [Eger.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Eger.internal.md) 
-- [Eger.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Eger.protect.md) 
-- [Eger.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Eger.private.md) 
-- [Eger.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Eger.personal.md) 
-- [Eger.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Eger.secret.md) 

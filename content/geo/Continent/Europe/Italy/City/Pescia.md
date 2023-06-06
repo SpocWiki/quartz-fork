@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pescia](../../../../../../_public/geo/Continent/Europe/Italy/City/Pescia.md) 
-- [Pescia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pescia.internal.md) 
-- [Pescia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pescia.protect.md) 
-- [Pescia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pescia.private.md) 
-- [Pescia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pescia.personal.md) 
-- [Pescia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pescia.secret.md) 

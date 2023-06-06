@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Behrensen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.md) 
-- [Behrensen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.internal.md) 
-- [Behrensen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.protect.md) 
-- [Behrensen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.private.md) 
-- [Behrensen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.personal.md) 
-- [Behrensen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Behrensen.secret.md) 

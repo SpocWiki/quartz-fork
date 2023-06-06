@@ -19,10 +19,3 @@ title: Triz-moving_Length+Spheroidality-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Spheroidality-Versatility](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Versatility.md) 
-- [Triz-moving_Length+Spheroidality-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Versatility.internal.md) 
-- [Triz-moving_Length+Spheroidality-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Versatility.protect.md) 
-- [Triz-moving_Length+Spheroidality-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Versatility.private.md) 
-- [Triz-moving_Length+Spheroidality-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Versatility.personal.md) 
-- [Triz-moving_Length+Spheroidality-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Spheroidality-Versatility.secret.md) 

@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Pleione](../../../_public/astro/Star/Pleione.md) 
-- [Pleione.internal](../../../_internal/astro/Star/Pleione.internal.md) 
-- [Pleione.protect](../../../_protect/astro/Star/Pleione.protect.md) 
-- [Pleione.private](../../../_private/astro/Star/Pleione.private.md) 
-- [Pleione.personal](../../../_personal/astro/Star/Pleione.personal.md) 
-- [Pleione.secret](../../../_secret/astro/Star/Pleione.secret.md) 

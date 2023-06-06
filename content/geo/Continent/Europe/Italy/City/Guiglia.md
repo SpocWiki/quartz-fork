@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guiglia](../../../../../../_public/geo/Continent/Europe/Italy/City/Guiglia.md) 
-- [Guiglia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Guiglia.internal.md) 
-- [Guiglia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Guiglia.protect.md) 
-- [Guiglia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Guiglia.private.md) 
-- [Guiglia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Guiglia.personal.md) 
-- [Guiglia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Guiglia.secret.md) 

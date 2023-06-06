@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wick](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wick.md) 
-- [Wick.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wick.internal.md) 
-- [Wick.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wick.protect.md) 
-- [Wick.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wick.private.md) 
-- [Wick.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wick.personal.md) 
-- [Wick.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wick.secret.md) 

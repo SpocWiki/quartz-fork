@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eldagsen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Eldagsen.md) 
-- [Eldagsen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Eldagsen.internal.md) 
-- [Eldagsen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Eldagsen.protect.md) 
-- [Eldagsen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Eldagsen.private.md) 
-- [Eldagsen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Eldagsen.personal.md) 
-- [Eldagsen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Eldagsen.secret.md) 

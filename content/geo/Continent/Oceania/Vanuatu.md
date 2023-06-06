@@ -131,10 +131,3 @@ markerFolder: ./Vanuatu/City
 
 
 
-## Confidential Links & Embeds: 
-- [Vanuatu](../../../../_public/geo/Continent/Oceania/Vanuatu.md) 
-- [Vanuatu.internal](../../../../_internal/geo/Continent/Oceania/Vanuatu.internal.md) 
-- [Vanuatu.protect](../../../../_protect/geo/Continent/Oceania/Vanuatu.protect.md) 
-- [Vanuatu.private](../../../../_private/geo/Continent/Oceania/Vanuatu.private.md) 
-- [Vanuatu.personal](../../../../_personal/geo/Continent/Oceania/Vanuatu.personal.md) 
-- [Vanuatu.secret](../../../../_secret/geo/Continent/Oceania/Vanuatu.secret.md) 

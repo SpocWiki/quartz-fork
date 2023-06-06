@@ -147,7 +147,7 @@ markerFolder: ./India/City
 
 ![350](geo/Continent/Asia/India/Emblem_of_India.svg)
 
-![Anthem-India](xLarge/National-Anthem/Anthem-India.mp3)
+[Anthem-India](xLarge/National-Anthem/Anthem-India.mp3)
 
 ![350](geo/Continent/Asia/India/Flag_of_India.svg)
 
@@ -158,10 +158,3 @@ markerFolder: ./India/City
 
 
 
-## Confidential Links & Embeds: 
-- [India](../../../../_public/geo/Continent/Asia/India.md) 
-- [India.internal](../../../../_internal/geo/Continent/Asia/India.internal.md) 
-- [India.protect](../../../../_protect/geo/Continent/Asia/India.protect.md) 
-- [India.private](../../../../_private/geo/Continent/Asia/India.private.md) 
-- [India.personal](../../../../_personal/geo/Continent/Asia/India.personal.md) 
-- [India.secret](../../../../_secret/geo/Continent/Asia/India.secret.md) 

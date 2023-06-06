@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chatam](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Chatam.md) 
-- [Chatam.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chatam.internal.md) 
-- [Chatam.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chatam.protect.md) 
-- [Chatam.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chatam.private.md) 
-- [Chatam.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chatam.personal.md) 
-- [Chatam.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chatam.secret.md) 

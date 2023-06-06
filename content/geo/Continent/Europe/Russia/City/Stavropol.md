@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stavropol](../../../../../../_public/geo/Continent/Europe/Russia/City/Stavropol.md) 
-- [Stavropol.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Stavropol.internal.md) 
-- [Stavropol.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Stavropol.protect.md) 
-- [Stavropol.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Stavropol.private.md) 
-- [Stavropol.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Stavropol.personal.md) 
-- [Stavropol.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Stavropol.secret.md) 

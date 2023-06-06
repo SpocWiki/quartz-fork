@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Gallen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/St.Gallen.md) 
-- [St.Gallen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/St.Gallen.internal.md) 
-- [St.Gallen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/St.Gallen.protect.md) 
-- [St.Gallen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/St.Gallen.private.md) 
-- [St.Gallen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/St.Gallen.personal.md) 
-- [St.Gallen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/St.Gallen.secret.md) 

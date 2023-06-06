@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bahn](../../../../../../_public/geo/Continent/Europe/Poland/City/Bahn.md) 
-- [Bahn.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bahn.internal.md) 
-- [Bahn.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bahn.protect.md) 
-- [Bahn.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bahn.private.md) 
-- [Bahn.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bahn.personal.md) 
-- [Bahn.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bahn.secret.md) 

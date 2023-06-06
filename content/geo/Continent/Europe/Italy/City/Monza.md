@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Monza](../../../../../../_public/geo/Continent/Europe/Italy/City/Monza.md) 
-- [Monza.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Monza.internal.md) 
-- [Monza.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Monza.protect.md) 
-- [Monza.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Monza.private.md) 
-- [Monza.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Monza.personal.md) 
-- [Monza.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Monza.secret.md) 

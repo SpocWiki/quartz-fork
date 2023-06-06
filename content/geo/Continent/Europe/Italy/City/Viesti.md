@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Viesti](../../../../../../_public/geo/Continent/Europe/Italy/City/Viesti.md) 
-- [Viesti.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Viesti.internal.md) 
-- [Viesti.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Viesti.protect.md) 
-- [Viesti.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Viesti.private.md) 
-- [Viesti.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Viesti.personal.md) 
-- [Viesti.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Viesti.secret.md) 

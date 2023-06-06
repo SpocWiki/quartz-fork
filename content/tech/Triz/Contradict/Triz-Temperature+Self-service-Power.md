@@ -19,10 +19,3 @@ title: Triz-Temperature+Self-service-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Self-service-Power](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Self-service-Power.md) 
-- [Triz-Temperature+Self-service-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Self-service-Power.internal.md) 
-- [Triz-Temperature+Self-service-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Self-service-Power.protect.md) 
-- [Triz-Temperature+Self-service-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Self-service-Power.private.md) 
-- [Triz-Temperature+Self-service-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Self-service-Power.personal.md) 
-- [Triz-Temperature+Self-service-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Self-service-Power.secret.md) 

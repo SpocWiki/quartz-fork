@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alcor](../../../_public/astro/Star/Alcor.md) 
-- [Alcor.internal](../../../_internal/astro/Star/Alcor.internal.md) 
-- [Alcor.protect](../../../_protect/astro/Star/Alcor.protect.md) 
-- [Alcor.private](../../../_private/astro/Star/Alcor.private.md) 
-- [Alcor.personal](../../../_personal/astro/Star/Alcor.personal.md) 
-- [Alcor.secret](../../../_secret/astro/Star/Alcor.secret.md)
-

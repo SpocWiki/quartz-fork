@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bilnitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bilnitz.md) 
-- [Bilnitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bilnitz.internal.md) 
-- [Bilnitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bilnitz.protect.md) 
-- [Bilnitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bilnitz.private.md) 
-- [Bilnitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bilnitz.personal.md) 
-- [Bilnitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bilnitz.secret.md) 

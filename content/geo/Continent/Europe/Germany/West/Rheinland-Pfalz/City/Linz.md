@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Linz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.md) 
-- [Linz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.internal.md) 
-- [Linz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.protect.md) 
-- [Linz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.private.md) 
-- [Linz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.personal.md) 
-- [Linz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Linz.secret.md) 

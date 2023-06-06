@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Troisty](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Troisty.md) 
-- [Troisty.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Troisty.internal.md) 
-- [Troisty.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Troisty.protect.md) 
-- [Troisty.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Troisty.private.md) 
-- [Troisty.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Troisty.personal.md) 
-- [Troisty.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Troisty.secret.md) 

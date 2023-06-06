@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mostar](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Mostar.md) 
-- [Mostar.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Mostar.internal.md) 
-- [Mostar.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Mostar.protect.md) 
-- [Mostar.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Mostar.private.md) 
-- [Mostar.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Mostar.personal.md) 
-- [Mostar.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Mostar.secret.md) 

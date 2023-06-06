@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Ingushetia~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Ingushetia~Republic.md) 
-- [State-Ingushetia~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Ingushetia~Republic.internal.md) 
-- [State-Ingushetia~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Ingushetia~Republic.protect.md) 
-- [State-Ingushetia~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Ingushetia~Republic.private.md) 
-- [State-Ingushetia~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Ingushetia~Republic.personal.md) 
-- [State-Ingushetia~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Ingushetia~Republic.secret.md) 

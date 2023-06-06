@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jaispitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Jaispitz.md) 
-- [Jaispitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jaispitz.internal.md) 
-- [Jaispitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jaispitz.protect.md) 
-- [Jaispitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jaispitz.private.md) 
-- [Jaispitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jaispitz.personal.md) 
-- [Jaispitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jaispitz.secret.md) 

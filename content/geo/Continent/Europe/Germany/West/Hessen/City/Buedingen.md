@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buedingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Buedingen.md) 
-- [Buedingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Buedingen.internal.md) 
-- [Buedingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Buedingen.protect.md) 
-- [Buedingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Buedingen.private.md) 
-- [Buedingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Buedingen.personal.md) 
-- [Buedingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Buedingen.secret.md) 

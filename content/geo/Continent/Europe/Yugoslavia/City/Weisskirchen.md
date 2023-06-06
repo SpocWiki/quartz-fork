@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weisskirchen](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.md) 
-- [Weisskirchen.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.internal.md) 
-- [Weisskirchen.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.protect.md) 
-- [Weisskirchen.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.private.md) 
-- [Weisskirchen.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.personal.md) 
-- [Weisskirchen.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Weisskirchen.secret.md) 

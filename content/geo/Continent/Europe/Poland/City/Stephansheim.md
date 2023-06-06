@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stephansheim](../../../../../../_public/geo/Continent/Europe/Poland/City/Stephansheim.md) 
-- [Stephansheim.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Stephansheim.internal.md) 
-- [Stephansheim.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Stephansheim.protect.md) 
-- [Stephansheim.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Stephansheim.private.md) 
-- [Stephansheim.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Stephansheim.personal.md) 
-- [Stephansheim.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Stephansheim.secret.md) 

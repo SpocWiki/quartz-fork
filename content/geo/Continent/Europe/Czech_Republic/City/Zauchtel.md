@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zauchtel](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zauchtel.md) 
-- [Zauchtel.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zauchtel.internal.md) 
-- [Zauchtel.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zauchtel.protect.md) 
-- [Zauchtel.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zauchtel.private.md) 
-- [Zauchtel.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zauchtel.personal.md) 
-- [Zauchtel.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zauchtel.secret.md) 

@@ -36,10 +36,3 @@ markerFolder: ./Rwanda-Urundi/City
 
 
 
-## Confidential Links & Embeds: 
-- [Rwanda-Urundi](../../../../_public/geo/Continent/Africa/Rwanda-Urundi.md) 
-- [Rwanda-Urundi.internal](../../../../_internal/geo/Continent/Africa/Rwanda-Urundi.internal.md) 
-- [Rwanda-Urundi.protect](../../../../_protect/geo/Continent/Africa/Rwanda-Urundi.protect.md) 
-- [Rwanda-Urundi.private](../../../../_private/geo/Continent/Africa/Rwanda-Urundi.private.md) 
-- [Rwanda-Urundi.personal](../../../../_personal/geo/Continent/Africa/Rwanda-Urundi.personal.md) 
-- [Rwanda-Urundi.secret](../../../../_secret/geo/Continent/Africa/Rwanda-Urundi.secret.md) 

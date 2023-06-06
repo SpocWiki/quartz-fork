@@ -19,10 +19,3 @@ title: Triz-generated_harm+Use_of_porous_material-moving_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Use_of_porous_material-moving_Duration](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-moving_Duration.md) 
-- [Triz-generated_harm+Use_of_porous_material-moving_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-moving_Duration.internal.md) 
-- [Triz-generated_harm+Use_of_porous_material-moving_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-moving_Duration.protect.md) 
-- [Triz-generated_harm+Use_of_porous_material-moving_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-moving_Duration.private.md) 
-- [Triz-generated_harm+Use_of_porous_material-moving_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-moving_Duration.personal.md) 
-- [Triz-generated_harm+Use_of_porous_material-moving_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Use_of_porous_material-moving_Duration.secret.md) 

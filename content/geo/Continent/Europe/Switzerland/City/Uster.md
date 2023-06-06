@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uster](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Uster.md) 
-- [Uster.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Uster.internal.md) 
-- [Uster.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Uster.protect.md) 
-- [Uster.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Uster.private.md) 
-- [Uster.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Uster.personal.md) 
-- [Uster.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Uster.secret.md) 

@@ -47,10 +47,3 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 
-## Confidential Links & Embeds: 
-- [boat_reservation](../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/boat_reservation.md) 
-- [boat_reservation.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/boat_reservation.internal.md) 
-- [boat_reservation.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/boat_reservation.protect.md) 
-- [boat_reservation.private](../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/boat_reservation.private.md) 
-- [boat_reservation.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/boat_reservation.personal.md) 
-- [boat_reservation.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/boat_reservation.secret.md) 

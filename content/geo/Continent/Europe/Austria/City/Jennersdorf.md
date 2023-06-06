@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jennersdorf](../../../../../../_public/geo/Continent/Europe/Austria/City/Jennersdorf.md) 
-- [Jennersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Jennersdorf.internal.md) 
-- [Jennersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Jennersdorf.protect.md) 
-- [Jennersdorf.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Jennersdorf.private.md) 
-- [Jennersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Jennersdorf.personal.md) 
-- [Jennersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Jennersdorf.secret.md) 

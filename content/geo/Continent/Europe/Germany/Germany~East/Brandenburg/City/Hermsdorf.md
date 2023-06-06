@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hermsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hermsdorf.md) 
-- [Hermsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hermsdorf.internal.md) 
-- [Hermsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hermsdorf.protect.md) 
-- [Hermsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hermsdorf.private.md) 
-- [Hermsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hermsdorf.personal.md) 
-- [Hermsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hermsdorf.secret.md) 

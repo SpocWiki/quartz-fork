@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mariabrunn](../../../../../../_public/geo/Continent/Europe/Austria/City/Mariabrunn.md) 
-- [Mariabrunn.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Mariabrunn.internal.md) 
-- [Mariabrunn.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Mariabrunn.protect.md) 
-- [Mariabrunn.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Mariabrunn.private.md) 
-- [Mariabrunn.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Mariabrunn.personal.md) 
-- [Mariabrunn.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Mariabrunn.secret.md) 

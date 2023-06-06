@@ -145,7 +145,7 @@ markerFolder: ./Russia/City
 [VehicleCode::]
 [Capital::[Moskwa](geo/Continent/Europe/Russia/City/Moskwa.md)]
 ![350](Coat_of_arms_of_Russia.svg)
-![Anthem-Russia](xLarge/National-Anthem/Anthem-Russia.mp3)
+[Anthem-Russia](xLarge/National-Anthem/Anthem-Russia.mp3)
 ![350](geo/Continent/Europe/Russia/Flag_of_Russia.svg)
 [Alcohol-l::15.8]
 [Language-Id::469]
@@ -154,10 +154,3 @@ markerFolder: ./Russia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Russia](../../../../_public/geo/Continent/Europe/Russia.md) 
-- [Russia.internal](../../../../_internal/geo/Continent/Europe/Russia.internal.md) 
-- [Russia.protect](../../../../_protect/geo/Continent/Europe/Russia.protect.md) 
-- [Russia.private](../../../../_private/geo/Continent/Europe/Russia.private.md) 
-- [Russia.personal](../../../../_personal/geo/Continent/Europe/Russia.personal.md) 
-- [Russia.secret](../../../../_secret/geo/Continent/Europe/Russia.secret.md) 

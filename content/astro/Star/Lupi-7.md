@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Lupi-7](../../../_public/astro/Star/Lupi-7.md) 
-- [Lupi-7.internal](../../../_internal/astro/Star/Lupi-7.internal.md) 
-- [Lupi-7.protect](../../../_protect/astro/Star/Lupi-7.protect.md) 
-- [Lupi-7.private](../../../_private/astro/Star/Lupi-7.private.md) 
-- [Lupi-7.personal](../../../_personal/astro/Star/Lupi-7.personal.md) 
-- [Lupi-7.secret](../../../_secret/astro/Star/Lupi-7.secret.md) 

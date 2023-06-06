@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lichtenstein](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtenstein.md) 
-- [Lichtenstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtenstein.internal.md) 
-- [Lichtenstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtenstein.protect.md) 
-- [Lichtenstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtenstein.private.md) 
-- [Lichtenstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtenstein.personal.md) 
-- [Lichtenstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtenstein.secret.md) 

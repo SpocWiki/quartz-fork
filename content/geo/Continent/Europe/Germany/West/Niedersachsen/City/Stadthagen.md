@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stadthagen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.md) 
-- [Stadthagen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.internal.md) 
-- [Stadthagen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.protect.md) 
-- [Stadthagen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.private.md) 
-- [Stadthagen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.personal.md) 
-- [Stadthagen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stadthagen.secret.md) 

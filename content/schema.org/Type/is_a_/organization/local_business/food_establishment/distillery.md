@@ -43,10 +43,3 @@ A distillery.
 
 
 
-## Confidential Links & Embeds: 
-- [distillery](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/distillery.md) 
-- [distillery.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/distillery.internal.md) 
-- [distillery.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/distillery.protect.md) 
-- [distillery.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/distillery.private.md) 
-- [distillery.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/distillery.personal.md) 
-- [distillery.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/distillery.secret.md) 

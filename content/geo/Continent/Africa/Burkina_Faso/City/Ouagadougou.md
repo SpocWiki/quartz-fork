@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ouagadougou](../../../../../../_public/geo/Continent/Africa/Burkina_Faso/City/Ouagadougou.md) 
-- [Ouagadougou.internal](../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/City/Ouagadougou.internal.md) 
-- [Ouagadougou.protect](../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/City/Ouagadougou.protect.md) 
-- [Ouagadougou.private](../../../../../../_private/geo/Continent/Africa/Burkina_Faso/City/Ouagadougou.private.md) 
-- [Ouagadougou.personal](../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/City/Ouagadougou.personal.md) 
-- [Ouagadougou.secret](../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/City/Ouagadougou.secret.md) 

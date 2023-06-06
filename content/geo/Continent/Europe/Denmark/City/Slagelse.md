@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Slagelse](../../../../../../_public/geo/Continent/Europe/Denmark/City/Slagelse.md) 
-- [Slagelse.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Slagelse.internal.md) 
-- [Slagelse.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Slagelse.protect.md) 
-- [Slagelse.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Slagelse.private.md) 
-- [Slagelse.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Slagelse.personal.md) 
-- [Slagelse.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Slagelse.secret.md) 

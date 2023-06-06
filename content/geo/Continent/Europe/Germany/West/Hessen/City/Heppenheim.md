@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heppenheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Heppenheim.md) 
-- [Heppenheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Heppenheim.internal.md) 
-- [Heppenheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Heppenheim.protect.md) 
-- [Heppenheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Heppenheim.private.md) 
-- [Heppenheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Heppenheim.personal.md) 
-- [Heppenheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Heppenheim.secret.md) 

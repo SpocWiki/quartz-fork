@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Groensinka](../../../../../../_public/geo/Continent/Europe/Sweden/City/Groensinka.md) 
-- [Groensinka.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Groensinka.internal.md) 
-- [Groensinka.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Groensinka.protect.md) 
-- [Groensinka.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Groensinka.private.md) 
-- [Groensinka.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Groensinka.personal.md) 
-- [Groensinka.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Groensinka.secret.md) 

@@ -52,10 +52,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_opening_hours](../../../../_public/schema.org/Predicate/Texts/has_opening_hours.md) 
-- [has_opening_hours.internal](../../../../_internal/schema.org/Predicate/Texts/has_opening_hours.internal.md) 
-- [has_opening_hours.protect](../../../../_protect/schema.org/Predicate/Texts/has_opening_hours.protect.md) 
-- [has_opening_hours.private](../../../../_private/schema.org/Predicate/Texts/has_opening_hours.private.md) 
-- [has_opening_hours.personal](../../../../_personal/schema.org/Predicate/Texts/has_opening_hours.personal.md) 
-- [has_opening_hours.secret](../../../../_secret/schema.org/Predicate/Texts/has_opening_hours.secret.md) 

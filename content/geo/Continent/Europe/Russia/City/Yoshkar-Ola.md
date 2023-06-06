@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yoshkar-Ola](../../../../../../_public/geo/Continent/Europe/Russia/City/Yoshkar-Ola.md) 
-- [Yoshkar-Ola.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Yoshkar-Ola.internal.md) 
-- [Yoshkar-Ola.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Yoshkar-Ola.protect.md) 
-- [Yoshkar-Ola.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Yoshkar-Ola.private.md) 
-- [Yoshkar-Ola.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Yoshkar-Ola.personal.md) 
-- [Yoshkar-Ola.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Yoshkar-Ola.secret.md) 

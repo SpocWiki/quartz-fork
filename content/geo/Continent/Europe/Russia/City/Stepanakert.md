@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stepanakert](../../../../../../_public/geo/Continent/Europe/Russia/City/Stepanakert.md) 
-- [Stepanakert.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Stepanakert.internal.md) 
-- [Stepanakert.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Stepanakert.protect.md) 
-- [Stepanakert.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Stepanakert.private.md) 
-- [Stepanakert.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Stepanakert.personal.md) 
-- [Stepanakert.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Stepanakert.secret.md) 

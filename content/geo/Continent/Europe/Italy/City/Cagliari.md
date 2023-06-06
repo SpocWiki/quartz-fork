@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cagliari](../../../../../../_public/geo/Continent/Europe/Italy/City/Cagliari.md) 
-- [Cagliari.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cagliari.internal.md) 
-- [Cagliari.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cagliari.protect.md) 
-- [Cagliari.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cagliari.private.md) 
-- [Cagliari.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cagliari.personal.md) 
-- [Cagliari.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cagliari.secret.md) 

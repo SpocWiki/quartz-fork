@@ -19,10 +19,3 @@ title: Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_d
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy](../../../../_public/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.internal.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.protect.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.private.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.personal.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.secret.md) 

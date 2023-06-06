@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Calmadoli~Napoli](../../../../../../_public/geo/Continent/Europe/Italy/City/Calmadoli~Napoli.md) 
-- [Calmadoli~Napoli.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Calmadoli~Napoli.internal.md) 
-- [Calmadoli~Napoli.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Calmadoli~Napoli.protect.md) 
-- [Calmadoli~Napoli.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Calmadoli~Napoli.private.md) 
-- [Calmadoli~Napoli.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Calmadoli~Napoli.personal.md) 
-- [Calmadoli~Napoli.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Calmadoli~Napoli.secret.md) 

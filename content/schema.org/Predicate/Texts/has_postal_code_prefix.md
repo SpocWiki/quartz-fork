@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_postal_code_prefix](../../../../_public/schema.org/Predicate/Texts/has_postal_code_prefix.md) 
-- [has_postal_code_prefix.internal](../../../../_internal/schema.org/Predicate/Texts/has_postal_code_prefix.internal.md) 
-- [has_postal_code_prefix.protect](../../../../_protect/schema.org/Predicate/Texts/has_postal_code_prefix.protect.md) 
-- [has_postal_code_prefix.private](../../../../_private/schema.org/Predicate/Texts/has_postal_code_prefix.private.md) 
-- [has_postal_code_prefix.personal](../../../../_personal/schema.org/Predicate/Texts/has_postal_code_prefix.personal.md) 
-- [has_postal_code_prefix.secret](../../../../_secret/schema.org/Predicate/Texts/has_postal_code_prefix.secret.md) 

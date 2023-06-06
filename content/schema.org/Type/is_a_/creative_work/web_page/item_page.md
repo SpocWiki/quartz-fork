@@ -43,10 +43,3 @@ A page devoted to a single item, such as a particular product or hotel.
 
 
 
-## Confidential Links & Embeds: 
-- [item_page](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/item_page.md) 
-- [item_page.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/item_page.internal.md) 
-- [item_page.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/item_page.protect.md) 
-- [item_page.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/item_page.private.md) 
-- [item_page.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/item_page.personal.md) 
-- [item_page.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/item_page.secret.md) 

@@ -43,10 +43,3 @@ A hair salon.
 
 
 
-## Confidential Links & Embeds: 
-- [hair_salon](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.md) 
-- [hair_salon.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.internal.md) 
-- [hair_salon.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.protect.md) 
-- [hair_salon.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.private.md) 
-- [hair_salon.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.personal.md) 
-- [hair_salon.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.secret.md) 

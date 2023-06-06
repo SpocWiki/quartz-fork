@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_originating_from](../../../../../_public/schema.org/Predicate/Relations/is/is_originating_from.md) 
-- [is_originating_from.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_originating_from.internal.md) 
-- [is_originating_from.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_originating_from.protect.md) 
-- [is_originating_from.private](../../../../../_private/schema.org/Predicate/Relations/is/is_originating_from.private.md) 
-- [is_originating_from.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_originating_from.personal.md) 
-- [is_originating_from.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_originating_from.secret.md) 

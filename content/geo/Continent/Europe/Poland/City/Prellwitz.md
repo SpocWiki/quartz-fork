@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Prellwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Prellwitz.md) 
-- [Prellwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Prellwitz.internal.md) 
-- [Prellwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Prellwitz.protect.md) 
-- [Prellwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Prellwitz.private.md) 
-- [Prellwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Prellwitz.personal.md) 
-- [Prellwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Prellwitz.secret.md) 

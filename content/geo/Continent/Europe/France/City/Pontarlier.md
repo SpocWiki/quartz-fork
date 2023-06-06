@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pontarlier](../../../../../../_public/geo/Continent/Europe/France/City/Pontarlier.md) 
-- [Pontarlier.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Pontarlier.internal.md) 
-- [Pontarlier.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Pontarlier.protect.md) 
-- [Pontarlier.private](../../../../../../_private/geo/Continent/Europe/France/City/Pontarlier.private.md) 
-- [Pontarlier.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Pontarlier.personal.md) 
-- [Pontarlier.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Pontarlier.secret.md) 

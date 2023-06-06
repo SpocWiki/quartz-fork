@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Warngau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Warngau.md) 
-- [Warngau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Warngau.internal.md) 
-- [Warngau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Warngau.protect.md) 
-- [Warngau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Warngau.private.md) 
-- [Warngau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Warngau.personal.md) 
-- [Warngau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Warngau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Walchwil](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Walchwil.md) 
-- [Walchwil.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Walchwil.internal.md) 
-- [Walchwil.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Walchwil.protect.md) 
-- [Walchwil.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Walchwil.private.md) 
-- [Walchwil.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Walchwil.personal.md) 
-- [Walchwil.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Walchwil.secret.md) 

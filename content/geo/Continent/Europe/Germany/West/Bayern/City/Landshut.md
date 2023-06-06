@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landshut](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Landshut.md) 
-- [Landshut.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Landshut.internal.md) 
-- [Landshut.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Landshut.protect.md) 
-- [Landshut.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Landshut.private.md) 
-- [Landshut.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Landshut.personal.md) 
-- [Landshut.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Landshut.secret.md) 

@@ -46,10 +46,3 @@ markerFolder: ./Station/
 27) [S-Darmstadt_Hbf](geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt_Hbf.md) 
 
 
-## Confidential Links & Embeds: 
-- [FFM~S4](../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.md) 
-- [FFM~S4.internal](../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.internal.md) 
-- [FFM~S4.protect](../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.protect.md) 
-- [FFM~S4.private](../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.private.md) 
-- [FFM~S4.personal](../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.personal.md) 
-- [FFM~S4.secret](../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S4.secret.md) 

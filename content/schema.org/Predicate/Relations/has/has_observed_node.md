@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_observed_node](../../../../../_public/schema.org/Predicate/Relations/has/has_observed_node.md) 
-- [has_observed_node.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_observed_node.internal.md) 
-- [has_observed_node.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_observed_node.protect.md) 
-- [has_observed_node.private](../../../../../_private/schema.org/Predicate/Relations/has/has_observed_node.private.md) 
-- [has_observed_node.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_observed_node.personal.md) 
-- [has_observed_node.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_observed_node.secret.md) 

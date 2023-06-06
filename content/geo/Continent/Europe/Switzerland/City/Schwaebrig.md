@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwaebrig](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schwaebrig.md) 
-- [Schwaebrig.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schwaebrig.internal.md) 
-- [Schwaebrig.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schwaebrig.protect.md) 
-- [Schwaebrig.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schwaebrig.private.md) 
-- [Schwaebrig.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schwaebrig.personal.md) 
-- [Schwaebrig.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schwaebrig.secret.md) 

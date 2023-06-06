@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Scheidegg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Scheidegg.md) 
-- [Scheidegg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Scheidegg.internal.md) 
-- [Scheidegg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Scheidegg.protect.md) 
-- [Scheidegg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Scheidegg.private.md) 
-- [Scheidegg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Scheidegg.personal.md) 
-- [Scheidegg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Scheidegg.secret.md) 

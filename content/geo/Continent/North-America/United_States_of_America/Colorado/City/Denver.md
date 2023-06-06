@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Denver](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.md) 
-- [Denver.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.internal.md) 
-- [Denver.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.protect.md) 
-- [Denver.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.private.md) 
-- [Denver.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.personal.md) 
-- [Denver.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Colorado/City/Denver.secret.md) 

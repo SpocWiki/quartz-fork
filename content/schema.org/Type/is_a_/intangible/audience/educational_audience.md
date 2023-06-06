@@ -43,10 +43,3 @@ An EducationalAudience.
 
 
 
-## Confidential Links & Embeds: 
-- [educational_audience](../../../../../../_public/schema.org/Type/is_a_/intangible/audience/educational_audience.md) 
-- [educational_audience.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/educational_audience.internal.md) 
-- [educational_audience.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/educational_audience.protect.md) 
-- [educational_audience.private](../../../../../../_private/schema.org/Type/is_a_/intangible/audience/educational_audience.private.md) 
-- [educational_audience.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/educational_audience.personal.md) 
-- [educational_audience.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/educational_audience.secret.md) 

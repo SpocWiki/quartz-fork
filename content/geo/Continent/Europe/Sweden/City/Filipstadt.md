@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Filipstadt](../../../../../../_public/geo/Continent/Europe/Sweden/City/Filipstadt.md) 
-- [Filipstadt.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Filipstadt.internal.md) 
-- [Filipstadt.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Filipstadt.protect.md) 
-- [Filipstadt.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Filipstadt.private.md) 
-- [Filipstadt.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Filipstadt.personal.md) 
-- [Filipstadt.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Filipstadt.secret.md) 

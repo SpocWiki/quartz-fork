@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Petershof](../../../../../../_public/geo/Continent/Europe/Poland/City/Petershof.md) 
-- [Petershof.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Petershof.internal.md) 
-- [Petershof.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Petershof.protect.md) 
-- [Petershof.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Petershof.private.md) 
-- [Petershof.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Petershof.personal.md) 
-- [Petershof.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Petershof.secret.md) 

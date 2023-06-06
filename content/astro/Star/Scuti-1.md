@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Scuti-1](../../../_public/astro/Star/Scuti-1.md) 
-- [Scuti-1.internal](../../../_internal/astro/Star/Scuti-1.internal.md) 
-- [Scuti-1.protect](../../../_protect/astro/Star/Scuti-1.protect.md) 
-- [Scuti-1.private](../../../_private/astro/Star/Scuti-1.private.md) 
-- [Scuti-1.personal](../../../_personal/astro/Star/Scuti-1.personal.md) 
-- [Scuti-1.secret](../../../_secret/astro/Star/Scuti-1.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Quantity+Spheroidality-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Spheroidality-Strength](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.md) 
-- [Triz-Quantity+Spheroidality-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.internal.md) 
-- [Triz-Quantity+Spheroidality-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.protect.md) 
-- [Triz-Quantity+Spheroidality-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.private.md) 
-- [Triz-Quantity+Spheroidality-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.personal.md) 
-- [Triz-Quantity+Spheroidality-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Strength.secret.md) 

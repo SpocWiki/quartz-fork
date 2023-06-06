@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wustermark](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wustermark.md) 
-- [Wustermark.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wustermark.internal.md) 
-- [Wustermark.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wustermark.protect.md) 
-- [Wustermark.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wustermark.private.md) 
-- [Wustermark.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wustermark.personal.md) 
-- [Wustermark.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wustermark.secret.md) 

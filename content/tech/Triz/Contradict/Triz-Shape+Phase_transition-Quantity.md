@@ -19,10 +19,3 @@ title: Triz-Shape+Phase_transition-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Phase_transition-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Shape+Phase_transition-Quantity.md) 
-- [Triz-Shape+Phase_transition-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Phase_transition-Quantity.internal.md) 
-- [Triz-Shape+Phase_transition-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Phase_transition-Quantity.protect.md) 
-- [Triz-Shape+Phase_transition-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Phase_transition-Quantity.private.md) 
-- [Triz-Shape+Phase_transition-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Phase_transition-Quantity.personal.md) 
-- [Triz-Shape+Phase_transition-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Phase_transition-Quantity.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Dynamicity-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Dynamicity-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.md) 
-- [Triz-Ease_of_repair+Dynamicity-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.internal.md) 
-- [Triz-Ease_of_repair+Dynamicity-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.protect.md) 
-- [Triz-Ease_of_repair+Dynamicity-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.private.md) 
-- [Triz-Ease_of_repair+Dynamicity-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.personal.md) 
-- [Triz-Ease_of_repair+Dynamicity-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Dynamicity-Illumination.secret.md) 

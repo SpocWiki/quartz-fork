@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Plauen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Plauen.md) 
-- [Plauen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Plauen.internal.md) 
-- [Plauen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Plauen.protect.md) 
-- [Plauen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Plauen.private.md) 
-- [Plauen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Plauen.personal.md) 
-- [Plauen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Plauen.secret.md) 

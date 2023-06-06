@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Lesath](../../../_public/astro/Star/Lesath.md) 
-- [Lesath.internal](../../../_internal/astro/Star/Lesath.internal.md) 
-- [Lesath.protect](../../../_protect/astro/Star/Lesath.protect.md) 
-- [Lesath.private](../../../_private/astro/Star/Lesath.private.md) 
-- [Lesath.personal](../../../_personal/astro/Star/Lesath.personal.md) 
-- [Lesath.secret](../../../_secret/astro/Star/Lesath.secret.md) 

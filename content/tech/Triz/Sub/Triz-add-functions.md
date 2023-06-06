@@ -18,10 +18,3 @@ title: Triz-add-functions
 Make an object serve itself by performing auxiliary helpful functions.
 
 
-## Confidential Links & Embeds: 
-- [Triz-add-functions](../../../../_public/tech/Triz/Sub/Triz-add-functions.md) 
-- [Triz-add-functions.internal](../../../../_internal/tech/Triz/Sub/Triz-add-functions.internal.md) 
-- [Triz-add-functions.protect](../../../../_protect/tech/Triz/Sub/Triz-add-functions.protect.md) 
-- [Triz-add-functions.private](../../../../_private/tech/Triz/Sub/Triz-add-functions.private.md) 
-- [Triz-add-functions.personal](../../../../_personal/tech/Triz/Sub/Triz-add-functions.personal.md) 
-- [Triz-add-functions.secret](../../../../_secret/tech/Triz/Sub/Triz-add-functions.secret.md) 

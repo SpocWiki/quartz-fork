@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Medebach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Medebach.md) 
-- [Medebach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Medebach.internal.md) 
-- [Medebach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Medebach.protect.md) 
-- [Medebach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Medebach.private.md) 
-- [Medebach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Medebach.personal.md) 
-- [Medebach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Medebach.secret.md) 

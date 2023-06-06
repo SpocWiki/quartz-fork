@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bruck~Leitha](../../../../../../_public/geo/Continent/Europe/Austria/City/Bruck~Leitha.md) 
-- [Bruck~Leitha.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Bruck~Leitha.internal.md) 
-- [Bruck~Leitha.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Bruck~Leitha.protect.md) 
-- [Bruck~Leitha.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Bruck~Leitha.private.md) 
-- [Bruck~Leitha.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Bruck~Leitha.personal.md) 
-- [Bruck~Leitha.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Bruck~Leitha.secret.md) 

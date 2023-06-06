@@ -128,10 +128,3 @@ markerFolder: ./Indonesia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Indonesia](../../../../_public/geo/Continent/Oceania/Indonesia.md) 
-- [Indonesia.internal](../../../../_internal/geo/Continent/Oceania/Indonesia.internal.md) 
-- [Indonesia.protect](../../../../_protect/geo/Continent/Oceania/Indonesia.protect.md) 
-- [Indonesia.private](../../../../_private/geo/Continent/Oceania/Indonesia.private.md) 
-- [Indonesia.personal](../../../../_personal/geo/Continent/Oceania/Indonesia.personal.md) 
-- [Indonesia.secret](../../../../_secret/geo/Continent/Oceania/Indonesia.secret.md) 

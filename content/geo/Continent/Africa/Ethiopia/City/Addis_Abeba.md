@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Addis_Abeba](../../../../../../_public/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.md) 
-- [Addis_Abeba.internal](../../../../../../_internal/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.internal.md) 
-- [Addis_Abeba.protect](../../../../../../_protect/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.protect.md) 
-- [Addis_Abeba.private](../../../../../../_private/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.private.md) 
-- [Addis_Abeba.personal](../../../../../../_personal/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.personal.md) 
-- [Addis_Abeba.secret](../../../../../../_secret/geo/Continent/Africa/Ethiopia/City/Addis_Abeba.secret.md) 

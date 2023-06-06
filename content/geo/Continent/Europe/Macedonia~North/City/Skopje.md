@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skopje](../../../../../../_public/geo/Continent/Europe/Macedonia~North/City/Skopje.md) 
-- [Skopje.internal](../../../../../../_internal/geo/Continent/Europe/Macedonia~North/City/Skopje.internal.md) 
-- [Skopje.protect](../../../../../../_protect/geo/Continent/Europe/Macedonia~North/City/Skopje.protect.md) 
-- [Skopje.private](../../../../../../_private/geo/Continent/Europe/Macedonia~North/City/Skopje.private.md) 
-- [Skopje.personal](../../../../../../_personal/geo/Continent/Europe/Macedonia~North/City/Skopje.personal.md) 
-- [Skopje.secret](../../../../../../_secret/geo/Continent/Europe/Macedonia~North/City/Skopje.secret.md) 

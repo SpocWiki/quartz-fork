@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nouméa](../../../../../../_public/geo/Continent/Australia/New_Caledonia/City/Noum%C3%A9a.md) 
-- [Nouméa.internal](../../../../../../_internal/geo/Continent/Australia/New_Caledonia/City/Noum%C3%A9a.internal.md) 
-- [Nouméa.protect](../../../../../../_protect/geo/Continent/Australia/New_Caledonia/City/Noum%C3%A9a.protect.md) 
-- [Nouméa.private](../../../../../../_private/geo/Continent/Australia/New_Caledonia/City/Noum%C3%A9a.private.md) 
-- [Nouméa.personal](../../../../../../_personal/geo/Continent/Australia/New_Caledonia/City/Noum%C3%A9a.personal.md) 
-- [Nouméa.secret](../../../../../../_secret/geo/Continent/Australia/New_Caledonia/City/Noum%C3%A9a.secret.md) 

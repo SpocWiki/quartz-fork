@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mansfield](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Mansfield.md) 
-- [Mansfield.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Mansfield.internal.md) 
-- [Mansfield.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Mansfield.protect.md) 
-- [Mansfield.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Mansfield.private.md) 
-- [Mansfield.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Mansfield.personal.md) 
-- [Mansfield.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Mansfield.secret.md) 

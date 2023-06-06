@@ -45,10 +45,3 @@ A seasonal override of a return policy, for example used for holidays.
 
 
 
-## Confidential Links & Embeds: 
-- [merchant_return_policy_seasonal_override](../../../../../_public/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.md) 
-- [merchant_return_policy_seasonal_override.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.internal.md) 
-- [merchant_return_policy_seasonal_override.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.protect.md) 
-- [merchant_return_policy_seasonal_override.private](../../../../../_private/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.private.md) 
-- [merchant_return_policy_seasonal_override.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.personal.md) 
-- [merchant_return_policy_seasonal_override.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.secret.md) 

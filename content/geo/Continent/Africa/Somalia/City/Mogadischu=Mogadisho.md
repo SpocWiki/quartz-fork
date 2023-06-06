@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mogadischu=Mogadisho](../../../../../../_public/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.md) 
-- [Mogadischu=Mogadisho.internal](../../../../../../_internal/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.internal.md) 
-- [Mogadischu=Mogadisho.protect](../../../../../../_protect/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.protect.md) 
-- [Mogadischu=Mogadisho.private](../../../../../../_private/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.private.md) 
-- [Mogadischu=Mogadisho.personal](../../../../../../_personal/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.personal.md) 
-- [Mogadischu=Mogadisho.secret](../../../../../../_secret/geo/Continent/Africa/Somalia/City/Mogadischu=Mogadisho.secret.md) 

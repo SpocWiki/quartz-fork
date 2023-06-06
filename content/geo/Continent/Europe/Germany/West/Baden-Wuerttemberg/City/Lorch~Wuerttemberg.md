@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lorch~Wuerttemberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.md) 
-- [Lorch~Wuerttemberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.internal.md) 
-- [Lorch~Wuerttemberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.protect.md) 
-- [Lorch~Wuerttemberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.private.md) 
-- [Lorch~Wuerttemberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.personal.md) 
-- [Lorch~Wuerttemberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Lorch~Wuerttemberg.secret.md) 

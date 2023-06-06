@@ -17,10 +17,3 @@ title: Triz-Safe_Lights
 
 Use Safe Lights in a photographic Darkroom.
 
-## Confidential Links & Embeds: 
-- [Triz-Safe_Lights](../../../../_public/tech/Triz/Example/Triz-Safe_Lights.md) 
-- [Triz-Safe_Lights.internal](../../../../_internal/tech/Triz/Example/Triz-Safe_Lights.internal.md) 
-- [Triz-Safe_Lights.protect](../../../../_protect/tech/Triz/Example/Triz-Safe_Lights.protect.md) 
-- [Triz-Safe_Lights.private](../../../../_private/tech/Triz/Example/Triz-Safe_Lights.private.md) 
-- [Triz-Safe_Lights.personal](../../../../_personal/tech/Triz/Example/Triz-Safe_Lights.personal.md) 
-- [Triz-Safe_Lights.secret](../../../../_secret/tech/Triz/Example/Triz-Safe_Lights.secret.md) 

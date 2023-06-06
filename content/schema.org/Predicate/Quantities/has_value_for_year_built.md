@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_year_built](../../../../_public/schema.org/Predicate/Quantities/has_value_for_year_built.md) 
-- [has_value_for_year_built.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_year_built.internal.md) 
-- [has_value_for_year_built.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_year_built.protect.md) 
-- [has_value_for_year_built.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_year_built.private.md) 
-- [has_value_for_year_built.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_year_built.personal.md) 
-- [has_value_for_year_built.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_year_built.secret.md) 

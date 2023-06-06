@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wehrheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.md) 
-- [Wehrheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.internal.md) 
-- [Wehrheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.protect.md) 
-- [Wehrheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.private.md) 
-- [Wehrheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.personal.md) 
-- [Wehrheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wehrheim.secret.md) 

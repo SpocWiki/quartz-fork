@@ -130,10 +130,3 @@ markerFolder: ./Greenland/City
 
 
 
-## Confidential Links & Embeds: 
-- [Greenland](../../../../_public/geo/Continent/Europe/Greenland.md) 
-- [Greenland.internal](../../../../_internal/geo/Continent/Europe/Greenland.internal.md) 
-- [Greenland.protect](../../../../_protect/geo/Continent/Europe/Greenland.protect.md) 
-- [Greenland.private](../../../../_private/geo/Continent/Europe/Greenland.private.md) 
-- [Greenland.personal](../../../../_personal/geo/Continent/Europe/Greenland.personal.md) 
-- [Greenland.secret](../../../../_secret/geo/Continent/Europe/Greenland.secret.md) 

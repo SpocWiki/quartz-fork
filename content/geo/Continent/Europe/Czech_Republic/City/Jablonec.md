@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jablonec](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Jablonec.md) 
-- [Jablonec.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jablonec.internal.md) 
-- [Jablonec.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jablonec.protect.md) 
-- [Jablonec.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jablonec.private.md) 
-- [Jablonec.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jablonec.personal.md) 
-- [Jablonec.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jablonec.secret.md) 

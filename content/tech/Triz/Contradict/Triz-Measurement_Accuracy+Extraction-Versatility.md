@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Extraction-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Extraction-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Versatility.md) 
-- [Triz-Measurement_Accuracy+Extraction-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Versatility.internal.md) 
-- [Triz-Measurement_Accuracy+Extraction-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Versatility.protect.md) 
-- [Triz-Measurement_Accuracy+Extraction-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Versatility.private.md) 
-- [Triz-Measurement_Accuracy+Extraction-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Versatility.personal.md) 
-- [Triz-Measurement_Accuracy+Extraction-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Versatility.secret.md) 

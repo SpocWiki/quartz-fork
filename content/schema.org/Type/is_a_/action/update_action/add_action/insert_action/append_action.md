@@ -43,10 +43,3 @@ The act of inserting at the end if an ordered collection.
 
 
 
-## Confidential Links & Embeds: 
-- [append_action](../../../../../../../../_public/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.md) 
-- [append_action.internal](../../../../../../../../_internal/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.internal.md) 
-- [append_action.protect](../../../../../../../../_protect/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.protect.md) 
-- [append_action.private](../../../../../../../../_private/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.private.md) 
-- [append_action.personal](../../../../../../../../_personal/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.personal.md) 
-- [append_action.secret](../../../../../../../../_secret/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.secret.md) 

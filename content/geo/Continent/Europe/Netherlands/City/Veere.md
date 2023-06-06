@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Veere](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Veere.md) 
-- [Veere.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Veere.internal.md) 
-- [Veere.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Veere.protect.md) 
-- [Veere.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Veere.private.md) 
-- [Veere.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Veere.personal.md) 
-- [Veere.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Veere.secret.md) 

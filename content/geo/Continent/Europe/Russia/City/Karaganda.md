@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karaganda](../../../../../../_public/geo/Continent/Europe/Russia/City/Karaganda.md) 
-- [Karaganda.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Karaganda.internal.md) 
-- [Karaganda.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Karaganda.protect.md) 
-- [Karaganda.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Karaganda.private.md) 
-- [Karaganda.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Karaganda.personal.md) 
-- [Karaganda.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Karaganda.secret.md) 

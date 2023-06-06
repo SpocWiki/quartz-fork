@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hilpoltstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.md) 
-- [Hilpoltstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.internal.md) 
-- [Hilpoltstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.protect.md) 
-- [Hilpoltstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.private.md) 
-- [Hilpoltstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.personal.md) 
-- [Hilpoltstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hilpoltstein.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Thorn=Torun](../../../../../../_public/geo/Continent/Europe/Poland/City/Thorn=Torun.md) 
-- [Thorn=Torun.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Thorn=Torun.internal.md) 
-- [Thorn=Torun.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Thorn=Torun.protect.md) 
-- [Thorn=Torun.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Thorn=Torun.private.md) 
-- [Thorn=Torun.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Thorn=Torun.personal.md) 
-- [Thorn=Torun.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Thorn=Torun.secret.md) 

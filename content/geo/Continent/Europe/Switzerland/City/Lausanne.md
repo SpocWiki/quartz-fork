@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lausanne](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lausanne.md) 
-- [Lausanne.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lausanne.internal.md) 
-- [Lausanne.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lausanne.protect.md) 
-- [Lausanne.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lausanne.private.md) 
-- [Lausanne.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lausanne.personal.md) 
-- [Lausanne.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lausanne.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ciminna](../../../../../../_public/geo/Continent/Europe/Italy/City/Ciminna.md) 
-- [Ciminna.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ciminna.internal.md) 
-- [Ciminna.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ciminna.protect.md) 
-- [Ciminna.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ciminna.private.md) 
-- [Ciminna.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ciminna.personal.md) 
-- [Ciminna.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ciminna.secret.md) 

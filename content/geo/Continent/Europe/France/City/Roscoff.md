@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roscoff](../../../../../../_public/geo/Continent/Europe/France/City/Roscoff.md) 
-- [Roscoff.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Roscoff.internal.md) 
-- [Roscoff.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Roscoff.protect.md) 
-- [Roscoff.private](../../../../../../_private/geo/Continent/Europe/France/City/Roscoff.private.md) 
-- [Roscoff.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Roscoff.personal.md) 
-- [Roscoff.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Roscoff.secret.md) 

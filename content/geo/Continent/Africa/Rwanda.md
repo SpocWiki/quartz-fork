@@ -123,7 +123,7 @@ markerFolder: ./Rwanda/City
 
 ![350](geo/Continent/Africa/Rwanda/Coat_of_arms_of_Rwanda.svg)
 
-![Anthem-Rwanda](xLarge/National-Anthem/Anthem-Rwanda.mp3)
+[Anthem-Rwanda](xLarge/National-Anthem/Anthem-Rwanda.mp3)
 
 ![350](geo/Continent/Africa/Rwanda/Flag_of_Rwanda.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Rwanda/City
 
 
 
-## Confidential Links & Embeds: 
-- [Rwanda](../../../../_public/geo/Continent/Africa/Rwanda.md) 
-- [Rwanda.internal](../../../../_internal/geo/Continent/Africa/Rwanda.internal.md) 
-- [Rwanda.protect](../../../../_protect/geo/Continent/Africa/Rwanda.protect.md) 
-- [Rwanda.private](../../../../_private/geo/Continent/Africa/Rwanda.private.md) 
-- [Rwanda.personal](../../../../_personal/geo/Continent/Africa/Rwanda.personal.md) 
-- [Rwanda.secret](../../../../_secret/geo/Continent/Africa/Rwanda.secret.md) 

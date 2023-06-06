@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_breastfeeding_warning](../../../../_public/schema.org/Predicate/Texts/has_breastfeeding_warning.md) 
-- [has_breastfeeding_warning.internal](../../../../_internal/schema.org/Predicate/Texts/has_breastfeeding_warning.internal.md) 
-- [has_breastfeeding_warning.protect](../../../../_protect/schema.org/Predicate/Texts/has_breastfeeding_warning.protect.md) 
-- [has_breastfeeding_warning.private](../../../../_private/schema.org/Predicate/Texts/has_breastfeeding_warning.private.md) 
-- [has_breastfeeding_warning.personal](../../../../_personal/schema.org/Predicate/Texts/has_breastfeeding_warning.personal.md) 
-- [has_breastfeeding_warning.secret](../../../../_secret/schema.org/Predicate/Texts/has_breastfeeding_warning.secret.md) 

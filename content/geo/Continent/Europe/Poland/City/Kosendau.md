@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kosendau](../../../../../../_public/geo/Continent/Europe/Poland/City/Kosendau.md) 
-- [Kosendau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kosendau.internal.md) 
-- [Kosendau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kosendau.protect.md) 
-- [Kosendau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kosendau.private.md) 
-- [Kosendau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kosendau.personal.md) 
-- [Kosendau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kosendau.secret.md) 

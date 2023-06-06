@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Veitshoechheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Veitshoechheim.md) 
-- [Veitshoechheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Veitshoechheim.internal.md) 
-- [Veitshoechheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Veitshoechheim.protect.md) 
-- [Veitshoechheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Veitshoechheim.private.md) 
-- [Veitshoechheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Veitshoechheim.personal.md) 
-- [Veitshoechheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Veitshoechheim.secret.md) 

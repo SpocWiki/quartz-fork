@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frauenfeld](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Frauenfeld.md) 
-- [Frauenfeld.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Frauenfeld.internal.md) 
-- [Frauenfeld.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Frauenfeld.protect.md) 
-- [Frauenfeld.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Frauenfeld.private.md) 
-- [Frauenfeld.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Frauenfeld.personal.md) 
-- [Frauenfeld.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Frauenfeld.secret.md) 

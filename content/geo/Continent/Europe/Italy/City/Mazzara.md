@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mazzara](../../../../../../_public/geo/Continent/Europe/Italy/City/Mazzara.md) 
-- [Mazzara.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Mazzara.internal.md) 
-- [Mazzara.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Mazzara.protect.md) 
-- [Mazzara.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Mazzara.private.md) 
-- [Mazzara.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Mazzara.personal.md) 
-- [Mazzara.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Mazzara.secret.md) 

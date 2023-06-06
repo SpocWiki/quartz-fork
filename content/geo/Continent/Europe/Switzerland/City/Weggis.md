@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weggis](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Weggis.md) 
-- [Weggis.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Weggis.internal.md) 
-- [Weggis.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Weggis.protect.md) 
-- [Weggis.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Weggis.private.md) 
-- [Weggis.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Weggis.personal.md) 
-- [Weggis.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Weggis.secret.md) 

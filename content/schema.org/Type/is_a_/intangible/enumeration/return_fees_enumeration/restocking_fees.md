@@ -47,10 +47,3 @@ Specifies that the customer must pay a restocking fee when returning a product.
 
 
 
-## Confidential Links & Embeds: 
-- [restocking_fees](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.md) 
-- [restocking_fees.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.internal.md) 
-- [restocking_fees.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.protect.md) 
-- [restocking_fees.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.private.md) 
-- [restocking_fees.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.personal.md) 
-- [restocking_fees.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wesseling](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wesseling.md) 
-- [Wesseling.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wesseling.internal.md) 
-- [Wesseling.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wesseling.protect.md) 
-- [Wesseling.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wesseling.private.md) 
-- [Wesseling.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wesseling.personal.md) 
-- [Wesseling.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wesseling.secret.md) 

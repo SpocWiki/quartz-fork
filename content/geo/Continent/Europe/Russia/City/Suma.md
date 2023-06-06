@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suma](../../../../../../_public/geo/Continent/Europe/Russia/City/Suma.md) 
-- [Suma.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Suma.internal.md) 
-- [Suma.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Suma.protect.md) 
-- [Suma.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Suma.private.md) 
-- [Suma.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Suma.personal.md) 
-- [Suma.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Suma.secret.md) 

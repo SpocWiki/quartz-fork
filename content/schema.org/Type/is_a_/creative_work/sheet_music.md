@@ -45,10 +45,3 @@ Printed music, as opposed to performed or recorded music.
 
 
 
-## Confidential Links & Embeds: 
-- [sheet_music](../../../../../_public/schema.org/Type/is_a_/creative_work/sheet_music.md) 
-- [sheet_music.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/sheet_music.internal.md) 
-- [sheet_music.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/sheet_music.protect.md) 
-- [sheet_music.private](../../../../../_private/schema.org/Type/is_a_/creative_work/sheet_music.private.md) 
-- [sheet_music.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/sheet_music.personal.md) 
-- [sheet_music.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/sheet_music.secret.md) 

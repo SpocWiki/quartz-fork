@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haugesund](../../../../../../_public/geo/Continent/Europe/Norway/City/Haugesund.md) 
-- [Haugesund.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Haugesund.internal.md) 
-- [Haugesund.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Haugesund.protect.md) 
-- [Haugesund.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Haugesund.private.md) 
-- [Haugesund.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Haugesund.personal.md) 
-- [Haugesund.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Haugesund.secret.md) 

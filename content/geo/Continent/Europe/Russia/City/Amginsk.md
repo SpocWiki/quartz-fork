@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amginsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Amginsk.md) 
-- [Amginsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Amginsk.internal.md) 
-- [Amginsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Amginsk.protect.md) 
-- [Amginsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Amginsk.private.md) 
-- [Amginsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Amginsk.personal.md) 
-- [Amginsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Amginsk.secret.md) 

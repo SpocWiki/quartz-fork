@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.md) 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.internal.md) 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.protect.md) 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.private.md) 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.personal.md) 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Strength.secret.md) 

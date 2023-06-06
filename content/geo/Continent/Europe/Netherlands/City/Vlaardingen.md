@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vlaardingen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Vlaardingen.md) 
-- [Vlaardingen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Vlaardingen.internal.md) 
-- [Vlaardingen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Vlaardingen.protect.md) 
-- [Vlaardingen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Vlaardingen.private.md) 
-- [Vlaardingen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Vlaardingen.personal.md) 
-- [Vlaardingen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Vlaardingen.secret.md) 

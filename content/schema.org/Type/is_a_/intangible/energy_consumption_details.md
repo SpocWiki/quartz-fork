@@ -45,10 +45,3 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 
 
 
-## Confidential Links & Embeds: 
-- [energy_consumption_details](../../../../../_public/schema.org/Type/is_a_/intangible/energy_consumption_details.md) 
-- [energy_consumption_details.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/energy_consumption_details.internal.md) 
-- [energy_consumption_details.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/energy_consumption_details.protect.md) 
-- [energy_consumption_details.private](../../../../../_private/schema.org/Type/is_a_/intangible/energy_consumption_details.private.md) 
-- [energy_consumption_details.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/energy_consumption_details.personal.md) 
-- [energy_consumption_details.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/energy_consumption_details.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Este](../../../../../../_public/geo/Continent/Europe/Italy/City/Este.md) 
-- [Este.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Este.internal.md) 
-- [Este.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Este.protect.md) 
-- [Este.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Este.private.md) 
-- [Este.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Este.personal.md) 
-- [Este.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Este.secret.md) 

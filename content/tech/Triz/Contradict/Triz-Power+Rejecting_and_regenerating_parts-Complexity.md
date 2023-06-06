@@ -19,10 +19,3 @@ title: Triz-Power+Rejecting_and_regenerating_parts-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Rejecting_and_regenerating_parts-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.internal.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.protect.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.private.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.personal.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Complexity.secret.md) 

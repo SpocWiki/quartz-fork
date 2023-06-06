@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Immenstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Immenstadt.md) 
-- [Immenstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Immenstadt.internal.md) 
-- [Immenstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Immenstadt.protect.md) 
-- [Immenstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Immenstadt.private.md) 
-- [Immenstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Immenstadt.personal.md) 
-- [Immenstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Immenstadt.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harare](../../../../../../_public/geo/Continent/Africa/Zimbabwe/City/Harare.md) 
-- [Harare.internal](../../../../../../_internal/geo/Continent/Africa/Zimbabwe/City/Harare.internal.md) 
-- [Harare.protect](../../../../../../_protect/geo/Continent/Africa/Zimbabwe/City/Harare.protect.md) 
-- [Harare.private](../../../../../../_private/geo/Continent/Africa/Zimbabwe/City/Harare.private.md) 
-- [Harare.personal](../../../../../../_personal/geo/Continent/Africa/Zimbabwe/City/Harare.personal.md) 
-- [Harare.secret](../../../../../../_secret/geo/Continent/Africa/Zimbabwe/City/Harare.secret.md) 

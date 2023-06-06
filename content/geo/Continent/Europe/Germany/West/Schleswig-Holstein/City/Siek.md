@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siek](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Siek.md) 
-- [Siek.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Siek.internal.md) 
-- [Siek.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Siek.protect.md) 
-- [Siek.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Siek.private.md) 
-- [Siek.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Siek.personal.md) 
-- [Siek.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Siek.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kreuzlingen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Kreuzlingen.md) 
-- [Kreuzlingen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Kreuzlingen.internal.md) 
-- [Kreuzlingen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Kreuzlingen.protect.md) 
-- [Kreuzlingen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Kreuzlingen.private.md) 
-- [Kreuzlingen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Kreuzlingen.personal.md) 
-- [Kreuzlingen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Kreuzlingen.secret.md) 

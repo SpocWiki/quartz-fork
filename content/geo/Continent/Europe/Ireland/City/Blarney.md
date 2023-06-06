@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blarney](../../../../../../_public/geo/Continent/Europe/Ireland/City/Blarney.md) 
-- [Blarney.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Blarney.internal.md) 
-- [Blarney.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Blarney.protect.md) 
-- [Blarney.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Blarney.private.md) 
-- [Blarney.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Blarney.personal.md) 
-- [Blarney.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Blarney.secret.md) 

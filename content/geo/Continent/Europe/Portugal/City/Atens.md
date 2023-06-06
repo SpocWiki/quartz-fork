@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Atens](../../../../../../_public/geo/Continent/Europe/Portugal/City/Atens.md) 
-- [Atens.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Atens.internal.md) 
-- [Atens.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Atens.protect.md) 
-- [Atens.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Atens.private.md) 
-- [Atens.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Atens.personal.md) 
-- [Atens.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Atens.secret.md) 

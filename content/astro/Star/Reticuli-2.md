@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Reticuli-2](../../../_public/astro/Star/Reticuli-2.md) 
-- [Reticuli-2.internal](../../../_internal/astro/Star/Reticuli-2.internal.md) 
-- [Reticuli-2.protect](../../../_protect/astro/Star/Reticuli-2.protect.md) 
-- [Reticuli-2.private](../../../_private/astro/Star/Reticuli-2.private.md) 
-- [Reticuli-2.personal](../../../_personal/astro/Star/Reticuli-2.personal.md) 
-- [Reticuli-2.secret](../../../_secret/astro/Star/Reticuli-2.secret.md) 

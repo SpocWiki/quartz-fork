@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Forres](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Forres.md) 
-- [Forres.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Forres.internal.md) 
-- [Forres.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Forres.protect.md) 
-- [Forres.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Forres.private.md) 
-- [Forres.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Forres.personal.md) 
-- [Forres.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Forres.secret.md) 

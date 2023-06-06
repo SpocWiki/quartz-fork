@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Albertseich](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Albertseich.md) 
-- [Albertseich.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Albertseich.internal.md) 
-- [Albertseich.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Albertseich.protect.md) 
-- [Albertseich.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Albertseich.private.md) 
-- [Albertseich.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Albertseich.personal.md) 
-- [Albertseich.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Albertseich.secret.md) 

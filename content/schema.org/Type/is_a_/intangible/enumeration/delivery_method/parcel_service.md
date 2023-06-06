@@ -53,10 +53,3 @@ Commonly used values:
 
 
 
-## Confidential Links & Embeds: 
-- [parcel_service](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.md) 
-- [parcel_service.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.internal.md) 
-- [parcel_service.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.protect.md) 
-- [parcel_service.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.private.md) 
-- [parcel_service.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.personal.md) 
-- [parcel_service.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.secret.md) 

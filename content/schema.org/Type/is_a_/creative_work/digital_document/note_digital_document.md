@@ -43,10 +43,3 @@ A file containing a note, primarily for the author.
 
 
 
-## Confidential Links & Embeds: 
-- [note_digital_document](../../../../../../_public/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.md) 
-- [note_digital_document.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.internal.md) 
-- [note_digital_document.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.protect.md) 
-- [note_digital_document.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.private.md) 
-- [note_digital_document.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.personal.md) 
-- [note_digital_document.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sohland](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Sohland.md) 
-- [Sohland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Sohland.internal.md) 
-- [Sohland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Sohland.protect.md) 
-- [Sohland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Sohland.private.md) 
-- [Sohland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Sohland.personal.md) 
-- [Sohland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Sohland.secret.md) 

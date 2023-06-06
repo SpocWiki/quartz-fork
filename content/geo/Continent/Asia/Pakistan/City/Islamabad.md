@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Islamabad](../../../../../../_public/geo/Continent/Asia/Pakistan/City/Islamabad.md) 
-- [Islamabad.internal](../../../../../../_internal/geo/Continent/Asia/Pakistan/City/Islamabad.internal.md) 
-- [Islamabad.protect](../../../../../../_protect/geo/Continent/Asia/Pakistan/City/Islamabad.protect.md) 
-- [Islamabad.private](../../../../../../_private/geo/Continent/Asia/Pakistan/City/Islamabad.private.md) 
-- [Islamabad.personal](../../../../../../_personal/geo/Continent/Asia/Pakistan/City/Islamabad.personal.md) 
-- [Islamabad.secret](../../../../../../_secret/geo/Continent/Asia/Pakistan/City/Islamabad.secret.md) 

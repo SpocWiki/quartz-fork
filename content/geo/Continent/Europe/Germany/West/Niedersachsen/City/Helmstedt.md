@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Helmstedt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Helmstedt.md) 
-- [Helmstedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Helmstedt.internal.md) 
-- [Helmstedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Helmstedt.protect.md) 
-- [Helmstedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Helmstedt.private.md) 
-- [Helmstedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Helmstedt.personal.md) 
-- [Helmstedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Helmstedt.secret.md) 

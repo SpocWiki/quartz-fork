@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kingston_(Norfolkinsel)](../../../../../../_public/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).md) 
-- [Kingston_(Norfolkinsel).internal](../../../../../../_internal/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).internal.md) 
-- [Kingston_(Norfolkinsel).protect](../../../../../../_protect/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).protect.md) 
-- [Kingston_(Norfolkinsel).private](../../../../../../_private/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).private.md) 
-- [Kingston_(Norfolkinsel).personal](../../../../../../_personal/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).personal.md) 
-- [Kingston_(Norfolkinsel).secret](../../../../../../_secret/geo/Continent/Oceania/Norfolk_Island/City/Kingston_(Norfolkinsel).secret.md) 

@@ -47,10 +47,3 @@ Nonprofit501c11: Non-profit type referring to Teachers' Retirement Fund Associat
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c11](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.md) 
-- [nonprofit501c11.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.internal.md) 
-- [nonprofit501c11.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.protect.md) 
-- [nonprofit501c11.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.private.md) 
-- [nonprofit501c11.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.personal.md) 
-- [nonprofit501c11.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c11.secret.md) 

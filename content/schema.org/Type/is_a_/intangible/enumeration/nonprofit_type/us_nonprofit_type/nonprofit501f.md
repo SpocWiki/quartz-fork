@@ -47,10 +47,3 @@ Nonprofit501f: Non-profit type referring to Cooperative Service Organizations.
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501f](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.md) 
-- [nonprofit501f.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.internal.md) 
-- [nonprofit501f.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.protect.md) 
-- [nonprofit501f.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.private.md) 
-- [nonprofit501f.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.personal.md) 
-- [nonprofit501f.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501f.secret.md) 

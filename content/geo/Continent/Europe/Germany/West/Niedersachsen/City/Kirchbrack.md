@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirchbrack](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.md) 
-- [Kirchbrack.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.internal.md) 
-- [Kirchbrack.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.protect.md) 
-- [Kirchbrack.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.private.md) 
-- [Kirchbrack.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.personal.md) 
-- [Kirchbrack.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchbrack.secret.md) 

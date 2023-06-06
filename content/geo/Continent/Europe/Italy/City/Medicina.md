@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Medicina](../../../../../../_public/geo/Continent/Europe/Italy/City/Medicina.md) 
-- [Medicina.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Medicina.internal.md) 
-- [Medicina.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Medicina.protect.md) 
-- [Medicina.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Medicina.private.md) 
-- [Medicina.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Medicina.personal.md) 
-- [Medicina.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Medicina.secret.md) 

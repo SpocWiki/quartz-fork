@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roubaix](../../../../../../_public/geo/Continent/Europe/France/City/Roubaix.md) 
-- [Roubaix.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Roubaix.internal.md) 
-- [Roubaix.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Roubaix.protect.md) 
-- [Roubaix.private](../../../../../../_private/geo/Continent/Europe/France/City/Roubaix.private.md) 
-- [Roubaix.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Roubaix.personal.md) 
-- [Roubaix.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Roubaix.secret.md) 

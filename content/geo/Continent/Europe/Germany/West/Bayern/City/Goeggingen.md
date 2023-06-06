@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goeggingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.md) 
-- [Goeggingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.internal.md) 
-- [Goeggingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.protect.md) 
-- [Goeggingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.private.md) 
-- [Goeggingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.personal.md) 
-- [Goeggingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.secret.md) 

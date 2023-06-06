@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chaumoret_sur_Bassigny](../../../../../../_public/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.md) 
-- [Chaumoret_sur_Bassigny.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.internal.md) 
-- [Chaumoret_sur_Bassigny.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.protect.md) 
-- [Chaumoret_sur_Bassigny.private](../../../../../../_private/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.private.md) 
-- [Chaumoret_sur_Bassigny.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.personal.md) 
-- [Chaumoret_sur_Bassigny.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chaumoret_sur_Bassigny.secret.md) 

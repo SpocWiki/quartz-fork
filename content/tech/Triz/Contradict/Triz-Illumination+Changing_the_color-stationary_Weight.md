@@ -19,10 +19,3 @@ title: Triz-Illumination+Changing_the_color-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Changing_the_color-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Weight.md) 
-- [Triz-Illumination+Changing_the_color-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Weight.internal.md) 
-- [Triz-Illumination+Changing_the_color-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Weight.protect.md) 
-- [Triz-Illumination+Changing_the_color-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Weight.private.md) 
-- [Triz-Illumination+Changing_the_color-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Weight.personal.md) 
-- [Triz-Illumination+Changing_the_color-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Weight.secret.md) 

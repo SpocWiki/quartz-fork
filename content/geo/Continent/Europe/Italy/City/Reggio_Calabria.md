@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reggio_Calabria](../../../../../../_public/geo/Continent/Europe/Italy/City/Reggio_Calabria.md) 
-- [Reggio_Calabria.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Reggio_Calabria.internal.md) 
-- [Reggio_Calabria.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Reggio_Calabria.protect.md) 
-- [Reggio_Calabria.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Reggio_Calabria.private.md) 
-- [Reggio_Calabria.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Reggio_Calabria.personal.md) 
-- [Reggio_Calabria.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Reggio_Calabria.secret.md) 

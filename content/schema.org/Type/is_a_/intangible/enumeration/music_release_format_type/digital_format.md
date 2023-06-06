@@ -45,10 +45,3 @@ DigitalFormat.
 
 
 
-## Confidential Links & Embeds: 
-- [digital_format](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/digital_format.md) 
-- [digital_format.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/digital_format.internal.md) 
-- [digital_format.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/digital_format.protect.md) 
-- [digital_format.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/digital_format.private.md) 
-- [digital_format.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/digital_format.personal.md) 
-- [digital_format.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/digital_format.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Irboska](../../../../../../_public/geo/Continent/Europe/Russia/City/Irboska.md) 
-- [Irboska.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Irboska.internal.md) 
-- [Irboska.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Irboska.protect.md) 
-- [Irboska.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Irboska.private.md) 
-- [Irboska.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Irboska.personal.md) 
-- [Irboska.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Irboska.secret.md) 

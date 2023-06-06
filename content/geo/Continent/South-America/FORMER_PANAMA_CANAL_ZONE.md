@@ -36,10 +36,3 @@ markerFolder: ./FORMER_PANAMA_CANAL_ZONE/City
 
 
 
-## Confidential Links & Embeds: 
-- [FORMER_PANAMA_CANAL_ZONE](../../../../_public/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.md) 
-- [FORMER_PANAMA_CANAL_ZONE.internal](../../../../_internal/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.internal.md) 
-- [FORMER_PANAMA_CANAL_ZONE.protect](../../../../_protect/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.protect.md) 
-- [FORMER_PANAMA_CANAL_ZONE.private](../../../../_private/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.private.md) 
-- [FORMER_PANAMA_CANAL_ZONE.personal](../../../../_personal/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.personal.md) 
-- [FORMER_PANAMA_CANAL_ZONE.secret](../../../../_secret/geo/Continent/South-America/FORMER_PANAMA_CANAL_ZONE.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Prerau=Prerov](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.md) 
-- [Prerau=Prerov.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.internal.md) 
-- [Prerau=Prerov.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.protect.md) 
-- [Prerau=Prerov.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.private.md) 
-- [Prerau=Prerov.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.personal.md) 
-- [Prerau=Prerov.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.secret.md) 

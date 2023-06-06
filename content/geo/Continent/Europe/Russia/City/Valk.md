@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valk](../../../../../../_public/geo/Continent/Europe/Russia/City/Valk.md) 
-- [Valk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Valk.internal.md) 
-- [Valk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Valk.protect.md) 
-- [Valk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Valk.private.md) 
-- [Valk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Valk.personal.md) 
-- [Valk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Valk.secret.md) 

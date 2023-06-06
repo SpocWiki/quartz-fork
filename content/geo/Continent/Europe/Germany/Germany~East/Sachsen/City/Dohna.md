@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dohna](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dohna.md) 
-- [Dohna.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dohna.internal.md) 
-- [Dohna.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dohna.protect.md) 
-- [Dohna.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dohna.private.md) 
-- [Dohna.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dohna.personal.md) 
-- [Dohna.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dohna.secret.md) 

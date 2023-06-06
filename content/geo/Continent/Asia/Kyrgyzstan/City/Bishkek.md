@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bishkek](../../../../../../_public/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.md) 
-- [Bishkek.internal](../../../../../../_internal/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.internal.md) 
-- [Bishkek.protect](../../../../../../_protect/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.protect.md) 
-- [Bishkek.private](../../../../../../_private/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.private.md) 
-- [Bishkek.personal](../../../../../../_personal/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.personal.md) 
-- [Bishkek.secret](../../../../../../_secret/geo/Continent/Asia/Kyrgyzstan/City/Bishkek.secret.md) 

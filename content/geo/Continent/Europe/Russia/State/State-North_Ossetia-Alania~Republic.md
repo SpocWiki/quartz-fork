@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-North_Ossetia-Alania~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-North_Ossetia-Alania~Republic.md) 
-- [State-North_Ossetia-Alania~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-North_Ossetia-Alania~Republic.internal.md) 
-- [State-North_Ossetia-Alania~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-North_Ossetia-Alania~Republic.protect.md) 
-- [State-North_Ossetia-Alania~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-North_Ossetia-Alania~Republic.private.md) 
-- [State-North_Ossetia-Alania~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-North_Ossetia-Alania~Republic.personal.md) 
-- [State-North_Ossetia-Alania~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-North_Ossetia-Alania~Republic.secret.md) 

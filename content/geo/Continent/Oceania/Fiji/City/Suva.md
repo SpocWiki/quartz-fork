@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suva](../../../../../../_public/geo/Continent/Oceania/Fiji/City/Suva.md) 
-- [Suva.internal](../../../../../../_internal/geo/Continent/Oceania/Fiji/City/Suva.internal.md) 
-- [Suva.protect](../../../../../../_protect/geo/Continent/Oceania/Fiji/City/Suva.protect.md) 
-- [Suva.private](../../../../../../_private/geo/Continent/Oceania/Fiji/City/Suva.private.md) 
-- [Suva.personal](../../../../../../_personal/geo/Continent/Oceania/Fiji/City/Suva.personal.md) 
-- [Suva.secret](../../../../../../_secret/geo/Continent/Oceania/Fiji/City/Suva.secret.md) 

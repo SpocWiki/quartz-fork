@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bergedorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.md) 
-- [Bergedorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.internal.md) 
-- [Bergedorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.protect.md) 
-- [Bergedorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.private.md) 
-- [Bergedorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.personal.md) 
-- [Bergedorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg/City/Bergedorf.secret.md) 

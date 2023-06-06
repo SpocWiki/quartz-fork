@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wisby](../../../../../../_public/geo/Continent/Europe/Sweden/City/Wisby.md) 
-- [Wisby.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Wisby.internal.md) 
-- [Wisby.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Wisby.protect.md) 
-- [Wisby.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Wisby.private.md) 
-- [Wisby.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Wisby.personal.md) 
-- [Wisby.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Wisby.secret.md) 

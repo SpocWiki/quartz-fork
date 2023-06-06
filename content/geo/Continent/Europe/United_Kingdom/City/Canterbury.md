@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Canterbury](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Canterbury.md) 
-- [Canterbury.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Canterbury.internal.md) 
-- [Canterbury.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Canterbury.protect.md) 
-- [Canterbury.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Canterbury.private.md) 
-- [Canterbury.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Canterbury.personal.md) 
-- [Canterbury.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Canterbury.secret.md) 

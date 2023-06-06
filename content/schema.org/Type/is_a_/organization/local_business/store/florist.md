@@ -43,10 +43,3 @@ A florist.
 
 
 
-## Confidential Links & Embeds: 
-- [florist](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/florist.md) 
-- [florist.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/florist.internal.md) 
-- [florist.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/florist.protect.md) 
-- [florist.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/florist.private.md) 
-- [florist.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/florist.personal.md) 
-- [florist.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/florist.secret.md) 

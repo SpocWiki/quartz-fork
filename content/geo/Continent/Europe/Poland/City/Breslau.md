@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Breslau](../../../../../../_public/geo/Continent/Europe/Poland/City/Breslau.md) 
-- [Breslau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Breslau.internal.md) 
-- [Breslau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Breslau.protect.md) 
-- [Breslau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Breslau.private.md) 
-- [Breslau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Breslau.personal.md) 
-- [Breslau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Breslau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krasnokokoshaisk=Yoskav](../../../../../../_public/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.md) 
-- [Krasnokokoshaisk=Yoskav.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.internal.md) 
-- [Krasnokokoshaisk=Yoskav.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.protect.md) 
-- [Krasnokokoshaisk=Yoskav.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.private.md) 
-- [Krasnokokoshaisk=Yoskav.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.personal.md) 
-- [Krasnokokoshaisk=Yoskav.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Krasnokokoshaisk=Yoskav.secret.md) 

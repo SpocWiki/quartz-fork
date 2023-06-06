@@ -119,7 +119,7 @@ markerFolder: ./Burkina_Faso/City
 
 ![350](geo/Continent/Africa/Burkina_Faso/Coat_of_arms_of_Burkina_Faso.svg)
 
-![Anthem-Burkina-faso](xLarge/National-Anthem/Anthem-Burkina-faso.mp3)
+[Anthem-Burkina-faso](xLarge/National-Anthem/Anthem-Burkina-faso.mp3)
 
 ![350](geo/Continent/Africa/Burkina_Faso/Flag_of_Burkina_Faso.svg)
 [Alcohol-l::7]
@@ -129,10 +129,3 @@ markerFolder: ./Burkina_Faso/City
 
 
 
-## Confidential Links & Embeds: 
-- [Burkina_Faso](../../../../_public/geo/Continent/Africa/Burkina_Faso.md) 
-- [Burkina_Faso.internal](../../../../_internal/geo/Continent/Africa/Burkina_Faso.internal.md) 
-- [Burkina_Faso.protect](../../../../_protect/geo/Continent/Africa/Burkina_Faso.protect.md) 
-- [Burkina_Faso.private](../../../../_private/geo/Continent/Africa/Burkina_Faso.private.md) 
-- [Burkina_Faso.personal](../../../../_personal/geo/Continent/Africa/Burkina_Faso.personal.md) 
-- [Burkina_Faso.secret](../../../../_secret/geo/Continent/Africa/Burkina_Faso.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Ferdinand-Dirichs-Weg](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ferdinand-Dirichs-Weg.md) 
-- [T-Ferdinand-Dirichs-Weg.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ferdinand-Dirichs-Weg.internal.md) 
-- [T-Ferdinand-Dirichs-Weg.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ferdinand-Dirichs-Weg.protect.md) 
-- [T-Ferdinand-Dirichs-Weg.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ferdinand-Dirichs-Weg.private.md) 
-- [T-Ferdinand-Dirichs-Weg.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ferdinand-Dirichs-Weg.personal.md) 
-- [T-Ferdinand-Dirichs-Weg.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ferdinand-Dirichs-Weg.secret.md) 

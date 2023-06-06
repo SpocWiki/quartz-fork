@@ -45,10 +45,3 @@ Only consensus opinion of experts, case studies, or standard-of-care.
 
 
 
-## Confidential Links & Embeds: 
-- [evidence_level_c](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.md) 
-- [evidence_level_c.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.internal.md) 
-- [evidence_level_c.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.protect.md) 
-- [evidence_level_c.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.private.md) 
-- [evidence_level_c.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.personal.md) 
-- [evidence_level_c.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.secret.md) 

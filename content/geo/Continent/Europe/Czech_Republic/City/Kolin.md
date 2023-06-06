@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kolin](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kolin.md) 
-- [Kolin.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kolin.internal.md) 
-- [Kolin.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kolin.protect.md) 
-- [Kolin.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kolin.private.md) 
-- [Kolin.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kolin.personal.md) 
-- [Kolin.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kolin.secret.md) 

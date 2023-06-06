@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_vehicle_interior_type](../../../../_public/schema.org/Predicate/Texts/has_vehicle_interior_type.md) 
-- [has_vehicle_interior_type.internal](../../../../_internal/schema.org/Predicate/Texts/has_vehicle_interior_type.internal.md) 
-- [has_vehicle_interior_type.protect](../../../../_protect/schema.org/Predicate/Texts/has_vehicle_interior_type.protect.md) 
-- [has_vehicle_interior_type.private](../../../../_private/schema.org/Predicate/Texts/has_vehicle_interior_type.private.md) 
-- [has_vehicle_interior_type.personal](../../../../_personal/schema.org/Predicate/Texts/has_vehicle_interior_type.personal.md) 
-- [has_vehicle_interior_type.secret](../../../../_secret/schema.org/Predicate/Texts/has_vehicle_interior_type.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alte_Sternwarte](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.md) 
-- [Alte_Sternwarte.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.internal.md) 
-- [Alte_Sternwarte.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.protect.md) 
-- [Alte_Sternwarte.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.private.md) 
-- [Alte_Sternwarte.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.personal.md) 
-- [Alte_Sternwarte.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Alte_Sternwarte.secret.md) 

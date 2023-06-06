@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castrogiovanni](../../../../../../_public/geo/Continent/Europe/Italy/City/Castrogiovanni.md) 
-- [Castrogiovanni.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Castrogiovanni.internal.md) 
-- [Castrogiovanni.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Castrogiovanni.protect.md) 
-- [Castrogiovanni.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Castrogiovanni.private.md) 
-- [Castrogiovanni.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Castrogiovanni.personal.md) 
-- [Castrogiovanni.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Castrogiovanni.secret.md) 

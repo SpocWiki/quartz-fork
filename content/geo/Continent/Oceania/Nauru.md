@@ -130,10 +130,3 @@ markerFolder: ./Nauru/City
 
 
 
-## Confidential Links & Embeds: 
-- [Nauru](../../../../_public/geo/Continent/Oceania/Nauru.md) 
-- [Nauru.internal](../../../../_internal/geo/Continent/Oceania/Nauru.internal.md) 
-- [Nauru.protect](../../../../_protect/geo/Continent/Oceania/Nauru.protect.md) 
-- [Nauru.private](../../../../_private/geo/Continent/Oceania/Nauru.private.md) 
-- [Nauru.personal](../../../../_personal/geo/Continent/Oceania/Nauru.personal.md) 
-- [Nauru.secret](../../../../_secret/geo/Continent/Oceania/Nauru.secret.md) 

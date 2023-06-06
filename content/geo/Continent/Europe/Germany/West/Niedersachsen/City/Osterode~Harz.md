@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Osterode~Harz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.md) 
-- [Osterode~Harz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.internal.md) 
-- [Osterode~Harz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.protect.md) 
-- [Osterode~Harz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.private.md) 
-- [Osterode~Harz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.personal.md) 
-- [Osterode~Harz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osterode~Harz.secret.md) 

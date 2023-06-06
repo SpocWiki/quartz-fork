@@ -45,10 +45,3 @@ A single message from a sender to one or more organizations or people.
 
 
 
-## Confidential Links & Embeds: 
-- [message](../../../../../_public/schema.org/Type/is_a_/creative_work/message.md) 
-- [message.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/message.internal.md) 
-- [message.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/message.protect.md) 
-- [message.private](../../../../../_private/schema.org/Type/is_a_/creative_work/message.private.md) 
-- [message.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/message.personal.md) 
-- [message.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/message.secret.md) 

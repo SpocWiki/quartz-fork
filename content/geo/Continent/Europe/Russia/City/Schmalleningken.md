@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schmalleningken](../../../../../../_public/geo/Continent/Europe/Russia/City/Schmalleningken.md) 
-- [Schmalleningken.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Schmalleningken.internal.md) 
-- [Schmalleningken.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Schmalleningken.protect.md) 
-- [Schmalleningken.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Schmalleningken.private.md) 
-- [Schmalleningken.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Schmalleningken.personal.md) 
-- [Schmalleningken.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Schmalleningken.secret.md) 

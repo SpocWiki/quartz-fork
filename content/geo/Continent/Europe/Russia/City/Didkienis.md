@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Didkienis](../../../../../../_public/geo/Continent/Europe/Russia/City/Didkienis.md) 
-- [Didkienis.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Didkienis.internal.md) 
-- [Didkienis.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Didkienis.protect.md) 
-- [Didkienis.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Didkienis.private.md) 
-- [Didkienis.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Didkienis.personal.md) 
-- [Didkienis.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Didkienis.secret.md) 

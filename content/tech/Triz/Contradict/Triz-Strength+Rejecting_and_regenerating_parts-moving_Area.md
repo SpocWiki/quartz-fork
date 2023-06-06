@@ -19,10 +19,3 @@ title: Triz-Strength+Rejecting_and_regenerating_parts-moving_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Rejecting_and_regenerating_parts-moving_Area](../../../../_public/tech/Triz/Contradict/Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.md) 
-- [Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.internal.md) 
-- [Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.protect.md) 
-- [Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.private.md) 
-- [Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.personal.md) 
-- [Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Rejecting_and_regenerating_parts-moving_Area.secret.md) 

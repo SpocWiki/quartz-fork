@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwarmstedt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.md) 
-- [Schwarmstedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.internal.md) 
-- [Schwarmstedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.protect.md) 
-- [Schwarmstedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.private.md) 
-- [Schwarmstedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.personal.md) 
-- [Schwarmstedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwarmstedt.secret.md) 

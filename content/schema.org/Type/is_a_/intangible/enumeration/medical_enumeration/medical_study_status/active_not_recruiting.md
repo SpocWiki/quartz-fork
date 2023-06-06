@@ -45,10 +45,3 @@ Active, but not recruiting new participants.
 
 
 
-## Confidential Links & Embeds: 
-- [active_not_recruiting](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.md) 
-- [active_not_recruiting.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.internal.md) 
-- [active_not_recruiting.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.protect.md) 
-- [active_not_recruiting.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.private.md) 
-- [active_not_recruiting.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.personal.md) 
-- [active_not_recruiting.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.secret.md) 

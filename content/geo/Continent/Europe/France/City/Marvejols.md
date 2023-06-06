@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marvejols](../../../../../../_public/geo/Continent/Europe/France/City/Marvejols.md) 
-- [Marvejols.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Marvejols.internal.md) 
-- [Marvejols.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Marvejols.protect.md) 
-- [Marvejols.private](../../../../../../_private/geo/Continent/Europe/France/City/Marvejols.private.md) 
-- [Marvejols.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Marvejols.personal.md) 
-- [Marvejols.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Marvejols.secret.md) 

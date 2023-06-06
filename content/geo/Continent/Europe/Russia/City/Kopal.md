@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kopal](../../../../../../_public/geo/Continent/Europe/Russia/City/Kopal.md) 
-- [Kopal.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kopal.internal.md) 
-- [Kopal.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kopal.protect.md) 
-- [Kopal.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kopal.private.md) 
-- [Kopal.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kopal.personal.md) 
-- [Kopal.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kopal.secret.md) 

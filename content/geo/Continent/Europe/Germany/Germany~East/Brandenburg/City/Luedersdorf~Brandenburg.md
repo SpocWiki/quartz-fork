@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luedersdorf~Brandenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.md) 
-- [Luedersdorf~Brandenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.internal.md) 
-- [Luedersdorf~Brandenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.protect.md) 
-- [Luedersdorf~Brandenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.private.md) 
-- [Luedersdorf~Brandenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.personal.md) 
-- [Luedersdorf~Brandenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luedersdorf~Brandenburg.secret.md) 

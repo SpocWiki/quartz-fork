@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Frankfurt_Lokalbahnhof](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Lokalbahnhof.md) 
-- [S-Frankfurt_Lokalbahnhof.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Lokalbahnhof.internal.md) 
-- [S-Frankfurt_Lokalbahnhof.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Lokalbahnhof.protect.md) 
-- [S-Frankfurt_Lokalbahnhof.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Lokalbahnhof.private.md) 
-- [S-Frankfurt_Lokalbahnhof.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Lokalbahnhof.personal.md) 
-- [S-Frankfurt_Lokalbahnhof.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt_Lokalbahnhof.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Penns_Grove](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Penns_Grove.md) 
-- [Penns_Grove.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Penns_Grove.internal.md) 
-- [Penns_Grove.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Penns_Grove.protect.md) 
-- [Penns_Grove.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Penns_Grove.private.md) 
-- [Penns_Grove.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Penns_Grove.personal.md) 
-- [Penns_Grove.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Penns_Grove.secret.md) 

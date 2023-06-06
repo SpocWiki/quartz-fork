@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Obdorsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Obdorsk.md) 
-- [Obdorsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Obdorsk.internal.md) 
-- [Obdorsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Obdorsk.protect.md) 
-- [Obdorsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Obdorsk.private.md) 
-- [Obdorsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Obdorsk.personal.md) 
-- [Obdorsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Obdorsk.secret.md) 

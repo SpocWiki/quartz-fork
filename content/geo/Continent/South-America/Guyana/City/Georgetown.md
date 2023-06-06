@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Georgetown](../../../../../../_public/geo/Continent/South-America/Guyana/City/Georgetown.md) 
-- [Georgetown.internal](../../../../../../_internal/geo/Continent/South-America/Guyana/City/Georgetown.internal.md) 
-- [Georgetown.protect](../../../../../../_protect/geo/Continent/South-America/Guyana/City/Georgetown.protect.md) 
-- [Georgetown.private](../../../../../../_private/geo/Continent/South-America/Guyana/City/Georgetown.private.md) 
-- [Georgetown.personal](../../../../../../_personal/geo/Continent/South-America/Guyana/City/Georgetown.personal.md) 
-- [Georgetown.secret](../../../../../../_secret/geo/Continent/South-America/Guyana/City/Georgetown.secret.md) 

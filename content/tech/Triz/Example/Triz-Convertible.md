@@ -17,10 +17,3 @@ title: Triz-Convertible
 
 Convertible Bed-Sofa or Car
 
-## Confidential Links & Embeds: 
-- [Triz-Convertible](../../../../_public/tech/Triz/Example/Triz-Convertible.md) 
-- [Triz-Convertible.internal](../../../../_internal/tech/Triz/Example/Triz-Convertible.internal.md) 
-- [Triz-Convertible.protect](../../../../_protect/tech/Triz/Example/Triz-Convertible.protect.md) 
-- [Triz-Convertible.private](../../../../_private/tech/Triz/Example/Triz-Convertible.private.md) 
-- [Triz-Convertible.personal](../../../../_personal/tech/Triz/Example/Triz-Convertible.personal.md) 
-- [Triz-Convertible.secret](../../../../_secret/tech/Triz/Example/Triz-Convertible.secret.md) 

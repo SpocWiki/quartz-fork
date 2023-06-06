@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freiensteinau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Freiensteinau.md) 
-- [Freiensteinau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Freiensteinau.internal.md) 
-- [Freiensteinau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Freiensteinau.protect.md) 
-- [Freiensteinau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Freiensteinau.private.md) 
-- [Freiensteinau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Freiensteinau.personal.md) 
-- [Freiensteinau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Freiensteinau.secret.md) 

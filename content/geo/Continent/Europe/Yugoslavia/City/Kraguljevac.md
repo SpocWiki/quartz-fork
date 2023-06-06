@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kraguljevac](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.md) 
-- [Kraguljevac.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.internal.md) 
-- [Kraguljevac.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.protect.md) 
-- [Kraguljevac.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.private.md) 
-- [Kraguljevac.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.personal.md) 
-- [Kraguljevac.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kraguljevac.secret.md) 

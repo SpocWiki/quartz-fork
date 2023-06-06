@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oldenburg~Holstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.md) 
-- [Oldenburg~Holstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.internal.md) 
-- [Oldenburg~Holstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.protect.md) 
-- [Oldenburg~Holstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.private.md) 
-- [Oldenburg~Holstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.personal.md) 
-- [Oldenburg~Holstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg~Holstein.secret.md) 

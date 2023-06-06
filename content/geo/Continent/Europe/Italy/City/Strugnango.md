@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strugnango](../../../../../../_public/geo/Continent/Europe/Italy/City/Strugnango.md) 
-- [Strugnango.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Strugnango.internal.md) 
-- [Strugnango.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Strugnango.protect.md) 
-- [Strugnango.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Strugnango.private.md) 
-- [Strugnango.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Strugnango.personal.md) 
-- [Strugnango.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Strugnango.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Banff](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Banff.md) 
-- [Banff.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Banff.internal.md) 
-- [Banff.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Banff.protect.md) 
-- [Banff.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Banff.private.md) 
-- [Banff.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Banff.personal.md) 
-- [Banff.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Banff.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nesserland](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.md) 
-- [Nesserland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.internal.md) 
-- [Nesserland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.protect.md) 
-- [Nesserland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.private.md) 
-- [Nesserland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.personal.md) 
-- [Nesserland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nesserland.secret.md) 

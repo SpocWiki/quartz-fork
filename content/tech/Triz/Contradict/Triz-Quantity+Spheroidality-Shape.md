@@ -19,10 +19,3 @@ title: Triz-Quantity+Spheroidality-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Spheroidality-Shape](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Shape.md) 
-- [Triz-Quantity+Spheroidality-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Shape.internal.md) 
-- [Triz-Quantity+Spheroidality-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Shape.protect.md) 
-- [Triz-Quantity+Spheroidality-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Shape.private.md) 
-- [Triz-Quantity+Spheroidality-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Shape.personal.md) 
-- [Triz-Quantity+Spheroidality-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Shape.secret.md) 

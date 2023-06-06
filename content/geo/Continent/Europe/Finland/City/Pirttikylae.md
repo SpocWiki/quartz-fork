@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pirttikylae](../../../../../../_public/geo/Continent/Europe/Finland/City/Pirttikylae.md) 
-- [Pirttikylae.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Pirttikylae.internal.md) 
-- [Pirttikylae.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Pirttikylae.protect.md) 
-- [Pirttikylae.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Pirttikylae.private.md) 
-- [Pirttikylae.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Pirttikylae.personal.md) 
-- [Pirttikylae.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Pirttikylae.secret.md) 

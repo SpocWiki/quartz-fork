@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freistadt](../../../../../../_public/geo/Continent/Europe/Poland/City/Freistadt.md) 
-- [Freistadt.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Freistadt.internal.md) 
-- [Freistadt.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Freistadt.protect.md) 
-- [Freistadt.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Freistadt.private.md) 
-- [Freistadt.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Freistadt.personal.md) 
-- [Freistadt.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Freistadt.secret.md) 

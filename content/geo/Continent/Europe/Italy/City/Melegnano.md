@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Melegnano](../../../../../../_public/geo/Continent/Europe/Italy/City/Melegnano.md) 
-- [Melegnano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Melegnano.internal.md) 
-- [Melegnano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Melegnano.protect.md) 
-- [Melegnano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Melegnano.private.md) 
-- [Melegnano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Melegnano.personal.md) 
-- [Melegnano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Melegnano.secret.md) 

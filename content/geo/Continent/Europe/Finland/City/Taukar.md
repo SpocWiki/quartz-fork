@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taukar](../../../../../../_public/geo/Continent/Europe/Finland/City/Taukar.md) 
-- [Taukar.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Taukar.internal.md) 
-- [Taukar.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Taukar.protect.md) 
-- [Taukar.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Taukar.private.md) 
-- [Taukar.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Taukar.personal.md) 
-- [Taukar.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Taukar.secret.md) 

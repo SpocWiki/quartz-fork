@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Copying-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Copying-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.md) 
-- [Triz-Ease_of_manufacture+Copying-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.internal.md) 
-- [Triz-Ease_of_manufacture+Copying-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.protect.md) 
-- [Triz-Ease_of_manufacture+Copying-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.private.md) 
-- [Triz-Ease_of_manufacture+Copying-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.personal.md) 
-- [Triz-Ease_of_manufacture+Copying-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Copying-Complexity.secret.md) 

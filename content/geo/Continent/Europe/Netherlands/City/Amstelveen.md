@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amstelveen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Amstelveen.md) 
-- [Amstelveen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Amstelveen.internal.md) 
-- [Amstelveen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Amstelveen.protect.md) 
-- [Amstelveen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Amstelveen.private.md) 
-- [Amstelveen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Amstelveen.personal.md) 
-- [Amstelveen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Amstelveen.secret.md) 

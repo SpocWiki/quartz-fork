@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Dié](../../../../../../_public/geo/Continent/Europe/France/City/St.Di%C3%A9.md) 
-- [St.Dié.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Di%C3%A9.internal.md) 
-- [St.Dié.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Di%C3%A9.protect.md) 
-- [St.Dié.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Di%C3%A9.private.md) 
-- [St.Dié.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Di%C3%A9.personal.md) 
-- [St.Dié.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Di%C3%A9.secret.md) 

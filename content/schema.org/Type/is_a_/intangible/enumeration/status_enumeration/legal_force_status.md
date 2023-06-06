@@ -43,10 +43,3 @@ A list of possible statuses for the legal force of a legislation.
 
 
 
-## Confidential Links & Embeds: 
-- [legal_force_status](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status.md) 
-- [legal_force_status.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status.internal.md) 
-- [legal_force_status.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status.protect.md) 
-- [legal_force_status.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status.private.md) 
-- [legal_force_status.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status.personal.md) 
-- [legal_force_status.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status.secret.md) 

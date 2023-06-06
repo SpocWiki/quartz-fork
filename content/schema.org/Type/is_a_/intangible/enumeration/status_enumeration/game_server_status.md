@@ -41,10 +41,3 @@ Status of a game server.
 
 
 
-## Confidential Links & Embeds: 
-- [game_server_status](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status.md) 
-- [game_server_status.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status.internal.md) 
-- [game_server_status.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status.protect.md) 
-- [game_server_status.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status.private.md) 
-- [game_server_status.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status.personal.md) 
-- [game_server_status.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/game_server_status.secret.md) 

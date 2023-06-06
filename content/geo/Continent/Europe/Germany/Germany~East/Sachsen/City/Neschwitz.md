@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neschwitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neschwitz.md) 
-- [Neschwitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neschwitz.internal.md) 
-- [Neschwitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neschwitz.protect.md) 
-- [Neschwitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neschwitz.private.md) 
-- [Neschwitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neschwitz.personal.md) 
-- [Neschwitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Neschwitz.secret.md) 

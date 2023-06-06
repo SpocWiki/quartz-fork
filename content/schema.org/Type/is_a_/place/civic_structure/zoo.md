@@ -43,10 +43,3 @@ A zoo.
 
 
 
-## Confidential Links & Embeds: 
-- [zoo](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/zoo.md) 
-- [zoo.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/zoo.internal.md) 
-- [zoo.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/zoo.protect.md) 
-- [zoo.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/zoo.private.md) 
-- [zoo.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/zoo.personal.md) 
-- [zoo.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/zoo.secret.md) 

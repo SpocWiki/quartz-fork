@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grottkau](../../../../../../_public/geo/Continent/Europe/Poland/City/Grottkau.md) 
-- [Grottkau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Grottkau.internal.md) 
-- [Grottkau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Grottkau.protect.md) 
-- [Grottkau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Grottkau.private.md) 
-- [Grottkau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Grottkau.personal.md) 
-- [Grottkau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Grottkau.secret.md) 

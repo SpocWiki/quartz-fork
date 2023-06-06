@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gersau](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Gersau.md) 
-- [Gersau.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gersau.internal.md) 
-- [Gersau.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gersau.protect.md) 
-- [Gersau.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gersau.private.md) 
-- [Gersau.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gersau.personal.md) 
-- [Gersau.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gersau.secret.md) 

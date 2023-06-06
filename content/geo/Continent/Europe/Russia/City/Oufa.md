@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oufa](../../../../../../_public/geo/Continent/Europe/Russia/City/Oufa.md) 
-- [Oufa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Oufa.internal.md) 
-- [Oufa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Oufa.protect.md) 
-- [Oufa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Oufa.private.md) 
-- [Oufa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Oufa.personal.md) 
-- [Oufa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Oufa.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berwick](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Berwick.md) 
-- [Berwick.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Berwick.internal.md) 
-- [Berwick.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Berwick.protect.md) 
-- [Berwick.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Berwick.private.md) 
-- [Berwick.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Berwick.personal.md) 
-- [Berwick.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Berwick.secret.md) 

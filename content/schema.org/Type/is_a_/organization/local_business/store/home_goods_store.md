@@ -43,10 +43,3 @@ A home goods store.
 
 
 
-## Confidential Links & Embeds: 
-- [home_goods_store](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/home_goods_store.md) 
-- [home_goods_store.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/home_goods_store.internal.md) 
-- [home_goods_store.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/home_goods_store.protect.md) 
-- [home_goods_store.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/home_goods_store.private.md) 
-- [home_goods_store.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/home_goods_store.personal.md) 
-- [home_goods_store.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/home_goods_store.secret.md) 

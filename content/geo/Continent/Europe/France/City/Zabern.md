@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zabern](../../../../../../_public/geo/Continent/Europe/France/City/Zabern.md) 
-- [Zabern.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Zabern.internal.md) 
-- [Zabern.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Zabern.protect.md) 
-- [Zabern.private](../../../../../../_private/geo/Continent/Europe/France/City/Zabern.private.md) 
-- [Zabern.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Zabern.personal.md) 
-- [Zabern.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Zabern.secret.md) 

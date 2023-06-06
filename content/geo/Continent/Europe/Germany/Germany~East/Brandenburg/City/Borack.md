@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borack](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Borack.md) 
-- [Borack.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Borack.internal.md) 
-- [Borack.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Borack.protect.md) 
-- [Borack.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Borack.private.md) 
-- [Borack.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Borack.personal.md) 
-- [Borack.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Borack.secret.md) 

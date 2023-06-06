@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zamora](../../../../../../_public/geo/Continent/Europe/Spain/City/Zamora.md) 
-- [Zamora.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Zamora.internal.md) 
-- [Zamora.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Zamora.protect.md) 
-- [Zamora.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Zamora.private.md) 
-- [Zamora.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Zamora.personal.md) 
-- [Zamora.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Zamora.secret.md) 

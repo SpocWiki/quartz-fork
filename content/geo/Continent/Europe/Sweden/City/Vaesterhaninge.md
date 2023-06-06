@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaesterhaninge](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaesterhaninge.md) 
-- [Vaesterhaninge.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaesterhaninge.internal.md) 
-- [Vaesterhaninge.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaesterhaninge.protect.md) 
-- [Vaesterhaninge.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaesterhaninge.private.md) 
-- [Vaesterhaninge.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaesterhaninge.personal.md) 
-- [Vaesterhaninge.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaesterhaninge.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jokkmokk](../../../../../../_public/geo/Continent/Europe/Sweden/City/Jokkmokk.md) 
-- [Jokkmokk.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Jokkmokk.internal.md) 
-- [Jokkmokk.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Jokkmokk.protect.md) 
-- [Jokkmokk.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Jokkmokk.private.md) 
-- [Jokkmokk.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Jokkmokk.personal.md) 
-- [Jokkmokk.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Jokkmokk.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-ge
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.md) 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.internal.md) 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.protect.md) 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.private.md) 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.personal.md) 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-generated_harm.secret.md) 

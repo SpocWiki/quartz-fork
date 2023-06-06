@@ -27,11 +27,3 @@ either in the Frontmatter or anywhere in the Text.
 
 
 
-## Confidential Links & Embeds: 
-- [Entity](../../_public/schema.org/Entity.md) 
-- [Entity.internal](../../_internal/schema.org/Entity.internal.md) 
-- [Entity.protect](../../_protect/schema.org/Entity.protect.md) 
-- [Entity.private](../../_private/schema.org/Entity.private.md) 
-- [Entity.personal](../../_personal/schema.org/Entity.personal.md) 
-- [Entity.secret](../../_secret/schema.org/Entity.secret.md)
-

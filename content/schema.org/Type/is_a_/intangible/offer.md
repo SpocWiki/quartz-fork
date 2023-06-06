@@ -49,10 +49,3 @@ For <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GTIN</a>-related
 
 
 
-## Confidential Links & Embeds: 
-- [offer](../../../../../_public/schema.org/Type/is_a_/intangible/offer.md) 
-- [offer.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/offer.internal.md) 
-- [offer.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/offer.protect.md) 
-- [offer.private](../../../../../_private/schema.org/Type/is_a_/intangible/offer.private.md) 
-- [offer.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/offer.personal.md) 
-- [offer.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/offer.secret.md) 

@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Merope](../../../_public/astro/Star/Merope.md) 
-- [Merope.internal](../../../_internal/astro/Star/Merope.internal.md) 
-- [Merope.protect](../../../_protect/astro/Star/Merope.protect.md) 
-- [Merope.private](../../../_private/astro/Star/Merope.private.md) 
-- [Merope.personal](../../../_personal/astro/Star/Merope.personal.md) 
-- [Merope.secret](../../../_secret/astro/Star/Merope.secret.md) 

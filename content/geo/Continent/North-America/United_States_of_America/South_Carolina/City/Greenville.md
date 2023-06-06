@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Greenville](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.md) 
-- [Greenville.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.internal.md) 
-- [Greenville.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.protect.md) 
-- [Greenville.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.private.md) 
-- [Greenville.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.personal.md) 
-- [Greenville.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Greenville.secret.md) 

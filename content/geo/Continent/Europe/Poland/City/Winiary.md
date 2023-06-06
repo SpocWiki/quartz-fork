@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winiary](../../../../../../_public/geo/Continent/Europe/Poland/City/Winiary.md) 
-- [Winiary.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Winiary.internal.md) 
-- [Winiary.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Winiary.protect.md) 
-- [Winiary.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Winiary.private.md) 
-- [Winiary.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Winiary.personal.md) 
-- [Winiary.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Winiary.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Dynamicity-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Dynamicity-Reliability](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Reliability.md) 
-- [Triz-stationary_Length+Dynamicity-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Reliability.internal.md) 
-- [Triz-stationary_Length+Dynamicity-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Reliability.protect.md) 
-- [Triz-stationary_Length+Dynamicity-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Reliability.private.md) 
-- [Triz-stationary_Length+Dynamicity-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Reliability.personal.md) 
-- [Triz-stationary_Length+Dynamicity-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Reliability.secret.md) 

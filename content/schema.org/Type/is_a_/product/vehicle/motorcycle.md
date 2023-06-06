@@ -45,10 +45,3 @@ A motorcycle or motorbike is a single-track, two-wheeled motor vehicle.
 
 
 
-## Confidential Links & Embeds: 
-- [motorcycle](../../../../../../_public/schema.org/Type/is_a_/product/vehicle/motorcycle.md) 
-- [motorcycle.internal](../../../../../../_internal/schema.org/Type/is_a_/product/vehicle/motorcycle.internal.md) 
-- [motorcycle.protect](../../../../../../_protect/schema.org/Type/is_a_/product/vehicle/motorcycle.protect.md) 
-- [motorcycle.private](../../../../../../_private/schema.org/Type/is_a_/product/vehicle/motorcycle.private.md) 
-- [motorcycle.personal](../../../../../../_personal/schema.org/Type/is_a_/product/vehicle/motorcycle.personal.md) 
-- [motorcycle.secret](../../../../../../_secret/schema.org/Type/is_a_/product/vehicle/motorcycle.secret.md) 

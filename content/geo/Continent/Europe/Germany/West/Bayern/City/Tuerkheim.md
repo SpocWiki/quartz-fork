@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tuerkheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Tuerkheim.md) 
-- [Tuerkheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tuerkheim.internal.md) 
-- [Tuerkheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tuerkheim.protect.md) 
-- [Tuerkheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tuerkheim.private.md) 
-- [Tuerkheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Tuerkheim.personal.md) 
-- [Tuerkheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Tuerkheim.secret.md) 

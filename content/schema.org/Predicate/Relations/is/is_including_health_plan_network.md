@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_including_health_plan_network](../../../../../_public/schema.org/Predicate/Relations/is/is_including_health_plan_network.md) 
-- [is_including_health_plan_network.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_including_health_plan_network.internal.md) 
-- [is_including_health_plan_network.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_including_health_plan_network.protect.md) 
-- [is_including_health_plan_network.private](../../../../../_private/schema.org/Predicate/Relations/is/is_including_health_plan_network.private.md) 
-- [is_including_health_plan_network.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_including_health_plan_network.personal.md) 
-- [is_including_health_plan_network.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_including_health_plan_network.secret.md) 

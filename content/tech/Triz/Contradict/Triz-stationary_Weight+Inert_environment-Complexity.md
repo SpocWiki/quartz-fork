@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Inert_environment-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Inert_environment-Complexity](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.md) 
-- [Triz-stationary_Weight+Inert_environment-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.internal.md) 
-- [Triz-stationary_Weight+Inert_environment-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.protect.md) 
-- [Triz-stationary_Weight+Inert_environment-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.private.md) 
-- [Triz-stationary_Weight+Inert_environment-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.personal.md) 
-- [Triz-stationary_Weight+Inert_environment-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Inert_environment-Complexity.secret.md) 

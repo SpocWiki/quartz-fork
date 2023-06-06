@@ -36,10 +36,3 @@ markerFolder: ./Sabah/City
 
 
 
-## Confidential Links & Embeds: 
-- [Sabah](../../../../_public/geo/Continent/Asia/Sabah.md) 
-- [Sabah.internal](../../../../_internal/geo/Continent/Asia/Sabah.internal.md) 
-- [Sabah.protect](../../../../_protect/geo/Continent/Asia/Sabah.protect.md) 
-- [Sabah.private](../../../../_private/geo/Continent/Asia/Sabah.private.md) 
-- [Sabah.personal](../../../../_personal/geo/Continent/Asia/Sabah.personal.md) 
-- [Sabah.secret](../../../../_secret/geo/Continent/Asia/Sabah.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Temperature+Local_quality-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Local_quality-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Local_quality-Difficulty.md) 
-- [Triz-Temperature+Local_quality-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Difficulty.internal.md) 
-- [Triz-Temperature+Local_quality-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Local_quality-Difficulty.protect.md) 
-- [Triz-Temperature+Local_quality-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Local_quality-Difficulty.private.md) 
-- [Triz-Temperature+Local_quality-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Local_quality-Difficulty.personal.md) 
-- [Triz-Temperature+Local_quality-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Local_quality-Difficulty.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-moving_Length+Asymmetry-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Asymmetry-Intensity](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.md) 
-- [Triz-moving_Length+Asymmetry-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.internal.md) 
-- [Triz-moving_Length+Asymmetry-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.protect.md) 
-- [Triz-moving_Length+Asymmetry-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.private.md) 
-- [Triz-moving_Length+Asymmetry-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.personal.md) 
-- [Triz-moving_Length+Asymmetry-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Intensity.secret.md) 

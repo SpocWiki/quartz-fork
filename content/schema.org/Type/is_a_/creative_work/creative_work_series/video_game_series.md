@@ -43,10 +43,3 @@ A video game series.
 
 
 
-## Confidential Links & Embeds: 
-- [video_game_series](../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.md) 
-- [video_game_series.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.internal.md) 
-- [video_game_series.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.protect.md) 
-- [video_game_series.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.private.md) 
-- [video_game_series.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.personal.md) 
-- [video_game_series.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.secret.md) 

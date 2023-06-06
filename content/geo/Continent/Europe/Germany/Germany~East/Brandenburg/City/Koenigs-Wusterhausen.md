@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenigs-Wusterhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.md) 
-- [Koenigs-Wusterhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.internal.md) 
-- [Koenigs-Wusterhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.protect.md) 
-- [Koenigs-Wusterhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.private.md) 
-- [Koenigs-Wusterhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.personal.md) 
-- [Koenigs-Wusterhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Koenigs-Wusterhausen.secret.md) 

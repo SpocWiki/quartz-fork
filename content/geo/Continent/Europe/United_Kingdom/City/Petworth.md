@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Petworth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Petworth.md) 
-- [Petworth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Petworth.internal.md) 
-- [Petworth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Petworth.protect.md) 
-- [Petworth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Petworth.private.md) 
-- [Petworth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Petworth.personal.md) 
-- [Petworth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Petworth.secret.md) 

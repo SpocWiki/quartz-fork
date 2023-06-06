@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ragusa=Dubrovnik](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.md) 
-- [Ragusa=Dubrovnik.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.internal.md) 
-- [Ragusa=Dubrovnik.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.protect.md) 
-- [Ragusa=Dubrovnik.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.private.md) 
-- [Ragusa=Dubrovnik.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.personal.md) 
-- [Ragusa=Dubrovnik.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Ragusa=Dubrovnik.secret.md) 

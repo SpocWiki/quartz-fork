@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_paying_cash_back](../../../../_public/schema.org/Predicate/Flags/is_paying_cash_back.md) 
-- [is_paying_cash_back.internal](../../../../_internal/schema.org/Predicate/Flags/is_paying_cash_back.internal.md) 
-- [is_paying_cash_back.protect](../../../../_protect/schema.org/Predicate/Flags/is_paying_cash_back.protect.md) 
-- [is_paying_cash_back.private](../../../../_private/schema.org/Predicate/Flags/is_paying_cash_back.private.md) 
-- [is_paying_cash_back.personal](../../../../_personal/schema.org/Predicate/Flags/is_paying_cash_back.personal.md) 
-- [is_paying_cash_back.secret](../../../../_secret/schema.org/Predicate/Flags/is_paying_cash_back.secret.md) 

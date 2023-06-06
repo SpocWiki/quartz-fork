@@ -43,10 +43,3 @@ The act of being defeated in a competitive activity.
 
 
 
-## Confidential Links & Embeds: 
-- [lose_action](../../../../../../_public/schema.org/Type/is_a_/action/achieve_action/lose_action.md) 
-- [lose_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/achieve_action/lose_action.internal.md) 
-- [lose_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/achieve_action/lose_action.protect.md) 
-- [lose_action.private](../../../../../../_private/schema.org/Type/is_a_/action/achieve_action/lose_action.private.md) 
-- [lose_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/achieve_action/lose_action.personal.md) 
-- [lose_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/achieve_action/lose_action.secret.md) 

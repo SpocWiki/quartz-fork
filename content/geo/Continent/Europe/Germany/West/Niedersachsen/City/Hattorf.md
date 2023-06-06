@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hattorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.md) 
-- [Hattorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.internal.md) 
-- [Hattorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.protect.md) 
-- [Hattorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.private.md) 
-- [Hattorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.personal.md) 
-- [Hattorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hattorf.secret.md) 

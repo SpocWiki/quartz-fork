@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Raahede](../../../../../../_public/geo/Continent/Europe/Denmark/City/Raahede.md) 
-- [Raahede.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Raahede.internal.md) 
-- [Raahede.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Raahede.protect.md) 
-- [Raahede.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Raahede.private.md) 
-- [Raahede.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Raahede.personal.md) 
-- [Raahede.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Raahede.secret.md) 

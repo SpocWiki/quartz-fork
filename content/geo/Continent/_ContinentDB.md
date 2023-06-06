@@ -223,10 +223,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_ContinentDB](../../../_public/geo/Continent/_ContinentDB.md) 
-- [_ContinentDB.internal](../../../_internal/geo/Continent/_ContinentDB.internal.md) 
-- [_ContinentDB.protect](../../../_protect/geo/Continent/_ContinentDB.protect.md) 
-- [_ContinentDB.private](../../../_private/geo/Continent/_ContinentDB.private.md) 
-- [_ContinentDB.personal](../../../_personal/geo/Continent/_ContinentDB.personal.md) 
-- [_ContinentDB.secret](../../../_secret/geo/Continent/_ContinentDB.secret.md) 

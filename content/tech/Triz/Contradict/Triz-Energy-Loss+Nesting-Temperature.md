@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Nesting-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Nesting-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.md) 
-- [Triz-Energy-Loss+Nesting-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.internal.md) 
-- [Triz-Energy-Loss+Nesting-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.protect.md) 
-- [Triz-Energy-Loss+Nesting-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.private.md) 
-- [Triz-Energy-Loss+Nesting-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.personal.md) 
-- [Triz-Energy-Loss+Nesting-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Temperature.secret.md) 

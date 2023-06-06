@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bargtheide](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bargtheide.md) 
-- [Bargtheide.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bargtheide.internal.md) 
-- [Bargtheide.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bargtheide.protect.md) 
-- [Bargtheide.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bargtheide.private.md) 
-- [Bargtheide.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bargtheide.personal.md) 
-- [Bargtheide.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bargtheide.secret.md) 

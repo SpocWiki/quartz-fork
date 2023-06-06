@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Horologii-49](../../../_public/astro/Star/Horologii-49.md) 
-- [Horologii-49.internal](../../../_internal/astro/Star/Horologii-49.internal.md) 
-- [Horologii-49.protect](../../../_protect/astro/Star/Horologii-49.protect.md) 
-- [Horologii-49.private](../../../_private/astro/Star/Horologii-49.private.md) 
-- [Horologii-49.personal](../../../_personal/astro/Star/Horologii-49.personal.md) 
-- [Horologii-49.secret](../../../_secret/astro/Star/Horologii-49.secret.md)
-

@@ -125,7 +125,7 @@ markerFolder: ./Switzerland/City
 
 ![350](geo/Continent/Europe/Switzerland/Coat_of_arms_of_Switzerland.svg)
 
-![Anthem-Switzerland](xLarge/National-Anthem/Anthem-Switzerland.mp3)
+[Anthem-Switzerland](xLarge/National-Anthem/Anthem-Switzerland.mp3)
 
 ![350](geo/Continent/Europe/Switzerland/Flag_of_Switzerland.svg)
 [Alcohol-l::11.1]
@@ -135,10 +135,3 @@ markerFolder: ./Switzerland/City
 
 
 
-## Confidential Links & Embeds: 
-- [Switzerland](../../../../_public/geo/Continent/Europe/Switzerland.md) 
-- [Switzerland.internal](../../../../_internal/geo/Continent/Europe/Switzerland.internal.md) 
-- [Switzerland.protect](../../../../_protect/geo/Continent/Europe/Switzerland.protect.md) 
-- [Switzerland.private](../../../../_private/geo/Continent/Europe/Switzerland.private.md) 
-- [Switzerland.personal](../../../../_personal/geo/Continent/Europe/Switzerland.personal.md) 
-- [Switzerland.secret](../../../../_secret/geo/Continent/Europe/Switzerland.secret.md) 

@@ -45,10 +45,3 @@ A body of water, such as a sea, ocean, or lake.
 
 
 
-## Confidential Links & Embeds: 
-- [body_of_water](../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water.md) 
-- [body_of_water.internal](../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water.internal.md) 
-- [body_of_water.protect](../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water.protect.md) 
-- [body_of_water.private](../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water.private.md) 
-- [body_of_water.personal](../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water.personal.md) 
-- [body_of_water.secret](../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water.secret.md) 

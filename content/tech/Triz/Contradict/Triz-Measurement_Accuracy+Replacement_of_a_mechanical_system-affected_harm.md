@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_har
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.md) 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.internal.md) 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.protect.md) 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.private.md) 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.personal.md) 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-affected_harm.secret.md) 

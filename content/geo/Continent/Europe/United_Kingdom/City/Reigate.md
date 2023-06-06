@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reigate](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Reigate.md) 
-- [Reigate.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Reigate.internal.md) 
-- [Reigate.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Reigate.protect.md) 
-- [Reigate.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Reigate.private.md) 
-- [Reigate.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Reigate.personal.md) 
-- [Reigate.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Reigate.secret.md) 

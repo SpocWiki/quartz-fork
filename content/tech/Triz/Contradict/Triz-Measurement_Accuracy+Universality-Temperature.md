@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Universality-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Universality-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.md) 
-- [Triz-Measurement_Accuracy+Universality-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.internal.md) 
-- [Triz-Measurement_Accuracy+Universality-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.protect.md) 
-- [Triz-Measurement_Accuracy+Universality-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.private.md) 
-- [Triz-Measurement_Accuracy+Universality-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.personal.md) 
-- [Triz-Measurement_Accuracy+Universality-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Temperature.secret.md) 

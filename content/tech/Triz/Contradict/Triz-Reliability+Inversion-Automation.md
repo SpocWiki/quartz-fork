@@ -19,10 +19,3 @@ title: Triz-Reliability+Inversion-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Inversion-Automation](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.md) 
-- [Triz-Reliability+Inversion-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.internal.md) 
-- [Triz-Reliability+Inversion-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.protect.md) 
-- [Triz-Reliability+Inversion-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.private.md) 
-- [Triz-Reliability+Inversion-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.personal.md) 
-- [Triz-Reliability+Inversion-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Inversion-Automation.secret.md) 

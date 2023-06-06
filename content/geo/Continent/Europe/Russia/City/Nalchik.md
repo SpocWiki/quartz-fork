@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nalchik](../../../../../../_public/geo/Continent/Europe/Russia/City/Nalchik.md) 
-- [Nalchik.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nalchik.internal.md) 
-- [Nalchik.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nalchik.protect.md) 
-- [Nalchik.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nalchik.private.md) 
-- [Nalchik.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nalchik.personal.md) 
-- [Nalchik.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nalchik.secret.md) 

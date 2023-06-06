@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Forst](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Forst.md) 
-- [Forst.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Forst.internal.md) 
-- [Forst.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Forst.protect.md) 
-- [Forst.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Forst.private.md) 
-- [Forst.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Forst.personal.md) 
-- [Forst.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Forst.secret.md) 

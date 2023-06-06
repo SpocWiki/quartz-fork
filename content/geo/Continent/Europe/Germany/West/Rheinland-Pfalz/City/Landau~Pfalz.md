@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landau~Pfalz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landau~Pfalz.md) 
-- [Landau~Pfalz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landau~Pfalz.internal.md) 
-- [Landau~Pfalz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landau~Pfalz.protect.md) 
-- [Landau~Pfalz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landau~Pfalz.private.md) 
-- [Landau~Pfalz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landau~Pfalz.personal.md) 
-- [Landau~Pfalz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landau~Pfalz.secret.md) 

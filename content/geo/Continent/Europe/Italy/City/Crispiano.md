@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Crispiano](../../../../../../_public/geo/Continent/Europe/Italy/City/Crispiano.md) 
-- [Crispiano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Crispiano.internal.md) 
-- [Crispiano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Crispiano.protect.md) 
-- [Crispiano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Crispiano.private.md) 
-- [Crispiano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Crispiano.personal.md) 
-- [Crispiano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Crispiano.secret.md) 

@@ -47,10 +47,3 @@ Body height (measured between crown of head and soles of feet). Used, for exampl
 
 
 
-## Confidential Links & Embeds: 
-- [body_measurement_height](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.md) 
-- [body_measurement_height.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.internal.md) 
-- [body_measurement_height.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.protect.md) 
-- [body_measurement_height.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.private.md) 
-- [body_measurement_height.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.personal.md) 
-- [body_measurement_height.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.secret.md) 

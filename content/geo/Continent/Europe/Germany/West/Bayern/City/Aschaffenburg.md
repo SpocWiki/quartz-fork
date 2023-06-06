@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aschaffenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.md) 
-- [Aschaffenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.internal.md) 
-- [Aschaffenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.protect.md) 
-- [Aschaffenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.private.md) 
-- [Aschaffenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.personal.md) 
-- [Aschaffenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Aschaffenburg.secret.md) 

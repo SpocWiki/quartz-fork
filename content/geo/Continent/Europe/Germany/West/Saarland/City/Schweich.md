@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schweich](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Schweich.md) 
-- [Schweich.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Schweich.internal.md) 
-- [Schweich.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Schweich.protect.md) 
-- [Schweich.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Schweich.private.md) 
-- [Schweich.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Schweich.personal.md) 
-- [Schweich.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Schweich.secret.md) 

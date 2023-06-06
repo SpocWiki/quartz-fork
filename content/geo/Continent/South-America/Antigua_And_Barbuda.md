@@ -36,10 +36,3 @@ markerFolder: ./Antigua_And_Barbuda/City
 
 
 
-## Confidential Links & Embeds: 
-- [Antigua_And_Barbuda](../../../../_public/geo/Continent/South-America/Antigua_And_Barbuda.md) 
-- [Antigua_And_Barbuda.internal](../../../../_internal/geo/Continent/South-America/Antigua_And_Barbuda.internal.md) 
-- [Antigua_And_Barbuda.protect](../../../../_protect/geo/Continent/South-America/Antigua_And_Barbuda.protect.md) 
-- [Antigua_And_Barbuda.private](../../../../_private/geo/Continent/South-America/Antigua_And_Barbuda.private.md) 
-- [Antigua_And_Barbuda.personal](../../../../_personal/geo/Continent/South-America/Antigua_And_Barbuda.personal.md) 
-- [Antigua_And_Barbuda.secret](../../../../_secret/geo/Continent/South-America/Antigua_And_Barbuda.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Troki](../../../../../../_public/geo/Continent/Europe/Russia/City/Troki.md) 
-- [Troki.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Troki.internal.md) 
-- [Troki.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Troki.protect.md) 
-- [Troki.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Troki.private.md) 
-- [Troki.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Troki.personal.md) 
-- [Troki.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Troki.secret.md) 

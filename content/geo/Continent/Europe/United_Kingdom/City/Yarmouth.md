@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yarmouth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Yarmouth.md) 
-- [Yarmouth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Yarmouth.internal.md) 
-- [Yarmouth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Yarmouth.protect.md) 
-- [Yarmouth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Yarmouth.private.md) 
-- [Yarmouth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Yarmouth.personal.md) 
-- [Yarmouth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Yarmouth.secret.md) 

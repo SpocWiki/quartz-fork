@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zagreb](../../../../../../_public/geo/Continent/Europe/Croatia/City/Zagreb.md) 
-- [Zagreb.internal](../../../../../../_internal/geo/Continent/Europe/Croatia/City/Zagreb.internal.md) 
-- [Zagreb.protect](../../../../../../_protect/geo/Continent/Europe/Croatia/City/Zagreb.protect.md) 
-- [Zagreb.private](../../../../../../_private/geo/Continent/Europe/Croatia/City/Zagreb.private.md) 
-- [Zagreb.personal](../../../../../../_personal/geo/Continent/Europe/Croatia/City/Zagreb.personal.md) 
-- [Zagreb.secret](../../../../../../_secret/geo/Continent/Europe/Croatia/City/Zagreb.secret.md) 

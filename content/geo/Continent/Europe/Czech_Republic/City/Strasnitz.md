@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strasnitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Strasnitz.md) 
-- [Strasnitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Strasnitz.internal.md) 
-- [Strasnitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Strasnitz.protect.md) 
-- [Strasnitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Strasnitz.private.md) 
-- [Strasnitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Strasnitz.personal.md) 
-- [Strasnitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Strasnitz.secret.md) 

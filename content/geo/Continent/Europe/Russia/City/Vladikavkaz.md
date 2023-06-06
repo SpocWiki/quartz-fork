@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vladikavkaz](../../../../../../_public/geo/Continent/Europe/Russia/City/Vladikavkaz.md) 
-- [Vladikavkaz.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vladikavkaz.internal.md) 
-- [Vladikavkaz.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vladikavkaz.protect.md) 
-- [Vladikavkaz.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vladikavkaz.private.md) 
-- [Vladikavkaz.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vladikavkaz.personal.md) 
-- [Vladikavkaz.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vladikavkaz.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Cushion_in_advance-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Stability](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.md) 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.internal.md) 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.protect.md) 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.private.md) 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.personal.md) 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Stability.secret.md) 

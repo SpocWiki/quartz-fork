@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liebenwerda](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwerda.md) 
-- [Liebenwerda.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwerda.internal.md) 
-- [Liebenwerda.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwerda.protect.md) 
-- [Liebenwerda.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwerda.private.md) 
-- [Liebenwerda.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwerda.personal.md) 
-- [Liebenwerda.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwerda.secret.md) 

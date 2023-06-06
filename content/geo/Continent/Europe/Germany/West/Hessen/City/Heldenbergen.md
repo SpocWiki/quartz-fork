@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heldenbergen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.md) 
-- [Heldenbergen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.internal.md) 
-- [Heldenbergen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.protect.md) 
-- [Heldenbergen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.private.md) 
-- [Heldenbergen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.personal.md) 
-- [Heldenbergen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Heldenbergen.secret.md) 

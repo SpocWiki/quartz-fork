@@ -39,10 +39,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alabama](../../../../../_public/geo/Continent/North-America/United_States_of_America/Alabama.md) 
-- [Alabama.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Alabama.internal.md) 
-- [Alabama.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Alabama.protect.md) 
-- [Alabama.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Alabama.private.md) 
-- [Alabama.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Alabama.personal.md) 
-- [Alabama.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Alabama.secret.md) 

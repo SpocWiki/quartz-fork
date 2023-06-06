@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gyoma](../../../../../../_public/geo/Continent/Europe/Hungary/City/Gyoma.md) 
-- [Gyoma.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Gyoma.internal.md) 
-- [Gyoma.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Gyoma.protect.md) 
-- [Gyoma.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Gyoma.private.md) 
-- [Gyoma.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Gyoma.personal.md) 
-- [Gyoma.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Gyoma.secret.md) 

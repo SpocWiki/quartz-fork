@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gorno-Altaysk](../../../../../../_public/geo/Continent/Europe/Russia/City/Gorno-Altaysk.md) 
-- [Gorno-Altaysk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Gorno-Altaysk.internal.md) 
-- [Gorno-Altaysk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Gorno-Altaysk.protect.md) 
-- [Gorno-Altaysk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Gorno-Altaysk.private.md) 
-- [Gorno-Altaysk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Gorno-Altaysk.personal.md) 
-- [Gorno-Altaysk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Gorno-Altaysk.secret.md) 

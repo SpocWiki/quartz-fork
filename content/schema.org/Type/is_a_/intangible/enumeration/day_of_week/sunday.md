@@ -45,10 +45,3 @@ The day of the week between Saturday and Monday.
 
 
 
-## Confidential Links & Embeds: 
-- [sunday](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week/sunday.md) 
-- [sunday.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/sunday.internal.md) 
-- [sunday.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week/sunday.protect.md) 
-- [sunday.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week/sunday.private.md) 
-- [sunday.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/sunday.personal.md) 
-- [sunday.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week/sunday.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nordholz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.md) 
-- [Nordholz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.internal.md) 
-- [Nordholz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.protect.md) 
-- [Nordholz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.private.md) 
-- [Nordholz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.personal.md) 
-- [Nordholz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordholz.secret.md) 

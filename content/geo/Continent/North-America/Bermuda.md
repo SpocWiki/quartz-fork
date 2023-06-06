@@ -124,10 +124,3 @@ markerFolder: ./Bermuda/City
 
 
 
-## Confidential Links & Embeds: 
-- [Bermuda](../../../../_public/geo/Continent/North-America/Bermuda.md) 
-- [Bermuda.internal](../../../../_internal/geo/Continent/North-America/Bermuda.internal.md) 
-- [Bermuda.protect](../../../../_protect/geo/Continent/North-America/Bermuda.protect.md) 
-- [Bermuda.private](../../../../_private/geo/Continent/North-America/Bermuda.private.md) 
-- [Bermuda.personal](../../../../_personal/geo/Continent/North-America/Bermuda.personal.md) 
-- [Bermuda.secret](../../../../_secret/geo/Continent/North-America/Bermuda.secret.md) 

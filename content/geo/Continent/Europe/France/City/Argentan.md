@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Argentan](../../../../../../_public/geo/Continent/Europe/France/City/Argentan.md) 
-- [Argentan.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Argentan.internal.md) 
-- [Argentan.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Argentan.protect.md) 
-- [Argentan.private](../../../../../../_private/geo/Continent/Europe/France/City/Argentan.private.md) 
-- [Argentan.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Argentan.personal.md) 
-- [Argentan.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Argentan.secret.md) 

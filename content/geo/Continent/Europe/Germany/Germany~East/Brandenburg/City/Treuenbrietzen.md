@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Treuenbrietzen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.md) 
-- [Treuenbrietzen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.internal.md) 
-- [Treuenbrietzen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.protect.md) 
-- [Treuenbrietzen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.private.md) 
-- [Treuenbrietzen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.personal.md) 
-- [Treuenbrietzen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Treuenbrietzen.secret.md) 

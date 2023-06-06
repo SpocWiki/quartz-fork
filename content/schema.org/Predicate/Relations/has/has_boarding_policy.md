@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_boarding_policy](../../../../../_public/schema.org/Predicate/Relations/has/has_boarding_policy.md) 
-- [has_boarding_policy.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_boarding_policy.internal.md) 
-- [has_boarding_policy.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_boarding_policy.protect.md) 
-- [has_boarding_policy.private](../../../../../_private/schema.org/Predicate/Relations/has/has_boarding_policy.private.md) 
-- [has_boarding_policy.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_boarding_policy.personal.md) 
-- [has_boarding_policy.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_boarding_policy.secret.md) 

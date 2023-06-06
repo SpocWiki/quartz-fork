@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hierro](../../../../../../_public/geo/Continent/Europe/Spain/City/Hierro.md) 
-- [Hierro.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Hierro.internal.md) 
-- [Hierro.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Hierro.protect.md) 
-- [Hierro.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Hierro.private.md) 
-- [Hierro.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Hierro.personal.md) 
-- [Hierro.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Hierro.secret.md) 

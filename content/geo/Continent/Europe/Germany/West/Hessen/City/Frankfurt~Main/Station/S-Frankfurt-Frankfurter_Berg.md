@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Frankfurt-Frankfurter_Berg](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Frankfurter_Berg.md) 
-- [S-Frankfurt-Frankfurter_Berg.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Frankfurter_Berg.internal.md) 
-- [S-Frankfurt-Frankfurter_Berg.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Frankfurter_Berg.protect.md) 
-- [S-Frankfurt-Frankfurter_Berg.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Frankfurter_Berg.private.md) 
-- [S-Frankfurt-Frankfurter_Berg.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Frankfurter_Berg.personal.md) 
-- [S-Frankfurt-Frankfurter_Berg.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt-Frankfurter_Berg.secret.md) 

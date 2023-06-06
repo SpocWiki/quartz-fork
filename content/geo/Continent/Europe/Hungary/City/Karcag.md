@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karcag](../../../../../../_public/geo/Continent/Europe/Hungary/City/Karcag.md) 
-- [Karcag.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Karcag.internal.md) 
-- [Karcag.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Karcag.protect.md) 
-- [Karcag.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Karcag.private.md) 
-- [Karcag.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Karcag.personal.md) 
-- [Karcag.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Karcag.secret.md) 

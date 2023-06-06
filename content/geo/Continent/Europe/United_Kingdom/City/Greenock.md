@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Greenock](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Greenock.md) 
-- [Greenock.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Greenock.internal.md) 
-- [Greenock.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Greenock.protect.md) 
-- [Greenock.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Greenock.private.md) 
-- [Greenock.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Greenock.personal.md) 
-- [Greenock.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Greenock.secret.md) 

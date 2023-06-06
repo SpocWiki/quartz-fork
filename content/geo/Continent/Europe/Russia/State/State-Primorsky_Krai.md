@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Primorsky_Krai](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Primorsky_Krai.md) 
-- [State-Primorsky_Krai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Primorsky_Krai.internal.md) 
-- [State-Primorsky_Krai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Primorsky_Krai.protect.md) 
-- [State-Primorsky_Krai.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Primorsky_Krai.private.md) 
-- [State-Primorsky_Krai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Primorsky_Krai.personal.md) 
-- [State-Primorsky_Krai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Primorsky_Krai.secret.md) 

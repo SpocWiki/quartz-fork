@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Regulus](../../../_public/astro/Star/Regulus.md) 
-- [Regulus.internal](../../../_internal/astro/Star/Regulus.internal.md) 
-- [Regulus.protect](../../../_protect/astro/Star/Regulus.protect.md) 
-- [Regulus.private](../../../_private/astro/Star/Regulus.private.md) 
-- [Regulus.personal](../../../_personal/astro/Star/Regulus.personal.md) 
-- [Regulus.secret](../../../_secret/astro/Star/Regulus.secret.md) 

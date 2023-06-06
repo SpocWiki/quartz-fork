@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marggrabowa](../../../../../../_public/geo/Continent/Europe/Poland/City/Marggrabowa.md) 
-- [Marggrabowa.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Marggrabowa.internal.md) 
-- [Marggrabowa.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Marggrabowa.protect.md) 
-- [Marggrabowa.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Marggrabowa.private.md) 
-- [Marggrabowa.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Marggrabowa.personal.md) 
-- [Marggrabowa.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Marggrabowa.secret.md) 

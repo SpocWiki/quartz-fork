@@ -37,10 +37,3 @@ title: Nobelium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nobelium)
 
-## Confidential Links & Embeds: 
-- [Nobelium](../../../../_public/chemic/Elements/Lanthanide-Group/Nobelium.md) 
-- [Nobelium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Nobelium.internal.md) 
-- [Nobelium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Nobelium.protect.md) 
-- [Nobelium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Nobelium.private.md) 
-- [Nobelium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Nobelium.personal.md) 
-- [Nobelium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Nobelium.secret.md) 

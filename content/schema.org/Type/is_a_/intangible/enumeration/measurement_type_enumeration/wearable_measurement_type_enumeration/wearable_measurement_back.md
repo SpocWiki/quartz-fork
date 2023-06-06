@@ -47,10 +47,3 @@ Measurement of the back section, for example of a jacket
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_measurement_back](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.md) 
-- [wearable_measurement_back.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.internal.md) 
-- [wearable_measurement_back.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.protect.md) 
-- [wearable_measurement_back.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.private.md) 
-- [wearable_measurement_back.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.personal.md) 
-- [wearable_measurement_back.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_back.secret.md) 

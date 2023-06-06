@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Deschney](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Deschney.md) 
-- [Deschney.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Deschney.internal.md) 
-- [Deschney.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Deschney.protect.md) 
-- [Deschney.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Deschney.private.md) 
-- [Deschney.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Deschney.personal.md) 
-- [Deschney.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Deschney.secret.md) 

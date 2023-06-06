@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neuburg.md) 
-- [Neuburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neuburg.internal.md) 
-- [Neuburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neuburg.protect.md) 
-- [Neuburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neuburg.private.md) 
-- [Neuburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neuburg.personal.md) 
-- [Neuburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neuburg.secret.md) 

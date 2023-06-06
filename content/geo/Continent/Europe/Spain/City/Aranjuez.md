@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aranjuez](../../../../../../_public/geo/Continent/Europe/Spain/City/Aranjuez.md) 
-- [Aranjuez.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Aranjuez.internal.md) 
-- [Aranjuez.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Aranjuez.protect.md) 
-- [Aranjuez.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Aranjuez.private.md) 
-- [Aranjuez.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Aranjuez.personal.md) 
-- [Aranjuez.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Aranjuez.secret.md) 

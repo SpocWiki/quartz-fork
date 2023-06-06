@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ramsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ramsdorf.md) 
-- [Ramsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ramsdorf.internal.md) 
-- [Ramsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ramsdorf.protect.md) 
-- [Ramsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ramsdorf.private.md) 
-- [Ramsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ramsdorf.personal.md) 
-- [Ramsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ramsdorf.secret.md) 

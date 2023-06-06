@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Mill_Hill_East](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.md) 
-- [Sub-Mill_Hill_East.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.internal.md) 
-- [Sub-Mill_Hill_East.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.protect.md) 
-- [Sub-Mill_Hill_East.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.private.md) 
-- [Sub-Mill_Hill_East.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.personal.md) 
-- [Sub-Mill_Hill_East.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mill_Hill_East.secret.md) 

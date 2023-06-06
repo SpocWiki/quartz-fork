@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wemding](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wemding.md) 
-- [Wemding.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wemding.internal.md) 
-- [Wemding.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wemding.protect.md) 
-- [Wemding.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wemding.private.md) 
-- [Wemding.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wemding.personal.md) 
-- [Wemding.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wemding.secret.md) 

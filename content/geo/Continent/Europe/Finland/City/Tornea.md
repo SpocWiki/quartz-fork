@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tornea](../../../../../../_public/geo/Continent/Europe/Finland/City/Tornea.md) 
-- [Tornea.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Tornea.internal.md) 
-- [Tornea.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Tornea.protect.md) 
-- [Tornea.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Tornea.private.md) 
-- [Tornea.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Tornea.personal.md) 
-- [Tornea.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Tornea.secret.md) 

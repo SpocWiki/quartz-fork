@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langres](../../../../../../_public/geo/Continent/Europe/France/City/Langres.md) 
-- [Langres.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Langres.internal.md) 
-- [Langres.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Langres.protect.md) 
-- [Langres.private](../../../../../../_private/geo/Continent/Europe/France/City/Langres.private.md) 
-- [Langres.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Langres.personal.md) 
-- [Langres.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Langres.secret.md) 

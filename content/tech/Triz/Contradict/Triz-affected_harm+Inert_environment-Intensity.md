@@ -19,10 +19,3 @@ title: Triz-affected_harm+Inert_environment-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Inert_environment-Intensity](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-Intensity.md) 
-- [Triz-affected_harm+Inert_environment-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-Intensity.internal.md) 
-- [Triz-affected_harm+Inert_environment-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-Intensity.protect.md) 
-- [Triz-affected_harm+Inert_environment-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-Intensity.private.md) 
-- [Triz-affected_harm+Inert_environment-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-Intensity.personal.md) 
-- [Triz-affected_harm+Inert_environment-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-Intensity.secret.md) 

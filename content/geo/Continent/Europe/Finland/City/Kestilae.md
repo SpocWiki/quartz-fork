@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kestilae](../../../../../../_public/geo/Continent/Europe/Finland/City/Kestilae.md) 
-- [Kestilae.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kestilae.internal.md) 
-- [Kestilae.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kestilae.protect.md) 
-- [Kestilae.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kestilae.private.md) 
-- [Kestilae.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kestilae.personal.md) 
-- [Kestilae.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kestilae.secret.md) 

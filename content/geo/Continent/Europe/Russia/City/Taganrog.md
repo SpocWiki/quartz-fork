@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taganrog](../../../../../../_public/geo/Continent/Europe/Russia/City/Taganrog.md) 
-- [Taganrog.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Taganrog.internal.md) 
-- [Taganrog.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Taganrog.protect.md) 
-- [Taganrog.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Taganrog.private.md) 
-- [Taganrog.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Taganrog.personal.md) 
-- [Taganrog.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Taganrog.secret.md) 

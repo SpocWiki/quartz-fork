@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Odense](../../../../../../_public/geo/Continent/Europe/Denmark/City/Odense.md) 
-- [Odense.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Odense.internal.md) 
-- [Odense.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Odense.protect.md) 
-- [Odense.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Odense.private.md) 
-- [Odense.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Odense.personal.md) 
-- [Odense.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Odense.secret.md) 

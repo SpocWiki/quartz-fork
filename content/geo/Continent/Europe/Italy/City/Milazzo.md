@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Milazzo](../../../../../../_public/geo/Continent/Europe/Italy/City/Milazzo.md) 
-- [Milazzo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Milazzo.internal.md) 
-- [Milazzo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Milazzo.protect.md) 
-- [Milazzo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Milazzo.private.md) 
-- [Milazzo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Milazzo.personal.md) 
-- [Milazzo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Milazzo.secret.md) 

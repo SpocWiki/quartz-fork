@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenigsbach~Pfalz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koenigsbach~Pfalz.md) 
-- [Koenigsbach~Pfalz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koenigsbach~Pfalz.internal.md) 
-- [Koenigsbach~Pfalz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koenigsbach~Pfalz.protect.md) 
-- [Koenigsbach~Pfalz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koenigsbach~Pfalz.private.md) 
-- [Koenigsbach~Pfalz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koenigsbach~Pfalz.personal.md) 
-- [Koenigsbach~Pfalz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Koenigsbach~Pfalz.secret.md) 

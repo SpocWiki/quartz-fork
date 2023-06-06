@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_account_minimum_inflow](../../../../_public/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.md) 
-- [has_value_for_account_minimum_inflow.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.internal.md) 
-- [has_value_for_account_minimum_inflow.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.protect.md) 
-- [has_value_for_account_minimum_inflow.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.private.md) 
-- [has_value_for_account_minimum_inflow.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.personal.md) 
-- [has_value_for_account_minimum_inflow.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_account_minimum_inflow.secret.md) 

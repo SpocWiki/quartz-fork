@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heidenheim~Wuerttemberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.md) 
-- [Heidenheim~Wuerttemberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.internal.md) 
-- [Heidenheim~Wuerttemberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.protect.md) 
-- [Heidenheim~Wuerttemberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.private.md) 
-- [Heidenheim~Wuerttemberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.personal.md) 
-- [Heidenheim~Wuerttemberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Heidenheim~Wuerttemberg.secret.md) 

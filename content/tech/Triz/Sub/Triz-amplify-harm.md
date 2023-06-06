@@ -18,10 +18,3 @@ title: Triz-amplify-harm
 Amplify a harmful factor to such a degree that it is no longer harmful.
 
 
-## Confidential Links & Embeds: 
-- [Triz-amplify-harm](../../../../_public/tech/Triz/Sub/Triz-amplify-harm.md) 
-- [Triz-amplify-harm.internal](../../../../_internal/tech/Triz/Sub/Triz-amplify-harm.internal.md) 
-- [Triz-amplify-harm.protect](../../../../_protect/tech/Triz/Sub/Triz-amplify-harm.protect.md) 
-- [Triz-amplify-harm.private](../../../../_private/tech/Triz/Sub/Triz-amplify-harm.private.md) 
-- [Triz-amplify-harm.personal](../../../../_personal/tech/Triz/Sub/Triz-amplify-harm.personal.md) 
-- [Triz-amplify-harm.secret](../../../../_secret/tech/Triz/Sub/Triz-amplify-harm.secret.md) 

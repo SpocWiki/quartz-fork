@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Iqualuit](../../../../../../_public/geo/Continent/North-America/Canada/City/Iqualuit.md) 
-- [Iqualuit.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Iqualuit.internal.md) 
-- [Iqualuit.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Iqualuit.protect.md) 
-- [Iqualuit.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Iqualuit.private.md) 
-- [Iqualuit.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Iqualuit.personal.md) 
-- [Iqualuit.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Iqualuit.secret.md) 

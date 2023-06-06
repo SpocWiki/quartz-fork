@@ -54,10 +54,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_engine_power_watt](../../../../_public/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.md) 
-- [has_value_for_engine_power_watt.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.internal.md) 
-- [has_value_for_engine_power_watt.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.protect.md) 
-- [has_value_for_engine_power_watt.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.private.md) 
-- [has_value_for_engine_power_watt.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.personal.md) 
-- [has_value_for_engine_power_watt.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.secret.md) 

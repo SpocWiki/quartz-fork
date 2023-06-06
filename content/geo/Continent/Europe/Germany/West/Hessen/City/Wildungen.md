@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wildungen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Wildungen.md) 
-- [Wildungen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wildungen.internal.md) 
-- [Wildungen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wildungen.protect.md) 
-- [Wildungen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wildungen.private.md) 
-- [Wildungen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wildungen.personal.md) 
-- [Wildungen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wildungen.secret.md) 

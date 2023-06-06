@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Melitopol](../../../../../../_public/geo/Continent/Europe/Russia/City/Melitopol.md) 
-- [Melitopol.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Melitopol.internal.md) 
-- [Melitopol.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Melitopol.protect.md) 
-- [Melitopol.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Melitopol.private.md) 
-- [Melitopol.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Melitopol.personal.md) 
-- [Melitopol.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Melitopol.secret.md) 

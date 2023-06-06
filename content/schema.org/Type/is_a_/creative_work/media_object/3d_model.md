@@ -46,10 +46,3 @@ case of a single file published after Zip compression, the convention of appendi
 
 
 
-## Confidential Links & Embeds: 
-- [3d_model](../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/3d_model.md) 
-- [3d_model.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/3d_model.internal.md) 
-- [3d_model.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/3d_model.protect.md) 
-- [3d_model.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/3d_model.private.md) 
-- [3d_model.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/3d_model.personal.md) 
-- [3d_model.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/3d_model.secret.md) 

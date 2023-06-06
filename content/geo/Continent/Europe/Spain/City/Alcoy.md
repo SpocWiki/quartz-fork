@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alcoy](../../../../../../_public/geo/Continent/Europe/Spain/City/Alcoy.md) 
-- [Alcoy.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Alcoy.internal.md) 
-- [Alcoy.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Alcoy.protect.md) 
-- [Alcoy.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Alcoy.private.md) 
-- [Alcoy.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Alcoy.personal.md) 
-- [Alcoy.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Alcoy.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Labes](../../../../../../_public/geo/Continent/Europe/Poland/City/Labes.md) 
-- [Labes.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Labes.internal.md) 
-- [Labes.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Labes.protect.md) 
-- [Labes.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Labes.private.md) 
-- [Labes.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Labes.personal.md) 
-- [Labes.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Labes.secret.md) 

@@ -45,10 +45,3 @@ A facility, often associated with a hospital or medical school, that is devoted 
 
 
 
-## Confidential Links & Embeds: 
-- [medical_clinic](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic.md) 
-- [medical_clinic.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic.internal.md) 
-- [medical_clinic.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic.protect.md) 
-- [medical_clinic.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic.private.md) 
-- [medical_clinic.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic.personal.md) 
-- [medical_clinic.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic.secret.md) 

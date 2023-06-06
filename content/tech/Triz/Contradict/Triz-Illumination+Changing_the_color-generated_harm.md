@@ -19,10 +19,3 @@ title: Triz-Illumination+Changing_the_color-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Changing_the_color-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-generated_harm.md) 
-- [Triz-Illumination+Changing_the_color-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-generated_harm.internal.md) 
-- [Triz-Illumination+Changing_the_color-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-generated_harm.protect.md) 
-- [Triz-Illumination+Changing_the_color-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-generated_harm.private.md) 
-- [Triz-Illumination+Changing_the_color-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-generated_harm.personal.md) 
-- [Triz-Illumination+Changing_the_color-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-generated_harm.secret.md) 

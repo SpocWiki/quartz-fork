@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pienza](../../../../../../_public/geo/Continent/Europe/Italy/City/Pienza.md) 
-- [Pienza.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pienza.internal.md) 
-- [Pienza.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pienza.protect.md) 
-- [Pienza.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pienza.private.md) 
-- [Pienza.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pienza.personal.md) 
-- [Pienza.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pienza.secret.md) 

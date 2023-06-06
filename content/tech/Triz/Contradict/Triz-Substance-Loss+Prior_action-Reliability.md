@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Prior_action-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Prior_action-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.md) 
-- [Triz-Substance-Loss+Prior_action-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.internal.md) 
-- [Triz-Substance-Loss+Prior_action-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.protect.md) 
-- [Triz-Substance-Loss+Prior_action-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.private.md) 
-- [Triz-Substance-Loss+Prior_action-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.personal.md) 
-- [Triz-Substance-Loss+Prior_action-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Reliability.secret.md) 

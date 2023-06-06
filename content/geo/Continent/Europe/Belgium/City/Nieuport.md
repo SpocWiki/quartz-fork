@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nieuport](../../../../../../_public/geo/Continent/Europe/Belgium/City/Nieuport.md) 
-- [Nieuport.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Nieuport.internal.md) 
-- [Nieuport.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Nieuport.protect.md) 
-- [Nieuport.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Nieuport.private.md) 
-- [Nieuport.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Nieuport.personal.md) 
-- [Nieuport.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Nieuport.secret.md) 

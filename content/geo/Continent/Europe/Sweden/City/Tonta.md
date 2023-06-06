@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tonta](../../../../../../_public/geo/Continent/Europe/Sweden/City/Tonta.md) 
-- [Tonta.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Tonta.internal.md) 
-- [Tonta.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Tonta.protect.md) 
-- [Tonta.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Tonta.private.md) 
-- [Tonta.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Tonta.personal.md) 
-- [Tonta.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Tonta.secret.md) 

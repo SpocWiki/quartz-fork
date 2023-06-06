@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Albacete](../../../../../../_public/geo/Continent/Europe/Spain/City/Albacete.md) 
-- [Albacete.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Albacete.internal.md) 
-- [Albacete.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Albacete.protect.md) 
-- [Albacete.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Albacete.private.md) 
-- [Albacete.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Albacete.personal.md) 
-- [Albacete.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Albacete.secret.md) 

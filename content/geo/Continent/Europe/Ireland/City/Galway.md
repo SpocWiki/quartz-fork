@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Galway](../../../../../../_public/geo/Continent/Europe/Ireland/City/Galway.md) 
-- [Galway.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Galway.internal.md) 
-- [Galway.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Galway.protect.md) 
-- [Galway.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Galway.private.md) 
-- [Galway.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Galway.personal.md) 
-- [Galway.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Galway.secret.md) 

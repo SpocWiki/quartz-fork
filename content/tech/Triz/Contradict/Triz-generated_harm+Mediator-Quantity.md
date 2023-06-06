@@ -19,10 +19,3 @@ title: Triz-generated_harm+Mediator-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Mediator-Quantity](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.md) 
-- [Triz-generated_harm+Mediator-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.internal.md) 
-- [Triz-generated_harm+Mediator-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.protect.md) 
-- [Triz-generated_harm+Mediator-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.private.md) 
-- [Triz-generated_harm+Mediator-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.personal.md) 
-- [Triz-generated_harm+Mediator-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Mediator-Quantity.secret.md) 

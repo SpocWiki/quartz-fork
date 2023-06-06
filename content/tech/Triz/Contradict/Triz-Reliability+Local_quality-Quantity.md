@@ -19,10 +19,3 @@ title: Triz-Reliability+Local_quality-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Local_quality-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Local_quality-Quantity.md) 
-- [Triz-Reliability+Local_quality-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Local_quality-Quantity.internal.md) 
-- [Triz-Reliability+Local_quality-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Local_quality-Quantity.protect.md) 
-- [Triz-Reliability+Local_quality-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Local_quality-Quantity.private.md) 
-- [Triz-Reliability+Local_quality-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Local_quality-Quantity.personal.md) 
-- [Triz-Reliability+Local_quality-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Local_quality-Quantity.secret.md) 

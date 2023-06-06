@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Changing_the_color-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Changing_the_color-Speed](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Speed.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Speed.internal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Speed.protect.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Speed.private.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Speed.personal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Speed.secret.md) 

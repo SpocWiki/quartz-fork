@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nyiregyhaza](../../../../../../_public/geo/Continent/Europe/Hungary/City/Nyiregyhaza.md) 
-- [Nyiregyhaza.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nyiregyhaza.internal.md) 
-- [Nyiregyhaza.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nyiregyhaza.protect.md) 
-- [Nyiregyhaza.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Nyiregyhaza.private.md) 
-- [Nyiregyhaza.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nyiregyhaza.personal.md) 
-- [Nyiregyhaza.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nyiregyhaza.secret.md) 

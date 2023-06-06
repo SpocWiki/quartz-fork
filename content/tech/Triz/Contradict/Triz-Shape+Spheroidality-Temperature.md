@@ -19,10 +19,3 @@ title: Triz-Shape+Spheroidality-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Spheroidality-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.md) 
-- [Triz-Shape+Spheroidality-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.internal.md) 
-- [Triz-Shape+Spheroidality-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.protect.md) 
-- [Triz-Shape+Spheroidality-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.private.md) 
-- [Triz-Shape+Spheroidality-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.personal.md) 
-- [Triz-Shape+Spheroidality-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Spheroidality-Temperature.secret.md) 

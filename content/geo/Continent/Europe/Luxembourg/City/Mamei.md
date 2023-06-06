@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mamei](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Mamei.md) 
-- [Mamei.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Mamei.internal.md) 
-- [Mamei.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Mamei.protect.md) 
-- [Mamei.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Mamei.private.md) 
-- [Mamei.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Mamei.personal.md) 
-- [Mamei.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Mamei.secret.md) 

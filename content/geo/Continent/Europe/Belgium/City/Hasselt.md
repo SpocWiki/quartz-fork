@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hasselt](../../../../../../_public/geo/Continent/Europe/Belgium/City/Hasselt.md) 
-- [Hasselt.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Hasselt.internal.md) 
-- [Hasselt.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Hasselt.protect.md) 
-- [Hasselt.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Hasselt.private.md) 
-- [Hasselt.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Hasselt.personal.md) 
-- [Hasselt.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Hasselt.secret.md) 

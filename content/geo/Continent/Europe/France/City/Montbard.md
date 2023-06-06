@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montbard](../../../../../../_public/geo/Continent/Europe/France/City/Montbard.md) 
-- [Montbard.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Montbard.internal.md) 
-- [Montbard.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Montbard.protect.md) 
-- [Montbard.private](../../../../../../_private/geo/Continent/Europe/France/City/Montbard.private.md) 
-- [Montbard.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Montbard.personal.md) 
-- [Montbard.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Montbard.secret.md) 

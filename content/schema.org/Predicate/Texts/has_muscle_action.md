@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_muscle_action](../../../../_public/schema.org/Predicate/Texts/has_muscle_action.md) 
-- [has_muscle_action.internal](../../../../_internal/schema.org/Predicate/Texts/has_muscle_action.internal.md) 
-- [has_muscle_action.protect](../../../../_protect/schema.org/Predicate/Texts/has_muscle_action.protect.md) 
-- [has_muscle_action.private](../../../../_private/schema.org/Predicate/Texts/has_muscle_action.private.md) 
-- [has_muscle_action.personal](../../../../_personal/schema.org/Predicate/Texts/has_muscle_action.personal.md) 
-- [has_muscle_action.secret](../../../../_secret/schema.org/Predicate/Texts/has_muscle_action.secret.md) 

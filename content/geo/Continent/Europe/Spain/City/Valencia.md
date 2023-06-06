@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valencia](../../../../../../_public/geo/Continent/Europe/Spain/City/Valencia.md) 
-- [Valencia.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Valencia.internal.md) 
-- [Valencia.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Valencia.protect.md) 
-- [Valencia.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Valencia.private.md) 
-- [Valencia.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Valencia.personal.md) 
-- [Valencia.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Valencia.secret.md) 

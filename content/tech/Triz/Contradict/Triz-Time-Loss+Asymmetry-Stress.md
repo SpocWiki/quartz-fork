@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Asymmetry-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Asymmetry-Stress](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.md) 
-- [Triz-Time-Loss+Asymmetry-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.internal.md) 
-- [Triz-Time-Loss+Asymmetry-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.protect.md) 
-- [Triz-Time-Loss+Asymmetry-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.private.md) 
-- [Triz-Time-Loss+Asymmetry-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.personal.md) 
-- [Triz-Time-Loss+Asymmetry-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Stress.secret.md) 

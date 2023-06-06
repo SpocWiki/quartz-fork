@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gotska_Sandoe](../../../../../../_public/geo/Continent/Europe/Sweden/City/Gotska_Sandoe.md) 
-- [Gotska_Sandoe.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Gotska_Sandoe.internal.md) 
-- [Gotska_Sandoe.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Gotska_Sandoe.protect.md) 
-- [Gotska_Sandoe.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Gotska_Sandoe.private.md) 
-- [Gotska_Sandoe.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Gotska_Sandoe.personal.md) 
-- [Gotska_Sandoe.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Gotska_Sandoe.secret.md) 

@@ -43,10 +43,3 @@ The act of installing an application.
 
 
 
-## Confidential Links & Embeds: 
-- [install_action](../../../../../../_public/schema.org/Type/is_a_/action/consume_action/install_action.md) 
-- [install_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/install_action.internal.md) 
-- [install_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/install_action.protect.md) 
-- [install_action.private](../../../../../../_private/schema.org/Type/is_a_/action/consume_action/install_action.private.md) 
-- [install_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/install_action.personal.md) 
-- [install_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/install_action.secret.md) 

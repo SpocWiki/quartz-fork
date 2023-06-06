@@ -17,10 +17,3 @@ title: Triz-Measure_Shadow
 
 Measure an Object by measuring the Photograph or its Shadow.
 
-## Confidential Links & Embeds: 
-- [Triz-Measure_Shadow](../../../../_public/tech/Triz/Example/Triz-Measure_Shadow.md) 
-- [Triz-Measure_Shadow.internal](../../../../_internal/tech/Triz/Example/Triz-Measure_Shadow.internal.md) 
-- [Triz-Measure_Shadow.protect](../../../../_protect/tech/Triz/Example/Triz-Measure_Shadow.protect.md) 
-- [Triz-Measure_Shadow.private](../../../../_private/tech/Triz/Example/Triz-Measure_Shadow.private.md) 
-- [Triz-Measure_Shadow.personal](../../../../_personal/tech/Triz/Example/Triz-Measure_Shadow.personal.md) 
-- [Triz-Measure_Shadow.secret](../../../../_secret/tech/Triz/Example/Triz-Measure_Shadow.secret.md) 

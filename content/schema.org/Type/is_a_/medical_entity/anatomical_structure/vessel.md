@@ -45,10 +45,3 @@ A component of the human body circulatory system comprised of an intricate netwo
 
 
 
-## Confidential Links & Embeds: 
-- [vessel](../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.md) 
-- [vessel.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.internal.md) 
-- [vessel.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.protect.md) 
-- [vessel.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.private.md) 
-- [vessel.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.personal.md) 
-- [vessel.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nurmes](../../../../../../_public/geo/Continent/Europe/Finland/City/Nurmes.md) 
-- [Nurmes.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Nurmes.internal.md) 
-- [Nurmes.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Nurmes.protect.md) 
-- [Nurmes.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Nurmes.private.md) 
-- [Nurmes.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Nurmes.personal.md) 
-- [Nurmes.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Nurmes.secret.md) 

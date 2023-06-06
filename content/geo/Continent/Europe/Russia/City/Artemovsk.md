@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Artemovsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Artemovsk.md) 
-- [Artemovsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Artemovsk.internal.md) 
-- [Artemovsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Artemovsk.protect.md) 
-- [Artemovsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Artemovsk.private.md) 
-- [Artemovsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Artemovsk.personal.md) 
-- [Artemovsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Artemovsk.secret.md) 

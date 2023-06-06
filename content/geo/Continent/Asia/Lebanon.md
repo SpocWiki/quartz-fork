@@ -126,7 +126,7 @@ markerFolder: ./Lebanon/City
 
 ![350](geo/Continent/Asia/Lebanon/Coat_of_arms_of_Lebanon.svg)
 
-![Anthem-Lebanon](xLarge/National-Anthem/Anthem-Lebanon.mp3)
+[Anthem-Lebanon](xLarge/National-Anthem/Anthem-Lebanon.mp3)
 
 ![350](geo/Continent/Asia/Lebanon/Flag_of_Lebanon.svg)
 
@@ -137,10 +137,3 @@ markerFolder: ./Lebanon/City
 
 
 
-## Confidential Links & Embeds: 
-- [Lebanon](../../../../_public/geo/Continent/Asia/Lebanon.md) 
-- [Lebanon.internal](../../../../_internal/geo/Continent/Asia/Lebanon.internal.md) 
-- [Lebanon.protect](../../../../_protect/geo/Continent/Asia/Lebanon.protect.md) 
-- [Lebanon.private](../../../../_private/geo/Continent/Asia/Lebanon.private.md) 
-- [Lebanon.personal](../../../../_personal/geo/Continent/Asia/Lebanon.personal.md) 
-- [Lebanon.secret](../../../../_secret/geo/Continent/Asia/Lebanon.secret.md) 

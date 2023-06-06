@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Willemstad](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Willemstad.md) 
-- [Willemstad.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Willemstad.internal.md) 
-- [Willemstad.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Willemstad.protect.md) 
-- [Willemstad.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Willemstad.private.md) 
-- [Willemstad.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Willemstad.personal.md) 
-- [Willemstad.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Willemstad.secret.md) 

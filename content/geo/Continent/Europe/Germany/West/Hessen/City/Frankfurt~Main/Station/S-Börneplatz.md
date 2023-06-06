@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Börneplatz](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-B%C3%B6rneplatz.md) 
-- [S-Börneplatz.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-B%C3%B6rneplatz.internal.md) 
-- [S-Börneplatz.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-B%C3%B6rneplatz.protect.md) 
-- [S-Börneplatz.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-B%C3%B6rneplatz.private.md) 
-- [S-Börneplatz.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-B%C3%B6rneplatz.personal.md) 
-- [S-Börneplatz.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-B%C3%B6rneplatz.secret.md) 

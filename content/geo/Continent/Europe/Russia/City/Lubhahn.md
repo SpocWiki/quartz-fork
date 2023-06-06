@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lubhahn](../../../../../../_public/geo/Continent/Europe/Russia/City/Lubhahn.md) 
-- [Lubhahn.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Lubhahn.internal.md) 
-- [Lubhahn.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Lubhahn.protect.md) 
-- [Lubhahn.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Lubhahn.private.md) 
-- [Lubhahn.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Lubhahn.personal.md) 
-- [Lubhahn.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Lubhahn.secret.md) 

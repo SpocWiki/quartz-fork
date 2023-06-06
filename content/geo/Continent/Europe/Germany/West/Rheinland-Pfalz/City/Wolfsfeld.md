@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolfsfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wolfsfeld.md) 
-- [Wolfsfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wolfsfeld.internal.md) 
-- [Wolfsfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wolfsfeld.protect.md) 
-- [Wolfsfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wolfsfeld.private.md) 
-- [Wolfsfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wolfsfeld.personal.md) 
-- [Wolfsfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wolfsfeld.secret.md) 

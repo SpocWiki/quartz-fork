@@ -45,10 +45,3 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 
 
 
-## Confidential Links & Embeds: 
-- [intangible](../../../../_public/schema.org/Type/is_a_/intangible.md) 
-- [intangible.internal](../../../../_internal/schema.org/Type/is_a_/intangible.internal.md) 
-- [intangible.protect](../../../../_protect/schema.org/Type/is_a_/intangible.protect.md) 
-- [intangible.private](../../../../_private/schema.org/Type/is_a_/intangible.private.md) 
-- [intangible.personal](../../../../_personal/schema.org/Type/is_a_/intangible.personal.md) 
-- [intangible.secret](../../../../_secret/schema.org/Type/is_a_/intangible.secret.md) 

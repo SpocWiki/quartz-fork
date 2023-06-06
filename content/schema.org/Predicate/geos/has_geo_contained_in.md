@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_contained_in](../../../../_public/schema.org/Predicate/geos/has_geo_contained_in.md) 
-- [has_geo_contained_in.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_contained_in.internal.md) 
-- [has_geo_contained_in.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_contained_in.protect.md) 
-- [has_geo_contained_in.private](../../../../_private/schema.org/Predicate/geos/has_geo_contained_in.private.md) 
-- [has_geo_contained_in.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_contained_in.personal.md) 
-- [has_geo_contained_in.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_contained_in.secret.md) 

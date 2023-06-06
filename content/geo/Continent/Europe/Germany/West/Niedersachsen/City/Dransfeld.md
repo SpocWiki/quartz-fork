@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dransfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dransfeld.md) 
-- [Dransfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dransfeld.internal.md) 
-- [Dransfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dransfeld.protect.md) 
-- [Dransfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dransfeld.private.md) 
-- [Dransfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dransfeld.personal.md) 
-- [Dransfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dransfeld.secret.md) 

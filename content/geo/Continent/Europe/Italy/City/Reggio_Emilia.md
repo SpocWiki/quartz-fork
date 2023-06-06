@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reggio_Emilia](../../../../../../_public/geo/Continent/Europe/Italy/City/Reggio_Emilia.md) 
-- [Reggio_Emilia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Reggio_Emilia.internal.md) 
-- [Reggio_Emilia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Reggio_Emilia.protect.md) 
-- [Reggio_Emilia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Reggio_Emilia.private.md) 
-- [Reggio_Emilia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Reggio_Emilia.personal.md) 
-- [Reggio_Emilia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Reggio_Emilia.secret.md) 

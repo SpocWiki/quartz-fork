@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baku](../../../../../../_public/geo/Continent/Asia/Azerbaijan/City/Baku.md) 
-- [Baku.internal](../../../../../../_internal/geo/Continent/Asia/Azerbaijan/City/Baku.internal.md) 
-- [Baku.protect](../../../../../../_protect/geo/Continent/Asia/Azerbaijan/City/Baku.protect.md) 
-- [Baku.private](../../../../../../_private/geo/Continent/Asia/Azerbaijan/City/Baku.private.md) 
-- [Baku.personal](../../../../../../_personal/geo/Continent/Asia/Azerbaijan/City/Baku.personal.md) 
-- [Baku.secret](../../../../../../_secret/geo/Continent/Asia/Azerbaijan/City/Baku.secret.md) 

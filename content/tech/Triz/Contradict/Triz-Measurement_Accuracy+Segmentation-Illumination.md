@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Segmentation-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Segmentation-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.md) 
-- [Triz-Measurement_Accuracy+Segmentation-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.internal.md) 
-- [Triz-Measurement_Accuracy+Segmentation-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.protect.md) 
-- [Triz-Measurement_Accuracy+Segmentation-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.private.md) 
-- [Triz-Measurement_Accuracy+Segmentation-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.personal.md) 
-- [Triz-Measurement_Accuracy+Segmentation-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Illumination.secret.md) 

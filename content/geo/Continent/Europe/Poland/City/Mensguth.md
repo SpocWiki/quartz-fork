@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mensguth](../../../../../../_public/geo/Continent/Europe/Poland/City/Mensguth.md) 
-- [Mensguth.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Mensguth.internal.md) 
-- [Mensguth.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Mensguth.protect.md) 
-- [Mensguth.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Mensguth.private.md) 
-- [Mensguth.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Mensguth.personal.md) 
-- [Mensguth.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Mensguth.secret.md) 

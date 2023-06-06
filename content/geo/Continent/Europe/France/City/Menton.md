@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Menton](../../../../../../_public/geo/Continent/Europe/France/City/Menton.md) 
-- [Menton.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Menton.internal.md) 
-- [Menton.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Menton.protect.md) 
-- [Menton.private](../../../../../../_private/geo/Continent/Europe/France/City/Menton.private.md) 
-- [Menton.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Menton.personal.md) 
-- [Menton.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Menton.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pontresina](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Pontresina.md) 
-- [Pontresina.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Pontresina.internal.md) 
-- [Pontresina.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Pontresina.protect.md) 
-- [Pontresina.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Pontresina.private.md) 
-- [Pontresina.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Pontresina.personal.md) 
-- [Pontresina.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Pontresina.secret.md) 

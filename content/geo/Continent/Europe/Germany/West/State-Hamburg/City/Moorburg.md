@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moorburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorburg.md) 
-- [Moorburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorburg.internal.md) 
-- [Moorburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorburg.protect.md) 
-- [Moorburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorburg.private.md) 
-- [Moorburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorburg.personal.md) 
-- [Moorburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorburg.secret.md) 

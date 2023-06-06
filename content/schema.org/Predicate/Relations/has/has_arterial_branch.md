@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_arterial_branch](../../../../../_public/schema.org/Predicate/Relations/has/has_arterial_branch.md) 
-- [has_arterial_branch.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_arterial_branch.internal.md) 
-- [has_arterial_branch.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_arterial_branch.protect.md) 
-- [has_arterial_branch.private](../../../../../_private/schema.org/Predicate/Relations/has/has_arterial_branch.private.md) 
-- [has_arterial_branch.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_arterial_branch.personal.md) 
-- [has_arterial_branch.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_arterial_branch.secret.md) 

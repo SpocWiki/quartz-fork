@@ -19,10 +19,3 @@ title: Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.md) 
-- [Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.internal.md) 
-- [Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.protect.md) 
-- [Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.private.md) 
-- [Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.personal.md) 
-- [Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Use_a_pneumatic_or_hydralic_construction-Information-Loss.secret.md) 

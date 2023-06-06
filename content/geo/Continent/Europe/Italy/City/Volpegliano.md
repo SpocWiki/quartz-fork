@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Volpegliano](../../../../../../_public/geo/Continent/Europe/Italy/City/Volpegliano.md) 
-- [Volpegliano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Volpegliano.internal.md) 
-- [Volpegliano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Volpegliano.protect.md) 
-- [Volpegliano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Volpegliano.private.md) 
-- [Volpegliano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Volpegliano.personal.md) 
-- [Volpegliano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Volpegliano.secret.md) 

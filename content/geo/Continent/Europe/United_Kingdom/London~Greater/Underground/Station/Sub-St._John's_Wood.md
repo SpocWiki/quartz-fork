@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-St._John's_Wood](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._John's_Wood.md) 
-- [Sub-St._John's_Wood.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._John's_Wood.internal.md) 
-- [Sub-St._John's_Wood.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._John's_Wood.protect.md) 
-- [Sub-St._John's_Wood.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._John's_Wood.private.md) 
-- [Sub-St._John's_Wood.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._John's_Wood.personal.md) 
-- [Sub-St._John's_Wood.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-St._John's_Wood.secret.md) 

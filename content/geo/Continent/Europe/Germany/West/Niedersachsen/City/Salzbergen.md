@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salzbergen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.md) 
-- [Salzbergen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.internal.md) 
-- [Salzbergen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.protect.md) 
-- [Salzbergen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.private.md) 
-- [Salzbergen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.personal.md) 
-- [Salzbergen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzbergen.secret.md) 

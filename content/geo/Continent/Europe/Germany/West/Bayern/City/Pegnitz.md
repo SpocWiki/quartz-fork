@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pegnitz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Pegnitz.md) 
-- [Pegnitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pegnitz.internal.md) 
-- [Pegnitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pegnitz.protect.md) 
-- [Pegnitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pegnitz.private.md) 
-- [Pegnitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pegnitz.personal.md) 
-- [Pegnitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pegnitz.secret.md) 

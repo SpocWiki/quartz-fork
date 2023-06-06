@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nieder-Stetten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nieder-Stetten.md) 
-- [Nieder-Stetten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nieder-Stetten.internal.md) 
-- [Nieder-Stetten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nieder-Stetten.protect.md) 
-- [Nieder-Stetten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nieder-Stetten.private.md) 
-- [Nieder-Stetten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nieder-Stetten.personal.md) 
-- [Nieder-Stetten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Nieder-Stetten.secret.md) 

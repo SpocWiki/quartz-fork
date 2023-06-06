@@ -43,10 +43,3 @@ A short segment/part of a movie.
 
 
 
-## Confidential Links & Embeds: 
-- [movie_clip](../../../../../../_public/schema.org/Type/is_a_/creative_work/clip/movie_clip.md) 
-- [movie_clip.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/clip/movie_clip.internal.md) 
-- [movie_clip.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/clip/movie_clip.protect.md) 
-- [movie_clip.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/clip/movie_clip.private.md) 
-- [movie_clip.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/clip/movie_clip.personal.md) 
-- [movie_clip.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/clip/movie_clip.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dundee](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.md) 
-- [Dundee.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.internal.md) 
-- [Dundee.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.protect.md) 
-- [Dundee.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.private.md) 
-- [Dundee.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.personal.md) 
-- [Dundee.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Dundee.secret.md) 

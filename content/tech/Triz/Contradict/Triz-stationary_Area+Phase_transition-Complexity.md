@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Phase_transition-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Phase_transition-Complexity](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.md) 
-- [Triz-stationary_Area+Phase_transition-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.internal.md) 
-- [Triz-stationary_Area+Phase_transition-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.protect.md) 
-- [Triz-stationary_Area+Phase_transition-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.private.md) 
-- [Triz-stationary_Area+Phase_transition-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.personal.md) 
-- [Triz-stationary_Area+Phase_transition-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Complexity.secret.md) 

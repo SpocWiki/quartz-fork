@@ -38,10 +38,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frankfurt~Main](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main.md) 
-- [Frankfurt~Main.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main.internal.md) 
-- [Frankfurt~Main.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main.protect.md) 
-- [Frankfurt~Main.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main.private.md) 
-- [Frankfurt~Main.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main.personal.md) 
-- [Frankfurt~Main.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main.secret.md) 

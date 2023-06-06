@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_arrival_station](../../../../../_public/schema.org/Predicate/Relations/has/has_arrival_station.md) 
-- [has_arrival_station.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_arrival_station.internal.md) 
-- [has_arrival_station.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_arrival_station.protect.md) 
-- [has_arrival_station.private](../../../../../_private/schema.org/Predicate/Relations/has/has_arrival_station.private.md) 
-- [has_arrival_station.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_arrival_station.personal.md) 
-- [has_arrival_station.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_arrival_station.secret.md) 

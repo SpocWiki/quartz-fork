@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oranienburg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Oranienburg.md) 
-- [Oranienburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Oranienburg.internal.md) 
-- [Oranienburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Oranienburg.protect.md) 
-- [Oranienburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Oranienburg.private.md) 
-- [Oranienburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Oranienburg.personal.md) 
-- [Oranienburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Oranienburg.secret.md) 

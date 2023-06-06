@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tschetschen](../../../../../../_public/geo/Continent/Europe/Russia/City/Tschetschen.md) 
-- [Tschetschen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschetschen.internal.md) 
-- [Tschetschen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschetschen.protect.md) 
-- [Tschetschen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tschetschen.private.md) 
-- [Tschetschen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschetschen.personal.md) 
-- [Tschetschen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschetschen.secret.md) 

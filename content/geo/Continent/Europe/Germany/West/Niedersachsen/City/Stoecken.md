@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stoecken](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stoecken.md) 
-- [Stoecken.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stoecken.internal.md) 
-- [Stoecken.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stoecken.protect.md) 
-- [Stoecken.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stoecken.private.md) 
-- [Stoecken.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stoecken.personal.md) 
-- [Stoecken.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stoecken.secret.md) 

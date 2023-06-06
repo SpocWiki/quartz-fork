@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nikopol](../../../../../../_public/geo/Continent/Europe/Russia/City/Nikopol.md) 
-- [Nikopol.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nikopol.internal.md) 
-- [Nikopol.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nikopol.protect.md) 
-- [Nikopol.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nikopol.private.md) 
-- [Nikopol.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nikopol.personal.md) 
-- [Nikopol.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nikopol.secret.md) 

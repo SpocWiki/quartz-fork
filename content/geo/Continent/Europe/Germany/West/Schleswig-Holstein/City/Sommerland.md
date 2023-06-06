@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sommerland](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.md) 
-- [Sommerland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.internal.md) 
-- [Sommerland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.protect.md) 
-- [Sommerland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.private.md) 
-- [Sommerland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.personal.md) 
-- [Sommerland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Sommerland.secret.md) 

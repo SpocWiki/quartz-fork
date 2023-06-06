@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Edinburgh](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.md) 
-- [Edinburgh.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.internal.md) 
-- [Edinburgh.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.protect.md) 
-- [Edinburgh.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.private.md) 
-- [Edinburgh.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.personal.md) 
-- [Edinburgh.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Edinburgh.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Difficulty+Inert_environment-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Inert_environment-Shape](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.md) 
-- [Triz-Difficulty+Inert_environment-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.internal.md) 
-- [Triz-Difficulty+Inert_environment-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.protect.md) 
-- [Triz-Difficulty+Inert_environment-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.private.md) 
-- [Triz-Difficulty+Inert_environment-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.personal.md) 
-- [Triz-Difficulty+Inert_environment-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-Shape.secret.md) 

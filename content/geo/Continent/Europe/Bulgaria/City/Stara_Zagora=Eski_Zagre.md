@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stara_Zagora=Eski_Zagre](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.md) 
-- [Stara_Zagora=Eski_Zagre.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.internal.md) 
-- [Stara_Zagora=Eski_Zagre.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.protect.md) 
-- [Stara_Zagora=Eski_Zagre.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.private.md) 
-- [Stara_Zagora=Eski_Zagre.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.personal.md) 
-- [Stara_Zagora=Eski_Zagre.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Stara_Zagora=Eski_Zagre.secret.md) 

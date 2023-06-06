@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klagenfurt](../../../../../../_public/geo/Continent/Europe/Austria/City/Klagenfurt.md) 
-- [Klagenfurt.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Klagenfurt.internal.md) 
-- [Klagenfurt.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Klagenfurt.protect.md) 
-- [Klagenfurt.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Klagenfurt.private.md) 
-- [Klagenfurt.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Klagenfurt.personal.md) 
-- [Klagenfurt.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Klagenfurt.secret.md) 

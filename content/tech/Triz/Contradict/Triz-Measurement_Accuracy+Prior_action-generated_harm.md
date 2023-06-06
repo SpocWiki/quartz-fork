@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Prior_action-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Prior_action-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-generated_harm.md) 
-- [Triz-Measurement_Accuracy+Prior_action-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-generated_harm.internal.md) 
-- [Triz-Measurement_Accuracy+Prior_action-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-generated_harm.protect.md) 
-- [Triz-Measurement_Accuracy+Prior_action-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-generated_harm.private.md) 
-- [Triz-Measurement_Accuracy+Prior_action-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-generated_harm.personal.md) 
-- [Triz-Measurement_Accuracy+Prior_action-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Prior_action-generated_harm.secret.md) 

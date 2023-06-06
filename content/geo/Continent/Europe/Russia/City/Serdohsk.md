@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Serdohsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Serdohsk.md) 
-- [Serdohsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Serdohsk.internal.md) 
-- [Serdohsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Serdohsk.protect.md) 
-- [Serdohsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Serdohsk.private.md) 
-- [Serdohsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Serdohsk.personal.md) 
-- [Serdohsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Serdohsk.secret.md) 

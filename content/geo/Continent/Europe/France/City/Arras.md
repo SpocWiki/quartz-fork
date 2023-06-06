@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arras](../../../../../../_public/geo/Continent/Europe/France/City/Arras.md) 
-- [Arras.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Arras.internal.md) 
-- [Arras.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Arras.protect.md) 
-- [Arras.private](../../../../../../_private/geo/Continent/Europe/France/City/Arras.private.md) 
-- [Arras.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Arras.personal.md) 
-- [Arras.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Arras.secret.md) 

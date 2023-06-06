@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Phase_transition-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Phase_transition-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Phase_transition-Temperature.md) 
-- [Triz-Substance-Loss+Phase_transition-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Phase_transition-Temperature.internal.md) 
-- [Triz-Substance-Loss+Phase_transition-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Phase_transition-Temperature.protect.md) 
-- [Triz-Substance-Loss+Phase_transition-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Phase_transition-Temperature.private.md) 
-- [Triz-Substance-Loss+Phase_transition-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Phase_transition-Temperature.personal.md) 
-- [Triz-Substance-Loss+Phase_transition-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Phase_transition-Temperature.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatili
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.md) 
-- [Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.internal.md) 
-- [Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.protect.md) 
-- [Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.private.md) 
-- [Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.personal.md) 
-- [Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Use_a_pneumatic_or_hydralic_construction-Versatility.secret.md) 

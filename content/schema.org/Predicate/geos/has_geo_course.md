@@ -49,10 +49,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_course](../../../../_public/schema.org/Predicate/geos/has_geo_course.md) 
-- [has_geo_course.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_course.internal.md) 
-- [has_geo_course.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_course.protect.md) 
-- [has_geo_course.private](../../../../_private/schema.org/Predicate/geos/has_geo_course.private.md) 
-- [has_geo_course.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_course.personal.md) 
-- [has_geo_course.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_course.secret.md) 

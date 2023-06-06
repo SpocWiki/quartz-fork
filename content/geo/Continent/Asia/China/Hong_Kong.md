@@ -129,10 +129,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hong_Kong](../../../../../_public/geo/Continent/Asia/China/Hong_Kong.md) 
-- [Hong_Kong.internal](../../../../../_internal/geo/Continent/Asia/China/Hong_Kong.internal.md) 
-- [Hong_Kong.protect](../../../../../_protect/geo/Continent/Asia/China/Hong_Kong.protect.md) 
-- [Hong_Kong.private](../../../../../_private/geo/Continent/Asia/China/Hong_Kong.private.md) 
-- [Hong_Kong.personal](../../../../../_personal/geo/Continent/Asia/China/Hong_Kong.personal.md) 
-- [Hong_Kong.secret](../../../../../_secret/geo/Continent/Asia/China/Hong_Kong.secret.md) 

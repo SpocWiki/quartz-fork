@@ -19,10 +19,3 @@ title: Triz-moving_Length+Inert_environment-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Inert_environment-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Inert_environment-Energy-Loss.md) 
-- [Triz-moving_Length+Inert_environment-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Inert_environment-Energy-Loss.internal.md) 
-- [Triz-moving_Length+Inert_environment-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Inert_environment-Energy-Loss.protect.md) 
-- [Triz-moving_Length+Inert_environment-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Inert_environment-Energy-Loss.private.md) 
-- [Triz-moving_Length+Inert_environment-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Inert_environment-Energy-Loss.personal.md) 
-- [Triz-moving_Length+Inert_environment-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Inert_environment-Energy-Loss.secret.md) 

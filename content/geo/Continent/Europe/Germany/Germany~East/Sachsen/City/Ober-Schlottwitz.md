@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ober-Schlottwitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Schlottwitz.md) 
-- [Ober-Schlottwitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Schlottwitz.internal.md) 
-- [Ober-Schlottwitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Schlottwitz.protect.md) 
-- [Ober-Schlottwitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Schlottwitz.private.md) 
-- [Ober-Schlottwitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Schlottwitz.personal.md) 
-- [Ober-Schlottwitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Schlottwitz.secret.md) 

@@ -47,10 +47,3 @@ Content about the real life experience of patients or people that have lived a s
 
 
 
-## Confidential Links & Embeds: 
-- [patient_experience_health_aspect](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.md) 
-- [patient_experience_health_aspect.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.internal.md) 
-- [patient_experience_health_aspect.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.protect.md) 
-- [patient_experience_health_aspect.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.private.md) 
-- [patient_experience_health_aspect.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.personal.md) 
-- [patient_experience_health_aspect.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.secret.md) 

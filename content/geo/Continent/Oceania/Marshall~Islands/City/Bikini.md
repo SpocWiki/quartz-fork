@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bikini](../../../../../../_public/geo/Continent/Oceania/Marshall~Islands/City/Bikini.md) 
-- [Bikini.internal](../../../../../../_internal/geo/Continent/Oceania/Marshall~Islands/City/Bikini.internal.md) 
-- [Bikini.protect](../../../../../../_protect/geo/Continent/Oceania/Marshall~Islands/City/Bikini.protect.md) 
-- [Bikini.private](../../../../../../_private/geo/Continent/Oceania/Marshall~Islands/City/Bikini.private.md) 
-- [Bikini.personal](../../../../../../_personal/geo/Continent/Oceania/Marshall~Islands/City/Bikini.personal.md) 
-- [Bikini.secret](../../../../../../_secret/geo/Continent/Oceania/Marshall~Islands/City/Bikini.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Copying-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Copying-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.md) 
-- [Triz-Manufacturing_Precision+Copying-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.internal.md) 
-- [Triz-Manufacturing_Precision+Copying-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.protect.md) 
-- [Triz-Manufacturing_Precision+Copying-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.private.md) 
-- [Triz-Manufacturing_Precision+Copying-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.personal.md) 
-- [Triz-Manufacturing_Precision+Copying-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Temperature.secret.md) 

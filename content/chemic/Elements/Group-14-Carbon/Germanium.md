@@ -37,10 +37,3 @@ title: Germanium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Germanium)
 
-## Confidential Links & Embeds: 
-- [Germanium](../../../../_public/chemic/Elements/Group-14-Carbon/Germanium.md) 
-- [Germanium.internal](../../../../_internal/chemic/Elements/Group-14-Carbon/Germanium.internal.md) 
-- [Germanium.protect](../../../../_protect/chemic/Elements/Group-14-Carbon/Germanium.protect.md) 
-- [Germanium.private](../../../../_private/chemic/Elements/Group-14-Carbon/Germanium.private.md) 
-- [Germanium.personal](../../../../_personal/chemic/Elements/Group-14-Carbon/Germanium.personal.md) 
-- [Germanium.secret](../../../../_secret/chemic/Elements/Group-14-Carbon/Germanium.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ober-Ramstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ober-Ramstadt.md) 
-- [Ober-Ramstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ober-Ramstadt.internal.md) 
-- [Ober-Ramstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ober-Ramstadt.protect.md) 
-- [Ober-Ramstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ober-Ramstadt.private.md) 
-- [Ober-Ramstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ober-Ramstadt.personal.md) 
-- [Ober-Ramstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ober-Ramstadt.secret.md) 

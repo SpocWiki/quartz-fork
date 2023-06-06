@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuhaus~Donau](../../../../../../_public/geo/Continent/Europe/Austria/City/Neuhaus~Donau.md) 
-- [Neuhaus~Donau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Neuhaus~Donau.internal.md) 
-- [Neuhaus~Donau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Neuhaus~Donau.protect.md) 
-- [Neuhaus~Donau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Neuhaus~Donau.private.md) 
-- [Neuhaus~Donau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Neuhaus~Donau.personal.md) 
-- [Neuhaus~Donau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Neuhaus~Donau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siauliai](../../../../../../_public/geo/Continent/Europe/Russia/City/Siauliai.md) 
-- [Siauliai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Siauliai.internal.md) 
-- [Siauliai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Siauliai.protect.md) 
-- [Siauliai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Siauliai.private.md) 
-- [Siauliai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Siauliai.personal.md) 
-- [Siauliai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Siauliai.secret.md) 

@@ -119,7 +119,7 @@ markerFolder: ./Australia/City
 
 ![550](geo/Continent/Australia/Coat_of_arms_of_Australia.svg)
 
-![Anthem-Australia](xLarge/National-Anthem/Anthem-Australia.mp3)
+[Anthem-Australia](xLarge/National-Anthem/Anthem-Australia.mp3)
 ]
 ![350](geo/Continent/Australia/Flag_of_Australia.svg)
 
@@ -130,10 +130,3 @@ markerFolder: ./Australia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Australia](../../../../_public/geo/Continent/Australia/Australia.md) 
-- [Australia.internal](../../../../_internal/geo/Continent/Australia/Australia.internal.md) 
-- [Australia.protect](../../../../_protect/geo/Continent/Australia/Australia.protect.md) 
-- [Australia.private](../../../../_private/geo/Continent/Australia/Australia.private.md) 
-- [Australia.personal](../../../../_personal/geo/Continent/Australia/Australia.personal.md) 
-- [Australia.secret](../../../../_secret/geo/Continent/Australia/Australia.secret.md) 

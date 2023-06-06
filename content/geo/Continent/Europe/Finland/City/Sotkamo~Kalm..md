@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sotkamo~Kalm.](../../../../../../_public/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..md) 
-- [Sotkamo~Kalm..internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..internal.md) 
-- [Sotkamo~Kalm..protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..protect.md) 
-- [Sotkamo~Kalm..private](../../../../../../_private/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..private.md) 
-- [Sotkamo~Kalm..personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..personal.md) 
-- [Sotkamo~Kalm..secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Sotkamo~Kalm..secret.md) 

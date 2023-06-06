@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hofgeismar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Hofgeismar.md) 
-- [Hofgeismar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hofgeismar.internal.md) 
-- [Hofgeismar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hofgeismar.protect.md) 
-- [Hofgeismar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hofgeismar.private.md) 
-- [Hofgeismar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hofgeismar.personal.md) 
-- [Hofgeismar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hofgeismar.secret.md) 

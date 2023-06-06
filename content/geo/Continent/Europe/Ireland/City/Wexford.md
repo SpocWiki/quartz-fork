@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wexford](../../../../../../_public/geo/Continent/Europe/Ireland/City/Wexford.md) 
-- [Wexford.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Wexford.internal.md) 
-- [Wexford.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Wexford.protect.md) 
-- [Wexford.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Wexford.private.md) 
-- [Wexford.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Wexford.personal.md) 
-- [Wexford.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Wexford.secret.md) 

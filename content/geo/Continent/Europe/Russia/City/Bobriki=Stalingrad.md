@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bobriki=Stalingrad](../../../../../../_public/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.md) 
-- [Bobriki=Stalingrad.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.internal.md) 
-- [Bobriki=Stalingrad.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.protect.md) 
-- [Bobriki=Stalingrad.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.private.md) 
-- [Bobriki=Stalingrad.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.personal.md) 
-- [Bobriki=Stalingrad.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Bobriki=Stalingrad.secret.md) 

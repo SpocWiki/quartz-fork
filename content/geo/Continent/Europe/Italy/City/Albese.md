@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Albese](../../../../../../_public/geo/Continent/Europe/Italy/City/Albese.md) 
-- [Albese.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Albese.internal.md) 
-- [Albese.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Albese.protect.md) 
-- [Albese.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Albese.private.md) 
-- [Albese.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Albese.personal.md) 
-- [Albese.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Albese.secret.md) 

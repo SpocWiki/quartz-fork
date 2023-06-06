@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.md) 
-- [Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.internal.md) 
-- [Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.protect.md) 
-- [Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.private.md) 
-- [Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.personal.md) 
-- [Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.secret.md) 

@@ -43,10 +43,3 @@ A bus stop.
 
 
 
-## Confidential Links & Embeds: 
-- [bus_stop](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/bus_stop.md) 
-- [bus_stop.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/bus_stop.internal.md) 
-- [bus_stop.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/bus_stop.protect.md) 
-- [bus_stop.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/bus_stop.private.md) 
-- [bus_stop.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/bus_stop.personal.md) 
-- [bus_stop.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/bus_stop.secret.md) 

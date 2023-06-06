@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Prachatitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Prachatitz.md) 
-- [Prachatitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Prachatitz.internal.md) 
-- [Prachatitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Prachatitz.protect.md) 
-- [Prachatitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Prachatitz.private.md) 
-- [Prachatitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Prachatitz.personal.md) 
-- [Prachatitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Prachatitz.secret.md) 

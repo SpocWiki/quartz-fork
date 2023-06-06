@@ -121,7 +121,7 @@ markerFolder: ./Madagascar/City
 
 ![350](geo/Continent/Africa/Madagascar/Seal_of_Madagascar.svg)
 
-![Anthem-Madagascar](xLarge/National-Anthem/Anthem-Madagascar.mp3)
+[Anthem-Madagascar](xLarge/National-Anthem/Anthem-Madagascar.mp3)
 
 ![350](geo/Continent/Africa/Madagascar/Flag_of_Madagascar.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Madagascar/City
 
 
 
-## Confidential Links & Embeds: 
-- [Madagascar](../../../../_public/geo/Continent/Africa/Madagascar.md) 
-- [Madagascar.internal](../../../../_internal/geo/Continent/Africa/Madagascar.internal.md) 
-- [Madagascar.protect](../../../../_protect/geo/Continent/Africa/Madagascar.protect.md) 
-- [Madagascar.private](../../../../_private/geo/Continent/Africa/Madagascar.private.md) 
-- [Madagascar.personal](../../../../_personal/geo/Continent/Africa/Madagascar.personal.md) 
-- [Madagascar.secret](../../../../_secret/geo/Continent/Africa/Madagascar.secret.md) 

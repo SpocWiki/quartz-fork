@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Friedrichsgraetz](../../../../../../_public/geo/Continent/Europe/Poland/City/Friedrichsgraetz.md) 
-- [Friedrichsgraetz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Friedrichsgraetz.internal.md) 
-- [Friedrichsgraetz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Friedrichsgraetz.protect.md) 
-- [Friedrichsgraetz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Friedrichsgraetz.private.md) 
-- [Friedrichsgraetz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Friedrichsgraetz.personal.md) 
-- [Friedrichsgraetz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Friedrichsgraetz.secret.md) 

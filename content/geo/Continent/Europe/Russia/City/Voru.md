@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Voru](../../../../../../_public/geo/Continent/Europe/Russia/City/Voru.md) 
-- [Voru.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Voru.internal.md) 
-- [Voru.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Voru.protect.md) 
-- [Voru.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Voru.private.md) 
-- [Voru.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Voru.personal.md) 
-- [Voru.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Voru.secret.md) 

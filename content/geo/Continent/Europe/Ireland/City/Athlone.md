@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Athlone](../../../../../../_public/geo/Continent/Europe/Ireland/City/Athlone.md) 
-- [Athlone.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Athlone.internal.md) 
-- [Athlone.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Athlone.protect.md) 
-- [Athlone.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Athlone.private.md) 
-- [Athlone.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Athlone.personal.md) 
-- [Athlone.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Athlone.secret.md) 

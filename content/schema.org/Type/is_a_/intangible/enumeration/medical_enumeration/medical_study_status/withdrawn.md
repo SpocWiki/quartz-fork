@@ -45,10 +45,3 @@ Withdrawn.
 
 
 
-## Confidential Links & Embeds: 
-- [withdrawn](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.md) 
-- [withdrawn.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.internal.md) 
-- [withdrawn.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.protect.md) 
-- [withdrawn.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.private.md) 
-- [withdrawn.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.personal.md) 
-- [withdrawn.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.secret.md) 

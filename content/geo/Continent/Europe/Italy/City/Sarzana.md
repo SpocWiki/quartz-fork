@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sarzana](../../../../../../_public/geo/Continent/Europe/Italy/City/Sarzana.md) 
-- [Sarzana.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sarzana.internal.md) 
-- [Sarzana.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sarzana.protect.md) 
-- [Sarzana.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sarzana.private.md) 
-- [Sarzana.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sarzana.personal.md) 
-- [Sarzana.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sarzana.secret.md) 

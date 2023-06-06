@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Feedback-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Feedback-Automation](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.md) 
-- [Triz-Manufacturing_Precision+Feedback-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.internal.md) 
-- [Triz-Manufacturing_Precision+Feedback-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.protect.md) 
-- [Triz-Manufacturing_Precision+Feedback-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.private.md) 
-- [Triz-Manufacturing_Precision+Feedback-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.personal.md) 
-- [Triz-Manufacturing_Precision+Feedback-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Feedback-Automation.secret.md) 

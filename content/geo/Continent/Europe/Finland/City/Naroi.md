@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Naroi](../../../../../../_public/geo/Continent/Europe/Finland/City/Naroi.md) 
-- [Naroi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Naroi.internal.md) 
-- [Naroi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Naroi.protect.md) 
-- [Naroi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Naroi.private.md) 
-- [Naroi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Naroi.personal.md) 
-- [Naroi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Naroi.secret.md) 

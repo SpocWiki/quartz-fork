@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cannes](../../../../../../_public/geo/Continent/Europe/France/City/Cannes.md) 
-- [Cannes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Cannes.internal.md) 
-- [Cannes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Cannes.protect.md) 
-- [Cannes.private](../../../../../../_private/geo/Continent/Europe/France/City/Cannes.private.md) 
-- [Cannes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Cannes.personal.md) 
-- [Cannes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Cannes.secret.md) 

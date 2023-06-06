@@ -45,10 +45,3 @@ A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 
 
-## Confidential Links & Embeds: 
-- [broadcast_channel](../../../../../_public/schema.org/Type/is_a_/intangible/broadcast_channel.md) 
-- [broadcast_channel.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/broadcast_channel.internal.md) 
-- [broadcast_channel.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/broadcast_channel.protect.md) 
-- [broadcast_channel.private](../../../../../_private/schema.org/Type/is_a_/intangible/broadcast_channel.private.md) 
-- [broadcast_channel.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/broadcast_channel.personal.md) 
-- [broadcast_channel.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/broadcast_channel.secret.md) 

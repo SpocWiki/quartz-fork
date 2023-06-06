@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montdidier](../../../../../../_public/geo/Continent/Europe/France/City/Montdidier.md) 
-- [Montdidier.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Montdidier.internal.md) 
-- [Montdidier.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Montdidier.protect.md) 
-- [Montdidier.private](../../../../../../_private/geo/Continent/Europe/France/City/Montdidier.private.md) 
-- [Montdidier.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Montdidier.personal.md) 
-- [Montdidier.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Montdidier.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Louhans](../../../../../../_public/geo/Continent/Europe/France/City/Louhans.md) 
-- [Louhans.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Louhans.internal.md) 
-- [Louhans.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Louhans.protect.md) 
-- [Louhans.private](../../../../../../_private/geo/Continent/Europe/France/City/Louhans.private.md) 
-- [Louhans.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Louhans.personal.md) 
-- [Louhans.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Louhans.secret.md) 

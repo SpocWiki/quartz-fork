@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falmouth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Falmouth.md) 
-- [Falmouth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Falmouth.internal.md) 
-- [Falmouth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Falmouth.protect.md) 
-- [Falmouth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Falmouth.private.md) 
-- [Falmouth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Falmouth.personal.md) 
-- [Falmouth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Falmouth.secret.md) 

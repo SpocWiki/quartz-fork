@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ronne](../../../../../../_public/geo/Continent/Europe/Denmark/City/Ronne.md) 
-- [Ronne.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Ronne.internal.md) 
-- [Ronne.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Ronne.protect.md) 
-- [Ronne.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Ronne.private.md) 
-- [Ronne.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Ronne.personal.md) 
-- [Ronne.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Ronne.secret.md) 

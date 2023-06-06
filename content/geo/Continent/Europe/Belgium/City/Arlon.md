@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arlon](../../../../../../_public/geo/Continent/Europe/Belgium/City/Arlon.md) 
-- [Arlon.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Arlon.internal.md) 
-- [Arlon.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Arlon.protect.md) 
-- [Arlon.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Arlon.private.md) 
-- [Arlon.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Arlon.personal.md) 
-- [Arlon.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Arlon.secret.md) 

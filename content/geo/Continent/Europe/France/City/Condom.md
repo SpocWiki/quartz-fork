@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Condom](../../../../../../_public/geo/Continent/Europe/France/City/Condom.md) 
-- [Condom.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Condom.internal.md) 
-- [Condom.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Condom.protect.md) 
-- [Condom.private](../../../../../../_private/geo/Continent/Europe/France/City/Condom.private.md) 
-- [Condom.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Condom.personal.md) 
-- [Condom.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Condom.secret.md) 

@@ -43,10 +43,3 @@ Event type: Education event.
 
 
 
-## Confidential Links & Embeds: 
-- [education_event](../../../../../_public/schema.org/Type/is_a_/event/education_event.md) 
-- [education_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/education_event.internal.md) 
-- [education_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/education_event.protect.md) 
-- [education_event.private](../../../../../_private/schema.org/Type/is_a_/event/education_event.private.md) 
-- [education_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/education_event.personal.md) 
-- [education_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/education_event.secret.md) 

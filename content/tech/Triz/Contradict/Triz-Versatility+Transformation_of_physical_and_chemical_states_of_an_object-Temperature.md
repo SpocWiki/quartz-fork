@@ -19,10 +19,3 @@ title: Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_obj
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.internal.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.protect.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.private.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.personal.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Temperature.secret.md) 

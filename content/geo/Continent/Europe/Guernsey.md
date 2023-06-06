@@ -125,10 +125,3 @@ markerFolder: ./Guernsey/City
 
 
 
-## Confidential Links & Embeds: 
-- [Guernsey](../../../../_public/geo/Continent/Europe/Guernsey.md) 
-- [Guernsey.internal](../../../../_internal/geo/Continent/Europe/Guernsey.internal.md) 
-- [Guernsey.protect](../../../../_protect/geo/Continent/Europe/Guernsey.protect.md) 
-- [Guernsey.private](../../../../_private/geo/Continent/Europe/Guernsey.private.md) 
-- [Guernsey.personal](../../../../_personal/geo/Continent/Europe/Guernsey.personal.md) 
-- [Guernsey.secret](../../../../_secret/geo/Continent/Europe/Guernsey.secret.md) 

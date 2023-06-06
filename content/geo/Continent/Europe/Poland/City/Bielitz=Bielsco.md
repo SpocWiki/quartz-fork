@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bielitz=Bielsco](../../../../../../_public/geo/Continent/Europe/Poland/City/Bielitz=Bielsco.md) 
-- [Bielitz=Bielsco.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bielitz=Bielsco.internal.md) 
-- [Bielitz=Bielsco.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bielitz=Bielsco.protect.md) 
-- [Bielitz=Bielsco.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bielitz=Bielsco.private.md) 
-- [Bielitz=Bielsco.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bielitz=Bielsco.personal.md) 
-- [Bielitz=Bielsco.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bielitz=Bielsco.secret.md) 

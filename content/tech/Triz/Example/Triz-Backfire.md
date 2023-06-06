@@ -17,10 +17,3 @@ title: Triz-Backfire
 
 Use a Backfire to eliminate the Fuel from a Forest Fire.
 
-## Confidential Links & Embeds: 
-- [Triz-Backfire](../../../../_public/tech/Triz/Example/Triz-Backfire.md) 
-- [Triz-Backfire.internal](../../../../_internal/tech/Triz/Example/Triz-Backfire.internal.md) 
-- [Triz-Backfire.protect](../../../../_protect/tech/Triz/Example/Triz-Backfire.protect.md) 
-- [Triz-Backfire.private](../../../../_private/tech/Triz/Example/Triz-Backfire.private.md) 
-- [Triz-Backfire.personal](../../../../_personal/tech/Triz/Example/Triz-Backfire.personal.md) 
-- [Triz-Backfire.secret](../../../../_secret/tech/Triz/Example/Triz-Backfire.secret.md) 

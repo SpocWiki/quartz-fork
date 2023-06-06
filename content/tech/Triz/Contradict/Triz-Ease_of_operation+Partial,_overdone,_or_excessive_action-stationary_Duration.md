@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.md) 
-- [Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.internal.md) 
-- [Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.protect.md) 
-- [Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.private.md) 
-- [Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.personal.md) 
-- [Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Partial,_overdone,_or_excessive_action-stationary_Duration.secret.md) 

@@ -43,10 +43,3 @@ Bank or credit union.
 
 
 
-## Confidential Links & Embeds: 
-- [bank_or_credit_union](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.md) 
-- [bank_or_credit_union.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.internal.md) 
-- [bank_or_credit_union.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.protect.md) 
-- [bank_or_credit_union.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.private.md) 
-- [bank_or_credit_union.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.personal.md) 
-- [bank_or_credit_union.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.secret.md) 

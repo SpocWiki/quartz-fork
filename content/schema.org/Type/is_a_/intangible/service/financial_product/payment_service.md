@@ -43,10 +43,3 @@ A Service to transfer funds from a person or organization to a beneficiary perso
 
 
 
-## Confidential Links & Embeds: 
-- [payment_service](../../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.md) 
-- [payment_service.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.internal.md) 
-- [payment_service.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.protect.md) 
-- [payment_service.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.private.md) 
-- [payment_service.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.personal.md) 
-- [payment_service.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.secret.md) 

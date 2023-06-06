@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Trianguli-3](../../../_public/astro/Star/Trianguli-3.md) 
-- [Trianguli-3.internal](../../../_internal/astro/Star/Trianguli-3.internal.md) 
-- [Trianguli-3.protect](../../../_protect/astro/Star/Trianguli-3.protect.md) 
-- [Trianguli-3.private](../../../_private/astro/Star/Trianguli-3.private.md) 
-- [Trianguli-3.personal](../../../_personal/astro/Star/Trianguli-3.personal.md) 
-- [Trianguli-3.secret](../../../_secret/astro/Star/Trianguli-3.secret.md) 

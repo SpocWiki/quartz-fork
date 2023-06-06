@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neusandetz=Newy_Sacz](../../../../../../_public/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.md) 
-- [Neusandetz=Newy_Sacz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.internal.md) 
-- [Neusandetz=Newy_Sacz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.protect.md) 
-- [Neusandetz=Newy_Sacz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.private.md) 
-- [Neusandetz=Newy_Sacz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.personal.md) 
-- [Neusandetz=Newy_Sacz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neusandetz=Newy_Sacz.secret.md) 

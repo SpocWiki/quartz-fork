@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dzelvalva](../../../../../../_public/geo/Continent/Europe/Russia/City/Dzelvalva.md) 
-- [Dzelvalva.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Dzelvalva.internal.md) 
-- [Dzelvalva.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Dzelvalva.protect.md) 
-- [Dzelvalva.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Dzelvalva.private.md) 
-- [Dzelvalva.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Dzelvalva.personal.md) 
-- [Dzelvalva.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Dzelvalva.secret.md) 

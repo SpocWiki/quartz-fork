@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Cygni-23](../../../_public/astro/Star/Cygni-23.md) 
-- [Cygni-23.internal](../../../_internal/astro/Star/Cygni-23.internal.md) 
-- [Cygni-23.protect](../../../_protect/astro/Star/Cygni-23.protect.md) 
-- [Cygni-23.private](../../../_private/astro/Star/Cygni-23.private.md) 
-- [Cygni-23.personal](../../../_personal/astro/Star/Cygni-23.personal.md) 
-- [Cygni-23.secret](../../../_secret/astro/Star/Cygni-23.secret.md)
-

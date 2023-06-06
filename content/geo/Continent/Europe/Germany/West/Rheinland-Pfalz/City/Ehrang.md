@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ehrang](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ehrang.md) 
-- [Ehrang.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ehrang.internal.md) 
-- [Ehrang.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ehrang.protect.md) 
-- [Ehrang.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ehrang.private.md) 
-- [Ehrang.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ehrang.personal.md) 
-- [Ehrang.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Ehrang.secret.md) 

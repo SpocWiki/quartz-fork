@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Breteuil](../../../../../../_public/geo/Continent/Europe/France/City/Breteuil.md) 
-- [Breteuil.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Breteuil.internal.md) 
-- [Breteuil.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Breteuil.protect.md) 
-- [Breteuil.private](../../../../../../_private/geo/Continent/Europe/France/City/Breteuil.private.md) 
-- [Breteuil.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Breteuil.personal.md) 
-- [Breteuil.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Breteuil.secret.md) 

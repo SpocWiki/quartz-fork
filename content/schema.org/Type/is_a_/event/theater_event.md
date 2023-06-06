@@ -43,10 +43,3 @@ Event type: Theater performance.
 
 
 
-## Confidential Links & Embeds: 
-- [theater_event](../../../../../_public/schema.org/Type/is_a_/event/theater_event.md) 
-- [theater_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/theater_event.internal.md) 
-- [theater_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/theater_event.protect.md) 
-- [theater_event.private](../../../../../_private/schema.org/Type/is_a_/event/theater_event.private.md) 
-- [theater_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/theater_event.personal.md) 
-- [theater_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/theater_event.secret.md) 

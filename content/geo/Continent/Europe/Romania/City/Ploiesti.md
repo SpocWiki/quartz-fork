@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ploiesti](../../../../../../_public/geo/Continent/Europe/Romania/City/Ploiesti.md) 
-- [Ploiesti.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Ploiesti.internal.md) 
-- [Ploiesti.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Ploiesti.protect.md) 
-- [Ploiesti.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Ploiesti.private.md) 
-- [Ploiesti.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Ploiesti.personal.md) 
-- [Ploiesti.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Ploiesti.secret.md) 

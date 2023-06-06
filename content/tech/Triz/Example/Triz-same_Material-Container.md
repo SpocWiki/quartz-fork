@@ -17,10 +17,3 @@ title: Triz-same_Material-Container
 
 Make the Container out of the same Material as the Contents, to reduce chemical Reactions.
 
-## Confidential Links & Embeds: 
-- [Triz-same_Material-Container](../../../../_public/tech/Triz/Example/Triz-same_Material-Container.md) 
-- [Triz-same_Material-Container.internal](../../../../_internal/tech/Triz/Example/Triz-same_Material-Container.internal.md) 
-- [Triz-same_Material-Container.protect](../../../../_protect/tech/Triz/Example/Triz-same_Material-Container.protect.md) 
-- [Triz-same_Material-Container.private](../../../../_private/tech/Triz/Example/Triz-same_Material-Container.private.md) 
-- [Triz-same_Material-Container.personal](../../../../_personal/tech/Triz/Example/Triz-same_Material-Container.personal.md) 
-- [Triz-same_Material-Container.secret](../../../../_secret/tech/Triz/Example/Triz-same_Material-Container.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Niederrad_Bahnhof](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederrad_Bahnhof.md) 
-- [S-Niederrad_Bahnhof.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederrad_Bahnhof.internal.md) 
-- [S-Niederrad_Bahnhof.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederrad_Bahnhof.protect.md) 
-- [S-Niederrad_Bahnhof.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederrad_Bahnhof.private.md) 
-- [S-Niederrad_Bahnhof.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederrad_Bahnhof.personal.md) 
-- [S-Niederrad_Bahnhof.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederrad_Bahnhof.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tingstaede](../../../../../../_public/geo/Continent/Europe/Sweden/City/Tingstaede.md) 
-- [Tingstaede.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Tingstaede.internal.md) 
-- [Tingstaede.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Tingstaede.protect.md) 
-- [Tingstaede.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Tingstaede.private.md) 
-- [Tingstaede.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Tingstaede.personal.md) 
-- [Tingstaede.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Tingstaede.secret.md) 

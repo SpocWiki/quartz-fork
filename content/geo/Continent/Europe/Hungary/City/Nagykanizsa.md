@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nagykanizsa](../../../../../../_public/geo/Continent/Europe/Hungary/City/Nagykanizsa.md) 
-- [Nagykanizsa.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nagykanizsa.internal.md) 
-- [Nagykanizsa.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nagykanizsa.protect.md) 
-- [Nagykanizsa.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Nagykanizsa.private.md) 
-- [Nagykanizsa.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nagykanizsa.personal.md) 
-- [Nagykanizsa.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nagykanizsa.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape](../../../../_public/tech/Triz/Contradict/Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.md) 
-- [Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.internal.md) 
-- [Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.protect.md) 
-- [Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.private.md) 
-- [Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.personal.md) 
-- [Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Use_a_pneumatic_or_hydralic_construction-Shape.secret.md) 

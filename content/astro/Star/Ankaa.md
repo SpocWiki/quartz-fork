@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Ankaa](../../../_public/astro/Star/Ankaa.md) 
-- [Ankaa.internal](../../../_internal/astro/Star/Ankaa.internal.md) 
-- [Ankaa.protect](../../../_protect/astro/Star/Ankaa.protect.md) 
-- [Ankaa.private](../../../_private/astro/Star/Ankaa.private.md) 
-- [Ankaa.personal](../../../_personal/astro/Star/Ankaa.personal.md) 
-- [Ankaa.secret](../../../_secret/astro/Star/Ankaa.secret.md)
-

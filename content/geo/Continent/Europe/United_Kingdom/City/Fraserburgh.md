@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fraserburgh](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.md) 
-- [Fraserburgh.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.internal.md) 
-- [Fraserburgh.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.protect.md) 
-- [Fraserburgh.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.private.md) 
-- [Fraserburgh.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.personal.md) 
-- [Fraserburgh.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Fraserburgh.secret.md) 

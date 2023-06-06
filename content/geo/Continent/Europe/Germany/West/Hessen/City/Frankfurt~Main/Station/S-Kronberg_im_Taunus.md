@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Kronberg_im_Taunus](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.md) 
-- [S-Kronberg_im_Taunus.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.internal.md) 
-- [S-Kronberg_im_Taunus.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.protect.md) 
-- [S-Kronberg_im_Taunus.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.private.md) 
-- [S-Kronberg_im_Taunus.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.personal.md) 
-- [S-Kronberg_im_Taunus.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Kronberg_im_Taunus.secret.md) 

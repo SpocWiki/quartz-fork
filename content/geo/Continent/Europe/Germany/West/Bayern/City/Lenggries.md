@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lenggries](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Lenggries.md) 
-- [Lenggries.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Lenggries.internal.md) 
-- [Lenggries.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Lenggries.protect.md) 
-- [Lenggries.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Lenggries.private.md) 
-- [Lenggries.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Lenggries.personal.md) 
-- [Lenggries.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Lenggries.secret.md) 

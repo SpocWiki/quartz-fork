@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Walsoerarme](../../../../../../_public/geo/Continent/Europe/Finland/City/Walsoerarme.md) 
-- [Walsoerarme.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Walsoerarme.internal.md) 
-- [Walsoerarme.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Walsoerarme.protect.md) 
-- [Walsoerarme.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Walsoerarme.private.md) 
-- [Walsoerarme.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Walsoerarme.personal.md) 
-- [Walsoerarme.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Walsoerarme.secret.md) 

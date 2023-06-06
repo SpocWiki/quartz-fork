@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montreal](../../../../../../_public/geo/Continent/North-America/Canada/City/Montreal.md) 
-- [Montreal.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Montreal.internal.md) 
-- [Montreal.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Montreal.protect.md) 
-- [Montreal.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Montreal.private.md) 
-- [Montreal.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Montreal.personal.md) 
-- [Montreal.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Montreal.secret.md) 

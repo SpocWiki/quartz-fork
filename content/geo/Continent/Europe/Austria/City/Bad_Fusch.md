@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Fusch](../../../../../../_public/geo/Continent/Europe/Austria/City/Bad_Fusch.md) 
-- [Bad_Fusch.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Bad_Fusch.internal.md) 
-- [Bad_Fusch.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Bad_Fusch.protect.md) 
-- [Bad_Fusch.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Bad_Fusch.private.md) 
-- [Bad_Fusch.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Bad_Fusch.personal.md) 
-- [Bad_Fusch.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Bad_Fusch.secret.md) 

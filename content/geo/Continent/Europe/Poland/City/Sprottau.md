@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sprottau](../../../../../../_public/geo/Continent/Europe/Poland/City/Sprottau.md) 
-- [Sprottau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sprottau.internal.md) 
-- [Sprottau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sprottau.protect.md) 
-- [Sprottau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sprottau.private.md) 
-- [Sprottau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sprottau.personal.md) 
-- [Sprottau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sprottau.secret.md) 

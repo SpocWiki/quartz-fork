@@ -29,10 +29,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Bolongaropalast](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.md) 
-- [T-Bolongaropalast.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.internal.md) 
-- [T-Bolongaropalast.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.protect.md) 
-- [T-Bolongaropalast.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.private.md) 
-- [T-Bolongaropalast.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.personal.md) 
-- [T-Bolongaropalast.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bolongaropalast.secret.md) 

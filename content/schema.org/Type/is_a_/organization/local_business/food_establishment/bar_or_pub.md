@@ -43,10 +43,3 @@ A bar or pub.
 
 
 
-## Confidential Links & Embeds: 
-- [bar_or_pub](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.md) 
-- [bar_or_pub.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.internal.md) 
-- [bar_or_pub.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.protect.md) 
-- [bar_or_pub.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.private.md) 
-- [bar_or_pub.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.personal.md) 
-- [bar_or_pub.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.secret.md) 

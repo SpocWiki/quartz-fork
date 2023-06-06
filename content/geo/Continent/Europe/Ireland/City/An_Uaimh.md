@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [An_Uaimh](../../../../../../_public/geo/Continent/Europe/Ireland/City/An_Uaimh.md) 
-- [An_Uaimh.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/An_Uaimh.internal.md) 
-- [An_Uaimh.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/An_Uaimh.protect.md) 
-- [An_Uaimh.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/An_Uaimh.private.md) 
-- [An_Uaimh.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/An_Uaimh.personal.md) 
-- [An_Uaimh.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/An_Uaimh.secret.md) 

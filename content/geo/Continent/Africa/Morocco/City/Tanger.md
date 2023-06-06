@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tanger](../../../../../../_public/geo/Continent/Africa/Morocco/City/Tanger.md) 
-- [Tanger.internal](../../../../../../_internal/geo/Continent/Africa/Morocco/City/Tanger.internal.md) 
-- [Tanger.protect](../../../../../../_protect/geo/Continent/Africa/Morocco/City/Tanger.protect.md) 
-- [Tanger.private](../../../../../../_private/geo/Continent/Africa/Morocco/City/Tanger.private.md) 
-- [Tanger.personal](../../../../../../_personal/geo/Continent/Africa/Morocco/City/Tanger.personal.md) 
-- [Tanger.secret](../../../../../../_secret/geo/Continent/Africa/Morocco/City/Tanger.secret.md) 

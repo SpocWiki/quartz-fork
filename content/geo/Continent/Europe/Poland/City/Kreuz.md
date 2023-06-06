@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kreuz](../../../../../../_public/geo/Continent/Europe/Poland/City/Kreuz.md) 
-- [Kreuz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kreuz.internal.md) 
-- [Kreuz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kreuz.protect.md) 
-- [Kreuz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kreuz.private.md) 
-- [Kreuz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kreuz.personal.md) 
-- [Kreuz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kreuz.secret.md) 

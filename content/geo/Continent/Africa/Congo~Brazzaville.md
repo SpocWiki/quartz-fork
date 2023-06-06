@@ -32,7 +32,7 @@ markerFolder: ./Congo~Rep/City
 
 ![350](geo/Continent/Africa/Congo~Brazzaville/Coat_of_arms_of_the_Republic_of_the_Congo.svg)
 
-![Anthem-Congo](xLarge/National-Anthem/Anthem-Congo.mp3)
+[Anthem-Congo](xLarge/National-Anthem/Anthem-Congo.mp3)
 
 ![350](geo/Continent/Africa/Congo~Brazzaville/Flag_of_the_Republic_of_the_Congo.svg)
 [Alcohol-l::4.2]
@@ -42,10 +42,3 @@ markerFolder: ./Congo~Rep/City
 
 
 
-## Confidential Links & Embeds: 
-- [Congo~Brazzaville](../../../../_public/geo/Continent/Africa/Congo~Brazzaville.md) 
-- [Congo~Brazzaville.internal](../../../../_internal/geo/Continent/Africa/Congo~Brazzaville.internal.md) 
-- [Congo~Brazzaville.protect](../../../../_protect/geo/Continent/Africa/Congo~Brazzaville.protect.md) 
-- [Congo~Brazzaville.private](../../../../_private/geo/Continent/Africa/Congo~Brazzaville.private.md) 
-- [Congo~Brazzaville.personal](../../../../_personal/geo/Continent/Africa/Congo~Brazzaville.personal.md) 
-- [Congo~Brazzaville.secret](../../../../_secret/geo/Continent/Africa/Congo~Brazzaville.secret.md) 

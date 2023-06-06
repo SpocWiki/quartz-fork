@@ -19,10 +19,3 @@ title: Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_obj
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.md) 
-- [Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.internal.md) 
-- [Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.protect.md) 
-- [Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.private.md) 
-- [Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.personal.md) 
-- [Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.secret.md) 

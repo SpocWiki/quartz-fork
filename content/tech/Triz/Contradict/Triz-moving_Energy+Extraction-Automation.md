@@ -19,10 +19,3 @@ title: Triz-moving_Energy+Extraction-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy+Extraction-Automation](../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Automation.md) 
-- [Triz-moving_Energy+Extraction-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Automation.internal.md) 
-- [Triz-moving_Energy+Extraction-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Automation.protect.md) 
-- [Triz-moving_Energy+Extraction-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Automation.private.md) 
-- [Triz-moving_Energy+Extraction-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Automation.personal.md) 
-- [Triz-moving_Energy+Extraction-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Automation.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kongsvinger](../../../../../../_public/geo/Continent/Europe/Norway/City/Kongsvinger.md) 
-- [Kongsvinger.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Kongsvinger.internal.md) 
-- [Kongsvinger.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Kongsvinger.protect.md) 
-- [Kongsvinger.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Kongsvinger.private.md) 
-- [Kongsvinger.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Kongsvinger.personal.md) 
-- [Kongsvinger.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Kongsvinger.secret.md) 

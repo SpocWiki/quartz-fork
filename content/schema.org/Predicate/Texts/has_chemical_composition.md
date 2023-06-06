@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_chemical_composition](../../../../_public/schema.org/Predicate/Texts/has_chemical_composition.md) 
-- [has_chemical_composition.internal](../../../../_internal/schema.org/Predicate/Texts/has_chemical_composition.internal.md) 
-- [has_chemical_composition.protect](../../../../_protect/schema.org/Predicate/Texts/has_chemical_composition.protect.md) 
-- [has_chemical_composition.private](../../../../_private/schema.org/Predicate/Texts/has_chemical_composition.private.md) 
-- [has_chemical_composition.personal](../../../../_personal/schema.org/Predicate/Texts/has_chemical_composition.personal.md) 
-- [has_chemical_composition.secret](../../../../_secret/schema.org/Predicate/Texts/has_chemical_composition.secret.md) 

@@ -17,10 +17,3 @@ title: Triz-Stress
 
 Stress or pressure
 
-## Confidential Links & Embeds: 
-- [Triz-Stress](../../../../_public/tech/Triz/Parameter/Triz-Stress.md) 
-- [Triz-Stress.internal](../../../../_internal/tech/Triz/Parameter/Triz-Stress.internal.md) 
-- [Triz-Stress.protect](../../../../_protect/tech/Triz/Parameter/Triz-Stress.protect.md) 
-- [Triz-Stress.private](../../../../_private/tech/Triz/Parameter/Triz-Stress.private.md) 
-- [Triz-Stress.personal](../../../../_personal/tech/Triz/Parameter/Triz-Stress.personal.md) 
-- [Triz-Stress.secret](../../../../_secret/tech/Triz/Parameter/Triz-Stress.secret.md) 

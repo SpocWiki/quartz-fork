@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Extraction-stationary_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Extraction-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.md) 
-- [Triz-stationary_Weight+Extraction-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.internal.md) 
-- [Triz-stationary_Weight+Extraction-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.protect.md) 
-- [Triz-stationary_Weight+Extraction-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.private.md) 
-- [Triz-stationary_Weight+Extraction-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.personal.md) 
-- [Triz-stationary_Weight+Extraction-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-stationary_Area.secret.md) 

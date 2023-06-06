@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Talmay](../../../../../../_public/geo/Continent/Europe/France/City/Talmay.md) 
-- [Talmay.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Talmay.internal.md) 
-- [Talmay.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Talmay.protect.md) 
-- [Talmay.private](../../../../../../_private/geo/Continent/Europe/France/City/Talmay.private.md) 
-- [Talmay.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Talmay.personal.md) 
-- [Talmay.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Talmay.secret.md) 

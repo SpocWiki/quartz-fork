@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tschischkowitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.md) 
-- [Tschischkowitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.internal.md) 
-- [Tschischkowitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.protect.md) 
-- [Tschischkowitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.private.md) 
-- [Tschischkowitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.personal.md) 
-- [Tschischkowitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tschischkowitz.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poolle](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Poolle.md) 
-- [Poolle.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Poolle.internal.md) 
-- [Poolle.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Poolle.protect.md) 
-- [Poolle.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Poolle.private.md) 
-- [Poolle.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Poolle.personal.md) 
-- [Poolle.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Poolle.secret.md) 

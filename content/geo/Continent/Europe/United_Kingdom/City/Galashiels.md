@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Galashiels](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Galashiels.md) 
-- [Galashiels.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Galashiels.internal.md) 
-- [Galashiels.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Galashiels.protect.md) 
-- [Galashiels.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Galashiels.private.md) 
-- [Galashiels.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Galashiels.personal.md) 
-- [Galashiels.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Galashiels.secret.md) 

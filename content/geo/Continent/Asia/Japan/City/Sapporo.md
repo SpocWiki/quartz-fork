@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sapporo](../../../../../../_public/geo/Continent/Asia/Japan/City/Sapporo.md) 
-- [Sapporo.internal](../../../../../../_internal/geo/Continent/Asia/Japan/City/Sapporo.internal.md) 
-- [Sapporo.protect](../../../../../../_protect/geo/Continent/Asia/Japan/City/Sapporo.protect.md) 
-- [Sapporo.private](../../../../../../_private/geo/Continent/Asia/Japan/City/Sapporo.private.md) 
-- [Sapporo.personal](../../../../../../_personal/geo/Continent/Asia/Japan/City/Sapporo.personal.md) 
-- [Sapporo.secret](../../../../../../_secret/geo/Continent/Asia/Japan/City/Sapporo.secret.md) 

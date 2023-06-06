@@ -45,10 +45,3 @@ A short TV or radio program or a segment/part of a program.
 
 
 
-## Confidential Links & Embeds: 
-- [clip](../../../../../_public/schema.org/Type/is_a_/creative_work/clip.md) 
-- [clip.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/clip.internal.md) 
-- [clip.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/clip.protect.md) 
-- [clip.private](../../../../../_private/schema.org/Type/is_a_/creative_work/clip.private.md) 
-- [clip.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/clip.personal.md) 
-- [clip.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/clip.secret.md) 

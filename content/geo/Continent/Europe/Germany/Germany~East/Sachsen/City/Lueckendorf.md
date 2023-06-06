@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lueckendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lueckendorf.md) 
-- [Lueckendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lueckendorf.internal.md) 
-- [Lueckendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lueckendorf.protect.md) 
-- [Lueckendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lueckendorf.private.md) 
-- [Lueckendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lueckendorf.personal.md) 
-- [Lueckendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lueckendorf.secret.md) 

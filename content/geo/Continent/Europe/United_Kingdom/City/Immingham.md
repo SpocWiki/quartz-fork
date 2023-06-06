@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Immingham](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Immingham.md) 
-- [Immingham.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Immingham.internal.md) 
-- [Immingham.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Immingham.protect.md) 
-- [Immingham.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Immingham.private.md) 
-- [Immingham.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Immingham.personal.md) 
-- [Immingham.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Immingham.secret.md) 

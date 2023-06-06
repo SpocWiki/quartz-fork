@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_verification_fact_checking_policy](../../../../../_public/schema.org/Predicate/Relations/has/has_verification_fact_checking_policy.md) 
-- [has_verification_fact_checking_policy.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_verification_fact_checking_policy.internal.md) 
-- [has_verification_fact_checking_policy.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_verification_fact_checking_policy.protect.md) 
-- [has_verification_fact_checking_policy.private](../../../../../_private/schema.org/Predicate/Relations/has/has_verification_fact_checking_policy.private.md) 
-- [has_verification_fact_checking_policy.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_verification_fact_checking_policy.personal.md) 
-- [has_verification_fact_checking_policy.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_verification_fact_checking_policy.secret.md) 

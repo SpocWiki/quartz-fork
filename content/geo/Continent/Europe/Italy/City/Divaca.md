@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Divaca](../../../../../../_public/geo/Continent/Europe/Italy/City/Divaca.md) 
-- [Divaca.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Divaca.internal.md) 
-- [Divaca.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Divaca.protect.md) 
-- [Divaca.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Divaca.private.md) 
-- [Divaca.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Divaca.personal.md) 
-- [Divaca.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Divaca.secret.md) 

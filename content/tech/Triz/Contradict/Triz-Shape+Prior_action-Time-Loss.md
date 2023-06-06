@@ -19,10 +19,3 @@ title: Triz-Shape+Prior_action-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Prior_action-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.md) 
-- [Triz-Shape+Prior_action-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.internal.md) 
-- [Triz-Shape+Prior_action-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.protect.md) 
-- [Triz-Shape+Prior_action-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.private.md) 
-- [Triz-Shape+Prior_action-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.personal.md) 
-- [Triz-Shape+Prior_action-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Prior_action-Time-Loss.secret.md) 

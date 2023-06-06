@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rykowskoje](../../../../../../_public/geo/Continent/Europe/Russia/City/Rykowskoje.md) 
-- [Rykowskoje.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Rykowskoje.internal.md) 
-- [Rykowskoje.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Rykowskoje.protect.md) 
-- [Rykowskoje.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Rykowskoje.private.md) 
-- [Rykowskoje.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Rykowskoje.personal.md) 
-- [Rykowskoje.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Rykowskoje.secret.md) 

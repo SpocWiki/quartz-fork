@@ -47,10 +47,3 @@ Represents the distance fee (e.g., price per km or mile) part of the total price
 
 
 
-## Confidential Links & Embeds: 
-- [distance_fee](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.md) 
-- [distance_fee.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.internal.md) 
-- [distance_fee.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.protect.md) 
-- [distance_fee.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.private.md) 
-- [distance_fee.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.personal.md) 
-- [distance_fee.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.secret.md) 

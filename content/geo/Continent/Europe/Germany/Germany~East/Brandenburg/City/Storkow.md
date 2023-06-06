@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Storkow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.md) 
-- [Storkow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.internal.md) 
-- [Storkow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.protect.md) 
-- [Storkow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.private.md) 
-- [Storkow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.personal.md) 
-- [Storkow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Storkow.secret.md) 

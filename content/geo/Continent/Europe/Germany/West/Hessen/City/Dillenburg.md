@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dillenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Dillenburg.md) 
-- [Dillenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dillenburg.internal.md) 
-- [Dillenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dillenburg.protect.md) 
-- [Dillenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dillenburg.private.md) 
-- [Dillenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Dillenburg.personal.md) 
-- [Dillenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Dillenburg.secret.md) 

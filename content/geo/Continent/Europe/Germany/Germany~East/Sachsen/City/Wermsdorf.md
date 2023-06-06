@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wermsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wermsdorf.md) 
-- [Wermsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wermsdorf.internal.md) 
-- [Wermsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wermsdorf.protect.md) 
-- [Wermsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wermsdorf.private.md) 
-- [Wermsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wermsdorf.personal.md) 
-- [Wermsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wermsdorf.secret.md) 

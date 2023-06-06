@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_government_benefits_info](../../../../../_public/schema.org/Predicate/Relations/has/has_government_benefits_info.md) 
-- [has_government_benefits_info.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_government_benefits_info.internal.md) 
-- [has_government_benefits_info.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_government_benefits_info.protect.md) 
-- [has_government_benefits_info.private](../../../../../_private/schema.org/Predicate/Relations/has/has_government_benefits_info.private.md) 
-- [has_government_benefits_info.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_government_benefits_info.personal.md) 
-- [has_government_benefits_info.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_government_benefits_info.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwarmitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Schwarmitz.md) 
-- [Schwarmitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwarmitz.internal.md) 
-- [Schwarmitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwarmitz.protect.md) 
-- [Schwarmitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schwarmitz.private.md) 
-- [Schwarmitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwarmitz.personal.md) 
-- [Schwarmitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwarmitz.secret.md) 

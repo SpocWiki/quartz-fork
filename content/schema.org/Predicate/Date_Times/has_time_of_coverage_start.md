@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_time_of_coverage_start](../../../../_public/schema.org/Predicate/Date_Times/has_time_of_coverage_start.md) 
-- [has_time_of_coverage_start.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_coverage_start.internal.md) 
-- [has_time_of_coverage_start.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_coverage_start.protect.md) 
-- [has_time_of_coverage_start.private](../../../../_private/schema.org/Predicate/Date_Times/has_time_of_coverage_start.private.md) 
-- [has_time_of_coverage_start.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_coverage_start.personal.md) 
-- [has_time_of_coverage_start.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_coverage_start.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gurjew](../../../../../../_public/geo/Continent/Europe/Russia/City/Gurjew.md) 
-- [Gurjew.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Gurjew.internal.md) 
-- [Gurjew.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Gurjew.protect.md) 
-- [Gurjew.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Gurjew.private.md) 
-- [Gurjew.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Gurjew.personal.md) 
-- [Gurjew.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Gurjew.secret.md) 

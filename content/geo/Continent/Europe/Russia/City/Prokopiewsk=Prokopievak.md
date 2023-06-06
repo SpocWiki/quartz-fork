@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Prokopiewsk=Prokopievak](../../../../../../_public/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.md) 
-- [Prokopiewsk=Prokopievak.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.internal.md) 
-- [Prokopiewsk=Prokopievak.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.protect.md) 
-- [Prokopiewsk=Prokopievak.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.private.md) 
-- [Prokopiewsk=Prokopievak.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.personal.md) 
-- [Prokopiewsk=Prokopievak.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.secret.md) 

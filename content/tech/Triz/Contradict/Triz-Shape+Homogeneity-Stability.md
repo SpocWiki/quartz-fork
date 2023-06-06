@@ -19,10 +19,3 @@ title: Triz-Shape+Homogeneity-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Homogeneity-Stability](../../../../_public/tech/Triz/Contradict/Triz-Shape+Homogeneity-Stability.md) 
-- [Triz-Shape+Homogeneity-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Homogeneity-Stability.internal.md) 
-- [Triz-Shape+Homogeneity-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Homogeneity-Stability.protect.md) 
-- [Triz-Shape+Homogeneity-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Homogeneity-Stability.private.md) 
-- [Triz-Shape+Homogeneity-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Homogeneity-Stability.personal.md) 
-- [Triz-Shape+Homogeneity-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Homogeneity-Stability.secret.md) 

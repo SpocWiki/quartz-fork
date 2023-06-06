@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bazas](../../../../../../_public/geo/Continent/Europe/France/City/Bazas.md) 
-- [Bazas.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bazas.internal.md) 
-- [Bazas.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bazas.protect.md) 
-- [Bazas.private](../../../../../../_private/geo/Continent/Europe/France/City/Bazas.private.md) 
-- [Bazas.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bazas.personal.md) 
-- [Bazas.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bazas.secret.md) 

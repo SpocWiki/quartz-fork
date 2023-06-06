@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jorvinen](../../../../../../_public/geo/Continent/Europe/Finland/City/Jorvinen.md) 
-- [Jorvinen.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Jorvinen.internal.md) 
-- [Jorvinen.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Jorvinen.protect.md) 
-- [Jorvinen.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Jorvinen.private.md) 
-- [Jorvinen.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Jorvinen.personal.md) 
-- [Jorvinen.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Jorvinen.secret.md) 

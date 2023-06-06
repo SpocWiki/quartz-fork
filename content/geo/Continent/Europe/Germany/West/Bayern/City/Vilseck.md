@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vilseck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Vilseck.md) 
-- [Vilseck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Vilseck.internal.md) 
-- [Vilseck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Vilseck.protect.md) 
-- [Vilseck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Vilseck.private.md) 
-- [Vilseck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Vilseck.personal.md) 
-- [Vilseck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Vilseck.secret.md) 

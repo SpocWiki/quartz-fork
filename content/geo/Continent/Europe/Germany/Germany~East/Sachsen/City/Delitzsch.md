@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Delitzsch](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Delitzsch.md) 
-- [Delitzsch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Delitzsch.internal.md) 
-- [Delitzsch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Delitzsch.protect.md) 
-- [Delitzsch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Delitzsch.private.md) 
-- [Delitzsch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Delitzsch.personal.md) 
-- [Delitzsch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Delitzsch.secret.md) 

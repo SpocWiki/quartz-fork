@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cavour](../../../../../../_public/geo/Continent/Europe/Italy/City/Cavour.md) 
-- [Cavour.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cavour.internal.md) 
-- [Cavour.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cavour.protect.md) 
-- [Cavour.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cavour.private.md) 
-- [Cavour.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cavour.personal.md) 
-- [Cavour.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cavour.secret.md) 

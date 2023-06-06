@@ -19,10 +19,3 @@ title: Triz-Stress+Phase_transition-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Phase_transition-Speed](../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-Speed.md) 
-- [Triz-Stress+Phase_transition-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Speed.internal.md) 
-- [Triz-Stress+Phase_transition-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Phase_transition-Speed.protect.md) 
-- [Triz-Stress+Phase_transition-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Phase_transition-Speed.private.md) 
-- [Triz-Stress+Phase_transition-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Speed.personal.md) 
-- [Triz-Stress+Phase_transition-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Phase_transition-Speed.secret.md) 

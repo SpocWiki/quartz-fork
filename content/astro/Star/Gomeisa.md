@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Gomeisa](../../../_public/astro/Star/Gomeisa.md) 
-- [Gomeisa.internal](../../../_internal/astro/Star/Gomeisa.internal.md) 
-- [Gomeisa.protect](../../../_protect/astro/Star/Gomeisa.protect.md) 
-- [Gomeisa.private](../../../_private/astro/Star/Gomeisa.private.md) 
-- [Gomeisa.personal](../../../_personal/astro/Star/Gomeisa.personal.md) 
-- [Gomeisa.secret](../../../_secret/astro/Star/Gomeisa.secret.md)
-

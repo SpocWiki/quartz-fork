@@ -124,7 +124,7 @@ markerFolder: ./Spain/City
 [VehicleCode::E]
 [Capital::[Madrid](geo/Continent/Europe/Spain/City/Madrid.md)]
 ![350](geo/Continent/Europe/Spain/Escudo_de_Espa%C3%B1a_(mazonado).svg)
-![Anthem-Spain-complete](xLarge/National-Anthem/Anthem-Spain-complete.mp3)
+[Anthem-Spain-complete](xLarge/National-Anthem/Anthem-Spain-complete.mp3)
 ![350](geo/Continent/Europe/Spain/Flag_of_Spain.svg)
 [Alcohol-l::11.6]
 [Language-Id::492]
@@ -133,10 +133,3 @@ markerFolder: ./Spain/City
 
 
 
-## Confidential Links & Embeds: 
-- [Spain](../../../../_public/geo/Continent/Europe/Spain.md) 
-- [Spain.internal](../../../../_internal/geo/Continent/Europe/Spain.internal.md) 
-- [Spain.protect](../../../../_protect/geo/Continent/Europe/Spain.protect.md) 
-- [Spain.private](../../../../_private/geo/Continent/Europe/Spain.private.md) 
-- [Spain.personal](../../../../_personal/geo/Continent/Europe/Spain.personal.md) 
-- [Spain.secret](../../../../_secret/geo/Continent/Europe/Spain.secret.md) 

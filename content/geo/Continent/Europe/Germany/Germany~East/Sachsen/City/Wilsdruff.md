@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wilsdruff](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilsdruff.md) 
-- [Wilsdruff.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilsdruff.internal.md) 
-- [Wilsdruff.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilsdruff.protect.md) 
-- [Wilsdruff.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilsdruff.private.md) 
-- [Wilsdruff.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilsdruff.personal.md) 
-- [Wilsdruff.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilsdruff.secret.md) 

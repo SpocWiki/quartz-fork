@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mbabane](../../../../../../_public/geo/Continent/Africa/Swaziland/City/Mbabane.md) 
-- [Mbabane.internal](../../../../../../_internal/geo/Continent/Africa/Swaziland/City/Mbabane.internal.md) 
-- [Mbabane.protect](../../../../../../_protect/geo/Continent/Africa/Swaziland/City/Mbabane.protect.md) 
-- [Mbabane.private](../../../../../../_private/geo/Continent/Africa/Swaziland/City/Mbabane.private.md) 
-- [Mbabane.personal](../../../../../../_personal/geo/Continent/Africa/Swaziland/City/Mbabane.personal.md) 
-- [Mbabane.secret](../../../../../../_secret/geo/Continent/Africa/Swaziland/City/Mbabane.secret.md) 

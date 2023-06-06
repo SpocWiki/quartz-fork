@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Algeberg](../../../../../../_public/geo/Continent/Europe/Russia/City/Algeberg.md) 
-- [Algeberg.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Algeberg.internal.md) 
-- [Algeberg.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Algeberg.protect.md) 
-- [Algeberg.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Algeberg.private.md) 
-- [Algeberg.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Algeberg.personal.md) 
-- [Algeberg.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Algeberg.secret.md) 

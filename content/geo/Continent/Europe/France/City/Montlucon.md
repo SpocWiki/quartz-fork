@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montlucon](../../../../../../_public/geo/Continent/Europe/France/City/Montlucon.md) 
-- [Montlucon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Montlucon.internal.md) 
-- [Montlucon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Montlucon.protect.md) 
-- [Montlucon.private](../../../../../../_private/geo/Continent/Europe/France/City/Montlucon.private.md) 
-- [Montlucon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Montlucon.personal.md) 
-- [Montlucon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Montlucon.secret.md) 

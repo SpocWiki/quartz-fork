@@ -45,10 +45,3 @@ Book format: Hardcover.
 
 
 
-## Confidential Links & Embeds: 
-- [hardcover](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.md) 
-- [hardcover.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.internal.md) 
-- [hardcover.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.protect.md) 
-- [hardcover.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.private.md) 
-- [hardcover.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.personal.md) 
-- [hardcover.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/book_format_type/hardcover.secret.md) 

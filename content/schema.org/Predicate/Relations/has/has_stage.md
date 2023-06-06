@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_stage](../../../../../_public/schema.org/Predicate/Relations/has/has_stage.md) 
-- [has_stage.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_stage.internal.md) 
-- [has_stage.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_stage.protect.md) 
-- [has_stage.private](../../../../../_private/schema.org/Predicate/Relations/has/has_stage.private.md) 
-- [has_stage.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_stage.personal.md) 
-- [has_stage.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_stage.secret.md) 

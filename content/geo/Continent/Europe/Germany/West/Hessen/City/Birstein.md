@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Birstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Birstein.md) 
-- [Birstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Birstein.internal.md) 
-- [Birstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Birstein.protect.md) 
-- [Birstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Birstein.private.md) 
-- [Birstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Birstein.personal.md) 
-- [Birstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Birstein.secret.md) 

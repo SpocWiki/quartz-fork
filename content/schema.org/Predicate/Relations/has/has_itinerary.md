@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_itinerary](../../../../../_public/schema.org/Predicate/Relations/has/has_itinerary.md) 
-- [has_itinerary.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_itinerary.internal.md) 
-- [has_itinerary.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_itinerary.protect.md) 
-- [has_itinerary.private](../../../../../_private/schema.org/Predicate/Relations/has/has_itinerary.private.md) 
-- [has_itinerary.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_itinerary.personal.md) 
-- [has_itinerary.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_itinerary.secret.md) 

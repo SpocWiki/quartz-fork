@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spalato=Split](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.md) 
-- [Spalato=Split.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.internal.md) 
-- [Spalato=Split.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.protect.md) 
-- [Spalato=Split.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.private.md) 
-- [Spalato=Split.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.personal.md) 
-- [Spalato=Split.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Spalato=Split.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kriftel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Kriftel.md) 
-- [Kriftel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kriftel.internal.md) 
-- [Kriftel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kriftel.protect.md) 
-- [Kriftel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kriftel.private.md) 
-- [Kriftel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Kriftel.personal.md) 
-- [Kriftel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Kriftel.secret.md) 

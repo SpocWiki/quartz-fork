@@ -47,10 +47,3 @@ German size system for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_system_de](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.md) 
-- [wearable_size_system_de.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.internal.md) 
-- [wearable_size_system_de.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.protect.md) 
-- [wearable_size_system_de.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.private.md) 
-- [wearable_size_system_de.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.personal.md) 
-- [wearable_size_system_de.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_de.secret.md) 

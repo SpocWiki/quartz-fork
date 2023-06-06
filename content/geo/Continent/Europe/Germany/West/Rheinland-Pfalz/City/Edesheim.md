@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Edesheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edesheim.md) 
-- [Edesheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edesheim.internal.md) 
-- [Edesheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edesheim.protect.md) 
-- [Edesheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edesheim.private.md) 
-- [Edesheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edesheim.personal.md) 
-- [Edesheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Edesheim.secret.md) 

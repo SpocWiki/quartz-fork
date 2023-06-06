@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kyle](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kyle.md) 
-- [Kyle.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kyle.internal.md) 
-- [Kyle.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kyle.protect.md) 
-- [Kyle.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kyle.private.md) 
-- [Kyle.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kyle.personal.md) 
-- [Kyle.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kyle.secret.md) 

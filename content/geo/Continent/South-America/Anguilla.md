@@ -115,7 +115,7 @@ markerFolder: ./Anguilla/City
 
 ![350](geo/Continent/South-America/Anguilla/Coat_of_arms_of_Anguilla.svg)
 
-![Anthem-Anguilla.mp3](Anthem-Anguilla.mp3)
+[Anthem-Anguilla.mp3](Anthem-Anguilla.mp3)
 
 ![350](geo/Continent/South-America/Anguilla/Flag_of_Anguilla.svg)
 
@@ -131,10 +131,3 @@ markerFolder: ./Anguilla/City
 
 
 
-## Confidential Links & Embeds: 
-- [Anguilla](../../../../_public/geo/Continent/South-America/Anguilla.md) 
-- [Anguilla.internal](../../../../_internal/geo/Continent/South-America/Anguilla.internal.md) 
-- [Anguilla.protect](../../../../_protect/geo/Continent/South-America/Anguilla.protect.md) 
-- [Anguilla.private](../../../../_private/geo/Continent/South-America/Anguilla.private.md) 
-- [Anguilla.personal](../../../../_personal/geo/Continent/South-America/Anguilla.personal.md) 
-- [Anguilla.secret](../../../../_secret/geo/Continent/South-America/Anguilla.secret.md) 

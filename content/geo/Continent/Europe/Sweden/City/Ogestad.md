@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ogestad](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ogestad.md) 
-- [Ogestad.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ogestad.internal.md) 
-- [Ogestad.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ogestad.protect.md) 
-- [Ogestad.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ogestad.private.md) 
-- [Ogestad.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ogestad.personal.md) 
-- [Ogestad.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ogestad.secret.md) 

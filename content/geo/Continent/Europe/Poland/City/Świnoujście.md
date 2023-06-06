@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Świnoujście](../../../../../../_public/geo/Continent/Europe/Poland/City/%C5%9Awinouj%C5%9Bcie.md) 
-- [Świnoujście.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/%C5%9Awinouj%C5%9Bcie.internal.md) 
-- [Świnoujście.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/%C5%9Awinouj%C5%9Bcie.protect.md) 
-- [Świnoujście.private](../../../../../../_private/geo/Continent/Europe/Poland/City/%C5%9Awinouj%C5%9Bcie.private.md) 
-- [Świnoujście.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/%C5%9Awinouj%C5%9Bcie.personal.md) 
-- [Świnoujście.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/%C5%9Awinouj%C5%9Bcie.secret.md) 

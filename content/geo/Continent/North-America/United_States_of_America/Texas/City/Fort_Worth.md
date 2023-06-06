@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fort_Worth](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.md) 
-- [Fort_Worth.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.internal.md) 
-- [Fort_Worth.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.protect.md) 
-- [Fort_Worth.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.private.md) 
-- [Fort_Worth.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.personal.md) 
-- [Fort_Worth.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/Fort_Worth.secret.md) 

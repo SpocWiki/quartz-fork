@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zeltingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zeltingen.md) 
-- [Zeltingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zeltingen.internal.md) 
-- [Zeltingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zeltingen.protect.md) 
-- [Zeltingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zeltingen.private.md) 
-- [Zeltingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zeltingen.personal.md) 
-- [Zeltingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zeltingen.secret.md) 

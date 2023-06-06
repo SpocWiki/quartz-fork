@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Granville_Normandie](../../../../../../_public/geo/Continent/Europe/France/City/Granville_Normandie.md) 
-- [Granville_Normandie.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Granville_Normandie.internal.md) 
-- [Granville_Normandie.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Granville_Normandie.protect.md) 
-- [Granville_Normandie.private](../../../../../../_private/geo/Continent/Europe/France/City/Granville_Normandie.private.md) 
-- [Granville_Normandie.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Granville_Normandie.personal.md) 
-- [Granville_Normandie.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Granville_Normandie.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harlange](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Harlange.md) 
-- [Harlange.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Harlange.internal.md) 
-- [Harlange.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Harlange.protect.md) 
-- [Harlange.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Harlange.private.md) 
-- [Harlange.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Harlange.personal.md) 
-- [Harlange.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Harlange.secret.md) 

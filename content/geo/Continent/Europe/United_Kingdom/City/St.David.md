@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.David](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.David.md) 
-- [St.David.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.David.internal.md) 
-- [St.David.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.David.protect.md) 
-- [St.David.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.David.private.md) 
-- [St.David.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.David.personal.md) 
-- [St.David.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.David.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuoetting](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neuoetting.md) 
-- [Neuoetting.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neuoetting.internal.md) 
-- [Neuoetting.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neuoetting.protect.md) 
-- [Neuoetting.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neuoetting.private.md) 
-- [Neuoetting.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neuoetting.personal.md) 
-- [Neuoetting.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neuoetting.secret.md) 

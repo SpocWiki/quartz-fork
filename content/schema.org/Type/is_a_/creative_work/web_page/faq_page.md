@@ -43,10 +43,3 @@ A <a class="localLink" href="/FAQPage">FAQPage</a> is a <a class="localLink" hre
 
 
 
-## Confidential Links & Embeds: 
-- [faq_page](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/faq_page.md) 
-- [faq_page.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/faq_page.internal.md) 
-- [faq_page.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/faq_page.protect.md) 
-- [faq_page.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/faq_page.private.md) 
-- [faq_page.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/faq_page.personal.md) 
-- [faq_page.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/faq_page.secret.md) 

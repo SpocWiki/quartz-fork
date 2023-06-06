@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nied](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Nied.md) 
-- [Nied.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nied.internal.md) 
-- [Nied.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nied.protect.md) 
-- [Nied.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nied.private.md) 
-- [Nied.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Nied.personal.md) 
-- [Nied.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Nied.secret.md) 

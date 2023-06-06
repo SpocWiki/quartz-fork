@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abisko](../../../../../../_public/geo/Continent/Europe/Sweden/City/Abisko.md) 
-- [Abisko.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Abisko.internal.md) 
-- [Abisko.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Abisko.protect.md) 
-- [Abisko.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Abisko.private.md) 
-- [Abisko.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Abisko.personal.md) 
-- [Abisko.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Abisko.secret.md) 

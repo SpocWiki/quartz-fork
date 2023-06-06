@@ -19,10 +19,3 @@ title: Triz-moving_Area+Prior_counteracion-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Prior_counteracion-Reliability](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.md) 
-- [Triz-moving_Area+Prior_counteracion-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.internal.md) 
-- [Triz-moving_Area+Prior_counteracion-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.protect.md) 
-- [Triz-moving_Area+Prior_counteracion-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.private.md) 
-- [Triz-moving_Area+Prior_counteracion-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.personal.md) 
-- [Triz-moving_Area+Prior_counteracion-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Prior_counteracion-Reliability.secret.md) 

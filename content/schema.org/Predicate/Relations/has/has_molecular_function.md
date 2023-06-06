@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_molecular_function](../../../../../_public/schema.org/Predicate/Relations/has/has_molecular_function.md) 
-- [has_molecular_function.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_molecular_function.internal.md) 
-- [has_molecular_function.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_molecular_function.protect.md) 
-- [has_molecular_function.private](../../../../../_private/schema.org/Predicate/Relations/has/has_molecular_function.private.md) 
-- [has_molecular_function.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_molecular_function.personal.md) 
-- [has_molecular_function.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_molecular_function.secret.md) 

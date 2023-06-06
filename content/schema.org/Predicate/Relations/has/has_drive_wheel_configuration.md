@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_drive_wheel_configuration](../../../../../_public/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.md) 
-- [has_drive_wheel_configuration.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.internal.md) 
-- [has_drive_wheel_configuration.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.protect.md) 
-- [has_drive_wheel_configuration.private](../../../../../_private/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.private.md) 
-- [has_drive_wheel_configuration.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.personal.md) 
-- [has_drive_wheel_configuration.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.secret.md) 

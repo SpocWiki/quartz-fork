@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Epsom](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Epsom.md) 
-- [Epsom.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Epsom.internal.md) 
-- [Epsom.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Epsom.protect.md) 
-- [Epsom.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Epsom.private.md) 
-- [Epsom.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Epsom.personal.md) 
-- [Epsom.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Epsom.secret.md) 

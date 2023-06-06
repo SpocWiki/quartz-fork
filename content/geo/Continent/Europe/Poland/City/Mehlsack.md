@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mehlsack](../../../../../../_public/geo/Continent/Europe/Poland/City/Mehlsack.md) 
-- [Mehlsack.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Mehlsack.internal.md) 
-- [Mehlsack.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Mehlsack.protect.md) 
-- [Mehlsack.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Mehlsack.private.md) 
-- [Mehlsack.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Mehlsack.personal.md) 
-- [Mehlsack.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Mehlsack.secret.md) 

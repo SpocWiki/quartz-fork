@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Niederhöchstadt](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederh%C3%B6chstadt.md) 
-- [S-Niederhöchstadt.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederh%C3%B6chstadt.internal.md) 
-- [S-Niederhöchstadt.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederh%C3%B6chstadt.protect.md) 
-- [S-Niederhöchstadt.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederh%C3%B6chstadt.private.md) 
-- [S-Niederhöchstadt.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederh%C3%B6chstadt.personal.md) 
-- [S-Niederhöchstadt.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Niederh%C3%B6chstadt.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Carden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Carden.md) 
-- [Carden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Carden.internal.md) 
-- [Carden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Carden.protect.md) 
-- [Carden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Carden.private.md) 
-- [Carden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Carden.personal.md) 
-- [Carden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Carden.secret.md) 

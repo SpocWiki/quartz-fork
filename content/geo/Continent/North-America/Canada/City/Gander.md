@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gander](../../../../../../_public/geo/Continent/North-America/Canada/City/Gander.md) 
-- [Gander.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Gander.internal.md) 
-- [Gander.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Gander.protect.md) 
-- [Gander.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Gander.private.md) 
-- [Gander.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Gander.personal.md) 
-- [Gander.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Gander.secret.md) 

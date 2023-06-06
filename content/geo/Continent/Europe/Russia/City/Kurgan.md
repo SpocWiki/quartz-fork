@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kurgan](../../../../../../_public/geo/Continent/Europe/Russia/City/Kurgan.md) 
-- [Kurgan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kurgan.internal.md) 
-- [Kurgan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kurgan.protect.md) 
-- [Kurgan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kurgan.private.md) 
-- [Kurgan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kurgan.personal.md) 
-- [Kurgan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kurgan.secret.md) 

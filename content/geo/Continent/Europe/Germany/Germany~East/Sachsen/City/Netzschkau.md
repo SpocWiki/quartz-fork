@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Netzschkau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Netzschkau.md) 
-- [Netzschkau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Netzschkau.internal.md) 
-- [Netzschkau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Netzschkau.protect.md) 
-- [Netzschkau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Netzschkau.private.md) 
-- [Netzschkau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Netzschkau.personal.md) 
-- [Netzschkau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Netzschkau.secret.md) 

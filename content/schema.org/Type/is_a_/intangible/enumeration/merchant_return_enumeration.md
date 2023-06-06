@@ -45,10 +45,3 @@ Enumerates several kinds of product return policies.
 
 
 
-## Confidential Links & Embeds: 
-- [merchant_return_enumeration](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.md) 
-- [merchant_return_enumeration.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.internal.md) 
-- [merchant_return_enumeration.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.protect.md) 
-- [merchant_return_enumeration.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.private.md) 
-- [merchant_return_enumeration.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.personal.md) 
-- [merchant_return_enumeration.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.secret.md) 

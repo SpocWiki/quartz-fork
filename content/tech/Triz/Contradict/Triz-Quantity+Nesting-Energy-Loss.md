@@ -19,10 +19,3 @@ title: Triz-Quantity+Nesting-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Nesting-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Nesting-Energy-Loss.md) 
-- [Triz-Quantity+Nesting-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Nesting-Energy-Loss.internal.md) 
-- [Triz-Quantity+Nesting-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Nesting-Energy-Loss.protect.md) 
-- [Triz-Quantity+Nesting-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Nesting-Energy-Loss.private.md) 
-- [Triz-Quantity+Nesting-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Nesting-Energy-Loss.personal.md) 
-- [Triz-Quantity+Nesting-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Nesting-Energy-Loss.secret.md) 

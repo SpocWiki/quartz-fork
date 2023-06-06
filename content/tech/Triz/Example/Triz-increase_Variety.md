@@ -17,10 +17,3 @@ title: Triz-increase_Variety
 
 Cassette with 6 CD's to increase Music Time and Variety
 
-## Confidential Links & Embeds: 
-- [Triz-increase_Variety](../../../../_public/tech/Triz/Example/Triz-increase_Variety.md) 
-- [Triz-increase_Variety.internal](../../../../_internal/tech/Triz/Example/Triz-increase_Variety.internal.md) 
-- [Triz-increase_Variety.protect](../../../../_protect/tech/Triz/Example/Triz-increase_Variety.protect.md) 
-- [Triz-increase_Variety.private](../../../../_private/tech/Triz/Example/Triz-increase_Variety.private.md) 
-- [Triz-increase_Variety.personal](../../../../_personal/tech/Triz/Example/Triz-increase_Variety.personal.md) 
-- [Triz-increase_Variety.secret](../../../../_secret/tech/Triz/Example/Triz-increase_Variety.secret.md) 

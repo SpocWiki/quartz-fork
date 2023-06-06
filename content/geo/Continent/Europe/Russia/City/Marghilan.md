@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marghilan](../../../../../../_public/geo/Continent/Europe/Russia/City/Marghilan.md) 
-- [Marghilan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Marghilan.internal.md) 
-- [Marghilan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Marghilan.protect.md) 
-- [Marghilan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Marghilan.private.md) 
-- [Marghilan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Marghilan.personal.md) 
-- [Marghilan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Marghilan.secret.md) 

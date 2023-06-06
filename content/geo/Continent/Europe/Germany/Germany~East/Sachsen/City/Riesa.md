@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Riesa](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Riesa.md) 
-- [Riesa.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Riesa.internal.md) 
-- [Riesa.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Riesa.protect.md) 
-- [Riesa.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Riesa.private.md) 
-- [Riesa.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Riesa.personal.md) 
-- [Riesa.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Riesa.secret.md) 

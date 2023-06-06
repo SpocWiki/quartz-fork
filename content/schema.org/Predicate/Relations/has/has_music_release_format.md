@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_music_release_format](../../../../../_public/schema.org/Predicate/Relations/has/has_music_release_format.md) 
-- [has_music_release_format.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_music_release_format.internal.md) 
-- [has_music_release_format.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_music_release_format.protect.md) 
-- [has_music_release_format.private](../../../../../_private/schema.org/Predicate/Relations/has/has_music_release_format.private.md) 
-- [has_music_release_format.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_music_release_format.personal.md) 
-- [has_music_release_format.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_music_release_format.secret.md) 

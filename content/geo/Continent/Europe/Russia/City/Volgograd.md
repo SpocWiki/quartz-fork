@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Volgograd](../../../../../../_public/geo/Continent/Europe/Russia/City/Volgograd.md) 
-- [Volgograd.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Volgograd.internal.md) 
-- [Volgograd.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Volgograd.protect.md) 
-- [Volgograd.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Volgograd.private.md) 
-- [Volgograd.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Volgograd.personal.md) 
-- [Volgograd.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Volgograd.secret.md) 

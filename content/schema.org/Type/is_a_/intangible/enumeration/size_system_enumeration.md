@@ -45,10 +45,3 @@ Enumerates common size systems for different categories of products, for example
 
 
 
-## Confidential Links & Embeds: 
-- [size_system_enumeration](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration.md) 
-- [size_system_enumeration.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration.internal.md) 
-- [size_system_enumeration.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration.protect.md) 
-- [size_system_enumeration.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration.private.md) 
-- [size_system_enumeration.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration.personal.md) 
-- [size_system_enumeration.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Britz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Britz.md) 
-- [Britz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Britz.internal.md) 
-- [Britz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Britz.protect.md) 
-- [Britz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Britz.private.md) 
-- [Britz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Britz.personal.md) 
-- [Britz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Britz.secret.md) 

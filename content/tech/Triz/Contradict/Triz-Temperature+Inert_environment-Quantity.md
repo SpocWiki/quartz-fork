@@ -19,10 +19,3 @@ title: Triz-Temperature+Inert_environment-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Inert_environment-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Quantity.md) 
-- [Triz-Temperature+Inert_environment-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Quantity.internal.md) 
-- [Triz-Temperature+Inert_environment-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Quantity.protect.md) 
-- [Triz-Temperature+Inert_environment-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Quantity.private.md) 
-- [Triz-Temperature+Inert_environment-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Quantity.personal.md) 
-- [Triz-Temperature+Inert_environment-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Inert_environment-Quantity.secret.md) 

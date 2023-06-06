@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sondrio](../../../../../../_public/geo/Continent/Europe/Italy/City/Sondrio.md) 
-- [Sondrio.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sondrio.internal.md) 
-- [Sondrio.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sondrio.protect.md) 
-- [Sondrio.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sondrio.private.md) 
-- [Sondrio.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sondrio.personal.md) 
-- [Sondrio.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sondrio.secret.md) 

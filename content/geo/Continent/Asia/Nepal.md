@@ -122,7 +122,7 @@ markerFolder: ./Nepal/City
 
 ![350](geo/Continent/Asia/Nepal/Emblem_of_Nepal.svg)
 
-![Anthem-Nepal](xLarge/National-Anthem/Anthem-Nepal.mp3)
+[Anthem-Nepal](xLarge/National-Anthem/Anthem-Nepal.mp3)
 
 ![350](geo/Continent/Asia/Nepal/Flag_of_Nepal.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Nepal/City
 
 
 
-## Confidential Links & Embeds: 
-- [Nepal](../../../../_public/geo/Continent/Asia/Nepal.md) 
-- [Nepal.internal](../../../../_internal/geo/Continent/Asia/Nepal.internal.md) 
-- [Nepal.protect](../../../../_protect/geo/Continent/Asia/Nepal.protect.md) 
-- [Nepal.private](../../../../_private/geo/Continent/Asia/Nepal.private.md) 
-- [Nepal.personal](../../../../_personal/geo/Continent/Asia/Nepal.personal.md) 
-- [Nepal.secret](../../../../_secret/geo/Continent/Asia/Nepal.secret.md) 

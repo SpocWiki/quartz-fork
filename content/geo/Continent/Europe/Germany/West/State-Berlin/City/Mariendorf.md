@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mariendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.md) 
-- [Mariendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.internal.md) 
-- [Mariendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.protect.md) 
-- [Mariendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.private.md) 
-- [Mariendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.personal.md) 
-- [Mariendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Mariendorf.secret.md) 

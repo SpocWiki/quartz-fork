@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kurkijoko](../../../../../../_public/geo/Continent/Europe/Finland/City/Kurkijoko.md) 
-- [Kurkijoko.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kurkijoko.internal.md) 
-- [Kurkijoko.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kurkijoko.protect.md) 
-- [Kurkijoko.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kurkijoko.private.md) 
-- [Kurkijoko.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kurkijoko.personal.md) 
-- [Kurkijoko.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kurkijoko.secret.md) 

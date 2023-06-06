@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Serpeissk](../../../../../../_public/geo/Continent/Europe/Russia/City/Serpeissk.md) 
-- [Serpeissk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Serpeissk.internal.md) 
-- [Serpeissk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Serpeissk.protect.md) 
-- [Serpeissk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Serpeissk.private.md) 
-- [Serpeissk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Serpeissk.personal.md) 
-- [Serpeissk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Serpeissk.secret.md) 

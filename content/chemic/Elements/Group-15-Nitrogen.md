@@ -20,10 +20,3 @@ title: Group-15-Nitrogen
  
 
 
-## Confidential Links & Embeds: 
-- [Group-15-Nitrogen](../../../_public/chemic/Elements/Group-15-Nitrogen.md) 
-- [Group-15-Nitrogen.internal](../../../_internal/chemic/Elements/Group-15-Nitrogen.internal.md) 
-- [Group-15-Nitrogen.protect](../../../_protect/chemic/Elements/Group-15-Nitrogen.protect.md) 
-- [Group-15-Nitrogen.private](../../../_private/chemic/Elements/Group-15-Nitrogen.private.md) 
-- [Group-15-Nitrogen.personal](../../../_personal/chemic/Elements/Group-15-Nitrogen.personal.md) 
-- [Group-15-Nitrogen.secret](../../../_secret/chemic/Elements/Group-15-Nitrogen.secret.md) 

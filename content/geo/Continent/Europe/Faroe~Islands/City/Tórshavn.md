@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tórshavn](../../../../../../_public/geo/Continent/Europe/Faroe~Islands/City/T%C3%B3rshavn.md) 
-- [Tórshavn.internal](../../../../../../_internal/geo/Continent/Europe/Faroe~Islands/City/T%C3%B3rshavn.internal.md) 
-- [Tórshavn.protect](../../../../../../_protect/geo/Continent/Europe/Faroe~Islands/City/T%C3%B3rshavn.protect.md) 
-- [Tórshavn.private](../../../../../../_private/geo/Continent/Europe/Faroe~Islands/City/T%C3%B3rshavn.private.md) 
-- [Tórshavn.personal](../../../../../../_personal/geo/Continent/Europe/Faroe~Islands/City/T%C3%B3rshavn.personal.md) 
-- [Tórshavn.secret](../../../../../../_secret/geo/Continent/Europe/Faroe~Islands/City/T%C3%B3rshavn.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mehlauken](../../../../../../_public/geo/Continent/Europe/Russia/City/Mehlauken.md) 
-- [Mehlauken.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mehlauken.internal.md) 
-- [Mehlauken.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mehlauken.protect.md) 
-- [Mehlauken.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mehlauken.private.md) 
-- [Mehlauken.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mehlauken.personal.md) 
-- [Mehlauken.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mehlauken.secret.md) 

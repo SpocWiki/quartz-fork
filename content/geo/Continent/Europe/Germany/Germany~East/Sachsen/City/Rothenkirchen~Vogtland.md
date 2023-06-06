@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rothenkirchen~Vogtland](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.md) 
-- [Rothenkirchen~Vogtland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.internal.md) 
-- [Rothenkirchen~Vogtland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.protect.md) 
-- [Rothenkirchen~Vogtland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.private.md) 
-- [Rothenkirchen~Vogtland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.personal.md) 
-- [Rothenkirchen~Vogtland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rothenkirchen~Vogtland.secret.md) 

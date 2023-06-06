@@ -36,10 +36,3 @@ markerFolder: ./Zanzibar/City
 
 
 
-## Confidential Links & Embeds: 
-- [Zanzibar](../../../../_public/geo/Continent/Africa/Zanzibar.md) 
-- [Zanzibar.internal](../../../../_internal/geo/Continent/Africa/Zanzibar.internal.md) 
-- [Zanzibar.protect](../../../../_protect/geo/Continent/Africa/Zanzibar.protect.md) 
-- [Zanzibar.private](../../../../_private/geo/Continent/Africa/Zanzibar.private.md) 
-- [Zanzibar.personal](../../../../_personal/geo/Continent/Africa/Zanzibar.personal.md) 
-- [Zanzibar.secret](../../../../_secret/geo/Continent/Africa/Zanzibar.secret.md) 

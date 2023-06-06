@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mirecourt](../../../../../../_public/geo/Continent/Europe/France/City/Mirecourt.md) 
-- [Mirecourt.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Mirecourt.internal.md) 
-- [Mirecourt.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Mirecourt.protect.md) 
-- [Mirecourt.private](../../../../../../_private/geo/Continent/Europe/France/City/Mirecourt.private.md) 
-- [Mirecourt.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Mirecourt.personal.md) 
-- [Mirecourt.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Mirecourt.secret.md) 

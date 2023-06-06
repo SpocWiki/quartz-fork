@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Almeria](../../../../../../_public/geo/Continent/Europe/Spain/City/Almeria.md) 
-- [Almeria.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Almeria.internal.md) 
-- [Almeria.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Almeria.protect.md) 
-- [Almeria.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Almeria.private.md) 
-- [Almeria.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Almeria.personal.md) 
-- [Almeria.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Almeria.secret.md) 

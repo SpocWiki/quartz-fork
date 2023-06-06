@@ -47,10 +47,3 @@ EN 13402 (joint European standard for size labelling of clothes).
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_system_en13402](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_en13402.md) 
-- [wearable_size_system_en13402.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_en13402.internal.md) 
-- [wearable_size_system_en13402.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_en13402.protect.md) 
-- [wearable_size_system_en13402.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_en13402.private.md) 
-- [wearable_size_system_en13402.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_en13402.personal.md) 
-- [wearable_size_system_en13402.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_en13402.secret.md) 

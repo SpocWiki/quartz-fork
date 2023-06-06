@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Temir-chan-schura](../../../../../../_public/geo/Continent/Europe/Russia/City/Temir-chan-schura.md) 
-- [Temir-chan-schura.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Temir-chan-schura.internal.md) 
-- [Temir-chan-schura.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Temir-chan-schura.protect.md) 
-- [Temir-chan-schura.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Temir-chan-schura.private.md) 
-- [Temir-chan-schura.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Temir-chan-schura.personal.md) 
-- [Temir-chan-schura.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Temir-chan-schura.secret.md) 

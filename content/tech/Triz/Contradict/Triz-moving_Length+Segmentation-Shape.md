@@ -19,10 +19,3 @@ title: Triz-moving_Length+Segmentation-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Segmentation-Shape](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Shape.md) 
-- [Triz-moving_Length+Segmentation-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Shape.internal.md) 
-- [Triz-moving_Length+Segmentation-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Shape.protect.md) 
-- [Triz-moving_Length+Segmentation-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Shape.private.md) 
-- [Triz-moving_Length+Segmentation-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Shape.personal.md) 
-- [Triz-moving_Length+Segmentation-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Shape.secret.md) 

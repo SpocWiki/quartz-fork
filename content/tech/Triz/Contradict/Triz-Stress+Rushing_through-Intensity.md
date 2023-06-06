@@ -19,10 +19,3 @@ title: Triz-Stress+Rushing_through-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Rushing_through-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Stress+Rushing_through-Intensity.md) 
-- [Triz-Stress+Rushing_through-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Rushing_through-Intensity.internal.md) 
-- [Triz-Stress+Rushing_through-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Rushing_through-Intensity.protect.md) 
-- [Triz-Stress+Rushing_through-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Rushing_through-Intensity.private.md) 
-- [Triz-Stress+Rushing_through-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Rushing_through-Intensity.personal.md) 
-- [Triz-Stress+Rushing_through-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Rushing_through-Intensity.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Intensity+Prior_action-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Prior_action-Stability](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Prior_action-Stability.md) 
-- [Triz-Intensity+Prior_action-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Prior_action-Stability.internal.md) 
-- [Triz-Intensity+Prior_action-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Prior_action-Stability.protect.md) 
-- [Triz-Intensity+Prior_action-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Prior_action-Stability.private.md) 
-- [Triz-Intensity+Prior_action-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Prior_action-Stability.personal.md) 
-- [Triz-Intensity+Prior_action-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Prior_action-Stability.secret.md) 

@@ -43,10 +43,3 @@ A vet's office.
 
 
 
-## Confidential Links & Embeds: 
-- [veterinary_care](../../../../../../_public/schema.org/Type/is_a_/organization/medical_organization/veterinary_care.md) 
-- [veterinary_care.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/medical_organization/veterinary_care.internal.md) 
-- [veterinary_care.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/medical_organization/veterinary_care.protect.md) 
-- [veterinary_care.private](../../../../../../_private/schema.org/Type/is_a_/organization/medical_organization/veterinary_care.private.md) 
-- [veterinary_care.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/medical_organization/veterinary_care.personal.md) 
-- [veterinary_care.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/medical_organization/veterinary_care.secret.md) 

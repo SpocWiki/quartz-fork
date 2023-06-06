@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuttenplan](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.md) 
-- [Kuttenplan.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.internal.md) 
-- [Kuttenplan.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.protect.md) 
-- [Kuttenplan.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.private.md) 
-- [Kuttenplan.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.personal.md) 
-- [Kuttenplan.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.secret.md) 

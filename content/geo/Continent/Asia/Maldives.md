@@ -122,7 +122,7 @@ markerFolder: ./Maldives/City
 
 ![350](geo/Continent/Asia/Maldives/Emblem_of_Maldives.svg)
 
-![Anthem-Maldives](xLarge/National-Anthem/Anthem-Maldives.mp3)
+[Anthem-Maldives](xLarge/National-Anthem/Anthem-Maldives.mp3)
 
 ![350](geo/Continent/Asia/Maldives/Flag_of_Maldives.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Maldives/City
 
 
 
-## Confidential Links & Embeds: 
-- [Maldives](../../../../_public/geo/Continent/Asia/Maldives.md) 
-- [Maldives.internal](../../../../_internal/geo/Continent/Asia/Maldives.internal.md) 
-- [Maldives.protect](../../../../_protect/geo/Continent/Asia/Maldives.protect.md) 
-- [Maldives.private](../../../../_private/geo/Continent/Asia/Maldives.private.md) 
-- [Maldives.personal](../../../../_personal/geo/Continent/Asia/Maldives.personal.md) 
-- [Maldives.secret](../../../../_secret/geo/Continent/Asia/Maldives.secret.md) 

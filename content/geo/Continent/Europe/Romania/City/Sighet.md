@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sighet](../../../../../../_public/geo/Continent/Europe/Romania/City/Sighet.md) 
-- [Sighet.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Sighet.internal.md) 
-- [Sighet.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Sighet.protect.md) 
-- [Sighet.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Sighet.private.md) 
-- [Sighet.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Sighet.personal.md) 
-- [Sighet.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Sighet.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoensee](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schoensee.md) 
-- [Schoensee.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schoensee.internal.md) 
-- [Schoensee.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schoensee.protect.md) 
-- [Schoensee.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schoensee.private.md) 
-- [Schoensee.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schoensee.personal.md) 
-- [Schoensee.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schoensee.secret.md) 

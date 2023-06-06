@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kowel](../../../../../../_public/geo/Continent/Europe/Poland/City/Kowel.md) 
-- [Kowel.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kowel.internal.md) 
-- [Kowel.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kowel.protect.md) 
-- [Kowel.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kowel.private.md) 
-- [Kowel.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kowel.personal.md) 
-- [Kowel.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kowel.secret.md) 

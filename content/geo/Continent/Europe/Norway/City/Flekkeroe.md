@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flekkeroe](../../../../../../_public/geo/Continent/Europe/Norway/City/Flekkeroe.md) 
-- [Flekkeroe.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Flekkeroe.internal.md) 
-- [Flekkeroe.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Flekkeroe.protect.md) 
-- [Flekkeroe.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Flekkeroe.private.md) 
-- [Flekkeroe.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Flekkeroe.personal.md) 
-- [Flekkeroe.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Flekkeroe.secret.md) 

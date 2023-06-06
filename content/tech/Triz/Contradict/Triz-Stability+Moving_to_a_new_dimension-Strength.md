@@ -19,10 +19,3 @@ title: Triz-Stability+Moving_to_a_new_dimension-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Moving_to_a_new_dimension-Strength](../../../../_public/tech/Triz/Contradict/Triz-Stability+Moving_to_a_new_dimension-Strength.md) 
-- [Triz-Stability+Moving_to_a_new_dimension-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Moving_to_a_new_dimension-Strength.internal.md) 
-- [Triz-Stability+Moving_to_a_new_dimension-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Moving_to_a_new_dimension-Strength.protect.md) 
-- [Triz-Stability+Moving_to_a_new_dimension-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Moving_to_a_new_dimension-Strength.private.md) 
-- [Triz-Stability+Moving_to_a_new_dimension-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Moving_to_a_new_dimension-Strength.personal.md) 
-- [Triz-Stability+Moving_to_a_new_dimension-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Moving_to_a_new_dimension-Strength.secret.md) 

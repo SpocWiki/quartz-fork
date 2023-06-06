@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zorge](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zorge.md) 
-- [Zorge.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zorge.internal.md) 
-- [Zorge.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zorge.protect.md) 
-- [Zorge.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zorge.private.md) 
-- [Zorge.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zorge.personal.md) 
-- [Zorge.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zorge.secret.md) 

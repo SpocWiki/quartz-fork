@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Schwedlerstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwedlerstra%C3%9Fe.md) 
-- [T-Schwedlerstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwedlerstra%C3%9Fe.internal.md) 
-- [T-Schwedlerstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwedlerstra%C3%9Fe.protect.md) 
-- [T-Schwedlerstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwedlerstra%C3%9Fe.private.md) 
-- [T-Schwedlerstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwedlerstra%C3%9Fe.personal.md) 
-- [T-Schwedlerstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwedlerstra%C3%9Fe.secret.md) 

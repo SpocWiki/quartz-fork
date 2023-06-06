@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Circini-1](../../../_public/astro/Star/Circini-1.md) 
-- [Circini-1.internal](../../../_internal/astro/Star/Circini-1.internal.md) 
-- [Circini-1.protect](../../../_protect/astro/Star/Circini-1.protect.md) 
-- [Circini-1.private](../../../_private/astro/Star/Circini-1.private.md) 
-- [Circini-1.personal](../../../_personal/astro/Star/Circini-1.personal.md) 
-- [Circini-1.secret](../../../_secret/astro/Star/Circini-1.secret.md)
-

@@ -34,10 +34,3 @@ SpocWebEntityId: 21984
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Actinium)
 
-## Confidential Links & Embeds: 
-- [Actinium](../../../../_public/chemic/Elements/Actinide-Group/Actinium.md) 
-- [Actinium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Actinium.internal.md) 
-- [Actinium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Actinium.protect.md) 
-- [Actinium.private](../../../../_private/chemic/Elements/Actinide-Group/Actinium.private.md) 
-- [Actinium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Actinium.personal.md) 
-- [Actinium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Actinium.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Troitzk-Passad](../../../../../../_public/geo/Continent/Europe/Russia/City/Troitzk-Passad.md) 
-- [Troitzk-Passad.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Troitzk-Passad.internal.md) 
-- [Troitzk-Passad.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Troitzk-Passad.protect.md) 
-- [Troitzk-Passad.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Troitzk-Passad.private.md) 
-- [Troitzk-Passad.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Troitzk-Passad.personal.md) 
-- [Troitzk-Passad.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Troitzk-Passad.secret.md) 

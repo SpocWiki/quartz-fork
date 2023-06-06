@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Katlenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.md) 
-- [Katlenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.internal.md) 
-- [Katlenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.protect.md) 
-- [Katlenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.private.md) 
-- [Katlenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.personal.md) 
-- [Katlenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Katlenburg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Svitavy](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Svitavy.md) 
-- [Svitavy.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Svitavy.internal.md) 
-- [Svitavy.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Svitavy.protect.md) 
-- [Svitavy.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Svitavy.private.md) 
-- [Svitavy.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Svitavy.personal.md) 
-- [Svitavy.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Svitavy.secret.md) 

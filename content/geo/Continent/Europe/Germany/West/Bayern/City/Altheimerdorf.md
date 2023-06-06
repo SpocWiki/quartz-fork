@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altheimerdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Altheimerdorf.md) 
-- [Altheimerdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Altheimerdorf.internal.md) 
-- [Altheimerdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Altheimerdorf.protect.md) 
-- [Altheimerdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Altheimerdorf.private.md) 
-- [Altheimerdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Altheimerdorf.personal.md) 
-- [Altheimerdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Altheimerdorf.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mosonmagyrovar](../../../../../../_public/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.md) 
-- [Mosonmagyrovar.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.internal.md) 
-- [Mosonmagyrovar.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.protect.md) 
-- [Mosonmagyrovar.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.private.md) 
-- [Mosonmagyrovar.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.personal.md) 
-- [Mosonmagyrovar.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Mosonmagyrovar.secret.md) 

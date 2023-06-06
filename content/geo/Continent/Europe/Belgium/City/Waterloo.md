@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waterloo](../../../../../../_public/geo/Continent/Europe/Belgium/City/Waterloo.md) 
-- [Waterloo.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Waterloo.internal.md) 
-- [Waterloo.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Waterloo.protect.md) 
-- [Waterloo.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Waterloo.private.md) 
-- [Waterloo.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Waterloo.personal.md) 
-- [Waterloo.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Waterloo.secret.md) 

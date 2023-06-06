@@ -19,10 +19,3 @@ title: Triz-moving_Area+Copying-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Copying-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.md) 
-- [Triz-moving_Area+Copying-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.internal.md) 
-- [Triz-moving_Area+Copying-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.protect.md) 
-- [Triz-moving_Area+Copying-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.private.md) 
-- [Triz-moving_Area+Copying-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.personal.md) 
-- [Triz-moving_Area+Copying-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Copying-Energy-Loss.secret.md) 

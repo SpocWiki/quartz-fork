@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amorbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Amorbach.md) 
-- [Amorbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Amorbach.internal.md) 
-- [Amorbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Amorbach.protect.md) 
-- [Amorbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Amorbach.private.md) 
-- [Amorbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Amorbach.personal.md) 
-- [Amorbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Amorbach.secret.md) 

@@ -124,7 +124,7 @@ markerFolder: ./Somalia/City
 
 ![550](geo/Continent/Africa/Somalia/Coat_of_arms_of_Somalia.svg)
 
-![Anthem-Somalia](xLarge/National-Anthem/Anthem-Somalia.mp3)
+[Anthem-Somalia](xLarge/National-Anthem/Anthem-Somalia.mp3)
 
 ![350](geo/Continent/Africa/Somalia/Flag_of_Somalia.svg)
 
@@ -135,10 +135,3 @@ markerFolder: ./Somalia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Somalia](../../../../_public/geo/Continent/Africa/Somalia.md) 
-- [Somalia.internal](../../../../_internal/geo/Continent/Africa/Somalia.internal.md) 
-- [Somalia.protect](../../../../_protect/geo/Continent/Africa/Somalia.protect.md) 
-- [Somalia.private](../../../../_private/geo/Continent/Africa/Somalia.private.md) 
-- [Somalia.personal](../../../../_personal/geo/Continent/Africa/Somalia.personal.md) 
-- [Somalia.secret](../../../../_secret/geo/Continent/Africa/Somalia.secret.md) 

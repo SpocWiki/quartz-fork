@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_encoding_bio_chem_entity](../../../../../_public/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.md) 
-- [is_encoding_bio_chem_entity.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.internal.md) 
-- [is_encoding_bio_chem_entity.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.protect.md) 
-- [is_encoding_bio_chem_entity.private](../../../../../_private/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.private.md) 
-- [is_encoding_bio_chem_entity.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.personal.md) 
-- [is_encoding_bio_chem_entity.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.secret.md) 

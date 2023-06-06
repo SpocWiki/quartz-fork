@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vinge](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vinge.md) 
-- [Vinge.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vinge.internal.md) 
-- [Vinge.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vinge.protect.md) 
-- [Vinge.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vinge.private.md) 
-- [Vinge.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vinge.personal.md) 
-- [Vinge.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vinge.secret.md) 

@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_video](../../../../../_public/schema.org/Predicate/Relations/has/has_video.md) 
-- [has_video.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_video.internal.md) 
-- [has_video.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_video.protect.md) 
-- [has_video.private](../../../../../_private/schema.org/Predicate/Relations/has/has_video.private.md) 
-- [has_video.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_video.personal.md) 
-- [has_video.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_video.secret.md) 

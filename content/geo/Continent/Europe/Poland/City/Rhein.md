@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rhein](../../../../../../_public/geo/Continent/Europe/Poland/City/Rhein.md) 
-- [Rhein.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rhein.internal.md) 
-- [Rhein.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rhein.protect.md) 
-- [Rhein.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rhein.private.md) 
-- [Rhein.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rhein.personal.md) 
-- [Rhein.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rhein.secret.md) 

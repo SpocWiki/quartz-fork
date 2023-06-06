@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kropp](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kropp.md) 
-- [Kropp.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kropp.internal.md) 
-- [Kropp.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kropp.protect.md) 
-- [Kropp.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kropp.private.md) 
-- [Kropp.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kropp.personal.md) 
-- [Kropp.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kropp.secret.md) 

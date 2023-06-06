@@ -17,10 +17,3 @@ title: Triz-Welding_Powder
 
 Use powdered Welding Metal instead of Foil or Rod to get better Penetration of the Joint.
 
-## Confidential Links & Embeds: 
-- [Triz-Welding_Powder](../../../../_public/tech/Triz/Example/Triz-Welding_Powder.md) 
-- [Triz-Welding_Powder.internal](../../../../_internal/tech/Triz/Example/Triz-Welding_Powder.internal.md) 
-- [Triz-Welding_Powder.protect](../../../../_protect/tech/Triz/Example/Triz-Welding_Powder.protect.md) 
-- [Triz-Welding_Powder.private](../../../../_private/tech/Triz/Example/Triz-Welding_Powder.private.md) 
-- [Triz-Welding_Powder.personal](../../../../_personal/tech/Triz/Example/Triz-Welding_Powder.personal.md) 
-- [Triz-Welding_Powder.secret](../../../../_secret/tech/Triz/Example/Triz-Welding_Powder.secret.md) 

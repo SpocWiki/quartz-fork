@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Herrsching](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Herrsching.md) 
-- [Herrsching.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Herrsching.internal.md) 
-- [Herrsching.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Herrsching.protect.md) 
-- [Herrsching.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Herrsching.private.md) 
-- [Herrsching.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Herrsching.personal.md) 
-- [Herrsching.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Herrsching.secret.md) 

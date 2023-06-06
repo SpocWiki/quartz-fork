@@ -45,10 +45,3 @@ Physical activity that is engaged in to improve joint and muscle flexibility.
 
 
 
-## Confidential Links & Embeds: 
-- [flexibility](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/flexibility.md) 
-- [flexibility.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/flexibility.internal.md) 
-- [flexibility.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/flexibility.protect.md) 
-- [flexibility.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/flexibility.private.md) 
-- [flexibility.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/flexibility.personal.md) 
-- [flexibility.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/flexibility.secret.md) 

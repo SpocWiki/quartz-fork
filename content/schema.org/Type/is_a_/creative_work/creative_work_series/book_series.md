@@ -43,10 +43,3 @@ A series of books. Included books can be indicated with the hasPart property.
 
 
 
-## Confidential Links & Embeds: 
-- [book_series](../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_series/book_series.md) 
-- [book_series.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_series/book_series.internal.md) 
-- [book_series.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_series/book_series.protect.md) 
-- [book_series.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_series/book_series.private.md) 
-- [book_series.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_series/book_series.personal.md) 
-- [book_series.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_series/book_series.secret.md) 

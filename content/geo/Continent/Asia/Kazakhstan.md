@@ -122,7 +122,7 @@ markerFolder: ./Kazakhstan/City
 
 ![350](geo/Continent/Asia/Kazakhstan/Emblem_of_Kazakhstan.svg)
 
-![Anthem-Kazakhstan](xLarge/National-Anthem/Anthem-Kazakhstan.mp3)
+[Anthem-Kazakhstan](xLarge/National-Anthem/Anthem-Kazakhstan.mp3)
 
 ![350](geo/Continent/Asia/Kazakhstan/Flag_of_Kazakhstan.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Kazakhstan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Kazakhstan](../../../../_public/geo/Continent/Asia/Kazakhstan.md) 
-- [Kazakhstan.internal](../../../../_internal/geo/Continent/Asia/Kazakhstan.internal.md) 
-- [Kazakhstan.protect](../../../../_protect/geo/Continent/Asia/Kazakhstan.protect.md) 
-- [Kazakhstan.private](../../../../_private/geo/Continent/Asia/Kazakhstan.private.md) 
-- [Kazakhstan.personal](../../../../_personal/geo/Continent/Asia/Kazakhstan.personal.md) 
-- [Kazakhstan.secret](../../../../_secret/geo/Continent/Asia/Kazakhstan.secret.md) 

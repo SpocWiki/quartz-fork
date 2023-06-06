@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Otschokow](../../../../../../_public/geo/Continent/Europe/Russia/City/Otschokow.md) 
-- [Otschokow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Otschokow.internal.md) 
-- [Otschokow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Otschokow.protect.md) 
-- [Otschokow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Otschokow.private.md) 
-- [Otschokow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Otschokow.personal.md) 
-- [Otschokow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Otschokow.secret.md) 

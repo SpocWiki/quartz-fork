@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loccum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loccum.md) 
-- [Loccum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loccum.internal.md) 
-- [Loccum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loccum.protect.md) 
-- [Loccum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loccum.private.md) 
-- [Loccum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loccum.personal.md) 
-- [Loccum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loccum.secret.md) 

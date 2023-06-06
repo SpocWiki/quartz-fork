@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_boarding_group](../../../../_public/schema.org/Predicate/Texts/has_boarding_group.md) 
-- [has_boarding_group.internal](../../../../_internal/schema.org/Predicate/Texts/has_boarding_group.internal.md) 
-- [has_boarding_group.protect](../../../../_protect/schema.org/Predicate/Texts/has_boarding_group.protect.md) 
-- [has_boarding_group.private](../../../../_private/schema.org/Predicate/Texts/has_boarding_group.private.md) 
-- [has_boarding_group.personal](../../../../_personal/schema.org/Predicate/Texts/has_boarding_group.personal.md) 
-- [has_boarding_group.secret](../../../../_secret/schema.org/Predicate/Texts/has_boarding_group.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Panemunedis](../../../../../../_public/geo/Continent/Europe/Russia/City/Panemunedis.md) 
-- [Panemunedis.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Panemunedis.internal.md) 
-- [Panemunedis.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Panemunedis.protect.md) 
-- [Panemunedis.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Panemunedis.private.md) 
-- [Panemunedis.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Panemunedis.personal.md) 
-- [Panemunedis.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Panemunedis.secret.md) 

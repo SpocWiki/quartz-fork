@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moening](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Moening.md) 
-- [Moening.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Moening.internal.md) 
-- [Moening.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Moening.protect.md) 
-- [Moening.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Moening.private.md) 
-- [Moening.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Moening.personal.md) 
-- [Moening.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Moening.secret.md) 

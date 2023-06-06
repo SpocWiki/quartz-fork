@@ -45,10 +45,3 @@ A single feed providing structured information about one or more entities or top
 
 
 
-## Confidential Links & Embeds: 
-- [data_feed](../../../../../../_public/schema.org/Type/is_a_/creative_work/dataset/data_feed.md) 
-- [data_feed.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/dataset/data_feed.internal.md) 
-- [data_feed.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/dataset/data_feed.protect.md) 
-- [data_feed.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/dataset/data_feed.private.md) 
-- [data_feed.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/dataset/data_feed.personal.md) 
-- [data_feed.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/dataset/data_feed.secret.md) 

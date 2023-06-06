@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wilburgstetten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.md) 
-- [Wilburgstetten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.internal.md) 
-- [Wilburgstetten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.protect.md) 
-- [Wilburgstetten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.private.md) 
-- [Wilburgstetten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.personal.md) 
-- [Wilburgstetten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.secret.md) 

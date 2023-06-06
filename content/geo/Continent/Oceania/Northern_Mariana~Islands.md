@@ -129,10 +129,3 @@ markerFolder: ./Northern_Mariana_Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [Northern_Mariana~Islands](../../../../_public/geo/Continent/Oceania/Northern_Mariana~Islands.md) 
-- [Northern_Mariana~Islands.internal](../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands.internal.md) 
-- [Northern_Mariana~Islands.protect](../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands.protect.md) 
-- [Northern_Mariana~Islands.private](../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands.private.md) 
-- [Northern_Mariana~Islands.personal](../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands.personal.md) 
-- [Northern_Mariana~Islands.secret](../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands.secret.md) 

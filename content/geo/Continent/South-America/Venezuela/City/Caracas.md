@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Caracas](../../../../../../_public/geo/Continent/South-America/Venezuela/City/Caracas.md) 
-- [Caracas.internal](../../../../../../_internal/geo/Continent/South-America/Venezuela/City/Caracas.internal.md) 
-- [Caracas.protect](../../../../../../_protect/geo/Continent/South-America/Venezuela/City/Caracas.protect.md) 
-- [Caracas.private](../../../../../../_private/geo/Continent/South-America/Venezuela/City/Caracas.private.md) 
-- [Caracas.personal](../../../../../../_personal/geo/Continent/South-America/Venezuela/City/Caracas.personal.md) 
-- [Caracas.secret](../../../../../../_secret/geo/Continent/South-America/Venezuela/City/Caracas.secret.md) 

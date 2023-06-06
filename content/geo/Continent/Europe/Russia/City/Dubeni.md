@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dubeni](../../../../../../_public/geo/Continent/Europe/Russia/City/Dubeni.md) 
-- [Dubeni.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Dubeni.internal.md) 
-- [Dubeni.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Dubeni.protect.md) 
-- [Dubeni.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Dubeni.private.md) 
-- [Dubeni.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Dubeni.personal.md) 
-- [Dubeni.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Dubeni.secret.md) 

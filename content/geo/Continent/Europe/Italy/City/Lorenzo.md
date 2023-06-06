@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lorenzo](../../../../../../_public/geo/Continent/Europe/Italy/City/Lorenzo.md) 
-- [Lorenzo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Lorenzo.internal.md) 
-- [Lorenzo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Lorenzo.protect.md) 
-- [Lorenzo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Lorenzo.private.md) 
-- [Lorenzo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Lorenzo.personal.md) 
-- [Lorenzo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Lorenzo.secret.md) 

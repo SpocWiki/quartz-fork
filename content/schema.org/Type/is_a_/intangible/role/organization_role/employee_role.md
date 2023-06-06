@@ -43,10 +43,3 @@ A subclass of OrganizationRole used to describe employee relationships.
 
 
 
-## Confidential Links & Embeds: 
-- [employee_role](../../../../../../../_public/schema.org/Type/is_a_/intangible/role/organization_role/employee_role.md) 
-- [employee_role.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/role/organization_role/employee_role.internal.md) 
-- [employee_role.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/role/organization_role/employee_role.protect.md) 
-- [employee_role.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/role/organization_role/employee_role.private.md) 
-- [employee_role.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/role/organization_role/employee_role.personal.md) 
-- [employee_role.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/role/organization_role/employee_role.secret.md) 

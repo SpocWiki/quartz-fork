@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langfoerde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langfoerde.md) 
-- [Langfoerde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langfoerde.internal.md) 
-- [Langfoerde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langfoerde.protect.md) 
-- [Langfoerde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langfoerde.private.md) 
-- [Langfoerde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langfoerde.personal.md) 
-- [Langfoerde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Langfoerde.secret.md) 

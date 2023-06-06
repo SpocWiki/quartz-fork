@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leith](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Leith.md) 
-- [Leith.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Leith.internal.md) 
-- [Leith.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Leith.protect.md) 
-- [Leith.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Leith.private.md) 
-- [Leith.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Leith.personal.md) 
-- [Leith.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Leith.secret.md) 

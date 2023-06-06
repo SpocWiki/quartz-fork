@@ -45,10 +45,3 @@ Place of worship, such as a church, synagogue, or mosque.
 
 
 
-## Confidential Links & Embeds: 
-- [place_of_worship](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship.md) 
-- [place_of_worship.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship.internal.md) 
-- [place_of_worship.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship.protect.md) 
-- [place_of_worship.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship.private.md) 
-- [place_of_worship.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship.personal.md) 
-- [place_of_worship.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship.secret.md) 

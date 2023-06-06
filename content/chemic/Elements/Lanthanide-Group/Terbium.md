@@ -39,10 +39,3 @@ title: Terbium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Terbium)
 
-## Confidential Links & Embeds: 
-- [Terbium](../../../../_public/chemic/Elements/Lanthanide-Group/Terbium.md) 
-- [Terbium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Terbium.internal.md) 
-- [Terbium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Terbium.protect.md) 
-- [Terbium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Terbium.private.md) 
-- [Terbium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Terbium.personal.md) 
-- [Terbium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Terbium.secret.md) 

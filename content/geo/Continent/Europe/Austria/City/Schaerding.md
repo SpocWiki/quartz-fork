@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schaerding](../../../../../../_public/geo/Continent/Europe/Austria/City/Schaerding.md) 
-- [Schaerding.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Schaerding.internal.md) 
-- [Schaerding.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Schaerding.protect.md) 
-- [Schaerding.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Schaerding.private.md) 
-- [Schaerding.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Schaerding.personal.md) 
-- [Schaerding.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Schaerding.secret.md) 

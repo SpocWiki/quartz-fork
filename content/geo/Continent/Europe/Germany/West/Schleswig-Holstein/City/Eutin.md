@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eutin](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eutin.md) 
-- [Eutin.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eutin.internal.md) 
-- [Eutin.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eutin.protect.md) 
-- [Eutin.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eutin.private.md) 
-- [Eutin.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eutin.personal.md) 
-- [Eutin.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eutin.secret.md) 

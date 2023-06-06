@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Asuncion](../../../../../../_public/geo/Continent/South-America/Paraguay/City/Asuncion.md) 
-- [Asuncion.internal](../../../../../../_internal/geo/Continent/South-America/Paraguay/City/Asuncion.internal.md) 
-- [Asuncion.protect](../../../../../../_protect/geo/Continent/South-America/Paraguay/City/Asuncion.protect.md) 
-- [Asuncion.private](../../../../../../_private/geo/Continent/South-America/Paraguay/City/Asuncion.private.md) 
-- [Asuncion.personal](../../../../../../_personal/geo/Continent/South-America/Paraguay/City/Asuncion.personal.md) 
-- [Asuncion.secret](../../../../../../_secret/geo/Continent/South-America/Paraguay/City/Asuncion.secret.md) 

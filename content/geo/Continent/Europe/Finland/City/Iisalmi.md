@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Iisalmi](../../../../../../_public/geo/Continent/Europe/Finland/City/Iisalmi.md) 
-- [Iisalmi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Iisalmi.internal.md) 
-- [Iisalmi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Iisalmi.protect.md) 
-- [Iisalmi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Iisalmi.private.md) 
-- [Iisalmi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Iisalmi.personal.md) 
-- [Iisalmi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Iisalmi.secret.md) 

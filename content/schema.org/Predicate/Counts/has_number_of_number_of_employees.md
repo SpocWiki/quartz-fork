@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_number_of_employees](../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_employees.md) 
-- [has_number_of_number_of_employees.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_employees.internal.md) 
-- [has_number_of_number_of_employees.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_employees.protect.md) 
-- [has_number_of_number_of_employees.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_employees.private.md) 
-- [has_number_of_number_of_employees.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_employees.personal.md) 
-- [has_number_of_number_of_employees.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_employees.secret.md) 

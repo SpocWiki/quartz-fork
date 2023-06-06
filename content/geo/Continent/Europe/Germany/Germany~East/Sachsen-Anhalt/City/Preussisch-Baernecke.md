@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Preussisch-Baernecke](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Preussisch-Baernecke.md) 
-- [Preussisch-Baernecke.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Preussisch-Baernecke.internal.md) 
-- [Preussisch-Baernecke.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Preussisch-Baernecke.protect.md) 
-- [Preussisch-Baernecke.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Preussisch-Baernecke.private.md) 
-- [Preussisch-Baernecke.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Preussisch-Baernecke.personal.md) 
-- [Preussisch-Baernecke.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Preussisch-Baernecke.secret.md) 

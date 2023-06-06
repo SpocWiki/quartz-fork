@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chieti](../../../../../../_public/geo/Continent/Europe/Italy/City/Chieti.md) 
-- [Chieti.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Chieti.internal.md) 
-- [Chieti.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Chieti.protect.md) 
-- [Chieti.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Chieti.private.md) 
-- [Chieti.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Chieti.personal.md) 
-- [Chieti.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Chieti.secret.md) 

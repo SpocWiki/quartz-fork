@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Naryn](../../../../../../_public/geo/Continent/Europe/Russia/City/Naryn.md) 
-- [Naryn.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Naryn.internal.md) 
-- [Naryn.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Naryn.protect.md) 
-- [Naryn.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Naryn.private.md) 
-- [Naryn.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Naryn.personal.md) 
-- [Naryn.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Naryn.secret.md) 

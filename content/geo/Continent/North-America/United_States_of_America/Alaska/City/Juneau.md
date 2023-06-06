@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Juneau](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.md) 
-- [Juneau.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.internal.md) 
-- [Juneau.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.protect.md) 
-- [Juneau.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.private.md) 
-- [Juneau.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.personal.md) 
-- [Juneau.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Alaska/City/Juneau.secret.md) 

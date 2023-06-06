@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Mainz-Gustavsburg](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.md) 
-- [S-Mainz-Gustavsburg.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.internal.md) 
-- [S-Mainz-Gustavsburg.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.protect.md) 
-- [S-Mainz-Gustavsburg.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.private.md) 
-- [S-Mainz-Gustavsburg.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.personal.md) 
-- [S-Mainz-Gustavsburg.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Mainz-Gustavsburg.secret.md) 

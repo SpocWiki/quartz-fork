@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Cebalrai](../../../_public/astro/Star/Cebalrai.md) 
-- [Cebalrai.internal](../../../_internal/astro/Star/Cebalrai.internal.md) 
-- [Cebalrai.protect](../../../_protect/astro/Star/Cebalrai.protect.md) 
-- [Cebalrai.private](../../../_private/astro/Star/Cebalrai.private.md) 
-- [Cebalrai.personal](../../../_personal/astro/Star/Cebalrai.personal.md) 
-- [Cebalrai.secret](../../../_secret/astro/Star/Cebalrai.secret.md)
-

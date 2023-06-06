@@ -43,10 +43,3 @@ USNonprofitType: Non-profit organization type originating from the United States
 
 
 
-## Confidential Links & Embeds: 
-- [us_nonprofit_type](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.md) 
-- [us_nonprofit_type.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.internal.md) 
-- [us_nonprofit_type.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.protect.md) 
-- [us_nonprofit_type.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.private.md) 
-- [us_nonprofit_type.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.personal.md) 
-- [us_nonprofit_type.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.secret.md) 

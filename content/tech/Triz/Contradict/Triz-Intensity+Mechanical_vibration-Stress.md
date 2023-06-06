@@ -19,10 +19,3 @@ title: Triz-Intensity+Mechanical_vibration-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Mechanical_vibration-Stress](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Stress.md) 
-- [Triz-Intensity+Mechanical_vibration-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Stress.internal.md) 
-- [Triz-Intensity+Mechanical_vibration-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Stress.protect.md) 
-- [Triz-Intensity+Mechanical_vibration-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Stress.private.md) 
-- [Triz-Intensity+Mechanical_vibration-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Stress.personal.md) 
-- [Triz-Intensity+Mechanical_vibration-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Stress.secret.md) 

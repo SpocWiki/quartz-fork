@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Equipotentiality-stationary_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Equipotentiality-stationary_Energy](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.md) 
-- [Triz-Substance-Loss+Equipotentiality-stationary_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.internal.md) 
-- [Triz-Substance-Loss+Equipotentiality-stationary_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.protect.md) 
-- [Triz-Substance-Loss+Equipotentiality-stationary_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.private.md) 
-- [Triz-Substance-Loss+Equipotentiality-stationary_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.personal.md) 
-- [Triz-Substance-Loss+Equipotentiality-stationary_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Equipotentiality-stationary_Energy.secret.md) 

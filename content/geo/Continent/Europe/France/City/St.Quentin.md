@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Quentin](../../../../../../_public/geo/Continent/Europe/France/City/St.Quentin.md) 
-- [St.Quentin.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Quentin.internal.md) 
-- [St.Quentin.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Quentin.protect.md) 
-- [St.Quentin.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Quentin.private.md) 
-- [St.Quentin.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Quentin.personal.md) 
-- [St.Quentin.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Quentin.secret.md) 

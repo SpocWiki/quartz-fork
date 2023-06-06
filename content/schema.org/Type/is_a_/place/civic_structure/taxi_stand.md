@@ -43,10 +43,3 @@ A taxi stand.
 
 
 
-## Confidential Links & Embeds: 
-- [taxi_stand](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/taxi_stand.md) 
-- [taxi_stand.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/taxi_stand.internal.md) 
-- [taxi_stand.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/taxi_stand.protect.md) 
-- [taxi_stand.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/taxi_stand.private.md) 
-- [taxi_stand.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/taxi_stand.personal.md) 
-- [taxi_stand.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/taxi_stand.secret.md) 

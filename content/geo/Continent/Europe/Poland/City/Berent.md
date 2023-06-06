@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berent](../../../../../../_public/geo/Continent/Europe/Poland/City/Berent.md) 
-- [Berent.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Berent.internal.md) 
-- [Berent.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Berent.protect.md) 
-- [Berent.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Berent.private.md) 
-- [Berent.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Berent.personal.md) 
-- [Berent.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Berent.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Newcastle_under_Lyme](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.md) 
-- [Newcastle_under_Lyme.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.internal.md) 
-- [Newcastle_under_Lyme.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.protect.md) 
-- [Newcastle_under_Lyme.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.private.md) 
-- [Newcastle_under_Lyme.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.personal.md) 
-- [Newcastle_under_Lyme.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Newcastle_under_Lyme.secret.md) 

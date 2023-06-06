@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pisino](../../../../../../_public/geo/Continent/Europe/Italy/City/Pisino.md) 
-- [Pisino.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pisino.internal.md) 
-- [Pisino.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pisino.protect.md) 
-- [Pisino.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pisino.private.md) 
-- [Pisino.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pisino.personal.md) 
-- [Pisino.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pisino.secret.md) 

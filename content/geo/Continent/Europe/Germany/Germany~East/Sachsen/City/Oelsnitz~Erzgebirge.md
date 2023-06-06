@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oelsnitz~Erzgebirge](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.md) 
-- [Oelsnitz~Erzgebirge.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.internal.md) 
-- [Oelsnitz~Erzgebirge.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.protect.md) 
-- [Oelsnitz~Erzgebirge.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.private.md) 
-- [Oelsnitz~Erzgebirge.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.personal.md) 
-- [Oelsnitz~Erzgebirge.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oelsnitz~Erzgebirge.secret.md) 

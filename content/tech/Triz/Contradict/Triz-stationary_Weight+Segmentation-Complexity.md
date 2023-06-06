@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Segmentation-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Segmentation-Complexity](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Complexity.md) 
-- [Triz-stationary_Weight+Segmentation-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Complexity.internal.md) 
-- [Triz-stationary_Weight+Segmentation-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Complexity.protect.md) 
-- [Triz-stationary_Weight+Segmentation-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Complexity.private.md) 
-- [Triz-stationary_Weight+Segmentation-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Complexity.personal.md) 
-- [Triz-stationary_Weight+Segmentation-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Complexity.secret.md) 

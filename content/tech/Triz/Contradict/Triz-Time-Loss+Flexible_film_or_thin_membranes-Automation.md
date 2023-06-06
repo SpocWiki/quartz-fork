@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.md) 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.internal.md) 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.protect.md) 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.private.md) 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.personal.md) 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Automation.secret.md) 

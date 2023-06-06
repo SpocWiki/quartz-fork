@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Great_Portland_Street](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.md) 
-- [Sub-Great_Portland_Street.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.internal.md) 
-- [Sub-Great_Portland_Street.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.protect.md) 
-- [Sub-Great_Portland_Street.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.private.md) 
-- [Sub-Great_Portland_Street.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.personal.md) 
-- [Sub-Great_Portland_Street.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Great_Portland_Street.secret.md) 

@@ -43,10 +43,3 @@ A clothing store.
 
 
 
-## Confidential Links & Embeds: 
-- [clothing_store](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/clothing_store.md) 
-- [clothing_store.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/clothing_store.internal.md) 
-- [clothing_store.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/clothing_store.protect.md) 
-- [clothing_store.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/clothing_store.private.md) 
-- [clothing_store.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/clothing_store.personal.md) 
-- [clothing_store.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/clothing_store.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lansing](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Michigan/City/Lansing.md) 
-- [Lansing.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Michigan/City/Lansing.internal.md) 
-- [Lansing.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Michigan/City/Lansing.protect.md) 
-- [Lansing.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Michigan/City/Lansing.private.md) 
-- [Lansing.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Michigan/City/Lansing.personal.md) 
-- [Lansing.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Michigan/City/Lansing.secret.md) 

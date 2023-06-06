@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Southsea](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Southsea.md) 
-- [Southsea.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southsea.internal.md) 
-- [Southsea.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southsea.protect.md) 
-- [Southsea.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southsea.private.md) 
-- [Southsea.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southsea.personal.md) 
-- [Southsea.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southsea.secret.md) 

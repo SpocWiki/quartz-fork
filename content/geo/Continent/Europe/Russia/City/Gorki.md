@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gorki](../../../../../../_public/geo/Continent/Europe/Russia/City/Gorki.md) 
-- [Gorki.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Gorki.internal.md) 
-- [Gorki.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Gorki.protect.md) 
-- [Gorki.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Gorki.private.md) 
-- [Gorki.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Gorki.personal.md) 
-- [Gorki.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Gorki.secret.md) 

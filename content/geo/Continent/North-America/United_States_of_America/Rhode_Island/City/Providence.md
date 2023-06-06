@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Providence](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.md) 
-- [Providence.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.internal.md) 
-- [Providence.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.protect.md) 
-- [Providence.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.private.md) 
-- [Providence.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.personal.md) 
-- [Providence.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Rhode_Island/City/Providence.secret.md) 

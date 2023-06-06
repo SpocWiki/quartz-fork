@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Melnik](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Melnik.md) 
-- [Melnik.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Melnik.internal.md) 
-- [Melnik.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Melnik.protect.md) 
-- [Melnik.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Melnik.private.md) 
-- [Melnik.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Melnik.personal.md) 
-- [Melnik.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Melnik.secret.md) 

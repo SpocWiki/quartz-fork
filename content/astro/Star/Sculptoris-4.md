@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sculptoris-4](../../../_public/astro/Star/Sculptoris-4.md) 
-- [Sculptoris-4.internal](../../../_internal/astro/Star/Sculptoris-4.internal.md) 
-- [Sculptoris-4.protect](../../../_protect/astro/Star/Sculptoris-4.protect.md) 
-- [Sculptoris-4.private](../../../_private/astro/Star/Sculptoris-4.private.md) 
-- [Sculptoris-4.personal](../../../_personal/astro/Star/Sculptoris-4.personal.md) 
-- [Sculptoris-4.secret](../../../_secret/astro/Star/Sculptoris-4.secret.md) 

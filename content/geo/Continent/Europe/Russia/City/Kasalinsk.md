@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kasalinsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Kasalinsk.md) 
-- [Kasalinsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kasalinsk.internal.md) 
-- [Kasalinsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kasalinsk.protect.md) 
-- [Kasalinsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kasalinsk.private.md) 
-- [Kasalinsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kasalinsk.personal.md) 
-- [Kasalinsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kasalinsk.secret.md) 

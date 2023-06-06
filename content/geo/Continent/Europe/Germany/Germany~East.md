@@ -37,10 +37,3 @@ markerFolder: _public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City
 
 
 
-## Confidential Links & Embeds: 
-- [Germany~East](../../../../../_public/geo/Continent/Europe/Germany/Germany~East.md) 
-- [Germany~East.internal](../../../../../_internal/geo/Continent/Europe/Germany/Germany~East.internal.md) 
-- [Germany~East.protect](../../../../../_protect/geo/Continent/Europe/Germany/Germany~East.protect.md) 
-- [Germany~East.private](../../../../../_private/geo/Continent/Europe/Germany/Germany~East.private.md) 
-- [Germany~East.personal](../../../../../_personal/geo/Continent/Europe/Germany/Germany~East.personal.md) 
-- [Germany~East.secret](../../../../../_secret/geo/Continent/Europe/Germany/Germany~East.secret.md) 

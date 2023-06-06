@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Istanbul](../../../../../../_public/geo/Continent/Europe/Turkey/City/Istanbul.md) 
-- [Istanbul.internal](../../../../../../_internal/geo/Continent/Europe/Turkey/City/Istanbul.internal.md) 
-- [Istanbul.protect](../../../../../../_protect/geo/Continent/Europe/Turkey/City/Istanbul.protect.md) 
-- [Istanbul.private](../../../../../../_private/geo/Continent/Europe/Turkey/City/Istanbul.private.md) 
-- [Istanbul.personal](../../../../../../_personal/geo/Continent/Europe/Turkey/City/Istanbul.personal.md) 
-- [Istanbul.secret](../../../../../../_secret/geo/Continent/Europe/Turkey/City/Istanbul.secret.md) 

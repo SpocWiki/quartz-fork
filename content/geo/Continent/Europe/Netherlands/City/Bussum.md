@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bussum](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Bussum.md) 
-- [Bussum.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Bussum.internal.md) 
-- [Bussum.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Bussum.protect.md) 
-- [Bussum.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Bussum.private.md) 
-- [Bussum.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Bussum.personal.md) 
-- [Bussum.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Bussum.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Dietzenbach-Steinberg](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach-Steinberg.md) 
-- [S-Dietzenbach-Steinberg.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach-Steinberg.internal.md) 
-- [S-Dietzenbach-Steinberg.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach-Steinberg.protect.md) 
-- [S-Dietzenbach-Steinberg.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach-Steinberg.private.md) 
-- [S-Dietzenbach-Steinberg.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach-Steinberg.personal.md) 
-- [S-Dietzenbach-Steinberg.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach-Steinberg.secret.md) 

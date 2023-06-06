@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oneglia](../../../../../../_public/geo/Continent/Europe/Italy/City/Oneglia.md) 
-- [Oneglia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Oneglia.internal.md) 
-- [Oneglia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Oneglia.protect.md) 
-- [Oneglia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Oneglia.private.md) 
-- [Oneglia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Oneglia.personal.md) 
-- [Oneglia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Oneglia.secret.md) 

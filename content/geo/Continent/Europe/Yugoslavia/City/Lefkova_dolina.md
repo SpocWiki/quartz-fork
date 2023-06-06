@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lefkova_dolina](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.md) 
-- [Lefkova_dolina.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.internal.md) 
-- [Lefkova_dolina.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.protect.md) 
-- [Lefkova_dolina.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.private.md) 
-- [Lefkova_dolina.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.personal.md) 
-- [Lefkova_dolina.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Lefkova_dolina.secret.md) 

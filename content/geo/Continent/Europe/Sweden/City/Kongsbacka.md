@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kongsbacka](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kongsbacka.md) 
-- [Kongsbacka.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kongsbacka.internal.md) 
-- [Kongsbacka.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kongsbacka.protect.md) 
-- [Kongsbacka.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kongsbacka.private.md) 
-- [Kongsbacka.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kongsbacka.personal.md) 
-- [Kongsbacka.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kongsbacka.secret.md) 

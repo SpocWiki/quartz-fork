@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_drive_through_service](../../../../_public/schema.org/Predicate/Flags/is_drive_through_service.md) 
-- [is_drive_through_service.internal](../../../../_internal/schema.org/Predicate/Flags/is_drive_through_service.internal.md) 
-- [is_drive_through_service.protect](../../../../_protect/schema.org/Predicate/Flags/is_drive_through_service.protect.md) 
-- [is_drive_through_service.private](../../../../_private/schema.org/Predicate/Flags/is_drive_through_service.private.md) 
-- [is_drive_through_service.personal](../../../../_personal/schema.org/Predicate/Flags/is_drive_through_service.personal.md) 
-- [is_drive_through_service.secret](../../../../_secret/schema.org/Predicate/Flags/is_drive_through_service.secret.md) 

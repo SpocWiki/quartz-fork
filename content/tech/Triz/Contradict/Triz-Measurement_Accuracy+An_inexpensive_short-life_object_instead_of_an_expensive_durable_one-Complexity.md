@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.md) 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.internal.md) 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.protect.md) 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.private.md) 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.personal.md) 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Complexity.secret.md) 

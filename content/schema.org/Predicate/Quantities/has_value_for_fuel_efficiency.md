@@ -51,10 +51,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_fuel_efficiency](../../../../_public/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.md) 
-- [has_value_for_fuel_efficiency.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.internal.md) 
-- [has_value_for_fuel_efficiency.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.protect.md) 
-- [has_value_for_fuel_efficiency.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.private.md) 
-- [has_value_for_fuel_efficiency.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.personal.md) 
-- [has_value_for_fuel_efficiency.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.secret.md) 

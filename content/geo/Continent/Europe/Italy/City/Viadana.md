@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Viadana](../../../../../../_public/geo/Continent/Europe/Italy/City/Viadana.md) 
-- [Viadana.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Viadana.internal.md) 
-- [Viadana.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Viadana.protect.md) 
-- [Viadana.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Viadana.private.md) 
-- [Viadana.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Viadana.personal.md) 
-- [Viadana.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Viadana.secret.md) 

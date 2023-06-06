@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Canossa](../../../../../../_public/geo/Continent/Europe/Italy/City/Canossa.md) 
-- [Canossa.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Canossa.internal.md) 
-- [Canossa.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Canossa.protect.md) 
-- [Canossa.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Canossa.private.md) 
-- [Canossa.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Canossa.personal.md) 
-- [Canossa.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Canossa.secret.md) 

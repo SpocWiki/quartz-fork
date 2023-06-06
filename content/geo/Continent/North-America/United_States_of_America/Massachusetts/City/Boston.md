@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Boston](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.md) 
-- [Boston.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.internal.md) 
-- [Boston.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.protect.md) 
-- [Boston.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.private.md) 
-- [Boston.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.personal.md) 
-- [Boston.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Boston.secret.md) 

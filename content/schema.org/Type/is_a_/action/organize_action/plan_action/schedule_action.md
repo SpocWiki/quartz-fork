@@ -49,10 +49,3 @@ Related actions:
 
 
 
-## Confidential Links & Embeds: 
-- [schedule_action](../../../../../../../_public/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.md) 
-- [schedule_action.internal](../../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.internal.md) 
-- [schedule_action.protect](../../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.protect.md) 
-- [schedule_action.private](../../../../../../../_private/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.private.md) 
-- [schedule_action.personal](../../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.personal.md) 
-- [schedule_action.secret](../../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.secret.md) 

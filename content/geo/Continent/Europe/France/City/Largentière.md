@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Largentière](../../../../../../_public/geo/Continent/Europe/France/City/Largenti%C3%A8re.md) 
-- [Largentière.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Largenti%C3%A8re.internal.md) 
-- [Largentière.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Largenti%C3%A8re.protect.md) 
-- [Largentière.private](../../../../../../_private/geo/Continent/Europe/France/City/Largenti%C3%A8re.private.md) 
-- [Largentière.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Largenti%C3%A8re.personal.md) 
-- [Largentière.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Largenti%C3%A8re.secret.md) 

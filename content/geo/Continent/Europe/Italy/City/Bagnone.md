@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bagnone](../../../../../../_public/geo/Continent/Europe/Italy/City/Bagnone.md) 
-- [Bagnone.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bagnone.internal.md) 
-- [Bagnone.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bagnone.protect.md) 
-- [Bagnone.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bagnone.private.md) 
-- [Bagnone.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bagnone.personal.md) 
-- [Bagnone.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bagnone.secret.md) 

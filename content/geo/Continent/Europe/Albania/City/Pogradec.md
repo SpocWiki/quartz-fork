@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pogradec](../../../../../../_public/geo/Continent/Europe/Albania/City/Pogradec.md) 
-- [Pogradec.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Pogradec.internal.md) 
-- [Pogradec.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Pogradec.protect.md) 
-- [Pogradec.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Pogradec.private.md) 
-- [Pogradec.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Pogradec.personal.md) 
-- [Pogradec.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Pogradec.secret.md) 

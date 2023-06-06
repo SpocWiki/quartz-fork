@@ -40,10 +40,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rhode_Island](../../../../../_public/geo/Continent/North-America/United_States_of_America/Rhode_Island.md) 
-- [Rhode_Island.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Rhode_Island.internal.md) 
-- [Rhode_Island.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Rhode_Island.protect.md) 
-- [Rhode_Island.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Rhode_Island.private.md) 
-- [Rhode_Island.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Rhode_Island.personal.md) 
-- [Rhode_Island.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Rhode_Island.secret.md) 

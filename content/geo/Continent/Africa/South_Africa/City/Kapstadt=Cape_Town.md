@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kapstadt=Cape_Town](../../../../../../_public/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.md) 
-- [Kapstadt=Cape_Town.internal](../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.internal.md) 
-- [Kapstadt=Cape_Town.protect](../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.protect.md) 
-- [Kapstadt=Cape_Town.private](../../../../../../_private/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.private.md) 
-- [Kapstadt=Cape_Town.personal](../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.personal.md) 
-- [Kapstadt=Cape_Town.secret](../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.secret.md) 

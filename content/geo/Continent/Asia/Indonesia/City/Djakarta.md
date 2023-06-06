@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Djakarta](../../../../../../_public/geo/Continent/Asia/Indonesia/City/Djakarta.md) 
-- [Djakarta.internal](../../../../../../_internal/geo/Continent/Asia/Indonesia/City/Djakarta.internal.md) 
-- [Djakarta.protect](../../../../../../_protect/geo/Continent/Asia/Indonesia/City/Djakarta.protect.md) 
-- [Djakarta.private](../../../../../../_private/geo/Continent/Asia/Indonesia/City/Djakarta.private.md) 
-- [Djakarta.personal](../../../../../../_personal/geo/Continent/Asia/Indonesia/City/Djakarta.personal.md) 
-- [Djakarta.secret](../../../../../../_secret/geo/Continent/Asia/Indonesia/City/Djakarta.secret.md) 

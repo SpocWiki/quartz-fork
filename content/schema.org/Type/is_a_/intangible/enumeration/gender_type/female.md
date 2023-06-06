@@ -45,10 +45,3 @@ The female gender.
 
 
 
-## Confidential Links & Embeds: 
-- [female](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.md) 
-- [female.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.internal.md) 
-- [female.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.protect.md) 
-- [female.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.private.md) 
-- [female.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.personal.md) 
-- [female.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.secret.md) 

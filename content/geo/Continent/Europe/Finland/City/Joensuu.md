@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Joensuu](../../../../../../_public/geo/Continent/Europe/Finland/City/Joensuu.md) 
-- [Joensuu.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Joensuu.internal.md) 
-- [Joensuu.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Joensuu.protect.md) 
-- [Joensuu.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Joensuu.private.md) 
-- [Joensuu.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Joensuu.personal.md) 
-- [Joensuu.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Joensuu.secret.md) 

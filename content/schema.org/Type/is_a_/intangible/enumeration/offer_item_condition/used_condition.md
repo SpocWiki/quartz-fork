@@ -45,10 +45,3 @@ Indicates that the item is used.
 
 
 
-## Confidential Links & Embeds: 
-- [used_condition](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.md) 
-- [used_condition.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.internal.md) 
-- [used_condition.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.protect.md) 
-- [used_condition.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.private.md) 
-- [used_condition.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.personal.md) 
-- [used_condition.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.secret.md) 

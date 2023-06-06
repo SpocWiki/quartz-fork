@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Halila](../../../../../../_public/geo/Continent/Europe/Finland/City/Halila.md) 
-- [Halila.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Halila.internal.md) 
-- [Halila.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Halila.protect.md) 
-- [Halila.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Halila.private.md) 
-- [Halila.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Halila.personal.md) 
-- [Halila.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Halila.secret.md) 

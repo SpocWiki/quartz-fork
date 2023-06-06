@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_occupancy](../../../../_public/schema.org/Predicate/Quantities/has_value_for_occupancy.md) 
-- [has_value_for_occupancy.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_occupancy.internal.md) 
-- [has_value_for_occupancy.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_occupancy.protect.md) 
-- [has_value_for_occupancy.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_occupancy.private.md) 
-- [has_value_for_occupancy.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_occupancy.personal.md) 
-- [has_value_for_occupancy.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_occupancy.secret.md) 

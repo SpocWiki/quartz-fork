@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_months_of_experience](../../../../_public/schema.org/Predicate/Quantities/has_value_for_months_of_experience.md) 
-- [has_value_for_months_of_experience.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_months_of_experience.internal.md) 
-- [has_value_for_months_of_experience.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_months_of_experience.protect.md) 
-- [has_value_for_months_of_experience.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_months_of_experience.private.md) 
-- [has_value_for_months_of_experience.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_months_of_experience.personal.md) 
-- [has_value_for_months_of_experience.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_months_of_experience.secret.md) 

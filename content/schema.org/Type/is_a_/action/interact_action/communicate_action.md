@@ -45,10 +45,3 @@ The act of conveying information to another person via a communication medium (i
 
 
 
-## Confidential Links & Embeds: 
-- [communicate_action](../../../../../../_public/schema.org/Type/is_a_/action/interact_action/communicate_action.md) 
-- [communicate_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/interact_action/communicate_action.internal.md) 
-- [communicate_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/interact_action/communicate_action.protect.md) 
-- [communicate_action.private](../../../../../../_private/schema.org/Type/is_a_/action/interact_action/communicate_action.private.md) 
-- [communicate_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/interact_action/communicate_action.personal.md) 
-- [communicate_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/interact_action/communicate_action.secret.md) 

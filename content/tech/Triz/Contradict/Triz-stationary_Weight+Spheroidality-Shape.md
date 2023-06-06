@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Spheroidality-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Spheroidality-Shape](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.md) 
-- [Triz-stationary_Weight+Spheroidality-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.internal.md) 
-- [Triz-stationary_Weight+Spheroidality-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.protect.md) 
-- [Triz-stationary_Weight+Spheroidality-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.private.md) 
-- [Triz-stationary_Weight+Spheroidality-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.personal.md) 
-- [Triz-stationary_Weight+Spheroidality-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Spheroidality-Shape.secret.md) 

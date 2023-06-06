@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirovakan](../../../../../../_public/geo/Continent/Europe/Russia/City/Kirovakan.md) 
-- [Kirovakan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirovakan.internal.md) 
-- [Kirovakan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirovakan.protect.md) 
-- [Kirovakan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kirovakan.private.md) 
-- [Kirovakan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirovakan.personal.md) 
-- [Kirovakan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirovakan.secret.md) 

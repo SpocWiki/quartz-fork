@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fjeri](../../../../../../_public/geo/Continent/Europe/Albania/City/Fjeri.md) 
-- [Fjeri.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Fjeri.internal.md) 
-- [Fjeri.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Fjeri.protect.md) 
-- [Fjeri.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Fjeri.private.md) 
-- [Fjeri.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Fjeri.personal.md) 
-- [Fjeri.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Fjeri.secret.md) 

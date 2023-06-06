@@ -19,10 +19,3 @@ title: Triz-Complexity+Mediator-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Mediator-Automation](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Mediator-Automation.md) 
-- [Triz-Complexity+Mediator-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Mediator-Automation.internal.md) 
-- [Triz-Complexity+Mediator-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Mediator-Automation.protect.md) 
-- [Triz-Complexity+Mediator-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Mediator-Automation.private.md) 
-- [Triz-Complexity+Mediator-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Mediator-Automation.personal.md) 
-- [Triz-Complexity+Mediator-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Mediator-Automation.secret.md) 

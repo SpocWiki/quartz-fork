@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_screen_count](../../../../_public/schema.org/Predicate/Counts/has_number_of_screen_count.md) 
-- [has_number_of_screen_count.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_screen_count.internal.md) 
-- [has_number_of_screen_count.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_screen_count.protect.md) 
-- [has_number_of_screen_count.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_screen_count.private.md) 
-- [has_number_of_screen_count.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_screen_count.personal.md) 
-- [has_number_of_screen_count.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_screen_count.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brand~Sachsen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Brand~Sachsen.md) 
-- [Brand~Sachsen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Brand~Sachsen.internal.md) 
-- [Brand~Sachsen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Brand~Sachsen.protect.md) 
-- [Brand~Sachsen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Brand~Sachsen.private.md) 
-- [Brand~Sachsen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Brand~Sachsen.personal.md) 
-- [Brand~Sachsen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Brand~Sachsen.secret.md) 

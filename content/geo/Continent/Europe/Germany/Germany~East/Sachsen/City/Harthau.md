@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harthau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Harthau.md) 
-- [Harthau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Harthau.internal.md) 
-- [Harthau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Harthau.protect.md) 
-- [Harthau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Harthau.private.md) 
-- [Harthau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Harthau.personal.md) 
-- [Harthau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Harthau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Parkano](../../../../../../_public/geo/Continent/Europe/Finland/City/Parkano.md) 
-- [Parkano.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Parkano.internal.md) 
-- [Parkano.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Parkano.protect.md) 
-- [Parkano.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Parkano.private.md) 
-- [Parkano.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Parkano.personal.md) 
-- [Parkano.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Parkano.secret.md) 

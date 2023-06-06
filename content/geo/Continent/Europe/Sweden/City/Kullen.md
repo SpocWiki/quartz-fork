@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kullen](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kullen.md) 
-- [Kullen.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kullen.internal.md) 
-- [Kullen.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kullen.protect.md) 
-- [Kullen.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kullen.private.md) 
-- [Kullen.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kullen.personal.md) 
-- [Kullen.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kullen.secret.md) 

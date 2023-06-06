@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gruena](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gruena.md) 
-- [Gruena.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gruena.internal.md) 
-- [Gruena.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gruena.protect.md) 
-- [Gruena.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gruena.private.md) 
-- [Gruena.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gruena.personal.md) 
-- [Gruena.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gruena.secret.md) 

@@ -39,10 +39,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maine](../../../../../_public/geo/Continent/North-America/United_States_of_America/Maine.md) 
-- [Maine.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Maine.internal.md) 
-- [Maine.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Maine.protect.md) 
-- [Maine.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Maine.private.md) 
-- [Maine.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Maine.personal.md) 
-- [Maine.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Maine.secret.md) 

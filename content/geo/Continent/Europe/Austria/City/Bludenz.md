@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bludenz](../../../../../../_public/geo/Continent/Europe/Austria/City/Bludenz.md) 
-- [Bludenz.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Bludenz.internal.md) 
-- [Bludenz.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Bludenz.protect.md) 
-- [Bludenz.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Bludenz.private.md) 
-- [Bludenz.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Bludenz.personal.md) 
-- [Bludenz.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Bludenz.secret.md) 

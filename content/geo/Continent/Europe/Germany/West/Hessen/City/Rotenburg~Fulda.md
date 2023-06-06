@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rotenburg~Fulda](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.md) 
-- [Rotenburg~Fulda.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.internal.md) 
-- [Rotenburg~Fulda.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.protect.md) 
-- [Rotenburg~Fulda.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.private.md) 
-- [Rotenburg~Fulda.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.personal.md) 
-- [Rotenburg~Fulda.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Rotenburg~Fulda.secret.md) 

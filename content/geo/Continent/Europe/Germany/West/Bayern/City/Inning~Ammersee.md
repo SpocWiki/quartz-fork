@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Inning~Ammersee](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.md) 
-- [Inning~Ammersee.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.internal.md) 
-- [Inning~Ammersee.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.protect.md) 
-- [Inning~Ammersee.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.private.md) 
-- [Inning~Ammersee.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.personal.md) 
-- [Inning~Ammersee.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Inning~Ammersee.secret.md) 

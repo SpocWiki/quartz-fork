@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nizza](../../../../../../_public/geo/Continent/Europe/France/City/Nizza.md) 
-- [Nizza.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nizza.internal.md) 
-- [Nizza.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nizza.protect.md) 
-- [Nizza.private](../../../../../../_private/geo/Continent/Europe/France/City/Nizza.private.md) 
-- [Nizza.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nizza.personal.md) 
-- [Nizza.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nizza.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.md) 
-- [Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.internal.md) 
-- [Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.protect.md) 
-- [Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.private.md) 
-- [Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.personal.md) 
-- [Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Replacement_of_a_mechanical_system-Ease_of_operation.secret.md) 

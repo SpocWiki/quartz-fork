@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ikaalinen](../../../../../../_public/geo/Continent/Europe/Finland/City/Ikaalinen.md) 
-- [Ikaalinen.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Ikaalinen.internal.md) 
-- [Ikaalinen.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Ikaalinen.protect.md) 
-- [Ikaalinen.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Ikaalinen.private.md) 
-- [Ikaalinen.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Ikaalinen.personal.md) 
-- [Ikaalinen.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Ikaalinen.secret.md) 

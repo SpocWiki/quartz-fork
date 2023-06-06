@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Friedland_OstPommern](../../../../../../_public/geo/Continent/Europe/Russia/City/Friedland_OstPommern.md) 
-- [Friedland_OstPommern.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Friedland_OstPommern.internal.md) 
-- [Friedland_OstPommern.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Friedland_OstPommern.protect.md) 
-- [Friedland_OstPommern.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Friedland_OstPommern.private.md) 
-- [Friedland_OstPommern.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Friedland_OstPommern.personal.md) 
-- [Friedland_OstPommern.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Friedland_OstPommern.secret.md) 

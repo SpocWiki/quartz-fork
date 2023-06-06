@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Courtrai](../../../../../../_public/geo/Continent/Europe/Belgium/City/Courtrai.md) 
-- [Courtrai.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Courtrai.internal.md) 
-- [Courtrai.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Courtrai.protect.md) 
-- [Courtrai.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Courtrai.private.md) 
-- [Courtrai.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Courtrai.personal.md) 
-- [Courtrai.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Courtrai.secret.md) 

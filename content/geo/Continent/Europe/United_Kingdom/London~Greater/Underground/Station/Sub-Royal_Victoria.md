@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Royal_Victoria](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.md) 
-- [Sub-Royal_Victoria.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.internal.md) 
-- [Sub-Royal_Victoria.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.protect.md) 
-- [Sub-Royal_Victoria.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.private.md) 
-- [Sub-Royal_Victoria.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.personal.md) 
-- [Sub-Royal_Victoria.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Royal_Victoria.secret.md) 

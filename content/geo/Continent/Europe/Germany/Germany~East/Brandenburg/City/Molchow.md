@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Molchow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Molchow.md) 
-- [Molchow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Molchow.internal.md) 
-- [Molchow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Molchow.protect.md) 
-- [Molchow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Molchow.private.md) 
-- [Molchow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Molchow.personal.md) 
-- [Molchow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Molchow.secret.md) 

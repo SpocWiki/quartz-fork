@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arensburg](../../../../../../_public/geo/Continent/Europe/Russia/City/Arensburg.md) 
-- [Arensburg.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Arensburg.internal.md) 
-- [Arensburg.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Arensburg.protect.md) 
-- [Arensburg.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Arensburg.private.md) 
-- [Arensburg.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Arensburg.personal.md) 
-- [Arensburg.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Arensburg.secret.md) 

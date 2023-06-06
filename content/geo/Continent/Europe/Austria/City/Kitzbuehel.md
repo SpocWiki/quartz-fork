@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kitzbuehel](../../../../../../_public/geo/Continent/Europe/Austria/City/Kitzbuehel.md) 
-- [Kitzbuehel.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Kitzbuehel.internal.md) 
-- [Kitzbuehel.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Kitzbuehel.protect.md) 
-- [Kitzbuehel.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Kitzbuehel.private.md) 
-- [Kitzbuehel.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Kitzbuehel.personal.md) 
-- [Kitzbuehel.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Kitzbuehel.secret.md) 

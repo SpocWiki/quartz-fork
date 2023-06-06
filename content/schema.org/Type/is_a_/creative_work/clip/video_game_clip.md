@@ -43,10 +43,3 @@ A short segment/part of a video game.
 
 
 
-## Confidential Links & Embeds: 
-- [video_game_clip](../../../../../../_public/schema.org/Type/is_a_/creative_work/clip/video_game_clip.md) 
-- [video_game_clip.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/clip/video_game_clip.internal.md) 
-- [video_game_clip.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/clip/video_game_clip.protect.md) 
-- [video_game_clip.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/clip/video_game_clip.private.md) 
-- [video_game_clip.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/clip/video_game_clip.personal.md) 
-- [video_game_clip.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/clip/video_game_clip.secret.md) 

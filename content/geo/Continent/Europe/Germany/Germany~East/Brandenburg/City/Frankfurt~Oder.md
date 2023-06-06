@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frankfurt~Oder](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.md) 
-- [Frankfurt~Oder.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.internal.md) 
-- [Frankfurt~Oder.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.protect.md) 
-- [Frankfurt~Oder.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.private.md) 
-- [Frankfurt~Oder.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.personal.md) 
-- [Frankfurt~Oder.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Frankfurt~Oder.secret.md) 

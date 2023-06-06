@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neu-Brandenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Neu-Brandenburg.md) 
-- [Neu-Brandenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Neu-Brandenburg.internal.md) 
-- [Neu-Brandenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Neu-Brandenburg.protect.md) 
-- [Neu-Brandenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Neu-Brandenburg.private.md) 
-- [Neu-Brandenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Neu-Brandenburg.personal.md) 
-- [Neu-Brandenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Neu-Brandenburg.secret.md) 

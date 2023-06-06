@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Friedersdorf~Brandenburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.md) 
-- [Friedersdorf~Brandenburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.internal.md) 
-- [Friedersdorf~Brandenburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.protect.md) 
-- [Friedersdorf~Brandenburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.private.md) 
-- [Friedersdorf~Brandenburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.personal.md) 
-- [Friedersdorf~Brandenburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Friedersdorf~Brandenburg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Simferopol](../../../../../../_public/geo/Continent/Europe/Russia/City/Simferopol.md) 
-- [Simferopol.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Simferopol.internal.md) 
-- [Simferopol.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Simferopol.protect.md) 
-- [Simferopol.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Simferopol.private.md) 
-- [Simferopol.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Simferopol.personal.md) 
-- [Simferopol.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Simferopol.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siljansfors](../../../../../../_public/geo/Continent/Europe/Sweden/City/Siljansfors.md) 
-- [Siljansfors.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Siljansfors.internal.md) 
-- [Siljansfors.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Siljansfors.protect.md) 
-- [Siljansfors.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Siljansfors.private.md) 
-- [Siljansfors.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Siljansfors.personal.md) 
-- [Siljansfors.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Siljansfors.secret.md) 

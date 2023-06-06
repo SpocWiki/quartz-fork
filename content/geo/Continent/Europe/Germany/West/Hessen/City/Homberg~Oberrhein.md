@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Homberg~Oberrhein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.md) 
-- [Homberg~Oberrhein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.internal.md) 
-- [Homberg~Oberrhein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.protect.md) 
-- [Homberg~Oberrhein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.private.md) 
-- [Homberg~Oberrhein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.personal.md) 
-- [Homberg~Oberrhein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Homberg~Oberrhein.secret.md) 

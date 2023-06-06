@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stollberg](../../../../../../_public/geo/Continent/Europe/Austria/City/Stollberg.md) 
-- [Stollberg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Stollberg.internal.md) 
-- [Stollberg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Stollberg.protect.md) 
-- [Stollberg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Stollberg.private.md) 
-- [Stollberg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Stollberg.personal.md) 
-- [Stollberg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Stollberg.secret.md) 

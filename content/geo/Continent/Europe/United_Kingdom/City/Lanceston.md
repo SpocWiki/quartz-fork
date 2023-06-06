@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lanceston](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lanceston.md) 
-- [Lanceston.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lanceston.internal.md) 
-- [Lanceston.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lanceston.protect.md) 
-- [Lanceston.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lanceston.private.md) 
-- [Lanceston.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lanceston.personal.md) 
-- [Lanceston.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lanceston.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tamisto](../../../../../../_public/geo/Continent/Europe/Finland/City/Tamisto.md) 
-- [Tamisto.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Tamisto.internal.md) 
-- [Tamisto.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Tamisto.protect.md) 
-- [Tamisto.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Tamisto.private.md) 
-- [Tamisto.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Tamisto.personal.md) 
-- [Tamisto.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Tamisto.secret.md) 

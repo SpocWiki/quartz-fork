@@ -32,10 +32,3 @@ title: Rubidium
 
 
 
-## Confidential Links & Embeds: 
-- [Rubidium](../../../../_public/chemic/Elements/Group-01-Alkali/Rubidium.md) 
-- [Rubidium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Rubidium.internal.md) 
-- [Rubidium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Rubidium.protect.md) 
-- [Rubidium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Rubidium.private.md) 
-- [Rubidium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Rubidium.personal.md) 
-- [Rubidium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Rubidium.secret.md) 

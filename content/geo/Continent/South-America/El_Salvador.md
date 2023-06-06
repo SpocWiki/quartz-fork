@@ -120,7 +120,7 @@ markerFolder: ./El_Salvador/City
 
 ![350](geo/Continent/South-America/El_Salvador/Coat_of_arms_of_El_Salvador.svg)
 
-![Anthem-El-salvador](xLarge/National-Anthem/Anthem-El-salvador.mp3)
+[Anthem-El-salvador](xLarge/National-Anthem/Anthem-El-salvador.mp3)
 
 ![350](geo/Continent/South-America/El_Salvador/Flag_of_El_Salvador.svg)
 
@@ -131,10 +131,3 @@ markerFolder: ./El_Salvador/City
 
 
 
-## Confidential Links & Embeds: 
-- [El_Salvador](../../../../_public/geo/Continent/South-America/El_Salvador.md) 
-- [El_Salvador.internal](../../../../_internal/geo/Continent/South-America/El_Salvador.internal.md) 
-- [El_Salvador.protect](../../../../_protect/geo/Continent/South-America/El_Salvador.protect.md) 
-- [El_Salvador.private](../../../../_private/geo/Continent/South-America/El_Salvador.private.md) 
-- [El_Salvador.personal](../../../../_personal/geo/Continent/South-America/El_Salvador.personal.md) 
-- [El_Salvador.secret](../../../../_secret/geo/Continent/South-America/El_Salvador.secret.md) 

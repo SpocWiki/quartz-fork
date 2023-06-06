@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karlsdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Karlsdorf.md) 
-- [Karlsdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Karlsdorf.internal.md) 
-- [Karlsdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Karlsdorf.protect.md) 
-- [Karlsdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Karlsdorf.private.md) 
-- [Karlsdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Karlsdorf.personal.md) 
-- [Karlsdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Karlsdorf.secret.md) 

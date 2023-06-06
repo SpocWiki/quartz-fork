@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_inverse_of](../../../../../_public/schema.org/Predicate/Relations/is/is_inverse_of.md) 
-- [is_inverse_of.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_inverse_of.internal.md) 
-- [is_inverse_of.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_inverse_of.protect.md) 
-- [is_inverse_of.private](../../../../../_private/schema.org/Predicate/Relations/is/is_inverse_of.private.md) 
-- [is_inverse_of.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_inverse_of.personal.md) 
-- [is_inverse_of.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_inverse_of.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arlberg](../../../../../../_public/geo/Continent/Europe/Austria/City/Arlberg.md) 
-- [Arlberg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Arlberg.internal.md) 
-- [Arlberg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Arlberg.protect.md) 
-- [Arlberg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Arlberg.private.md) 
-- [Arlberg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Arlberg.personal.md) 
-- [Arlberg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Arlberg.secret.md) 

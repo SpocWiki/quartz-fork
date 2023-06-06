@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aldershof](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Aldershof.md) 
-- [Aldershof.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Aldershof.internal.md) 
-- [Aldershof.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Aldershof.protect.md) 
-- [Aldershof.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Aldershof.private.md) 
-- [Aldershof.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Aldershof.personal.md) 
-- [Aldershof.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Aldershof.secret.md) 

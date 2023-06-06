@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Equipotentiality-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Equipotentiality-Power](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Power.md) 
-- [Triz-Ease_of_manufacture+Equipotentiality-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Power.internal.md) 
-- [Triz-Ease_of_manufacture+Equipotentiality-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Power.protect.md) 
-- [Triz-Ease_of_manufacture+Equipotentiality-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Power.private.md) 
-- [Triz-Ease_of_manufacture+Equipotentiality-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Power.personal.md) 
-- [Triz-Ease_of_manufacture+Equipotentiality-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Power.secret.md) 

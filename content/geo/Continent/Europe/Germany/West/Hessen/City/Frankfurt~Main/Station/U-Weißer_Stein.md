@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Weißer_Stein](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fer_Stein.md) 
-- [U-Weißer_Stein.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fer_Stein.internal.md) 
-- [U-Weißer_Stein.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fer_Stein.protect.md) 
-- [U-Weißer_Stein.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fer_Stein.private.md) 
-- [U-Weißer_Stein.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fer_Stein.personal.md) 
-- [U-Weißer_Stein.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fer_Stein.secret.md) 

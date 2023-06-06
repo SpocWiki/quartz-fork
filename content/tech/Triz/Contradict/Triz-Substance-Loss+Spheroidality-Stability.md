@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Spheroidality-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Spheroidality-Stability](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.md) 
-- [Triz-Substance-Loss+Spheroidality-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.internal.md) 
-- [Triz-Substance-Loss+Spheroidality-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.protect.md) 
-- [Triz-Substance-Loss+Spheroidality-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.private.md) 
-- [Triz-Substance-Loss+Spheroidality-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.personal.md) 
-- [Triz-Substance-Loss+Spheroidality-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Stability.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rautavaara](../../../../../../_public/geo/Continent/Europe/Finland/City/Rautavaara.md) 
-- [Rautavaara.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Rautavaara.internal.md) 
-- [Rautavaara.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Rautavaara.protect.md) 
-- [Rautavaara.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Rautavaara.private.md) 
-- [Rautavaara.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Rautavaara.personal.md) 
-- [Rautavaara.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Rautavaara.secret.md) 

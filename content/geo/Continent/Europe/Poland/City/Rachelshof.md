@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rachelshof](../../../../../../_public/geo/Continent/Europe/Poland/City/Rachelshof.md) 
-- [Rachelshof.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rachelshof.internal.md) 
-- [Rachelshof.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rachelshof.protect.md) 
-- [Rachelshof.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rachelshof.private.md) 
-- [Rachelshof.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rachelshof.personal.md) 
-- [Rachelshof.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rachelshof.secret.md) 

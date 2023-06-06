@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aguilas](../../../../../../_public/geo/Continent/Europe/Spain/City/Aguilas.md) 
-- [Aguilas.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Aguilas.internal.md) 
-- [Aguilas.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Aguilas.protect.md) 
-- [Aguilas.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Aguilas.private.md) 
-- [Aguilas.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Aguilas.personal.md) 
-- [Aguilas.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Aguilas.secret.md) 

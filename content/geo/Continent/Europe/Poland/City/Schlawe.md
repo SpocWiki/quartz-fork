@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schlawe](../../../../../../_public/geo/Continent/Europe/Poland/City/Schlawe.md) 
-- [Schlawe.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlawe.internal.md) 
-- [Schlawe.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlawe.protect.md) 
-- [Schlawe.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schlawe.private.md) 
-- [Schlawe.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlawe.personal.md) 
-- [Schlawe.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlawe.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bromberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Bromberg.md) 
-- [Bromberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bromberg.internal.md) 
-- [Bromberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bromberg.protect.md) 
-- [Bromberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bromberg.private.md) 
-- [Bromberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bromberg.personal.md) 
-- [Bromberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bromberg.secret.md) 

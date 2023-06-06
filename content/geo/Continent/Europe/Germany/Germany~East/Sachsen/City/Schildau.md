@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schildau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schildau.md) 
-- [Schildau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schildau.internal.md) 
-- [Schildau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schildau.protect.md) 
-- [Schildau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schildau.private.md) 
-- [Schildau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schildau.personal.md) 
-- [Schildau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schildau.secret.md) 

@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Monocerotis-4](../../../_public/astro/Star/Monocerotis-4.md) 
-- [Monocerotis-4.internal](../../../_internal/astro/Star/Monocerotis-4.internal.md) 
-- [Monocerotis-4.protect](../../../_protect/astro/Star/Monocerotis-4.protect.md) 
-- [Monocerotis-4.private](../../../_private/astro/Star/Monocerotis-4.private.md) 
-- [Monocerotis-4.personal](../../../_personal/astro/Star/Monocerotis-4.personal.md) 
-- [Monocerotis-4.secret](../../../_secret/astro/Star/Monocerotis-4.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Perm=Molotow](../../../../../../_public/geo/Continent/Europe/Russia/City/Perm=Molotow.md) 
-- [Perm=Molotow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Perm=Molotow.internal.md) 
-- [Perm=Molotow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Perm=Molotow.protect.md) 
-- [Perm=Molotow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Perm=Molotow.private.md) 
-- [Perm=Molotow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Perm=Molotow.personal.md) 
-- [Perm=Molotow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Perm=Molotow.secret.md) 

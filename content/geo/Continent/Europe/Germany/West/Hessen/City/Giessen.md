@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Giessen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Giessen.md) 
-- [Giessen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Giessen.internal.md) 
-- [Giessen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Giessen.protect.md) 
-- [Giessen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Giessen.private.md) 
-- [Giessen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Giessen.personal.md) 
-- [Giessen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Giessen.secret.md) 

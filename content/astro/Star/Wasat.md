@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Wasat](../../../_public/astro/Star/Wasat.md) 
-- [Wasat.internal](../../../_internal/astro/Star/Wasat.internal.md) 
-- [Wasat.protect](../../../_protect/astro/Star/Wasat.protect.md) 
-- [Wasat.private](../../../_private/astro/Star/Wasat.private.md) 
-- [Wasat.personal](../../../_personal/astro/Star/Wasat.personal.md) 
-- [Wasat.secret](../../../_secret/astro/Star/Wasat.secret.md) 

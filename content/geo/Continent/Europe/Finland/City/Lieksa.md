@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lieksa](../../../../../../_public/geo/Continent/Europe/Finland/City/Lieksa.md) 
-- [Lieksa.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Lieksa.internal.md) 
-- [Lieksa.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Lieksa.protect.md) 
-- [Lieksa.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Lieksa.private.md) 
-- [Lieksa.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Lieksa.personal.md) 
-- [Lieksa.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Lieksa.secret.md) 

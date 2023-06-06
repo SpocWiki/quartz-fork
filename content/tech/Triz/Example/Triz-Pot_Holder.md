@@ -17,10 +17,3 @@ title: Triz-Pot_Holder
 
 Pot Holder to carry hot Dishes to the Table.
 
-## Confidential Links & Embeds: 
-- [Triz-Pot_Holder](../../../../_public/tech/Triz/Example/Triz-Pot_Holder.md) 
-- [Triz-Pot_Holder.internal](../../../../_internal/tech/Triz/Example/Triz-Pot_Holder.internal.md) 
-- [Triz-Pot_Holder.protect](../../../../_protect/tech/Triz/Example/Triz-Pot_Holder.protect.md) 
-- [Triz-Pot_Holder.private](../../../../_private/tech/Triz/Example/Triz-Pot_Holder.private.md) 
-- [Triz-Pot_Holder.personal](../../../../_personal/tech/Triz/Example/Triz-Pot_Holder.personal.md) 
-- [Triz-Pot_Holder.secret](../../../../_secret/tech/Triz/Example/Triz-Pot_Holder.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leninabad](../../../../../../_public/geo/Continent/Europe/Russia/City/Leninabad.md) 
-- [Leninabad.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Leninabad.internal.md) 
-- [Leninabad.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Leninabad.protect.md) 
-- [Leninabad.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Leninabad.private.md) 
-- [Leninabad.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Leninabad.personal.md) 
-- [Leninabad.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Leninabad.secret.md) 

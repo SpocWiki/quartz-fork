@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fréhel](../../../../../../_public/geo/Continent/Europe/France/City/Fr%C3%A9hel.md) 
-- [Fréhel.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Fr%C3%A9hel.internal.md) 
-- [Fréhel.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Fr%C3%A9hel.protect.md) 
-- [Fréhel.private](../../../../../../_private/geo/Continent/Europe/France/City/Fr%C3%A9hel.private.md) 
-- [Fréhel.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Fr%C3%A9hel.personal.md) 
-- [Fréhel.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Fr%C3%A9hel.secret.md) 

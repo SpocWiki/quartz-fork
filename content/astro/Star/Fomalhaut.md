@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Fomalhaut](../../../_public/astro/Star/Fomalhaut.md) 
-- [Fomalhaut.internal](../../../_internal/astro/Star/Fomalhaut.internal.md) 
-- [Fomalhaut.protect](../../../_protect/astro/Star/Fomalhaut.protect.md) 
-- [Fomalhaut.private](../../../_private/astro/Star/Fomalhaut.private.md) 
-- [Fomalhaut.personal](../../../_personal/astro/Star/Fomalhaut.personal.md) 
-- [Fomalhaut.secret](../../../_secret/astro/Star/Fomalhaut.secret.md)
-

@@ -48,10 +48,3 @@ Usage guidelines:
 
 
 
-## Confidential Links & Embeds: 
-- [number](../../../../../_public/schema.org/Type/is_a_/data_type/number.md) 
-- [number.internal](../../../../../_internal/schema.org/Type/is_a_/data_type/number.internal.md) 
-- [number.protect](../../../../../_protect/schema.org/Type/is_a_/data_type/number.protect.md) 
-- [number.private](../../../../../_private/schema.org/Type/is_a_/data_type/number.private.md) 
-- [number.personal](../../../../../_personal/schema.org/Type/is_a_/data_type/number.personal.md) 
-- [number.secret](../../../../../_secret/schema.org/Type/is_a_/data_type/number.secret.md) 

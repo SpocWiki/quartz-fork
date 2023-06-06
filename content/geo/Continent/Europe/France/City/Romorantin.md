@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Romorantin](../../../../../../_public/geo/Continent/Europe/France/City/Romorantin.md) 
-- [Romorantin.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Romorantin.internal.md) 
-- [Romorantin.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Romorantin.protect.md) 
-- [Romorantin.private](../../../../../../_private/geo/Continent/Europe/France/City/Romorantin.private.md) 
-- [Romorantin.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Romorantin.personal.md) 
-- [Romorantin.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Romorantin.secret.md) 

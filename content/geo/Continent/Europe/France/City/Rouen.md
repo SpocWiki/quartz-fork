@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rouen](../../../../../../_public/geo/Continent/Europe/France/City/Rouen.md) 
-- [Rouen.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Rouen.internal.md) 
-- [Rouen.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Rouen.protect.md) 
-- [Rouen.private](../../../../../../_private/geo/Continent/Europe/France/City/Rouen.private.md) 
-- [Rouen.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Rouen.personal.md) 
-- [Rouen.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Rouen.secret.md) 

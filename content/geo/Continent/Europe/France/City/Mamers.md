@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mamers](../../../../../../_public/geo/Continent/Europe/France/City/Mamers.md) 
-- [Mamers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Mamers.internal.md) 
-- [Mamers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Mamers.protect.md) 
-- [Mamers.private](../../../../../../_private/geo/Continent/Europe/France/City/Mamers.private.md) 
-- [Mamers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Mamers.personal.md) 
-- [Mamers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Mamers.secret.md) 

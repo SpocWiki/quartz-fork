@@ -121,7 +121,7 @@ markerFolder: ./Liberia/City
 
 ![350](geo/Continent/Africa/Liberia/Coat_of_arms_of_Liberia.svg)
 
-![Anthem-Liberia](xLarge/National-Anthem/Anthem-Liberia.mp3)
+[Anthem-Liberia](xLarge/National-Anthem/Anthem-Liberia.mp3)
 
 ![350](geo/Continent/Africa/Liberia/Flag_of_Liberia.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Liberia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Liberia](../../../../_public/geo/Continent/Africa/Liberia.md) 
-- [Liberia.internal](../../../../_internal/geo/Continent/Africa/Liberia.internal.md) 
-- [Liberia.protect](../../../../_protect/geo/Continent/Africa/Liberia.protect.md) 
-- [Liberia.private](../../../../_private/geo/Continent/Africa/Liberia.private.md) 
-- [Liberia.personal](../../../../_personal/geo/Continent/Africa/Liberia.personal.md) 
-- [Liberia.secret](../../../../_secret/geo/Continent/Africa/Liberia.secret.md) 

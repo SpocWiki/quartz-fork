@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leysin](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Leysin.md) 
-- [Leysin.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Leysin.internal.md) 
-- [Leysin.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Leysin.protect.md) 
-- [Leysin.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Leysin.private.md) 
-- [Leysin.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Leysin.personal.md) 
-- [Leysin.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Leysin.secret.md) 

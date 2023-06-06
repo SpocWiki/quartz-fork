@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wladimier](../../../../../../_public/geo/Continent/Europe/Russia/City/Wladimier.md) 
-- [Wladimier.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Wladimier.internal.md) 
-- [Wladimier.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Wladimier.protect.md) 
-- [Wladimier.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Wladimier.private.md) 
-- [Wladimier.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Wladimier.personal.md) 
-- [Wladimier.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Wladimier.secret.md) 

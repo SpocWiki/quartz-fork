@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gloucester](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Gloucester.md) 
-- [Gloucester.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gloucester.internal.md) 
-- [Gloucester.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gloucester.protect.md) 
-- [Gloucester.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gloucester.private.md) 
-- [Gloucester.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gloucester.personal.md) 
-- [Gloucester.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gloucester.secret.md) 

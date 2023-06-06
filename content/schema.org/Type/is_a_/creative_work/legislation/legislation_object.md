@@ -45,10 +45,3 @@ A specific object or file containing a Legislation. Note that the same Legislati
 
 
 
-## Confidential Links & Embeds: 
-- [legislation_object](../../../../../../_public/schema.org/Type/is_a_/creative_work/legislation/legislation_object.md) 
-- [legislation_object.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/legislation/legislation_object.internal.md) 
-- [legislation_object.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/legislation/legislation_object.protect.md) 
-- [legislation_object.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/legislation/legislation_object.private.md) 
-- [legislation_object.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/legislation/legislation_object.personal.md) 
-- [legislation_object.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/legislation/legislation_object.secret.md) 

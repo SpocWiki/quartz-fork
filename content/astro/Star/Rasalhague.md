@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Rasalhague](../../../_public/astro/Star/Rasalhague.md) 
-- [Rasalhague.internal](../../../_internal/astro/Star/Rasalhague.internal.md) 
-- [Rasalhague.protect](../../../_protect/astro/Star/Rasalhague.protect.md) 
-- [Rasalhague.private](../../../_private/astro/Star/Rasalhague.private.md) 
-- [Rasalhague.personal](../../../_personal/astro/Star/Rasalhague.personal.md) 
-- [Rasalhague.secret](../../../_secret/astro/Star/Rasalhague.secret.md) 

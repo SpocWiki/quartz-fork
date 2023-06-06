@@ -19,10 +19,3 @@ title: Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.md) 
-- [Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.internal.md) 
-- [Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.protect.md) 
-- [Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.private.md) 
-- [Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.personal.md) 
-- [Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Replacement_of_a_mechanical_system-Difficulty.secret.md) 

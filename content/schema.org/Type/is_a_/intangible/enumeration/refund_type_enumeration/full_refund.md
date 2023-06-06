@@ -47,10 +47,3 @@ Specifies that a refund can be done in the full amount the customer paid for the
 
 
 
-## Confidential Links & Embeds: 
-- [full_refund](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/full_refund.md) 
-- [full_refund.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/full_refund.internal.md) 
-- [full_refund.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/full_refund.protect.md) 
-- [full_refund.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/full_refund.private.md) 
-- [full_refund.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/full_refund.personal.md) 
-- [full_refund.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/full_refund.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Kemerovo_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Kemerovo_Oblast.md) 
-- [State-Kemerovo_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Kemerovo_Oblast.internal.md) 
-- [State-Kemerovo_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Kemerovo_Oblast.protect.md) 
-- [State-Kemerovo_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Kemerovo_Oblast.private.md) 
-- [State-Kemerovo_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Kemerovo_Oblast.personal.md) 
-- [State-Kemerovo_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Kemerovo_Oblast.secret.md) 

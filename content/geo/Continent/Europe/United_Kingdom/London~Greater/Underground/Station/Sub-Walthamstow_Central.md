@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Walthamstow_Central](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Walthamstow_Central.md) 
-- [Sub-Walthamstow_Central.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Walthamstow_Central.internal.md) 
-- [Sub-Walthamstow_Central.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Walthamstow_Central.protect.md) 
-- [Sub-Walthamstow_Central.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Walthamstow_Central.private.md) 
-- [Sub-Walthamstow_Central.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Walthamstow_Central.personal.md) 
-- [Sub-Walthamstow_Central.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Walthamstow_Central.secret.md) 

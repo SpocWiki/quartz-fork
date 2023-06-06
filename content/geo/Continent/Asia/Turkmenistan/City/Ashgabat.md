@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ashgabat](../../../../../../_public/geo/Continent/Asia/Turkmenistan/City/Ashgabat.md) 
-- [Ashgabat.internal](../../../../../../_internal/geo/Continent/Asia/Turkmenistan/City/Ashgabat.internal.md) 
-- [Ashgabat.protect](../../../../../../_protect/geo/Continent/Asia/Turkmenistan/City/Ashgabat.protect.md) 
-- [Ashgabat.private](../../../../../../_private/geo/Continent/Asia/Turkmenistan/City/Ashgabat.private.md) 
-- [Ashgabat.personal](../../../../../../_personal/geo/Continent/Asia/Turkmenistan/City/Ashgabat.personal.md) 
-- [Ashgabat.secret](../../../../../../_secret/geo/Continent/Asia/Turkmenistan/City/Ashgabat.secret.md) 

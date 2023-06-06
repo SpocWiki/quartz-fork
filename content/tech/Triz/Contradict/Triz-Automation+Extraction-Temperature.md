@@ -19,10 +19,3 @@ title: Triz-Automation+Extraction-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Extraction-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.md) 
-- [Triz-Automation+Extraction-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.internal.md) 
-- [Triz-Automation+Extraction-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.protect.md) 
-- [Triz-Automation+Extraction-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.private.md) 
-- [Triz-Automation+Extraction-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.personal.md) 
-- [Triz-Automation+Extraction-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Extraction-Temperature.secret.md) 

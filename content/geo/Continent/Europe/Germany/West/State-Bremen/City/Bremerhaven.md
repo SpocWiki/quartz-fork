@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bremerhaven](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremerhaven.md) 
-- [Bremerhaven.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremerhaven.internal.md) 
-- [Bremerhaven.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremerhaven.protect.md) 
-- [Bremerhaven.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremerhaven.private.md) 
-- [Bremerhaven.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremerhaven.personal.md) 
-- [Bremerhaven.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremerhaven.secret.md) 

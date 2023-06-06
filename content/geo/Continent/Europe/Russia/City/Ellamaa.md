@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ellamaa](../../../../../../_public/geo/Continent/Europe/Russia/City/Ellamaa.md) 
-- [Ellamaa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ellamaa.internal.md) 
-- [Ellamaa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ellamaa.protect.md) 
-- [Ellamaa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ellamaa.private.md) 
-- [Ellamaa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ellamaa.personal.md) 
-- [Ellamaa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ellamaa.secret.md) 

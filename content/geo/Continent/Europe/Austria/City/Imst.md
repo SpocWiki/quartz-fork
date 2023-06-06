@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Imst](../../../../../../_public/geo/Continent/Europe/Austria/City/Imst.md) 
-- [Imst.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Imst.internal.md) 
-- [Imst.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Imst.protect.md) 
-- [Imst.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Imst.private.md) 
-- [Imst.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Imst.personal.md) 
-- [Imst.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Imst.secret.md) 

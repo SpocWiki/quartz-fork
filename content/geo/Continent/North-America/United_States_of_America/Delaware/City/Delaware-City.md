@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Delaware-City](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.md) 
-- [Delaware-City.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.internal.md) 
-- [Delaware-City.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.protect.md) 
-- [Delaware-City.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.private.md) 
-- [Delaware-City.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.personal.md) 
-- [Delaware-City.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Delaware/City/Delaware-City.secret.md) 

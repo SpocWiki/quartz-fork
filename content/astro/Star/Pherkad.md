@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Pherkad](../../../_public/astro/Star/Pherkad.md) 
-- [Pherkad.internal](../../../_internal/astro/Star/Pherkad.internal.md) 
-- [Pherkad.protect](../../../_protect/astro/Star/Pherkad.protect.md) 
-- [Pherkad.private](../../../_private/astro/Star/Pherkad.private.md) 
-- [Pherkad.personal](../../../_personal/astro/Star/Pherkad.personal.md) 
-- [Pherkad.secret](../../../_secret/astro/Star/Pherkad.secret.md) 

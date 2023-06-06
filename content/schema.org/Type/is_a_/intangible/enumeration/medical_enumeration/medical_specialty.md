@@ -41,10 +41,3 @@ Any specific branch of medical science or practice. Medical specialities include
 
 
 
-## Confidential Links & Embeds: 
-- [medical_specialty](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.md) 
-- [medical_specialty.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.internal.md) 
-- [medical_specialty.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.protect.md) 
-- [medical_specialty.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.private.md) 
-- [medical_specialty.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.personal.md) 
-- [medical_specialty.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.secret.md) 

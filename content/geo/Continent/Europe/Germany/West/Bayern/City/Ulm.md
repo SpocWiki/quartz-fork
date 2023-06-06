@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ulm](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.md) 
-- [Ulm.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.internal.md) 
-- [Ulm.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.protect.md) 
-- [Ulm.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.private.md) 
-- [Ulm.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.personal.md) 
-- [Ulm.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ulm.secret.md) 

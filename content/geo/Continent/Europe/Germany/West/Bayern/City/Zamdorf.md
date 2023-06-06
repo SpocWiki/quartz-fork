@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zamdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Zamdorf.md) 
-- [Zamdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Zamdorf.internal.md) 
-- [Zamdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Zamdorf.protect.md) 
-- [Zamdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Zamdorf.private.md) 
-- [Zamdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Zamdorf.personal.md) 
-- [Zamdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Zamdorf.secret.md) 

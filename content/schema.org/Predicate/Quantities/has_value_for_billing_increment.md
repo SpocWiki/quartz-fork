@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_billing_increment](../../../../_public/schema.org/Predicate/Quantities/has_value_for_billing_increment.md) 
-- [has_value_for_billing_increment.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_billing_increment.internal.md) 
-- [has_value_for_billing_increment.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_billing_increment.protect.md) 
-- [has_value_for_billing_increment.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_billing_increment.private.md) 
-- [has_value_for_billing_increment.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_billing_increment.personal.md) 
-- [has_value_for_billing_increment.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_billing_increment.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufactur
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.md) 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.internal.md) 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.protect.md) 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.private.md) 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.personal.md) 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Ease_of_manufacture.secret.md) 

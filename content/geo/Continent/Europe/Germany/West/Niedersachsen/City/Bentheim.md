@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bentheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bentheim.md) 
-- [Bentheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bentheim.internal.md) 
-- [Bentheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bentheim.protect.md) 
-- [Bentheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bentheim.private.md) 
-- [Bentheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bentheim.personal.md) 
-- [Bentheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bentheim.secret.md) 

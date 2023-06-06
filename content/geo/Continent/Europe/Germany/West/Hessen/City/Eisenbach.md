@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eisenbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.md) 
-- [Eisenbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.internal.md) 
-- [Eisenbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.protect.md) 
-- [Eisenbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.private.md) 
-- [Eisenbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.personal.md) 
-- [Eisenbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Eisenbach.secret.md) 

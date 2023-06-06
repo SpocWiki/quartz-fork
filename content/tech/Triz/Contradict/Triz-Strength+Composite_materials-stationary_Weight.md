@@ -19,10 +19,3 @@ title: Triz-Strength+Composite_materials-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Composite_materials-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Weight.md) 
-- [Triz-Strength+Composite_materials-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Weight.internal.md) 
-- [Triz-Strength+Composite_materials-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Weight.protect.md) 
-- [Triz-Strength+Composite_materials-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Weight.private.md) 
-- [Triz-Strength+Composite_materials-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Weight.personal.md) 
-- [Triz-Strength+Composite_materials-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Weight.secret.md) 

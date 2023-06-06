@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Windhoek](../../../../../../_public/geo/Continent/Africa/Namibia/City/Windhoek.md) 
-- [Windhoek.internal](../../../../../../_internal/geo/Continent/Africa/Namibia/City/Windhoek.internal.md) 
-- [Windhoek.protect](../../../../../../_protect/geo/Continent/Africa/Namibia/City/Windhoek.protect.md) 
-- [Windhoek.private](../../../../../../_private/geo/Continent/Africa/Namibia/City/Windhoek.private.md) 
-- [Windhoek.personal](../../../../../../_personal/geo/Continent/Africa/Namibia/City/Windhoek.personal.md) 
-- [Windhoek.secret](../../../../../../_secret/geo/Continent/Africa/Namibia/City/Windhoek.secret.md) 

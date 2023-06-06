@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hermsburg](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Hermsburg.md) 
-- [Hermsburg.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Hermsburg.internal.md) 
-- [Hermsburg.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Hermsburg.protect.md) 
-- [Hermsburg.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Hermsburg.private.md) 
-- [Hermsburg.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Hermsburg.personal.md) 
-- [Hermsburg.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Hermsburg.secret.md) 

@@ -39,10 +39,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Massachusetts](../../../../../_public/geo/Continent/North-America/United_States_of_America/Massachusetts.md) 
-- [Massachusetts.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Massachusetts.internal.md) 
-- [Massachusetts.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Massachusetts.protect.md) 
-- [Massachusetts.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Massachusetts.private.md) 
-- [Massachusetts.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Massachusetts.personal.md) 
-- [Massachusetts.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Massachusetts.secret.md) 

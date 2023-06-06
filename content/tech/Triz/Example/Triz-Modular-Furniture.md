@@ -17,10 +17,3 @@ title: Triz-Modular-Furniture
 
 Modular Furniture.
 
-## Confidential Links & Embeds: 
-- [Triz-Modular-Furniture](../../../../_public/tech/Triz/Example/Triz-Modular-Furniture.md) 
-- [Triz-Modular-Furniture.internal](../../../../_internal/tech/Triz/Example/Triz-Modular-Furniture.internal.md) 
-- [Triz-Modular-Furniture.protect](../../../../_protect/tech/Triz/Example/Triz-Modular-Furniture.protect.md) 
-- [Triz-Modular-Furniture.private](../../../../_private/tech/Triz/Example/Triz-Modular-Furniture.private.md) 
-- [Triz-Modular-Furniture.personal](../../../../_personal/tech/Triz/Example/Triz-Modular-Furniture.personal.md) 
-- [Triz-Modular-Furniture.secret](../../../../_secret/tech/Triz/Example/Triz-Modular-Furniture.secret.md) 

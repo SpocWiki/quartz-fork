@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Novi_Sad](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Novi_Sad.md) 
-- [Novi_Sad.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Novi_Sad.internal.md) 
-- [Novi_Sad.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Novi_Sad.protect.md) 
-- [Novi_Sad.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Novi_Sad.private.md) 
-- [Novi_Sad.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Novi_Sad.personal.md) 
-- [Novi_Sad.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Novi_Sad.secret.md) 

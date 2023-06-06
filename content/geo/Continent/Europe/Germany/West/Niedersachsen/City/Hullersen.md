@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hullersen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hullersen.md) 
-- [Hullersen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hullersen.internal.md) 
-- [Hullersen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hullersen.protect.md) 
-- [Hullersen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hullersen.private.md) 
-- [Hullersen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hullersen.personal.md) 
-- [Hullersen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hullersen.secret.md) 

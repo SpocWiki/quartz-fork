@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koniuskow](../../../../../../_public/geo/Continent/Europe/Poland/City/Koniuskow.md) 
-- [Koniuskow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Koniuskow.internal.md) 
-- [Koniuskow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Koniuskow.protect.md) 
-- [Koniuskow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Koniuskow.private.md) 
-- [Koniuskow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Koniuskow.personal.md) 
-- [Koniuskow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Koniuskow.secret.md) 

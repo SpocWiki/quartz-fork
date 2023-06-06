@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tananarivo](../../../../../../_public/geo/Continent/Africa/Madagascar/City/Tananarivo.md) 
-- [Tananarivo.internal](../../../../../../_internal/geo/Continent/Africa/Madagascar/City/Tananarivo.internal.md) 
-- [Tananarivo.protect](../../../../../../_protect/geo/Continent/Africa/Madagascar/City/Tananarivo.protect.md) 
-- [Tananarivo.private](../../../../../../_private/geo/Continent/Africa/Madagascar/City/Tananarivo.private.md) 
-- [Tananarivo.personal](../../../../../../_personal/geo/Continent/Africa/Madagascar/City/Tananarivo.personal.md) 
-- [Tananarivo.secret](../../../../../../_secret/geo/Continent/Africa/Madagascar/City/Tananarivo.secret.md) 

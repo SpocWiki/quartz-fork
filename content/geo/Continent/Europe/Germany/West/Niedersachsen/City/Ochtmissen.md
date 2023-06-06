@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ochtmissen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ochtmissen.md) 
-- [Ochtmissen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ochtmissen.internal.md) 
-- [Ochtmissen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ochtmissen.protect.md) 
-- [Ochtmissen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ochtmissen.private.md) 
-- [Ochtmissen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ochtmissen.personal.md) 
-- [Ochtmissen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ochtmissen.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weener](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weener.md) 
-- [Weener.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weener.internal.md) 
-- [Weener.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weener.protect.md) 
-- [Weener.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weener.private.md) 
-- [Weener.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weener.personal.md) 
-- [Weener.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weener.secret.md) 

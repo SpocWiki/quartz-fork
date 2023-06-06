@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Use_of_porous_material-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Use_of_porous_material-Strength](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.md) 
-- [Triz-Substance-Loss+Use_of_porous_material-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.internal.md) 
-- [Triz-Substance-Loss+Use_of_porous_material-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.protect.md) 
-- [Triz-Substance-Loss+Use_of_porous_material-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.private.md) 
-- [Triz-Substance-Loss+Use_of_porous_material-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.personal.md) 
-- [Triz-Substance-Loss+Use_of_porous_material-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Use_of_porous_material-Strength.secret.md) 

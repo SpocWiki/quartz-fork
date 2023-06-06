@@ -17,10 +17,3 @@ title: Triz-Illumination
 
 Illumination intensity
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination](../../../../_public/tech/Triz/Parameter/Triz-Illumination.md) 
-- [Triz-Illumination.internal](../../../../_internal/tech/Triz/Parameter/Triz-Illumination.internal.md) 
-- [Triz-Illumination.protect](../../../../_protect/tech/Triz/Parameter/Triz-Illumination.protect.md) 
-- [Triz-Illumination.private](../../../../_private/tech/Triz/Parameter/Triz-Illumination.private.md) 
-- [Triz-Illumination.personal](../../../../_personal/tech/Triz/Parameter/Triz-Illumination.personal.md) 
-- [Triz-Illumination.secret](../../../../_secret/tech/Triz/Parameter/Triz-Illumination.secret.md) 

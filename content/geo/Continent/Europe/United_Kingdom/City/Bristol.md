@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bristol](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bristol.md) 
-- [Bristol.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bristol.internal.md) 
-- [Bristol.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bristol.protect.md) 
-- [Bristol.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bristol.private.md) 
-- [Bristol.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bristol.personal.md) 
-- [Bristol.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bristol.secret.md) 

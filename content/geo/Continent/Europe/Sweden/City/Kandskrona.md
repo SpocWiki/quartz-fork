@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kandskrona](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kandskrona.md) 
-- [Kandskrona.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kandskrona.internal.md) 
-- [Kandskrona.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kandskrona.protect.md) 
-- [Kandskrona.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kandskrona.private.md) 
-- [Kandskrona.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kandskrona.personal.md) 
-- [Kandskrona.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kandskrona.secret.md) 

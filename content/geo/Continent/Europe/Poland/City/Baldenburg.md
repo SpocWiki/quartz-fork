@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baldenburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Baldenburg.md) 
-- [Baldenburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Baldenburg.internal.md) 
-- [Baldenburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Baldenburg.protect.md) 
-- [Baldenburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Baldenburg.private.md) 
-- [Baldenburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Baldenburg.personal.md) 
-- [Baldenburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Baldenburg.secret.md) 

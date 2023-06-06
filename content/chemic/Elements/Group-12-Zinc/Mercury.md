@@ -43,10 +43,3 @@ SpocWebEntityId: 21975
 
 
 
-## Confidential Links & Embeds: 
-- [Mercury](../../../../_public/chemic/Elements/Group-12-Zinc/Mercury.md) 
-- [Mercury.internal](../../../../_internal/chemic/Elements/Group-12-Zinc/Mercury.internal.md) 
-- [Mercury.protect](../../../../_protect/chemic/Elements/Group-12-Zinc/Mercury.protect.md) 
-- [Mercury.private](../../../../_private/chemic/Elements/Group-12-Zinc/Mercury.private.md) 
-- [Mercury.personal](../../../../_personal/chemic/Elements/Group-12-Zinc/Mercury.personal.md) 
-- [Mercury.secret](../../../../_secret/chemic/Elements/Group-12-Zinc/Mercury.secret.md) 

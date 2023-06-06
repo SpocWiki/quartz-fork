@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Froejen](../../../../../../_public/geo/Continent/Europe/Norway/City/Froejen.md) 
-- [Froejen.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Froejen.internal.md) 
-- [Froejen.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Froejen.protect.md) 
-- [Froejen.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Froejen.private.md) 
-- [Froejen.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Froejen.personal.md) 
-- [Froejen.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Froejen.secret.md) 

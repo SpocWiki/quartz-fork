@@ -19,10 +19,3 @@ title: Triz-stationary_Duration+Universality-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Duration+Universality-Reliability](../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.md) 
-- [Triz-stationary_Duration+Universality-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.internal.md) 
-- [Triz-stationary_Duration+Universality-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.protect.md) 
-- [Triz-stationary_Duration+Universality-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.private.md) 
-- [Triz-stationary_Duration+Universality-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.personal.md) 
-- [Triz-stationary_Duration+Universality-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Reliability.secret.md) 

@@ -32,7 +32,7 @@ markerFolder: ./Congo~Dem_Rep/City
 
 ![350](geo/Continent/Africa/Congo~Kinshasa/Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg)
 
-![Anthem-Congo](xLarge/National-Anthem/Anthem-Congo.mp3)
+[Anthem-Congo](xLarge/National-Anthem/Anthem-Congo.mp3)
 
 ![350](geo/Continent/Africa/Congo~Kinshasa/Flag_of_the_Democratic_Republic_of_the_Congo.svg)
 [Alcohol-l::3.3]
@@ -42,10 +42,3 @@ markerFolder: ./Congo~Dem_Rep/City
 
 
 
-## Confidential Links & Embeds: 
-- [Congo~Kinshasa](../../../../_public/geo/Continent/Africa/Congo~Kinshasa.md) 
-- [Congo~Kinshasa.internal](../../../../_internal/geo/Continent/Africa/Congo~Kinshasa.internal.md) 
-- [Congo~Kinshasa.protect](../../../../_protect/geo/Continent/Africa/Congo~Kinshasa.protect.md) 
-- [Congo~Kinshasa.private](../../../../_private/geo/Continent/Africa/Congo~Kinshasa.private.md) 
-- [Congo~Kinshasa.personal](../../../../_personal/geo/Continent/Africa/Congo~Kinshasa.personal.md) 
-- [Congo~Kinshasa.secret](../../../../_secret/geo/Continent/Africa/Congo~Kinshasa.secret.md) 

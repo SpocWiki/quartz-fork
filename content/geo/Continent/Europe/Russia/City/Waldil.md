@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldil](../../../../../../_public/geo/Continent/Europe/Russia/City/Waldil.md) 
-- [Waldil.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Waldil.internal.md) 
-- [Waldil.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Waldil.protect.md) 
-- [Waldil.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Waldil.private.md) 
-- [Waldil.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Waldil.personal.md) 
-- [Waldil.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Waldil.secret.md) 

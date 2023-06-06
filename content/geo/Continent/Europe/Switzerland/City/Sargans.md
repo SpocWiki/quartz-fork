@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sargans](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sargans.md) 
-- [Sargans.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sargans.internal.md) 
-- [Sargans.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sargans.protect.md) 
-- [Sargans.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sargans.private.md) 
-- [Sargans.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sargans.personal.md) 
-- [Sargans.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sargans.secret.md) 

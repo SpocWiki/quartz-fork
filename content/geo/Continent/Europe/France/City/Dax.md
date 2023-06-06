@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dax](../../../../../../_public/geo/Continent/Europe/France/City/Dax.md) 
-- [Dax.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Dax.internal.md) 
-- [Dax.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Dax.protect.md) 
-- [Dax.private](../../../../../../_private/geo/Continent/Europe/France/City/Dax.private.md) 
-- [Dax.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Dax.personal.md) 
-- [Dax.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Dax.secret.md) 

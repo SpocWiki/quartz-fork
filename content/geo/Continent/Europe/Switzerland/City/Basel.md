@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Basel](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Basel.md) 
-- [Basel.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Basel.internal.md) 
-- [Basel.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Basel.protect.md) 
-- [Basel.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Basel.private.md) 
-- [Basel.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Basel.personal.md) 
-- [Basel.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Basel.secret.md) 

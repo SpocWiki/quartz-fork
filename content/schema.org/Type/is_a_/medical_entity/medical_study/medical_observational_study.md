@@ -43,10 +43,3 @@ An observational study is a type of medical study that attempts to infer the pos
 
 
 
-## Confidential Links & Embeds: 
-- [medical_observational_study](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.md) 
-- [medical_observational_study.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.internal.md) 
-- [medical_observational_study.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.protect.md) 
-- [medical_observational_study.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.private.md) 
-- [medical_observational_study.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.personal.md) 
-- [medical_observational_study.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.secret.md) 

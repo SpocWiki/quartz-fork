@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Otmar](../../../../../../_public/geo/Continent/Europe/France/City/St.Otmar.md) 
-- [St.Otmar.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Otmar.internal.md) 
-- [St.Otmar.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Otmar.protect.md) 
-- [St.Otmar.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Otmar.private.md) 
-- [St.Otmar.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Otmar.personal.md) 
-- [St.Otmar.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Otmar.secret.md) 

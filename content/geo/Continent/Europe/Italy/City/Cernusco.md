@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cernusco](../../../../../../_public/geo/Continent/Europe/Italy/City/Cernusco.md) 
-- [Cernusco.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cernusco.internal.md) 
-- [Cernusco.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cernusco.protect.md) 
-- [Cernusco.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cernusco.private.md) 
-- [Cernusco.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cernusco.personal.md) 
-- [Cernusco.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cernusco.secret.md) 

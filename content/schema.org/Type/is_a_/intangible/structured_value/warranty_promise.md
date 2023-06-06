@@ -43,10 +43,3 @@ A structured value representing the duration and scope of services that will be 
 
 
 
-## Confidential Links & Embeds: 
-- [warranty_promise](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/warranty_promise.md) 
-- [warranty_promise.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/warranty_promise.internal.md) 
-- [warranty_promise.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/warranty_promise.protect.md) 
-- [warranty_promise.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/warranty_promise.private.md) 
-- [warranty_promise.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/warranty_promise.personal.md) 
-- [warranty_promise.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/warranty_promise.secret.md) 

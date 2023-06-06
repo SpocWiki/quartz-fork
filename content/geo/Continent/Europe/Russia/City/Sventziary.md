@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sventziary](../../../../../../_public/geo/Continent/Europe/Russia/City/Sventziary.md) 
-- [Sventziary.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sventziary.internal.md) 
-- [Sventziary.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sventziary.protect.md) 
-- [Sventziary.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sventziary.private.md) 
-- [Sventziary.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sventziary.personal.md) 
-- [Sventziary.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sventziary.secret.md) 

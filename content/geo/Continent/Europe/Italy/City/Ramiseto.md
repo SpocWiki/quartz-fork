@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ramiseto](../../../../../../_public/geo/Continent/Europe/Italy/City/Ramiseto.md) 
-- [Ramiseto.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ramiseto.internal.md) 
-- [Ramiseto.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ramiseto.protect.md) 
-- [Ramiseto.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ramiseto.private.md) 
-- [Ramiseto.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ramiseto.personal.md) 
-- [Ramiseto.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ramiseto.secret.md) 

@@ -36,10 +36,3 @@ markerFolder: ./Svalbard_And_Jan_Mayen_Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [Svalbard_and_Jan_Mayen~Islands](../../../../_public/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.md) 
-- [Svalbard_and_Jan_Mayen~Islands.internal](../../../../_internal/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.internal.md) 
-- [Svalbard_and_Jan_Mayen~Islands.protect](../../../../_protect/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.protect.md) 
-- [Svalbard_and_Jan_Mayen~Islands.private](../../../../_private/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.private.md) 
-- [Svalbard_and_Jan_Mayen~Islands.personal](../../../../_personal/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.personal.md) 
-- [Svalbard_and_Jan_Mayen~Islands.secret](../../../../_secret/geo/Continent/Europe/Svalbard_and_Jan_Mayen~Islands.secret.md) 

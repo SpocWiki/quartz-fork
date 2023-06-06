@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palikir](../../../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.md) 
-- [Palikir.internal](../../../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.internal.md) 
-- [Palikir.protect](../../../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.protect.md) 
-- [Palikir.private](../../../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.private.md) 
-- [Palikir.personal](../../../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.personal.md) 
-- [Palikir.secret](../../../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States/City/Palikir.secret.md) 

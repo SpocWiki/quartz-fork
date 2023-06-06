@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Szecseny](../../../../../../_public/geo/Continent/Europe/Hungary/City/Szecseny.md) 
-- [Szecseny.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szecseny.internal.md) 
-- [Szecseny.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szecseny.protect.md) 
-- [Szecseny.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Szecseny.private.md) 
-- [Szecseny.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szecseny.personal.md) 
-- [Szecseny.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szecseny.secret.md) 

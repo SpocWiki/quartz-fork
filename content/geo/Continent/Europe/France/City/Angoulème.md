@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Angoulème](../../../../../../_public/geo/Continent/Europe/France/City/Angoul%C3%A8me.md) 
-- [Angoulème.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Angoul%C3%A8me.internal.md) 
-- [Angoulème.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Angoul%C3%A8me.protect.md) 
-- [Angoulème.private](../../../../../../_private/geo/Continent/Europe/France/City/Angoul%C3%A8me.private.md) 
-- [Angoulème.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Angoul%C3%A8me.personal.md) 
-- [Angoulème.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Angoul%C3%A8me.secret.md) 

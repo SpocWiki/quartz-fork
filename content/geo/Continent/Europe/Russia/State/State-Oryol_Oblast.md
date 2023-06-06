@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Oryol_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Oryol_Oblast.md) 
-- [State-Oryol_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Oryol_Oblast.internal.md) 
-- [State-Oryol_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Oryol_Oblast.protect.md) 
-- [State-Oryol_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Oryol_Oblast.private.md) 
-- [State-Oryol_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Oryol_Oblast.personal.md) 
-- [State-Oryol_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Oryol_Oblast.secret.md) 

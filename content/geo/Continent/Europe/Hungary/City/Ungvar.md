@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ungvar](../../../../../../_public/geo/Continent/Europe/Hungary/City/Ungvar.md) 
-- [Ungvar.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Ungvar.internal.md) 
-- [Ungvar.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Ungvar.protect.md) 
-- [Ungvar.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Ungvar.private.md) 
-- [Ungvar.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Ungvar.personal.md) 
-- [Ungvar.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Ungvar.secret.md) 

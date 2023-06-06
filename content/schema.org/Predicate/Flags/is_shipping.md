@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_shipping](../../../../_public/schema.org/Predicate/Flags/is_shipping.md) 
-- [is_shipping.internal](../../../../_internal/schema.org/Predicate/Flags/is_shipping.internal.md) 
-- [is_shipping.protect](../../../../_protect/schema.org/Predicate/Flags/is_shipping.protect.md) 
-- [is_shipping.private](../../../../_private/schema.org/Predicate/Flags/is_shipping.private.md) 
-- [is_shipping.personal](../../../../_personal/schema.org/Predicate/Flags/is_shipping.personal.md) 
-- [is_shipping.secret](../../../../_secret/schema.org/Predicate/Flags/is_shipping.secret.md) 

@@ -45,10 +45,3 @@ Enumerates common size groups for various product categories.
 
 
 
-## Confidential Links & Embeds: 
-- [size_group_enumeration](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration.md) 
-- [size_group_enumeration.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration.internal.md) 
-- [size_group_enumeration.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration.protect.md) 
-- [size_group_enumeration.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration.private.md) 
-- [size_group_enumeration.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration.personal.md) 
-- [size_group_enumeration.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration.secret.md) 

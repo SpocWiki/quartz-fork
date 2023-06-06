@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gannert](../../../../../../_public/geo/Continent/Europe/France/City/Gannert.md) 
-- [Gannert.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Gannert.internal.md) 
-- [Gannert.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Gannert.protect.md) 
-- [Gannert.private](../../../../../../_private/geo/Continent/Europe/France/City/Gannert.private.md) 
-- [Gannert.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Gannert.personal.md) 
-- [Gannert.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Gannert.secret.md) 

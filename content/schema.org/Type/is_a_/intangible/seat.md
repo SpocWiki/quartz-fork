@@ -43,10 +43,3 @@ Used to describe a seat, such as a reserved seat in an event reservation.
 
 
 
-## Confidential Links & Embeds: 
-- [seat](../../../../../_public/schema.org/Type/is_a_/intangible/seat.md) 
-- [seat.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/seat.internal.md) 
-- [seat.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/seat.protect.md) 
-- [seat.private](../../../../../_private/schema.org/Type/is_a_/intangible/seat.private.md) 
-- [seat.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/seat.personal.md) 
-- [seat.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/seat.secret.md) 

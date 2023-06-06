@@ -43,10 +43,3 @@ The act of giving money voluntarily to a beneficiary in recognition of services 
 
 
 
-## Confidential Links & Embeds: 
-- [tip_action](../../../../../../_public/schema.org/Type/is_a_/action/trade_action/tip_action.md) 
-- [tip_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/tip_action.internal.md) 
-- [tip_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/tip_action.protect.md) 
-- [tip_action.private](../../../../../../_private/schema.org/Type/is_a_/action/trade_action/tip_action.private.md) 
-- [tip_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/tip_action.personal.md) 
-- [tip_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/tip_action.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siershahn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Siershahn.md) 
-- [Siershahn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Siershahn.internal.md) 
-- [Siershahn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Siershahn.protect.md) 
-- [Siershahn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Siershahn.private.md) 
-- [Siershahn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Siershahn.personal.md) 
-- [Siershahn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Siershahn.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Biburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Biburg.md) 
-- [Biburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Biburg.internal.md) 
-- [Biburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Biburg.protect.md) 
-- [Biburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Biburg.private.md) 
-- [Biburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Biburg.personal.md) 
-- [Biburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Biburg.secret.md) 

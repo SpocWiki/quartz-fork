@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amphissa](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Amphissa.md) 
-- [Amphissa.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Amphissa.internal.md) 
-- [Amphissa.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Amphissa.protect.md) 
-- [Amphissa.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Amphissa.private.md) 
-- [Amphissa.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Amphissa.personal.md) 
-- [Amphissa.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Amphissa.secret.md) 

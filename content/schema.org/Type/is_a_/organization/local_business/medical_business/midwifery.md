@@ -45,10 +45,3 @@ A nurse-like health profession that deals with pregnancy, childbirth, and the po
 
 
 
-## Confidential Links & Embeds: 
-- [midwifery](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/midwifery.md) 
-- [midwifery.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/midwifery.internal.md) 
-- [midwifery.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/midwifery.protect.md) 
-- [midwifery.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/midwifery.private.md) 
-- [midwifery.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/midwifery.personal.md) 
-- [midwifery.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/midwifery.secret.md) 

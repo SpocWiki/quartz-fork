@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hauenstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hauenstein.md) 
-- [Hauenstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hauenstein.internal.md) 
-- [Hauenstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hauenstein.protect.md) 
-- [Hauenstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hauenstein.private.md) 
-- [Hauenstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hauenstein.personal.md) 
-- [Hauenstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hauenstein.secret.md) 

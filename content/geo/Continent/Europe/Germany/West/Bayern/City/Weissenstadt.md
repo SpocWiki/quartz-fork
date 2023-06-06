@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weissenstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Weissenstadt.md) 
-- [Weissenstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Weissenstadt.internal.md) 
-- [Weissenstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Weissenstadt.protect.md) 
-- [Weissenstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Weissenstadt.private.md) 
-- [Weissenstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Weissenstadt.personal.md) 
-- [Weissenstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Weissenstadt.secret.md) 

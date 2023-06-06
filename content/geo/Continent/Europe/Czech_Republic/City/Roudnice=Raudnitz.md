@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roudnice=Raudnitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.md) 
-- [Roudnice=Raudnitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.internal.md) 
-- [Roudnice=Raudnitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.protect.md) 
-- [Roudnice=Raudnitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.private.md) 
-- [Roudnice=Raudnitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.personal.md) 
-- [Roudnice=Raudnitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.secret.md) 

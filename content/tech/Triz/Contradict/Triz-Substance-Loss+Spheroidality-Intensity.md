@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Spheroidality-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Spheroidality-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Intensity.md) 
-- [Triz-Substance-Loss+Spheroidality-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Intensity.internal.md) 
-- [Triz-Substance-Loss+Spheroidality-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Intensity.protect.md) 
-- [Triz-Substance-Loss+Spheroidality-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Intensity.private.md) 
-- [Triz-Substance-Loss+Spheroidality-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Intensity.personal.md) 
-- [Triz-Substance-Loss+Spheroidality-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Spheroidality-Intensity.secret.md) 

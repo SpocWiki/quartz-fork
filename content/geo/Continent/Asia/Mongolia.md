@@ -128,10 +128,3 @@ markerFolder: ./Mongolia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Mongolia](../../../../_public/geo/Continent/Asia/Mongolia.md) 
-- [Mongolia.internal](../../../../_internal/geo/Continent/Asia/Mongolia.internal.md) 
-- [Mongolia.protect](../../../../_protect/geo/Continent/Asia/Mongolia.protect.md) 
-- [Mongolia.private](../../../../_private/geo/Continent/Asia/Mongolia.private.md) 
-- [Mongolia.personal](../../../../_personal/geo/Continent/Asia/Mongolia.personal.md) 
-- [Mongolia.secret](../../../../_secret/geo/Continent/Asia/Mongolia.secret.md) 

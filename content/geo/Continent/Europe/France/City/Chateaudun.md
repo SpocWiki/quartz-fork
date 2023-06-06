@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chateaudun](../../../../../../_public/geo/Continent/Europe/France/City/Chateaudun.md) 
-- [Chateaudun.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chateaudun.internal.md) 
-- [Chateaudun.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chateaudun.protect.md) 
-- [Chateaudun.private](../../../../../../_private/geo/Continent/Europe/France/City/Chateaudun.private.md) 
-- [Chateaudun.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chateaudun.personal.md) 
-- [Chateaudun.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chateaudun.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Szombathely](../../../../../../_public/geo/Continent/Europe/Hungary/City/Szombathely.md) 
-- [Szombathely.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szombathely.internal.md) 
-- [Szombathely.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szombathely.protect.md) 
-- [Szombathely.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Szombathely.private.md) 
-- [Szombathely.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szombathely.personal.md) 
-- [Szombathely.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szombathely.secret.md) 

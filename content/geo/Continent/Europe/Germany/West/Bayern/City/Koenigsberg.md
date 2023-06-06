@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenigsberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.md) 
-- [Koenigsberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.internal.md) 
-- [Koenigsberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.protect.md) 
-- [Koenigsberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.private.md) 
-- [Koenigsberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.personal.md) 
-- [Koenigsberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.secret.md) 

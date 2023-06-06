@@ -123,7 +123,7 @@ markerFolder: ./Tunisia/City
 
 ![350](geo/Continent/Africa/Tunisia/Coat_of_arms_of_Tunisia.svg)
 
-![Anthem-Tunisia](xLarge/National-Anthem/Anthem-Tunisia.mp3)
+[Anthem-Tunisia](xLarge/National-Anthem/Anthem-Tunisia.mp3)
 
 ![350](geo/Continent/Africa/Tunisia/Flag_of_Tunisia.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Tunisia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Tunisia](../../../../_public/geo/Continent/Africa/Tunisia.md) 
-- [Tunisia.internal](../../../../_internal/geo/Continent/Africa/Tunisia.internal.md) 
-- [Tunisia.protect](../../../../_protect/geo/Continent/Africa/Tunisia.protect.md) 
-- [Tunisia.private](../../../../_private/geo/Continent/Africa/Tunisia.private.md) 
-- [Tunisia.personal](../../../../_personal/geo/Continent/Africa/Tunisia.personal.md) 
-- [Tunisia.secret](../../../../_secret/geo/Continent/Africa/Tunisia.secret.md) 

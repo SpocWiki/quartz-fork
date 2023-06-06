@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Asymmetry-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Asymmetry-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.md) 
-- [Triz-Ease_of_manufacture+Asymmetry-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.internal.md) 
-- [Triz-Ease_of_manufacture+Asymmetry-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.protect.md) 
-- [Triz-Ease_of_manufacture+Asymmetry-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.private.md) 
-- [Triz-Ease_of_manufacture+Asymmetry-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.personal.md) 
-- [Triz-Ease_of_manufacture+Asymmetry-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Asymmetry-Time-Loss.secret.md) 

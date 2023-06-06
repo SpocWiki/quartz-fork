@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Crotone](../../../../../../_public/geo/Continent/Europe/Italy/City/Crotone.md) 
-- [Crotone.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Crotone.internal.md) 
-- [Crotone.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Crotone.protect.md) 
-- [Crotone.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Crotone.private.md) 
-- [Crotone.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Crotone.personal.md) 
-- [Crotone.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Crotone.secret.md) 

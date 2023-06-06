@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pfaffenhofen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.md) 
-- [Pfaffenhofen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.internal.md) 
-- [Pfaffenhofen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.protect.md) 
-- [Pfaffenhofen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.private.md) 
-- [Pfaffenhofen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.personal.md) 
-- [Pfaffenhofen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.secret.md) 

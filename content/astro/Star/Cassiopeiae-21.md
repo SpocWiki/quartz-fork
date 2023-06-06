@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Cassiopeiae-21](../../../_public/astro/Star/Cassiopeiae-21.md) 
-- [Cassiopeiae-21.internal](../../../_internal/astro/Star/Cassiopeiae-21.internal.md) 
-- [Cassiopeiae-21.protect](../../../_protect/astro/Star/Cassiopeiae-21.protect.md) 
-- [Cassiopeiae-21.private](../../../_private/astro/Star/Cassiopeiae-21.private.md) 
-- [Cassiopeiae-21.personal](../../../_personal/astro/Star/Cassiopeiae-21.personal.md) 
-- [Cassiopeiae-21.secret](../../../_secret/astro/Star/Cassiopeiae-21.secret.md)
-

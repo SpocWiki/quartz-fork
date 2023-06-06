@@ -45,10 +45,3 @@ Any offered product or service. For example: a pair of shoes; a concert ticket; 
 
 
 
-## Confidential Links & Embeds: 
-- [product](../../../../_public/schema.org/Type/is_a_/product.md) 
-- [product.internal](../../../../_internal/schema.org/Type/is_a_/product.internal.md) 
-- [product.protect](../../../../_protect/schema.org/Type/is_a_/product.protect.md) 
-- [product.private](../../../../_private/schema.org/Type/is_a_/product.private.md) 
-- [product.personal](../../../../_personal/schema.org/Type/is_a_/product.personal.md) 
-- [product.secret](../../../../_secret/schema.org/Type/is_a_/product.secret.md) 

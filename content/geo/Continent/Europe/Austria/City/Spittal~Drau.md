@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spittal~Drau](../../../../../../_public/geo/Continent/Europe/Austria/City/Spittal~Drau.md) 
-- [Spittal~Drau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Spittal~Drau.internal.md) 
-- [Spittal~Drau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Spittal~Drau.protect.md) 
-- [Spittal~Drau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Spittal~Drau.private.md) 
-- [Spittal~Drau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Spittal~Drau.personal.md) 
-- [Spittal~Drau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Spittal~Drau.secret.md) 

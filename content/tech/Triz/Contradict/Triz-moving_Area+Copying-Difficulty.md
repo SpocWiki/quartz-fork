@@ -19,10 +19,3 @@ title: Triz-moving_Area+Copying-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Copying-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Copying-Difficulty.md) 
-- [Triz-moving_Area+Copying-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Copying-Difficulty.internal.md) 
-- [Triz-moving_Area+Copying-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Copying-Difficulty.protect.md) 
-- [Triz-moving_Area+Copying-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Copying-Difficulty.private.md) 
-- [Triz-moving_Area+Copying-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Copying-Difficulty.personal.md) 
-- [Triz-moving_Area+Copying-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Copying-Difficulty.secret.md) 

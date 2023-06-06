@@ -43,10 +43,3 @@ The frequency in MHz and the modulation used for a particular BroadcastService.
 
 
 
-## Confidential Links & Embeds: 
-- [broadcast_frequency_specification](../../../../../_public/schema.org/Type/is_a_/intangible/broadcast_frequency_specification.md) 
-- [broadcast_frequency_specification.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/broadcast_frequency_specification.internal.md) 
-- [broadcast_frequency_specification.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/broadcast_frequency_specification.protect.md) 
-- [broadcast_frequency_specification.private](../../../../../_private/schema.org/Type/is_a_/intangible/broadcast_frequency_specification.private.md) 
-- [broadcast_frequency_specification.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/broadcast_frequency_specification.personal.md) 
-- [broadcast_frequency_specification.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/broadcast_frequency_specification.secret.md) 

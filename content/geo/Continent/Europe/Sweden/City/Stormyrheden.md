@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stormyrheden](../../../../../../_public/geo/Continent/Europe/Sweden/City/Stormyrheden.md) 
-- [Stormyrheden.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stormyrheden.internal.md) 
-- [Stormyrheden.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stormyrheden.protect.md) 
-- [Stormyrheden.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Stormyrheden.private.md) 
-- [Stormyrheden.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stormyrheden.personal.md) 
-- [Stormyrheden.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stormyrheden.secret.md) 

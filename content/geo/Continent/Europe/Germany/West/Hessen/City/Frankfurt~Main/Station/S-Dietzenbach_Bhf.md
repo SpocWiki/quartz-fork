@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Dietzenbach_Bhf](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Bhf.md) 
-- [S-Dietzenbach_Bhf.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Bhf.internal.md) 
-- [S-Dietzenbach_Bhf.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Bhf.protect.md) 
-- [S-Dietzenbach_Bhf.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Bhf.private.md) 
-- [S-Dietzenbach_Bhf.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Bhf.personal.md) 
-- [S-Dietzenbach_Bhf.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Dietzenbach_Bhf.secret.md) 

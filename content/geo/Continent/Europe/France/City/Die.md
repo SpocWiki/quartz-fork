@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Die](../../../../../../_public/geo/Continent/Europe/France/City/Die.md) 
-- [Die.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Die.internal.md) 
-- [Die.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Die.protect.md) 
-- [Die.private](../../../../../../_private/geo/Continent/Europe/France/City/Die.private.md) 
-- [Die.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Die.personal.md) 
-- [Die.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Die.secret.md) 

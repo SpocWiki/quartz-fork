@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tragoss](../../../../../../_public/geo/Continent/Europe/Austria/City/Tragoss.md) 
-- [Tragoss.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Tragoss.internal.md) 
-- [Tragoss.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Tragoss.protect.md) 
-- [Tragoss.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Tragoss.private.md) 
-- [Tragoss.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Tragoss.personal.md) 
-- [Tragoss.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Tragoss.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dien_Bien_Phu](../../../../../../_public/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.md) 
-- [Dien_Bien_Phu.internal](../../../../../../_internal/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.internal.md) 
-- [Dien_Bien_Phu.protect](../../../../../../_protect/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.protect.md) 
-- [Dien_Bien_Phu.private](../../../../../../_private/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.private.md) 
-- [Dien_Bien_Phu.personal](../../../../../../_personal/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.personal.md) 
-- [Dien_Bien_Phu.secret](../../../../../../_secret/geo/Continent/Asia/Vietnam/City/Dien_Bien_Phu.secret.md) 

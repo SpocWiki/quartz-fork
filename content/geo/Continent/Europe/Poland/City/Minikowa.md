@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Minikowa](../../../../../../_public/geo/Continent/Europe/Poland/City/Minikowa.md) 
-- [Minikowa.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Minikowa.internal.md) 
-- [Minikowa.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Minikowa.protect.md) 
-- [Minikowa.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Minikowa.private.md) 
-- [Minikowa.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Minikowa.personal.md) 
-- [Minikowa.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Minikowa.secret.md) 

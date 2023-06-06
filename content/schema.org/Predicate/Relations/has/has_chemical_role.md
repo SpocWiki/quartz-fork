@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_chemical_role](../../../../../_public/schema.org/Predicate/Relations/has/has_chemical_role.md) 
-- [has_chemical_role.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_chemical_role.internal.md) 
-- [has_chemical_role.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_chemical_role.protect.md) 
-- [has_chemical_role.private](../../../../../_private/schema.org/Predicate/Relations/has/has_chemical_role.private.md) 
-- [has_chemical_role.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_chemical_role.personal.md) 
-- [has_chemical_role.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_chemical_role.secret.md) 

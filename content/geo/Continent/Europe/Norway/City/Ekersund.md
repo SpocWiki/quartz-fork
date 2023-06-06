@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ekersund](../../../../../../_public/geo/Continent/Europe/Norway/City/Ekersund.md) 
-- [Ekersund.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Ekersund.internal.md) 
-- [Ekersund.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Ekersund.protect.md) 
-- [Ekersund.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Ekersund.private.md) 
-- [Ekersund.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Ekersund.personal.md) 
-- [Ekersund.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Ekersund.secret.md) 

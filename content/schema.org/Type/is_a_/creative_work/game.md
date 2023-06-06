@@ -45,10 +45,3 @@ The Game type represents things which are games. These are typically rule-govern
 
 
 
-## Confidential Links & Embeds: 
-- [game](../../../../../_public/schema.org/Type/is_a_/creative_work/game.md) 
-- [game.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/game.internal.md) 
-- [game.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/game.protect.md) 
-- [game.private](../../../../../_private/schema.org/Type/is_a_/creative_work/game.private.md) 
-- [game.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/game.personal.md) 
-- [game.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/game.secret.md) 

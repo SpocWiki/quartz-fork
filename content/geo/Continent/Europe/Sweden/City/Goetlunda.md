@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goetlunda](../../../../../../_public/geo/Continent/Europe/Sweden/City/Goetlunda.md) 
-- [Goetlunda.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Goetlunda.internal.md) 
-- [Goetlunda.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Goetlunda.protect.md) 
-- [Goetlunda.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Goetlunda.private.md) 
-- [Goetlunda.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Goetlunda.personal.md) 
-- [Goetlunda.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Goetlunda.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lucon](../../../../../../_public/geo/Continent/Europe/France/City/Lucon.md) 
-- [Lucon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lucon.internal.md) 
-- [Lucon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lucon.protect.md) 
-- [Lucon.private](../../../../../../_private/geo/Continent/Europe/France/City/Lucon.private.md) 
-- [Lucon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lucon.personal.md) 
-- [Lucon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lucon.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neufahrwasser](../../../../../../_public/geo/Continent/Europe/Poland/City/Neufahrwasser.md) 
-- [Neufahrwasser.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neufahrwasser.internal.md) 
-- [Neufahrwasser.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neufahrwasser.protect.md) 
-- [Neufahrwasser.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neufahrwasser.private.md) 
-- [Neufahrwasser.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neufahrwasser.personal.md) 
-- [Neufahrwasser.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neufahrwasser.secret.md) 

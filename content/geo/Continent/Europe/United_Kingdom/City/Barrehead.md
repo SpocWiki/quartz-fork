@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barrehead](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Barrehead.md) 
-- [Barrehead.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barrehead.internal.md) 
-- [Barrehead.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barrehead.protect.md) 
-- [Barrehead.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barrehead.private.md) 
-- [Barrehead.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barrehead.personal.md) 
-- [Barrehead.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barrehead.secret.md) 

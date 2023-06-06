@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lussinpinolo](../../../../../../_public/geo/Continent/Europe/Italy/City/Lussinpinolo.md) 
-- [Lussinpinolo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Lussinpinolo.internal.md) 
-- [Lussinpinolo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Lussinpinolo.protect.md) 
-- [Lussinpinolo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Lussinpinolo.private.md) 
-- [Lussinpinolo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Lussinpinolo.personal.md) 
-- [Lussinpinolo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Lussinpinolo.secret.md) 

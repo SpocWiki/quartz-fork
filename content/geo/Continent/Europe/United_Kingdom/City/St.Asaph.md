@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Asaph](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Asaph.md) 
-- [St.Asaph.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Asaph.internal.md) 
-- [St.Asaph.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Asaph.protect.md) 
-- [St.Asaph.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Asaph.private.md) 
-- [St.Asaph.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Asaph.personal.md) 
-- [St.Asaph.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Asaph.secret.md) 

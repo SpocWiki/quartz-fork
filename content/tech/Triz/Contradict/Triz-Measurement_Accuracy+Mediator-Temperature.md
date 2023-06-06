@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Mediator-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Mediator-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Temperature.md) 
-- [Triz-Measurement_Accuracy+Mediator-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Temperature.internal.md) 
-- [Triz-Measurement_Accuracy+Mediator-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Temperature.protect.md) 
-- [Triz-Measurement_Accuracy+Mediator-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Temperature.private.md) 
-- [Triz-Measurement_Accuracy+Mediator-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Temperature.personal.md) 
-- [Triz-Measurement_Accuracy+Mediator-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Temperature.secret.md) 

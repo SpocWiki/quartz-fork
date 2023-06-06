@@ -47,10 +47,3 @@ Specifies that product returns are free of charge for the customer.
 
 
 
-## Confidential Links & Embeds: 
-- [free_return](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/free_return.md) 
-- [free_return.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/free_return.internal.md) 
-- [free_return.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/free_return.protect.md) 
-- [free_return.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/free_return.private.md) 
-- [free_return.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/free_return.personal.md) 
-- [free_return.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/free_return.secret.md) 

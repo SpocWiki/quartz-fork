@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Isfahan](../../../../../../_public/geo/Continent/Asia/Iran/City/Isfahan.md) 
-- [Isfahan.internal](../../../../../../_internal/geo/Continent/Asia/Iran/City/Isfahan.internal.md) 
-- [Isfahan.protect](../../../../../../_protect/geo/Continent/Asia/Iran/City/Isfahan.protect.md) 
-- [Isfahan.private](../../../../../../_private/geo/Continent/Asia/Iran/City/Isfahan.private.md) 
-- [Isfahan.personal](../../../../../../_personal/geo/Continent/Asia/Iran/City/Isfahan.personal.md) 
-- [Isfahan.secret](../../../../../../_secret/geo/Continent/Asia/Iran/City/Isfahan.secret.md) 

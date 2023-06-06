@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tiegenort](../../../../../../_public/geo/Continent/Europe/Poland/City/Tiegenort.md) 
-- [Tiegenort.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Tiegenort.internal.md) 
-- [Tiegenort.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Tiegenort.protect.md) 
-- [Tiegenort.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Tiegenort.private.md) 
-- [Tiegenort.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Tiegenort.personal.md) 
-- [Tiegenort.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Tiegenort.secret.md) 

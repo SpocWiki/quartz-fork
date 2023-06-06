@@ -19,10 +19,3 @@ title: Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_objec
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.internal.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.protect.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.private.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.personal.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-Versatility.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kansas~City](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.md) 
-- [Kansas~City.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.internal.md) 
-- [Kansas~City.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.protect.md) 
-- [Kansas~City.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.private.md) 
-- [Kansas~City.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.personal.md) 
-- [Kansas~City.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kansas/City/Kansas~City.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Periodic_action-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Periodic_action-Stress](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Periodic_action-Stress.md) 
-- [Triz-Ease_of_manufacture+Periodic_action-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Periodic_action-Stress.internal.md) 
-- [Triz-Ease_of_manufacture+Periodic_action-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Periodic_action-Stress.protect.md) 
-- [Triz-Ease_of_manufacture+Periodic_action-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Periodic_action-Stress.private.md) 
-- [Triz-Ease_of_manufacture+Periodic_action-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Periodic_action-Stress.personal.md) 
-- [Triz-Ease_of_manufacture+Periodic_action-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Periodic_action-Stress.secret.md) 

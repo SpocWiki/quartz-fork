@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krynica](../../../../../../_public/geo/Continent/Europe/Poland/City/Krynica.md) 
-- [Krynica.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Krynica.internal.md) 
-- [Krynica.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Krynica.protect.md) 
-- [Krynica.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Krynica.private.md) 
-- [Krynica.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Krynica.personal.md) 
-- [Krynica.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Krynica.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Shape+Dynamicity-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Dynamicity-Automation](../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.md) 
-- [Triz-Shape+Dynamicity-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.internal.md) 
-- [Triz-Shape+Dynamicity-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.protect.md) 
-- [Triz-Shape+Dynamicity-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.private.md) 
-- [Triz-Shape+Dynamicity-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.personal.md) 
-- [Triz-Shape+Dynamicity-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Dynamicity-Automation.secret.md) 

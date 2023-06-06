@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pinsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Pinsk.md) 
-- [Pinsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Pinsk.internal.md) 
-- [Pinsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Pinsk.protect.md) 
-- [Pinsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Pinsk.private.md) 
-- [Pinsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Pinsk.personal.md) 
-- [Pinsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Pinsk.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mejorada](../../../../../../_public/geo/Continent/Europe/Spain/City/Mejorada.md) 
-- [Mejorada.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Mejorada.internal.md) 
-- [Mejorada.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Mejorada.protect.md) 
-- [Mejorada.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Mejorada.private.md) 
-- [Mejorada.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Mejorada.personal.md) 
-- [Mejorada.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Mejorada.secret.md) 

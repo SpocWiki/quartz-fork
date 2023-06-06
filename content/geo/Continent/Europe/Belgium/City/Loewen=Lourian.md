@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loewen=Lourian](../../../../../../_public/geo/Continent/Europe/Belgium/City/Loewen=Lourian.md) 
-- [Loewen=Lourian.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Loewen=Lourian.internal.md) 
-- [Loewen=Lourian.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Loewen=Lourian.protect.md) 
-- [Loewen=Lourian.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Loewen=Lourian.private.md) 
-- [Loewen=Lourian.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Loewen=Lourian.personal.md) 
-- [Loewen=Lourian.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Loewen=Lourian.secret.md) 

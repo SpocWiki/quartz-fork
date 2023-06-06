@@ -43,10 +43,3 @@ A medical test performed by a laboratory that typically involves examination of 
 
 
 
-## Confidential Links & Embeds: 
-- [pathology_test](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.md) 
-- [pathology_test.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.internal.md) 
-- [pathology_test.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.protect.md) 
-- [pathology_test.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.private.md) 
-- [pathology_test.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.personal.md) 
-- [pathology_test.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.secret.md) 

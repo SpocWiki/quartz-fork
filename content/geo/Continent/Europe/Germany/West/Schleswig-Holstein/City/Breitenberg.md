@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Breitenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.md) 
-- [Breitenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.internal.md) 
-- [Breitenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.protect.md) 
-- [Breitenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.private.md) 
-- [Breitenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.personal.md) 
-- [Breitenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Breitenberg.secret.md) 

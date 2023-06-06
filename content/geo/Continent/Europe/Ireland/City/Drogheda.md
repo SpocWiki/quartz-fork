@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Drogheda](../../../../../../_public/geo/Continent/Europe/Ireland/City/Drogheda.md) 
-- [Drogheda.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Drogheda.internal.md) 
-- [Drogheda.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Drogheda.protect.md) 
-- [Drogheda.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Drogheda.private.md) 
-- [Drogheda.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Drogheda.personal.md) 
-- [Drogheda.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Drogheda.secret.md) 

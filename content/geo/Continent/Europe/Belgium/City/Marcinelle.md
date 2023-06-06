@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marcinelle](../../../../../../_public/geo/Continent/Europe/Belgium/City/Marcinelle.md) 
-- [Marcinelle.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Marcinelle.internal.md) 
-- [Marcinelle.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Marcinelle.protect.md) 
-- [Marcinelle.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Marcinelle.private.md) 
-- [Marcinelle.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Marcinelle.personal.md) 
-- [Marcinelle.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Marcinelle.secret.md) 

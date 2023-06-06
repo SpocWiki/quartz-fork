@@ -45,10 +45,3 @@ The science or practice of testing visual acuity and prescribing corrective lens
 
 
 
-## Confidential Links & Embeds: 
-- [optometric](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/optometric.md) 
-- [optometric.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/optometric.internal.md) 
-- [optometric.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/optometric.protect.md) 
-- [optometric.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/optometric.private.md) 
-- [optometric.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/optometric.personal.md) 
-- [optometric.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/optometric.secret.md) 

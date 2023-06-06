@@ -47,10 +47,3 @@ Australian size system for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_system_au](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_au.md) 
-- [wearable_size_system_au.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_au.internal.md) 
-- [wearable_size_system_au.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_au.protect.md) 
-- [wearable_size_system_au.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_au.private.md) 
-- [wearable_size_system_au.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_au.personal.md) 
-- [wearable_size_system_au.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_au.secret.md) 

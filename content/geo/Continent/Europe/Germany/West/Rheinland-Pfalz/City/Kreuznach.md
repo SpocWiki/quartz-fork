@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kreuznach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kreuznach.md) 
-- [Kreuznach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kreuznach.internal.md) 
-- [Kreuznach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kreuznach.protect.md) 
-- [Kreuznach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kreuznach.private.md) 
-- [Kreuznach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kreuznach.personal.md) 
-- [Kreuznach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kreuznach.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baja](../../../../../../_public/geo/Continent/Europe/Hungary/City/Baja.md) 
-- [Baja.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Baja.internal.md) 
-- [Baja.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Baja.protect.md) 
-- [Baja.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Baja.private.md) 
-- [Baja.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Baja.personal.md) 
-- [Baja.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Baja.secret.md) 

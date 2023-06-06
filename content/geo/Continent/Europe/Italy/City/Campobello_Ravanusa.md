@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Campobello_Ravanusa](../../../../../../_public/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.md) 
-- [Campobello_Ravanusa.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.internal.md) 
-- [Campobello_Ravanusa.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.protect.md) 
-- [Campobello_Ravanusa.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.private.md) 
-- [Campobello_Ravanusa.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.personal.md) 
-- [Campobello_Ravanusa.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Campobello_Ravanusa.secret.md) 

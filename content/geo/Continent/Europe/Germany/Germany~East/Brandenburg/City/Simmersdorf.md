@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Simmersdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Simmersdorf.md) 
-- [Simmersdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Simmersdorf.internal.md) 
-- [Simmersdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Simmersdorf.protect.md) 
-- [Simmersdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Simmersdorf.private.md) 
-- [Simmersdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Simmersdorf.personal.md) 
-- [Simmersdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Simmersdorf.secret.md) 

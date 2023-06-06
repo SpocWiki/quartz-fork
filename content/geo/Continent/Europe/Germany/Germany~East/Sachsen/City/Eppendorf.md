@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eppendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eppendorf.md) 
-- [Eppendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eppendorf.internal.md) 
-- [Eppendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eppendorf.protect.md) 
-- [Eppendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eppendorf.private.md) 
-- [Eppendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eppendorf.personal.md) 
-- [Eppendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eppendorf.secret.md) 

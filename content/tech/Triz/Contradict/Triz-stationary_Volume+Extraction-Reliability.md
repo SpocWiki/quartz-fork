@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Extraction-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Extraction-Reliability](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Reliability.md) 
-- [Triz-stationary_Volume+Extraction-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Reliability.internal.md) 
-- [Triz-stationary_Volume+Extraction-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Reliability.protect.md) 
-- [Triz-stationary_Volume+Extraction-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Reliability.private.md) 
-- [Triz-stationary_Volume+Extraction-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Reliability.personal.md) 
-- [Triz-stationary_Volume+Extraction-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Reliability.secret.md) 

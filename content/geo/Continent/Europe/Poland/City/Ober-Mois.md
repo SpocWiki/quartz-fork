@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ober-Mois](../../../../../../_public/geo/Continent/Europe/Poland/City/Ober-Mois.md) 
-- [Ober-Mois.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ober-Mois.internal.md) 
-- [Ober-Mois.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ober-Mois.protect.md) 
-- [Ober-Mois.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ober-Mois.private.md) 
-- [Ober-Mois.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ober-Mois.personal.md) 
-- [Ober-Mois.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ober-Mois.secret.md) 

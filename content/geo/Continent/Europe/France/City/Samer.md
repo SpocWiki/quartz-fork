@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Samer](../../../../../../_public/geo/Continent/Europe/France/City/Samer.md) 
-- [Samer.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Samer.internal.md) 
-- [Samer.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Samer.protect.md) 
-- [Samer.private](../../../../../../_private/geo/Continent/Europe/France/City/Samer.private.md) 
-- [Samer.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Samer.personal.md) 
-- [Samer.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Samer.secret.md) 

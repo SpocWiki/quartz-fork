@@ -45,10 +45,3 @@ Represents an item or group of closely related items treated as a unit for the s
 
 
 
-## Confidential Links & Embeds: 
-- [media_review_item](../../../../../_public/schema.org/Type/is_a_/creative_work/media_review_item.md) 
-- [media_review_item.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/media_review_item.internal.md) 
-- [media_review_item.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/media_review_item.protect.md) 
-- [media_review_item.private](../../../../../_private/schema.org/Type/is_a_/creative_work/media_review_item.private.md) 
-- [media_review_item.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/media_review_item.personal.md) 
-- [media_review_item.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/media_review_item.secret.md) 

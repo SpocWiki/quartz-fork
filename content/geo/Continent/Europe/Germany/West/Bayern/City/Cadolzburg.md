@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cadolzburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.md) 
-- [Cadolzburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.internal.md) 
-- [Cadolzburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.protect.md) 
-- [Cadolzburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.private.md) 
-- [Cadolzburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.personal.md) 
-- [Cadolzburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.secret.md) 

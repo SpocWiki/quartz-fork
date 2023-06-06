@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bujumbura](../../../../../../_public/geo/Continent/Africa/Burundi/City/Bujumbura.md) 
-- [Bujumbura.internal](../../../../../../_internal/geo/Continent/Africa/Burundi/City/Bujumbura.internal.md) 
-- [Bujumbura.protect](../../../../../../_protect/geo/Continent/Africa/Burundi/City/Bujumbura.protect.md) 
-- [Bujumbura.private](../../../../../../_private/geo/Continent/Africa/Burundi/City/Bujumbura.private.md) 
-- [Bujumbura.personal](../../../../../../_personal/geo/Continent/Africa/Burundi/City/Bujumbura.personal.md) 
-- [Bujumbura.secret](../../../../../../_secret/geo/Continent/Africa/Burundi/City/Bujumbura.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wicklow](../../../../../../_public/geo/Continent/Europe/Ireland/City/Wicklow.md) 
-- [Wicklow.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Wicklow.internal.md) 
-- [Wicklow.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Wicklow.protect.md) 
-- [Wicklow.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Wicklow.private.md) 
-- [Wicklow.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Wicklow.personal.md) 
-- [Wicklow.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Wicklow.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oschatz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oschatz.md) 
-- [Oschatz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oschatz.internal.md) 
-- [Oschatz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oschatz.protect.md) 
-- [Oschatz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oschatz.private.md) 
-- [Oschatz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oschatz.personal.md) 
-- [Oschatz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Oschatz.secret.md) 

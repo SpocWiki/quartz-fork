@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fiume](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Fiume.md) 
-- [Fiume.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Fiume.internal.md) 
-- [Fiume.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Fiume.protect.md) 
-- [Fiume.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Fiume.private.md) 
-- [Fiume.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Fiume.personal.md) 
-- [Fiume.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Fiume.secret.md) 

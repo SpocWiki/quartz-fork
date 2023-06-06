@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Perigueux](../../../../../../_public/geo/Continent/Europe/France/City/Perigueux.md) 
-- [Perigueux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Perigueux.internal.md) 
-- [Perigueux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Perigueux.protect.md) 
-- [Perigueux.private](../../../../../../_private/geo/Continent/Europe/France/City/Perigueux.private.md) 
-- [Perigueux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Perigueux.personal.md) 
-- [Perigueux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Perigueux.secret.md) 

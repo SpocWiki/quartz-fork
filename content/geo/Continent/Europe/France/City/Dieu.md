@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dieu](../../../../../../_public/geo/Continent/Europe/France/City/Dieu.md) 
-- [Dieu.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Dieu.internal.md) 
-- [Dieu.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Dieu.protect.md) 
-- [Dieu.private](../../../../../../_private/geo/Continent/Europe/France/City/Dieu.private.md) 
-- [Dieu.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Dieu.personal.md) 
-- [Dieu.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Dieu.secret.md) 

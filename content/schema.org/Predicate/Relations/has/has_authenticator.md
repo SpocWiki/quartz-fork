@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_authenticator](../../../../../_public/schema.org/Predicate/Relations/has/has_authenticator.md) 
-- [has_authenticator.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_authenticator.internal.md) 
-- [has_authenticator.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_authenticator.protect.md) 
-- [has_authenticator.private](../../../../../_private/schema.org/Predicate/Relations/has/has_authenticator.private.md) 
-- [has_authenticator.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_authenticator.personal.md) 
-- [has_authenticator.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_authenticator.secret.md) 

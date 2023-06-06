@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Komotau=Chomutov](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.md) 
-- [Komotau=Chomutov.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.internal.md) 
-- [Komotau=Chomutov.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.protect.md) 
-- [Komotau=Chomutov.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.private.md) 
-- [Komotau=Chomutov.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.personal.md) 
-- [Komotau=Chomutov.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Komotau=Chomutov.secret.md) 

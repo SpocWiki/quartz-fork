@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Lacertae-102](../../../_public/astro/Star/Lacertae-102.md) 
-- [Lacertae-102.internal](../../../_internal/astro/Star/Lacertae-102.internal.md) 
-- [Lacertae-102.protect](../../../_protect/astro/Star/Lacertae-102.protect.md) 
-- [Lacertae-102.private](../../../_private/astro/Star/Lacertae-102.private.md) 
-- [Lacertae-102.personal](../../../_personal/astro/Star/Lacertae-102.personal.md) 
-- [Lacertae-102.secret](../../../_secret/astro/Star/Lacertae-102.secret.md)
-

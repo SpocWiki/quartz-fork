@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pinneberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Pinneberg.md) 
-- [Pinneberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Pinneberg.internal.md) 
-- [Pinneberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Pinneberg.protect.md) 
-- [Pinneberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Pinneberg.private.md) 
-- [Pinneberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Pinneberg.personal.md) 
-- [Pinneberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Pinneberg.secret.md) 

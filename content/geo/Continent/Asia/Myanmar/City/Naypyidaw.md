@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Naypyidaw](../../../../../../_public/geo/Continent/Asia/Myanmar/City/Naypyidaw.md) 
-- [Naypyidaw.internal](../../../../../../_internal/geo/Continent/Asia/Myanmar/City/Naypyidaw.internal.md) 
-- [Naypyidaw.protect](../../../../../../_protect/geo/Continent/Asia/Myanmar/City/Naypyidaw.protect.md) 
-- [Naypyidaw.private](../../../../../../_private/geo/Continent/Asia/Myanmar/City/Naypyidaw.private.md) 
-- [Naypyidaw.personal](../../../../../../_personal/geo/Continent/Asia/Myanmar/City/Naypyidaw.personal.md) 
-- [Naypyidaw.secret](../../../../../../_secret/geo/Continent/Asia/Myanmar/City/Naypyidaw.secret.md) 

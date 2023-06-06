@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leerdam](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Leerdam.md) 
-- [Leerdam.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Leerdam.internal.md) 
-- [Leerdam.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Leerdam.protect.md) 
-- [Leerdam.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Leerdam.private.md) 
-- [Leerdam.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Leerdam.personal.md) 
-- [Leerdam.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Leerdam.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Habelschwerdt](../../../../../../_public/geo/Continent/Europe/Poland/City/Habelschwerdt.md) 
-- [Habelschwerdt.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Habelschwerdt.internal.md) 
-- [Habelschwerdt.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Habelschwerdt.protect.md) 
-- [Habelschwerdt.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Habelschwerdt.private.md) 
-- [Habelschwerdt.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Habelschwerdt.personal.md) 
-- [Habelschwerdt.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Habelschwerdt.secret.md) 

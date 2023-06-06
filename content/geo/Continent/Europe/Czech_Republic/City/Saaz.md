@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saaz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Saaz.md) 
-- [Saaz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Saaz.internal.md) 
-- [Saaz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Saaz.protect.md) 
-- [Saaz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Saaz.private.md) 
-- [Saaz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Saaz.personal.md) 
-- [Saaz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Saaz.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Campobasso](../../../../../../_public/geo/Continent/Europe/Italy/City/Campobasso.md) 
-- [Campobasso.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Campobasso.internal.md) 
-- [Campobasso.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Campobasso.protect.md) 
-- [Campobasso.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Campobasso.private.md) 
-- [Campobasso.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Campobasso.personal.md) 
-- [Campobasso.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Campobasso.secret.md) 

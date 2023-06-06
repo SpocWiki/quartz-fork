@@ -47,10 +47,3 @@ Size group "Infants" for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_group_infants](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_infants.md) 
-- [wearable_size_group_infants.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_infants.internal.md) 
-- [wearable_size_group_infants.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_infants.protect.md) 
-- [wearable_size_group_infants.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_infants.private.md) 
-- [wearable_size_group_infants.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_infants.personal.md) 
-- [wearable_size_group_infants.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_infants.secret.md) 

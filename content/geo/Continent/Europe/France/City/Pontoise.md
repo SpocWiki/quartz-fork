@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pontoise](../../../../../../_public/geo/Continent/Europe/France/City/Pontoise.md) 
-- [Pontoise.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Pontoise.internal.md) 
-- [Pontoise.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Pontoise.protect.md) 
-- [Pontoise.private](../../../../../../_private/geo/Continent/Europe/France/City/Pontoise.private.md) 
-- [Pontoise.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Pontoise.personal.md) 
-- [Pontoise.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Pontoise.secret.md) 

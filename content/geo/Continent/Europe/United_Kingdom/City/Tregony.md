@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tregony](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tregony.md) 
-- [Tregony.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tregony.internal.md) 
-- [Tregony.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tregony.protect.md) 
-- [Tregony.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tregony.private.md) 
-- [Tregony.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tregony.personal.md) 
-- [Tregony.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tregony.secret.md) 

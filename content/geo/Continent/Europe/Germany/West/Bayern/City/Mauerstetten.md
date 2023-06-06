@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mauerstetten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Mauerstetten.md) 
-- [Mauerstetten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mauerstetten.internal.md) 
-- [Mauerstetten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mauerstetten.protect.md) 
-- [Mauerstetten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mauerstetten.private.md) 
-- [Mauerstetten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Mauerstetten.personal.md) 
-- [Mauerstetten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Mauerstetten.secret.md) 

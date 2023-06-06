@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maryland](../../../../../_public/geo/Continent/North-America/United_States_of_America/Maryland.md) 
-- [Maryland.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Maryland.internal.md) 
-- [Maryland.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Maryland.protect.md) 
-- [Maryland.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Maryland.private.md) 
-- [Maryland.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Maryland.personal.md) 
-- [Maryland.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Maryland.secret.md) 

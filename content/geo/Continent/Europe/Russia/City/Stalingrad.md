@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stalingrad](../../../../../../_public/geo/Continent/Europe/Russia/City/Stalingrad.md) 
-- [Stalingrad.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalingrad.internal.md) 
-- [Stalingrad.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalingrad.protect.md) 
-- [Stalingrad.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Stalingrad.private.md) 
-- [Stalingrad.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalingrad.personal.md) 
-- [Stalingrad.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalingrad.secret.md) 

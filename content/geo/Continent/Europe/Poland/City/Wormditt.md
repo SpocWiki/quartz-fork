@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wormditt](../../../../../../_public/geo/Continent/Europe/Poland/City/Wormditt.md) 
-- [Wormditt.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wormditt.internal.md) 
-- [Wormditt.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wormditt.protect.md) 
-- [Wormditt.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wormditt.private.md) 
-- [Wormditt.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wormditt.personal.md) 
-- [Wormditt.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wormditt.secret.md) 

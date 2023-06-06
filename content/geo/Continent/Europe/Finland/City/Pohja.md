@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pohja](../../../../../../_public/geo/Continent/Europe/Finland/City/Pohja.md) 
-- [Pohja.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Pohja.internal.md) 
-- [Pohja.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Pohja.protect.md) 
-- [Pohja.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Pohja.private.md) 
-- [Pohja.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Pohja.personal.md) 
-- [Pohja.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Pohja.secret.md) 

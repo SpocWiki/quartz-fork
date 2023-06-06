@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Linkuva](../../../../../../_public/geo/Continent/Europe/Russia/City/Linkuva.md) 
-- [Linkuva.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Linkuva.internal.md) 
-- [Linkuva.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Linkuva.protect.md) 
-- [Linkuva.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Linkuva.private.md) 
-- [Linkuva.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Linkuva.personal.md) 
-- [Linkuva.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Linkuva.secret.md) 

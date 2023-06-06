@@ -33,10 +33,3 @@ SpocWebEntityId: 21936
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Strontium)
 
-## Confidential Links & Embeds: 
-- [Strontium](../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Strontium.md) 
-- [Strontium.internal](../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Strontium.internal.md) 
-- [Strontium.protect](../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Strontium.protect.md) 
-- [Strontium.private](../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Strontium.private.md) 
-- [Strontium.personal](../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Strontium.personal.md) 
-- [Strontium.secret](../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Strontium.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fahrland](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fahrland.md) 
-- [Fahrland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fahrland.internal.md) 
-- [Fahrland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fahrland.protect.md) 
-- [Fahrland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fahrland.private.md) 
-- [Fahrland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fahrland.personal.md) 
-- [Fahrland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fahrland.secret.md) 

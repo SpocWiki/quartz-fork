@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kampala](../../../../../../_public/geo/Continent/Africa/Uganda/City/Kampala.md) 
-- [Kampala.internal](../../../../../../_internal/geo/Continent/Africa/Uganda/City/Kampala.internal.md) 
-- [Kampala.protect](../../../../../../_protect/geo/Continent/Africa/Uganda/City/Kampala.protect.md) 
-- [Kampala.private](../../../../../../_private/geo/Continent/Africa/Uganda/City/Kampala.private.md) 
-- [Kampala.personal](../../../../../../_personal/geo/Continent/Africa/Uganda/City/Kampala.personal.md) 
-- [Kampala.secret](../../../../../../_secret/geo/Continent/Africa/Uganda/City/Kampala.secret.md) 

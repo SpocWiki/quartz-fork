@@ -127,7 +127,7 @@ markerFolder: ./Ethiopia/City
 
 ![350](geo/Continent/Africa/Ethiopia/Emblem_of_Ethiopia.svg)
 
-![Anthem-Ethiopia](xLarge/National-Anthem/Anthem-Ethiopia.mp3)
+[Anthem-Ethiopia](xLarge/National-Anthem/Anthem-Ethiopia.mp3)
 
 ![350](geo/Continent/Africa/Ethiopia/Flag_of_Ethiopia.svg)
 
@@ -138,10 +138,3 @@ markerFolder: ./Ethiopia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Ethiopia](../../../../_public/geo/Continent/Africa/Ethiopia.md) 
-- [Ethiopia.internal](../../../../_internal/geo/Continent/Africa/Ethiopia.internal.md) 
-- [Ethiopia.protect](../../../../_protect/geo/Continent/Africa/Ethiopia.protect.md) 
-- [Ethiopia.private](../../../../_private/geo/Continent/Africa/Ethiopia.private.md) 
-- [Ethiopia.personal](../../../../_personal/geo/Continent/Africa/Ethiopia.personal.md) 
-- [Ethiopia.secret](../../../../_secret/geo/Continent/Africa/Ethiopia.secret.md) 

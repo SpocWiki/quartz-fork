@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tammela](../../../../../../_public/geo/Continent/Europe/Finland/City/Tammela.md) 
-- [Tammela.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Tammela.internal.md) 
-- [Tammela.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Tammela.protect.md) 
-- [Tammela.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Tammela.private.md) 
-- [Tammela.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Tammela.personal.md) 
-- [Tammela.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Tammela.secret.md) 

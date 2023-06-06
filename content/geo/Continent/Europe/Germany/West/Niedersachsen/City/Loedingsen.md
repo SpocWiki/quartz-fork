@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loedingsen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loedingsen.md) 
-- [Loedingsen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loedingsen.internal.md) 
-- [Loedingsen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loedingsen.protect.md) 
-- [Loedingsen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loedingsen.private.md) 
-- [Loedingsen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loedingsen.personal.md) 
-- [Loedingsen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Loedingsen.secret.md) 

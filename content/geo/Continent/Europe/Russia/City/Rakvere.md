@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rakvere](../../../../../../_public/geo/Continent/Europe/Russia/City/Rakvere.md) 
-- [Rakvere.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Rakvere.internal.md) 
-- [Rakvere.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Rakvere.protect.md) 
-- [Rakvere.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Rakvere.private.md) 
-- [Rakvere.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Rakvere.personal.md) 
-- [Rakvere.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Rakvere.secret.md) 

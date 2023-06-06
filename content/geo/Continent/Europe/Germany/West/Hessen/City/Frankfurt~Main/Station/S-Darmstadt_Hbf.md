@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Darmstadt_Hbf](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt_Hbf.md) 
-- [S-Darmstadt_Hbf.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt_Hbf.internal.md) 
-- [S-Darmstadt_Hbf.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt_Hbf.protect.md) 
-- [S-Darmstadt_Hbf.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt_Hbf.private.md) 
-- [S-Darmstadt_Hbf.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt_Hbf.personal.md) 
-- [S-Darmstadt_Hbf.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Darmstadt_Hbf.secret.md) 

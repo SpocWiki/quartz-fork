@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Steinfeld_Bz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.md) 
-- [Steinfeld_Bz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.internal.md) 
-- [Steinfeld_Bz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.protect.md) 
-- [Steinfeld_Bz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.private.md) 
-- [Steinfeld_Bz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.personal.md) 
-- [Steinfeld_Bz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Steinfeld_Bz.secret.md) 

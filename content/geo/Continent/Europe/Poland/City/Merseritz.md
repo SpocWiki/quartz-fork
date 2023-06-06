@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Merseritz](../../../../../../_public/geo/Continent/Europe/Poland/City/Merseritz.md) 
-- [Merseritz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Merseritz.internal.md) 
-- [Merseritz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Merseritz.protect.md) 
-- [Merseritz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Merseritz.private.md) 
-- [Merseritz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Merseritz.personal.md) 
-- [Merseritz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Merseritz.secret.md) 

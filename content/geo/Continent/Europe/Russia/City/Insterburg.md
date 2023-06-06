@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Insterburg](../../../../../../_public/geo/Continent/Europe/Russia/City/Insterburg.md) 
-- [Insterburg.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Insterburg.internal.md) 
-- [Insterburg.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Insterburg.protect.md) 
-- [Insterburg.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Insterburg.private.md) 
-- [Insterburg.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Insterburg.personal.md) 
-- [Insterburg.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Insterburg.secret.md) 

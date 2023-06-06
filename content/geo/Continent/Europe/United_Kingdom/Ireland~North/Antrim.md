@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Antrim](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.md) 
-- [Antrim.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.internal.md) 
-- [Antrim.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.protect.md) 
-- [Antrim.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.private.md) 
-- [Antrim.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.personal.md) 
-- [Antrim.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Antrim.secret.md) 

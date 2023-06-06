@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Isenbuettel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.md) 
-- [Isenbuettel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.internal.md) 
-- [Isenbuettel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.protect.md) 
-- [Isenbuettel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.private.md) 
-- [Isenbuettel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.personal.md) 
-- [Isenbuettel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Isenbuettel.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lorient](../../../../../../_public/geo/Continent/Europe/France/City/Lorient.md) 
-- [Lorient.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lorient.internal.md) 
-- [Lorient.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lorient.protect.md) 
-- [Lorient.private](../../../../../../_private/geo/Continent/Europe/France/City/Lorient.private.md) 
-- [Lorient.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lorient.personal.md) 
-- [Lorient.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lorient.secret.md) 

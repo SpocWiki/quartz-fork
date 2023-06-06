@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Friedland](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Friedland.md) 
-- [Friedland.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Friedland.internal.md) 
-- [Friedland.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Friedland.protect.md) 
-- [Friedland.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Friedland.private.md) 
-- [Friedland.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Friedland.personal.md) 
-- [Friedland.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Friedland.secret.md) 

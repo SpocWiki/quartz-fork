@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tacoma](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.md) 
-- [Tacoma.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.internal.md) 
-- [Tacoma.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.protect.md) 
-- [Tacoma.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.private.md) 
-- [Tacoma.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.personal.md) 
-- [Tacoma.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington/City/Tacoma.secret.md) 

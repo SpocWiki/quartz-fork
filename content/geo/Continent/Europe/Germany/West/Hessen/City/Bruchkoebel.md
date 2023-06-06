@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bruchkoebel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.md) 
-- [Bruchkoebel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.internal.md) 
-- [Bruchkoebel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.protect.md) 
-- [Bruchkoebel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.private.md) 
-- [Bruchkoebel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.personal.md) 
-- [Bruchkoebel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Bruchkoebel.secret.md) 

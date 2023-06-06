@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hollenstedt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hollenstedt.md) 
-- [Hollenstedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hollenstedt.internal.md) 
-- [Hollenstedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hollenstedt.protect.md) 
-- [Hollenstedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hollenstedt.private.md) 
-- [Hollenstedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hollenstedt.personal.md) 
-- [Hollenstedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hollenstedt.secret.md) 

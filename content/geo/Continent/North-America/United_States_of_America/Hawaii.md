@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hawaii](../../../../../_public/geo/Continent/North-America/United_States_of_America/Hawaii.md) 
-- [Hawaii.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Hawaii.internal.md) 
-- [Hawaii.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Hawaii.protect.md) 
-- [Hawaii.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Hawaii.private.md) 
-- [Hawaii.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Hawaii.personal.md) 
-- [Hawaii.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Hawaii.secret.md) 

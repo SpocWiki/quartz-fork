@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frederiksberg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Frederiksberg.md) 
-- [Frederiksberg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Frederiksberg.internal.md) 
-- [Frederiksberg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Frederiksberg.protect.md) 
-- [Frederiksberg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Frederiksberg.private.md) 
-- [Frederiksberg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Frederiksberg.personal.md) 
-- [Frederiksberg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Frederiksberg.secret.md) 

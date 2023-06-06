@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Godthab](../../../../../../_public/geo/Continent/Europe/Greenland/City/Godthab.md) 
-- [Godthab.internal](../../../../../../_internal/geo/Continent/Europe/Greenland/City/Godthab.internal.md) 
-- [Godthab.protect](../../../../../../_protect/geo/Continent/Europe/Greenland/City/Godthab.protect.md) 
-- [Godthab.private](../../../../../../_private/geo/Continent/Europe/Greenland/City/Godthab.private.md) 
-- [Godthab.personal](../../../../../../_personal/geo/Continent/Europe/Greenland/City/Godthab.personal.md) 
-- [Godthab.secret](../../../../../../_secret/geo/Continent/Europe/Greenland/City/Godthab.secret.md) 

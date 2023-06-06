@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luitpoldheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.md) 
-- [Luitpoldheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.internal.md) 
-- [Luitpoldheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.protect.md) 
-- [Luitpoldheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.private.md) 
-- [Luitpoldheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.personal.md) 
-- [Luitpoldheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.secret.md) 

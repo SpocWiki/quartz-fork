@@ -49,10 +49,3 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 
 
-## Confidential Links & Embeds: 
-- [periodical](../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_series/periodical.md) 
-- [periodical.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_series/periodical.internal.md) 
-- [periodical.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_series/periodical.protect.md) 
-- [periodical.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_series/periodical.private.md) 
-- [periodical.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_series/periodical.personal.md) 
-- [periodical.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_series/periodical.secret.md) 

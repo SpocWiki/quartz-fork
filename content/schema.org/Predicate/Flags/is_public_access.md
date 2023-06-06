@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_public_access](../../../../_public/schema.org/Predicate/Flags/is_public_access.md) 
-- [is_public_access.internal](../../../../_internal/schema.org/Predicate/Flags/is_public_access.internal.md) 
-- [is_public_access.protect](../../../../_protect/schema.org/Predicate/Flags/is_public_access.protect.md) 
-- [is_public_access.private](../../../../_private/schema.org/Predicate/Flags/is_public_access.private.md) 
-- [is_public_access.personal](../../../../_personal/schema.org/Predicate/Flags/is_public_access.personal.md) 
-- [is_public_access.secret](../../../../_secret/schema.org/Predicate/Flags/is_public_access.secret.md) 

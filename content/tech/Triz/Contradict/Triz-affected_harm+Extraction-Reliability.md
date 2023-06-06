@@ -19,10 +19,3 @@ title: Triz-affected_harm+Extraction-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Extraction-Reliability](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.md) 
-- [Triz-affected_harm+Extraction-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.internal.md) 
-- [Triz-affected_harm+Extraction-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.protect.md) 
-- [Triz-affected_harm+Extraction-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.private.md) 
-- [Triz-affected_harm+Extraction-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.personal.md) 
-- [Triz-affected_harm+Extraction-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-Reliability.secret.md) 

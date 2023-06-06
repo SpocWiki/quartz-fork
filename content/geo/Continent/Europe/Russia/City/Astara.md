@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Astara](../../../../../../_public/geo/Continent/Europe/Russia/City/Astara.md) 
-- [Astara.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Astara.internal.md) 
-- [Astara.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Astara.protect.md) 
-- [Astara.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Astara.private.md) 
-- [Astara.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Astara.personal.md) 
-- [Astara.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Astara.secret.md) 

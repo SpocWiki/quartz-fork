@@ -47,10 +47,3 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 
 
-## Confidential Links & Embeds: 
-- [dermatology](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/dermatology.md) 
-- [dermatology.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/dermatology.internal.md) 
-- [dermatology.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/dermatology.protect.md) 
-- [dermatology.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/dermatology.private.md) 
-- [dermatology.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/dermatology.personal.md) 
-- [dermatology.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/dermatology.secret.md) 

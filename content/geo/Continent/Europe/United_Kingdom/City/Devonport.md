@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Devonport](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Devonport.md) 
-- [Devonport.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Devonport.internal.md) 
-- [Devonport.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Devonport.protect.md) 
-- [Devonport.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Devonport.private.md) 
-- [Devonport.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Devonport.personal.md) 
-- [Devonport.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Devonport.secret.md) 

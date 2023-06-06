@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koberwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Koberwitz.md) 
-- [Koberwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Koberwitz.internal.md) 
-- [Koberwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Koberwitz.protect.md) 
-- [Koberwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Koberwitz.private.md) 
-- [Koberwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Koberwitz.personal.md) 
-- [Koberwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Koberwitz.secret.md) 

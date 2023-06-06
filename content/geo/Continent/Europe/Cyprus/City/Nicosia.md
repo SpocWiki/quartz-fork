@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nicosia](../../../../../../_public/geo/Continent/Europe/Cyprus/City/Nicosia.md) 
-- [Nicosia.internal](../../../../../../_internal/geo/Continent/Europe/Cyprus/City/Nicosia.internal.md) 
-- [Nicosia.protect](../../../../../../_protect/geo/Continent/Europe/Cyprus/City/Nicosia.protect.md) 
-- [Nicosia.private](../../../../../../_private/geo/Continent/Europe/Cyprus/City/Nicosia.private.md) 
-- [Nicosia.personal](../../../../../../_personal/geo/Continent/Europe/Cyprus/City/Nicosia.personal.md) 
-- [Nicosia.secret](../../../../../../_secret/geo/Continent/Europe/Cyprus/City/Nicosia.secret.md) 

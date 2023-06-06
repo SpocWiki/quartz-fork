@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spremberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spremberg.md) 
-- [Spremberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spremberg.internal.md) 
-- [Spremberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spremberg.protect.md) 
-- [Spremberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spremberg.private.md) 
-- [Spremberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spremberg.personal.md) 
-- [Spremberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spremberg.secret.md) 

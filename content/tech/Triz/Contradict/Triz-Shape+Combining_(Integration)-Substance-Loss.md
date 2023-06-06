@@ -19,10 +19,3 @@ title: Triz-Shape+Combining_(Integration)-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Combining_(Integration)-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-Substance-Loss.md) 
-- [Triz-Shape+Combining_(Integration)-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-Substance-Loss.internal.md) 
-- [Triz-Shape+Combining_(Integration)-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-Substance-Loss.protect.md) 
-- [Triz-Shape+Combining_(Integration)-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-Substance-Loss.private.md) 
-- [Triz-Shape+Combining_(Integration)-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-Substance-Loss.personal.md) 
-- [Triz-Shape+Combining_(Integration)-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-Substance-Loss.secret.md) 

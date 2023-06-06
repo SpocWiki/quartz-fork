@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Huittinen](../../../../../../_public/geo/Continent/Europe/Finland/City/Huittinen.md) 
-- [Huittinen.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Huittinen.internal.md) 
-- [Huittinen.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Huittinen.protect.md) 
-- [Huittinen.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Huittinen.private.md) 
-- [Huittinen.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Huittinen.personal.md) 
-- [Huittinen.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Huittinen.secret.md) 

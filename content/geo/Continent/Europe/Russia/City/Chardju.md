@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chardju](../../../../../../_public/geo/Continent/Europe/Russia/City/Chardju.md) 
-- [Chardju.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Chardju.internal.md) 
-- [Chardju.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Chardju.protect.md) 
-- [Chardju.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Chardju.private.md) 
-- [Chardju.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Chardju.personal.md) 
-- [Chardju.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Chardju.secret.md) 

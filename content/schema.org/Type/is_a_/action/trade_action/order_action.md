@@ -43,10 +43,3 @@ An agent orders an object/product/service to be delivered/sent.
 
 
 
-## Confidential Links & Embeds: 
-- [order_action](../../../../../../_public/schema.org/Type/is_a_/action/trade_action/order_action.md) 
-- [order_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/order_action.internal.md) 
-- [order_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/order_action.protect.md) 
-- [order_action.private](../../../../../../_private/schema.org/Type/is_a_/action/trade_action/order_action.private.md) 
-- [order_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/order_action.personal.md) 
-- [order_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/order_action.secret.md) 

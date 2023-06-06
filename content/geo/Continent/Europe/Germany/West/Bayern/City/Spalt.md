@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spalt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Spalt.md) 
-- [Spalt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Spalt.internal.md) 
-- [Spalt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Spalt.protect.md) 
-- [Spalt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Spalt.private.md) 
-- [Spalt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Spalt.personal.md) 
-- [Spalt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Spalt.secret.md) 

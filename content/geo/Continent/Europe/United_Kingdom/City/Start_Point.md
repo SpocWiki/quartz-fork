@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Start_Point](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Start_Point.md) 
-- [Start_Point.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Start_Point.internal.md) 
-- [Start_Point.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Start_Point.protect.md) 
-- [Start_Point.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Start_Point.private.md) 
-- [Start_Point.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Start_Point.personal.md) 
-- [Start_Point.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Start_Point.secret.md) 

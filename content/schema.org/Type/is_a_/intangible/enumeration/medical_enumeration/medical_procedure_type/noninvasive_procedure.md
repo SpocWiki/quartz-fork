@@ -45,10 +45,3 @@ A type of medical procedure that involves noninvasive techniques.
 
 
 
-## Confidential Links & Embeds: 
-- [noninvasive_procedure](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.md) 
-- [noninvasive_procedure.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.internal.md) 
-- [noninvasive_procedure.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.protect.md) 
-- [noninvasive_procedure.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.private.md) 
-- [noninvasive_procedure.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.personal.md) 
-- [noninvasive_procedure.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koszeg](../../../../../../_public/geo/Continent/Europe/Hungary/City/Koszeg.md) 
-- [Koszeg.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Koszeg.internal.md) 
-- [Koszeg.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Koszeg.protect.md) 
-- [Koszeg.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Koszeg.private.md) 
-- [Koszeg.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Koszeg.personal.md) 
-- [Koszeg.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Koszeg.secret.md) 

@@ -45,10 +45,3 @@ A picture or diagram made with a pencil, pen, or crayon rather than paint.
 
 
 
-## Confidential Links & Embeds: 
-- [drawing](../../../../../_public/schema.org/Type/is_a_/creative_work/drawing.md) 
-- [drawing.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/drawing.internal.md) 
-- [drawing.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/drawing.protect.md) 
-- [drawing.private](../../../../../_private/schema.org/Type/is_a_/creative_work/drawing.private.md) 
-- [drawing.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/drawing.personal.md) 
-- [drawing.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/drawing.secret.md) 

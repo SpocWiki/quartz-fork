@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ceredolo](../../../../../../_public/geo/Continent/Europe/Italy/City/Ceredolo.md) 
-- [Ceredolo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ceredolo.internal.md) 
-- [Ceredolo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ceredolo.protect.md) 
-- [Ceredolo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ceredolo.private.md) 
-- [Ceredolo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ceredolo.personal.md) 
-- [Ceredolo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ceredolo.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Intensity+Mediator-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Mediator-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.md) 
-- [Triz-Intensity+Mediator-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.internal.md) 
-- [Triz-Intensity+Mediator-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.protect.md) 
-- [Triz-Intensity+Mediator-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.private.md) 
-- [Triz-Intensity+Mediator-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.personal.md) 
-- [Triz-Intensity+Mediator-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Mediator-generated_harm.secret.md) 

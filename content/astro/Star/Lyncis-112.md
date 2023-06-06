@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Lyncis-112](../../../_public/astro/Star/Lyncis-112.md) 
-- [Lyncis-112.internal](../../../_internal/astro/Star/Lyncis-112.internal.md) 
-- [Lyncis-112.protect](../../../_protect/astro/Star/Lyncis-112.protect.md) 
-- [Lyncis-112.private](../../../_private/astro/Star/Lyncis-112.private.md) 
-- [Lyncis-112.personal](../../../_personal/astro/Star/Lyncis-112.personal.md) 
-- [Lyncis-112.secret](../../../_secret/astro/Star/Lyncis-112.secret.md) 

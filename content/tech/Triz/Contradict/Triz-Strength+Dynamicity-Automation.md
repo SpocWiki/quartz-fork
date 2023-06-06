@@ -19,10 +19,3 @@ title: Triz-Strength+Dynamicity-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Dynamicity-Automation](../../../../_public/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.md) 
-- [Triz-Strength+Dynamicity-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.internal.md) 
-- [Triz-Strength+Dynamicity-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.protect.md) 
-- [Triz-Strength+Dynamicity-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.private.md) 
-- [Triz-Strength+Dynamicity-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.personal.md) 
-- [Triz-Strength+Dynamicity-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Dynamicity-Automation.secret.md) 

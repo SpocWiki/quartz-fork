@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tihang](../../../../../../_public/geo/Continent/Europe/Hungary/City/Tihang.md) 
-- [Tihang.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Tihang.internal.md) 
-- [Tihang.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Tihang.protect.md) 
-- [Tihang.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Tihang.private.md) 
-- [Tihang.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Tihang.personal.md) 
-- [Tihang.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Tihang.secret.md) 

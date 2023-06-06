@@ -43,10 +43,3 @@ A patient-reported or observed dosing schedule for a drug or supplement.
 
 
 
-## Confidential Links & Embeds: 
-- [reported_dose_schedule](../../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.md) 
-- [reported_dose_schedule.internal](../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.internal.md) 
-- [reported_dose_schedule.protect](../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.protect.md) 
-- [reported_dose_schedule.private](../../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.private.md) 
-- [reported_dose_schedule.personal](../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.personal.md) 
-- [reported_dose_schedule.secret](../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_intangible/dose_schedule/reported_dose_schedule.secret.md) 

@@ -43,10 +43,3 @@ An ocean (for example, the Pacific).
 
 
 
-## Confidential Links & Embeds: 
-- [ocean_body_of_water](../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.md) 
-- [ocean_body_of_water.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.internal.md) 
-- [ocean_body_of_water.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.protect.md) 
-- [ocean_body_of_water.private](../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.private.md) 
-- [ocean_body_of_water.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.personal.md) 
-- [ocean_body_of_water.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.secret.md) 

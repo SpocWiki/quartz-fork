@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heiden](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Heiden.md) 
-- [Heiden.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Heiden.internal.md) 
-- [Heiden.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Heiden.protect.md) 
-- [Heiden.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Heiden.private.md) 
-- [Heiden.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Heiden.personal.md) 
-- [Heiden.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Heiden.secret.md) 

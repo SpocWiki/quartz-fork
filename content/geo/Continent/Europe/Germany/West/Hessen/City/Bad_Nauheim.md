@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Nauheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.md) 
-- [Bad_Nauheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.internal.md) 
-- [Bad_Nauheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.protect.md) 
-- [Bad_Nauheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.private.md) 
-- [Bad_Nauheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.personal.md) 
-- [Bad_Nauheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Bad_Nauheim.secret.md) 

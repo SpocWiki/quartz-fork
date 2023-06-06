@@ -19,11 +19,3 @@ title: Lang-hi
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-hi](../../_public/lang/Lang-hi.md) 
-- [Lang-hi.internal](../../_internal/lang/Lang-hi.internal.md) 
-- [Lang-hi.protect](../../_protect/lang/Lang-hi.protect.md) 
-- [Lang-hi.private](../../_private/lang/Lang-hi.private.md) 
-- [Lang-hi.personal](../../_personal/lang/Lang-hi.personal.md) 
-- [Lang-hi.secret](../../_secret/lang/Lang-hi.secret.md)
-

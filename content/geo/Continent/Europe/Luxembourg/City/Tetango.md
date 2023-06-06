@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tetango](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Tetango.md) 
-- [Tetango.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Tetango.internal.md) 
-- [Tetango.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Tetango.protect.md) 
-- [Tetango.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Tetango.private.md) 
-- [Tetango.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Tetango.personal.md) 
-- [Tetango.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Tetango.secret.md) 

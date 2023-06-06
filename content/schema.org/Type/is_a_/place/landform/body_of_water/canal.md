@@ -43,10 +43,3 @@ A canal, like the Panama Canal.
 
 
 
-## Confidential Links & Embeds: 
-- [canal](../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/canal.md) 
-- [canal.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/canal.internal.md) 
-- [canal.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/canal.protect.md) 
-- [canal.private](../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/canal.private.md) 
-- [canal.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/canal.personal.md) 
-- [canal.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/canal.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sifiisk](../../../../../../_public/geo/Continent/Europe/Russia/City/Sifiisk.md) 
-- [Sifiisk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sifiisk.internal.md) 
-- [Sifiisk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sifiisk.protect.md) 
-- [Sifiisk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sifiisk.private.md) 
-- [Sifiisk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sifiisk.personal.md) 
-- [Sifiisk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sifiisk.secret.md) 

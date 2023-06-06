@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skagerrak](../../../../../../_public/geo/Continent/Europe/Norway/City/Skagerrak.md) 
-- [Skagerrak.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Skagerrak.internal.md) 
-- [Skagerrak.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Skagerrak.protect.md) 
-- [Skagerrak.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Skagerrak.private.md) 
-- [Skagerrak.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Skagerrak.personal.md) 
-- [Skagerrak.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Skagerrak.secret.md) 

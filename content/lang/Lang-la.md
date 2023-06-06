@@ -19,11 +19,3 @@ title: Lang-la
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-la](../../_public/lang/Lang-la.md) 
-- [Lang-la.internal](../../_internal/lang/Lang-la.internal.md) 
-- [Lang-la.protect](../../_protect/lang/Lang-la.protect.md) 
-- [Lang-la.private](../../_private/lang/Lang-la.private.md) 
-- [Lang-la.personal](../../_personal/lang/Lang-la.personal.md) 
-- [Lang-la.secret](../../_secret/lang/Lang-la.secret.md)
-

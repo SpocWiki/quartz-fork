@@ -45,10 +45,3 @@ A company or fund that gathers capital from a number of investors to create a po
 
 
 
-## Confidential Links & Embeds: 
-- [investment_fund](../../../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.md) 
-- [investment_fund.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.internal.md) 
-- [investment_fund.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.protect.md) 
-- [investment_fund.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.private.md) 
-- [investment_fund.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.personal.md) 
-- [investment_fund.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.secret.md) 

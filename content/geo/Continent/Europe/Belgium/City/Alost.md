@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alost](../../../../../../_public/geo/Continent/Europe/Belgium/City/Alost.md) 
-- [Alost.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Alost.internal.md) 
-- [Alost.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Alost.protect.md) 
-- [Alost.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Alost.private.md) 
-- [Alost.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Alost.personal.md) 
-- [Alost.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Alost.secret.md) 

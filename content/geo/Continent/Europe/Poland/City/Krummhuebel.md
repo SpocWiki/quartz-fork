@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krummhuebel](../../../../../../_public/geo/Continent/Europe/Poland/City/Krummhuebel.md) 
-- [Krummhuebel.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Krummhuebel.internal.md) 
-- [Krummhuebel.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Krummhuebel.protect.md) 
-- [Krummhuebel.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Krummhuebel.private.md) 
-- [Krummhuebel.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Krummhuebel.personal.md) 
-- [Krummhuebel.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Krummhuebel.secret.md) 

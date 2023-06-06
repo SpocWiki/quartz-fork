@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Equipotentiality-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Equipotentiality-Automation](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.internal.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.protect.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.private.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.personal.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Automation.secret.md) 

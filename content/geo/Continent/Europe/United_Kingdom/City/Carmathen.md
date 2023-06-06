@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Carmathen](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Carmathen.md) 
-- [Carmathen.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Carmathen.internal.md) 
-- [Carmathen.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Carmathen.protect.md) 
-- [Carmathen.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Carmathen.private.md) 
-- [Carmathen.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Carmathen.personal.md) 
-- [Carmathen.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Carmathen.secret.md) 

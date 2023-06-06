@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Segmentation-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Segmentation-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.md) 
-- [Triz-Manufacturing_Precision+Segmentation-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.internal.md) 
-- [Triz-Manufacturing_Precision+Segmentation-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.protect.md) 
-- [Triz-Manufacturing_Precision+Segmentation-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.private.md) 
-- [Triz-Manufacturing_Precision+Segmentation-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.personal.md) 
-- [Triz-Manufacturing_Precision+Segmentation-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Segmentation-Reliability.secret.md) 

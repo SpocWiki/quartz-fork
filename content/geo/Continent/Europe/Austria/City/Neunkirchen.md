@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neunkirchen](../../../../../../_public/geo/Continent/Europe/Austria/City/Neunkirchen.md) 
-- [Neunkirchen.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Neunkirchen.internal.md) 
-- [Neunkirchen.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Neunkirchen.protect.md) 
-- [Neunkirchen.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Neunkirchen.private.md) 
-- [Neunkirchen.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Neunkirchen.personal.md) 
-- [Neunkirchen.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Neunkirchen.secret.md) 

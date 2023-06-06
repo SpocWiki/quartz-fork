@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alsfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.md) 
-- [Alsfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.internal.md) 
-- [Alsfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.protect.md) 
-- [Alsfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.private.md) 
-- [Alsfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.personal.md) 
-- [Alsfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Alsfeld.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vetschau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Vetschau.md) 
-- [Vetschau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Vetschau.internal.md) 
-- [Vetschau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Vetschau.protect.md) 
-- [Vetschau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Vetschau.private.md) 
-- [Vetschau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Vetschau.personal.md) 
-- [Vetschau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Vetschau.secret.md) 

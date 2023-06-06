@@ -19,10 +19,3 @@ title: Triz-Shape+Combining_(Integration)-moving_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Combining_(Integration)-moving_Length](../../../../_public/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.md) 
-- [Triz-Shape+Combining_(Integration)-moving_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.internal.md) 
-- [Triz-Shape+Combining_(Integration)-moving_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.protect.md) 
-- [Triz-Shape+Combining_(Integration)-moving_Length.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.private.md) 
-- [Triz-Shape+Combining_(Integration)-moving_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.personal.md) 
-- [Triz-Shape+Combining_(Integration)-moving_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Combining_(Integration)-moving_Length.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lorsbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Lorsbach.md) 
-- [Lorsbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lorsbach.internal.md) 
-- [Lorsbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lorsbach.protect.md) 
-- [Lorsbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lorsbach.private.md) 
-- [Lorsbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Lorsbach.personal.md) 
-- [Lorsbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Lorsbach.secret.md) 

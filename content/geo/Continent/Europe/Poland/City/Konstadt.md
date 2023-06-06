@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Konstadt](../../../../../../_public/geo/Continent/Europe/Poland/City/Konstadt.md) 
-- [Konstadt.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Konstadt.internal.md) 
-- [Konstadt.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Konstadt.protect.md) 
-- [Konstadt.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Konstadt.private.md) 
-- [Konstadt.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Konstadt.personal.md) 
-- [Konstadt.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Konstadt.secret.md) 

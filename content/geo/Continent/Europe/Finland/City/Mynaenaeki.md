@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mynaenaeki](../../../../../../_public/geo/Continent/Europe/Finland/City/Mynaenaeki.md) 
-- [Mynaenaeki.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Mynaenaeki.internal.md) 
-- [Mynaenaeki.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Mynaenaeki.protect.md) 
-- [Mynaenaeki.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Mynaenaeki.private.md) 
-- [Mynaenaeki.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Mynaenaeki.personal.md) 
-- [Mynaenaeki.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Mynaenaeki.secret.md) 

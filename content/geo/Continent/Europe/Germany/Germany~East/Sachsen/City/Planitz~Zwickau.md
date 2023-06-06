@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Planitz~Zwickau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz~Zwickau.md) 
-- [Planitz~Zwickau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz~Zwickau.internal.md) 
-- [Planitz~Zwickau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz~Zwickau.protect.md) 
-- [Planitz~Zwickau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz~Zwickau.private.md) 
-- [Planitz~Zwickau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz~Zwickau.personal.md) 
-- [Planitz~Zwickau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz~Zwickau.secret.md) 

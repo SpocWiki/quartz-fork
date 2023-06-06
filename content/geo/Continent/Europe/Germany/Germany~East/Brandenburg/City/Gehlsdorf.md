@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gehlsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gehlsdorf.md) 
-- [Gehlsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gehlsdorf.internal.md) 
-- [Gehlsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gehlsdorf.protect.md) 
-- [Gehlsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gehlsdorf.private.md) 
-- [Gehlsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gehlsdorf.personal.md) 
-- [Gehlsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gehlsdorf.secret.md) 

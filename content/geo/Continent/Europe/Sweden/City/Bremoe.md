@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bremoe](../../../../../../_public/geo/Continent/Europe/Sweden/City/Bremoe.md) 
-- [Bremoe.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bremoe.internal.md) 
-- [Bremoe.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bremoe.protect.md) 
-- [Bremoe.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Bremoe.private.md) 
-- [Bremoe.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bremoe.personal.md) 
-- [Bremoe.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bremoe.secret.md) 

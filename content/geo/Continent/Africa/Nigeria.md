@@ -125,7 +125,7 @@ markerFolder: ./Nigeria/City
 
 ![350](geo/Continent/Africa/Nigeria/Coat_of_arms_of_Nigeria.svg)
 
-![Anthem-Nigeria](xLarge/National-Anthem/Anthem-Nigeria.mp3)
+[Anthem-Nigeria](xLarge/National-Anthem/Anthem-Nigeria.mp3)
 
 ![350](geo/Continent/Africa/Nigeria/Flag_of_Nigeria.svg)
 
@@ -136,10 +136,3 @@ markerFolder: ./Nigeria/City
 
 
 
-## Confidential Links & Embeds: 
-- [Nigeria](../../../../_public/geo/Continent/Africa/Nigeria.md) 
-- [Nigeria.internal](../../../../_internal/geo/Continent/Africa/Nigeria.internal.md) 
-- [Nigeria.protect](../../../../_protect/geo/Continent/Africa/Nigeria.protect.md) 
-- [Nigeria.private](../../../../_private/geo/Continent/Africa/Nigeria.private.md) 
-- [Nigeria.personal](../../../../_personal/geo/Continent/Africa/Nigeria.personal.md) 
-- [Nigeria.secret](../../../../_secret/geo/Continent/Africa/Nigeria.secret.md) 

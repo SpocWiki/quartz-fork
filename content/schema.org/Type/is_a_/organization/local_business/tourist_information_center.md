@@ -43,10 +43,3 @@ A tourist information center.
 
 
 
-## Confidential Links & Embeds: 
-- [tourist_information_center](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/tourist_information_center.md) 
-- [tourist_information_center.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/tourist_information_center.internal.md) 
-- [tourist_information_center.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/tourist_information_center.protect.md) 
-- [tourist_information_center.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/tourist_information_center.private.md) 
-- [tourist_information_center.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/tourist_information_center.personal.md) 
-- [tourist_information_center.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/tourist_information_center.secret.md) 

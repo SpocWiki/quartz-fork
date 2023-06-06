@@ -43,10 +43,3 @@ The causative agent(s) that are responsible for the pathophysiologic process tha
 
 
 
-## Confidential Links & Embeds: 
-- [medical_cause](../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_cause.md) 
-- [medical_cause.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_cause.internal.md) 
-- [medical_cause.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_cause.protect.md) 
-- [medical_cause.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_cause.private.md) 
-- [medical_cause.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_cause.personal.md) 
-- [medical_cause.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_cause.secret.md) 

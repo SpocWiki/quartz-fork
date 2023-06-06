@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reading](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Reading.md) 
-- [Reading.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Reading.internal.md) 
-- [Reading.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Reading.protect.md) 
-- [Reading.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Reading.private.md) 
-- [Reading.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Reading.personal.md) 
-- [Reading.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Reading.secret.md) 

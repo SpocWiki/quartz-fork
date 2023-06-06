@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sigtuna](../../../../../../_public/geo/Continent/Europe/Sweden/City/Sigtuna.md) 
-- [Sigtuna.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sigtuna.internal.md) 
-- [Sigtuna.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sigtuna.protect.md) 
-- [Sigtuna.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Sigtuna.private.md) 
-- [Sigtuna.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sigtuna.personal.md) 
-- [Sigtuna.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sigtuna.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beelitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beelitz.md) 
-- [Beelitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beelitz.internal.md) 
-- [Beelitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beelitz.protect.md) 
-- [Beelitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beelitz.private.md) 
-- [Beelitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beelitz.personal.md) 
-- [Beelitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beelitz.secret.md) 

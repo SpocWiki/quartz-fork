@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Garz~Ruppin](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Garz~Ruppin.md) 
-- [Garz~Ruppin.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Garz~Ruppin.internal.md) 
-- [Garz~Ruppin.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Garz~Ruppin.protect.md) 
-- [Garz~Ruppin.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Garz~Ruppin.private.md) 
-- [Garz~Ruppin.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Garz~Ruppin.personal.md) 
-- [Garz~Ruppin.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Garz~Ruppin.secret.md) 

@@ -47,10 +47,3 @@ Nonprofit501c22: Non-profit type referring to Withdrawal Liability Payment Funds
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c22](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.md) 
-- [nonprofit501c22.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.internal.md) 
-- [nonprofit501c22.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.protect.md) 
-- [nonprofit501c22.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.private.md) 
-- [nonprofit501c22.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.personal.md) 
-- [nonprofit501c22.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c22.secret.md) 

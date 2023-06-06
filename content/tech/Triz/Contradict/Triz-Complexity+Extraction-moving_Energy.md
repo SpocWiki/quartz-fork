@@ -19,10 +19,3 @@ title: Triz-Complexity+Extraction-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Extraction-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.md) 
-- [Triz-Complexity+Extraction-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.internal.md) 
-- [Triz-Complexity+Extraction-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.protect.md) 
-- [Triz-Complexity+Extraction-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.private.md) 
-- [Triz-Complexity+Extraction-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.personal.md) 
-- [Triz-Complexity+Extraction-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Extraction-moving_Energy.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Copying-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Copying-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.md) 
-- [Triz-Measurement_Accuracy+Copying-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.internal.md) 
-- [Triz-Measurement_Accuracy+Copying-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.protect.md) 
-- [Triz-Measurement_Accuracy+Copying-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.private.md) 
-- [Triz-Measurement_Accuracy+Copying-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.personal.md) 
-- [Triz-Measurement_Accuracy+Copying-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Copying-Difficulty.secret.md) 

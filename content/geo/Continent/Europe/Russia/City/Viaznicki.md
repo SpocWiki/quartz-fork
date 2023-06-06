@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Viaznicki](../../../../../../_public/geo/Continent/Europe/Russia/City/Viaznicki.md) 
-- [Viaznicki.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Viaznicki.internal.md) 
-- [Viaznicki.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Viaznicki.protect.md) 
-- [Viaznicki.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Viaznicki.private.md) 
-- [Viaznicki.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Viaznicki.personal.md) 
-- [Viaznicki.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Viaznicki.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Werniji](../../../../../../_public/geo/Continent/Europe/Russia/City/Werniji.md) 
-- [Werniji.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Werniji.internal.md) 
-- [Werniji.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Werniji.protect.md) 
-- [Werniji.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Werniji.private.md) 
-- [Werniji.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Werniji.personal.md) 
-- [Werniji.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Werniji.secret.md) 

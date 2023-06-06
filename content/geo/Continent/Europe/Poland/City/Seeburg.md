@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seeburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Seeburg.md) 
-- [Seeburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Seeburg.internal.md) 
-- [Seeburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Seeburg.protect.md) 
-- [Seeburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Seeburg.private.md) 
-- [Seeburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Seeburg.personal.md) 
-- [Seeburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Seeburg.secret.md) 

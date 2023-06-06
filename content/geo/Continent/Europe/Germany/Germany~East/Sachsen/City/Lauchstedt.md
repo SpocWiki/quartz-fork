@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauchstedt](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lauchstedt.md) 
-- [Lauchstedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lauchstedt.internal.md) 
-- [Lauchstedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lauchstedt.protect.md) 
-- [Lauchstedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lauchstedt.private.md) 
-- [Lauchstedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lauchstedt.personal.md) 
-- [Lauchstedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lauchstedt.secret.md) 

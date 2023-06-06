@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gransee](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gransee.md) 
-- [Gransee.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gransee.internal.md) 
-- [Gransee.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gransee.protect.md) 
-- [Gransee.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gransee.private.md) 
-- [Gransee.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gransee.personal.md) 
-- [Gransee.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gransee.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roermond](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Roermond.md) 
-- [Roermond.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Roermond.internal.md) 
-- [Roermond.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Roermond.protect.md) 
-- [Roermond.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Roermond.private.md) 
-- [Roermond.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Roermond.personal.md) 
-- [Roermond.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Roermond.secret.md) 

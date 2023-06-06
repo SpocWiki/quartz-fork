@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_health_plan_cost_sharing](../../../../_public/schema.org/Predicate/Flags/is_health_plan_cost_sharing.md) 
-- [is_health_plan_cost_sharing.internal](../../../../_internal/schema.org/Predicate/Flags/is_health_plan_cost_sharing.internal.md) 
-- [is_health_plan_cost_sharing.protect](../../../../_protect/schema.org/Predicate/Flags/is_health_plan_cost_sharing.protect.md) 
-- [is_health_plan_cost_sharing.private](../../../../_private/schema.org/Predicate/Flags/is_health_plan_cost_sharing.private.md) 
-- [is_health_plan_cost_sharing.personal](../../../../_personal/schema.org/Predicate/Flags/is_health_plan_cost_sharing.personal.md) 
-- [is_health_plan_cost_sharing.secret](../../../../_secret/schema.org/Predicate/Flags/is_health_plan_cost_sharing.secret.md) 

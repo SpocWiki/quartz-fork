@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberdachstetten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Oberdachstetten.md) 
-- [Oberdachstetten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberdachstetten.internal.md) 
-- [Oberdachstetten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberdachstetten.protect.md) 
-- [Oberdachstetten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberdachstetten.private.md) 
-- [Oberdachstetten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oberdachstetten.personal.md) 
-- [Oberdachstetten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oberdachstetten.secret.md) 

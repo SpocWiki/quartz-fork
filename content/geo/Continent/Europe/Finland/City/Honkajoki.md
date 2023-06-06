@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Honkajoki](../../../../../../_public/geo/Continent/Europe/Finland/City/Honkajoki.md) 
-- [Honkajoki.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Honkajoki.internal.md) 
-- [Honkajoki.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Honkajoki.protect.md) 
-- [Honkajoki.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Honkajoki.private.md) 
-- [Honkajoki.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Honkajoki.personal.md) 
-- [Honkajoki.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Honkajoki.secret.md) 

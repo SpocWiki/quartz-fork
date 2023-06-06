@@ -41,10 +41,3 @@ Categories of physical activity, organized by physiologic classification.
 
 
 
-## Confidential Links & Embeds: 
-- [physical_activity_category](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category.md) 
-- [physical_activity_category.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category.internal.md) 
-- [physical_activity_category.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category.protect.md) 
-- [physical_activity_category.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category.private.md) 
-- [physical_activity_category.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category.personal.md) 
-- [physical_activity_category.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category.secret.md) 

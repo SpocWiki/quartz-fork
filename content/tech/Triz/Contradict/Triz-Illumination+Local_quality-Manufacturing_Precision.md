@@ -19,10 +19,3 @@ title: Triz-Illumination+Local_quality-Manufacturing_Precision
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Local_quality-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Local_quality-Manufacturing_Precision.md) 
-- [Triz-Illumination+Local_quality-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Local_quality-Manufacturing_Precision.internal.md) 
-- [Triz-Illumination+Local_quality-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Local_quality-Manufacturing_Precision.protect.md) 
-- [Triz-Illumination+Local_quality-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Local_quality-Manufacturing_Precision.private.md) 
-- [Triz-Illumination+Local_quality-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Local_quality-Manufacturing_Precision.personal.md) 
-- [Triz-Illumination+Local_quality-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Local_quality-Manufacturing_Precision.secret.md) 

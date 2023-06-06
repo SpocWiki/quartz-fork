@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bloomingtown](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.md) 
-- [Bloomingtown.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.internal.md) 
-- [Bloomingtown.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.protect.md) 
-- [Bloomingtown.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.private.md) 
-- [Bloomingtown.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.personal.md) 
-- [Bloomingtown.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Illinois/City/Bloomingtown.secret.md) 

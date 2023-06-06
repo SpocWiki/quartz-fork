@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siders](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Siders.md) 
-- [Siders.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Siders.internal.md) 
-- [Siders.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Siders.protect.md) 
-- [Siders.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Siders.private.md) 
-- [Siders.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Siders.personal.md) 
-- [Siders.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Siders.secret.md) 

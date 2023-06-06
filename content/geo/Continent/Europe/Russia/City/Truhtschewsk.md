@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Truhtschewsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Truhtschewsk.md) 
-- [Truhtschewsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Truhtschewsk.internal.md) 
-- [Truhtschewsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Truhtschewsk.protect.md) 
-- [Truhtschewsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Truhtschewsk.private.md) 
-- [Truhtschewsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Truhtschewsk.personal.md) 
-- [Truhtschewsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Truhtschewsk.secret.md) 

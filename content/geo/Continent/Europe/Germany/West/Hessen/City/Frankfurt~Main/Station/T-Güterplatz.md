@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Güterplatz](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-G%C3%BCterplatz.md) 
-- [T-Güterplatz.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-G%C3%BCterplatz.internal.md) 
-- [T-Güterplatz.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-G%C3%BCterplatz.protect.md) 
-- [T-Güterplatz.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-G%C3%BCterplatz.private.md) 
-- [T-Güterplatz.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-G%C3%BCterplatz.personal.md) 
-- [T-Güterplatz.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-G%C3%BCterplatz.secret.md) 

@@ -52,10 +52,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_speed_km_h](../../../../_public/schema.org/Predicate/Quantities/has_value_for_speed_km_h.md) 
-- [has_value_for_speed_km_h.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_speed_km_h.internal.md) 
-- [has_value_for_speed_km_h.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_speed_km_h.protect.md) 
-- [has_value_for_speed_km_h.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_speed_km_h.private.md) 
-- [has_value_for_speed_km_h.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_speed_km_h.personal.md) 
-- [has_value_for_speed_km_h.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_speed_km_h.secret.md) 

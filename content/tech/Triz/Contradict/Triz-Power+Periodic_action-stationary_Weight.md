@@ -19,10 +19,3 @@ title: Triz-Power+Periodic_action-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Periodic_action-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Power+Periodic_action-stationary_Weight.md) 
-- [Triz-Power+Periodic_action-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Periodic_action-stationary_Weight.internal.md) 
-- [Triz-Power+Periodic_action-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Periodic_action-stationary_Weight.protect.md) 
-- [Triz-Power+Periodic_action-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Periodic_action-stationary_Weight.private.md) 
-- [Triz-Power+Periodic_action-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Periodic_action-stationary_Weight.personal.md) 
-- [Triz-Power+Periodic_action-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Periodic_action-stationary_Weight.secret.md) 

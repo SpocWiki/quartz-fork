@@ -14,10 +14,3 @@ title: Triz-Equipotentiality
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Equipotentiality](../../../../_public/tech/Triz/Principle/Triz-Equipotentiality.md) 
-- [Triz-Equipotentiality.internal](../../../../_internal/tech/Triz/Principle/Triz-Equipotentiality.internal.md) 
-- [Triz-Equipotentiality.protect](../../../../_protect/tech/Triz/Principle/Triz-Equipotentiality.protect.md) 
-- [Triz-Equipotentiality.private](../../../../_private/tech/Triz/Principle/Triz-Equipotentiality.private.md) 
-- [Triz-Equipotentiality.personal](../../../../_personal/tech/Triz/Principle/Triz-Equipotentiality.personal.md) 
-- [Triz-Equipotentiality.secret](../../../../_secret/tech/Triz/Principle/Triz-Equipotentiality.secret.md) 

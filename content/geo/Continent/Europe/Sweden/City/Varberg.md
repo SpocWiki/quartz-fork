@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Varberg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Varberg.md) 
-- [Varberg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Varberg.internal.md) 
-- [Varberg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Varberg.protect.md) 
-- [Varberg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Varberg.private.md) 
-- [Varberg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Varberg.personal.md) 
-- [Varberg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Varberg.secret.md) 

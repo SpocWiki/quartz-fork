@@ -19,10 +19,3 @@ title: Triz-affected_harm+Use_of_porous_material-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Use_of_porous_material-Versatility](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Use_of_porous_material-Versatility.md) 
-- [Triz-affected_harm+Use_of_porous_material-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Use_of_porous_material-Versatility.internal.md) 
-- [Triz-affected_harm+Use_of_porous_material-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Use_of_porous_material-Versatility.protect.md) 
-- [Triz-affected_harm+Use_of_porous_material-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Use_of_porous_material-Versatility.private.md) 
-- [Triz-affected_harm+Use_of_porous_material-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Use_of_porous_material-Versatility.personal.md) 
-- [Triz-affected_harm+Use_of_porous_material-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Use_of_porous_material-Versatility.secret.md) 

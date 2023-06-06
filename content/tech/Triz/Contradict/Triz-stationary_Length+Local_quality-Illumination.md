@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Local_quality-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Local_quality-Illumination](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Illumination.md) 
-- [Triz-stationary_Length+Local_quality-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Illumination.internal.md) 
-- [Triz-stationary_Length+Local_quality-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Illumination.protect.md) 
-- [Triz-stationary_Length+Local_quality-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Illumination.private.md) 
-- [Triz-stationary_Length+Local_quality-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Illumination.personal.md) 
-- [Triz-stationary_Length+Local_quality-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Local_quality-Illumination.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoenbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Schoenbach.md) 
-- [Schoenbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schoenbach.internal.md) 
-- [Schoenbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schoenbach.protect.md) 
-- [Schoenbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schoenbach.private.md) 
-- [Schoenbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Schoenbach.personal.md) 
-- [Schoenbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Schoenbach.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Turkestan](../../../../../../_public/geo/Continent/Europe/Russia/City/Turkestan.md) 
-- [Turkestan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Turkestan.internal.md) 
-- [Turkestan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Turkestan.protect.md) 
-- [Turkestan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Turkestan.private.md) 
-- [Turkestan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Turkestan.personal.md) 
-- [Turkestan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Turkestan.secret.md) 

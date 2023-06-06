@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Domnau](../../../../../../_public/geo/Continent/Europe/Russia/City/Domnau.md) 
-- [Domnau.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Domnau.internal.md) 
-- [Domnau.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Domnau.protect.md) 
-- [Domnau.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Domnau.private.md) 
-- [Domnau.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Domnau.personal.md) 
-- [Domnau.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Domnau.secret.md) 

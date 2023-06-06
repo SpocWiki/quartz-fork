@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bantry](../../../../../../_public/geo/Continent/Europe/Ireland/City/Bantry.md) 
-- [Bantry.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Bantry.internal.md) 
-- [Bantry.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Bantry.protect.md) 
-- [Bantry.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Bantry.private.md) 
-- [Bantry.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Bantry.personal.md) 
-- [Bantry.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Bantry.secret.md) 

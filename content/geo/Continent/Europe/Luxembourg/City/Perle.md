@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Perle](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Perle.md) 
-- [Perle.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Perle.internal.md) 
-- [Perle.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Perle.protect.md) 
-- [Perle.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Perle.private.md) 
-- [Perle.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Perle.personal.md) 
-- [Perle.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Perle.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kangasala](../../../../../../_public/geo/Continent/Europe/Finland/City/Kangasala.md) 
-- [Kangasala.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kangasala.internal.md) 
-- [Kangasala.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kangasala.protect.md) 
-- [Kangasala.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kangasala.private.md) 
-- [Kangasala.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kangasala.personal.md) 
-- [Kangasala.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kangasala.secret.md) 

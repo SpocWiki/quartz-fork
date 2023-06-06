@@ -19,10 +19,3 @@ title: Triz-10307+22216-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22216-Temperature](../../../../_public/tech/Triz/Contradict/Triz-10307+22216-Temperature.md) 
-- [Triz-10307+22216-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22216-Temperature.internal.md) 
-- [Triz-10307+22216-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22216-Temperature.protect.md) 
-- [Triz-10307+22216-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22216-Temperature.private.md) 
-- [Triz-10307+22216-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22216-Temperature.personal.md) 
-- [Triz-10307+22216-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22216-Temperature.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gravesend](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Gravesend.md) 
-- [Gravesend.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gravesend.internal.md) 
-- [Gravesend.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gravesend.protect.md) 
-- [Gravesend.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gravesend.private.md) 
-- [Gravesend.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gravesend.personal.md) 
-- [Gravesend.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gravesend.secret.md) 

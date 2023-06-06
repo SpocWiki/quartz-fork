@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Inversion-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Inversion-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Difficulty.md) 
-- [Triz-Substance-Loss+Inversion-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Difficulty.internal.md) 
-- [Triz-Substance-Loss+Inversion-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Difficulty.protect.md) 
-- [Triz-Substance-Loss+Inversion-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Difficulty.private.md) 
-- [Triz-Substance-Loss+Inversion-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Difficulty.personal.md) 
-- [Triz-Substance-Loss+Inversion-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Difficulty.secret.md) 

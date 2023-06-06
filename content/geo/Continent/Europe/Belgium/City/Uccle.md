@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uccle](../../../../../../_public/geo/Continent/Europe/Belgium/City/Uccle.md) 
-- [Uccle.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Uccle.internal.md) 
-- [Uccle.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Uccle.protect.md) 
-- [Uccle.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Uccle.private.md) 
-- [Uccle.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Uccle.personal.md) 
-- [Uccle.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Uccle.secret.md) 

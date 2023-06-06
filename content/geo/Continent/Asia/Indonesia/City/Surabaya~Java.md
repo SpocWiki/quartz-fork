@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Surabaya~Java](../../../../../../_public/geo/Continent/Asia/Indonesia/City/Surabaya~Java.md) 
-- [Surabaya~Java.internal](../../../../../../_internal/geo/Continent/Asia/Indonesia/City/Surabaya~Java.internal.md) 
-- [Surabaya~Java.protect](../../../../../../_protect/geo/Continent/Asia/Indonesia/City/Surabaya~Java.protect.md) 
-- [Surabaya~Java.private](../../../../../../_private/geo/Continent/Asia/Indonesia/City/Surabaya~Java.private.md) 
-- [Surabaya~Java.personal](../../../../../../_personal/geo/Continent/Asia/Indonesia/City/Surabaya~Java.personal.md) 
-- [Surabaya~Java.secret](../../../../../../_secret/geo/Continent/Asia/Indonesia/City/Surabaya~Java.secret.md) 

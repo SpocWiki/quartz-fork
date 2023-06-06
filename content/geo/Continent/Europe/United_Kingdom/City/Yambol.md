@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yambol](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Yambol.md) 
-- [Yambol.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Yambol.internal.md) 
-- [Yambol.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Yambol.protect.md) 
-- [Yambol.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Yambol.private.md) 
-- [Yambol.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Yambol.personal.md) 
-- [Yambol.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Yambol.secret.md) 

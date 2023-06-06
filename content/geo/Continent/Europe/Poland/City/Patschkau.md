@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Patschkau](../../../../../../_public/geo/Continent/Europe/Poland/City/Patschkau.md) 
-- [Patschkau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Patschkau.internal.md) 
-- [Patschkau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Patschkau.protect.md) 
-- [Patschkau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Patschkau.private.md) 
-- [Patschkau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Patschkau.personal.md) 
-- [Patschkau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Patschkau.secret.md) 

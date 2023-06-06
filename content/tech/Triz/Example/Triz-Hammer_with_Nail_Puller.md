@@ -17,10 +17,3 @@ title: Triz-Hammer_with_Nail_Puller
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Hammer_with_Nail_Puller](../../../../_public/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.md) 
-- [Triz-Hammer_with_Nail_Puller.internal](../../../../_internal/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.internal.md) 
-- [Triz-Hammer_with_Nail_Puller.protect](../../../../_protect/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.protect.md) 
-- [Triz-Hammer_with_Nail_Puller.private](../../../../_private/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.private.md) 
-- [Triz-Hammer_with_Nail_Puller.personal](../../../../_personal/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.personal.md) 
-- [Triz-Hammer_with_Nail_Puller.secret](../../../../_secret/tech/Triz/Example/Triz-Hammer_with_Nail_Puller.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gramm](../../../../../../_public/geo/Continent/Europe/Denmark/City/Gramm.md) 
-- [Gramm.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Gramm.internal.md) 
-- [Gramm.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Gramm.protect.md) 
-- [Gramm.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Gramm.private.md) 
-- [Gramm.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Gramm.personal.md) 
-- [Gramm.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Gramm.secret.md) 

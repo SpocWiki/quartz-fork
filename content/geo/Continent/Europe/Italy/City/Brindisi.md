@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brindisi](../../../../../../_public/geo/Continent/Europe/Italy/City/Brindisi.md) 
-- [Brindisi.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Brindisi.internal.md) 
-- [Brindisi.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Brindisi.protect.md) 
-- [Brindisi.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Brindisi.private.md) 
-- [Brindisi.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Brindisi.personal.md) 
-- [Brindisi.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Brindisi.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bolvi](../../../../../../_public/geo/Continent/Europe/Russia/City/Bolvi.md) 
-- [Bolvi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Bolvi.internal.md) 
-- [Bolvi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Bolvi.protect.md) 
-- [Bolvi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Bolvi.private.md) 
-- [Bolvi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Bolvi.personal.md) 
-- [Bolvi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Bolvi.secret.md) 

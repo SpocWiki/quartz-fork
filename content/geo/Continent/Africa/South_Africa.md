@@ -131,7 +131,7 @@ markerFolder: ./South_Africa/City
 
 ![350](geo/Continent/Africa/South_Africa/Coat_of_arms_of_South_Africa.svg)
 
-![Anthem-South-africa](xLarge/National-Anthem/Anthem-South-africa.mp3)
+[Anthem-South-africa](xLarge/National-Anthem/Anthem-South-africa.mp3)
 
 ![350](geo/Continent/Africa/South_Africa/Flag_of_South_Africa.svg)
 
@@ -142,10 +142,3 @@ markerFolder: ./South_Africa/City
 
 
 
-## Confidential Links & Embeds: 
-- [South_Africa](../../../../_public/geo/Continent/Africa/South_Africa.md) 
-- [South_Africa.internal](../../../../_internal/geo/Continent/Africa/South_Africa.internal.md) 
-- [South_Africa.protect](../../../../_protect/geo/Continent/Africa/South_Africa.protect.md) 
-- [South_Africa.private](../../../../_private/geo/Continent/Africa/South_Africa.private.md) 
-- [South_Africa.personal](../../../../_personal/geo/Continent/Africa/South_Africa.personal.md) 
-- [South_Africa.secret](../../../../_secret/geo/Continent/Africa/South_Africa.secret.md) 

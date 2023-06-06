@@ -43,10 +43,3 @@ An embassy.
 
 
 
-## Confidential Links & Embeds: 
-- [embassy](../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.md) 
-- [embassy.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.internal.md) 
-- [embassy.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.protect.md) 
-- [embassy.private](../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.private.md) 
-- [embassy.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.personal.md) 
-- [embassy.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.secret.md) 

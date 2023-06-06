@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Temmikof](../../../../../../_public/geo/Continent/Europe/Russia/City/Temmikof.md) 
-- [Temmikof.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Temmikof.internal.md) 
-- [Temmikof.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Temmikof.protect.md) 
-- [Temmikof.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Temmikof.private.md) 
-- [Temmikof.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Temmikof.personal.md) 
-- [Temmikof.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Temmikof.secret.md) 

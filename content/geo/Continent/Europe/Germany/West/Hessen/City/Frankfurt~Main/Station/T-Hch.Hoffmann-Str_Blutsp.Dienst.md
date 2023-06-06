@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Hch.Hoffmann-Str_Blutsp.Dienst](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.md) 
-- [T-Hch.Hoffmann-Str_Blutsp.Dienst.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.internal.md) 
-- [T-Hch.Hoffmann-Str_Blutsp.Dienst.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.protect.md) 
-- [T-Hch.Hoffmann-Str_Blutsp.Dienst.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.private.md) 
-- [T-Hch.Hoffmann-Str_Blutsp.Dienst.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.personal.md) 
-- [T-Hch.Hoffmann-Str_Blutsp.Dienst.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hch.Hoffmann-Str_Blutsp.Dienst.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weissenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Weissenburg.md) 
-- [Weissenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Weissenburg.internal.md) 
-- [Weissenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Weissenburg.protect.md) 
-- [Weissenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Weissenburg.private.md) 
-- [Weissenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Weissenburg.personal.md) 
-- [Weissenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Weissenburg.secret.md) 

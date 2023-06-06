@@ -36,10 +36,3 @@ markerFolder: ./Asian_Shipping/City
 
 
 
-## Confidential Links & Embeds: 
-- [Asian_Shipping](../../../../_public/geo/Continent/Asia/Asian_Shipping.md) 
-- [Asian_Shipping.internal](../../../../_internal/geo/Continent/Asia/Asian_Shipping.internal.md) 
-- [Asian_Shipping.protect](../../../../_protect/geo/Continent/Asia/Asian_Shipping.protect.md) 
-- [Asian_Shipping.private](../../../../_private/geo/Continent/Asia/Asian_Shipping.private.md) 
-- [Asian_Shipping.personal](../../../../_personal/geo/Continent/Asia/Asian_Shipping.personal.md) 
-- [Asian_Shipping.secret](../../../../_secret/geo/Continent/Asia/Asian_Shipping.secret.md) 

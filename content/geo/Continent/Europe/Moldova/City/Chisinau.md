@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chisinau](../../../../../../_public/geo/Continent/Europe/Moldova/City/Chisinau.md) 
-- [Chisinau.internal](../../../../../../_internal/geo/Continent/Europe/Moldova/City/Chisinau.internal.md) 
-- [Chisinau.protect](../../../../../../_protect/geo/Continent/Europe/Moldova/City/Chisinau.protect.md) 
-- [Chisinau.private](../../../../../../_private/geo/Continent/Europe/Moldova/City/Chisinau.private.md) 
-- [Chisinau.personal](../../../../../../_personal/geo/Continent/Europe/Moldova/City/Chisinau.personal.md) 
-- [Chisinau.secret](../../../../../../_secret/geo/Continent/Europe/Moldova/City/Chisinau.secret.md) 

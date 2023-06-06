@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strond](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Strond.md) 
-- [Strond.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Strond.internal.md) 
-- [Strond.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Strond.protect.md) 
-- [Strond.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Strond.private.md) 
-- [Strond.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Strond.personal.md) 
-- [Strond.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Strond.secret.md) 

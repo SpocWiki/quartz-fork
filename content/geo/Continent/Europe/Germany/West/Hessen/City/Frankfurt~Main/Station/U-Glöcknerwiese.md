@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Glöcknerwiese](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gl%C3%B6cknerwiese.md) 
-- [U-Glöcknerwiese.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gl%C3%B6cknerwiese.internal.md) 
-- [U-Glöcknerwiese.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gl%C3%B6cknerwiese.protect.md) 
-- [U-Glöcknerwiese.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gl%C3%B6cknerwiese.private.md) 
-- [U-Glöcknerwiese.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gl%C3%B6cknerwiese.personal.md) 
-- [U-Glöcknerwiese.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gl%C3%B6cknerwiese.secret.md) 

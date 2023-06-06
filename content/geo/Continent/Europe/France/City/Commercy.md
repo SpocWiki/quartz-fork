@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Commercy](../../../../../../_public/geo/Continent/Europe/France/City/Commercy.md) 
-- [Commercy.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Commercy.internal.md) 
-- [Commercy.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Commercy.protect.md) 
-- [Commercy.private](../../../../../../_private/geo/Continent/Europe/France/City/Commercy.private.md) 
-- [Commercy.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Commercy.personal.md) 
-- [Commercy.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Commercy.secret.md) 

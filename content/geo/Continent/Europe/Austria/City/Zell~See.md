@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zell~See](../../../../../../_public/geo/Continent/Europe/Austria/City/Zell~See.md) 
-- [Zell~See.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Zell~See.internal.md) 
-- [Zell~See.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Zell~See.protect.md) 
-- [Zell~See.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Zell~See.private.md) 
-- [Zell~See.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Zell~See.personal.md) 
-- [Zell~See.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Zell~See.secret.md) 

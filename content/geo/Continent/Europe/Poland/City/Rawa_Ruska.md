@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rawa_Ruska](../../../../../../_public/geo/Continent/Europe/Poland/City/Rawa_Ruska.md) 
-- [Rawa_Ruska.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rawa_Ruska.internal.md) 
-- [Rawa_Ruska.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rawa_Ruska.protect.md) 
-- [Rawa_Ruska.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rawa_Ruska.private.md) 
-- [Rawa_Ruska.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rawa_Ruska.personal.md) 
-- [Rawa_Ruska.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rawa_Ruska.secret.md) 

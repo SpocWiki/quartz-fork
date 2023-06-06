@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hornburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hornburg.md) 
-- [Hornburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hornburg.internal.md) 
-- [Hornburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hornburg.protect.md) 
-- [Hornburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hornburg.private.md) 
-- [Hornburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hornburg.personal.md) 
-- [Hornburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hornburg.secret.md) 

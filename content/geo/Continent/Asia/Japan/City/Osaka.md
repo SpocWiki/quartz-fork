@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Osaka](../../../../../../_public/geo/Continent/Asia/Japan/City/Osaka.md) 
-- [Osaka.internal](../../../../../../_internal/geo/Continent/Asia/Japan/City/Osaka.internal.md) 
-- [Osaka.protect](../../../../../../_protect/geo/Continent/Asia/Japan/City/Osaka.protect.md) 
-- [Osaka.private](../../../../../../_private/geo/Continent/Asia/Japan/City/Osaka.private.md) 
-- [Osaka.personal](../../../../../../_personal/geo/Continent/Asia/Japan/City/Osaka.personal.md) 
-- [Osaka.secret](../../../../../../_secret/geo/Continent/Asia/Japan/City/Osaka.secret.md) 

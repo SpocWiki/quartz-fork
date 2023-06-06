@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kungshalmen](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kungshalmen.md) 
-- [Kungshalmen.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kungshalmen.internal.md) 
-- [Kungshalmen.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kungshalmen.protect.md) 
-- [Kungshalmen.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kungshalmen.private.md) 
-- [Kungshalmen.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kungshalmen.personal.md) 
-- [Kungshalmen.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kungshalmen.secret.md) 

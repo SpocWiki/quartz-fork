@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Virton](../../../../../../_public/geo/Continent/Europe/Belgium/City/Virton.md) 
-- [Virton.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Virton.internal.md) 
-- [Virton.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Virton.protect.md) 
-- [Virton.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Virton.private.md) 
-- [Virton.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Virton.personal.md) 
-- [Virton.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Virton.secret.md) 

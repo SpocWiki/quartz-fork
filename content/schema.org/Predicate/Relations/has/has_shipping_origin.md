@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_shipping_origin](../../../../../_public/schema.org/Predicate/Relations/has/has_shipping_origin.md) 
-- [has_shipping_origin.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_shipping_origin.internal.md) 
-- [has_shipping_origin.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_shipping_origin.protect.md) 
-- [has_shipping_origin.private](../../../../../_private/schema.org/Predicate/Relations/has/has_shipping_origin.private.md) 
-- [has_shipping_origin.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_shipping_origin.personal.md) 
-- [has_shipping_origin.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_shipping_origin.secret.md) 

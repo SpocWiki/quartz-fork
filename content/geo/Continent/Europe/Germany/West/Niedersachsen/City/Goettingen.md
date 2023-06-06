@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goettingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goettingen.md) 
-- [Goettingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goettingen.internal.md) 
-- [Goettingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goettingen.protect.md) 
-- [Goettingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goettingen.private.md) 
-- [Goettingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goettingen.personal.md) 
-- [Goettingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goettingen.secret.md) 

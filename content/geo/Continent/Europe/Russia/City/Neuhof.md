@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuhof](../../../../../../_public/geo/Continent/Europe/Russia/City/Neuhof.md) 
-- [Neuhof.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Neuhof.internal.md) 
-- [Neuhof.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Neuhof.protect.md) 
-- [Neuhof.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Neuhof.private.md) 
-- [Neuhof.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Neuhof.personal.md) 
-- [Neuhof.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Neuhof.secret.md) 

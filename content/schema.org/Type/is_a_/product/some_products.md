@@ -43,10 +43,3 @@ A placeholder for multiple similar products of the same kind.
 
 
 
-## Confidential Links & Embeds: 
-- [some_products](../../../../../_public/schema.org/Type/is_a_/product/some_products.md) 
-- [some_products.internal](../../../../../_internal/schema.org/Type/is_a_/product/some_products.internal.md) 
-- [some_products.protect](../../../../../_protect/schema.org/Type/is_a_/product/some_products.protect.md) 
-- [some_products.private](../../../../../_private/schema.org/Type/is_a_/product/some_products.private.md) 
-- [some_products.personal](../../../../../_personal/schema.org/Type/is_a_/product/some_products.personal.md) 
-- [some_products.secret](../../../../../_secret/schema.org/Type/is_a_/product/some_products.secret.md) 

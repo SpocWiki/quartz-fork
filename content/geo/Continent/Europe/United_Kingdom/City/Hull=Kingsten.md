@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hull=Kingsten](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.md) 
-- [Hull=Kingsten.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.internal.md) 
-- [Hull=Kingsten.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.protect.md) 
-- [Hull=Kingsten.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.private.md) 
-- [Hull=Kingsten.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.personal.md) 
-- [Hull=Kingsten.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hull=Kingsten.secret.md) 

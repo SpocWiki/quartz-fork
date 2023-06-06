@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Steyr](../../../../../../_public/geo/Continent/Europe/Austria/City/Steyr.md) 
-- [Steyr.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Steyr.internal.md) 
-- [Steyr.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Steyr.protect.md) 
-- [Steyr.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Steyr.private.md) 
-- [Steyr.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Steyr.personal.md) 
-- [Steyr.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Steyr.secret.md) 

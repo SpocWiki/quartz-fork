@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Magadan_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Magadan_Oblast.md) 
-- [State-Magadan_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Magadan_Oblast.internal.md) 
-- [State-Magadan_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Magadan_Oblast.protect.md) 
-- [State-Magadan_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Magadan_Oblast.private.md) 
-- [State-Magadan_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Magadan_Oblast.personal.md) 
-- [State-Magadan_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Magadan_Oblast.secret.md) 

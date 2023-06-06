@@ -43,10 +43,3 @@ An indication for preventing an underlying condition, symptom, etc.
 
 
 
-## Confidential Links & Embeds: 
-- [prevention_indication](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.md) 
-- [prevention_indication.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.internal.md) 
-- [prevention_indication.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.protect.md) 
-- [prevention_indication.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.private.md) 
-- [prevention_indication.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.personal.md) 
-- [prevention_indication.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.secret.md) 

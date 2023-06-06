@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grado](../../../../../../_public/geo/Continent/Europe/Italy/City/Grado.md) 
-- [Grado.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Grado.internal.md) 
-- [Grado.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Grado.protect.md) 
-- [Grado.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Grado.private.md) 
-- [Grado.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Grado.personal.md) 
-- [Grado.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Grado.secret.md) 

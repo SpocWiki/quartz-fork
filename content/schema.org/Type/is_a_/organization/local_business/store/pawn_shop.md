@@ -43,10 +43,3 @@ A shop that will buy, or lend money against the security of, personal possession
 
 
 
-## Confidential Links & Embeds: 
-- [pawn_shop](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/pawn_shop.md) 
-- [pawn_shop.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/pawn_shop.internal.md) 
-- [pawn_shop.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/pawn_shop.protect.md) 
-- [pawn_shop.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/pawn_shop.private.md) 
-- [pawn_shop.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/pawn_shop.personal.md) 
-- [pawn_shop.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/pawn_shop.secret.md) 

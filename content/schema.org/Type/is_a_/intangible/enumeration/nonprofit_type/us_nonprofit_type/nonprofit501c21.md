@@ -47,10 +47,3 @@ Nonprofit501c21: Non-profit type referring to Black Lung Benefit Trusts.
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c21](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.md) 
-- [nonprofit501c21.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.internal.md) 
-- [nonprofit501c21.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.protect.md) 
-- [nonprofit501c21.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.private.md) 
-- [nonprofit501c21.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.personal.md) 
-- [nonprofit501c21.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c21.secret.md) 

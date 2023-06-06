@@ -19,10 +19,3 @@ title: Triz-Intensity+Inversion-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Inversion-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Inversion-Reliability.md) 
-- [Triz-Intensity+Inversion-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Inversion-Reliability.internal.md) 
-- [Triz-Intensity+Inversion-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Inversion-Reliability.protect.md) 
-- [Triz-Intensity+Inversion-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Inversion-Reliability.private.md) 
-- [Triz-Intensity+Inversion-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Inversion-Reliability.personal.md) 
-- [Triz-Intensity+Inversion-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Inversion-Reliability.secret.md) 

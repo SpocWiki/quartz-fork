@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mifoli](../../../../../../_public/geo/Continent/Europe/Albania/City/Mifoli.md) 
-- [Mifoli.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Mifoli.internal.md) 
-- [Mifoli.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Mifoli.protect.md) 
-- [Mifoli.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Mifoli.private.md) 
-- [Mifoli.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Mifoli.personal.md) 
-- [Mifoli.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Mifoli.secret.md) 

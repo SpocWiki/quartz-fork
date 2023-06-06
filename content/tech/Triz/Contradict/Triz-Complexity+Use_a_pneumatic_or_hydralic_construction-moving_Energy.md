@@ -19,10 +19,3 @@ title: Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.md) 
-- [Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.internal.md) 
-- [Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.protect.md) 
-- [Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.private.md) 
-- [Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.personal.md) 
-- [Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Use_a_pneumatic_or_hydralic_construction-moving_Energy.secret.md) 

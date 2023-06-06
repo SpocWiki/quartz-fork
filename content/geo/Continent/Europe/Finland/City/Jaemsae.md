@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jaemsae](../../../../../../_public/geo/Continent/Europe/Finland/City/Jaemsae.md) 
-- [Jaemsae.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Jaemsae.internal.md) 
-- [Jaemsae.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Jaemsae.protect.md) 
-- [Jaemsae.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Jaemsae.private.md) 
-- [Jaemsae.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Jaemsae.personal.md) 
-- [Jaemsae.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Jaemsae.secret.md) 

@@ -45,10 +45,3 @@ OrderStatus representing cancellation of an order.
 
 
 
-## Confidential Links & Embeds: 
-- [order_cancelled](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_cancelled.md) 
-- [order_cancelled.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_cancelled.internal.md) 
-- [order_cancelled.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_cancelled.protect.md) 
-- [order_cancelled.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_cancelled.private.md) 
-- [order_cancelled.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_cancelled.personal.md) 
-- [order_cancelled.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_cancelled.secret.md) 

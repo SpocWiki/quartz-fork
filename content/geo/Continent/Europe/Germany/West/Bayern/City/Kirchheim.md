@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirchheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kirchheim.md) 
-- [Kirchheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kirchheim.internal.md) 
-- [Kirchheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kirchheim.protect.md) 
-- [Kirchheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kirchheim.private.md) 
-- [Kirchheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kirchheim.personal.md) 
-- [Kirchheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kirchheim.secret.md) 

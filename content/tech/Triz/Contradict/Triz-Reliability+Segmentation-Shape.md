@@ -19,10 +19,3 @@ title: Triz-Reliability+Segmentation-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Segmentation-Shape](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.md) 
-- [Triz-Reliability+Segmentation-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.internal.md) 
-- [Triz-Reliability+Segmentation-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.protect.md) 
-- [Triz-Reliability+Segmentation-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.private.md) 
-- [Triz-Reliability+Segmentation-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.personal.md) 
-- [Triz-Reliability+Segmentation-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Segmentation-Shape.secret.md) 

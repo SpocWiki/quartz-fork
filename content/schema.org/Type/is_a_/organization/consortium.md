@@ -45,10 +45,3 @@ A Consortium is a membership <a class="localLink" href="/Organization">Organizat
 
 
 
-## Confidential Links & Embeds: 
-- [consortium](../../../../../_public/schema.org/Type/is_a_/organization/consortium.md) 
-- [consortium.internal](../../../../../_internal/schema.org/Type/is_a_/organization/consortium.internal.md) 
-- [consortium.protect](../../../../../_protect/schema.org/Type/is_a_/organization/consortium.protect.md) 
-- [consortium.private](../../../../../_private/schema.org/Type/is_a_/organization/consortium.private.md) 
-- [consortium.personal](../../../../../_personal/schema.org/Type/is_a_/organization/consortium.personal.md) 
-- [consortium.secret](../../../../../_secret/schema.org/Type/is_a_/organization/consortium.secret.md) 

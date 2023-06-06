@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cuxhafen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cuxhafen.md) 
-- [Cuxhafen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cuxhafen.internal.md) 
-- [Cuxhafen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cuxhafen.protect.md) 
-- [Cuxhafen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cuxhafen.private.md) 
-- [Cuxhafen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cuxhafen.personal.md) 
-- [Cuxhafen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cuxhafen.secret.md) 

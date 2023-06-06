@@ -45,10 +45,3 @@ A church.
 
 
 
-## Confidential Links & Embeds: 
-- [church](../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.md) 
-- [church.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.internal.md) 
-- [church.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.protect.md) 
-- [church.private](../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.private.md) 
-- [church.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.personal.md) 
-- [church.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.secret.md) 

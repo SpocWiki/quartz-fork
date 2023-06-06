@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mainburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Mainburg.md) 
-- [Mainburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mainburg.internal.md) 
-- [Mainburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mainburg.protect.md) 
-- [Mainburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mainburg.private.md) 
-- [Mainburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Mainburg.personal.md) 
-- [Mainburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Mainburg.secret.md) 

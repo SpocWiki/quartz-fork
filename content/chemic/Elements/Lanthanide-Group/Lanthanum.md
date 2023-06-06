@@ -37,10 +37,3 @@ title: Lanthanum
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lanthanum)
 
-## Confidential Links & Embeds: 
-- [Lanthanum](../../../../_public/chemic/Elements/Lanthanide-Group/Lanthanum.md) 
-- [Lanthanum.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Lanthanum.internal.md) 
-- [Lanthanum.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Lanthanum.protect.md) 
-- [Lanthanum.private](../../../../_private/chemic/Elements/Lanthanide-Group/Lanthanum.private.md) 
-- [Lanthanum.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Lanthanum.personal.md) 
-- [Lanthanum.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Lanthanum.secret.md) 

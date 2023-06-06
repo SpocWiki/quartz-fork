@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altdamm](../../../../../../_public/geo/Continent/Europe/Poland/City/Altdamm.md) 
-- [Altdamm.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Altdamm.internal.md) 
-- [Altdamm.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Altdamm.protect.md) 
-- [Altdamm.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Altdamm.private.md) 
-- [Altdamm.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Altdamm.personal.md) 
-- [Altdamm.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Altdamm.secret.md) 

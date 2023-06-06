@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wittmund](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittmund.md) 
-- [Wittmund.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittmund.internal.md) 
-- [Wittmund.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittmund.protect.md) 
-- [Wittmund.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittmund.private.md) 
-- [Wittmund.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittmund.personal.md) 
-- [Wittmund.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittmund.secret.md) 

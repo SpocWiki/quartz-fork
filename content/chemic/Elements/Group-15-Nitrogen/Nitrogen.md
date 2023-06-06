@@ -39,10 +39,3 @@ title: Nitrogen
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitrogen)
 
-## Confidential Links & Embeds: 
-- [Nitrogen](../../../../_public/chemic/Elements/Group-15-Nitrogen/Nitrogen.md) 
-- [Nitrogen.internal](../../../../_internal/chemic/Elements/Group-15-Nitrogen/Nitrogen.internal.md) 
-- [Nitrogen.protect](../../../../_protect/chemic/Elements/Group-15-Nitrogen/Nitrogen.protect.md) 
-- [Nitrogen.private](../../../../_private/chemic/Elements/Group-15-Nitrogen/Nitrogen.private.md) 
-- [Nitrogen.personal](../../../../_personal/chemic/Elements/Group-15-Nitrogen/Nitrogen.personal.md) 
-- [Nitrogen.secret](../../../../_secret/chemic/Elements/Group-15-Nitrogen/Nitrogen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zasy](../../../../../../_public/geo/Continent/Europe/Russia/City/Zasy.md) 
-- [Zasy.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zasy.internal.md) 
-- [Zasy.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zasy.protect.md) 
-- [Zasy.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zasy.private.md) 
-- [Zasy.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zasy.personal.md) 
-- [Zasy.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zasy.secret.md) 

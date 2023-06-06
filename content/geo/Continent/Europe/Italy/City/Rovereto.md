@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rovereto](../../../../../../_public/geo/Continent/Europe/Italy/City/Rovereto.md) 
-- [Rovereto.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovereto.internal.md) 
-- [Rovereto.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovereto.protect.md) 
-- [Rovereto.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Rovereto.private.md) 
-- [Rovereto.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovereto.personal.md) 
-- [Rovereto.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovereto.secret.md) 

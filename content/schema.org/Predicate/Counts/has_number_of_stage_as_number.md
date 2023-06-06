@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_stage_as_number](../../../../_public/schema.org/Predicate/Counts/has_number_of_stage_as_number.md) 
-- [has_number_of_stage_as_number.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_stage_as_number.internal.md) 
-- [has_number_of_stage_as_number.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_stage_as_number.protect.md) 
-- [has_number_of_stage_as_number.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_stage_as_number.private.md) 
-- [has_number_of_stage_as_number.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_stage_as_number.personal.md) 
-- [has_number_of_stage_as_number.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_stage_as_number.secret.md) 

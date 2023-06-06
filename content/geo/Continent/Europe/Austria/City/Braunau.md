@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Braunau](../../../../../../_public/geo/Continent/Europe/Austria/City/Braunau.md) 
-- [Braunau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Braunau.internal.md) 
-- [Braunau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Braunau.protect.md) 
-- [Braunau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Braunau.private.md) 
-- [Braunau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Braunau.personal.md) 
-- [Braunau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Braunau.secret.md) 

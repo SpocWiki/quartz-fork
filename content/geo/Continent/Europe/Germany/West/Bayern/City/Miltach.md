@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Miltach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Miltach.md) 
-- [Miltach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Miltach.internal.md) 
-- [Miltach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Miltach.protect.md) 
-- [Miltach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Miltach.private.md) 
-- [Miltach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Miltach.personal.md) 
-- [Miltach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Miltach.secret.md) 

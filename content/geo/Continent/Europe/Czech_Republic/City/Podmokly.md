@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Podmokly](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Podmokly.md) 
-- [Podmokly.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Podmokly.internal.md) 
-- [Podmokly.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Podmokly.protect.md) 
-- [Podmokly.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Podmokly.private.md) 
-- [Podmokly.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Podmokly.personal.md) 
-- [Podmokly.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Podmokly.secret.md) 

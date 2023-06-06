@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yarm](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Yarm.md) 
-- [Yarm.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Yarm.internal.md) 
-- [Yarm.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Yarm.protect.md) 
-- [Yarm.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Yarm.private.md) 
-- [Yarm.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Yarm.personal.md) 
-- [Yarm.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Yarm.secret.md) 

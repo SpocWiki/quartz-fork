@@ -47,10 +47,3 @@ Nonprofit501c7: Non-profit type referring to Social and Recreational Clubs.
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c7](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.md) 
-- [nonprofit501c7.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.internal.md) 
-- [nonprofit501c7.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.protect.md) 
-- [nonprofit501c7.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.private.md) 
-- [nonprofit501c7.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.personal.md) 
-- [nonprofit501c7.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.secret.md) 

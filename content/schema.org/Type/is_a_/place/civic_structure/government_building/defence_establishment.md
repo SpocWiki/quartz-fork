@@ -43,10 +43,3 @@ A defence establishment, such as an army or navy base.
 
 
 
-## Confidential Links & Embeds: 
-- [defence_establishment](../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/government_building/defence_establishment.md) 
-- [defence_establishment.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/government_building/defence_establishment.internal.md) 
-- [defence_establishment.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/government_building/defence_establishment.protect.md) 
-- [defence_establishment.private](../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/government_building/defence_establishment.private.md) 
-- [defence_establishment.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/government_building/defence_establishment.personal.md) 
-- [defence_establishment.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/government_building/defence_establishment.secret.md) 

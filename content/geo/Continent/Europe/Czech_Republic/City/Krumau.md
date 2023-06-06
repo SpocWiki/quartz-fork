@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krumau](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Krumau.md) 
-- [Krumau.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krumau.internal.md) 
-- [Krumau.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krumau.protect.md) 
-- [Krumau.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krumau.private.md) 
-- [Krumau.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krumau.personal.md) 
-- [Krumau.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krumau.secret.md) 

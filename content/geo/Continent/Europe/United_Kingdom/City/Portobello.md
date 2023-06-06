@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Portobello](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Portobello.md) 
-- [Portobello.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Portobello.internal.md) 
-- [Portobello.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Portobello.protect.md) 
-- [Portobello.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Portobello.private.md) 
-- [Portobello.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Portobello.personal.md) 
-- [Portobello.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Portobello.secret.md) 

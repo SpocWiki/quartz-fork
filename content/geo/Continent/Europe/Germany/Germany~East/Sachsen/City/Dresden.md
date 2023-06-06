@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dresden](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dresden.md) 
-- [Dresden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dresden.internal.md) 
-- [Dresden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dresden.protect.md) 
-- [Dresden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dresden.private.md) 
-- [Dresden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dresden.personal.md) 
-- [Dresden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dresden.secret.md) 

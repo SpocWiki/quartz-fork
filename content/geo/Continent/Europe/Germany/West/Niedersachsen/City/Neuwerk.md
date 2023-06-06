@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuwerk](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuwerk.md) 
-- [Neuwerk.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuwerk.internal.md) 
-- [Neuwerk.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuwerk.protect.md) 
-- [Neuwerk.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuwerk.private.md) 
-- [Neuwerk.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuwerk.personal.md) 
-- [Neuwerk.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuwerk.secret.md) 

@@ -43,10 +43,3 @@ A bakery.
 
 
 
-## Confidential Links & Embeds: 
-- [bakery](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/bakery.md) 
-- [bakery.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/bakery.internal.md) 
-- [bakery.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/bakery.protect.md) 
-- [bakery.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/bakery.private.md) 
-- [bakery.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/bakery.personal.md) 
-- [bakery.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/bakery.secret.md) 

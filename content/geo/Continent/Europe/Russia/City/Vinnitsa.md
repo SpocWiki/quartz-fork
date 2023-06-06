@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vinnitsa](../../../../../../_public/geo/Continent/Europe/Russia/City/Vinnitsa.md) 
-- [Vinnitsa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vinnitsa.internal.md) 
-- [Vinnitsa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vinnitsa.protect.md) 
-- [Vinnitsa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vinnitsa.private.md) 
-- [Vinnitsa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vinnitsa.personal.md) 
-- [Vinnitsa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vinnitsa.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abagaitul](../../../../../../_public/geo/Continent/Asia/China/City/Abagaitul.md) 
-- [Abagaitul.internal](../../../../../../_internal/geo/Continent/Asia/China/City/Abagaitul.internal.md) 
-- [Abagaitul.protect](../../../../../../_protect/geo/Continent/Asia/China/City/Abagaitul.protect.md) 
-- [Abagaitul.private](../../../../../../_private/geo/Continent/Asia/China/City/Abagaitul.private.md) 
-- [Abagaitul.personal](../../../../../../_personal/geo/Continent/Asia/China/City/Abagaitul.personal.md) 
-- [Abagaitul.secret](../../../../../../_secret/geo/Continent/Asia/China/City/Abagaitul.secret.md) 

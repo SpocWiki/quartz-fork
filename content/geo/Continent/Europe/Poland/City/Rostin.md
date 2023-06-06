@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rostin](../../../../../../_public/geo/Continent/Europe/Poland/City/Rostin.md) 
-- [Rostin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rostin.internal.md) 
-- [Rostin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rostin.protect.md) 
-- [Rostin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rostin.private.md) 
-- [Rostin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rostin.personal.md) 
-- [Rostin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rostin.secret.md) 

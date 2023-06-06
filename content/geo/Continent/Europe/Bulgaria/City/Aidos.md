@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aidos](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Aidos.md) 
-- [Aidos.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Aidos.internal.md) 
-- [Aidos.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Aidos.protect.md) 
-- [Aidos.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Aidos.private.md) 
-- [Aidos.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Aidos.personal.md) 
-- [Aidos.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Aidos.secret.md) 

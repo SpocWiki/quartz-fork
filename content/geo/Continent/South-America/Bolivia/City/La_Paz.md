@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [La_Paz](../../../../../../_public/geo/Continent/South-America/Bolivia/City/La_Paz.md) 
-- [La_Paz.internal](../../../../../../_internal/geo/Continent/South-America/Bolivia/City/La_Paz.internal.md) 
-- [La_Paz.protect](../../../../../../_protect/geo/Continent/South-America/Bolivia/City/La_Paz.protect.md) 
-- [La_Paz.private](../../../../../../_private/geo/Continent/South-America/Bolivia/City/La_Paz.private.md) 
-- [La_Paz.personal](../../../../../../_personal/geo/Continent/South-America/Bolivia/City/La_Paz.personal.md) 
-- [La_Paz.secret](../../../../../../_secret/geo/Continent/South-America/Bolivia/City/La_Paz.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alais](../../../../../../_public/geo/Continent/Europe/France/City/Alais.md) 
-- [Alais.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Alais.internal.md) 
-- [Alais.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Alais.protect.md) 
-- [Alais.private](../../../../../../_private/geo/Continent/Europe/France/City/Alais.private.md) 
-- [Alais.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Alais.personal.md) 
-- [Alais.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Alais.secret.md) 

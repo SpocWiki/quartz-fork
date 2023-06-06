@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orel](../../../../../../_public/geo/Continent/Europe/Russia/City/Orel.md) 
-- [Orel.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Orel.internal.md) 
-- [Orel.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Orel.protect.md) 
-- [Orel.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Orel.private.md) 
-- [Orel.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Orel.personal.md) 
-- [Orel.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Orel.secret.md) 

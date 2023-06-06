@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pappenheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Pappenheim.md) 
-- [Pappenheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pappenheim.internal.md) 
-- [Pappenheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pappenheim.protect.md) 
-- [Pappenheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pappenheim.private.md) 
-- [Pappenheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pappenheim.personal.md) 
-- [Pappenheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pappenheim.secret.md) 

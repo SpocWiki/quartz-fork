@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lyme_Regio](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lyme_Regio.md) 
-- [Lyme_Regio.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lyme_Regio.internal.md) 
-- [Lyme_Regio.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lyme_Regio.protect.md) 
-- [Lyme_Regio.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lyme_Regio.private.md) 
-- [Lyme_Regio.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lyme_Regio.personal.md) 
-- [Lyme_Regio.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lyme_Regio.secret.md) 

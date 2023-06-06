@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teisko](../../../../../../_public/geo/Continent/Europe/Finland/City/Teisko.md) 
-- [Teisko.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Teisko.internal.md) 
-- [Teisko.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Teisko.protect.md) 
-- [Teisko.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Teisko.private.md) 
-- [Teisko.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Teisko.personal.md) 
-- [Teisko.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Teisko.secret.md) 

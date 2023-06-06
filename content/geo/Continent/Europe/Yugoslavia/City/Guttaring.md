@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guttaring](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Guttaring.md) 
-- [Guttaring.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Guttaring.internal.md) 
-- [Guttaring.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Guttaring.protect.md) 
-- [Guttaring.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Guttaring.private.md) 
-- [Guttaring.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Guttaring.personal.md) 
-- [Guttaring.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Guttaring.secret.md) 

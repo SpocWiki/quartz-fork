@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Bellatrix](../../../_public/astro/Star/Bellatrix.md) 
-- [Bellatrix.internal](../../../_internal/astro/Star/Bellatrix.internal.md) 
-- [Bellatrix.protect](../../../_protect/astro/Star/Bellatrix.protect.md) 
-- [Bellatrix.private](../../../_private/astro/Star/Bellatrix.private.md) 
-- [Bellatrix.personal](../../../_personal/astro/Star/Bellatrix.personal.md) 
-- [Bellatrix.secret](../../../_secret/astro/Star/Bellatrix.secret.md)
-

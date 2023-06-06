@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Staw](../../../../../../_public/geo/Continent/Europe/Poland/City/Staw.md) 
-- [Staw.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Staw.internal.md) 
-- [Staw.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Staw.protect.md) 
-- [Staw.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Staw.private.md) 
-- [Staw.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Staw.personal.md) 
-- [Staw.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Staw.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hohensolms](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.md) 
-- [Hohensolms.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.internal.md) 
-- [Hohensolms.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.protect.md) 
-- [Hohensolms.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.private.md) 
-- [Hohensolms.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.personal.md) 
-- [Hohensolms.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hohensolms.secret.md) 

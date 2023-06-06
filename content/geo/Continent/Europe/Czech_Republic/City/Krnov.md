@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krnov](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Krnov.md) 
-- [Krnov.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krnov.internal.md) 
-- [Krnov.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krnov.protect.md) 
-- [Krnov.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krnov.private.md) 
-- [Krnov.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krnov.personal.md) 
-- [Krnov.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krnov.secret.md) 

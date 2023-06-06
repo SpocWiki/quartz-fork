@@ -41,10 +41,3 @@ title: Silicon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silicon)
 
-## Confidential Links & Embeds: 
-- [Silicon](../../../../_public/chemic/Elements/Group-14-Carbon/Silicon.md) 
-- [Silicon.internal](../../../../_internal/chemic/Elements/Group-14-Carbon/Silicon.internal.md) 
-- [Silicon.protect](../../../../_protect/chemic/Elements/Group-14-Carbon/Silicon.protect.md) 
-- [Silicon.private](../../../../_private/chemic/Elements/Group-14-Carbon/Silicon.private.md) 
-- [Silicon.personal](../../../../_personal/chemic/Elements/Group-14-Carbon/Silicon.personal.md) 
-- [Silicon.secret](../../../../_secret/chemic/Elements/Group-14-Carbon/Silicon.secret.md) 

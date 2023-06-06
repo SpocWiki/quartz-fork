@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karlshuld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Karlshuld.md) 
-- [Karlshuld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Karlshuld.internal.md) 
-- [Karlshuld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Karlshuld.protect.md) 
-- [Karlshuld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Karlshuld.private.md) 
-- [Karlshuld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Karlshuld.personal.md) 
-- [Karlshuld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Karlshuld.secret.md) 

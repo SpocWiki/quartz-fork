@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Zubeneschemali](../../../_public/astro/Star/Zubeneschemali.md) 
-- [Zubeneschemali.internal](../../../_internal/astro/Star/Zubeneschemali.internal.md) 
-- [Zubeneschemali.protect](../../../_protect/astro/Star/Zubeneschemali.protect.md) 
-- [Zubeneschemali.private](../../../_private/astro/Star/Zubeneschemali.private.md) 
-- [Zubeneschemali.personal](../../../_personal/astro/Star/Zubeneschemali.personal.md) 
-- [Zubeneschemali.secret](../../../_secret/astro/Star/Zubeneschemali.secret.md) 

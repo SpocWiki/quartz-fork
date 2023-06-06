@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berezof](../../../../../../_public/geo/Continent/Europe/Russia/City/Berezof.md) 
-- [Berezof.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Berezof.internal.md) 
-- [Berezof.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Berezof.protect.md) 
-- [Berezof.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Berezof.private.md) 
-- [Berezof.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Berezof.personal.md) 
-- [Berezof.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Berezof.secret.md) 

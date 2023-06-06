@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nowocherkassk](../../../../../../_public/geo/Continent/Europe/Russia/City/Nowocherkassk.md) 
-- [Nowocherkassk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowocherkassk.internal.md) 
-- [Nowocherkassk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowocherkassk.protect.md) 
-- [Nowocherkassk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nowocherkassk.private.md) 
-- [Nowocherkassk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowocherkassk.personal.md) 
-- [Nowocherkassk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowocherkassk.secret.md) 

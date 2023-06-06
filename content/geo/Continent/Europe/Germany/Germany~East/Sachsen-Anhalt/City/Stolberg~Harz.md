@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stolberg~Harz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Stolberg~Harz.md) 
-- [Stolberg~Harz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Stolberg~Harz.internal.md) 
-- [Stolberg~Harz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Stolberg~Harz.protect.md) 
-- [Stolberg~Harz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Stolberg~Harz.private.md) 
-- [Stolberg~Harz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Stolberg~Harz.personal.md) 
-- [Stolberg~Harz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Stolberg~Harz.secret.md) 

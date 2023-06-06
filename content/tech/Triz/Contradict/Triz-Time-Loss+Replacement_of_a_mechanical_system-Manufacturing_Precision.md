@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.internal.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.protect.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.private.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.personal.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Manufacturing_Precision.secret.md) 

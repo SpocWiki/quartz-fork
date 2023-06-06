@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Forbach](../../../../../../_public/geo/Continent/Europe/France/City/Forbach.md) 
-- [Forbach.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Forbach.internal.md) 
-- [Forbach.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Forbach.protect.md) 
-- [Forbach.private](../../../../../../_private/geo/Continent/Europe/France/City/Forbach.private.md) 
-- [Forbach.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Forbach.personal.md) 
-- [Forbach.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Forbach.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Piotrkow](../../../../../../_public/geo/Continent/Europe/Poland/City/Piotrkow.md) 
-- [Piotrkow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Piotrkow.internal.md) 
-- [Piotrkow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Piotrkow.protect.md) 
-- [Piotrkow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Piotrkow.private.md) 
-- [Piotrkow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Piotrkow.personal.md) 
-- [Piotrkow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Piotrkow.secret.md) 

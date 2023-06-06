@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Colmar](../../../../../../_public/geo/Continent/Europe/France/City/Colmar.md) 
-- [Colmar.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Colmar.internal.md) 
-- [Colmar.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Colmar.protect.md) 
-- [Colmar.private](../../../../../../_private/geo/Continent/Europe/France/City/Colmar.private.md) 
-- [Colmar.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Colmar.personal.md) 
-- [Colmar.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Colmar.secret.md) 

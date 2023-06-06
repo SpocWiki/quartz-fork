@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_item_shipped](../../../../../_public/schema.org/Predicate/Relations/has/has_item_shipped.md) 
-- [has_item_shipped.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_item_shipped.internal.md) 
-- [has_item_shipped.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_item_shipped.protect.md) 
-- [has_item_shipped.private](../../../../../_private/schema.org/Predicate/Relations/has/has_item_shipped.private.md) 
-- [has_item_shipped.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_item_shipped.personal.md) 
-- [has_item_shipped.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_item_shipped.secret.md) 

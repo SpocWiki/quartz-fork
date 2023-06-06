@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_artist](../../../../../_public/schema.org/Predicate/Relations/has/has_artist.md) 
-- [has_artist.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_artist.internal.md) 
-- [has_artist.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_artist.protect.md) 
-- [has_artist.private](../../../../../_private/schema.org/Predicate/Relations/has/has_artist.private.md) 
-- [has_artist.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_artist.personal.md) 
-- [has_artist.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_artist.secret.md) 

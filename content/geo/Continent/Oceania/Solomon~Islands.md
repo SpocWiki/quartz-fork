@@ -127,10 +127,3 @@ markerFolder: ./Solomon_Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [Solomon~Islands](../../../../_public/geo/Continent/Oceania/Solomon~Islands.md) 
-- [Solomon~Islands.internal](../../../../_internal/geo/Continent/Oceania/Solomon~Islands.internal.md) 
-- [Solomon~Islands.protect](../../../../_protect/geo/Continent/Oceania/Solomon~Islands.protect.md) 
-- [Solomon~Islands.private](../../../../_private/geo/Continent/Oceania/Solomon~Islands.private.md) 
-- [Solomon~Islands.personal](../../../../_personal/geo/Continent/Oceania/Solomon~Islands.personal.md) 
-- [Solomon~Islands.secret](../../../../_secret/geo/Continent/Oceania/Solomon~Islands.secret.md) 

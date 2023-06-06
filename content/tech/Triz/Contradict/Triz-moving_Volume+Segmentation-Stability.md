@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Segmentation-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Segmentation-Stability](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Stability.md) 
-- [Triz-moving_Volume+Segmentation-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Stability.internal.md) 
-- [Triz-moving_Volume+Segmentation-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Stability.protect.md) 
-- [Triz-moving_Volume+Segmentation-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Stability.private.md) 
-- [Triz-moving_Volume+Segmentation-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Stability.personal.md) 
-- [Triz-moving_Volume+Segmentation-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Stability.secret.md) 

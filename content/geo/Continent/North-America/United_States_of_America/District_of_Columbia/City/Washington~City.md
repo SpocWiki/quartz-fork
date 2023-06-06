@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Washington~City](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.md) 
-- [Washington~City.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.internal.md) 
-- [Washington~City.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.protect.md) 
-- [Washington~City.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.private.md) 
-- [Washington~City.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.personal.md) 
-- [Washington~City.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/District_of_Columbia/City/Washington~City.secret.md) 

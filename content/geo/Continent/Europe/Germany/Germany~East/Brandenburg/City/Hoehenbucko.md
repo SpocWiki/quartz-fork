@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoehenbucko](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.md) 
-- [Hoehenbucko.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.internal.md) 
-- [Hoehenbucko.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.protect.md) 
-- [Hoehenbucko.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.private.md) 
-- [Hoehenbucko.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.personal.md) 
-- [Hoehenbucko.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hoehenbucko.secret.md) 

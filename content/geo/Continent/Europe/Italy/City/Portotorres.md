@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Portotorres](../../../../../../_public/geo/Continent/Europe/Italy/City/Portotorres.md) 
-- [Portotorres.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Portotorres.internal.md) 
-- [Portotorres.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Portotorres.protect.md) 
-- [Portotorres.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Portotorres.private.md) 
-- [Portotorres.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Portotorres.personal.md) 
-- [Portotorres.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Portotorres.secret.md) 

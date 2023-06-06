@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lanark](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.md) 
-- [Lanark.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.internal.md) 
-- [Lanark.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.protect.md) 
-- [Lanark.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.private.md) 
-- [Lanark.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.personal.md) 
-- [Lanark.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Lanark.secret.md) 

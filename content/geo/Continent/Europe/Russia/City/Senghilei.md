@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Senghilei](../../../../../../_public/geo/Continent/Europe/Russia/City/Senghilei.md) 
-- [Senghilei.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Senghilei.internal.md) 
-- [Senghilei.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Senghilei.protect.md) 
-- [Senghilei.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Senghilei.private.md) 
-- [Senghilei.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Senghilei.personal.md) 
-- [Senghilei.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Senghilei.secret.md) 

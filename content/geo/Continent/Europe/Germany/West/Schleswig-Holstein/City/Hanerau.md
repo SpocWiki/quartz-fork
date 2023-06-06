@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hanerau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hanerau.md) 
-- [Hanerau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hanerau.internal.md) 
-- [Hanerau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hanerau.protect.md) 
-- [Hanerau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hanerau.private.md) 
-- [Hanerau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hanerau.personal.md) 
-- [Hanerau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hanerau.secret.md) 

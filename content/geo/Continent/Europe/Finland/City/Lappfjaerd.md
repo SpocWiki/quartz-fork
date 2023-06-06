@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lappfjaerd](../../../../../../_public/geo/Continent/Europe/Finland/City/Lappfjaerd.md) 
-- [Lappfjaerd.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Lappfjaerd.internal.md) 
-- [Lappfjaerd.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Lappfjaerd.protect.md) 
-- [Lappfjaerd.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Lappfjaerd.private.md) 
-- [Lappfjaerd.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Lappfjaerd.personal.md) 
-- [Lappfjaerd.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Lappfjaerd.secret.md) 

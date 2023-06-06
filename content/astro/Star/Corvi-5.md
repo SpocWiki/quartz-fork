@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Corvi-5](../../../_public/astro/Star/Corvi-5.md) 
-- [Corvi-5.internal](../../../_internal/astro/Star/Corvi-5.internal.md) 
-- [Corvi-5.protect](../../../_protect/astro/Star/Corvi-5.protect.md) 
-- [Corvi-5.private](../../../_private/astro/Star/Corvi-5.private.md) 
-- [Corvi-5.personal](../../../_personal/astro/Star/Corvi-5.personal.md) 
-- [Corvi-5.secret](../../../_secret/astro/Star/Corvi-5.secret.md)
-

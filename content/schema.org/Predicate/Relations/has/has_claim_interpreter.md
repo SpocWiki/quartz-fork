@@ -45,10 +45,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_claim_interpreter](../../../../../_public/schema.org/Predicate/Relations/has/has_claim_interpreter.md) 
-- [has_claim_interpreter.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_claim_interpreter.internal.md) 
-- [has_claim_interpreter.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_claim_interpreter.protect.md) 
-- [has_claim_interpreter.private](../../../../../_private/schema.org/Predicate/Relations/has/has_claim_interpreter.private.md) 
-- [has_claim_interpreter.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_claim_interpreter.personal.md) 
-- [has_claim_interpreter.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_claim_interpreter.secret.md) 

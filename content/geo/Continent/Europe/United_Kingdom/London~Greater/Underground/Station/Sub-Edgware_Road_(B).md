@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Edgware_Road_(B)](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(B).md) 
-- [Sub-Edgware_Road_(B).internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(B).internal.md) 
-- [Sub-Edgware_Road_(B).protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(B).protect.md) 
-- [Sub-Edgware_Road_(B).private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(B).private.md) 
-- [Sub-Edgware_Road_(B).personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(B).personal.md) 
-- [Sub-Edgware_Road_(B).secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Edgware_Road_(B).secret.md) 

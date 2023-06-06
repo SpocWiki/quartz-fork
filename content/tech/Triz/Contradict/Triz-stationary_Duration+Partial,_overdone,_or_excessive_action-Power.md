@@ -19,10 +19,3 @@ title: Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power](../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.md) 
-- [Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.internal.md) 
-- [Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.protect.md) 
-- [Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.private.md) 
-- [Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.personal.md) 
-- [Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Partial,_overdone,_or_excessive_action-Power.secret.md) 

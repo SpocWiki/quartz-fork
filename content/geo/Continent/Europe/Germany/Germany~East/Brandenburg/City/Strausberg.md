@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strausberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Strausberg.md) 
-- [Strausberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Strausberg.internal.md) 
-- [Strausberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Strausberg.protect.md) 
-- [Strausberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Strausberg.private.md) 
-- [Strausberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Strausberg.personal.md) 
-- [Strausberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Strausberg.secret.md) 

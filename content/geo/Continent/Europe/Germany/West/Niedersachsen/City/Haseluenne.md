@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haseluenne](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Haseluenne.md) 
-- [Haseluenne.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Haseluenne.internal.md) 
-- [Haseluenne.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Haseluenne.protect.md) 
-- [Haseluenne.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Haseluenne.private.md) 
-- [Haseluenne.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Haseluenne.personal.md) 
-- [Haseluenne.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Haseluenne.secret.md) 

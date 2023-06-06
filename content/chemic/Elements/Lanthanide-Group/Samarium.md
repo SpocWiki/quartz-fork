@@ -35,10 +35,3 @@ title: Samarium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Samarium)
 
-## Confidential Links & Embeds: 
-- [Samarium](../../../../_public/chemic/Elements/Lanthanide-Group/Samarium.md) 
-- [Samarium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Samarium.internal.md) 
-- [Samarium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Samarium.protect.md) 
-- [Samarium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Samarium.private.md) 
-- [Samarium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Samarium.personal.md) 
-- [Samarium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Samarium.secret.md) 

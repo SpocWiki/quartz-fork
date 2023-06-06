@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hobscheid](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Hobscheid.md) 
-- [Hobscheid.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Hobscheid.internal.md) 
-- [Hobscheid.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Hobscheid.protect.md) 
-- [Hobscheid.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Hobscheid.private.md) 
-- [Hobscheid.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Hobscheid.personal.md) 
-- [Hobscheid.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Hobscheid.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bitburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bitburg.md) 
-- [Bitburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bitburg.internal.md) 
-- [Bitburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bitburg.protect.md) 
-- [Bitburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bitburg.private.md) 
-- [Bitburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bitburg.personal.md) 
-- [Bitburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bitburg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Fleur](../../../../../../_public/geo/Continent/Europe/France/City/St.Fleur.md) 
-- [St.Fleur.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Fleur.internal.md) 
-- [St.Fleur.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Fleur.protect.md) 
-- [St.Fleur.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Fleur.private.md) 
-- [St.Fleur.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Fleur.personal.md) 
-- [St.Fleur.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Fleur.secret.md) 

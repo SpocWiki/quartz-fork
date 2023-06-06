@@ -43,10 +43,3 @@ The delivery of a parcel either via the postal service or a commercial service.
 
 
 
-## Confidential Links & Embeds: 
-- [parcel_delivery](../../../../../_public/schema.org/Type/is_a_/intangible/parcel_delivery.md) 
-- [parcel_delivery.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/parcel_delivery.internal.md) 
-- [parcel_delivery.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/parcel_delivery.protect.md) 
-- [parcel_delivery.private](../../../../../_private/schema.org/Type/is_a_/intangible/parcel_delivery.private.md) 
-- [parcel_delivery.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/parcel_delivery.personal.md) 
-- [parcel_delivery.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/parcel_delivery.secret.md) 

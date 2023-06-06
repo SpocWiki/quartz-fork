@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaaden](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kaaden.md) 
-- [Kaaden.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kaaden.internal.md) 
-- [Kaaden.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kaaden.protect.md) 
-- [Kaaden.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kaaden.private.md) 
-- [Kaaden.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kaaden.personal.md) 
-- [Kaaden.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kaaden.secret.md) 

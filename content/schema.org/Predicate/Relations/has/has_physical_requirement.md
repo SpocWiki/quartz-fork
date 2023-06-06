@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_physical_requirement](../../../../../_public/schema.org/Predicate/Relations/has/has_physical_requirement.md) 
-- [has_physical_requirement.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_physical_requirement.internal.md) 
-- [has_physical_requirement.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_physical_requirement.protect.md) 
-- [has_physical_requirement.private](../../../../../_private/schema.org/Predicate/Relations/has/has_physical_requirement.private.md) 
-- [has_physical_requirement.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_physical_requirement.personal.md) 
-- [has_physical_requirement.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_physical_requirement.secret.md) 

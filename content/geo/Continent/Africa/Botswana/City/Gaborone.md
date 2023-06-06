@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gaborone](../../../../../../_public/geo/Continent/Africa/Botswana/City/Gaborone.md) 
-- [Gaborone.internal](../../../../../../_internal/geo/Continent/Africa/Botswana/City/Gaborone.internal.md) 
-- [Gaborone.protect](../../../../../../_protect/geo/Continent/Africa/Botswana/City/Gaborone.protect.md) 
-- [Gaborone.private](../../../../../../_private/geo/Continent/Africa/Botswana/City/Gaborone.private.md) 
-- [Gaborone.personal](../../../../../../_personal/geo/Continent/Africa/Botswana/City/Gaborone.personal.md) 
-- [Gaborone.secret](../../../../../../_secret/geo/Continent/Africa/Botswana/City/Gaborone.secret.md) 

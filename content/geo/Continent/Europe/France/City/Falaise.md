@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falaise](../../../../../../_public/geo/Continent/Europe/France/City/Falaise.md) 
-- [Falaise.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Falaise.internal.md) 
-- [Falaise.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Falaise.protect.md) 
-- [Falaise.private](../../../../../../_private/geo/Continent/Europe/France/City/Falaise.private.md) 
-- [Falaise.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Falaise.personal.md) 
-- [Falaise.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Falaise.secret.md) 

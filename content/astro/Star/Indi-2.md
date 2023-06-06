@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Indi-2](../../../_public/astro/Star/Indi-2.md) 
-- [Indi-2.internal](../../../_internal/astro/Star/Indi-2.internal.md) 
-- [Indi-2.protect](../../../_protect/astro/Star/Indi-2.protect.md) 
-- [Indi-2.private](../../../_private/astro/Star/Indi-2.private.md) 
-- [Indi-2.personal](../../../_personal/astro/Star/Indi-2.personal.md) 
-- [Indi-2.secret](../../../_secret/astro/Star/Indi-2.secret.md)
-

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirschberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirschberg.md) 
-- [Kirschberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirschberg.internal.md) 
-- [Kirschberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirschberg.protect.md) 
-- [Kirschberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirschberg.private.md) 
-- [Kirschberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirschberg.personal.md) 
-- [Kirschberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirschberg.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Automation+Changing_the_color-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Changing_the_color-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.md) 
-- [Triz-Automation+Changing_the_color-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.internal.md) 
-- [Triz-Automation+Changing_the_color-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.protect.md) 
-- [Triz-Automation+Changing_the_color-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.private.md) 
-- [Triz-Automation+Changing_the_color-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.personal.md) 
-- [Triz-Automation+Changing_the_color-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Changing_the_color-moving_Energy.secret.md) 

@@ -43,10 +43,3 @@ A lake (for example, Lake Pontrachain).
 
 
 
-## Confidential Links & Embeds: 
-- [lake_body_of_water](../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/lake_body_of_water.md) 
-- [lake_body_of_water.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/lake_body_of_water.internal.md) 
-- [lake_body_of_water.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/lake_body_of_water.protect.md) 
-- [lake_body_of_water.private](../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/lake_body_of_water.private.md) 
-- [lake_body_of_water.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/lake_body_of_water.personal.md) 
-- [lake_body_of_water.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/lake_body_of_water.secret.md) 

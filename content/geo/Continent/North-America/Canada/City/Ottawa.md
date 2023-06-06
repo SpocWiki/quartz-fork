@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ottawa](../../../../../../_public/geo/Continent/North-America/Canada/City/Ottawa.md) 
-- [Ottawa.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Ottawa.internal.md) 
-- [Ottawa.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Ottawa.protect.md) 
-- [Ottawa.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Ottawa.private.md) 
-- [Ottawa.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Ottawa.personal.md) 
-- [Ottawa.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Ottawa.secret.md) 

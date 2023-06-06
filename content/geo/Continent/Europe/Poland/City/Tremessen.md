@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tremessen](../../../../../../_public/geo/Continent/Europe/Poland/City/Tremessen.md) 
-- [Tremessen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Tremessen.internal.md) 
-- [Tremessen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Tremessen.protect.md) 
-- [Tremessen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Tremessen.private.md) 
-- [Tremessen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Tremessen.personal.md) 
-- [Tremessen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Tremessen.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Shape+Convert_harm_into_benefit-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Convert_harm_into_benefit-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.md) 
-- [Triz-Shape+Convert_harm_into_benefit-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.internal.md) 
-- [Triz-Shape+Convert_harm_into_benefit-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.protect.md) 
-- [Triz-Shape+Convert_harm_into_benefit-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.private.md) 
-- [Triz-Shape+Convert_harm_into_benefit-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.personal.md) 
-- [Triz-Shape+Convert_harm_into_benefit-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Convert_harm_into_benefit-Temperature.secret.md) 

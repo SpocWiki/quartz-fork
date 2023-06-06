@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jaegerndorf=Kunov](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.md) 
-- [Jaegerndorf=Kunov.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.internal.md) 
-- [Jaegerndorf=Kunov.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.protect.md) 
-- [Jaegerndorf=Kunov.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.private.md) 
-- [Jaegerndorf=Kunov.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.personal.md) 
-- [Jaegerndorf=Kunov.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jaegerndorf=Kunov.secret.md) 

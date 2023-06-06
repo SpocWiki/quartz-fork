@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Georgsthal](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Georgsthal.md) 
-- [Georgsthal.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Georgsthal.internal.md) 
-- [Georgsthal.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Georgsthal.protect.md) 
-- [Georgsthal.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Georgsthal.private.md) 
-- [Georgsthal.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Georgsthal.personal.md) 
-- [Georgsthal.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Georgsthal.secret.md) 

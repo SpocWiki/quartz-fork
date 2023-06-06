@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bray](../../../../../../_public/geo/Continent/Europe/Ireland/City/Bray.md) 
-- [Bray.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Bray.internal.md) 
-- [Bray.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Bray.protect.md) 
-- [Bray.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Bray.private.md) 
-- [Bray.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Bray.personal.md) 
-- [Bray.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Bray.secret.md) 

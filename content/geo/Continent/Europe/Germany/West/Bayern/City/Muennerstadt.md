@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muennerstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Muennerstadt.md) 
-- [Muennerstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Muennerstadt.internal.md) 
-- [Muennerstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Muennerstadt.protect.md) 
-- [Muennerstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Muennerstadt.private.md) 
-- [Muennerstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Muennerstadt.personal.md) 
-- [Muennerstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Muennerstadt.secret.md) 

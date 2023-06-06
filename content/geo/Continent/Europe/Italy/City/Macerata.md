@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Macerata](../../../../../../_public/geo/Continent/Europe/Italy/City/Macerata.md) 
-- [Macerata.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Macerata.internal.md) 
-- [Macerata.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Macerata.protect.md) 
-- [Macerata.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Macerata.private.md) 
-- [Macerata.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Macerata.personal.md) 
-- [Macerata.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Macerata.secret.md) 

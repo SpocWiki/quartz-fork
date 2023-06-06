@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nerac](../../../../../../_public/geo/Continent/Europe/France/City/Nerac.md) 
-- [Nerac.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nerac.internal.md) 
-- [Nerac.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nerac.protect.md) 
-- [Nerac.private](../../../../../../_private/geo/Continent/Europe/France/City/Nerac.private.md) 
-- [Nerac.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nerac.personal.md) 
-- [Nerac.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nerac.secret.md) 

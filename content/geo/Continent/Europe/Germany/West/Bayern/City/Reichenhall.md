@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reichenhall](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Reichenhall.md) 
-- [Reichenhall.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Reichenhall.internal.md) 
-- [Reichenhall.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Reichenhall.protect.md) 
-- [Reichenhall.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Reichenhall.private.md) 
-- [Reichenhall.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Reichenhall.personal.md) 
-- [Reichenhall.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Reichenhall.secret.md) 

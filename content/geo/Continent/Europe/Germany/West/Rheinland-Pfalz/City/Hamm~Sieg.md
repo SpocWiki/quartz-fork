@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hamm~Sieg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.md) 
-- [Hamm~Sieg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.internal.md) 
-- [Hamm~Sieg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.protect.md) 
-- [Hamm~Sieg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.private.md) 
-- [Hamm~Sieg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.personal.md) 
-- [Hamm~Sieg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hamm~Sieg.secret.md) 

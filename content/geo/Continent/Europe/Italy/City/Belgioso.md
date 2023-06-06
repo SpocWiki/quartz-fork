@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Belgioso](../../../../../../_public/geo/Continent/Europe/Italy/City/Belgioso.md) 
-- [Belgioso.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Belgioso.internal.md) 
-- [Belgioso.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Belgioso.protect.md) 
-- [Belgioso.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Belgioso.private.md) 
-- [Belgioso.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Belgioso.personal.md) 
-- [Belgioso.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Belgioso.secret.md) 

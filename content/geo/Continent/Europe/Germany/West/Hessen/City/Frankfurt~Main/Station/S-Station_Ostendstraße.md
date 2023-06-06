@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Station_Ostendstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Station_Ostendstra%C3%9Fe.md) 
-- [S-Station_Ostendstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Station_Ostendstra%C3%9Fe.internal.md) 
-- [S-Station_Ostendstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Station_Ostendstra%C3%9Fe.protect.md) 
-- [S-Station_Ostendstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Station_Ostendstra%C3%9Fe.private.md) 
-- [S-Station_Ostendstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Station_Ostendstra%C3%9Fe.personal.md) 
-- [S-Station_Ostendstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Station_Ostendstra%C3%9Fe.secret.md) 

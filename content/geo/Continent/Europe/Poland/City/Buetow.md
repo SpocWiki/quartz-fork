@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buetow](../../../../../../_public/geo/Continent/Europe/Poland/City/Buetow.md) 
-- [Buetow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Buetow.internal.md) 
-- [Buetow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Buetow.protect.md) 
-- [Buetow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Buetow.private.md) 
-- [Buetow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Buetow.personal.md) 
-- [Buetow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Buetow.secret.md) 

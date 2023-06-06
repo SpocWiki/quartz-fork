@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castrillo](../../../../../../_public/geo/Continent/Europe/Spain/City/Castrillo.md) 
-- [Castrillo.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Castrillo.internal.md) 
-- [Castrillo.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Castrillo.protect.md) 
-- [Castrillo.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Castrillo.private.md) 
-- [Castrillo.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Castrillo.personal.md) 
-- [Castrillo.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Castrillo.secret.md) 

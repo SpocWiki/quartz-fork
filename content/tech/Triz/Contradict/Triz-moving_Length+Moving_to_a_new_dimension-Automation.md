@@ -19,10 +19,3 @@ title: Triz-moving_Length+Moving_to_a_new_dimension-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Moving_to_a_new_dimension-Automation](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.md) 
-- [Triz-moving_Length+Moving_to_a_new_dimension-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.internal.md) 
-- [Triz-moving_Length+Moving_to_a_new_dimension-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.protect.md) 
-- [Triz-moving_Length+Moving_to_a_new_dimension-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.private.md) 
-- [Triz-moving_Length+Moving_to_a_new_dimension-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.personal.md) 
-- [Triz-moving_Length+Moving_to_a_new_dimension-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Moving_to_a_new_dimension-Automation.secret.md) 

@@ -43,10 +43,3 @@ Event type: Sports event.
 
 
 
-## Confidential Links & Embeds: 
-- [sports_event](../../../../../_public/schema.org/Type/is_a_/event/sports_event.md) 
-- [sports_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/sports_event.internal.md) 
-- [sports_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/sports_event.protect.md) 
-- [sports_event.private](../../../../../_private/schema.org/Type/is_a_/event/sports_event.private.md) 
-- [sports_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/sports_event.personal.md) 
-- [sports_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/sports_event.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Scarl=S-charl](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.md) 
-- [Scarl=S-charl.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.internal.md) 
-- [Scarl=S-charl.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.protect.md) 
-- [Scarl=S-charl.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.private.md) 
-- [Scarl=S-charl.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.personal.md) 
-- [Scarl=S-charl.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Scarl=S-charl.secret.md) 

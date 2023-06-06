@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Changing_the_color-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Changing_the_color-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Changing_the_color-Illumination.md) 
-- [Triz-Energy-Loss+Changing_the_color-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Changing_the_color-Illumination.internal.md) 
-- [Triz-Energy-Loss+Changing_the_color-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Changing_the_color-Illumination.protect.md) 
-- [Triz-Energy-Loss+Changing_the_color-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Changing_the_color-Illumination.private.md) 
-- [Triz-Energy-Loss+Changing_the_color-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Changing_the_color-Illumination.personal.md) 
-- [Triz-Energy-Loss+Changing_the_color-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Changing_the_color-Illumination.secret.md) 

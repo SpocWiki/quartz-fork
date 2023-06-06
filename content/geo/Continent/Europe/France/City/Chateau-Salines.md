@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chateau-Salines](../../../../../../_public/geo/Continent/Europe/France/City/Chateau-Salines.md) 
-- [Chateau-Salines.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chateau-Salines.internal.md) 
-- [Chateau-Salines.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chateau-Salines.protect.md) 
-- [Chateau-Salines.private](../../../../../../_private/geo/Continent/Europe/France/City/Chateau-Salines.private.md) 
-- [Chateau-Salines.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chateau-Salines.personal.md) 
-- [Chateau-Salines.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chateau-Salines.secret.md) 

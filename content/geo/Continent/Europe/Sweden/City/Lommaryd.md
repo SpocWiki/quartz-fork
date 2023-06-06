@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lommaryd](../../../../../../_public/geo/Continent/Europe/Sweden/City/Lommaryd.md) 
-- [Lommaryd.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lommaryd.internal.md) 
-- [Lommaryd.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lommaryd.protect.md) 
-- [Lommaryd.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Lommaryd.private.md) 
-- [Lommaryd.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lommaryd.personal.md) 
-- [Lommaryd.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lommaryd.secret.md) 

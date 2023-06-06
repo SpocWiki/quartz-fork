@@ -43,10 +43,3 @@ A table on a Web page.
 
 
 
-## Confidential Links & Embeds: 
-- [table](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/table.md) 
-- [table.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/table.internal.md) 
-- [table.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/table.protect.md) 
-- [table.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/table.private.md) 
-- [table.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/table.personal.md) 
-- [table.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/table.secret.md) 

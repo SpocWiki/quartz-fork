@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Starodoub](../../../../../../_public/geo/Continent/Europe/Russia/City/Starodoub.md) 
-- [Starodoub.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Starodoub.internal.md) 
-- [Starodoub.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Starodoub.protect.md) 
-- [Starodoub.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Starodoub.private.md) 
-- [Starodoub.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Starodoub.personal.md) 
-- [Starodoub.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Starodoub.secret.md) 

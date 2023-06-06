@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bisgarden](../../../../../../_public/geo/Continent/Europe/Sweden/City/Bisgarden.md) 
-- [Bisgarden.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bisgarden.internal.md) 
-- [Bisgarden.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bisgarden.protect.md) 
-- [Bisgarden.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Bisgarden.private.md) 
-- [Bisgarden.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bisgarden.personal.md) 
-- [Bisgarden.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bisgarden.secret.md) 

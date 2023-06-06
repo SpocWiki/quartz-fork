@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fallersleben](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.md) 
-- [Fallersleben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.internal.md) 
-- [Fallersleben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.protect.md) 
-- [Fallersleben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.private.md) 
-- [Fallersleben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.personal.md) 
-- [Fallersleben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallersleben.secret.md) 

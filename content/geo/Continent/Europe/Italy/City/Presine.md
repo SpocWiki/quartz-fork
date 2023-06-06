@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Presine](../../../../../../_public/geo/Continent/Europe/Italy/City/Presine.md) 
-- [Presine.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Presine.internal.md) 
-- [Presine.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Presine.protect.md) 
-- [Presine.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Presine.private.md) 
-- [Presine.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Presine.personal.md) 
-- [Presine.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Presine.secret.md) 

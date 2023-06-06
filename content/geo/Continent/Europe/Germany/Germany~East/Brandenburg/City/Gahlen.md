@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gahlen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gahlen.md) 
-- [Gahlen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gahlen.internal.md) 
-- [Gahlen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gahlen.protect.md) 
-- [Gahlen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gahlen.private.md) 
-- [Gahlen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gahlen.personal.md) 
-- [Gahlen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gahlen.secret.md) 

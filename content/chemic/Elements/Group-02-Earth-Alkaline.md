@@ -21,10 +21,3 @@ title: Group-02-Earth-Alkaline
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkaline%20earth%20metal)
  
 
-## Confidential Links & Embeds: 
-- [Group-02-Earth-Alkaline](../../../_public/chemic/Elements/Group-02-Earth-Alkaline.md) 
-- [Group-02-Earth-Alkaline.internal](../../../_internal/chemic/Elements/Group-02-Earth-Alkaline.internal.md) 
-- [Group-02-Earth-Alkaline.protect](../../../_protect/chemic/Elements/Group-02-Earth-Alkaline.protect.md) 
-- [Group-02-Earth-Alkaline.private](../../../_private/chemic/Elements/Group-02-Earth-Alkaline.private.md) 
-- [Group-02-Earth-Alkaline.personal](../../../_personal/chemic/Elements/Group-02-Earth-Alkaline.personal.md) 
-- [Group-02-Earth-Alkaline.secret](../../../_secret/chemic/Elements/Group-02-Earth-Alkaline.secret.md) 

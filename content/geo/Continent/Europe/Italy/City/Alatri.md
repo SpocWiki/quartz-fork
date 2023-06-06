@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alatri](../../../../../../_public/geo/Continent/Europe/Italy/City/Alatri.md) 
-- [Alatri.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Alatri.internal.md) 
-- [Alatri.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Alatri.protect.md) 
-- [Alatri.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Alatri.private.md) 
-- [Alatri.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Alatri.personal.md) 
-- [Alatri.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Alatri.secret.md) 

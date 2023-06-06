@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gurtnellen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Gurtnellen.md) 
-- [Gurtnellen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Gurtnellen.internal.md) 
-- [Gurtnellen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Gurtnellen.protect.md) 
-- [Gurtnellen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Gurtnellen.private.md) 
-- [Gurtnellen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Gurtnellen.personal.md) 
-- [Gurtnellen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Gurtnellen.secret.md) 

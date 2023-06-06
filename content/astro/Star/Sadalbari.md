@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sadalbari](../../../_public/astro/Star/Sadalbari.md) 
-- [Sadalbari.internal](../../../_internal/astro/Star/Sadalbari.internal.md) 
-- [Sadalbari.protect](../../../_protect/astro/Star/Sadalbari.protect.md) 
-- [Sadalbari.private](../../../_private/astro/Star/Sadalbari.private.md) 
-- [Sadalbari.personal](../../../_personal/astro/Star/Sadalbari.personal.md) 
-- [Sadalbari.secret](../../../_secret/astro/Star/Sadalbari.secret.md) 

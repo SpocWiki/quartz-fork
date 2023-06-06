@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vouziers](../../../../../../_public/geo/Continent/Europe/France/City/Vouziers.md) 
-- [Vouziers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vouziers.internal.md) 
-- [Vouziers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vouziers.protect.md) 
-- [Vouziers.private](../../../../../../_private/geo/Continent/Europe/France/City/Vouziers.private.md) 
-- [Vouziers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vouziers.personal.md) 
-- [Vouziers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vouziers.secret.md) 

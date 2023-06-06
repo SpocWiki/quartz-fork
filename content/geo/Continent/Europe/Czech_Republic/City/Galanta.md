@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Galanta](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Galanta.md) 
-- [Galanta.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Galanta.internal.md) 
-- [Galanta.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Galanta.protect.md) 
-- [Galanta.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Galanta.private.md) 
-- [Galanta.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Galanta.personal.md) 
-- [Galanta.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Galanta.secret.md) 

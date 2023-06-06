@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Louisiana](../../../../../_public/geo/Continent/North-America/United_States_of_America/Louisiana.md) 
-- [Louisiana.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Louisiana.internal.md) 
-- [Louisiana.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Louisiana.protect.md) 
-- [Louisiana.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Louisiana.private.md) 
-- [Louisiana.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Louisiana.personal.md) 
-- [Louisiana.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Louisiana.secret.md) 

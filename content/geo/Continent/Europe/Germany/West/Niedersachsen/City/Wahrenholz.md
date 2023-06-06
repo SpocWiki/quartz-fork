@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wahrenholz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.md) 
-- [Wahrenholz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.internal.md) 
-- [Wahrenholz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.protect.md) 
-- [Wahrenholz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.private.md) 
-- [Wahrenholz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.personal.md) 
-- [Wahrenholz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahrenholz.secret.md) 

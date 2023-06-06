@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schnaittach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schnaittach.md) 
-- [Schnaittach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schnaittach.internal.md) 
-- [Schnaittach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schnaittach.protect.md) 
-- [Schnaittach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schnaittach.private.md) 
-- [Schnaittach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schnaittach.personal.md) 
-- [Schnaittach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schnaittach.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Jean_d`Angely](../../../../../../_public/geo/Continent/Europe/France/City/St.Jean_d%60Angely.md) 
-- [St.Jean_d`Angely.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Jean_d%60Angely.internal.md) 
-- [St.Jean_d`Angely.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Jean_d%60Angely.protect.md) 
-- [St.Jean_d`Angely.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Jean_d%60Angely.private.md) 
-- [St.Jean_d`Angely.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Jean_d%60Angely.personal.md) 
-- [St.Jean_d`Angely.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Jean_d%60Angely.secret.md) 

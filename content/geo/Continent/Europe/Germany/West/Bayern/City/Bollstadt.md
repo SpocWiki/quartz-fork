@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bollstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bollstadt.md) 
-- [Bollstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bollstadt.internal.md) 
-- [Bollstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bollstadt.protect.md) 
-- [Bollstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bollstadt.private.md) 
-- [Bollstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bollstadt.personal.md) 
-- [Bollstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bollstadt.secret.md) 

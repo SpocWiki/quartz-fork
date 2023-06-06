@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Worms](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Worms.md) 
-- [Worms.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Worms.internal.md) 
-- [Worms.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Worms.protect.md) 
-- [Worms.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Worms.private.md) 
-- [Worms.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Worms.personal.md) 
-- [Worms.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Worms.secret.md) 

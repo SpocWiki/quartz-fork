@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arukuela](../../../../../../_public/geo/Continent/Europe/Russia/City/Arukuela.md) 
-- [Arukuela.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Arukuela.internal.md) 
-- [Arukuela.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Arukuela.protect.md) 
-- [Arukuela.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Arukuela.private.md) 
-- [Arukuela.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Arukuela.personal.md) 
-- [Arukuela.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Arukuela.secret.md) 

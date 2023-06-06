@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ustmaya](../../../../../../_public/geo/Continent/Europe/Russia/City/Ustmaya.md) 
-- [Ustmaya.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ustmaya.internal.md) 
-- [Ustmaya.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ustmaya.protect.md) 
-- [Ustmaya.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ustmaya.private.md) 
-- [Ustmaya.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ustmaya.personal.md) 
-- [Ustmaya.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ustmaya.secret.md) 

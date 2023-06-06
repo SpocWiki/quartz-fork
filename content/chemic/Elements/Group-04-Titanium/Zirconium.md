@@ -32,10 +32,3 @@ SpocWebEntityId: 21938
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zirconium)
 
-## Confidential Links & Embeds: 
-- [Zirconium](../../../../_public/chemic/Elements/Group-04-Titanium/Zirconium.md) 
-- [Zirconium.internal](../../../../_internal/chemic/Elements/Group-04-Titanium/Zirconium.internal.md) 
-- [Zirconium.protect](../../../../_protect/chemic/Elements/Group-04-Titanium/Zirconium.protect.md) 
-- [Zirconium.private](../../../../_private/chemic/Elements/Group-04-Titanium/Zirconium.private.md) 
-- [Zirconium.personal](../../../../_personal/chemic/Elements/Group-04-Titanium/Zirconium.personal.md) 
-- [Zirconium.secret](../../../../_secret/chemic/Elements/Group-04-Titanium/Zirconium.secret.md) 

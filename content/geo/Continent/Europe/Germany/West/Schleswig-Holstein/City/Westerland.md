@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Westerland](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Westerland.md) 
-- [Westerland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Westerland.internal.md) 
-- [Westerland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Westerland.protect.md) 
-- [Westerland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Westerland.private.md) 
-- [Westerland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Westerland.personal.md) 
-- [Westerland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Westerland.secret.md) 

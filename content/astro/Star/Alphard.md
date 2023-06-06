@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alphard](../../../_public/astro/Star/Alphard.md) 
-- [Alphard.internal](../../../_internal/astro/Star/Alphard.internal.md) 
-- [Alphard.protect](../../../_protect/astro/Star/Alphard.protect.md) 
-- [Alphard.private](../../../_private/astro/Star/Alphard.private.md) 
-- [Alphard.personal](../../../_personal/astro/Star/Alphard.personal.md) 
-- [Alphard.secret](../../../_secret/astro/Star/Alphard.secret.md)
-

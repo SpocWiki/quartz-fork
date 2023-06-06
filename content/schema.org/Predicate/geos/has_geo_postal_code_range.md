@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_postal_code_range](../../../../_public/schema.org/Predicate/geos/has_geo_postal_code_range.md) 
-- [has_geo_postal_code_range.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_postal_code_range.internal.md) 
-- [has_geo_postal_code_range.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_postal_code_range.protect.md) 
-- [has_geo_postal_code_range.private](../../../../_private/schema.org/Predicate/geos/has_geo_postal_code_range.private.md) 
-- [has_geo_postal_code_range.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_postal_code_range.personal.md) 
-- [has_geo_postal_code_range.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_postal_code_range.secret.md) 

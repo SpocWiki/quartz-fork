@@ -17,10 +17,3 @@ title: Triz-buffering_Material
 
 Add a buffering Material to a corrosive Solution.
 
-## Confidential Links & Embeds: 
-- [Triz-buffering_Material](../../../../_public/tech/Triz/Example/Triz-buffering_Material.md) 
-- [Triz-buffering_Material.internal](../../../../_internal/tech/Triz/Example/Triz-buffering_Material.internal.md) 
-- [Triz-buffering_Material.protect](../../../../_protect/tech/Triz/Example/Triz-buffering_Material.protect.md) 
-- [Triz-buffering_Material.private](../../../../_private/tech/Triz/Example/Triz-buffering_Material.private.md) 
-- [Triz-buffering_Material.personal](../../../../_personal/tech/Triz/Example/Triz-buffering_Material.personal.md) 
-- [Triz-buffering_Material.secret](../../../../_secret/tech/Triz/Example/Triz-buffering_Material.secret.md) 

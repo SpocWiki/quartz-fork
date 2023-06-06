@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Quilleboeuf](../../../../../../_public/geo/Continent/Europe/France/City/Quilleboeuf.md) 
-- [Quilleboeuf.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Quilleboeuf.internal.md) 
-- [Quilleboeuf.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Quilleboeuf.protect.md) 
-- [Quilleboeuf.private](../../../../../../_private/geo/Continent/Europe/France/City/Quilleboeuf.private.md) 
-- [Quilleboeuf.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Quilleboeuf.personal.md) 
-- [Quilleboeuf.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Quilleboeuf.secret.md) 

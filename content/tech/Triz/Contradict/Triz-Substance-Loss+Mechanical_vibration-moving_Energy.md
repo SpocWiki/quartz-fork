@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Mechanical_vibration-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.internal.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.protect.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.private.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.personal.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Energy.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Piccadilly_Circus](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Piccadilly_Circus.md) 
-- [Sub-Piccadilly_Circus.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Piccadilly_Circus.internal.md) 
-- [Sub-Piccadilly_Circus.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Piccadilly_Circus.protect.md) 
-- [Sub-Piccadilly_Circus.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Piccadilly_Circus.private.md) 
-- [Sub-Piccadilly_Circus.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Piccadilly_Circus.personal.md) 
-- [Sub-Piccadilly_Circus.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Piccadilly_Circus.secret.md) 

@@ -45,10 +45,3 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 
-## Confidential Links & Embeds: 
-- [lodging_reservation](../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.md) 
-- [lodging_reservation.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.internal.md) 
-- [lodging_reservation.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.protect.md) 
-- [lodging_reservation.private](../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.private.md) 
-- [lodging_reservation.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.personal.md) 
-- [lodging_reservation.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.secret.md) 

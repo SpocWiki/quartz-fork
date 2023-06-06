@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vilnius](../../../../../../_public/geo/Continent/Europe/Lithuania/City/Vilnius.md) 
-- [Vilnius.internal](../../../../../../_internal/geo/Continent/Europe/Lithuania/City/Vilnius.internal.md) 
-- [Vilnius.protect](../../../../../../_protect/geo/Continent/Europe/Lithuania/City/Vilnius.protect.md) 
-- [Vilnius.private](../../../../../../_private/geo/Continent/Europe/Lithuania/City/Vilnius.private.md) 
-- [Vilnius.personal](../../../../../../_personal/geo/Continent/Europe/Lithuania/City/Vilnius.personal.md) 
-- [Vilnius.secret](../../../../../../_secret/geo/Continent/Europe/Lithuania/City/Vilnius.secret.md) 

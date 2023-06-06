@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Prior_counteracion-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Prior_counteracion-Strength](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Strength.md) 
-- [Triz-Ease_of_repair+Prior_counteracion-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Strength.internal.md) 
-- [Triz-Ease_of_repair+Prior_counteracion-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Strength.protect.md) 
-- [Triz-Ease_of_repair+Prior_counteracion-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Strength.private.md) 
-- [Triz-Ease_of_repair+Prior_counteracion-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Strength.personal.md) 
-- [Triz-Ease_of_repair+Prior_counteracion-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_counteracion-Strength.secret.md) 

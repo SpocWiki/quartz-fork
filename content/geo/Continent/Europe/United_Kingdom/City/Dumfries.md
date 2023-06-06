@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dumfries](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dumfries.md) 
-- [Dumfries.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dumfries.internal.md) 
-- [Dumfries.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dumfries.protect.md) 
-- [Dumfries.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dumfries.private.md) 
-- [Dumfries.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dumfries.personal.md) 
-- [Dumfries.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dumfries.secret.md) 

@@ -125,7 +125,7 @@ markerFolder: ./Senegal/City
 
 ![350](geo/Continent/Africa/Senegal/Coat_of_arms_of_Senegal.svg)
 
-![Anthem-Senegal](xLarge/National-Anthem/Anthem-Senegal.mp3)
+[Anthem-Senegal](xLarge/National-Anthem/Anthem-Senegal.mp3)
 
 ![350](geo/Continent/Africa/Senegal/Flag_of_Senegal.svg)
 
@@ -136,10 +136,3 @@ markerFolder: ./Senegal/City
 
 
 
-## Confidential Links & Embeds: 
-- [Senegal](../../../../_public/geo/Continent/Africa/Senegal.md) 
-- [Senegal.internal](../../../../_internal/geo/Continent/Africa/Senegal.internal.md) 
-- [Senegal.protect](../../../../_protect/geo/Continent/Africa/Senegal.protect.md) 
-- [Senegal.private](../../../../_private/geo/Continent/Africa/Senegal.private.md) 
-- [Senegal.personal](../../../../_personal/geo/Continent/Africa/Senegal.personal.md) 
-- [Senegal.secret](../../../../_secret/geo/Continent/Africa/Senegal.secret.md) 

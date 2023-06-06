@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Bashkortostan~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Bashkortostan~Republic.md) 
-- [State-Bashkortostan~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Bashkortostan~Republic.internal.md) 
-- [State-Bashkortostan~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Bashkortostan~Republic.protect.md) 
-- [State-Bashkortostan~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Bashkortostan~Republic.private.md) 
-- [State-Bashkortostan~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Bashkortostan~Republic.personal.md) 
-- [State-Bashkortostan~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Bashkortostan~Republic.secret.md) 

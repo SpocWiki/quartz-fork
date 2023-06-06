@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Obergriesbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.md) 
-- [Obergriesbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.internal.md) 
-- [Obergriesbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.protect.md) 
-- [Obergriesbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.private.md) 
-- [Obergriesbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.personal.md) 
-- [Obergriesbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.secret.md) 

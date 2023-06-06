@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goldap](../../../../../../_public/geo/Continent/Europe/Poland/City/Goldap.md) 
-- [Goldap.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Goldap.internal.md) 
-- [Goldap.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Goldap.protect.md) 
-- [Goldap.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Goldap.private.md) 
-- [Goldap.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Goldap.personal.md) 
-- [Goldap.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Goldap.secret.md) 

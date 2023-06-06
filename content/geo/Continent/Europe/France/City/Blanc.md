@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blanc](../../../../../../_public/geo/Continent/Europe/France/City/Blanc.md) 
-- [Blanc.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Blanc.internal.md) 
-- [Blanc.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Blanc.protect.md) 
-- [Blanc.private](../../../../../../_private/geo/Continent/Europe/France/City/Blanc.private.md) 
-- [Blanc.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Blanc.personal.md) 
-- [Blanc.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Blanc.secret.md) 

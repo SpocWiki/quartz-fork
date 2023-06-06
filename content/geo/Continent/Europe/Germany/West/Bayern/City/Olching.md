@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Olching](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Olching.md) 
-- [Olching.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Olching.internal.md) 
-- [Olching.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Olching.protect.md) 
-- [Olching.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Olching.private.md) 
-- [Olching.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Olching.personal.md) 
-- [Olching.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Olching.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marennes](../../../../../../_public/geo/Continent/Europe/France/City/Marennes.md) 
-- [Marennes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Marennes.internal.md) 
-- [Marennes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Marennes.protect.md) 
-- [Marennes.private](../../../../../../_private/geo/Continent/Europe/France/City/Marennes.private.md) 
-- [Marennes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Marennes.personal.md) 
-- [Marennes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Marennes.secret.md) 

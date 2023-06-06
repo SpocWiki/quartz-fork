@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Asellus_Australis](../../../_public/astro/Star/Asellus_Australis.md) 
-- [Asellus_Australis.internal](../../../_internal/astro/Star/Asellus_Australis.internal.md) 
-- [Asellus_Australis.protect](../../../_protect/astro/Star/Asellus_Australis.protect.md) 
-- [Asellus_Australis.private](../../../_private/astro/Star/Asellus_Australis.private.md) 
-- [Asellus_Australis.personal](../../../_personal/astro/Star/Asellus_Australis.personal.md) 
-- [Asellus_Australis.secret](../../../_secret/astro/Star/Asellus_Australis.secret.md)
-

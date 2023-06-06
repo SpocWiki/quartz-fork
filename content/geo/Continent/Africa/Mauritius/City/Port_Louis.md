@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Port_Louis](../../../../../../_public/geo/Continent/Africa/Mauritius/City/Port_Louis.md) 
-- [Port_Louis.internal](../../../../../../_internal/geo/Continent/Africa/Mauritius/City/Port_Louis.internal.md) 
-- [Port_Louis.protect](../../../../../../_protect/geo/Continent/Africa/Mauritius/City/Port_Louis.protect.md) 
-- [Port_Louis.private](../../../../../../_private/geo/Continent/Africa/Mauritius/City/Port_Louis.private.md) 
-- [Port_Louis.personal](../../../../../../_personal/geo/Continent/Africa/Mauritius/City/Port_Louis.personal.md) 
-- [Port_Louis.secret](../../../../../../_secret/geo/Continent/Africa/Mauritius/City/Port_Louis.secret.md) 

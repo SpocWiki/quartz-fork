@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_transit_time_label](../../../../_public/schema.org/Predicate/Texts/has_transit_time_label.md) 
-- [has_transit_time_label.internal](../../../../_internal/schema.org/Predicate/Texts/has_transit_time_label.internal.md) 
-- [has_transit_time_label.protect](../../../../_protect/schema.org/Predicate/Texts/has_transit_time_label.protect.md) 
-- [has_transit_time_label.private](../../../../_private/schema.org/Predicate/Texts/has_transit_time_label.private.md) 
-- [has_transit_time_label.personal](../../../../_personal/schema.org/Predicate/Texts/has_transit_time_label.personal.md) 
-- [has_transit_time_label.secret](../../../../_secret/schema.org/Predicate/Texts/has_transit_time_label.secret.md) 

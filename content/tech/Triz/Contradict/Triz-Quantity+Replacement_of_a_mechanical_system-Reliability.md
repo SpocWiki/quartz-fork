@@ -19,10 +19,3 @@ title: Triz-Quantity+Replacement_of_a_mechanical_system-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Replacement_of_a_mechanical_system-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.md) 
-- [Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.internal.md) 
-- [Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.protect.md) 
-- [Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.private.md) 
-- [Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.personal.md) 
-- [Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Replacement_of_a_mechanical_system-Reliability.secret.md) 

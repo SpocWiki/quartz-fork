@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Edenstetten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Edenstetten.md) 
-- [Edenstetten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Edenstetten.internal.md) 
-- [Edenstetten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Edenstetten.protect.md) 
-- [Edenstetten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Edenstetten.private.md) 
-- [Edenstetten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Edenstetten.personal.md) 
-- [Edenstetten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Edenstetten.secret.md) 

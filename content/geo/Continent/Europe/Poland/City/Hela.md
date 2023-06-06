@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hela](../../../../../../_public/geo/Continent/Europe/Poland/City/Hela.md) 
-- [Hela.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Hela.internal.md) 
-- [Hela.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Hela.protect.md) 
-- [Hela.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Hela.private.md) 
-- [Hela.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Hela.personal.md) 
-- [Hela.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Hela.secret.md) 

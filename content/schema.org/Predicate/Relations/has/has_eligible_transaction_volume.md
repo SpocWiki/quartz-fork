@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_eligible_transaction_volume](../../../../../_public/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.md) 
-- [has_eligible_transaction_volume.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.internal.md) 
-- [has_eligible_transaction_volume.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.protect.md) 
-- [has_eligible_transaction_volume.private](../../../../../_private/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.private.md) 
-- [has_eligible_transaction_volume.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.personal.md) 
-- [has_eligible_transaction_volume.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.secret.md) 

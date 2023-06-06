@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Princeton](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Princeton.md) 
-- [Princeton.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Princeton.internal.md) 
-- [Princeton.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Princeton.protect.md) 
-- [Princeton.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Princeton.private.md) 
-- [Princeton.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Princeton.personal.md) 
-- [Princeton.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Princeton.secret.md) 

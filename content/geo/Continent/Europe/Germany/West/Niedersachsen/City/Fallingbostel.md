@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fallingbostel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.md) 
-- [Fallingbostel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.internal.md) 
-- [Fallingbostel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.protect.md) 
-- [Fallingbostel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.private.md) 
-- [Fallingbostel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.personal.md) 
-- [Fallingbostel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fallingbostel.secret.md) 

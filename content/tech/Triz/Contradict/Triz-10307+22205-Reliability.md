@@ -19,10 +19,3 @@ title: Triz-10307+22205-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22205-Reliability](../../../../_public/tech/Triz/Contradict/Triz-10307+22205-Reliability.md) 
-- [Triz-10307+22205-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-Reliability.internal.md) 
-- [Triz-10307+22205-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-Reliability.protect.md) 
-- [Triz-10307+22205-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22205-Reliability.private.md) 
-- [Triz-10307+22205-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-Reliability.personal.md) 
-- [Triz-10307+22205-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-Reliability.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bernkastel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.md) 
-- [Bernkastel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.internal.md) 
-- [Bernkastel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.protect.md) 
-- [Bernkastel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.private.md) 
-- [Bernkastel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.personal.md) 
-- [Bernkastel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Bernkastel.secret.md) 

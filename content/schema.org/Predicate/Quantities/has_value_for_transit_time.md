@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_transit_time](../../../../_public/schema.org/Predicate/Quantities/has_value_for_transit_time.md) 
-- [has_value_for_transit_time.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_transit_time.internal.md) 
-- [has_value_for_transit_time.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_transit_time.protect.md) 
-- [has_value_for_transit_time.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_transit_time.private.md) 
-- [has_value_for_transit_time.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_transit_time.personal.md) 
-- [has_value_for_transit_time.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_transit_time.secret.md) 

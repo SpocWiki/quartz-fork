@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoedic](../../../../../../_public/geo/Continent/Europe/France/City/Hoedic.md) 
-- [Hoedic.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Hoedic.internal.md) 
-- [Hoedic.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Hoedic.protect.md) 
-- [Hoedic.private](../../../../../../_private/geo/Continent/Europe/France/City/Hoedic.private.md) 
-- [Hoedic.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Hoedic.personal.md) 
-- [Hoedic.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Hoedic.secret.md) 

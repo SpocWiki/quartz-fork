@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hjulkvarn](../../../../../../_public/geo/Continent/Europe/Sweden/City/Hjulkvarn.md) 
-- [Hjulkvarn.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hjulkvarn.internal.md) 
-- [Hjulkvarn.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hjulkvarn.protect.md) 
-- [Hjulkvarn.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Hjulkvarn.private.md) 
-- [Hjulkvarn.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hjulkvarn.personal.md) 
-- [Hjulkvarn.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hjulkvarn.secret.md) 

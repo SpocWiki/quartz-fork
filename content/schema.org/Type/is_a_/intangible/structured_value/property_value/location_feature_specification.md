@@ -43,10 +43,3 @@ Specifies a location feature by providing a structured value representing a feat
 
 
 
-## Confidential Links & Embeds: 
-- [location_feature_specification](../../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.md) 
-- [location_feature_specification.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.internal.md) 
-- [location_feature_specification.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.protect.md) 
-- [location_feature_specification.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.private.md) 
-- [location_feature_specification.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.personal.md) 
-- [location_feature_specification.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/property_value/location_feature_specification.secret.md) 

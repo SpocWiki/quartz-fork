@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Moving_to_a_new_dimension-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Moving_to_a_new_dimension-Power](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.md) 
-- [Triz-stationary_Area+Moving_to_a_new_dimension-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.internal.md) 
-- [Triz-stationary_Area+Moving_to_a_new_dimension-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.protect.md) 
-- [Triz-stationary_Area+Moving_to_a_new_dimension-Power.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.private.md) 
-- [Triz-stationary_Area+Moving_to_a_new_dimension-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.personal.md) 
-- [Triz-stationary_Area+Moving_to_a_new_dimension-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Moving_to_a_new_dimension-Power.secret.md) 

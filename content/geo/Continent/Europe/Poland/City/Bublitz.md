@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bublitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Bublitz.md) 
-- [Bublitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bublitz.internal.md) 
-- [Bublitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bublitz.protect.md) 
-- [Bublitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bublitz.private.md) 
-- [Bublitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bublitz.personal.md) 
-- [Bublitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bublitz.secret.md) 

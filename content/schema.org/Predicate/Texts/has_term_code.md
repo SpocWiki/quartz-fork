@@ -49,10 +49,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_term_code](../../../../_public/schema.org/Predicate/Texts/has_term_code.md) 
-- [has_term_code.internal](../../../../_internal/schema.org/Predicate/Texts/has_term_code.internal.md) 
-- [has_term_code.protect](../../../../_protect/schema.org/Predicate/Texts/has_term_code.protect.md) 
-- [has_term_code.private](../../../../_private/schema.org/Predicate/Texts/has_term_code.private.md) 
-- [has_term_code.personal](../../../../_personal/schema.org/Predicate/Texts/has_term_code.personal.md) 
-- [has_term_code.secret](../../../../_secret/schema.org/Predicate/Texts/has_term_code.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kerson](../../../../../../_public/geo/Continent/Europe/Russia/City/Kerson.md) 
-- [Kerson.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kerson.internal.md) 
-- [Kerson.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kerson.protect.md) 
-- [Kerson.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kerson.private.md) 
-- [Kerson.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kerson.personal.md) 
-- [Kerson.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kerson.secret.md) 

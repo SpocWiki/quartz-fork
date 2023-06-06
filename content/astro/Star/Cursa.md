@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Cursa](../../../_public/astro/Star/Cursa.md) 
-- [Cursa.internal](../../../_internal/astro/Star/Cursa.internal.md) 
-- [Cursa.protect](../../../_protect/astro/Star/Cursa.protect.md) 
-- [Cursa.private](../../../_private/astro/Star/Cursa.private.md) 
-- [Cursa.personal](../../../_personal/astro/Star/Cursa.personal.md) 
-- [Cursa.secret](../../../_secret/astro/Star/Cursa.secret.md)
-

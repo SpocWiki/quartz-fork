@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Clausthal](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.md) 
-- [Clausthal.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.internal.md) 
-- [Clausthal.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.protect.md) 
-- [Clausthal.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.private.md) 
-- [Clausthal.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.personal.md) 
-- [Clausthal.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Clausthal.secret.md) 

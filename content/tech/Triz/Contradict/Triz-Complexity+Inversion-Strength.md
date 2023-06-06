@@ -19,10 +19,3 @@ title: Triz-Complexity+Inversion-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Inversion-Strength](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.md) 
-- [Triz-Complexity+Inversion-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.internal.md) 
-- [Triz-Complexity+Inversion-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.protect.md) 
-- [Triz-Complexity+Inversion-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.private.md) 
-- [Triz-Complexity+Inversion-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.personal.md) 
-- [Triz-Complexity+Inversion-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Strength.secret.md) 

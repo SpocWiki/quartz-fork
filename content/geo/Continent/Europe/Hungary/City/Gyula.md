@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gyula](../../../../../../_public/geo/Continent/Europe/Hungary/City/Gyula.md) 
-- [Gyula.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Gyula.internal.md) 
-- [Gyula.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Gyula.protect.md) 
-- [Gyula.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Gyula.private.md) 
-- [Gyula.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Gyula.personal.md) 
-- [Gyula.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Gyula.secret.md) 

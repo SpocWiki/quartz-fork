@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Counterweight-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Counterweight-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.md) 
-- [Triz-Ease_of_operation+Counterweight-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.internal.md) 
-- [Triz-Ease_of_operation+Counterweight-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.protect.md) 
-- [Triz-Ease_of_operation+Counterweight-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.private.md) 
-- [Triz-Ease_of_operation+Counterweight-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.personal.md) 
-- [Triz-Ease_of_operation+Counterweight-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Counterweight-Reliability.secret.md) 

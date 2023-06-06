@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Militello](../../../../../../_public/geo/Continent/Europe/Italy/City/Militello.md) 
-- [Militello.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Militello.internal.md) 
-- [Militello.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Militello.protect.md) 
-- [Militello.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Militello.private.md) 
-- [Militello.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Militello.personal.md) 
-- [Militello.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Militello.secret.md) 

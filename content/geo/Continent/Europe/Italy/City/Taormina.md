@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taormina](../../../../../../_public/geo/Continent/Europe/Italy/City/Taormina.md) 
-- [Taormina.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Taormina.internal.md) 
-- [Taormina.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Taormina.protect.md) 
-- [Taormina.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Taormina.private.md) 
-- [Taormina.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Taormina.personal.md) 
-- [Taormina.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Taormina.secret.md) 

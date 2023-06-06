@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Carlow](../../../../../../_public/geo/Continent/Europe/Ireland/City/Carlow.md) 
-- [Carlow.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Carlow.internal.md) 
-- [Carlow.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Carlow.protect.md) 
-- [Carlow.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Carlow.private.md) 
-- [Carlow.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Carlow.personal.md) 
-- [Carlow.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Carlow.secret.md) 

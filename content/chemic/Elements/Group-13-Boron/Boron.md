@@ -43,10 +43,3 @@ SpocWebEntityId: 21908
 
 
 
-## Confidential Links & Embeds: 
-- [Boron](../../../../_public/chemic/Elements/Group-13-Boron/Boron.md) 
-- [Boron.internal](../../../../_internal/chemic/Elements/Group-13-Boron/Boron.internal.md) 
-- [Boron.protect](../../../../_protect/chemic/Elements/Group-13-Boron/Boron.protect.md) 
-- [Boron.private](../../../../_private/chemic/Elements/Group-13-Boron/Boron.private.md) 
-- [Boron.personal](../../../../_personal/chemic/Elements/Group-13-Boron/Boron.personal.md) 
-- [Boron.secret](../../../../_secret/chemic/Elements/Group-13-Boron/Boron.secret.md) 

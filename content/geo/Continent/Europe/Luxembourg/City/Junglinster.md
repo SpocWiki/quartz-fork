@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Junglinster](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Junglinster.md) 
-- [Junglinster.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Junglinster.internal.md) 
-- [Junglinster.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Junglinster.protect.md) 
-- [Junglinster.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Junglinster.private.md) 
-- [Junglinster.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Junglinster.personal.md) 
-- [Junglinster.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Junglinster.secret.md) 

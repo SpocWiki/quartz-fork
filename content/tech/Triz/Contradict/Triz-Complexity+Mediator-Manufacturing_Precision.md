@@ -19,10 +19,3 @@ title: Triz-Complexity+Mediator-Manufacturing_Precision
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Mediator-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.md) 
-- [Triz-Complexity+Mediator-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.internal.md) 
-- [Triz-Complexity+Mediator-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.protect.md) 
-- [Triz-Complexity+Mediator-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.private.md) 
-- [Triz-Complexity+Mediator-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.personal.md) 
-- [Triz-Complexity+Mediator-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Mediator-Manufacturing_Precision.secret.md) 

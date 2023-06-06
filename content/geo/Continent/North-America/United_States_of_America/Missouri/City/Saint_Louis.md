@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saint_Louis](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Missouri/City/Saint_Louis.md) 
-- [Saint_Louis.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Missouri/City/Saint_Louis.internal.md) 
-- [Saint_Louis.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Missouri/City/Saint_Louis.protect.md) 
-- [Saint_Louis.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Missouri/City/Saint_Louis.private.md) 
-- [Saint_Louis.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Missouri/City/Saint_Louis.personal.md) 
-- [Saint_Louis.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Missouri/City/Saint_Louis.secret.md) 

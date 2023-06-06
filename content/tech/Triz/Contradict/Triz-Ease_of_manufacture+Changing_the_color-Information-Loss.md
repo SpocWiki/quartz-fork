@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Changing_the_color-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Changing_the_color-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.md) 
-- [Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.internal.md) 
-- [Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.protect.md) 
-- [Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.private.md) 
-- [Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.personal.md) 
-- [Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Information-Loss.secret.md) 

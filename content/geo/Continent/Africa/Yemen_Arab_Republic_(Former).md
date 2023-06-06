@@ -36,10 +36,3 @@ markerFolder: ./Yemen_Arab_Republic_(Former)/City
 
 
 
-## Confidential Links & Embeds: 
-- [Yemen_Arab_Republic_(Former)](../../../../_public/geo/Continent/Africa/Yemen_Arab_Republic_(Former).md) 
-- [Yemen_Arab_Republic_(Former).internal](../../../../_internal/geo/Continent/Africa/Yemen_Arab_Republic_(Former).internal.md) 
-- [Yemen_Arab_Republic_(Former).protect](../../../../_protect/geo/Continent/Africa/Yemen_Arab_Republic_(Former).protect.md) 
-- [Yemen_Arab_Republic_(Former).private](../../../../_private/geo/Continent/Africa/Yemen_Arab_Republic_(Former).private.md) 
-- [Yemen_Arab_Republic_(Former).personal](../../../../_personal/geo/Continent/Africa/Yemen_Arab_Republic_(Former).personal.md) 
-- [Yemen_Arab_Republic_(Former).secret](../../../../_secret/geo/Continent/Africa/Yemen_Arab_Republic_(Former).secret.md) 

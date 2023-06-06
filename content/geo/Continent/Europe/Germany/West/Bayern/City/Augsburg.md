@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Augsburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.md) 
-- [Augsburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.internal.md) 
-- [Augsburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.protect.md) 
-- [Augsburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.private.md) 
-- [Augsburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.personal.md) 
-- [Augsburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.secret.md) 

@@ -32,10 +32,3 @@ markerFolder: ./NordRhein-Westfalen/City
 
 
 
-## Confidential Links & Embeds: 
-- [NordRhein-Westfalen](../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.md) 
-- [NordRhein-Westfalen.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.internal.md) 
-- [NordRhein-Westfalen.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.protect.md) 
-- [NordRhein-Westfalen.private](../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.private.md) 
-- [NordRhein-Westfalen.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.personal.md) 
-- [NordRhein-Westfalen.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfalen.secret.md) 

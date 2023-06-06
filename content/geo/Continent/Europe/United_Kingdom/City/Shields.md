@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Shields](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Shields.md) 
-- [Shields.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Shields.internal.md) 
-- [Shields.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Shields.protect.md) 
-- [Shields.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Shields.private.md) 
-- [Shields.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Shields.personal.md) 
-- [Shields.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Shields.secret.md) 

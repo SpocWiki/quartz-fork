@@ -45,10 +45,3 @@ A video file.
 
 
 
-## Confidential Links & Embeds: 
-- [video_object](../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/video_object.md) 
-- [video_object.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/video_object.internal.md) 
-- [video_object.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/video_object.protect.md) 
-- [video_object.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/video_object.private.md) 
-- [video_object.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/video_object.personal.md) 
-- [video_object.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/video_object.secret.md) 

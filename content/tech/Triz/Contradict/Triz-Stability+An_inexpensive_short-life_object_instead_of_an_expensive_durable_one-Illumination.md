@@ -19,10 +19,3 @@ title: Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_d
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.internal.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.protect.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.private.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.personal.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Illumination.secret.md) 

@@ -124,7 +124,7 @@ markerFolder: ./Netherlands/City
 [Capital::[Amsterdam](geo/Continent/Europe/Netherlands/City/Amsterdam.md)]
 ![650](geo/Continent/Europe/Netherlands/Royal_coat_of_arms_of_the_Netherlands.svg)
 
-![Anthem-Netherlands](xLarge/National-Anthem/Anthem-Netherlands.mp3)
+[Anthem-Netherlands](xLarge/National-Anthem/Anthem-Netherlands.mp3)
 
 ![350](geo/Continent/Europe/Netherlands/Flag_of_the_Netherlands.svg)
 
@@ -135,10 +135,3 @@ markerFolder: ./Netherlands/City
 
 
 
-## Confidential Links & Embeds: 
-- [Netherlands](../../../../_public/geo/Continent/Europe/Netherlands.md) 
-- [Netherlands.internal](../../../../_internal/geo/Continent/Europe/Netherlands.internal.md) 
-- [Netherlands.protect](../../../../_protect/geo/Continent/Europe/Netherlands.protect.md) 
-- [Netherlands.private](../../../../_private/geo/Continent/Europe/Netherlands.private.md) 
-- [Netherlands.personal](../../../../_personal/geo/Continent/Europe/Netherlands.personal.md) 
-- [Netherlands.secret](../../../../_secret/geo/Continent/Europe/Netherlands.secret.md) 

@@ -45,10 +45,3 @@ Data derived from a single randomized trial, or nonrandomized studies.
 
 
 
-## Confidential Links & Embeds: 
-- [evidence_level_b](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.md) 
-- [evidence_level_b.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.internal.md) 
-- [evidence_level_b.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.protect.md) 
-- [evidence_level_b.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.private.md) 
-- [evidence_level_b.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.personal.md) 
-- [evidence_level_b.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_b.secret.md) 

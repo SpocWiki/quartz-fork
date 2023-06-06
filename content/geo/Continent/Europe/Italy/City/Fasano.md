@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fasano](../../../../../../_public/geo/Continent/Europe/Italy/City/Fasano.md) 
-- [Fasano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Fasano.internal.md) 
-- [Fasano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Fasano.protect.md) 
-- [Fasano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Fasano.private.md) 
-- [Fasano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Fasano.personal.md) 
-- [Fasano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Fasano.secret.md) 

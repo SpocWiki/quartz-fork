@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moroni](../../../../../../_public/geo/Continent/Africa/Comoros/City/Moroni.md) 
-- [Moroni.internal](../../../../../../_internal/geo/Continent/Africa/Comoros/City/Moroni.internal.md) 
-- [Moroni.protect](../../../../../../_protect/geo/Continent/Africa/Comoros/City/Moroni.protect.md) 
-- [Moroni.private](../../../../../../_private/geo/Continent/Africa/Comoros/City/Moroni.private.md) 
-- [Moroni.personal](../../../../../../_personal/geo/Continent/Africa/Comoros/City/Moroni.personal.md) 
-- [Moroni.secret](../../../../../../_secret/geo/Continent/Africa/Comoros/City/Moroni.secret.md) 

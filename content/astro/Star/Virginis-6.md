@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Virginis-6](../../../_public/astro/Star/Virginis-6.md) 
-- [Virginis-6.internal](../../../_internal/astro/Star/Virginis-6.internal.md) 
-- [Virginis-6.protect](../../../_protect/astro/Star/Virginis-6.protect.md) 
-- [Virginis-6.private](../../../_private/astro/Star/Virginis-6.private.md) 
-- [Virginis-6.personal](../../../_personal/astro/Star/Virginis-6.personal.md) 
-- [Virginis-6.secret](../../../_secret/astro/Star/Virginis-6.secret.md) 

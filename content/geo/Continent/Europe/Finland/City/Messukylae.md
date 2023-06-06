@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Messukylae](../../../../../../_public/geo/Continent/Europe/Finland/City/Messukylae.md) 
-- [Messukylae.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Messukylae.internal.md) 
-- [Messukylae.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Messukylae.protect.md) 
-- [Messukylae.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Messukylae.private.md) 
-- [Messukylae.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Messukylae.personal.md) 
-- [Messukylae.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Messukylae.secret.md) 

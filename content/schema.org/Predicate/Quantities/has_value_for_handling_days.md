@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_handling_days](../../../../_public/schema.org/Predicate/Quantities/has_value_for_handling_days.md) 
-- [has_value_for_handling_days.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_handling_days.internal.md) 
-- [has_value_for_handling_days.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_handling_days.protect.md) 
-- [has_value_for_handling_days.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_handling_days.private.md) 
-- [has_value_for_handling_days.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_handling_days.personal.md) 
-- [has_value_for_handling_days.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_handling_days.secret.md) 

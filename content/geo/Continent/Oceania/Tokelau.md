@@ -128,10 +128,3 @@ markerFolder: ./Tokelau/City
 
 
 
-## Confidential Links & Embeds: 
-- [Tokelau](../../../../_public/geo/Continent/Oceania/Tokelau.md) 
-- [Tokelau.internal](../../../../_internal/geo/Continent/Oceania/Tokelau.internal.md) 
-- [Tokelau.protect](../../../../_protect/geo/Continent/Oceania/Tokelau.protect.md) 
-- [Tokelau.private](../../../../_private/geo/Continent/Oceania/Tokelau.private.md) 
-- [Tokelau.personal](../../../../_personal/geo/Continent/Oceania/Tokelau.personal.md) 
-- [Tokelau.secret](../../../../_secret/geo/Continent/Oceania/Tokelau.secret.md) 

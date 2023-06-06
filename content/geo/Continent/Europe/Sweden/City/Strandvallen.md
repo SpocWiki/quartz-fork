@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strandvallen](../../../../../../_public/geo/Continent/Europe/Sweden/City/Strandvallen.md) 
-- [Strandvallen.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Strandvallen.internal.md) 
-- [Strandvallen.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Strandvallen.protect.md) 
-- [Strandvallen.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Strandvallen.private.md) 
-- [Strandvallen.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Strandvallen.personal.md) 
-- [Strandvallen.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Strandvallen.secret.md) 

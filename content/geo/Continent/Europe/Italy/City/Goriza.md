@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goriza](../../../../../../_public/geo/Continent/Europe/Italy/City/Goriza.md) 
-- [Goriza.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Goriza.internal.md) 
-- [Goriza.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Goriza.protect.md) 
-- [Goriza.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Goriza.private.md) 
-- [Goriza.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Goriza.personal.md) 
-- [Goriza.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Goriza.secret.md) 

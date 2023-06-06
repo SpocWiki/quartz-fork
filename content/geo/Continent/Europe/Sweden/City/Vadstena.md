@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vadstena](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vadstena.md) 
-- [Vadstena.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vadstena.internal.md) 
-- [Vadstena.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vadstena.protect.md) 
-- [Vadstena.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vadstena.private.md) 
-- [Vadstena.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vadstena.personal.md) 
-- [Vadstena.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vadstena.secret.md) 

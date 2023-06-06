@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eibenstock](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eibenstock.md) 
-- [Eibenstock.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eibenstock.internal.md) 
-- [Eibenstock.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eibenstock.protect.md) 
-- [Eibenstock.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eibenstock.private.md) 
-- [Eibenstock.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eibenstock.personal.md) 
-- [Eibenstock.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eibenstock.secret.md) 

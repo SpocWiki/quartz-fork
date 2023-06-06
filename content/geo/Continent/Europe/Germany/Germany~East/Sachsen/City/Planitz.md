@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Planitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz.md) 
-- [Planitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz.internal.md) 
-- [Planitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz.protect.md) 
-- [Planitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz.private.md) 
-- [Planitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz.personal.md) 
-- [Planitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Planitz.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-generated_harm+Extraction-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Extraction-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-Difficulty.md) 
-- [Triz-generated_harm+Extraction-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Difficulty.internal.md) 
-- [Triz-generated_harm+Extraction-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Extraction-Difficulty.protect.md) 
-- [Triz-generated_harm+Extraction-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Extraction-Difficulty.private.md) 
-- [Triz-generated_harm+Extraction-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Difficulty.personal.md) 
-- [Triz-generated_harm+Extraction-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Extraction-Difficulty.secret.md) 

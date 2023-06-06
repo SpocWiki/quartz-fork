@@ -45,10 +45,3 @@ Podiatry is the care of the human foot, especially the diagnosis and treatment o
 
 
 
-## Confidential Links & Embeds: 
-- [podiatric](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/podiatric.md) 
-- [podiatric.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/podiatric.internal.md) 
-- [podiatric.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/podiatric.protect.md) 
-- [podiatric.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/podiatric.private.md) 
-- [podiatric.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/podiatric.personal.md) 
-- [podiatric.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/podiatric.secret.md) 

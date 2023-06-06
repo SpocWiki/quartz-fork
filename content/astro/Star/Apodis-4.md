@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Apodis-4](../../../_public/astro/Star/Apodis-4.md) 
-- [Apodis-4.internal](../../../_internal/astro/Star/Apodis-4.internal.md) 
-- [Apodis-4.protect](../../../_protect/astro/Star/Apodis-4.protect.md) 
-- [Apodis-4.private](../../../_private/astro/Star/Apodis-4.private.md) 
-- [Apodis-4.personal](../../../_personal/astro/Star/Apodis-4.personal.md) 
-- [Apodis-4.secret](../../../_secret/astro/Star/Apodis-4.secret.md)
-

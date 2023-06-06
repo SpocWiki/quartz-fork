@@ -121,7 +121,7 @@ markerFolder: ./Nicaragua/City
 
 ![350](geo/Continent/South-America/Nicaragua/Coat_of_arms_of_Nicaragua.svg)
 
-![Anthem-Nicaragua](xLarge/National-Anthem/Anthem-Nicaragua.mp3)
+[Anthem-Nicaragua](xLarge/National-Anthem/Anthem-Nicaragua.mp3)
 
 ![350](geo/Continent/South-America/Nicaragua/Flag_of_Nicaragua.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Nicaragua/City
 
 
 
-## Confidential Links & Embeds: 
-- [Nicaragua](../../../../_public/geo/Continent/South-America/Nicaragua.md) 
-- [Nicaragua.internal](../../../../_internal/geo/Continent/South-America/Nicaragua.internal.md) 
-- [Nicaragua.protect](../../../../_protect/geo/Continent/South-America/Nicaragua.protect.md) 
-- [Nicaragua.private](../../../../_private/geo/Continent/South-America/Nicaragua.private.md) 
-- [Nicaragua.personal](../../../../_personal/geo/Continent/South-America/Nicaragua.personal.md) 
-- [Nicaragua.secret](../../../../_secret/geo/Continent/South-America/Nicaragua.secret.md) 

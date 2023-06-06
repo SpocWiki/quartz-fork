@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strubben](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strubben.md) 
-- [Strubben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strubben.internal.md) 
-- [Strubben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strubben.protect.md) 
-- [Strubben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strubben.private.md) 
-- [Strubben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strubben.personal.md) 
-- [Strubben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strubben.secret.md) 

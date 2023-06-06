@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Niort](../../../../../../_public/geo/Continent/Europe/France/City/Niort.md) 
-- [Niort.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Niort.internal.md) 
-- [Niort.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Niort.protect.md) 
-- [Niort.private](../../../../../../_private/geo/Continent/Europe/France/City/Niort.private.md) 
-- [Niort.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Niort.personal.md) 
-- [Niort.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Niort.secret.md) 

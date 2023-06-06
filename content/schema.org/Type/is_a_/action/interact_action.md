@@ -45,10 +45,3 @@ The act of interacting with another person or organization.
 
 
 
-## Confidential Links & Embeds: 
-- [interact_action](../../../../../_public/schema.org/Type/is_a_/action/interact_action.md) 
-- [interact_action.internal](../../../../../_internal/schema.org/Type/is_a_/action/interact_action.internal.md) 
-- [interact_action.protect](../../../../../_protect/schema.org/Type/is_a_/action/interact_action.protect.md) 
-- [interact_action.private](../../../../../_private/schema.org/Type/is_a_/action/interact_action.private.md) 
-- [interact_action.personal](../../../../../_personal/schema.org/Type/is_a_/action/interact_action.personal.md) 
-- [interact_action.secret](../../../../../_secret/schema.org/Type/is_a_/action/interact_action.secret.md) 

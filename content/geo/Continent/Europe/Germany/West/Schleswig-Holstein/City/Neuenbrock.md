@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuenbrock](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.md) 
-- [Neuenbrock.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.internal.md) 
-- [Neuenbrock.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.protect.md) 
-- [Neuenbrock.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.private.md) 
-- [Neuenbrock.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.personal.md) 
-- [Neuenbrock.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neuenbrock.secret.md) 

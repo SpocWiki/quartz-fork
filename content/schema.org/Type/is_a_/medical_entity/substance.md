@@ -47,10 +47,3 @@ Any matter of defined composition that has discrete existence, whose origin may 
 
 
 
-## Confidential Links & Embeds: 
-- [substance](../../../../../_public/schema.org/Type/is_a_/medical_entity/substance.md) 
-- [substance.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/substance.internal.md) 
-- [substance.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/substance.protect.md) 
-- [substance.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/substance.private.md) 
-- [substance.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/substance.personal.md) 
-- [substance.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/substance.secret.md) 

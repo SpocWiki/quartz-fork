@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loetzen](../../../../../../_public/geo/Continent/Europe/Poland/City/Loetzen.md) 
-- [Loetzen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Loetzen.internal.md) 
-- [Loetzen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Loetzen.protect.md) 
-- [Loetzen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Loetzen.private.md) 
-- [Loetzen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Loetzen.personal.md) 
-- [Loetzen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Loetzen.secret.md) 

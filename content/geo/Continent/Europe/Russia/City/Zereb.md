@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zereb](../../../../../../_public/geo/Continent/Europe/Russia/City/Zereb.md) 
-- [Zereb.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zereb.internal.md) 
-- [Zereb.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zereb.protect.md) 
-- [Zereb.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zereb.private.md) 
-- [Zereb.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zereb.personal.md) 
-- [Zereb.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zereb.secret.md) 

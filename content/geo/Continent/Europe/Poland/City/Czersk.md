@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Czersk](../../../../../../_public/geo/Continent/Europe/Poland/City/Czersk.md) 
-- [Czersk.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Czersk.internal.md) 
-- [Czersk.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Czersk.protect.md) 
-- [Czersk.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Czersk.private.md) 
-- [Czersk.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Czersk.personal.md) 
-- [Czersk.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Czersk.secret.md) 

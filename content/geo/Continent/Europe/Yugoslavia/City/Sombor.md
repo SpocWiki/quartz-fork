@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sombor](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Sombor.md) 
-- [Sombor.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Sombor.internal.md) 
-- [Sombor.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Sombor.protect.md) 
-- [Sombor.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Sombor.private.md) 
-- [Sombor.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Sombor.personal.md) 
-- [Sombor.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Sombor.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frankenberg~Sachsen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Frankenberg~Sachsen.md) 
-- [Frankenberg~Sachsen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Frankenberg~Sachsen.internal.md) 
-- [Frankenberg~Sachsen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Frankenberg~Sachsen.protect.md) 
-- [Frankenberg~Sachsen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Frankenberg~Sachsen.private.md) 
-- [Frankenberg~Sachsen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Frankenberg~Sachsen.personal.md) 
-- [Frankenberg~Sachsen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Frankenberg~Sachsen.secret.md) 

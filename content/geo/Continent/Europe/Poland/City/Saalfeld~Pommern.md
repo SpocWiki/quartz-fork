@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saalfeld~Pommern](../../../../../../_public/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.md) 
-- [Saalfeld~Pommern.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.internal.md) 
-- [Saalfeld~Pommern.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.protect.md) 
-- [Saalfeld~Pommern.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.private.md) 
-- [Saalfeld~Pommern.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.personal.md) 
-- [Saalfeld~Pommern.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Saalfeld~Pommern.secret.md) 

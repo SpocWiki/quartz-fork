@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chemnitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Chemnitz.md) 
-- [Chemnitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Chemnitz.internal.md) 
-- [Chemnitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Chemnitz.protect.md) 
-- [Chemnitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Chemnitz.private.md) 
-- [Chemnitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Chemnitz.personal.md) 
-- [Chemnitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Chemnitz.secret.md) 

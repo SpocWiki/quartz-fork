@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_software_requirements](../../../../_public/schema.org/Predicate/Texts/has_software_requirements.md) 
-- [has_software_requirements.internal](../../../../_internal/schema.org/Predicate/Texts/has_software_requirements.internal.md) 
-- [has_software_requirements.protect](../../../../_protect/schema.org/Predicate/Texts/has_software_requirements.protect.md) 
-- [has_software_requirements.private](../../../../_private/schema.org/Predicate/Texts/has_software_requirements.private.md) 
-- [has_software_requirements.personal](../../../../_personal/schema.org/Predicate/Texts/has_software_requirements.personal.md) 
-- [has_software_requirements.secret](../../../../_secret/schema.org/Predicate/Texts/has_software_requirements.secret.md) 

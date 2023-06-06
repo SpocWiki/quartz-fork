@@ -19,10 +19,3 @@ title: Triz-Versatility+Dynamicity-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Dynamicity-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Intensity.md) 
-- [Triz-Versatility+Dynamicity-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Intensity.internal.md) 
-- [Triz-Versatility+Dynamicity-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Intensity.protect.md) 
-- [Triz-Versatility+Dynamicity-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Intensity.private.md) 
-- [Triz-Versatility+Dynamicity-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Intensity.personal.md) 
-- [Triz-Versatility+Dynamicity-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Intensity.secret.md) 

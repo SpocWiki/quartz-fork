@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Clydebank](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Clydebank.md) 
-- [Clydebank.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Clydebank.internal.md) 
-- [Clydebank.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Clydebank.protect.md) 
-- [Clydebank.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Clydebank.private.md) 
-- [Clydebank.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Clydebank.personal.md) 
-- [Clydebank.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Clydebank.secret.md) 

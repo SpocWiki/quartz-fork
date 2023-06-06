@@ -19,11 +19,3 @@ title: Lang-zh
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-zh](../../_public/lang/Lang-zh.md) 
-- [Lang-zh.internal](../../_internal/lang/Lang-zh.internal.md) 
-- [Lang-zh.protect](../../_protect/lang/Lang-zh.protect.md) 
-- [Lang-zh.private](../../_private/lang/Lang-zh.private.md) 
-- [Lang-zh.personal](../../_personal/lang/Lang-zh.personal.md) 
-- [Lang-zh.secret](../../_secret/lang/Lang-zh.secret.md)
-

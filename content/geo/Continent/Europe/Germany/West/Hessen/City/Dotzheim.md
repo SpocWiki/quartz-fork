@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dotzheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Dotzheim.md) 
-- [Dotzheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dotzheim.internal.md) 
-- [Dotzheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dotzheim.protect.md) 
-- [Dotzheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dotzheim.private.md) 
-- [Dotzheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Dotzheim.personal.md) 
-- [Dotzheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Dotzheim.secret.md) 

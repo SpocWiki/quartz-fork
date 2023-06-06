@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Budapest](../../../../../../_public/geo/Continent/Europe/Hungary/City/Budapest.md) 
-- [Budapest.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Budapest.internal.md) 
-- [Budapest.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Budapest.protect.md) 
-- [Budapest.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Budapest.private.md) 
-- [Budapest.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Budapest.personal.md) 
-- [Budapest.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Budapest.secret.md) 

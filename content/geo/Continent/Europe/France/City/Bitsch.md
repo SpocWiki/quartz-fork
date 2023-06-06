@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bitsch](../../../../../../_public/geo/Continent/Europe/France/City/Bitsch.md) 
-- [Bitsch.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bitsch.internal.md) 
-- [Bitsch.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bitsch.protect.md) 
-- [Bitsch.private](../../../../../../_private/geo/Continent/Europe/France/City/Bitsch.private.md) 
-- [Bitsch.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bitsch.personal.md) 
-- [Bitsch.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bitsch.secret.md) 

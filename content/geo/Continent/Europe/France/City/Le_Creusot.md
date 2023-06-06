@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Le_Creusot](../../../../../../_public/geo/Continent/Europe/France/City/Le_Creusot.md) 
-- [Le_Creusot.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Le_Creusot.internal.md) 
-- [Le_Creusot.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Le_Creusot.protect.md) 
-- [Le_Creusot.private](../../../../../../_private/geo/Continent/Europe/France/City/Le_Creusot.private.md) 
-- [Le_Creusot.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Le_Creusot.personal.md) 
-- [Le_Creusot.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Le_Creusot.secret.md) 

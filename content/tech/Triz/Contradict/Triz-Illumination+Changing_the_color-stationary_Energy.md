@@ -19,10 +19,3 @@ title: Triz-Illumination+Changing_the_color-stationary_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Changing_the_color-stationary_Energy](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.md) 
-- [Triz-Illumination+Changing_the_color-stationary_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.internal.md) 
-- [Triz-Illumination+Changing_the_color-stationary_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.protect.md) 
-- [Triz-Illumination+Changing_the_color-stationary_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.private.md) 
-- [Triz-Illumination+Changing_the_color-stationary_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.personal.md) 
-- [Triz-Illumination+Changing_the_color-stationary_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-stationary_Energy.secret.md) 

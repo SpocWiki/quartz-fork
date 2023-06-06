@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Massafra](../../../../../../_public/geo/Continent/Europe/Italy/City/Massafra.md) 
-- [Massafra.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Massafra.internal.md) 
-- [Massafra.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Massafra.protect.md) 
-- [Massafra.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Massafra.private.md) 
-- [Massafra.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Massafra.personal.md) 
-- [Massafra.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Massafra.secret.md) 

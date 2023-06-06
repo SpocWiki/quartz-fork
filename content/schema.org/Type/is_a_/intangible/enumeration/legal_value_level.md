@@ -43,10 +43,3 @@ A list of possible levels for the legal validity of a legislation.
 
 
 
-## Confidential Links & Embeds: 
-- [legal_value_level](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/legal_value_level.md) 
-- [legal_value_level.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level.internal.md) 
-- [legal_value_level.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/legal_value_level.protect.md) 
-- [legal_value_level.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/legal_value_level.private.md) 
-- [legal_value_level.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level.personal.md) 
-- [legal_value_level.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/legal_value_level.secret.md) 

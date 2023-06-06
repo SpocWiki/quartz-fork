@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Ravenscourt_Park](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.md) 
-- [Sub-Ravenscourt_Park.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.internal.md) 
-- [Sub-Ravenscourt_Park.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.protect.md) 
-- [Sub-Ravenscourt_Park.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.private.md) 
-- [Sub-Ravenscourt_Park.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.personal.md) 
-- [Sub-Ravenscourt_Park.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ravenscourt_Park.secret.md) 

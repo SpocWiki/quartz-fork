@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Plattling](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Plattling.md) 
-- [Plattling.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Plattling.internal.md) 
-- [Plattling.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Plattling.protect.md) 
-- [Plattling.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Plattling.private.md) 
-- [Plattling.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Plattling.personal.md) 
-- [Plattling.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Plattling.secret.md) 

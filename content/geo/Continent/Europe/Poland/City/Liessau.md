@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liessau](../../../../../../_public/geo/Continent/Europe/Poland/City/Liessau.md) 
-- [Liessau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Liessau.internal.md) 
-- [Liessau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Liessau.protect.md) 
-- [Liessau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Liessau.private.md) 
-- [Liessau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Liessau.personal.md) 
-- [Liessau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Liessau.secret.md) 

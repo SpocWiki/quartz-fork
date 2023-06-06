@@ -17,10 +17,3 @@ title: Triz-Vibrate_for_flow
 
 Vibrate a casting mold while it is being filled to improve flow and structural properties.
 
-## Confidential Links & Embeds: 
-- [Triz-Vibrate_for_flow](../../../../_public/tech/Triz/Example/Triz-Vibrate_for_flow.md) 
-- [Triz-Vibrate_for_flow.internal](../../../../_internal/tech/Triz/Example/Triz-Vibrate_for_flow.internal.md) 
-- [Triz-Vibrate_for_flow.protect](../../../../_protect/tech/Triz/Example/Triz-Vibrate_for_flow.protect.md) 
-- [Triz-Vibrate_for_flow.private](../../../../_private/tech/Triz/Example/Triz-Vibrate_for_flow.private.md) 
-- [Triz-Vibrate_for_flow.personal](../../../../_personal/tech/Triz/Example/Triz-Vibrate_for_flow.personal.md) 
-- [Triz-Vibrate_for_flow.secret](../../../../_secret/tech/Triz/Example/Triz-Vibrate_for_flow.secret.md) 

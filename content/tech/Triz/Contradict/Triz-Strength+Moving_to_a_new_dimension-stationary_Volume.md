@@ -19,10 +19,3 @@ title: Triz-Strength+Moving_to_a_new_dimension-stationary_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Moving_to_a_new_dimension-stationary_Volume](../../../../_public/tech/Triz/Contradict/Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.md) 
-- [Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.internal.md) 
-- [Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.protect.md) 
-- [Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.private.md) 
-- [Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.personal.md) 
-- [Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Moving_to_a_new_dimension-stationary_Volume.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dahme](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dahme.md) 
-- [Dahme.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dahme.internal.md) 
-- [Dahme.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dahme.protect.md) 
-- [Dahme.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dahme.private.md) 
-- [Dahme.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dahme.personal.md) 
-- [Dahme.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Dahme.secret.md) 

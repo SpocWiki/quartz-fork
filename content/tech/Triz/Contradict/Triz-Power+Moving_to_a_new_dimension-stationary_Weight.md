@@ -19,10 +19,3 @@ title: Triz-Power+Moving_to_a_new_dimension-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Moving_to_a_new_dimension-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.md) 
-- [Triz-Power+Moving_to_a_new_dimension-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.internal.md) 
-- [Triz-Power+Moving_to_a_new_dimension-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.protect.md) 
-- [Triz-Power+Moving_to_a_new_dimension-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.private.md) 
-- [Triz-Power+Moving_to_a_new_dimension-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.personal.md) 
-- [Triz-Power+Moving_to_a_new_dimension-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-stationary_Weight.secret.md) 

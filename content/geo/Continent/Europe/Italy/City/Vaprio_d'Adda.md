@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaprio_d'Adda](../../../../../../_public/geo/Continent/Europe/Italy/City/Vaprio_d'Adda.md) 
-- [Vaprio_d'Adda.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Vaprio_d'Adda.internal.md) 
-- [Vaprio_d'Adda.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Vaprio_d'Adda.protect.md) 
-- [Vaprio_d'Adda.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Vaprio_d'Adda.private.md) 
-- [Vaprio_d'Adda.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Vaprio_d'Adda.personal.md) 
-- [Vaprio_d'Adda.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Vaprio_d'Adda.secret.md) 

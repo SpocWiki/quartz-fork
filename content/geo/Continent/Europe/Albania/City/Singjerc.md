@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Singjerc](../../../../../../_public/geo/Continent/Europe/Albania/City/Singjerc.md) 
-- [Singjerc.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Singjerc.internal.md) 
-- [Singjerc.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Singjerc.protect.md) 
-- [Singjerc.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Singjerc.private.md) 
-- [Singjerc.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Singjerc.personal.md) 
-- [Singjerc.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Singjerc.secret.md) 

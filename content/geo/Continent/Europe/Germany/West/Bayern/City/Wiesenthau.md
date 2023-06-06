@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wiesenthau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wiesenthau.md) 
-- [Wiesenthau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wiesenthau.internal.md) 
-- [Wiesenthau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wiesenthau.protect.md) 
-- [Wiesenthau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wiesenthau.private.md) 
-- [Wiesenthau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wiesenthau.personal.md) 
-- [Wiesenthau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wiesenthau.secret.md) 

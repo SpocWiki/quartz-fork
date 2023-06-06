@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Deutsch-Wartenberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.md) 
-- [Deutsch-Wartenberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.internal.md) 
-- [Deutsch-Wartenberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.protect.md) 
-- [Deutsch-Wartenberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.private.md) 
-- [Deutsch-Wartenberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.personal.md) 
-- [Deutsch-Wartenberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Deutsch-Wartenberg.secret.md) 

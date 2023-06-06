@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Neustadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.md) 
-- [Bad_Neustadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.internal.md) 
-- [Bad_Neustadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.protect.md) 
-- [Bad_Neustadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.private.md) 
-- [Bad_Neustadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.personal.md) 
-- [Bad_Neustadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Neustadt.secret.md) 

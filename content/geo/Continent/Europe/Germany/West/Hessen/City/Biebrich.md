@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Biebrich](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Biebrich.md) 
-- [Biebrich.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Biebrich.internal.md) 
-- [Biebrich.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Biebrich.protect.md) 
-- [Biebrich.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Biebrich.private.md) 
-- [Biebrich.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Biebrich.personal.md) 
-- [Biebrich.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Biebrich.secret.md) 

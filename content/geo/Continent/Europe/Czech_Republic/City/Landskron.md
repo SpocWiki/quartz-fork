@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landskron](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Landskron.md) 
-- [Landskron.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Landskron.internal.md) 
-- [Landskron.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Landskron.protect.md) 
-- [Landskron.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Landskron.private.md) 
-- [Landskron.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Landskron.personal.md) 
-- [Landskron.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Landskron.secret.md) 

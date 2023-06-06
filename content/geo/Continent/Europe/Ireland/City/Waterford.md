@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waterford](../../../../../../_public/geo/Continent/Europe/Ireland/City/Waterford.md) 
-- [Waterford.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Waterford.internal.md) 
-- [Waterford.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Waterford.protect.md) 
-- [Waterford.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Waterford.private.md) 
-- [Waterford.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Waterford.personal.md) 
-- [Waterford.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Waterford.secret.md) 

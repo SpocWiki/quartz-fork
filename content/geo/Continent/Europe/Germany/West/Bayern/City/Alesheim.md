@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alesheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Alesheim.md) 
-- [Alesheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Alesheim.internal.md) 
-- [Alesheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Alesheim.protect.md) 
-- [Alesheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Alesheim.private.md) 
-- [Alesheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Alesheim.personal.md) 
-- [Alesheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Alesheim.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trendelburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Trendelburg.md) 
-- [Trendelburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Trendelburg.internal.md) 
-- [Trendelburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Trendelburg.protect.md) 
-- [Trendelburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Trendelburg.private.md) 
-- [Trendelburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Trendelburg.personal.md) 
-- [Trendelburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Trendelburg.secret.md) 

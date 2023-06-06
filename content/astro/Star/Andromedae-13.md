@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Andromedae-13](../../../_public/astro/Star/Andromedae-13.md) 
-- [Andromedae-13.internal](../../../_internal/astro/Star/Andromedae-13.internal.md) 
-- [Andromedae-13.protect](../../../_protect/astro/Star/Andromedae-13.protect.md) 
-- [Andromedae-13.private](../../../_private/astro/Star/Andromedae-13.private.md) 
-- [Andromedae-13.personal](../../../_personal/astro/Star/Andromedae-13.personal.md) 
-- [Andromedae-13.secret](../../../_secret/astro/Star/Andromedae-13.secret.md)
-

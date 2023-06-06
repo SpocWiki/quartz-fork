@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Adenau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Adenau.md) 
-- [Adenau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Adenau.internal.md) 
-- [Adenau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Adenau.protect.md) 
-- [Adenau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Adenau.private.md) 
-- [Adenau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Adenau.personal.md) 
-- [Adenau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Adenau.secret.md) 

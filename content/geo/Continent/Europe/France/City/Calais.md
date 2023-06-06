@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Calais](../../../../../../_public/geo/Continent/Europe/France/City/Calais.md) 
-- [Calais.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Calais.internal.md) 
-- [Calais.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Calais.protect.md) 
-- [Calais.private](../../../../../../_private/geo/Continent/Europe/France/City/Calais.private.md) 
-- [Calais.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Calais.personal.md) 
-- [Calais.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Calais.secret.md) 

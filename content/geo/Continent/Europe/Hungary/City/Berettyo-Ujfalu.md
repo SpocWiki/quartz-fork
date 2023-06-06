@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berettyo-Ujfalu](../../../../../../_public/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.md) 
-- [Berettyo-Ujfalu.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.internal.md) 
-- [Berettyo-Ujfalu.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.protect.md) 
-- [Berettyo-Ujfalu.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.private.md) 
-- [Berettyo-Ujfalu.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.personal.md) 
-- [Berettyo-Ujfalu.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Berettyo-Ujfalu.secret.md) 

@@ -27,10 +27,3 @@ markerFolder: ./Wien/City
 
 
 
-## Confidential Links & Embeds: 
-- [State-Wien](../../../../../../_public/geo/Continent/Europe/Austria/State/State-Wien.md) 
-- [State-Wien.internal](../../../../../../_internal/geo/Continent/Europe/Austria/State/State-Wien.internal.md) 
-- [State-Wien.protect](../../../../../../_protect/geo/Continent/Europe/Austria/State/State-Wien.protect.md) 
-- [State-Wien.private](../../../../../../_private/geo/Continent/Europe/Austria/State/State-Wien.private.md) 
-- [State-Wien.personal](../../../../../../_personal/geo/Continent/Europe/Austria/State/State-Wien.personal.md) 
-- [State-Wien.secret](../../../../../../_secret/geo/Continent/Europe/Austria/State/State-Wien.secret.md) 

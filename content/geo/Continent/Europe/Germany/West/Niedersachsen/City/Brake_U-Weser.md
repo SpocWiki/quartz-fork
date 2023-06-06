@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brake_U-Weser](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.md) 
-- [Brake_U-Weser.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.internal.md) 
-- [Brake_U-Weser.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.protect.md) 
-- [Brake_U-Weser.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.private.md) 
-- [Brake_U-Weser.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.personal.md) 
-- [Brake_U-Weser.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brake_U-Weser.secret.md) 

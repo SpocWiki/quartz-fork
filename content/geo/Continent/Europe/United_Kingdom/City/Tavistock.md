@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tavistock](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tavistock.md) 
-- [Tavistock.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tavistock.internal.md) 
-- [Tavistock.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tavistock.protect.md) 
-- [Tavistock.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tavistock.private.md) 
-- [Tavistock.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tavistock.personal.md) 
-- [Tavistock.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tavistock.secret.md) 

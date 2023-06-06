@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Otterfing](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Otterfing.md) 
-- [Otterfing.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Otterfing.internal.md) 
-- [Otterfing.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Otterfing.protect.md) 
-- [Otterfing.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Otterfing.private.md) 
-- [Otterfing.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Otterfing.personal.md) 
-- [Otterfing.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Otterfing.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kurwien](../../../../../../_public/geo/Continent/Europe/Poland/City/Kurwien.md) 
-- [Kurwien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kurwien.internal.md) 
-- [Kurwien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kurwien.protect.md) 
-- [Kurwien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kurwien.private.md) 
-- [Kurwien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kurwien.personal.md) 
-- [Kurwien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kurwien.secret.md) 

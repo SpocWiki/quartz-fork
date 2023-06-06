@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_payment_method_id](../../../../_public/schema.org/Predicate/Texts/has_payment_method_id.md) 
-- [has_payment_method_id.internal](../../../../_internal/schema.org/Predicate/Texts/has_payment_method_id.internal.md) 
-- [has_payment_method_id.protect](../../../../_protect/schema.org/Predicate/Texts/has_payment_method_id.protect.md) 
-- [has_payment_method_id.private](../../../../_private/schema.org/Predicate/Texts/has_payment_method_id.private.md) 
-- [has_payment_method_id.personal](../../../../_personal/schema.org/Predicate/Texts/has_payment_method_id.personal.md) 
-- [has_payment_method_id.secret](../../../../_secret/schema.org/Predicate/Texts/has_payment_method_id.secret.md) 

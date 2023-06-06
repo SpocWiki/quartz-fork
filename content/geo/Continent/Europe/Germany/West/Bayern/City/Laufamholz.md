@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Laufamholz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.md) 
-- [Laufamholz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.internal.md) 
-- [Laufamholz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.protect.md) 
-- [Laufamholz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.private.md) 
-- [Laufamholz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.personal.md) 
-- [Laufamholz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.secret.md) 

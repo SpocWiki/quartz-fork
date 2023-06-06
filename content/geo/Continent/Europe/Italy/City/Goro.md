@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goro](../../../../../../_public/geo/Continent/Europe/Italy/City/Goro.md) 
-- [Goro.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Goro.internal.md) 
-- [Goro.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Goro.protect.md) 
-- [Goro.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Goro.private.md) 
-- [Goro.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Goro.personal.md) 
-- [Goro.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Goro.secret.md) 

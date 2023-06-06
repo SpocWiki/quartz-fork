@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liaskowik](../../../../../../_public/geo/Continent/Europe/Albania/City/Liaskowik.md) 
-- [Liaskowik.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Liaskowik.internal.md) 
-- [Liaskowik.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Liaskowik.protect.md) 
-- [Liaskowik.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Liaskowik.private.md) 
-- [Liaskowik.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Liaskowik.personal.md) 
-- [Liaskowik.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Liaskowik.secret.md) 

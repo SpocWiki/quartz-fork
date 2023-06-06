@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alteburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Alteburg.md) 
-- [Alteburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Alteburg.internal.md) 
-- [Alteburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Alteburg.protect.md) 
-- [Alteburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Alteburg.private.md) 
-- [Alteburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Alteburg.personal.md) 
-- [Alteburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Alteburg.secret.md) 

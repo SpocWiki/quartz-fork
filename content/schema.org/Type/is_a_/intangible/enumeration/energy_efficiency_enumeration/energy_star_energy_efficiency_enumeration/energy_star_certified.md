@@ -47,10 +47,3 @@ Represents EnergyStar certification.
 
 
 
-## Confidential Links & Embeds: 
-- [energy_star_certified](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.md) 
-- [energy_star_certified.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.internal.md) 
-- [energy_star_certified.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.protect.md) 
-- [energy_star_certified.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.private.md) 
-- [energy_star_certified.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.personal.md) 
-- [energy_star_certified.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.secret.md) 

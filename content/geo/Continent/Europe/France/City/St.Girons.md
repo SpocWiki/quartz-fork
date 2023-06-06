@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Girons](../../../../../../_public/geo/Continent/Europe/France/City/St.Girons.md) 
-- [St.Girons.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Girons.internal.md) 
-- [St.Girons.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Girons.protect.md) 
-- [St.Girons.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Girons.private.md) 
-- [St.Girons.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Girons.personal.md) 
-- [St.Girons.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Girons.secret.md) 

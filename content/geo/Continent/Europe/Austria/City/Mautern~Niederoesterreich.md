@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mautern~Niederoesterreich](../../../../../../_public/geo/Continent/Europe/Austria/City/Mautern~Niederoesterreich.md) 
-- [Mautern~Niederoesterreich.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Mautern~Niederoesterreich.internal.md) 
-- [Mautern~Niederoesterreich.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Mautern~Niederoesterreich.protect.md) 
-- [Mautern~Niederoesterreich.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Mautern~Niederoesterreich.private.md) 
-- [Mautern~Niederoesterreich.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Mautern~Niederoesterreich.personal.md) 
-- [Mautern~Niederoesterreich.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Mautern~Niederoesterreich.secret.md) 

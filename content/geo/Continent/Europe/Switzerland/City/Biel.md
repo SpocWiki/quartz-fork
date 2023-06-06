@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Biel](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Biel.md) 
-- [Biel.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Biel.internal.md) 
-- [Biel.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Biel.protect.md) 
-- [Biel.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Biel.private.md) 
-- [Biel.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Biel.personal.md) 
-- [Biel.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Biel.secret.md) 

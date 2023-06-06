@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seitenberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Seitenberg.md) 
-- [Seitenberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Seitenberg.internal.md) 
-- [Seitenberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Seitenberg.protect.md) 
-- [Seitenberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Seitenberg.private.md) 
-- [Seitenberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Seitenberg.personal.md) 
-- [Seitenberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Seitenberg.secret.md) 

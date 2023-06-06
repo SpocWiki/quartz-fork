@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Mekbuda](../../../_public/astro/Star/Mekbuda.md) 
-- [Mekbuda.internal](../../../_internal/astro/Star/Mekbuda.internal.md) 
-- [Mekbuda.protect](../../../_protect/astro/Star/Mekbuda.protect.md) 
-- [Mekbuda.private](../../../_private/astro/Star/Mekbuda.private.md) 
-- [Mekbuda.personal](../../../_personal/astro/Star/Mekbuda.personal.md) 
-- [Mekbuda.secret](../../../_secret/astro/Star/Mekbuda.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Reliability+Composite_materials-stationary_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Composite_materials-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.md) 
-- [Triz-Reliability+Composite_materials-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.internal.md) 
-- [Triz-Reliability+Composite_materials-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.protect.md) 
-- [Triz-Reliability+Composite_materials-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.private.md) 
-- [Triz-Reliability+Composite_materials-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.personal.md) 
-- [Triz-Reliability+Composite_materials-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Composite_materials-stationary_Duration.secret.md) 

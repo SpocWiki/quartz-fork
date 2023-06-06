@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaufbeuren](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.md) 
-- [Kaufbeuren.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.internal.md) 
-- [Kaufbeuren.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.protect.md) 
-- [Kaufbeuren.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.private.md) 
-- [Kaufbeuren.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.personal.md) 
-- [Kaufbeuren.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kaufbeuren.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Raubach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Raubach.md) 
-- [Raubach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Raubach.internal.md) 
-- [Raubach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Raubach.protect.md) 
-- [Raubach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Raubach.private.md) 
-- [Raubach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Raubach.personal.md) 
-- [Raubach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Raubach.secret.md) 

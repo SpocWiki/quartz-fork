@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heiderscheid](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Heiderscheid.md) 
-- [Heiderscheid.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Heiderscheid.internal.md) 
-- [Heiderscheid.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Heiderscheid.protect.md) 
-- [Heiderscheid.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Heiderscheid.private.md) 
-- [Heiderscheid.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Heiderscheid.personal.md) 
-- [Heiderscheid.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Heiderscheid.secret.md) 

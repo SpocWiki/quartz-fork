@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Persei-9](../../../_public/astro/Star/Persei-9.md) 
-- [Persei-9.internal](../../../_internal/astro/Star/Persei-9.internal.md) 
-- [Persei-9.protect](../../../_protect/astro/Star/Persei-9.protect.md) 
-- [Persei-9.private](../../../_private/astro/Star/Persei-9.private.md) 
-- [Persei-9.personal](../../../_personal/astro/Star/Persei-9.personal.md) 
-- [Persei-9.secret](../../../_secret/astro/Star/Persei-9.secret.md) 

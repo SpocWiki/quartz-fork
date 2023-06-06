@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Triesen](../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Triesen.md) 
-- [Triesen.internal](../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Triesen.internal.md) 
-- [Triesen.protect](../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Triesen.protect.md) 
-- [Triesen.private](../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Triesen.private.md) 
-- [Triesen.personal](../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Triesen.personal.md) 
-- [Triesen.secret](../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Triesen.secret.md) 

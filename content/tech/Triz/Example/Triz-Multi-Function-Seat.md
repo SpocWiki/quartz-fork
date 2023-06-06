@@ -17,10 +17,3 @@ title: Triz-Multi-Function-Seat
 
 Minivan Seat for seating, sleeping, carrying Cargo
 
-## Confidential Links & Embeds: 
-- [Triz-Multi-Function-Seat](../../../../_public/tech/Triz/Example/Triz-Multi-Function-Seat.md) 
-- [Triz-Multi-Function-Seat.internal](../../../../_internal/tech/Triz/Example/Triz-Multi-Function-Seat.internal.md) 
-- [Triz-Multi-Function-Seat.protect](../../../../_protect/tech/Triz/Example/Triz-Multi-Function-Seat.protect.md) 
-- [Triz-Multi-Function-Seat.private](../../../../_private/tech/Triz/Example/Triz-Multi-Function-Seat.private.md) 
-- [Triz-Multi-Function-Seat.personal](../../../../_personal/tech/Triz/Example/Triz-Multi-Function-Seat.personal.md) 
-- [Triz-Multi-Function-Seat.secret](../../../../_secret/tech/Triz/Example/Triz-Multi-Function-Seat.secret.md) 

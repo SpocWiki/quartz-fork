@@ -19,10 +19,3 @@ title: Triz-Stability+Inert_environment-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Inert_environment-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Stability+Inert_environment-Difficulty.md) 
-- [Triz-Stability+Inert_environment-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Inert_environment-Difficulty.internal.md) 
-- [Triz-Stability+Inert_environment-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Inert_environment-Difficulty.protect.md) 
-- [Triz-Stability+Inert_environment-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Inert_environment-Difficulty.private.md) 
-- [Triz-Stability+Inert_environment-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Inert_environment-Difficulty.personal.md) 
-- [Triz-Stability+Inert_environment-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Inert_environment-Difficulty.secret.md) 

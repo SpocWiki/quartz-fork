@@ -43,10 +43,3 @@ Brewery.
 
 
 
-## Confidential Links & Embeds: 
-- [brewery](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.md) 
-- [brewery.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.internal.md) 
-- [brewery.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.protect.md) 
-- [brewery.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.private.md) 
-- [brewery.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.personal.md) 
-- [brewery.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mering](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Mering.md) 
-- [Mering.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mering.internal.md) 
-- [Mering.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mering.protect.md) 
-- [Mering.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mering.private.md) 
-- [Mering.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Mering.personal.md) 
-- [Mering.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Mering.secret.md) 

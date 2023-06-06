@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pr.-Uedem](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Pr.-Uedem.md) 
-- [Pr.-Uedem.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Pr.-Uedem.internal.md) 
-- [Pr.-Uedem.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Pr.-Uedem.protect.md) 
-- [Pr.-Uedem.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Pr.-Uedem.private.md) 
-- [Pr.-Uedem.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Pr.-Uedem.personal.md) 
-- [Pr.-Uedem.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Pr.-Uedem.secret.md) 

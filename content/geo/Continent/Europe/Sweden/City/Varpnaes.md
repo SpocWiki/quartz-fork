@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Varpnaes](../../../../../../_public/geo/Continent/Europe/Sweden/City/Varpnaes.md) 
-- [Varpnaes.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Varpnaes.internal.md) 
-- [Varpnaes.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Varpnaes.protect.md) 
-- [Varpnaes.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Varpnaes.private.md) 
-- [Varpnaes.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Varpnaes.personal.md) 
-- [Varpnaes.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Varpnaes.secret.md) 

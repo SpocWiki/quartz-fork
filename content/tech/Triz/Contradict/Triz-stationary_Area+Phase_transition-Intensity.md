@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Phase_transition-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Phase_transition-Intensity](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Intensity.md) 
-- [Triz-stationary_Area+Phase_transition-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Intensity.internal.md) 
-- [Triz-stationary_Area+Phase_transition-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Intensity.protect.md) 
-- [Triz-stationary_Area+Phase_transition-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Intensity.private.md) 
-- [Triz-stationary_Area+Phase_transition-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Intensity.personal.md) 
-- [Triz-stationary_Area+Phase_transition-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Phase_transition-Intensity.secret.md) 

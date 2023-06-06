@@ -19,10 +19,3 @@ title: Triz-Complexity+Replacement_of_a_mechanical_system-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Replacement_of_a_mechanical_system-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.md) 
-- [Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.internal.md) 
-- [Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.protect.md) 
-- [Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.private.md) 
-- [Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.personal.md) 
-- [Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Replacement_of_a_mechanical_system-Versatility.secret.md) 

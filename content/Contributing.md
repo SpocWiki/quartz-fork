@@ -234,11 +234,3 @@ Thanks to all of the different people who have contributed to this Repository!
 Let's continue to make this a great resource for everybody on this planet.
 
 
-## Confidential Links & Embeds: 
-- [Contributing](../_public/Contributing.md) 
-- [Contributing.internal](../_internal/Contributing.internal.md) 
-- [Contributing.protect](../_protect/Contributing.protect.md) 
-- [Contributing.private](../_private/Contributing.private.md) 
-- [Contributing.personal](../_personal/Contributing.personal.md) 
-- [Contributing.secret](../_secret/Contributing.secret.md)
-

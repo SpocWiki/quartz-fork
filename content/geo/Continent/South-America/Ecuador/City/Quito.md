@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Quito](../../../../../../_public/geo/Continent/South-America/Ecuador/City/Quito.md) 
-- [Quito.internal](../../../../../../_internal/geo/Continent/South-America/Ecuador/City/Quito.internal.md) 
-- [Quito.protect](../../../../../../_protect/geo/Continent/South-America/Ecuador/City/Quito.protect.md) 
-- [Quito.private](../../../../../../_private/geo/Continent/South-America/Ecuador/City/Quito.private.md) 
-- [Quito.personal](../../../../../../_personal/geo/Continent/South-America/Ecuador/City/Quito.personal.md) 
-- [Quito.secret](../../../../../../_secret/geo/Continent/South-America/Ecuador/City/Quito.secret.md) 

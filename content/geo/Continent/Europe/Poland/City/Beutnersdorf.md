@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beutnersdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Beutnersdorf.md) 
-- [Beutnersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Beutnersdorf.internal.md) 
-- [Beutnersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Beutnersdorf.protect.md) 
-- [Beutnersdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Beutnersdorf.private.md) 
-- [Beutnersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Beutnersdorf.personal.md) 
-- [Beutnersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Beutnersdorf.secret.md) 

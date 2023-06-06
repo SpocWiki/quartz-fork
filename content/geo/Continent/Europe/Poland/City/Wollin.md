@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wollin](../../../../../../_public/geo/Continent/Europe/Poland/City/Wollin.md) 
-- [Wollin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wollin.internal.md) 
-- [Wollin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wollin.protect.md) 
-- [Wollin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wollin.private.md) 
-- [Wollin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wollin.personal.md) 
-- [Wollin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wollin.secret.md) 

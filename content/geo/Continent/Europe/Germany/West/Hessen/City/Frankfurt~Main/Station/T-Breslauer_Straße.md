@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Breslauer_Straße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Breslauer_Stra%C3%9Fe.md) 
-- [T-Breslauer_Straße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Breslauer_Stra%C3%9Fe.internal.md) 
-- [T-Breslauer_Straße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Breslauer_Stra%C3%9Fe.protect.md) 
-- [T-Breslauer_Straße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Breslauer_Stra%C3%9Fe.private.md) 
-- [T-Breslauer_Straße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Breslauer_Stra%C3%9Fe.personal.md) 
-- [T-Breslauer_Straße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Breslauer_Stra%C3%9Fe.secret.md) 

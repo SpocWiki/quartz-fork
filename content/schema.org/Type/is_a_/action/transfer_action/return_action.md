@@ -43,10 +43,3 @@ The act of returning to the origin that which was previously received (concrete 
 
 
 
-## Confidential Links & Embeds: 
-- [return_action](../../../../../../_public/schema.org/Type/is_a_/action/transfer_action/return_action.md) 
-- [return_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/transfer_action/return_action.internal.md) 
-- [return_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/transfer_action/return_action.protect.md) 
-- [return_action.private](../../../../../../_private/schema.org/Type/is_a_/action/transfer_action/return_action.private.md) 
-- [return_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/transfer_action/return_action.personal.md) 
-- [return_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/transfer_action/return_action.secret.md) 

@@ -45,10 +45,3 @@ A specific branch of medical science that pertains to treating diseases, injurie
 
 
 
-## Confidential Links & Embeds: 
-- [surgical](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.md) 
-- [surgical.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.internal.md) 
-- [surgical.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.protect.md) 
-- [surgical.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.private.md) 
-- [surgical.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.personal.md) 
-- [surgical.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.secret.md) 

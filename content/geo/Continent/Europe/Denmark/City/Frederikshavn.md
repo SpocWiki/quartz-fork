@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frederikshavn](../../../../../../_public/geo/Continent/Europe/Denmark/City/Frederikshavn.md) 
-- [Frederikshavn.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Frederikshavn.internal.md) 
-- [Frederikshavn.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Frederikshavn.protect.md) 
-- [Frederikshavn.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Frederikshavn.private.md) 
-- [Frederikshavn.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Frederikshavn.personal.md) 
-- [Frederikshavn.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Frederikshavn.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pitea](../../../../../../_public/geo/Continent/Europe/Sweden/City/Pitea.md) 
-- [Pitea.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Pitea.internal.md) 
-- [Pitea.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Pitea.protect.md) 
-- [Pitea.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Pitea.private.md) 
-- [Pitea.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Pitea.personal.md) 
-- [Pitea.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Pitea.secret.md) 

@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_game_tip](../../../../../_public/schema.org/Predicate/Relations/has/has_game_tip.md) 
-- [has_game_tip.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_game_tip.internal.md) 
-- [has_game_tip.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_game_tip.protect.md) 
-- [has_game_tip.private](../../../../../_private/schema.org/Predicate/Relations/has/has_game_tip.private.md) 
-- [has_game_tip.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_game_tip.personal.md) 
-- [has_game_tip.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_game_tip.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Caeli-2](../../../_public/astro/Star/Caeli-2.md) 
-- [Caeli-2.internal](../../../_internal/astro/Star/Caeli-2.internal.md) 
-- [Caeli-2.protect](../../../_protect/astro/Star/Caeli-2.protect.md) 
-- [Caeli-2.private](../../../_private/astro/Star/Caeli-2.private.md) 
-- [Caeli-2.personal](../../../_personal/astro/Star/Caeli-2.personal.md) 
-- [Caeli-2.secret](../../../_secret/astro/Star/Caeli-2.secret.md)
-

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Libreville](../../../../../../_public/geo/Continent/Africa/Gabon/City/Libreville.md) 
-- [Libreville.internal](../../../../../../_internal/geo/Continent/Africa/Gabon/City/Libreville.internal.md) 
-- [Libreville.protect](../../../../../../_protect/geo/Continent/Africa/Gabon/City/Libreville.protect.md) 
-- [Libreville.private](../../../../../../_private/geo/Continent/Africa/Gabon/City/Libreville.private.md) 
-- [Libreville.personal](../../../../../../_personal/geo/Continent/Africa/Gabon/City/Libreville.personal.md) 
-- [Libreville.secret](../../../../../../_secret/geo/Continent/Africa/Gabon/City/Libreville.secret.md) 

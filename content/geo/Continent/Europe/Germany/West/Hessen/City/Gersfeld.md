@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gersfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.md) 
-- [Gersfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.internal.md) 
-- [Gersfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.protect.md) 
-- [Gersfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.private.md) 
-- [Gersfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.personal.md) 
-- [Gersfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Gersfeld.secret.md) 

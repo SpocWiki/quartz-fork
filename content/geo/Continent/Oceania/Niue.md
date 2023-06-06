@@ -128,10 +128,3 @@ markerFolder: ./Niue/City
 
 
 
-## Confidential Links & Embeds: 
-- [Niue](../../../../_public/geo/Continent/Oceania/Niue.md) 
-- [Niue.internal](../../../../_internal/geo/Continent/Oceania/Niue.internal.md) 
-- [Niue.protect](../../../../_protect/geo/Continent/Oceania/Niue.protect.md) 
-- [Niue.private](../../../../_private/geo/Continent/Oceania/Niue.private.md) 
-- [Niue.personal](../../../../_personal/geo/Continent/Oceania/Niue.personal.md) 
-- [Niue.secret](../../../../_secret/geo/Continent/Oceania/Niue.secret.md) 

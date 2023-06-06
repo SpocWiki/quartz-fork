@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Boncourt](../../../../../../_public/geo/Continent/Europe/France/City/Boncourt.md) 
-- [Boncourt.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Boncourt.internal.md) 
-- [Boncourt.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Boncourt.protect.md) 
-- [Boncourt.private](../../../../../../_private/geo/Continent/Europe/France/City/Boncourt.private.md) 
-- [Boncourt.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Boncourt.personal.md) 
-- [Boncourt.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Boncourt.secret.md) 

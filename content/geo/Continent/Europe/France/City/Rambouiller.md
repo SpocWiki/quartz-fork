@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rambouiller](../../../../../../_public/geo/Continent/Europe/France/City/Rambouiller.md) 
-- [Rambouiller.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Rambouiller.internal.md) 
-- [Rambouiller.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Rambouiller.protect.md) 
-- [Rambouiller.private](../../../../../../_private/geo/Continent/Europe/France/City/Rambouiller.private.md) 
-- [Rambouiller.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Rambouiller.personal.md) 
-- [Rambouiller.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Rambouiller.secret.md) 

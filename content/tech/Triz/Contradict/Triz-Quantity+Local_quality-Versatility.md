@@ -19,10 +19,3 @@ title: Triz-Quantity+Local_quality-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Local_quality-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.md) 
-- [Triz-Quantity+Local_quality-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.internal.md) 
-- [Triz-Quantity+Local_quality-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.protect.md) 
-- [Triz-Quantity+Local_quality-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.private.md) 
-- [Triz-Quantity+Local_quality-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.personal.md) 
-- [Triz-Quantity+Local_quality-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Versatility.secret.md) 

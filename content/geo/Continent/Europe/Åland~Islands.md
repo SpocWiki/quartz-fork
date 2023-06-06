@@ -131,10 +131,3 @@ independent	 :: Part of FI ]
 [	Small_Island_Developing_States_(SIDS)	 ::  ]
 
 
-## Confidential Links & Embeds: 
-- [Åland~Islands](../../../../_public/geo/Continent/Europe/%C3%85land~Islands.md) 
-- [Åland~Islands.internal](../../../../_internal/geo/Continent/Europe/%C3%85land~Islands.internal.md) 
-- [Åland~Islands.protect](../../../../_protect/geo/Continent/Europe/%C3%85land~Islands.protect.md) 
-- [Åland~Islands.private](../../../../_private/geo/Continent/Europe/%C3%85land~Islands.private.md) 
-- [Åland~Islands.personal](../../../../_personal/geo/Continent/Europe/%C3%85land~Islands.personal.md) 
-- [Åland~Islands.secret](../../../../_secret/geo/Continent/Europe/%C3%85land~Islands.secret.md) 

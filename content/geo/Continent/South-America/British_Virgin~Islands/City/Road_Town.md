@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Road_Town](../../../../../../_public/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.md) 
-- [Road_Town.internal](../../../../../../_internal/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.internal.md) 
-- [Road_Town.protect](../../../../../../_protect/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.protect.md) 
-- [Road_Town.private](../../../../../../_private/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.private.md) 
-- [Road_Town.personal](../../../../../../_personal/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.personal.md) 
-- [Road_Town.secret](../../../../../../_secret/geo/Continent/South-America/British_Virgin~Islands/City/Road_Town.secret.md) 

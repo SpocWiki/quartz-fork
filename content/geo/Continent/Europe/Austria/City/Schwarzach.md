@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwarzach](../../../../../../_public/geo/Continent/Europe/Austria/City/Schwarzach.md) 
-- [Schwarzach.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwarzach.internal.md) 
-- [Schwarzach.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwarzach.protect.md) 
-- [Schwarzach.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Schwarzach.private.md) 
-- [Schwarzach.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwarzach.personal.md) 
-- [Schwarzach.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwarzach.secret.md) 

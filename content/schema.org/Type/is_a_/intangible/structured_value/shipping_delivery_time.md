@@ -45,10 +45,3 @@ ShippingDeliveryTime provides various pieces of information about delivery times
 
 
 
-## Confidential Links & Embeds: 
-- [shipping_delivery_time](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.md) 
-- [shipping_delivery_time.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.internal.md) 
-- [shipping_delivery_time.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.protect.md) 
-- [shipping_delivery_time.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.private.md) 
-- [shipping_delivery_time.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.personal.md) 
-- [shipping_delivery_time.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.secret.md) 

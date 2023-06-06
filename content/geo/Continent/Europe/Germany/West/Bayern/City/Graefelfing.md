@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Graefelfing](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Graefelfing.md) 
-- [Graefelfing.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Graefelfing.internal.md) 
-- [Graefelfing.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Graefelfing.protect.md) 
-- [Graefelfing.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Graefelfing.private.md) 
-- [Graefelfing.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Graefelfing.personal.md) 
-- [Graefelfing.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Graefelfing.secret.md) 

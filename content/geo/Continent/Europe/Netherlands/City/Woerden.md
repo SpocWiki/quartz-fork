@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Woerden](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Woerden.md) 
-- [Woerden.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Woerden.internal.md) 
-- [Woerden.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Woerden.protect.md) 
-- [Woerden.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Woerden.private.md) 
-- [Woerden.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Woerden.personal.md) 
-- [Woerden.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Woerden.secret.md) 

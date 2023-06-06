@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Prior_action-moving_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Prior_action-moving_Length](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-moving_Length.md) 
-- [Triz-Ease_of_repair+Prior_action-moving_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-moving_Length.internal.md) 
-- [Triz-Ease_of_repair+Prior_action-moving_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-moving_Length.protect.md) 
-- [Triz-Ease_of_repair+Prior_action-moving_Length.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-moving_Length.private.md) 
-- [Triz-Ease_of_repair+Prior_action-moving_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-moving_Length.personal.md) 
-- [Triz-Ease_of_repair+Prior_action-moving_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Prior_action-moving_Length.secret.md) 

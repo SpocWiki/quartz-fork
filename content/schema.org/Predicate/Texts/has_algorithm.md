@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_algorithm](../../../../_public/schema.org/Predicate/Texts/has_algorithm.md) 
-- [has_algorithm.internal](../../../../_internal/schema.org/Predicate/Texts/has_algorithm.internal.md) 
-- [has_algorithm.protect](../../../../_protect/schema.org/Predicate/Texts/has_algorithm.protect.md) 
-- [has_algorithm.private](../../../../_private/schema.org/Predicate/Texts/has_algorithm.private.md) 
-- [has_algorithm.personal](../../../../_personal/schema.org/Predicate/Texts/has_algorithm.personal.md) 
-- [has_algorithm.secret](../../../../_secret/schema.org/Predicate/Texts/has_algorithm.secret.md) 

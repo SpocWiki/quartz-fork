@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Masun](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Masun.md) 
-- [Masun.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Masun.internal.md) 
-- [Masun.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Masun.protect.md) 
-- [Masun.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Masun.private.md) 
-- [Masun.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Masun.personal.md) 
-- [Masun.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Masun.secret.md) 

@@ -17,10 +17,3 @@ title: Triz-Mountain_to_Mohammed
 
 Bring the Mountain to Mohammed, instead of bringing Mohammed to the Mountain.
 
-## Confidential Links & Embeds: 
-- [Triz-Mountain_to_Mohammed](../../../../_public/tech/Triz/Example/Triz-Mountain_to_Mohammed.md) 
-- [Triz-Mountain_to_Mohammed.internal](../../../../_internal/tech/Triz/Example/Triz-Mountain_to_Mohammed.internal.md) 
-- [Triz-Mountain_to_Mohammed.protect](../../../../_protect/tech/Triz/Example/Triz-Mountain_to_Mohammed.protect.md) 
-- [Triz-Mountain_to_Mohammed.private](../../../../_private/tech/Triz/Example/Triz-Mountain_to_Mohammed.private.md) 
-- [Triz-Mountain_to_Mohammed.personal](../../../../_personal/tech/Triz/Example/Triz-Mountain_to_Mohammed.personal.md) 
-- [Triz-Mountain_to_Mohammed.secret](../../../../_secret/tech/Triz/Example/Triz-Mountain_to_Mohammed.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kreiensen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kreiensen.md) 
-- [Kreiensen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kreiensen.internal.md) 
-- [Kreiensen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kreiensen.protect.md) 
-- [Kreiensen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kreiensen.private.md) 
-- [Kreiensen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kreiensen.personal.md) 
-- [Kreiensen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kreiensen.secret.md) 

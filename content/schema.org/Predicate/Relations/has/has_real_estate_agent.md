@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_real_estate_agent](../../../../../_public/schema.org/Predicate/Relations/has/has_real_estate_agent.md) 
-- [has_real_estate_agent.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_real_estate_agent.internal.md) 
-- [has_real_estate_agent.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_real_estate_agent.protect.md) 
-- [has_real_estate_agent.private](../../../../../_private/schema.org/Predicate/Relations/has/has_real_estate_agent.private.md) 
-- [has_real_estate_agent.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_real_estate_agent.personal.md) 
-- [has_real_estate_agent.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_real_estate_agent.secret.md) 

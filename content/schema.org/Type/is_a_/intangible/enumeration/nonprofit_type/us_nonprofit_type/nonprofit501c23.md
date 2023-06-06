@@ -47,10 +47,3 @@ Nonprofit501c23: Non-profit type referring to Veterans Organizations.
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c23](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c23.md) 
-- [nonprofit501c23.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c23.internal.md) 
-- [nonprofit501c23.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c23.protect.md) 
-- [nonprofit501c23.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c23.private.md) 
-- [nonprofit501c23.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c23.personal.md) 
-- [nonprofit501c23.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c23.secret.md) 

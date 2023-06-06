@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Greifendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Greifendorf.md) 
-- [Greifendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Greifendorf.internal.md) 
-- [Greifendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Greifendorf.protect.md) 
-- [Greifendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Greifendorf.private.md) 
-- [Greifendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Greifendorf.personal.md) 
-- [Greifendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Greifendorf.secret.md) 

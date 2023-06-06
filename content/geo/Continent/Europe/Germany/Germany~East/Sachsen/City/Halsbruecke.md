@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Halsbruecke](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Halsbruecke.md) 
-- [Halsbruecke.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Halsbruecke.internal.md) 
-- [Halsbruecke.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Halsbruecke.protect.md) 
-- [Halsbruecke.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Halsbruecke.private.md) 
-- [Halsbruecke.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Halsbruecke.personal.md) 
-- [Halsbruecke.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Halsbruecke.secret.md) 

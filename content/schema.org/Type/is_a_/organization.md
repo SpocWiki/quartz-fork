@@ -45,10 +45,3 @@ An organization such as a school, NGO, corporation, club, etc.
 
 
 
-## Confidential Links & Embeds: 
-- [organization](../../../../_public/schema.org/Type/is_a_/organization.md) 
-- [organization.internal](../../../../_internal/schema.org/Type/is_a_/organization.internal.md) 
-- [organization.protect](../../../../_protect/schema.org/Type/is_a_/organization.protect.md) 
-- [organization.private](../../../../_private/schema.org/Type/is_a_/organization.private.md) 
-- [organization.personal](../../../../_personal/schema.org/Type/is_a_/organization.personal.md) 
-- [organization.secret](../../../../_secret/schema.org/Type/is_a_/organization.secret.md) 

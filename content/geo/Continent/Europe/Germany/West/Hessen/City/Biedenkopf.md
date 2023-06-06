@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Biedenkopf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.md) 
-- [Biedenkopf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.internal.md) 
-- [Biedenkopf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.protect.md) 
-- [Biedenkopf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.private.md) 
-- [Biedenkopf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.personal.md) 
-- [Biedenkopf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Biedenkopf.secret.md) 

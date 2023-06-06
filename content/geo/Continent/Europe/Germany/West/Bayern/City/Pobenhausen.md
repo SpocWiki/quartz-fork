@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pobenhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Pobenhausen.md) 
-- [Pobenhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pobenhausen.internal.md) 
-- [Pobenhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pobenhausen.protect.md) 
-- [Pobenhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pobenhausen.private.md) 
-- [Pobenhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pobenhausen.personal.md) 
-- [Pobenhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pobenhausen.secret.md) 

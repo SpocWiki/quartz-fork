@@ -45,10 +45,3 @@ Car repair, sales, or parts.
 
 
 
-## Confidential Links & Embeds: 
-- [automotive_business](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business.md) 
-- [automotive_business.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business.internal.md) 
-- [automotive_business.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business.protect.md) 
-- [automotive_business.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business.private.md) 
-- [automotive_business.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business.personal.md) 
-- [automotive_business.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business.secret.md) 

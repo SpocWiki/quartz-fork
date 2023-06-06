@@ -43,10 +43,3 @@ A radio episode which can be part of a series or season.
 
 
 
-## Confidential Links & Embeds: 
-- [radio_episode](../../../../../../_public/schema.org/Type/is_a_/creative_work/episode/radio_episode.md) 
-- [radio_episode.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/episode/radio_episode.internal.md) 
-- [radio_episode.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/episode/radio_episode.protect.md) 
-- [radio_episode.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/episode/radio_episode.private.md) 
-- [radio_episode.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/episode/radio_episode.personal.md) 
-- [radio_episode.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/episode/radio_episode.secret.md) 

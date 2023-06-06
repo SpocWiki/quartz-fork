@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koschkow](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Koschkow.md) 
-- [Koschkow.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Koschkow.internal.md) 
-- [Koschkow.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Koschkow.protect.md) 
-- [Koschkow.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Koschkow.private.md) 
-- [Koschkow.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Koschkow.personal.md) 
-- [Koschkow.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Koschkow.secret.md) 

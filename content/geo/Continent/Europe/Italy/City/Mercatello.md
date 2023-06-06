@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mercatello](../../../../../../_public/geo/Continent/Europe/Italy/City/Mercatello.md) 
-- [Mercatello.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Mercatello.internal.md) 
-- [Mercatello.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Mercatello.protect.md) 
-- [Mercatello.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Mercatello.private.md) 
-- [Mercatello.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Mercatello.personal.md) 
-- [Mercatello.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Mercatello.secret.md) 

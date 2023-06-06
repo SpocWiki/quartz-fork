@@ -43,10 +43,3 @@ The most generic type of item.
 
 
 
-## Confidential Links & Embeds: 
-- [is_a_](../../../_public/schema.org/Type/is_a_.md) 
-- [is_a_.internal](../../../_internal/schema.org/Type/is_a_.internal.md) 
-- [is_a_.protect](../../../_protect/schema.org/Type/is_a_.protect.md) 
-- [is_a_.private](../../../_private/schema.org/Type/is_a_.private.md) 
-- [is_a_.personal](../../../_personal/schema.org/Type/is_a_.personal.md) 
-- [is_a_.secret](../../../_secret/schema.org/Type/is_a_.secret.md) 

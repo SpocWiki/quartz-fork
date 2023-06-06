@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lugoj](../../../../../../_public/geo/Continent/Europe/Romania/City/Lugoj.md) 
-- [Lugoj.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Lugoj.internal.md) 
-- [Lugoj.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Lugoj.protect.md) 
-- [Lugoj.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Lugoj.private.md) 
-- [Lugoj.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Lugoj.personal.md) 
-- [Lugoj.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Lugoj.secret.md) 

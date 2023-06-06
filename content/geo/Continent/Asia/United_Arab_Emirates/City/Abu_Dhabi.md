@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abu_Dhabi](../../../../../../_public/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.md) 
-- [Abu_Dhabi.internal](../../../../../../_internal/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.internal.md) 
-- [Abu_Dhabi.protect](../../../../../../_protect/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.protect.md) 
-- [Abu_Dhabi.private](../../../../../../_private/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.private.md) 
-- [Abu_Dhabi.personal](../../../../../../_personal/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.personal.md) 
-- [Abu_Dhabi.secret](../../../../../../_secret/geo/Continent/Asia/United_Arab_Emirates/City/Abu_Dhabi.secret.md) 

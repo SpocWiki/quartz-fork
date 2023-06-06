@@ -19,10 +19,3 @@ title: Triz-generated_harm+Segmentation-stationary_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Segmentation-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Segmentation-stationary_Area.md) 
-- [Triz-generated_harm+Segmentation-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-stationary_Area.internal.md) 
-- [Triz-generated_harm+Segmentation-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Segmentation-stationary_Area.protect.md) 
-- [Triz-generated_harm+Segmentation-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Segmentation-stationary_Area.private.md) 
-- [Triz-generated_harm+Segmentation-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-stationary_Area.personal.md) 
-- [Triz-generated_harm+Segmentation-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Segmentation-stationary_Area.secret.md) 

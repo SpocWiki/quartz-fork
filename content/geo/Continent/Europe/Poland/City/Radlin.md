@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radlin](../../../../../../_public/geo/Continent/Europe/Poland/City/Radlin.md) 
-- [Radlin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Radlin.internal.md) 
-- [Radlin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Radlin.protect.md) 
-- [Radlin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Radlin.private.md) 
-- [Radlin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Radlin.personal.md) 
-- [Radlin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Radlin.secret.md) 

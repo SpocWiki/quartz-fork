@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Coleraine](../../../../../../_public/geo/Continent/Europe/Ireland/City/Coleraine.md) 
-- [Coleraine.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Coleraine.internal.md) 
-- [Coleraine.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Coleraine.protect.md) 
-- [Coleraine.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Coleraine.private.md) 
-- [Coleraine.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Coleraine.personal.md) 
-- [Coleraine.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Coleraine.secret.md) 

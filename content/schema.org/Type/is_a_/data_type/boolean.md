@@ -41,10 +41,3 @@ Boolean: True or False.
 
 
 
-## Confidential Links & Embeds: 
-- [boolean](../../../../../_public/schema.org/Type/is_a_/data_type/boolean.md) 
-- [boolean.internal](../../../../../_internal/schema.org/Type/is_a_/data_type/boolean.internal.md) 
-- [boolean.protect](../../../../../_protect/schema.org/Type/is_a_/data_type/boolean.protect.md) 
-- [boolean.private](../../../../../_private/schema.org/Type/is_a_/data_type/boolean.private.md) 
-- [boolean.personal](../../../../../_personal/schema.org/Type/is_a_/data_type/boolean.personal.md) 
-- [boolean.secret](../../../../../_secret/schema.org/Type/is_a_/data_type/boolean.secret.md) 

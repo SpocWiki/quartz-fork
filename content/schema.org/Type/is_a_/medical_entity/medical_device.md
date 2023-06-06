@@ -45,10 +45,3 @@ Any object used in a medical capacity, such as to diagnose or treat a patient.
 
 
 
-## Confidential Links & Embeds: 
-- [medical_device](../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_device.md) 
-- [medical_device.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_device.internal.md) 
-- [medical_device.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_device.protect.md) 
-- [medical_device.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_device.private.md) 
-- [medical_device.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_device.personal.md) 
-- [medical_device.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_device.secret.md) 

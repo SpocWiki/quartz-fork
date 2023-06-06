@@ -36,10 +36,3 @@ markerFolder: ./Saint-Pierre-et-Miquelon/City
 
 
 
-## Confidential Links & Embeds: 
-- [Saint-Pierre-et-Miquelon](../../../../_public/geo/Continent/North-America/Saint-Pierre-et-Miquelon.md) 
-- [Saint-Pierre-et-Miquelon.internal](../../../../_internal/geo/Continent/North-America/Saint-Pierre-et-Miquelon.internal.md) 
-- [Saint-Pierre-et-Miquelon.protect](../../../../_protect/geo/Continent/North-America/Saint-Pierre-et-Miquelon.protect.md) 
-- [Saint-Pierre-et-Miquelon.private](../../../../_private/geo/Continent/North-America/Saint-Pierre-et-Miquelon.private.md) 
-- [Saint-Pierre-et-Miquelon.personal](../../../../_personal/geo/Continent/North-America/Saint-Pierre-et-Miquelon.personal.md) 
-- [Saint-Pierre-et-Miquelon.secret](../../../../_secret/geo/Continent/North-America/Saint-Pierre-et-Miquelon.secret.md) 

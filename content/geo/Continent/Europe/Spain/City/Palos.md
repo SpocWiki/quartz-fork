@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palos](../../../../../../_public/geo/Continent/Europe/Spain/City/Palos.md) 
-- [Palos.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Palos.internal.md) 
-- [Palos.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Palos.protect.md) 
-- [Palos.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Palos.private.md) 
-- [Palos.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Palos.personal.md) 
-- [Palos.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Palos.secret.md) 

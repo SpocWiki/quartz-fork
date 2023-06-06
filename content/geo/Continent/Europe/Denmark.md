@@ -123,7 +123,7 @@ markerFolder: ./Denmark/City
 [VehicleCode::DK]
 [Capital::[Copenhagen](geo/Continent/Europe/Denmark/City/Copenhagen.md)]
 ![350](Coat_of_arms_of_Denmark.svg)
-![Anthem-Denmark](xLarge/National-Anthem/Anthem-Denmark.mp3)
+[Anthem-Denmark](xLarge/National-Anthem/Anthem-Denmark.mp3)
 ![350](geo/Continent/Europe/Denmark/Flag_of_Denmark.svg)
 [Alcohol-l::13.4]
 [Language-Id::]
@@ -132,10 +132,3 @@ markerFolder: ./Denmark/City
 
 
 
-## Confidential Links & Embeds: 
-- [Denmark](../../../../_public/geo/Continent/Europe/Denmark.md) 
-- [Denmark.internal](../../../../_internal/geo/Continent/Europe/Denmark.internal.md) 
-- [Denmark.protect](../../../../_protect/geo/Continent/Europe/Denmark.protect.md) 
-- [Denmark.private](../../../../_private/geo/Continent/Europe/Denmark.private.md) 
-- [Denmark.personal](../../../../_personal/geo/Continent/Europe/Denmark.personal.md) 
-- [Denmark.secret](../../../../_secret/geo/Continent/Europe/Denmark.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cromarty](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cromarty.md) 
-- [Cromarty.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cromarty.internal.md) 
-- [Cromarty.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cromarty.protect.md) 
-- [Cromarty.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cromarty.private.md) 
-- [Cromarty.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cromarty.personal.md) 
-- [Cromarty.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cromarty.secret.md) 

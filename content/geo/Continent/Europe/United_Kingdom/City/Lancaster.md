@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lancaster](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lancaster.md) 
-- [Lancaster.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lancaster.internal.md) 
-- [Lancaster.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lancaster.protect.md) 
-- [Lancaster.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lancaster.private.md) 
-- [Lancaster.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lancaster.personal.md) 
-- [Lancaster.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lancaster.secret.md) 

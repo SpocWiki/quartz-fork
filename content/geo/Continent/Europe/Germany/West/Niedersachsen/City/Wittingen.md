@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wittingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittingen.md) 
-- [Wittingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittingen.internal.md) 
-- [Wittingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittingen.protect.md) 
-- [Wittingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittingen.private.md) 
-- [Wittingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittingen.personal.md) 
-- [Wittingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wittingen.secret.md) 

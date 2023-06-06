@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Puteaux](../../../../../../_public/geo/Continent/Europe/France/City/Puteaux.md) 
-- [Puteaux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Puteaux.internal.md) 
-- [Puteaux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Puteaux.protect.md) 
-- [Puteaux.private](../../../../../../_private/geo/Continent/Europe/France/City/Puteaux.private.md) 
-- [Puteaux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Puteaux.personal.md) 
-- [Puteaux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Puteaux.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schluschow](../../../../../../_public/geo/Continent/Europe/Poland/City/Schluschow.md) 
-- [Schluschow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schluschow.internal.md) 
-- [Schluschow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schluschow.protect.md) 
-- [Schluschow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schluschow.private.md) 
-- [Schluschow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schluschow.personal.md) 
-- [Schluschow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schluschow.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Komarom](../../../../../../_public/geo/Continent/Europe/Hungary/City/Komarom.md) 
-- [Komarom.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Komarom.internal.md) 
-- [Komarom.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Komarom.protect.md) 
-- [Komarom.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Komarom.private.md) 
-- [Komarom.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Komarom.personal.md) 
-- [Komarom.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Komarom.secret.md) 

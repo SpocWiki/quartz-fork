@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gettorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gettorf.md) 
-- [Gettorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gettorf.internal.md) 
-- [Gettorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gettorf.protect.md) 
-- [Gettorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gettorf.private.md) 
-- [Gettorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gettorf.personal.md) 
-- [Gettorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gettorf.secret.md) 

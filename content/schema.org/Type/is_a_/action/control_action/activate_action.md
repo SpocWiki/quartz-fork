@@ -43,10 +43,3 @@ The act of starting or activating a device or application (e.g. starting a timer
 
 
 
-## Confidential Links & Embeds: 
-- [activate_action](../../../../../../_public/schema.org/Type/is_a_/action/control_action/activate_action.md) 
-- [activate_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/control_action/activate_action.internal.md) 
-- [activate_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/control_action/activate_action.protect.md) 
-- [activate_action.private](../../../../../../_private/schema.org/Type/is_a_/action/control_action/activate_action.private.md) 
-- [activate_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/control_action/activate_action.personal.md) 
-- [activate_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/control_action/activate_action.secret.md) 

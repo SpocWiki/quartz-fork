@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Inversion-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Inversion-Speed](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.md) 
-- [Triz-Substance-Loss+Inversion-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.internal.md) 
-- [Triz-Substance-Loss+Inversion-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.protect.md) 
-- [Triz-Substance-Loss+Inversion-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.private.md) 
-- [Triz-Substance-Loss+Inversion-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.personal.md) 
-- [Triz-Substance-Loss+Inversion-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Inversion-Speed.secret.md) 

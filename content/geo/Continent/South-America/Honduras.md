@@ -122,7 +122,7 @@ markerFolder: ./Honduras/City
 
 ![350](geo/Continent/South-America/Honduras/Coat_of_arms_of_Honduras.svg)
 
-![Anthem-Honduras](xLarge/National-Anthem/Anthem-Honduras.mp3)
+[Anthem-Honduras](xLarge/National-Anthem/Anthem-Honduras.mp3)
 
 ![350](geo/Continent/South-America/Honduras/Flag_of_Honduras.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Honduras/City
 
 
 
-## Confidential Links & Embeds: 
-- [Honduras](../../../../_public/geo/Continent/South-America/Honduras.md) 
-- [Honduras.internal](../../../../_internal/geo/Continent/South-America/Honduras.internal.md) 
-- [Honduras.protect](../../../../_protect/geo/Continent/South-America/Honduras.protect.md) 
-- [Honduras.private](../../../../_private/geo/Continent/South-America/Honduras.private.md) 
-- [Honduras.personal](../../../../_personal/geo/Continent/South-America/Honduras.personal.md) 
-- [Honduras.secret](../../../../_secret/geo/Continent/South-America/Honduras.secret.md) 

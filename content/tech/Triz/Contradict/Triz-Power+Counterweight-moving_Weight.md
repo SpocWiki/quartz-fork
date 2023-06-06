@@ -19,10 +19,3 @@ title: Triz-Power+Counterweight-moving_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Counterweight-moving_Weight](../../../../_public/tech/Triz/Contradict/Triz-Power+Counterweight-moving_Weight.md) 
-- [Triz-Power+Counterweight-moving_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Counterweight-moving_Weight.internal.md) 
-- [Triz-Power+Counterweight-moving_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Counterweight-moving_Weight.protect.md) 
-- [Triz-Power+Counterweight-moving_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Counterweight-moving_Weight.private.md) 
-- [Triz-Power+Counterweight-moving_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Counterweight-moving_Weight.personal.md) 
-- [Triz-Power+Counterweight-moving_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Counterweight-moving_Weight.secret.md) 

@@ -43,10 +43,3 @@ Event type: Sales event.
 
 
 
-## Confidential Links & Embeds: 
-- [sale_event](../../../../../_public/schema.org/Type/is_a_/event/sale_event.md) 
-- [sale_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/sale_event.internal.md) 
-- [sale_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/sale_event.protect.md) 
-- [sale_event.private](../../../../../_private/schema.org/Type/is_a_/event/sale_event.private.md) 
-- [sale_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/sale_event.personal.md) 
-- [sale_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/sale_event.secret.md) 

@@ -45,10 +45,3 @@ A terminal for boats, ships, and other water vessels.
 
 
 
-## Confidential Links & Embeds: 
-- [boat_terminal](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/boat_terminal.md) 
-- [boat_terminal.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/boat_terminal.internal.md) 
-- [boat_terminal.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/boat_terminal.protect.md) 
-- [boat_terminal.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/boat_terminal.private.md) 
-- [boat_terminal.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/boat_terminal.personal.md) 
-- [boat_terminal.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/boat_terminal.secret.md) 

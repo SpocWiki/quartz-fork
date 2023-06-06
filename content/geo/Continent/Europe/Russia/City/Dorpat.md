@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dorpat](../../../../../../_public/geo/Continent/Europe/Russia/City/Dorpat.md) 
-- [Dorpat.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Dorpat.internal.md) 
-- [Dorpat.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Dorpat.protect.md) 
-- [Dorpat.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Dorpat.private.md) 
-- [Dorpat.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Dorpat.personal.md) 
-- [Dorpat.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Dorpat.secret.md) 

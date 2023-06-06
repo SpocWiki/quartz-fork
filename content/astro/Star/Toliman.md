@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Toliman](../../../_public/astro/Star/Toliman.md) 
-- [Toliman.internal](../../../_internal/astro/Star/Toliman.internal.md) 
-- [Toliman.protect](../../../_protect/astro/Star/Toliman.protect.md) 
-- [Toliman.private](../../../_private/astro/Star/Toliman.private.md) 
-- [Toliman.personal](../../../_personal/astro/Star/Toliman.personal.md) 
-- [Toliman.secret](../../../_secret/astro/Star/Toliman.secret.md) 

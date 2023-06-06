@@ -19,10 +19,3 @@ title: Triz-stationary_Duration+Local_quality-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Duration+Local_quality-Stability](../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Stability.md) 
-- [Triz-stationary_Duration+Local_quality-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Stability.internal.md) 
-- [Triz-stationary_Duration+Local_quality-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Stability.protect.md) 
-- [Triz-stationary_Duration+Local_quality-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Stability.private.md) 
-- [Triz-stationary_Duration+Local_quality-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Stability.personal.md) 
-- [Triz-stationary_Duration+Local_quality-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Local_quality-Stability.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kronstadt](../../../../../../_public/geo/Continent/Europe/Russia/City/Kronstadt.md) 
-- [Kronstadt.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kronstadt.internal.md) 
-- [Kronstadt.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kronstadt.protect.md) 
-- [Kronstadt.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kronstadt.private.md) 
-- [Kronstadt.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kronstadt.personal.md) 
-- [Kronstadt.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kronstadt.secret.md) 

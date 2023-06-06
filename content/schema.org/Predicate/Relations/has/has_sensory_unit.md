@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_sensory_unit](../../../../../_public/schema.org/Predicate/Relations/has/has_sensory_unit.md) 
-- [has_sensory_unit.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_sensory_unit.internal.md) 
-- [has_sensory_unit.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_sensory_unit.protect.md) 
-- [has_sensory_unit.private](../../../../../_private/schema.org/Predicate/Relations/has/has_sensory_unit.private.md) 
-- [has_sensory_unit.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_sensory_unit.personal.md) 
-- [has_sensory_unit.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_sensory_unit.secret.md) 

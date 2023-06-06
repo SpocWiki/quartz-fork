@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolfratshausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wolfratshausen.md) 
-- [Wolfratshausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wolfratshausen.internal.md) 
-- [Wolfratshausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wolfratshausen.protect.md) 
-- [Wolfratshausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wolfratshausen.private.md) 
-- [Wolfratshausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wolfratshausen.personal.md) 
-- [Wolfratshausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wolfratshausen.secret.md) 

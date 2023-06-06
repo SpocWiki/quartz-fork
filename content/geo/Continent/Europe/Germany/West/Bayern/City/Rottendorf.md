@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rottendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Rottendorf.md) 
-- [Rottendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rottendorf.internal.md) 
-- [Rottendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rottendorf.protect.md) 
-- [Rottendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rottendorf.private.md) 
-- [Rottendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rottendorf.personal.md) 
-- [Rottendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rottendorf.secret.md) 

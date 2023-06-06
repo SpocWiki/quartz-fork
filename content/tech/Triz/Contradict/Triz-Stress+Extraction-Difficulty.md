@@ -19,10 +19,3 @@ title: Triz-Stress+Extraction-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Extraction-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Stress+Extraction-Difficulty.md) 
-- [Triz-Stress+Extraction-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Extraction-Difficulty.internal.md) 
-- [Triz-Stress+Extraction-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Extraction-Difficulty.protect.md) 
-- [Triz-Stress+Extraction-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Extraction-Difficulty.private.md) 
-- [Triz-Stress+Extraction-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Extraction-Difficulty.personal.md) 
-- [Triz-Stress+Extraction-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Extraction-Difficulty.secret.md) 

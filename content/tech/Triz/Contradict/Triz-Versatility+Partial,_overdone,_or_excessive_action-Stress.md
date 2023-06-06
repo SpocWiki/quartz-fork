@@ -19,10 +19,3 @@ title: Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.md) 
-- [Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.internal.md) 
-- [Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.protect.md) 
-- [Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.private.md) 
-- [Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.personal.md) 
-- [Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Partial,_overdone,_or_excessive_action-Stress.secret.md) 

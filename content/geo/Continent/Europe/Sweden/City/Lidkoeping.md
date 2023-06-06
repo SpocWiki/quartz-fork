@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lidkoeping](../../../../../../_public/geo/Continent/Europe/Sweden/City/Lidkoeping.md) 
-- [Lidkoeping.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lidkoeping.internal.md) 
-- [Lidkoeping.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lidkoeping.protect.md) 
-- [Lidkoeping.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Lidkoeping.private.md) 
-- [Lidkoeping.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lidkoeping.personal.md) 
-- [Lidkoeping.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lidkoeping.secret.md) 

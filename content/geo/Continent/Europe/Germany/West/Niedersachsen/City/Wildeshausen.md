@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wildeshausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.md) 
-- [Wildeshausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.internal.md) 
-- [Wildeshausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.protect.md) 
-- [Wildeshausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.private.md) 
-- [Wildeshausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.personal.md) 
-- [Wildeshausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wildeshausen.secret.md) 

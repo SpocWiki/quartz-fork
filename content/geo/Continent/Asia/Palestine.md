@@ -108,10 +108,3 @@ Languages: [ar-PS]
 [	ISO3166-1-numeric	 :: 275 ]
 
 
-## Confidential Links & Embeds: 
-- [Palestine](../../../../_public/geo/Continent/Asia/Palestine.md) 
-- [Palestine.internal](../../../../_internal/geo/Continent/Asia/Palestine.internal.md) 
-- [Palestine.protect](../../../../_protect/geo/Continent/Asia/Palestine.protect.md) 
-- [Palestine.private](../../../../_private/geo/Continent/Asia/Palestine.private.md) 
-- [Palestine.personal](../../../../_personal/geo/Continent/Asia/Palestine.personal.md) 
-- [Palestine.secret](../../../../_secret/geo/Continent/Asia/Palestine.secret.md) 

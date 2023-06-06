@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palanzo](../../../../../../_public/geo/Continent/Europe/Italy/City/Palanzo.md) 
-- [Palanzo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Palanzo.internal.md) 
-- [Palanzo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Palanzo.protect.md) 
-- [Palanzo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Palanzo.private.md) 
-- [Palanzo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Palanzo.personal.md) 
-- [Palanzo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Palanzo.secret.md) 

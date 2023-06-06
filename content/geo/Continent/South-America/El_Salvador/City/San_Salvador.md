@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [San_Salvador](../../../../../../_public/geo/Continent/South-America/El_Salvador/City/San_Salvador.md) 
-- [San_Salvador.internal](../../../../../../_internal/geo/Continent/South-America/El_Salvador/City/San_Salvador.internal.md) 
-- [San_Salvador.protect](../../../../../../_protect/geo/Continent/South-America/El_Salvador/City/San_Salvador.protect.md) 
-- [San_Salvador.private](../../../../../../_private/geo/Continent/South-America/El_Salvador/City/San_Salvador.private.md) 
-- [San_Salvador.personal](../../../../../../_personal/geo/Continent/South-America/El_Salvador/City/San_Salvador.personal.md) 
-- [San_Salvador.secret](../../../../../../_secret/geo/Continent/South-America/El_Salvador/City/San_Salvador.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hallstatt](../../../../../../_public/geo/Continent/Europe/Austria/City/Hallstatt.md) 
-- [Hallstatt.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Hallstatt.internal.md) 
-- [Hallstatt.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Hallstatt.protect.md) 
-- [Hallstatt.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Hallstatt.private.md) 
-- [Hallstatt.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Hallstatt.personal.md) 
-- [Hallstatt.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Hallstatt.secret.md) 

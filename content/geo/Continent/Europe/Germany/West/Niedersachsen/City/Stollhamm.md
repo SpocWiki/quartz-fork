@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stollhamm](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stollhamm.md) 
-- [Stollhamm.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stollhamm.internal.md) 
-- [Stollhamm.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stollhamm.protect.md) 
-- [Stollhamm.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stollhamm.private.md) 
-- [Stollhamm.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stollhamm.personal.md) 
-- [Stollhamm.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stollhamm.secret.md) 

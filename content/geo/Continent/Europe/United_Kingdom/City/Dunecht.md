@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dunecht](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dunecht.md) 
-- [Dunecht.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dunecht.internal.md) 
-- [Dunecht.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dunecht.protect.md) 
-- [Dunecht.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dunecht.private.md) 
-- [Dunecht.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dunecht.personal.md) 
-- [Dunecht.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dunecht.secret.md) 

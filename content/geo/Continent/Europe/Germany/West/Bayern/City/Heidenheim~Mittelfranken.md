@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heidenheim~Mittelfranken](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.md) 
-- [Heidenheim~Mittelfranken.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.internal.md) 
-- [Heidenheim~Mittelfranken.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.protect.md) 
-- [Heidenheim~Mittelfranken.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.private.md) 
-- [Heidenheim~Mittelfranken.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.personal.md) 
-- [Heidenheim~Mittelfranken.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.secret.md) 

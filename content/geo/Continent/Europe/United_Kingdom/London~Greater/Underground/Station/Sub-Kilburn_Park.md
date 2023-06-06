@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Kilburn_Park](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kilburn_Park.md) 
-- [Sub-Kilburn_Park.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kilburn_Park.internal.md) 
-- [Sub-Kilburn_Park.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kilburn_Park.protect.md) 
-- [Sub-Kilburn_Park.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kilburn_Park.private.md) 
-- [Sub-Kilburn_Park.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kilburn_Park.personal.md) 
-- [Sub-Kilburn_Park.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kilburn_Park.secret.md) 

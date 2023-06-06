@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Manchester](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Manchester.md) 
-- [Manchester.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Manchester.internal.md) 
-- [Manchester.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Manchester.protect.md) 
-- [Manchester.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Manchester.private.md) 
-- [Manchester.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Manchester.personal.md) 
-- [Manchester.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Manchester.secret.md) 

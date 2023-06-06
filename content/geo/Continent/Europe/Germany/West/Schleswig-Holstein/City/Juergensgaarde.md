@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Juergensgaarde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.md) 
-- [Juergensgaarde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.internal.md) 
-- [Juergensgaarde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.protect.md) 
-- [Juergensgaarde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.private.md) 
-- [Juergensgaarde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.personal.md) 
-- [Juergensgaarde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Juergensgaarde.secret.md) 

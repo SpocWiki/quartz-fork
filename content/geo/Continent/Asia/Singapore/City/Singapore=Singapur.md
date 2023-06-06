@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Singapore=Singapur](../../../../../../_public/geo/Continent/Asia/Singapore/City/Singapore=Singapur.md) 
-- [Singapore=Singapur.internal](../../../../../../_internal/geo/Continent/Asia/Singapore/City/Singapore=Singapur.internal.md) 
-- [Singapore=Singapur.protect](../../../../../../_protect/geo/Continent/Asia/Singapore/City/Singapore=Singapur.protect.md) 
-- [Singapore=Singapur.private](../../../../../../_private/geo/Continent/Asia/Singapore/City/Singapore=Singapur.private.md) 
-- [Singapore=Singapur.personal](../../../../../../_personal/geo/Continent/Asia/Singapore/City/Singapore=Singapur.personal.md) 
-- [Singapore=Singapur.secret](../../../../../../_secret/geo/Continent/Asia/Singapore/City/Singapore=Singapur.secret.md) 

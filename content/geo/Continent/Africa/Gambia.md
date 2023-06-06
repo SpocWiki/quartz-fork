@@ -126,7 +126,7 @@ markerFolder: ./Gambia/City
 
 ![650](geo/Continent/Africa/Gambia/Coat_of_arms_of_Gambia.svg)
 
-![Anthem-Gambia](xLarge/National-Anthem/Anthem-Gambia.mp3)
+[Anthem-Gambia](xLarge/National-Anthem/Anthem-Gambia.mp3)
 
 ![350](geo/Continent/Africa/Gambia/Flag_of_The_Gambia.svg)
 
@@ -137,10 +137,3 @@ markerFolder: ./Gambia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Gambia](../../../../_public/geo/Continent/Africa/Gambia.md) 
-- [Gambia.internal](../../../../_internal/geo/Continent/Africa/Gambia.internal.md) 
-- [Gambia.protect](../../../../_protect/geo/Continent/Africa/Gambia.protect.md) 
-- [Gambia.private](../../../../_private/geo/Continent/Africa/Gambia.private.md) 
-- [Gambia.personal](../../../../_personal/geo/Continent/Africa/Gambia.personal.md) 
-- [Gambia.secret](../../../../_secret/geo/Continent/Africa/Gambia.secret.md) 

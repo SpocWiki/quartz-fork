@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cleverns](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cleverns.md) 
-- [Cleverns.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cleverns.internal.md) 
-- [Cleverns.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cleverns.protect.md) 
-- [Cleverns.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cleverns.private.md) 
-- [Cleverns.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cleverns.personal.md) 
-- [Cleverns.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Cleverns.secret.md) 

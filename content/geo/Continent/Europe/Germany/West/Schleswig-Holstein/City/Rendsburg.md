@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rendsburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rendsburg.md) 
-- [Rendsburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rendsburg.internal.md) 
-- [Rendsburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rendsburg.protect.md) 
-- [Rendsburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rendsburg.private.md) 
-- [Rendsburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rendsburg.personal.md) 
-- [Rendsburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rendsburg.secret.md) 

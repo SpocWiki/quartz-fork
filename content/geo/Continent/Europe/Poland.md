@@ -122,7 +122,7 @@ markerFolder: ./Poland/City
 
 ![350](Coat_of_arms_of_Poland.svg)
 
-![Anthem-Poland](xLarge/National-Anthem/Anthem-Poland.mp3)
+[Anthem-Poland](xLarge/National-Anthem/Anthem-Poland.mp3)
 
 ![350](geo/Continent/Europe/Poland/Flag_of_Poland.svg)
 [Alcohol-l::13.3]
@@ -132,10 +132,3 @@ markerFolder: ./Poland/City
 
 
 
-## Confidential Links & Embeds: 
-- [Poland](../../../../_public/geo/Continent/Europe/Poland.md) 
-- [Poland.internal](../../../../_internal/geo/Continent/Europe/Poland.internal.md) 
-- [Poland.protect](../../../../_protect/geo/Continent/Europe/Poland.protect.md) 
-- [Poland.private](../../../../_private/geo/Continent/Europe/Poland.private.md) 
-- [Poland.personal](../../../../_personal/geo/Continent/Europe/Poland.personal.md) 
-- [Poland.secret](../../../../_secret/geo/Continent/Europe/Poland.secret.md) 

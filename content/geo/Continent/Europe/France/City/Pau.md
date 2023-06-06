@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pau](../../../../../../_public/geo/Continent/Europe/France/City/Pau.md) 
-- [Pau.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Pau.internal.md) 
-- [Pau.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Pau.protect.md) 
-- [Pau.private](../../../../../../_private/geo/Continent/Europe/France/City/Pau.private.md) 
-- [Pau.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Pau.personal.md) 
-- [Pau.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Pau.secret.md) 

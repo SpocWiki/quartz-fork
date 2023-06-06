@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trebnitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Trebnitz.md) 
-- [Trebnitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Trebnitz.internal.md) 
-- [Trebnitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Trebnitz.protect.md) 
-- [Trebnitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Trebnitz.private.md) 
-- [Trebnitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Trebnitz.personal.md) 
-- [Trebnitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Trebnitz.secret.md) 

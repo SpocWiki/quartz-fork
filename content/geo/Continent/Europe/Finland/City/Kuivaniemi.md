@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuivaniemi](../../../../../../_public/geo/Continent/Europe/Finland/City/Kuivaniemi.md) 
-- [Kuivaniemi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuivaniemi.internal.md) 
-- [Kuivaniemi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuivaniemi.protect.md) 
-- [Kuivaniemi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kuivaniemi.private.md) 
-- [Kuivaniemi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuivaniemi.personal.md) 
-- [Kuivaniemi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuivaniemi.secret.md) 

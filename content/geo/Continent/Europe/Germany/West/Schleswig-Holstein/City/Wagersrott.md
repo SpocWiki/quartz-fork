@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wagersrott](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wagersrott.md) 
-- [Wagersrott.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wagersrott.internal.md) 
-- [Wagersrott.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wagersrott.protect.md) 
-- [Wagersrott.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wagersrott.private.md) 
-- [Wagersrott.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wagersrott.personal.md) 
-- [Wagersrott.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wagersrott.secret.md) 

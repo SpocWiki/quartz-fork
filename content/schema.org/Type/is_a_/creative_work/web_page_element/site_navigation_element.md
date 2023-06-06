@@ -43,10 +43,3 @@ A navigation element of the page.
 
 
 
-## Confidential Links & Embeds: 
-- [site_navigation_element](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.md) 
-- [site_navigation_element.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.internal.md) 
-- [site_navigation_element.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.protect.md) 
-- [site_navigation_element.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.private.md) 
-- [site_navigation_element.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.personal.md) 
-- [site_navigation_element.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.secret.md) 

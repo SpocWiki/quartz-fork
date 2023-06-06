@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cannara](../../../../../../_public/geo/Continent/Europe/Italy/City/Cannara.md) 
-- [Cannara.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cannara.internal.md) 
-- [Cannara.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cannara.protect.md) 
-- [Cannara.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cannara.private.md) 
-- [Cannara.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cannara.personal.md) 
-- [Cannara.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cannara.secret.md) 

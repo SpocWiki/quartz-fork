@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Raima](../../../../../../_public/geo/Continent/Europe/Finland/City/Raima.md) 
-- [Raima.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Raima.internal.md) 
-- [Raima.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Raima.protect.md) 
-- [Raima.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Raima.private.md) 
-- [Raima.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Raima.personal.md) 
-- [Raima.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Raima.secret.md) 

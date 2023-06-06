@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.internal.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.protect.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.private.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.personal.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Difficulty.secret.md) 

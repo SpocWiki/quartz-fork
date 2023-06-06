@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ekengrav](../../../../../../_public/geo/Continent/Europe/Russia/City/Ekengrav.md) 
-- [Ekengrav.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ekengrav.internal.md) 
-- [Ekengrav.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ekengrav.protect.md) 
-- [Ekengrav.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ekengrav.private.md) 
-- [Ekengrav.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ekengrav.personal.md) 
-- [Ekengrav.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ekengrav.secret.md) 

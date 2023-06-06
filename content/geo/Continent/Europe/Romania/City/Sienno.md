@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sienno](../../../../../../_public/geo/Continent/Europe/Romania/City/Sienno.md) 
-- [Sienno.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Sienno.internal.md) 
-- [Sienno.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Sienno.protect.md) 
-- [Sienno.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Sienno.private.md) 
-- [Sienno.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Sienno.personal.md) 
-- [Sienno.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Sienno.secret.md) 

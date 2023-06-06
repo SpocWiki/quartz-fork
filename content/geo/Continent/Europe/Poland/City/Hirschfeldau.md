@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hirschfeldau](../../../../../../_public/geo/Continent/Europe/Poland/City/Hirschfeldau.md) 
-- [Hirschfeldau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Hirschfeldau.internal.md) 
-- [Hirschfeldau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Hirschfeldau.protect.md) 
-- [Hirschfeldau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Hirschfeldau.private.md) 
-- [Hirschfeldau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Hirschfeldau.personal.md) 
-- [Hirschfeldau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Hirschfeldau.secret.md) 

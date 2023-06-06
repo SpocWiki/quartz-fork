@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gewiai](../../../../../../_public/geo/Continent/Europe/Russia/City/Gewiai.md) 
-- [Gewiai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Gewiai.internal.md) 
-- [Gewiai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Gewiai.protect.md) 
-- [Gewiai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Gewiai.private.md) 
-- [Gewiai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Gewiai.personal.md) 
-- [Gewiai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Gewiai.secret.md) 

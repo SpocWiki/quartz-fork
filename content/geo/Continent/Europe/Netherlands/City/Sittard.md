@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sittard](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Sittard.md) 
-- [Sittard.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Sittard.internal.md) 
-- [Sittard.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Sittard.protect.md) 
-- [Sittard.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Sittard.private.md) 
-- [Sittard.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Sittard.personal.md) 
-- [Sittard.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Sittard.secret.md) 

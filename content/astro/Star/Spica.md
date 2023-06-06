@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Spica](../../../_public/astro/Star/Spica.md) 
-- [Spica.internal](../../../_internal/astro/Star/Spica.internal.md) 
-- [Spica.protect](../../../_protect/astro/Star/Spica.protect.md) 
-- [Spica.private](../../../_private/astro/Star/Spica.private.md) 
-- [Spica.personal](../../../_personal/astro/Star/Spica.personal.md) 
-- [Spica.secret](../../../_secret/astro/Star/Spica.secret.md) 

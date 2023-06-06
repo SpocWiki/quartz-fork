@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Coimbra](../../../../../../_public/geo/Continent/Europe/Portugal/City/Coimbra.md) 
-- [Coimbra.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Coimbra.internal.md) 
-- [Coimbra.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Coimbra.protect.md) 
-- [Coimbra.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Coimbra.private.md) 
-- [Coimbra.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Coimbra.personal.md) 
-- [Coimbra.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Coimbra.secret.md) 

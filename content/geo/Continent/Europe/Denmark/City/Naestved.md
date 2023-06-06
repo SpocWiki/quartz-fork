@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Naestved](../../../../../../_public/geo/Continent/Europe/Denmark/City/Naestved.md) 
-- [Naestved.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Naestved.internal.md) 
-- [Naestved.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Naestved.protect.md) 
-- [Naestved.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Naestved.private.md) 
-- [Naestved.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Naestved.personal.md) 
-- [Naestved.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Naestved.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roscommon](../../../../../../_public/geo/Continent/Europe/Ireland/City/Roscommon.md) 
-- [Roscommon.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Roscommon.internal.md) 
-- [Roscommon.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Roscommon.protect.md) 
-- [Roscommon.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Roscommon.private.md) 
-- [Roscommon.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Roscommon.personal.md) 
-- [Roscommon.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Roscommon.secret.md) 

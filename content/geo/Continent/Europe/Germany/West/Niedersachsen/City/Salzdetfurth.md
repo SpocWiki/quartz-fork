@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salzdetfurth](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.md) 
-- [Salzdetfurth.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.internal.md) 
-- [Salzdetfurth.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.protect.md) 
-- [Salzdetfurth.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.private.md) 
-- [Salzdetfurth.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.personal.md) 
-- [Salzdetfurth.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzdetfurth.secret.md) 

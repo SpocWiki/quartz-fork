@@ -43,10 +43,3 @@ An organization that provides flights for passengers.
 
 
 
-## Confidential Links & Embeds: 
-- [airline](../../../../../_public/schema.org/Type/is_a_/organization/airline.md) 
-- [airline.internal](../../../../../_internal/schema.org/Type/is_a_/organization/airline.internal.md) 
-- [airline.protect](../../../../../_protect/schema.org/Type/is_a_/organization/airline.protect.md) 
-- [airline.private](../../../../../_private/schema.org/Type/is_a_/organization/airline.private.md) 
-- [airline.personal](../../../../../_personal/schema.org/Type/is_a_/organization/airline.personal.md) 
-- [airline.secret](../../../../../_secret/schema.org/Type/is_a_/organization/airline.secret.md) 

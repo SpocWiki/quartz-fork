@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lisieux](../../../../../../_public/geo/Continent/Europe/France/City/Lisieux.md) 
-- [Lisieux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lisieux.internal.md) 
-- [Lisieux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lisieux.protect.md) 
-- [Lisieux.private](../../../../../../_private/geo/Continent/Europe/France/City/Lisieux.private.md) 
-- [Lisieux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lisieux.personal.md) 
-- [Lisieux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lisieux.secret.md) 

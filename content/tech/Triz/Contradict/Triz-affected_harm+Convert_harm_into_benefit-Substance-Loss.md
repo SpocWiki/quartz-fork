@@ -19,10 +19,3 @@ title: Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.internal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.protect.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.private.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.personal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Substance-Loss.secret.md) 

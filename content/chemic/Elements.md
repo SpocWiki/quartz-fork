@@ -65,11 +65,3 @@ as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20element)
 
 
-## Confidential Links & Embeds: 
-- [Elements](../../_public/chemic/Elements.md) 
-- [Elements.internal](../../_internal/chemic/Elements.internal.md) 
-- [Elements.protect](../../_protect/chemic/Elements.protect.md) 
-- [Elements.private](../../_private/chemic/Elements.private.md) 
-- [Elements.personal](../../_personal/chemic/Elements.personal.md) 
-- [Elements.secret](../../_secret/chemic/Elements.secret.md)
-

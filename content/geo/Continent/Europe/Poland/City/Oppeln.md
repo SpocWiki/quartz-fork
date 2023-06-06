@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oppeln](../../../../../../_public/geo/Continent/Europe/Poland/City/Oppeln.md) 
-- [Oppeln.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Oppeln.internal.md) 
-- [Oppeln.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Oppeln.protect.md) 
-- [Oppeln.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Oppeln.private.md) 
-- [Oppeln.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Oppeln.personal.md) 
-- [Oppeln.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Oppeln.secret.md) 

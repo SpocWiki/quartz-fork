@@ -19,10 +19,3 @@ title: Triz-Reliability+Spheroidality-moving_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Spheroidality-moving_Area](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Spheroidality-moving_Area.md) 
-- [Triz-Reliability+Spheroidality-moving_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Spheroidality-moving_Area.internal.md) 
-- [Triz-Reliability+Spheroidality-moving_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Spheroidality-moving_Area.protect.md) 
-- [Triz-Reliability+Spheroidality-moving_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Spheroidality-moving_Area.private.md) 
-- [Triz-Reliability+Spheroidality-moving_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Spheroidality-moving_Area.personal.md) 
-- [Triz-Reliability+Spheroidality-moving_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Spheroidality-moving_Area.secret.md) 

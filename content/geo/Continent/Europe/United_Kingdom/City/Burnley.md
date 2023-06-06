@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Burnley](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Burnley.md) 
-- [Burnley.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Burnley.internal.md) 
-- [Burnley.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Burnley.protect.md) 
-- [Burnley.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Burnley.private.md) 
-- [Burnley.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Burnley.personal.md) 
-- [Burnley.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Burnley.secret.md) 

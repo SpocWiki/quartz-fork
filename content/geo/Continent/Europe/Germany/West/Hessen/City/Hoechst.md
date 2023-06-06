@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoechst](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.md) 
-- [Hoechst.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.internal.md) 
-- [Hoechst.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.protect.md) 
-- [Hoechst.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.private.md) 
-- [Hoechst.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.personal.md) 
-- [Hoechst.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hoechst.secret.md) 

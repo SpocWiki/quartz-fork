@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Voehringen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Voehringen.md) 
-- [Voehringen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Voehringen.internal.md) 
-- [Voehringen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Voehringen.protect.md) 
-- [Voehringen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Voehringen.private.md) 
-- [Voehringen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Voehringen.personal.md) 
-- [Voehringen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Voehringen.secret.md) 

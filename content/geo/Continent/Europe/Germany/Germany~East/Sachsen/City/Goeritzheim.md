@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goeritzheim](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goeritzheim.md) 
-- [Goeritzheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goeritzheim.internal.md) 
-- [Goeritzheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goeritzheim.protect.md) 
-- [Goeritzheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goeritzheim.private.md) 
-- [Goeritzheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goeritzheim.personal.md) 
-- [Goeritzheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goeritzheim.secret.md) 

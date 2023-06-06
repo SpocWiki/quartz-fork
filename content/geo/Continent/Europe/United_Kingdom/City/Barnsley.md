@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barnsley](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Barnsley.md) 
-- [Barnsley.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barnsley.internal.md) 
-- [Barnsley.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barnsley.protect.md) 
-- [Barnsley.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barnsley.private.md) 
-- [Barnsley.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barnsley.personal.md) 
-- [Barnsley.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barnsley.secret.md) 

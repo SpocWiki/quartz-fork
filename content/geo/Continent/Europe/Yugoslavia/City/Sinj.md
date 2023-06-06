@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sinj](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Sinj.md) 
-- [Sinj.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Sinj.internal.md) 
-- [Sinj.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Sinj.protect.md) 
-- [Sinj.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Sinj.private.md) 
-- [Sinj.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Sinj.personal.md) 
-- [Sinj.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Sinj.secret.md) 

@@ -17,10 +17,3 @@ title: Triz-Temperature
 
 Temperature
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature](../../../../_public/tech/Triz/Parameter/Triz-Temperature.md) 
-- [Triz-Temperature.internal](../../../../_internal/tech/Triz/Parameter/Triz-Temperature.internal.md) 
-- [Triz-Temperature.protect](../../../../_protect/tech/Triz/Parameter/Triz-Temperature.protect.md) 
-- [Triz-Temperature.private](../../../../_private/tech/Triz/Parameter/Triz-Temperature.private.md) 
-- [Triz-Temperature.personal](../../../../_personal/tech/Triz/Parameter/Triz-Temperature.personal.md) 
-- [Triz-Temperature.secret](../../../../_secret/tech/Triz/Parameter/Triz-Temperature.secret.md) 

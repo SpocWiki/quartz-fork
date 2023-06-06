@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zwiesel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Zwiesel.md) 
-- [Zwiesel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Zwiesel.internal.md) 
-- [Zwiesel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Zwiesel.protect.md) 
-- [Zwiesel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Zwiesel.private.md) 
-- [Zwiesel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Zwiesel.personal.md) 
-- [Zwiesel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Zwiesel.secret.md) 

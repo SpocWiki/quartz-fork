@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zapplin](../../../../../../_public/geo/Continent/Europe/Poland/City/Zapplin.md) 
-- [Zapplin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zapplin.internal.md) 
-- [Zapplin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zapplin.protect.md) 
-- [Zapplin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zapplin.private.md) 
-- [Zapplin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zapplin.personal.md) 
-- [Zapplin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zapplin.secret.md) 

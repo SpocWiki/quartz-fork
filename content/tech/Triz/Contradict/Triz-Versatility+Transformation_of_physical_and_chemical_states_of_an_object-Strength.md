@@ -19,10 +19,3 @@ title: Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_obj
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret.md) 

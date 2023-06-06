@@ -43,10 +43,3 @@ An adult entertainment establishment.
 
 
 
-## Confidential Links & Embeds: 
-- [adult_entertainment](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.md) 
-- [adult_entertainment.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.internal.md) 
-- [adult_entertainment.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.protect.md) 
-- [adult_entertainment.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.private.md) 
-- [adult_entertainment.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.personal.md) 
-- [adult_entertainment.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.secret.md) 

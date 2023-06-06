@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mettnich](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Mettnich.md) 
-- [Mettnich.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Mettnich.internal.md) 
-- [Mettnich.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Mettnich.protect.md) 
-- [Mettnich.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Mettnich.private.md) 
-- [Mettnich.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Mettnich.personal.md) 
-- [Mettnich.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Mettnich.secret.md) 

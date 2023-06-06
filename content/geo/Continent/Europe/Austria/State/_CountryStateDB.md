@@ -320,10 +320,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_CountryStateDB](../../../../../../_public/geo/Continent/Europe/Austria/State/_CountryStateDB.md) 
-- [_CountryStateDB.internal](../../../../../../_internal/geo/Continent/Europe/Austria/State/_CountryStateDB.internal.md) 
-- [_CountryStateDB.protect](../../../../../../_protect/geo/Continent/Europe/Austria/State/_CountryStateDB.protect.md) 
-- [_CountryStateDB.private](../../../../../../_private/geo/Continent/Europe/Austria/State/_CountryStateDB.private.md) 
-- [_CountryStateDB.personal](../../../../../../_personal/geo/Continent/Europe/Austria/State/_CountryStateDB.personal.md) 
-- [_CountryStateDB.secret](../../../../../../_secret/geo/Continent/Europe/Austria/State/_CountryStateDB.secret.md) 

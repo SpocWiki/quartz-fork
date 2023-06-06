@@ -19,10 +19,3 @@ title: Triz-Reliability+Cushion_in_advance-Ease_of_repair
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Cushion_in_advance-Ease_of_repair](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.md) 
-- [Triz-Reliability+Cushion_in_advance-Ease_of_repair.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.internal.md) 
-- [Triz-Reliability+Cushion_in_advance-Ease_of_repair.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.protect.md) 
-- [Triz-Reliability+Cushion_in_advance-Ease_of_repair.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.private.md) 
-- [Triz-Reliability+Cushion_in_advance-Ease_of_repair.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.personal.md) 
-- [Triz-Reliability+Cushion_in_advance-Ease_of_repair.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Ease_of_repair.secret.md) 

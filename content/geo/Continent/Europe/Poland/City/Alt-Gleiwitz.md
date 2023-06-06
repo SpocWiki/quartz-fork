@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alt-Gleiwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.md) 
-- [Alt-Gleiwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.internal.md) 
-- [Alt-Gleiwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.protect.md) 
-- [Alt-Gleiwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.private.md) 
-- [Alt-Gleiwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.personal.md) 
-- [Alt-Gleiwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Alt-Gleiwitz.secret.md) 

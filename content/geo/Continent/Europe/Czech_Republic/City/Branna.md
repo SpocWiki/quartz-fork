@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Branna](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Branna.md) 
-- [Branna.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Branna.internal.md) 
-- [Branna.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Branna.protect.md) 
-- [Branna.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Branna.private.md) 
-- [Branna.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Branna.personal.md) 
-- [Branna.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Branna.secret.md) 

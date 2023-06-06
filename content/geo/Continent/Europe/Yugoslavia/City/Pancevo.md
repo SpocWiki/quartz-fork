@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pancevo](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Pancevo.md) 
-- [Pancevo.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Pancevo.internal.md) 
-- [Pancevo.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Pancevo.protect.md) 
-- [Pancevo.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Pancevo.private.md) 
-- [Pancevo.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Pancevo.personal.md) 
-- [Pancevo.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Pancevo.secret.md) 

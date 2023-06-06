@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mauern](../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Mauern.md) 
-- [Mauern.internal](../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Mauern.internal.md) 
-- [Mauern.protect](../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Mauern.protect.md) 
-- [Mauern.private](../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Mauern.private.md) 
-- [Mauern.personal](../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Mauern.personal.md) 
-- [Mauern.secret](../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Mauern.secret.md) 

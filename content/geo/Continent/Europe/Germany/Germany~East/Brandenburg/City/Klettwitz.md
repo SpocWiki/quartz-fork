@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klettwitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Klettwitz.md) 
-- [Klettwitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Klettwitz.internal.md) 
-- [Klettwitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Klettwitz.protect.md) 
-- [Klettwitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Klettwitz.private.md) 
-- [Klettwitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Klettwitz.personal.md) 
-- [Klettwitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Klettwitz.secret.md) 

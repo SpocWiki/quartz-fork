@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pasajes](../../../../../../_public/geo/Continent/Europe/Spain/City/Pasajes.md) 
-- [Pasajes.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Pasajes.internal.md) 
-- [Pasajes.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Pasajes.protect.md) 
-- [Pasajes.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Pasajes.private.md) 
-- [Pasajes.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Pasajes.personal.md) 
-- [Pasajes.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Pasajes.secret.md) 

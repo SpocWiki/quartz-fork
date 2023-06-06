@@ -45,10 +45,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_access_mode_sufficient](../../../../../_public/schema.org/Predicate/Relations/has/has_access_mode_sufficient.md) 
-- [has_access_mode_sufficient.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_access_mode_sufficient.internal.md) 
-- [has_access_mode_sufficient.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_access_mode_sufficient.protect.md) 
-- [has_access_mode_sufficient.private](../../../../../_private/schema.org/Predicate/Relations/has/has_access_mode_sufficient.private.md) 
-- [has_access_mode_sufficient.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_access_mode_sufficient.personal.md) 
-- [has_access_mode_sufficient.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_access_mode_sufficient.secret.md) 

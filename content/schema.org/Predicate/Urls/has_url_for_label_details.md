@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_url_for_label_details](../../../../_public/schema.org/Predicate/Urls/has_url_for_label_details.md) 
-- [has_url_for_label_details.internal](../../../../_internal/schema.org/Predicate/Urls/has_url_for_label_details.internal.md) 
-- [has_url_for_label_details.protect](../../../../_protect/schema.org/Predicate/Urls/has_url_for_label_details.protect.md) 
-- [has_url_for_label_details.private](../../../../_private/schema.org/Predicate/Urls/has_url_for_label_details.private.md) 
-- [has_url_for_label_details.personal](../../../../_personal/schema.org/Predicate/Urls/has_url_for_label_details.personal.md) 
-- [has_url_for_label_details.secret](../../../../_secret/schema.org/Predicate/Urls/has_url_for_label_details.secret.md) 

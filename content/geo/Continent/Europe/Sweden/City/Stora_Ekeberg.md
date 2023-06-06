@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stora_Ekeberg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Stora_Ekeberg.md) 
-- [Stora_Ekeberg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stora_Ekeberg.internal.md) 
-- [Stora_Ekeberg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stora_Ekeberg.protect.md) 
-- [Stora_Ekeberg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Stora_Ekeberg.private.md) 
-- [Stora_Ekeberg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stora_Ekeberg.personal.md) 
-- [Stora_Ekeberg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stora_Ekeberg.secret.md) 

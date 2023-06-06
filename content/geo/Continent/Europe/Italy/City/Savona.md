@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Savona](../../../../../../_public/geo/Continent/Europe/Italy/City/Savona.md) 
-- [Savona.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Savona.internal.md) 
-- [Savona.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Savona.protect.md) 
-- [Savona.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Savona.private.md) 
-- [Savona.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Savona.personal.md) 
-- [Savona.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Savona.secret.md) 

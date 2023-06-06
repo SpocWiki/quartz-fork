@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hallstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hallstadt.md) 
-- [Hallstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hallstadt.internal.md) 
-- [Hallstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hallstadt.protect.md) 
-- [Hallstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hallstadt.private.md) 
-- [Hallstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hallstadt.personal.md) 
-- [Hallstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hallstadt.secret.md) 

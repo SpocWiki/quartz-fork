@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Calveslage](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Calveslage.md) 
-- [Calveslage.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Calveslage.internal.md) 
-- [Calveslage.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Calveslage.protect.md) 
-- [Calveslage.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Calveslage.private.md) 
-- [Calveslage.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Calveslage.personal.md) 
-- [Calveslage.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Calveslage.secret.md) 

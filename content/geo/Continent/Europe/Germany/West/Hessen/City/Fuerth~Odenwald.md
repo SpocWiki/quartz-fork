@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuerth~Odenwald](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.md) 
-- [Fuerth~Odenwald.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.internal.md) 
-- [Fuerth~Odenwald.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.protect.md) 
-- [Fuerth~Odenwald.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.private.md) 
-- [Fuerth~Odenwald.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.personal.md) 
-- [Fuerth~Odenwald.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Fuerth~Odenwald.secret.md) 

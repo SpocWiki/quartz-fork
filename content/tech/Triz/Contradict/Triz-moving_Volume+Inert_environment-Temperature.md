@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Inert_environment-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Inert_environment-Temperature](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Inert_environment-Temperature.md) 
-- [Triz-moving_Volume+Inert_environment-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Inert_environment-Temperature.internal.md) 
-- [Triz-moving_Volume+Inert_environment-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Inert_environment-Temperature.protect.md) 
-- [Triz-moving_Volume+Inert_environment-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Inert_environment-Temperature.private.md) 
-- [Triz-moving_Volume+Inert_environment-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Inert_environment-Temperature.personal.md) 
-- [Triz-moving_Volume+Inert_environment-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Inert_environment-Temperature.secret.md) 

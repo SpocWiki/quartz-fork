@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kufstein](../../../../../../_public/geo/Continent/Europe/Austria/City/Kufstein.md) 
-- [Kufstein.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Kufstein.internal.md) 
-- [Kufstein.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Kufstein.protect.md) 
-- [Kufstein.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Kufstein.private.md) 
-- [Kufstein.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Kufstein.personal.md) 
-- [Kufstein.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Kufstein.secret.md) 

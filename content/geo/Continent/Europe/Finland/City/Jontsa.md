@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jontsa](../../../../../../_public/geo/Continent/Europe/Finland/City/Jontsa.md) 
-- [Jontsa.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Jontsa.internal.md) 
-- [Jontsa.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Jontsa.protect.md) 
-- [Jontsa.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Jontsa.private.md) 
-- [Jontsa.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Jontsa.personal.md) 
-- [Jontsa.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Jontsa.secret.md) 

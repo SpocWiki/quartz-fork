@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Houston](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Texas/City/Houston.md) 
-- [Houston.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/Houston.internal.md) 
-- [Houston.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/Houston.protect.md) 
-- [Houston.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/Houston.private.md) 
-- [Houston.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/Houston.personal.md) 
-- [Houston.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/Houston.secret.md) 

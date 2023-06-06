@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lodz=Litzmannstadt](../../../../../../_public/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.md) 
-- [Lodz=Litzmannstadt.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.internal.md) 
-- [Lodz=Litzmannstadt.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.protect.md) 
-- [Lodz=Litzmannstadt.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.private.md) 
-- [Lodz=Litzmannstadt.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.personal.md) 
-- [Lodz=Litzmannstadt.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lodz=Litzmannstadt.secret.md) 

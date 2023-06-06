@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reichstadt](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Reichstadt.md) 
-- [Reichstadt.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Reichstadt.internal.md) 
-- [Reichstadt.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Reichstadt.protect.md) 
-- [Reichstadt.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Reichstadt.private.md) 
-- [Reichstadt.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Reichstadt.personal.md) 
-- [Reichstadt.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Reichstadt.secret.md) 

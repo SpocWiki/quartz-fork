@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karachi](../../../../../../_public/geo/Continent/Asia/Pakistan/City/Karachi.md) 
-- [Karachi.internal](../../../../../../_internal/geo/Continent/Asia/Pakistan/City/Karachi.internal.md) 
-- [Karachi.protect](../../../../../../_protect/geo/Continent/Asia/Pakistan/City/Karachi.protect.md) 
-- [Karachi.private](../../../../../../_private/geo/Continent/Asia/Pakistan/City/Karachi.private.md) 
-- [Karachi.personal](../../../../../../_personal/geo/Continent/Asia/Pakistan/City/Karachi.personal.md) 
-- [Karachi.secret](../../../../../../_secret/geo/Continent/Asia/Pakistan/City/Karachi.secret.md) 

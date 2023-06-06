@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Olonne](../../../../../../_public/geo/Continent/Europe/France/City/Olonne.md) 
-- [Olonne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Olonne.internal.md) 
-- [Olonne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Olonne.protect.md) 
-- [Olonne.private](../../../../../../_private/geo/Continent/Europe/France/City/Olonne.private.md) 
-- [Olonne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Olonne.personal.md) 
-- [Olonne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Olonne.secret.md) 

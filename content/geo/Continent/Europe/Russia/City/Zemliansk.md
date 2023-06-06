@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zemliansk](../../../../../../_public/geo/Continent/Europe/Russia/City/Zemliansk.md) 
-- [Zemliansk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zemliansk.internal.md) 
-- [Zemliansk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zemliansk.protect.md) 
-- [Zemliansk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zemliansk.private.md) 
-- [Zemliansk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zemliansk.personal.md) 
-- [Zemliansk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zemliansk.secret.md) 

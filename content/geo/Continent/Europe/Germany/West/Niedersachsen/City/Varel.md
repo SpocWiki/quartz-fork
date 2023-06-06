@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Varel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Varel.md) 
-- [Varel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Varel.internal.md) 
-- [Varel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Varel.protect.md) 
-- [Varel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Varel.private.md) 
-- [Varel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Varel.personal.md) 
-- [Varel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Varel.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dudelange](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Dudelange.md) 
-- [Dudelange.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Dudelange.internal.md) 
-- [Dudelange.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Dudelange.protect.md) 
-- [Dudelange.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Dudelange.private.md) 
-- [Dudelange.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Dudelange.personal.md) 
-- [Dudelange.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Dudelange.secret.md) 

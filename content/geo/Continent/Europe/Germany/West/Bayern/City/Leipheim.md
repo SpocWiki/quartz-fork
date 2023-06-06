@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leipheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Leipheim.md) 
-- [Leipheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Leipheim.internal.md) 
-- [Leipheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Leipheim.protect.md) 
-- [Leipheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Leipheim.private.md) 
-- [Leipheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Leipheim.personal.md) 
-- [Leipheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Leipheim.secret.md) 

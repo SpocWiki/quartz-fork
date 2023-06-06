@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moelln](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.md) 
-- [Moelln.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.internal.md) 
-- [Moelln.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.protect.md) 
-- [Moelln.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.private.md) 
-- [Moelln.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.personal.md) 
-- [Moelln.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Moelln.secret.md) 

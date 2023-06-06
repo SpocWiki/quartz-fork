@@ -43,10 +43,3 @@ A WebSite is a set of related web pages and other items typically served from a 
 
 
 
-## Confidential Links & Embeds: 
-- [web_site](../../../../../_public/schema.org/Type/is_a_/creative_work/web_site.md) 
-- [web_site.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/web_site.internal.md) 
-- [web_site.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/web_site.protect.md) 
-- [web_site.private](../../../../../_private/schema.org/Type/is_a_/creative_work/web_site.private.md) 
-- [web_site.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/web_site.personal.md) 
-- [web_site.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/web_site.secret.md) 

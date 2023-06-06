@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Anholt](../../../../../../_public/geo/Continent/Europe/Denmark/City/Anholt.md) 
-- [Anholt.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Anholt.internal.md) 
-- [Anholt.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Anholt.protect.md) 
-- [Anholt.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Anholt.private.md) 
-- [Anholt.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Anholt.personal.md) 
-- [Anholt.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Anholt.secret.md) 

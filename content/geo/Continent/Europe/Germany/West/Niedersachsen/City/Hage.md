@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hage](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hage.md) 
-- [Hage.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hage.internal.md) 
-- [Hage.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hage.protect.md) 
-- [Hage.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hage.private.md) 
-- [Hage.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hage.personal.md) 
-- [Hage.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hage.secret.md) 

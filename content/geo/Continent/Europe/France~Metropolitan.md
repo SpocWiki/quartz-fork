@@ -36,10 +36,3 @@ markerFolder: ./France~Metropolitan/City
 
 
 
-## Confidential Links & Embeds: 
-- [France~Metropolitan](../../../../_public/geo/Continent/Europe/France~Metropolitan.md) 
-- [France~Metropolitan.internal](../../../../_internal/geo/Continent/Europe/France~Metropolitan.internal.md) 
-- [France~Metropolitan.protect](../../../../_protect/geo/Continent/Europe/France~Metropolitan.protect.md) 
-- [France~Metropolitan.private](../../../../_private/geo/Continent/Europe/France~Metropolitan.private.md) 
-- [France~Metropolitan.personal](../../../../_personal/geo/Continent/Europe/France~Metropolitan.personal.md) 
-- [France~Metropolitan.secret](../../../../_secret/geo/Continent/Europe/France~Metropolitan.secret.md) 

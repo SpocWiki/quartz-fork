@@ -38,10 +38,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oregon](../../../../../_public/geo/Continent/North-America/United_States_of_America/Oregon.md) 
-- [Oregon.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Oregon.internal.md) 
-- [Oregon.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Oregon.protect.md) 
-- [Oregon.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Oregon.private.md) 
-- [Oregon.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Oregon.personal.md) 
-- [Oregon.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Oregon.secret.md) 

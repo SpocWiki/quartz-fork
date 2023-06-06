@@ -17,10 +17,3 @@ title: Group-12-Zinc
 
 
 
-## Confidential Links & Embeds: 
-- [Group-12-Zinc](../../../_public/chemic/Elements/Group-12-Zinc.md) 
-- [Group-12-Zinc.internal](../../../_internal/chemic/Elements/Group-12-Zinc.internal.md) 
-- [Group-12-Zinc.protect](../../../_protect/chemic/Elements/Group-12-Zinc.protect.md) 
-- [Group-12-Zinc.private](../../../_private/chemic/Elements/Group-12-Zinc.private.md) 
-- [Group-12-Zinc.personal](../../../_personal/chemic/Elements/Group-12-Zinc.personal.md) 
-- [Group-12-Zinc.secret](../../../_secret/chemic/Elements/Group-12-Zinc.secret.md) 

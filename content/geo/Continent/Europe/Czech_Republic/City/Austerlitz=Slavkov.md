@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Austerlitz=Slavkov](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.md) 
-- [Austerlitz=Slavkov.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.internal.md) 
-- [Austerlitz=Slavkov.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.protect.md) 
-- [Austerlitz=Slavkov.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.private.md) 
-- [Austerlitz=Slavkov.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.personal.md) 
-- [Austerlitz=Slavkov.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.secret.md) 

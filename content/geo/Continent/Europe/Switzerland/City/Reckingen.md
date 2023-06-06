@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reckingen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Reckingen.md) 
-- [Reckingen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Reckingen.internal.md) 
-- [Reckingen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Reckingen.protect.md) 
-- [Reckingen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Reckingen.private.md) 
-- [Reckingen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Reckingen.personal.md) 
-- [Reckingen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Reckingen.secret.md) 

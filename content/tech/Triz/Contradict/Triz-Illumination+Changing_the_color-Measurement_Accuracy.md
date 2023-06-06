@@ -19,10 +19,3 @@ title: Triz-Illumination+Changing_the_color-Measurement_Accuracy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Changing_the_color-Measurement_Accuracy](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.md) 
-- [Triz-Illumination+Changing_the_color-Measurement_Accuracy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.internal.md) 
-- [Triz-Illumination+Changing_the_color-Measurement_Accuracy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.protect.md) 
-- [Triz-Illumination+Changing_the_color-Measurement_Accuracy.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.private.md) 
-- [Triz-Illumination+Changing_the_color-Measurement_Accuracy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.personal.md) 
-- [Triz-Illumination+Changing_the_color-Measurement_Accuracy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Measurement_Accuracy.secret.md) 

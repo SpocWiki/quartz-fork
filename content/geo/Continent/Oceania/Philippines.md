@@ -149,10 +149,3 @@ markerFolder: ./Philippines/City
 
 
 
-## Confidential Links & Embeds: 
-- [Philippines](../../../../_public/geo/Continent/Oceania/Philippines.md) 
-- [Philippines.internal](../../../../_internal/geo/Continent/Oceania/Philippines.internal.md) 
-- [Philippines.protect](../../../../_protect/geo/Continent/Oceania/Philippines.protect.md) 
-- [Philippines.private](../../../../_private/geo/Continent/Oceania/Philippines.private.md) 
-- [Philippines.personal](../../../../_personal/geo/Continent/Oceania/Philippines.personal.md) 
-- [Philippines.secret](../../../../_secret/geo/Continent/Oceania/Philippines.secret.md) 

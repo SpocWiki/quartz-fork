@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Apt](../../../../../../_public/geo/Continent/Europe/France/City/Apt.md) 
-- [Apt.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Apt.internal.md) 
-- [Apt.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Apt.protect.md) 
-- [Apt.private](../../../../../../_private/geo/Continent/Europe/France/City/Apt.private.md) 
-- [Apt.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Apt.personal.md) 
-- [Apt.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Apt.secret.md) 

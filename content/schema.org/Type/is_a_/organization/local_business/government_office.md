@@ -45,10 +45,3 @@ A government office&#x2014;for example, an IRS or DMV office.
 
 
 
-## Confidential Links & Embeds: 
-- [government_office](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/government_office.md) 
-- [government_office.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/government_office.internal.md) 
-- [government_office.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/government_office.protect.md) 
-- [government_office.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/government_office.private.md) 
-- [government_office.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/government_office.personal.md) 
-- [government_office.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/government_office.secret.md) 

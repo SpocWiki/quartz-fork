@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Niederheimbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Niederheimbach.md) 
-- [Niederheimbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Niederheimbach.internal.md) 
-- [Niederheimbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Niederheimbach.protect.md) 
-- [Niederheimbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Niederheimbach.private.md) 
-- [Niederheimbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Niederheimbach.personal.md) 
-- [Niederheimbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Niederheimbach.secret.md) 

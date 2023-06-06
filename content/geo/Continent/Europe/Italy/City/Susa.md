@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Susa](../../../../../../_public/geo/Continent/Europe/Italy/City/Susa.md) 
-- [Susa.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Susa.internal.md) 
-- [Susa.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Susa.protect.md) 
-- [Susa.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Susa.private.md) 
-- [Susa.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Susa.personal.md) 
-- [Susa.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Susa.secret.md) 

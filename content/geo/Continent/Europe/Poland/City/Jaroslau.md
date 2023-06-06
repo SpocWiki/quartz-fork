@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jaroslau](../../../../../../_public/geo/Continent/Europe/Poland/City/Jaroslau.md) 
-- [Jaroslau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Jaroslau.internal.md) 
-- [Jaroslau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Jaroslau.protect.md) 
-- [Jaroslau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Jaroslau.private.md) 
-- [Jaroslau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Jaroslau.personal.md) 
-- [Jaroslau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Jaroslau.secret.md) 

@@ -127,10 +127,3 @@ markerFolder: ./Timor-Leste/City
 
 
 
-## Confidential Links & Embeds: 
-- [Timor-Leste](../../../../_public/geo/Continent/Oceania/Timor-Leste.md) 
-- [Timor-Leste.internal](../../../../_internal/geo/Continent/Oceania/Timor-Leste.internal.md) 
-- [Timor-Leste.protect](../../../../_protect/geo/Continent/Oceania/Timor-Leste.protect.md) 
-- [Timor-Leste.private](../../../../_private/geo/Continent/Oceania/Timor-Leste.private.md) 
-- [Timor-Leste.personal](../../../../_personal/geo/Continent/Oceania/Timor-Leste.personal.md) 
-- [Timor-Leste.secret](../../../../_secret/geo/Continent/Oceania/Timor-Leste.secret.md) 

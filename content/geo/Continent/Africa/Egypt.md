@@ -122,7 +122,7 @@ markerFolder: ./Egypt/City
 [VehicleCode::ET]
 [Capital::[Kairo=Cairo](geo/Continent/Africa/Egypt/City/Kairo=Cairo.md)]
 ![350](geo/Continent/Africa/Egypt/Coat_of_arms_of_Egypt.svg)
-![Anthem-Egypt](xLarge/National-Anthem/Anthem-Egypt.mp3)
+[Anthem-Egypt](xLarge/National-Anthem/Anthem-Egypt.mp3)
 ![350](geo/Continent/Africa/Egypt/Flag_of_Egypt.svg)
 [Alcohol-l::0.4]
 [Language-Id::472]
@@ -131,10 +131,3 @@ markerFolder: ./Egypt/City
 
 
 
-## Confidential Links & Embeds: 
-- [Egypt](../../../../_public/geo/Continent/Africa/Egypt.md) 
-- [Egypt.internal](../../../../_internal/geo/Continent/Africa/Egypt.internal.md) 
-- [Egypt.protect](../../../../_protect/geo/Continent/Africa/Egypt.protect.md) 
-- [Egypt.private](../../../../_private/geo/Continent/Africa/Egypt.private.md) 
-- [Egypt.personal](../../../../_personal/geo/Continent/Africa/Egypt.personal.md) 
-- [Egypt.secret](../../../../_secret/geo/Continent/Africa/Egypt.secret.md) 

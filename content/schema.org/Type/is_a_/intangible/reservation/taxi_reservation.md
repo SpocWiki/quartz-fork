@@ -45,10 +45,3 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 
-## Confidential Links & Embeds: 
-- [taxi_reservation](../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.md) 
-- [taxi_reservation.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.internal.md) 
-- [taxi_reservation.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.protect.md) 
-- [taxi_reservation.private](../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.private.md) 
-- [taxi_reservation.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.personal.md) 
-- [taxi_reservation.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.secret.md) 

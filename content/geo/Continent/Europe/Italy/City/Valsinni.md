@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valsinni](../../../../../../_public/geo/Continent/Europe/Italy/City/Valsinni.md) 
-- [Valsinni.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Valsinni.internal.md) 
-- [Valsinni.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Valsinni.protect.md) 
-- [Valsinni.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Valsinni.private.md) 
-- [Valsinni.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Valsinni.personal.md) 
-- [Valsinni.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Valsinni.secret.md) 

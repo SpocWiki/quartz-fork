@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Akkrum](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Akkrum.md) 
-- [Akkrum.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Akkrum.internal.md) 
-- [Akkrum.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Akkrum.protect.md) 
-- [Akkrum.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Akkrum.private.md) 
-- [Akkrum.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Akkrum.personal.md) 
-- [Akkrum.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Akkrum.secret.md) 

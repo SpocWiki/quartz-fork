@@ -122,7 +122,7 @@ markerFolder: ./Ecuador/City
 
 ![350](geo/Continent/South-America/Ecuador/Coat_of_arms_of_Ecuador.svg)
 
-![Anthem-Ecuador](xLarge/National-Anthem/Anthem-Ecuador.mp3)
+[Anthem-Ecuador](xLarge/National-Anthem/Anthem-Ecuador.mp3)
 
 ![350](geo/Continent/South-America/Ecuador/Flag_of_Ecuador.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Ecuador/City
 
 
 
-## Confidential Links & Embeds: 
-- [Ecuador](../../../../_public/geo/Continent/South-America/Ecuador.md) 
-- [Ecuador.internal](../../../../_internal/geo/Continent/South-America/Ecuador.internal.md) 
-- [Ecuador.protect](../../../../_protect/geo/Continent/South-America/Ecuador.protect.md) 
-- [Ecuador.private](../../../../_private/geo/Continent/South-America/Ecuador.private.md) 
-- [Ecuador.personal](../../../../_personal/geo/Continent/South-America/Ecuador.personal.md) 
-- [Ecuador.secret](../../../../_secret/geo/Continent/South-America/Ecuador.secret.md) 

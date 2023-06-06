@@ -43,10 +43,3 @@ A music video file.
 
 
 
-## Confidential Links & Embeds: 
-- [music_video_object](../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/music_video_object.md) 
-- [music_video_object.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/music_video_object.internal.md) 
-- [music_video_object.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/music_video_object.protect.md) 
-- [music_video_object.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/music_video_object.private.md) 
-- [music_video_object.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/music_video_object.personal.md) 
-- [music_video_object.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/music_video_object.secret.md) 

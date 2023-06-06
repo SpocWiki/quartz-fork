@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Westerringen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.md) 
-- [Westerringen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.internal.md) 
-- [Westerringen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.protect.md) 
-- [Westerringen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.private.md) 
-- [Westerringen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.personal.md) 
-- [Westerringen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rositz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Rositz.md) 
-- [Rositz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Rositz.internal.md) 
-- [Rositz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Rositz.protect.md) 
-- [Rositz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Rositz.private.md) 
-- [Rositz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Rositz.personal.md) 
-- [Rositz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Rositz.secret.md) 

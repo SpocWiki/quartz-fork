@@ -19,10 +19,3 @@ title: Triz-moving_Duration+Inversion-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Duration+Inversion-Reliability](../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.md) 
-- [Triz-moving_Duration+Inversion-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.internal.md) 
-- [Triz-moving_Duration+Inversion-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.protect.md) 
-- [Triz-moving_Duration+Inversion-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.private.md) 
-- [Triz-moving_Duration+Inversion-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.personal.md) 
-- [Triz-moving_Duration+Inversion-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Reliability.secret.md) 

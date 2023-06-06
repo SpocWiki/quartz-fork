@@ -43,10 +43,3 @@ The act of authoring written creative content.
 
 
 
-## Confidential Links & Embeds: 
-- [write_action](../../../../../../_public/schema.org/Type/is_a_/action/create_action/write_action.md) 
-- [write_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/create_action/write_action.internal.md) 
-- [write_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/create_action/write_action.protect.md) 
-- [write_action.private](../../../../../../_private/schema.org/Type/is_a_/action/create_action/write_action.private.md) 
-- [write_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/create_action/write_action.personal.md) 
-- [write_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/create_action/write_action.secret.md) 

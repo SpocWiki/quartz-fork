@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Twiste](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.md) 
-- [Twiste.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.internal.md) 
-- [Twiste.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.protect.md) 
-- [Twiste.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.private.md) 
-- [Twiste.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.personal.md) 
-- [Twiste.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Twiste.secret.md) 

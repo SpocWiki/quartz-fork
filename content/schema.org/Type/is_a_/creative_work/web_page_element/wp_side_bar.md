@@ -43,10 +43,3 @@ A sidebar section of the page.
 
 
 
-## Confidential Links & Embeds: 
-- [wp_side_bar](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.md) 
-- [wp_side_bar.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.internal.md) 
-- [wp_side_bar.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.protect.md) 
-- [wp_side_bar.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.private.md) 
-- [wp_side_bar.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.personal.md) 
-- [wp_side_bar.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cavalese](../../../../../../_public/geo/Continent/Europe/Italy/City/Cavalese.md) 
-- [Cavalese.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cavalese.internal.md) 
-- [Cavalese.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cavalese.protect.md) 
-- [Cavalese.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cavalese.private.md) 
-- [Cavalese.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cavalese.personal.md) 
-- [Cavalese.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cavalese.secret.md) 

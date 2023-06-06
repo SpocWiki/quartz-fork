@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_sign_or_symptom](../../../../../_public/schema.org/Predicate/Relations/has/has_sign_or_symptom.md) 
-- [has_sign_or_symptom.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_sign_or_symptom.internal.md) 
-- [has_sign_or_symptom.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_sign_or_symptom.protect.md) 
-- [has_sign_or_symptom.private](../../../../../_private/schema.org/Predicate/Relations/has/has_sign_or_symptom.private.md) 
-- [has_sign_or_symptom.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_sign_or_symptom.personal.md) 
-- [has_sign_or_symptom.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_sign_or_symptom.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heusden](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Heusden.md) 
-- [Heusden.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Heusden.internal.md) 
-- [Heusden.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Heusden.protect.md) 
-- [Heusden.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Heusden.private.md) 
-- [Heusden.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Heusden.personal.md) 
-- [Heusden.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Heusden.secret.md) 

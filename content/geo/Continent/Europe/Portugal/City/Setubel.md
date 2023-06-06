@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Setubel](../../../../../../_public/geo/Continent/Europe/Portugal/City/Setubel.md) 
-- [Setubel.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Setubel.internal.md) 
-- [Setubel.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Setubel.protect.md) 
-- [Setubel.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Setubel.private.md) 
-- [Setubel.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Setubel.personal.md) 
-- [Setubel.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Setubel.secret.md) 

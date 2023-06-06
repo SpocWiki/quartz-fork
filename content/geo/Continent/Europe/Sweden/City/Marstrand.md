@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marstrand](../../../../../../_public/geo/Continent/Europe/Sweden/City/Marstrand.md) 
-- [Marstrand.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Marstrand.internal.md) 
-- [Marstrand.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Marstrand.protect.md) 
-- [Marstrand.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Marstrand.private.md) 
-- [Marstrand.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Marstrand.personal.md) 
-- [Marstrand.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Marstrand.secret.md) 

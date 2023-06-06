@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Allenburg](../../../../../../_public/geo/Continent/Europe/Russia/City/Allenburg.md) 
-- [Allenburg.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Allenburg.internal.md) 
-- [Allenburg.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Allenburg.protect.md) 
-- [Allenburg.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Allenburg.private.md) 
-- [Allenburg.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Allenburg.personal.md) 
-- [Allenburg.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Allenburg.secret.md) 

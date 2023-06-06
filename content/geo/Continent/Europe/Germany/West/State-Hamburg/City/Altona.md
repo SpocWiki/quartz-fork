@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altona](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.md) 
-- [Altona.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.internal.md) 
-- [Altona.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.protect.md) 
-- [Altona.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.private.md) 
-- [Altona.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.personal.md) 
-- [Altona.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg/City/Altona.secret.md) 

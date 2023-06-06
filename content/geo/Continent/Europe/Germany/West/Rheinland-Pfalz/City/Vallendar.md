@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vallendar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Vallendar.md) 
-- [Vallendar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Vallendar.internal.md) 
-- [Vallendar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Vallendar.protect.md) 
-- [Vallendar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Vallendar.private.md) 
-- [Vallendar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Vallendar.personal.md) 
-- [Vallendar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Vallendar.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vorsfelde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.md) 
-- [Vorsfelde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.internal.md) 
-- [Vorsfelde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.protect.md) 
-- [Vorsfelde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.private.md) 
-- [Vorsfelde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.personal.md) 
-- [Vorsfelde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vorsfelde.secret.md) 

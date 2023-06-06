@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meckenheim~Pfalz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Meckenheim~Pfalz.md) 
-- [Meckenheim~Pfalz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Meckenheim~Pfalz.internal.md) 
-- [Meckenheim~Pfalz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Meckenheim~Pfalz.protect.md) 
-- [Meckenheim~Pfalz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Meckenheim~Pfalz.private.md) 
-- [Meckenheim~Pfalz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Meckenheim~Pfalz.personal.md) 
-- [Meckenheim~Pfalz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Meckenheim~Pfalz.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Capricorni-17](../../../_public/astro/Star/Capricorni-17.md) 
-- [Capricorni-17.internal](../../../_internal/astro/Star/Capricorni-17.internal.md) 
-- [Capricorni-17.protect](../../../_protect/astro/Star/Capricorni-17.protect.md) 
-- [Capricorni-17.private](../../../_private/astro/Star/Capricorni-17.private.md) 
-- [Capricorni-17.personal](../../../_personal/astro/Star/Capricorni-17.personal.md) 
-- [Capricorni-17.secret](../../../_secret/astro/Star/Capricorni-17.secret.md)
-

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaisiadorys](../../../../../../_public/geo/Continent/Europe/Russia/City/Kaisiadorys.md) 
-- [Kaisiadorys.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaisiadorys.internal.md) 
-- [Kaisiadorys.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaisiadorys.protect.md) 
-- [Kaisiadorys.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kaisiadorys.private.md) 
-- [Kaisiadorys.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaisiadorys.personal.md) 
-- [Kaisiadorys.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaisiadorys.secret.md) 

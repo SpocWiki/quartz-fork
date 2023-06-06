@@ -125,7 +125,7 @@ markerFolder: ./Comoros/City
 
 ![350](geo/Continent/Africa/Comoros/Seal_of_the_Comoros.svg)
 
-![Anthem-Comoros](xLarge/National-Anthem/Anthem-Comoros.mp3)
+[Anthem-Comoros](xLarge/National-Anthem/Anthem-Comoros.mp3)
 
 ![350](geo/Continent/Africa/Comoros/Flag_of_the_Comoros.svg)
 [Alcohol-l::0.4]
@@ -135,10 +135,3 @@ markerFolder: ./Comoros/City
 
 
 
-## Confidential Links & Embeds: 
-- [Comoros](../../../../_public/geo/Continent/Africa/Comoros.md) 
-- [Comoros.internal](../../../../_internal/geo/Continent/Africa/Comoros.internal.md) 
-- [Comoros.protect](../../../../_protect/geo/Continent/Africa/Comoros.protect.md) 
-- [Comoros.private](../../../../_private/geo/Continent/Africa/Comoros.private.md) 
-- [Comoros.personal](../../../../_personal/geo/Continent/Africa/Comoros.personal.md) 
-- [Comoros.secret](../../../../_secret/geo/Continent/Africa/Comoros.secret.md) 

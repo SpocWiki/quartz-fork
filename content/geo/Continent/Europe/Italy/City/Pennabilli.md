@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pennabilli](../../../../../../_public/geo/Continent/Europe/Italy/City/Pennabilli.md) 
-- [Pennabilli.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pennabilli.internal.md) 
-- [Pennabilli.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pennabilli.protect.md) 
-- [Pennabilli.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pennabilli.private.md) 
-- [Pennabilli.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pennabilli.personal.md) 
-- [Pennabilli.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pennabilli.secret.md) 

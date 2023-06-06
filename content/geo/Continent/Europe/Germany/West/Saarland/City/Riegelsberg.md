@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Riegelsberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Riegelsberg.md) 
-- [Riegelsberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Riegelsberg.internal.md) 
-- [Riegelsberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Riegelsberg.protect.md) 
-- [Riegelsberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Riegelsberg.private.md) 
-- [Riegelsberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Riegelsberg.personal.md) 
-- [Riegelsberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Riegelsberg.secret.md) 

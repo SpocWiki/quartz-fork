@@ -17,10 +17,3 @@ title: Triz-Buffer_Solution
 
 Buffer a Solution to prevent harm from Extremes of pH.
 
-## Confidential Links & Embeds: 
-- [Triz-Buffer_Solution](../../../../_public/tech/Triz/Example/Triz-Buffer_Solution.md) 
-- [Triz-Buffer_Solution.internal](../../../../_internal/tech/Triz/Example/Triz-Buffer_Solution.internal.md) 
-- [Triz-Buffer_Solution.protect](../../../../_protect/tech/Triz/Example/Triz-Buffer_Solution.protect.md) 
-- [Triz-Buffer_Solution.private](../../../../_private/tech/Triz/Example/Triz-Buffer_Solution.private.md) 
-- [Triz-Buffer_Solution.personal](../../../../_personal/tech/Triz/Example/Triz-Buffer_Solution.personal.md) 
-- [Triz-Buffer_Solution.secret](../../../../_secret/tech/Triz/Example/Triz-Buffer_Solution.secret.md) 

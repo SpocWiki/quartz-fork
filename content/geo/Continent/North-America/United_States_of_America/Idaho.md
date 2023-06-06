@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Idaho](../../../../../_public/geo/Continent/North-America/United_States_of_America/Idaho.md) 
-- [Idaho.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Idaho.internal.md) 
-- [Idaho.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Idaho.protect.md) 
-- [Idaho.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Idaho.private.md) 
-- [Idaho.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Idaho.personal.md) 
-- [Idaho.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Idaho.secret.md) 

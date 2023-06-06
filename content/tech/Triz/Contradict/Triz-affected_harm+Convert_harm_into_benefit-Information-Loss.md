@@ -19,10 +19,3 @@ title: Triz-affected_harm+Convert_harm_into_benefit-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Convert_harm_into_benefit-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.internal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.protect.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.private.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.personal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Information-Loss.secret.md) 

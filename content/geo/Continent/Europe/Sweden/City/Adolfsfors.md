@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Adolfsfors](../../../../../../_public/geo/Continent/Europe/Sweden/City/Adolfsfors.md) 
-- [Adolfsfors.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Adolfsfors.internal.md) 
-- [Adolfsfors.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Adolfsfors.protect.md) 
-- [Adolfsfors.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Adolfsfors.private.md) 
-- [Adolfsfors.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Adolfsfors.personal.md) 
-- [Adolfsfors.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Adolfsfors.secret.md) 

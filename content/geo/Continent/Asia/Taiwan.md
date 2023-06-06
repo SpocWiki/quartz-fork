@@ -123,10 +123,3 @@ markerFolder: ./Taiwan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Taiwan](../../../../_public/geo/Continent/Asia/Taiwan.md) 
-- [Taiwan.internal](../../../../_internal/geo/Continent/Asia/Taiwan.internal.md) 
-- [Taiwan.protect](../../../../_protect/geo/Continent/Asia/Taiwan.protect.md) 
-- [Taiwan.private](../../../../_private/geo/Continent/Asia/Taiwan.private.md) 
-- [Taiwan.personal](../../../../_personal/geo/Continent/Asia/Taiwan.personal.md) 
-- [Taiwan.secret](../../../../_secret/geo/Continent/Asia/Taiwan.secret.md) 

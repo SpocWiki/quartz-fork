@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hersfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Hersfeld.md) 
-- [Hersfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hersfeld.internal.md) 
-- [Hersfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hersfeld.protect.md) 
-- [Hersfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hersfeld.private.md) 
-- [Hersfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hersfeld.personal.md) 
-- [Hersfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hersfeld.secret.md) 

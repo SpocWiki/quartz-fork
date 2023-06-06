@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mexico~City](../../../../../../_public/geo/Continent/South-America/Mexico/City/Mexico~City.md) 
-- [Mexico~City.internal](../../../../../../_internal/geo/Continent/South-America/Mexico/City/Mexico~City.internal.md) 
-- [Mexico~City.protect](../../../../../../_protect/geo/Continent/South-America/Mexico/City/Mexico~City.protect.md) 
-- [Mexico~City.private](../../../../../../_private/geo/Continent/South-America/Mexico/City/Mexico~City.private.md) 
-- [Mexico~City.personal](../../../../../../_personal/geo/Continent/South-America/Mexico/City/Mexico~City.personal.md) 
-- [Mexico~City.secret](../../../../../../_secret/geo/Continent/South-America/Mexico/City/Mexico~City.secret.md) 

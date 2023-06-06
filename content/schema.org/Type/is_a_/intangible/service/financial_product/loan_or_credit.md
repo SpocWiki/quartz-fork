@@ -45,10 +45,3 @@ A financial product for the loaning of an amount of money, or line of credit, un
 
 
 
-## Confidential Links & Embeds: 
-- [loan_or_credit](../../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.md) 
-- [loan_or_credit.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.internal.md) 
-- [loan_or_credit.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.protect.md) 
-- [loan_or_credit.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.private.md) 
-- [loan_or_credit.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.personal.md) 
-- [loan_or_credit.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.secret.md) 

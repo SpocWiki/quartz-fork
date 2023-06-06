@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lungo](../../../../../../_public/geo/Continent/Europe/Sweden/City/Lungo.md) 
-- [Lungo.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lungo.internal.md) 
-- [Lungo.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lungo.protect.md) 
-- [Lungo.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Lungo.private.md) 
-- [Lungo.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lungo.personal.md) 
-- [Lungo.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lungo.secret.md) 

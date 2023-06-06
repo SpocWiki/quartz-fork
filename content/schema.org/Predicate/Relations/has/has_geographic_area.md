@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geographic_area](../../../../../_public/schema.org/Predicate/Relations/has/has_geographic_area.md) 
-- [has_geographic_area.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_geographic_area.internal.md) 
-- [has_geographic_area.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_geographic_area.protect.md) 
-- [has_geographic_area.private](../../../../../_private/schema.org/Predicate/Relations/has/has_geographic_area.private.md) 
-- [has_geographic_area.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_geographic_area.personal.md) 
-- [has_geographic_area.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_geographic_area.secret.md) 

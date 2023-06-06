@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vac](../../../../../../_public/geo/Continent/Europe/Hungary/City/Vac.md) 
-- [Vac.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Vac.internal.md) 
-- [Vac.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Vac.protect.md) 
-- [Vac.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Vac.private.md) 
-- [Vac.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Vac.personal.md) 
-- [Vac.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Vac.secret.md) 

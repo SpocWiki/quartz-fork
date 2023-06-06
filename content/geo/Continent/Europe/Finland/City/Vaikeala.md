@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaikeala](../../../../../../_public/geo/Continent/Europe/Finland/City/Vaikeala.md) 
-- [Vaikeala.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Vaikeala.internal.md) 
-- [Vaikeala.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Vaikeala.protect.md) 
-- [Vaikeala.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Vaikeala.private.md) 
-- [Vaikeala.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Vaikeala.personal.md) 
-- [Vaikeala.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Vaikeala.secret.md) 

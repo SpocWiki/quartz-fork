@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_sub_trip](../../../../../_public/schema.org/Predicate/Relations/has/has_sub_trip.md) 
-- [has_sub_trip.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_sub_trip.internal.md) 
-- [has_sub_trip.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_sub_trip.protect.md) 
-- [has_sub_trip.private](../../../../../_private/schema.org/Predicate/Relations/has/has_sub_trip.private.md) 
-- [has_sub_trip.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_sub_trip.personal.md) 
-- [has_sub_trip.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_sub_trip.secret.md) 

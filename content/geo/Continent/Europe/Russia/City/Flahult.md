@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flahult](../../../../../../_public/geo/Continent/Europe/Russia/City/Flahult.md) 
-- [Flahult.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Flahult.internal.md) 
-- [Flahult.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Flahult.protect.md) 
-- [Flahult.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Flahult.private.md) 
-- [Flahult.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Flahult.personal.md) 
-- [Flahult.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Flahult.secret.md) 

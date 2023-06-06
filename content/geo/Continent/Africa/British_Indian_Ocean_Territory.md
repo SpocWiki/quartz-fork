@@ -125,10 +125,3 @@ markerFolder: ./British_Indian_Ocean_Territory/City
 
 
 
-## Confidential Links & Embeds: 
-- [British_Indian_Ocean_Territory](../../../../_public/geo/Continent/Africa/British_Indian_Ocean_Territory.md) 
-- [British_Indian_Ocean_Territory.internal](../../../../_internal/geo/Continent/Africa/British_Indian_Ocean_Territory.internal.md) 
-- [British_Indian_Ocean_Territory.protect](../../../../_protect/geo/Continent/Africa/British_Indian_Ocean_Territory.protect.md) 
-- [British_Indian_Ocean_Territory.private](../../../../_private/geo/Continent/Africa/British_Indian_Ocean_Territory.private.md) 
-- [British_Indian_Ocean_Territory.personal](../../../../_personal/geo/Continent/Africa/British_Indian_Ocean_Territory.personal.md) 
-- [British_Indian_Ocean_Territory.secret](../../../../_secret/geo/Continent/Africa/British_Indian_Ocean_Territory.secret.md) 

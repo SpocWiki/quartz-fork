@@ -43,10 +43,3 @@ An indication for treating an underlying condition, symptom, etc.
 
 
 
-## Confidential Links & Embeds: 
-- [treatment_indication](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.md) 
-- [treatment_indication.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.internal.md) 
-- [treatment_indication.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.protect.md) 
-- [treatment_indication.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.private.md) 
-- [treatment_indication.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.personal.md) 
-- [treatment_indication.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.secret.md) 

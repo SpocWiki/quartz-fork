@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Dom_Römer](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Dom_R%C3%B6mer.md) 
-- [U-Dom_Römer.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Dom_R%C3%B6mer.internal.md) 
-- [U-Dom_Römer.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Dom_R%C3%B6mer.protect.md) 
-- [U-Dom_Römer.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Dom_R%C3%B6mer.private.md) 
-- [U-Dom_Römer.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Dom_R%C3%B6mer.personal.md) 
-- [U-Dom_Römer.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Dom_R%C3%B6mer.secret.md) 

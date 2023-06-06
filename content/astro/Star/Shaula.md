@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Shaula](../../../_public/astro/Star/Shaula.md) 
-- [Shaula.internal](../../../_internal/astro/Star/Shaula.internal.md) 
-- [Shaula.protect](../../../_protect/astro/Star/Shaula.protect.md) 
-- [Shaula.private](../../../_private/astro/Star/Shaula.private.md) 
-- [Shaula.personal](../../../_personal/astro/Star/Shaula.personal.md) 
-- [Shaula.secret](../../../_secret/astro/Star/Shaula.secret.md) 

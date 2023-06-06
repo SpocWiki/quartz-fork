@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zakopane](../../../../../../_public/geo/Continent/Europe/Poland/City/Zakopane.md) 
-- [Zakopane.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zakopane.internal.md) 
-- [Zakopane.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zakopane.protect.md) 
-- [Zakopane.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zakopane.private.md) 
-- [Zakopane.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zakopane.personal.md) 
-- [Zakopane.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zakopane.secret.md) 

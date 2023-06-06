@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mysleince](../../../../../../_public/geo/Continent/Europe/Poland/City/Mysleince.md) 
-- [Mysleince.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Mysleince.internal.md) 
-- [Mysleince.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Mysleince.protect.md) 
-- [Mysleince.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Mysleince.private.md) 
-- [Mysleince.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Mysleince.personal.md) 
-- [Mysleince.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Mysleince.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wusterhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.md) 
-- [Wusterhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.internal.md) 
-- [Wusterhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.protect.md) 
-- [Wusterhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.private.md) 
-- [Wusterhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.personal.md) 
-- [Wusterhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wusterhausen.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-moving_Weight+Inert_environment-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Weight+Inert_environment-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Inert_environment-generated_harm.md) 
-- [Triz-moving_Weight+Inert_environment-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Inert_environment-generated_harm.internal.md) 
-- [Triz-moving_Weight+Inert_environment-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Inert_environment-generated_harm.protect.md) 
-- [Triz-moving_Weight+Inert_environment-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Inert_environment-generated_harm.private.md) 
-- [Triz-moving_Weight+Inert_environment-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Inert_environment-generated_harm.personal.md) 
-- [Triz-moving_Weight+Inert_environment-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Inert_environment-generated_harm.secret.md) 

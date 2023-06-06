@@ -19,10 +19,3 @@ title: Triz-Intensity+Phase_transition-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Phase_transition-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.md) 
-- [Triz-Intensity+Phase_transition-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.internal.md) 
-- [Triz-Intensity+Phase_transition-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.protect.md) 
-- [Triz-Intensity+Phase_transition-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.private.md) 
-- [Triz-Intensity+Phase_transition-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.personal.md) 
-- [Triz-Intensity+Phase_transition-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Quantity.secret.md) 

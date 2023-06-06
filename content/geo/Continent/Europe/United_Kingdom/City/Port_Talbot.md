@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Port_Talbot](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.md) 
-- [Port_Talbot.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.internal.md) 
-- [Port_Talbot.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.protect.md) 
-- [Port_Talbot.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.private.md) 
-- [Port_Talbot.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.personal.md) 
-- [Port_Talbot.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Port_Talbot.secret.md) 

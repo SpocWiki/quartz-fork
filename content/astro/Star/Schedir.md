@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Schedir](../../../_public/astro/Star/Schedir.md) 
-- [Schedir.internal](../../../_internal/astro/Star/Schedir.internal.md) 
-- [Schedir.protect](../../../_protect/astro/Star/Schedir.protect.md) 
-- [Schedir.private](../../../_private/astro/Star/Schedir.private.md) 
-- [Schedir.personal](../../../_personal/astro/Star/Schedir.personal.md) 
-- [Schedir.secret](../../../_secret/astro/Star/Schedir.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaenersborg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaenersborg.md) 
-- [Vaenersborg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaenersborg.internal.md) 
-- [Vaenersborg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaenersborg.protect.md) 
-- [Vaenersborg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaenersborg.private.md) 
-- [Vaenersborg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaenersborg.personal.md) 
-- [Vaenersborg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaenersborg.secret.md) 

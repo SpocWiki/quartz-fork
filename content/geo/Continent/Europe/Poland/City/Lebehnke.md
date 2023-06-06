@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lebehnke](../../../../../../_public/geo/Continent/Europe/Poland/City/Lebehnke.md) 
-- [Lebehnke.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lebehnke.internal.md) 
-- [Lebehnke.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lebehnke.protect.md) 
-- [Lebehnke.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lebehnke.private.md) 
-- [Lebehnke.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lebehnke.personal.md) 
-- [Lebehnke.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lebehnke.secret.md) 

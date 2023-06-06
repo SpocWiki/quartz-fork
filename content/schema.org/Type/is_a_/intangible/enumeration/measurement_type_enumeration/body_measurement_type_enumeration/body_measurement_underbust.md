@@ -47,10 +47,3 @@ Girth of body just below the bust. Used, for example, to fit women's swimwear.
 
 
 
-## Confidential Links & Embeds: 
-- [body_measurement_underbust](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_underbust.md) 
-- [body_measurement_underbust.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_underbust.internal.md) 
-- [body_measurement_underbust.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_underbust.protect.md) 
-- [body_measurement_underbust.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_underbust.private.md) 
-- [body_measurement_underbust.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_underbust.personal.md) 
-- [body_measurement_underbust.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_underbust.secret.md) 

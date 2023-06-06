@@ -43,10 +43,3 @@ An airline flight.
 
 
 
-## Confidential Links & Embeds: 
-- [flight](../../../../../../_public/schema.org/Type/is_a_/intangible/trip/flight.md) 
-- [flight.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/trip/flight.internal.md) 
-- [flight.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/trip/flight.protect.md) 
-- [flight.private](../../../../../../_private/schema.org/Type/is_a_/intangible/trip/flight.private.md) 
-- [flight.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/trip/flight.personal.md) 
-- [flight.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/trip/flight.secret.md) 

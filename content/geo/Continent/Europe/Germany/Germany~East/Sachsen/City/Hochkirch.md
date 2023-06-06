@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hochkirch](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hochkirch.md) 
-- [Hochkirch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hochkirch.internal.md) 
-- [Hochkirch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hochkirch.protect.md) 
-- [Hochkirch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hochkirch.private.md) 
-- [Hochkirch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hochkirch.personal.md) 
-- [Hochkirch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hochkirch.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_obj
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.internal.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.protect.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.private.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.personal.md) 
-- [Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.secret.md) 

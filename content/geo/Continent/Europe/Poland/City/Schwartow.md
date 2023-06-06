@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwartow](../../../../../../_public/geo/Continent/Europe/Poland/City/Schwartow.md) 
-- [Schwartow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwartow.internal.md) 
-- [Schwartow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwartow.protect.md) 
-- [Schwartow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schwartow.private.md) 
-- [Schwartow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwartow.personal.md) 
-- [Schwartow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwartow.secret.md) 

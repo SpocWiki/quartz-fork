@@ -52,10 +52,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_trailer_weight_kg](../../../../_public/schema.org/Predicate/Quantities/has_value_for_trailer_weight_kg.md) 
-- [has_value_for_trailer_weight_kg.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_trailer_weight_kg.internal.md) 
-- [has_value_for_trailer_weight_kg.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_trailer_weight_kg.protect.md) 
-- [has_value_for_trailer_weight_kg.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_trailer_weight_kg.private.md) 
-- [has_value_for_trailer_weight_kg.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_trailer_weight_kg.personal.md) 
-- [has_value_for_trailer_weight_kg.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_trailer_weight_kg.secret.md) 

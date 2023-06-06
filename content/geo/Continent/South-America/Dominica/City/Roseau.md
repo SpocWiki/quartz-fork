@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roseau](../../../../../../_public/geo/Continent/South-America/Dominica/City/Roseau.md) 
-- [Roseau.internal](../../../../../../_internal/geo/Continent/South-America/Dominica/City/Roseau.internal.md) 
-- [Roseau.protect](../../../../../../_protect/geo/Continent/South-America/Dominica/City/Roseau.protect.md) 
-- [Roseau.private](../../../../../../_private/geo/Continent/South-America/Dominica/City/Roseau.private.md) 
-- [Roseau.personal](../../../../../../_personal/geo/Continent/South-America/Dominica/City/Roseau.personal.md) 
-- [Roseau.secret](../../../../../../_secret/geo/Continent/South-America/Dominica/City/Roseau.secret.md) 

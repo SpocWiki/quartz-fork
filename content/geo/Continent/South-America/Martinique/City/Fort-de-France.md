@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fort-de-France](../../../../../../_public/geo/Continent/South-America/Martinique/City/Fort-de-France.md) 
-- [Fort-de-France.internal](../../../../../../_internal/geo/Continent/South-America/Martinique/City/Fort-de-France.internal.md) 
-- [Fort-de-France.protect](../../../../../../_protect/geo/Continent/South-America/Martinique/City/Fort-de-France.protect.md) 
-- [Fort-de-France.private](../../../../../../_private/geo/Continent/South-America/Martinique/City/Fort-de-France.private.md) 
-- [Fort-de-France.personal](../../../../../../_personal/geo/Continent/South-America/Martinique/City/Fort-de-France.personal.md) 
-- [Fort-de-France.secret](../../../../../../_secret/geo/Continent/South-America/Martinique/City/Fort-de-France.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sorrento](../../../../../../_public/geo/Continent/Europe/Italy/City/Sorrento.md) 
-- [Sorrento.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sorrento.internal.md) 
-- [Sorrento.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sorrento.protect.md) 
-- [Sorrento.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sorrento.private.md) 
-- [Sorrento.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sorrento.personal.md) 
-- [Sorrento.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sorrento.secret.md) 

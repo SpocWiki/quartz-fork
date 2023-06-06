@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaekisalmi](../../../../../../_public/geo/Continent/Europe/Finland/City/Kaekisalmi.md) 
-- [Kaekisalmi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaekisalmi.internal.md) 
-- [Kaekisalmi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaekisalmi.protect.md) 
-- [Kaekisalmi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kaekisalmi.private.md) 
-- [Kaekisalmi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaekisalmi.personal.md) 
-- [Kaekisalmi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaekisalmi.secret.md) 

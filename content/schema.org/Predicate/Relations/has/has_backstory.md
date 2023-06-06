@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_backstory](../../../../../_public/schema.org/Predicate/Relations/has/has_backstory.md) 
-- [has_backstory.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_backstory.internal.md) 
-- [has_backstory.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_backstory.protect.md) 
-- [has_backstory.private](../../../../../_private/schema.org/Predicate/Relations/has/has_backstory.private.md) 
-- [has_backstory.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_backstory.personal.md) 
-- [has_backstory.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_backstory.secret.md) 

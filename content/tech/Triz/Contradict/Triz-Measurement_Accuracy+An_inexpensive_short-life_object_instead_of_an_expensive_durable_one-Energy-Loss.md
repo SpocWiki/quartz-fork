@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.md) 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.internal.md) 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.protect.md) 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.private.md) 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.personal.md) 
-- [Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Energy-Loss.secret.md) 

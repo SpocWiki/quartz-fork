@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nordenham](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordenham.md) 
-- [Nordenham.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordenham.internal.md) 
-- [Nordenham.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordenham.protect.md) 
-- [Nordenham.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordenham.private.md) 
-- [Nordenham.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordenham.personal.md) 
-- [Nordenham.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nordenham.secret.md) 

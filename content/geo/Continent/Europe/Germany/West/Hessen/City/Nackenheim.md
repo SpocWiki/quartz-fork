@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nackenheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.md) 
-- [Nackenheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.internal.md) 
-- [Nackenheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.protect.md) 
-- [Nackenheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.private.md) 
-- [Nackenheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.personal.md) 
-- [Nackenheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Nackenheim.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grignon](../../../../../../_public/geo/Continent/Europe/France/City/Grignon.md) 
-- [Grignon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Grignon.internal.md) 
-- [Grignon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Grignon.protect.md) 
-- [Grignon.private](../../../../../../_private/geo/Continent/Europe/France/City/Grignon.private.md) 
-- [Grignon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Grignon.personal.md) 
-- [Grignon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Grignon.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zvolen](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zvolen.md) 
-- [Zvolen.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zvolen.internal.md) 
-- [Zvolen.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zvolen.protect.md) 
-- [Zvolen.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zvolen.private.md) 
-- [Zvolen.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zvolen.personal.md) 
-- [Zvolen.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zvolen.secret.md) 

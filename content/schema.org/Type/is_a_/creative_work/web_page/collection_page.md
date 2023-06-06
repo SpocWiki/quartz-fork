@@ -45,10 +45,3 @@ Web page type: Collection page.
 
 
 
-## Confidential Links & Embeds: 
-- [collection_page](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/collection_page.md) 
-- [collection_page.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/collection_page.internal.md) 
-- [collection_page.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/collection_page.protect.md) 
-- [collection_page.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/collection_page.private.md) 
-- [collection_page.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/collection_page.personal.md) 
-- [collection_page.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/collection_page.secret.md) 

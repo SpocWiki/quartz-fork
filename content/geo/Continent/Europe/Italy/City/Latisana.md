@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Latisana](../../../../../../_public/geo/Continent/Europe/Italy/City/Latisana.md) 
-- [Latisana.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Latisana.internal.md) 
-- [Latisana.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Latisana.protect.md) 
-- [Latisana.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Latisana.private.md) 
-- [Latisana.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Latisana.personal.md) 
-- [Latisana.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Latisana.secret.md) 

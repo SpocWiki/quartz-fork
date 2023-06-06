@@ -45,10 +45,3 @@ A designation by the US FDA signifying that there is positive evidence of human 
 
 
 
-## Confidential Links & Embeds: 
-- [fd_acategory_d](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.md) 
-- [fd_acategory_d.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.internal.md) 
-- [fd_acategory_d.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.protect.md) 
-- [fd_acategory_d.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.private.md) 
-- [fd_acategory_d.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.personal.md) 
-- [fd_acategory_d.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.secret.md) 

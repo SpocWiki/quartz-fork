@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Korpo](../../../../../../_public/geo/Continent/Europe/Finland/City/Korpo.md) 
-- [Korpo.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Korpo.internal.md) 
-- [Korpo.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Korpo.protect.md) 
-- [Korpo.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Korpo.private.md) 
-- [Korpo.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Korpo.personal.md) 
-- [Korpo.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Korpo.secret.md) 

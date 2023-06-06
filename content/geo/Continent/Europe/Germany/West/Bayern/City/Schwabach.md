@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwabach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schwabach.md) 
-- [Schwabach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schwabach.internal.md) 
-- [Schwabach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schwabach.protect.md) 
-- [Schwabach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schwabach.private.md) 
-- [Schwabach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schwabach.personal.md) 
-- [Schwabach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schwabach.secret.md) 

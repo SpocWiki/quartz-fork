@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aria](../../../../../../_public/geo/Continent/Europe/Albania/City/Aria.md) 
-- [Aria.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Aria.internal.md) 
-- [Aria.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Aria.protect.md) 
-- [Aria.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Aria.private.md) 
-- [Aria.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Aria.personal.md) 
-- [Aria.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Aria.secret.md) 

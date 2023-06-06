@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Syktyvkar](../../../../../../_public/geo/Continent/Europe/Russia/City/Syktyvkar.md) 
-- [Syktyvkar.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Syktyvkar.internal.md) 
-- [Syktyvkar.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Syktyvkar.protect.md) 
-- [Syktyvkar.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Syktyvkar.private.md) 
-- [Syktyvkar.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Syktyvkar.personal.md) 
-- [Syktyvkar.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Syktyvkar.secret.md) 

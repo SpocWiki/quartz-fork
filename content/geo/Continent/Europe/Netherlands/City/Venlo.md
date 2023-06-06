@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Venlo](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Venlo.md) 
-- [Venlo.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Venlo.internal.md) 
-- [Venlo.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Venlo.protect.md) 
-- [Venlo.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Venlo.private.md) 
-- [Venlo.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Venlo.personal.md) 
-- [Venlo.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Venlo.secret.md) 

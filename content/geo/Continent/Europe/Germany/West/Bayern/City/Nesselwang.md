@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nesselwang](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Nesselwang.md) 
-- [Nesselwang.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Nesselwang.internal.md) 
-- [Nesselwang.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Nesselwang.protect.md) 
-- [Nesselwang.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Nesselwang.private.md) 
-- [Nesselwang.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Nesselwang.personal.md) 
-- [Nesselwang.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Nesselwang.secret.md) 

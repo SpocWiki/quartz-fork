@@ -19,10 +19,3 @@ title: Triz-Temperature+Mechanical_vibration-stationary_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Mechanical_vibration-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.md) 
-- [Triz-Temperature+Mechanical_vibration-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.internal.md) 
-- [Triz-Temperature+Mechanical_vibration-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.protect.md) 
-- [Triz-Temperature+Mechanical_vibration-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.private.md) 
-- [Triz-Temperature+Mechanical_vibration-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.personal.md) 
-- [Triz-Temperature+Mechanical_vibration-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-stationary_Duration.secret.md) 

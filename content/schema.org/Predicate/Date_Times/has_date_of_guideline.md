@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_date_of_guideline](../../../../_public/schema.org/Predicate/Date_Times/has_date_of_guideline.md) 
-- [has_date_of_guideline.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_date_of_guideline.internal.md) 
-- [has_date_of_guideline.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_date_of_guideline.protect.md) 
-- [has_date_of_guideline.private](../../../../_private/schema.org/Predicate/Date_Times/has_date_of_guideline.private.md) 
-- [has_date_of_guideline.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_date_of_guideline.personal.md) 
-- [has_date_of_guideline.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_date_of_guideline.secret.md) 

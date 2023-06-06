@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zapfendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Zapfendorf.md) 
-- [Zapfendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Zapfendorf.internal.md) 
-- [Zapfendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Zapfendorf.protect.md) 
-- [Zapfendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Zapfendorf.private.md) 
-- [Zapfendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Zapfendorf.personal.md) 
-- [Zapfendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Zapfendorf.secret.md) 

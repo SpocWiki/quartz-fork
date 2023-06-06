@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trencin](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Trencin.md) 
-- [Trencin.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Trencin.internal.md) 
-- [Trencin.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Trencin.protect.md) 
-- [Trencin.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Trencin.private.md) 
-- [Trencin.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Trencin.personal.md) 
-- [Trencin.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Trencin.secret.md) 

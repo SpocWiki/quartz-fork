@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reus](../../../../../../_public/geo/Continent/Europe/Spain/City/Reus.md) 
-- [Reus.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Reus.internal.md) 
-- [Reus.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Reus.protect.md) 
-- [Reus.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Reus.private.md) 
-- [Reus.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Reus.personal.md) 
-- [Reus.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Reus.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alcanar](../../../../../../_public/geo/Continent/Europe/Spain/City/Alcanar.md) 
-- [Alcanar.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Alcanar.internal.md) 
-- [Alcanar.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Alcanar.protect.md) 
-- [Alcanar.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Alcanar.private.md) 
-- [Alcanar.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Alcanar.personal.md) 
-- [Alcanar.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Alcanar.secret.md) 

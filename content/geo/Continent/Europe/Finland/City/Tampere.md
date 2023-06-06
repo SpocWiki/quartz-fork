@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tampere](../../../../../../_public/geo/Continent/Europe/Finland/City/Tampere.md) 
-- [Tampere.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Tampere.internal.md) 
-- [Tampere.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Tampere.protect.md) 
-- [Tampere.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Tampere.private.md) 
-- [Tampere.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Tampere.personal.md) 
-- [Tampere.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Tampere.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bedford](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bedford.md) 
-- [Bedford.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bedford.internal.md) 
-- [Bedford.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bedford.protect.md) 
-- [Bedford.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bedford.private.md) 
-- [Bedford.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bedford.personal.md) 
-- [Bedford.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bedford.secret.md) 

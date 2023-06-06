@@ -39,10 +39,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Delaware](../../../../../_public/geo/Continent/North-America/United_States_of_America/Delaware.md) 
-- [Delaware.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Delaware.internal.md) 
-- [Delaware.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Delaware.protect.md) 
-- [Delaware.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Delaware.private.md) 
-- [Delaware.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Delaware.personal.md) 
-- [Delaware.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Delaware.secret.md) 

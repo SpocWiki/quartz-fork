@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flers](../../../../../../_public/geo/Continent/Europe/France/City/Flers.md) 
-- [Flers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Flers.internal.md) 
-- [Flers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Flers.protect.md) 
-- [Flers.private](../../../../../../_private/geo/Continent/Europe/France/City/Flers.private.md) 
-- [Flers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Flers.personal.md) 
-- [Flers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Flers.secret.md) 

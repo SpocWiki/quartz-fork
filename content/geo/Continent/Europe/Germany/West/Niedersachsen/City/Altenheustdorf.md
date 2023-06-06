@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altenheustdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.md) 
-- [Altenheustdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.internal.md) 
-- [Altenheustdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.protect.md) 
-- [Altenheustdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.private.md) 
-- [Altenheustdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.personal.md) 
-- [Altenheustdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Altenheustdorf.secret.md) 

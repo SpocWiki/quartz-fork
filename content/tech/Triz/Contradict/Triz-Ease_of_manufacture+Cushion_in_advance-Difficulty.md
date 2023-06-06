@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.md) 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.internal.md) 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.protect.md) 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.private.md) 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.personal.md) 
-- [Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Cushion_in_advance-Difficulty.secret.md) 

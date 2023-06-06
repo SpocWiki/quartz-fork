@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bersenbrueck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.md) 
-- [Bersenbrueck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.internal.md) 
-- [Bersenbrueck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.protect.md) 
-- [Bersenbrueck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.private.md) 
-- [Bersenbrueck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.personal.md) 
-- [Bersenbrueck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bersenbrueck.secret.md) 

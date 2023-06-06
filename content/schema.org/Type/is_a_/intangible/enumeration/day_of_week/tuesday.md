@@ -45,10 +45,3 @@ The day of the week between Monday and Wednesday.
 
 
 
-## Confidential Links & Embeds: 
-- [tuesday](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week/tuesday.md) 
-- [tuesday.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/tuesday.internal.md) 
-- [tuesday.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week/tuesday.protect.md) 
-- [tuesday.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week/tuesday.private.md) 
-- [tuesday.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/tuesday.personal.md) 
-- [tuesday.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week/tuesday.secret.md) 

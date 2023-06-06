@@ -49,10 +49,3 @@ Commonly used values:
 
 
 
-## Confidential Links & Embeds: 
-- [warranty_scope](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/warranty_scope.md) 
-- [warranty_scope.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/warranty_scope.internal.md) 
-- [warranty_scope.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/warranty_scope.protect.md) 
-- [warranty_scope.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/warranty_scope.private.md) 
-- [warranty_scope.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/warranty_scope.personal.md) 
-- [warranty_scope.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/warranty_scope.secret.md) 

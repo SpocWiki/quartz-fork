@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gnadenfeld](../../../../../../_public/geo/Continent/Europe/Poland/City/Gnadenfeld.md) 
-- [Gnadenfeld.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gnadenfeld.internal.md) 
-- [Gnadenfeld.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gnadenfeld.protect.md) 
-- [Gnadenfeld.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gnadenfeld.private.md) 
-- [Gnadenfeld.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gnadenfeld.personal.md) 
-- [Gnadenfeld.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gnadenfeld.secret.md) 

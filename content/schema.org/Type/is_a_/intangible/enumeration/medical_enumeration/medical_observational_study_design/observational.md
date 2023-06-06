@@ -45,10 +45,3 @@ An observational study design.
 
 
 
-## Confidential Links & Embeds: 
-- [observational](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.md) 
-- [observational.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.internal.md) 
-- [observational.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.protect.md) 
-- [observational.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.private.md) 
-- [observational.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.personal.md) 
-- [observational.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/observational.secret.md) 

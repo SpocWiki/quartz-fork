@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neubruecke](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.md) 
-- [Neubruecke.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.internal.md) 
-- [Neubruecke.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.protect.md) 
-- [Neubruecke.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.private.md) 
-- [Neubruecke.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.personal.md) 
-- [Neubruecke.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neubruecke.secret.md) 

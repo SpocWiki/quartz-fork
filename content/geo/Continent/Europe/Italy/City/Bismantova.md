@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bismantova](../../../../../../_public/geo/Continent/Europe/Italy/City/Bismantova.md) 
-- [Bismantova.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bismantova.internal.md) 
-- [Bismantova.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bismantova.protect.md) 
-- [Bismantova.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bismantova.private.md) 
-- [Bismantova.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bismantova.personal.md) 
-- [Bismantova.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bismantova.secret.md) 

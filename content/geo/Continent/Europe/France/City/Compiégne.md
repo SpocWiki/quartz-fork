@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Compiégne](../../../../../../_public/geo/Continent/Europe/France/City/Compi%C3%A9gne.md) 
-- [Compiégne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Compi%C3%A9gne.internal.md) 
-- [Compiégne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Compi%C3%A9gne.protect.md) 
-- [Compiégne.private](../../../../../../_private/geo/Continent/Europe/France/City/Compi%C3%A9gne.private.md) 
-- [Compiégne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Compi%C3%A9gne.personal.md) 
-- [Compiégne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Compi%C3%A9gne.secret.md) 

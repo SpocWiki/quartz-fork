@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Verona](../../../../../../_public/geo/Continent/Europe/Italy/City/Verona.md) 
-- [Verona.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Verona.internal.md) 
-- [Verona.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Verona.protect.md) 
-- [Verona.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Verona.private.md) 
-- [Verona.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Verona.personal.md) 
-- [Verona.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Verona.secret.md) 

@@ -31,10 +31,3 @@ markerFolder: ./Sachsen-Anhalt/City
 
 
 
-## Confidential Links & Embeds: 
-- [Sachsen-Anhalt](../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.md) 
-- [Sachsen-Anhalt.internal](../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.internal.md) 
-- [Sachsen-Anhalt.protect](../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.protect.md) 
-- [Sachsen-Anhalt.private](../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.private.md) 
-- [Sachsen-Anhalt.personal](../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.personal.md) 
-- [Sachsen-Anhalt.secret](../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt.secret.md) 

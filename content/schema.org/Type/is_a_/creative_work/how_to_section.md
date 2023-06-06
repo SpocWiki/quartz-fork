@@ -43,10 +43,3 @@ A sub-grouping of steps in the instructions for how to achieve a result (e.g. st
 
 
 
-## Confidential Links & Embeds: 
-- [how_to_section](../../../../../_public/schema.org/Type/is_a_/creative_work/how_to_section.md) 
-- [how_to_section.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/how_to_section.internal.md) 
-- [how_to_section.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/how_to_section.protect.md) 
-- [how_to_section.private](../../../../../_private/schema.org/Type/is_a_/creative_work/how_to_section.private.md) 
-- [how_to_section.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/how_to_section.personal.md) 
-- [how_to_section.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/how_to_section.secret.md) 

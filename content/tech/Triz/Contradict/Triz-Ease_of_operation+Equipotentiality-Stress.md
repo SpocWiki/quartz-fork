@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Equipotentiality-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Equipotentiality-Stress](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.internal.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.protect.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.private.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.personal.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Stress.secret.md) 

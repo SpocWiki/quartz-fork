@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Venersborg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Venersborg.md) 
-- [Venersborg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Venersborg.internal.md) 
-- [Venersborg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Venersborg.protect.md) 
-- [Venersborg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Venersborg.private.md) 
-- [Venersborg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Venersborg.personal.md) 
-- [Venersborg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Venersborg.secret.md) 

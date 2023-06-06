@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Targu-Jiu](../../../../../../_public/geo/Continent/Europe/Romania/City/Targu-Jiu.md) 
-- [Targu-Jiu.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Targu-Jiu.internal.md) 
-- [Targu-Jiu.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Targu-Jiu.protect.md) 
-- [Targu-Jiu.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Targu-Jiu.private.md) 
-- [Targu-Jiu.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Targu-Jiu.personal.md) 
-- [Targu-Jiu.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Targu-Jiu.secret.md) 

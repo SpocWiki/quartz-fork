@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Segmentation-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Segmentation-Automation](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.md) 
-- [Triz-Ease_of_operation+Segmentation-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.internal.md) 
-- [Triz-Ease_of_operation+Segmentation-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.protect.md) 
-- [Triz-Ease_of_operation+Segmentation-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.private.md) 
-- [Triz-Ease_of_operation+Segmentation-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.personal.md) 
-- [Triz-Ease_of_operation+Segmentation-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Automation.secret.md) 

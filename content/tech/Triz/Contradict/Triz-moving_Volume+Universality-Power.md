@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Universality-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Universality-Power](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Universality-Power.md) 
-- [Triz-moving_Volume+Universality-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Universality-Power.internal.md) 
-- [Triz-moving_Volume+Universality-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Universality-Power.protect.md) 
-- [Triz-moving_Volume+Universality-Power.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Universality-Power.private.md) 
-- [Triz-moving_Volume+Universality-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Universality-Power.personal.md) 
-- [Triz-moving_Volume+Universality-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Universality-Power.secret.md) 

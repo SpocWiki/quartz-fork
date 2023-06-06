@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brinkum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brinkum.md) 
-- [Brinkum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brinkum.internal.md) 
-- [Brinkum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brinkum.protect.md) 
-- [Brinkum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brinkum.private.md) 
-- [Brinkum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brinkum.personal.md) 
-- [Brinkum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Brinkum.secret.md) 

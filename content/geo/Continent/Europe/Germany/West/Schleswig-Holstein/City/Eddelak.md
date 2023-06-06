@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eddelak](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.md) 
-- [Eddelak.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.internal.md) 
-- [Eddelak.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.protect.md) 
-- [Eddelak.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.private.md) 
-- [Eddelak.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.personal.md) 
-- [Eddelak.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eddelak.secret.md) 

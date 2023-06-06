@@ -47,10 +47,3 @@ Nonprofit501c4: Non-profit type referring to Civic Leagues, Social Welfare Organ
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c4](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.md) 
-- [nonprofit501c4.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.internal.md) 
-- [nonprofit501c4.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.protect.md) 
-- [nonprofit501c4.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.private.md) 
-- [nonprofit501c4.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.personal.md) 
-- [nonprofit501c4.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c4.secret.md) 

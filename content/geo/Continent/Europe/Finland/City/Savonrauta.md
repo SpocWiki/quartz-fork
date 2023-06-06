@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Savonrauta](../../../../../../_public/geo/Continent/Europe/Finland/City/Savonrauta.md) 
-- [Savonrauta.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Savonrauta.internal.md) 
-- [Savonrauta.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Savonrauta.protect.md) 
-- [Savonrauta.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Savonrauta.private.md) 
-- [Savonrauta.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Savonrauta.personal.md) 
-- [Savonrauta.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Savonrauta.secret.md) 

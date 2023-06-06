@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wrohm](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wrohm.md) 
-- [Wrohm.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wrohm.internal.md) 
-- [Wrohm.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wrohm.protect.md) 
-- [Wrohm.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wrohm.private.md) 
-- [Wrohm.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wrohm.personal.md) 
-- [Wrohm.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Wrohm.secret.md) 

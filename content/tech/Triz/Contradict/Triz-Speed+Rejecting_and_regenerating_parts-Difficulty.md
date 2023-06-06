@@ -19,10 +19,3 @@ title: Triz-Speed+Rejecting_and_regenerating_parts-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Rejecting_and_regenerating_parts-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.md) 
-- [Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.internal.md) 
-- [Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.protect.md) 
-- [Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.private.md) 
-- [Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.personal.md) 
-- [Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Rejecting_and_regenerating_parts-Difficulty.secret.md) 

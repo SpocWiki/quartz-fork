@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sciacca](../../../../../../_public/geo/Continent/Europe/Italy/City/Sciacca.md) 
-- [Sciacca.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sciacca.internal.md) 
-- [Sciacca.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sciacca.protect.md) 
-- [Sciacca.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sciacca.private.md) 
-- [Sciacca.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sciacca.personal.md) 
-- [Sciacca.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sciacca.secret.md) 

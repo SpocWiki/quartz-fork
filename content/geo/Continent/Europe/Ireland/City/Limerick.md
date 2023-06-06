@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Limerick](../../../../../../_public/geo/Continent/Europe/Ireland/City/Limerick.md) 
-- [Limerick.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Limerick.internal.md) 
-- [Limerick.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Limerick.protect.md) 
-- [Limerick.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Limerick.private.md) 
-- [Limerick.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Limerick.personal.md) 
-- [Limerick.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Limerick.secret.md) 

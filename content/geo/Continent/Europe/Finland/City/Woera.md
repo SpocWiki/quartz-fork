@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Woera](../../../../../../_public/geo/Continent/Europe/Finland/City/Woera.md) 
-- [Woera.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Woera.internal.md) 
-- [Woera.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Woera.protect.md) 
-- [Woera.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Woera.private.md) 
-- [Woera.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Woera.personal.md) 
-- [Woera.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Woera.secret.md) 

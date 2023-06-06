@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_healthcare_reporting_data](../../../../../_public/schema.org/Predicate/Relations/has/has_healthcare_reporting_data.md) 
-- [has_healthcare_reporting_data.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_healthcare_reporting_data.internal.md) 
-- [has_healthcare_reporting_data.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_healthcare_reporting_data.protect.md) 
-- [has_healthcare_reporting_data.private](../../../../../_private/schema.org/Predicate/Relations/has/has_healthcare_reporting_data.private.md) 
-- [has_healthcare_reporting_data.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_healthcare_reporting_data.personal.md) 
-- [has_healthcare_reporting_data.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_healthcare_reporting_data.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Asymmetry-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Asymmetry-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Asymmetry-Information-Loss.md) 
-- [Triz-Ease_of_operation+Asymmetry-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Asymmetry-Information-Loss.internal.md) 
-- [Triz-Ease_of_operation+Asymmetry-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Asymmetry-Information-Loss.protect.md) 
-- [Triz-Ease_of_operation+Asymmetry-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Asymmetry-Information-Loss.private.md) 
-- [Triz-Ease_of_operation+Asymmetry-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Asymmetry-Information-Loss.personal.md) 
-- [Triz-Ease_of_operation+Asymmetry-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Asymmetry-Information-Loss.secret.md) 

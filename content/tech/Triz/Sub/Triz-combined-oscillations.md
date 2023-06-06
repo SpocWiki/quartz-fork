@@ -18,10 +18,3 @@ title: Triz-combined-oscillations
 Use combined ultrasonic and electromagnetic field oscillations.
 
 
-## Confidential Links & Embeds: 
-- [Triz-combined-oscillations](../../../../_public/tech/Triz/Sub/Triz-combined-oscillations.md) 
-- [Triz-combined-oscillations.internal](../../../../_internal/tech/Triz/Sub/Triz-combined-oscillations.internal.md) 
-- [Triz-combined-oscillations.protect](../../../../_protect/tech/Triz/Sub/Triz-combined-oscillations.protect.md) 
-- [Triz-combined-oscillations.private](../../../../_private/tech/Triz/Sub/Triz-combined-oscillations.private.md) 
-- [Triz-combined-oscillations.personal](../../../../_personal/tech/Triz/Sub/Triz-combined-oscillations.personal.md) 
-- [Triz-combined-oscillations.secret](../../../../_secret/tech/Triz/Sub/Triz-combined-oscillations.secret.md) 

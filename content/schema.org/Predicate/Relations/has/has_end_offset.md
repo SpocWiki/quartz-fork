@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_end_offset](../../../../../_public/schema.org/Predicate/Relations/has/has_end_offset.md) 
-- [has_end_offset.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_end_offset.internal.md) 
-- [has_end_offset.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_end_offset.protect.md) 
-- [has_end_offset.private](../../../../../_private/schema.org/Predicate/Relations/has/has_end_offset.private.md) 
-- [has_end_offset.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_end_offset.personal.md) 
-- [has_end_offset.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_end_offset.secret.md) 

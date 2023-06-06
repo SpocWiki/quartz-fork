@@ -19,10 +19,3 @@ title: Triz-Complexity+Mediator-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Mediator-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Mediator-Illumination.md) 
-- [Triz-Complexity+Mediator-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Mediator-Illumination.internal.md) 
-- [Triz-Complexity+Mediator-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Mediator-Illumination.protect.md) 
-- [Triz-Complexity+Mediator-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Mediator-Illumination.private.md) 
-- [Triz-Complexity+Mediator-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Mediator-Illumination.personal.md) 
-- [Triz-Complexity+Mediator-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Mediator-Illumination.secret.md) 

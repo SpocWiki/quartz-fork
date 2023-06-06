@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuerstenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenberg.md) 
-- [Fuerstenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenberg.internal.md) 
-- [Fuerstenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenberg.protect.md) 
-- [Fuerstenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenberg.private.md) 
-- [Fuerstenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenberg.personal.md) 
-- [Fuerstenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenberg.secret.md) 

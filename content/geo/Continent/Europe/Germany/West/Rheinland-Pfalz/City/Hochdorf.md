@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hochdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hochdorf.md) 
-- [Hochdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hochdorf.internal.md) 
-- [Hochdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hochdorf.protect.md) 
-- [Hochdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hochdorf.private.md) 
-- [Hochdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hochdorf.personal.md) 
-- [Hochdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hochdorf.secret.md) 

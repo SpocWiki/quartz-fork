@@ -45,10 +45,3 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 
-## Confidential Links & Embeds: 
-- [rental_car_reservation](../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.md) 
-- [rental_car_reservation.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.internal.md) 
-- [rental_car_reservation.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.protect.md) 
-- [rental_car_reservation.private](../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.private.md) 
-- [rental_car_reservation.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.personal.md) 
-- [rental_car_reservation.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.secret.md) 

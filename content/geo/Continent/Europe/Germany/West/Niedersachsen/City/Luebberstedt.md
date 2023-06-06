@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luebberstedt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.md) 
-- [Luebberstedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.internal.md) 
-- [Luebberstedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.protect.md) 
-- [Luebberstedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.private.md) 
-- [Luebberstedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.personal.md) 
-- [Luebberstedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luebberstedt.secret.md) 

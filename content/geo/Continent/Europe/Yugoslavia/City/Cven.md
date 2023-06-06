@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cven](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Cven.md) 
-- [Cven.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Cven.internal.md) 
-- [Cven.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Cven.protect.md) 
-- [Cven.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Cven.private.md) 
-- [Cven.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Cven.personal.md) 
-- [Cven.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Cven.secret.md) 

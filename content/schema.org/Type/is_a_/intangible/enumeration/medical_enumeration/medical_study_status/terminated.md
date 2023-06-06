@@ -45,10 +45,3 @@ Terminated.
 
 
 
-## Confidential Links & Embeds: 
-- [terminated](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.md) 
-- [terminated.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.internal.md) 
-- [terminated.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.protect.md) 
-- [terminated.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.private.md) 
-- [terminated.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.personal.md) 
-- [terminated.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.secret.md) 

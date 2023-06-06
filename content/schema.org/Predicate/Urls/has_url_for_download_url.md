@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_url_for_download_url](../../../../_public/schema.org/Predicate/Urls/has_url_for_download_url.md) 
-- [has_url_for_download_url.internal](../../../../_internal/schema.org/Predicate/Urls/has_url_for_download_url.internal.md) 
-- [has_url_for_download_url.protect](../../../../_protect/schema.org/Predicate/Urls/has_url_for_download_url.protect.md) 
-- [has_url_for_download_url.private](../../../../_private/schema.org/Predicate/Urls/has_url_for_download_url.private.md) 
-- [has_url_for_download_url.personal](../../../../_personal/schema.org/Predicate/Urls/has_url_for_download_url.personal.md) 
-- [has_url_for_download_url.secret](../../../../_secret/schema.org/Predicate/Urls/has_url_for_download_url.secret.md) 

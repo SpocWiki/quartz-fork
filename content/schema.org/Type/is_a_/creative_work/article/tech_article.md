@@ -45,10 +45,3 @@ A technical article - Example: How-to (task) topics, step-by-step, procedural tr
 
 
 
-## Confidential Links & Embeds: 
-- [tech_article](../../../../../../_public/schema.org/Type/is_a_/creative_work/article/tech_article.md) 
-- [tech_article.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/tech_article.internal.md) 
-- [tech_article.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/tech_article.protect.md) 
-- [tech_article.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/article/tech_article.private.md) 
-- [tech_article.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/tech_article.personal.md) 
-- [tech_article.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/tech_article.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fergana](../../../../../../_public/geo/Continent/Europe/Russia/City/Fergana.md) 
-- [Fergana.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Fergana.internal.md) 
-- [Fergana.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Fergana.protect.md) 
-- [Fergana.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Fergana.private.md) 
-- [Fergana.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Fergana.personal.md) 
-- [Fergana.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Fergana.secret.md) 

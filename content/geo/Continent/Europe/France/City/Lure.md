@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lure](../../../../../../_public/geo/Continent/Europe/France/City/Lure.md) 
-- [Lure.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lure.internal.md) 
-- [Lure.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lure.protect.md) 
-- [Lure.private](../../../../../../_private/geo/Continent/Europe/France/City/Lure.private.md) 
-- [Lure.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lure.personal.md) 
-- [Lure.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lure.secret.md) 

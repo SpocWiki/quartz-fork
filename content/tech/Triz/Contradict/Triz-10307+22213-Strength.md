@@ -19,10 +19,3 @@ title: Triz-10307+22213-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22213-Strength](../../../../_public/tech/Triz/Contradict/Triz-10307+22213-Strength.md) 
-- [Triz-10307+22213-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22213-Strength.internal.md) 
-- [Triz-10307+22213-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22213-Strength.protect.md) 
-- [Triz-10307+22213-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22213-Strength.private.md) 
-- [Triz-10307+22213-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22213-Strength.personal.md) 
-- [Triz-10307+22213-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22213-Strength.secret.md) 

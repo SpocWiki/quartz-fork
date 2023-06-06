@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Praebichl](../../../../../../_public/geo/Continent/Europe/Austria/City/Praebichl.md) 
-- [Praebichl.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Praebichl.internal.md) 
-- [Praebichl.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Praebichl.protect.md) 
-- [Praebichl.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Praebichl.private.md) 
-- [Praebichl.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Praebichl.personal.md) 
-- [Praebichl.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Praebichl.secret.md) 

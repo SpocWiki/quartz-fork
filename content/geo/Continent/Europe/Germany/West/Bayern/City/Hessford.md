@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hessford](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hessford.md) 
-- [Hessford.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hessford.internal.md) 
-- [Hessford.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hessford.protect.md) 
-- [Hessford.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hessford.private.md) 
-- [Hessford.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hessford.personal.md) 
-- [Hessford.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hessford.secret.md) 

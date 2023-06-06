@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Messina](../../../../../../_public/geo/Continent/Europe/Italy/City/Messina.md) 
-- [Messina.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Messina.internal.md) 
-- [Messina.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Messina.protect.md) 
-- [Messina.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Messina.private.md) 
-- [Messina.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Messina.personal.md) 
-- [Messina.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Messina.secret.md) 

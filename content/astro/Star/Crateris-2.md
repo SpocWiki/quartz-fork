@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Crateris-2](../../../_public/astro/Star/Crateris-2.md) 
-- [Crateris-2.internal](../../../_internal/astro/Star/Crateris-2.internal.md) 
-- [Crateris-2.protect](../../../_protect/astro/Star/Crateris-2.protect.md) 
-- [Crateris-2.private](../../../_private/astro/Star/Crateris-2.private.md) 
-- [Crateris-2.personal](../../../_personal/astro/Star/Crateris-2.personal.md) 
-- [Crateris-2.secret](../../../_secret/astro/Star/Crateris-2.secret.md)
-

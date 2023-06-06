@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karpfham](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Karpfham.md) 
-- [Karpfham.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Karpfham.internal.md) 
-- [Karpfham.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Karpfham.protect.md) 
-- [Karpfham.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Karpfham.private.md) 
-- [Karpfham.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Karpfham.personal.md) 
-- [Karpfham.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Karpfham.secret.md) 

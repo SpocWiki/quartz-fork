@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beaune](../../../../../../_public/geo/Continent/Europe/France/City/Beaune.md) 
-- [Beaune.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Beaune.internal.md) 
-- [Beaune.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Beaune.protect.md) 
-- [Beaune.private](../../../../../../_private/geo/Continent/Europe/France/City/Beaune.private.md) 
-- [Beaune.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Beaune.personal.md) 
-- [Beaune.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Beaune.secret.md) 

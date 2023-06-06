@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stoeckerau](../../../../../../_public/geo/Continent/Europe/Austria/City/Stoeckerau.md) 
-- [Stoeckerau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Stoeckerau.internal.md) 
-- [Stoeckerau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Stoeckerau.protect.md) 
-- [Stoeckerau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Stoeckerau.private.md) 
-- [Stoeckerau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Stoeckerau.personal.md) 
-- [Stoeckerau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Stoeckerau.secret.md) 

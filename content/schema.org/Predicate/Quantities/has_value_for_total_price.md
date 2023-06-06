@@ -52,10 +52,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_total_price](../../../../_public/schema.org/Predicate/Quantities/has_value_for_total_price.md) 
-- [has_value_for_total_price.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_total_price.internal.md) 
-- [has_value_for_total_price.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_total_price.protect.md) 
-- [has_value_for_total_price.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_total_price.private.md) 
-- [has_value_for_total_price.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_total_price.personal.md) 
-- [has_value_for_total_price.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_total_price.secret.md) 

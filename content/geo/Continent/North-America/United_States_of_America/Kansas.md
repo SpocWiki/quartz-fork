@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kansas](../../../../../_public/geo/Continent/North-America/United_States_of_America/Kansas.md) 
-- [Kansas.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kansas.internal.md) 
-- [Kansas.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kansas.protect.md) 
-- [Kansas.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Kansas.private.md) 
-- [Kansas.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kansas.personal.md) 
-- [Kansas.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kansas.secret.md) 

@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_by_artist](../../../../../_public/schema.org/Predicate/Relations/is/is_by_artist.md) 
-- [is_by_artist.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_by_artist.internal.md) 
-- [is_by_artist.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_by_artist.protect.md) 
-- [is_by_artist.private](../../../../../_private/schema.org/Predicate/Relations/is/is_by_artist.private.md) 
-- [is_by_artist.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_by_artist.personal.md) 
-- [is_by_artist.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_by_artist.secret.md) 

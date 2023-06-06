@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Thermal_expansion-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Thermal_expansion-Stability](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.md) 
-- [Triz-stationary_Length+Thermal_expansion-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.internal.md) 
-- [Triz-stationary_Length+Thermal_expansion-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.protect.md) 
-- [Triz-stationary_Length+Thermal_expansion-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.private.md) 
-- [Triz-stationary_Length+Thermal_expansion-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.personal.md) 
-- [Triz-stationary_Length+Thermal_expansion-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Thermal_expansion-Stability.secret.md) 

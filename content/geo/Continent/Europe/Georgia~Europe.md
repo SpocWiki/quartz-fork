@@ -30,7 +30,7 @@ markerFolder: ./Georgia/City
 [VehicleCode::GEO]
 [Capital::[Tbilisi](geo/Continent/Europe/Georgia~Europe/City/Tbilisi.md)]
 ![350](Coat_of_arms_of_Georgia.svg)
-![Anthem-Georgia](xLarge/National-Anthem/Anthem-Georgia.mp3)
+[Anthem-Georgia](xLarge/National-Anthem/Anthem-Georgia.mp3)
 ![350](geo/Continent/Europe/Georgia~Europe/Flag_of_Georgia.svg)
 [Alcohol-l::6.4]
 [Language-Id::]
@@ -39,10 +39,3 @@ markerFolder: ./Georgia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Georgia~Europe](../../../../_public/geo/Continent/Europe/Georgia~Europe.md) 
-- [Georgia~Europe.internal](../../../../_internal/geo/Continent/Europe/Georgia~Europe.internal.md) 
-- [Georgia~Europe.protect](../../../../_protect/geo/Continent/Europe/Georgia~Europe.protect.md) 
-- [Georgia~Europe.private](../../../../_private/geo/Continent/Europe/Georgia~Europe.private.md) 
-- [Georgia~Europe.personal](../../../../_personal/geo/Continent/Europe/Georgia~Europe.personal.md) 
-- [Georgia~Europe.secret](../../../../_secret/geo/Continent/Europe/Georgia~Europe.secret.md) 

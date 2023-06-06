@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Puka](../../../../../../_public/geo/Continent/Europe/Russia/City/Puka.md) 
-- [Puka.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Puka.internal.md) 
-- [Puka.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Puka.protect.md) 
-- [Puka.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Puka.private.md) 
-- [Puka.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Puka.personal.md) 
-- [Puka.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Puka.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montembrara](../../../../../../_public/geo/Continent/Europe/Italy/City/Montembrara.md) 
-- [Montembrara.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Montembrara.internal.md) 
-- [Montembrara.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Montembrara.protect.md) 
-- [Montembrara.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Montembrara.private.md) 
-- [Montembrara.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Montembrara.personal.md) 
-- [Montembrara.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Montembrara.secret.md) 

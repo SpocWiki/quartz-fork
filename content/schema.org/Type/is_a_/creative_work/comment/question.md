@@ -43,10 +43,3 @@ A specific question - e.g. from a user seeking answers online, or collected in a
 
 
 
-## Confidential Links & Embeds: 
-- [question](../../../../../../_public/schema.org/Type/is_a_/creative_work/comment/question.md) 
-- [question.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/comment/question.internal.md) 
-- [question.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/comment/question.protect.md) 
-- [question.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/comment/question.private.md) 
-- [question.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/comment/question.personal.md) 
-- [question.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/comment/question.secret.md) 

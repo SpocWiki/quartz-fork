@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Denbigh](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.md) 
-- [Denbigh.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.internal.md) 
-- [Denbigh.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.protect.md) 
-- [Denbigh.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.private.md) 
-- [Denbigh.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.personal.md) 
-- [Denbigh.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Denbigh.secret.md) 

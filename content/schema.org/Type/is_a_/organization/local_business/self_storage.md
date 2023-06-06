@@ -43,10 +43,3 @@ A self-storage facility.
 
 
 
-## Confidential Links & Embeds: 
-- [self_storage](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/self_storage.md) 
-- [self_storage.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/self_storage.internal.md) 
-- [self_storage.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/self_storage.protect.md) 
-- [self_storage.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/self_storage.private.md) 
-- [self_storage.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/self_storage.personal.md) 
-- [self_storage.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/self_storage.secret.md) 

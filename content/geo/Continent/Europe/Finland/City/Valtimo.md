@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valtimo](../../../../../../_public/geo/Continent/Europe/Finland/City/Valtimo.md) 
-- [Valtimo.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Valtimo.internal.md) 
-- [Valtimo.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Valtimo.protect.md) 
-- [Valtimo.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Valtimo.private.md) 
-- [Valtimo.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Valtimo.personal.md) 
-- [Valtimo.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Valtimo.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Florenz](../../../../../../_public/geo/Continent/Europe/Italy/City/Florenz.md) 
-- [Florenz.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Florenz.internal.md) 
-- [Florenz.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Florenz.protect.md) 
-- [Florenz.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Florenz.private.md) 
-- [Florenz.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Florenz.personal.md) 
-- [Florenz.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Florenz.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reval](../../../../../../_public/geo/Continent/Europe/Russia/City/Reval.md) 
-- [Reval.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Reval.internal.md) 
-- [Reval.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Reval.protect.md) 
-- [Reval.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Reval.private.md) 
-- [Reval.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Reval.personal.md) 
-- [Reval.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Reval.secret.md) 

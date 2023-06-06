@@ -123,7 +123,7 @@ markerFolder: ./Israel/City
 
 ![350](geo/Continent/Asia/Israel/Emblem_of_Israel.svg)
 
-![Anthem-Israel](xLarge/National-Anthem/Anthem-Israel.mp3)
+[Anthem-Israel](xLarge/National-Anthem/Anthem-Israel.mp3)
 
 ![350](geo/Continent/Asia/Israel/Flag_of_Israel.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Israel/City
 
 
 
-## Confidential Links & Embeds: 
-- [Israel](../../../../_public/geo/Continent/Asia/Israel.md) 
-- [Israel.internal](../../../../_internal/geo/Continent/Asia/Israel.internal.md) 
-- [Israel.protect](../../../../_protect/geo/Continent/Asia/Israel.protect.md) 
-- [Israel.private](../../../../_private/geo/Continent/Asia/Israel.private.md) 
-- [Israel.personal](../../../../_personal/geo/Continent/Asia/Israel.personal.md) 
-- [Israel.secret](../../../../_secret/geo/Continent/Asia/Israel.secret.md) 

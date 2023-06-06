@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Brieuc](../../../../../../_public/geo/Continent/Europe/France/City/St.Brieuc.md) 
-- [St.Brieuc.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Brieuc.internal.md) 
-- [St.Brieuc.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Brieuc.protect.md) 
-- [St.Brieuc.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Brieuc.private.md) 
-- [St.Brieuc.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Brieuc.personal.md) 
-- [St.Brieuc.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Brieuc.secret.md) 

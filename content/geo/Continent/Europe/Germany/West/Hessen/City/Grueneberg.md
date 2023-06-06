@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grueneberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.md) 
-- [Grueneberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.internal.md) 
-- [Grueneberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.protect.md) 
-- [Grueneberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.private.md) 
-- [Grueneberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.personal.md) 
-- [Grueneberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Grueneberg.secret.md) 

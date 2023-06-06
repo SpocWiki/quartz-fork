@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cambrai](../../../../../../_public/geo/Continent/Europe/France/City/Cambrai.md) 
-- [Cambrai.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Cambrai.internal.md) 
-- [Cambrai.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Cambrai.protect.md) 
-- [Cambrai.private](../../../../../../_private/geo/Continent/Europe/France/City/Cambrai.private.md) 
-- [Cambrai.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Cambrai.personal.md) 
-- [Cambrai.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Cambrai.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wanne-Eickel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.md) 
-- [Wanne-Eickel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.internal.md) 
-- [Wanne-Eickel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.protect.md) 
-- [Wanne-Eickel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.private.md) 
-- [Wanne-Eickel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.personal.md) 
-- [Wanne-Eickel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wanne-Eickel.secret.md) 

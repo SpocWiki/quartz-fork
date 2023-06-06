@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barvas](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Barvas.md) 
-- [Barvas.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barvas.internal.md) 
-- [Barvas.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barvas.protect.md) 
-- [Barvas.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barvas.private.md) 
-- [Barvas.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barvas.personal.md) 
-- [Barvas.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barvas.secret.md) 

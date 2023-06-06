@@ -59,10 +59,3 @@ or editing out large portions from the recording.
 
 
 
-## Confidential Links & Embeds: 
-- [edited_or_cropped_content](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.md) 
-- [edited_or_cropped_content.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.internal.md) 
-- [edited_or_cropped_content.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.protect.md) 
-- [edited_or_cropped_content.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.private.md) 
-- [edited_or_cropped_content.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.personal.md) 
-- [edited_or_cropped_content.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.secret.md) 

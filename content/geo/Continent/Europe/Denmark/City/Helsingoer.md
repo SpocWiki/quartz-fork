@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Helsingoer](../../../../../../_public/geo/Continent/Europe/Denmark/City/Helsingoer.md) 
-- [Helsingoer.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Helsingoer.internal.md) 
-- [Helsingoer.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Helsingoer.protect.md) 
-- [Helsingoer.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Helsingoer.private.md) 
-- [Helsingoer.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Helsingoer.personal.md) 
-- [Helsingoer.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Helsingoer.secret.md) 

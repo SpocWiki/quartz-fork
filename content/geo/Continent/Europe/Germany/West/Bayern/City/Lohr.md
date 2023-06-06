@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lohr](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Lohr.md) 
-- [Lohr.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Lohr.internal.md) 
-- [Lohr.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Lohr.protect.md) 
-- [Lohr.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Lohr.private.md) 
-- [Lohr.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Lohr.personal.md) 
-- [Lohr.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Lohr.secret.md) 

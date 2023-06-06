@@ -17,10 +17,3 @@ title: Triz-Tape
 
 Rubber Cement in a Bottle is difficult to apply neatly and uniformly. Instead, it is formed into a Tape so that the proper Amount can be more easily applied.
 
-## Confidential Links & Embeds: 
-- [Triz-Tape](../../../../_public/tech/Triz/Example/Triz-Tape.md) 
-- [Triz-Tape.internal](../../../../_internal/tech/Triz/Example/Triz-Tape.internal.md) 
-- [Triz-Tape.protect](../../../../_protect/tech/Triz/Example/Triz-Tape.protect.md) 
-- [Triz-Tape.private](../../../../_private/tech/Triz/Example/Triz-Tape.private.md) 
-- [Triz-Tape.personal](../../../../_personal/tech/Triz/Example/Triz-Tape.personal.md) 
-- [Triz-Tape.secret](../../../../_secret/tech/Triz/Example/Triz-Tape.secret.md) 

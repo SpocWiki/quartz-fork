@@ -52,10 +52,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_low_price](../../../../_public/schema.org/Predicate/Quantities/has_value_for_low_price.md) 
-- [has_value_for_low_price.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_low_price.internal.md) 
-- [has_value_for_low_price.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_low_price.protect.md) 
-- [has_value_for_low_price.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_low_price.private.md) 
-- [has_value_for_low_price.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_low_price.personal.md) 
-- [has_value_for_low_price.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_low_price.secret.md) 

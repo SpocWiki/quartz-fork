@@ -45,10 +45,3 @@ A description of an action that is supported.
 
 
 
-## Confidential Links & Embeds: 
-- [potential_action_status](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.md) 
-- [potential_action_status.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.internal.md) 
-- [potential_action_status.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.protect.md) 
-- [potential_action_status.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.private.md) 
-- [potential_action_status.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.personal.md) 
-- [potential_action_status.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.secret.md) 

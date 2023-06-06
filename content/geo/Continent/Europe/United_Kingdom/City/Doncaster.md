@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Doncaster](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Doncaster.md) 
-- [Doncaster.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Doncaster.internal.md) 
-- [Doncaster.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Doncaster.protect.md) 
-- [Doncaster.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Doncaster.private.md) 
-- [Doncaster.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Doncaster.personal.md) 
-- [Doncaster.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Doncaster.secret.md) 

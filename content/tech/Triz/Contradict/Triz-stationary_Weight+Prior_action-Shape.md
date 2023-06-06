@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Prior_action-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Prior_action-Shape](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Shape.md) 
-- [Triz-stationary_Weight+Prior_action-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Shape.internal.md) 
-- [Triz-stationary_Weight+Prior_action-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Shape.protect.md) 
-- [Triz-stationary_Weight+Prior_action-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Shape.private.md) 
-- [Triz-stationary_Weight+Prior_action-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Shape.personal.md) 
-- [Triz-stationary_Weight+Prior_action-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Shape.secret.md) 

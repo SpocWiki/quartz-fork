@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ravenna](../../../../../../_public/geo/Continent/Europe/Italy/City/Ravenna.md) 
-- [Ravenna.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ravenna.internal.md) 
-- [Ravenna.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ravenna.protect.md) 
-- [Ravenna.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ravenna.private.md) 
-- [Ravenna.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ravenna.personal.md) 
-- [Ravenna.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ravenna.secret.md) 

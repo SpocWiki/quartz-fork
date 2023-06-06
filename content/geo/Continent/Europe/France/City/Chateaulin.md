@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chateaulin](../../../../../../_public/geo/Continent/Europe/France/City/Chateaulin.md) 
-- [Chateaulin.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chateaulin.internal.md) 
-- [Chateaulin.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chateaulin.protect.md) 
-- [Chateaulin.private](../../../../../../_private/geo/Continent/Europe/France/City/Chateaulin.private.md) 
-- [Chateaulin.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chateaulin.personal.md) 
-- [Chateaulin.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chateaulin.secret.md) 

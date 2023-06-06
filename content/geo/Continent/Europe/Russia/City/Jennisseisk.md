@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jennisseisk](../../../../../../_public/geo/Continent/Europe/Russia/City/Jennisseisk.md) 
-- [Jennisseisk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jennisseisk.internal.md) 
-- [Jennisseisk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jennisseisk.protect.md) 
-- [Jennisseisk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jennisseisk.private.md) 
-- [Jennisseisk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jennisseisk.personal.md) 
-- [Jennisseisk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jennisseisk.secret.md) 

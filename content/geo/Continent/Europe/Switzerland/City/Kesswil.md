@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kesswil](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Kesswil.md) 
-- [Kesswil.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Kesswil.internal.md) 
-- [Kesswil.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Kesswil.protect.md) 
-- [Kesswil.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Kesswil.private.md) 
-- [Kesswil.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Kesswil.personal.md) 
-- [Kesswil.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Kesswil.secret.md) 

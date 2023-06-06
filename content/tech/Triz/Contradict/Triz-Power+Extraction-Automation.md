@@ -19,10 +19,3 @@ title: Triz-Power+Extraction-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Extraction-Automation](../../../../_public/tech/Triz/Contradict/Triz-Power+Extraction-Automation.md) 
-- [Triz-Power+Extraction-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Extraction-Automation.internal.md) 
-- [Triz-Power+Extraction-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Extraction-Automation.protect.md) 
-- [Triz-Power+Extraction-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Extraction-Automation.private.md) 
-- [Triz-Power+Extraction-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Extraction-Automation.personal.md) 
-- [Triz-Power+Extraction-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Extraction-Automation.secret.md) 

@@ -123,7 +123,7 @@ markerFolder: ./Bulgaria/City
 [VehicleCode::BG]
 [Capital::[Sofia](geo/Continent/Europe/Bulgaria/City/Sofia.md)]
 ![350](geo/Continent/Europe/Bulgaria/Coat_of_arms_of_Bulgaria.svg)
-![Anthem-Bulgaria-complete](xLarge/National-Anthem/Anthem-Bulgaria-complete.mp3)
+[Anthem-Bulgaria-complete](xLarge/National-Anthem/Anthem-Bulgaria-complete.mp3)
 ![350](geo/Continent/Europe/Bulgaria/Flag_of_Bulgaria.svg)
 [Alcohol-l::12.4]
 [Language-Id::]
@@ -132,10 +132,3 @@ markerFolder: ./Bulgaria/City
 
 
 
-## Confidential Links & Embeds: 
-- [Bulgaria](../../../../_public/geo/Continent/Europe/Bulgaria.md) 
-- [Bulgaria.internal](../../../../_internal/geo/Continent/Europe/Bulgaria.internal.md) 
-- [Bulgaria.protect](../../../../_protect/geo/Continent/Europe/Bulgaria.protect.md) 
-- [Bulgaria.private](../../../../_private/geo/Continent/Europe/Bulgaria.private.md) 
-- [Bulgaria.personal](../../../../_personal/geo/Continent/Europe/Bulgaria.personal.md) 
-- [Bulgaria.secret](../../../../_secret/geo/Continent/Europe/Bulgaria.secret.md) 

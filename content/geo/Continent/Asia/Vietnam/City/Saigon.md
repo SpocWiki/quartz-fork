@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saigon](../../../../../../_public/geo/Continent/Asia/Vietnam/City/Saigon.md) 
-- [Saigon.internal](../../../../../../_internal/geo/Continent/Asia/Vietnam/City/Saigon.internal.md) 
-- [Saigon.protect](../../../../../../_protect/geo/Continent/Asia/Vietnam/City/Saigon.protect.md) 
-- [Saigon.private](../../../../../../_private/geo/Continent/Asia/Vietnam/City/Saigon.private.md) 
-- [Saigon.personal](../../../../../../_personal/geo/Continent/Asia/Vietnam/City/Saigon.personal.md) 
-- [Saigon.secret](../../../../../../_secret/geo/Continent/Asia/Vietnam/City/Saigon.secret.md) 

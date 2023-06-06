@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soestdijk](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Soestdijk.md) 
-- [Soestdijk.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Soestdijk.internal.md) 
-- [Soestdijk.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Soestdijk.protect.md) 
-- [Soestdijk.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Soestdijk.private.md) 
-- [Soestdijk.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Soestdijk.personal.md) 
-- [Soestdijk.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Soestdijk.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zeven](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zeven.md) 
-- [Zeven.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zeven.internal.md) 
-- [Zeven.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zeven.protect.md) 
-- [Zeven.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zeven.private.md) 
-- [Zeven.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zeven.personal.md) 
-- [Zeven.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zeven.secret.md) 

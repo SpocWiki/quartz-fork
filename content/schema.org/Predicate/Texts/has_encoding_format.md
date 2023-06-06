@@ -51,10 +51,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_encoding_format](../../../../_public/schema.org/Predicate/Texts/has_encoding_format.md) 
-- [has_encoding_format.internal](../../../../_internal/schema.org/Predicate/Texts/has_encoding_format.internal.md) 
-- [has_encoding_format.protect](../../../../_protect/schema.org/Predicate/Texts/has_encoding_format.protect.md) 
-- [has_encoding_format.private](../../../../_private/schema.org/Predicate/Texts/has_encoding_format.private.md) 
-- [has_encoding_format.personal](../../../../_personal/schema.org/Predicate/Texts/has_encoding_format.personal.md) 
-- [has_encoding_format.secret](../../../../_secret/schema.org/Predicate/Texts/has_encoding_format.secret.md) 

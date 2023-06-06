@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_special_opening_hours_specification](../../../../../_public/schema.org/Predicate/Relations/has/has_special_opening_hours_specification.md) 
-- [has_special_opening_hours_specification.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_special_opening_hours_specification.internal.md) 
-- [has_special_opening_hours_specification.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_special_opening_hours_specification.protect.md) 
-- [has_special_opening_hours_specification.private](../../../../../_private/schema.org/Predicate/Relations/has/has_special_opening_hours_specification.private.md) 
-- [has_special_opening_hours_specification.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_special_opening_hours_specification.personal.md) 
-- [has_special_opening_hours_specification.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_special_opening_hours_specification.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buttle](../../../../../../_public/geo/Continent/Europe/Sweden/City/Buttle.md) 
-- [Buttle.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Buttle.internal.md) 
-- [Buttle.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Buttle.protect.md) 
-- [Buttle.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Buttle.private.md) 
-- [Buttle.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Buttle.personal.md) 
-- [Buttle.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Buttle.secret.md) 

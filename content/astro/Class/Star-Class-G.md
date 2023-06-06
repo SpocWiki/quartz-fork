@@ -18,11 +18,3 @@ title: Star-Class-G
 
 
 
-## Confidential Links & Embeds: 
-- [Star-Class-G](../../../_public/astro/Class/Star-Class-G.md) 
-- [Star-Class-G.internal](../../../_internal/astro/Class/Star-Class-G.internal.md) 
-- [Star-Class-G.protect](../../../_protect/astro/Class/Star-Class-G.protect.md) 
-- [Star-Class-G.private](../../../_private/astro/Class/Star-Class-G.private.md) 
-- [Star-Class-G.personal](../../../_personal/astro/Class/Star-Class-G.personal.md) 
-- [Star-Class-G.secret](../../../_secret/astro/Class/Star-Class-G.secret.md)
-

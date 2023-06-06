@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lilienfeld](../../../../../../_public/geo/Continent/Europe/Austria/City/Lilienfeld.md) 
-- [Lilienfeld.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Lilienfeld.internal.md) 
-- [Lilienfeld.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Lilienfeld.protect.md) 
-- [Lilienfeld.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Lilienfeld.private.md) 
-- [Lilienfeld.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Lilienfeld.personal.md) 
-- [Lilienfeld.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Lilienfeld.secret.md) 

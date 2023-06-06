@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altstaetten](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Altstaetten.md) 
-- [Altstaetten.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Altstaetten.internal.md) 
-- [Altstaetten.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Altstaetten.protect.md) 
-- [Altstaetten.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Altstaetten.private.md) 
-- [Altstaetten.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Altstaetten.personal.md) 
-- [Altstaetten.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Altstaetten.secret.md) 

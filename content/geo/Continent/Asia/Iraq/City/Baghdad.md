@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baghdad](../../../../../../_public/geo/Continent/Asia/Iraq/City/Baghdad.md) 
-- [Baghdad.internal](../../../../../../_internal/geo/Continent/Asia/Iraq/City/Baghdad.internal.md) 
-- [Baghdad.protect](../../../../../../_protect/geo/Continent/Asia/Iraq/City/Baghdad.protect.md) 
-- [Baghdad.private](../../../../../../_private/geo/Continent/Asia/Iraq/City/Baghdad.private.md) 
-- [Baghdad.personal](../../../../../../_personal/geo/Continent/Asia/Iraq/City/Baghdad.personal.md) 
-- [Baghdad.secret](../../../../../../_secret/geo/Continent/Asia/Iraq/City/Baghdad.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nizhny_Novgorod](../../../../../../_public/geo/Continent/Europe/Russia/City/Nizhny_Novgorod.md) 
-- [Nizhny_Novgorod.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nizhny_Novgorod.internal.md) 
-- [Nizhny_Novgorod.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nizhny_Novgorod.protect.md) 
-- [Nizhny_Novgorod.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nizhny_Novgorod.private.md) 
-- [Nizhny_Novgorod.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nizhny_Novgorod.personal.md) 
-- [Nizhny_Novgorod.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nizhny_Novgorod.secret.md) 

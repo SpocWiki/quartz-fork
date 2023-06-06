@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grimstad](../../../../../../_public/geo/Continent/Europe/Norway/City/Grimstad.md) 
-- [Grimstad.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Grimstad.internal.md) 
-- [Grimstad.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Grimstad.protect.md) 
-- [Grimstad.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Grimstad.private.md) 
-- [Grimstad.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Grimstad.personal.md) 
-- [Grimstad.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Grimstad.secret.md) 

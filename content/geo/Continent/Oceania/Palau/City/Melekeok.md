@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Melekeok](../../../../../../_public/geo/Continent/Oceania/Palau/City/Melekeok.md) 
-- [Melekeok.internal](../../../../../../_internal/geo/Continent/Oceania/Palau/City/Melekeok.internal.md) 
-- [Melekeok.protect](../../../../../../_protect/geo/Continent/Oceania/Palau/City/Melekeok.protect.md) 
-- [Melekeok.private](../../../../../../_private/geo/Continent/Oceania/Palau/City/Melekeok.private.md) 
-- [Melekeok.personal](../../../../../../_personal/geo/Continent/Oceania/Palau/City/Melekeok.personal.md) 
-- [Melekeok.secret](../../../../../../_secret/geo/Continent/Oceania/Palau/City/Melekeok.secret.md) 

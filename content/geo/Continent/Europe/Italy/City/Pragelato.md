@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pragelato](../../../../../../_public/geo/Continent/Europe/Italy/City/Pragelato.md) 
-- [Pragelato.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pragelato.internal.md) 
-- [Pragelato.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pragelato.protect.md) 
-- [Pragelato.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pragelato.private.md) 
-- [Pragelato.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pragelato.personal.md) 
-- [Pragelato.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pragelato.secret.md) 

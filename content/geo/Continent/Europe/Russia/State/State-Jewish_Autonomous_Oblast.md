@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Jewish_Autonomous_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Jewish_Autonomous_Oblast.md) 
-- [State-Jewish_Autonomous_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Jewish_Autonomous_Oblast.internal.md) 
-- [State-Jewish_Autonomous_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Jewish_Autonomous_Oblast.protect.md) 
-- [State-Jewish_Autonomous_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Jewish_Autonomous_Oblast.private.md) 
-- [State-Jewish_Autonomous_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Jewish_Autonomous_Oblast.personal.md) 
-- [State-Jewish_Autonomous_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Jewish_Autonomous_Oblast.secret.md) 

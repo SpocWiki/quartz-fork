@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lanz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.md) 
-- [Lanz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.internal.md) 
-- [Lanz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.protect.md) 
-- [Lanz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.private.md) 
-- [Lanz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.personal.md) 
-- [Lanz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lanz.secret.md) 

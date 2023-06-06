@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Qujetzo](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Qujetzo.md) 
-- [Qujetzo.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Qujetzo.internal.md) 
-- [Qujetzo.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Qujetzo.protect.md) 
-- [Qujetzo.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Qujetzo.private.md) 
-- [Qujetzo.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Qujetzo.personal.md) 
-- [Qujetzo.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Qujetzo.secret.md) 

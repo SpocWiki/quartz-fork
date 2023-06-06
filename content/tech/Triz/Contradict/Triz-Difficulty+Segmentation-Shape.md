@@ -19,10 +19,3 @@ title: Triz-Difficulty+Segmentation-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Segmentation-Shape](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.md) 
-- [Triz-Difficulty+Segmentation-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.internal.md) 
-- [Triz-Difficulty+Segmentation-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.protect.md) 
-- [Triz-Difficulty+Segmentation-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.private.md) 
-- [Triz-Difficulty+Segmentation-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.personal.md) 
-- [Triz-Difficulty+Segmentation-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Shape.secret.md) 

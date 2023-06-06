@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yokohama](../../../../../../_public/geo/Continent/Asia/Japan/City/Yokohama.md) 
-- [Yokohama.internal](../../../../../../_internal/geo/Continent/Asia/Japan/City/Yokohama.internal.md) 
-- [Yokohama.protect](../../../../../../_protect/geo/Continent/Asia/Japan/City/Yokohama.protect.md) 
-- [Yokohama.private](../../../../../../_private/geo/Continent/Asia/Japan/City/Yokohama.private.md) 
-- [Yokohama.personal](../../../../../../_personal/geo/Continent/Asia/Japan/City/Yokohama.personal.md) 
-- [Yokohama.secret](../../../../../../_secret/geo/Continent/Asia/Japan/City/Yokohama.secret.md) 

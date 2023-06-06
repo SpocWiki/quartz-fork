@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Punduri](../../../../../../_public/geo/Continent/Europe/Russia/City/Punduri.md) 
-- [Punduri.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Punduri.internal.md) 
-- [Punduri.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Punduri.protect.md) 
-- [Punduri.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Punduri.private.md) 
-- [Punduri.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Punduri.personal.md) 
-- [Punduri.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Punduri.secret.md) 

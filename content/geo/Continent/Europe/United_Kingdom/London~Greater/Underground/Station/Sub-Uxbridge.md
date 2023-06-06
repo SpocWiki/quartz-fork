@@ -34,10 +34,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Uxbridge](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Uxbridge.md) 
-- [Sub-Uxbridge.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Uxbridge.internal.md) 
-- [Sub-Uxbridge.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Uxbridge.protect.md) 
-- [Sub-Uxbridge.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Uxbridge.private.md) 
-- [Sub-Uxbridge.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Uxbridge.personal.md) 
-- [Sub-Uxbridge.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Uxbridge.secret.md) 

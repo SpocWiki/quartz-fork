@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_applicable_in_country](../../../../../_public/schema.org/Predicate/Relations/is/is_applicable_in_country.md) 
-- [is_applicable_in_country.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_applicable_in_country.internal.md) 
-- [is_applicable_in_country.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_applicable_in_country.protect.md) 
-- [is_applicable_in_country.private](../../../../../_private/schema.org/Predicate/Relations/is/is_applicable_in_country.private.md) 
-- [is_applicable_in_country.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_applicable_in_country.personal.md) 
-- [is_applicable_in_country.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_applicable_in_country.secret.md) 

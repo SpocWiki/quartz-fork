@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gomel](../../../../../../_public/geo/Continent/Europe/Russia/City/Gomel.md) 
-- [Gomel.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Gomel.internal.md) 
-- [Gomel.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Gomel.protect.md) 
-- [Gomel.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Gomel.private.md) 
-- [Gomel.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Gomel.personal.md) 
-- [Gomel.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Gomel.secret.md) 

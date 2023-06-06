@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gaeta](../../../../../../_public/geo/Continent/Europe/Italy/City/Gaeta.md) 
-- [Gaeta.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Gaeta.internal.md) 
-- [Gaeta.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Gaeta.protect.md) 
-- [Gaeta.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Gaeta.private.md) 
-- [Gaeta.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Gaeta.personal.md) 
-- [Gaeta.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Gaeta.secret.md) 

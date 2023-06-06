@@ -120,7 +120,7 @@ markerFolder: ./Guyana/City
 
 ![450](geo/Continent/South-America/Guyana/Coat_of_arms_of_Guyana.svg)
 
-![Anthem-Guyana](xLarge/National-Anthem/Anthem-Guyana.mp3)
+[Anthem-Guyana](xLarge/National-Anthem/Anthem-Guyana.mp3)
 
 ![350](geo/Continent/South-America/Guyana/Flag_of_Guyana.svg)
 [Alcohol-l::9.5]
@@ -130,10 +130,3 @@ markerFolder: ./Guyana/City
 
 
 
-## Confidential Links & Embeds: 
-- [Guyana](../../../../_public/geo/Continent/South-America/Guyana.md) 
-- [Guyana.internal](../../../../_internal/geo/Continent/South-America/Guyana.internal.md) 
-- [Guyana.protect](../../../../_protect/geo/Continent/South-America/Guyana.protect.md) 
-- [Guyana.private](../../../../_private/geo/Continent/South-America/Guyana.private.md) 
-- [Guyana.personal](../../../../_personal/geo/Continent/South-America/Guyana.personal.md) 
-- [Guyana.secret](../../../../_secret/geo/Continent/South-America/Guyana.secret.md) 

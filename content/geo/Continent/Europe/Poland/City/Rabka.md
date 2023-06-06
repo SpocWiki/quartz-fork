@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rabka](../../../../../../_public/geo/Continent/Europe/Poland/City/Rabka.md) 
-- [Rabka.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rabka.internal.md) 
-- [Rabka.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rabka.protect.md) 
-- [Rabka.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rabka.private.md) 
-- [Rabka.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rabka.personal.md) 
-- [Rabka.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rabka.secret.md) 

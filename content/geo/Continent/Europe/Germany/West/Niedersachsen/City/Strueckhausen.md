@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strueckhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strueckhausen.md) 
-- [Strueckhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strueckhausen.internal.md) 
-- [Strueckhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strueckhausen.protect.md) 
-- [Strueckhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strueckhausen.private.md) 
-- [Strueckhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strueckhausen.personal.md) 
-- [Strueckhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Strueckhausen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Norborg](../../../../../../_public/geo/Continent/Europe/Denmark/City/Norborg.md) 
-- [Norborg.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Norborg.internal.md) 
-- [Norborg.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Norborg.protect.md) 
-- [Norborg.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Norborg.private.md) 
-- [Norborg.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Norborg.personal.md) 
-- [Norborg.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Norborg.secret.md) 

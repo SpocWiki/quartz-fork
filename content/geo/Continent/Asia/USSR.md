@@ -40,10 +40,3 @@ markerFolder: ./USSR/City
 
 
 
-## Confidential Links & Embeds: 
-- [USSR](../../../../_public/geo/Continent/Asia/USSR.md) 
-- [USSR.internal](../../../../_internal/geo/Continent/Asia/USSR.internal.md) 
-- [USSR.protect](../../../../_protect/geo/Continent/Asia/USSR.protect.md) 
-- [USSR.private](../../../../_private/geo/Continent/Asia/USSR.private.md) 
-- [USSR.personal](../../../../_personal/geo/Continent/Asia/USSR.personal.md) 
-- [USSR.secret](../../../../_secret/geo/Continent/Asia/USSR.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Belluno](../../../../../../_public/geo/Continent/Europe/Italy/City/Belluno.md) 
-- [Belluno.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Belluno.internal.md) 
-- [Belluno.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Belluno.protect.md) 
-- [Belluno.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Belluno.private.md) 
-- [Belluno.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Belluno.personal.md) 
-- [Belluno.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Belluno.secret.md) 

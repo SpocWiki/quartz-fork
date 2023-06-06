@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alessio](../../../../../../_public/geo/Continent/Europe/Albania/City/Alessio.md) 
-- [Alessio.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Alessio.internal.md) 
-- [Alessio.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Alessio.protect.md) 
-- [Alessio.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Alessio.private.md) 
-- [Alessio.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Alessio.personal.md) 
-- [Alessio.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Alessio.secret.md) 

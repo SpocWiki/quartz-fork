@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Extraction-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Extraction-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Extraction-Difficulty.md) 
-- [Triz-stationary_Area+Extraction-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Extraction-Difficulty.internal.md) 
-- [Triz-stationary_Area+Extraction-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Extraction-Difficulty.protect.md) 
-- [Triz-stationary_Area+Extraction-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Extraction-Difficulty.private.md) 
-- [Triz-stationary_Area+Extraction-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Extraction-Difficulty.personal.md) 
-- [Triz-stationary_Area+Extraction-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Extraction-Difficulty.secret.md) 

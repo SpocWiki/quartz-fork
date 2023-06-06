@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gerlenhofen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Gerlenhofen.md) 
-- [Gerlenhofen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gerlenhofen.internal.md) 
-- [Gerlenhofen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gerlenhofen.protect.md) 
-- [Gerlenhofen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gerlenhofen.private.md) 
-- [Gerlenhofen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Gerlenhofen.personal.md) 
-- [Gerlenhofen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Gerlenhofen.secret.md) 

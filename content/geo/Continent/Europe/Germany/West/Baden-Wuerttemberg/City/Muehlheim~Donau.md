@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muehlheim~Donau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Muehlheim~Donau.md) 
-- [Muehlheim~Donau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Muehlheim~Donau.internal.md) 
-- [Muehlheim~Donau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Muehlheim~Donau.protect.md) 
-- [Muehlheim~Donau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Muehlheim~Donau.private.md) 
-- [Muehlheim~Donau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Muehlheim~Donau.personal.md) 
-- [Muehlheim~Donau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Muehlheim~Donau.secret.md) 

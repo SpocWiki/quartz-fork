@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Chancery_Lane](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chancery_Lane.md) 
-- [Sub-Chancery_Lane.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chancery_Lane.internal.md) 
-- [Sub-Chancery_Lane.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chancery_Lane.protect.md) 
-- [Sub-Chancery_Lane.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chancery_Lane.private.md) 
-- [Sub-Chancery_Lane.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chancery_Lane.personal.md) 
-- [Sub-Chancery_Lane.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chancery_Lane.secret.md) 

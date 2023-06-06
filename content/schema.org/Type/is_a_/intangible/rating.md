@@ -45,10 +45,3 @@ A rating is an evaluation on a numeric scale, such as 1 to 5 stars.
 
 
 
-## Confidential Links & Embeds: 
-- [rating](../../../../../_public/schema.org/Type/is_a_/intangible/rating.md) 
-- [rating.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/rating.internal.md) 
-- [rating.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/rating.protect.md) 
-- [rating.private](../../../../../_private/schema.org/Type/is_a_/intangible/rating.private.md) 
-- [rating.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/rating.personal.md) 
-- [rating.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/rating.secret.md) 

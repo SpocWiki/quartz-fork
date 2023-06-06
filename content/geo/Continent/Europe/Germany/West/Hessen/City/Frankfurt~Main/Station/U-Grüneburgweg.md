@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Grüneburgweg](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gr%C3%BCneburgweg.md) 
-- [U-Grüneburgweg.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gr%C3%BCneburgweg.internal.md) 
-- [U-Grüneburgweg.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gr%C3%BCneburgweg.protect.md) 
-- [U-Grüneburgweg.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gr%C3%BCneburgweg.private.md) 
-- [U-Grüneburgweg.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gr%C3%BCneburgweg.personal.md) 
-- [U-Grüneburgweg.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Gr%C3%BCneburgweg.secret.md) 

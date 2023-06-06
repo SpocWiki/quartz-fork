@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Mediator-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Mediator-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Mediator-Illumination.md) 
-- [Triz-Ease_of_operation+Mediator-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Mediator-Illumination.internal.md) 
-- [Triz-Ease_of_operation+Mediator-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Mediator-Illumination.protect.md) 
-- [Triz-Ease_of_operation+Mediator-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Mediator-Illumination.private.md) 
-- [Triz-Ease_of_operation+Mediator-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Mediator-Illumination.personal.md) 
-- [Triz-Ease_of_operation+Mediator-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Mediator-Illumination.secret.md) 

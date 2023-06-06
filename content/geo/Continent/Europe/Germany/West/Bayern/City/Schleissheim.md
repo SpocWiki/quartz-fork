@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schleissheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schleissheim.md) 
-- [Schleissheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schleissheim.internal.md) 
-- [Schleissheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schleissheim.protect.md) 
-- [Schleissheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schleissheim.private.md) 
-- [Schleissheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schleissheim.personal.md) 
-- [Schleissheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schleissheim.secret.md) 

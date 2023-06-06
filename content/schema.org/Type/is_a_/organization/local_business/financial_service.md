@@ -45,10 +45,3 @@ Financial services business.
 
 
 
-## Confidential Links & Embeds: 
-- [financial_service](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/financial_service.md) 
-- [financial_service.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/financial_service.internal.md) 
-- [financial_service.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/financial_service.protect.md) 
-- [financial_service.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/financial_service.private.md) 
-- [financial_service.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/financial_service.personal.md) 
-- [financial_service.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/financial_service.secret.md) 

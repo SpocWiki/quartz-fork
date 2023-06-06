@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Feedback-Manufacturing_Precision
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Feedback-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Feedback-Manufacturing_Precision.md) 
-- [Triz-Ease_of_operation+Feedback-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Feedback-Manufacturing_Precision.internal.md) 
-- [Triz-Ease_of_operation+Feedback-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Feedback-Manufacturing_Precision.protect.md) 
-- [Triz-Ease_of_operation+Feedback-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Feedback-Manufacturing_Precision.private.md) 
-- [Triz-Ease_of_operation+Feedback-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Feedback-Manufacturing_Precision.personal.md) 
-- [Triz-Ease_of_operation+Feedback-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Feedback-Manufacturing_Precision.secret.md) 

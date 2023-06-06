@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Harg.md) 
-- [Harg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Harg.internal.md) 
-- [Harg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Harg.protect.md) 
-- [Harg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Harg.private.md) 
-- [Harg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Harg.personal.md) 
-- [Harg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Harg.secret.md) 

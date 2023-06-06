@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Duved](../../../../../../_public/geo/Continent/Europe/Sweden/City/Duved.md) 
-- [Duved.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Duved.internal.md) 
-- [Duved.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Duved.protect.md) 
-- [Duved.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Duved.private.md) 
-- [Duved.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Duved.personal.md) 
-- [Duved.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Duved.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guarda](../../../../../../_public/geo/Continent/Europe/Portugal/City/Guarda.md) 
-- [Guarda.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Guarda.internal.md) 
-- [Guarda.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Guarda.protect.md) 
-- [Guarda.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Guarda.private.md) 
-- [Guarda.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Guarda.personal.md) 
-- [Guarda.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Guarda.secret.md) 

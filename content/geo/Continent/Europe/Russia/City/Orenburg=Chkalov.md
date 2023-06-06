@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orenburg=Chkalov](../../../../../../_public/geo/Continent/Europe/Russia/City/Orenburg=Chkalov.md) 
-- [Orenburg=Chkalov.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Orenburg=Chkalov.internal.md) 
-- [Orenburg=Chkalov.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Orenburg=Chkalov.protect.md) 
-- [Orenburg=Chkalov.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Orenburg=Chkalov.private.md) 
-- [Orenburg=Chkalov.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Orenburg=Chkalov.personal.md) 
-- [Orenburg=Chkalov.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Orenburg=Chkalov.secret.md) 

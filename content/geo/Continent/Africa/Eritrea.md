@@ -123,7 +123,7 @@ markerFolder: ./Eritrea/City
 [VehicleCode::ER]
 [Capital::[Asmara](geo/Continent/Africa/Eritrea/City/Asmara.md)]
 ![350](Coat_of_arms_of_Eritrea.svg)
-![Anthem-Eritrea](xLarge/National-Anthem/Anthem-Eritrea.mp3)
+[Anthem-Eritrea](xLarge/National-Anthem/Anthem-Eritrea.mp3)
 ![350](geo/Continent/Africa/Eritrea/Flag_of_Eritrea.svg)
 [Alcohol-l::1.5]
 [Language-Id::472]
@@ -132,10 +132,3 @@ markerFolder: ./Eritrea/City
 
 
 
-## Confidential Links & Embeds: 
-- [Eritrea](../../../../_public/geo/Continent/Africa/Eritrea.md) 
-- [Eritrea.internal](../../../../_internal/geo/Continent/Africa/Eritrea.internal.md) 
-- [Eritrea.protect](../../../../_protect/geo/Continent/Africa/Eritrea.protect.md) 
-- [Eritrea.private](../../../../_private/geo/Continent/Africa/Eritrea.private.md) 
-- [Eritrea.personal](../../../../_personal/geo/Continent/Africa/Eritrea.personal.md) 
-- [Eritrea.secret](../../../../_secret/geo/Continent/Africa/Eritrea.secret.md) 

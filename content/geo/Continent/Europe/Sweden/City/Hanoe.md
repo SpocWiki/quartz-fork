@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hanoe](../../../../../../_public/geo/Continent/Europe/Sweden/City/Hanoe.md) 
-- [Hanoe.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hanoe.internal.md) 
-- [Hanoe.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hanoe.protect.md) 
-- [Hanoe.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Hanoe.private.md) 
-- [Hanoe.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hanoe.personal.md) 
-- [Hanoe.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hanoe.secret.md) 

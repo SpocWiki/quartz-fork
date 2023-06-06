@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gittelde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.md) 
-- [Gittelde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.internal.md) 
-- [Gittelde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.protect.md) 
-- [Gittelde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.private.md) 
-- [Gittelde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.personal.md) 
-- [Gittelde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gittelde.secret.md) 

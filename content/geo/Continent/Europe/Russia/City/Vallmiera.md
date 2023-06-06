@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vallmiera](../../../../../../_public/geo/Continent/Europe/Russia/City/Vallmiera.md) 
-- [Vallmiera.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vallmiera.internal.md) 
-- [Vallmiera.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vallmiera.protect.md) 
-- [Vallmiera.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vallmiera.private.md) 
-- [Vallmiera.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vallmiera.personal.md) 
-- [Vallmiera.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vallmiera.secret.md) 

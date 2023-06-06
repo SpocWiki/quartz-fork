@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Farnham](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Farnham.md) 
-- [Farnham.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Farnham.internal.md) 
-- [Farnham.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Farnham.protect.md) 
-- [Farnham.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Farnham.private.md) 
-- [Farnham.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Farnham.personal.md) 
-- [Farnham.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Farnham.secret.md) 

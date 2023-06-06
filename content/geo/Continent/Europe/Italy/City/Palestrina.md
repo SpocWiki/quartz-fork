@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palestrina](../../../../../../_public/geo/Continent/Europe/Italy/City/Palestrina.md) 
-- [Palestrina.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Palestrina.internal.md) 
-- [Palestrina.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Palestrina.protect.md) 
-- [Palestrina.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Palestrina.private.md) 
-- [Palestrina.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Palestrina.personal.md) 
-- [Palestrina.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Palestrina.secret.md) 

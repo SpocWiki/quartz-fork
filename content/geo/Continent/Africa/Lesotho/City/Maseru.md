@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maseru](../../../../../../_public/geo/Continent/Africa/Lesotho/City/Maseru.md) 
-- [Maseru.internal](../../../../../../_internal/geo/Continent/Africa/Lesotho/City/Maseru.internal.md) 
-- [Maseru.protect](../../../../../../_protect/geo/Continent/Africa/Lesotho/City/Maseru.protect.md) 
-- [Maseru.private](../../../../../../_private/geo/Continent/Africa/Lesotho/City/Maseru.private.md) 
-- [Maseru.personal](../../../../../../_personal/geo/Continent/Africa/Lesotho/City/Maseru.personal.md) 
-- [Maseru.secret](../../../../../../_secret/geo/Continent/Africa/Lesotho/City/Maseru.secret.md) 

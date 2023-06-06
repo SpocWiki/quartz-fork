@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gradishsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Gradishsk.md) 
-- [Gradishsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Gradishsk.internal.md) 
-- [Gradishsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Gradishsk.protect.md) 
-- [Gradishsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Gradishsk.private.md) 
-- [Gradishsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Gradishsk.personal.md) 
-- [Gradishsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Gradishsk.secret.md) 

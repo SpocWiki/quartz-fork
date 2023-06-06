@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Faro](../../../../../../_public/geo/Continent/Europe/Portugal/City/Faro.md) 
-- [Faro.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Faro.internal.md) 
-- [Faro.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Faro.protect.md) 
-- [Faro.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Faro.private.md) 
-- [Faro.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Faro.personal.md) 
-- [Faro.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Faro.secret.md) 

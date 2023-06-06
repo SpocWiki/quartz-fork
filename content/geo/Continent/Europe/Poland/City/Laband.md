@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Laband](../../../../../../_public/geo/Continent/Europe/Poland/City/Laband.md) 
-- [Laband.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Laband.internal.md) 
-- [Laband.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Laband.protect.md) 
-- [Laband.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Laband.private.md) 
-- [Laband.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Laband.personal.md) 
-- [Laband.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Laband.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Quantity+Composite_materials-moving_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Composite_materials-moving_Duration](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Composite_materials-moving_Duration.md) 
-- [Triz-Quantity+Composite_materials-moving_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Composite_materials-moving_Duration.internal.md) 
-- [Triz-Quantity+Composite_materials-moving_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Composite_materials-moving_Duration.protect.md) 
-- [Triz-Quantity+Composite_materials-moving_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Composite_materials-moving_Duration.private.md) 
-- [Triz-Quantity+Composite_materials-moving_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Composite_materials-moving_Duration.personal.md) 
-- [Triz-Quantity+Composite_materials-moving_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Composite_materials-moving_Duration.secret.md) 

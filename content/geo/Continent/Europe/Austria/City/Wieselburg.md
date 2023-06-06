@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wieselburg](../../../../../../_public/geo/Continent/Europe/Austria/City/Wieselburg.md) 
-- [Wieselburg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Wieselburg.internal.md) 
-- [Wieselburg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Wieselburg.protect.md) 
-- [Wieselburg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Wieselburg.private.md) 
-- [Wieselburg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Wieselburg.personal.md) 
-- [Wieselburg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Wieselburg.secret.md) 

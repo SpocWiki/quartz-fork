@@ -52,10 +52,3 @@ The amount of a <a class="localLink" href="/Grant">Grant</a> is represented usin
 
 
 
-## Confidential Links & Embeds: 
-- [grant](../../../../../_public/schema.org/Type/is_a_/intangible/grant.md) 
-- [grant.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/grant.internal.md) 
-- [grant.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/grant.protect.md) 
-- [grant.private](../../../../../_private/schema.org/Type/is_a_/intangible/grant.private.md) 
-- [grant.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/grant.personal.md) 
-- [grant.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/grant.secret.md) 

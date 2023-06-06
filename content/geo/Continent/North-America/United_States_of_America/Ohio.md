@@ -38,10 +38,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ohio](../../../../../_public/geo/Continent/North-America/United_States_of_America/Ohio.md) 
-- [Ohio.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Ohio.internal.md) 
-- [Ohio.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Ohio.protect.md) 
-- [Ohio.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Ohio.private.md) 
-- [Ohio.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Ohio.personal.md) 
-- [Ohio.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Ohio.secret.md) 

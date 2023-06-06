@@ -19,10 +19,3 @@ title: Triz-generated_harm+Feedback-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Feedback-Speed](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.md) 
-- [Triz-generated_harm+Feedback-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.internal.md) 
-- [Triz-generated_harm+Feedback-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.protect.md) 
-- [Triz-generated_harm+Feedback-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.private.md) 
-- [Triz-generated_harm+Feedback-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.personal.md) 
-- [Triz-generated_harm+Feedback-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Feedback-Speed.secret.md) 

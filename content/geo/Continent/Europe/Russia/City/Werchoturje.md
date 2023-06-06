@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Werchoturje](../../../../../../_public/geo/Continent/Europe/Russia/City/Werchoturje.md) 
-- [Werchoturje.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Werchoturje.internal.md) 
-- [Werchoturje.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Werchoturje.protect.md) 
-- [Werchoturje.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Werchoturje.private.md) 
-- [Werchoturje.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Werchoturje.personal.md) 
-- [Werchoturje.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Werchoturje.secret.md) 

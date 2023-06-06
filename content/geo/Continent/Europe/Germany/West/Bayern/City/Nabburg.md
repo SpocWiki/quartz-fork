@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nabburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Nabburg.md) 
-- [Nabburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Nabburg.internal.md) 
-- [Nabburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Nabburg.protect.md) 
-- [Nabburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Nabburg.private.md) 
-- [Nabburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Nabburg.personal.md) 
-- [Nabburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Nabburg.secret.md) 

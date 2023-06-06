@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dippoldiswalde](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dippoldiswalde.md) 
-- [Dippoldiswalde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dippoldiswalde.internal.md) 
-- [Dippoldiswalde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dippoldiswalde.protect.md) 
-- [Dippoldiswalde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dippoldiswalde.private.md) 
-- [Dippoldiswalde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dippoldiswalde.personal.md) 
-- [Dippoldiswalde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dippoldiswalde.secret.md) 

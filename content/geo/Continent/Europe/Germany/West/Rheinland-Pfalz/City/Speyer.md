@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Speyer](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.md) 
-- [Speyer.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.internal.md) 
-- [Speyer.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.protect.md) 
-- [Speyer.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.private.md) 
-- [Speyer.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.personal.md) 
-- [Speyer.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Speyer.secret.md) 

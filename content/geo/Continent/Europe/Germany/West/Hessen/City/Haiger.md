@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haiger](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Haiger.md) 
-- [Haiger.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Haiger.internal.md) 
-- [Haiger.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Haiger.protect.md) 
-- [Haiger.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Haiger.private.md) 
-- [Haiger.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Haiger.personal.md) 
-- [Haiger.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Haiger.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Echternach](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Echternach.md) 
-- [Echternach.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Echternach.internal.md) 
-- [Echternach.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Echternach.protect.md) 
-- [Echternach.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Echternach.private.md) 
-- [Echternach.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Echternach.personal.md) 
-- [Echternach.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Echternach.secret.md) 

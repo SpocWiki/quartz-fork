@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_siblings](../../../../../_public/schema.org/Predicate/Relations/has/has_siblings.md) 
-- [has_siblings.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_siblings.internal.md) 
-- [has_siblings.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_siblings.protect.md) 
-- [has_siblings.private](../../../../../_private/schema.org/Predicate/Relations/has/has_siblings.private.md) 
-- [has_siblings.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_siblings.personal.md) 
-- [has_siblings.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_siblings.secret.md) 

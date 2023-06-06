@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kangasniemi](../../../../../../_public/geo/Continent/Europe/Finland/City/Kangasniemi.md) 
-- [Kangasniemi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kangasniemi.internal.md) 
-- [Kangasniemi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kangasniemi.protect.md) 
-- [Kangasniemi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kangasniemi.private.md) 
-- [Kangasniemi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kangasniemi.personal.md) 
-- [Kangasniemi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kangasniemi.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pejo](../../../../../../_public/geo/Continent/Europe/Italy/City/Pejo.md) 
-- [Pejo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pejo.internal.md) 
-- [Pejo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pejo.protect.md) 
-- [Pejo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pejo.private.md) 
-- [Pejo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pejo.personal.md) 
-- [Pejo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pejo.secret.md) 

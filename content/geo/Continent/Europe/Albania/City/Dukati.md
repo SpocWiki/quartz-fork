@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dukati](../../../../../../_public/geo/Continent/Europe/Albania/City/Dukati.md) 
-- [Dukati.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Dukati.internal.md) 
-- [Dukati.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Dukati.protect.md) 
-- [Dukati.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Dukati.private.md) 
-- [Dukati.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Dukati.personal.md) 
-- [Dukati.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Dukati.secret.md) 

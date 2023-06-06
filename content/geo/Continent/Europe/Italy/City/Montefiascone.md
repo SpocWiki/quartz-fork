@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montefiascone](../../../../../../_public/geo/Continent/Europe/Italy/City/Montefiascone.md) 
-- [Montefiascone.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Montefiascone.internal.md) 
-- [Montefiascone.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Montefiascone.protect.md) 
-- [Montefiascone.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Montefiascone.private.md) 
-- [Montefiascone.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Montefiascone.personal.md) 
-- [Montefiascone.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Montefiascone.secret.md) 

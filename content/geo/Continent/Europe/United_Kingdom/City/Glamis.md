@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Glamis](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Glamis.md) 
-- [Glamis.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Glamis.internal.md) 
-- [Glamis.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Glamis.protect.md) 
-- [Glamis.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Glamis.private.md) 
-- [Glamis.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Glamis.personal.md) 
-- [Glamis.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Glamis.secret.md) 

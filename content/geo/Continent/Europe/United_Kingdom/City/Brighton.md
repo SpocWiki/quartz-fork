@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brighton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Brighton.md) 
-- [Brighton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Brighton.internal.md) 
-- [Brighton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Brighton.protect.md) 
-- [Brighton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Brighton.private.md) 
-- [Brighton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Brighton.personal.md) 
-- [Brighton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Brighton.secret.md) 

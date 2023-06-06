@@ -43,10 +43,3 @@ A car wash business.
 
 
 
-## Confidential Links & Embeds: 
-- [auto_wash](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.md) 
-- [auto_wash.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.internal.md) 
-- [auto_wash.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.protect.md) 
-- [auto_wash.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.private.md) 
-- [auto_wash.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.personal.md) 
-- [auto_wash.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.secret.md) 

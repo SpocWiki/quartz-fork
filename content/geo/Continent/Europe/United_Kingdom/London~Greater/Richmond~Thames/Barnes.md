@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barnes](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Barnes.md) 
-- [Barnes.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Barnes.internal.md) 
-- [Barnes.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Barnes.protect.md) 
-- [Barnes.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Barnes.private.md) 
-- [Barnes.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Barnes.personal.md) 
-- [Barnes.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Barnes.secret.md) 

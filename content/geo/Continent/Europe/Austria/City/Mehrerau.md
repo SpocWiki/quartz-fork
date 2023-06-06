@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mehrerau](../../../../../../_public/geo/Continent/Europe/Austria/City/Mehrerau.md) 
-- [Mehrerau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Mehrerau.internal.md) 
-- [Mehrerau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Mehrerau.protect.md) 
-- [Mehrerau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Mehrerau.private.md) 
-- [Mehrerau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Mehrerau.personal.md) 
-- [Mehrerau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Mehrerau.secret.md) 

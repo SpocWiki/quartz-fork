@@ -19,11 +19,3 @@ title: Lang-vi
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-vi](../../_public/lang/Lang-vi.md) 
-- [Lang-vi.internal](../../_internal/lang/Lang-vi.internal.md) 
-- [Lang-vi.protect](../../_protect/lang/Lang-vi.protect.md) 
-- [Lang-vi.private](../../_private/lang/Lang-vi.private.md) 
-- [Lang-vi.personal](../../_personal/lang/Lang-vi.personal.md) 
-- [Lang-vi.secret](../../_secret/lang/Lang-vi.secret.md)
-

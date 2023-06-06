@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Altais](../../../_public/astro/Star/Altais.md) 
-- [Altais.internal](../../../_internal/astro/Star/Altais.internal.md) 
-- [Altais.protect](../../../_protect/astro/Star/Altais.protect.md) 
-- [Altais.private](../../../_private/astro/Star/Altais.private.md) 
-- [Altais.personal](../../../_personal/astro/Star/Altais.personal.md) 
-- [Altais.secret](../../../_secret/astro/Star/Altais.secret.md)
-

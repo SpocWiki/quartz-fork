@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sortanlahti](../../../../../../_public/geo/Continent/Europe/Finland/City/Sortanlahti.md) 
-- [Sortanlahti.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Sortanlahti.internal.md) 
-- [Sortanlahti.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Sortanlahti.protect.md) 
-- [Sortanlahti.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Sortanlahti.private.md) 
-- [Sortanlahti.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Sortanlahti.personal.md) 
-- [Sortanlahti.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Sortanlahti.secret.md) 

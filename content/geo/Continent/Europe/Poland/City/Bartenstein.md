@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bartenstein](../../../../../../_public/geo/Continent/Europe/Poland/City/Bartenstein.md) 
-- [Bartenstein.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bartenstein.internal.md) 
-- [Bartenstein.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bartenstein.protect.md) 
-- [Bartenstein.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bartenstein.private.md) 
-- [Bartenstein.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bartenstein.personal.md) 
-- [Bartenstein.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bartenstein.secret.md) 

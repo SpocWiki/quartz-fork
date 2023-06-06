@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bayeux](../../../../../../_public/geo/Continent/Europe/France/City/Bayeux.md) 
-- [Bayeux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bayeux.internal.md) 
-- [Bayeux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bayeux.protect.md) 
-- [Bayeux.private](../../../../../../_private/geo/Continent/Europe/France/City/Bayeux.private.md) 
-- [Bayeux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bayeux.personal.md) 
-- [Bayeux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bayeux.secret.md) 

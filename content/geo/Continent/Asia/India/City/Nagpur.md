@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nagpur](../../../../../../_public/geo/Continent/Asia/India/City/Nagpur.md) 
-- [Nagpur.internal](../../../../../../_internal/geo/Continent/Asia/India/City/Nagpur.internal.md) 
-- [Nagpur.protect](../../../../../../_protect/geo/Continent/Asia/India/City/Nagpur.protect.md) 
-- [Nagpur.private](../../../../../../_private/geo/Continent/Asia/India/City/Nagpur.private.md) 
-- [Nagpur.personal](../../../../../../_personal/geo/Continent/Asia/India/City/Nagpur.personal.md) 
-- [Nagpur.secret](../../../../../../_secret/geo/Continent/Asia/India/City/Nagpur.secret.md) 

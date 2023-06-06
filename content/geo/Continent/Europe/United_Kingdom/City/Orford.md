@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orford](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Orford.md) 
-- [Orford.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Orford.internal.md) 
-- [Orford.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Orford.protect.md) 
-- [Orford.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Orford.private.md) 
-- [Orford.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Orford.personal.md) 
-- [Orford.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Orford.secret.md) 

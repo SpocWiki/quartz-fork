@@ -125,7 +125,7 @@ markerFolder: ./Bahrain/City
 
 ![350](geo/Continent/Asia/Bahrain/Emblem_of_Bahrain.svg)
 
-![Anthem-Bahrain](xLarge/National-Anthem/Anthem-Bahrain.mp3)
+[Anthem-Bahrain](xLarge/National-Anthem/Anthem-Bahrain.mp3)
 
 ![350](geo/Continent/Asia/Bahrain/Flag_of_Bahrain.svg)
 
@@ -136,10 +136,3 @@ markerFolder: ./Bahrain/City
 
 
 
-## Confidential Links & Embeds: 
-- [Bahrain](../../../../_public/geo/Continent/Asia/Bahrain.md) 
-- [Bahrain.internal](../../../../_internal/geo/Continent/Asia/Bahrain.internal.md) 
-- [Bahrain.protect](../../../../_protect/geo/Continent/Asia/Bahrain.protect.md) 
-- [Bahrain.private](../../../../_private/geo/Continent/Asia/Bahrain.private.md) 
-- [Bahrain.personal](../../../../_personal/geo/Continent/Asia/Bahrain.personal.md) 
-- [Bahrain.secret](../../../../_secret/geo/Continent/Asia/Bahrain.secret.md) 

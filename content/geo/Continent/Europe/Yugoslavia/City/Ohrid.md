@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ohrid](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Ohrid.md) 
-- [Ohrid.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Ohrid.internal.md) 
-- [Ohrid.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Ohrid.protect.md) 
-- [Ohrid.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Ohrid.private.md) 
-- [Ohrid.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Ohrid.personal.md) 
-- [Ohrid.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Ohrid.secret.md) 

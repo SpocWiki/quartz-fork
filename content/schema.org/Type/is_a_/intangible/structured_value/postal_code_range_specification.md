@@ -45,10 +45,3 @@ Indicates a range of postal codes, usually defined as the set of valid codes bet
 
 
 
-## Confidential Links & Embeds: 
-- [postal_code_range_specification](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.md) 
-- [postal_code_range_specification.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.internal.md) 
-- [postal_code_range_specification.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.protect.md) 
-- [postal_code_range_specification.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.private.md) 
-- [postal_code_range_specification.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.personal.md) 
-- [postal_code_range_specification.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.secret.md) 

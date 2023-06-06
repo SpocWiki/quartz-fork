@@ -40,10 +40,3 @@ title: Bromine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bromine)
 
-## Confidential Links & Embeds: 
-- [Bromine](../../../../_public/chemic/Elements/Group-17-Halogene/Bromine.md) 
-- [Bromine.internal](../../../../_internal/chemic/Elements/Group-17-Halogene/Bromine.internal.md) 
-- [Bromine.protect](../../../../_protect/chemic/Elements/Group-17-Halogene/Bromine.protect.md) 
-- [Bromine.private](../../../../_private/chemic/Elements/Group-17-Halogene/Bromine.private.md) 
-- [Bromine.personal](../../../../_personal/chemic/Elements/Group-17-Halogene/Bromine.personal.md) 
-- [Bromine.secret](../../../../_secret/chemic/Elements/Group-17-Halogene/Bromine.secret.md) 

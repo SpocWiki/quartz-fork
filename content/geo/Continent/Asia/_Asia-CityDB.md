@@ -344,10 +344,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_Asia-CityDB](../../../../_public/geo/Continent/Asia/_Asia-CityDB.md) 
-- [_Asia-CityDB.internal](../../../../_internal/geo/Continent/Asia/_Asia-CityDB.internal.md) 
-- [_Asia-CityDB.protect](../../../../_protect/geo/Continent/Asia/_Asia-CityDB.protect.md) 
-- [_Asia-CityDB.private](../../../../_private/geo/Continent/Asia/_Asia-CityDB.private.md) 
-- [_Asia-CityDB.personal](../../../../_personal/geo/Continent/Asia/_Asia-CityDB.personal.md) 
-- [_Asia-CityDB.secret](../../../../_secret/geo/Continent/Asia/_Asia-CityDB.secret.md) 

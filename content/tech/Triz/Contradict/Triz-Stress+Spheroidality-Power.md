@@ -19,10 +19,3 @@ title: Triz-Stress+Spheroidality-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Spheroidality-Power](../../../../_public/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.md) 
-- [Triz-Stress+Spheroidality-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.internal.md) 
-- [Triz-Stress+Spheroidality-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.protect.md) 
-- [Triz-Stress+Spheroidality-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.private.md) 
-- [Triz-Stress+Spheroidality-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.personal.md) 
-- [Triz-Stress+Spheroidality-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Spheroidality-Power.secret.md) 

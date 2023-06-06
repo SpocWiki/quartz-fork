@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zasenbeck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.md) 
-- [Zasenbeck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.internal.md) 
-- [Zasenbeck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.protect.md) 
-- [Zasenbeck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.private.md) 
-- [Zasenbeck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.personal.md) 
-- [Zasenbeck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zasenbeck.secret.md) 

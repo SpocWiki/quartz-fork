@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haisenhaus](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Haisenhaus.md) 
-- [Haisenhaus.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Haisenhaus.internal.md) 
-- [Haisenhaus.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Haisenhaus.protect.md) 
-- [Haisenhaus.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Haisenhaus.private.md) 
-- [Haisenhaus.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Haisenhaus.personal.md) 
-- [Haisenhaus.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Haisenhaus.secret.md) 

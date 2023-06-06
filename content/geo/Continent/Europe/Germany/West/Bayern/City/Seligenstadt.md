@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seligenstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.md) 
-- [Seligenstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.internal.md) 
-- [Seligenstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.protect.md) 
-- [Seligenstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.private.md) 
-- [Seligenstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.personal.md) 
-- [Seligenstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Seligenstadt.secret.md) 

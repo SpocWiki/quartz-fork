@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Greenwich](../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.md) 
-- [Greenwich.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.internal.md) 
-- [Greenwich.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.protect.md) 
-- [Greenwich.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.private.md) 
-- [Greenwich.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.personal.md) 
-- [Greenwich.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Greenwich.secret.md) 

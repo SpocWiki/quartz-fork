@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brandvold](../../../../../../_public/geo/Continent/Europe/Norway/City/Brandvold.md) 
-- [Brandvold.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Brandvold.internal.md) 
-- [Brandvold.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Brandvold.protect.md) 
-- [Brandvold.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Brandvold.private.md) 
-- [Brandvold.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Brandvold.personal.md) 
-- [Brandvold.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Brandvold.secret.md) 

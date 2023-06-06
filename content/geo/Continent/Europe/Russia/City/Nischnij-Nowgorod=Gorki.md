@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nischnij-Nowgorod=Gorki](../../../../../../_public/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.md) 
-- [Nischnij-Nowgorod=Gorki.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.internal.md) 
-- [Nischnij-Nowgorod=Gorki.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.protect.md) 
-- [Nischnij-Nowgorod=Gorki.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.private.md) 
-- [Nischnij-Nowgorod=Gorki.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.personal.md) 
-- [Nischnij-Nowgorod=Gorki.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nischnij-Nowgorod=Gorki.secret.md) 

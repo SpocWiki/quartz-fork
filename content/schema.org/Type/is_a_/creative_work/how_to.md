@@ -45,10 +45,3 @@ Instructions that explain how to achieve a result by performing a sequence of st
 
 
 
-## Confidential Links & Embeds: 
-- [how_to](../../../../../_public/schema.org/Type/is_a_/creative_work/how_to.md) 
-- [how_to.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/how_to.internal.md) 
-- [how_to.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/how_to.protect.md) 
-- [how_to.private](../../../../../_private/schema.org/Type/is_a_/creative_work/how_to.private.md) 
-- [how_to.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/how_to.personal.md) 
-- [how_to.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/how_to.secret.md) 

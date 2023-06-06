@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ruesselsheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Ruesselsheim.md) 
-- [Ruesselsheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Ruesselsheim.internal.md) 
-- [Ruesselsheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Ruesselsheim.protect.md) 
-- [Ruesselsheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Ruesselsheim.private.md) 
-- [Ruesselsheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Ruesselsheim.personal.md) 
-- [Ruesselsheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Ruesselsheim.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meitingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Meitingen.md) 
-- [Meitingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Meitingen.internal.md) 
-- [Meitingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Meitingen.protect.md) 
-- [Meitingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Meitingen.private.md) 
-- [Meitingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Meitingen.personal.md) 
-- [Meitingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Meitingen.secret.md) 

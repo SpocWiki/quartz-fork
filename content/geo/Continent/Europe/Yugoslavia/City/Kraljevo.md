@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kraljevo](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Kraljevo.md) 
-- [Kraljevo.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kraljevo.internal.md) 
-- [Kraljevo.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kraljevo.protect.md) 
-- [Kraljevo.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kraljevo.private.md) 
-- [Kraljevo.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kraljevo.personal.md) 
-- [Kraljevo.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kraljevo.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Centnerbrunn](../../../../../../_public/geo/Continent/Europe/Poland/City/Centnerbrunn.md) 
-- [Centnerbrunn.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Centnerbrunn.internal.md) 
-- [Centnerbrunn.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Centnerbrunn.protect.md) 
-- [Centnerbrunn.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Centnerbrunn.private.md) 
-- [Centnerbrunn.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Centnerbrunn.personal.md) 
-- [Centnerbrunn.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Centnerbrunn.secret.md) 

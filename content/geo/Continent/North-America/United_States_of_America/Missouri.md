@@ -39,10 +39,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Missouri](../../../../../_public/geo/Continent/North-America/United_States_of_America/Missouri.md) 
-- [Missouri.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Missouri.internal.md) 
-- [Missouri.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Missouri.protect.md) 
-- [Missouri.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Missouri.private.md) 
-- [Missouri.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Missouri.personal.md) 
-- [Missouri.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Missouri.secret.md) 

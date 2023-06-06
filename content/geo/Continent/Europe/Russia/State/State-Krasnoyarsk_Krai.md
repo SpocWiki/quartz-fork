@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Krasnoyarsk_Krai](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Krasnoyarsk_Krai.md) 
-- [State-Krasnoyarsk_Krai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Krasnoyarsk_Krai.internal.md) 
-- [State-Krasnoyarsk_Krai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Krasnoyarsk_Krai.protect.md) 
-- [State-Krasnoyarsk_Krai.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Krasnoyarsk_Krai.private.md) 
-- [State-Krasnoyarsk_Krai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Krasnoyarsk_Krai.personal.md) 
-- [State-Krasnoyarsk_Krai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Krasnoyarsk_Krai.secret.md) 

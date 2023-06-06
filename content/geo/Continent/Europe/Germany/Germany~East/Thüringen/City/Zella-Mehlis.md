@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zella-Mehlis](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Zella-Mehlis.md) 
-- [Zella-Mehlis.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Zella-Mehlis.internal.md) 
-- [Zella-Mehlis.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Zella-Mehlis.protect.md) 
-- [Zella-Mehlis.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Zella-Mehlis.private.md) 
-- [Zella-Mehlis.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Zella-Mehlis.personal.md) 
-- [Zella-Mehlis.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Zella-Mehlis.secret.md) 

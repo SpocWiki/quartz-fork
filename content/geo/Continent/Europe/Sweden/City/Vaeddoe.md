@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaeddoe](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaeddoe.md) 
-- [Vaeddoe.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaeddoe.internal.md) 
-- [Vaeddoe.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaeddoe.protect.md) 
-- [Vaeddoe.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaeddoe.private.md) 
-- [Vaeddoe.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaeddoe.personal.md) 
-- [Vaeddoe.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaeddoe.secret.md) 

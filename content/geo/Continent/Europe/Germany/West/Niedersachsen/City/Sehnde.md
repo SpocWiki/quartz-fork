@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sehnde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sehnde.md) 
-- [Sehnde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sehnde.internal.md) 
-- [Sehnde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sehnde.protect.md) 
-- [Sehnde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sehnde.private.md) 
-- [Sehnde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sehnde.personal.md) 
-- [Sehnde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sehnde.secret.md) 

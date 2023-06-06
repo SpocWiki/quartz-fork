@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stein](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Stein.md) 
-- [Stein.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Stein.internal.md) 
-- [Stein.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Stein.protect.md) 
-- [Stein.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Stein.private.md) 
-- [Stein.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Stein.personal.md) 
-- [Stein.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Stein.secret.md) 

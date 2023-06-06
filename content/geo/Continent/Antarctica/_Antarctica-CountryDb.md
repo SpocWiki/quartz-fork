@@ -446,10 +446,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_Antarctica-CountryDb](../../../../_public/geo/Continent/Antarctica/_Antarctica-CountryDb.md) 
-- [_Antarctica-CountryDb.internal](../../../../_internal/geo/Continent/Antarctica/_Antarctica-CountryDb.internal.md) 
-- [_Antarctica-CountryDb.protect](../../../../_protect/geo/Continent/Antarctica/_Antarctica-CountryDb.protect.md) 
-- [_Antarctica-CountryDb.private](../../../../_private/geo/Continent/Antarctica/_Antarctica-CountryDb.private.md) 
-- [_Antarctica-CountryDb.personal](../../../../_personal/geo/Continent/Antarctica/_Antarctica-CountryDb.personal.md) 
-- [_Antarctica-CountryDb.secret](../../../../_secret/geo/Continent/Antarctica/_Antarctica-CountryDb.secret.md) 

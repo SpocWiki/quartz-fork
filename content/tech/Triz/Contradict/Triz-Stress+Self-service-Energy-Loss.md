@@ -19,10 +19,3 @@ title: Triz-Stress+Self-service-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Self-service-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Stress+Self-service-Energy-Loss.md) 
-- [Triz-Stress+Self-service-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Self-service-Energy-Loss.internal.md) 
-- [Triz-Stress+Self-service-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Self-service-Energy-Loss.protect.md) 
-- [Triz-Stress+Self-service-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Self-service-Energy-Loss.private.md) 
-- [Triz-Stress+Self-service-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Self-service-Energy-Loss.personal.md) 
-- [Triz-Stress+Self-service-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Self-service-Energy-Loss.secret.md) 

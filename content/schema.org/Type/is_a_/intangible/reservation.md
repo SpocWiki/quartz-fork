@@ -47,10 +47,3 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 
-## Confidential Links & Embeds: 
-- [reservation](../../../../../_public/schema.org/Type/is_a_/intangible/reservation.md) 
-- [reservation.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/reservation.internal.md) 
-- [reservation.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/reservation.protect.md) 
-- [reservation.private](../../../../../_private/schema.org/Type/is_a_/intangible/reservation.private.md) 
-- [reservation.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/reservation.personal.md) 
-- [reservation.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/reservation.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vientiane](../../../../../../_public/geo/Continent/Asia/Laos/City/Vientiane.md) 
-- [Vientiane.internal](../../../../../../_internal/geo/Continent/Asia/Laos/City/Vientiane.internal.md) 
-- [Vientiane.protect](../../../../../../_protect/geo/Continent/Asia/Laos/City/Vientiane.protect.md) 
-- [Vientiane.private](../../../../../../_private/geo/Continent/Asia/Laos/City/Vientiane.private.md) 
-- [Vientiane.personal](../../../../../../_personal/geo/Continent/Asia/Laos/City/Vientiane.personal.md) 
-- [Vientiane.secret](../../../../../../_secret/geo/Continent/Asia/Laos/City/Vientiane.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ssemipalatinsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Ssemipalatinsk.md) 
-- [Ssemipalatinsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ssemipalatinsk.internal.md) 
-- [Ssemipalatinsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ssemipalatinsk.protect.md) 
-- [Ssemipalatinsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ssemipalatinsk.private.md) 
-- [Ssemipalatinsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ssemipalatinsk.personal.md) 
-- [Ssemipalatinsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ssemipalatinsk.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Clarahof](../../../../../../_public/geo/Continent/Europe/Poland/City/Clarahof.md) 
-- [Clarahof.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Clarahof.internal.md) 
-- [Clarahof.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Clarahof.protect.md) 
-- [Clarahof.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Clarahof.private.md) 
-- [Clarahof.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Clarahof.personal.md) 
-- [Clarahof.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Clarahof.secret.md) 

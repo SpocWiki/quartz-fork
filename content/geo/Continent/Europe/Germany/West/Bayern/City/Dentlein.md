@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dentlein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Dentlein.md) 
-- [Dentlein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dentlein.internal.md) 
-- [Dentlein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dentlein.protect.md) 
-- [Dentlein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dentlein.private.md) 
-- [Dentlein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dentlein.personal.md) 
-- [Dentlein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dentlein.secret.md) 

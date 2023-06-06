@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_colorist](../../../../../_public/schema.org/Predicate/Relations/has/has_colorist.md) 
-- [has_colorist.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_colorist.internal.md) 
-- [has_colorist.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_colorist.protect.md) 
-- [has_colorist.private](../../../../../_private/schema.org/Predicate/Relations/has/has_colorist.private.md) 
-- [has_colorist.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_colorist.personal.md) 
-- [has_colorist.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_colorist.secret.md) 

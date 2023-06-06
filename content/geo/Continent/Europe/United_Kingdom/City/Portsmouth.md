@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Portsmouth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Portsmouth.md) 
-- [Portsmouth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Portsmouth.internal.md) 
-- [Portsmouth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Portsmouth.protect.md) 
-- [Portsmouth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Portsmouth.private.md) 
-- [Portsmouth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Portsmouth.personal.md) 
-- [Portsmouth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Portsmouth.secret.md) 

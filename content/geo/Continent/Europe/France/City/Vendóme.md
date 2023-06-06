@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vendóme](../../../../../../_public/geo/Continent/Europe/France/City/Vend%C3%B3me.md) 
-- [Vendóme.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vend%C3%B3me.internal.md) 
-- [Vendóme.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vend%C3%B3me.protect.md) 
-- [Vendóme.private](../../../../../../_private/geo/Continent/Europe/France/City/Vend%C3%B3me.private.md) 
-- [Vendóme.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vend%C3%B3me.personal.md) 
-- [Vendóme.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vend%C3%B3me.secret.md) 

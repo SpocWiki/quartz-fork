@@ -43,10 +43,3 @@ A locksmith.
 
 
 
-## Confidential Links & Embeds: 
-- [locksmith](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/locksmith.md) 
-- [locksmith.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/locksmith.internal.md) 
-- [locksmith.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/locksmith.protect.md) 
-- [locksmith.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/locksmith.private.md) 
-- [locksmith.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/locksmith.personal.md) 
-- [locksmith.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/locksmith.secret.md) 

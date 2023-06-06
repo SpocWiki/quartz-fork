@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tirana](../../../../../../_public/geo/Continent/Europe/Albania/City/Tirana.md) 
-- [Tirana.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Tirana.internal.md) 
-- [Tirana.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Tirana.protect.md) 
-- [Tirana.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Tirana.private.md) 
-- [Tirana.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Tirana.personal.md) 
-- [Tirana.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Tirana.secret.md) 

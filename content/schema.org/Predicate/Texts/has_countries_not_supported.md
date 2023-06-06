@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_countries_not_supported](../../../../_public/schema.org/Predicate/Texts/has_countries_not_supported.md) 
-- [has_countries_not_supported.internal](../../../../_internal/schema.org/Predicate/Texts/has_countries_not_supported.internal.md) 
-- [has_countries_not_supported.protect](../../../../_protect/schema.org/Predicate/Texts/has_countries_not_supported.protect.md) 
-- [has_countries_not_supported.private](../../../../_private/schema.org/Predicate/Texts/has_countries_not_supported.private.md) 
-- [has_countries_not_supported.personal](../../../../_personal/schema.org/Predicate/Texts/has_countries_not_supported.personal.md) 
-- [has_countries_not_supported.secret](../../../../_secret/schema.org/Predicate/Texts/has_countries_not_supported.secret.md) 

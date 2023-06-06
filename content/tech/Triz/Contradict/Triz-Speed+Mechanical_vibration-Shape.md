@@ -19,10 +19,3 @@ title: Triz-Speed+Mechanical_vibration-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Mechanical_vibration-Shape](../../../../_public/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.md) 
-- [Triz-Speed+Mechanical_vibration-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.internal.md) 
-- [Triz-Speed+Mechanical_vibration-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.protect.md) 
-- [Triz-Speed+Mechanical_vibration-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.private.md) 
-- [Triz-Speed+Mechanical_vibration-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.personal.md) 
-- [Triz-Speed+Mechanical_vibration-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Mechanical_vibration-Shape.secret.md) 

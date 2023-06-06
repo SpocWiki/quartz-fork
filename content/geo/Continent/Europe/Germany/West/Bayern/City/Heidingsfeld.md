@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heidingsfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.md) 
-- [Heidingsfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.internal.md) 
-- [Heidingsfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.protect.md) 
-- [Heidingsfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.private.md) 
-- [Heidingsfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.personal.md) 
-- [Heidingsfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Heidingsfeld.secret.md) 

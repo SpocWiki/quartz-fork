@@ -45,10 +45,3 @@ A loan in which property or real estate is used as collateral. (A loan securitiz
 
 
 
-## Confidential Links & Embeds: 
-- [mortgage_loan](../../../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.md) 
-- [mortgage_loan.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.internal.md) 
-- [mortgage_loan.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.protect.md) 
-- [mortgage_loan.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.private.md) 
-- [mortgage_loan.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.personal.md) 
-- [mortgage_loan.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.secret.md) 

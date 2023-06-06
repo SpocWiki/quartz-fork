@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oerskoeldsvik](../../../../../../_public/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.md) 
-- [Oerskoeldsvik.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.internal.md) 
-- [Oerskoeldsvik.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.protect.md) 
-- [Oerskoeldsvik.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.private.md) 
-- [Oerskoeldsvik.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.personal.md) 
-- [Oerskoeldsvik.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oerskoeldsvik.secret.md) 

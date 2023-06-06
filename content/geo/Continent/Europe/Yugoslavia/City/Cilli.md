@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cilli](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Cilli.md) 
-- [Cilli.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Cilli.internal.md) 
-- [Cilli.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Cilli.protect.md) 
-- [Cilli.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Cilli.private.md) 
-- [Cilli.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Cilli.personal.md) 
-- [Cilli.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Cilli.secret.md) 

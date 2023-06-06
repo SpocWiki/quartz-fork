@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schliersee](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schliersee.md) 
-- [Schliersee.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schliersee.internal.md) 
-- [Schliersee.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schliersee.protect.md) 
-- [Schliersee.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schliersee.private.md) 
-- [Schliersee.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schliersee.personal.md) 
-- [Schliersee.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schliersee.secret.md) 

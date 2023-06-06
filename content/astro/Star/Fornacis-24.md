@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Fornacis-24](../../../_public/astro/Star/Fornacis-24.md) 
-- [Fornacis-24.internal](../../../_internal/astro/Star/Fornacis-24.internal.md) 
-- [Fornacis-24.protect](../../../_protect/astro/Star/Fornacis-24.protect.md) 
-- [Fornacis-24.private](../../../_private/astro/Star/Fornacis-24.private.md) 
-- [Fornacis-24.personal](../../../_personal/astro/Star/Fornacis-24.personal.md) 
-- [Fornacis-24.secret](../../../_secret/astro/Star/Fornacis-24.secret.md)
-

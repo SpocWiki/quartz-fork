@@ -45,10 +45,3 @@ For a given health insurance plan, the specification for costs and coverage of p
 
 
 
-## Confidential Links & Embeds: 
-- [health_plan_formulary](../../../../../_public/schema.org/Type/is_a_/intangible/health_plan_formulary.md) 
-- [health_plan_formulary.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/health_plan_formulary.internal.md) 
-- [health_plan_formulary.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/health_plan_formulary.protect.md) 
-- [health_plan_formulary.private](../../../../../_private/schema.org/Type/is_a_/intangible/health_plan_formulary.private.md) 
-- [health_plan_formulary.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/health_plan_formulary.personal.md) 
-- [health_plan_formulary.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/health_plan_formulary.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Petsamo](../../../../../../_public/geo/Continent/Europe/Finland/City/Petsamo.md) 
-- [Petsamo.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Petsamo.internal.md) 
-- [Petsamo.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Petsamo.protect.md) 
-- [Petsamo.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Petsamo.private.md) 
-- [Petsamo.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Petsamo.personal.md) 
-- [Petsamo.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Petsamo.secret.md) 

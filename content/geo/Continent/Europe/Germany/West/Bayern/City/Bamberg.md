@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bamberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.md) 
-- [Bamberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.internal.md) 
-- [Bamberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.protect.md) 
-- [Bamberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.private.md) 
-- [Bamberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.personal.md) 
-- [Bamberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.secret.md) 

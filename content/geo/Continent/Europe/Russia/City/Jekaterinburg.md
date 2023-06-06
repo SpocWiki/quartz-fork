@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jekaterinburg](../../../../../../_public/geo/Continent/Europe/Russia/City/Jekaterinburg.md) 
-- [Jekaterinburg.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jekaterinburg.internal.md) 
-- [Jekaterinburg.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jekaterinburg.protect.md) 
-- [Jekaterinburg.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jekaterinburg.private.md) 
-- [Jekaterinburg.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jekaterinburg.personal.md) 
-- [Jekaterinburg.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jekaterinburg.secret.md) 

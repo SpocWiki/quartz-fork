@@ -47,10 +47,3 @@ An <a class="localLink" href="/OfferForLease">OfferForLease</a> in Schema.org re
 
 
 
-## Confidential Links & Embeds: 
-- [offer_for_lease](../../../../../../_public/schema.org/Type/is_a_/intangible/offer/offer_for_lease.md) 
-- [offer_for_lease.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/offer/offer_for_lease.internal.md) 
-- [offer_for_lease.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/offer/offer_for_lease.protect.md) 
-- [offer_for_lease.private](../../../../../../_private/schema.org/Type/is_a_/intangible/offer/offer_for_lease.private.md) 
-- [offer_for_lease.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/offer/offer_for_lease.personal.md) 
-- [offer_for_lease.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/offer/offer_for_lease.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Stability+Segmentation-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Segmentation-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.md) 
-- [Triz-Stability+Segmentation-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.internal.md) 
-- [Triz-Stability+Segmentation-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.protect.md) 
-- [Triz-Stability+Segmentation-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.private.md) 
-- [Triz-Stability+Segmentation-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.personal.md) 
-- [Triz-Stability+Segmentation-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Segmentation-Temperature.secret.md) 

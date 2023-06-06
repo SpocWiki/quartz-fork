@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valina](../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Valina.md) 
-- [Valina.internal](../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Valina.internal.md) 
-- [Valina.protect](../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Valina.protect.md) 
-- [Valina.private](../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Valina.private.md) 
-- [Valina.personal](../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Valina.personal.md) 
-- [Valina.secret](../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Valina.secret.md) 

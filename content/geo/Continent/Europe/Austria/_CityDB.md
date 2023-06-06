@@ -353,10 +353,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_CityDB](../../../../../_public/geo/Continent/Europe/Austria/_CityDB.md) 
-- [_CityDB.internal](../../../../../_internal/geo/Continent/Europe/Austria/_CityDB.internal.md) 
-- [_CityDB.protect](../../../../../_protect/geo/Continent/Europe/Austria/_CityDB.protect.md) 
-- [_CityDB.private](../../../../../_private/geo/Continent/Europe/Austria/_CityDB.private.md) 
-- [_CityDB.personal](../../../../../_personal/geo/Continent/Europe/Austria/_CityDB.personal.md) 
-- [_CityDB.secret](../../../../../_secret/geo/Continent/Europe/Austria/_CityDB.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.md) 
-- [Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.internal.md) 
-- [Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.protect.md) 
-- [Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.private.md) 
-- [Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.personal.md) 
-- [Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Rejecting_and_regenerating_parts-Stability.secret.md) 

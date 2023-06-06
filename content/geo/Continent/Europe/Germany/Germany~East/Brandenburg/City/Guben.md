@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guben](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Guben.md) 
-- [Guben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Guben.internal.md) 
-- [Guben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Guben.protect.md) 
-- [Guben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Guben.private.md) 
-- [Guben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Guben.personal.md) 
-- [Guben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Guben.secret.md) 

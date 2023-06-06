@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Udine](../../../../../../_public/geo/Continent/Europe/Italy/City/Udine.md) 
-- [Udine.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Udine.internal.md) 
-- [Udine.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Udine.protect.md) 
-- [Udine.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Udine.private.md) 
-- [Udine.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Udine.personal.md) 
-- [Udine.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Udine.secret.md) 

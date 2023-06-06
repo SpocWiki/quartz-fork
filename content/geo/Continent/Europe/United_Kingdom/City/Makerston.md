@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Makerston](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Makerston.md) 
-- [Makerston.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Makerston.internal.md) 
-- [Makerston.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Makerston.protect.md) 
-- [Makerston.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Makerston.private.md) 
-- [Makerston.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Makerston.personal.md) 
-- [Makerston.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Makerston.secret.md) 

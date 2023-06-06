@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blankenberghe](../../../../../../_public/geo/Continent/Europe/Belgium/City/Blankenberghe.md) 
-- [Blankenberghe.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Blankenberghe.internal.md) 
-- [Blankenberghe.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Blankenberghe.protect.md) 
-- [Blankenberghe.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Blankenberghe.private.md) 
-- [Blankenberghe.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Blankenberghe.personal.md) 
-- [Blankenberghe.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Blankenberghe.secret.md) 

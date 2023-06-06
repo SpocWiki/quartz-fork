@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kobbelbude](../../../../../../_public/geo/Continent/Europe/Russia/City/Kobbelbude.md) 
-- [Kobbelbude.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kobbelbude.internal.md) 
-- [Kobbelbude.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kobbelbude.protect.md) 
-- [Kobbelbude.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kobbelbude.private.md) 
-- [Kobbelbude.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kobbelbude.personal.md) 
-- [Kobbelbude.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kobbelbude.secret.md) 

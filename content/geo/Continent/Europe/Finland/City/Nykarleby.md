@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nykarleby](../../../../../../_public/geo/Continent/Europe/Finland/City/Nykarleby.md) 
-- [Nykarleby.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Nykarleby.internal.md) 
-- [Nykarleby.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Nykarleby.protect.md) 
-- [Nykarleby.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Nykarleby.private.md) 
-- [Nykarleby.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Nykarleby.personal.md) 
-- [Nykarleby.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Nykarleby.secret.md) 

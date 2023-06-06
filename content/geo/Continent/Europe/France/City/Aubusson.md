@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aubusson](../../../../../../_public/geo/Continent/Europe/France/City/Aubusson.md) 
-- [Aubusson.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Aubusson.internal.md) 
-- [Aubusson.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Aubusson.protect.md) 
-- [Aubusson.private](../../../../../../_private/geo/Continent/Europe/France/City/Aubusson.private.md) 
-- [Aubusson.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Aubusson.personal.md) 
-- [Aubusson.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Aubusson.secret.md) 

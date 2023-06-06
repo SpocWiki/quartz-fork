@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kiel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kiel.md) 
-- [Kiel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kiel.internal.md) 
-- [Kiel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kiel.protect.md) 
-- [Kiel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kiel.private.md) 
-- [Kiel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kiel.personal.md) 
-- [Kiel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kiel.secret.md) 

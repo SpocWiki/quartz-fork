@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Westport](../../../../../../_public/geo/Continent/Europe/Ireland/City/Westport.md) 
-- [Westport.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Westport.internal.md) 
-- [Westport.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Westport.protect.md) 
-- [Westport.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Westport.private.md) 
-- [Westport.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Westport.personal.md) 
-- [Westport.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Westport.secret.md) 

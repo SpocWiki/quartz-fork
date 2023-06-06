@@ -41,10 +41,3 @@ Indicates whether this drug is available by prescription or over-the-counter.
 
 
 
-## Confidential Links & Embeds: 
-- [drug_prescription_status](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.md) 
-- [drug_prescription_status.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.internal.md) 
-- [drug_prescription_status.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.protect.md) 
-- [drug_prescription_status.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.private.md) 
-- [drug_prescription_status.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.personal.md) 
-- [drug_prescription_status.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.secret.md) 

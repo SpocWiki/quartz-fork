@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Prausnitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Prausnitz.md) 
-- [Prausnitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Prausnitz.internal.md) 
-- [Prausnitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Prausnitz.protect.md) 
-- [Prausnitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Prausnitz.private.md) 
-- [Prausnitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Prausnitz.personal.md) 
-- [Prausnitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Prausnitz.secret.md) 

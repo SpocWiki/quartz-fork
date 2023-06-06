@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Isernia](../../../../../../_public/geo/Continent/Europe/Italy/City/Isernia.md) 
-- [Isernia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Isernia.internal.md) 
-- [Isernia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Isernia.protect.md) 
-- [Isernia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Isernia.private.md) 
-- [Isernia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Isernia.personal.md) 
-- [Isernia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Isernia.secret.md) 

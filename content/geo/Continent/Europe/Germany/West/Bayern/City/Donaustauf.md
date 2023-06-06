@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Donaustauf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Donaustauf.md) 
-- [Donaustauf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Donaustauf.internal.md) 
-- [Donaustauf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Donaustauf.protect.md) 
-- [Donaustauf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Donaustauf.private.md) 
-- [Donaustauf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Donaustauf.personal.md) 
-- [Donaustauf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Donaustauf.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bergamo](../../../../../../_public/geo/Continent/Europe/Italy/City/Bergamo.md) 
-- [Bergamo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bergamo.internal.md) 
-- [Bergamo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bergamo.protect.md) 
-- [Bergamo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bergamo.private.md) 
-- [Bergamo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bergamo.personal.md) 
-- [Bergamo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bergamo.secret.md) 

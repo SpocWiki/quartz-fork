@@ -33,15 +33,8 @@ after WW
 
 ![350](geo/Continent/Europe/Seal_of_Europe.svg)
 
-![Anthem-Eu-long](xLarge/National-Anthem/Anthem-Eu-long.mp3)
+[Anthem-Eu-long](xLarge/National-Anthem/Anthem-Eu-long.mp3)
 
 ![350](geo/Continent/Europe/Flag_of_Europe.svg)
 
 
-## Confidential Links & Embeds: 
-- [Europe](../../../_public/geo/Continent/Europe.md) 
-- [Europe.internal](../../../_internal/geo/Continent/Europe.internal.md) 
-- [Europe.protect](../../../_protect/geo/Continent/Europe.protect.md) 
-- [Europe.private](../../../_private/geo/Continent/Europe.private.md) 
-- [Europe.personal](../../../_personal/geo/Continent/Europe.personal.md) 
-- [Europe.secret](../../../_secret/geo/Continent/Europe.secret.md) 

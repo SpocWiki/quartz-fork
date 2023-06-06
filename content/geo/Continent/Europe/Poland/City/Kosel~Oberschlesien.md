@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kosel~Oberschlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.md) 
-- [Kosel~Oberschlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.internal.md) 
-- [Kosel~Oberschlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.protect.md) 
-- [Kosel~Oberschlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.private.md) 
-- [Kosel~Oberschlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.personal.md) 
-- [Kosel~Oberschlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kosel~Oberschlesien.secret.md) 

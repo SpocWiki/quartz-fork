@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Knim](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Knim.md) 
-- [Knim.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Knim.internal.md) 
-- [Knim.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Knim.protect.md) 
-- [Knim.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Knim.private.md) 
-- [Knim.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Knim.personal.md) 
-- [Knim.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Knim.secret.md) 

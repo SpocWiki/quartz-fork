@@ -19,10 +19,3 @@ title: Triz-Reliability+Composite_materials-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Composite_materials-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.md) 
-- [Triz-Reliability+Composite_materials-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.internal.md) 
-- [Triz-Reliability+Composite_materials-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.protect.md) 
-- [Triz-Reliability+Composite_materials-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.private.md) 
-- [Triz-Reliability+Composite_materials-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.personal.md) 
-- [Triz-Reliability+Composite_materials-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Composite_materials-Quantity.secret.md) 

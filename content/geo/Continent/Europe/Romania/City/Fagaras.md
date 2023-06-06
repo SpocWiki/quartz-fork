@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fagaras](../../../../../../_public/geo/Continent/Europe/Romania/City/Fagaras.md) 
-- [Fagaras.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Fagaras.internal.md) 
-- [Fagaras.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Fagaras.protect.md) 
-- [Fagaras.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Fagaras.private.md) 
-- [Fagaras.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Fagaras.personal.md) 
-- [Fagaras.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Fagaras.secret.md) 

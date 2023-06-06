@@ -118,7 +118,7 @@ markerFolder: ./Zimbabwe/City
 
 ![550](geo/Continent/Africa/Zimbabwe/Coat_of_arms_of_Zimbabwe.svg)
 
-![Anthem-Zimbabwe.mp3](Anthem-Zimbabwe.mp3)
+[Anthem-Zimbabwe.mp3](Anthem-Zimbabwe.mp3)
 
 ![350](geo/Continent/Africa/Zimbabwe/Flag_of_Zimbabwe.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Zimbabwe/City
 
 
 
-## Confidential Links & Embeds: 
-- [Zimbabwe](../../../../_public/geo/Continent/Africa/Zimbabwe.md) 
-- [Zimbabwe.internal](../../../../_internal/geo/Continent/Africa/Zimbabwe.internal.md) 
-- [Zimbabwe.protect](../../../../_protect/geo/Continent/Africa/Zimbabwe.protect.md) 
-- [Zimbabwe.private](../../../../_private/geo/Continent/Africa/Zimbabwe.private.md) 
-- [Zimbabwe.personal](../../../../_personal/geo/Continent/Africa/Zimbabwe.personal.md) 
-- [Zimbabwe.secret](../../../../_secret/geo/Continent/Africa/Zimbabwe.secret.md) 

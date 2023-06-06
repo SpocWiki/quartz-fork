@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skopin](../../../../../../_public/geo/Continent/Europe/Russia/City/Skopin.md) 
-- [Skopin.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Skopin.internal.md) 
-- [Skopin.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Skopin.protect.md) 
-- [Skopin.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Skopin.private.md) 
-- [Skopin.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Skopin.personal.md) 
-- [Skopin.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Skopin.secret.md) 

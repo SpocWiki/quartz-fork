@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maputo](../../../../../../_public/geo/Continent/Africa/Mozambique/City/Maputo.md) 
-- [Maputo.internal](../../../../../../_internal/geo/Continent/Africa/Mozambique/City/Maputo.internal.md) 
-- [Maputo.protect](../../../../../../_protect/geo/Continent/Africa/Mozambique/City/Maputo.protect.md) 
-- [Maputo.private](../../../../../../_private/geo/Continent/Africa/Mozambique/City/Maputo.private.md) 
-- [Maputo.personal](../../../../../../_personal/geo/Continent/Africa/Mozambique/City/Maputo.personal.md) 
-- [Maputo.secret](../../../../../../_secret/geo/Continent/Africa/Mozambique/City/Maputo.secret.md) 

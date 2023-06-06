@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_url_for_travel_bans](../../../../_public/schema.org/Predicate/Urls/has_url_for_travel_bans.md) 
-- [has_url_for_travel_bans.internal](../../../../_internal/schema.org/Predicate/Urls/has_url_for_travel_bans.internal.md) 
-- [has_url_for_travel_bans.protect](../../../../_protect/schema.org/Predicate/Urls/has_url_for_travel_bans.protect.md) 
-- [has_url_for_travel_bans.private](../../../../_private/schema.org/Predicate/Urls/has_url_for_travel_bans.private.md) 
-- [has_url_for_travel_bans.personal](../../../../_personal/schema.org/Predicate/Urls/has_url_for_travel_bans.personal.md) 
-- [has_url_for_travel_bans.secret](../../../../_secret/schema.org/Predicate/Urls/has_url_for_travel_bans.secret.md) 

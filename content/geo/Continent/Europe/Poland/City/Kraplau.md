@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kraplau](../../../../../../_public/geo/Continent/Europe/Poland/City/Kraplau.md) 
-- [Kraplau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kraplau.internal.md) 
-- [Kraplau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kraplau.protect.md) 
-- [Kraplau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kraplau.private.md) 
-- [Kraplau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kraplau.personal.md) 
-- [Kraplau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kraplau.secret.md) 

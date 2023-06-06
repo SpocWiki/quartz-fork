@@ -17,10 +17,3 @@ title: Triz-Productivity
 
 Productivity
 
-## Confidential Links & Embeds: 
-- [Triz-Productivity](../../../../_public/tech/Triz/Parameter/Triz-Productivity.md) 
-- [Triz-Productivity.internal](../../../../_internal/tech/Triz/Parameter/Triz-Productivity.internal.md) 
-- [Triz-Productivity.protect](../../../../_protect/tech/Triz/Parameter/Triz-Productivity.protect.md) 
-- [Triz-Productivity.private](../../../../_private/tech/Triz/Parameter/Triz-Productivity.private.md) 
-- [Triz-Productivity.personal](../../../../_personal/tech/Triz/Parameter/Triz-Productivity.personal.md) 
-- [Triz-Productivity.secret](../../../../_secret/tech/Triz/Parameter/Triz-Productivity.secret.md) 

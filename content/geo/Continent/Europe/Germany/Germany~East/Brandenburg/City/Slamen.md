@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Slamen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Slamen.md) 
-- [Slamen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Slamen.internal.md) 
-- [Slamen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Slamen.protect.md) 
-- [Slamen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Slamen.private.md) 
-- [Slamen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Slamen.personal.md) 
-- [Slamen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Slamen.secret.md) 

@@ -43,10 +43,3 @@ A graveyard.
 
 
 
-## Confidential Links & Embeds: 
-- [cemetery](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/cemetery.md) 
-- [cemetery.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/cemetery.internal.md) 
-- [cemetery.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/cemetery.protect.md) 
-- [cemetery.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/cemetery.private.md) 
-- [cemetery.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/cemetery.personal.md) 
-- [cemetery.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/cemetery.secret.md) 

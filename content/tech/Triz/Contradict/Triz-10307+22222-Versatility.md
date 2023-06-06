@@ -19,10 +19,3 @@ title: Triz-10307+22222-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22222-Versatility](../../../../_public/tech/Triz/Contradict/Triz-10307+22222-Versatility.md) 
-- [Triz-10307+22222-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22222-Versatility.internal.md) 
-- [Triz-10307+22222-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22222-Versatility.protect.md) 
-- [Triz-10307+22222-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22222-Versatility.private.md) 
-- [Triz-10307+22222-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22222-Versatility.personal.md) 
-- [Triz-10307+22222-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22222-Versatility.secret.md) 

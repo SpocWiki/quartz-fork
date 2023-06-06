@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [SAS~Regina](../../../../../../_public/geo/Continent/North-America/Canada/City/SAS~Regina.md) 
-- [SAS~Regina.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/SAS~Regina.internal.md) 
-- [SAS~Regina.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/SAS~Regina.protect.md) 
-- [SAS~Regina.private](../../../../../../_private/geo/Continent/North-America/Canada/City/SAS~Regina.private.md) 
-- [SAS~Regina.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/SAS~Regina.personal.md) 
-- [SAS~Regina.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/SAS~Regina.secret.md) 

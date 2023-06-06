@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tordesillas](../../../../../../_public/geo/Continent/Europe/Spain/City/Tordesillas.md) 
-- [Tordesillas.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Tordesillas.internal.md) 
-- [Tordesillas.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Tordesillas.protect.md) 
-- [Tordesillas.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Tordesillas.private.md) 
-- [Tordesillas.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Tordesillas.personal.md) 
-- [Tordesillas.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Tordesillas.secret.md) 

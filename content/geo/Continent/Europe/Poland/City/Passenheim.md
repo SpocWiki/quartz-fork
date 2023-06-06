@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Passenheim](../../../../../../_public/geo/Continent/Europe/Poland/City/Passenheim.md) 
-- [Passenheim.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Passenheim.internal.md) 
-- [Passenheim.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Passenheim.protect.md) 
-- [Passenheim.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Passenheim.private.md) 
-- [Passenheim.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Passenheim.personal.md) 
-- [Passenheim.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Passenheim.secret.md) 

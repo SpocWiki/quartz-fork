@@ -37,10 +37,3 @@ title: Lithium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lithium)
 
-## Confidential Links & Embeds: 
-- [Lithium](../../../../_public/chemic/Elements/Group-01-Alkali/Lithium.md) 
-- [Lithium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Lithium.internal.md) 
-- [Lithium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Lithium.protect.md) 
-- [Lithium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Lithium.private.md) 
-- [Lithium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Lithium.personal.md) 
-- [Lithium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Lithium.secret.md) 

@@ -40,10 +40,3 @@ title: Promethium
 
 
 
-## Confidential Links & Embeds: 
-- [Promethium](../../../../_public/chemic/Elements/Lanthanide-Group/Promethium.md) 
-- [Promethium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Promethium.internal.md) 
-- [Promethium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Promethium.protect.md) 
-- [Promethium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Promethium.private.md) 
-- [Promethium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Promethium.personal.md) 
-- [Promethium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Promethium.secret.md) 

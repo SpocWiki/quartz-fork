@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ahlhorn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.md) 
-- [Ahlhorn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.internal.md) 
-- [Ahlhorn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.protect.md) 
-- [Ahlhorn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.private.md) 
-- [Ahlhorn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.personal.md) 
-- [Ahlhorn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ahlhorn.secret.md) 

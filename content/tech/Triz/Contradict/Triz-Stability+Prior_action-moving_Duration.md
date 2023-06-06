@@ -19,10 +19,3 @@ title: Triz-Stability+Prior_action-moving_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Prior_action-moving_Duration](../../../../_public/tech/Triz/Contradict/Triz-Stability+Prior_action-moving_Duration.md) 
-- [Triz-Stability+Prior_action-moving_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Prior_action-moving_Duration.internal.md) 
-- [Triz-Stability+Prior_action-moving_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Prior_action-moving_Duration.protect.md) 
-- [Triz-Stability+Prior_action-moving_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Prior_action-moving_Duration.private.md) 
-- [Triz-Stability+Prior_action-moving_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Prior_action-moving_Duration.personal.md) 
-- [Triz-Stability+Prior_action-moving_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Prior_action-moving_Duration.secret.md) 

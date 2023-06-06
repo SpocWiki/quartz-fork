@@ -43,10 +43,3 @@ A single, identifiable product instance (e.g. a laptop with a particular serial 
 
 
 
-## Confidential Links & Embeds: 
-- [individual_product](../../../../../_public/schema.org/Type/is_a_/product/individual_product.md) 
-- [individual_product.internal](../../../../../_internal/schema.org/Type/is_a_/product/individual_product.internal.md) 
-- [individual_product.protect](../../../../../_protect/schema.org/Type/is_a_/product/individual_product.protect.md) 
-- [individual_product.private](../../../../../_private/schema.org/Type/is_a_/product/individual_product.private.md) 
-- [individual_product.personal](../../../../../_personal/schema.org/Type/is_a_/product/individual_product.personal.md) 
-- [individual_product.secret](../../../../../_secret/schema.org/Type/is_a_/product/individual_product.secret.md) 

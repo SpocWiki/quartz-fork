@@ -446,10 +446,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_Oceania-CountryDb](../../../../_public/geo/Continent/Oceania/_Oceania-CountryDb.md) 
-- [_Oceania-CountryDb.internal](../../../../_internal/geo/Continent/Oceania/_Oceania-CountryDb.internal.md) 
-- [_Oceania-CountryDb.protect](../../../../_protect/geo/Continent/Oceania/_Oceania-CountryDb.protect.md) 
-- [_Oceania-CountryDb.private](../../../../_private/geo/Continent/Oceania/_Oceania-CountryDb.private.md) 
-- [_Oceania-CountryDb.personal](../../../../_personal/geo/Continent/Oceania/_Oceania-CountryDb.personal.md) 
-- [_Oceania-CountryDb.secret](../../../../_secret/geo/Continent/Oceania/_Oceania-CountryDb.secret.md) 

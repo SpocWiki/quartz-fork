@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_honorific_prefix](../../../../_public/schema.org/Predicate/Texts/has_honorific_prefix.md) 
-- [has_honorific_prefix.internal](../../../../_internal/schema.org/Predicate/Texts/has_honorific_prefix.internal.md) 
-- [has_honorific_prefix.protect](../../../../_protect/schema.org/Predicate/Texts/has_honorific_prefix.protect.md) 
-- [has_honorific_prefix.private](../../../../_private/schema.org/Predicate/Texts/has_honorific_prefix.private.md) 
-- [has_honorific_prefix.personal](../../../../_personal/schema.org/Predicate/Texts/has_honorific_prefix.personal.md) 
-- [has_honorific_prefix.secret](../../../../_secret/schema.org/Predicate/Texts/has_honorific_prefix.secret.md) 

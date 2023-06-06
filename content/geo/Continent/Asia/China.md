@@ -124,7 +124,7 @@ markerFolder: ./China/City
 [VehicleCode::CHN]
 [Capital::[Beijing=Peking](geo/Continent/Asia/China/City/Beijing=Peking.md)]
 ![350](Coat_of_arms_of_China.svg)
-![Anthem-China](xLarge/National-Anthem/Anthem-China.mp3)
+[Anthem-China](xLarge/National-Anthem/Anthem-China.mp3)
 ![350](Flag_of_China.svg)
 [Alcohol-l::5.9]
 [Language-Id::485]
@@ -133,10 +133,3 @@ markerFolder: ./China/City
 
 
 
-## Confidential Links & Embeds: 
-- [China](../../../../_public/geo/Continent/Asia/China.md) 
-- [China.internal](../../../../_internal/geo/Continent/Asia/China.internal.md) 
-- [China.protect](../../../../_protect/geo/Continent/Asia/China.protect.md) 
-- [China.private](../../../../_private/geo/Continent/Asia/China.private.md) 
-- [China.personal](../../../../_personal/geo/Continent/Asia/China.personal.md) 
-- [China.secret](../../../../_secret/geo/Continent/Asia/China.secret.md) 

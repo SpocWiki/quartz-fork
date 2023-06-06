@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mazeikiai](../../../../../../_public/geo/Continent/Europe/Russia/City/Mazeikiai.md) 
-- [Mazeikiai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mazeikiai.internal.md) 
-- [Mazeikiai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mazeikiai.protect.md) 
-- [Mazeikiai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mazeikiai.private.md) 
-- [Mazeikiai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mazeikiai.personal.md) 
-- [Mazeikiai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mazeikiai.secret.md) 

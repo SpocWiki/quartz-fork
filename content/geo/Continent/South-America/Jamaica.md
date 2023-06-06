@@ -119,7 +119,7 @@ markerFolder: ./Jamaica/City
 
 ![350](geo/Continent/South-America/Jamaica/Coat_of_arms_of_Jamaica.svg)
 
-![Anthem-Jamaica](xLarge/National-Anthem/Anthem-Jamaica.mp3)
+[Anthem-Jamaica](xLarge/National-Anthem/Anthem-Jamaica.mp3)
 
 ![350](geo/Continent/South-America/Jamaica/Flag_of_Jamaica.svg)
 
@@ -130,10 +130,3 @@ markerFolder: ./Jamaica/City
 
 
 
-## Confidential Links & Embeds: 
-- [Jamaica](../../../../_public/geo/Continent/South-America/Jamaica.md) 
-- [Jamaica.internal](../../../../_internal/geo/Continent/South-America/Jamaica.internal.md) 
-- [Jamaica.protect](../../../../_protect/geo/Continent/South-America/Jamaica.protect.md) 
-- [Jamaica.private](../../../../_private/geo/Continent/South-America/Jamaica.private.md) 
-- [Jamaica.personal](../../../../_personal/geo/Continent/South-America/Jamaica.personal.md) 
-- [Jamaica.secret](../../../../_secret/geo/Continent/South-America/Jamaica.secret.md) 

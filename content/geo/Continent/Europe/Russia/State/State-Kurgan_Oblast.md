@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Kurgan_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Kurgan_Oblast.md) 
-- [State-Kurgan_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Kurgan_Oblast.internal.md) 
-- [State-Kurgan_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Kurgan_Oblast.protect.md) 
-- [State-Kurgan_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Kurgan_Oblast.private.md) 
-- [State-Kurgan_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Kurgan_Oblast.personal.md) 
-- [State-Kurgan_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Kurgan_Oblast.secret.md) 

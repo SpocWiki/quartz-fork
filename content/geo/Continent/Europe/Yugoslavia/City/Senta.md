@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Senta](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Senta.md) 
-- [Senta.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Senta.internal.md) 
-- [Senta.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Senta.protect.md) 
-- [Senta.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Senta.private.md) 
-- [Senta.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Senta.personal.md) 
-- [Senta.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Senta.secret.md) 

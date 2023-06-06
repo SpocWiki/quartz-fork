@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pritzwalk](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.md) 
-- [Pritzwalk.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.internal.md) 
-- [Pritzwalk.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.protect.md) 
-- [Pritzwalk.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.private.md) 
-- [Pritzwalk.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.personal.md) 
-- [Pritzwalk.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Pritzwalk.secret.md) 

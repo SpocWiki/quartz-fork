@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Youghall](../../../../../../_public/geo/Continent/Europe/Ireland/City/Youghall.md) 
-- [Youghall.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Youghall.internal.md) 
-- [Youghall.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Youghall.protect.md) 
-- [Youghall.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Youghall.private.md) 
-- [Youghall.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Youghall.personal.md) 
-- [Youghall.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Youghall.secret.md) 

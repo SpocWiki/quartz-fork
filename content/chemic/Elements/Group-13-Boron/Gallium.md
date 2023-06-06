@@ -40,10 +40,3 @@ title: Gallium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gallium)
 
-## Confidential Links & Embeds: 
-- [Gallium](../../../../_public/chemic/Elements/Group-13-Boron/Gallium.md) 
-- [Gallium.internal](../../../../_internal/chemic/Elements/Group-13-Boron/Gallium.internal.md) 
-- [Gallium.protect](../../../../_protect/chemic/Elements/Group-13-Boron/Gallium.protect.md) 
-- [Gallium.private](../../../../_private/chemic/Elements/Group-13-Boron/Gallium.private.md) 
-- [Gallium.personal](../../../../_personal/chemic/Elements/Group-13-Boron/Gallium.personal.md) 
-- [Gallium.secret](../../../../_secret/chemic/Elements/Group-13-Boron/Gallium.secret.md) 

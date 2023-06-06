@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuehtelysvaara](../../../../../../_public/geo/Continent/Europe/Finland/City/Kuehtelysvaara.md) 
-- [Kuehtelysvaara.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuehtelysvaara.internal.md) 
-- [Kuehtelysvaara.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuehtelysvaara.protect.md) 
-- [Kuehtelysvaara.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kuehtelysvaara.private.md) 
-- [Kuehtelysvaara.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuehtelysvaara.personal.md) 
-- [Kuehtelysvaara.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuehtelysvaara.secret.md) 

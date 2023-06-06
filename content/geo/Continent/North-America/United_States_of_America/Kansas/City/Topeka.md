@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Topeka](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.md) 
-- [Topeka.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.internal.md) 
-- [Topeka.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.protect.md) 
-- [Topeka.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.private.md) 
-- [Topeka.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.personal.md) 
-- [Topeka.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kansas/City/Topeka.secret.md) 

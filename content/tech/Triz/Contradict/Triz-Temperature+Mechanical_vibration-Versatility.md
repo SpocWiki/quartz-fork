@@ -19,10 +19,3 @@ title: Triz-Temperature+Mechanical_vibration-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Mechanical_vibration-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.md) 
-- [Triz-Temperature+Mechanical_vibration-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.internal.md) 
-- [Triz-Temperature+Mechanical_vibration-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.protect.md) 
-- [Triz-Temperature+Mechanical_vibration-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.private.md) 
-- [Triz-Temperature+Mechanical_vibration-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.personal.md) 
-- [Triz-Temperature+Mechanical_vibration-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Mechanical_vibration-Versatility.secret.md) 

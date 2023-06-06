@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poltawa](../../../../../../_public/geo/Continent/Europe/Russia/City/Poltawa.md) 
-- [Poltawa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Poltawa.internal.md) 
-- [Poltawa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Poltawa.protect.md) 
-- [Poltawa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Poltawa.private.md) 
-- [Poltawa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Poltawa.personal.md) 
-- [Poltawa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Poltawa.secret.md) 

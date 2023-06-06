@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Local_quality-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Local_quality-Power](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.md) 
-- [Triz-Energy-Loss+Local_quality-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.internal.md) 
-- [Triz-Energy-Loss+Local_quality-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.protect.md) 
-- [Triz-Energy-Loss+Local_quality-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.private.md) 
-- [Triz-Energy-Loss+Local_quality-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.personal.md) 
-- [Triz-Energy-Loss+Local_quality-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Local_quality-Power.secret.md) 

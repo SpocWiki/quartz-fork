@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Travemuende](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Travemuende.md) 
-- [Travemuende.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Travemuende.internal.md) 
-- [Travemuende.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Travemuende.protect.md) 
-- [Travemuende.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Travemuende.private.md) 
-- [Travemuende.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Travemuende.personal.md) 
-- [Travemuende.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Travemuende.secret.md) 

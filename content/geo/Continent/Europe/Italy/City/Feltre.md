@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Feltre](../../../../../../_public/geo/Continent/Europe/Italy/City/Feltre.md) 
-- [Feltre.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Feltre.internal.md) 
-- [Feltre.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Feltre.protect.md) 
-- [Feltre.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Feltre.private.md) 
-- [Feltre.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Feltre.personal.md) 
-- [Feltre.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Feltre.secret.md) 

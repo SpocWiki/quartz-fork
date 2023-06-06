@@ -19,10 +19,3 @@ title: Triz-Quantity+Local_quality-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Local_quality-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Temperature.md) 
-- [Triz-Quantity+Local_quality-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Temperature.internal.md) 
-- [Triz-Quantity+Local_quality-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Temperature.protect.md) 
-- [Triz-Quantity+Local_quality-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Temperature.private.md) 
-- [Triz-Quantity+Local_quality-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Temperature.personal.md) 
-- [Triz-Quantity+Local_quality-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Temperature.secret.md) 

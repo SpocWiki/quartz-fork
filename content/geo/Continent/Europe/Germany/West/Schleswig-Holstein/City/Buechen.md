@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buechen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Buechen.md) 
-- [Buechen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Buechen.internal.md) 
-- [Buechen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Buechen.protect.md) 
-- [Buechen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Buechen.private.md) 
-- [Buechen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Buechen.personal.md) 
-- [Buechen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Buechen.secret.md) 

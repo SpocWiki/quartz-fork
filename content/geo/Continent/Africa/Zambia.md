@@ -122,7 +122,7 @@ markerFolder: ./Zambia/City
 
 ![550](geo/Continent/Africa/Zambia/Coat_of_arms_of_Zambia.svg)
 
-![Anthem-Tunisia](xLarge/National-Anthem/Anthem-Tunisia.mp3)
+[Anthem-Tunisia](xLarge/National-Anthem/Anthem-Tunisia.mp3)
 
 ![350](geo/Continent/Africa/Zambia/Flag_of_Zambia.svg)
 
@@ -138,10 +138,3 @@ markerFolder: ./Zambia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Zambia](../../../../_public/geo/Continent/Africa/Zambia.md) 
-- [Zambia.internal](../../../../_internal/geo/Continent/Africa/Zambia.internal.md) 
-- [Zambia.protect](../../../../_protect/geo/Continent/Africa/Zambia.protect.md) 
-- [Zambia.private](../../../../_private/geo/Continent/Africa/Zambia.private.md) 
-- [Zambia.personal](../../../../_personal/geo/Continent/Africa/Zambia.personal.md) 
-- [Zambia.secret](../../../../_secret/geo/Continent/Africa/Zambia.secret.md) 

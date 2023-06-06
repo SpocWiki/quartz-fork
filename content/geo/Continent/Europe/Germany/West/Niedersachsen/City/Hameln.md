@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hameln](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hameln.md) 
-- [Hameln.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hameln.internal.md) 
-- [Hameln.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hameln.protect.md) 
-- [Hameln.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hameln.private.md) 
-- [Hameln.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hameln.personal.md) 
-- [Hameln.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hameln.secret.md) 

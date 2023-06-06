@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gablonz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Gablonz.md) 
-- [Gablonz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gablonz.internal.md) 
-- [Gablonz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gablonz.protect.md) 
-- [Gablonz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gablonz.private.md) 
-- [Gablonz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gablonz.personal.md) 
-- [Gablonz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gablonz.secret.md) 

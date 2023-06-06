@@ -47,10 +47,3 @@ Represents the downpayment (up-front payment) price component of the total price
 
 
 
-## Confidential Links & Embeds: 
-- [downpayment](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.md) 
-- [downpayment.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.internal.md) 
-- [downpayment.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.protect.md) 
-- [downpayment.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.private.md) 
-- [downpayment.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.personal.md) 
-- [downpayment.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.secret.md) 

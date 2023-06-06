@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationar
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.md) 
-- [Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.internal.md) 
-- [Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.protect.md) 
-- [Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.private.md) 
-- [Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.personal.md) 
-- [Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Use_a_pneumatic_or_hydralic_construction-stationary_Weight.secret.md) 

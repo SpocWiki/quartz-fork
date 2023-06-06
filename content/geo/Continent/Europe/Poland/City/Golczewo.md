@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Golczewo](../../../../../../_public/geo/Continent/Europe/Poland/City/Golczewo.md) 
-- [Golczewo.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Golczewo.internal.md) 
-- [Golczewo.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Golczewo.protect.md) 
-- [Golczewo.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Golczewo.private.md) 
-- [Golczewo.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Golczewo.personal.md) 
-- [Golczewo.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Golczewo.secret.md) 

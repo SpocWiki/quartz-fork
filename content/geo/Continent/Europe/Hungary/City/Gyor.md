@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gyor](../../../../../../_public/geo/Continent/Europe/Hungary/City/Gyor.md) 
-- [Gyor.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Gyor.internal.md) 
-- [Gyor.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Gyor.protect.md) 
-- [Gyor.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Gyor.private.md) 
-- [Gyor.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Gyor.personal.md) 
-- [Gyor.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Gyor.secret.md) 

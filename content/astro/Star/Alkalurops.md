@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alkalurops](../../../_public/astro/Star/Alkalurops.md) 
-- [Alkalurops.internal](../../../_internal/astro/Star/Alkalurops.internal.md) 
-- [Alkalurops.protect](../../../_protect/astro/Star/Alkalurops.protect.md) 
-- [Alkalurops.private](../../../_private/astro/Star/Alkalurops.private.md) 
-- [Alkalurops.personal](../../../_personal/astro/Star/Alkalurops.personal.md) 
-- [Alkalurops.secret](../../../_secret/astro/Star/Alkalurops.secret.md)
-

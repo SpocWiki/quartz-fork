@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eslarn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Eslarn.md) 
-- [Eslarn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Eslarn.internal.md) 
-- [Eslarn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Eslarn.protect.md) 
-- [Eslarn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Eslarn.private.md) 
-- [Eslarn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Eslarn.personal.md) 
-- [Eslarn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Eslarn.secret.md) 

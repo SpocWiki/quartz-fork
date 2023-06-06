@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liperi](../../../../../../_public/geo/Continent/Europe/Finland/City/Liperi.md) 
-- [Liperi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Liperi.internal.md) 
-- [Liperi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Liperi.protect.md) 
-- [Liperi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Liperi.private.md) 
-- [Liperi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Liperi.personal.md) 
-- [Liperi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Liperi.secret.md) 

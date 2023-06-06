@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Canberra](../../../../../../_public/geo/Continent/Australia/Australia/City/Canberra.md) 
-- [Canberra.internal](../../../../../../_internal/geo/Continent/Australia/Australia/City/Canberra.internal.md) 
-- [Canberra.protect](../../../../../../_protect/geo/Continent/Australia/Australia/City/Canberra.protect.md) 
-- [Canberra.private](../../../../../../_private/geo/Continent/Australia/Australia/City/Canberra.private.md) 
-- [Canberra.personal](../../../../../../_personal/geo/Continent/Australia/Australia/City/Canberra.personal.md) 
-- [Canberra.secret](../../../../../../_secret/geo/Continent/Australia/Australia/City/Canberra.secret.md) 

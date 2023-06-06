@@ -45,10 +45,3 @@ Lists or enumerationsâ€”for example, a list of cuisines or music genres, et
 
 
 
-## Confidential Links & Embeds: 
-- [enumeration](../../../../../_public/schema.org/Type/is_a_/intangible/enumeration.md) 
-- [enumeration.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration.internal.md) 
-- [enumeration.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration.protect.md) 
-- [enumeration.private](../../../../../_private/schema.org/Type/is_a_/intangible/enumeration.private.md) 
-- [enumeration.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration.personal.md) 
-- [enumeration.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration.secret.md) 

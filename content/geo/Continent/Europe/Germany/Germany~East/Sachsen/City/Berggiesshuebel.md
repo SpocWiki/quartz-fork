@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berggiesshuebel](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Berggiesshuebel.md) 
-- [Berggiesshuebel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Berggiesshuebel.internal.md) 
-- [Berggiesshuebel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Berggiesshuebel.protect.md) 
-- [Berggiesshuebel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Berggiesshuebel.private.md) 
-- [Berggiesshuebel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Berggiesshuebel.personal.md) 
-- [Berggiesshuebel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Berggiesshuebel.secret.md) 

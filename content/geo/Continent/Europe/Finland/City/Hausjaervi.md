@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hausjaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Hausjaervi.md) 
-- [Hausjaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Hausjaervi.internal.md) 
-- [Hausjaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Hausjaervi.protect.md) 
-- [Hausjaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Hausjaervi.private.md) 
-- [Hausjaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Hausjaervi.personal.md) 
-- [Hausjaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Hausjaervi.secret.md) 

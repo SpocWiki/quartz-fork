@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ryazan](../../../../../../_public/geo/Continent/Europe/Russia/City/Ryazan.md) 
-- [Ryazan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ryazan.internal.md) 
-- [Ryazan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ryazan.protect.md) 
-- [Ryazan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ryazan.private.md) 
-- [Ryazan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ryazan.personal.md) 
-- [Ryazan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ryazan.secret.md) 

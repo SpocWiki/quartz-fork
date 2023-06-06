@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Landau.md) 
-- [Landau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Landau.internal.md) 
-- [Landau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Landau.protect.md) 
-- [Landau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Landau.private.md) 
-- [Landau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Landau.personal.md) 
-- [Landau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Landau.secret.md) 

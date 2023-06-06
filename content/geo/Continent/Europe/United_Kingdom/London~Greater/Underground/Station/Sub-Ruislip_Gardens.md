@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Ruislip_Gardens](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.md) 
-- [Sub-Ruislip_Gardens.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.internal.md) 
-- [Sub-Ruislip_Gardens.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.protect.md) 
-- [Sub-Ruislip_Gardens.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.private.md) 
-- [Sub-Ruislip_Gardens.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.personal.md) 
-- [Sub-Ruislip_Gardens.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Gardens.secret.md) 

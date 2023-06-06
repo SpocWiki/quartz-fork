@@ -47,10 +47,3 @@ Metric size system.
 
 
 
-## Confidential Links & Embeds: 
-- [size_system_metric](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.md) 
-- [size_system_metric.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.internal.md) 
-- [size_system_metric.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.protect.md) 
-- [size_system_metric.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.private.md) 
-- [size_system_metric.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.personal.md) 
-- [size_system_metric.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.secret.md) 

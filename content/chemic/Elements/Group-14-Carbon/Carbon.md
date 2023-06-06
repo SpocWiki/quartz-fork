@@ -35,10 +35,3 @@ title: Carbon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbon)
 
-## Confidential Links & Embeds: 
-- [Carbon](../../../../_public/chemic/Elements/Group-14-Carbon/Carbon.md) 
-- [Carbon.internal](../../../../_internal/chemic/Elements/Group-14-Carbon/Carbon.internal.md) 
-- [Carbon.protect](../../../../_protect/chemic/Elements/Group-14-Carbon/Carbon.protect.md) 
-- [Carbon.private](../../../../_private/chemic/Elements/Group-14-Carbon/Carbon.private.md) 
-- [Carbon.personal](../../../../_personal/chemic/Elements/Group-14-Carbon/Carbon.personal.md) 
-- [Carbon.secret](../../../../_secret/chemic/Elements/Group-14-Carbon/Carbon.secret.md) 

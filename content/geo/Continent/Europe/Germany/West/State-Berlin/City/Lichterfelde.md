@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lichterfelde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.md) 
-- [Lichterfelde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.internal.md) 
-- [Lichterfelde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.protect.md) 
-- [Lichterfelde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.private.md) 
-- [Lichterfelde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.personal.md) 
-- [Lichterfelde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Lichterfelde.secret.md) 

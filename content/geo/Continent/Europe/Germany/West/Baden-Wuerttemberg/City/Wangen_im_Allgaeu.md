@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wangen_im_Allgaeu](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.md) 
-- [Wangen_im_Allgaeu.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.internal.md) 
-- [Wangen_im_Allgaeu.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.protect.md) 
-- [Wangen_im_Allgaeu.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.private.md) 
-- [Wangen_im_Allgaeu.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.personal.md) 
-- [Wangen_im_Allgaeu.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Wangen_im_Allgaeu.secret.md) 

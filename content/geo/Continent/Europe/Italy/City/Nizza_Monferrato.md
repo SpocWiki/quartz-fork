@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nizza_Monferrato](../../../../../../_public/geo/Continent/Europe/Italy/City/Nizza_Monferrato.md) 
-- [Nizza_Monferrato.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Nizza_Monferrato.internal.md) 
-- [Nizza_Monferrato.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Nizza_Monferrato.protect.md) 
-- [Nizza_Monferrato.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Nizza_Monferrato.private.md) 
-- [Nizza_Monferrato.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Nizza_Monferrato.personal.md) 
-- [Nizza_Monferrato.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Nizza_Monferrato.secret.md) 

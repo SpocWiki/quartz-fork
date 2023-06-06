@@ -40,10 +40,3 @@ SpocWebEntityId: 16528
 
 
 
-## Confidential Links & Embeds: 
-- [Iron](../../../../_public/chemic/Elements/Group-08-Iron/Iron.md) 
-- [Iron.internal](../../../../_internal/chemic/Elements/Group-08-Iron/Iron.internal.md) 
-- [Iron.protect](../../../../_protect/chemic/Elements/Group-08-Iron/Iron.protect.md) 
-- [Iron.private](../../../../_private/chemic/Elements/Group-08-Iron/Iron.private.md) 
-- [Iron.personal](../../../../_personal/chemic/Elements/Group-08-Iron/Iron.personal.md) 
-- [Iron.secret](../../../../_secret/chemic/Elements/Group-08-Iron/Iron.secret.md) 

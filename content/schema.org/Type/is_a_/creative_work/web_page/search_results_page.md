@@ -43,10 +43,3 @@ Web page type: Search results page.
 
 
 
-## Confidential Links & Embeds: 
-- [search_results_page](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/search_results_page.md) 
-- [search_results_page.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/search_results_page.internal.md) 
-- [search_results_page.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/search_results_page.protect.md) 
-- [search_results_page.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/search_results_page.private.md) 
-- [search_results_page.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/search_results_page.personal.md) 
-- [search_results_page.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/search_results_page.secret.md) 

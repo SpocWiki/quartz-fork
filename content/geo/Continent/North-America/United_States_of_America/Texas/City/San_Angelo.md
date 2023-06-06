@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [San_Angelo](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.md) 
-- [San_Angelo.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.internal.md) 
-- [San_Angelo.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.protect.md) 
-- [San_Angelo.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.private.md) 
-- [San_Angelo.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.personal.md) 
-- [San_Angelo.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/San_Angelo.secret.md) 

@@ -41,10 +41,3 @@ markerFolder: ./Sarawak/City
 
 
 
-## Confidential Links & Embeds: 
-- [Sarawak](../../../../_public/geo/Continent/Asia/Sarawak.md) 
-- [Sarawak.internal](../../../../_internal/geo/Continent/Asia/Sarawak.internal.md) 
-- [Sarawak.protect](../../../../_protect/geo/Continent/Asia/Sarawak.protect.md) 
-- [Sarawak.private](../../../../_private/geo/Continent/Asia/Sarawak.private.md) 
-- [Sarawak.personal](../../../../_personal/geo/Continent/Asia/Sarawak.personal.md) 
-- [Sarawak.secret](../../../../_secret/geo/Continent/Asia/Sarawak.secret.md) 

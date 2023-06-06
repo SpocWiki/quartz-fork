@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gheel](../../../../../../_public/geo/Continent/Europe/Belgium/City/Gheel.md) 
-- [Gheel.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Gheel.internal.md) 
-- [Gheel.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Gheel.protect.md) 
-- [Gheel.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Gheel.private.md) 
-- [Gheel.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Gheel.personal.md) 
-- [Gheel.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Gheel.secret.md) 

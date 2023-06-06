@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Diadem](../../../_public/astro/Star/Diadem.md) 
-- [Diadem.internal](../../../_internal/astro/Star/Diadem.internal.md) 
-- [Diadem.protect](../../../_protect/astro/Star/Diadem.protect.md) 
-- [Diadem.private](../../../_private/astro/Star/Diadem.private.md) 
-- [Diadem.personal](../../../_personal/astro/Star/Diadem.personal.md) 
-- [Diadem.secret](../../../_secret/astro/Star/Diadem.secret.md)
-

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eppertshausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Eppertshausen.md) 
-- [Eppertshausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Eppertshausen.internal.md) 
-- [Eppertshausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Eppertshausen.protect.md) 
-- [Eppertshausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Eppertshausen.private.md) 
-- [Eppertshausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Eppertshausen.personal.md) 
-- [Eppertshausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Eppertshausen.secret.md) 

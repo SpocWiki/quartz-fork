@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_url_for_same_as](../../../../_public/schema.org/Predicate/Urls/has_url_for_same_as.md) 
-- [has_url_for_same_as.internal](../../../../_internal/schema.org/Predicate/Urls/has_url_for_same_as.internal.md) 
-- [has_url_for_same_as.protect](../../../../_protect/schema.org/Predicate/Urls/has_url_for_same_as.protect.md) 
-- [has_url_for_same_as.private](../../../../_private/schema.org/Predicate/Urls/has_url_for_same_as.private.md) 
-- [has_url_for_same_as.personal](../../../../_personal/schema.org/Predicate/Urls/has_url_for_same_as.personal.md) 
-- [has_url_for_same_as.secret](../../../../_secret/schema.org/Predicate/Urls/has_url_for_same_as.secret.md) 

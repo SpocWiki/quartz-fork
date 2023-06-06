@@ -43,10 +43,3 @@ A strategy of regulating the intake of food to achieve or maintain a specific he
 
 
 
-## Confidential Links & Embeds: 
-- [diet](../../../../../_public/schema.org/Type/is_a_/creative_work/diet.md) 
-- [diet.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/diet.internal.md) 
-- [diet.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/diet.protect.md) 
-- [diet.private](../../../../../_private/schema.org/Type/is_a_/creative_work/diet.private.md) 
-- [diet.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/diet.personal.md) 
-- [diet.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/diet.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soudja](../../../../../../_public/geo/Continent/Europe/Russia/City/Soudja.md) 
-- [Soudja.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Soudja.internal.md) 
-- [Soudja.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Soudja.protect.md) 
-- [Soudja.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Soudja.private.md) 
-- [Soudja.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Soudja.personal.md) 
-- [Soudja.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Soudja.secret.md) 

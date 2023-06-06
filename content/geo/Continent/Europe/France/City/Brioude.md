@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brioude](../../../../../../_public/geo/Continent/Europe/France/City/Brioude.md) 
-- [Brioude.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Brioude.internal.md) 
-- [Brioude.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Brioude.protect.md) 
-- [Brioude.private](../../../../../../_private/geo/Continent/Europe/France/City/Brioude.private.md) 
-- [Brioude.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Brioude.personal.md) 
-- [Brioude.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Brioude.secret.md) 

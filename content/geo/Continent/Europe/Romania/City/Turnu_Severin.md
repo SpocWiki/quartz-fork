@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Turnu_Severin](../../../../../../_public/geo/Continent/Europe/Romania/City/Turnu_Severin.md) 
-- [Turnu_Severin.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Turnu_Severin.internal.md) 
-- [Turnu_Severin.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Turnu_Severin.protect.md) 
-- [Turnu_Severin.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Turnu_Severin.private.md) 
-- [Turnu_Severin.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Turnu_Severin.personal.md) 
-- [Turnu_Severin.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Turnu_Severin.secret.md) 

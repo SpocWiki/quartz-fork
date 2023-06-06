@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Mediator-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Mediator-Automation](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.md) 
-- [Triz-Time-Loss+Mediator-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.internal.md) 
-- [Triz-Time-Loss+Mediator-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.protect.md) 
-- [Triz-Time-Loss+Mediator-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.private.md) 
-- [Triz-Time-Loss+Mediator-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.personal.md) 
-- [Triz-Time-Loss+Mediator-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Automation.secret.md) 

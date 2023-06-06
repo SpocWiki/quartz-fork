@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Carson~City](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.md) 
-- [Carson~City.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.internal.md) 
-- [Carson~City.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.protect.md) 
-- [Carson~City.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.private.md) 
-- [Carson~City.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.personal.md) 
-- [Carson~City.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nevada/City/Carson~City.secret.md) 

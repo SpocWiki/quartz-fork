@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Adelsberg](../../../../../../_public/geo/Continent/Europe/Austria/City/Adelsberg.md) 
-- [Adelsberg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Adelsberg.internal.md) 
-- [Adelsberg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Adelsberg.protect.md) 
-- [Adelsberg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Adelsberg.private.md) 
-- [Adelsberg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Adelsberg.personal.md) 
-- [Adelsberg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Adelsberg.secret.md) 

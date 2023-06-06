@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zobten](../../../../../../_public/geo/Continent/Europe/Poland/City/Zobten.md) 
-- [Zobten.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zobten.internal.md) 
-- [Zobten.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zobten.protect.md) 
-- [Zobten.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zobten.private.md) 
-- [Zobten.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zobten.personal.md) 
-- [Zobten.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zobten.secret.md) 

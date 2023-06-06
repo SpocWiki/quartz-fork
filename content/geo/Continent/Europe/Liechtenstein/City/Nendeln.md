@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nendeln](../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Nendeln.md) 
-- [Nendeln.internal](../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Nendeln.internal.md) 
-- [Nendeln.protect](../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Nendeln.protect.md) 
-- [Nendeln.private](../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Nendeln.private.md) 
-- [Nendeln.personal](../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Nendeln.personal.md) 
-- [Nendeln.secret](../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Nendeln.secret.md) 

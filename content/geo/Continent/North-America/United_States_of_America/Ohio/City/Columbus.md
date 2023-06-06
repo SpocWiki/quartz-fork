@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Columbus](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.md) 
-- [Columbus.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.internal.md) 
-- [Columbus.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.protect.md) 
-- [Columbus.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.private.md) 
-- [Columbus.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.personal.md) 
-- [Columbus.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Ohio/City/Columbus.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nischnij-Tagilsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Nischnij-Tagilsk.md) 
-- [Nischnij-Tagilsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nischnij-Tagilsk.internal.md) 
-- [Nischnij-Tagilsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nischnij-Tagilsk.protect.md) 
-- [Nischnij-Tagilsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nischnij-Tagilsk.private.md) 
-- [Nischnij-Tagilsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nischnij-Tagilsk.personal.md) 
-- [Nischnij-Tagilsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nischnij-Tagilsk.secret.md) 

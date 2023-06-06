@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Mechanical_vibration-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Mechanical_vibration-Complexity](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.md) 
-- [Triz-stationary_Area+Mechanical_vibration-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.internal.md) 
-- [Triz-stationary_Area+Mechanical_vibration-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.protect.md) 
-- [Triz-stationary_Area+Mechanical_vibration-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.private.md) 
-- [Triz-stationary_Area+Mechanical_vibration-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.personal.md) 
-- [Triz-stationary_Area+Mechanical_vibration-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Complexity.secret.md) 

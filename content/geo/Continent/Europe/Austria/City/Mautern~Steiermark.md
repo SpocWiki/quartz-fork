@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mautern~Steiermark](../../../../../../_public/geo/Continent/Europe/Austria/City/Mautern~Steiermark.md) 
-- [Mautern~Steiermark.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Mautern~Steiermark.internal.md) 
-- [Mautern~Steiermark.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Mautern~Steiermark.protect.md) 
-- [Mautern~Steiermark.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Mautern~Steiermark.private.md) 
-- [Mautern~Steiermark.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Mautern~Steiermark.personal.md) 
-- [Mautern~Steiermark.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Mautern~Steiermark.secret.md) 

@@ -108,10 +108,3 @@ Languages: [en]
 [	ISO3166-1-numeric	 :: 728 ]
 
 
-## Confidential Links & Embeds: 
-- [Sudan~South](../../../../_public/geo/Continent/Africa/Sudan~South.md) 
-- [Sudan~South.internal](../../../../_internal/geo/Continent/Africa/Sudan~South.internal.md) 
-- [Sudan~South.protect](../../../../_protect/geo/Continent/Africa/Sudan~South.protect.md) 
-- [Sudan~South.private](../../../../_private/geo/Continent/Africa/Sudan~South.private.md) 
-- [Sudan~South.personal](../../../../_personal/geo/Continent/Africa/Sudan~South.personal.md) 
-- [Sudan~South.secret](../../../../_secret/geo/Continent/Africa/Sudan~South.secret.md) 

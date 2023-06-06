@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Zabaykalsky_Krai](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Zabaykalsky_Krai.md) 
-- [State-Zabaykalsky_Krai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Zabaykalsky_Krai.internal.md) 
-- [State-Zabaykalsky_Krai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Zabaykalsky_Krai.protect.md) 
-- [State-Zabaykalsky_Krai.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Zabaykalsky_Krai.private.md) 
-- [State-Zabaykalsky_Krai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Zabaykalsky_Krai.personal.md) 
-- [State-Zabaykalsky_Krai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Zabaykalsky_Krai.secret.md) 

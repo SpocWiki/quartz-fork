@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Walthamshow](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.md) 
-- [Walthamshow.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.internal.md) 
-- [Walthamshow.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.protect.md) 
-- [Walthamshow.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.private.md) 
-- [Walthamshow.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.personal.md) 
-- [Walthamshow.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.secret.md) 

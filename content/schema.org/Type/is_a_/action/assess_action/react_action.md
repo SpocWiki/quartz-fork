@@ -45,10 +45,3 @@ The act of responding instinctively and emotionally to an object, expressing a s
 
 
 
-## Confidential Links & Embeds: 
-- [react_action](../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action.md) 
-- [react_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action.internal.md) 
-- [react_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action.protect.md) 
-- [react_action.private](../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action.private.md) 
-- [react_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action.personal.md) 
-- [react_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action.secret.md) 

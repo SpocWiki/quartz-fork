@@ -446,10 +446,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_Australia-CountryDb](../../../../_public/geo/Continent/Australia/_Australia-CountryDb.md) 
-- [_Australia-CountryDb.internal](../../../../_internal/geo/Continent/Australia/_Australia-CountryDb.internal.md) 
-- [_Australia-CountryDb.protect](../../../../_protect/geo/Continent/Australia/_Australia-CountryDb.protect.md) 
-- [_Australia-CountryDb.private](../../../../_private/geo/Continent/Australia/_Australia-CountryDb.private.md) 
-- [_Australia-CountryDb.personal](../../../../_personal/geo/Continent/Australia/_Australia-CountryDb.personal.md) 
-- [_Australia-CountryDb.secret](../../../../_secret/geo/Continent/Australia/_Australia-CountryDb.secret.md) 

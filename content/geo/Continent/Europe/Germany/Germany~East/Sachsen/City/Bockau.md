@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bockau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockau.md) 
-- [Bockau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockau.internal.md) 
-- [Bockau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockau.protect.md) 
-- [Bockau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockau.private.md) 
-- [Bockau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockau.personal.md) 
-- [Bockau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockau.secret.md) 

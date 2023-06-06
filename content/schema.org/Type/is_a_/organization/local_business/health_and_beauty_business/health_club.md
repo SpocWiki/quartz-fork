@@ -43,10 +43,3 @@ A health club.
 
 
 
-## Confidential Links & Embeds: 
-- [health_club](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/health_club.md) 
-- [health_club.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/health_club.internal.md) 
-- [health_club.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/health_club.protect.md) 
-- [health_club.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/health_club.private.md) 
-- [health_club.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/health_club.personal.md) 
-- [health_club.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/health_club.secret.md) 

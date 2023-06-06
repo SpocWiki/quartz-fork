@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fresenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fresenburg.md) 
-- [Fresenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fresenburg.internal.md) 
-- [Fresenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fresenburg.protect.md) 
-- [Fresenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fresenburg.private.md) 
-- [Fresenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fresenburg.personal.md) 
-- [Fresenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fresenburg.secret.md) 

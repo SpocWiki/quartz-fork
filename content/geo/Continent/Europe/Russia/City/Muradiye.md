@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muradiye](../../../../../../_public/geo/Continent/Europe/Russia/City/Muradiye.md) 
-- [Muradiye.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Muradiye.internal.md) 
-- [Muradiye.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Muradiye.protect.md) 
-- [Muradiye.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Muradiye.private.md) 
-- [Muradiye.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Muradiye.personal.md) 
-- [Muradiye.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Muradiye.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Varna](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Varna.md) 
-- [Varna.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Varna.internal.md) 
-- [Varna.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Varna.protect.md) 
-- [Varna.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Varna.private.md) 
-- [Varna.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Varna.personal.md) 
-- [Varna.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Varna.secret.md) 

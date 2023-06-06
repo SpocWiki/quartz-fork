@@ -53,10 +53,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_speakable](../../../../../_public/schema.org/Predicate/Relations/has/has_speakable.md) 
-- [has_speakable.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_speakable.internal.md) 
-- [has_speakable.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_speakable.protect.md) 
-- [has_speakable.private](../../../../../_private/schema.org/Predicate/Relations/has/has_speakable.private.md) 
-- [has_speakable.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_speakable.personal.md) 
-- [has_speakable.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_speakable.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suchumkale](../../../../../../_public/geo/Continent/Europe/Russia/City/Suchumkale.md) 
-- [Suchumkale.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Suchumkale.internal.md) 
-- [Suchumkale.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Suchumkale.protect.md) 
-- [Suchumkale.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Suchumkale.private.md) 
-- [Suchumkale.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Suchumkale.personal.md) 
-- [Suchumkale.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Suchumkale.secret.md) 

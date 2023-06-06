@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Camerino](../../../../../../_public/geo/Continent/Europe/Italy/City/Camerino.md) 
-- [Camerino.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Camerino.internal.md) 
-- [Camerino.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Camerino.protect.md) 
-- [Camerino.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Camerino.private.md) 
-- [Camerino.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Camerino.personal.md) 
-- [Camerino.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Camerino.secret.md) 

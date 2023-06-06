@@ -45,10 +45,3 @@ A chemical substance is 'a portion of matter of constant composition, composed o
 
 
 
-## Confidential Links & Embeds: 
-- [chemical_substance](../../../../../_public/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.md) 
-- [chemical_substance.internal](../../../../../_internal/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.internal.md) 
-- [chemical_substance.protect](../../../../../_protect/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.protect.md) 
-- [chemical_substance.private](../../../../../_private/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.private.md) 
-- [chemical_substance.personal](../../../../../_personal/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.personal.md) 
-- [chemical_substance.secret](../../../../../_secret/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.secret.md) 

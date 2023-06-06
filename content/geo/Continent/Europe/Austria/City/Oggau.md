@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oggau](../../../../../../_public/geo/Continent/Europe/Austria/City/Oggau.md) 
-- [Oggau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Oggau.internal.md) 
-- [Oggau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Oggau.protect.md) 
-- [Oggau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Oggau.private.md) 
-- [Oggau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Oggau.personal.md) 
-- [Oggau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Oggau.secret.md) 

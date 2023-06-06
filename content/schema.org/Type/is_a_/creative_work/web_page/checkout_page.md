@@ -43,10 +43,3 @@ Web page type: Checkout page.
 
 
 
-## Confidential Links & Embeds: 
-- [checkout_page](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/checkout_page.md) 
-- [checkout_page.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/checkout_page.internal.md) 
-- [checkout_page.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/checkout_page.protect.md) 
-- [checkout_page.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/checkout_page.private.md) 
-- [checkout_page.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/checkout_page.personal.md) 
-- [checkout_page.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/checkout_page.secret.md) 

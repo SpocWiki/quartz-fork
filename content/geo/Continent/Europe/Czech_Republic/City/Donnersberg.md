@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Donnersberg](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Donnersberg.md) 
-- [Donnersberg.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Donnersberg.internal.md) 
-- [Donnersberg.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Donnersberg.protect.md) 
-- [Donnersberg.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Donnersberg.private.md) 
-- [Donnersberg.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Donnersberg.personal.md) 
-- [Donnersberg.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Donnersberg.secret.md) 

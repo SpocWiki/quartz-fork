@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krossen](../../../../../../_public/geo/Continent/Europe/Poland/City/Krossen.md) 
-- [Krossen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Krossen.internal.md) 
-- [Krossen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Krossen.protect.md) 
-- [Krossen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Krossen.private.md) 
-- [Krossen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Krossen.personal.md) 
-- [Krossen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Krossen.secret.md) 

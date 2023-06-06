@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_exp
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.md) 
-- [Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.internal.md) 
-- [Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.protect.md) 
-- [Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.private.md) 
-- [Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.personal.md) 
-- [Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Temperature.secret.md) 

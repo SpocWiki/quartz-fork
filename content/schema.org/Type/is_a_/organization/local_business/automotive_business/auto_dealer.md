@@ -43,10 +43,3 @@ An car dealership.
 
 
 
-## Confidential Links & Embeds: 
-- [auto_dealer](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.md) 
-- [auto_dealer.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.internal.md) 
-- [auto_dealer.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.protect.md) 
-- [auto_dealer.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.private.md) 
-- [auto_dealer.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.personal.md) 
-- [auto_dealer.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.secret.md) 

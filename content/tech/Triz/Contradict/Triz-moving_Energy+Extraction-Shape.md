@@ -19,10 +19,3 @@ title: Triz-moving_Energy+Extraction-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy+Extraction-Shape](../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.md) 
-- [Triz-moving_Energy+Extraction-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.internal.md) 
-- [Triz-moving_Energy+Extraction-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.protect.md) 
-- [Triz-moving_Energy+Extraction-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.private.md) 
-- [Triz-moving_Energy+Extraction-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.personal.md) 
-- [Triz-moving_Energy+Extraction-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Extraction-Shape.secret.md) 

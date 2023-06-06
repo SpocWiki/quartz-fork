@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Voldi](../../../../../../_public/geo/Continent/Europe/Russia/City/Voldi.md) 
-- [Voldi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Voldi.internal.md) 
-- [Voldi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Voldi.protect.md) 
-- [Voldi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Voldi.private.md) 
-- [Voldi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Voldi.personal.md) 
-- [Voldi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Voldi.secret.md) 

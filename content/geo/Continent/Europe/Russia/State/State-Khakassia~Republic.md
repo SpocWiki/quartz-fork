@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Khakassia~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Khakassia~Republic.md) 
-- [State-Khakassia~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Khakassia~Republic.internal.md) 
-- [State-Khakassia~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Khakassia~Republic.protect.md) 
-- [State-Khakassia~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Khakassia~Republic.private.md) 
-- [State-Khakassia~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Khakassia~Republic.personal.md) 
-- [State-Khakassia~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Khakassia~Republic.secret.md) 

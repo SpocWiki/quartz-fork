@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_midpoint](../../../../_public/schema.org/Predicate/geos/has_geo_midpoint.md) 
-- [has_geo_midpoint.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_midpoint.internal.md) 
-- [has_geo_midpoint.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_midpoint.protect.md) 
-- [has_geo_midpoint.private](../../../../_private/schema.org/Predicate/geos/has_geo_midpoint.private.md) 
-- [has_geo_midpoint.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_midpoint.personal.md) 
-- [has_geo_midpoint.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_midpoint.secret.md) 

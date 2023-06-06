@@ -19,10 +19,3 @@ title: Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_a
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.md) 
-- [Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.internal.md) 
-- [Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.protect.md) 
-- [Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.private.md) 
-- [Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.personal.md) 
-- [Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.secret.md) 

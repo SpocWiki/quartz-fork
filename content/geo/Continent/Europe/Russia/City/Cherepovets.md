@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cherepovets](../../../../../../_public/geo/Continent/Europe/Russia/City/Cherepovets.md) 
-- [Cherepovets.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Cherepovets.internal.md) 
-- [Cherepovets.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Cherepovets.protect.md) 
-- [Cherepovets.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Cherepovets.private.md) 
-- [Cherepovets.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Cherepovets.personal.md) 
-- [Cherepovets.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Cherepovets.secret.md) 

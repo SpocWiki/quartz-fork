@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Greding](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Greding.md) 
-- [Greding.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Greding.internal.md) 
-- [Greding.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Greding.protect.md) 
-- [Greding.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Greding.private.md) 
-- [Greding.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Greding.personal.md) 
-- [Greding.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Greding.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pravadija](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Pravadija.md) 
-- [Pravadija.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Pravadija.internal.md) 
-- [Pravadija.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Pravadija.protect.md) 
-- [Pravadija.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Pravadija.private.md) 
-- [Pravadija.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Pravadija.personal.md) 
-- [Pravadija.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Pravadija.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lamspringe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.md) 
-- [Lamspringe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.internal.md) 
-- [Lamspringe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.protect.md) 
-- [Lamspringe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.private.md) 
-- [Lamspringe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.personal.md) 
-- [Lamspringe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lamspringe.secret.md) 

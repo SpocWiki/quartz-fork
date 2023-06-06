@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Somma_Vesuviana](../../../../../../_public/geo/Continent/Europe/Italy/City/Somma_Vesuviana.md) 
-- [Somma_Vesuviana.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Somma_Vesuviana.internal.md) 
-- [Somma_Vesuviana.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Somma_Vesuviana.protect.md) 
-- [Somma_Vesuviana.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Somma_Vesuviana.private.md) 
-- [Somma_Vesuviana.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Somma_Vesuviana.personal.md) 
-- [Somma_Vesuviana.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Somma_Vesuviana.secret.md) 

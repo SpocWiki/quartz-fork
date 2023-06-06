@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Durham](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Durham.md) 
-- [Durham.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Durham.internal.md) 
-- [Durham.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Durham.protect.md) 
-- [Durham.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Durham.private.md) 
-- [Durham.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Durham.personal.md) 
-- [Durham.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Durham.secret.md) 

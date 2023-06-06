@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoorn](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hoorn.md) 
-- [Hoorn.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hoorn.internal.md) 
-- [Hoorn.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hoorn.protect.md) 
-- [Hoorn.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hoorn.private.md) 
-- [Hoorn.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hoorn.personal.md) 
-- [Hoorn.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hoorn.secret.md) 

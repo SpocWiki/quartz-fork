@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Drusti](../../../../../../_public/geo/Continent/Europe/Russia/City/Drusti.md) 
-- [Drusti.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Drusti.internal.md) 
-- [Drusti.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Drusti.protect.md) 
-- [Drusti.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Drusti.private.md) 
-- [Drusti.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Drusti.personal.md) 
-- [Drusti.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Drusti.secret.md) 

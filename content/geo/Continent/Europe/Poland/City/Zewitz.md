@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zewitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Zewitz.md) 
-- [Zewitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zewitz.internal.md) 
-- [Zewitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zewitz.protect.md) 
-- [Zewitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zewitz.private.md) 
-- [Zewitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zewitz.personal.md) 
-- [Zewitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zewitz.secret.md) 

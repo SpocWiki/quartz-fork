@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schkaeditz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schkaeditz.md) 
-- [Schkaeditz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schkaeditz.internal.md) 
-- [Schkaeditz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schkaeditz.protect.md) 
-- [Schkaeditz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schkaeditz.private.md) 
-- [Schkaeditz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schkaeditz.personal.md) 
-- [Schkaeditz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schkaeditz.secret.md) 

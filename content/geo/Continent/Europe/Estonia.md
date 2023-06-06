@@ -120,7 +120,7 @@ markerFolder: ./Estonia/City
 [VehicleCode::EST]
 [Capital::[Tallinn](geo/Continent/Europe/Estonia/City/Tallinn.md)]
 ![350](geo/Continent/Europe/Estonia/Coat_of_arms_of_Estonia.svg)
-![Anthem-Estonia](xLarge/National-Anthem/Anthem-Estonia.mp3)
+[Anthem-Estonia](xLarge/National-Anthem/Anthem-Estonia.mp3)
 ![350](geo/Continent/Europe/Estonia/Flag_of_Estonia.svg)
 [Alcohol-l::15.6]
 [Language-Id::]
@@ -129,10 +129,3 @@ markerFolder: ./Estonia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Estonia](../../../../_public/geo/Continent/Europe/Estonia.md) 
-- [Estonia.internal](../../../../_internal/geo/Continent/Europe/Estonia.internal.md) 
-- [Estonia.protect](../../../../_protect/geo/Continent/Europe/Estonia.protect.md) 
-- [Estonia.private](../../../../_private/geo/Continent/Europe/Estonia.private.md) 
-- [Estonia.personal](../../../../_personal/geo/Continent/Europe/Estonia.personal.md) 
-- [Estonia.secret](../../../../_secret/geo/Continent/Europe/Estonia.secret.md) 

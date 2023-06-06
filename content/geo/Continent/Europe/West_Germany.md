@@ -30,7 +30,7 @@ markerFolder: ./West_Germany/City
 [VehicleCode::D]
 [Capital-Id::]
 ![350](geo/Continent/Europe/Germany/Coat_of_arms_of_Germany.svg)
-![Anthem-Germany](xLarge/National-Anthem/Anthem-Germany.mp3)
+[Anthem-Germany](xLarge/National-Anthem/Anthem-Germany.mp3)
 ![350](geo/Continent/Europe/Germany/Flag_of_Germany.svg)
 [Alcohol-l::]
 [Language-Id::497]
@@ -39,10 +39,3 @@ markerFolder: ./West_Germany/City
 
 
 
-## Confidential Links & Embeds: 
-- [West_Germany](../../../../_public/geo/Continent/Europe/West_Germany.md) 
-- [West_Germany.internal](../../../../_internal/geo/Continent/Europe/West_Germany.internal.md) 
-- [West_Germany.protect](../../../../_protect/geo/Continent/Europe/West_Germany.protect.md) 
-- [West_Germany.private](../../../../_private/geo/Continent/Europe/West_Germany.private.md) 
-- [West_Germany.personal](../../../../_personal/geo/Continent/Europe/West_Germany.personal.md) 
-- [West_Germany.secret](../../../../_secret/geo/Continent/Europe/West_Germany.secret.md) 

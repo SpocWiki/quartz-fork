@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuopiv](../../../../../../_public/geo/Continent/Europe/Finland/City/Kuopiv.md) 
-- [Kuopiv.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuopiv.internal.md) 
-- [Kuopiv.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuopiv.protect.md) 
-- [Kuopiv.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kuopiv.private.md) 
-- [Kuopiv.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuopiv.personal.md) 
-- [Kuopiv.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuopiv.secret.md) 

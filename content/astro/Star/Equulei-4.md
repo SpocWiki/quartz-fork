@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Equulei-4](../../../_public/astro/Star/Equulei-4.md) 
-- [Equulei-4.internal](../../../_internal/astro/Star/Equulei-4.internal.md) 
-- [Equulei-4.protect](../../../_protect/astro/Star/Equulei-4.protect.md) 
-- [Equulei-4.private](../../../_private/astro/Star/Equulei-4.private.md) 
-- [Equulei-4.personal](../../../_personal/astro/Star/Equulei-4.personal.md) 
-- [Equulei-4.secret](../../../_secret/astro/Star/Equulei-4.secret.md)
-

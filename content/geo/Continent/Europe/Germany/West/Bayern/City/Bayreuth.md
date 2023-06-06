@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bayreuth](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.md) 
-- [Bayreuth.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.internal.md) 
-- [Bayreuth.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.protect.md) 
-- [Bayreuth.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.private.md) 
-- [Bayreuth.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.personal.md) 
-- [Bayreuth.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.secret.md) 

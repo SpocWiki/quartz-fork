@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Podgorica](../../../../../../_public/geo/Continent/Europe/Montenegro/City/Podgorica.md) 
-- [Podgorica.internal](../../../../../../_internal/geo/Continent/Europe/Montenegro/City/Podgorica.internal.md) 
-- [Podgorica.protect](../../../../../../_protect/geo/Continent/Europe/Montenegro/City/Podgorica.protect.md) 
-- [Podgorica.private](../../../../../../_private/geo/Continent/Europe/Montenegro/City/Podgorica.private.md) 
-- [Podgorica.personal](../../../../../../_personal/geo/Continent/Europe/Montenegro/City/Podgorica.personal.md) 
-- [Podgorica.secret](../../../../../../_secret/geo/Continent/Europe/Montenegro/City/Podgorica.secret.md) 

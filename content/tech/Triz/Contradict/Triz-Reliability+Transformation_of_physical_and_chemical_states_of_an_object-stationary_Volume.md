@@ -19,10 +19,3 @@ title: Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_obj
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.md) 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal.md) 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect.md) 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private.md) 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal.md) 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret.md) 

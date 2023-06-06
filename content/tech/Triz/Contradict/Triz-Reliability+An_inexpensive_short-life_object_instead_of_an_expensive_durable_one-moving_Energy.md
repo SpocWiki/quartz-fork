@@ -19,10 +19,3 @@ title: Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.md) 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.internal.md) 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.protect.md) 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.private.md) 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.personal.md) 
-- [Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-moving_Energy.secret.md) 

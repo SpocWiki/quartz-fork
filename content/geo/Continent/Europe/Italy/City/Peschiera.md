@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peschiera](../../../../../../_public/geo/Continent/Europe/Italy/City/Peschiera.md) 
-- [Peschiera.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Peschiera.internal.md) 
-- [Peschiera.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Peschiera.protect.md) 
-- [Peschiera.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Peschiera.private.md) 
-- [Peschiera.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Peschiera.personal.md) 
-- [Peschiera.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Peschiera.secret.md) 

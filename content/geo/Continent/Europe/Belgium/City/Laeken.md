@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Laeken](../../../../../../_public/geo/Continent/Europe/Belgium/City/Laeken.md) 
-- [Laeken.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Laeken.internal.md) 
-- [Laeken.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Laeken.protect.md) 
-- [Laeken.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Laeken.private.md) 
-- [Laeken.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Laeken.personal.md) 
-- [Laeken.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Laeken.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Besancon](../../../../../../_public/geo/Continent/Europe/France/City/Besancon.md) 
-- [Besancon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Besancon.internal.md) 
-- [Besancon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Besancon.protect.md) 
-- [Besancon.private](../../../../../../_private/geo/Continent/Europe/France/City/Besancon.private.md) 
-- [Besancon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Besancon.personal.md) 
-- [Besancon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Besancon.secret.md) 

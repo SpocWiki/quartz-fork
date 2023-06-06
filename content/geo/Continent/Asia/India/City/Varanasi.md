@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Varanasi](../../../../../../_public/geo/Continent/Asia/India/City/Varanasi.md) 
-- [Varanasi.internal](../../../../../../_internal/geo/Continent/Asia/India/City/Varanasi.internal.md) 
-- [Varanasi.protect](../../../../../../_protect/geo/Continent/Asia/India/City/Varanasi.protect.md) 
-- [Varanasi.private](../../../../../../_private/geo/Continent/Asia/India/City/Varanasi.private.md) 
-- [Varanasi.personal](../../../../../../_personal/geo/Continent/Asia/India/City/Varanasi.personal.md) 
-- [Varanasi.secret](../../../../../../_secret/geo/Continent/Asia/India/City/Varanasi.secret.md) 

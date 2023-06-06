@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hofheim~Unterfranken](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.md) 
-- [Hofheim~Unterfranken.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.internal.md) 
-- [Hofheim~Unterfranken.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.protect.md) 
-- [Hofheim~Unterfranken.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.private.md) 
-- [Hofheim~Unterfranken.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.personal.md) 
-- [Hofheim~Unterfranken.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hofheim~Unterfranken.secret.md) 

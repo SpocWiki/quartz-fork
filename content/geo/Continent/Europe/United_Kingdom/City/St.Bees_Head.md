@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Bees_Head](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.md) 
-- [St.Bees_Head.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.internal.md) 
-- [St.Bees_Head.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.protect.md) 
-- [St.Bees_Head.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.private.md) 
-- [St.Bees_Head.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.personal.md) 
-- [St.Bees_Head.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Bees_Head.secret.md) 

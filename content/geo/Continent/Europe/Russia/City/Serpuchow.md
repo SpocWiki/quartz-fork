@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Serpuchow](../../../../../../_public/geo/Continent/Europe/Russia/City/Serpuchow.md) 
-- [Serpuchow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Serpuchow.internal.md) 
-- [Serpuchow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Serpuchow.protect.md) 
-- [Serpuchow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Serpuchow.private.md) 
-- [Serpuchow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Serpuchow.personal.md) 
-- [Serpuchow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Serpuchow.secret.md) 

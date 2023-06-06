@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Turku=Abo](../../../../../../_public/geo/Continent/Europe/Finland/City/Turku=Abo.md) 
-- [Turku=Abo.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Turku=Abo.internal.md) 
-- [Turku=Abo.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Turku=Abo.protect.md) 
-- [Turku=Abo.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Turku=Abo.private.md) 
-- [Turku=Abo.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Turku=Abo.personal.md) 
-- [Turku=Abo.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Turku=Abo.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muenchhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Muenchhausen.md) 
-- [Muenchhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Muenchhausen.internal.md) 
-- [Muenchhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Muenchhausen.protect.md) 
-- [Muenchhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Muenchhausen.private.md) 
-- [Muenchhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Muenchhausen.personal.md) 
-- [Muenchhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Muenchhausen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vermac](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Vermac.md) 
-- [Vermac.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Vermac.internal.md) 
-- [Vermac.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Vermac.protect.md) 
-- [Vermac.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Vermac.private.md) 
-- [Vermac.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Vermac.personal.md) 
-- [Vermac.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Vermac.secret.md) 

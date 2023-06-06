@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eckernfoerde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eckernfoerde.md) 
-- [Eckernfoerde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eckernfoerde.internal.md) 
-- [Eckernfoerde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eckernfoerde.protect.md) 
-- [Eckernfoerde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eckernfoerde.private.md) 
-- [Eckernfoerde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eckernfoerde.personal.md) 
-- [Eckernfoerde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eckernfoerde.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dundalk](../../../../../../_public/geo/Continent/Europe/Ireland/City/Dundalk.md) 
-- [Dundalk.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Dundalk.internal.md) 
-- [Dundalk.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Dundalk.protect.md) 
-- [Dundalk.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Dundalk.private.md) 
-- [Dundalk.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Dundalk.personal.md) 
-- [Dundalk.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Dundalk.secret.md) 

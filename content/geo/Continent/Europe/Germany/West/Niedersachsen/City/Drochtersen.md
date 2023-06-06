@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Drochtersen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Drochtersen.md) 
-- [Drochtersen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Drochtersen.internal.md) 
-- [Drochtersen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Drochtersen.protect.md) 
-- [Drochtersen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Drochtersen.private.md) 
-- [Drochtersen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Drochtersen.personal.md) 
-- [Drochtersen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Drochtersen.secret.md) 

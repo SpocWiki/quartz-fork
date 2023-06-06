@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Welden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Welden.md) 
-- [Welden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Welden.internal.md) 
-- [Welden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Welden.protect.md) 
-- [Welden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Welden.private.md) 
-- [Welden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Welden.personal.md) 
-- [Welden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Welden.secret.md) 

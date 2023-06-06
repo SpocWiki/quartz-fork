@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bergerac](../../../../../../_public/geo/Continent/Europe/France/City/Bergerac.md) 
-- [Bergerac.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bergerac.internal.md) 
-- [Bergerac.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bergerac.protect.md) 
-- [Bergerac.private](../../../../../../_private/geo/Continent/Europe/France/City/Bergerac.private.md) 
-- [Bergerac.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bergerac.personal.md) 
-- [Bergerac.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bergerac.secret.md) 

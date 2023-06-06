@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Langstadt.md) 
-- [Langstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Langstadt.internal.md) 
-- [Langstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Langstadt.protect.md) 
-- [Langstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Langstadt.private.md) 
-- [Langstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Langstadt.personal.md) 
-- [Langstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Langstadt.secret.md) 

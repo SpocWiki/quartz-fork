@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_providing_broadcast_service](../../../../../_public/schema.org/Predicate/Relations/is/is_providing_broadcast_service.md) 
-- [is_providing_broadcast_service.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_providing_broadcast_service.internal.md) 
-- [is_providing_broadcast_service.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_providing_broadcast_service.protect.md) 
-- [is_providing_broadcast_service.private](../../../../../_private/schema.org/Predicate/Relations/is/is_providing_broadcast_service.private.md) 
-- [is_providing_broadcast_service.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_providing_broadcast_service.personal.md) 
-- [is_providing_broadcast_service.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_providing_broadcast_service.secret.md) 

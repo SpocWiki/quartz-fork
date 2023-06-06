@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wiedenbrueck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.md) 
-- [Wiedenbrueck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.internal.md) 
-- [Wiedenbrueck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.protect.md) 
-- [Wiedenbrueck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.private.md) 
-- [Wiedenbrueck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.personal.md) 
-- [Wiedenbrueck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Wiedenbrueck.secret.md) 

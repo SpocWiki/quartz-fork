@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Ursae_Majoris-10](../../../_public/astro/Star/Ursae_Majoris-10.md) 
-- [Ursae_Majoris-10.internal](../../../_internal/astro/Star/Ursae_Majoris-10.internal.md) 
-- [Ursae_Majoris-10.protect](../../../_protect/astro/Star/Ursae_Majoris-10.protect.md) 
-- [Ursae_Majoris-10.private](../../../_private/astro/Star/Ursae_Majoris-10.private.md) 
-- [Ursae_Majoris-10.personal](../../../_personal/astro/Star/Ursae_Majoris-10.personal.md) 
-- [Ursae_Majoris-10.secret](../../../_secret/astro/Star/Ursae_Majoris-10.secret.md) 

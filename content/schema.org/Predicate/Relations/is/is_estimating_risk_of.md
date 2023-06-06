@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_estimating_risk_of](../../../../../_public/schema.org/Predicate/Relations/is/is_estimating_risk_of.md) 
-- [is_estimating_risk_of.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_estimating_risk_of.internal.md) 
-- [is_estimating_risk_of.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_estimating_risk_of.protect.md) 
-- [is_estimating_risk_of.private](../../../../../_private/schema.org/Predicate/Relations/is/is_estimating_risk_of.private.md) 
-- [is_estimating_risk_of.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_estimating_risk_of.personal.md) 
-- [is_estimating_risk_of.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_estimating_risk_of.secret.md) 

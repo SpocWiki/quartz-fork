@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lengdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Lengdorf.md) 
-- [Lengdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Lengdorf.internal.md) 
-- [Lengdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Lengdorf.protect.md) 
-- [Lengdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Lengdorf.private.md) 
-- [Lengdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Lengdorf.personal.md) 
-- [Lengdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Lengdorf.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Elbasan](../../../../../../_public/geo/Continent/Europe/Albania/City/Elbasan.md) 
-- [Elbasan.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Elbasan.internal.md) 
-- [Elbasan.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Elbasan.protect.md) 
-- [Elbasan.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Elbasan.private.md) 
-- [Elbasan.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Elbasan.personal.md) 
-- [Elbasan.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Elbasan.secret.md) 

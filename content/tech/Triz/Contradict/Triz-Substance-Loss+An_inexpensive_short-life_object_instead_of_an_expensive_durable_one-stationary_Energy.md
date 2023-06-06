@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expens
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.md) 
-- [Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.internal.md) 
-- [Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.protect.md) 
-- [Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.private.md) 
-- [Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.personal.md) 
-- [Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Energy.secret.md) 

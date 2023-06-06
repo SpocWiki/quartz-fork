@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Revonhahbi](../../../../../../_public/geo/Continent/Europe/Finland/City/Revonhahbi.md) 
-- [Revonhahbi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Revonhahbi.internal.md) 
-- [Revonhahbi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Revonhahbi.protect.md) 
-- [Revonhahbi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Revonhahbi.private.md) 
-- [Revonhahbi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Revonhahbi.personal.md) 
-- [Revonhahbi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Revonhahbi.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hassleben](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hassleben.md) 
-- [Hassleben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hassleben.internal.md) 
-- [Hassleben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hassleben.protect.md) 
-- [Hassleben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hassleben.private.md) 
-- [Hassleben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hassleben.personal.md) 
-- [Hassleben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Hassleben.secret.md) 

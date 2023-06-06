@@ -344,10 +344,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_Antarctica-CityDB](../../../../_public/geo/Continent/Antarctica/_Antarctica-CityDB.md) 
-- [_Antarctica-CityDB.internal](../../../../_internal/geo/Continent/Antarctica/_Antarctica-CityDB.internal.md) 
-- [_Antarctica-CityDB.protect](../../../../_protect/geo/Continent/Antarctica/_Antarctica-CityDB.protect.md) 
-- [_Antarctica-CityDB.private](../../../../_private/geo/Continent/Antarctica/_Antarctica-CityDB.private.md) 
-- [_Antarctica-CityDB.personal](../../../../_personal/geo/Continent/Antarctica/_Antarctica-CityDB.personal.md) 
-- [_Antarctica-CityDB.secret](../../../../_secret/geo/Continent/Antarctica/_Antarctica-CityDB.secret.md) 

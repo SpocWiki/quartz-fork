@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Albarese](../../../../../../_public/geo/Continent/Europe/Italy/City/Albarese.md) 
-- [Albarese.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Albarese.internal.md) 
-- [Albarese.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Albarese.protect.md) 
-- [Albarese.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Albarese.private.md) 
-- [Albarese.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Albarese.personal.md) 
-- [Albarese.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Albarese.secret.md) 

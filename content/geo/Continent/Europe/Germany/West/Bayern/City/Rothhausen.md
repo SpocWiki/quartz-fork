@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rothhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.md) 
-- [Rothhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.internal.md) 
-- [Rothhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.protect.md) 
-- [Rothhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.private.md) 
-- [Rothhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.personal.md) 
-- [Rothhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.secret.md) 

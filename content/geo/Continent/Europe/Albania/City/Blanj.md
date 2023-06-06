@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blanj](../../../../../../_public/geo/Continent/Europe/Albania/City/Blanj.md) 
-- [Blanj.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Blanj.internal.md) 
-- [Blanj.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Blanj.protect.md) 
-- [Blanj.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Blanj.private.md) 
-- [Blanj.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Blanj.personal.md) 
-- [Blanj.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Blanj.secret.md) 

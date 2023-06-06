@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sagittarii-16](../../../_public/astro/Star/Sagittarii-16.md) 
-- [Sagittarii-16.internal](../../../_internal/astro/Star/Sagittarii-16.internal.md) 
-- [Sagittarii-16.protect](../../../_protect/astro/Star/Sagittarii-16.protect.md) 
-- [Sagittarii-16.private](../../../_private/astro/Star/Sagittarii-16.private.md) 
-- [Sagittarii-16.personal](../../../_personal/astro/Star/Sagittarii-16.personal.md) 
-- [Sagittarii-16.secret](../../../_secret/astro/Star/Sagittarii-16.secret.md) 

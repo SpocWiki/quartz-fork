@@ -19,10 +19,3 @@ title: Triz-moving_Duration+Self-service-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Duration+Self-service-Shape](../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.md) 
-- [Triz-moving_Duration+Self-service-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.internal.md) 
-- [Triz-moving_Duration+Self-service-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.protect.md) 
-- [Triz-moving_Duration+Self-service-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.private.md) 
-- [Triz-moving_Duration+Self-service-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.personal.md) 
-- [Triz-moving_Duration+Self-service-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Self-service-Shape.secret.md) 

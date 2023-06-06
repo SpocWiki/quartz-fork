@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gossensass](../../../../../../_public/geo/Continent/Europe/Italy/City/Gossensass.md) 
-- [Gossensass.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Gossensass.internal.md) 
-- [Gossensass.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Gossensass.protect.md) 
-- [Gossensass.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Gossensass.private.md) 
-- [Gossensass.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Gossensass.personal.md) 
-- [Gossensass.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Gossensass.secret.md) 

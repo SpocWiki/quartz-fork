@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Mediator-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Mediator-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.md) 
-- [Triz-Ease_of_manufacture+Mediator-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.internal.md) 
-- [Triz-Ease_of_manufacture+Mediator-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.protect.md) 
-- [Triz-Ease_of_manufacture+Mediator-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.private.md) 
-- [Triz-Ease_of_manufacture+Mediator-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.personal.md) 
-- [Triz-Ease_of_manufacture+Mediator-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Quantity.secret.md) 

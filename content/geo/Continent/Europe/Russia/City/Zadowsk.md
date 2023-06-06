@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zadowsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Zadowsk.md) 
-- [Zadowsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zadowsk.internal.md) 
-- [Zadowsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zadowsk.protect.md) 
-- [Zadowsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zadowsk.private.md) 
-- [Zadowsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zadowsk.personal.md) 
-- [Zadowsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zadowsk.secret.md) 

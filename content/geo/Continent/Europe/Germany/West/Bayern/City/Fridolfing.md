@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fridolfing](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Fridolfing.md) 
-- [Fridolfing.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fridolfing.internal.md) 
-- [Fridolfing.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fridolfing.protect.md) 
-- [Fridolfing.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fridolfing.private.md) 
-- [Fridolfing.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fridolfing.personal.md) 
-- [Fridolfing.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fridolfing.secret.md) 

@@ -43,10 +43,3 @@ A music recording (track), usually a single song.
 
 
 
-## Confidential Links & Embeds: 
-- [music_recording](../../../../../_public/schema.org/Type/is_a_/creative_work/music_recording.md) 
-- [music_recording.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/music_recording.internal.md) 
-- [music_recording.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/music_recording.protect.md) 
-- [music_recording.private](../../../../../_private/schema.org/Type/is_a_/creative_work/music_recording.private.md) 
-- [music_recording.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/music_recording.personal.md) 
-- [music_recording.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/music_recording.secret.md) 

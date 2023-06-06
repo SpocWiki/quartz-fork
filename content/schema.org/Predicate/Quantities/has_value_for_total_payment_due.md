@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_total_payment_due](../../../../_public/schema.org/Predicate/Quantities/has_value_for_total_payment_due.md) 
-- [has_value_for_total_payment_due.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_total_payment_due.internal.md) 
-- [has_value_for_total_payment_due.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_total_payment_due.protect.md) 
-- [has_value_for_total_payment_due.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_total_payment_due.private.md) 
-- [has_value_for_total_payment_due.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_total_payment_due.personal.md) 
-- [has_value_for_total_payment_due.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_total_payment_due.secret.md) 

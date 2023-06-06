@@ -17,10 +17,3 @@ title: Triz-kill_Anaerobic_Bacteria
 
 Treat Wounds in a high Pressure Oxygen Environment to kill Anaerobic Bacteria and aid Healing.
 
-## Confidential Links & Embeds: 
-- [Triz-kill_Anaerobic_Bacteria](../../../../_public/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.md) 
-- [Triz-kill_Anaerobic_Bacteria.internal](../../../../_internal/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.internal.md) 
-- [Triz-kill_Anaerobic_Bacteria.protect](../../../../_protect/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.protect.md) 
-- [Triz-kill_Anaerobic_Bacteria.private](../../../../_private/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.private.md) 
-- [Triz-kill_Anaerobic_Bacteria.personal](../../../../_personal/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.personal.md) 
-- [Triz-kill_Anaerobic_Bacteria.secret](../../../../_secret/tech/Triz/Example/Triz-kill_Anaerobic_Bacteria.secret.md) 

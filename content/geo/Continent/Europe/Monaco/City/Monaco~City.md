@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Monaco~City](../../../../../../_public/geo/Continent/Europe/Monaco/City/Monaco~City.md) 
-- [Monaco~City.internal](../../../../../../_internal/geo/Continent/Europe/Monaco/City/Monaco~City.internal.md) 
-- [Monaco~City.protect](../../../../../../_protect/geo/Continent/Europe/Monaco/City/Monaco~City.protect.md) 
-- [Monaco~City.private](../../../../../../_private/geo/Continent/Europe/Monaco/City/Monaco~City.private.md) 
-- [Monaco~City.personal](../../../../../../_personal/geo/Continent/Europe/Monaco/City/Monaco~City.personal.md) 
-- [Monaco~City.secret](../../../../../../_secret/geo/Continent/Europe/Monaco/City/Monaco~City.secret.md) 

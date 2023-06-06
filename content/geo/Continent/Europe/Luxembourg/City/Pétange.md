@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pétange](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/P%C3%A9tange.md) 
-- [Pétange.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/P%C3%A9tange.internal.md) 
-- [Pétange.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/P%C3%A9tange.protect.md) 
-- [Pétange.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/P%C3%A9tange.private.md) 
-- [Pétange.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/P%C3%A9tange.personal.md) 
-- [Pétange.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/P%C3%A9tange.secret.md) 

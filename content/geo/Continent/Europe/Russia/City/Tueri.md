@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tueri](../../../../../../_public/geo/Continent/Europe/Russia/City/Tueri.md) 
-- [Tueri.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tueri.internal.md) 
-- [Tueri.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tueri.protect.md) 
-- [Tueri.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tueri.private.md) 
-- [Tueri.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tueri.personal.md) 
-- [Tueri.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tueri.secret.md) 

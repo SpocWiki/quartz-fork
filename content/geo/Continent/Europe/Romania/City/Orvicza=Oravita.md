@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orvicza=Oravita](../../../../../../_public/geo/Continent/Europe/Romania/City/Orvicza=Oravita.md) 
-- [Orvicza=Oravita.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Orvicza=Oravita.internal.md) 
-- [Orvicza=Oravita.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Orvicza=Oravita.protect.md) 
-- [Orvicza=Oravita.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Orvicza=Oravita.private.md) 
-- [Orvicza=Oravita.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Orvicza=Oravita.personal.md) 
-- [Orvicza=Oravita.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Orvicza=Oravita.secret.md) 

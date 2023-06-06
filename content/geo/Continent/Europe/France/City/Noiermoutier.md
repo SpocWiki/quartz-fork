@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Noiermoutier](../../../../../../_public/geo/Continent/Europe/France/City/Noiermoutier.md) 
-- [Noiermoutier.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Noiermoutier.internal.md) 
-- [Noiermoutier.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Noiermoutier.protect.md) 
-- [Noiermoutier.private](../../../../../../_private/geo/Continent/Europe/France/City/Noiermoutier.private.md) 
-- [Noiermoutier.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Noiermoutier.personal.md) 
-- [Noiermoutier.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Noiermoutier.secret.md) 

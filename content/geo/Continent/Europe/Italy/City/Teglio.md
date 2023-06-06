@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teglio](../../../../../../_public/geo/Continent/Europe/Italy/City/Teglio.md) 
-- [Teglio.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Teglio.internal.md) 
-- [Teglio.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Teglio.protect.md) 
-- [Teglio.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Teglio.private.md) 
-- [Teglio.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Teglio.personal.md) 
-- [Teglio.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Teglio.secret.md) 

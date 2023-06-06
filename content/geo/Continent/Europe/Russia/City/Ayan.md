@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ayan](../../../../../../_public/geo/Continent/Europe/Russia/City/Ayan.md) 
-- [Ayan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ayan.internal.md) 
-- [Ayan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ayan.protect.md) 
-- [Ayan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ayan.private.md) 
-- [Ayan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ayan.personal.md) 
-- [Ayan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ayan.secret.md) 

@@ -55,10 +55,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_date_of_temporal_coverage](../../../../_public/schema.org/Predicate/Date_Times/has_date_of_temporal_coverage.md) 
-- [has_date_of_temporal_coverage.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_date_of_temporal_coverage.internal.md) 
-- [has_date_of_temporal_coverage.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_date_of_temporal_coverage.protect.md) 
-- [has_date_of_temporal_coverage.private](../../../../_private/schema.org/Predicate/Date_Times/has_date_of_temporal_coverage.private.md) 
-- [has_date_of_temporal_coverage.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_date_of_temporal_coverage.personal.md) 
-- [has_date_of_temporal_coverage.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_date_of_temporal_coverage.secret.md) 

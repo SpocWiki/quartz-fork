@@ -19,10 +19,3 @@ title: Triz-Strength+Local_quality-Manufacturing_Precision
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Local_quality-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.md) 
-- [Triz-Strength+Local_quality-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.internal.md) 
-- [Triz-Strength+Local_quality-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.protect.md) 
-- [Triz-Strength+Local_quality-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.private.md) 
-- [Triz-Strength+Local_quality-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.personal.md) 
-- [Triz-Strength+Local_quality-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-Manufacturing_Precision.secret.md) 

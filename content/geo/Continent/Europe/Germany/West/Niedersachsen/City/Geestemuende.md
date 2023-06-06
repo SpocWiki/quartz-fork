@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Geestemuende](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.md) 
-- [Geestemuende.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.internal.md) 
-- [Geestemuende.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.protect.md) 
-- [Geestemuende.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.private.md) 
-- [Geestemuende.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.personal.md) 
-- [Geestemuende.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Geestemuende.secret.md) 

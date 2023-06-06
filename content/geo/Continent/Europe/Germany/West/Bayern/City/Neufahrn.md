@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neufahrn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neufahrn.md) 
-- [Neufahrn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neufahrn.internal.md) 
-- [Neufahrn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neufahrn.protect.md) 
-- [Neufahrn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neufahrn.private.md) 
-- [Neufahrn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neufahrn.personal.md) 
-- [Neufahrn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neufahrn.secret.md) 

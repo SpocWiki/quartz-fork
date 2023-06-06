@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zilina](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zilina.md) 
-- [Zilina.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zilina.internal.md) 
-- [Zilina.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zilina.protect.md) 
-- [Zilina.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zilina.private.md) 
-- [Zilina.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zilina.personal.md) 
-- [Zilina.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zilina.secret.md) 

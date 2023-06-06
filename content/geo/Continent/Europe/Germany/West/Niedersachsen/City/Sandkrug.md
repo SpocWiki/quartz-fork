@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sandkrug](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandkrug.md) 
-- [Sandkrug.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandkrug.internal.md) 
-- [Sandkrug.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandkrug.protect.md) 
-- [Sandkrug.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandkrug.private.md) 
-- [Sandkrug.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandkrug.personal.md) 
-- [Sandkrug.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sandkrug.secret.md) 

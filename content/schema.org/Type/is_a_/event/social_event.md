@@ -43,10 +43,3 @@ Event type: Social event.
 
 
 
-## Confidential Links & Embeds: 
-- [social_event](../../../../../_public/schema.org/Type/is_a_/event/social_event.md) 
-- [social_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/social_event.internal.md) 
-- [social_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/social_event.protect.md) 
-- [social_event.private](../../../../../_private/schema.org/Type/is_a_/event/social_event.private.md) 
-- [social_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/social_event.personal.md) 
-- [social_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/social_event.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Mörfelden](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%B6rfelden.md) 
-- [S-Mörfelden.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%B6rfelden.internal.md) 
-- [S-Mörfelden.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%B6rfelden.protect.md) 
-- [S-Mörfelden.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%B6rfelden.private.md) 
-- [S-Mörfelden.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%B6rfelden.personal.md) 
-- [S-Mörfelden.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%B6rfelden.secret.md) 

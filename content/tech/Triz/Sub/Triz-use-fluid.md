@@ -18,10 +18,3 @@ title: Triz-use-fluid
 Use gas and liquid parts of an object instead of solid parts (e.g. inflatable, filled with liquids, air cushion, hydrostatic, hydro-reactive).
 
 
-## Confidential Links & Embeds: 
-- [Triz-use-fluid](../../../../_public/tech/Triz/Sub/Triz-use-fluid.md) 
-- [Triz-use-fluid.internal](../../../../_internal/tech/Triz/Sub/Triz-use-fluid.internal.md) 
-- [Triz-use-fluid.protect](../../../../_protect/tech/Triz/Sub/Triz-use-fluid.protect.md) 
-- [Triz-use-fluid.private](../../../../_private/tech/Triz/Sub/Triz-use-fluid.private.md) 
-- [Triz-use-fluid.personal](../../../../_personal/tech/Triz/Sub/Triz-use-fluid.personal.md) 
-- [Triz-use-fluid.secret](../../../../_secret/tech/Triz/Sub/Triz-use-fluid.secret.md) 

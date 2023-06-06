@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nykjoebing](../../../../../../_public/geo/Continent/Europe/Denmark/City/Nykjoebing.md) 
-- [Nykjoebing.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nykjoebing.internal.md) 
-- [Nykjoebing.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nykjoebing.protect.md) 
-- [Nykjoebing.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Nykjoebing.private.md) 
-- [Nykjoebing.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nykjoebing.personal.md) 
-- [Nykjoebing.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nykjoebing.secret.md) 

@@ -43,10 +43,3 @@ Enumerates common size systems specific for wearable products
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_system_enumeration](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration.md) 
-- [wearable_size_system_enumeration.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration.internal.md) 
-- [wearable_size_system_enumeration.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration.protect.md) 
-- [wearable_size_system_enumeration.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration.private.md) 
-- [wearable_size_system_enumeration.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration.personal.md) 
-- [wearable_size_system_enumeration.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration.secret.md) 

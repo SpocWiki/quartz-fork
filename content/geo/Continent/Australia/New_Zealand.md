@@ -121,7 +121,7 @@ markerFolder: ./New_Zealand/City
 
 ![550](geo/Continent/Australia/New_Zealand/Coat_of_arms_of_New_Zealand.svg)
 
-![Anthem-New-zealand-god-defend-new-zealand](xLarge/National-Anthem/Anthem-New-zealand-god-defend-new-zealand.mp3)
+[Anthem-New-zealand-god-defend-new-zealand](xLarge/National-Anthem/Anthem-New-zealand-god-defend-new-zealand.mp3)
 
 ![350](geo/Continent/Australia/New_Zealand/Flag_of_New_Zealand.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./New_Zealand/City
 
 
 
-## Confidential Links & Embeds: 
-- [New_Zealand](../../../../_public/geo/Continent/Australia/New_Zealand.md) 
-- [New_Zealand.internal](../../../../_internal/geo/Continent/Australia/New_Zealand.internal.md) 
-- [New_Zealand.protect](../../../../_protect/geo/Continent/Australia/New_Zealand.protect.md) 
-- [New_Zealand.private](../../../../_private/geo/Continent/Australia/New_Zealand.private.md) 
-- [New_Zealand.personal](../../../../_personal/geo/Continent/Australia/New_Zealand.personal.md) 
-- [New_Zealand.secret](../../../../_secret/geo/Continent/Australia/New_Zealand.secret.md) 

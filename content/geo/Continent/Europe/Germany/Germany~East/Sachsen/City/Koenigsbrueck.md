@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenigsbrueck](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.md) 
-- [Koenigsbrueck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.internal.md) 
-- [Koenigsbrueck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.protect.md) 
-- [Koenigsbrueck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.private.md) 
-- [Koenigsbrueck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.personal.md) 
-- [Koenigsbrueck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigsbrueck.secret.md) 

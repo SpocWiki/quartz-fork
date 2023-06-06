@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Schwalbach~Taunus_Limes](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.md) 
-- [S-Schwalbach~Taunus_Limes.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.internal.md) 
-- [S-Schwalbach~Taunus_Limes.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.protect.md) 
-- [S-Schwalbach~Taunus_Limes.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.private.md) 
-- [S-Schwalbach~Taunus_Limes.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.personal.md) 
-- [S-Schwalbach~Taunus_Limes.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Schwalbach~Taunus_Limes.secret.md) 

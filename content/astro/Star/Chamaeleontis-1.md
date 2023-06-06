@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Chamaeleontis-1](../../../_public/astro/Star/Chamaeleontis-1.md) 
-- [Chamaeleontis-1.internal](../../../_internal/astro/Star/Chamaeleontis-1.internal.md) 
-- [Chamaeleontis-1.protect](../../../_protect/astro/Star/Chamaeleontis-1.protect.md) 
-- [Chamaeleontis-1.private](../../../_private/astro/Star/Chamaeleontis-1.private.md) 
-- [Chamaeleontis-1.personal](../../../_personal/astro/Star/Chamaeleontis-1.personal.md) 
-- [Chamaeleontis-1.secret](../../../_secret/astro/Star/Chamaeleontis-1.secret.md)
-

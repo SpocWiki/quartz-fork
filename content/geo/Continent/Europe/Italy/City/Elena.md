@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Elena](../../../../../../_public/geo/Continent/Europe/Italy/City/Elena.md) 
-- [Elena.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Elena.internal.md) 
-- [Elena.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Elena.protect.md) 
-- [Elena.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Elena.private.md) 
-- [Elena.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Elena.personal.md) 
-- [Elena.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Elena.secret.md) 

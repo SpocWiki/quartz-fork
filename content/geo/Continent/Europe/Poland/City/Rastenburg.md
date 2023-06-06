@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rastenburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Rastenburg.md) 
-- [Rastenburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rastenburg.internal.md) 
-- [Rastenburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rastenburg.protect.md) 
-- [Rastenburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rastenburg.private.md) 
-- [Rastenburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rastenburg.personal.md) 
-- [Rastenburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rastenburg.secret.md) 

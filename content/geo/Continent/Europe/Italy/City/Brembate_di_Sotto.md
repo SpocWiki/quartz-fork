@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brembate_di_Sotto](../../../../../../_public/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.md) 
-- [Brembate_di_Sotto.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.internal.md) 
-- [Brembate_di_Sotto.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.protect.md) 
-- [Brembate_di_Sotto.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.private.md) 
-- [Brembate_di_Sotto.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.personal.md) 
-- [Brembate_di_Sotto.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Brembate_di_Sotto.secret.md) 

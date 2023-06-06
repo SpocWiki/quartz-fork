@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aalesund](../../../../../../_public/geo/Continent/Europe/Norway/City/Aalesund.md) 
-- [Aalesund.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Aalesund.internal.md) 
-- [Aalesund.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Aalesund.protect.md) 
-- [Aalesund.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Aalesund.private.md) 
-- [Aalesund.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Aalesund.personal.md) 
-- [Aalesund.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Aalesund.secret.md) 

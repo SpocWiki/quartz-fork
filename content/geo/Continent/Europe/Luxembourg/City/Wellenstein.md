@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wellenstein](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Wellenstein.md) 
-- [Wellenstein.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Wellenstein.internal.md) 
-- [Wellenstein.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Wellenstein.protect.md) 
-- [Wellenstein.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Wellenstein.private.md) 
-- [Wellenstein.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Wellenstein.personal.md) 
-- [Wellenstein.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Wellenstein.secret.md) 

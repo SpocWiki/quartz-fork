@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saeppi](../../../../../../_public/geo/Continent/Europe/Finland/City/Saeppi.md) 
-- [Saeppi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Saeppi.internal.md) 
-- [Saeppi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Saeppi.protect.md) 
-- [Saeppi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Saeppi.private.md) 
-- [Saeppi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Saeppi.personal.md) 
-- [Saeppi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Saeppi.secret.md) 

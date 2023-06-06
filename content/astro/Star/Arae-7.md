@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Arae-7](../../../_public/astro/Star/Arae-7.md) 
-- [Arae-7.internal](../../../_internal/astro/Star/Arae-7.internal.md) 
-- [Arae-7.protect](../../../_protect/astro/Star/Arae-7.protect.md) 
-- [Arae-7.private](../../../_private/astro/Star/Arae-7.private.md) 
-- [Arae-7.personal](../../../_personal/astro/Star/Arae-7.personal.md) 
-- [Arae-7.secret](../../../_secret/astro/Star/Arae-7.secret.md)
-

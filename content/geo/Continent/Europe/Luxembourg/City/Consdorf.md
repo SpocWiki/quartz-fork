@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Consdorf](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Consdorf.md) 
-- [Consdorf.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Consdorf.internal.md) 
-- [Consdorf.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Consdorf.protect.md) 
-- [Consdorf.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Consdorf.private.md) 
-- [Consdorf.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Consdorf.personal.md) 
-- [Consdorf.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Consdorf.secret.md) 

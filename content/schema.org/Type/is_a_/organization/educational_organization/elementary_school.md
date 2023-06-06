@@ -43,10 +43,3 @@ An elementary school.
 
 
 
-## Confidential Links & Embeds: 
-- [elementary_school](../../../../../../_public/schema.org/Type/is_a_/organization/educational_organization/elementary_school.md) 
-- [elementary_school.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/educational_organization/elementary_school.internal.md) 
-- [elementary_school.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/educational_organization/elementary_school.protect.md) 
-- [elementary_school.private](../../../../../../_private/schema.org/Type/is_a_/organization/educational_organization/elementary_school.private.md) 
-- [elementary_school.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/educational_organization/elementary_school.personal.md) 
-- [elementary_school.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/educational_organization/elementary_school.secret.md) 

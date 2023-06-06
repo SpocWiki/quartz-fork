@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Irkutsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Irkutsk.md) 
-- [Irkutsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Irkutsk.internal.md) 
-- [Irkutsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Irkutsk.protect.md) 
-- [Irkutsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Irkutsk.private.md) 
-- [Irkutsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Irkutsk.personal.md) 
-- [Irkutsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Irkutsk.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaluga](../../../../../../_public/geo/Continent/Europe/Russia/City/Kaluga.md) 
-- [Kaluga.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaluga.internal.md) 
-- [Kaluga.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaluga.protect.md) 
-- [Kaluga.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kaluga.private.md) 
-- [Kaluga.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaluga.personal.md) 
-- [Kaluga.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaluga.secret.md) 

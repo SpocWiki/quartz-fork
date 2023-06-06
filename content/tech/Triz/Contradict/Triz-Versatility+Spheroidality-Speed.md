@@ -19,10 +19,3 @@ title: Triz-Versatility+Spheroidality-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Spheroidality-Speed](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.md) 
-- [Triz-Versatility+Spheroidality-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.internal.md) 
-- [Triz-Versatility+Spheroidality-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.protect.md) 
-- [Triz-Versatility+Spheroidality-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.private.md) 
-- [Triz-Versatility+Spheroidality-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.personal.md) 
-- [Triz-Versatility+Spheroidality-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Spheroidality-Speed.secret.md) 

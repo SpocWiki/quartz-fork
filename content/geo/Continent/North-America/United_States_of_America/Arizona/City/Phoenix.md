@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Phoenix](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Arizona/City/Phoenix.md) 
-- [Phoenix.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Arizona/City/Phoenix.internal.md) 
-- [Phoenix.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Arizona/City/Phoenix.protect.md) 
-- [Phoenix.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Arizona/City/Phoenix.private.md) 
-- [Phoenix.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Arizona/City/Phoenix.personal.md) 
-- [Phoenix.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Arizona/City/Phoenix.secret.md) 

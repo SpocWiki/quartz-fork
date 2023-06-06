@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Delphini-1](../../../_public/astro/Star/Delphini-1.md) 
-- [Delphini-1.internal](../../../_internal/astro/Star/Delphini-1.internal.md) 
-- [Delphini-1.protect](../../../_protect/astro/Star/Delphini-1.protect.md) 
-- [Delphini-1.private](../../../_private/astro/Star/Delphini-1.private.md) 
-- [Delphini-1.personal](../../../_personal/astro/Star/Delphini-1.personal.md) 
-- [Delphini-1.secret](../../../_secret/astro/Star/Delphini-1.secret.md)
-

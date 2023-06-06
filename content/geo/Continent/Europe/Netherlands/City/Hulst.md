@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hulst](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hulst.md) 
-- [Hulst.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hulst.internal.md) 
-- [Hulst.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hulst.protect.md) 
-- [Hulst.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hulst.private.md) 
-- [Hulst.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hulst.personal.md) 
-- [Hulst.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hulst.secret.md) 

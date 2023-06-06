@@ -19,10 +19,3 @@ title: Triz-Difficulty+Composite_materials-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Composite_materials-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.md) 
-- [Triz-Difficulty+Composite_materials-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.internal.md) 
-- [Triz-Difficulty+Composite_materials-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.protect.md) 
-- [Triz-Difficulty+Composite_materials-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.private.md) 
-- [Triz-Difficulty+Composite_materials-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.personal.md) 
-- [Triz-Difficulty+Composite_materials-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Composite_materials-Reliability.secret.md) 

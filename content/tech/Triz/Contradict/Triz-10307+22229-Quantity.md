@@ -19,10 +19,3 @@ title: Triz-10307+22229-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22229-Quantity](../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Quantity.md) 
-- [Triz-10307+22229-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22229-Quantity.internal.md) 
-- [Triz-10307+22229-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22229-Quantity.protect.md) 
-- [Triz-10307+22229-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22229-Quantity.private.md) 
-- [Triz-10307+22229-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22229-Quantity.personal.md) 
-- [Triz-10307+22229-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22229-Quantity.secret.md) 

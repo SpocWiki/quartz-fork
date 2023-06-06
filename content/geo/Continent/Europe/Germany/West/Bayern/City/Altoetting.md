@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altoetting](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Altoetting.md) 
-- [Altoetting.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Altoetting.internal.md) 
-- [Altoetting.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Altoetting.protect.md) 
-- [Altoetting.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Altoetting.private.md) 
-- [Altoetting.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Altoetting.personal.md) 
-- [Altoetting.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Altoetting.secret.md) 

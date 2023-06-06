@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirchheim-Bolanden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.md) 
-- [Kirchheim-Bolanden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.internal.md) 
-- [Kirchheim-Bolanden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.protect.md) 
-- [Kirchheim-Bolanden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.private.md) 
-- [Kirchheim-Bolanden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.personal.md) 
-- [Kirchheim-Bolanden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Kirchheim-Bolanden.secret.md) 

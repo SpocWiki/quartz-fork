@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klingenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Klingenberg.md) 
-- [Klingenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Klingenberg.internal.md) 
-- [Klingenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Klingenberg.protect.md) 
-- [Klingenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Klingenberg.private.md) 
-- [Klingenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Klingenberg.personal.md) 
-- [Klingenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Klingenberg.secret.md) 

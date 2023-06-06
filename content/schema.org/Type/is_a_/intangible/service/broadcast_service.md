@@ -45,10 +45,3 @@ A delivery service through which content is provided via broadcast over the air 
 
 
 
-## Confidential Links & Embeds: 
-- [broadcast_service](../../../../../../_public/schema.org/Type/is_a_/intangible/service/broadcast_service.md) 
-- [broadcast_service.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/service/broadcast_service.internal.md) 
-- [broadcast_service.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/service/broadcast_service.protect.md) 
-- [broadcast_service.private](../../../../../../_private/schema.org/Type/is_a_/intangible/service/broadcast_service.private.md) 
-- [broadcast_service.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/service/broadcast_service.personal.md) 
-- [broadcast_service.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/service/broadcast_service.secret.md) 

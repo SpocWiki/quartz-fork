@@ -50,10 +50,3 @@ markerFolder: ./Station/
 
 
 
-## Confidential Links & Embeds: 
-- [FFM~S8](../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.md) 
-- [FFM~S8.internal](../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.internal.md) 
-- [FFM~S8.protect](../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.protect.md) 
-- [FFM~S8.private](../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.private.md) 
-- [FFM~S8.personal](../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.personal.md) 
-- [FFM~S8.secret](../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/FFM~S8.secret.md) 

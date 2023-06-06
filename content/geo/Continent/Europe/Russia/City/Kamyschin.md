@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kamyschin](../../../../../../_public/geo/Continent/Europe/Russia/City/Kamyschin.md) 
-- [Kamyschin.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kamyschin.internal.md) 
-- [Kamyschin.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kamyschin.protect.md) 
-- [Kamyschin.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kamyschin.private.md) 
-- [Kamyschin.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kamyschin.personal.md) 
-- [Kamyschin.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kamyschin.secret.md) 

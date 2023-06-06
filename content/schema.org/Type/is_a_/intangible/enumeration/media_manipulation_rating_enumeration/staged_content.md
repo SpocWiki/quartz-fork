@@ -56,10 +56,3 @@ Audio that has been created using actors or similarly contrived.
 
 
 
-## Confidential Links & Embeds: 
-- [staged_content](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.md) 
-- [staged_content.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.internal.md) 
-- [staged_content.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.protect.md) 
-- [staged_content.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.private.md) 
-- [staged_content.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.personal.md) 
-- [staged_content.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.secret.md) 

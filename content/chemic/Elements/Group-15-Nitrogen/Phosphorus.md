@@ -39,10 +39,3 @@ title: Phosphorus
 
 
 
-## Confidential Links & Embeds: 
-- [Phosphorus](../../../../_public/chemic/Elements/Group-15-Nitrogen/Phosphorus.md) 
-- [Phosphorus.internal](../../../../_internal/chemic/Elements/Group-15-Nitrogen/Phosphorus.internal.md) 
-- [Phosphorus.protect](../../../../_protect/chemic/Elements/Group-15-Nitrogen/Phosphorus.protect.md) 
-- [Phosphorus.private](../../../../_private/chemic/Elements/Group-15-Nitrogen/Phosphorus.private.md) 
-- [Phosphorus.personal](../../../../_personal/chemic/Elements/Group-15-Nitrogen/Phosphorus.personal.md) 
-- [Phosphorus.secret](../../../../_secret/chemic/Elements/Group-15-Nitrogen/Phosphorus.secret.md) 

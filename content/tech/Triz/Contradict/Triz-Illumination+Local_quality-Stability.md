@@ -19,10 +19,3 @@ title: Triz-Illumination+Local_quality-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Local_quality-Stability](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Local_quality-Stability.md) 
-- [Triz-Illumination+Local_quality-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Local_quality-Stability.internal.md) 
-- [Triz-Illumination+Local_quality-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Local_quality-Stability.protect.md) 
-- [Triz-Illumination+Local_quality-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Local_quality-Stability.private.md) 
-- [Triz-Illumination+Local_quality-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Local_quality-Stability.personal.md) 
-- [Triz-Illumination+Local_quality-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Local_quality-Stability.secret.md) 

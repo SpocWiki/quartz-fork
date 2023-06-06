@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bellac](../../../../../../_public/geo/Continent/Europe/France/City/Bellac.md) 
-- [Bellac.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bellac.internal.md) 
-- [Bellac.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bellac.protect.md) 
-- [Bellac.private](../../../../../../_private/geo/Continent/Europe/France/City/Bellac.private.md) 
-- [Bellac.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bellac.personal.md) 
-- [Bellac.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bellac.secret.md) 

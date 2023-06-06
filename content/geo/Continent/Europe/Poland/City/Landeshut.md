@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landeshut](../../../../../../_public/geo/Continent/Europe/Poland/City/Landeshut.md) 
-- [Landeshut.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Landeshut.internal.md) 
-- [Landeshut.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Landeshut.protect.md) 
-- [Landeshut.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Landeshut.private.md) 
-- [Landeshut.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Landeshut.personal.md) 
-- [Landeshut.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Landeshut.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saint_John’s](../../../../../../_public/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John%E2%80%99s.md) 
-- [Saint_John’s.internal](../../../../../../_internal/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John%E2%80%99s.internal.md) 
-- [Saint_John’s.protect](../../../../../../_protect/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John%E2%80%99s.protect.md) 
-- [Saint_John’s.private](../../../../../../_private/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John%E2%80%99s.private.md) 
-- [Saint_John’s.personal](../../../../../../_personal/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John%E2%80%99s.personal.md) 
-- [Saint_John’s.secret](../../../../../../_secret/geo/Continent/South-America/Antigua_and_Barbuda/City/Saint_John%E2%80%99s.secret.md) 

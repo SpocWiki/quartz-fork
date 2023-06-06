@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ersekujvar](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.md) 
-- [Ersekujvar.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.internal.md) 
-- [Ersekujvar.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.protect.md) 
-- [Ersekujvar.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.private.md) 
-- [Ersekujvar.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.personal.md) 
-- [Ersekujvar.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.secret.md) 

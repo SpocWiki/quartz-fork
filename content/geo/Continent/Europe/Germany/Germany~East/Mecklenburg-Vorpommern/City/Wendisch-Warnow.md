@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wendisch-Warnow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Wendisch-Warnow.md) 
-- [Wendisch-Warnow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Wendisch-Warnow.internal.md) 
-- [Wendisch-Warnow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Wendisch-Warnow.protect.md) 
-- [Wendisch-Warnow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Wendisch-Warnow.private.md) 
-- [Wendisch-Warnow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Wendisch-Warnow.personal.md) 
-- [Wendisch-Warnow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Wendisch-Warnow.secret.md) 

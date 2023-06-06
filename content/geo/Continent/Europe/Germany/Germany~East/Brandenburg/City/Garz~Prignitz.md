@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Garz~Prignitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.md) 
-- [Garz~Prignitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.internal.md) 
-- [Garz~Prignitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.protect.md) 
-- [Garz~Prignitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.private.md) 
-- [Garz~Prignitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.personal.md) 
-- [Garz~Prignitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Prignitz.secret.md) 

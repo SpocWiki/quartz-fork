@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Olgiate_Comaseo](../../../../../../_public/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.md) 
-- [Olgiate_Comaseo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.internal.md) 
-- [Olgiate_Comaseo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.protect.md) 
-- [Olgiate_Comaseo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.private.md) 
-- [Olgiate_Comaseo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.personal.md) 
-- [Olgiate_Comaseo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Olgiate_Comaseo.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maschin](../../../../../../_public/geo/Continent/Europe/Poland/City/Maschin.md) 
-- [Maschin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Maschin.internal.md) 
-- [Maschin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Maschin.protect.md) 
-- [Maschin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Maschin.private.md) 
-- [Maschin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Maschin.personal.md) 
-- [Maschin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Maschin.secret.md) 

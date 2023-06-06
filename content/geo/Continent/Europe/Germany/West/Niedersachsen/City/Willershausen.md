@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Willershausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.md) 
-- [Willershausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.internal.md) 
-- [Willershausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.protect.md) 
-- [Willershausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.private.md) 
-- [Willershausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.personal.md) 
-- [Willershausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Willershausen.secret.md) 

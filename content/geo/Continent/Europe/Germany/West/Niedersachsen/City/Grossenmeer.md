@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grossenmeer](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.md) 
-- [Grossenmeer.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.internal.md) 
-- [Grossenmeer.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.protect.md) 
-- [Grossenmeer.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.private.md) 
-- [Grossenmeer.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.personal.md) 
-- [Grossenmeer.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Grossenmeer.secret.md) 

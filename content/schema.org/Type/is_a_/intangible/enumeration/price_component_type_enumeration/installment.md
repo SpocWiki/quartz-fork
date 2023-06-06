@@ -47,10 +47,3 @@ Represents the installment pricing component of the total price for an offered p
 
 
 
-## Confidential Links & Embeds: 
-- [installment](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/installment.md) 
-- [installment.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/installment.internal.md) 
-- [installment.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/installment.protect.md) 
-- [installment.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/installment.private.md) 
-- [installment.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/installment.personal.md) 
-- [installment.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/installment.secret.md) 

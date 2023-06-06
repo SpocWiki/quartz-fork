@@ -18,10 +18,3 @@ title: Triz-tilt
 Tilt or re-orient the object, lay it on its side.
 
 
-## Confidential Links & Embeds: 
-- [Triz-tilt](../../../../_public/tech/Triz/Sub/Triz-tilt.md) 
-- [Triz-tilt.internal](../../../../_internal/tech/Triz/Sub/Triz-tilt.internal.md) 
-- [Triz-tilt.protect](../../../../_protect/tech/Triz/Sub/Triz-tilt.protect.md) 
-- [Triz-tilt.private](../../../../_private/tech/Triz/Sub/Triz-tilt.private.md) 
-- [Triz-tilt.personal](../../../../_personal/tech/Triz/Sub/Triz-tilt.personal.md) 
-- [Triz-tilt.secret](../../../../_secret/tech/Triz/Sub/Triz-tilt.secret.md) 

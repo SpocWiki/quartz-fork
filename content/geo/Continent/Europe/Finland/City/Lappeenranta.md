@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lappeenranta](../../../../../../_public/geo/Continent/Europe/Finland/City/Lappeenranta.md) 
-- [Lappeenranta.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Lappeenranta.internal.md) 
-- [Lappeenranta.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Lappeenranta.protect.md) 
-- [Lappeenranta.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Lappeenranta.private.md) 
-- [Lappeenranta.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Lappeenranta.personal.md) 
-- [Lappeenranta.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Lappeenranta.secret.md) 

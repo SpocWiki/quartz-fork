@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Blackhorse_Road](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.md) 
-- [Sub-Blackhorse_Road.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.internal.md) 
-- [Sub-Blackhorse_Road.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.protect.md) 
-- [Sub-Blackhorse_Road.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.private.md) 
-- [Sub-Blackhorse_Road.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.personal.md) 
-- [Sub-Blackhorse_Road.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Blackhorse_Road.secret.md) 

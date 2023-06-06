@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kammin~Pommern](../../../../../../_public/geo/Continent/Europe/Poland/City/Kammin~Pommern.md) 
-- [Kammin~Pommern.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kammin~Pommern.internal.md) 
-- [Kammin~Pommern.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kammin~Pommern.protect.md) 
-- [Kammin~Pommern.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kammin~Pommern.private.md) 
-- [Kammin~Pommern.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kammin~Pommern.personal.md) 
-- [Kammin~Pommern.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kammin~Pommern.secret.md) 

@@ -18,10 +18,3 @@ title: Triz-change-aggregate
 Change an Object's aggregate State(e.g. to a Gas, Liquid, or Solid).
 
 
-## Confidential Links & Embeds: 
-- [Triz-change-aggregate](../../../../_public/tech/Triz/Sub/Triz-change-aggregate.md) 
-- [Triz-change-aggregate.internal](../../../../_internal/tech/Triz/Sub/Triz-change-aggregate.internal.md) 
-- [Triz-change-aggregate.protect](../../../../_protect/tech/Triz/Sub/Triz-change-aggregate.protect.md) 
-- [Triz-change-aggregate.private](../../../../_private/tech/Triz/Sub/Triz-change-aggregate.private.md) 
-- [Triz-change-aggregate.personal](../../../../_personal/tech/Triz/Sub/Triz-change-aggregate.personal.md) 
-- [Triz-change-aggregate.secret](../../../../_secret/tech/Triz/Sub/Triz-change-aggregate.secret.md) 

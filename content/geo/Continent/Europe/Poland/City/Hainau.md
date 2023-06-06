@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hainau](../../../../../../_public/geo/Continent/Europe/Poland/City/Hainau.md) 
-- [Hainau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Hainau.internal.md) 
-- [Hainau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Hainau.protect.md) 
-- [Hainau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Hainau.private.md) 
-- [Hainau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Hainau.personal.md) 
-- [Hainau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Hainau.secret.md) 

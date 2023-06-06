@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Claut](../../../../../../_public/geo/Continent/Europe/Italy/City/Claut.md) 
-- [Claut.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Claut.internal.md) 
-- [Claut.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Claut.protect.md) 
-- [Claut.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Claut.private.md) 
-- [Claut.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Claut.personal.md) 
-- [Claut.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Claut.secret.md) 

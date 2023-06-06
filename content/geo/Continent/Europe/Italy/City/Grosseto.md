@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grosseto](../../../../../../_public/geo/Continent/Europe/Italy/City/Grosseto.md) 
-- [Grosseto.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Grosseto.internal.md) 
-- [Grosseto.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Grosseto.protect.md) 
-- [Grosseto.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Grosseto.private.md) 
-- [Grosseto.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Grosseto.personal.md) 
-- [Grosseto.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Grosseto.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Torjok](../../../../../../_public/geo/Continent/Europe/Russia/City/Torjok.md) 
-- [Torjok.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Torjok.internal.md) 
-- [Torjok.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Torjok.protect.md) 
-- [Torjok.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Torjok.private.md) 
-- [Torjok.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Torjok.personal.md) 
-- [Torjok.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Torjok.secret.md) 

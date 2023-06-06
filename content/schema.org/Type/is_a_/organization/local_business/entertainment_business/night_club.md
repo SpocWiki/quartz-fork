@@ -43,10 +43,3 @@ A nightclub or discotheque.
 
 
 
-## Confidential Links & Embeds: 
-- [night_club](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.md) 
-- [night_club.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.internal.md) 
-- [night_club.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.protect.md) 
-- [night_club.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.private.md) 
-- [night_club.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.personal.md) 
-- [night_club.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.secret.md) 

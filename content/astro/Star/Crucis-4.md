@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Crucis-4](../../../_public/astro/Star/Crucis-4.md) 
-- [Crucis-4.internal](../../../_internal/astro/Star/Crucis-4.internal.md) 
-- [Crucis-4.protect](../../../_protect/astro/Star/Crucis-4.protect.md) 
-- [Crucis-4.private](../../../_private/astro/Star/Crucis-4.private.md) 
-- [Crucis-4.personal](../../../_personal/astro/Star/Crucis-4.personal.md) 
-- [Crucis-4.secret](../../../_secret/astro/Star/Crucis-4.secret.md)
-

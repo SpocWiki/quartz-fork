@@ -43,10 +43,3 @@ A car is a wheeled, self-powered motor vehicle used for transportation.
 
 
 
-## Confidential Links & Embeds: 
-- [car](../../../../../../_public/schema.org/Type/is_a_/product/vehicle/car.md) 
-- [car.internal](../../../../../../_internal/schema.org/Type/is_a_/product/vehicle/car.internal.md) 
-- [car.protect](../../../../../../_protect/schema.org/Type/is_a_/product/vehicle/car.protect.md) 
-- [car.private](../../../../../../_private/schema.org/Type/is_a_/product/vehicle/car.private.md) 
-- [car.personal](../../../../../../_personal/schema.org/Type/is_a_/product/vehicle/car.personal.md) 
-- [car.secret](../../../../../../_secret/schema.org/Type/is_a_/product/vehicle/car.secret.md) 

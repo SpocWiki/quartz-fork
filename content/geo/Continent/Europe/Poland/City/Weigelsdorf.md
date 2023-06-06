@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weigelsdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Weigelsdorf.md) 
-- [Weigelsdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Weigelsdorf.internal.md) 
-- [Weigelsdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Weigelsdorf.protect.md) 
-- [Weigelsdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Weigelsdorf.private.md) 
-- [Weigelsdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Weigelsdorf.personal.md) 
-- [Weigelsdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Weigelsdorf.secret.md) 

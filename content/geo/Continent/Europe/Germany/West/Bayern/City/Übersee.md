@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Übersee](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/%C3%9Cbersee.md) 
-- [Übersee.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/%C3%9Cbersee.internal.md) 
-- [Übersee.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/%C3%9Cbersee.protect.md) 
-- [Übersee.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/%C3%9Cbersee.private.md) 
-- [Übersee.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/%C3%9Cbersee.personal.md) 
-- [Übersee.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/%C3%9Cbersee.secret.md) 

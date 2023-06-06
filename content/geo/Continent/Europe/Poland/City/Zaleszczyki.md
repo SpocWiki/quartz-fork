@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zaleszczyki](../../../../../../_public/geo/Continent/Europe/Poland/City/Zaleszczyki.md) 
-- [Zaleszczyki.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zaleszczyki.internal.md) 
-- [Zaleszczyki.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zaleszczyki.protect.md) 
-- [Zaleszczyki.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zaleszczyki.private.md) 
-- [Zaleszczyki.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zaleszczyki.personal.md) 
-- [Zaleszczyki.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zaleszczyki.secret.md) 

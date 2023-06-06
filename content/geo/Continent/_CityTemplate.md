@@ -45,10 +45,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [_CityTemplate](../../../_public/geo/Continent/_CityTemplate.md) 
-- [_CityTemplate.internal](../../../_internal/geo/Continent/_CityTemplate.internal.md) 
-- [_CityTemplate.protect](../../../_protect/geo/Continent/_CityTemplate.protect.md) 
-- [_CityTemplate.private](../../../_private/geo/Continent/_CityTemplate.private.md) 
-- [_CityTemplate.personal](../../../_personal/geo/Continent/_CityTemplate.personal.md) 
-- [_CityTemplate.secret](../../../_secret/geo/Continent/_CityTemplate.secret.md) 

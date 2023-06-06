@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Trianguli_Australis-2](../../../_public/astro/Star/Trianguli_Australis-2.md) 
-- [Trianguli_Australis-2.internal](../../../_internal/astro/Star/Trianguli_Australis-2.internal.md) 
-- [Trianguli_Australis-2.protect](../../../_protect/astro/Star/Trianguli_Australis-2.protect.md) 
-- [Trianguli_Australis-2.private](../../../_private/astro/Star/Trianguli_Australis-2.private.md) 
-- [Trianguli_Australis-2.personal](../../../_personal/astro/Star/Trianguli_Australis-2.personal.md) 
-- [Trianguli_Australis-2.secret](../../../_secret/astro/Star/Trianguli_Australis-2.secret.md) 

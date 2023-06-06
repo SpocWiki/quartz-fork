@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Apatin](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Apatin.md) 
-- [Apatin.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Apatin.internal.md) 
-- [Apatin.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Apatin.protect.md) 
-- [Apatin.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Apatin.private.md) 
-- [Apatin.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Apatin.personal.md) 
-- [Apatin.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Apatin.secret.md) 

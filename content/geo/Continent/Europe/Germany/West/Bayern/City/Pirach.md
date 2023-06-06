@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pirach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Pirach.md) 
-- [Pirach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pirach.internal.md) 
-- [Pirach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pirach.protect.md) 
-- [Pirach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pirach.private.md) 
-- [Pirach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pirach.personal.md) 
-- [Pirach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pirach.secret.md) 

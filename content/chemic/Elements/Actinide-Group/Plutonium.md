@@ -34,10 +34,3 @@ title: Plutonium
 
 
 
-## Confidential Links & Embeds: 
-- [Plutonium](../../../../_public/chemic/Elements/Actinide-Group/Plutonium.md) 
-- [Plutonium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Plutonium.internal.md) 
-- [Plutonium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Plutonium.protect.md) 
-- [Plutonium.private](../../../../_private/chemic/Elements/Actinide-Group/Plutonium.private.md) 
-- [Plutonium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Plutonium.personal.md) 
-- [Plutonium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Plutonium.secret.md) 

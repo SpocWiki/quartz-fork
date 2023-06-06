@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.internal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.protect.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.private.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.personal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Energy-Loss.secret.md) 

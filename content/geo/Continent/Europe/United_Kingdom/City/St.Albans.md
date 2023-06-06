@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Albans](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Albans.md) 
-- [St.Albans.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Albans.internal.md) 
-- [St.Albans.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Albans.protect.md) 
-- [St.Albans.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Albans.private.md) 
-- [St.Albans.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Albans.personal.md) 
-- [St.Albans.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Albans.secret.md) 

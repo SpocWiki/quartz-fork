@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_fees_and_commissions_specification](../../../../_public/schema.org/Predicate/Texts/has_fees_and_commissions_specification.md) 
-- [has_fees_and_commissions_specification.internal](../../../../_internal/schema.org/Predicate/Texts/has_fees_and_commissions_specification.internal.md) 
-- [has_fees_and_commissions_specification.protect](../../../../_protect/schema.org/Predicate/Texts/has_fees_and_commissions_specification.protect.md) 
-- [has_fees_and_commissions_specification.private](../../../../_private/schema.org/Predicate/Texts/has_fees_and_commissions_specification.private.md) 
-- [has_fees_and_commissions_specification.personal](../../../../_personal/schema.org/Predicate/Texts/has_fees_and_commissions_specification.personal.md) 
-- [has_fees_and_commissions_specification.secret](../../../../_secret/schema.org/Predicate/Texts/has_fees_and_commissions_specification.secret.md) 

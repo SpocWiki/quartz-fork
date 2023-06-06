@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grossenaspe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Grossenaspe.md) 
-- [Grossenaspe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Grossenaspe.internal.md) 
-- [Grossenaspe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Grossenaspe.protect.md) 
-- [Grossenaspe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Grossenaspe.private.md) 
-- [Grossenaspe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Grossenaspe.personal.md) 
-- [Grossenaspe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Grossenaspe.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kovno](../../../../../../_public/geo/Continent/Europe/Russia/City/Kovno.md) 
-- [Kovno.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kovno.internal.md) 
-- [Kovno.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kovno.protect.md) 
-- [Kovno.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kovno.private.md) 
-- [Kovno.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kovno.personal.md) 
-- [Kovno.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kovno.secret.md) 

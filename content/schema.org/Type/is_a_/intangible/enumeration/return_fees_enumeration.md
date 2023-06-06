@@ -43,10 +43,3 @@ Enumerates several kinds of policies for product return fees.
 
 
 
-## Confidential Links & Embeds: 
-- [return_fees_enumeration](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration.md) 
-- [return_fees_enumeration.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration.internal.md) 
-- [return_fees_enumeration.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration.protect.md) 
-- [return_fees_enumeration.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration.private.md) 
-- [return_fees_enumeration.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration.personal.md) 
-- [return_fees_enumeration.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration.secret.md) 

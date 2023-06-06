@@ -19,10 +19,3 @@ title: Triz-Illumination+Segmentation-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Segmentation-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Segmentation-Substance-Loss.md) 
-- [Triz-Illumination+Segmentation-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Substance-Loss.internal.md) 
-- [Triz-Illumination+Segmentation-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Segmentation-Substance-Loss.protect.md) 
-- [Triz-Illumination+Segmentation-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Segmentation-Substance-Loss.private.md) 
-- [Triz-Illumination+Segmentation-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Substance-Loss.personal.md) 
-- [Triz-Illumination+Segmentation-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Segmentation-Substance-Loss.secret.md) 

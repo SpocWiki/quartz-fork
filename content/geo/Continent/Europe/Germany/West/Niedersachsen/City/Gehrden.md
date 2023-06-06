@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gehrden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gehrden.md) 
-- [Gehrden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gehrden.internal.md) 
-- [Gehrden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gehrden.protect.md) 
-- [Gehrden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gehrden.private.md) 
-- [Gehrden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gehrden.personal.md) 
-- [Gehrden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gehrden.secret.md) 

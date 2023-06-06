@@ -43,10 +43,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_parent](../../../../../_public/schema.org/Predicate/Relations/has/has_parent.md) 
-- [has_parent.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_parent.internal.md) 
-- [has_parent.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_parent.protect.md) 
-- [has_parent.private](../../../../../_private/schema.org/Predicate/Relations/has/has_parent.private.md) 
-- [has_parent.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_parent.personal.md) 
-- [has_parent.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_parent.secret.md) 

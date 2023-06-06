@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lisburn](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.md) 
-- [Lisburn.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.internal.md) 
-- [Lisburn.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.protect.md) 
-- [Lisburn.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.private.md) 
-- [Lisburn.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.personal.md) 
-- [Lisburn.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Lisburn.secret.md) 

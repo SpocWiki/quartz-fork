@@ -47,10 +47,3 @@ As a <a class="localLink" href="/LocalBusiness">LocalBusiness</a> it can be desc
 
 
 
-## Confidential Links & Embeds: 
-- [legal_service](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/legal_service.md) 
-- [legal_service.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/legal_service.internal.md) 
-- [legal_service.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/legal_service.protect.md) 
-- [legal_service.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/legal_service.private.md) 
-- [legal_service.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/legal_service.personal.md) 
-- [legal_service.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/legal_service.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_d
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.internal.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.protect.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.private.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.personal.md) 
-- [Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-generated_harm.secret.md) 

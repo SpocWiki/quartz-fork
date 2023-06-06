@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hernoesand](../../../../../../_public/geo/Continent/Europe/Sweden/City/Hernoesand.md) 
-- [Hernoesand.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hernoesand.internal.md) 
-- [Hernoesand.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hernoesand.protect.md) 
-- [Hernoesand.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Hernoesand.private.md) 
-- [Hernoesand.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hernoesand.personal.md) 
-- [Hernoesand.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hernoesand.secret.md) 

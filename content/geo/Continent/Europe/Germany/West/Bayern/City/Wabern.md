@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wabern](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wabern.md) 
-- [Wabern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wabern.internal.md) 
-- [Wabern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wabern.protect.md) 
-- [Wabern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wabern.private.md) 
-- [Wabern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wabern.personal.md) 
-- [Wabern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wabern.secret.md) 

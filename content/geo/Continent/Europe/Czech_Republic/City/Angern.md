@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Angern](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Angern.md) 
-- [Angern.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Angern.internal.md) 
-- [Angern.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Angern.protect.md) 
-- [Angern.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Angern.private.md) 
-- [Angern.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Angern.personal.md) 
-- [Angern.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Angern.secret.md) 

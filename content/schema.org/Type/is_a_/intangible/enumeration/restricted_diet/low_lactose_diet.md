@@ -45,10 +45,3 @@ A diet appropriate for people with lactose intolerance.
 
 
 
-## Confidential Links & Embeds: 
-- [low_lactose_diet](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.md) 
-- [low_lactose_diet.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.internal.md) 
-- [low_lactose_diet.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.protect.md) 
-- [low_lactose_diet.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.private.md) 
-- [low_lactose_diet.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.personal.md) 
-- [low_lactose_diet.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.secret.md) 

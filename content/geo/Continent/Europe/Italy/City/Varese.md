@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Varese](../../../../../../_public/geo/Continent/Europe/Italy/City/Varese.md) 
-- [Varese.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Varese.internal.md) 
-- [Varese.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Varese.protect.md) 
-- [Varese.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Varese.private.md) 
-- [Varese.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Varese.personal.md) 
-- [Varese.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Varese.secret.md) 

@@ -43,10 +43,3 @@ The act of taking money from a buyer in exchange for goods or services rendered.
 
 
 
-## Confidential Links & Embeds: 
-- [sell_action](../../../../../../_public/schema.org/Type/is_a_/action/trade_action/sell_action.md) 
-- [sell_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/sell_action.internal.md) 
-- [sell_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/sell_action.protect.md) 
-- [sell_action.private](../../../../../../_private/schema.org/Type/is_a_/action/trade_action/sell_action.private.md) 
-- [sell_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/sell_action.personal.md) 
-- [sell_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/sell_action.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gemuenden~Unterfranken](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.md) 
-- [Gemuenden~Unterfranken.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.internal.md) 
-- [Gemuenden~Unterfranken.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.protect.md) 
-- [Gemuenden~Unterfranken.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.private.md) 
-- [Gemuenden~Unterfranken.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.personal.md) 
-- [Gemuenden~Unterfranken.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.secret.md) 

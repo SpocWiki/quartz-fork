@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Portugalete](../../../../../../_public/geo/Continent/Europe/Spain/City/Portugalete.md) 
-- [Portugalete.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Portugalete.internal.md) 
-- [Portugalete.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Portugalete.protect.md) 
-- [Portugalete.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Portugalete.private.md) 
-- [Portugalete.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Portugalete.personal.md) 
-- [Portugalete.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Portugalete.secret.md) 

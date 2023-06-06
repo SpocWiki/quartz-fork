@@ -43,10 +43,3 @@ Event type: Literary event.
 
 
 
-## Confidential Links & Embeds: 
-- [literary_event](../../../../../_public/schema.org/Type/is_a_/event/literary_event.md) 
-- [literary_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/literary_event.internal.md) 
-- [literary_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/literary_event.protect.md) 
-- [literary_event.private](../../../../../_private/schema.org/Type/is_a_/event/literary_event.private.md) 
-- [literary_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/literary_event.personal.md) 
-- [literary_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/literary_event.secret.md) 

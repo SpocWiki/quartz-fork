@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ruovesi](../../../../../../_public/geo/Continent/Europe/Finland/City/Ruovesi.md) 
-- [Ruovesi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Ruovesi.internal.md) 
-- [Ruovesi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Ruovesi.protect.md) 
-- [Ruovesi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Ruovesi.private.md) 
-- [Ruovesi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Ruovesi.personal.md) 
-- [Ruovesi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Ruovesi.secret.md) 

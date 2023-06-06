@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moutiers](../../../../../../_public/geo/Continent/Europe/France/City/Moutiers.md) 
-- [Moutiers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Moutiers.internal.md) 
-- [Moutiers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Moutiers.protect.md) 
-- [Moutiers.private](../../../../../../_private/geo/Continent/Europe/France/City/Moutiers.private.md) 
-- [Moutiers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Moutiers.personal.md) 
-- [Moutiers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Moutiers.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vuonatjoiken](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vuonatjoiken.md) 
-- [Vuonatjoiken.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vuonatjoiken.internal.md) 
-- [Vuonatjoiken.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vuonatjoiken.protect.md) 
-- [Vuonatjoiken.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vuonatjoiken.private.md) 
-- [Vuonatjoiken.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vuonatjoiken.personal.md) 
-- [Vuonatjoiken.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vuonatjoiken.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Birminghamstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Birminghamstra%C3%9Fe.md) 
-- [T-Birminghamstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Birminghamstra%C3%9Fe.internal.md) 
-- [T-Birminghamstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Birminghamstra%C3%9Fe.protect.md) 
-- [T-Birminghamstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Birminghamstra%C3%9Fe.private.md) 
-- [T-Birminghamstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Birminghamstra%C3%9Fe.personal.md) 
-- [T-Birminghamstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Birminghamstra%C3%9Fe.secret.md) 

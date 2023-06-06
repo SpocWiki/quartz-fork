@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mariensee](../../../../../../_public/geo/Continent/Europe/Poland/City/Mariensee.md) 
-- [Mariensee.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Mariensee.internal.md) 
-- [Mariensee.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Mariensee.protect.md) 
-- [Mariensee.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Mariensee.private.md) 
-- [Mariensee.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Mariensee.personal.md) 
-- [Mariensee.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Mariensee.secret.md) 

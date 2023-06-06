@@ -45,10 +45,3 @@ A trip on a commercial ferry line.
 
 
 
-## Confidential Links & Embeds: 
-- [boat_trip](../../../../../../_public/schema.org/Type/is_a_/intangible/trip/boat_trip.md) 
-- [boat_trip.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/trip/boat_trip.internal.md) 
-- [boat_trip.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/trip/boat_trip.protect.md) 
-- [boat_trip.private](../../../../../../_private/schema.org/Type/is_a_/intangible/trip/boat_trip.private.md) 
-- [boat_trip.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/trip/boat_trip.personal.md) 
-- [boat_trip.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/trip/boat_trip.secret.md) 

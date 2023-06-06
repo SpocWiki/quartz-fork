@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_bank_account_type](../../../../_public/schema.org/Predicate/Texts/has_bank_account_type.md) 
-- [has_bank_account_type.internal](../../../../_internal/schema.org/Predicate/Texts/has_bank_account_type.internal.md) 
-- [has_bank_account_type.protect](../../../../_protect/schema.org/Predicate/Texts/has_bank_account_type.protect.md) 
-- [has_bank_account_type.private](../../../../_private/schema.org/Predicate/Texts/has_bank_account_type.private.md) 
-- [has_bank_account_type.personal](../../../../_personal/schema.org/Predicate/Texts/has_bank_account_type.personal.md) 
-- [has_bank_account_type.secret](../../../../_secret/schema.org/Predicate/Texts/has_bank_account_type.secret.md) 

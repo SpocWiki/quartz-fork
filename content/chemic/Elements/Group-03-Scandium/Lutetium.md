@@ -33,10 +33,3 @@ title: Lutetium
 
 
 
-## Confidential Links & Embeds: 
-- [Lutetium](../../../../_public/chemic/Elements/Group-03-Scandium/Lutetium.md) 
-- [Lutetium.internal](../../../../_internal/chemic/Elements/Group-03-Scandium/Lutetium.internal.md) 
-- [Lutetium.protect](../../../../_protect/chemic/Elements/Group-03-Scandium/Lutetium.protect.md) 
-- [Lutetium.private](../../../../_private/chemic/Elements/Group-03-Scandium/Lutetium.private.md) 
-- [Lutetium.personal](../../../../_personal/chemic/Elements/Group-03-Scandium/Lutetium.personal.md) 
-- [Lutetium.secret](../../../../_secret/chemic/Elements/Group-03-Scandium/Lutetium.secret.md) 

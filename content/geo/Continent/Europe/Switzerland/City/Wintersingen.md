@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wintersingen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Wintersingen.md) 
-- [Wintersingen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Wintersingen.internal.md) 
-- [Wintersingen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Wintersingen.protect.md) 
-- [Wintersingen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Wintersingen.private.md) 
-- [Wintersingen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Wintersingen.personal.md) 
-- [Wintersingen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Wintersingen.secret.md) 

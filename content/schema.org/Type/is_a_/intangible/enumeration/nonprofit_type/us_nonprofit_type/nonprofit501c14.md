@@ -47,10 +47,3 @@ Nonprofit501c14: Non-profit type referring to State-Chartered Credit Unions, Mut
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c14](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.md) 
-- [nonprofit501c14.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.internal.md) 
-- [nonprofit501c14.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.protect.md) 
-- [nonprofit501c14.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.private.md) 
-- [nonprofit501c14.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.personal.md) 
-- [nonprofit501c14.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.secret.md) 

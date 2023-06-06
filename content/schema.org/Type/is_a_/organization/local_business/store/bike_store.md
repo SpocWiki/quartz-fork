@@ -43,10 +43,3 @@ A bike store.
 
 
 
-## Confidential Links & Embeds: 
-- [bike_store](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/bike_store.md) 
-- [bike_store.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/bike_store.internal.md) 
-- [bike_store.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/bike_store.protect.md) 
-- [bike_store.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/bike_store.private.md) 
-- [bike_store.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/bike_store.personal.md) 
-- [bike_store.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/bike_store.secret.md) 

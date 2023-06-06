@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siewier](../../../../../../_public/geo/Continent/Europe/Poland/City/Siewier.md) 
-- [Siewier.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Siewier.internal.md) 
-- [Siewier.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Siewier.protect.md) 
-- [Siewier.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Siewier.private.md) 
-- [Siewier.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Siewier.personal.md) 
-- [Siewier.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Siewier.secret.md) 

@@ -121,7 +121,7 @@ markerFolder: ./Benin/City
 
 ![350](geo/Continent/Africa/Benin/Coat_of_arms_of_Benin.svg)
 
-![Anthem-Benin](xLarge/National-Anthem/Anthem-Benin.mp3)
+[Anthem-Benin](xLarge/National-Anthem/Anthem-Benin.mp3)
 
 ![350](geo/Continent/Africa/Benin/Flag_of_Benin.svg)
 [Alcohol-l::2.2]
@@ -131,10 +131,3 @@ markerFolder: ./Benin/City
 
 
 
-## Confidential Links & Embeds: 
-- [Benin](../../../../_public/geo/Continent/Africa/Benin.md) 
-- [Benin.internal](../../../../_internal/geo/Continent/Africa/Benin.internal.md) 
-- [Benin.protect](../../../../_protect/geo/Continent/Africa/Benin.protect.md) 
-- [Benin.private](../../../../_private/geo/Continent/Africa/Benin.private.md) 
-- [Benin.personal](../../../../_personal/geo/Continent/Africa/Benin.personal.md) 
-- [Benin.secret](../../../../_secret/geo/Continent/Africa/Benin.secret.md) 

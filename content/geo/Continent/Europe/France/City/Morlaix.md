@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Morlaix](../../../../../../_public/geo/Continent/Europe/France/City/Morlaix.md) 
-- [Morlaix.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Morlaix.internal.md) 
-- [Morlaix.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Morlaix.protect.md) 
-- [Morlaix.private](../../../../../../_private/geo/Continent/Europe/France/City/Morlaix.private.md) 
-- [Morlaix.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Morlaix.personal.md) 
-- [Morlaix.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Morlaix.secret.md) 

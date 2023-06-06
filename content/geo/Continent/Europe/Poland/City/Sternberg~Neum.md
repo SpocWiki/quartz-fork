@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sternberg~Neum](../../../../../../_public/geo/Continent/Europe/Poland/City/Sternberg~Neum.md) 
-- [Sternberg~Neum.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sternberg~Neum.internal.md) 
-- [Sternberg~Neum.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sternberg~Neum.protect.md) 
-- [Sternberg~Neum.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sternberg~Neum.private.md) 
-- [Sternberg~Neum.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sternberg~Neum.personal.md) 
-- [Sternberg~Neum.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sternberg~Neum.secret.md) 

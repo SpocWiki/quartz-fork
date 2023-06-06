@@ -123,7 +123,7 @@ markerFolder: ./Croatia/City
 [VehicleCode::HR]
 [Capital::[Zagreb](geo/Continent/Europe/Croatia/City/Zagreb.md)]
 ![350](geo/Continent/Europe/Croatia/Coat_of_arms_of_Croatia.svg)
-![Anthem-Croatia](xLarge/National-Anthem/Anthem-Croatia.mp3)
+[Anthem-Croatia](xLarge/National-Anthem/Anthem-Croatia.mp3)
 ![350](geo/Continent/Europe/Croatia/Flag_of_Croatia.svg)
 [Alcohol-l::15.1]
 [Language-Id::]
@@ -132,10 +132,3 @@ markerFolder: ./Croatia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Croatia](../../../../_public/geo/Continent/Europe/Croatia.md) 
-- [Croatia.internal](../../../../_internal/geo/Continent/Europe/Croatia.internal.md) 
-- [Croatia.protect](../../../../_protect/geo/Continent/Europe/Croatia.protect.md) 
-- [Croatia.private](../../../../_private/geo/Continent/Europe/Croatia.private.md) 
-- [Croatia.personal](../../../../_personal/geo/Continent/Europe/Croatia.personal.md) 
-- [Croatia.secret](../../../../_secret/geo/Continent/Europe/Croatia.secret.md) 

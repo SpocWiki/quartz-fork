@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Finkenwalde](../../../../../../_public/geo/Continent/Europe/Poland/City/Finkenwalde.md) 
-- [Finkenwalde.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Finkenwalde.internal.md) 
-- [Finkenwalde.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Finkenwalde.protect.md) 
-- [Finkenwalde.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Finkenwalde.private.md) 
-- [Finkenwalde.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Finkenwalde.personal.md) 
-- [Finkenwalde.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Finkenwalde.secret.md) 

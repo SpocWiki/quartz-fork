@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_screenshot](../../../../../_public/schema.org/Predicate/Relations/has/has_screenshot.md) 
-- [has_screenshot.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_screenshot.internal.md) 
-- [has_screenshot.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_screenshot.protect.md) 
-- [has_screenshot.private](../../../../../_private/schema.org/Predicate/Relations/has/has_screenshot.private.md) 
-- [has_screenshot.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_screenshot.personal.md) 
-- [has_screenshot.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_screenshot.secret.md) 

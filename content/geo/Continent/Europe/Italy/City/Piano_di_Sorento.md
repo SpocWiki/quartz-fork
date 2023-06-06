@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Piano_di_Sorento](../../../../../../_public/geo/Continent/Europe/Italy/City/Piano_di_Sorento.md) 
-- [Piano_di_Sorento.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Piano_di_Sorento.internal.md) 
-- [Piano_di_Sorento.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Piano_di_Sorento.protect.md) 
-- [Piano_di_Sorento.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Piano_di_Sorento.private.md) 
-- [Piano_di_Sorento.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Piano_di_Sorento.personal.md) 
-- [Piano_di_Sorento.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Piano_di_Sorento.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Keina](../../../../../../_public/geo/Continent/Europe/Russia/City/Keina.md) 
-- [Keina.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Keina.internal.md) 
-- [Keina.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Keina.protect.md) 
-- [Keina.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Keina.private.md) 
-- [Keina.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Keina.personal.md) 
-- [Keina.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Keina.secret.md) 

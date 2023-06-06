@@ -45,10 +45,3 @@ BroadcastRelease.
 
 
 
-## Confidential Links & Embeds: 
-- [broadcast_release](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.md) 
-- [broadcast_release.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.internal.md) 
-- [broadcast_release.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.protect.md) 
-- [broadcast_release.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.private.md) 
-- [broadcast_release.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.personal.md) 
-- [broadcast_release.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.secret.md) 

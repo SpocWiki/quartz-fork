@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Allach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Allach.md) 
-- [Allach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Allach.internal.md) 
-- [Allach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Allach.protect.md) 
-- [Allach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Allach.private.md) 
-- [Allach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Allach.personal.md) 
-- [Allach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Allach.secret.md) 

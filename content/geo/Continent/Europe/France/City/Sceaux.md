@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sceaux](../../../../../../_public/geo/Continent/Europe/France/City/Sceaux.md) 
-- [Sceaux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Sceaux.internal.md) 
-- [Sceaux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Sceaux.protect.md) 
-- [Sceaux.private](../../../../../../_private/geo/Continent/Europe/France/City/Sceaux.private.md) 
-- [Sceaux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Sceaux.personal.md) 
-- [Sceaux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Sceaux.secret.md) 

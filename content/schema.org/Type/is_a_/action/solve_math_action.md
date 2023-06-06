@@ -45,10 +45,3 @@ The action that takes in a math expression and directs users to a page potential
 
 
 
-## Confidential Links & Embeds: 
-- [solve_math_action](../../../../../_public/schema.org/Type/is_a_/action/solve_math_action.md) 
-- [solve_math_action.internal](../../../../../_internal/schema.org/Type/is_a_/action/solve_math_action.internal.md) 
-- [solve_math_action.protect](../../../../../_protect/schema.org/Type/is_a_/action/solve_math_action.protect.md) 
-- [solve_math_action.private](../../../../../_private/schema.org/Type/is_a_/action/solve_math_action.private.md) 
-- [solve_math_action.personal](../../../../../_personal/schema.org/Type/is_a_/action/solve_math_action.personal.md) 
-- [solve_math_action.secret](../../../../../_secret/schema.org/Type/is_a_/action/solve_math_action.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taldy-Kurgan](../../../../../../_public/geo/Continent/Europe/Russia/City/Taldy-Kurgan.md) 
-- [Taldy-Kurgan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Taldy-Kurgan.internal.md) 
-- [Taldy-Kurgan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Taldy-Kurgan.protect.md) 
-- [Taldy-Kurgan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Taldy-Kurgan.private.md) 
-- [Taldy-Kurgan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Taldy-Kurgan.personal.md) 
-- [Taldy-Kurgan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Taldy-Kurgan.secret.md) 

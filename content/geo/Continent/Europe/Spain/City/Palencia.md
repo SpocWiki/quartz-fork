@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palencia](../../../../../../_public/geo/Continent/Europe/Spain/City/Palencia.md) 
-- [Palencia.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Palencia.internal.md) 
-- [Palencia.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Palencia.protect.md) 
-- [Palencia.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Palencia.private.md) 
-- [Palencia.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Palencia.personal.md) 
-- [Palencia.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Palencia.secret.md) 

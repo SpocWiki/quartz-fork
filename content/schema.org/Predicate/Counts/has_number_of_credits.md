@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_credits](../../../../_public/schema.org/Predicate/Counts/has_number_of_credits.md) 
-- [has_number_of_credits.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_credits.internal.md) 
-- [has_number_of_credits.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_credits.protect.md) 
-- [has_number_of_credits.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_credits.private.md) 
-- [has_number_of_credits.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_credits.personal.md) 
-- [has_number_of_credits.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_credits.secret.md) 

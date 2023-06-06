@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_players_online](../../../../_public/schema.org/Predicate/Counts/has_number_of_players_online.md) 
-- [has_number_of_players_online.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_players_online.internal.md) 
-- [has_number_of_players_online.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_players_online.protect.md) 
-- [has_number_of_players_online.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_players_online.private.md) 
-- [has_number_of_players_online.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_players_online.personal.md) 
-- [has_number_of_players_online.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_players_online.secret.md) 

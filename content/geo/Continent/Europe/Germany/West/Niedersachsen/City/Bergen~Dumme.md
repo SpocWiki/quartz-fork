@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bergen~Dumme](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.md) 
-- [Bergen~Dumme.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.internal.md) 
-- [Bergen~Dumme.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.protect.md) 
-- [Bergen~Dumme.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.private.md) 
-- [Bergen~Dumme.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.personal.md) 
-- [Bergen~Dumme.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bergen~Dumme.secret.md) 

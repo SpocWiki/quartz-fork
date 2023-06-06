@@ -43,10 +43,3 @@ A plumbing service.
 
 
 
-## Confidential Links & Embeds: 
-- [plumber](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/plumber.md) 
-- [plumber.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/plumber.internal.md) 
-- [plumber.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/plumber.protect.md) 
-- [plumber.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/plumber.private.md) 
-- [plumber.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/plumber.personal.md) 
-- [plumber.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/plumber.secret.md) 

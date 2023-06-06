@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tachow=Tachau](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.md) 
-- [Tachow=Tachau.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.internal.md) 
-- [Tachow=Tachau.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.protect.md) 
-- [Tachow=Tachau.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.private.md) 
-- [Tachow=Tachau.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.personal.md) 
-- [Tachow=Tachau.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.secret.md) 

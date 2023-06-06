@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ottobeuren](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.md) 
-- [Ottobeuren.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.internal.md) 
-- [Ottobeuren.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.protect.md) 
-- [Ottobeuren.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.private.md) 
-- [Ottobeuren.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.personal.md) 
-- [Ottobeuren.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ottobeuren.secret.md) 

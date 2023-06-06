@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Puettlingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.md) 
-- [Puettlingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.internal.md) 
-- [Puettlingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.protect.md) 
-- [Puettlingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.private.md) 
-- [Puettlingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.personal.md) 
-- [Puettlingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Puettlingen.secret.md) 

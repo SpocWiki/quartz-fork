@@ -30,7 +30,7 @@ markerFolder: ./Czech_Republic/City
 [VehicleCode::CZ]
 [Capital::[Praha](geo/Continent/Europe/Czech_Republic/City/Praha.md)]
 ![350](Coat_of_arms_of_Czech-republic.svg)
-![Anthem-Czech-republic](xLarge/National-Anthem/Anthem-Czech-republic.mp3)
+[Anthem-Czech-republic](xLarge/National-Anthem/Anthem-Czech-republic.mp3)
 ![350](Flag_of_Czech-republic.svg)
 [Alcohol-l::16.5]
 [Language-Id::]
@@ -39,10 +39,3 @@ markerFolder: ./Czech_Republic/City
 
 
 
-## Confidential Links & Embeds: 
-- [Czech_Republic](../../../../_public/geo/Continent/Europe/Czech_Republic.md) 
-- [Czech_Republic.internal](../../../../_internal/geo/Continent/Europe/Czech_Republic.internal.md) 
-- [Czech_Republic.protect](../../../../_protect/geo/Continent/Europe/Czech_Republic.protect.md) 
-- [Czech_Republic.private](../../../../_private/geo/Continent/Europe/Czech_Republic.private.md) 
-- [Czech_Republic.personal](../../../../_personal/geo/Continent/Europe/Czech_Republic.personal.md) 
-- [Czech_Republic.secret](../../../../_secret/geo/Continent/Europe/Czech_Republic.secret.md) 

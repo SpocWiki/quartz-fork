@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bergheim~Erft](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergheim~Erft.md) 
-- [Bergheim~Erft.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergheim~Erft.internal.md) 
-- [Bergheim~Erft.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergheim~Erft.protect.md) 
-- [Bergheim~Erft.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergheim~Erft.private.md) 
-- [Bergheim~Erft.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergheim~Erft.personal.md) 
-- [Bergheim~Erft.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergheim~Erft.secret.md) 

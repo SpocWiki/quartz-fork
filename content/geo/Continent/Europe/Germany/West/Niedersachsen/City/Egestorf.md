@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Egestorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.md) 
-- [Egestorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.internal.md) 
-- [Egestorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.protect.md) 
-- [Egestorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.private.md) 
-- [Egestorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.personal.md) 
-- [Egestorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Egestorf.secret.md) 

@@ -16,11 +16,3 @@ type: folder_brief_live
  
 
 
-## Confidential Links & Embeds: 
-- [Continent](../../_public/geo/Continent.md) 
-- [Continent.internal](../../_internal/geo/Continent.internal.md) 
-- [Continent.protect](../../_protect/geo/Continent.protect.md) 
-- [Continent.private](../../_private/geo/Continent.private.md) 
-- [Continent.personal](../../_personal/geo/Continent.personal.md) 
-- [Continent.secret](../../_secret/geo/Continent.secret.md)
-

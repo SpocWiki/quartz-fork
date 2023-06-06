@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oldesloe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldesloe.md) 
-- [Oldesloe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldesloe.internal.md) 
-- [Oldesloe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldesloe.protect.md) 
-- [Oldesloe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldesloe.private.md) 
-- [Oldesloe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldesloe.personal.md) 
-- [Oldesloe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldesloe.secret.md) 

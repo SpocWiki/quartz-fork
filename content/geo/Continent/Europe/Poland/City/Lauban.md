@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauban](../../../../../../_public/geo/Continent/Europe/Poland/City/Lauban.md) 
-- [Lauban.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lauban.internal.md) 
-- [Lauban.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lauban.protect.md) 
-- [Lauban.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lauban.private.md) 
-- [Lauban.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lauban.personal.md) 
-- [Lauban.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lauban.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beafort](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Beafort.md) 
-- [Beafort.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Beafort.internal.md) 
-- [Beafort.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Beafort.protect.md) 
-- [Beafort.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Beafort.private.md) 
-- [Beafort.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Beafort.personal.md) 
-- [Beafort.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Beafort.secret.md) 

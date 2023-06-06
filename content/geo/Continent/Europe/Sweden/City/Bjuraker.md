@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bjuraker](../../../../../../_public/geo/Continent/Europe/Sweden/City/Bjuraker.md) 
-- [Bjuraker.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bjuraker.internal.md) 
-- [Bjuraker.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bjuraker.protect.md) 
-- [Bjuraker.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Bjuraker.private.md) 
-- [Bjuraker.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bjuraker.personal.md) 
-- [Bjuraker.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bjuraker.secret.md) 

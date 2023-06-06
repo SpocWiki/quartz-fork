@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rheinsberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rheinsberg.md) 
-- [Rheinsberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rheinsberg.internal.md) 
-- [Rheinsberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rheinsberg.protect.md) 
-- [Rheinsberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rheinsberg.private.md) 
-- [Rheinsberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rheinsberg.personal.md) 
-- [Rheinsberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rheinsberg.secret.md) 

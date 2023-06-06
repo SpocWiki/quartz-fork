@@ -19,10 +19,3 @@ title: Triz-Speed+Homogeneity-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Homogeneity-Stability](../../../../_public/tech/Triz/Contradict/Triz-Speed+Homogeneity-Stability.md) 
-- [Triz-Speed+Homogeneity-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Homogeneity-Stability.internal.md) 
-- [Triz-Speed+Homogeneity-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Homogeneity-Stability.protect.md) 
-- [Triz-Speed+Homogeneity-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Homogeneity-Stability.private.md) 
-- [Triz-Speed+Homogeneity-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Homogeneity-Stability.personal.md) 
-- [Triz-Speed+Homogeneity-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Homogeneity-Stability.secret.md) 

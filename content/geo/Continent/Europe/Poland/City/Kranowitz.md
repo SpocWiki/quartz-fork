@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kranowitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Kranowitz.md) 
-- [Kranowitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kranowitz.internal.md) 
-- [Kranowitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kranowitz.protect.md) 
-- [Kranowitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kranowitz.private.md) 
-- [Kranowitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kranowitz.personal.md) 
-- [Kranowitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kranowitz.secret.md) 

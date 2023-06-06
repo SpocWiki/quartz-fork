@@ -43,10 +43,3 @@ A product taken by mouth that contains a dietary ingredient intended to suppleme
 
 
 
-## Confidential Links & Embeds: 
-- [dietary_supplement](../../../../../_public/schema.org/Type/is_a_/product/dietary_supplement.md) 
-- [dietary_supplement.internal](../../../../../_internal/schema.org/Type/is_a_/product/dietary_supplement.internal.md) 
-- [dietary_supplement.protect](../../../../../_protect/schema.org/Type/is_a_/product/dietary_supplement.protect.md) 
-- [dietary_supplement.private](../../../../../_private/schema.org/Type/is_a_/product/dietary_supplement.private.md) 
-- [dietary_supplement.personal](../../../../../_personal/schema.org/Type/is_a_/product/dietary_supplement.personal.md) 
-- [dietary_supplement.secret](../../../../../_secret/schema.org/Type/is_a_/product/dietary_supplement.secret.md) 

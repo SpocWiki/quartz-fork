@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Idlewild](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.md) 
-- [Idlewild.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.internal.md) 
-- [Idlewild.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.protect.md) 
-- [Idlewild.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.private.md) 
-- [Idlewild.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.personal.md) 
-- [Idlewild.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/Idlewild.secret.md) 

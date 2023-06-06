@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirensk](../../../../../../_public/geo/Continent/Europe/Russia/City/Kirensk.md) 
-- [Kirensk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirensk.internal.md) 
-- [Kirensk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirensk.protect.md) 
-- [Kirensk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kirensk.private.md) 
-- [Kirensk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirensk.personal.md) 
-- [Kirensk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirensk.secret.md) 

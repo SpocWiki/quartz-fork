@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Leonis_Minoris-2](../../../_public/astro/Star/Leonis_Minoris-2.md) 
-- [Leonis_Minoris-2.internal](../../../_internal/astro/Star/Leonis_Minoris-2.internal.md) 
-- [Leonis_Minoris-2.protect](../../../_protect/astro/Star/Leonis_Minoris-2.protect.md) 
-- [Leonis_Minoris-2.private](../../../_private/astro/Star/Leonis_Minoris-2.private.md) 
-- [Leonis_Minoris-2.personal](../../../_personal/astro/Star/Leonis_Minoris-2.personal.md) 
-- [Leonis_Minoris-2.secret](../../../_secret/astro/Star/Leonis_Minoris-2.secret.md) 

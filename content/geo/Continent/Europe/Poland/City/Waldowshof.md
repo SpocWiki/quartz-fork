@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldowshof](../../../../../../_public/geo/Continent/Europe/Poland/City/Waldowshof.md) 
-- [Waldowshof.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Waldowshof.internal.md) 
-- [Waldowshof.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Waldowshof.protect.md) 
-- [Waldowshof.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Waldowshof.private.md) 
-- [Waldowshof.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Waldowshof.personal.md) 
-- [Waldowshof.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Waldowshof.secret.md) 

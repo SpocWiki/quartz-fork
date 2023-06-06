@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gainsborough](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Gainsborough.md) 
-- [Gainsborough.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gainsborough.internal.md) 
-- [Gainsborough.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gainsborough.protect.md) 
-- [Gainsborough.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gainsborough.private.md) 
-- [Gainsborough.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gainsborough.personal.md) 
-- [Gainsborough.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gainsborough.secret.md) 

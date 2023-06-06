@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mardakert](../../../../../../_public/geo/Continent/Europe/Russia/City/Mardakert.md) 
-- [Mardakert.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mardakert.internal.md) 
-- [Mardakert.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mardakert.protect.md) 
-- [Mardakert.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mardakert.private.md) 
-- [Mardakert.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mardakert.personal.md) 
-- [Mardakert.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mardakert.secret.md) 

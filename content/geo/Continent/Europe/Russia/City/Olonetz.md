@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Olonetz](../../../../../../_public/geo/Continent/Europe/Russia/City/Olonetz.md) 
-- [Olonetz.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Olonetz.internal.md) 
-- [Olonetz.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Olonetz.protect.md) 
-- [Olonetz.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Olonetz.private.md) 
-- [Olonetz.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Olonetz.personal.md) 
-- [Olonetz.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Olonetz.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bergstettin](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bergstettin.md) 
-- [Bergstettin.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bergstettin.internal.md) 
-- [Bergstettin.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bergstettin.protect.md) 
-- [Bergstettin.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bergstettin.private.md) 
-- [Bergstettin.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bergstettin.personal.md) 
-- [Bergstettin.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bergstettin.secret.md) 

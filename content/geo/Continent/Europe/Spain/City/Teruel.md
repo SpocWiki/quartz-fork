@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teruel](../../../../../../_public/geo/Continent/Europe/Spain/City/Teruel.md) 
-- [Teruel.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Teruel.internal.md) 
-- [Teruel.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Teruel.protect.md) 
-- [Teruel.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Teruel.private.md) 
-- [Teruel.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Teruel.personal.md) 
-- [Teruel.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Teruel.secret.md) 

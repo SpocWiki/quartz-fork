@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seeven](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Seeven.md) 
-- [Seeven.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Seeven.internal.md) 
-- [Seeven.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Seeven.protect.md) 
-- [Seeven.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Seeven.private.md) 
-- [Seeven.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Seeven.personal.md) 
-- [Seeven.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Seeven.secret.md) 

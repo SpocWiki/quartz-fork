@@ -45,10 +45,3 @@ Any physical manifestation of a person's medical condition discoverable by objec
 
 
 
-## Confidential Links & Embeds: 
-- [medical_sign](../../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.md) 
-- [medical_sign.internal](../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.internal.md) 
-- [medical_sign.protect](../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.protect.md) 
-- [medical_sign.private](../../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.private.md) 
-- [medical_sign.personal](../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.personal.md) 
-- [medical_sign.secret](../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.secret.md) 

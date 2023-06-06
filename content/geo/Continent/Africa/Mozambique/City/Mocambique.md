@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mocambique](../../../../../../_public/geo/Continent/Africa/Mozambique/City/Mocambique.md) 
-- [Mocambique.internal](../../../../../../_internal/geo/Continent/Africa/Mozambique/City/Mocambique.internal.md) 
-- [Mocambique.protect](../../../../../../_protect/geo/Continent/Africa/Mozambique/City/Mocambique.protect.md) 
-- [Mocambique.private](../../../../../../_private/geo/Continent/Africa/Mozambique/City/Mocambique.private.md) 
-- [Mocambique.personal](../../../../../../_personal/geo/Continent/Africa/Mozambique/City/Mocambique.personal.md) 
-- [Mocambique.secret](../../../../../../_secret/geo/Continent/Africa/Mozambique/City/Mocambique.secret.md) 

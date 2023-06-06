@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Claussnitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Claussnitz.md) 
-- [Claussnitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Claussnitz.internal.md) 
-- [Claussnitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Claussnitz.protect.md) 
-- [Claussnitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Claussnitz.private.md) 
-- [Claussnitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Claussnitz.personal.md) 
-- [Claussnitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Claussnitz.secret.md) 

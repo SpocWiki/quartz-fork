@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Rebstöcker_Straße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebst%C3%B6cker_Stra%C3%9Fe.md) 
-- [T-Rebstöcker_Straße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebst%C3%B6cker_Stra%C3%9Fe.internal.md) 
-- [T-Rebstöcker_Straße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebst%C3%B6cker_Stra%C3%9Fe.protect.md) 
-- [T-Rebstöcker_Straße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebst%C3%B6cker_Stra%C3%9Fe.private.md) 
-- [T-Rebstöcker_Straße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebst%C3%B6cker_Stra%C3%9Fe.personal.md) 
-- [T-Rebstöcker_Straße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rebst%C3%B6cker_Stra%C3%9Fe.secret.md) 

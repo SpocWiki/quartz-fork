@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oslo](../../../../../../_public/geo/Continent/Europe/Norway/City/Oslo.md) 
-- [Oslo.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Oslo.internal.md) 
-- [Oslo.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Oslo.protect.md) 
-- [Oslo.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Oslo.private.md) 
-- [Oslo.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Oslo.personal.md) 
-- [Oslo.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Oslo.secret.md) 

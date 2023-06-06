@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muri](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Muri.md) 
-- [Muri.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Muri.internal.md) 
-- [Muri.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Muri.protect.md) 
-- [Muri.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Muri.private.md) 
-- [Muri.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Muri.personal.md) 
-- [Muri.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Muri.secret.md) 

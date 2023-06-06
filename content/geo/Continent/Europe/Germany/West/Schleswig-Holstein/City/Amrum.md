@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amrum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.md) 
-- [Amrum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.internal.md) 
-- [Amrum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.protect.md) 
-- [Amrum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.private.md) 
-- [Amrum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.personal.md) 
-- [Amrum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Amrum.secret.md) 

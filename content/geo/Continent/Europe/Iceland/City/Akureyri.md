@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Akureyri](../../../../../../_public/geo/Continent/Europe/Iceland/City/Akureyri.md) 
-- [Akureyri.internal](../../../../../../_internal/geo/Continent/Europe/Iceland/City/Akureyri.internal.md) 
-- [Akureyri.protect](../../../../../../_protect/geo/Continent/Europe/Iceland/City/Akureyri.protect.md) 
-- [Akureyri.private](../../../../../../_private/geo/Continent/Europe/Iceland/City/Akureyri.private.md) 
-- [Akureyri.personal](../../../../../../_personal/geo/Continent/Europe/Iceland/City/Akureyri.personal.md) 
-- [Akureyri.secret](../../../../../../_secret/geo/Continent/Europe/Iceland/City/Akureyri.secret.md) 

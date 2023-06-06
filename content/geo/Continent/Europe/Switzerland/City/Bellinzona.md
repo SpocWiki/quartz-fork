@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bellinzona](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bellinzona.md) 
-- [Bellinzona.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bellinzona.internal.md) 
-- [Bellinzona.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bellinzona.protect.md) 
-- [Bellinzona.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bellinzona.private.md) 
-- [Bellinzona.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bellinzona.personal.md) 
-- [Bellinzona.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bellinzona.secret.md) 

@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_accepted_offer](../../../../../_public/schema.org/Predicate/Relations/has/has_accepted_offer.md) 
-- [has_accepted_offer.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_accepted_offer.internal.md) 
-- [has_accepted_offer.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_accepted_offer.protect.md) 
-- [has_accepted_offer.private](../../../../../_private/schema.org/Predicate/Relations/has/has_accepted_offer.private.md) 
-- [has_accepted_offer.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_accepted_offer.personal.md) 
-- [has_accepted_offer.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_accepted_offer.secret.md) 

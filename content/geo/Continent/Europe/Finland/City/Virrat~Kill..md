@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Virrat~Kill.](../../../../../../_public/geo/Continent/Europe/Finland/City/Virrat~Kill..md) 
-- [Virrat~Kill..internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Virrat~Kill..internal.md) 
-- [Virrat~Kill..protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Virrat~Kill..protect.md) 
-- [Virrat~Kill..private](../../../../../../_private/geo/Continent/Europe/Finland/City/Virrat~Kill..private.md) 
-- [Virrat~Kill..personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Virrat~Kill..personal.md) 
-- [Virrat~Kill..secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Virrat~Kill..secret.md) 

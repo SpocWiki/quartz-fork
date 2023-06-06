@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Newport](../../../../../../_public/geo/Continent/Europe/Ireland/City/Newport.md) 
-- [Newport.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Newport.internal.md) 
-- [Newport.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Newport.protect.md) 
-- [Newport.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Newport.private.md) 
-- [Newport.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Newport.personal.md) 
-- [Newport.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Newport.secret.md) 

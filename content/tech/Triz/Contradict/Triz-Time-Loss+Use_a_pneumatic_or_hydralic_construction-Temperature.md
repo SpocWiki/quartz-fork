@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.md) 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.internal.md) 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.protect.md) 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.private.md) 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.personal.md) 
-- [Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Use_a_pneumatic_or_hydralic_construction-Temperature.secret.md) 

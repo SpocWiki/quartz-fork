@@ -45,10 +45,3 @@ An audiobook.
 
 
 
-## Confidential Links & Embeds: 
-- [audiobook](../../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.md) 
-- [audiobook.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.internal.md) 
-- [audiobook.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.protect.md) 
-- [audiobook.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.private.md) 
-- [audiobook.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.personal.md) 
-- [audiobook.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.secret.md) 

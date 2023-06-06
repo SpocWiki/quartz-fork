@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ganderkesee](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ganderkesee.md) 
-- [Ganderkesee.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ganderkesee.internal.md) 
-- [Ganderkesee.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ganderkesee.protect.md) 
-- [Ganderkesee.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ganderkesee.private.md) 
-- [Ganderkesee.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ganderkesee.personal.md) 
-- [Ganderkesee.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ganderkesee.secret.md) 

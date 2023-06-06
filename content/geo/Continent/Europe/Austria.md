@@ -124,7 +124,7 @@ markerFolder: ./Austria/City
 
 
 ![350](geo/Continent/Europe/Austria/Coat_of_arms_of_Austria.svg)
-![Anthem-Austria](xLarge/National-Anthem/Anthem-Austria.mp3)
+[Anthem-Austria](xLarge/National-Anthem/Anthem-Austria.mp3)
 ![350](geo/Continent/Europe/Austria/Flag_of_Austria.svg)
 
 [Alcohol-l::13.2]
@@ -134,10 +134,3 @@ markerFolder: ./Austria/City
 
 
 
-## Confidential Links & Embeds: 
-- [Austria](../../../../_public/geo/Continent/Europe/Austria.md) 
-- [Austria.internal](../../../../_internal/geo/Continent/Europe/Austria.internal.md) 
-- [Austria.protect](../../../../_protect/geo/Continent/Europe/Austria.protect.md) 
-- [Austria.private](../../../../_private/geo/Continent/Europe/Austria.private.md) 
-- [Austria.personal](../../../../_personal/geo/Continent/Europe/Austria.personal.md) 
-- [Austria.secret](../../../../_secret/geo/Continent/Europe/Austria.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Stability+Changing_the_color-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Changing_the_color-Power](../../../../_public/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.md) 
-- [Triz-Stability+Changing_the_color-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.internal.md) 
-- [Triz-Stability+Changing_the_color-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.protect.md) 
-- [Triz-Stability+Changing_the_color-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.private.md) 
-- [Triz-Stability+Changing_the_color-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.personal.md) 
-- [Triz-Stability+Changing_the_color-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Changing_the_color-Power.secret.md) 

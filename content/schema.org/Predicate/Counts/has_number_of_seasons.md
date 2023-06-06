@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_seasons](../../../../_public/schema.org/Predicate/Counts/has_number_of_seasons.md) 
-- [has_number_of_seasons.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_seasons.internal.md) 
-- [has_number_of_seasons.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_seasons.protect.md) 
-- [has_number_of_seasons.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_seasons.private.md) 
-- [has_number_of_seasons.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_seasons.personal.md) 
-- [has_number_of_seasons.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_seasons.secret.md) 

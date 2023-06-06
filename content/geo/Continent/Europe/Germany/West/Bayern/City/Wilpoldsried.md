@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wilpoldsried](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wilpoldsried.md) 
-- [Wilpoldsried.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wilpoldsried.internal.md) 
-- [Wilpoldsried.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wilpoldsried.protect.md) 
-- [Wilpoldsried.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wilpoldsried.private.md) 
-- [Wilpoldsried.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wilpoldsried.personal.md) 
-- [Wilpoldsried.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wilpoldsried.secret.md) 

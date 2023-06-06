@@ -19,10 +19,3 @@ title: Triz-Speed+Extraction-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Extraction-Power](../../../../_public/tech/Triz/Contradict/Triz-Speed+Extraction-Power.md) 
-- [Triz-Speed+Extraction-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Extraction-Power.internal.md) 
-- [Triz-Speed+Extraction-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Extraction-Power.protect.md) 
-- [Triz-Speed+Extraction-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Extraction-Power.private.md) 
-- [Triz-Speed+Extraction-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Extraction-Power.personal.md) 
-- [Triz-Speed+Extraction-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Extraction-Power.secret.md) 

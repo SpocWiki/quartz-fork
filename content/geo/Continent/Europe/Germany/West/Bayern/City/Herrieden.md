@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Herrieden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Herrieden.md) 
-- [Herrieden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Herrieden.internal.md) 
-- [Herrieden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Herrieden.protect.md) 
-- [Herrieden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Herrieden.private.md) 
-- [Herrieden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Herrieden.personal.md) 
-- [Herrieden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Herrieden.secret.md) 

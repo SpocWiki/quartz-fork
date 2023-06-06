@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eisenerz](../../../../../../_public/geo/Continent/Europe/Austria/City/Eisenerz.md) 
-- [Eisenerz.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Eisenerz.internal.md) 
-- [Eisenerz.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Eisenerz.protect.md) 
-- [Eisenerz.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Eisenerz.private.md) 
-- [Eisenerz.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Eisenerz.personal.md) 
-- [Eisenerz.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Eisenerz.secret.md) 

@@ -45,10 +45,3 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 
 
-## Confidential Links & Embeds: 
-- [user_tweets](../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_tweets.md) 
-- [user_tweets.internal](../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_tweets.internal.md) 
-- [user_tweets.protect](../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_tweets.protect.md) 
-- [user_tweets.private](../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_tweets.private.md) 
-- [user_tweets.personal](../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_tweets.personal.md) 
-- [user_tweets.secret](../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_tweets.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Viechtach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Viechtach.md) 
-- [Viechtach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Viechtach.internal.md) 
-- [Viechtach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Viechtach.protect.md) 
-- [Viechtach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Viechtach.private.md) 
-- [Viechtach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Viechtach.personal.md) 
-- [Viechtach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Viechtach.secret.md) 

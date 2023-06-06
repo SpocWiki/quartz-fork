@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mallow](../../../../../../_public/geo/Continent/Europe/Ireland/City/Mallow.md) 
-- [Mallow.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Mallow.internal.md) 
-- [Mallow.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Mallow.protect.md) 
-- [Mallow.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Mallow.private.md) 
-- [Mallow.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Mallow.personal.md) 
-- [Mallow.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Mallow.secret.md) 

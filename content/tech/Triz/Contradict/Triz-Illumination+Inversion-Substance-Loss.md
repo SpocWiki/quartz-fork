@@ -19,10 +19,3 @@ title: Triz-Illumination+Inversion-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Inversion-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Inversion-Substance-Loss.md) 
-- [Triz-Illumination+Inversion-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Inversion-Substance-Loss.internal.md) 
-- [Triz-Illumination+Inversion-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Inversion-Substance-Loss.protect.md) 
-- [Triz-Illumination+Inversion-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Inversion-Substance-Loss.private.md) 
-- [Triz-Illumination+Inversion-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Inversion-Substance-Loss.personal.md) 
-- [Triz-Illumination+Inversion-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Inversion-Substance-Loss.secret.md) 

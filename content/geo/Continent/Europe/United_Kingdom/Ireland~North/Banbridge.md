@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Banbridge](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.md) 
-- [Banbridge.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.internal.md) 
-- [Banbridge.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.protect.md) 
-- [Banbridge.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.private.md) 
-- [Banbridge.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.personal.md) 
-- [Banbridge.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Banbridge.secret.md) 

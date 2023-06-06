@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dhaka](../../../../../../_public/geo/Continent/Asia/Bangladesh/City/Dhaka.md) 
-- [Dhaka.internal](../../../../../../_internal/geo/Continent/Asia/Bangladesh/City/Dhaka.internal.md) 
-- [Dhaka.protect](../../../../../../_protect/geo/Continent/Asia/Bangladesh/City/Dhaka.protect.md) 
-- [Dhaka.private](../../../../../../_private/geo/Continent/Asia/Bangladesh/City/Dhaka.private.md) 
-- [Dhaka.personal](../../../../../../_personal/geo/Continent/Asia/Bangladesh/City/Dhaka.personal.md) 
-- [Dhaka.secret](../../../../../../_secret/geo/Continent/Asia/Bangladesh/City/Dhaka.secret.md) 

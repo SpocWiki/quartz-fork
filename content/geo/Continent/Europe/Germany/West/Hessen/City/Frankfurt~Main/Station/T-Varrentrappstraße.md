@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Varrentrappstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Varrentrappstra%C3%9Fe.md) 
-- [T-Varrentrappstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Varrentrappstra%C3%9Fe.internal.md) 
-- [T-Varrentrappstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Varrentrappstra%C3%9Fe.protect.md) 
-- [T-Varrentrappstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Varrentrappstra%C3%9Fe.private.md) 
-- [T-Varrentrappstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Varrentrappstra%C3%9Fe.personal.md) 
-- [T-Varrentrappstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Varrentrappstra%C3%9Fe.secret.md) 

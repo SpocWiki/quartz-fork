@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.internal.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.protect.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.private.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.personal.md) 
-- [Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Replacement_of_a_mechanical_system-Versatility.secret.md) 

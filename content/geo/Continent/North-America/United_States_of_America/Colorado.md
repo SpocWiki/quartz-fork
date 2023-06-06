@@ -39,10 +39,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Colorado](../../../../../_public/geo/Continent/North-America/United_States_of_America/Colorado.md) 
-- [Colorado.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Colorado.internal.md) 
-- [Colorado.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Colorado.protect.md) 
-- [Colorado.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Colorado.private.md) 
-- [Colorado.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Colorado.personal.md) 
-- [Colorado.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Colorado.secret.md) 

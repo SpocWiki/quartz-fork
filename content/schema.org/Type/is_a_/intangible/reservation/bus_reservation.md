@@ -45,10 +45,3 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 
-## Confidential Links & Embeds: 
-- [bus_reservation](../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/bus_reservation.md) 
-- [bus_reservation.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/bus_reservation.internal.md) 
-- [bus_reservation.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/bus_reservation.protect.md) 
-- [bus_reservation.private](../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/bus_reservation.private.md) 
-- [bus_reservation.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/bus_reservation.personal.md) 
-- [bus_reservation.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/bus_reservation.secret.md) 

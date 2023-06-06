@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brunsbuettelkoog](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.md) 
-- [Brunsbuettelkoog.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.internal.md) 
-- [Brunsbuettelkoog.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.protect.md) 
-- [Brunsbuettelkoog.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.private.md) 
-- [Brunsbuettelkoog.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.personal.md) 
-- [Brunsbuettelkoog.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Brunsbuettelkoog.secret.md) 

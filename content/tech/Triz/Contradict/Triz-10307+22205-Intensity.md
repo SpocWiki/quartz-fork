@@ -19,10 +19,3 @@ title: Triz-10307+22205-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22205-Intensity](../../../../_public/tech/Triz/Contradict/Triz-10307+22205-Intensity.md) 
-- [Triz-10307+22205-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22205-Intensity.internal.md) 
-- [Triz-10307+22205-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22205-Intensity.protect.md) 
-- [Triz-10307+22205-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22205-Intensity.private.md) 
-- [Triz-10307+22205-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22205-Intensity.personal.md) 
-- [Triz-10307+22205-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22205-Intensity.secret.md) 

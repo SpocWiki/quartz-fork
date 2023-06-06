@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spaatz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.md) 
-- [Spaatz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.internal.md) 
-- [Spaatz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.protect.md) 
-- [Spaatz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.private.md) 
-- [Spaatz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.personal.md) 
-- [Spaatz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Spaatz.secret.md) 

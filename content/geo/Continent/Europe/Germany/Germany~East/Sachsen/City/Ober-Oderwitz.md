@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ober-Oderwitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Oderwitz.md) 
-- [Ober-Oderwitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Oderwitz.internal.md) 
-- [Ober-Oderwitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Oderwitz.protect.md) 
-- [Ober-Oderwitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Oderwitz.private.md) 
-- [Ober-Oderwitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Oderwitz.personal.md) 
-- [Ober-Oderwitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ober-Oderwitz.secret.md) 

@@ -36,10 +36,3 @@ title: Thallium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thallium)
 
-## Confidential Links & Embeds: 
-- [Thallium](../../../../_public/chemic/Elements/Group-13-Boron/Thallium.md) 
-- [Thallium.internal](../../../../_internal/chemic/Elements/Group-13-Boron/Thallium.internal.md) 
-- [Thallium.protect](../../../../_protect/chemic/Elements/Group-13-Boron/Thallium.protect.md) 
-- [Thallium.private](../../../../_private/chemic/Elements/Group-13-Boron/Thallium.private.md) 
-- [Thallium.personal](../../../../_personal/chemic/Elements/Group-13-Boron/Thallium.personal.md) 
-- [Thallium.secret](../../../../_secret/chemic/Elements/Group-13-Boron/Thallium.secret.md) 

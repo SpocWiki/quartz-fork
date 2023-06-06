@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luechow](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.md) 
-- [Luechow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.internal.md) 
-- [Luechow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.protect.md) 
-- [Luechow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.private.md) 
-- [Luechow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.personal.md) 
-- [Luechow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luechow.secret.md) 

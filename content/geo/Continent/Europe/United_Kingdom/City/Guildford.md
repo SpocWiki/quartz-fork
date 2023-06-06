@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guildford](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Guildford.md) 
-- [Guildford.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Guildford.internal.md) 
-- [Guildford.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Guildford.protect.md) 
-- [Guildford.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Guildford.private.md) 
-- [Guildford.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Guildford.personal.md) 
-- [Guildford.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Guildford.secret.md) 

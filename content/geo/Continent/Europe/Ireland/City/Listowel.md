@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Listowel](../../../../../../_public/geo/Continent/Europe/Ireland/City/Listowel.md) 
-- [Listowel.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Listowel.internal.md) 
-- [Listowel.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Listowel.protect.md) 
-- [Listowel.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Listowel.private.md) 
-- [Listowel.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Listowel.personal.md) 
-- [Listowel.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Listowel.secret.md) 

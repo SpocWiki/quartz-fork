@@ -45,10 +45,3 @@ OrderStatus representing that there is a problem with the order.
 
 
 
-## Confidential Links & Embeds: 
-- [order_problem](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.md) 
-- [order_problem.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.internal.md) 
-- [order_problem.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.protect.md) 
-- [order_problem.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.private.md) 
-- [order_problem.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.personal.md) 
-- [order_problem.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.secret.md) 

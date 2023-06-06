@@ -45,10 +45,3 @@ A bus (also omnibus or autobus) is a road vehicle designed to carry passengers. 
 
 
 
-## Confidential Links & Embeds: 
-- [bus_or_coach](../../../../../../_public/schema.org/Type/is_a_/product/vehicle/bus_or_coach.md) 
-- [bus_or_coach.internal](../../../../../../_internal/schema.org/Type/is_a_/product/vehicle/bus_or_coach.internal.md) 
-- [bus_or_coach.protect](../../../../../../_protect/schema.org/Type/is_a_/product/vehicle/bus_or_coach.protect.md) 
-- [bus_or_coach.private](../../../../../../_private/schema.org/Type/is_a_/product/vehicle/bus_or_coach.private.md) 
-- [bus_or_coach.personal](../../../../../../_personal/schema.org/Type/is_a_/product/vehicle/bus_or_coach.personal.md) 
-- [bus_or_coach.secret](../../../../../../_secret/schema.org/Type/is_a_/product/vehicle/bus_or_coach.secret.md) 

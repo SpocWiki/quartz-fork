@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soltmahnen](../../../../../../_public/geo/Continent/Europe/Poland/City/Soltmahnen.md) 
-- [Soltmahnen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Soltmahnen.internal.md) 
-- [Soltmahnen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Soltmahnen.protect.md) 
-- [Soltmahnen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Soltmahnen.private.md) 
-- [Soltmahnen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Soltmahnen.personal.md) 
-- [Soltmahnen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Soltmahnen.secret.md) 

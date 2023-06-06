@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [La_Specia](../../../../../../_public/geo/Continent/Europe/Italy/City/La_Specia.md) 
-- [La_Specia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/La_Specia.internal.md) 
-- [La_Specia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/La_Specia.protect.md) 
-- [La_Specia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/La_Specia.private.md) 
-- [La_Specia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/La_Specia.personal.md) 
-- [La_Specia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/La_Specia.secret.md) 

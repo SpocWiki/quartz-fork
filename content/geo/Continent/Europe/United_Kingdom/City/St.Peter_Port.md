@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Peter_Port](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.md) 
-- [St.Peter_Port.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.internal.md) 
-- [St.Peter_Port.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.protect.md) 
-- [St.Peter_Port.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.private.md) 
-- [St.Peter_Port.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.personal.md) 
-- [St.Peter_Port.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Peter_Port.secret.md) 

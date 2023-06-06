@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaskoe](../../../../../../_public/geo/Continent/Europe/Finland/City/Kaskoe.md) 
-- [Kaskoe.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaskoe.internal.md) 
-- [Kaskoe.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaskoe.protect.md) 
-- [Kaskoe.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kaskoe.private.md) 
-- [Kaskoe.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaskoe.personal.md) 
-- [Kaskoe.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaskoe.secret.md) 

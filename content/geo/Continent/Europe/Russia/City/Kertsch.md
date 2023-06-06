@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kertsch](../../../../../../_public/geo/Continent/Europe/Russia/City/Kertsch.md) 
-- [Kertsch.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kertsch.internal.md) 
-- [Kertsch.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kertsch.protect.md) 
-- [Kertsch.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kertsch.private.md) 
-- [Kertsch.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kertsch.personal.md) 
-- [Kertsch.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kertsch.secret.md) 

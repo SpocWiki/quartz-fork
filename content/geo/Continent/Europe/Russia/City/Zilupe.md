@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zilupe](../../../../../../_public/geo/Continent/Europe/Russia/City/Zilupe.md) 
-- [Zilupe.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zilupe.internal.md) 
-- [Zilupe.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zilupe.protect.md) 
-- [Zilupe.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zilupe.private.md) 
-- [Zilupe.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zilupe.personal.md) 
-- [Zilupe.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zilupe.secret.md) 

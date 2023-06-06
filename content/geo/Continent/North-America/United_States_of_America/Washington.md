@@ -38,10 +38,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Washington](../../../../../_public/geo/Continent/North-America/United_States_of_America/Washington.md) 
-- [Washington.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington.internal.md) 
-- [Washington.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington.protect.md) 
-- [Washington.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington.private.md) 
-- [Washington.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington.personal.md) 
-- [Washington.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Nesting-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Nesting-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Time-Loss.md) 
-- [Triz-Energy-Loss+Nesting-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Time-Loss.internal.md) 
-- [Triz-Energy-Loss+Nesting-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Time-Loss.protect.md) 
-- [Triz-Energy-Loss+Nesting-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Time-Loss.private.md) 
-- [Triz-Energy-Loss+Nesting-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Time-Loss.personal.md) 
-- [Triz-Energy-Loss+Nesting-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Nesting-Time-Loss.secret.md) 

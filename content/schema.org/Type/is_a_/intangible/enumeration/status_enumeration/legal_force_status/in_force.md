@@ -47,10 +47,3 @@ Indicates that a legislation is in force.
 
 
 
-## Confidential Links & Embeds: 
-- [in_force](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/in_force.md) 
-- [in_force.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/in_force.internal.md) 
-- [in_force.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/in_force.protect.md) 
-- [in_force.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/in_force.private.md) 
-- [in_force.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/in_force.personal.md) 
-- [in_force.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/in_force.secret.md) 

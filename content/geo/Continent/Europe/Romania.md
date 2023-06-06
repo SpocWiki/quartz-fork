@@ -120,7 +120,7 @@ markerFolder: ./Romania/City
 [VehicleCode::RO]
 [Capital::[Bukarest](geo/Continent/Europe/Romania/City/Bukarest.md)]
 ![350](geo/Continent/Europe/Romania/Coat_of_arms_of_Romania.svg)
-![Anthem-Romania](xLarge/National-Anthem/Anthem-Romania.mp3)
+[Anthem-Romania](xLarge/National-Anthem/Anthem-Romania.mp3)
 ![350](geo/Continent/Europe/Romania/Flag_of_Romania.svg)
 [Alcohol-l::15.3]
 [Language-Id::]
@@ -129,10 +129,3 @@ markerFolder: ./Romania/City
 
 
 
-## Confidential Links & Embeds: 
-- [Romania](../../../../_public/geo/Continent/Europe/Romania.md) 
-- [Romania.internal](../../../../_internal/geo/Continent/Europe/Romania.internal.md) 
-- [Romania.protect](../../../../_protect/geo/Continent/Europe/Romania.protect.md) 
-- [Romania.private](../../../../_private/geo/Continent/Europe/Romania.private.md) 
-- [Romania.personal](../../../../_personal/geo/Continent/Europe/Romania.personal.md) 
-- [Romania.secret](../../../../_secret/geo/Continent/Europe/Romania.secret.md) 

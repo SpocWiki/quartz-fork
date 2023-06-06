@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lucca](../../../../../../_public/geo/Continent/Europe/Italy/City/Lucca.md) 
-- [Lucca.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Lucca.internal.md) 
-- [Lucca.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Lucca.protect.md) 
-- [Lucca.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Lucca.private.md) 
-- [Lucca.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Lucca.personal.md) 
-- [Lucca.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Lucca.secret.md) 

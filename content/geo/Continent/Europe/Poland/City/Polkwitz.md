@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Polkwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Polkwitz.md) 
-- [Polkwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Polkwitz.internal.md) 
-- [Polkwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Polkwitz.protect.md) 
-- [Polkwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Polkwitz.private.md) 
-- [Polkwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Polkwitz.personal.md) 
-- [Polkwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Polkwitz.secret.md) 

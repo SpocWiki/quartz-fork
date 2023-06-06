@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_css_selector](../../../../../_public/schema.org/Predicate/Relations/has/has_css_selector.md) 
-- [has_css_selector.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_css_selector.internal.md) 
-- [has_css_selector.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_css_selector.protect.md) 
-- [has_css_selector.private](../../../../../_private/schema.org/Predicate/Relations/has/has_css_selector.private.md) 
-- [has_css_selector.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_css_selector.personal.md) 
-- [has_css_selector.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_css_selector.secret.md) 

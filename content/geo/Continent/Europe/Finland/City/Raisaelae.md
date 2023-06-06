@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Raisaelae](../../../../../../_public/geo/Continent/Europe/Finland/City/Raisaelae.md) 
-- [Raisaelae.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Raisaelae.internal.md) 
-- [Raisaelae.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Raisaelae.protect.md) 
-- [Raisaelae.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Raisaelae.private.md) 
-- [Raisaelae.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Raisaelae.personal.md) 
-- [Raisaelae.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Raisaelae.secret.md) 

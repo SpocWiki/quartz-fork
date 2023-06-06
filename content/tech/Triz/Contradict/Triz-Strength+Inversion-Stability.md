@@ -19,10 +19,3 @@ title: Triz-Strength+Inversion-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Inversion-Stability](../../../../_public/tech/Triz/Contradict/Triz-Strength+Inversion-Stability.md) 
-- [Triz-Strength+Inversion-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Inversion-Stability.internal.md) 
-- [Triz-Strength+Inversion-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Inversion-Stability.protect.md) 
-- [Triz-Strength+Inversion-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Inversion-Stability.private.md) 
-- [Triz-Strength+Inversion-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Inversion-Stability.personal.md) 
-- [Triz-Strength+Inversion-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Inversion-Stability.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Warwick](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Warwick.md) 
-- [Warwick.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Warwick.internal.md) 
-- [Warwick.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Warwick.protect.md) 
-- [Warwick.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Warwick.private.md) 
-- [Warwick.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Warwick.personal.md) 
-- [Warwick.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Warwick.secret.md) 

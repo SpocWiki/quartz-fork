@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blois](../../../../../../_public/geo/Continent/Europe/France/City/Blois.md) 
-- [Blois.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Blois.internal.md) 
-- [Blois.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Blois.protect.md) 
-- [Blois.private](../../../../../../_private/geo/Continent/Europe/France/City/Blois.private.md) 
-- [Blois.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Blois.personal.md) 
-- [Blois.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Blois.secret.md) 

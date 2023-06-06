@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kingstown](../../../../../../_public/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.md) 
-- [Kingstown.internal](../../../../../../_internal/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.internal.md) 
-- [Kingstown.protect](../../../../../../_protect/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.protect.md) 
-- [Kingstown.private](../../../../../../_private/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.private.md) 
-- [Kingstown.personal](../../../../../../_personal/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.personal.md) 
-- [Kingstown.secret](../../../../../../_secret/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.secret.md) 

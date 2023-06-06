@@ -50,10 +50,3 @@ Individual comic issues are serially published as
 
 
 
-## Confidential Links & Embeds: 
-- [comic_issue](../../../../../../_public/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.md) 
-- [comic_issue.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.internal.md) 
-- [comic_issue.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.protect.md) 
-- [comic_issue.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.private.md) 
-- [comic_issue.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.personal.md) 
-- [comic_issue.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.secret.md) 

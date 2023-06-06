@@ -45,10 +45,3 @@ An <a class="localLink" href="/OpinionNewsArticle">OpinionNewsArticle</a> is a <
 
 
 
-## Confidential Links & Embeds: 
-- [opinion_news_article](../../../../../../../_public/schema.org/Type/is_a_/creative_work/article/news_article/opinion_news_article.md) 
-- [opinion_news_article.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/news_article/opinion_news_article.internal.md) 
-- [opinion_news_article.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/news_article/opinion_news_article.protect.md) 
-- [opinion_news_article.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/article/news_article/opinion_news_article.private.md) 
-- [opinion_news_article.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/news_article/opinion_news_article.personal.md) 
-- [opinion_news_article.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/news_article/opinion_news_article.secret.md) 

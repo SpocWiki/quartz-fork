@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Glashuette](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glashuette.md) 
-- [Glashuette.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glashuette.internal.md) 
-- [Glashuette.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glashuette.protect.md) 
-- [Glashuette.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glashuette.private.md) 
-- [Glashuette.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glashuette.personal.md) 
-- [Glashuette.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glashuette.secret.md) 

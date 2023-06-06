@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ocana](../../../../../../_public/geo/Continent/Europe/Spain/City/Ocana.md) 
-- [Ocana.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Ocana.internal.md) 
-- [Ocana.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Ocana.protect.md) 
-- [Ocana.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Ocana.private.md) 
-- [Ocana.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Ocana.personal.md) 
-- [Ocana.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Ocana.secret.md) 

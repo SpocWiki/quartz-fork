@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Universality-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Universality-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.md) 
-- [Triz-Ease_of_manufacture+Universality-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.internal.md) 
-- [Triz-Ease_of_manufacture+Universality-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.protect.md) 
-- [Triz-Ease_of_manufacture+Universality-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.private.md) 
-- [Triz-Ease_of_manufacture+Universality-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.personal.md) 
-- [Triz-Ease_of_manufacture+Universality-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Universality-Difficulty.secret.md) 

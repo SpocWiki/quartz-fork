@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aarau](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Aarau.md) 
-- [Aarau.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Aarau.internal.md) 
-- [Aarau.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Aarau.protect.md) 
-- [Aarau.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Aarau.private.md) 
-- [Aarau.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Aarau.personal.md) 
-- [Aarau.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Aarau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trowbridge](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Trowbridge.md) 
-- [Trowbridge.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Trowbridge.internal.md) 
-- [Trowbridge.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Trowbridge.protect.md) 
-- [Trowbridge.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Trowbridge.private.md) 
-- [Trowbridge.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Trowbridge.personal.md) 
-- [Trowbridge.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Trowbridge.secret.md) 

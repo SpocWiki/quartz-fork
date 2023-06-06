@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nieder-Weistritz](../../../../../../_public/geo/Continent/Europe/Poland/City/Nieder-Weistritz.md) 
-- [Nieder-Weistritz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Nieder-Weistritz.internal.md) 
-- [Nieder-Weistritz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Nieder-Weistritz.protect.md) 
-- [Nieder-Weistritz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Nieder-Weistritz.private.md) 
-- [Nieder-Weistritz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Nieder-Weistritz.personal.md) 
-- [Nieder-Weistritz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Nieder-Weistritz.secret.md) 

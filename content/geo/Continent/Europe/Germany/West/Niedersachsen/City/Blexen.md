@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blexen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Blexen.md) 
-- [Blexen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Blexen.internal.md) 
-- [Blexen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Blexen.protect.md) 
-- [Blexen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Blexen.private.md) 
-- [Blexen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Blexen.personal.md) 
-- [Blexen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Blexen.secret.md) 

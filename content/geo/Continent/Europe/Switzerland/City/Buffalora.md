@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buffalora](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Buffalora.md) 
-- [Buffalora.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Buffalora.internal.md) 
-- [Buffalora.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Buffalora.protect.md) 
-- [Buffalora.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Buffalora.private.md) 
-- [Buffalora.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Buffalora.personal.md) 
-- [Buffalora.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Buffalora.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uusikaupuuki](../../../../../../_public/geo/Continent/Europe/Finland/City/Uusikaupuuki.md) 
-- [Uusikaupuuki.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Uusikaupuuki.internal.md) 
-- [Uusikaupuuki.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Uusikaupuuki.protect.md) 
-- [Uusikaupuuki.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Uusikaupuuki.private.md) 
-- [Uusikaupuuki.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Uusikaupuuki.personal.md) 
-- [Uusikaupuuki.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Uusikaupuuki.secret.md) 

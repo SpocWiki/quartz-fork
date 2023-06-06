@@ -43,10 +43,3 @@ A nail salon.
 
 
 
-## Confidential Links & Embeds: 
-- [nail_salon](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.md) 
-- [nail_salon.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.internal.md) 
-- [nail_salon.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.protect.md) 
-- [nail_salon.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.private.md) 
-- [nail_salon.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.personal.md) 
-- [nail_salon.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.secret.md) 

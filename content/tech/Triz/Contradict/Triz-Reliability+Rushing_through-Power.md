@@ -19,10 +19,3 @@ title: Triz-Reliability+Rushing_through-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Rushing_through-Power](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.md) 
-- [Triz-Reliability+Rushing_through-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.internal.md) 
-- [Triz-Reliability+Rushing_through-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.protect.md) 
-- [Triz-Reliability+Rushing_through-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.private.md) 
-- [Triz-Reliability+Rushing_through-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.personal.md) 
-- [Triz-Reliability+Rushing_through-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Power.secret.md) 

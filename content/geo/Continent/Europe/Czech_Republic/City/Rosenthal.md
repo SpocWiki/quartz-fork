@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rosenthal](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Rosenthal.md) 
-- [Rosenthal.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Rosenthal.internal.md) 
-- [Rosenthal.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Rosenthal.protect.md) 
-- [Rosenthal.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Rosenthal.private.md) 
-- [Rosenthal.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Rosenthal.personal.md) 
-- [Rosenthal.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Rosenthal.secret.md) 

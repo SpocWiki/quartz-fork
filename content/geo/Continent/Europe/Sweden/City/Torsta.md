@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Torsta](../../../../../../_public/geo/Continent/Europe/Sweden/City/Torsta.md) 
-- [Torsta.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Torsta.internal.md) 
-- [Torsta.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Torsta.protect.md) 
-- [Torsta.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Torsta.private.md) 
-- [Torsta.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Torsta.personal.md) 
-- [Torsta.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Torsta.secret.md) 

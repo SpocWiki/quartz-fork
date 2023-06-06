@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lombez](../../../../../../_public/geo/Continent/Europe/France/City/Lombez.md) 
-- [Lombez.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lombez.internal.md) 
-- [Lombez.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lombez.protect.md) 
-- [Lombez.private](../../../../../../_private/geo/Continent/Europe/France/City/Lombez.private.md) 
-- [Lombez.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lombez.personal.md) 
-- [Lombez.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lombez.secret.md) 

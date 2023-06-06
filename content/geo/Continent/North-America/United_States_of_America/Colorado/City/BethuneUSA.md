@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [BethuneUSA](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.md) 
-- [BethuneUSA.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.internal.md) 
-- [BethuneUSA.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.protect.md) 
-- [BethuneUSA.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.private.md) 
-- [BethuneUSA.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.personal.md) 
-- [BethuneUSA.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Colorado/City/BethuneUSA.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palmanova](../../../../../../_public/geo/Continent/Europe/Italy/City/Palmanova.md) 
-- [Palmanova.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Palmanova.internal.md) 
-- [Palmanova.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Palmanova.protect.md) 
-- [Palmanova.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Palmanova.private.md) 
-- [Palmanova.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Palmanova.personal.md) 
-- [Palmanova.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Palmanova.secret.md) 

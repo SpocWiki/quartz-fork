@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ventspils](../../../../../../_public/geo/Continent/Europe/Russia/City/Ventspils.md) 
-- [Ventspils.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ventspils.internal.md) 
-- [Ventspils.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ventspils.protect.md) 
-- [Ventspils.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ventspils.private.md) 
-- [Ventspils.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ventspils.personal.md) 
-- [Ventspils.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ventspils.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berne](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berne.md) 
-- [Berne.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berne.internal.md) 
-- [Berne.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berne.protect.md) 
-- [Berne.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berne.private.md) 
-- [Berne.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berne.personal.md) 
-- [Berne.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berne.secret.md) 

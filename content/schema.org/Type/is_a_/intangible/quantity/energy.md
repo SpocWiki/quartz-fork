@@ -43,10 +43,3 @@ Properties that take Energy as values are of the form '&lt;Number&gt; &lt;Energy
 
 
 
-## Confidential Links & Embeds: 
-- [energy](../../../../../../_public/schema.org/Type/is_a_/intangible/quantity/energy.md) 
-- [energy.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/quantity/energy.internal.md) 
-- [energy.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/quantity/energy.protect.md) 
-- [energy.private](../../../../../../_private/schema.org/Type/is_a_/intangible/quantity/energy.private.md) 
-- [energy.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/quantity/energy.personal.md) 
-- [energy.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/quantity/energy.secret.md) 

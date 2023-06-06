@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Swindon](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Swindon.md) 
-- [Swindon.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Swindon.internal.md) 
-- [Swindon.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Swindon.protect.md) 
-- [Swindon.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Swindon.private.md) 
-- [Swindon.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Swindon.personal.md) 
-- [Swindon.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Swindon.secret.md) 

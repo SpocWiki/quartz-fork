@@ -48,10 +48,3 @@ FROM outgoing([Line~Victoria](geo/Continent/Europe/United_Kingdom/London~Greater
 
 
 
-## Confidential Links & Embeds: 
-- [Line~Victoria](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.md) 
-- [Line~Victoria.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.internal.md) 
-- [Line~Victoria.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.protect.md) 
-- [Line~Victoria.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.private.md) 
-- [Line~Victoria.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.personal.md) 
-- [Line~Victoria.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Victoria.secret.md) 

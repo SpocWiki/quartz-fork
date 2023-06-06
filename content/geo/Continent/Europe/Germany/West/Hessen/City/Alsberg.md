@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alsberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Alsberg.md) 
-- [Alsberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Alsberg.internal.md) 
-- [Alsberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Alsberg.protect.md) 
-- [Alsberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Alsberg.private.md) 
-- [Alsberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Alsberg.personal.md) 
-- [Alsberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Alsberg.secret.md) 

@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_constraints](../../../../_public/schema.org/Predicate/Counts/has_number_of_constraints.md) 
-- [has_number_of_constraints.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_constraints.internal.md) 
-- [has_number_of_constraints.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_constraints.protect.md) 
-- [has_number_of_constraints.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_constraints.private.md) 
-- [has_number_of_constraints.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_constraints.personal.md) 
-- [has_number_of_constraints.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_constraints.secret.md) 

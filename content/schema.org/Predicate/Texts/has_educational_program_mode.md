@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_educational_program_mode](../../../../_public/schema.org/Predicate/Texts/has_educational_program_mode.md) 
-- [has_educational_program_mode.internal](../../../../_internal/schema.org/Predicate/Texts/has_educational_program_mode.internal.md) 
-- [has_educational_program_mode.protect](../../../../_protect/schema.org/Predicate/Texts/has_educational_program_mode.protect.md) 
-- [has_educational_program_mode.private](../../../../_private/schema.org/Predicate/Texts/has_educational_program_mode.private.md) 
-- [has_educational_program_mode.personal](../../../../_personal/schema.org/Predicate/Texts/has_educational_program_mode.personal.md) 
-- [has_educational_program_mode.secret](../../../../_secret/schema.org/Predicate/Texts/has_educational_program_mode.secret.md) 

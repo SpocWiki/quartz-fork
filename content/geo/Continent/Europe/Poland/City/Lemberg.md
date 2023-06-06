@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lemberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Lemberg.md) 
-- [Lemberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lemberg.internal.md) 
-- [Lemberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lemberg.protect.md) 
-- [Lemberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lemberg.private.md) 
-- [Lemberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lemberg.personal.md) 
-- [Lemberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lemberg.secret.md) 

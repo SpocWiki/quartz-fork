@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valence](../../../../../../_public/geo/Continent/Europe/France/City/Valence.md) 
-- [Valence.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Valence.internal.md) 
-- [Valence.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Valence.protect.md) 
-- [Valence.private](../../../../../../_private/geo/Continent/Europe/France/City/Valence.private.md) 
-- [Valence.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Valence.personal.md) 
-- [Valence.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Valence.secret.md) 

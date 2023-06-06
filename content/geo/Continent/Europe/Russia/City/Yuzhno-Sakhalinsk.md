@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yuzhno-Sakhalinsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.md) 
-- [Yuzhno-Sakhalinsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.internal.md) 
-- [Yuzhno-Sakhalinsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.protect.md) 
-- [Yuzhno-Sakhalinsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.private.md) 
-- [Yuzhno-Sakhalinsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.personal.md) 
-- [Yuzhno-Sakhalinsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schaulen](../../../../../../_public/geo/Continent/Europe/Russia/City/Schaulen.md) 
-- [Schaulen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Schaulen.internal.md) 
-- [Schaulen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Schaulen.protect.md) 
-- [Schaulen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Schaulen.private.md) 
-- [Schaulen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Schaulen.personal.md) 
-- [Schaulen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Schaulen.secret.md) 

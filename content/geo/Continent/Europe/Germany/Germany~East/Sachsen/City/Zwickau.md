@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zwickau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwickau.md) 
-- [Zwickau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwickau.internal.md) 
-- [Zwickau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwickau.protect.md) 
-- [Zwickau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwickau.private.md) 
-- [Zwickau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwickau.personal.md) 
-- [Zwickau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwickau.secret.md) 

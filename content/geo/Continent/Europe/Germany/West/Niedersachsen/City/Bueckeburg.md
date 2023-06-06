@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bueckeburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.md) 
-- [Bueckeburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.internal.md) 
-- [Bueckeburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.protect.md) 
-- [Bueckeburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.private.md) 
-- [Bueckeburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.personal.md) 
-- [Bueckeburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bueckeburg.secret.md) 

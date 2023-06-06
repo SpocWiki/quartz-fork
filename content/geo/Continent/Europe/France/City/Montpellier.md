@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montpellier](../../../../../../_public/geo/Continent/Europe/France/City/Montpellier.md) 
-- [Montpellier.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Montpellier.internal.md) 
-- [Montpellier.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Montpellier.protect.md) 
-- [Montpellier.private](../../../../../../_private/geo/Continent/Europe/France/City/Montpellier.private.md) 
-- [Montpellier.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Montpellier.personal.md) 
-- [Montpellier.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Montpellier.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Khabarovka](../../../../../../_public/geo/Continent/Europe/Russia/City/Khabarovka.md) 
-- [Khabarovka.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Khabarovka.internal.md) 
-- [Khabarovka.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Khabarovka.protect.md) 
-- [Khabarovka.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Khabarovka.private.md) 
-- [Khabarovka.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Khabarovka.personal.md) 
-- [Khabarovka.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Khabarovka.secret.md) 

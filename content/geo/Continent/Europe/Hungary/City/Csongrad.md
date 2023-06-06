@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Csongrad](../../../../../../_public/geo/Continent/Europe/Hungary/City/Csongrad.md) 
-- [Csongrad.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Csongrad.internal.md) 
-- [Csongrad.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Csongrad.protect.md) 
-- [Csongrad.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Csongrad.private.md) 
-- [Csongrad.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Csongrad.personal.md) 
-- [Csongrad.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Csongrad.secret.md) 

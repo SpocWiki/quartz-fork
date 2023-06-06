@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liverpool](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Liverpool.md) 
-- [Liverpool.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Liverpool.internal.md) 
-- [Liverpool.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Liverpool.protect.md) 
-- [Liverpool.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Liverpool.private.md) 
-- [Liverpool.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Liverpool.personal.md) 
-- [Liverpool.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Liverpool.secret.md) 

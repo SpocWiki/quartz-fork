@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langeberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Langeberg.md) 
-- [Langeberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Langeberg.internal.md) 
-- [Langeberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Langeberg.protect.md) 
-- [Langeberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Langeberg.private.md) 
-- [Langeberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Langeberg.personal.md) 
-- [Langeberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Langeberg.secret.md) 

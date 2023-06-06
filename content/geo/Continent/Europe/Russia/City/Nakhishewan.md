@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nakhishewan](../../../../../../_public/geo/Continent/Europe/Russia/City/Nakhishewan.md) 
-- [Nakhishewan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nakhishewan.internal.md) 
-- [Nakhishewan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nakhishewan.protect.md) 
-- [Nakhishewan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nakhishewan.private.md) 
-- [Nakhishewan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nakhishewan.personal.md) 
-- [Nakhishewan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nakhishewan.secret.md) 

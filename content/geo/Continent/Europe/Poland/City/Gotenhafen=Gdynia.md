@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gotenhafen=Gdynia](../../../../../../_public/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.md) 
-- [Gotenhafen=Gdynia.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.internal.md) 
-- [Gotenhafen=Gdynia.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.protect.md) 
-- [Gotenhafen=Gdynia.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.private.md) 
-- [Gotenhafen=Gdynia.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.personal.md) 
-- [Gotenhafen=Gdynia.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gotenhafen=Gdynia.secret.md) 

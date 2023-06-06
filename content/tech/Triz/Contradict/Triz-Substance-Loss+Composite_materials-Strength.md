@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Composite_materials-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Composite_materials-Strength](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.md) 
-- [Triz-Substance-Loss+Composite_materials-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.internal.md) 
-- [Triz-Substance-Loss+Composite_materials-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.protect.md) 
-- [Triz-Substance-Loss+Composite_materials-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.private.md) 
-- [Triz-Substance-Loss+Composite_materials-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.personal.md) 
-- [Triz-Substance-Loss+Composite_materials-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Composite_materials-Strength.secret.md) 

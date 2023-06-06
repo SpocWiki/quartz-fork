@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_number_of_airbags](../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_airbags.md) 
-- [has_number_of_number_of_airbags.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_airbags.internal.md) 
-- [has_number_of_number_of_airbags.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_airbags.protect.md) 
-- [has_number_of_number_of_airbags.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_airbags.private.md) 
-- [has_number_of_number_of_airbags.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_airbags.personal.md) 
-- [has_number_of_number_of_airbags.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_airbags.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Segmentation-stationary_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Segmentation-stationary_Energy](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-stationary_Energy.md) 
-- [Triz-Time-Loss+Segmentation-stationary_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-stationary_Energy.internal.md) 
-- [Triz-Time-Loss+Segmentation-stationary_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-stationary_Energy.protect.md) 
-- [Triz-Time-Loss+Segmentation-stationary_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-stationary_Energy.private.md) 
-- [Triz-Time-Loss+Segmentation-stationary_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-stationary_Energy.personal.md) 
-- [Triz-Time-Loss+Segmentation-stationary_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Segmentation-stationary_Energy.secret.md) 

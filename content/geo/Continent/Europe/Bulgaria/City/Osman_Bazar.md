@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Osman_Bazar](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.md) 
-- [Osman_Bazar.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.internal.md) 
-- [Osman_Bazar.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.protect.md) 
-- [Osman_Bazar.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.private.md) 
-- [Osman_Bazar.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.personal.md) 
-- [Osman_Bazar.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Osman_Bazar.secret.md) 

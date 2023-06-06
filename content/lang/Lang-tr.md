@@ -19,11 +19,3 @@ title: Lang-tr
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-tr](../../_public/lang/Lang-tr.md) 
-- [Lang-tr.internal](../../_internal/lang/Lang-tr.internal.md) 
-- [Lang-tr.protect](../../_protect/lang/Lang-tr.protect.md) 
-- [Lang-tr.private](../../_private/lang/Lang-tr.private.md) 
-- [Lang-tr.personal](../../_personal/lang/Lang-tr.personal.md) 
-- [Lang-tr.secret](../../_secret/lang/Lang-tr.secret.md)
-

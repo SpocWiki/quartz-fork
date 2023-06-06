@@ -19,10 +19,3 @@ title: Triz-Shape+Changing_the_color-Manufacturing_Precision
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Changing_the_color-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Manufacturing_Precision.md) 
-- [Triz-Shape+Changing_the_color-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Manufacturing_Precision.internal.md) 
-- [Triz-Shape+Changing_the_color-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Manufacturing_Precision.protect.md) 
-- [Triz-Shape+Changing_the_color-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Manufacturing_Precision.private.md) 
-- [Triz-Shape+Changing_the_color-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Manufacturing_Precision.personal.md) 
-- [Triz-Shape+Changing_the_color-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Changing_the_color-Manufacturing_Precision.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Omsk_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Omsk_Oblast.md) 
-- [State-Omsk_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Omsk_Oblast.internal.md) 
-- [State-Omsk_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Omsk_Oblast.protect.md) 
-- [State-Omsk_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Omsk_Oblast.private.md) 
-- [State-Omsk_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Omsk_Oblast.personal.md) 
-- [State-Omsk_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Omsk_Oblast.secret.md) 

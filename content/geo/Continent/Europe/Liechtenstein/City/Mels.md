@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mels](../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Mels.md) 
-- [Mels.internal](../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Mels.internal.md) 
-- [Mels.protect](../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Mels.protect.md) 
-- [Mels.private](../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Mels.private.md) 
-- [Mels.personal](../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Mels.personal.md) 
-- [Mels.secret](../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Mels.secret.md) 

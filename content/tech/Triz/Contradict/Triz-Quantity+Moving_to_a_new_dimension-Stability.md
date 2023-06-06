@@ -19,10 +19,3 @@ title: Triz-Quantity+Moving_to_a_new_dimension-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Moving_to_a_new_dimension-Stability](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.md) 
-- [Triz-Quantity+Moving_to_a_new_dimension-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.internal.md) 
-- [Triz-Quantity+Moving_to_a_new_dimension-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.protect.md) 
-- [Triz-Quantity+Moving_to_a_new_dimension-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.private.md) 
-- [Triz-Quantity+Moving_to_a_new_dimension-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.personal.md) 
-- [Triz-Quantity+Moving_to_a_new_dimension-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Moving_to_a_new_dimension-Stability.secret.md) 

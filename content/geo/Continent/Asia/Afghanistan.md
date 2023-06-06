@@ -123,7 +123,7 @@ markerFolder: ./Afghanistan/City
 [VehicleCode::AFG]
 [Capital::[Kabul](geo/Continent/Asia/Afghanistan/City/Kabul.md)]
 ![350](Coat_of_arms_of_Afghanistan.svg)
-![Anthem-Afghanistan](xLarge/National-Anthem/Anthem-Afghanistan.mp3)
+[Anthem-Afghanistan](xLarge/National-Anthem/Anthem-Afghanistan.mp3)
 ![350](Flag_of_Afghanistan.svg)
 [Alcohol-l::0]
 [Language-Id::455]
@@ -132,10 +132,3 @@ markerFolder: ./Afghanistan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Afghanistan](../../../../_public/geo/Continent/Asia/Afghanistan.md) 
-- [Afghanistan.internal](../../../../_internal/geo/Continent/Asia/Afghanistan.internal.md) 
-- [Afghanistan.protect](../../../../_protect/geo/Continent/Asia/Afghanistan.protect.md) 
-- [Afghanistan.private](../../../../_private/geo/Continent/Asia/Afghanistan.private.md) 
-- [Afghanistan.personal](../../../../_personal/geo/Continent/Asia/Afghanistan.personal.md) 
-- [Afghanistan.secret](../../../../_secret/geo/Continent/Asia/Afghanistan.secret.md) 

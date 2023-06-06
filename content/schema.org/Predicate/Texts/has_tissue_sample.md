@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_tissue_sample](../../../../_public/schema.org/Predicate/Texts/has_tissue_sample.md) 
-- [has_tissue_sample.internal](../../../../_internal/schema.org/Predicate/Texts/has_tissue_sample.internal.md) 
-- [has_tissue_sample.protect](../../../../_protect/schema.org/Predicate/Texts/has_tissue_sample.protect.md) 
-- [has_tissue_sample.private](../../../../_private/schema.org/Predicate/Texts/has_tissue_sample.private.md) 
-- [has_tissue_sample.personal](../../../../_personal/schema.org/Predicate/Texts/has_tissue_sample.personal.md) 
-- [has_tissue_sample.secret](../../../../_secret/schema.org/Predicate/Texts/has_tissue_sample.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leer](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.md) 
-- [Leer.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.internal.md) 
-- [Leer.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.protect.md) 
-- [Leer.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.private.md) 
-- [Leer.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.personal.md) 
-- [Leer.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer.secret.md) 

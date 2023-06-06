@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bleckendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bleckendorf.md) 
-- [Bleckendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bleckendorf.internal.md) 
-- [Bleckendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bleckendorf.protect.md) 
-- [Bleckendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bleckendorf.private.md) 
-- [Bleckendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bleckendorf.personal.md) 
-- [Bleckendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Bleckendorf.secret.md) 

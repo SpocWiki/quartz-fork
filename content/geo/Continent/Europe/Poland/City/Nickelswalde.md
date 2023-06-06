@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nickelswalde](../../../../../../_public/geo/Continent/Europe/Poland/City/Nickelswalde.md) 
-- [Nickelswalde.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Nickelswalde.internal.md) 
-- [Nickelswalde.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Nickelswalde.protect.md) 
-- [Nickelswalde.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Nickelswalde.private.md) 
-- [Nickelswalde.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Nickelswalde.personal.md) 
-- [Nickelswalde.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Nickelswalde.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muehltal](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Muehltal.md) 
-- [Muehltal.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Muehltal.internal.md) 
-- [Muehltal.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Muehltal.protect.md) 
-- [Muehltal.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Muehltal.private.md) 
-- [Muehltal.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Muehltal.personal.md) 
-- [Muehltal.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Muehltal.secret.md) 

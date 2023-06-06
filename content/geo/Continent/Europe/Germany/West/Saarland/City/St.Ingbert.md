@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Ingbert](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.md) 
-- [St.Ingbert.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.internal.md) 
-- [St.Ingbert.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.protect.md) 
-- [St.Ingbert.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.private.md) 
-- [St.Ingbert.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.personal.md) 
-- [St.Ingbert.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/St.Ingbert.secret.md) 

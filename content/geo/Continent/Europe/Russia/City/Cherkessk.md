@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cherkessk](../../../../../../_public/geo/Continent/Europe/Russia/City/Cherkessk.md) 
-- [Cherkessk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Cherkessk.internal.md) 
-- [Cherkessk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Cherkessk.protect.md) 
-- [Cherkessk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Cherkessk.private.md) 
-- [Cherkessk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Cherkessk.personal.md) 
-- [Cherkessk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Cherkessk.secret.md) 

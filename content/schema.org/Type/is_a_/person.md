@@ -47,10 +47,3 @@ A person (alive, dead, undead, or fictional).
 
 
 
-## Confidential Links & Embeds: 
-- [person](../../../../_public/schema.org/Type/is_a_/person.md) 
-- [person.internal](../../../../_internal/schema.org/Type/is_a_/person.internal.md) 
-- [person.protect](../../../../_protect/schema.org/Type/is_a_/person.protect.md) 
-- [person.private](../../../../_private/schema.org/Type/is_a_/person.private.md) 
-- [person.personal](../../../../_personal/schema.org/Type/is_a_/person.personal.md) 
-- [person.secret](../../../../_secret/schema.org/Type/is_a_/person.secret.md) 

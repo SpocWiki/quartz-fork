@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Phoenicis-2](../../../_public/astro/Star/Phoenicis-2.md) 
-- [Phoenicis-2.internal](../../../_internal/astro/Star/Phoenicis-2.internal.md) 
-- [Phoenicis-2.protect](../../../_protect/astro/Star/Phoenicis-2.protect.md) 
-- [Phoenicis-2.private](../../../_private/astro/Star/Phoenicis-2.private.md) 
-- [Phoenicis-2.personal](../../../_personal/astro/Star/Phoenicis-2.personal.md) 
-- [Phoenicis-2.secret](../../../_secret/astro/Star/Phoenicis-2.secret.md) 

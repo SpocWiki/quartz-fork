@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Motherwell](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Motherwell.md) 
-- [Motherwell.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Motherwell.internal.md) 
-- [Motherwell.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Motherwell.protect.md) 
-- [Motherwell.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Motherwell.private.md) 
-- [Motherwell.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Motherwell.personal.md) 
-- [Motherwell.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Motherwell.secret.md) 

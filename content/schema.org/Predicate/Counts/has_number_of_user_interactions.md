@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_user_interactions](../../../../_public/schema.org/Predicate/Counts/has_number_of_user_interactions.md) 
-- [has_number_of_user_interactions.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_user_interactions.internal.md) 
-- [has_number_of_user_interactions.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_user_interactions.protect.md) 
-- [has_number_of_user_interactions.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_user_interactions.private.md) 
-- [has_number_of_user_interactions.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_user_interactions.personal.md) 
-- [has_number_of_user_interactions.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_user_interactions.secret.md) 

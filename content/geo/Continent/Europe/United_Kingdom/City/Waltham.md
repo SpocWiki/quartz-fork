@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waltham](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Waltham.md) 
-- [Waltham.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Waltham.internal.md) 
-- [Waltham.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Waltham.protect.md) 
-- [Waltham.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Waltham.private.md) 
-- [Waltham.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Waltham.personal.md) 
-- [Waltham.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Waltham.secret.md) 

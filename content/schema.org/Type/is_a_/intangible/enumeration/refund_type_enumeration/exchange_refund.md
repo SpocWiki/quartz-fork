@@ -47,10 +47,3 @@ Specifies that a refund can be done as an exchange for the same product.
 
 
 
-## Confidential Links & Embeds: 
-- [exchange_refund](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.md) 
-- [exchange_refund.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.internal.md) 
-- [exchange_refund.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.protect.md) 
-- [exchange_refund.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.private.md) 
-- [exchange_refund.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.personal.md) 
-- [exchange_refund.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.secret.md) 

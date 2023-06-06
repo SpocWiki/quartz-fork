@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Halstenbek](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.md) 
-- [Halstenbek.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.internal.md) 
-- [Halstenbek.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.protect.md) 
-- [Halstenbek.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.private.md) 
-- [Halstenbek.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.personal.md) 
-- [Halstenbek.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Halstenbek.secret.md) 

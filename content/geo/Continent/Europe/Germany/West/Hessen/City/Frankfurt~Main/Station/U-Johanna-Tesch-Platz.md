@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Johanna-Tesch-Platz](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Johanna-Tesch-Platz.md) 
-- [U-Johanna-Tesch-Platz.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Johanna-Tesch-Platz.internal.md) 
-- [U-Johanna-Tesch-Platz.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Johanna-Tesch-Platz.protect.md) 
-- [U-Johanna-Tesch-Platz.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Johanna-Tesch-Platz.private.md) 
-- [U-Johanna-Tesch-Platz.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Johanna-Tesch-Platz.personal.md) 
-- [U-Johanna-Tesch-Platz.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Johanna-Tesch-Platz.secret.md) 

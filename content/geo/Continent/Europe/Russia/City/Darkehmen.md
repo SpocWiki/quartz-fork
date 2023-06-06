@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Darkehmen](../../../../../../_public/geo/Continent/Europe/Russia/City/Darkehmen.md) 
-- [Darkehmen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Darkehmen.internal.md) 
-- [Darkehmen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Darkehmen.protect.md) 
-- [Darkehmen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Darkehmen.private.md) 
-- [Darkehmen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Darkehmen.personal.md) 
-- [Darkehmen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Darkehmen.secret.md) 

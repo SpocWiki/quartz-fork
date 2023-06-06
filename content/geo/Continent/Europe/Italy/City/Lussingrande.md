@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lussingrande](../../../../../../_public/geo/Continent/Europe/Italy/City/Lussingrande.md) 
-- [Lussingrande.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Lussingrande.internal.md) 
-- [Lussingrande.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Lussingrande.protect.md) 
-- [Lussingrande.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Lussingrande.private.md) 
-- [Lussingrande.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Lussingrande.personal.md) 
-- [Lussingrande.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Lussingrande.secret.md) 

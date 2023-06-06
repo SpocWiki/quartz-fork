@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_o
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.md) 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.internal.md) 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.protect.md) 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.private.md) 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.personal.md) 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Speed.secret.md) 

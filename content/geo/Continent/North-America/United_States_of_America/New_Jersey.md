@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [New_Jersey](../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Jersey.md) 
-- [New_Jersey.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Jersey.internal.md) 
-- [New_Jersey.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Jersey.protect.md) 
-- [New_Jersey.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Jersey.private.md) 
-- [New_Jersey.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Jersey.personal.md) 
-- [New_Jersey.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Jersey.secret.md) 

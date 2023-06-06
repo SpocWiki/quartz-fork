@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_experience_in_place_of_education](../../../../_public/schema.org/Predicate/Flags/is_experience_in_place_of_education.md) 
-- [is_experience_in_place_of_education.internal](../../../../_internal/schema.org/Predicate/Flags/is_experience_in_place_of_education.internal.md) 
-- [is_experience_in_place_of_education.protect](../../../../_protect/schema.org/Predicate/Flags/is_experience_in_place_of_education.protect.md) 
-- [is_experience_in_place_of_education.private](../../../../_private/schema.org/Predicate/Flags/is_experience_in_place_of_education.private.md) 
-- [is_experience_in_place_of_education.personal](../../../../_personal/schema.org/Predicate/Flags/is_experience_in_place_of_education.personal.md) 
-- [is_experience_in_place_of_education.secret](../../../../_secret/schema.org/Predicate/Flags/is_experience_in_place_of_education.secret.md) 

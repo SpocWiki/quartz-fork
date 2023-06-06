@@ -123,10 +123,3 @@ markerFolder: ./USA_Outlying~Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [USA_Outlying~Islands](../../../../_public/geo/Continent/North-America/USA_Outlying~Islands.md) 
-- [USA_Outlying~Islands.internal](../../../../_internal/geo/Continent/North-America/USA_Outlying~Islands.internal.md) 
-- [USA_Outlying~Islands.protect](../../../../_protect/geo/Continent/North-America/USA_Outlying~Islands.protect.md) 
-- [USA_Outlying~Islands.private](../../../../_private/geo/Continent/North-America/USA_Outlying~Islands.private.md) 
-- [USA_Outlying~Islands.personal](../../../../_personal/geo/Continent/North-America/USA_Outlying~Islands.personal.md) 
-- [USA_Outlying~Islands.secret](../../../../_secret/geo/Continent/North-America/USA_Outlying~Islands.secret.md) 

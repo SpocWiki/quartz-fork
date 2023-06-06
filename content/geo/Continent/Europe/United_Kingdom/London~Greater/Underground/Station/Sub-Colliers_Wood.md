@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Colliers_Wood](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Colliers_Wood.md) 
-- [Sub-Colliers_Wood.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Colliers_Wood.internal.md) 
-- [Sub-Colliers_Wood.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Colliers_Wood.protect.md) 
-- [Sub-Colliers_Wood.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Colliers_Wood.private.md) 
-- [Sub-Colliers_Wood.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Colliers_Wood.personal.md) 
-- [Sub-Colliers_Wood.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Colliers_Wood.secret.md) 

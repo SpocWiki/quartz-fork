@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beckingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Beckingen.md) 
-- [Beckingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Beckingen.internal.md) 
-- [Beckingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Beckingen.protect.md) 
-- [Beckingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Beckingen.private.md) 
-- [Beckingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Beckingen.personal.md) 
-- [Beckingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Beckingen.secret.md) 

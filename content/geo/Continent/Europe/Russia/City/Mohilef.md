@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mohilef](../../../../../../_public/geo/Continent/Europe/Russia/City/Mohilef.md) 
-- [Mohilef.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mohilef.internal.md) 
-- [Mohilef.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mohilef.protect.md) 
-- [Mohilef.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mohilef.private.md) 
-- [Mohilef.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mohilef.personal.md) 
-- [Mohilef.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mohilef.secret.md) 

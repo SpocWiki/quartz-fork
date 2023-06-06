@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bettembourg](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Bettembourg.md) 
-- [Bettembourg.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Bettembourg.internal.md) 
-- [Bettembourg.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Bettembourg.protect.md) 
-- [Bettembourg.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Bettembourg.private.md) 
-- [Bettembourg.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Bettembourg.personal.md) 
-- [Bettembourg.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Bettembourg.secret.md) 

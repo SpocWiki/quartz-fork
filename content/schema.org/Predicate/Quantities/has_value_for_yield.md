@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_yield](../../../../_public/schema.org/Predicate/Quantities/has_value_for_yield.md) 
-- [has_value_for_yield.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_yield.internal.md) 
-- [has_value_for_yield.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_yield.protect.md) 
-- [has_value_for_yield.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_yield.private.md) 
-- [has_value_for_yield.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_yield.personal.md) 
-- [has_value_for_yield.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_yield.secret.md) 

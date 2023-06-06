@@ -43,10 +43,3 @@ A Buddhist temple.
 
 
 
-## Confidential Links & Embeds: 
-- [buddhist_temple](../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.md) 
-- [buddhist_temple.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.internal.md) 
-- [buddhist_temple.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.protect.md) 
-- [buddhist_temple.private](../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.private.md) 
-- [buddhist_temple.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.personal.md) 
-- [buddhist_temple.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.secret.md) 

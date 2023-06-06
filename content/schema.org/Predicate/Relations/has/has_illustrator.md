@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_illustrator](../../../../../_public/schema.org/Predicate/Relations/has/has_illustrator.md) 
-- [has_illustrator.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_illustrator.internal.md) 
-- [has_illustrator.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_illustrator.protect.md) 
-- [has_illustrator.private](../../../../../_private/schema.org/Predicate/Relations/has/has_illustrator.private.md) 
-- [has_illustrator.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_illustrator.personal.md) 
-- [has_illustrator.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_illustrator.secret.md) 

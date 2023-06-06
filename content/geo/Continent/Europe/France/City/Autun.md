@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Autun](../../../../../../_public/geo/Continent/Europe/France/City/Autun.md) 
-- [Autun.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Autun.internal.md) 
-- [Autun.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Autun.protect.md) 
-- [Autun.private](../../../../../../_private/geo/Continent/Europe/France/City/Autun.private.md) 
-- [Autun.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Autun.personal.md) 
-- [Autun.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Autun.secret.md) 

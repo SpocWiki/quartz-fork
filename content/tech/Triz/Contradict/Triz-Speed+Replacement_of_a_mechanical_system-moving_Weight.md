@@ -19,10 +19,3 @@ title: Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight](../../../../_public/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.md) 
-- [Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.internal.md) 
-- [Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.protect.md) 
-- [Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.private.md) 
-- [Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.personal.md) 
-- [Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Replacement_of_a_mechanical_system-moving_Weight.secret.md) 

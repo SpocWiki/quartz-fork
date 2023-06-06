@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_cost_per_unit](../../../../_public/schema.org/Predicate/Quantities/has_value_for_cost_per_unit.md) 
-- [has_value_for_cost_per_unit.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_cost_per_unit.internal.md) 
-- [has_value_for_cost_per_unit.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_cost_per_unit.protect.md) 
-- [has_value_for_cost_per_unit.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_cost_per_unit.private.md) 
-- [has_value_for_cost_per_unit.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_cost_per_unit.personal.md) 
-- [has_value_for_cost_per_unit.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_cost_per_unit.secret.md) 

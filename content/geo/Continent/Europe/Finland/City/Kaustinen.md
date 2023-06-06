@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaustinen](../../../../../../_public/geo/Continent/Europe/Finland/City/Kaustinen.md) 
-- [Kaustinen.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaustinen.internal.md) 
-- [Kaustinen.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaustinen.protect.md) 
-- [Kaustinen.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kaustinen.private.md) 
-- [Kaustinen.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaustinen.personal.md) 
-- [Kaustinen.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaustinen.secret.md) 

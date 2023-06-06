@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Verden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Verden.md) 
-- [Verden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Verden.internal.md) 
-- [Verden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Verden.protect.md) 
-- [Verden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Verden.private.md) 
-- [Verden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Verden.personal.md) 
-- [Verden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Verden.secret.md) 

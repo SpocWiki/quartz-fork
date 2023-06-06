@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Altenberg.md) 
-- [Altenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Altenberg.internal.md) 
-- [Altenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Altenberg.protect.md) 
-- [Altenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Altenberg.private.md) 
-- [Altenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Altenberg.personal.md) 
-- [Altenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Altenberg.secret.md) 

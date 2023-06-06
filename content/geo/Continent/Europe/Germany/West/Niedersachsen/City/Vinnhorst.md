@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vinnhorst](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.md) 
-- [Vinnhorst.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.internal.md) 
-- [Vinnhorst.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.protect.md) 
-- [Vinnhorst.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.private.md) 
-- [Vinnhorst.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.personal.md) 
-- [Vinnhorst.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vinnhorst.secret.md) 

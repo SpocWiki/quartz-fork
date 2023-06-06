@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dahlem](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.md) 
-- [Dahlem.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.internal.md) 
-- [Dahlem.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.protect.md) 
-- [Dahlem.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.private.md) 
-- [Dahlem.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.personal.md) 
-- [Dahlem.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Dahlem.secret.md) 

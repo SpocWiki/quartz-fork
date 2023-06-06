@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stepnoy](../../../../../../_public/geo/Continent/Europe/Russia/City/Stepnoy.md) 
-- [Stepnoy.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Stepnoy.internal.md) 
-- [Stepnoy.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Stepnoy.protect.md) 
-- [Stepnoy.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Stepnoy.private.md) 
-- [Stepnoy.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Stepnoy.personal.md) 
-- [Stepnoy.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Stepnoy.secret.md) 

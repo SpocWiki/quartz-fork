@@ -87,10 +87,3 @@ FROM outgoing([Line~Central](geo/Continent/Europe/United_Kingdom/London~Greater/
 
 
 
-## Confidential Links & Embeds: 
-- [Line~Central](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.md) 
-- [Line~Central.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.internal.md) 
-- [Line~Central.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.protect.md) 
-- [Line~Central.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.private.md) 
-- [Line~Central.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.personal.md) 
-- [Line~Central.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Central.secret.md) 

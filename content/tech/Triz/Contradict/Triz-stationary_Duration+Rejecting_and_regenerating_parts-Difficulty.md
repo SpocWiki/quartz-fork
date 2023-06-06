@@ -19,10 +19,3 @@ title: Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.md) 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.internal.md) 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.protect.md) 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.private.md) 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.personal.md) 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Difficulty.secret.md) 

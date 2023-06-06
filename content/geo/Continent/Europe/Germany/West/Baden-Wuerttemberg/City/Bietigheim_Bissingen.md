@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bietigheim_Bissingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.md) 
-- [Bietigheim_Bissingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.internal.md) 
-- [Bietigheim_Bissingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.protect.md) 
-- [Bietigheim_Bissingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.private.md) 
-- [Bietigheim_Bissingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.personal.md) 
-- [Bietigheim_Bissingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bietigheim_Bissingen.secret.md) 

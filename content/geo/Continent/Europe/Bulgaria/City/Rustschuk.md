@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rustschuk](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Rustschuk.md) 
-- [Rustschuk.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Rustschuk.internal.md) 
-- [Rustschuk.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Rustschuk.protect.md) 
-- [Rustschuk.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Rustschuk.private.md) 
-- [Rustschuk.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Rustschuk.personal.md) 
-- [Rustschuk.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Rustschuk.secret.md) 

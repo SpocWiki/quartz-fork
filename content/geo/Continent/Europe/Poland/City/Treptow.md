@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Treptow](../../../../../../_public/geo/Continent/Europe/Poland/City/Treptow.md) 
-- [Treptow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Treptow.internal.md) 
-- [Treptow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Treptow.protect.md) 
-- [Treptow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Treptow.private.md) 
-- [Treptow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Treptow.personal.md) 
-- [Treptow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Treptow.secret.md) 

@@ -38,10 +38,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tennessee](../../../../../_public/geo/Continent/North-America/United_States_of_America/Tennessee.md) 
-- [Tennessee.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Tennessee.internal.md) 
-- [Tennessee.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Tennessee.protect.md) 
-- [Tennessee.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Tennessee.private.md) 
-- [Tennessee.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Tennessee.personal.md) 
-- [Tennessee.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Tennessee.secret.md) 

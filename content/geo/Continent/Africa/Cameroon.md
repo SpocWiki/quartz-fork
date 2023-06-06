@@ -124,7 +124,7 @@ markerFolder: ./Cameroon/City
 
 ![350](geo/Continent/Africa/Cameroon/Coat_of_arms_of_Cameroon.svg)
 
-![Anthem-Cameroon](xLarge/National-Anthem/Anthem-Cameroon.mp3)
+[Anthem-Cameroon](xLarge/National-Anthem/Anthem-Cameroon.mp3)
 
 ![350](geo/Continent/Africa/Cameroon/Flag_of_Cameroon.svg)
 [Alcohol-l::7.6]
@@ -134,10 +134,3 @@ markerFolder: ./Cameroon/City
 
 
 
-## Confidential Links & Embeds: 
-- [Cameroon](../../../../_public/geo/Continent/Africa/Cameroon.md) 
-- [Cameroon.internal](../../../../_internal/geo/Continent/Africa/Cameroon.internal.md) 
-- [Cameroon.protect](../../../../_protect/geo/Continent/Africa/Cameroon.protect.md) 
-- [Cameroon.private](../../../../_private/geo/Continent/Africa/Cameroon.private.md) 
-- [Cameroon.personal](../../../../_personal/geo/Continent/Africa/Cameroon.personal.md) 
-- [Cameroon.secret](../../../../_secret/geo/Continent/Africa/Cameroon.secret.md) 

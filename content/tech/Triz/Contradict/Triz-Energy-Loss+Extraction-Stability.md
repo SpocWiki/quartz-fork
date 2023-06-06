@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Extraction-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Extraction-Stability](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Stability.md) 
-- [Triz-Energy-Loss+Extraction-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Stability.internal.md) 
-- [Triz-Energy-Loss+Extraction-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Stability.protect.md) 
-- [Triz-Energy-Loss+Extraction-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Stability.private.md) 
-- [Triz-Energy-Loss+Extraction-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Stability.personal.md) 
-- [Triz-Energy-Loss+Extraction-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Extraction-Stability.secret.md) 

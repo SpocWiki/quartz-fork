@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Algieba](../../../_public/astro/Star/Algieba.md) 
-- [Algieba.internal](../../../_internal/astro/Star/Algieba.internal.md) 
-- [Algieba.protect](../../../_protect/astro/Star/Algieba.protect.md) 
-- [Algieba.private](../../../_private/astro/Star/Algieba.private.md) 
-- [Algieba.personal](../../../_personal/astro/Star/Algieba.personal.md) 
-- [Algieba.secret](../../../_secret/astro/Star/Algieba.secret.md)
-

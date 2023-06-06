@@ -36,10 +36,3 @@ markerFolder: ./Hong_Kong,_China/City
 
 
 
-## Confidential Links & Embeds: 
-- [Hong_Kong,_China](../../../../_public/geo/Continent/Asia/Hong_Kong,_China.md) 
-- [Hong_Kong,_China.internal](../../../../_internal/geo/Continent/Asia/Hong_Kong,_China.internal.md) 
-- [Hong_Kong,_China.protect](../../../../_protect/geo/Continent/Asia/Hong_Kong,_China.protect.md) 
-- [Hong_Kong,_China.private](../../../../_private/geo/Continent/Asia/Hong_Kong,_China.private.md) 
-- [Hong_Kong,_China.personal](../../../../_personal/geo/Continent/Asia/Hong_Kong,_China.personal.md) 
-- [Hong_Kong,_China.secret](../../../../_secret/geo/Continent/Asia/Hong_Kong,_China.secret.md) 

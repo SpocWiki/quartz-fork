@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoeneck](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoeneck.md) 
-- [Schoeneck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoeneck.internal.md) 
-- [Schoeneck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoeneck.protect.md) 
-- [Schoeneck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoeneck.private.md) 
-- [Schoeneck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoeneck.personal.md) 
-- [Schoeneck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoeneck.secret.md) 

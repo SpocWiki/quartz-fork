@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lublinitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Lublinitz.md) 
-- [Lublinitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lublinitz.internal.md) 
-- [Lublinitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lublinitz.protect.md) 
-- [Lublinitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lublinitz.private.md) 
-- [Lublinitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lublinitz.personal.md) 
-- [Lublinitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lublinitz.secret.md) 

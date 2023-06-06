@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tbilisi](../../../../../../_public/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.md) 
-- [Tbilisi.internal](../../../../../../_internal/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.internal.md) 
-- [Tbilisi.protect](../../../../../../_protect/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.protect.md) 
-- [Tbilisi.private](../../../../../../_private/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.private.md) 
-- [Tbilisi.personal](../../../../../../_personal/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.personal.md) 
-- [Tbilisi.secret](../../../../../../_secret/geo/Continent/Europe/Georgia~Europe/City/Tbilisi.secret.md) 

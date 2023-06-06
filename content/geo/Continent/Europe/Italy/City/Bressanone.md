@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bressanone](../../../../../../_public/geo/Continent/Europe/Italy/City/Bressanone.md) 
-- [Bressanone.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bressanone.internal.md) 
-- [Bressanone.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bressanone.protect.md) 
-- [Bressanone.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bressanone.private.md) 
-- [Bressanone.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bressanone.personal.md) 
-- [Bressanone.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bressanone.secret.md) 

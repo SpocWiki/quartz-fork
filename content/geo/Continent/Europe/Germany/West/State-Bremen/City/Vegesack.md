@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vegesack](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.md) 
-- [Vegesack.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.internal.md) 
-- [Vegesack.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.protect.md) 
-- [Vegesack.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.private.md) 
-- [Vegesack.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.personal.md) 
-- [Vegesack.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Bremen/City/Vegesack.secret.md) 

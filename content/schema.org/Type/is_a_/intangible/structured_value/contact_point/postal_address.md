@@ -43,10 +43,3 @@ The mailing address.
 
 
 
-## Confidential Links & Embeds: 
-- [postal_address](../../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.md) 
-- [postal_address.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.internal.md) 
-- [postal_address.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.protect.md) 
-- [postal_address.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.private.md) 
-- [postal_address.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.personal.md) 
-- [postal_address.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.secret.md) 

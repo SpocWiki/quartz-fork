@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Newfoundland](../../../../../../_public/geo/Continent/North-America/Canada/State/State-Newfoundland.md) 
-- [State-Newfoundland.internal](../../../../../../_internal/geo/Continent/North-America/Canada/State/State-Newfoundland.internal.md) 
-- [State-Newfoundland.protect](../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Newfoundland.protect.md) 
-- [State-Newfoundland.private](../../../../../../_private/geo/Continent/North-America/Canada/State/State-Newfoundland.private.md) 
-- [State-Newfoundland.personal](../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Newfoundland.personal.md) 
-- [State-Newfoundland.secret](../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Newfoundland.secret.md) 

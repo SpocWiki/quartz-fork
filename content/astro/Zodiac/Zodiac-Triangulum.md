@@ -15,10 +15,3 @@ confidential: public
 [name-de::Dreieck]
 
 
-## Confidential Links & Embeds: 
-- [Zodiac-Triangulum](../../../_public/astro/Zodiac/Zodiac-Triangulum.md) 
-- [Zodiac-Triangulum.internal](../../../_internal/astro/Zodiac/Zodiac-Triangulum.internal.md) 
-- [Zodiac-Triangulum.protect](../../../_protect/astro/Zodiac/Zodiac-Triangulum.protect.md) 
-- [Zodiac-Triangulum.private](../../../_private/astro/Zodiac/Zodiac-Triangulum.private.md) 
-- [Zodiac-Triangulum.personal](../../../_personal/astro/Zodiac/Zodiac-Triangulum.personal.md) 
-- [Zodiac-Triangulum.secret](../../../_secret/astro/Zodiac/Zodiac-Triangulum.secret.md) 

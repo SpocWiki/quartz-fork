@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buenos_Aires](../../../../../../_public/geo/Continent/South-America/Argentina/City/Buenos_Aires.md) 
-- [Buenos_Aires.internal](../../../../../../_internal/geo/Continent/South-America/Argentina/City/Buenos_Aires.internal.md) 
-- [Buenos_Aires.protect](../../../../../../_protect/geo/Continent/South-America/Argentina/City/Buenos_Aires.protect.md) 
-- [Buenos_Aires.private](../../../../../../_private/geo/Continent/South-America/Argentina/City/Buenos_Aires.private.md) 
-- [Buenos_Aires.personal](../../../../../../_personal/geo/Continent/South-America/Argentina/City/Buenos_Aires.personal.md) 
-- [Buenos_Aires.secret](../../../../../../_secret/geo/Continent/South-America/Argentina/City/Buenos_Aires.secret.md) 

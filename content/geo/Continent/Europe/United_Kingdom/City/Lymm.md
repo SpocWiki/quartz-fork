@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lymm](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lymm.md) 
-- [Lymm.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lymm.internal.md) 
-- [Lymm.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lymm.protect.md) 
-- [Lymm.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lymm.private.md) 
-- [Lymm.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lymm.personal.md) 
-- [Lymm.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lymm.secret.md) 

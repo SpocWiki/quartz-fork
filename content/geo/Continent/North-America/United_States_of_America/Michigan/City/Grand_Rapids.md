@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grand_Rapids](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.md) 
-- [Grand_Rapids.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.internal.md) 
-- [Grand_Rapids.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.protect.md) 
-- [Grand_Rapids.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.private.md) 
-- [Grand_Rapids.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.personal.md) 
-- [Grand_Rapids.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Michigan/City/Grand_Rapids.secret.md) 

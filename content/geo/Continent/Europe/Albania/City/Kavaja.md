@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kavaja](../../../../../../_public/geo/Continent/Europe/Albania/City/Kavaja.md) 
-- [Kavaja.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Kavaja.internal.md) 
-- [Kavaja.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Kavaja.protect.md) 
-- [Kavaja.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Kavaja.private.md) 
-- [Kavaja.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Kavaja.personal.md) 
-- [Kavaja.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Kavaja.secret.md) 

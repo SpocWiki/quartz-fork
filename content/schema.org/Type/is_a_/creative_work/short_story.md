@@ -45,10 +45,3 @@ Short story or tale. A brief work of literature, usually written in narrative pr
 
 
 
-## Confidential Links & Embeds: 
-- [short_story](../../../../../_public/schema.org/Type/is_a_/creative_work/short_story.md) 
-- [short_story.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/short_story.internal.md) 
-- [short_story.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/short_story.protect.md) 
-- [short_story.private](../../../../../_private/schema.org/Type/is_a_/creative_work/short_story.private.md) 
-- [short_story.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/short_story.personal.md) 
-- [short_story.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/short_story.secret.md) 

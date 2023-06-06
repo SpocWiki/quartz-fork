@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pistoia](../../../../../../_public/geo/Continent/Europe/Italy/City/Pistoia.md) 
-- [Pistoia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pistoia.internal.md) 
-- [Pistoia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pistoia.protect.md) 
-- [Pistoia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pistoia.private.md) 
-- [Pistoia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pistoia.personal.md) 
-- [Pistoia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pistoia.secret.md) 

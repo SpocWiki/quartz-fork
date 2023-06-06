@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kisil-arwat](../../../../../../_public/geo/Continent/Europe/Russia/City/Kisil-arwat.md) 
-- [Kisil-arwat.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kisil-arwat.internal.md) 
-- [Kisil-arwat.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kisil-arwat.protect.md) 
-- [Kisil-arwat.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kisil-arwat.private.md) 
-- [Kisil-arwat.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kisil-arwat.personal.md) 
-- [Kisil-arwat.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kisil-arwat.secret.md) 

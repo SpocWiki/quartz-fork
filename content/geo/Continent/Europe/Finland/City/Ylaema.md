@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ylaema](../../../../../../_public/geo/Continent/Europe/Finland/City/Ylaema.md) 
-- [Ylaema.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Ylaema.internal.md) 
-- [Ylaema.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Ylaema.protect.md) 
-- [Ylaema.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Ylaema.private.md) 
-- [Ylaema.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Ylaema.personal.md) 
-- [Ylaema.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Ylaema.secret.md) 

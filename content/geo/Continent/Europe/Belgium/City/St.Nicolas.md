@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Nicolas](../../../../../../_public/geo/Continent/Europe/Belgium/City/St.Nicolas.md) 
-- [St.Nicolas.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/St.Nicolas.internal.md) 
-- [St.Nicolas.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/St.Nicolas.protect.md) 
-- [St.Nicolas.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/St.Nicolas.private.md) 
-- [St.Nicolas.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/St.Nicolas.personal.md) 
-- [St.Nicolas.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/St.Nicolas.secret.md) 

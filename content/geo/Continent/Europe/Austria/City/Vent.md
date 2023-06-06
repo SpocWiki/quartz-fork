@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vent](../../../../../../_public/geo/Continent/Europe/Austria/City/Vent.md) 
-- [Vent.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Vent.internal.md) 
-- [Vent.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Vent.protect.md) 
-- [Vent.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Vent.private.md) 
-- [Vent.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Vent.personal.md) 
-- [Vent.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Vent.secret.md) 

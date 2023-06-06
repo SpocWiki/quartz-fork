@@ -124,7 +124,7 @@ markerFolder: ./Norway/City
 [VehicleCode::N]
 [Capital::[Oslo](geo/Continent/Europe/Norway/City/Oslo.md)]
 ![350](geo/Continent/Europe/Norway/Coat_of_arms_of_Norway.svg)
-![Anthem-Norway](xLarge/National-Anthem/Anthem-Norway.mp3)
+[Anthem-Norway](xLarge/National-Anthem/Anthem-Norway.mp3)
 ![350](geo/Continent/Europe/Norway/Flag_of_Norway.svg)
 [Alcohol-l::7.8]
 [Language-Id::]
@@ -133,10 +133,3 @@ markerFolder: ./Norway/City
 
 
 
-## Confidential Links & Embeds: 
-- [Norway](../../../../_public/geo/Continent/Europe/Norway.md) 
-- [Norway.internal](../../../../_internal/geo/Continent/Europe/Norway.internal.md) 
-- [Norway.protect](../../../../_protect/geo/Continent/Europe/Norway.protect.md) 
-- [Norway.private](../../../../_private/geo/Continent/Europe/Norway.private.md) 
-- [Norway.personal](../../../../_personal/geo/Continent/Europe/Norway.personal.md) 
-- [Norway.secret](../../../../_secret/geo/Continent/Europe/Norway.secret.md) 

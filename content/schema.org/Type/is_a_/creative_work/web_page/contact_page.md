@@ -43,10 +43,3 @@ Web page type: Contact page.
 
 
 
-## Confidential Links & Embeds: 
-- [contact_page](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/contact_page.md) 
-- [contact_page.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/contact_page.internal.md) 
-- [contact_page.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/contact_page.protect.md) 
-- [contact_page.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/contact_page.private.md) 
-- [contact_page.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/contact_page.personal.md) 
-- [contact_page.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/contact_page.secret.md) 

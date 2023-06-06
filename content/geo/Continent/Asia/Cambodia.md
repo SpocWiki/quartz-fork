@@ -122,7 +122,7 @@ markerFolder: ./Cambodia/City
 [VehicleCode::K]
 [Capital::[Phnom_Penh](geo/Continent/Asia/Cambodia/City/Phnom_Penh.md)]
 ![350](Coat_of_arms_of_Cambodia.svg)
-![Anthem-Cambodia](xLarge/National-Anthem/Anthem-Cambodia.mp3)
+[Anthem-Cambodia](xLarge/National-Anthem/Anthem-Cambodia.mp3)
 ![350](geo/Continent/Asia/Cambodia/Flag_of_Cambodia.svg)
 [Alcohol-l::4.8]
 [Language-Id::]
@@ -131,10 +131,3 @@ markerFolder: ./Cambodia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Cambodia](../../../../_public/geo/Continent/Asia/Cambodia.md) 
-- [Cambodia.internal](../../../../_internal/geo/Continent/Asia/Cambodia.internal.md) 
-- [Cambodia.protect](../../../../_protect/geo/Continent/Asia/Cambodia.protect.md) 
-- [Cambodia.private](../../../../_private/geo/Continent/Asia/Cambodia.private.md) 
-- [Cambodia.personal](../../../../_personal/geo/Continent/Asia/Cambodia.personal.md) 
-- [Cambodia.secret](../../../../_secret/geo/Continent/Asia/Cambodia.secret.md) 

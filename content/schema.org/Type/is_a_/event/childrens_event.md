@@ -43,10 +43,3 @@ Event type: Children's event.
 
 
 
-## Confidential Links & Embeds: 
-- [childrens_event](../../../../../_public/schema.org/Type/is_a_/event/childrens_event.md) 
-- [childrens_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/childrens_event.internal.md) 
-- [childrens_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/childrens_event.protect.md) 
-- [childrens_event.private](../../../../../_private/schema.org/Type/is_a_/event/childrens_event.private.md) 
-- [childrens_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/childrens_event.personal.md) 
-- [childrens_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/childrens_event.secret.md) 

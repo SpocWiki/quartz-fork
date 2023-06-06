@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Windsheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Windsheim.md) 
-- [Windsheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Windsheim.internal.md) 
-- [Windsheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Windsheim.protect.md) 
-- [Windsheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Windsheim.private.md) 
-- [Windsheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Windsheim.personal.md) 
-- [Windsheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Windsheim.secret.md) 

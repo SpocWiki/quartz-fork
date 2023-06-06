@@ -41,10 +41,3 @@ A type of boarding policy used by an airline.
 
 
 
-## Confidential Links & Embeds: 
-- [boarding_policy_type](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type.md) 
-- [boarding_policy_type.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type.internal.md) 
-- [boarding_policy_type.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type.protect.md) 
-- [boarding_policy_type.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type.private.md) 
-- [boarding_policy_type.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type.personal.md) 
-- [boarding_policy_type.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type.secret.md) 

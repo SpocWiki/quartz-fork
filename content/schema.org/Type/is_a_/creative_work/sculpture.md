@@ -43,10 +43,3 @@ A piece of sculpture.
 
 
 
-## Confidential Links & Embeds: 
-- [sculpture](../../../../../_public/schema.org/Type/is_a_/creative_work/sculpture.md) 
-- [sculpture.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/sculpture.internal.md) 
-- [sculpture.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/sculpture.protect.md) 
-- [sculpture.private](../../../../../_private/schema.org/Type/is_a_/creative_work/sculpture.private.md) 
-- [sculpture.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/sculpture.personal.md) 
-- [sculpture.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/sculpture.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Shisbury](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Shisbury.md) 
-- [Shisbury.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Shisbury.internal.md) 
-- [Shisbury.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Shisbury.protect.md) 
-- [Shisbury.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Shisbury.private.md) 
-- [Shisbury.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Shisbury.personal.md) 
-- [Shisbury.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Shisbury.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Glaubitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glaubitz.md) 
-- [Glaubitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glaubitz.internal.md) 
-- [Glaubitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glaubitz.protect.md) 
-- [Glaubitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glaubitz.private.md) 
-- [Glaubitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glaubitz.personal.md) 
-- [Glaubitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Glaubitz.secret.md) 

@@ -47,10 +47,3 @@ A class, also often called a 'Type'; equivalent to rdfs:Class.
 
 
 
-## Confidential Links & Embeds: 
-- [class](../../../../../_public/schema.org/Type/is_a_/intangible/class.md) 
-- [class.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/class.internal.md) 
-- [class.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/class.protect.md) 
-- [class.private](../../../../../_private/schema.org/Type/is_a_/intangible/class.private.md) 
-- [class.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/class.personal.md) 
-- [class.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/class.secret.md) 

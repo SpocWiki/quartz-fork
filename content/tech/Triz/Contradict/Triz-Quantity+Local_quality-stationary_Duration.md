@@ -19,10 +19,3 @@ title: Triz-Quantity+Local_quality-stationary_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Local_quality-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Duration.md) 
-- [Triz-Quantity+Local_quality-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Duration.internal.md) 
-- [Triz-Quantity+Local_quality-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Duration.protect.md) 
-- [Triz-Quantity+Local_quality-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Duration.private.md) 
-- [Triz-Quantity+Local_quality-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Duration.personal.md) 
-- [Triz-Quantity+Local_quality-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-stationary_Duration.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sippola](../../../../../../_public/geo/Continent/Europe/Finland/City/Sippola.md) 
-- [Sippola.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Sippola.internal.md) 
-- [Sippola.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Sippola.protect.md) 
-- [Sippola.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Sippola.private.md) 
-- [Sippola.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Sippola.personal.md) 
-- [Sippola.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Sippola.secret.md) 

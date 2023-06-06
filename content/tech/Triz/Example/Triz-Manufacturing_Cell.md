@@ -17,10 +17,3 @@ title: Triz-Manufacturing_Cell
 
 Flexible Manufacturing Cell
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Cell](../../../../_public/tech/Triz/Example/Triz-Manufacturing_Cell.md) 
-- [Triz-Manufacturing_Cell.internal](../../../../_internal/tech/Triz/Example/Triz-Manufacturing_Cell.internal.md) 
-- [Triz-Manufacturing_Cell.protect](../../../../_protect/tech/Triz/Example/Triz-Manufacturing_Cell.protect.md) 
-- [Triz-Manufacturing_Cell.private](../../../../_private/tech/Triz/Example/Triz-Manufacturing_Cell.private.md) 
-- [Triz-Manufacturing_Cell.personal](../../../../_personal/tech/Triz/Example/Triz-Manufacturing_Cell.personal.md) 
-- [Triz-Manufacturing_Cell.secret](../../../../_secret/tech/Triz/Example/Triz-Manufacturing_Cell.secret.md) 

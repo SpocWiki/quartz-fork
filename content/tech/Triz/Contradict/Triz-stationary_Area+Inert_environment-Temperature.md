@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Inert_environment-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Inert_environment-Temperature](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.md) 
-- [Triz-stationary_Area+Inert_environment-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.internal.md) 
-- [Triz-stationary_Area+Inert_environment-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.protect.md) 
-- [Triz-stationary_Area+Inert_environment-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.private.md) 
-- [Triz-stationary_Area+Inert_environment-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.personal.md) 
-- [Triz-stationary_Area+Inert_environment-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Inert_environment-Temperature.secret.md) 

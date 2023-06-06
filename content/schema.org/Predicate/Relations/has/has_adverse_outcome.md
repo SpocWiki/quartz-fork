@@ -45,10 +45,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_adverse_outcome](../../../../../_public/schema.org/Predicate/Relations/has/has_adverse_outcome.md) 
-- [has_adverse_outcome.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_adverse_outcome.internal.md) 
-- [has_adverse_outcome.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_adverse_outcome.protect.md) 
-- [has_adverse_outcome.private](../../../../../_private/schema.org/Predicate/Relations/has/has_adverse_outcome.private.md) 
-- [has_adverse_outcome.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_adverse_outcome.personal.md) 
-- [has_adverse_outcome.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_adverse_outcome.secret.md) 

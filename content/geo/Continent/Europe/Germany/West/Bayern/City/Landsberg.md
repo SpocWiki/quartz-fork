@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landsberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Landsberg.md) 
-- [Landsberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Landsberg.internal.md) 
-- [Landsberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Landsberg.protect.md) 
-- [Landsberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Landsberg.private.md) 
-- [Landsberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Landsberg.personal.md) 
-- [Landsberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Landsberg.secret.md) 

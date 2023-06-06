@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tallinn](../../../../../../_public/geo/Continent/Europe/Estonia/City/Tallinn.md) 
-- [Tallinn.internal](../../../../../../_internal/geo/Continent/Europe/Estonia/City/Tallinn.internal.md) 
-- [Tallinn.protect](../../../../../../_protect/geo/Continent/Europe/Estonia/City/Tallinn.protect.md) 
-- [Tallinn.private](../../../../../../_private/geo/Continent/Europe/Estonia/City/Tallinn.private.md) 
-- [Tallinn.personal](../../../../../../_personal/geo/Continent/Europe/Estonia/City/Tallinn.personal.md) 
-- [Tallinn.secret](../../../../../../_secret/geo/Continent/Europe/Estonia/City/Tallinn.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spandau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Spandau.md) 
-- [Spandau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Spandau.internal.md) 
-- [Spandau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Spandau.protect.md) 
-- [Spandau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Spandau.private.md) 
-- [Spandau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Spandau.personal.md) 
-- [Spandau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Spandau.secret.md) 

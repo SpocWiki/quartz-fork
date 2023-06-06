@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wittmannsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittmannsdorf.md) 
-- [Wittmannsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittmannsdorf.internal.md) 
-- [Wittmannsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittmannsdorf.protect.md) 
-- [Wittmannsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittmannsdorf.private.md) 
-- [Wittmannsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittmannsdorf.personal.md) 
-- [Wittmannsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittmannsdorf.secret.md) 

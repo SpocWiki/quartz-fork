@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Verolanuova](../../../../../../_public/geo/Continent/Europe/Italy/City/Verolanuova.md) 
-- [Verolanuova.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Verolanuova.internal.md) 
-- [Verolanuova.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Verolanuova.protect.md) 
-- [Verolanuova.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Verolanuova.private.md) 
-- [Verolanuova.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Verolanuova.personal.md) 
-- [Verolanuova.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Verolanuova.secret.md) 

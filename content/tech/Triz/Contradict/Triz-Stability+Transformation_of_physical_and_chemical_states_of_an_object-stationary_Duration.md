@@ -19,10 +19,3 @@ title: Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_objec
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.internal.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.protect.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.private.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.personal.md) 
-- [Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sandowitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Sandowitz.md) 
-- [Sandowitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sandowitz.internal.md) 
-- [Sandowitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sandowitz.protect.md) 
-- [Sandowitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sandowitz.private.md) 
-- [Sandowitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sandowitz.personal.md) 
-- [Sandowitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sandowitz.secret.md) 

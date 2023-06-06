@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Peitz.md) 
-- [Peitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Peitz.internal.md) 
-- [Peitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Peitz.protect.md) 
-- [Peitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Peitz.private.md) 
-- [Peitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Peitz.personal.md) 
-- [Peitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Peitz.secret.md) 

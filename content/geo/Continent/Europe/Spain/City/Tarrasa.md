@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tarrasa](../../../../../../_public/geo/Continent/Europe/Spain/City/Tarrasa.md) 
-- [Tarrasa.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Tarrasa.internal.md) 
-- [Tarrasa.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Tarrasa.protect.md) 
-- [Tarrasa.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Tarrasa.private.md) 
-- [Tarrasa.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Tarrasa.personal.md) 
-- [Tarrasa.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Tarrasa.secret.md) 

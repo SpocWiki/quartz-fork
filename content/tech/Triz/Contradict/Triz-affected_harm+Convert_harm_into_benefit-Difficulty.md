@@ -19,10 +19,3 @@ title: Triz-affected_harm+Convert_harm_into_benefit-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Convert_harm_into_benefit-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.internal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.protect.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.private.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.personal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Difficulty.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gerona](../../../../../../_public/geo/Continent/Europe/Spain/City/Gerona.md) 
-- [Gerona.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Gerona.internal.md) 
-- [Gerona.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Gerona.protect.md) 
-- [Gerona.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Gerona.private.md) 
-- [Gerona.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Gerona.personal.md) 
-- [Gerona.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Gerona.secret.md) 

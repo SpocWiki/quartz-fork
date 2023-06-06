@@ -31,10 +31,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Shanghai](../../../../../../_public/geo/Continent/Asia/China/City/Shanghai.md) 
-- [Shanghai.internal](../../../../../../_internal/geo/Continent/Asia/China/City/Shanghai.internal.md) 
-- [Shanghai.protect](../../../../../../_protect/geo/Continent/Asia/China/City/Shanghai.protect.md) 
-- [Shanghai.private](../../../../../../_private/geo/Continent/Asia/China/City/Shanghai.private.md) 
-- [Shanghai.personal](../../../../../../_personal/geo/Continent/Asia/China/City/Shanghai.personal.md) 
-- [Shanghai.secret](../../../../../../_secret/geo/Continent/Asia/China/City/Shanghai.secret.md) 

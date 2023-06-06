@@ -122,7 +122,7 @@ markerFolder: ./Kuwait/City
 
 ![350](geo/Continent/Asia/Kuwait/Emblem_of_Kuwait.svg)
 
-![Anthem-Kuwait](xLarge/National-Anthem/Anthem-Kuwait.mp3)
+[Anthem-Kuwait](xLarge/National-Anthem/Anthem-Kuwait.mp3)
 
 ![350](geo/Continent/Asia/Kuwait/Flag_of_Kuwait.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Kuwait/City
 
 
 
-## Confidential Links & Embeds: 
-- [Kuwait](../../../../_public/geo/Continent/Asia/Kuwait.md) 
-- [Kuwait.internal](../../../../_internal/geo/Continent/Asia/Kuwait.internal.md) 
-- [Kuwait.protect](../../../../_protect/geo/Continent/Asia/Kuwait.protect.md) 
-- [Kuwait.private](../../../../_private/geo/Continent/Asia/Kuwait.private.md) 
-- [Kuwait.personal](../../../../_personal/geo/Continent/Asia/Kuwait.personal.md) 
-- [Kuwait.secret](../../../../_secret/geo/Continent/Asia/Kuwait.secret.md) 

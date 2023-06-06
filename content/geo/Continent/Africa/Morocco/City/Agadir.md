@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Agadir](../../../../../../_public/geo/Continent/Africa/Morocco/City/Agadir.md) 
-- [Agadir.internal](../../../../../../_internal/geo/Continent/Africa/Morocco/City/Agadir.internal.md) 
-- [Agadir.protect](../../../../../../_protect/geo/Continent/Africa/Morocco/City/Agadir.protect.md) 
-- [Agadir.private](../../../../../../_private/geo/Continent/Africa/Morocco/City/Agadir.private.md) 
-- [Agadir.personal](../../../../../../_personal/geo/Continent/Africa/Morocco/City/Agadir.personal.md) 
-- [Agadir.secret](../../../../../../_secret/geo/Continent/Africa/Morocco/City/Agadir.secret.md) 

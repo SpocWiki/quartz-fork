@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jakutsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Jakutsk.md) 
-- [Jakutsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jakutsk.internal.md) 
-- [Jakutsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jakutsk.protect.md) 
-- [Jakutsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jakutsk.private.md) 
-- [Jakutsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jakutsk.personal.md) 
-- [Jakutsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jakutsk.secret.md) 

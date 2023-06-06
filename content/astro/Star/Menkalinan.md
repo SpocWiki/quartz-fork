@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Menkalinan](../../../_public/astro/Star/Menkalinan.md) 
-- [Menkalinan.internal](../../../_internal/astro/Star/Menkalinan.internal.md) 
-- [Menkalinan.protect](../../../_protect/astro/Star/Menkalinan.protect.md) 
-- [Menkalinan.private](../../../_private/astro/Star/Menkalinan.private.md) 
-- [Menkalinan.personal](../../../_personal/astro/Star/Menkalinan.personal.md) 
-- [Menkalinan.secret](../../../_secret/astro/Star/Menkalinan.secret.md) 

@@ -43,10 +43,3 @@ A bridge.
 
 
 
-## Confidential Links & Embeds: 
-- [bridge](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/bridge.md) 
-- [bridge.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/bridge.internal.md) 
-- [bridge.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/bridge.protect.md) 
-- [bridge.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/bridge.private.md) 
-- [bridge.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/bridge.personal.md) 
-- [bridge.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/bridge.secret.md) 

@@ -43,10 +43,3 @@ A subscription which allows a user to access media including audio, video, books
 
 
 
-## Confidential Links & Embeds: 
-- [media_subscription](../../../../../_public/schema.org/Type/is_a_/intangible/media_subscription.md) 
-- [media_subscription.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/media_subscription.internal.md) 
-- [media_subscription.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/media_subscription.protect.md) 
-- [media_subscription.private](../../../../../_private/schema.org/Type/is_a_/intangible/media_subscription.private.md) 
-- [media_subscription.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/media_subscription.personal.md) 
-- [media_subscription.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/media_subscription.secret.md) 

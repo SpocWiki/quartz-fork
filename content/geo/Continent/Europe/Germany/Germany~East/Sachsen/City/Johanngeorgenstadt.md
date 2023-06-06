@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Johanngeorgenstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Johanngeorgenstadt.md) 
-- [Johanngeorgenstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Johanngeorgenstadt.internal.md) 
-- [Johanngeorgenstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Johanngeorgenstadt.protect.md) 
-- [Johanngeorgenstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Johanngeorgenstadt.private.md) 
-- [Johanngeorgenstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Johanngeorgenstadt.personal.md) 
-- [Johanngeorgenstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Johanngeorgenstadt.secret.md) 

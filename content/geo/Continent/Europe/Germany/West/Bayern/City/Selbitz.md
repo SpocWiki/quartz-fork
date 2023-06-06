@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Selbitz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Selbitz.md) 
-- [Selbitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Selbitz.internal.md) 
-- [Selbitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Selbitz.protect.md) 
-- [Selbitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Selbitz.private.md) 
-- [Selbitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Selbitz.personal.md) 
-- [Selbitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Selbitz.secret.md) 

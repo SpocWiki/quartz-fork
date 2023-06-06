@@ -39,10 +39,3 @@ A combination of date and time of day in the form [-]CCYY-MM-DDThh:mm:ss[Z|(+|-)
 
 
 
-## Confidential Links & Embeds: 
-- [date_time](../../../../../_public/schema.org/Type/is_a_/data_type/date_time.md) 
-- [date_time.internal](../../../../../_internal/schema.org/Type/is_a_/data_type/date_time.internal.md) 
-- [date_time.protect](../../../../../_protect/schema.org/Type/is_a_/data_type/date_time.protect.md) 
-- [date_time.private](../../../../../_private/schema.org/Type/is_a_/data_type/date_time.private.md) 
-- [date_time.personal](../../../../../_personal/schema.org/Type/is_a_/data_type/date_time.personal.md) 
-- [date_time.secret](../../../../../_secret/schema.org/Type/is_a_/data_type/date_time.secret.md) 

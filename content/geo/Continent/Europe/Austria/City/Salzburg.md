@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salzburg](../../../../../../_public/geo/Continent/Europe/Austria/City/Salzburg.md) 
-- [Salzburg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Salzburg.internal.md) 
-- [Salzburg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Salzburg.protect.md) 
-- [Salzburg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Salzburg.private.md) 
-- [Salzburg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Salzburg.personal.md) 
-- [Salzburg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Salzburg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stein~Rhein](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Stein~Rhein.md) 
-- [Stein~Rhein.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Stein~Rhein.internal.md) 
-- [Stein~Rhein.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Stein~Rhein.protect.md) 
-- [Stein~Rhein.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Stein~Rhein.private.md) 
-- [Stein~Rhein.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Stein~Rhein.personal.md) 
-- [Stein~Rhein.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Stein~Rhein.secret.md) 

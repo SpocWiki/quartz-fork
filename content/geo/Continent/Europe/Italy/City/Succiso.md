@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Succiso](../../../../../../_public/geo/Continent/Europe/Italy/City/Succiso.md) 
-- [Succiso.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Succiso.internal.md) 
-- [Succiso.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Succiso.protect.md) 
-- [Succiso.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Succiso.private.md) 
-- [Succiso.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Succiso.personal.md) 
-- [Succiso.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Succiso.secret.md) 

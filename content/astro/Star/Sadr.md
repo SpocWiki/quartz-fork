@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sadr](../../../_public/astro/Star/Sadr.md) 
-- [Sadr.internal](../../../_internal/astro/Star/Sadr.internal.md) 
-- [Sadr.protect](../../../_protect/astro/Star/Sadr.protect.md) 
-- [Sadr.private](../../../_private/astro/Star/Sadr.private.md) 
-- [Sadr.personal](../../../_personal/astro/Star/Sadr.personal.md) 
-- [Sadr.secret](../../../_secret/astro/Star/Sadr.secret.md) 

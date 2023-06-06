@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Ladbroke_Grove](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.md) 
-- [Sub-Ladbroke_Grove.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.internal.md) 
-- [Sub-Ladbroke_Grove.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.protect.md) 
-- [Sub-Ladbroke_Grove.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.private.md) 
-- [Sub-Ladbroke_Grove.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.personal.md) 
-- [Sub-Ladbroke_Grove.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ladbroke_Grove.secret.md) 

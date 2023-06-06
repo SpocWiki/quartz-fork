@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Riederhöfe](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Riederh%C3%B6fe.md) 
-- [T-Riederhöfe.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Riederh%C3%B6fe.internal.md) 
-- [T-Riederhöfe.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Riederh%C3%B6fe.protect.md) 
-- [T-Riederhöfe.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Riederh%C3%B6fe.private.md) 
-- [T-Riederhöfe.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Riederh%C3%B6fe.personal.md) 
-- [T-Riederhöfe.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Riederh%C3%B6fe.secret.md) 

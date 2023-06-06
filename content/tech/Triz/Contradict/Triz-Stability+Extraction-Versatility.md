@@ -19,10 +19,3 @@ title: Triz-Stability+Extraction-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Extraction-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.md) 
-- [Triz-Stability+Extraction-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.internal.md) 
-- [Triz-Stability+Extraction-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.protect.md) 
-- [Triz-Stability+Extraction-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.private.md) 
-- [Triz-Stability+Extraction-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.personal.md) 
-- [Triz-Stability+Extraction-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Extraction-Versatility.secret.md) 

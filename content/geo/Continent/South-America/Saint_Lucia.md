@@ -27,7 +27,7 @@ markerFolder: ./Saint_Lucia/City
 
 ![350](geo/Continent/South-America/Mexico/Coat_of_arms_of_Mexico.svg)
 
-![Anthem-Mexico](xLarge/National-Anthem/Anthem-Mexico.mp3)
+[Anthem-Mexico](xLarge/National-Anthem/Anthem-Mexico.mp3)
 
 ![350](geo/Continent/South-America/Mexico/Flag_of_Mexico.svg)
 
@@ -43,10 +43,3 @@ markerFolder: ./Saint_Lucia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Saint_Lucia](../../../../_public/geo/Continent/South-America/Saint_Lucia.md) 
-- [Saint_Lucia.internal](../../../../_internal/geo/Continent/South-America/Saint_Lucia.internal.md) 
-- [Saint_Lucia.protect](../../../../_protect/geo/Continent/South-America/Saint_Lucia.protect.md) 
-- [Saint_Lucia.private](../../../../_private/geo/Continent/South-America/Saint_Lucia.private.md) 
-- [Saint_Lucia.personal](../../../../_personal/geo/Continent/South-America/Saint_Lucia.personal.md) 
-- [Saint_Lucia.secret](../../../../_secret/geo/Continent/South-America/Saint_Lucia.secret.md) 

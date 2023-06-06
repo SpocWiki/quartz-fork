@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jasenitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Jasenitz.md) 
-- [Jasenitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Jasenitz.internal.md) 
-- [Jasenitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Jasenitz.protect.md) 
-- [Jasenitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Jasenitz.private.md) 
-- [Jasenitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Jasenitz.personal.md) 
-- [Jasenitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Jasenitz.secret.md) 

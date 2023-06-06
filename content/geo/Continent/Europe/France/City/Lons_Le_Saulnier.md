@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lons_Le_Saulnier](../../../../../../_public/geo/Continent/Europe/France/City/Lons_Le_Saulnier.md) 
-- [Lons_Le_Saulnier.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lons_Le_Saulnier.internal.md) 
-- [Lons_Le_Saulnier.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lons_Le_Saulnier.protect.md) 
-- [Lons_Le_Saulnier.private](../../../../../../_private/geo/Continent/Europe/France/City/Lons_Le_Saulnier.private.md) 
-- [Lons_Le_Saulnier.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lons_Le_Saulnier.personal.md) 
-- [Lons_Le_Saulnier.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lons_Le_Saulnier.secret.md) 

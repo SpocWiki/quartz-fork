@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kalkutta=Calcutta](../../../../../../_public/geo/Continent/Asia/India/City/Kalkutta=Calcutta.md) 
-- [Kalkutta=Calcutta.internal](../../../../../../_internal/geo/Continent/Asia/India/City/Kalkutta=Calcutta.internal.md) 
-- [Kalkutta=Calcutta.protect](../../../../../../_protect/geo/Continent/Asia/India/City/Kalkutta=Calcutta.protect.md) 
-- [Kalkutta=Calcutta.private](../../../../../../_private/geo/Continent/Asia/India/City/Kalkutta=Calcutta.private.md) 
-- [Kalkutta=Calcutta.personal](../../../../../../_personal/geo/Continent/Asia/India/City/Kalkutta=Calcutta.personal.md) 
-- [Kalkutta=Calcutta.secret](../../../../../../_secret/geo/Continent/Asia/India/City/Kalkutta=Calcutta.secret.md) 

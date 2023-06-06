@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grevenmacher](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Grevenmacher.md) 
-- [Grevenmacher.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Grevenmacher.internal.md) 
-- [Grevenmacher.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Grevenmacher.protect.md) 
-- [Grevenmacher.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Grevenmacher.private.md) 
-- [Grevenmacher.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Grevenmacher.personal.md) 
-- [Grevenmacher.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Grevenmacher.secret.md) 

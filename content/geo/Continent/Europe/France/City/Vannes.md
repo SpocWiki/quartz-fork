@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vannes](../../../../../../_public/geo/Continent/Europe/France/City/Vannes.md) 
-- [Vannes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vannes.internal.md) 
-- [Vannes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vannes.protect.md) 
-- [Vannes.private](../../../../../../_private/geo/Continent/Europe/France/City/Vannes.private.md) 
-- [Vannes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vannes.personal.md) 
-- [Vannes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vannes.secret.md) 

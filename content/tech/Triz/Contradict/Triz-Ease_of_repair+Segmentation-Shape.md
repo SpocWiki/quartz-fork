@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Segmentation-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Segmentation-Shape](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.md) 
-- [Triz-Ease_of_repair+Segmentation-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.internal.md) 
-- [Triz-Ease_of_repair+Segmentation-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.protect.md) 
-- [Triz-Ease_of_repair+Segmentation-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.private.md) 
-- [Triz-Ease_of_repair+Segmentation-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.personal.md) 
-- [Triz-Ease_of_repair+Segmentation-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Shape.secret.md) 

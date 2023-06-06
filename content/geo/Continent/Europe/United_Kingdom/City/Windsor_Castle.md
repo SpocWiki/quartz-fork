@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Windsor_Castle](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.md) 
-- [Windsor_Castle.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.internal.md) 
-- [Windsor_Castle.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.protect.md) 
-- [Windsor_Castle.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.private.md) 
-- [Windsor_Castle.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.personal.md) 
-- [Windsor_Castle.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Windsor_Castle.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-generated_harm+Segmentation-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Segmentation-Quantity](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.md) 
-- [Triz-generated_harm+Segmentation-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.internal.md) 
-- [Triz-generated_harm+Segmentation-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.protect.md) 
-- [Triz-generated_harm+Segmentation-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.private.md) 
-- [Triz-generated_harm+Segmentation-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.personal.md) 
-- [Triz-generated_harm+Segmentation-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Quantity.secret.md) 

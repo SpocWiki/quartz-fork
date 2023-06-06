@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dinkelscherben](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.md) 
-- [Dinkelscherben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.internal.md) 
-- [Dinkelscherben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.protect.md) 
-- [Dinkelscherben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.private.md) 
-- [Dinkelscherben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.personal.md) 
-- [Dinkelscherben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelscherben.secret.md) 

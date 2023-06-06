@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mageroe](../../../../../../_public/geo/Continent/Europe/Norway/City/Mageroe.md) 
-- [Mageroe.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Mageroe.internal.md) 
-- [Mageroe.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Mageroe.protect.md) 
-- [Mageroe.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Mageroe.private.md) 
-- [Mageroe.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Mageroe.personal.md) 
-- [Mageroe.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Mageroe.secret.md) 

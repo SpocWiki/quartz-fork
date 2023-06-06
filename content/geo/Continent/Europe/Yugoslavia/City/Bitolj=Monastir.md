@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bitolj=Monastir](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.md) 
-- [Bitolj=Monastir.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.internal.md) 
-- [Bitolj=Monastir.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.protect.md) 
-- [Bitolj=Monastir.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.private.md) 
-- [Bitolj=Monastir.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.personal.md) 
-- [Bitolj=Monastir.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Bitolj=Monastir.secret.md) 

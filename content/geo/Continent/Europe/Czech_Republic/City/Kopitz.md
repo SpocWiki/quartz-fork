@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kopitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kopitz.md) 
-- [Kopitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kopitz.internal.md) 
-- [Kopitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kopitz.protect.md) 
-- [Kopitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kopitz.private.md) 
-- [Kopitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kopitz.personal.md) 
-- [Kopitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kopitz.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Argyrokastron](../../../../../../_public/geo/Continent/Europe/Albania/City/Argyrokastron.md) 
-- [Argyrokastron.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Argyrokastron.internal.md) 
-- [Argyrokastron.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Argyrokastron.protect.md) 
-- [Argyrokastron.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Argyrokastron.private.md) 
-- [Argyrokastron.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Argyrokastron.personal.md) 
-- [Argyrokastron.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Argyrokastron.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Boettstein](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Boettstein.md) 
-- [Boettstein.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Boettstein.internal.md) 
-- [Boettstein.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Boettstein.protect.md) 
-- [Boettstein.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Boettstein.private.md) 
-- [Boettstein.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Boettstein.personal.md) 
-- [Boettstein.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Boettstein.secret.md) 

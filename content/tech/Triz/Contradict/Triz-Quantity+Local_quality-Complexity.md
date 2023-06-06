@@ -19,10 +19,3 @@ title: Triz-Quantity+Local_quality-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Local_quality-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.md) 
-- [Triz-Quantity+Local_quality-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.internal.md) 
-- [Triz-Quantity+Local_quality-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.protect.md) 
-- [Triz-Quantity+Local_quality-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.private.md) 
-- [Triz-Quantity+Local_quality-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.personal.md) 
-- [Triz-Quantity+Local_quality-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Complexity.secret.md) 

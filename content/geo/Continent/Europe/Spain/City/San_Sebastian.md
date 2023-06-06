@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [San_Sebastian](../../../../../../_public/geo/Continent/Europe/Spain/City/San_Sebastian.md) 
-- [San_Sebastian.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/San_Sebastian.internal.md) 
-- [San_Sebastian.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/San_Sebastian.protect.md) 
-- [San_Sebastian.private](../../../../../../_private/geo/Continent/Europe/Spain/City/San_Sebastian.private.md) 
-- [San_Sebastian.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/San_Sebastian.personal.md) 
-- [San_Sebastian.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/San_Sebastian.secret.md) 

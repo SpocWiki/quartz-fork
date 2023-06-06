@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sligo](../../../../../../_public/geo/Continent/Europe/Ireland/City/Sligo.md) 
-- [Sligo.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Sligo.internal.md) 
-- [Sligo.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Sligo.protect.md) 
-- [Sligo.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Sligo.private.md) 
-- [Sligo.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Sligo.personal.md) 
-- [Sligo.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Sligo.secret.md) 

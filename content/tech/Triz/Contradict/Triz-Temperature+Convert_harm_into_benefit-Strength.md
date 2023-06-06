@@ -19,10 +19,3 @@ title: Triz-Temperature+Convert_harm_into_benefit-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Convert_harm_into_benefit-Strength](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-Strength.md) 
-- [Triz-Temperature+Convert_harm_into_benefit-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-Strength.internal.md) 
-- [Triz-Temperature+Convert_harm_into_benefit-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-Strength.protect.md) 
-- [Triz-Temperature+Convert_harm_into_benefit-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-Strength.private.md) 
-- [Triz-Temperature+Convert_harm_into_benefit-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-Strength.personal.md) 
-- [Triz-Temperature+Convert_harm_into_benefit-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-Strength.secret.md) 

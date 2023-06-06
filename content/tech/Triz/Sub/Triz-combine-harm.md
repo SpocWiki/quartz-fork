@@ -18,10 +18,3 @@ title: Triz-combine-harm
 Eliminate the primary harmful action by adding it to another harmful action to resolve the problem.
 
 
-## Confidential Links & Embeds: 
-- [Triz-combine-harm](../../../../_public/tech/Triz/Sub/Triz-combine-harm.md) 
-- [Triz-combine-harm.internal](../../../../_internal/tech/Triz/Sub/Triz-combine-harm.internal.md) 
-- [Triz-combine-harm.protect](../../../../_protect/tech/Triz/Sub/Triz-combine-harm.protect.md) 
-- [Triz-combine-harm.private](../../../../_private/tech/Triz/Sub/Triz-combine-harm.private.md) 
-- [Triz-combine-harm.personal](../../../../_personal/tech/Triz/Sub/Triz-combine-harm.personal.md) 
-- [Triz-combine-harm.secret](../../../../_secret/tech/Triz/Sub/Triz-combine-harm.secret.md) 

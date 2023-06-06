@@ -49,10 +49,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_number_of_forward_gears](../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.md) 
-- [has_number_of_number_of_forward_gears.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.internal.md) 
-- [has_number_of_number_of_forward_gears.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.protect.md) 
-- [has_number_of_number_of_forward_gears.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.private.md) 
-- [has_number_of_number_of_forward_gears.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.personal.md) 
-- [has_number_of_number_of_forward_gears.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.secret.md) 

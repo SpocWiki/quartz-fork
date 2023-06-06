@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [La_Louviere](../../../../../../_public/geo/Continent/Europe/Belgium/City/La_Louviere.md) 
-- [La_Louviere.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/La_Louviere.internal.md) 
-- [La_Louviere.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/La_Louviere.protect.md) 
-- [La_Louviere.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/La_Louviere.private.md) 
-- [La_Louviere.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/La_Louviere.personal.md) 
-- [La_Louviere.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/La_Louviere.secret.md) 

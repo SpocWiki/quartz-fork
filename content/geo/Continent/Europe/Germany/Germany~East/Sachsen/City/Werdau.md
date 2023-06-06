@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Werdau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Werdau.md) 
-- [Werdau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Werdau.internal.md) 
-- [Werdau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Werdau.protect.md) 
-- [Werdau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Werdau.private.md) 
-- [Werdau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Werdau.personal.md) 
-- [Werdau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Werdau.secret.md) 

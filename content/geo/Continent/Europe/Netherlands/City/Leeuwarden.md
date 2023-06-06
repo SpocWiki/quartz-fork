@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leeuwarden](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Leeuwarden.md) 
-- [Leeuwarden.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Leeuwarden.internal.md) 
-- [Leeuwarden.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Leeuwarden.protect.md) 
-- [Leeuwarden.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Leeuwarden.private.md) 
-- [Leeuwarden.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Leeuwarden.personal.md) 
-- [Leeuwarden.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Leeuwarden.secret.md) 

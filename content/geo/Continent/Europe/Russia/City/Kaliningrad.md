@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaliningrad](../../../../../../_public/geo/Continent/Europe/Russia/City/Kaliningrad.md) 
-- [Kaliningrad.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaliningrad.internal.md) 
-- [Kaliningrad.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaliningrad.protect.md) 
-- [Kaliningrad.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kaliningrad.private.md) 
-- [Kaliningrad.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaliningrad.personal.md) 
-- [Kaliningrad.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaliningrad.secret.md) 

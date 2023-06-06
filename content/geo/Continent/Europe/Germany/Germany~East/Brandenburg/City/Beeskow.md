@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beeskow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beeskow.md) 
-- [Beeskow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beeskow.internal.md) 
-- [Beeskow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beeskow.protect.md) 
-- [Beeskow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beeskow.private.md) 
-- [Beeskow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beeskow.personal.md) 
-- [Beeskow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Beeskow.secret.md) 

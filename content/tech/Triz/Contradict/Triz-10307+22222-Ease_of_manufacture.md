@@ -19,10 +19,3 @@ title: Triz-10307+22222-Ease_of_manufacture
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22222-Ease_of_manufacture](../../../../_public/tech/Triz/Contradict/Triz-10307+22222-Ease_of_manufacture.md) 
-- [Triz-10307+22222-Ease_of_manufacture.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22222-Ease_of_manufacture.internal.md) 
-- [Triz-10307+22222-Ease_of_manufacture.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22222-Ease_of_manufacture.protect.md) 
-- [Triz-10307+22222-Ease_of_manufacture.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22222-Ease_of_manufacture.private.md) 
-- [Triz-10307+22222-Ease_of_manufacture.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22222-Ease_of_manufacture.personal.md) 
-- [Triz-10307+22222-Ease_of_manufacture.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22222-Ease_of_manufacture.secret.md) 

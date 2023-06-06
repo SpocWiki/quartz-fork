@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pillupoenen](../../../../../../_public/geo/Continent/Europe/Russia/City/Pillupoenen.md) 
-- [Pillupoenen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Pillupoenen.internal.md) 
-- [Pillupoenen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Pillupoenen.protect.md) 
-- [Pillupoenen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Pillupoenen.private.md) 
-- [Pillupoenen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Pillupoenen.personal.md) 
-- [Pillupoenen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Pillupoenen.secret.md) 

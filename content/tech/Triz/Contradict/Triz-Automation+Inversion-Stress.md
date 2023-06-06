@@ -19,10 +19,3 @@ title: Triz-Automation+Inversion-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Inversion-Stress](../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Stress.md) 
-- [Triz-Automation+Inversion-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Stress.internal.md) 
-- [Triz-Automation+Inversion-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Stress.protect.md) 
-- [Triz-Automation+Inversion-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Stress.private.md) 
-- [Triz-Automation+Inversion-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Inversion-Stress.personal.md) 
-- [Triz-Automation+Inversion-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Inversion-Stress.secret.md) 

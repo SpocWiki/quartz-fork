@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fabriano](../../../../../../_public/geo/Continent/Europe/Italy/City/Fabriano.md) 
-- [Fabriano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Fabriano.internal.md) 
-- [Fabriano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Fabriano.protect.md) 
-- [Fabriano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Fabriano.private.md) 
-- [Fabriano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Fabriano.personal.md) 
-- [Fabriano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Fabriano.secret.md) 

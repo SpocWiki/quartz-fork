@@ -45,10 +45,3 @@ An audio file.
 
 
 
-## Confidential Links & Embeds: 
-- [audio_object](../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/audio_object.md) 
-- [audio_object.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/audio_object.internal.md) 
-- [audio_object.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/audio_object.protect.md) 
-- [audio_object.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/audio_object.private.md) 
-- [audio_object.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/audio_object.personal.md) 
-- [audio_object.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/audio_object.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-moving_Duration+Prior_action-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Duration+Prior_action-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.md) 
-- [Triz-moving_Duration+Prior_action-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.internal.md) 
-- [Triz-moving_Duration+Prior_action-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.protect.md) 
-- [Triz-moving_Duration+Prior_action-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.private.md) 
-- [Triz-moving_Duration+Prior_action-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.personal.md) 
-- [Triz-moving_Duration+Prior_action-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Prior_action-Information-Loss.secret.md) 

@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_position](../../../../_public/schema.org/Predicate/Counts/has_number_of_position.md) 
-- [has_number_of_position.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_position.internal.md) 
-- [has_number_of_position.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_position.protect.md) 
-- [has_number_of_position.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_position.private.md) 
-- [has_number_of_position.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_position.personal.md) 
-- [has_number_of_position.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_position.secret.md) 

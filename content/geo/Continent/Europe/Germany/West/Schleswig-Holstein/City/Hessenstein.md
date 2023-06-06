@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hessenstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.md) 
-- [Hessenstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.internal.md) 
-- [Hessenstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.protect.md) 
-- [Hessenstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.private.md) 
-- [Hessenstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.personal.md) 
-- [Hessenstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hessenstein.secret.md) 

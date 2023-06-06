@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heydekrug](../../../../../../_public/geo/Continent/Europe/Russia/City/Heydekrug.md) 
-- [Heydekrug.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Heydekrug.internal.md) 
-- [Heydekrug.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Heydekrug.protect.md) 
-- [Heydekrug.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Heydekrug.private.md) 
-- [Heydekrug.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Heydekrug.personal.md) 
-- [Heydekrug.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Heydekrug.secret.md) 

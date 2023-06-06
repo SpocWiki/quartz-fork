@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sumen=Shumen](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.md) 
-- [Sumen=Shumen.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.internal.md) 
-- [Sumen=Shumen.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.protect.md) 
-- [Sumen=Shumen.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.private.md) 
-- [Sumen=Shumen.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.personal.md) 
-- [Sumen=Shumen.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Sumen=Shumen.secret.md) 

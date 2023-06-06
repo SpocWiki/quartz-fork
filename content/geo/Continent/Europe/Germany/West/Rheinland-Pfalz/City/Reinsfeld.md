@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reinsfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Reinsfeld.md) 
-- [Reinsfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Reinsfeld.internal.md) 
-- [Reinsfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Reinsfeld.protect.md) 
-- [Reinsfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Reinsfeld.private.md) 
-- [Reinsfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Reinsfeld.personal.md) 
-- [Reinsfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Reinsfeld.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castasegna](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Castasegna.md) 
-- [Castasegna.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Castasegna.internal.md) 
-- [Castasegna.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Castasegna.protect.md) 
-- [Castasegna.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Castasegna.private.md) 
-- [Castasegna.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Castasegna.personal.md) 
-- [Castasegna.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Castasegna.secret.md) 

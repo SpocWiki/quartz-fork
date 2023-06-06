@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alnar](../../../../../../_public/geo/Continent/Europe/Sweden/City/Alnar.md) 
-- [Alnar.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Alnar.internal.md) 
-- [Alnar.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Alnar.protect.md) 
-- [Alnar.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Alnar.private.md) 
-- [Alnar.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Alnar.personal.md) 
-- [Alnar.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Alnar.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schiedam](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Schiedam.md) 
-- [Schiedam.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Schiedam.internal.md) 
-- [Schiedam.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Schiedam.protect.md) 
-- [Schiedam.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Schiedam.private.md) 
-- [Schiedam.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Schiedam.personal.md) 
-- [Schiedam.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Schiedam.secret.md) 

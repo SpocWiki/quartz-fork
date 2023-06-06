@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-King's_Cross_St._Pancras](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King's_Cross_St._Pancras.md) 
-- [Sub-King's_Cross_St._Pancras.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King's_Cross_St._Pancras.internal.md) 
-- [Sub-King's_Cross_St._Pancras.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King's_Cross_St._Pancras.protect.md) 
-- [Sub-King's_Cross_St._Pancras.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King's_Cross_St._Pancras.private.md) 
-- [Sub-King's_Cross_St._Pancras.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King's_Cross_St._Pancras.personal.md) 
-- [Sub-King's_Cross_St._Pancras.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-King's_Cross_St._Pancras.secret.md) 

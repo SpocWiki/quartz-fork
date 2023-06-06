@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaellunge](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kaellunge.md) 
-- [Kaellunge.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kaellunge.internal.md) 
-- [Kaellunge.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kaellunge.protect.md) 
-- [Kaellunge.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kaellunge.private.md) 
-- [Kaellunge.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kaellunge.personal.md) 
-- [Kaellunge.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kaellunge.secret.md) 

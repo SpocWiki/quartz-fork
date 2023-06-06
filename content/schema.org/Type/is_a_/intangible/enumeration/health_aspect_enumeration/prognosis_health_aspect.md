@@ -47,10 +47,3 @@ Typical progression and happenings of life course of the topic.
 
 
 
-## Confidential Links & Embeds: 
-- [prognosis_health_aspect](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.md) 
-- [prognosis_health_aspect.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.internal.md) 
-- [prognosis_health_aspect.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.protect.md) 
-- [prognosis_health_aspect.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.private.md) 
-- [prognosis_health_aspect.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.personal.md) 
-- [prognosis_health_aspect.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Universality-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Universality-Strength](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Strength.md) 
-- [Triz-Measurement_Accuracy+Universality-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Strength.internal.md) 
-- [Triz-Measurement_Accuracy+Universality-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Strength.protect.md) 
-- [Triz-Measurement_Accuracy+Universality-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Strength.private.md) 
-- [Triz-Measurement_Accuracy+Universality-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Strength.personal.md) 
-- [Triz-Measurement_Accuracy+Universality-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Strength.secret.md) 

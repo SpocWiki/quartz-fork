@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Rupert](../../../../../../_public/geo/Continent/Europe/Austria/City/St.Rupert.md) 
-- [St.Rupert.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Rupert.internal.md) 
-- [St.Rupert.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Rupert.protect.md) 
-- [St.Rupert.private](../../../../../../_private/geo/Continent/Europe/Austria/City/St.Rupert.private.md) 
-- [St.Rupert.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Rupert.personal.md) 
-- [St.Rupert.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Rupert.secret.md) 

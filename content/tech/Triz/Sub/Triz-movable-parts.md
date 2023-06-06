@@ -18,10 +18,3 @@ title: Triz-movable-parts
 Divide an object into parts capable of movement relative to each other.
 
 
-## Confidential Links & Embeds: 
-- [Triz-movable-parts](../../../../_public/tech/Triz/Sub/Triz-movable-parts.md) 
-- [Triz-movable-parts.internal](../../../../_internal/tech/Triz/Sub/Triz-movable-parts.internal.md) 
-- [Triz-movable-parts.protect](../../../../_protect/tech/Triz/Sub/Triz-movable-parts.protect.md) 
-- [Triz-movable-parts.private](../../../../_private/tech/Triz/Sub/Triz-movable-parts.private.md) 
-- [Triz-movable-parts.personal](../../../../_personal/tech/Triz/Sub/Triz-movable-parts.personal.md) 
-- [Triz-movable-parts.secret](../../../../_secret/tech/Triz/Sub/Triz-movable-parts.secret.md) 

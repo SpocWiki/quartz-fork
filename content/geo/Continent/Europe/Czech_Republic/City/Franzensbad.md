@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Franzensbad](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Franzensbad.md) 
-- [Franzensbad.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Franzensbad.internal.md) 
-- [Franzensbad.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Franzensbad.protect.md) 
-- [Franzensbad.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Franzensbad.private.md) 
-- [Franzensbad.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Franzensbad.personal.md) 
-- [Franzensbad.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Franzensbad.secret.md) 

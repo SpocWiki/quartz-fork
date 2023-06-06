@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaestervik](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaestervik.md) 
-- [Vaestervik.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaestervik.internal.md) 
-- [Vaestervik.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaestervik.protect.md) 
-- [Vaestervik.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaestervik.private.md) 
-- [Vaestervik.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaestervik.personal.md) 
-- [Vaestervik.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaestervik.secret.md) 

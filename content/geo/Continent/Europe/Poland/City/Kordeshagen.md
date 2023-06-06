@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kordeshagen](../../../../../../_public/geo/Continent/Europe/Poland/City/Kordeshagen.md) 
-- [Kordeshagen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kordeshagen.internal.md) 
-- [Kordeshagen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kordeshagen.protect.md) 
-- [Kordeshagen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kordeshagen.private.md) 
-- [Kordeshagen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kordeshagen.personal.md) 
-- [Kordeshagen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kordeshagen.secret.md) 

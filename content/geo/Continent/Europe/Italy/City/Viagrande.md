@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Viagrande](../../../../../../_public/geo/Continent/Europe/Italy/City/Viagrande.md) 
-- [Viagrande.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Viagrande.internal.md) 
-- [Viagrande.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Viagrande.protect.md) 
-- [Viagrande.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Viagrande.private.md) 
-- [Viagrande.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Viagrande.personal.md) 
-- [Viagrande.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Viagrande.secret.md) 

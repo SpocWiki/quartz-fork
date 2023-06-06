@@ -39,10 +39,3 @@ A point in time recurring on multiple days in the form hh:mm:ss[Z|(+|-)hh:mm] (s
 
 
 
-## Confidential Links & Embeds: 
-- [time](../../../../../_public/schema.org/Type/is_a_/data_type/time.md) 
-- [time.internal](../../../../../_internal/schema.org/Type/is_a_/data_type/time.internal.md) 
-- [time.protect](../../../../../_protect/schema.org/Type/is_a_/data_type/time.protect.md) 
-- [time.private](../../../../../_private/schema.org/Type/is_a_/data_type/time.private.md) 
-- [time.personal](../../../../../_personal/schema.org/Type/is_a_/data_type/time.personal.md) 
-- [time.secret](../../../../../_secret/schema.org/Type/is_a_/data_type/time.secret.md) 

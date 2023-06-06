@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gruenberg~Schlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Gruenberg~Schlesien.md) 
-- [Gruenberg~Schlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gruenberg~Schlesien.internal.md) 
-- [Gruenberg~Schlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gruenberg~Schlesien.protect.md) 
-- [Gruenberg~Schlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gruenberg~Schlesien.private.md) 
-- [Gruenberg~Schlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gruenberg~Schlesien.personal.md) 
-- [Gruenberg~Schlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gruenberg~Schlesien.secret.md) 

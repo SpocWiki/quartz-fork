@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gudzianai](../../../../../../_public/geo/Continent/Europe/Russia/City/Gudzianai.md) 
-- [Gudzianai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Gudzianai.internal.md) 
-- [Gudzianai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Gudzianai.protect.md) 
-- [Gudzianai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Gudzianai.private.md) 
-- [Gudzianai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Gudzianai.personal.md) 
-- [Gudzianai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Gudzianai.secret.md) 

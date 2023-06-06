@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberammergau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.md) 
-- [Oberammergau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.internal.md) 
-- [Oberammergau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.protect.md) 
-- [Oberammergau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.private.md) 
-- [Oberammergau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.personal.md) 
-- [Oberammergau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oberammergau.secret.md) 

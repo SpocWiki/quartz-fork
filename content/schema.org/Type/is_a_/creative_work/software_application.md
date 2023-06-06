@@ -45,10 +45,3 @@ A software application.
 
 
 
-## Confidential Links & Embeds: 
-- [software_application](../../../../../_public/schema.org/Type/is_a_/creative_work/software_application.md) 
-- [software_application.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/software_application.internal.md) 
-- [software_application.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/software_application.protect.md) 
-- [software_application.private](../../../../../_private/schema.org/Type/is_a_/creative_work/software_application.private.md) 
-- [software_application.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/software_application.personal.md) 
-- [software_application.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/software_application.secret.md) 

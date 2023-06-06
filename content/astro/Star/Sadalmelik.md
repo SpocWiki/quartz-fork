@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sadalmelik](../../../_public/astro/Star/Sadalmelik.md) 
-- [Sadalmelik.internal](../../../_internal/astro/Star/Sadalmelik.internal.md) 
-- [Sadalmelik.protect](../../../_protect/astro/Star/Sadalmelik.protect.md) 
-- [Sadalmelik.private](../../../_private/astro/Star/Sadalmelik.private.md) 
-- [Sadalmelik.personal](../../../_personal/astro/Star/Sadalmelik.personal.md) 
-- [Sadalmelik.secret](../../../_secret/astro/Star/Sadalmelik.secret.md) 

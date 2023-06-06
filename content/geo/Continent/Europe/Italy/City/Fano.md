@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fano](../../../../../../_public/geo/Continent/Europe/Italy/City/Fano.md) 
-- [Fano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Fano.internal.md) 
-- [Fano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Fano.protect.md) 
-- [Fano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Fano.private.md) 
-- [Fano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Fano.personal.md) 
-- [Fano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Fano.secret.md) 

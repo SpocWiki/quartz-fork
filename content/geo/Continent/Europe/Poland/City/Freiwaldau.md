@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freiwaldau](../../../../../../_public/geo/Continent/Europe/Poland/City/Freiwaldau.md) 
-- [Freiwaldau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Freiwaldau.internal.md) 
-- [Freiwaldau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Freiwaldau.protect.md) 
-- [Freiwaldau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Freiwaldau.private.md) 
-- [Freiwaldau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Freiwaldau.personal.md) 
-- [Freiwaldau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Freiwaldau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tabor](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tabor.md) 
-- [Tabor.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tabor.internal.md) 
-- [Tabor.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tabor.protect.md) 
-- [Tabor.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tabor.private.md) 
-- [Tabor.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tabor.personal.md) 
-- [Tabor.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tabor.secret.md) 

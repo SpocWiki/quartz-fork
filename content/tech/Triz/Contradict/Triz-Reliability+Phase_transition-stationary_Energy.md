@@ -19,10 +19,3 @@ title: Triz-Reliability+Phase_transition-stationary_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Phase_transition-stationary_Energy](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.md) 
-- [Triz-Reliability+Phase_transition-stationary_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.internal.md) 
-- [Triz-Reliability+Phase_transition-stationary_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.protect.md) 
-- [Triz-Reliability+Phase_transition-stationary_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.private.md) 
-- [Triz-Reliability+Phase_transition-stationary_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.personal.md) 
-- [Triz-Reliability+Phase_transition-stationary_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Phase_transition-stationary_Energy.secret.md) 

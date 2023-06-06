@@ -17,10 +17,3 @@ title: Triz-generated_harm
 
 Object-generated harmful factors
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm](../../../../_public/tech/Triz/Parameter/Triz-generated_harm.md) 
-- [Triz-generated_harm.internal](../../../../_internal/tech/Triz/Parameter/Triz-generated_harm.internal.md) 
-- [Triz-generated_harm.protect](../../../../_protect/tech/Triz/Parameter/Triz-generated_harm.protect.md) 
-- [Triz-generated_harm.private](../../../../_private/tech/Triz/Parameter/Triz-generated_harm.private.md) 
-- [Triz-generated_harm.personal](../../../../_personal/tech/Triz/Parameter/Triz-generated_harm.personal.md) 
-- [Triz-generated_harm.secret](../../../../_secret/tech/Triz/Parameter/Triz-generated_harm.secret.md) 

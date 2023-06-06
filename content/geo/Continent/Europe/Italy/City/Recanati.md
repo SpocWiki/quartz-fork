@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Recanati](../../../../../../_public/geo/Continent/Europe/Italy/City/Recanati.md) 
-- [Recanati.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Recanati.internal.md) 
-- [Recanati.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Recanati.protect.md) 
-- [Recanati.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Recanati.private.md) 
-- [Recanati.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Recanati.personal.md) 
-- [Recanati.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Recanati.secret.md) 

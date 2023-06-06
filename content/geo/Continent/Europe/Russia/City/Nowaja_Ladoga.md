@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nowaja_Ladoga](../../../../../../_public/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.md) 
-- [Nowaja_Ladoga.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.internal.md) 
-- [Nowaja_Ladoga.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.protect.md) 
-- [Nowaja_Ladoga.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.private.md) 
-- [Nowaja_Ladoga.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.personal.md) 
-- [Nowaja_Ladoga.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowaja_Ladoga.secret.md) 

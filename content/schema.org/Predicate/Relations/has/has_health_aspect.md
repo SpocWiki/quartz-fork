@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_health_aspect](../../../../../_public/schema.org/Predicate/Relations/has/has_health_aspect.md) 
-- [has_health_aspect.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_health_aspect.internal.md) 
-- [has_health_aspect.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_health_aspect.protect.md) 
-- [has_health_aspect.private](../../../../../_private/schema.org/Predicate/Relations/has/has_health_aspect.private.md) 
-- [has_health_aspect.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_health_aspect.personal.md) 
-- [has_health_aspect.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_health_aspect.secret.md) 

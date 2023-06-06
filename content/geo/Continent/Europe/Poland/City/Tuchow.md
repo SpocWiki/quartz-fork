@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tuchow](../../../../../../_public/geo/Continent/Europe/Poland/City/Tuchow.md) 
-- [Tuchow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Tuchow.internal.md) 
-- [Tuchow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Tuchow.protect.md) 
-- [Tuchow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Tuchow.private.md) 
-- [Tuchow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Tuchow.personal.md) 
-- [Tuchow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Tuchow.secret.md) 

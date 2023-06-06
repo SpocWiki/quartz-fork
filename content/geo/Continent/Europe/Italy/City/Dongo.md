@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dongo](../../../../../../_public/geo/Continent/Europe/Italy/City/Dongo.md) 
-- [Dongo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Dongo.internal.md) 
-- [Dongo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Dongo.protect.md) 
-- [Dongo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Dongo.private.md) 
-- [Dongo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Dongo.personal.md) 
-- [Dongo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Dongo.secret.md) 

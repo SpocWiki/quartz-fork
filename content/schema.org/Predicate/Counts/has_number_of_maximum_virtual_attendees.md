@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_maximum_virtual_attendees](../../../../_public/schema.org/Predicate/Counts/has_number_of_maximum_virtual_attendees.md) 
-- [has_number_of_maximum_virtual_attendees.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_maximum_virtual_attendees.internal.md) 
-- [has_number_of_maximum_virtual_attendees.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_maximum_virtual_attendees.protect.md) 
-- [has_number_of_maximum_virtual_attendees.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_maximum_virtual_attendees.private.md) 
-- [has_number_of_maximum_virtual_attendees.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_maximum_virtual_attendees.personal.md) 
-- [has_number_of_maximum_virtual_attendees.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_maximum_virtual_attendees.secret.md) 

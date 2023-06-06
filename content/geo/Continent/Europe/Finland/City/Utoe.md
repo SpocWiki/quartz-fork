@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Utoe](../../../../../../_public/geo/Continent/Europe/Finland/City/Utoe.md) 
-- [Utoe.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Utoe.internal.md) 
-- [Utoe.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Utoe.protect.md) 
-- [Utoe.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Utoe.private.md) 
-- [Utoe.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Utoe.personal.md) 
-- [Utoe.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Utoe.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falkenhain](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenhain.md) 
-- [Falkenhain.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenhain.internal.md) 
-- [Falkenhain.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenhain.protect.md) 
-- [Falkenhain.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenhain.private.md) 
-- [Falkenhain.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenhain.personal.md) 
-- [Falkenhain.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenhain.secret.md) 

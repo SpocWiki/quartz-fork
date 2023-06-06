@@ -36,10 +36,3 @@ markerFolder: ./FRENCH_INDO-CHINA/City
 
 
 
-## Confidential Links & Embeds: 
-- [FRENCH_INDO-CHINA](../../../../_public/geo/Continent/Asia/FRENCH_INDO-CHINA.md) 
-- [FRENCH_INDO-CHINA.internal](../../../../_internal/geo/Continent/Asia/FRENCH_INDO-CHINA.internal.md) 
-- [FRENCH_INDO-CHINA.protect](../../../../_protect/geo/Continent/Asia/FRENCH_INDO-CHINA.protect.md) 
-- [FRENCH_INDO-CHINA.private](../../../../_private/geo/Continent/Asia/FRENCH_INDO-CHINA.private.md) 
-- [FRENCH_INDO-CHINA.personal](../../../../_personal/geo/Continent/Asia/FRENCH_INDO-CHINA.personal.md) 
-- [FRENCH_INDO-CHINA.secret](../../../../_secret/geo/Continent/Asia/FRENCH_INDO-CHINA.secret.md) 

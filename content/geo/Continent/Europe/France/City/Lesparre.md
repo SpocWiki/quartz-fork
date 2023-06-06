@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lesparre](../../../../../../_public/geo/Continent/Europe/France/City/Lesparre.md) 
-- [Lesparre.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lesparre.internal.md) 
-- [Lesparre.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lesparre.protect.md) 
-- [Lesparre.private](../../../../../../_private/geo/Continent/Europe/France/City/Lesparre.private.md) 
-- [Lesparre.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lesparre.personal.md) 
-- [Lesparre.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lesparre.secret.md) 

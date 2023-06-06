@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pyhaejaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Pyhaejaervi.md) 
-- [Pyhaejaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Pyhaejaervi.internal.md) 
-- [Pyhaejaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Pyhaejaervi.protect.md) 
-- [Pyhaejaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Pyhaejaervi.private.md) 
-- [Pyhaejaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Pyhaejaervi.personal.md) 
-- [Pyhaejaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Pyhaejaervi.secret.md) 

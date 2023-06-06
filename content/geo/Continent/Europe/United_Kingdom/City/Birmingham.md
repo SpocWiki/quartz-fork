@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Birmingham](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Birmingham.md) 
-- [Birmingham.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Birmingham.internal.md) 
-- [Birmingham.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Birmingham.protect.md) 
-- [Birmingham.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Birmingham.private.md) 
-- [Birmingham.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Birmingham.personal.md) 
-- [Birmingham.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Birmingham.secret.md) 

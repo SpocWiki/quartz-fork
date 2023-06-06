@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alton](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.md) 
-- [Alton.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.internal.md) 
-- [Alton.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.protect.md) 
-- [Alton.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.private.md) 
-- [Alton.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.personal.md) 
-- [Alton.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Illinois/City/Alton.secret.md) 

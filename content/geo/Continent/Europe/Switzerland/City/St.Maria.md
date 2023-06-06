@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Maria](../../../../../../_public/geo/Continent/Europe/Switzerland/City/St.Maria.md) 
-- [St.Maria.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/St.Maria.internal.md) 
-- [St.Maria.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/St.Maria.protect.md) 
-- [St.Maria.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/St.Maria.private.md) 
-- [St.Maria.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/St.Maria.personal.md) 
-- [St.Maria.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/St.Maria.secret.md) 

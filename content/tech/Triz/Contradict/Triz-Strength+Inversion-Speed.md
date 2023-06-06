@@ -19,10 +19,3 @@ title: Triz-Strength+Inversion-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Inversion-Speed](../../../../_public/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.md) 
-- [Triz-Strength+Inversion-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.internal.md) 
-- [Triz-Strength+Inversion-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.protect.md) 
-- [Triz-Strength+Inversion-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.private.md) 
-- [Triz-Strength+Inversion-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.personal.md) 
-- [Triz-Strength+Inversion-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Inversion-Speed.secret.md) 

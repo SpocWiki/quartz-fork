@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trnis](../../../../../../_public/geo/Continent/Europe/Austria/City/Trnis.md) 
-- [Trnis.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Trnis.internal.md) 
-- [Trnis.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Trnis.protect.md) 
-- [Trnis.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Trnis.private.md) 
-- [Trnis.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Trnis.personal.md) 
-- [Trnis.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Trnis.secret.md) 

@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_material_extent](../../../../_public/schema.org/Predicate/Quantities/has_value_for_material_extent.md) 
-- [has_value_for_material_extent.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_material_extent.internal.md) 
-- [has_value_for_material_extent.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_material_extent.protect.md) 
-- [has_value_for_material_extent.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_material_extent.private.md) 
-- [has_value_for_material_extent.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_material_extent.personal.md) 
-- [has_value_for_material_extent.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_material_extent.secret.md) 

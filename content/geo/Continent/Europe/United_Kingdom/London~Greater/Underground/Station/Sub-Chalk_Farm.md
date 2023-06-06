@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Chalk_Farm](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.md) 
-- [Sub-Chalk_Farm.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.internal.md) 
-- [Sub-Chalk_Farm.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.protect.md) 
-- [Sub-Chalk_Farm.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.private.md) 
-- [Sub-Chalk_Farm.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.personal.md) 
-- [Sub-Chalk_Farm.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Chalk_Farm.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Izar](../../../_public/astro/Star/Izar.md) 
-- [Izar.internal](../../../_internal/astro/Star/Izar.internal.md) 
-- [Izar.protect](../../../_protect/astro/Star/Izar.protect.md) 
-- [Izar.private](../../../_private/astro/Star/Izar.private.md) 
-- [Izar.personal](../../../_personal/astro/Star/Izar.personal.md) 
-- [Izar.secret](../../../_secret/astro/Star/Izar.secret.md)
-

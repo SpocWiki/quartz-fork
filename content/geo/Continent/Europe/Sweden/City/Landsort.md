@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landsort](../../../../../../_public/geo/Continent/Europe/Sweden/City/Landsort.md) 
-- [Landsort.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Landsort.internal.md) 
-- [Landsort.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Landsort.protect.md) 
-- [Landsort.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Landsort.private.md) 
-- [Landsort.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Landsort.personal.md) 
-- [Landsort.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Landsort.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Voecklabruck](../../../../../../_public/geo/Continent/Europe/Austria/City/Voecklabruck.md) 
-- [Voecklabruck.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Voecklabruck.internal.md) 
-- [Voecklabruck.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Voecklabruck.protect.md) 
-- [Voecklabruck.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Voecklabruck.private.md) 
-- [Voecklabruck.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Voecklabruck.personal.md) 
-- [Voecklabruck.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Voecklabruck.secret.md) 

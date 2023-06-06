@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [WÜstenrot](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/W%C3%9Cstenrot.md) 
-- [WÜstenrot.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/W%C3%9Cstenrot.internal.md) 
-- [WÜstenrot.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/W%C3%9Cstenrot.protect.md) 
-- [WÜstenrot.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/W%C3%9Cstenrot.private.md) 
-- [WÜstenrot.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/W%C3%9Cstenrot.personal.md) 
-- [WÜstenrot.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/W%C3%9Cstenrot.secret.md) 

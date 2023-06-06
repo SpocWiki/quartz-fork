@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kowno](../../../../../../_public/geo/Continent/Europe/Russia/City/Kowno.md) 
-- [Kowno.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kowno.internal.md) 
-- [Kowno.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kowno.protect.md) 
-- [Kowno.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kowno.private.md) 
-- [Kowno.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kowno.personal.md) 
-- [Kowno.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kowno.secret.md) 

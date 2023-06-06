@@ -47,10 +47,3 @@ Nonprofit501e: Non-profit type referring to Cooperative Hospital Service Organiz
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501e](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.md) 
-- [nonprofit501e.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.internal.md) 
-- [nonprofit501e.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.protect.md) 
-- [nonprofit501e.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.private.md) 
-- [nonprofit501e.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.personal.md) 
-- [nonprofit501e.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501e.secret.md) 

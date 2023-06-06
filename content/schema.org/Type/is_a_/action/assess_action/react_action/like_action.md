@@ -43,10 +43,3 @@ The act of expressing a positive sentiment about the object. An agent likes an o
 
 
 
-## Confidential Links & Embeds: 
-- [like_action](../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action/like_action.md) 
-- [like_action.internal](../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action/like_action.internal.md) 
-- [like_action.protect](../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action/like_action.protect.md) 
-- [like_action.private](../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action/like_action.private.md) 
-- [like_action.personal](../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action/like_action.personal.md) 
-- [like_action.secret](../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action/like_action.secret.md) 

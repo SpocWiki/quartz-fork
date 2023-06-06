@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kamenz~Schlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Kamenz~Schlesien.md) 
-- [Kamenz~Schlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kamenz~Schlesien.internal.md) 
-- [Kamenz~Schlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kamenz~Schlesien.protect.md) 
-- [Kamenz~Schlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kamenz~Schlesien.private.md) 
-- [Kamenz~Schlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kamenz~Schlesien.personal.md) 
-- [Kamenz~Schlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kamenz~Schlesien.secret.md) 

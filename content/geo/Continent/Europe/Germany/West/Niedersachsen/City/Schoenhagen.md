@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoenhagen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.md) 
-- [Schoenhagen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.internal.md) 
-- [Schoenhagen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.protect.md) 
-- [Schoenhagen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.private.md) 
-- [Schoenhagen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.personal.md) 
-- [Schoenhagen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schoenhagen.secret.md) 

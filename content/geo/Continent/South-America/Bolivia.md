@@ -125,7 +125,7 @@ markerFolder: ./Bolivia/City
 
 ![550](geo/Continent/South-America/Bolivia/Coat_of_arms_of_Bolivia.svg)
 
-![Anthem-Bolivia](xLarge/National-Anthem/Anthem-Bolivia.mp3)
+[Anthem-Bolivia](xLarge/National-Anthem/Anthem-Bolivia.mp3)
 
 ![350](geo/Continent/South-America/Bolivia/Flag_of_Bolivia.svg)
 
@@ -136,10 +136,3 @@ markerFolder: ./Bolivia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Bolivia](../../../../_public/geo/Continent/South-America/Bolivia.md) 
-- [Bolivia.internal](../../../../_internal/geo/Continent/South-America/Bolivia.internal.md) 
-- [Bolivia.protect](../../../../_protect/geo/Continent/South-America/Bolivia.protect.md) 
-- [Bolivia.private](../../../../_private/geo/Continent/South-America/Bolivia.private.md) 
-- [Bolivia.personal](../../../../_personal/geo/Continent/South-America/Bolivia.personal.md) 
-- [Bolivia.secret](../../../../_secret/geo/Continent/South-America/Bolivia.secret.md) 

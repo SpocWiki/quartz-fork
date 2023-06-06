@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Mebsuta](../../../_public/astro/Star/Mebsuta.md) 
-- [Mebsuta.internal](../../../_internal/astro/Star/Mebsuta.internal.md) 
-- [Mebsuta.protect](../../../_protect/astro/Star/Mebsuta.protect.md) 
-- [Mebsuta.private](../../../_private/astro/Star/Mebsuta.private.md) 
-- [Mebsuta.personal](../../../_personal/astro/Star/Mebsuta.personal.md) 
-- [Mebsuta.secret](../../../_secret/astro/Star/Mebsuta.secret.md) 

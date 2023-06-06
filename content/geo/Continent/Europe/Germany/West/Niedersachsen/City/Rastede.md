@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rastede](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rastede.md) 
-- [Rastede.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rastede.internal.md) 
-- [Rastede.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rastede.protect.md) 
-- [Rastede.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rastede.private.md) 
-- [Rastede.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rastede.personal.md) 
-- [Rastede.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rastede.secret.md) 

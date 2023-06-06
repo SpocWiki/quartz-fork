@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Enontekioe](../../../../../../_public/geo/Continent/Europe/Finland/City/Enontekioe.md) 
-- [Enontekioe.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Enontekioe.internal.md) 
-- [Enontekioe.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Enontekioe.protect.md) 
-- [Enontekioe.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Enontekioe.private.md) 
-- [Enontekioe.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Enontekioe.personal.md) 
-- [Enontekioe.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Enontekioe.secret.md) 

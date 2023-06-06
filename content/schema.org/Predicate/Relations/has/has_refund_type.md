@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_refund_type](../../../../../_public/schema.org/Predicate/Relations/has/has_refund_type.md) 
-- [has_refund_type.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_refund_type.internal.md) 
-- [has_refund_type.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_refund_type.protect.md) 
-- [has_refund_type.private](../../../../../_private/schema.org/Predicate/Relations/has/has_refund_type.private.md) 
-- [has_refund_type.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_refund_type.personal.md) 
-- [has_refund_type.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_refund_type.secret.md) 

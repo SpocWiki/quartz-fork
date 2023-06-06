@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alexandropo](../../../../../../_public/geo/Continent/Europe/Russia/City/Alexandropo.md) 
-- [Alexandropo.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Alexandropo.internal.md) 
-- [Alexandropo.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Alexandropo.protect.md) 
-- [Alexandropo.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Alexandropo.private.md) 
-- [Alexandropo.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Alexandropo.personal.md) 
-- [Alexandropo.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Alexandropo.secret.md) 

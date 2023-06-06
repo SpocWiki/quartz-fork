@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zutphen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Zutphen.md) 
-- [Zutphen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zutphen.internal.md) 
-- [Zutphen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zutphen.protect.md) 
-- [Zutphen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zutphen.private.md) 
-- [Zutphen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zutphen.personal.md) 
-- [Zutphen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zutphen.secret.md) 

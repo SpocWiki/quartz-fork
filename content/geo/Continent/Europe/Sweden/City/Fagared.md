@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fagared](../../../../../../_public/geo/Continent/Europe/Sweden/City/Fagared.md) 
-- [Fagared.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Fagared.internal.md) 
-- [Fagared.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Fagared.protect.md) 
-- [Fagared.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Fagared.private.md) 
-- [Fagared.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Fagared.personal.md) 
-- [Fagared.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Fagared.secret.md) 

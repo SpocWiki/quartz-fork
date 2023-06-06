@@ -19,10 +19,3 @@ title: Triz-Temperature+Dynamicity-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Dynamicity-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Dynamicity-moving_Energy.md) 
-- [Triz-Temperature+Dynamicity-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Dynamicity-moving_Energy.internal.md) 
-- [Triz-Temperature+Dynamicity-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Dynamicity-moving_Energy.protect.md) 
-- [Triz-Temperature+Dynamicity-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Dynamicity-moving_Energy.private.md) 
-- [Triz-Temperature+Dynamicity-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Dynamicity-moving_Energy.personal.md) 
-- [Triz-Temperature+Dynamicity-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Dynamicity-moving_Energy.secret.md) 

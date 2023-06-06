@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krassnowodsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Krassnowodsk.md) 
-- [Krassnowodsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Krassnowodsk.internal.md) 
-- [Krassnowodsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Krassnowodsk.protect.md) 
-- [Krassnowodsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Krassnowodsk.private.md) 
-- [Krassnowodsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Krassnowodsk.personal.md) 
-- [Krassnowodsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Krassnowodsk.secret.md) 

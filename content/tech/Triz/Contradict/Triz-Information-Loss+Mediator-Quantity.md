@@ -19,10 +19,3 @@ title: Triz-Information-Loss+Mediator-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Information-Loss+Mediator-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.md) 
-- [Triz-Information-Loss+Mediator-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.internal.md) 
-- [Triz-Information-Loss+Mediator-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.protect.md) 
-- [Triz-Information-Loss+Mediator-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.private.md) 
-- [Triz-Information-Loss+Mediator-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.personal.md) 
-- [Triz-Information-Loss+Mediator-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Mediator-Quantity.secret.md) 

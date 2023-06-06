@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Local_quality-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Local_quality-Strength](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.md) 
-- [Triz-Time-Loss+Local_quality-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.internal.md) 
-- [Triz-Time-Loss+Local_quality-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.protect.md) 
-- [Triz-Time-Loss+Local_quality-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.private.md) 
-- [Triz-Time-Loss+Local_quality-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.personal.md) 
-- [Triz-Time-Loss+Local_quality-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Local_quality-Strength.secret.md) 

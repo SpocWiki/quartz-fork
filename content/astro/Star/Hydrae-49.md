@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Hydrae-49](../../../_public/astro/Star/Hydrae-49.md) 
-- [Hydrae-49.internal](../../../_internal/astro/Star/Hydrae-49.internal.md) 
-- [Hydrae-49.protect](../../../_protect/astro/Star/Hydrae-49.protect.md) 
-- [Hydrae-49.private](../../../_private/astro/Star/Hydrae-49.private.md) 
-- [Hydrae-49.personal](../../../_personal/astro/Star/Hydrae-49.personal.md) 
-- [Hydrae-49.secret](../../../_secret/astro/Star/Hydrae-49.secret.md)
-

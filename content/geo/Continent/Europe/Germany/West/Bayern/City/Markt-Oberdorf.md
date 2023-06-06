@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Markt-Oberdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.md) 
-- [Markt-Oberdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.internal.md) 
-- [Markt-Oberdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.protect.md) 
-- [Markt-Oberdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.private.md) 
-- [Markt-Oberdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.personal.md) 
-- [Markt-Oberdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leubsdorf~Sachsen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.md) 
-- [Leubsdorf~Sachsen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.internal.md) 
-- [Leubsdorf~Sachsen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.protect.md) 
-- [Leubsdorf~Sachsen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.private.md) 
-- [Leubsdorf~Sachsen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.personal.md) 
-- [Leubsdorf~Sachsen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leubsdorf~Sachsen.secret.md) 

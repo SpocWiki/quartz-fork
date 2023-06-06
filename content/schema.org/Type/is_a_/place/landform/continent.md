@@ -43,10 +43,3 @@ One of the continents (for example, Europe or Africa).
 
 
 
-## Confidential Links & Embeds: 
-- [continent](../../../../../../_public/schema.org/Type/is_a_/place/landform/continent.md) 
-- [continent.internal](../../../../../../_internal/schema.org/Type/is_a_/place/landform/continent.internal.md) 
-- [continent.protect](../../../../../../_protect/schema.org/Type/is_a_/place/landform/continent.protect.md) 
-- [continent.private](../../../../../../_private/schema.org/Type/is_a_/place/landform/continent.private.md) 
-- [continent.personal](../../../../../../_personal/schema.org/Type/is_a_/place/landform/continent.personal.md) 
-- [continent.secret](../../../../../../_secret/schema.org/Type/is_a_/place/landform/continent.secret.md) 

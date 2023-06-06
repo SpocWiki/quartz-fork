@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ericeira](../../../../../../_public/geo/Continent/Europe/Portugal/City/Ericeira.md) 
-- [Ericeira.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Ericeira.internal.md) 
-- [Ericeira.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Ericeira.protect.md) 
-- [Ericeira.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Ericeira.private.md) 
-- [Ericeira.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Ericeira.personal.md) 
-- [Ericeira.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Ericeira.secret.md) 

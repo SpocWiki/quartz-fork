@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwandorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schwandorf.md) 
-- [Schwandorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schwandorf.internal.md) 
-- [Schwandorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schwandorf.protect.md) 
-- [Schwandorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schwandorf.private.md) 
-- [Schwandorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schwandorf.personal.md) 
-- [Schwandorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schwandorf.secret.md) 

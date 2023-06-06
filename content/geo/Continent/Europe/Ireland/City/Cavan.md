@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cavan](../../../../../../_public/geo/Continent/Europe/Ireland/City/Cavan.md) 
-- [Cavan.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Cavan.internal.md) 
-- [Cavan.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Cavan.protect.md) 
-- [Cavan.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Cavan.private.md) 
-- [Cavan.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Cavan.personal.md) 
-- [Cavan.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Cavan.secret.md) 

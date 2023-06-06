@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wien=Vienna](../../../../../../_public/geo/Continent/Europe/Austria/City/Wien=Vienna.md) 
-- [Wien=Vienna.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Wien=Vienna.internal.md) 
-- [Wien=Vienna.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Wien=Vienna.protect.md) 
-- [Wien=Vienna.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Wien=Vienna.private.md) 
-- [Wien=Vienna.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Wien=Vienna.personal.md) 
-- [Wien=Vienna.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Wien=Vienna.secret.md) 

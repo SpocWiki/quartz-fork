@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Petropawlowsk-Kamtschatsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.md) 
-- [Petropawlowsk-Kamtschatsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.internal.md) 
-- [Petropawlowsk-Kamtschatsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.protect.md) 
-- [Petropawlowsk-Kamtschatsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.private.md) 
-- [Petropawlowsk-Kamtschatsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.personal.md) 
-- [Petropawlowsk-Kamtschatsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.secret.md) 

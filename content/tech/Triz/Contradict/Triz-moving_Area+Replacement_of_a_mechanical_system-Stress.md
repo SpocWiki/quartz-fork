@@ -19,10 +19,3 @@ title: Triz-moving_Area+Replacement_of_a_mechanical_system-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Replacement_of_a_mechanical_system-Stress](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.md) 
-- [Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.internal.md) 
-- [Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.protect.md) 
-- [Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.private.md) 
-- [Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.personal.md) 
-- [Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Replacement_of_a_mechanical_system-Stress.secret.md) 

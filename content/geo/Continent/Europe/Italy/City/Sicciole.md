@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sicciole](../../../../../../_public/geo/Continent/Europe/Italy/City/Sicciole.md) 
-- [Sicciole.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sicciole.internal.md) 
-- [Sicciole.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sicciole.protect.md) 
-- [Sicciole.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sicciole.private.md) 
-- [Sicciole.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sicciole.personal.md) 
-- [Sicciole.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sicciole.secret.md) 

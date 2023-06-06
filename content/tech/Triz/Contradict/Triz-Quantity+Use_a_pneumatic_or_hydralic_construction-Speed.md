@@ -19,10 +19,3 @@ title: Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.md) 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.internal.md) 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.protect.md) 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.private.md) 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.personal.md) 
-- [Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_a_pneumatic_or_hydralic_construction-Speed.secret.md) 

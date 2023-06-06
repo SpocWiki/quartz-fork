@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bethlehem](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.md) 
-- [Bethlehem.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.internal.md) 
-- [Bethlehem.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.protect.md) 
-- [Bethlehem.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.private.md) 
-- [Bethlehem.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.personal.md) 
-- [Bethlehem.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Bethlehem.secret.md) 

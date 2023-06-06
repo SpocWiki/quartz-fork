@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ledburg](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ledburg.md) 
-- [Ledburg.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ledburg.internal.md) 
-- [Ledburg.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ledburg.protect.md) 
-- [Ledburg.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ledburg.private.md) 
-- [Ledburg.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ledburg.personal.md) 
-- [Ledburg.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ledburg.secret.md) 

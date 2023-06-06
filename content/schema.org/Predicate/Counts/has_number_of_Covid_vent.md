@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_Covid_vent](../../../../_public/schema.org/Predicate/Counts/has_number_of_Covid_vent.md) 
-- [has_number_of_Covid_vent.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_Covid_vent.internal.md) 
-- [has_number_of_Covid_vent.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_Covid_vent.protect.md) 
-- [has_number_of_Covid_vent.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_Covid_vent.private.md) 
-- [has_number_of_Covid_vent.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_Covid_vent.personal.md) 
-- [has_number_of_Covid_vent.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_Covid_vent.secret.md) 

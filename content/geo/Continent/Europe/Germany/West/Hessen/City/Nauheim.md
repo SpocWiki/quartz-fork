@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nauheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Nauheim.md) 
-- [Nauheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nauheim.internal.md) 
-- [Nauheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nauheim.protect.md) 
-- [Nauheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nauheim.private.md) 
-- [Nauheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Nauheim.personal.md) 
-- [Nauheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Nauheim.secret.md) 

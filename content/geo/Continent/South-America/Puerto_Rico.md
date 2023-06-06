@@ -121,7 +121,7 @@ markerFolder: ./Puerto_Rico/City
 
 ![350](geo/Continent/South-America/Puerto_Rico/Coat_of_arms_of_Puerto_Rico.svg)
 
-![Anthem-Puerto-rico](xLarge/National-Anthem/Anthem-Puerto-rico.mp3)
+[Anthem-Puerto-rico](xLarge/National-Anthem/Anthem-Puerto-rico.mp3)
 
 ![350](geo/Continent/South-America/Puerto_Rico/Seal_of_Puerto_Rico.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Puerto_Rico/City
 
 
 
-## Confidential Links & Embeds: 
-- [Puerto_Rico](../../../../_public/geo/Continent/South-America/Puerto_Rico.md) 
-- [Puerto_Rico.internal](../../../../_internal/geo/Continent/South-America/Puerto_Rico.internal.md) 
-- [Puerto_Rico.protect](../../../../_protect/geo/Continent/South-America/Puerto_Rico.protect.md) 
-- [Puerto_Rico.private](../../../../_private/geo/Continent/South-America/Puerto_Rico.private.md) 
-- [Puerto_Rico.personal](../../../../_personal/geo/Continent/South-America/Puerto_Rico.personal.md) 
-- [Puerto_Rico.secret](../../../../_secret/geo/Continent/South-America/Puerto_Rico.secret.md) 

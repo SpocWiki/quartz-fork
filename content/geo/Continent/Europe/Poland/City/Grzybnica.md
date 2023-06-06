@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grzybnica](../../../../../../_public/geo/Continent/Europe/Poland/City/Grzybnica.md) 
-- [Grzybnica.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Grzybnica.internal.md) 
-- [Grzybnica.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Grzybnica.protect.md) 
-- [Grzybnica.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Grzybnica.private.md) 
-- [Grzybnica.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Grzybnica.personal.md) 
-- [Grzybnica.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Grzybnica.secret.md) 

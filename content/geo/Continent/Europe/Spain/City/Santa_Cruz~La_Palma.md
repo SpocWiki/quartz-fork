@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Santa_Cruz~La_Palma](../../../../../../_public/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.md) 
-- [Santa_Cruz~La_Palma.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.internal.md) 
-- [Santa_Cruz~La_Palma.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.protect.md) 
-- [Santa_Cruz~La_Palma.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.private.md) 
-- [Santa_Cruz~La_Palma.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.personal.md) 
-- [Santa_Cruz~La_Palma.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Santa_Cruz~La_Palma.secret.md) 

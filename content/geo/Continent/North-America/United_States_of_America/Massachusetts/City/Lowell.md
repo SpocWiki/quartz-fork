@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lowell](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Lowell.md) 
-- [Lowell.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Lowell.internal.md) 
-- [Lowell.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Lowell.protect.md) 
-- [Lowell.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Lowell.private.md) 
-- [Lowell.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Lowell.personal.md) 
-- [Lowell.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Massachusetts/City/Lowell.secret.md) 

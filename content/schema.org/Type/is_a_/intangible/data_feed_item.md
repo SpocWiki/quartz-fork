@@ -43,10 +43,3 @@ A single item within a larger data feed.
 
 
 
-## Confidential Links & Embeds: 
-- [data_feed_item](../../../../../_public/schema.org/Type/is_a_/intangible/data_feed_item.md) 
-- [data_feed_item.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/data_feed_item.internal.md) 
-- [data_feed_item.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/data_feed_item.protect.md) 
-- [data_feed_item.private](../../../../../_private/schema.org/Type/is_a_/intangible/data_feed_item.private.md) 
-- [data_feed_item.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/data_feed_item.personal.md) 
-- [data_feed_item.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/data_feed_item.secret.md) 

@@ -45,10 +45,3 @@ Indicates that the item is available for ordering and delivery before general av
 
 
 
-## Confidential Links & Embeds: 
-- [pre_sale](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_sale.md) 
-- [pre_sale.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_sale.internal.md) 
-- [pre_sale.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_sale.protect.md) 
-- [pre_sale.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_sale.private.md) 
-- [pre_sale.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_sale.personal.md) 
-- [pre_sale.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/pre_sale.secret.md) 

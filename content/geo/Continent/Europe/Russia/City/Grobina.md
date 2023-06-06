@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grobina](../../../../../../_public/geo/Continent/Europe/Russia/City/Grobina.md) 
-- [Grobina.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Grobina.internal.md) 
-- [Grobina.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Grobina.protect.md) 
-- [Grobina.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Grobina.private.md) 
-- [Grobina.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Grobina.personal.md) 
-- [Grobina.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Grobina.secret.md) 

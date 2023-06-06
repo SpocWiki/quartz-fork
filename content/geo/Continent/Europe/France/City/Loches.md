@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loches](../../../../../../_public/geo/Continent/Europe/France/City/Loches.md) 
-- [Loches.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Loches.internal.md) 
-- [Loches.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Loches.protect.md) 
-- [Loches.private](../../../../../../_private/geo/Continent/Europe/France/City/Loches.private.md) 
-- [Loches.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Loches.personal.md) 
-- [Loches.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Loches.secret.md) 

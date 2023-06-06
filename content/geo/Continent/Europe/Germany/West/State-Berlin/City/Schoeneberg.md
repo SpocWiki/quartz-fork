@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoeneberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Schoeneberg.md) 
-- [Schoeneberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Schoeneberg.internal.md) 
-- [Schoeneberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Schoeneberg.protect.md) 
-- [Schoeneberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Schoeneberg.private.md) 
-- [Schoeneberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Schoeneberg.personal.md) 
-- [Schoeneberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Schoeneberg.secret.md) 

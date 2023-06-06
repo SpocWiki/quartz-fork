@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salcava](../../../../../../_public/geo/Continent/Europe/Italy/City/Salcava.md) 
-- [Salcava.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Salcava.internal.md) 
-- [Salcava.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Salcava.protect.md) 
-- [Salcava.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Salcava.private.md) 
-- [Salcava.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Salcava.personal.md) 
-- [Salcava.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Salcava.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borgotaro](../../../../../../_public/geo/Continent/Europe/Italy/City/Borgotaro.md) 
-- [Borgotaro.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Borgotaro.internal.md) 
-- [Borgotaro.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Borgotaro.protect.md) 
-- [Borgotaro.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Borgotaro.private.md) 
-- [Borgotaro.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Borgotaro.personal.md) 
-- [Borgotaro.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Borgotaro.secret.md) 

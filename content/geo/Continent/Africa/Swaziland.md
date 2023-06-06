@@ -30,7 +30,7 @@ markerFolder: ./Swaziland/City
 [VehicleCode::SD]
 [Capital::[Mbabane](geo/Continent/Africa/Swaziland/City/Mbabane.md)]
 ![350](Coat_of_arms_of_Swaziland.svg)
-![Anthem-Swaziland](xLarge/National-Anthem/Anthem-Swaziland.mp3)
+[Anthem-Swaziland](xLarge/National-Anthem/Anthem-Swaziland.mp3)
 ![350](Flag_of_Swaziland.svg)
 [Alcohol-l::5.7]
 [Language-Id::499]
@@ -39,10 +39,3 @@ markerFolder: ./Swaziland/City
 
 
 
-## Confidential Links & Embeds: 
-- [Swaziland](../../../../_public/geo/Continent/Africa/Swaziland.md) 
-- [Swaziland.internal](../../../../_internal/geo/Continent/Africa/Swaziland.internal.md) 
-- [Swaziland.protect](../../../../_protect/geo/Continent/Africa/Swaziland.protect.md) 
-- [Swaziland.private](../../../../_private/geo/Continent/Africa/Swaziland.private.md) 
-- [Swaziland.personal](../../../../_personal/geo/Continent/Africa/Swaziland.personal.md) 
-- [Swaziland.secret](../../../../_secret/geo/Continent/Africa/Swaziland.secret.md) 

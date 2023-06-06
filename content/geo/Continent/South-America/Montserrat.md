@@ -114,7 +114,7 @@ markerFolder: ./Montserrat/City
 
 ![350](geo/Continent/South-America/Mexico/Coat_of_arms_of_Mexico.svg)
 
-![Anthem-Mexico](xLarge/National-Anthem/Anthem-Mexico.mp3)
+[Anthem-Mexico](xLarge/National-Anthem/Anthem-Mexico.mp3)
 
 ![350](geo/Continent/South-America/Mexico/Flag_of_Mexico.svg)
 
@@ -130,10 +130,3 @@ markerFolder: ./Montserrat/City
 
 
 
-## Confidential Links & Embeds: 
-- [Montserrat](../../../../_public/geo/Continent/South-America/Montserrat.md) 
-- [Montserrat.internal](../../../../_internal/geo/Continent/South-America/Montserrat.internal.md) 
-- [Montserrat.protect](../../../../_protect/geo/Continent/South-America/Montserrat.protect.md) 
-- [Montserrat.private](../../../../_private/geo/Continent/South-America/Montserrat.private.md) 
-- [Montserrat.personal](../../../../_personal/geo/Continent/South-America/Montserrat.personal.md) 
-- [Montserrat.secret](../../../../_secret/geo/Continent/South-America/Montserrat.secret.md) 

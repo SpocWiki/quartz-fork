@@ -43,10 +43,3 @@ A type of physical examination of a patient performed by a physician.
 
 
 
-## Confidential Links & Embeds: 
-- [physical_exam](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam.md) 
-- [physical_exam.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam.internal.md) 
-- [physical_exam.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam.protect.md) 
-- [physical_exam.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam.private.md) 
-- [physical_exam.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam.personal.md) 
-- [physical_exam.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam.secret.md) 

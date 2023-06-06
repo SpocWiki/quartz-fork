@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Muphrid](../../../_public/astro/Star/Muphrid.md) 
-- [Muphrid.internal](../../../_internal/astro/Star/Muphrid.internal.md) 
-- [Muphrid.protect](../../../_protect/astro/Star/Muphrid.protect.md) 
-- [Muphrid.private](../../../_private/astro/Star/Muphrid.private.md) 
-- [Muphrid.personal](../../../_personal/astro/Star/Muphrid.personal.md) 
-- [Muphrid.secret](../../../_secret/astro/Star/Muphrid.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pecs=Fuenfkirchen](../../../../../../_public/geo/Continent/Europe/Hungary/City/Pecs=Fuenfkirchen.md) 
-- [Pecs=Fuenfkirchen.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Pecs=Fuenfkirchen.internal.md) 
-- [Pecs=Fuenfkirchen.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Pecs=Fuenfkirchen.protect.md) 
-- [Pecs=Fuenfkirchen.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Pecs=Fuenfkirchen.private.md) 
-- [Pecs=Fuenfkirchen.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Pecs=Fuenfkirchen.personal.md) 
-- [Pecs=Fuenfkirchen.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Pecs=Fuenfkirchen.secret.md) 

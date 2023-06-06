@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_margin_of_error](../../../../_public/schema.org/Predicate/Quantities/has_value_for_margin_of_error.md) 
-- [has_value_for_margin_of_error.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_margin_of_error.internal.md) 
-- [has_value_for_margin_of_error.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_margin_of_error.protect.md) 
-- [has_value_for_margin_of_error.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_margin_of_error.private.md) 
-- [has_value_for_margin_of_error.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_margin_of_error.personal.md) 
-- [has_value_for_margin_of_error.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_margin_of_error.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Birr_Castle](../../../../../../_public/geo/Continent/Europe/Ireland/City/Birr_Castle.md) 
-- [Birr_Castle.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Birr_Castle.internal.md) 
-- [Birr_Castle.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Birr_Castle.protect.md) 
-- [Birr_Castle.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Birr_Castle.private.md) 
-- [Birr_Castle.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Birr_Castle.personal.md) 
-- [Birr_Castle.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Birr_Castle.secret.md) 

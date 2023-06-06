@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hellern](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hellern.md) 
-- [Hellern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hellern.internal.md) 
-- [Hellern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hellern.protect.md) 
-- [Hellern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hellern.private.md) 
-- [Hellern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hellern.personal.md) 
-- [Hellern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hellern.secret.md) 

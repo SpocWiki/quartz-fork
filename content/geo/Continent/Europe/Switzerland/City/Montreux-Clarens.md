@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montreux-Clarens](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.md) 
-- [Montreux-Clarens.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.internal.md) 
-- [Montreux-Clarens.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.protect.md) 
-- [Montreux-Clarens.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.private.md) 
-- [Montreux-Clarens.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.personal.md) 
-- [Montreux-Clarens.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Montreux-Clarens.secret.md) 

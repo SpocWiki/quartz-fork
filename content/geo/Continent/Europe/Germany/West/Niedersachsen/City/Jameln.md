@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jameln](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jameln.md) 
-- [Jameln.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jameln.internal.md) 
-- [Jameln.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jameln.protect.md) 
-- [Jameln.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jameln.private.md) 
-- [Jameln.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jameln.personal.md) 
-- [Jameln.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jameln.secret.md) 

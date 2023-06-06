@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jerusalem](../../../../../../_public/geo/Continent/Asia/Israel/City/Jerusalem.md) 
-- [Jerusalem.internal](../../../../../../_internal/geo/Continent/Asia/Israel/City/Jerusalem.internal.md) 
-- [Jerusalem.protect](../../../../../../_protect/geo/Continent/Asia/Israel/City/Jerusalem.protect.md) 
-- [Jerusalem.private](../../../../../../_private/geo/Continent/Asia/Israel/City/Jerusalem.private.md) 
-- [Jerusalem.personal](../../../../../../_personal/geo/Continent/Asia/Israel/City/Jerusalem.personal.md) 
-- [Jerusalem.secret](../../../../../../_secret/geo/Continent/Asia/Israel/City/Jerusalem.secret.md) 

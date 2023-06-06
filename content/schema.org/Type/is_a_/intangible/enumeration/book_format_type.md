@@ -41,10 +41,3 @@ The publication format of the book.
 
 
 
-## Confidential Links & Embeds: 
-- [book_format_type](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/book_format_type.md) 
-- [book_format_type.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/book_format_type.internal.md) 
-- [book_format_type.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/book_format_type.protect.md) 
-- [book_format_type.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/book_format_type.private.md) 
-- [book_format_type.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/book_format_type.personal.md) 
-- [book_format_type.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/book_format_type.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neustadt~Schwarzwald](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt~Schwarzwald.md) 
-- [Neustadt~Schwarzwald.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt~Schwarzwald.internal.md) 
-- [Neustadt~Schwarzwald.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt~Schwarzwald.protect.md) 
-- [Neustadt~Schwarzwald.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt~Schwarzwald.private.md) 
-- [Neustadt~Schwarzwald.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt~Schwarzwald.personal.md) 
-- [Neustadt~Schwarzwald.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neustadt~Schwarzwald.secret.md) 

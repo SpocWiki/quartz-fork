@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lovisa](../../../../../../_public/geo/Continent/Europe/Finland/City/Lovisa.md) 
-- [Lovisa.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Lovisa.internal.md) 
-- [Lovisa.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Lovisa.protect.md) 
-- [Lovisa.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Lovisa.private.md) 
-- [Lovisa.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Lovisa.personal.md) 
-- [Lovisa.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Lovisa.secret.md) 

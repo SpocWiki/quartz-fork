@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bormio](../../../../../../_public/geo/Continent/Europe/Italy/City/Bormio.md) 
-- [Bormio.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bormio.internal.md) 
-- [Bormio.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bormio.protect.md) 
-- [Bormio.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bormio.private.md) 
-- [Bormio.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bormio.personal.md) 
-- [Bormio.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bormio.secret.md) 

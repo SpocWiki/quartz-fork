@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Padua=Padova](../../../../../../_public/geo/Continent/Europe/Italy/City/Padua=Padova.md) 
-- [Padua=Padova.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Padua=Padova.internal.md) 
-- [Padua=Padova.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Padua=Padova.protect.md) 
-- [Padua=Padova.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Padua=Padova.private.md) 
-- [Padua=Padova.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Padua=Padova.personal.md) 
-- [Padua=Padova.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Padua=Padova.secret.md) 

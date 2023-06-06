@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Deutzen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Deutzen.md) 
-- [Deutzen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Deutzen.internal.md) 
-- [Deutzen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Deutzen.protect.md) 
-- [Deutzen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Deutzen.private.md) 
-- [Deutzen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Deutzen.personal.md) 
-- [Deutzen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Deutzen.secret.md) 

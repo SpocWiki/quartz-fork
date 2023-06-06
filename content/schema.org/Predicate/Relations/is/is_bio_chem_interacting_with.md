@@ -45,10 +45,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_bio_chem_interacting_with](../../../../../_public/schema.org/Predicate/Relations/is/is_bio_chem_interacting_with.md) 
-- [is_bio_chem_interacting_with.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_bio_chem_interacting_with.internal.md) 
-- [is_bio_chem_interacting_with.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_bio_chem_interacting_with.protect.md) 
-- [is_bio_chem_interacting_with.private](../../../../../_private/schema.org/Predicate/Relations/is/is_bio_chem_interacting_with.private.md) 
-- [is_bio_chem_interacting_with.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_bio_chem_interacting_with.personal.md) 
-- [is_bio_chem_interacting_with.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_bio_chem_interacting_with.secret.md) 

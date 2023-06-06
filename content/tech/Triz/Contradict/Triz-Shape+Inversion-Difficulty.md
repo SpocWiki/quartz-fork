@@ -19,10 +19,3 @@ title: Triz-Shape+Inversion-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Inversion-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Shape+Inversion-Difficulty.md) 
-- [Triz-Shape+Inversion-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Inversion-Difficulty.internal.md) 
-- [Triz-Shape+Inversion-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Inversion-Difficulty.protect.md) 
-- [Triz-Shape+Inversion-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Inversion-Difficulty.private.md) 
-- [Triz-Shape+Inversion-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Inversion-Difficulty.personal.md) 
-- [Triz-Shape+Inversion-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Inversion-Difficulty.secret.md) 

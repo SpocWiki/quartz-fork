@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grantham](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Grantham.md) 
-- [Grantham.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Grantham.internal.md) 
-- [Grantham.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Grantham.protect.md) 
-- [Grantham.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Grantham.private.md) 
-- [Grantham.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Grantham.personal.md) 
-- [Grantham.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Grantham.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Visby](../../../../../../_public/geo/Continent/Europe/Sweden/City/Visby.md) 
-- [Visby.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Visby.internal.md) 
-- [Visby.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Visby.protect.md) 
-- [Visby.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Visby.private.md) 
-- [Visby.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Visby.personal.md) 
-- [Visby.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Visby.secret.md) 

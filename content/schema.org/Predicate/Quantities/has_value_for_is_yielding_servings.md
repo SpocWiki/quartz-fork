@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_is_yielding_servings](../../../../_public/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.md) 
-- [has_value_for_is_yielding_servings.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.internal.md) 
-- [has_value_for_is_yielding_servings.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.protect.md) 
-- [has_value_for_is_yielding_servings.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.private.md) 
-- [has_value_for_is_yielding_servings.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.personal.md) 
-- [has_value_for_is_yielding_servings.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.secret.md) 

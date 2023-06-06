@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_mortgage_domiciled](../../../../_public/schema.org/Predicate/Flags/is_mortgage_domiciled.md) 
-- [is_mortgage_domiciled.internal](../../../../_internal/schema.org/Predicate/Flags/is_mortgage_domiciled.internal.md) 
-- [is_mortgage_domiciled.protect](../../../../_protect/schema.org/Predicate/Flags/is_mortgage_domiciled.protect.md) 
-- [is_mortgage_domiciled.private](../../../../_private/schema.org/Predicate/Flags/is_mortgage_domiciled.private.md) 
-- [is_mortgage_domiciled.personal](../../../../_personal/schema.org/Predicate/Flags/is_mortgage_domiciled.personal.md) 
-- [is_mortgage_domiciled.secret](../../../../_secret/schema.org/Predicate/Flags/is_mortgage_domiciled.secret.md) 

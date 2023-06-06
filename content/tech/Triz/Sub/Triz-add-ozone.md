@@ -18,10 +18,3 @@ title: Triz-add-ozone
 Replace ozonized (or ionized) oxygen with ozone.
 
 
-## Confidential Links & Embeds: 
-- [Triz-add-ozone](../../../../_public/tech/Triz/Sub/Triz-add-ozone.md) 
-- [Triz-add-ozone.internal](../../../../_internal/tech/Triz/Sub/Triz-add-ozone.internal.md) 
-- [Triz-add-ozone.protect](../../../../_protect/tech/Triz/Sub/Triz-add-ozone.protect.md) 
-- [Triz-add-ozone.private](../../../../_private/tech/Triz/Sub/Triz-add-ozone.private.md) 
-- [Triz-add-ozone.personal](../../../../_personal/tech/Triz/Sub/Triz-add-ozone.personal.md) 
-- [Triz-add-ozone.secret](../../../../_secret/tech/Triz/Sub/Triz-add-ozone.secret.md) 

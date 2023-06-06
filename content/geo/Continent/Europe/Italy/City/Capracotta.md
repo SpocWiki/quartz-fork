@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Capracotta](../../../../../../_public/geo/Continent/Europe/Italy/City/Capracotta.md) 
-- [Capracotta.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Capracotta.internal.md) 
-- [Capracotta.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Capracotta.protect.md) 
-- [Capracotta.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Capracotta.private.md) 
-- [Capracotta.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Capracotta.personal.md) 
-- [Capracotta.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Capracotta.secret.md) 

@@ -36,10 +36,3 @@ markerFolder: ./South Georgia_And_The_South_Sandwich_Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [South_Georgia_and_South_Sandwich~Islands](../../../../_public/geo/Continent/Antarctica/South_Georgia_and_South_Sandwich~Islands.md) 
-- [South_Georgia_and_South_Sandwich~Islands.internal](../../../../_internal/geo/Continent/Antarctica/South_Georgia_and_South_Sandwich~Islands.internal.md) 
-- [South_Georgia_and_South_Sandwich~Islands.protect](../../../../_protect/geo/Continent/Antarctica/South_Georgia_and_South_Sandwich~Islands.protect.md) 
-- [South_Georgia_and_South_Sandwich~Islands.private](../../../../_private/geo/Continent/Antarctica/South_Georgia_and_South_Sandwich~Islands.private.md) 
-- [South_Georgia_and_South_Sandwich~Islands.personal](../../../../_personal/geo/Continent/Antarctica/South_Georgia_and_South_Sandwich~Islands.personal.md) 
-- [South_Georgia_and_South_Sandwich~Islands.secret](../../../../_secret/geo/Continent/Antarctica/South_Georgia_and_South_Sandwich~Islands.secret.md) 

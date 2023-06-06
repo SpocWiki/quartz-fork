@@ -47,10 +47,3 @@ Something relating to or practicing dermatology.
 
 
 
-## Confidential Links & Embeds: 
-- [dermatologic](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dermatologic.md) 
-- [dermatologic.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dermatologic.internal.md) 
-- [dermatologic.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dermatologic.protect.md) 
-- [dermatologic.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dermatologic.private.md) 
-- [dermatologic.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dermatologic.personal.md) 
-- [dermatologic.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dermatologic.secret.md) 

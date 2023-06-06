@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heinaeluoto](../../../../../../_public/geo/Continent/Europe/Finland/City/Heinaeluoto.md) 
-- [Heinaeluoto.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Heinaeluoto.internal.md) 
-- [Heinaeluoto.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Heinaeluoto.protect.md) 
-- [Heinaeluoto.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Heinaeluoto.private.md) 
-- [Heinaeluoto.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Heinaeluoto.personal.md) 
-- [Heinaeluoto.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Heinaeluoto.secret.md) 

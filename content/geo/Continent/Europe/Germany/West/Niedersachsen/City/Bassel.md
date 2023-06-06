@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bassel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bassel.md) 
-- [Bassel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bassel.internal.md) 
-- [Bassel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bassel.protect.md) 
-- [Bassel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bassel.private.md) 
-- [Bassel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bassel.personal.md) 
-- [Bassel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bassel.secret.md) 

@@ -17,10 +17,3 @@ title: Group-10-Nickel
 
 
 
-## Confidential Links & Embeds: 
-- [Group-10-Nickel](../../../_public/chemic/Elements/Group-10-Nickel.md) 
-- [Group-10-Nickel.internal](../../../_internal/chemic/Elements/Group-10-Nickel.internal.md) 
-- [Group-10-Nickel.protect](../../../_protect/chemic/Elements/Group-10-Nickel.protect.md) 
-- [Group-10-Nickel.private](../../../_private/chemic/Elements/Group-10-Nickel.private.md) 
-- [Group-10-Nickel.personal](../../../_personal/chemic/Elements/Group-10-Nickel.personal.md) 
-- [Group-10-Nickel.secret](../../../_secret/chemic/Elements/Group-10-Nickel.secret.md) 

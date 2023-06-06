@@ -19,11 +19,3 @@ title: Lang-wu
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-wu](../../_public/lang/Lang-wu.md) 
-- [Lang-wu.internal](../../_internal/lang/Lang-wu.internal.md) 
-- [Lang-wu.protect](../../_protect/lang/Lang-wu.protect.md) 
-- [Lang-wu.private](../../_private/lang/Lang-wu.private.md) 
-- [Lang-wu.personal](../../_personal/lang/Lang-wu.personal.md) 
-- [Lang-wu.secret](../../_secret/lang/Lang-wu.secret.md)
-

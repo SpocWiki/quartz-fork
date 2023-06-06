@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schweinsberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.md) 
-- [Schweinsberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.internal.md) 
-- [Schweinsberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.protect.md) 
-- [Schweinsberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.private.md) 
-- [Schweinsberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.personal.md) 
-- [Schweinsberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Schweinsberg.secret.md) 

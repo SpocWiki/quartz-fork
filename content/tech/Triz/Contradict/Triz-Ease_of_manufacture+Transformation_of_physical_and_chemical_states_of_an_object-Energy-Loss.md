@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_o
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.md) 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.internal.md) 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.protect.md) 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.private.md) 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.personal.md) 
-- [Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Transformation_of_physical_and_chemical_states_of_an_object-Energy-Loss.secret.md) 

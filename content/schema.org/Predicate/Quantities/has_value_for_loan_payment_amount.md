@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_loan_payment_amount](../../../../_public/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.md) 
-- [has_value_for_loan_payment_amount.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.internal.md) 
-- [has_value_for_loan_payment_amount.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.protect.md) 
-- [has_value_for_loan_payment_amount.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.private.md) 
-- [has_value_for_loan_payment_amount.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.personal.md) 
-- [has_value_for_loan_payment_amount.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.secret.md) 

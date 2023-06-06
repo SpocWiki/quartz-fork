@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Extraction-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Extraction-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.md) 
-- [Triz-Manufacturing_Precision+Extraction-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.internal.md) 
-- [Triz-Manufacturing_Precision+Extraction-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.protect.md) 
-- [Triz-Manufacturing_Precision+Extraction-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.private.md) 
-- [Triz-Manufacturing_Precision+Extraction-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.personal.md) 
-- [Triz-Manufacturing_Precision+Extraction-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Complexity.secret.md) 

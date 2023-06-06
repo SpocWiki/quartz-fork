@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kotzenreuschel](../../../../../../_public/geo/Continent/Europe/Poland/City/Kotzenreuschel.md) 
-- [Kotzenreuschel.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kotzenreuschel.internal.md) 
-- [Kotzenreuschel.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kotzenreuschel.protect.md) 
-- [Kotzenreuschel.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kotzenreuschel.private.md) 
-- [Kotzenreuschel.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kotzenreuschel.personal.md) 
-- [Kotzenreuschel.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kotzenreuschel.secret.md) 

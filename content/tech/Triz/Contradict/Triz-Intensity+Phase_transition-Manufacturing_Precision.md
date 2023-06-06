@@ -19,10 +19,3 @@ title: Triz-Intensity+Phase_transition-Manufacturing_Precision
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Phase_transition-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.md) 
-- [Triz-Intensity+Phase_transition-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.internal.md) 
-- [Triz-Intensity+Phase_transition-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.protect.md) 
-- [Triz-Intensity+Phase_transition-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.private.md) 
-- [Triz-Intensity+Phase_transition-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.personal.md) 
-- [Triz-Intensity+Phase_transition-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Phase_transition-Manufacturing_Precision.secret.md) 

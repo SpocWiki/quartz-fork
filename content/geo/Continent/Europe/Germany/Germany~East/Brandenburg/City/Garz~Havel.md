@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Garz~Havel](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Havel.md) 
-- [Garz~Havel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Havel.internal.md) 
-- [Garz~Havel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Havel.protect.md) 
-- [Garz~Havel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Havel.private.md) 
-- [Garz~Havel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Havel.personal.md) 
-- [Garz~Havel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Garz~Havel.secret.md) 

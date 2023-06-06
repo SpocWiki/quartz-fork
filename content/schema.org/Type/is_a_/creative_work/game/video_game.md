@@ -43,10 +43,3 @@ A video game is an electronic game that involves human interaction with a user i
 
 
 
-## Confidential Links & Embeds: 
-- [video_game](../../../../../../_public/schema.org/Type/is_a_/creative_work/game/video_game.md) 
-- [video_game.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/game/video_game.internal.md) 
-- [video_game.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/game/video_game.protect.md) 
-- [video_game.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/game/video_game.private.md) 
-- [video_game.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/game/video_game.personal.md) 
-- [video_game.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/game/video_game.secret.md) 

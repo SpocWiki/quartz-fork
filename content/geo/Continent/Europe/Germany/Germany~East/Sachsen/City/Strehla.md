@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strehla](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Strehla.md) 
-- [Strehla.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Strehla.internal.md) 
-- [Strehla.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Strehla.protect.md) 
-- [Strehla.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Strehla.private.md) 
-- [Strehla.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Strehla.personal.md) 
-- [Strehla.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Strehla.secret.md) 

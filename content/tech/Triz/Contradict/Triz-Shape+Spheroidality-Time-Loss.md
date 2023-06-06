@@ -19,10 +19,3 @@ title: Triz-Shape+Spheroidality-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Spheroidality-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.md) 
-- [Triz-Shape+Spheroidality-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.internal.md) 
-- [Triz-Shape+Spheroidality-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.protect.md) 
-- [Triz-Shape+Spheroidality-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.private.md) 
-- [Triz-Shape+Spheroidality-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.personal.md) 
-- [Triz-Shape+Spheroidality-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Spheroidality-Time-Loss.secret.md) 

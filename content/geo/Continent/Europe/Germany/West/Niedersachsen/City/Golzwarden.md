@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Golzwarden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Golzwarden.md) 
-- [Golzwarden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Golzwarden.internal.md) 
-- [Golzwarden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Golzwarden.protect.md) 
-- [Golzwarden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Golzwarden.private.md) 
-- [Golzwarden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Golzwarden.personal.md) 
-- [Golzwarden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Golzwarden.secret.md) 

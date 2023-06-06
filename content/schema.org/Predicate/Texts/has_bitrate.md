@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_bitrate](../../../../_public/schema.org/Predicate/Texts/has_bitrate.md) 
-- [has_bitrate.internal](../../../../_internal/schema.org/Predicate/Texts/has_bitrate.internal.md) 
-- [has_bitrate.protect](../../../../_protect/schema.org/Predicate/Texts/has_bitrate.protect.md) 
-- [has_bitrate.private](../../../../_private/schema.org/Predicate/Texts/has_bitrate.private.md) 
-- [has_bitrate.personal](../../../../_personal/schema.org/Predicate/Texts/has_bitrate.personal.md) 
-- [has_bitrate.secret](../../../../_secret/schema.org/Predicate/Texts/has_bitrate.secret.md) 

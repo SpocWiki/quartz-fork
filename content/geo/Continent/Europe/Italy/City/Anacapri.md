@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Anacapri](../../../../../../_public/geo/Continent/Europe/Italy/City/Anacapri.md) 
-- [Anacapri.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Anacapri.internal.md) 
-- [Anacapri.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Anacapri.protect.md) 
-- [Anacapri.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Anacapri.private.md) 
-- [Anacapri.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Anacapri.personal.md) 
-- [Anacapri.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Anacapri.secret.md) 

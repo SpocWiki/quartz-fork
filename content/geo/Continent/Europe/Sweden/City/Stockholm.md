@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stockholm](../../../../../../_public/geo/Continent/Europe/Sweden/City/Stockholm.md) 
-- [Stockholm.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stockholm.internal.md) 
-- [Stockholm.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stockholm.protect.md) 
-- [Stockholm.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Stockholm.private.md) 
-- [Stockholm.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stockholm.personal.md) 
-- [Stockholm.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stockholm.secret.md) 

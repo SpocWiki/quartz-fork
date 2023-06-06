@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sparavalle](../../../../../../_public/geo/Continent/Europe/Italy/City/Sparavalle.md) 
-- [Sparavalle.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sparavalle.internal.md) 
-- [Sparavalle.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sparavalle.protect.md) 
-- [Sparavalle.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sparavalle.private.md) 
-- [Sparavalle.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sparavalle.personal.md) 
-- [Sparavalle.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sparavalle.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bhopal](../../../../../../_public/geo/Continent/Asia/India/City/Bhopal.md) 
-- [Bhopal.internal](../../../../../../_internal/geo/Continent/Asia/India/City/Bhopal.internal.md) 
-- [Bhopal.protect](../../../../../../_protect/geo/Continent/Asia/India/City/Bhopal.protect.md) 
-- [Bhopal.private](../../../../../../_private/geo/Continent/Asia/India/City/Bhopal.private.md) 
-- [Bhopal.personal](../../../../../../_personal/geo/Continent/Asia/India/City/Bhopal.personal.md) 
-- [Bhopal.secret](../../../../../../_secret/geo/Continent/Asia/India/City/Bhopal.secret.md) 

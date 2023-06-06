@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tepeleni](../../../../../../_public/geo/Continent/Europe/Albania/City/Tepeleni.md) 
-- [Tepeleni.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Tepeleni.internal.md) 
-- [Tepeleni.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Tepeleni.protect.md) 
-- [Tepeleni.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Tepeleni.private.md) 
-- [Tepeleni.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Tepeleni.personal.md) 
-- [Tepeleni.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Tepeleni.secret.md) 

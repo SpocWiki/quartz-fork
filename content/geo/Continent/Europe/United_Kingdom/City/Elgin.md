@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Elgin](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Elgin.md) 
-- [Elgin.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Elgin.internal.md) 
-- [Elgin.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Elgin.protect.md) 
-- [Elgin.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Elgin.private.md) 
-- [Elgin.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Elgin.personal.md) 
-- [Elgin.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Elgin.secret.md) 

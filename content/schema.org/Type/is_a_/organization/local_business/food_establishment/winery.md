@@ -43,10 +43,3 @@ A winery.
 
 
 
-## Confidential Links & Embeds: 
-- [winery](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/winery.md) 
-- [winery.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/winery.internal.md) 
-- [winery.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/winery.protect.md) 
-- [winery.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/winery.private.md) 
-- [winery.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/winery.personal.md) 
-- [winery.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/winery.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bohlschau](../../../../../../_public/geo/Continent/Europe/Poland/City/Bohlschau.md) 
-- [Bohlschau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bohlschau.internal.md) 
-- [Bohlschau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bohlschau.protect.md) 
-- [Bohlschau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bohlschau.private.md) 
-- [Bohlschau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bohlschau.personal.md) 
-- [Bohlschau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bohlschau.secret.md) 

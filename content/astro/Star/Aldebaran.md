@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Aldebaran](../../../_public/astro/Star/Aldebaran.md) 
-- [Aldebaran.internal](../../../_internal/astro/Star/Aldebaran.internal.md) 
-- [Aldebaran.protect](../../../_protect/astro/Star/Aldebaran.protect.md) 
-- [Aldebaran.private](../../../_private/astro/Star/Aldebaran.private.md) 
-- [Aldebaran.personal](../../../_personal/astro/Star/Aldebaran.personal.md) 
-- [Aldebaran.secret](../../../_secret/astro/Star/Aldebaran.secret.md)
-

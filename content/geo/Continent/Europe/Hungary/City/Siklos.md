@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siklos](../../../../../../_public/geo/Continent/Europe/Hungary/City/Siklos.md) 
-- [Siklos.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Siklos.internal.md) 
-- [Siklos.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Siklos.protect.md) 
-- [Siklos.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Siklos.private.md) 
-- [Siklos.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Siklos.personal.md) 
-- [Siklos.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Siklos.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strietensk](../../../../../../_public/geo/Continent/Europe/Russia/City/Strietensk.md) 
-- [Strietensk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Strietensk.internal.md) 
-- [Strietensk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Strietensk.protect.md) 
-- [Strietensk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Strietensk.private.md) 
-- [Strietensk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Strietensk.personal.md) 
-- [Strietensk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Strietensk.secret.md) 

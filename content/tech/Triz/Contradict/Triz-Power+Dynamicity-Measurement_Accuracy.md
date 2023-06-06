@@ -19,10 +19,3 @@ title: Triz-Power+Dynamicity-Measurement_Accuracy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Dynamicity-Measurement_Accuracy](../../../../_public/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.md) 
-- [Triz-Power+Dynamicity-Measurement_Accuracy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.internal.md) 
-- [Triz-Power+Dynamicity-Measurement_Accuracy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.protect.md) 
-- [Triz-Power+Dynamicity-Measurement_Accuracy.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.private.md) 
-- [Triz-Power+Dynamicity-Measurement_Accuracy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.personal.md) 
-- [Triz-Power+Dynamicity-Measurement_Accuracy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Dynamicity-Measurement_Accuracy.secret.md) 

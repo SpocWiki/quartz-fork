@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jesi](../../../../../../_public/geo/Continent/Europe/Italy/City/Jesi.md) 
-- [Jesi.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Jesi.internal.md) 
-- [Jesi.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Jesi.protect.md) 
-- [Jesi.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Jesi.private.md) 
-- [Jesi.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Jesi.personal.md) 
-- [Jesi.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Jesi.secret.md) 

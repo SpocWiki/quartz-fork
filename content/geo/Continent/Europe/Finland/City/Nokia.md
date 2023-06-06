@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nokia](../../../../../../_public/geo/Continent/Europe/Finland/City/Nokia.md) 
-- [Nokia.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Nokia.internal.md) 
-- [Nokia.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Nokia.protect.md) 
-- [Nokia.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Nokia.private.md) 
-- [Nokia.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Nokia.personal.md) 
-- [Nokia.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Nokia.secret.md) 

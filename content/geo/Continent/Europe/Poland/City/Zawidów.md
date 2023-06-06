@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zawidów](../../../../../../_public/geo/Continent/Europe/Poland/City/Zawid%C3%B3w.md) 
-- [Zawidów.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zawid%C3%B3w.internal.md) 
-- [Zawidów.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zawid%C3%B3w.protect.md) 
-- [Zawidów.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zawid%C3%B3w.private.md) 
-- [Zawidów.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zawid%C3%B3w.personal.md) 
-- [Zawidów.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zawid%C3%B3w.secret.md) 

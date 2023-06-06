@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bregenz](../../../../../../_public/geo/Continent/Europe/Austria/City/Bregenz.md) 
-- [Bregenz.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Bregenz.internal.md) 
-- [Bregenz.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Bregenz.protect.md) 
-- [Bregenz.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Bregenz.private.md) 
-- [Bregenz.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Bregenz.personal.md) 
-- [Bregenz.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Bregenz.secret.md) 

@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_disease_spread_statistics](../../../../../_public/schema.org/Predicate/Relations/has/has_disease_spread_statistics.md) 
-- [has_disease_spread_statistics.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_disease_spread_statistics.internal.md) 
-- [has_disease_spread_statistics.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_disease_spread_statistics.protect.md) 
-- [has_disease_spread_statistics.private](../../../../../_private/schema.org/Predicate/Relations/has/has_disease_spread_statistics.private.md) 
-- [has_disease_spread_statistics.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_disease_spread_statistics.personal.md) 
-- [has_disease_spread_statistics.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_disease_spread_statistics.secret.md) 

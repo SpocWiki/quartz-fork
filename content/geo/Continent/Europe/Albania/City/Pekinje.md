@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pekinje](../../../../../../_public/geo/Continent/Europe/Albania/City/Pekinje.md) 
-- [Pekinje.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Pekinje.internal.md) 
-- [Pekinje.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Pekinje.protect.md) 
-- [Pekinje.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Pekinje.private.md) 
-- [Pekinje.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Pekinje.personal.md) 
-- [Pekinje.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Pekinje.secret.md) 

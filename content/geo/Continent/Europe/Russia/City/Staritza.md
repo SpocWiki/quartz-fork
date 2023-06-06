@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Staritza](../../../../../../_public/geo/Continent/Europe/Russia/City/Staritza.md) 
-- [Staritza.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Staritza.internal.md) 
-- [Staritza.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Staritza.protect.md) 
-- [Staritza.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Staritza.private.md) 
-- [Staritza.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Staritza.personal.md) 
-- [Staritza.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Staritza.secret.md) 

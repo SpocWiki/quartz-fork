@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Alberta](../../../../../../_public/geo/Continent/North-America/Canada/State/State-Alberta.md) 
-- [State-Alberta.internal](../../../../../../_internal/geo/Continent/North-America/Canada/State/State-Alberta.internal.md) 
-- [State-Alberta.protect](../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Alberta.protect.md) 
-- [State-Alberta.private](../../../../../../_private/geo/Continent/North-America/Canada/State/State-Alberta.private.md) 
-- [State-Alberta.personal](../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Alberta.personal.md) 
-- [State-Alberta.secret](../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Alberta.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Morbegno](../../../../../../_public/geo/Continent/Europe/Italy/City/Morbegno.md) 
-- [Morbegno.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Morbegno.internal.md) 
-- [Morbegno.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Morbegno.protect.md) 
-- [Morbegno.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Morbegno.private.md) 
-- [Morbegno.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Morbegno.personal.md) 
-- [Morbegno.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Morbegno.secret.md) 

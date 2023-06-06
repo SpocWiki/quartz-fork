@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Holsvattnet](../../../../../../_public/geo/Continent/Europe/Sweden/City/Holsvattnet.md) 
-- [Holsvattnet.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Holsvattnet.internal.md) 
-- [Holsvattnet.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Holsvattnet.protect.md) 
-- [Holsvattnet.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Holsvattnet.private.md) 
-- [Holsvattnet.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Holsvattnet.personal.md) 
-- [Holsvattnet.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Holsvattnet.secret.md) 

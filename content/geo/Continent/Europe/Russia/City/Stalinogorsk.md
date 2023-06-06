@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stalinogorsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Stalinogorsk.md) 
-- [Stalinogorsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalinogorsk.internal.md) 
-- [Stalinogorsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalinogorsk.protect.md) 
-- [Stalinogorsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Stalinogorsk.private.md) 
-- [Stalinogorsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalinogorsk.personal.md) 
-- [Stalinogorsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalinogorsk.secret.md) 

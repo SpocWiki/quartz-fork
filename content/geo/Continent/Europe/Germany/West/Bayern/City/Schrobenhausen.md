@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schrobenhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schrobenhausen.md) 
-- [Schrobenhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schrobenhausen.internal.md) 
-- [Schrobenhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schrobenhausen.protect.md) 
-- [Schrobenhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schrobenhausen.private.md) 
-- [Schrobenhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schrobenhausen.personal.md) 
-- [Schrobenhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schrobenhausen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Clamecy](../../../../../../_public/geo/Continent/Europe/France/City/Clamecy.md) 
-- [Clamecy.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Clamecy.internal.md) 
-- [Clamecy.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Clamecy.protect.md) 
-- [Clamecy.private](../../../../../../_private/geo/Continent/Europe/France/City/Clamecy.private.md) 
-- [Clamecy.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Clamecy.personal.md) 
-- [Clamecy.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Clamecy.secret.md) 

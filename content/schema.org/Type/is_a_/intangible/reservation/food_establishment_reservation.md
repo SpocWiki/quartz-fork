@@ -45,10 +45,3 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 
-## Confidential Links & Embeds: 
-- [food_establishment_reservation](../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.md) 
-- [food_establishment_reservation.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.internal.md) 
-- [food_establishment_reservation.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.protect.md) 
-- [food_establishment_reservation.private](../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.private.md) 
-- [food_establishment_reservation.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.personal.md) 
-- [food_establishment_reservation.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/food_establishment_reservation.secret.md) 

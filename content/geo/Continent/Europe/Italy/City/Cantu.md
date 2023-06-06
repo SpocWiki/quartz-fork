@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cantu](../../../../../../_public/geo/Continent/Europe/Italy/City/Cantu.md) 
-- [Cantu.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cantu.internal.md) 
-- [Cantu.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cantu.protect.md) 
-- [Cantu.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cantu.private.md) 
-- [Cantu.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cantu.personal.md) 
-- [Cantu.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cantu.secret.md) 

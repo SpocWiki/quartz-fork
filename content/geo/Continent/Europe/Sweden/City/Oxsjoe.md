@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oxsjoe](../../../../../../_public/geo/Continent/Europe/Sweden/City/Oxsjoe.md) 
-- [Oxsjoe.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oxsjoe.internal.md) 
-- [Oxsjoe.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oxsjoe.protect.md) 
-- [Oxsjoe.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Oxsjoe.private.md) 
-- [Oxsjoe.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oxsjoe.personal.md) 
-- [Oxsjoe.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oxsjoe.secret.md) 

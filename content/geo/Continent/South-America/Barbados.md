@@ -119,7 +119,7 @@ markerFolder: ./Barbados/City
 
 ![550](geo/Continent/South-America/Barbados/Coat_of_arms_of_Barbados.svg)
 
-![Anthem-Barbados](xLarge/National-Anthem/Anthem-Barbados.mp3)
+[Anthem-Barbados](xLarge/National-Anthem/Anthem-Barbados.mp3)
 
 ![350](geo/Continent/South-America/Barbados/Flag_of_Barbados.svg)
 
@@ -130,10 +130,3 @@ markerFolder: ./Barbados/City
 
 
 
-## Confidential Links & Embeds: 
-- [Barbados](../../../../_public/geo/Continent/South-America/Barbados.md) 
-- [Barbados.internal](../../../../_internal/geo/Continent/South-America/Barbados.internal.md) 
-- [Barbados.protect](../../../../_protect/geo/Continent/South-America/Barbados.protect.md) 
-- [Barbados.private](../../../../_private/geo/Continent/South-America/Barbados.private.md) 
-- [Barbados.personal](../../../../_personal/geo/Continent/South-America/Barbados.personal.md) 
-- [Barbados.secret](../../../../_secret/geo/Continent/South-America/Barbados.secret.md) 

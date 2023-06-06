@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Domfront](../../../../../../_public/geo/Continent/Europe/France/City/Domfront.md) 
-- [Domfront.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Domfront.internal.md) 
-- [Domfront.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Domfront.protect.md) 
-- [Domfront.private](../../../../../../_private/geo/Continent/Europe/France/City/Domfront.private.md) 
-- [Domfront.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Domfront.personal.md) 
-- [Domfront.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Domfront.secret.md) 

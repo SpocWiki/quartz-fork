@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dacca](../../../../../../_public/geo/Continent/Asia/Bangladesh/City/Dacca.md) 
-- [Dacca.internal](../../../../../../_internal/geo/Continent/Asia/Bangladesh/City/Dacca.internal.md) 
-- [Dacca.protect](../../../../../../_protect/geo/Continent/Asia/Bangladesh/City/Dacca.protect.md) 
-- [Dacca.private](../../../../../../_private/geo/Continent/Asia/Bangladesh/City/Dacca.private.md) 
-- [Dacca.personal](../../../../../../_personal/geo/Continent/Asia/Bangladesh/City/Dacca.personal.md) 
-- [Dacca.secret](../../../../../../_secret/geo/Continent/Asia/Bangladesh/City/Dacca.secret.md) 

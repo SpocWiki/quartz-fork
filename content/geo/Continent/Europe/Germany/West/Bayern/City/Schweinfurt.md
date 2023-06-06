@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schweinfurt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.md) 
-- [Schweinfurt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.internal.md) 
-- [Schweinfurt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.protect.md) 
-- [Schweinfurt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.private.md) 
-- [Schweinfurt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.personal.md) 
-- [Schweinfurt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.secret.md) 

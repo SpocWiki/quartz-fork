@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wassilkow](../../../../../../_public/geo/Continent/Europe/Russia/City/Wassilkow.md) 
-- [Wassilkow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Wassilkow.internal.md) 
-- [Wassilkow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Wassilkow.protect.md) 
-- [Wassilkow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Wassilkow.private.md) 
-- [Wassilkow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Wassilkow.personal.md) 
-- [Wassilkow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Wassilkow.secret.md) 

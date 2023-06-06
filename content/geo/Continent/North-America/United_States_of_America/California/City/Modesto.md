@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Modesto](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Modesto.md) 
-- [Modesto.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Modesto.internal.md) 
-- [Modesto.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Modesto.protect.md) 
-- [Modesto.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Modesto.private.md) 
-- [Modesto.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Modesto.personal.md) 
-- [Modesto.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Modesto.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Thonon](../../../../../../_public/geo/Continent/Europe/France/City/Thonon.md) 
-- [Thonon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Thonon.internal.md) 
-- [Thonon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Thonon.protect.md) 
-- [Thonon.private](../../../../../../_private/geo/Continent/Europe/France/City/Thonon.private.md) 
-- [Thonon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Thonon.personal.md) 
-- [Thonon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Thonon.secret.md) 

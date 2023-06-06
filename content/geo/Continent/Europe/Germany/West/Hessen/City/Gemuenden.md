@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gemuenden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Gemuenden.md) 
-- [Gemuenden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Gemuenden.internal.md) 
-- [Gemuenden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Gemuenden.protect.md) 
-- [Gemuenden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Gemuenden.private.md) 
-- [Gemuenden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Gemuenden.personal.md) 
-- [Gemuenden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Gemuenden.secret.md) 

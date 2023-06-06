@@ -19,10 +19,3 @@ title: Triz-Complexity+Dynamicity-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Dynamicity-Automation](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Automation.md) 
-- [Triz-Complexity+Dynamicity-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Automation.internal.md) 
-- [Triz-Complexity+Dynamicity-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Automation.protect.md) 
-- [Triz-Complexity+Dynamicity-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Automation.private.md) 
-- [Triz-Complexity+Dynamicity-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Automation.personal.md) 
-- [Triz-Complexity+Dynamicity-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Automation.secret.md) 

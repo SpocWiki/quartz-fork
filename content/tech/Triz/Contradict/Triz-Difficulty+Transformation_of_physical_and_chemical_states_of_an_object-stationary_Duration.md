@@ -19,10 +19,3 @@ title: Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_obje
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.md) 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.internal.md) 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.protect.md) 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.private.md) 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.personal.md) 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Duration.secret.md) 

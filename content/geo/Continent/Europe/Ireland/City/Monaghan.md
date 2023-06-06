@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Monaghan](../../../../../../_public/geo/Continent/Europe/Ireland/City/Monaghan.md) 
-- [Monaghan.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Monaghan.internal.md) 
-- [Monaghan.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Monaghan.protect.md) 
-- [Monaghan.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Monaghan.private.md) 
-- [Monaghan.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Monaghan.personal.md) 
-- [Monaghan.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Monaghan.secret.md) 

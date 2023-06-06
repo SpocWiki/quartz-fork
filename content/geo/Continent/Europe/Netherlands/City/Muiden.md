@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muiden](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Muiden.md) 
-- [Muiden.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Muiden.internal.md) 
-- [Muiden.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Muiden.protect.md) 
-- [Muiden.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Muiden.private.md) 
-- [Muiden.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Muiden.personal.md) 
-- [Muiden.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Muiden.secret.md) 

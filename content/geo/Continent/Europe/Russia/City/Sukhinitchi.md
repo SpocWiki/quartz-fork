@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sukhinitchi](../../../../../../_public/geo/Continent/Europe/Russia/City/Sukhinitchi.md) 
-- [Sukhinitchi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sukhinitchi.internal.md) 
-- [Sukhinitchi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sukhinitchi.protect.md) 
-- [Sukhinitchi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sukhinitchi.private.md) 
-- [Sukhinitchi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sukhinitchi.personal.md) 
-- [Sukhinitchi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sukhinitchi.secret.md) 

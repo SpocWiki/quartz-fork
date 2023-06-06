@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Lancaster_Gate](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lancaster_Gate.md) 
-- [Sub-Lancaster_Gate.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lancaster_Gate.internal.md) 
-- [Sub-Lancaster_Gate.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lancaster_Gate.protect.md) 
-- [Sub-Lancaster_Gate.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lancaster_Gate.private.md) 
-- [Sub-Lancaster_Gate.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lancaster_Gate.personal.md) 
-- [Sub-Lancaster_Gate.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Lancaster_Gate.secret.md) 

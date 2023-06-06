@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tschérépovetz](../../../../../../_public/geo/Continent/Europe/Russia/City/Tsch%C3%A9r%C3%A9povetz.md) 
-- [Tschérépovetz.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tsch%C3%A9r%C3%A9povetz.internal.md) 
-- [Tschérépovetz.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tsch%C3%A9r%C3%A9povetz.protect.md) 
-- [Tschérépovetz.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tsch%C3%A9r%C3%A9povetz.private.md) 
-- [Tschérépovetz.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tsch%C3%A9r%C3%A9povetz.personal.md) 
-- [Tschérépovetz.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tsch%C3%A9r%C3%A9povetz.secret.md) 

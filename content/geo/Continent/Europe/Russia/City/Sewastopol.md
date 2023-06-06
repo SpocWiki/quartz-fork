@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sewastopol](../../../../../../_public/geo/Continent/Europe/Russia/City/Sewastopol.md) 
-- [Sewastopol.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sewastopol.internal.md) 
-- [Sewastopol.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sewastopol.protect.md) 
-- [Sewastopol.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sewastopol.private.md) 
-- [Sewastopol.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sewastopol.personal.md) 
-- [Sewastopol.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sewastopol.secret.md) 

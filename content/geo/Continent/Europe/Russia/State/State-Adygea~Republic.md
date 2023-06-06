@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Adygea~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Adygea~Republic.md) 
-- [State-Adygea~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Adygea~Republic.internal.md) 
-- [State-Adygea~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Adygea~Republic.protect.md) 
-- [State-Adygea~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Adygea~Republic.private.md) 
-- [State-Adygea~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Adygea~Republic.personal.md) 
-- [State-Adygea~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Adygea~Republic.secret.md) 

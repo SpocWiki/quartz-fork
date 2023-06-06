@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolnzach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wolnzach.md) 
-- [Wolnzach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wolnzach.internal.md) 
-- [Wolnzach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wolnzach.protect.md) 
-- [Wolnzach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wolnzach.private.md) 
-- [Wolnzach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wolnzach.personal.md) 
-- [Wolnzach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wolnzach.secret.md) 

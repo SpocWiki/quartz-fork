@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Volkmarsen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Volkmarsen.md) 
-- [Volkmarsen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Volkmarsen.internal.md) 
-- [Volkmarsen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Volkmarsen.protect.md) 
-- [Volkmarsen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Volkmarsen.private.md) 
-- [Volkmarsen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Volkmarsen.personal.md) 
-- [Volkmarsen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Volkmarsen.secret.md) 

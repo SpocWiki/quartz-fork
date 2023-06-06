@@ -45,10 +45,3 @@ A diet conforming to Jewish dietary practices.
 
 
 
-## Confidential Links & Embeds: 
-- [kosher_diet](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/kosher_diet.md) 
-- [kosher_diet.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/kosher_diet.internal.md) 
-- [kosher_diet.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/kosher_diet.protect.md) 
-- [kosher_diet.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/kosher_diet.private.md) 
-- [kosher_diet.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/kosher_diet.personal.md) 
-- [kosher_diet.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/kosher_diet.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kilkenny](../../../../../../_public/geo/Continent/Europe/Ireland/City/Kilkenny.md) 
-- [Kilkenny.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Kilkenny.internal.md) 
-- [Kilkenny.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Kilkenny.protect.md) 
-- [Kilkenny.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Kilkenny.private.md) 
-- [Kilkenny.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Kilkenny.personal.md) 
-- [Kilkenny.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Kilkenny.secret.md) 

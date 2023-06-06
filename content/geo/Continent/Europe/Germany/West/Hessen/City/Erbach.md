@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Erbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.md) 
-- [Erbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.internal.md) 
-- [Erbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.protect.md) 
-- [Erbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.private.md) 
-- [Erbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.personal.md) 
-- [Erbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Erbach.secret.md) 

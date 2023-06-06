@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Quierschied](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Quierschied.md) 
-- [Quierschied.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Quierschied.internal.md) 
-- [Quierschied.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Quierschied.protect.md) 
-- [Quierschied.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Quierschied.private.md) 
-- [Quierschied.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Quierschied.personal.md) 
-- [Quierschied.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Quierschied.secret.md) 

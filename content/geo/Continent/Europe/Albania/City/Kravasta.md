@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kravasta](../../../../../../_public/geo/Continent/Europe/Albania/City/Kravasta.md) 
-- [Kravasta.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Kravasta.internal.md) 
-- [Kravasta.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Kravasta.protect.md) 
-- [Kravasta.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Kravasta.private.md) 
-- [Kravasta.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Kravasta.personal.md) 
-- [Kravasta.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Kravasta.secret.md) 

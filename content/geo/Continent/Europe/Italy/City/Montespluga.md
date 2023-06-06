@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montespluga](../../../../../../_public/geo/Continent/Europe/Italy/City/Montespluga.md) 
-- [Montespluga.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Montespluga.internal.md) 
-- [Montespluga.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Montespluga.protect.md) 
-- [Montespluga.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Montespluga.private.md) 
-- [Montespluga.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Montespluga.personal.md) 
-- [Montespluga.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Montespluga.secret.md) 

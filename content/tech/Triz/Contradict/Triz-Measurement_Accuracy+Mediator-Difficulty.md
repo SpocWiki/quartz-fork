@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Mediator-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Mediator-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.md) 
-- [Triz-Measurement_Accuracy+Mediator-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.internal.md) 
-- [Triz-Measurement_Accuracy+Mediator-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.protect.md) 
-- [Triz-Measurement_Accuracy+Mediator-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.private.md) 
-- [Triz-Measurement_Accuracy+Mediator-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.personal.md) 
-- [Triz-Measurement_Accuracy+Mediator-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Difficulty.secret.md) 

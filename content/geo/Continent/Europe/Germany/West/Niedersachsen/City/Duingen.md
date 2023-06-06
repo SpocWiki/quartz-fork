@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Duingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duingen.md) 
-- [Duingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duingen.internal.md) 
-- [Duingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duingen.protect.md) 
-- [Duingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duingen.private.md) 
-- [Duingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duingen.personal.md) 
-- [Duingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duingen.secret.md) 

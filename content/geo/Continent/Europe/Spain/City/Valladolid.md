@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valladolid](../../../../../../_public/geo/Continent/Europe/Spain/City/Valladolid.md) 
-- [Valladolid.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Valladolid.internal.md) 
-- [Valladolid.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Valladolid.protect.md) 
-- [Valladolid.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Valladolid.private.md) 
-- [Valladolid.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Valladolid.personal.md) 
-- [Valladolid.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Valladolid.secret.md) 

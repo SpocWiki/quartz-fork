@@ -19,10 +19,3 @@ title: Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.md) 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.internal.md) 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.protect.md) 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.private.md) 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.personal.md) 
-- [Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Partial,_overdone,_or_excessive_action-Temperature.secret.md) 

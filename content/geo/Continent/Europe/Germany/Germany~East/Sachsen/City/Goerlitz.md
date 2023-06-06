@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goerlitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goerlitz.md) 
-- [Goerlitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goerlitz.internal.md) 
-- [Goerlitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goerlitz.protect.md) 
-- [Goerlitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goerlitz.private.md) 
-- [Goerlitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goerlitz.personal.md) 
-- [Goerlitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Goerlitz.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Burhave](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burhave.md) 
-- [Burhave.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burhave.internal.md) 
-- [Burhave.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burhave.protect.md) 
-- [Burhave.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burhave.private.md) 
-- [Burhave.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burhave.personal.md) 
-- [Burhave.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Burhave.secret.md) 

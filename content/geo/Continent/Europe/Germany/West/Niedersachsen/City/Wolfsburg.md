@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolfsburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfsburg.md) 
-- [Wolfsburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfsburg.internal.md) 
-- [Wolfsburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfsburg.protect.md) 
-- [Wolfsburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfsburg.private.md) 
-- [Wolfsburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfsburg.personal.md) 
-- [Wolfsburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfsburg.secret.md) 

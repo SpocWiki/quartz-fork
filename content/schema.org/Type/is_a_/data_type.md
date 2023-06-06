@@ -43,10 +43,3 @@ The basic data types such as Integers, Strings, etc.
 
 
 
-## Confidential Links & Embeds: 
-- [data_type](../../../../_public/schema.org/Type/is_a_/data_type.md) 
-- [data_type.internal](../../../../_internal/schema.org/Type/is_a_/data_type.internal.md) 
-- [data_type.protect](../../../../_protect/schema.org/Type/is_a_/data_type.protect.md) 
-- [data_type.private](../../../../_private/schema.org/Type/is_a_/data_type.private.md) 
-- [data_type.personal](../../../../_personal/schema.org/Type/is_a_/data_type.personal.md) 
-- [data_type.secret](../../../../_secret/schema.org/Type/is_a_/data_type.secret.md) 

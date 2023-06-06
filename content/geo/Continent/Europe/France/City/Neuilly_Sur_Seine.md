@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuilly_Sur_Seine](../../../../../../_public/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.md) 
-- [Neuilly_Sur_Seine.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.internal.md) 
-- [Neuilly_Sur_Seine.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.protect.md) 
-- [Neuilly_Sur_Seine.private](../../../../../../_private/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.private.md) 
-- [Neuilly_Sur_Seine.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.personal.md) 
-- [Neuilly_Sur_Seine.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Neuilly_Sur_Seine.secret.md) 

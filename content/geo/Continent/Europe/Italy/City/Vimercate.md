@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vimercate](../../../../../../_public/geo/Continent/Europe/Italy/City/Vimercate.md) 
-- [Vimercate.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Vimercate.internal.md) 
-- [Vimercate.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Vimercate.protect.md) 
-- [Vimercate.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Vimercate.private.md) 
-- [Vimercate.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Vimercate.personal.md) 
-- [Vimercate.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Vimercate.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schlegel](../../../../../../_public/geo/Continent/Europe/Poland/City/Schlegel.md) 
-- [Schlegel.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlegel.internal.md) 
-- [Schlegel.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlegel.protect.md) 
-- [Schlegel.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schlegel.private.md) 
-- [Schlegel.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlegel.personal.md) 
-- [Schlegel.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlegel.secret.md) 

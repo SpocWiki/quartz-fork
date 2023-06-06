@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_contained_season](../../../../../_public/schema.org/Predicate/Relations/has/has_contained_season.md) 
-- [has_contained_season.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_contained_season.internal.md) 
-- [has_contained_season.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_contained_season.protect.md) 
-- [has_contained_season.private](../../../../../_private/schema.org/Predicate/Relations/has/has_contained_season.private.md) 
-- [has_contained_season.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_contained_season.personal.md) 
-- [has_contained_season.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_contained_season.secret.md) 

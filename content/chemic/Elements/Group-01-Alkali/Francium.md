@@ -36,10 +36,3 @@ title: Francium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Francium)
 
-## Confidential Links & Embeds: 
-- [Francium](../../../../_public/chemic/Elements/Group-01-Alkali/Francium.md) 
-- [Francium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Francium.internal.md) 
-- [Francium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Francium.protect.md) 
-- [Francium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Francium.private.md) 
-- [Francium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Francium.personal.md) 
-- [Francium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Francium.secret.md) 

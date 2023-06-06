@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stalinsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Stalinsk.md) 
-- [Stalinsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalinsk.internal.md) 
-- [Stalinsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalinsk.protect.md) 
-- [Stalinsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Stalinsk.private.md) 
-- [Stalinsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalinsk.personal.md) 
-- [Stalinsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalinsk.secret.md) 

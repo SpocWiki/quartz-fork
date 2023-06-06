@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldau](../../../../../../_public/geo/Continent/Europe/Poland/City/Waldau.md) 
-- [Waldau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Waldau.internal.md) 
-- [Waldau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Waldau.protect.md) 
-- [Waldau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Waldau.private.md) 
-- [Waldau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Waldau.personal.md) 
-- [Waldau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Waldau.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nieder-Marschacht](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.md) 
-- [Nieder-Marschacht.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.internal.md) 
-- [Nieder-Marschacht.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.protect.md) 
-- [Nieder-Marschacht.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.private.md) 
-- [Nieder-Marschacht.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.personal.md) 
-- [Nieder-Marschacht.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nieder-Marschacht.secret.md) 

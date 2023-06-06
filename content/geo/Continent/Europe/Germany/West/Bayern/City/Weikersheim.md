@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weikersheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.md) 
-- [Weikersheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.internal.md) 
-- [Weikersheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.protect.md) 
-- [Weikersheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.private.md) 
-- [Weikersheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.personal.md) 
-- [Weikersheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Weikersheim.secret.md) 

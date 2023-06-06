@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Etropol](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Etropol.md) 
-- [Etropol.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Etropol.internal.md) 
-- [Etropol.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Etropol.protect.md) 
-- [Etropol.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Etropol.private.md) 
-- [Etropol.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Etropol.personal.md) 
-- [Etropol.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Etropol.secret.md) 

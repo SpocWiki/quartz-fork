@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sinn~Dillkreis](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.md) 
-- [Sinn~Dillkreis.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.internal.md) 
-- [Sinn~Dillkreis.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.protect.md) 
-- [Sinn~Dillkreis.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.private.md) 
-- [Sinn~Dillkreis.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.personal.md) 
-- [Sinn~Dillkreis.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Sinn~Dillkreis.secret.md) 

@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_return_policy_country](../../../../../_public/schema.org/Predicate/Relations/has/has_return_policy_country.md) 
-- [has_return_policy_country.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_return_policy_country.internal.md) 
-- [has_return_policy_country.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_return_policy_country.protect.md) 
-- [has_return_policy_country.private](../../../../../_private/schema.org/Predicate/Relations/has/has_return_policy_country.private.md) 
-- [has_return_policy_country.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_return_policy_country.personal.md) 
-- [has_return_policy_country.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_return_policy_country.secret.md) 

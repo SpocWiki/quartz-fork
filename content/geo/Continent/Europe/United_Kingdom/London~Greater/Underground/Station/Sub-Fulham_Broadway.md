@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Fulham_Broadway](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fulham_Broadway.md) 
-- [Sub-Fulham_Broadway.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fulham_Broadway.internal.md) 
-- [Sub-Fulham_Broadway.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fulham_Broadway.protect.md) 
-- [Sub-Fulham_Broadway.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fulham_Broadway.private.md) 
-- [Sub-Fulham_Broadway.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fulham_Broadway.personal.md) 
-- [Sub-Fulham_Broadway.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Fulham_Broadway.secret.md) 

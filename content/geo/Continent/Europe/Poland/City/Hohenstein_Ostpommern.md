@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hohenstein_Ostpommern](../../../../../../_public/geo/Continent/Europe/Poland/City/Hohenstein_Ostpommern.md) 
-- [Hohenstein_Ostpommern.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Hohenstein_Ostpommern.internal.md) 
-- [Hohenstein_Ostpommern.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Hohenstein_Ostpommern.protect.md) 
-- [Hohenstein_Ostpommern.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Hohenstein_Ostpommern.private.md) 
-- [Hohenstein_Ostpommern.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Hohenstein_Ostpommern.personal.md) 
-- [Hohenstein_Ostpommern.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Hohenstein_Ostpommern.secret.md) 

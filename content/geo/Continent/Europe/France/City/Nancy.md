@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nancy](../../../../../../_public/geo/Continent/Europe/France/City/Nancy.md) 
-- [Nancy.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nancy.internal.md) 
-- [Nancy.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nancy.protect.md) 
-- [Nancy.private](../../../../../../_private/geo/Continent/Europe/France/City/Nancy.private.md) 
-- [Nancy.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nancy.personal.md) 
-- [Nancy.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nancy.secret.md) 

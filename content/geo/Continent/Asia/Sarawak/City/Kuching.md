@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuching](../../../../../../_public/geo/Continent/Asia/Sarawak/City/Kuching.md) 
-- [Kuching.internal](../../../../../../_internal/geo/Continent/Asia/Sarawak/City/Kuching.internal.md) 
-- [Kuching.protect](../../../../../../_protect/geo/Continent/Asia/Sarawak/City/Kuching.protect.md) 
-- [Kuching.private](../../../../../../_private/geo/Continent/Asia/Sarawak/City/Kuching.private.md) 
-- [Kuching.personal](../../../../../../_personal/geo/Continent/Asia/Sarawak/City/Kuching.personal.md) 
-- [Kuching.secret](../../../../../../_secret/geo/Continent/Asia/Sarawak/City/Kuching.secret.md) 

@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_maximum_attendees](../../../../_public/schema.org/Predicate/Counts/has_number_of_maximum_attendees.md) 
-- [has_number_of_maximum_attendees.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_maximum_attendees.internal.md) 
-- [has_number_of_maximum_attendees.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_maximum_attendees.protect.md) 
-- [has_number_of_maximum_attendees.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_maximum_attendees.private.md) 
-- [has_number_of_maximum_attendees.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_maximum_attendees.personal.md) 
-- [has_number_of_maximum_attendees.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_maximum_attendees.secret.md) 

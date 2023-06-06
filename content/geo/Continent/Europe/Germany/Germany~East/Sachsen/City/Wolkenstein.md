@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolkenstein](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wolkenstein.md) 
-- [Wolkenstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wolkenstein.internal.md) 
-- [Wolkenstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wolkenstein.protect.md) 
-- [Wolkenstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wolkenstein.private.md) 
-- [Wolkenstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wolkenstein.personal.md) 
-- [Wolkenstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wolkenstein.secret.md) 

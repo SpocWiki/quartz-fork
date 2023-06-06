@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cranzahl](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cranzahl.md) 
-- [Cranzahl.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cranzahl.internal.md) 
-- [Cranzahl.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cranzahl.protect.md) 
-- [Cranzahl.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cranzahl.private.md) 
-- [Cranzahl.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cranzahl.personal.md) 
-- [Cranzahl.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Cranzahl.secret.md) 

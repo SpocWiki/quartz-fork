@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tour-du-pin](../../../../../../_public/geo/Continent/Europe/France/City/Tour-du-pin.md) 
-- [Tour-du-pin.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Tour-du-pin.internal.md) 
-- [Tour-du-pin.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Tour-du-pin.protect.md) 
-- [Tour-du-pin.private](../../../../../../_private/geo/Continent/Europe/France/City/Tour-du-pin.private.md) 
-- [Tour-du-pin.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Tour-du-pin.personal.md) 
-- [Tour-du-pin.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Tour-du-pin.secret.md) 

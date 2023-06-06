@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-London_City_Airport](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_City_Airport.md) 
-- [Sub-London_City_Airport.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_City_Airport.internal.md) 
-- [Sub-London_City_Airport.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_City_Airport.protect.md) 
-- [Sub-London_City_Airport.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_City_Airport.private.md) 
-- [Sub-London_City_Airport.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_City_Airport.personal.md) 
-- [Sub-London_City_Airport.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-London_City_Airport.secret.md) 

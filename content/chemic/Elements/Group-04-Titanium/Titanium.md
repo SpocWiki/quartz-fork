@@ -34,10 +34,3 @@ SpocWebEntityId: 13522
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Titanium)
 
-## Confidential Links & Embeds: 
-- [Titanium](../../../../_public/chemic/Elements/Group-04-Titanium/Titanium.md) 
-- [Titanium.internal](../../../../_internal/chemic/Elements/Group-04-Titanium/Titanium.internal.md) 
-- [Titanium.protect](../../../../_protect/chemic/Elements/Group-04-Titanium/Titanium.protect.md) 
-- [Titanium.private](../../../../_private/chemic/Elements/Group-04-Titanium/Titanium.private.md) 
-- [Titanium.personal](../../../../_personal/chemic/Elements/Group-04-Titanium/Titanium.personal.md) 
-- [Titanium.secret](../../../../_secret/chemic/Elements/Group-04-Titanium/Titanium.secret.md) 

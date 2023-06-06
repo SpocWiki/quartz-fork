@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_tax_id](../../../../_public/schema.org/Predicate/Texts/has_tax_id.md) 
-- [has_tax_id.internal](../../../../_internal/schema.org/Predicate/Texts/has_tax_id.internal.md) 
-- [has_tax_id.protect](../../../../_protect/schema.org/Predicate/Texts/has_tax_id.protect.md) 
-- [has_tax_id.private](../../../../_private/schema.org/Predicate/Texts/has_tax_id.private.md) 
-- [has_tax_id.personal](../../../../_personal/schema.org/Predicate/Texts/has_tax_id.personal.md) 
-- [has_tax_id.secret](../../../../_secret/schema.org/Predicate/Texts/has_tax_id.secret.md) 

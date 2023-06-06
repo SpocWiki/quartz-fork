@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_educational_credential_awarded](../../../../../_public/schema.org/Predicate/Relations/has/has_educational_credential_awarded.md) 
-- [has_educational_credential_awarded.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_educational_credential_awarded.internal.md) 
-- [has_educational_credential_awarded.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_educational_credential_awarded.protect.md) 
-- [has_educational_credential_awarded.private](../../../../../_private/schema.org/Predicate/Relations/has/has_educational_credential_awarded.private.md) 
-- [has_educational_credential_awarded.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_educational_credential_awarded.personal.md) 
-- [has_educational_credential_awarded.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_educational_credential_awarded.secret.md) 

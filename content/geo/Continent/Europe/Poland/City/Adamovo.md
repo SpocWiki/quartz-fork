@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Adamovo](../../../../../../_public/geo/Continent/Europe/Poland/City/Adamovo.md) 
-- [Adamovo.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Adamovo.internal.md) 
-- [Adamovo.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Adamovo.protect.md) 
-- [Adamovo.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Adamovo.private.md) 
-- [Adamovo.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Adamovo.personal.md) 
-- [Adamovo.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Adamovo.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Atair](../../../_public/astro/Star/Atair.md) 
-- [Atair.internal](../../../_internal/astro/Star/Atair.internal.md) 
-- [Atair.protect](../../../_protect/astro/Star/Atair.protect.md) 
-- [Atair.private](../../../_private/astro/Star/Atair.private.md) 
-- [Atair.personal](../../../_personal/astro/Star/Atair.personal.md) 
-- [Atair.secret](../../../_secret/astro/Star/Atair.secret.md)
-

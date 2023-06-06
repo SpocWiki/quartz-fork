@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cesenatico](../../../../../../_public/geo/Continent/Europe/Italy/City/Cesenatico.md) 
-- [Cesenatico.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cesenatico.internal.md) 
-- [Cesenatico.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cesenatico.protect.md) 
-- [Cesenatico.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cesenatico.private.md) 
-- [Cesenatico.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cesenatico.personal.md) 
-- [Cesenatico.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cesenatico.secret.md) 

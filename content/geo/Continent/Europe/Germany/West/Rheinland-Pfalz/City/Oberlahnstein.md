@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberlahnstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberlahnstein.md) 
-- [Oberlahnstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberlahnstein.internal.md) 
-- [Oberlahnstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberlahnstein.protect.md) 
-- [Oberlahnstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberlahnstein.private.md) 
-- [Oberlahnstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberlahnstein.personal.md) 
-- [Oberlahnstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberlahnstein.secret.md) 

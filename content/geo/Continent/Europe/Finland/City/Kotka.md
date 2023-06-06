@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kotka](../../../../../../_public/geo/Continent/Europe/Finland/City/Kotka.md) 
-- [Kotka.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kotka.internal.md) 
-- [Kotka.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kotka.protect.md) 
-- [Kotka.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kotka.private.md) 
-- [Kotka.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kotka.personal.md) 
-- [Kotka.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kotka.secret.md) 

@@ -45,10 +45,3 @@ A diet focused on reduced calorie intake.
 
 
 
-## Confidential Links & Embeds: 
-- [low_calorie_diet](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.md) 
-- [low_calorie_diet.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.internal.md) 
-- [low_calorie_diet.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.protect.md) 
-- [low_calorie_diet.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.private.md) 
-- [low_calorie_diet.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.personal.md) 
-- [low_calorie_diet.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_calorie_diet.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kano~Nigeria](../../../../../../_public/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.md) 
-- [Kano~Nigeria.internal](../../../../../../_internal/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.internal.md) 
-- [Kano~Nigeria.protect](../../../../../../_protect/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.protect.md) 
-- [Kano~Nigeria.private](../../../../../../_private/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.private.md) 
-- [Kano~Nigeria.personal](../../../../../../_personal/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.personal.md) 
-- [Kano~Nigeria.secret](../../../../../../_secret/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.secret.md) 

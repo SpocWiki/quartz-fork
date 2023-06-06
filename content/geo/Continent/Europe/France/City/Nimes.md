@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nimes](../../../../../../_public/geo/Continent/Europe/France/City/Nimes.md) 
-- [Nimes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nimes.internal.md) 
-- [Nimes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nimes.protect.md) 
-- [Nimes.private](../../../../../../_private/geo/Continent/Europe/France/City/Nimes.private.md) 
-- [Nimes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nimes.personal.md) 
-- [Nimes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nimes.secret.md) 

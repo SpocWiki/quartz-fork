@@ -41,10 +41,3 @@ Data type: Text.
 
 
 
-## Confidential Links & Embeds: 
-- [text](../../../../../_public/schema.org/Type/is_a_/data_type/text.md) 
-- [text.internal](../../../../../_internal/schema.org/Type/is_a_/data_type/text.internal.md) 
-- [text.protect](../../../../../_protect/schema.org/Type/is_a_/data_type/text.protect.md) 
-- [text.private](../../../../../_private/schema.org/Type/is_a_/data_type/text.private.md) 
-- [text.personal](../../../../../_personal/schema.org/Type/is_a_/data_type/text.personal.md) 
-- [text.secret](../../../../../_secret/schema.org/Type/is_a_/data_type/text.secret.md) 

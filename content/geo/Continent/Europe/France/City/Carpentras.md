@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Carpentras](../../../../../../_public/geo/Continent/Europe/France/City/Carpentras.md) 
-- [Carpentras.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Carpentras.internal.md) 
-- [Carpentras.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Carpentras.protect.md) 
-- [Carpentras.private](../../../../../../_private/geo/Continent/Europe/France/City/Carpentras.private.md) 
-- [Carpentras.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Carpentras.personal.md) 
-- [Carpentras.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Carpentras.secret.md) 

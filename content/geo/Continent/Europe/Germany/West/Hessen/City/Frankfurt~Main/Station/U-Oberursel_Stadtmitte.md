@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Oberursel_Stadtmitte](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.md) 
-- [U-Oberursel_Stadtmitte.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.internal.md) 
-- [U-Oberursel_Stadtmitte.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.protect.md) 
-- [U-Oberursel_Stadtmitte.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.private.md) 
-- [U-Oberursel_Stadtmitte.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.personal.md) 
-- [U-Oberursel_Stadtmitte.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Oberursel_Stadtmitte.secret.md) 

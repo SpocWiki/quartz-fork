@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muenchberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Muenchberg.md) 
-- [Muenchberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Muenchberg.internal.md) 
-- [Muenchberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Muenchberg.protect.md) 
-- [Muenchberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Muenchberg.private.md) 
-- [Muenchberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Muenchberg.personal.md) 
-- [Muenchberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Muenchberg.secret.md) 

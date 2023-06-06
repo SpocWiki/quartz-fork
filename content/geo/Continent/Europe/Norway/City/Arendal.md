@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arendal](../../../../../../_public/geo/Continent/Europe/Norway/City/Arendal.md) 
-- [Arendal.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Arendal.internal.md) 
-- [Arendal.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Arendal.protect.md) 
-- [Arendal.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Arendal.private.md) 
-- [Arendal.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Arendal.personal.md) 
-- [Arendal.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Arendal.secret.md) 

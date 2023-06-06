@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flatow](../../../../../../_public/geo/Continent/Europe/Poland/City/Flatow.md) 
-- [Flatow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Flatow.internal.md) 
-- [Flatow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Flatow.protect.md) 
-- [Flatow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Flatow.private.md) 
-- [Flatow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Flatow.personal.md) 
-- [Flatow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Flatow.secret.md) 

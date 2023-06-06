@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_entertainment_business](../../../../../_public/schema.org/Predicate/Relations/has/has_entertainment_business.md) 
-- [has_entertainment_business.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_entertainment_business.internal.md) 
-- [has_entertainment_business.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_entertainment_business.protect.md) 
-- [has_entertainment_business.private](../../../../../_private/schema.org/Predicate/Relations/has/has_entertainment_business.private.md) 
-- [has_entertainment_business.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_entertainment_business.personal.md) 
-- [has_entertainment_business.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_entertainment_business.secret.md) 

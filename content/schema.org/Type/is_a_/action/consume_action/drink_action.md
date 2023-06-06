@@ -43,10 +43,3 @@ The act of swallowing liquids.
 
 
 
-## Confidential Links & Embeds: 
-- [drink_action](../../../../../../_public/schema.org/Type/is_a_/action/consume_action/drink_action.md) 
-- [drink_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/drink_action.internal.md) 
-- [drink_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/drink_action.protect.md) 
-- [drink_action.private](../../../../../../_private/schema.org/Type/is_a_/action/consume_action/drink_action.private.md) 
-- [drink_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/drink_action.personal.md) 
-- [drink_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/drink_action.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tula](../../../../../../_public/geo/Continent/Europe/Russia/City/Tula.md) 
-- [Tula.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tula.internal.md) 
-- [Tula.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tula.protect.md) 
-- [Tula.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tula.private.md) 
-- [Tula.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tula.personal.md) 
-- [Tula.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tula.secret.md) 

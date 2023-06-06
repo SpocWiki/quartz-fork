@@ -43,10 +43,3 @@ A pharmacy or drugstore.
 
 
 
-## Confidential Links & Embeds: 
-- [pharmacy](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/pharmacy.md) 
-- [pharmacy.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/pharmacy.internal.md) 
-- [pharmacy.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/pharmacy.protect.md) 
-- [pharmacy.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/pharmacy.private.md) 
-- [pharmacy.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/pharmacy.personal.md) 
-- [pharmacy.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/pharmacy.secret.md) 

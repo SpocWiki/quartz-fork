@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Universality-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Universality-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.md) 
-- [Triz-Time-Loss+Universality-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.internal.md) 
-- [Triz-Time-Loss+Universality-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.protect.md) 
-- [Triz-Time-Loss+Universality-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.private.md) 
-- [Triz-Time-Loss+Universality-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.personal.md) 
-- [Triz-Time-Loss+Universality-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Universality-Complexity.secret.md) 

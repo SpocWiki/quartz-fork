@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vidin](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Vidin.md) 
-- [Vidin.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Vidin.internal.md) 
-- [Vidin.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Vidin.protect.md) 
-- [Vidin.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Vidin.private.md) 
-- [Vidin.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Vidin.personal.md) 
-- [Vidin.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Vidin.secret.md) 

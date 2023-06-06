@@ -45,10 +45,3 @@ A FloorPlan is an explicit representation of a collection of similar accommodati
 
 
 
-## Confidential Links & Embeds: 
-- [floor_plan](../../../../../_public/schema.org/Type/is_a_/intangible/floor_plan.md) 
-- [floor_plan.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/floor_plan.internal.md) 
-- [floor_plan.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/floor_plan.protect.md) 
-- [floor_plan.private](../../../../../_private/schema.org/Type/is_a_/intangible/floor_plan.private.md) 
-- [floor_plan.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/floor_plan.personal.md) 
-- [floor_plan.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/floor_plan.secret.md) 

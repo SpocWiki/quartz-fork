@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Novi_Ligure](../../../../../../_public/geo/Continent/Europe/Italy/City/Novi_Ligure.md) 
-- [Novi_Ligure.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Novi_Ligure.internal.md) 
-- [Novi_Ligure.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Novi_Ligure.protect.md) 
-- [Novi_Ligure.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Novi_Ligure.private.md) 
-- [Novi_Ligure.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Novi_Ligure.personal.md) 
-- [Novi_Ligure.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Novi_Ligure.secret.md) 

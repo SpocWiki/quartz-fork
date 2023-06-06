@@ -35,10 +35,3 @@ SpocWebEntityId: 21921
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Calcium)
 
-## Confidential Links & Embeds: 
-- [Calcium](../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Calcium.md) 
-- [Calcium.internal](../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Calcium.internal.md) 
-- [Calcium.protect](../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Calcium.protect.md) 
-- [Calcium.private](../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Calcium.private.md) 
-- [Calcium.personal](../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Calcium.personal.md) 
-- [Calcium.secret](../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Calcium.secret.md) 

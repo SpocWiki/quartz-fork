@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_time_of_day](../../../../_public/schema.org/Predicate/Texts/has_time_of_day.md) 
-- [has_time_of_day.internal](../../../../_internal/schema.org/Predicate/Texts/has_time_of_day.internal.md) 
-- [has_time_of_day.protect](../../../../_protect/schema.org/Predicate/Texts/has_time_of_day.protect.md) 
-- [has_time_of_day.private](../../../../_private/schema.org/Predicate/Texts/has_time_of_day.private.md) 
-- [has_time_of_day.personal](../../../../_personal/schema.org/Predicate/Texts/has_time_of_day.personal.md) 
-- [has_time_of_day.secret](../../../../_secret/schema.org/Predicate/Texts/has_time_of_day.secret.md) 

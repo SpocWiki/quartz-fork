@@ -19,10 +19,3 @@ title: Triz-Power+Extraction-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Extraction-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Power+Extraction-Intensity.md) 
-- [Triz-Power+Extraction-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Extraction-Intensity.internal.md) 
-- [Triz-Power+Extraction-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Extraction-Intensity.protect.md) 
-- [Triz-Power+Extraction-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Extraction-Intensity.private.md) 
-- [Triz-Power+Extraction-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Extraction-Intensity.personal.md) 
-- [Triz-Power+Extraction-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Extraction-Intensity.secret.md) 

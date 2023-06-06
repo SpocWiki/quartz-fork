@@ -115,7 +115,7 @@ markerFolder: ./Martinique/City
 
 ![350](geo/Continent/South-America/Mexico/Coat_of_arms_of_Mexico.svg)
 
-![Anthem-Mexico](xLarge/National-Anthem/Anthem-Mexico.mp3)
+[Anthem-Mexico](xLarge/National-Anthem/Anthem-Mexico.mp3)
 
 ![350](geo/Continent/South-America/Mexico/Flag_of_Mexico.svg)
 
@@ -131,10 +131,3 @@ markerFolder: ./Martinique/City
 
 
 
-## Confidential Links & Embeds: 
-- [Martinique](../../../../_public/geo/Continent/South-America/Martinique.md) 
-- [Martinique.internal](../../../../_internal/geo/Continent/South-America/Martinique.internal.md) 
-- [Martinique.protect](../../../../_protect/geo/Continent/South-America/Martinique.protect.md) 
-- [Martinique.private](../../../../_private/geo/Continent/South-America/Martinique.private.md) 
-- [Martinique.personal](../../../../_personal/geo/Continent/South-America/Martinique.personal.md) 
-- [Martinique.secret](../../../../_secret/geo/Continent/South-America/Martinique.secret.md) 

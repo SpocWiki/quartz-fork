@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.md) 
-- [Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.internal.md) 
-- [Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.protect.md) 
-- [Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.private.md) 
-- [Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.personal.md) 
-- [Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Replacement_of_a_mechanical_system-Temperature.secret.md) 

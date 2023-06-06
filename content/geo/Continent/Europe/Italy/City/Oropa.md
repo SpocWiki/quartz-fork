@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oropa](../../../../../../_public/geo/Continent/Europe/Italy/City/Oropa.md) 
-- [Oropa.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Oropa.internal.md) 
-- [Oropa.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Oropa.protect.md) 
-- [Oropa.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Oropa.private.md) 
-- [Oropa.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Oropa.personal.md) 
-- [Oropa.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Oropa.secret.md) 

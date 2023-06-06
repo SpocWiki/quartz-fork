@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kalinino](../../../../../../_public/geo/Continent/Europe/Russia/City/Kalinino.md) 
-- [Kalinino.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kalinino.internal.md) 
-- [Kalinino.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kalinino.protect.md) 
-- [Kalinino.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kalinino.private.md) 
-- [Kalinino.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kalinino.personal.md) 
-- [Kalinino.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kalinino.secret.md) 

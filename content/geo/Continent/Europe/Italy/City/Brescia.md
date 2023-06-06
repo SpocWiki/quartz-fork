@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brescia](../../../../../../_public/geo/Continent/Europe/Italy/City/Brescia.md) 
-- [Brescia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Brescia.internal.md) 
-- [Brescia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Brescia.protect.md) 
-- [Brescia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Brescia.private.md) 
-- [Brescia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Brescia.personal.md) 
-- [Brescia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Brescia.secret.md) 

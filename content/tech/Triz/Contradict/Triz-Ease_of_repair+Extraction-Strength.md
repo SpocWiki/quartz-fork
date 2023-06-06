@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Extraction-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Extraction-Strength](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.md) 
-- [Triz-Ease_of_repair+Extraction-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.internal.md) 
-- [Triz-Ease_of_repair+Extraction-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.protect.md) 
-- [Triz-Ease_of_repair+Extraction-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.private.md) 
-- [Triz-Ease_of_repair+Extraction-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.personal.md) 
-- [Triz-Ease_of_repair+Extraction-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Strength.secret.md) 

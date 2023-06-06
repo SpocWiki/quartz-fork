@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aggsbach](../../../../../../_public/geo/Continent/Europe/Austria/City/Aggsbach.md) 
-- [Aggsbach.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Aggsbach.internal.md) 
-- [Aggsbach.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Aggsbach.protect.md) 
-- [Aggsbach.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Aggsbach.private.md) 
-- [Aggsbach.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Aggsbach.personal.md) 
-- [Aggsbach.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Aggsbach.secret.md) 

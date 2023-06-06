@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stratford-upon-Avon](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.md) 
-- [Stratford-upon-Avon.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.internal.md) 
-- [Stratford-upon-Avon.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.protect.md) 
-- [Stratford-upon-Avon.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.private.md) 
-- [Stratford-upon-Avon.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.personal.md) 
-- [Stratford-upon-Avon.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stratford-upon-Avon.secret.md) 

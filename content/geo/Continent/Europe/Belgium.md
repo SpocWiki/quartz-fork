@@ -124,7 +124,7 @@ markerFolder: ./Belgium/City
 [VehicleCode::B]
 [Capital::[Brussels=Bruxelles](geo/Continent/Europe/Belgium/City/Brussels=Bruxelles.md)]
 ![950](geo/Continent/Europe/Belgium/Great_coat_of_arms_of_Belgium.svg)
-![Anthem-Belgium](xLarge/National-Anthem/Anthem-Belgium.mp3)
+[Anthem-Belgium](xLarge/National-Anthem/Anthem-Belgium.mp3)
 ![350](geo/Continent/Europe/Belgium/Flag_of_Belgium.svg)
 [Alcohol-l::10.8]
 [Language-Id::496]
@@ -133,10 +133,3 @@ markerFolder: ./Belgium/City
 
 
 
-## Confidential Links & Embeds: 
-- [Belgium](../../../../_public/geo/Continent/Europe/Belgium.md) 
-- [Belgium.internal](../../../../_internal/geo/Continent/Europe/Belgium.internal.md) 
-- [Belgium.protect](../../../../_protect/geo/Continent/Europe/Belgium.protect.md) 
-- [Belgium.private](../../../../_private/geo/Continent/Europe/Belgium.private.md) 
-- [Belgium.personal](../../../../_personal/geo/Continent/Europe/Belgium.personal.md) 
-- [Belgium.secret](../../../../_secret/geo/Continent/Europe/Belgium.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Aquarii-6](../../../_public/astro/Star/Aquarii-6.md) 
-- [Aquarii-6.internal](../../../_internal/astro/Star/Aquarii-6.internal.md) 
-- [Aquarii-6.protect](../../../_protect/astro/Star/Aquarii-6.protect.md) 
-- [Aquarii-6.private](../../../_private/astro/Star/Aquarii-6.private.md) 
-- [Aquarii-6.personal](../../../_personal/astro/Star/Aquarii-6.personal.md) 
-- [Aquarii-6.secret](../../../_secret/astro/Star/Aquarii-6.secret.md)
-

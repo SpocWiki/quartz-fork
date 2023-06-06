@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beachy_Head](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Beachy_Head.md) 
-- [Beachy_Head.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Beachy_Head.internal.md) 
-- [Beachy_Head.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Beachy_Head.protect.md) 
-- [Beachy_Head.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Beachy_Head.private.md) 
-- [Beachy_Head.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Beachy_Head.personal.md) 
-- [Beachy_Head.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Beachy_Head.secret.md) 

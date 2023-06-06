@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lambaréné](../../../../../../_public/geo/Continent/Africa/Gabon/City/Lambar%C3%A9n%C3%A9.md) 
-- [Lambaréné.internal](../../../../../../_internal/geo/Continent/Africa/Gabon/City/Lambar%C3%A9n%C3%A9.internal.md) 
-- [Lambaréné.protect](../../../../../../_protect/geo/Continent/Africa/Gabon/City/Lambar%C3%A9n%C3%A9.protect.md) 
-- [Lambaréné.private](../../../../../../_private/geo/Continent/Africa/Gabon/City/Lambar%C3%A9n%C3%A9.private.md) 
-- [Lambaréné.personal](../../../../../../_personal/geo/Continent/Africa/Gabon/City/Lambar%C3%A9n%C3%A9.personal.md) 
-- [Lambaréné.secret](../../../../../../_secret/geo/Continent/Africa/Gabon/City/Lambar%C3%A9n%C3%A9.secret.md) 

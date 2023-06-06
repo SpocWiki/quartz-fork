@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Triefenried](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Triefenried.md) 
-- [Triefenried.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Triefenried.internal.md) 
-- [Triefenried.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Triefenried.protect.md) 
-- [Triefenried.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Triefenried.private.md) 
-- [Triefenried.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Triefenried.personal.md) 
-- [Triefenried.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Triefenried.secret.md) 

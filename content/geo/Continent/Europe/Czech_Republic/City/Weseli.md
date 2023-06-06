@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weseli](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Weseli.md) 
-- [Weseli.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Weseli.internal.md) 
-- [Weseli.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Weseli.protect.md) 
-- [Weseli.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Weseli.private.md) 
-- [Weseli.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Weseli.personal.md) 
-- [Weseli.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Weseli.secret.md) 

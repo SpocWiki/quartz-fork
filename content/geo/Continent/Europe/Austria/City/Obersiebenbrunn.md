@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Obersiebenbrunn](../../../../../../_public/geo/Continent/Europe/Austria/City/Obersiebenbrunn.md) 
-- [Obersiebenbrunn.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Obersiebenbrunn.internal.md) 
-- [Obersiebenbrunn.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Obersiebenbrunn.protect.md) 
-- [Obersiebenbrunn.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Obersiebenbrunn.private.md) 
-- [Obersiebenbrunn.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Obersiebenbrunn.personal.md) 
-- [Obersiebenbrunn.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Obersiebenbrunn.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bjaerka-Saby](../../../../../../_public/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.md) 
-- [Bjaerka-Saby.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.internal.md) 
-- [Bjaerka-Saby.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.protect.md) 
-- [Bjaerka-Saby.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.private.md) 
-- [Bjaerka-Saby.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.personal.md) 
-- [Bjaerka-Saby.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bjaerka-Saby.secret.md) 

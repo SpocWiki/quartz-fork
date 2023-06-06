@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kolberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Kolberg.md) 
-- [Kolberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kolberg.internal.md) 
-- [Kolberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kolberg.protect.md) 
-- [Kolberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kolberg.private.md) 
-- [Kolberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kolberg.personal.md) 
-- [Kolberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kolberg.secret.md) 

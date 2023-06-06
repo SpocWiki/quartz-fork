@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valinge](../../../../../../_public/geo/Continent/Europe/Sweden/City/Valinge.md) 
-- [Valinge.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Valinge.internal.md) 
-- [Valinge.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Valinge.protect.md) 
-- [Valinge.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Valinge.private.md) 
-- [Valinge.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Valinge.personal.md) 
-- [Valinge.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Valinge.secret.md) 

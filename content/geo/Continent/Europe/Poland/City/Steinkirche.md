@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Steinkirche](../../../../../../_public/geo/Continent/Europe/Poland/City/Steinkirche.md) 
-- [Steinkirche.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Steinkirche.internal.md) 
-- [Steinkirche.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Steinkirche.protect.md) 
-- [Steinkirche.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Steinkirche.private.md) 
-- [Steinkirche.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Steinkirche.personal.md) 
-- [Steinkirche.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Steinkirche.secret.md) 

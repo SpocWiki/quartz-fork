@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bruegge=Bruges](../../../../../../_public/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.md) 
-- [Bruegge=Bruges.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.internal.md) 
-- [Bruegge=Bruges.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.protect.md) 
-- [Bruegge=Bruges.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.private.md) 
-- [Bruegge=Bruges.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.personal.md) 
-- [Bruegge=Bruges.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Bruegge=Bruges.secret.md) 

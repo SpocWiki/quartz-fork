@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Mathieu](../../../../../../_public/geo/Continent/Europe/France/City/St.Mathieu.md) 
-- [St.Mathieu.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Mathieu.internal.md) 
-- [St.Mathieu.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Mathieu.protect.md) 
-- [St.Mathieu.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Mathieu.private.md) 
-- [St.Mathieu.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Mathieu.personal.md) 
-- [St.Mathieu.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Mathieu.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Albergo_Romobel](../../../../../../_public/geo/Continent/Europe/Italy/City/Albergo_Romobel.md) 
-- [Albergo_Romobel.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Albergo_Romobel.internal.md) 
-- [Albergo_Romobel.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Albergo_Romobel.protect.md) 
-- [Albergo_Romobel.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Albergo_Romobel.private.md) 
-- [Albergo_Romobel.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Albergo_Romobel.personal.md) 
-- [Albergo_Romobel.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Albergo_Romobel.secret.md) 

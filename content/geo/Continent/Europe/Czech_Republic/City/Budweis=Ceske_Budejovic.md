@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Budweis=Ceske_Budejovic](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.md) 
-- [Budweis=Ceske_Budejovic.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.internal.md) 
-- [Budweis=Ceske_Budejovic.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.protect.md) 
-- [Budweis=Ceske_Budejovic.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.private.md) 
-- [Budweis=Ceske_Budejovic.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.personal.md) 
-- [Budweis=Ceske_Budejovic.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.secret.md) 

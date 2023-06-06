@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teichwolframsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Teichwolframsdorf.md) 
-- [Teichwolframsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Teichwolframsdorf.internal.md) 
-- [Teichwolframsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Teichwolframsdorf.protect.md) 
-- [Teichwolframsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Teichwolframsdorf.private.md) 
-- [Teichwolframsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Teichwolframsdorf.personal.md) 
-- [Teichwolframsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Teichwolframsdorf.secret.md) 

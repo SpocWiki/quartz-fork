@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Groningen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Groningen.md) 
-- [Groningen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Groningen.internal.md) 
-- [Groningen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Groningen.protect.md) 
-- [Groningen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Groningen.private.md) 
-- [Groningen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Groningen.personal.md) 
-- [Groningen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Groningen.secret.md) 

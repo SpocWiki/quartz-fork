@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Furnes](../../../../../../_public/geo/Continent/Europe/Belgium/City/Furnes.md) 
-- [Furnes.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Furnes.internal.md) 
-- [Furnes.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Furnes.protect.md) 
-- [Furnes.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Furnes.private.md) 
-- [Furnes.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Furnes.personal.md) 
-- [Furnes.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Furnes.secret.md) 

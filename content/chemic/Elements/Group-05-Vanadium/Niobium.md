@@ -37,10 +37,3 @@ SpocWebEntityId: 21939
 > [Wikipedia](https://en.wikipedia.org/wiki/Niobium)
 
 
-## Confidential Links & Embeds: 
-- [Niobium](../../../../_public/chemic/Elements/Group-05-Vanadium/Niobium.md) 
-- [Niobium.internal](../../../../_internal/chemic/Elements/Group-05-Vanadium/Niobium.internal.md) 
-- [Niobium.protect](../../../../_protect/chemic/Elements/Group-05-Vanadium/Niobium.protect.md) 
-- [Niobium.private](../../../../_private/chemic/Elements/Group-05-Vanadium/Niobium.private.md) 
-- [Niobium.personal](../../../../_personal/chemic/Elements/Group-05-Vanadium/Niobium.personal.md) 
-- [Niobium.secret](../../../../_secret/chemic/Elements/Group-05-Vanadium/Niobium.secret.md) 

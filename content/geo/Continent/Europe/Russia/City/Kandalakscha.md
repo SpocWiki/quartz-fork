@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kandalakscha](../../../../../../_public/geo/Continent/Europe/Russia/City/Kandalakscha.md) 
-- [Kandalakscha.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kandalakscha.internal.md) 
-- [Kandalakscha.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kandalakscha.protect.md) 
-- [Kandalakscha.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kandalakscha.private.md) 
-- [Kandalakscha.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kandalakscha.personal.md) 
-- [Kandalakscha.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kandalakscha.secret.md) 

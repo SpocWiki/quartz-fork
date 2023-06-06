@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gross-Olbersdorf](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.md) 
-- [Gross-Olbersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.internal.md) 
-- [Gross-Olbersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.protect.md) 
-- [Gross-Olbersdorf.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.private.md) 
-- [Gross-Olbersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.personal.md) 
-- [Gross-Olbersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.secret.md) 

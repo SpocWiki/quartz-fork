@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kokand](../../../../../../_public/geo/Continent/Europe/Russia/City/Kokand.md) 
-- [Kokand.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kokand.internal.md) 
-- [Kokand.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kokand.protect.md) 
-- [Kokand.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kokand.private.md) 
-- [Kokand.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kokand.personal.md) 
-- [Kokand.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kokand.secret.md) 

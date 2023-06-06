@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hagenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.md) 
-- [Hagenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.internal.md) 
-- [Hagenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.protect.md) 
-- [Hagenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.private.md) 
-- [Hagenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.personal.md) 
-- [Hagenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hagenburg.secret.md) 

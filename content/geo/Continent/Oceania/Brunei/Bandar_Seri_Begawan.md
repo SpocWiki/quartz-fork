@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bandar_Seri_Begawan](../../../../../_public/geo/Continent/Oceania/Brunei/Bandar_Seri_Begawan.md) 
-- [Bandar_Seri_Begawan.internal](../../../../../_internal/geo/Continent/Oceania/Brunei/Bandar_Seri_Begawan.internal.md) 
-- [Bandar_Seri_Begawan.protect](../../../../../_protect/geo/Continent/Oceania/Brunei/Bandar_Seri_Begawan.protect.md) 
-- [Bandar_Seri_Begawan.private](../../../../../_private/geo/Continent/Oceania/Brunei/Bandar_Seri_Begawan.private.md) 
-- [Bandar_Seri_Begawan.personal](../../../../../_personal/geo/Continent/Oceania/Brunei/Bandar_Seri_Begawan.personal.md) 
-- [Bandar_Seri_Begawan.secret](../../../../../_secret/geo/Continent/Oceania/Brunei/Bandar_Seri_Begawan.secret.md) 

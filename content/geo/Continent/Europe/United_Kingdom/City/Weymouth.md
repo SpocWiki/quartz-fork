@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weymouth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Weymouth.md) 
-- [Weymouth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Weymouth.internal.md) 
-- [Weymouth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Weymouth.protect.md) 
-- [Weymouth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Weymouth.private.md) 
-- [Weymouth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Weymouth.personal.md) 
-- [Weymouth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Weymouth.secret.md) 

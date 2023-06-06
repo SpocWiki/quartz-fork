@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Craiova](../../../../../../_public/geo/Continent/Europe/Romania/City/Craiova.md) 
-- [Craiova.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Craiova.internal.md) 
-- [Craiova.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Craiova.protect.md) 
-- [Craiova.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Craiova.private.md) 
-- [Craiova.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Craiova.personal.md) 
-- [Craiova.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Craiova.secret.md) 

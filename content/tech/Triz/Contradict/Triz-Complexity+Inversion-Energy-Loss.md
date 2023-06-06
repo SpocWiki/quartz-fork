@@ -19,10 +19,3 @@ title: Triz-Complexity+Inversion-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Inversion-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.md) 
-- [Triz-Complexity+Inversion-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.internal.md) 
-- [Triz-Complexity+Inversion-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.protect.md) 
-- [Triz-Complexity+Inversion-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.private.md) 
-- [Triz-Complexity+Inversion-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.personal.md) 
-- [Triz-Complexity+Inversion-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Energy-Loss.secret.md) 

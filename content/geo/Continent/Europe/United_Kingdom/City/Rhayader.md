@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rhayader](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Rhayader.md) 
-- [Rhayader.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Rhayader.internal.md) 
-- [Rhayader.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Rhayader.protect.md) 
-- [Rhayader.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Rhayader.private.md) 
-- [Rhayader.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Rhayader.personal.md) 
-- [Rhayader.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Rhayader.secret.md) 

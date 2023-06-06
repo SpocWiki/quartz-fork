@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zehdenick](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zehdenick.md) 
-- [Zehdenick.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zehdenick.internal.md) 
-- [Zehdenick.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zehdenick.protect.md) 
-- [Zehdenick.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zehdenick.private.md) 
-- [Zehdenick.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zehdenick.personal.md) 
-- [Zehdenick.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zehdenick.secret.md) 

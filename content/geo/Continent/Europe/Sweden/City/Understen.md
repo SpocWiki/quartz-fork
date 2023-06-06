@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Understen](../../../../../../_public/geo/Continent/Europe/Sweden/City/Understen.md) 
-- [Understen.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Understen.internal.md) 
-- [Understen.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Understen.protect.md) 
-- [Understen.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Understen.private.md) 
-- [Understen.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Understen.personal.md) 
-- [Understen.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Understen.secret.md) 

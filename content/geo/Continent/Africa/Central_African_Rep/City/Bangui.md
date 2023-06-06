@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bangui](../../../../../../_public/geo/Continent/Africa/Central_African_Rep/City/Bangui.md) 
-- [Bangui.internal](../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/City/Bangui.internal.md) 
-- [Bangui.protect](../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/City/Bangui.protect.md) 
-- [Bangui.private](../../../../../../_private/geo/Continent/Africa/Central_African_Rep/City/Bangui.private.md) 
-- [Bangui.personal](../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/City/Bangui.personal.md) 
-- [Bangui.secret](../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/City/Bangui.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirkwall](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kirkwall.md) 
-- [Kirkwall.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkwall.internal.md) 
-- [Kirkwall.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkwall.protect.md) 
-- [Kirkwall.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkwall.private.md) 
-- [Kirkwall.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkwall.personal.md) 
-- [Kirkwall.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkwall.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moissac](../../../../../../_public/geo/Continent/Europe/France/City/Moissac.md) 
-- [Moissac.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Moissac.internal.md) 
-- [Moissac.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Moissac.protect.md) 
-- [Moissac.private](../../../../../../_private/geo/Continent/Europe/France/City/Moissac.private.md) 
-- [Moissac.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Moissac.personal.md) 
-- [Moissac.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Moissac.secret.md) 

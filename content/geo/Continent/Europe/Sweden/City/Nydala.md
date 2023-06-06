@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nydala](../../../../../../_public/geo/Continent/Europe/Sweden/City/Nydala.md) 
-- [Nydala.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Nydala.internal.md) 
-- [Nydala.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Nydala.protect.md) 
-- [Nydala.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Nydala.private.md) 
-- [Nydala.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Nydala.personal.md) 
-- [Nydala.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Nydala.secret.md) 

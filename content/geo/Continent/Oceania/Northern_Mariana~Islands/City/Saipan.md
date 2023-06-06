@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saipan](../../../../../../_public/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.md) 
-- [Saipan.internal](../../../../../../_internal/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.internal.md) 
-- [Saipan.protect](../../../../../../_protect/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.protect.md) 
-- [Saipan.private](../../../../../../_private/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.private.md) 
-- [Saipan.personal](../../../../../../_personal/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.personal.md) 
-- [Saipan.secret](../../../../../../_secret/geo/Continent/Oceania/Northern_Mariana~Islands/City/Saipan.secret.md) 

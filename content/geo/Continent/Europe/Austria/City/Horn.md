@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Horn](../../../../../../_public/geo/Continent/Europe/Austria/City/Horn.md) 
-- [Horn.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Horn.internal.md) 
-- [Horn.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Horn.protect.md) 
-- [Horn.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Horn.private.md) 
-- [Horn.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Horn.personal.md) 
-- [Horn.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Horn.secret.md) 

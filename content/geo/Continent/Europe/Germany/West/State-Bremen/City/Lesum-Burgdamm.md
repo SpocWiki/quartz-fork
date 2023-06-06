@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lesum-Burgdamm](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.md) 
-- [Lesum-Burgdamm.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.internal.md) 
-- [Lesum-Burgdamm.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.protect.md) 
-- [Lesum-Burgdamm.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.private.md) 
-- [Lesum-Burgdamm.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.personal.md) 
-- [Lesum-Burgdamm.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Bremen/City/Lesum-Burgdamm.secret.md) 

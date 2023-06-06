@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peterhead](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Peterhead.md) 
-- [Peterhead.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Peterhead.internal.md) 
-- [Peterhead.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Peterhead.protect.md) 
-- [Peterhead.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Peterhead.private.md) 
-- [Peterhead.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Peterhead.personal.md) 
-- [Peterhead.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Peterhead.secret.md) 

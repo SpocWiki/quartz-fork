@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pittsburg](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.md) 
-- [Pittsburg.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.internal.md) 
-- [Pittsburg.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.protect.md) 
-- [Pittsburg.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.private.md) 
-- [Pittsburg.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.personal.md) 
-- [Pittsburg.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Pittsburg.secret.md) 

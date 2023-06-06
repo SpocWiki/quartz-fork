@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jamestown](../../../../../../_public/geo/Continent/Africa/Saint_Helena/City/Jamestown.md) 
-- [Jamestown.internal](../../../../../../_internal/geo/Continent/Africa/Saint_Helena/City/Jamestown.internal.md) 
-- [Jamestown.protect](../../../../../../_protect/geo/Continent/Africa/Saint_Helena/City/Jamestown.protect.md) 
-- [Jamestown.private](../../../../../../_private/geo/Continent/Africa/Saint_Helena/City/Jamestown.private.md) 
-- [Jamestown.personal](../../../../../../_personal/geo/Continent/Africa/Saint_Helena/City/Jamestown.personal.md) 
-- [Jamestown.secret](../../../../../../_secret/geo/Continent/Africa/Saint_Helena/City/Jamestown.secret.md) 

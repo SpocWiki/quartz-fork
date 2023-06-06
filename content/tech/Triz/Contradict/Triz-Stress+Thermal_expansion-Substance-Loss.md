@@ -19,10 +19,3 @@ title: Triz-Stress+Thermal_expansion-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Thermal_expansion-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Substance-Loss.md) 
-- [Triz-Stress+Thermal_expansion-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Substance-Loss.internal.md) 
-- [Triz-Stress+Thermal_expansion-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Substance-Loss.protect.md) 
-- [Triz-Stress+Thermal_expansion-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Substance-Loss.private.md) 
-- [Triz-Stress+Thermal_expansion-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Substance-Loss.personal.md) 
-- [Triz-Stress+Thermal_expansion-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Thermal_expansion-Substance-Loss.secret.md) 

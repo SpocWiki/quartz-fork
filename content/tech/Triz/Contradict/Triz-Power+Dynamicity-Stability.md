@@ -19,10 +19,3 @@ title: Triz-Power+Dynamicity-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Dynamicity-Stability](../../../../_public/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.md) 
-- [Triz-Power+Dynamicity-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.internal.md) 
-- [Triz-Power+Dynamicity-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.protect.md) 
-- [Triz-Power+Dynamicity-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.private.md) 
-- [Triz-Power+Dynamicity-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.personal.md) 
-- [Triz-Power+Dynamicity-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Dynamicity-Stability.secret.md) 

@@ -43,10 +43,3 @@ A legislative building&#x2014;for example, the state capitol.
 
 
 
-## Confidential Links & Embeds: 
-- [legislative_building](../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/government_building/legislative_building.md) 
-- [legislative_building.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/government_building/legislative_building.internal.md) 
-- [legislative_building.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/government_building/legislative_building.protect.md) 
-- [legislative_building.private](../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/government_building/legislative_building.private.md) 
-- [legislative_building.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/government_building/legislative_building.personal.md) 
-- [legislative_building.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/government_building/legislative_building.secret.md) 

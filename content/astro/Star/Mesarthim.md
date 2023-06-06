@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Mesarthim](../../../_public/astro/Star/Mesarthim.md) 
-- [Mesarthim.internal](../../../_internal/astro/Star/Mesarthim.internal.md) 
-- [Mesarthim.protect](../../../_protect/astro/Star/Mesarthim.protect.md) 
-- [Mesarthim.private](../../../_private/astro/Star/Mesarthim.private.md) 
-- [Mesarthim.personal](../../../_personal/astro/Star/Mesarthim.personal.md) 
-- [Mesarthim.secret](../../../_secret/astro/Star/Mesarthim.secret.md) 

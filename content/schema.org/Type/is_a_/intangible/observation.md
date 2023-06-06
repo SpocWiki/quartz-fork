@@ -46,10 +46,3 @@ See also <a class="localLink" href="/StatisticalPopulation">StatisticalPopulatio
 
 
 
-## Confidential Links & Embeds: 
-- [observation](../../../../../_public/schema.org/Type/is_a_/intangible/observation.md) 
-- [observation.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/observation.internal.md) 
-- [observation.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/observation.protect.md) 
-- [observation.private](../../../../../_private/schema.org/Type/is_a_/intangible/observation.private.md) 
-- [observation.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/observation.personal.md) 
-- [observation.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/observation.secret.md) 

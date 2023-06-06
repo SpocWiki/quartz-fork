@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Welisch](../../../../../../_public/geo/Continent/Europe/Russia/City/Welisch.md) 
-- [Welisch.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Welisch.internal.md) 
-- [Welisch.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Welisch.protect.md) 
-- [Welisch.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Welisch.private.md) 
-- [Welisch.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Welisch.personal.md) 
-- [Welisch.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Welisch.secret.md) 

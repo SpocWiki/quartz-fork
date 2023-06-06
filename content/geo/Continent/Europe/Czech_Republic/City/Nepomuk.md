@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nepomuk](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Nepomuk.md) 
-- [Nepomuk.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Nepomuk.internal.md) 
-- [Nepomuk.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Nepomuk.protect.md) 
-- [Nepomuk.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Nepomuk.private.md) 
-- [Nepomuk.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Nepomuk.personal.md) 
-- [Nepomuk.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Nepomuk.secret.md) 

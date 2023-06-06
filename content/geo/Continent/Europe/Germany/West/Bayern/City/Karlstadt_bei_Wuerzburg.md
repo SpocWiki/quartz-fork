@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karlstadt_bei_Wuerzburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Karlstadt_bei_Wuerzburg.md) 
-- [Karlstadt_bei_Wuerzburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Karlstadt_bei_Wuerzburg.internal.md) 
-- [Karlstadt_bei_Wuerzburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Karlstadt_bei_Wuerzburg.protect.md) 
-- [Karlstadt_bei_Wuerzburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Karlstadt_bei_Wuerzburg.private.md) 
-- [Karlstadt_bei_Wuerzburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Karlstadt_bei_Wuerzburg.personal.md) 
-- [Karlstadt_bei_Wuerzburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Karlstadt_bei_Wuerzburg.secret.md) 

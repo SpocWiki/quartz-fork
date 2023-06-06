@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mittel-Wendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Mittel-Wendorf.md) 
-- [Mittel-Wendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Mittel-Wendorf.internal.md) 
-- [Mittel-Wendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Mittel-Wendorf.protect.md) 
-- [Mittel-Wendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Mittel-Wendorf.private.md) 
-- [Mittel-Wendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Mittel-Wendorf.personal.md) 
-- [Mittel-Wendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Mittel-Wendorf.secret.md) 

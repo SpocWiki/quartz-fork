@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kretinga](../../../../../../_public/geo/Continent/Europe/Russia/City/Kretinga.md) 
-- [Kretinga.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kretinga.internal.md) 
-- [Kretinga.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kretinga.protect.md) 
-- [Kretinga.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kretinga.private.md) 
-- [Kretinga.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kretinga.personal.md) 
-- [Kretinga.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kretinga.secret.md) 

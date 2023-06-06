@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lindau](../../../../../../_public/geo/Continent/Europe/Austria/City/Lindau.md) 
-- [Lindau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Lindau.internal.md) 
-- [Lindau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Lindau.protect.md) 
-- [Lindau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Lindau.private.md) 
-- [Lindau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Lindau.personal.md) 
-- [Lindau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Lindau.secret.md) 

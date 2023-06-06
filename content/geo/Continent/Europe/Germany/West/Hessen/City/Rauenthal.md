@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rauenthal](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Rauenthal.md) 
-- [Rauenthal.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Rauenthal.internal.md) 
-- [Rauenthal.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Rauenthal.protect.md) 
-- [Rauenthal.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Rauenthal.private.md) 
-- [Rauenthal.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Rauenthal.personal.md) 
-- [Rauenthal.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Rauenthal.secret.md) 

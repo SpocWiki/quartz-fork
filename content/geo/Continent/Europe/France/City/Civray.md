@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Civray](../../../../../../_public/geo/Continent/Europe/France/City/Civray.md) 
-- [Civray.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Civray.internal.md) 
-- [Civray.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Civray.protect.md) 
-- [Civray.private](../../../../../../_private/geo/Continent/Europe/France/City/Civray.private.md) 
-- [Civray.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Civray.personal.md) 
-- [Civray.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Civray.secret.md) 

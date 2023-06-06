@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Extraction-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Extraction-Shape](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.md) 
-- [Triz-Ease_of_repair+Extraction-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.internal.md) 
-- [Triz-Ease_of_repair+Extraction-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.protect.md) 
-- [Triz-Ease_of_repair+Extraction-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.private.md) 
-- [Triz-Ease_of_repair+Extraction-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.personal.md) 
-- [Triz-Ease_of_repair+Extraction-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Shape.secret.md) 

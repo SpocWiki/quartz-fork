@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karkeln](../../../../../../_public/geo/Continent/Europe/Russia/City/Karkeln.md) 
-- [Karkeln.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Karkeln.internal.md) 
-- [Karkeln.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Karkeln.protect.md) 
-- [Karkeln.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Karkeln.private.md) 
-- [Karkeln.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Karkeln.personal.md) 
-- [Karkeln.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Karkeln.secret.md) 

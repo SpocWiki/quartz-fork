@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Figueira](../../../../../../_public/geo/Continent/Europe/Portugal/City/Figueira.md) 
-- [Figueira.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Figueira.internal.md) 
-- [Figueira.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Figueira.protect.md) 
-- [Figueira.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Figueira.private.md) 
-- [Figueira.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Figueira.personal.md) 
-- [Figueira.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Figueira.secret.md) 

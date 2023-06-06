@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hooer](../../../../../../_public/geo/Continent/Europe/Sweden/City/Hooer.md) 
-- [Hooer.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hooer.internal.md) 
-- [Hooer.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hooer.protect.md) 
-- [Hooer.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Hooer.private.md) 
-- [Hooer.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hooer.personal.md) 
-- [Hooer.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hooer.secret.md) 

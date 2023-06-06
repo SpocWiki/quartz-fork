@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Extraction-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Extraction-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.md) 
-- [Triz-Ease_of_manufacture+Extraction-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.internal.md) 
-- [Triz-Ease_of_manufacture+Extraction-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.protect.md) 
-- [Triz-Ease_of_manufacture+Extraction-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.private.md) 
-- [Triz-Ease_of_manufacture+Extraction-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.personal.md) 
-- [Triz-Ease_of_manufacture+Extraction-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Extraction-Versatility.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Saalburg-Wittelsbacherallee](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.md) 
-- [T-Saalburg-Wittelsbacherallee.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.internal.md) 
-- [T-Saalburg-Wittelsbacherallee.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.protect.md) 
-- [T-Saalburg-Wittelsbacherallee.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.private.md) 
-- [T-Saalburg-Wittelsbacherallee.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.personal.md) 
-- [T-Saalburg-Wittelsbacherallee.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Saalburg-Wittelsbacherallee.secret.md) 

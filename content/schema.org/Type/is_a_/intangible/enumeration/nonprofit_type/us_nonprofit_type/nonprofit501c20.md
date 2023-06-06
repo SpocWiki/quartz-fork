@@ -47,10 +47,3 @@ Nonprofit501c20: Non-profit type referring to Group Legal Services Plan Organiza
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c20](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.md) 
-- [nonprofit501c20.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.internal.md) 
-- [nonprofit501c20.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.protect.md) 
-- [nonprofit501c20.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.private.md) 
-- [nonprofit501c20.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.personal.md) 
-- [nonprofit501c20.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.secret.md) 

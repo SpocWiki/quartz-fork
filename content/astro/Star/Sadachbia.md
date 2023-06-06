@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sadachbia](../../../_public/astro/Star/Sadachbia.md) 
-- [Sadachbia.internal](../../../_internal/astro/Star/Sadachbia.internal.md) 
-- [Sadachbia.protect](../../../_protect/astro/Star/Sadachbia.protect.md) 
-- [Sadachbia.private](../../../_private/astro/Star/Sadachbia.private.md) 
-- [Sadachbia.personal](../../../_personal/astro/Star/Sadachbia.personal.md) 
-- [Sadachbia.secret](../../../_secret/astro/Star/Sadachbia.secret.md) 

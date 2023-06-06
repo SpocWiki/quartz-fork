@@ -19,10 +19,3 @@ title: Triz-Temperature+Convert_harm_into_benefit-affected_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Convert_harm_into_benefit-affected_harm](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-affected_harm.md) 
-- [Triz-Temperature+Convert_harm_into_benefit-affected_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-affected_harm.internal.md) 
-- [Triz-Temperature+Convert_harm_into_benefit-affected_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-affected_harm.protect.md) 
-- [Triz-Temperature+Convert_harm_into_benefit-affected_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-affected_harm.private.md) 
-- [Triz-Temperature+Convert_harm_into_benefit-affected_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-affected_harm.personal.md) 
-- [Triz-Temperature+Convert_harm_into_benefit-affected_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Convert_harm_into_benefit-affected_harm.secret.md) 

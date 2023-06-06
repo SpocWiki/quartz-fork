@@ -32,10 +32,3 @@ markerFolder: ./Bayern/City
 
 
 
-## Confidential Links & Embeds: 
-- [Bayern](../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern.md) 
-- [Bayern.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern.internal.md) 
-- [Bayern.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern.protect.md) 
-- [Bayern.private](../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern.private.md) 
-- [Bayern.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern.personal.md) 
-- [Bayern.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rastenburgfelde](../../../../../../_public/geo/Continent/Europe/Poland/City/Rastenburgfelde.md) 
-- [Rastenburgfelde.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rastenburgfelde.internal.md) 
-- [Rastenburgfelde.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rastenburgfelde.protect.md) 
-- [Rastenburgfelde.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rastenburgfelde.private.md) 
-- [Rastenburgfelde.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rastenburgfelde.personal.md) 
-- [Rastenburgfelde.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rastenburgfelde.secret.md) 

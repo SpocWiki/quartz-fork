@@ -45,10 +45,3 @@ This is the <a class="localLink" href="/Action">Action</a> of navigating to a sp
 
 
 
-## Confidential Links & Embeds: 
-- [seek_to_action](../../../../../_public/schema.org/Type/is_a_/action/seek_to_action.md) 
-- [seek_to_action.internal](../../../../../_internal/schema.org/Type/is_a_/action/seek_to_action.internal.md) 
-- [seek_to_action.protect](../../../../../_protect/schema.org/Type/is_a_/action/seek_to_action.protect.md) 
-- [seek_to_action.private](../../../../../_private/schema.org/Type/is_a_/action/seek_to_action.private.md) 
-- [seek_to_action.personal](../../../../../_personal/schema.org/Type/is_a_/action/seek_to_action.personal.md) 
-- [seek_to_action.secret](../../../../../_secret/schema.org/Type/is_a_/action/seek_to_action.secret.md) 

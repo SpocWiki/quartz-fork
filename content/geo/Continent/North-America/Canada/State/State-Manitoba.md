@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Manitoba](../../../../../../_public/geo/Continent/North-America/Canada/State/State-Manitoba.md) 
-- [State-Manitoba.internal](../../../../../../_internal/geo/Continent/North-America/Canada/State/State-Manitoba.internal.md) 
-- [State-Manitoba.protect](../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Manitoba.protect.md) 
-- [State-Manitoba.private](../../../../../../_private/geo/Continent/North-America/Canada/State/State-Manitoba.private.md) 
-- [State-Manitoba.personal](../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Manitoba.personal.md) 
-- [State-Manitoba.secret](../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Manitoba.secret.md) 

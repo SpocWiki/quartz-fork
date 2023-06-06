@@ -19,10 +19,3 @@ title: Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.md) 
-- [Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.internal.md) 
-- [Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.protect.md) 
-- [Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.private.md) 
-- [Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.personal.md) 
-- [Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.secret.md) 

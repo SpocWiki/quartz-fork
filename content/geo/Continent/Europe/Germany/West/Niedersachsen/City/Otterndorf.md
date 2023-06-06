@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Otterndorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.md) 
-- [Otterndorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.internal.md) 
-- [Otterndorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.protect.md) 
-- [Otterndorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.private.md) 
-- [Otterndorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.personal.md) 
-- [Otterndorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Otterndorf.secret.md) 

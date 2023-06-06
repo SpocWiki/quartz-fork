@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montrose](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Montrose.md) 
-- [Montrose.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Montrose.internal.md) 
-- [Montrose.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Montrose.protect.md) 
-- [Montrose.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Montrose.private.md) 
-- [Montrose.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Montrose.personal.md) 
-- [Montrose.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Montrose.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zawoja](../../../../../../_public/geo/Continent/Europe/Poland/City/Zawoja.md) 
-- [Zawoja.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zawoja.internal.md) 
-- [Zawoja.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zawoja.protect.md) 
-- [Zawoja.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zawoja.private.md) 
-- [Zawoja.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zawoja.personal.md) 
-- [Zawoja.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zawoja.secret.md) 

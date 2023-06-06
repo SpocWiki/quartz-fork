@@ -37,10 +37,3 @@ SpocWebEntityId: 21924
 
 
 
-## Confidential Links & Embeds: 
-- [Chromium](../../../../_public/chemic/Elements/Group-06-Chromium/Chromium.md) 
-- [Chromium.internal](../../../../_internal/chemic/Elements/Group-06-Chromium/Chromium.internal.md) 
-- [Chromium.protect](../../../../_protect/chemic/Elements/Group-06-Chromium/Chromium.protect.md) 
-- [Chromium.private](../../../../_private/chemic/Elements/Group-06-Chromium/Chromium.private.md) 
-- [Chromium.personal](../../../../_personal/chemic/Elements/Group-06-Chromium/Chromium.personal.md) 
-- [Chromium.secret](../../../../_secret/chemic/Elements/Group-06-Chromium/Chromium.secret.md) 

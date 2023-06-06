@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Burgas](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Burgas.md) 
-- [Burgas.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Burgas.internal.md) 
-- [Burgas.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Burgas.protect.md) 
-- [Burgas.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Burgas.private.md) 
-- [Burgas.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Burgas.personal.md) 
-- [Burgas.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Burgas.secret.md) 

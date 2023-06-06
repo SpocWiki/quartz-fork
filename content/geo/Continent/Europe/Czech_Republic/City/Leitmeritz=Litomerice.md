@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leitmeritz=Litomerice](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Leitmeritz=Litomerice.md) 
-- [Leitmeritz=Litomerice.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Leitmeritz=Litomerice.internal.md) 
-- [Leitmeritz=Litomerice.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Leitmeritz=Litomerice.protect.md) 
-- [Leitmeritz=Litomerice.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Leitmeritz=Litomerice.private.md) 
-- [Leitmeritz=Litomerice.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Leitmeritz=Litomerice.personal.md) 
-- [Leitmeritz=Litomerice.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Leitmeritz=Litomerice.secret.md) 

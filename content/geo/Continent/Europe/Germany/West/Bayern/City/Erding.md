@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Erding](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Erding.md) 
-- [Erding.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Erding.internal.md) 
-- [Erding.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Erding.protect.md) 
-- [Erding.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Erding.private.md) 
-- [Erding.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Erding.personal.md) 
-- [Erding.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Erding.secret.md) 

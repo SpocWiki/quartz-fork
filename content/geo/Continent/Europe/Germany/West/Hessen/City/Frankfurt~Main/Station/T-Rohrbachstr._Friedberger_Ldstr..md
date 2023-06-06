@@ -31,10 +31,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Rohrbachstr._Friedberger_Ldstr.](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rohrbachstr._Friedberger_Ldstr..md) 
-- [T-Rohrbachstr._Friedberger_Ldstr..internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rohrbachstr._Friedberger_Ldstr..internal.md) 
-- [T-Rohrbachstr._Friedberger_Ldstr..protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rohrbachstr._Friedberger_Ldstr..protect.md) 
-- [T-Rohrbachstr._Friedberger_Ldstr..private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rohrbachstr._Friedberger_Ldstr..private.md) 
-- [T-Rohrbachstr._Friedberger_Ldstr..personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rohrbachstr._Friedberger_Ldstr..personal.md) 
-- [T-Rohrbachstr._Friedberger_Ldstr..secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Rohrbachstr._Friedberger_Ldstr..secret.md) 

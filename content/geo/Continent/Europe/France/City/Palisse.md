@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palisse](../../../../../../_public/geo/Continent/Europe/France/City/Palisse.md) 
-- [Palisse.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Palisse.internal.md) 
-- [Palisse.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Palisse.protect.md) 
-- [Palisse.private](../../../../../../_private/geo/Continent/Europe/France/City/Palisse.private.md) 
-- [Palisse.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Palisse.personal.md) 
-- [Palisse.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Palisse.secret.md) 

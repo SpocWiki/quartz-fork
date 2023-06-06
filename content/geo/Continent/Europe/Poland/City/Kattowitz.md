@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kattowitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Kattowitz.md) 
-- [Kattowitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kattowitz.internal.md) 
-- [Kattowitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kattowitz.protect.md) 
-- [Kattowitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kattowitz.private.md) 
-- [Kattowitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kattowitz.personal.md) 
-- [Kattowitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kattowitz.secret.md) 

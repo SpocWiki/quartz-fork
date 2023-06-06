@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Villa_di_Salo](../../../../../../_public/geo/Continent/Europe/Italy/City/Villa_di_Salo.md) 
-- [Villa_di_Salo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Villa_di_Salo.internal.md) 
-- [Villa_di_Salo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Villa_di_Salo.protect.md) 
-- [Villa_di_Salo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Villa_di_Salo.private.md) 
-- [Villa_di_Salo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Villa_di_Salo.personal.md) 
-- [Villa_di_Salo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Villa_di_Salo.secret.md) 

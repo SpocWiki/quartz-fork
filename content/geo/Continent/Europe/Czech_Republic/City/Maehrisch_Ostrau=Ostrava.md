@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maehrisch_Ostrau=Ostrava](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.md) 
-- [Maehrisch_Ostrau=Ostrava.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.internal.md) 
-- [Maehrisch_Ostrau=Ostrava.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.protect.md) 
-- [Maehrisch_Ostrau=Ostrava.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.private.md) 
-- [Maehrisch_Ostrau=Ostrava.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.personal.md) 
-- [Maehrisch_Ostrau=Ostrava.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.secret.md) 

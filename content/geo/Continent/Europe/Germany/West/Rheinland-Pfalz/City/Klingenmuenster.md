@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klingenmuenster](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.md) 
-- [Klingenmuenster.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.internal.md) 
-- [Klingenmuenster.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.protect.md) 
-- [Klingenmuenster.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.private.md) 
-- [Klingenmuenster.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.personal.md) 
-- [Klingenmuenster.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Klingenmuenster.secret.md) 

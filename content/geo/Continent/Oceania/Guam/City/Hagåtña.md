@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hagåtña](../../../../../../_public/geo/Continent/Oceania/Guam/City/Hag%C3%A5t%C3%B1a.md) 
-- [Hagåtña.internal](../../../../../../_internal/geo/Continent/Oceania/Guam/City/Hag%C3%A5t%C3%B1a.internal.md) 
-- [Hagåtña.protect](../../../../../../_protect/geo/Continent/Oceania/Guam/City/Hag%C3%A5t%C3%B1a.protect.md) 
-- [Hagåtña.private](../../../../../../_private/geo/Continent/Oceania/Guam/City/Hag%C3%A5t%C3%B1a.private.md) 
-- [Hagåtña.personal](../../../../../../_personal/geo/Continent/Oceania/Guam/City/Hag%C3%A5t%C3%B1a.personal.md) 
-- [Hagåtña.secret](../../../../../../_secret/geo/Continent/Oceania/Guam/City/Hag%C3%A5t%C3%B1a.secret.md) 

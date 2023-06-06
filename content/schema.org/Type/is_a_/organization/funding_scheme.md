@@ -47,10 +47,3 @@ A FundingScheme combines organizational, project and policy aspects of grant-bas
 
 
 
-## Confidential Links & Embeds: 
-- [funding_scheme](../../../../../_public/schema.org/Type/is_a_/organization/funding_scheme.md) 
-- [funding_scheme.internal](../../../../../_internal/schema.org/Type/is_a_/organization/funding_scheme.internal.md) 
-- [funding_scheme.protect](../../../../../_protect/schema.org/Type/is_a_/organization/funding_scheme.protect.md) 
-- [funding_scheme.private](../../../../../_private/schema.org/Type/is_a_/organization/funding_scheme.private.md) 
-- [funding_scheme.personal](../../../../../_personal/schema.org/Type/is_a_/organization/funding_scheme.personal.md) 
-- [funding_scheme.secret](../../../../../_secret/schema.org/Type/is_a_/organization/funding_scheme.secret.md) 

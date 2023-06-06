@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Schweizer_Str._Mörfelder_Ldstr.](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._M%C3%B6rfelder_Ldstr..md) 
-- [T-Schweizer_Str._Mörfelder_Ldstr..internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._M%C3%B6rfelder_Ldstr..internal.md) 
-- [T-Schweizer_Str._Mörfelder_Ldstr..protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._M%C3%B6rfelder_Ldstr..protect.md) 
-- [T-Schweizer_Str._Mörfelder_Ldstr..private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._M%C3%B6rfelder_Ldstr..private.md) 
-- [T-Schweizer_Str._Mörfelder_Ldstr..personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._M%C3%B6rfelder_Ldstr..personal.md) 
-- [T-Schweizer_Str._Mörfelder_Ldstr..secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schweizer_Str._M%C3%B6rfelder_Ldstr..secret.md) 

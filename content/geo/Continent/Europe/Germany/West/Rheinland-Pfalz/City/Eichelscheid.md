@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eichelscheid](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Eichelscheid.md) 
-- [Eichelscheid.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Eichelscheid.internal.md) 
-- [Eichelscheid.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Eichelscheid.protect.md) 
-- [Eichelscheid.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Eichelscheid.private.md) 
-- [Eichelscheid.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Eichelscheid.personal.md) 
-- [Eichelscheid.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Eichelscheid.secret.md) 

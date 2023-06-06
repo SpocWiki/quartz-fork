@@ -43,10 +43,3 @@ An infectious disease is a clinically evident human disease resulting from the p
 
 
 
-## Confidential Links & Embeds: 
-- [infectious_disease](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.md) 
-- [infectious_disease.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.internal.md) 
-- [infectious_disease.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.protect.md) 
-- [infectious_disease.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.private.md) 
-- [infectious_disease.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.personal.md) 
-- [infectious_disease.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_condition/infectious_disease.secret.md) 

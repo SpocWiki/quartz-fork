@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaskraeama](../../../../../../_public/geo/Continent/Europe/Russia/City/Vaskraeama.md) 
-- [Vaskraeama.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vaskraeama.internal.md) 
-- [Vaskraeama.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vaskraeama.protect.md) 
-- [Vaskraeama.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vaskraeama.private.md) 
-- [Vaskraeama.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vaskraeama.personal.md) 
-- [Vaskraeama.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vaskraeama.secret.md) 

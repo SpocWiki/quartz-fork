@@ -128,7 +128,7 @@ markerFolder: ./Italy/City
 
 ![350](geo/Continent/Europe/Italy/Emblem_of_Italy.svg)
 
-![Anthem-Italy](xLarge/National-Anthem/Anthem-Italy.mp3)
+[Anthem-Italy](xLarge/National-Anthem/Anthem-Italy.mp3)
 
 ![350](geo/Continent/Europe/Italy/Flag_of_Italy.svg)
 
@@ -139,10 +139,3 @@ markerFolder: ./Italy/City
 
 
 
-## Confidential Links & Embeds: 
-- [Italy](../../../../_public/geo/Continent/Europe/Italy.md) 
-- [Italy.internal](../../../../_internal/geo/Continent/Europe/Italy.internal.md) 
-- [Italy.protect](../../../../_protect/geo/Continent/Europe/Italy.protect.md) 
-- [Italy.private](../../../../_private/geo/Continent/Europe/Italy.private.md) 
-- [Italy.personal](../../../../_personal/geo/Continent/Europe/Italy.personal.md) 
-- [Italy.secret](../../../../_secret/geo/Continent/Europe/Italy.secret.md) 

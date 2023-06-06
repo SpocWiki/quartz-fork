@@ -43,10 +43,3 @@ A day spa.
 
 
 
-## Confidential Links & Embeds: 
-- [day_spa](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/day_spa.md) 
-- [day_spa.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/day_spa.internal.md) 
-- [day_spa.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/day_spa.protect.md) 
-- [day_spa.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/day_spa.private.md) 
-- [day_spa.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/day_spa.personal.md) 
-- [day_spa.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/day_spa.secret.md) 

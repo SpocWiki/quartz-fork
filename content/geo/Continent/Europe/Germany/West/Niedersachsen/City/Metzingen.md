@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Metzingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Metzingen.md) 
-- [Metzingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Metzingen.internal.md) 
-- [Metzingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Metzingen.protect.md) 
-- [Metzingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Metzingen.private.md) 
-- [Metzingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Metzingen.personal.md) 
-- [Metzingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Metzingen.secret.md) 

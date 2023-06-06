@@ -19,11 +19,3 @@ title: Lang-ta
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-ta](../../_public/lang/Lang-ta.md) 
-- [Lang-ta.internal](../../_internal/lang/Lang-ta.internal.md) 
-- [Lang-ta.protect](../../_protect/lang/Lang-ta.protect.md) 
-- [Lang-ta.private](../../_private/lang/Lang-ta.private.md) 
-- [Lang-ta.personal](../../_personal/lang/Lang-ta.personal.md) 
-- [Lang-ta.secret](../../_secret/lang/Lang-ta.secret.md)
-

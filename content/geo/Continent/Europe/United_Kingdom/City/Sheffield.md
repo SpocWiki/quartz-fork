@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sheffield](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sheffield.md) 
-- [Sheffield.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sheffield.internal.md) 
-- [Sheffield.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sheffield.protect.md) 
-- [Sheffield.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sheffield.private.md) 
-- [Sheffield.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sheffield.personal.md) 
-- [Sheffield.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sheffield.secret.md) 

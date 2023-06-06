@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Pontoon_Dock](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Pontoon_Dock.md) 
-- [Sub-Pontoon_Dock.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Pontoon_Dock.internal.md) 
-- [Sub-Pontoon_Dock.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Pontoon_Dock.protect.md) 
-- [Sub-Pontoon_Dock.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Pontoon_Dock.private.md) 
-- [Sub-Pontoon_Dock.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Pontoon_Dock.personal.md) 
-- [Sub-Pontoon_Dock.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Pontoon_Dock.secret.md) 

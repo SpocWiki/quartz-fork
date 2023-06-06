@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Angelo-Lodig](../../../../../../_public/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.md) 
-- [St.Angelo-Lodig.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.internal.md) 
-- [St.Angelo-Lodig.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.protect.md) 
-- [St.Angelo-Lodig.private](../../../../../../_private/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.private.md) 
-- [St.Angelo-Lodig.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.personal.md) 
-- [St.Angelo-Lodig.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/St.Angelo-Lodig.secret.md) 

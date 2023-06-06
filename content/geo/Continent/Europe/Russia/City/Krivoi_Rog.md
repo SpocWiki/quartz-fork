@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krivoi_Rog](../../../../../../_public/geo/Continent/Europe/Russia/City/Krivoi_Rog.md) 
-- [Krivoi_Rog.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Krivoi_Rog.internal.md) 
-- [Krivoi_Rog.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Krivoi_Rog.protect.md) 
-- [Krivoi_Rog.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Krivoi_Rog.private.md) 
-- [Krivoi_Rog.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Krivoi_Rog.personal.md) 
-- [Krivoi_Rog.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Krivoi_Rog.secret.md) 

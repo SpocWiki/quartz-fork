@@ -47,10 +47,3 @@ Represents EU Energy Efficiency Class A as defined in EU energy labeling regulat
 
 
 
-## Confidential Links & Embeds: 
-- [eu_energy_efficiency_category_a](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.md) 
-- [eu_energy_efficiency_category_a.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.internal.md) 
-- [eu_energy_efficiency_category_a.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.protect.md) 
-- [eu_energy_efficiency_category_a.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.private.md) 
-- [eu_energy_efficiency_category_a.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.personal.md) 
-- [eu_energy_efficiency_category_a.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_a.secret.md) 

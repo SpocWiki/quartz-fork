@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klintsy](../../../../../../_public/geo/Continent/Europe/Russia/City/Klintsy.md) 
-- [Klintsy.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Klintsy.internal.md) 
-- [Klintsy.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Klintsy.protect.md) 
-- [Klintsy.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Klintsy.private.md) 
-- [Klintsy.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Klintsy.personal.md) 
-- [Klintsy.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Klintsy.secret.md) 

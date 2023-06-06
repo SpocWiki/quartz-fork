@@ -45,10 +45,3 @@ Tag Instances like this:
 
 
 
-## Confidential Links & Embeds: 
-- [recommendation](../../../../../../_public/schema.org/Type/is_a_/creative_work/review/recommendation.md) 
-- [recommendation.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/recommendation.internal.md) 
-- [recommendation.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/recommendation.protect.md) 
-- [recommendation.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/review/recommendation.private.md) 
-- [recommendation.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/recommendation.personal.md) 
-- [recommendation.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/recommendation.secret.md) 

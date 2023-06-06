@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Petrosawodsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Petrosawodsk.md) 
-- [Petrosawodsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrosawodsk.internal.md) 
-- [Petrosawodsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrosawodsk.protect.md) 
-- [Petrosawodsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Petrosawodsk.private.md) 
-- [Petrosawodsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrosawodsk.personal.md) 
-- [Petrosawodsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrosawodsk.secret.md) 

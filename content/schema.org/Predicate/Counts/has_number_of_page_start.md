@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_page_start](../../../../_public/schema.org/Predicate/Counts/has_number_of_page_start.md) 
-- [has_number_of_page_start.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_page_start.internal.md) 
-- [has_number_of_page_start.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_page_start.protect.md) 
-- [has_number_of_page_start.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_page_start.private.md) 
-- [has_number_of_page_start.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_page_start.personal.md) 
-- [has_number_of_page_start.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_page_start.secret.md) 

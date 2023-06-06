@@ -43,10 +43,3 @@ Web page type: About page.
 
 
 
-## Confidential Links & Embeds: 
-- [about_page](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/about_page.md) 
-- [about_page.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/about_page.internal.md) 
-- [about_page.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/about_page.protect.md) 
-- [about_page.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/about_page.private.md) 
-- [about_page.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/about_page.personal.md) 
-- [about_page.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/about_page.secret.md) 

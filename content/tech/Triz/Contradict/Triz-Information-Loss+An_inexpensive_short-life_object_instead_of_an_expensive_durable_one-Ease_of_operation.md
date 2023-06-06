@@ -19,10 +19,3 @@ title: Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expe
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation](../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.md) 
-- [Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.internal.md) 
-- [Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.protect.md) 
-- [Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.private](../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.private.md) 
-- [Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.personal.md) 
-- [Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Ease_of_operation.secret.md) 

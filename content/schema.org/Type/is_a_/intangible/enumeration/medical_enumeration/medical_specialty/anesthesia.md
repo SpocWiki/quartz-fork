@@ -45,10 +45,3 @@ A specific branch of medical science that pertains to study of anesthetics and t
 
 
 
-## Confidential Links & Embeds: 
-- [anesthesia](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.md) 
-- [anesthesia.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.internal.md) 
-- [anesthesia.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.protect.md) 
-- [anesthesia.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.private.md) 
-- [anesthesia.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.personal.md) 
-- [anesthesia.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.secret.md) 

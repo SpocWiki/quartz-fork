@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dehrn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Dehrn.md) 
-- [Dehrn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dehrn.internal.md) 
-- [Dehrn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dehrn.protect.md) 
-- [Dehrn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dehrn.private.md) 
-- [Dehrn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Dehrn.personal.md) 
-- [Dehrn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Dehrn.secret.md) 

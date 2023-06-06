@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bockendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockendorf.md) 
-- [Bockendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockendorf.internal.md) 
-- [Bockendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockendorf.protect.md) 
-- [Bockendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockendorf.private.md) 
-- [Bockendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockendorf.personal.md) 
-- [Bockendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bockendorf.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wiesbaden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.md) 
-- [Wiesbaden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.internal.md) 
-- [Wiesbaden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.protect.md) 
-- [Wiesbaden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.private.md) 
-- [Wiesbaden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.personal.md) 
-- [Wiesbaden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wiesbaden.secret.md) 

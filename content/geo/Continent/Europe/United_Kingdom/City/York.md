@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [York](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/York.md) 
-- [York.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/York.internal.md) 
-- [York.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/York.protect.md) 
-- [York.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/York.private.md) 
-- [York.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/York.personal.md) 
-- [York.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/York.secret.md) 

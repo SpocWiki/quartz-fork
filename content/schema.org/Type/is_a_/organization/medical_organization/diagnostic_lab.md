@@ -43,10 +43,3 @@ A medical laboratory that offers on-site or off-site diagnostic services.
 
 
 
-## Confidential Links & Embeds: 
-- [diagnostic_lab](../../../../../../_public/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.md) 
-- [diagnostic_lab.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.internal.md) 
-- [diagnostic_lab.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.protect.md) 
-- [diagnostic_lab.private](../../../../../../_private/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.private.md) 
-- [diagnostic_lab.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.personal.md) 
-- [diagnostic_lab.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.secret.md) 

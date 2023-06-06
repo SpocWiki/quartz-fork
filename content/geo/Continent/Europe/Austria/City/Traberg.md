@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Traberg](../../../../../../_public/geo/Continent/Europe/Austria/City/Traberg.md) 
-- [Traberg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Traberg.internal.md) 
-- [Traberg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Traberg.protect.md) 
-- [Traberg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Traberg.private.md) 
-- [Traberg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Traberg.personal.md) 
-- [Traberg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Traberg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kotzenau](../../../../../../_public/geo/Continent/Europe/Poland/City/Kotzenau.md) 
-- [Kotzenau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kotzenau.internal.md) 
-- [Kotzenau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kotzenau.protect.md) 
-- [Kotzenau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kotzenau.private.md) 
-- [Kotzenau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kotzenau.personal.md) 
-- [Kotzenau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kotzenau.secret.md) 

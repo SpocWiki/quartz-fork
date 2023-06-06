@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Mechanical_vibration-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Mechanical_vibration-Intensity](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Intensity.md) 
-- [Triz-stationary_Area+Mechanical_vibration-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Intensity.internal.md) 
-- [Triz-stationary_Area+Mechanical_vibration-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Intensity.protect.md) 
-- [Triz-stationary_Area+Mechanical_vibration-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Intensity.private.md) 
-- [Triz-stationary_Area+Mechanical_vibration-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Intensity.personal.md) 
-- [Triz-stationary_Area+Mechanical_vibration-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Mechanical_vibration-Intensity.secret.md) 

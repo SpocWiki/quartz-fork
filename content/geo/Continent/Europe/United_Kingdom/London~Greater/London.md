@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [London](../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/London.md) 
-- [London.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/London.internal.md) 
-- [London.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/London.protect.md) 
-- [London.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/London.private.md) 
-- [London.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/London.personal.md) 
-- [London.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/London.secret.md) 

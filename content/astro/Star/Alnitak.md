@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alnitak](../../../_public/astro/Star/Alnitak.md) 
-- [Alnitak.internal](../../../_internal/astro/Star/Alnitak.internal.md) 
-- [Alnitak.protect](../../../_protect/astro/Star/Alnitak.protect.md) 
-- [Alnitak.private](../../../_private/astro/Star/Alnitak.private.md) 
-- [Alnitak.personal](../../../_personal/astro/Star/Alnitak.personal.md) 
-- [Alnitak.secret](../../../_secret/astro/Star/Alnitak.secret.md)
-

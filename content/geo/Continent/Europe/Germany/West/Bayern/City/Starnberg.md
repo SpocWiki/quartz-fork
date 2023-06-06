@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Starnberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Starnberg.md) 
-- [Starnberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Starnberg.internal.md) 
-- [Starnberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Starnberg.protect.md) 
-- [Starnberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Starnberg.private.md) 
-- [Starnberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Starnberg.personal.md) 
-- [Starnberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Starnberg.secret.md) 

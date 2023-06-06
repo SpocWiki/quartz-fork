@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neumarkt~Oberpfalz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.md) 
-- [Neumarkt~Oberpfalz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.internal.md) 
-- [Neumarkt~Oberpfalz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.protect.md) 
-- [Neumarkt~Oberpfalz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.private.md) 
-- [Neumarkt~Oberpfalz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.personal.md) 
-- [Neumarkt~Oberpfalz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.secret.md) 

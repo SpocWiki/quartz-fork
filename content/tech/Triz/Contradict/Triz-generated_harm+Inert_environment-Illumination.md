@@ -19,10 +19,3 @@ title: Triz-generated_harm+Inert_environment-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Inert_environment-Illumination](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.md) 
-- [Triz-generated_harm+Inert_environment-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.internal.md) 
-- [Triz-generated_harm+Inert_environment-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.protect.md) 
-- [Triz-generated_harm+Inert_environment-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.private.md) 
-- [Triz-generated_harm+Inert_environment-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.personal.md) 
-- [Triz-generated_harm+Inert_environment-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Inert_environment-Illumination.secret.md) 

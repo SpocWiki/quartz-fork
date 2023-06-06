@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuenlande](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.md) 
-- [Neuenlande.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.internal.md) 
-- [Neuenlande.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.protect.md) 
-- [Neuenlande.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.private.md) 
-- [Neuenlande.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.personal.md) 
-- [Neuenlande.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenlande.secret.md) 

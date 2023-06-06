@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirkcaldy](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.md) 
-- [Kirkcaldy.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.internal.md) 
-- [Kirkcaldy.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.protect.md) 
-- [Kirkcaldy.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.private.md) 
-- [Kirkcaldy.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.personal.md) 
-- [Kirkcaldy.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkcaldy.secret.md) 

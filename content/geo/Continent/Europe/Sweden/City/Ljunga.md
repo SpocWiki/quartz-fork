@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ljunga](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ljunga.md) 
-- [Ljunga.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ljunga.internal.md) 
-- [Ljunga.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ljunga.protect.md) 
-- [Ljunga.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ljunga.private.md) 
-- [Ljunga.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ljunga.personal.md) 
-- [Ljunga.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ljunga.secret.md) 

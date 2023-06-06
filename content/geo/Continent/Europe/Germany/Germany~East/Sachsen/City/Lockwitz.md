@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lockwitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lockwitz.md) 
-- [Lockwitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lockwitz.internal.md) 
-- [Lockwitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lockwitz.protect.md) 
-- [Lockwitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lockwitz.private.md) 
-- [Lockwitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lockwitz.personal.md) 
-- [Lockwitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lockwitz.secret.md) 

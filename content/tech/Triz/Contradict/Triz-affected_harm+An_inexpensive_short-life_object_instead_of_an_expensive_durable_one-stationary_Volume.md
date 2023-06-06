@@ -19,10 +19,3 @@ title: Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensi
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.md) 
-- [Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.internal.md) 
-- [Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.protect.md) 
-- [Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.private.md) 
-- [Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.personal.md) 
-- [Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-stationary_Volume.secret.md) 

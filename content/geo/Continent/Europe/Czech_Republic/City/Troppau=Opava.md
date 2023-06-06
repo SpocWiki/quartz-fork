@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Troppau=Opava](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.md) 
-- [Troppau=Opava.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.internal.md) 
-- [Troppau=Opava.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.protect.md) 
-- [Troppau=Opava.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.private.md) 
-- [Troppau=Opava.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.personal.md) 
-- [Troppau=Opava.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.secret.md) 

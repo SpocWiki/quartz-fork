@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Boise](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.md) 
-- [Boise.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.internal.md) 
-- [Boise.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.protect.md) 
-- [Boise.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.private.md) 
-- [Boise.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.personal.md) 
-- [Boise.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Idaho/City/Boise.secret.md) 

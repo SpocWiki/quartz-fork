@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rotherham](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Rotherham.md) 
-- [Rotherham.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Rotherham.internal.md) 
-- [Rotherham.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Rotherham.protect.md) 
-- [Rotherham.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Rotherham.private.md) 
-- [Rotherham.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Rotherham.personal.md) 
-- [Rotherham.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Rotherham.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Templin](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Templin.md) 
-- [Templin.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Templin.internal.md) 
-- [Templin.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Templin.protect.md) 
-- [Templin.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Templin.private.md) 
-- [Templin.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Templin.personal.md) 
-- [Templin.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Templin.secret.md) 

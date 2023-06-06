@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schladming](../../../../../../_public/geo/Continent/Europe/Austria/City/Schladming.md) 
-- [Schladming.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Schladming.internal.md) 
-- [Schladming.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Schladming.protect.md) 
-- [Schladming.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Schladming.private.md) 
-- [Schladming.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Schladming.personal.md) 
-- [Schladming.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Schladming.secret.md) 

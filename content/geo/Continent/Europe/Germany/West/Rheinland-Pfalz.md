@@ -32,10 +32,3 @@ markerFolder: ./Rheinland-Pfalz/City
 
 
 
-## Confidential Links & Embeds: 
-- [Rheinland-Pfalz](../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.md) 
-- [Rheinland-Pfalz.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.internal.md) 
-- [Rheinland-Pfalz.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.protect.md) 
-- [Rheinland-Pfalz.private](../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.private.md) 
-- [Rheinland-Pfalz.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.personal.md) 
-- [Rheinland-Pfalz.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz.secret.md) 

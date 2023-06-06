@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peterswald](../../../../../../_public/geo/Continent/Europe/Italy/City/Peterswald.md) 
-- [Peterswald.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Peterswald.internal.md) 
-- [Peterswald.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Peterswald.protect.md) 
-- [Peterswald.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Peterswald.private.md) 
-- [Peterswald.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Peterswald.personal.md) 
-- [Peterswald.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Peterswald.secret.md) 

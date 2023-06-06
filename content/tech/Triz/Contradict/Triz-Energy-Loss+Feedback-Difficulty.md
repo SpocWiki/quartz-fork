@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Feedback-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Feedback-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.md) 
-- [Triz-Energy-Loss+Feedback-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.internal.md) 
-- [Triz-Energy-Loss+Feedback-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.protect.md) 
-- [Triz-Energy-Loss+Feedback-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.private.md) 
-- [Triz-Energy-Loss+Feedback-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.personal.md) 
-- [Triz-Energy-Loss+Feedback-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Feedback-Difficulty.secret.md) 

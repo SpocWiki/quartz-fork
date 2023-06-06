@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lunéville](../../../../../../_public/geo/Continent/Europe/France/City/Lun%C3%A9ville.md) 
-- [Lunéville.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lun%C3%A9ville.internal.md) 
-- [Lunéville.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lun%C3%A9ville.protect.md) 
-- [Lunéville.private](../../../../../../_private/geo/Continent/Europe/France/City/Lun%C3%A9ville.private.md) 
-- [Lunéville.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lun%C3%A9ville.personal.md) 
-- [Lunéville.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lun%C3%A9ville.secret.md) 

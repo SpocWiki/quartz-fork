@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Electra](../../../_public/astro/Star/Electra.md) 
-- [Electra.internal](../../../_internal/astro/Star/Electra.internal.md) 
-- [Electra.protect](../../../_protect/astro/Star/Electra.protect.md) 
-- [Electra.private](../../../_private/astro/Star/Electra.private.md) 
-- [Electra.personal](../../../_personal/astro/Star/Electra.personal.md) 
-- [Electra.secret](../../../_secret/astro/Star/Electra.secret.md)
-

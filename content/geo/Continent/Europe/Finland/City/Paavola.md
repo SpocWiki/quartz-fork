@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Paavola](../../../../../../_public/geo/Continent/Europe/Finland/City/Paavola.md) 
-- [Paavola.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Paavola.internal.md) 
-- [Paavola.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Paavola.protect.md) 
-- [Paavola.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Paavola.private.md) 
-- [Paavola.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Paavola.personal.md) 
-- [Paavola.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Paavola.secret.md) 

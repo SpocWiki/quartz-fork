@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaschischkend=Mikojan](../../../../../../_public/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.md) 
-- [Kaschischkend=Mikojan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.internal.md) 
-- [Kaschischkend=Mikojan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.protect.md) 
-- [Kaschischkend=Mikojan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.private.md) 
-- [Kaschischkend=Mikojan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.personal.md) 
-- [Kaschischkend=Mikojan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaschischkend=Mikojan.secret.md) 

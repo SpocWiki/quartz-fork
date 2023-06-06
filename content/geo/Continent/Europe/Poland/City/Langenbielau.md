@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langenbielau](../../../../../../_public/geo/Continent/Europe/Poland/City/Langenbielau.md) 
-- [Langenbielau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Langenbielau.internal.md) 
-- [Langenbielau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Langenbielau.protect.md) 
-- [Langenbielau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Langenbielau.private.md) 
-- [Langenbielau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Langenbielau.personal.md) 
-- [Langenbielau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Langenbielau.secret.md) 

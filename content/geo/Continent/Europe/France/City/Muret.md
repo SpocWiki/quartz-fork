@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muret](../../../../../../_public/geo/Continent/Europe/France/City/Muret.md) 
-- [Muret.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Muret.internal.md) 
-- [Muret.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Muret.protect.md) 
-- [Muret.private](../../../../../../_private/geo/Continent/Europe/France/City/Muret.private.md) 
-- [Muret.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Muret.personal.md) 
-- [Muret.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Muret.secret.md) 

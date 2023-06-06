@@ -19,10 +19,3 @@ title: Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-In
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.md) 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.internal.md) 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.protect.md) 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.private.md) 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.personal.md) 
-- [Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Transformation_of_physical_and_chemical_states_of_an_object-Intensity.secret.md) 

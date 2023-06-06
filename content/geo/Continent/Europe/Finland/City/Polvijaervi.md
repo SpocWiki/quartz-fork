@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Polvijaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Polvijaervi.md) 
-- [Polvijaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Polvijaervi.internal.md) 
-- [Polvijaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Polvijaervi.protect.md) 
-- [Polvijaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Polvijaervi.private.md) 
-- [Polvijaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Polvijaervi.personal.md) 
-- [Polvijaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Polvijaervi.secret.md) 

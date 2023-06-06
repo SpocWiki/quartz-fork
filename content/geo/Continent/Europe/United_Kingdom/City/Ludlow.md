@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ludlow](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ludlow.md) 
-- [Ludlow.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ludlow.internal.md) 
-- [Ludlow.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ludlow.protect.md) 
-- [Ludlow.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ludlow.private.md) 
-- [Ludlow.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ludlow.personal.md) 
-- [Ludlow.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ludlow.secret.md) 

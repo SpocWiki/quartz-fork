@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sherborne](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sherborne.md) 
-- [Sherborne.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sherborne.internal.md) 
-- [Sherborne.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sherborne.protect.md) 
-- [Sherborne.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sherborne.private.md) 
-- [Sherborne.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sherborne.personal.md) 
-- [Sherborne.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sherborne.secret.md) 

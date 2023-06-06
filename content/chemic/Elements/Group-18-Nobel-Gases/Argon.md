@@ -39,10 +39,3 @@ title: Argon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Argon)
 
-## Confidential Links & Embeds: 
-- [Argon](../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Argon.md) 
-- [Argon.internal](../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Argon.internal.md) 
-- [Argon.protect](../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Argon.protect.md) 
-- [Argon.private](../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Argon.private.md) 
-- [Argon.personal](../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Argon.personal.md) 
-- [Argon.secret](../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Argon.secret.md) 

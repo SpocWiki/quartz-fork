@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beuthen_Oberschlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Beuthen_Oberschlesien.md) 
-- [Beuthen_Oberschlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Beuthen_Oberschlesien.internal.md) 
-- [Beuthen_Oberschlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Beuthen_Oberschlesien.protect.md) 
-- [Beuthen_Oberschlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Beuthen_Oberschlesien.private.md) 
-- [Beuthen_Oberschlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Beuthen_Oberschlesien.personal.md) 
-- [Beuthen_Oberschlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Beuthen_Oberschlesien.secret.md) 

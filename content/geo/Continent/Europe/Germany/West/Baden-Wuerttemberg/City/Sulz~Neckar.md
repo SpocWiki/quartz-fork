@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sulz~Neckar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulz~Neckar.md) 
-- [Sulz~Neckar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulz~Neckar.internal.md) 
-- [Sulz~Neckar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulz~Neckar.protect.md) 
-- [Sulz~Neckar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulz~Neckar.private.md) 
-- [Sulz~Neckar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulz~Neckar.personal.md) 
-- [Sulz~Neckar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulz~Neckar.secret.md) 

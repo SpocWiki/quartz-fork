@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amata](../../../../../../_public/geo/Continent/Europe/Russia/City/Amata.md) 
-- [Amata.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Amata.internal.md) 
-- [Amata.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Amata.protect.md) 
-- [Amata.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Amata.private.md) 
-- [Amata.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Amata.personal.md) 
-- [Amata.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Amata.secret.md) 

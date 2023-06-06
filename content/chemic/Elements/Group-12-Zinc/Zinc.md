@@ -40,10 +40,3 @@ SpocWebEntityId: 21928
 
 
 
-## Confidential Links & Embeds: 
-- [Zinc](../../../../_public/chemic/Elements/Group-12-Zinc/Zinc.md) 
-- [Zinc.internal](../../../../_internal/chemic/Elements/Group-12-Zinc/Zinc.internal.md) 
-- [Zinc.protect](../../../../_protect/chemic/Elements/Group-12-Zinc/Zinc.protect.md) 
-- [Zinc.private](../../../../_private/chemic/Elements/Group-12-Zinc/Zinc.private.md) 
-- [Zinc.personal](../../../../_personal/chemic/Elements/Group-12-Zinc/Zinc.personal.md) 
-- [Zinc.secret](../../../../_secret/chemic/Elements/Group-12-Zinc/Zinc.secret.md) 

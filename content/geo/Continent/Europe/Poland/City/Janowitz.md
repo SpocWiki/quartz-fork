@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Janowitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Janowitz.md) 
-- [Janowitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Janowitz.internal.md) 
-- [Janowitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Janowitz.protect.md) 
-- [Janowitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Janowitz.private.md) 
-- [Janowitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Janowitz.personal.md) 
-- [Janowitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Janowitz.secret.md) 

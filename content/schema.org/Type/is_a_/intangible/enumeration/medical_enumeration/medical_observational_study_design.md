@@ -41,10 +41,3 @@ Design models for observational medical studies. Enumerated type.
 
 
 
-## Confidential Links & Embeds: 
-- [medical_observational_study_design](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.md) 
-- [medical_observational_study_design.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.internal.md) 
-- [medical_observational_study_design.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.protect.md) 
-- [medical_observational_study_design.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.private.md) 
-- [medical_observational_study_design.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.personal.md) 
-- [medical_observational_study_design.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.secret.md) 

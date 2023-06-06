@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwante](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwante.md) 
-- [Schwante.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwante.internal.md) 
-- [Schwante.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwante.protect.md) 
-- [Schwante.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwante.private.md) 
-- [Schwante.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwante.personal.md) 
-- [Schwante.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwante.secret.md) 

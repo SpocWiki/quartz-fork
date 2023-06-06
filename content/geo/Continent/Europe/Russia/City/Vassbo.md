@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vassbo](../../../../../../_public/geo/Continent/Europe/Russia/City/Vassbo.md) 
-- [Vassbo.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vassbo.internal.md) 
-- [Vassbo.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vassbo.protect.md) 
-- [Vassbo.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vassbo.private.md) 
-- [Vassbo.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vassbo.personal.md) 
-- [Vassbo.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vassbo.secret.md) 

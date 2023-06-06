@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Zosma](../../../_public/astro/Star/Zosma.md) 
-- [Zosma.internal](../../../_internal/astro/Star/Zosma.internal.md) 
-- [Zosma.protect](../../../_protect/astro/Star/Zosma.protect.md) 
-- [Zosma.private](../../../_private/astro/Star/Zosma.private.md) 
-- [Zosma.personal](../../../_personal/astro/Star/Zosma.personal.md) 
-- [Zosma.secret](../../../_secret/astro/Star/Zosma.secret.md) 

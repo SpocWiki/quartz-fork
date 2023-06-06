@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muehlheim~Main](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Muehlheim~Main.md) 
-- [Muehlheim~Main.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Muehlheim~Main.internal.md) 
-- [Muehlheim~Main.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Muehlheim~Main.protect.md) 
-- [Muehlheim~Main.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Muehlheim~Main.private.md) 
-- [Muehlheim~Main.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Muehlheim~Main.personal.md) 
-- [Muehlheim~Main.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Muehlheim~Main.secret.md) 

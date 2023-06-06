@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kankaapaeae](../../../../../../_public/geo/Continent/Europe/Finland/City/Kankaapaeae.md) 
-- [Kankaapaeae.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kankaapaeae.internal.md) 
-- [Kankaapaeae.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kankaapaeae.protect.md) 
-- [Kankaapaeae.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kankaapaeae.private.md) 
-- [Kankaapaeae.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kankaapaeae.personal.md) 
-- [Kankaapaeae.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kankaapaeae.secret.md) 

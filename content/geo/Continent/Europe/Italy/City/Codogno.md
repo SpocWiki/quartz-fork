@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Codogno](../../../../../../_public/geo/Continent/Europe/Italy/City/Codogno.md) 
-- [Codogno.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Codogno.internal.md) 
-- [Codogno.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Codogno.protect.md) 
-- [Codogno.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Codogno.private.md) 
-- [Codogno.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Codogno.personal.md) 
-- [Codogno.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Codogno.secret.md) 

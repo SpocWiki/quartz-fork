@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berchtesgaden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.md) 
-- [Berchtesgaden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.internal.md) 
-- [Berchtesgaden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.protect.md) 
-- [Berchtesgaden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.private.md) 
-- [Berchtesgaden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.personal.md) 
-- [Berchtesgaden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Berchtesgaden.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Balaklava](../../../../../../_public/geo/Continent/Europe/Russia/City/Balaklava.md) 
-- [Balaklava.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Balaklava.internal.md) 
-- [Balaklava.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Balaklava.protect.md) 
-- [Balaklava.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Balaklava.private.md) 
-- [Balaklava.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Balaklava.personal.md) 
-- [Balaklava.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Balaklava.secret.md) 

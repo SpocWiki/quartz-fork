@@ -19,10 +19,3 @@ title: Triz-Versatility+Continuity_of_useful_action-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Continuity_of_useful_action-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Continuity_of_useful_action-Intensity.md) 
-- [Triz-Versatility+Continuity_of_useful_action-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Continuity_of_useful_action-Intensity.internal.md) 
-- [Triz-Versatility+Continuity_of_useful_action-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Continuity_of_useful_action-Intensity.protect.md) 
-- [Triz-Versatility+Continuity_of_useful_action-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Continuity_of_useful_action-Intensity.private.md) 
-- [Triz-Versatility+Continuity_of_useful_action-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Continuity_of_useful_action-Intensity.personal.md) 
-- [Triz-Versatility+Continuity_of_useful_action-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Continuity_of_useful_action-Intensity.secret.md) 

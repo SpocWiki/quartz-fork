@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Anadyr](../../../../../../_public/geo/Continent/Europe/Russia/City/Anadyr.md) 
-- [Anadyr.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Anadyr.internal.md) 
-- [Anadyr.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Anadyr.protect.md) 
-- [Anadyr.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Anadyr.private.md) 
-- [Anadyr.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Anadyr.personal.md) 
-- [Anadyr.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Anadyr.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_e
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.md) 
-- [Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.internal.md) 
-- [Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.protect.md) 
-- [Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.private.md) 
-- [Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.personal.md) 
-- [Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Shape.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marsow](../../../../../../_public/geo/Continent/Europe/Poland/City/Marsow.md) 
-- [Marsow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Marsow.internal.md) 
-- [Marsow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Marsow.protect.md) 
-- [Marsow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Marsow.private.md) 
-- [Marsow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Marsow.personal.md) 
-- [Marsow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Marsow.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kenimekh](../../../../../../_public/geo/Continent/Europe/Russia/City/Kenimekh.md) 
-- [Kenimekh.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kenimekh.internal.md) 
-- [Kenimekh.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kenimekh.protect.md) 
-- [Kenimekh.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kenimekh.private.md) 
-- [Kenimekh.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kenimekh.personal.md) 
-- [Kenimekh.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kenimekh.secret.md) 

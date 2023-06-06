@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Rüsselsheim_Opelwerk](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim_Opelwerk.md) 
-- [S-Rüsselsheim_Opelwerk.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim_Opelwerk.internal.md) 
-- [S-Rüsselsheim_Opelwerk.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim_Opelwerk.protect.md) 
-- [S-Rüsselsheim_Opelwerk.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim_Opelwerk.private.md) 
-- [S-Rüsselsheim_Opelwerk.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim_Opelwerk.personal.md) 
-- [S-Rüsselsheim_Opelwerk.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%BCsselsheim_Opelwerk.secret.md) 

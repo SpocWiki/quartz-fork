@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cambuslang](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cambuslang.md) 
-- [Cambuslang.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cambuslang.internal.md) 
-- [Cambuslang.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cambuslang.protect.md) 
-- [Cambuslang.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cambuslang.private.md) 
-- [Cambuslang.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cambuslang.personal.md) 
-- [Cambuslang.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cambuslang.secret.md) 

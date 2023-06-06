@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yellowknife](../../../../../../_public/geo/Continent/North-America/Canada/City/Yellowknife.md) 
-- [Yellowknife.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Yellowknife.internal.md) 
-- [Yellowknife.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Yellowknife.protect.md) 
-- [Yellowknife.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Yellowknife.private.md) 
-- [Yellowknife.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Yellowknife.personal.md) 
-- [Yellowknife.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Yellowknife.secret.md) 

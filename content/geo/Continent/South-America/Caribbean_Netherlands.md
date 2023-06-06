@@ -121,7 +121,7 @@ markerFolder: ./Caribbean_Netherlands/City
 [Continent::South-America]
 [VehicleCode::NA]
 ![350](Coat_of_arms_of_Netherlands-antilles.svg)
-![Anthem-Netherlands-antilles](xLarge/National-Anthem/Anthem-Netherlands-antilles.mp3)
+[Anthem-Netherlands-antilles](xLarge/National-Anthem/Anthem-Netherlands-antilles.mp3)
 ![350](Flag_of_Netherlands-antilles.svg)
 [Capital-Id::]
 [Alcohol-l::]
@@ -131,10 +131,3 @@ markerFolder: ./Caribbean_Netherlands/City
 
 
 
-## Confidential Links & Embeds: 
-- [Caribbean_Netherlands](../../../../_public/geo/Continent/South-America/Caribbean_Netherlands.md) 
-- [Caribbean_Netherlands.internal](../../../../_internal/geo/Continent/South-America/Caribbean_Netherlands.internal.md) 
-- [Caribbean_Netherlands.protect](../../../../_protect/geo/Continent/South-America/Caribbean_Netherlands.protect.md) 
-- [Caribbean_Netherlands.private](../../../../_private/geo/Continent/South-America/Caribbean_Netherlands.private.md) 
-- [Caribbean_Netherlands.personal](../../../../_personal/geo/Continent/South-America/Caribbean_Netherlands.personal.md) 
-- [Caribbean_Netherlands.secret](../../../../_secret/geo/Continent/South-America/Caribbean_Netherlands.secret.md) 

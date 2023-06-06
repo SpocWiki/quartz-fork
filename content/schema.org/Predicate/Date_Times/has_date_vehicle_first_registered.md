@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_date_vehicle_first_registered](../../../../_public/schema.org/Predicate/Date_Times/has_date_vehicle_first_registered.md) 
-- [has_date_vehicle_first_registered.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_date_vehicle_first_registered.internal.md) 
-- [has_date_vehicle_first_registered.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_date_vehicle_first_registered.protect.md) 
-- [has_date_vehicle_first_registered.private](../../../../_private/schema.org/Predicate/Date_Times/has_date_vehicle_first_registered.private.md) 
-- [has_date_vehicle_first_registered.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_date_vehicle_first_registered.personal.md) 
-- [has_date_vehicle_first_registered.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_date_vehicle_first_registered.secret.md) 

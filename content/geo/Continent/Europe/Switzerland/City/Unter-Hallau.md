@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Unter-Hallau](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Unter-Hallau.md) 
-- [Unter-Hallau.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Unter-Hallau.internal.md) 
-- [Unter-Hallau.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Unter-Hallau.protect.md) 
-- [Unter-Hallau.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Unter-Hallau.private.md) 
-- [Unter-Hallau.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Unter-Hallau.personal.md) 
-- [Unter-Hallau.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Unter-Hallau.secret.md) 

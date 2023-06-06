@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dili](../../../../../../_public/geo/Continent/Oceania/Timor-Leste/City/Dili.md) 
-- [Dili.internal](../../../../../../_internal/geo/Continent/Oceania/Timor-Leste/City/Dili.internal.md) 
-- [Dili.protect](../../../../../../_protect/geo/Continent/Oceania/Timor-Leste/City/Dili.protect.md) 
-- [Dili.private](../../../../../../_private/geo/Continent/Oceania/Timor-Leste/City/Dili.private.md) 
-- [Dili.personal](../../../../../../_personal/geo/Continent/Oceania/Timor-Leste/City/Dili.personal.md) 
-- [Dili.secret](../../../../../../_secret/geo/Continent/Oceania/Timor-Leste/City/Dili.secret.md) 

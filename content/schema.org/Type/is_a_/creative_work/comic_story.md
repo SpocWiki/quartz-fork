@@ -49,10 +49,3 @@ The term "story" is any indivisible, re-printable
 
 
 
-## Confidential Links & Embeds: 
-- [comic_story](../../../../../_public/schema.org/Type/is_a_/creative_work/comic_story.md) 
-- [comic_story.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/comic_story.internal.md) 
-- [comic_story.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/comic_story.protect.md) 
-- [comic_story.private](../../../../../_private/schema.org/Type/is_a_/creative_work/comic_story.private.md) 
-- [comic_story.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/comic_story.personal.md) 
-- [comic_story.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/comic_story.secret.md) 

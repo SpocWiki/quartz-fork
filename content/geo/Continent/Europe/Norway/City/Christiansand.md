@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Christiansand](../../../../../../_public/geo/Continent/Europe/Norway/City/Christiansand.md) 
-- [Christiansand.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Christiansand.internal.md) 
-- [Christiansand.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Christiansand.protect.md) 
-- [Christiansand.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Christiansand.private.md) 
-- [Christiansand.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Christiansand.personal.md) 
-- [Christiansand.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Christiansand.secret.md) 

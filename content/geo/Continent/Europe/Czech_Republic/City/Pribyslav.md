@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pribyslav](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pribyslav.md) 
-- [Pribyslav.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pribyslav.internal.md) 
-- [Pribyslav.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pribyslav.protect.md) 
-- [Pribyslav.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pribyslav.private.md) 
-- [Pribyslav.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pribyslav.personal.md) 
-- [Pribyslav.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pribyslav.secret.md) 

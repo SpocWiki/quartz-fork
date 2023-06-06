@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muehlhausen~Thuerungen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muehlhausen~Thuerungen.md) 
-- [Muehlhausen~Thuerungen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muehlhausen~Thuerungen.internal.md) 
-- [Muehlhausen~Thuerungen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muehlhausen~Thuerungen.protect.md) 
-- [Muehlhausen~Thuerungen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muehlhausen~Thuerungen.private.md) 
-- [Muehlhausen~Thuerungen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muehlhausen~Thuerungen.personal.md) 
-- [Muehlhausen~Thuerungen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muehlhausen~Thuerungen.secret.md) 

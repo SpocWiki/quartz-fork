@@ -43,10 +43,3 @@ An image of a visual machine-readable code such as a barcode or QR code.
 
 
 
-## Confidential Links & Embeds: 
-- [barcode](../../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.md) 
-- [barcode.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.internal.md) 
-- [barcode.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.protect.md) 
-- [barcode.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.private.md) 
-- [barcode.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.personal.md) 
-- [barcode.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.secret.md) 

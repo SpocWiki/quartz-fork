@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seeshaupt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.md) 
-- [Seeshaupt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.internal.md) 
-- [Seeshaupt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.protect.md) 
-- [Seeshaupt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.private.md) 
-- [Seeshaupt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.personal.md) 
-- [Seeshaupt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Seeshaupt.secret.md) 

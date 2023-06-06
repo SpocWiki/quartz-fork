@@ -19,10 +19,3 @@ title: Triz-Stress+Phase_transition-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Phase_transition-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.md) 
-- [Triz-Stress+Phase_transition-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.internal.md) 
-- [Triz-Stress+Phase_transition-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.protect.md) 
-- [Triz-Stress+Phase_transition-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.private.md) 
-- [Triz-Stress+Phase_transition-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.personal.md) 
-- [Triz-Stress+Phase_transition-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Phase_transition-Energy-Loss.secret.md) 

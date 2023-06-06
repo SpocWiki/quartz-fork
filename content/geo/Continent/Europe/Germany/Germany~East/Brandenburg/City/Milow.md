@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Milow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Milow.md) 
-- [Milow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Milow.internal.md) 
-- [Milow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Milow.protect.md) 
-- [Milow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Milow.private.md) 
-- [Milow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Milow.personal.md) 
-- [Milow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Milow.secret.md) 

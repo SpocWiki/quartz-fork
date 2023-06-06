@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oelandsmandde](../../../../../../_public/geo/Continent/Europe/Sweden/City/Oelandsmandde.md) 
-- [Oelandsmandde.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oelandsmandde.internal.md) 
-- [Oelandsmandde.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oelandsmandde.protect.md) 
-- [Oelandsmandde.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Oelandsmandde.private.md) 
-- [Oelandsmandde.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oelandsmandde.personal.md) 
-- [Oelandsmandde.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oelandsmandde.secret.md) 

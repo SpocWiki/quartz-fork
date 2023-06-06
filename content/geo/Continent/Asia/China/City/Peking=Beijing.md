@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peking=Beijing](../../../../../../_public/geo/Continent/Asia/China/City/Peking=Beijing.md) 
-- [Peking=Beijing.internal](../../../../../../_internal/geo/Continent/Asia/China/City/Peking=Beijing.internal.md) 
-- [Peking=Beijing.protect](../../../../../../_protect/geo/Continent/Asia/China/City/Peking=Beijing.protect.md) 
-- [Peking=Beijing.private](../../../../../../_private/geo/Continent/Asia/China/City/Peking=Beijing.private.md) 
-- [Peking=Beijing.personal](../../../../../../_personal/geo/Continent/Asia/China/City/Peking=Beijing.personal.md) 
-- [Peking=Beijing.secret](../../../../../../_secret/geo/Continent/Asia/China/City/Peking=Beijing.secret.md) 

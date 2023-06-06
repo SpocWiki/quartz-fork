@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mariager](../../../../../../_public/geo/Continent/Europe/Denmark/City/Mariager.md) 
-- [Mariager.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Mariager.internal.md) 
-- [Mariager.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Mariager.protect.md) 
-- [Mariager.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Mariager.private.md) 
-- [Mariager.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Mariager.personal.md) 
-- [Mariager.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Mariager.secret.md) 

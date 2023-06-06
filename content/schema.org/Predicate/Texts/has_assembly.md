@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_assembly](../../../../_public/schema.org/Predicate/Texts/has_assembly.md) 
-- [has_assembly.internal](../../../../_internal/schema.org/Predicate/Texts/has_assembly.internal.md) 
-- [has_assembly.protect](../../../../_protect/schema.org/Predicate/Texts/has_assembly.protect.md) 
-- [has_assembly.private](../../../../_private/schema.org/Predicate/Texts/has_assembly.private.md) 
-- [has_assembly.personal](../../../../_personal/schema.org/Predicate/Texts/has_assembly.personal.md) 
-- [has_assembly.secret](../../../../_secret/schema.org/Predicate/Texts/has_assembly.secret.md) 

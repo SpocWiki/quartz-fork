@@ -19,10 +19,3 @@ title: Triz-Strength+Changing_the_color-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Changing_the_color-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.md) 
-- [Triz-Strength+Changing_the_color-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.internal.md) 
-- [Triz-Strength+Changing_the_color-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.protect.md) 
-- [Triz-Strength+Changing_the_color-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.private.md) 
-- [Triz-Strength+Changing_the_color-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.personal.md) 
-- [Triz-Strength+Changing_the_color-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Changing_the_color-Versatility.secret.md) 

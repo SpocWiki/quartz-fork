@@ -18,10 +18,3 @@ title: Triz-fractal-surface
 If an object is already porous, use the pores to introduce a useful substance or function. Fractal Structures like Pores have an infinite reactive Surface! 
 
 
-## Confidential Links & Embeds: 
-- [Triz-fractal-surface](../../../../_public/tech/Triz/Sub/Triz-fractal-surface.md) 
-- [Triz-fractal-surface.internal](../../../../_internal/tech/Triz/Sub/Triz-fractal-surface.internal.md) 
-- [Triz-fractal-surface.protect](../../../../_protect/tech/Triz/Sub/Triz-fractal-surface.protect.md) 
-- [Triz-fractal-surface.private](../../../../_private/tech/Triz/Sub/Triz-fractal-surface.private.md) 
-- [Triz-fractal-surface.personal](../../../../_personal/tech/Triz/Sub/Triz-fractal-surface.personal.md) 
-- [Triz-fractal-surface.secret](../../../../_secret/tech/Triz/Sub/Triz-fractal-surface.secret.md) 

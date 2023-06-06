@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sucre](../../../../../../_public/geo/Continent/South-America/Bolivia/City/Sucre.md) 
-- [Sucre.internal](../../../../../../_internal/geo/Continent/South-America/Bolivia/City/Sucre.internal.md) 
-- [Sucre.protect](../../../../../../_protect/geo/Continent/South-America/Bolivia/City/Sucre.protect.md) 
-- [Sucre.private](../../../../../../_private/geo/Continent/South-America/Bolivia/City/Sucre.private.md) 
-- [Sucre.personal](../../../../../../_personal/geo/Continent/South-America/Bolivia/City/Sucre.personal.md) 
-- [Sucre.secret](../../../../../../_secret/geo/Continent/South-America/Bolivia/City/Sucre.secret.md) 

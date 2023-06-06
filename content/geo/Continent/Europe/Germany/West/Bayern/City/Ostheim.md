@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ostheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ostheim.md) 
-- [Ostheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ostheim.internal.md) 
-- [Ostheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ostheim.protect.md) 
-- [Ostheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ostheim.private.md) 
-- [Ostheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ostheim.personal.md) 
-- [Ostheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ostheim.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sées](../../../../../../_public/geo/Continent/Europe/France/City/S%C3%A9es.md) 
-- [Sées.internal](../../../../../../_internal/geo/Continent/Europe/France/City/S%C3%A9es.internal.md) 
-- [Sées.protect](../../../../../../_protect/geo/Continent/Europe/France/City/S%C3%A9es.protect.md) 
-- [Sées.private](../../../../../../_private/geo/Continent/Europe/France/City/S%C3%A9es.private.md) 
-- [Sées.personal](../../../../../../_personal/geo/Continent/Europe/France/City/S%C3%A9es.personal.md) 
-- [Sées.secret](../../../../../../_secret/geo/Continent/Europe/France/City/S%C3%A9es.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Scunthorpe](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.md) 
-- [Scunthorpe.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.internal.md) 
-- [Scunthorpe.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.protect.md) 
-- [Scunthorpe.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.private.md) 
-- [Scunthorpe.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.personal.md) 
-- [Scunthorpe.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Scunthorpe.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Difficulty+Thermal_expansion-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Thermal_expansion-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Thermal_expansion-Complexity.md) 
-- [Triz-Difficulty+Thermal_expansion-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Thermal_expansion-Complexity.internal.md) 
-- [Triz-Difficulty+Thermal_expansion-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Thermal_expansion-Complexity.protect.md) 
-- [Triz-Difficulty+Thermal_expansion-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Thermal_expansion-Complexity.private.md) 
-- [Triz-Difficulty+Thermal_expansion-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Thermal_expansion-Complexity.personal.md) 
-- [Triz-Difficulty+Thermal_expansion-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Thermal_expansion-Complexity.secret.md) 

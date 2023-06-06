@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Linares](../../../../../../_public/geo/Continent/Europe/Spain/City/Linares.md) 
-- [Linares.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Linares.internal.md) 
-- [Linares.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Linares.protect.md) 
-- [Linares.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Linares.private.md) 
-- [Linares.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Linares.personal.md) 
-- [Linares.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Linares.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirovsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Kirovsk.md) 
-- [Kirovsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirovsk.internal.md) 
-- [Kirovsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirovsk.protect.md) 
-- [Kirovsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kirovsk.private.md) 
-- [Kirovsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirovsk.personal.md) 
-- [Kirovsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirovsk.secret.md) 

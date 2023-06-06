@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siena](../../../../../../_public/geo/Continent/Europe/Italy/City/Siena.md) 
-- [Siena.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Siena.internal.md) 
-- [Siena.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Siena.protect.md) 
-- [Siena.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Siena.private.md) 
-- [Siena.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Siena.personal.md) 
-- [Siena.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Siena.secret.md) 

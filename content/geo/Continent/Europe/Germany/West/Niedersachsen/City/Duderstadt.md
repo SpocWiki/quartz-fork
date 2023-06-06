@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Duderstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duderstadt.md) 
-- [Duderstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duderstadt.internal.md) 
-- [Duderstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duderstadt.protect.md) 
-- [Duderstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duderstadt.private.md) 
-- [Duderstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duderstadt.personal.md) 
-- [Duderstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Duderstadt.secret.md) 

@@ -41,10 +41,3 @@ The kind of release which this album is: single, EP or album.
 
 
 
-## Confidential Links & Embeds: 
-- [music_album_release_type](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type.md) 
-- [music_album_release_type.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type.internal.md) 
-- [music_album_release_type.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type.protect.md) 
-- [music_album_release_type.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type.private.md) 
-- [music_album_release_type.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type.personal.md) 
-- [music_album_release_type.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type.secret.md) 

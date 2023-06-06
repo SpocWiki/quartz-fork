@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vienne](../../../../../../_public/geo/Continent/Europe/France/City/Vienne.md) 
-- [Vienne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vienne.internal.md) 
-- [Vienne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vienne.protect.md) 
-- [Vienne.private](../../../../../../_private/geo/Continent/Europe/France/City/Vienne.private.md) 
-- [Vienne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vienne.personal.md) 
-- [Vienne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vienne.secret.md) 

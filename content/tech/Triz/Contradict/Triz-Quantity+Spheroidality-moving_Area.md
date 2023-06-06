@@ -19,10 +19,3 @@ title: Triz-Quantity+Spheroidality-moving_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Spheroidality-moving_Area](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Area.md) 
-- [Triz-Quantity+Spheroidality-moving_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Area.internal.md) 
-- [Triz-Quantity+Spheroidality-moving_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Area.protect.md) 
-- [Triz-Quantity+Spheroidality-moving_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Area.private.md) 
-- [Triz-Quantity+Spheroidality-moving_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Area.personal.md) 
-- [Triz-Quantity+Spheroidality-moving_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Spheroidality-moving_Area.secret.md) 

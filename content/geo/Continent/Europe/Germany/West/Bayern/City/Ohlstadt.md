@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ohlstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ohlstadt.md) 
-- [Ohlstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ohlstadt.internal.md) 
-- [Ohlstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ohlstadt.protect.md) 
-- [Ohlstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ohlstadt.private.md) 
-- [Ohlstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ohlstadt.personal.md) 
-- [Ohlstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ohlstadt.secret.md) 

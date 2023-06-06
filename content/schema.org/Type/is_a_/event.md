@@ -47,10 +47,3 @@ An event happening at a certain time and location, such as a concert, lecture, o
 
 
 
-## Confidential Links & Embeds: 
-- [event](../../../../_public/schema.org/Type/is_a_/event.md) 
-- [event.internal](../../../../_internal/schema.org/Type/is_a_/event.internal.md) 
-- [event.protect](../../../../_protect/schema.org/Type/is_a_/event.protect.md) 
-- [event.private](../../../../_private/schema.org/Type/is_a_/event.private.md) 
-- [event.personal](../../../../_personal/schema.org/Type/is_a_/event.personal.md) 
-- [event.secret](../../../../_secret/schema.org/Type/is_a_/event.secret.md) 

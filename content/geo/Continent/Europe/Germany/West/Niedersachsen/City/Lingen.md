@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lingen.md) 
-- [Lingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lingen.internal.md) 
-- [Lingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lingen.protect.md) 
-- [Lingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lingen.private.md) 
-- [Lingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lingen.personal.md) 
-- [Lingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lingen.secret.md) 

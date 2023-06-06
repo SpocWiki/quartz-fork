@@ -45,10 +45,3 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 
 
 
-## Confidential Links & Embeds: 
-- [physical_activity](../../../../../../_public/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.md) 
-- [physical_activity.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.internal.md) 
-- [physical_activity.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.protect.md) 
-- [physical_activity.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.private.md) 
-- [physical_activity.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.personal.md) 
-- [physical_activity.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.secret.md) 

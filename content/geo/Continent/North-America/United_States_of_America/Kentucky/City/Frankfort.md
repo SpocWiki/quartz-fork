@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frankfort](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.md) 
-- [Frankfort.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.internal.md) 
-- [Frankfort.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.protect.md) 
-- [Frankfort.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.private.md) 
-- [Frankfort.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.personal.md) 
-- [Frankfort.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kentucky/City/Frankfort.secret.md) 

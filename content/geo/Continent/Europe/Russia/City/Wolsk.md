@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Wolsk.md) 
-- [Wolsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Wolsk.internal.md) 
-- [Wolsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Wolsk.protect.md) 
-- [Wolsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Wolsk.private.md) 
-- [Wolsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Wolsk.personal.md) 
-- [Wolsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Wolsk.secret.md) 

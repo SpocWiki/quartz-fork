@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuerstenfeld](../../../../../../_public/geo/Continent/Europe/Austria/City/Fuerstenfeld.md) 
-- [Fuerstenfeld.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Fuerstenfeld.internal.md) 
-- [Fuerstenfeld.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Fuerstenfeld.protect.md) 
-- [Fuerstenfeld.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Fuerstenfeld.private.md) 
-- [Fuerstenfeld.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Fuerstenfeld.personal.md) 
-- [Fuerstenfeld.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Fuerstenfeld.secret.md) 

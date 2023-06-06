@@ -19,10 +19,3 @@ title: Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.md) 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.internal.md) 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.protect.md) 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.private.md) 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.personal.md) 
-- [Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Replacement_of_a_mechanical_system-stationary_Weight.secret.md) 

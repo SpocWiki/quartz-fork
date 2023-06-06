@@ -45,10 +45,3 @@ A work of art that is primarily visual in character.
 
 
 
-## Confidential Links & Embeds: 
-- [visual_artwork](../../../../../_public/schema.org/Type/is_a_/creative_work/visual_artwork.md) 
-- [visual_artwork.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/visual_artwork.internal.md) 
-- [visual_artwork.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/visual_artwork.protect.md) 
-- [visual_artwork.private](../../../../../_private/schema.org/Type/is_a_/creative_work/visual_artwork.private.md) 
-- [visual_artwork.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/visual_artwork.personal.md) 
-- [visual_artwork.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/visual_artwork.secret.md) 

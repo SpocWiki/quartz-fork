@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwelin](../../../../../../_public/geo/Continent/Europe/Poland/City/Schwelin.md) 
-- [Schwelin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwelin.internal.md) 
-- [Schwelin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwelin.protect.md) 
-- [Schwelin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schwelin.private.md) 
-- [Schwelin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwelin.personal.md) 
-- [Schwelin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwelin.secret.md) 

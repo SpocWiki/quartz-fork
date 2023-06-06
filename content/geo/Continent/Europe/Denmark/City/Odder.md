@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Odder](../../../../../../_public/geo/Continent/Europe/Denmark/City/Odder.md) 
-- [Odder.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Odder.internal.md) 
-- [Odder.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Odder.protect.md) 
-- [Odder.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Odder.private.md) 
-- [Odder.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Odder.personal.md) 
-- [Odder.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Odder.secret.md) 

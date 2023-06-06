@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aralsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Aralsk.md) 
-- [Aralsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Aralsk.internal.md) 
-- [Aralsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Aralsk.protect.md) 
-- [Aralsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Aralsk.private.md) 
-- [Aralsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Aralsk.personal.md) 
-- [Aralsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Aralsk.secret.md) 

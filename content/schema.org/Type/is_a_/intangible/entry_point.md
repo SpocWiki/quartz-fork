@@ -43,10 +43,3 @@ An entry point, within some Web-based protocol.
 
 
 
-## Confidential Links & Embeds: 
-- [entry_point](../../../../../_public/schema.org/Type/is_a_/intangible/entry_point.md) 
-- [entry_point.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/entry_point.internal.md) 
-- [entry_point.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/entry_point.protect.md) 
-- [entry_point.private](../../../../../_private/schema.org/Type/is_a_/intangible/entry_point.private.md) 
-- [entry_point.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/entry_point.personal.md) 
-- [entry_point.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/entry_point.secret.md) 

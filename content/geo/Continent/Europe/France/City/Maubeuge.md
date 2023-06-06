@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maubeuge](../../../../../../_public/geo/Continent/Europe/France/City/Maubeuge.md) 
-- [Maubeuge.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Maubeuge.internal.md) 
-- [Maubeuge.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Maubeuge.protect.md) 
-- [Maubeuge.private](../../../../../../_private/geo/Continent/Europe/France/City/Maubeuge.private.md) 
-- [Maubeuge.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Maubeuge.personal.md) 
-- [Maubeuge.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Maubeuge.secret.md) 

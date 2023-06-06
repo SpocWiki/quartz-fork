@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Extraction-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Extraction-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Energy-Loss.md) 
-- [Triz-Substance-Loss+Extraction-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Energy-Loss.internal.md) 
-- [Triz-Substance-Loss+Extraction-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Energy-Loss.protect.md) 
-- [Triz-Substance-Loss+Extraction-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Energy-Loss.private.md) 
-- [Triz-Substance-Loss+Extraction-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Energy-Loss.personal.md) 
-- [Triz-Substance-Loss+Extraction-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Energy-Loss.secret.md) 

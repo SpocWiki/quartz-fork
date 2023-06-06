@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jaun_Jelgava](../../../../../../_public/geo/Continent/Europe/Russia/City/Jaun_Jelgava.md) 
-- [Jaun_Jelgava.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jaun_Jelgava.internal.md) 
-- [Jaun_Jelgava.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jaun_Jelgava.protect.md) 
-- [Jaun_Jelgava.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jaun_Jelgava.private.md) 
-- [Jaun_Jelgava.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jaun_Jelgava.personal.md) 
-- [Jaun_Jelgava.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jaun_Jelgava.secret.md) 

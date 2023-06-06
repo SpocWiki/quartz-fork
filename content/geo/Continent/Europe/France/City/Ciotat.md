@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ciotat](../../../../../../_public/geo/Continent/Europe/France/City/Ciotat.md) 
-- [Ciotat.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Ciotat.internal.md) 
-- [Ciotat.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Ciotat.protect.md) 
-- [Ciotat.private](../../../../../../_private/geo/Continent/Europe/France/City/Ciotat.private.md) 
-- [Ciotat.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Ciotat.personal.md) 
-- [Ciotat.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Ciotat.secret.md) 

@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_iata_code](../../../../_public/schema.org/Predicate/Texts/has_iata_code.md) 
-- [has_iata_code.internal](../../../../_internal/schema.org/Predicate/Texts/has_iata_code.internal.md) 
-- [has_iata_code.protect](../../../../_protect/schema.org/Predicate/Texts/has_iata_code.protect.md) 
-- [has_iata_code.private](../../../../_private/schema.org/Predicate/Texts/has_iata_code.private.md) 
-- [has_iata_code.personal](../../../../_personal/schema.org/Predicate/Texts/has_iata_code.personal.md) 
-- [has_iata_code.secret](../../../../_secret/schema.org/Predicate/Texts/has_iata_code.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tylicz](../../../../../../_public/geo/Continent/Europe/Poland/City/Tylicz.md) 
-- [Tylicz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Tylicz.internal.md) 
-- [Tylicz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Tylicz.protect.md) 
-- [Tylicz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Tylicz.private.md) 
-- [Tylicz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Tylicz.personal.md) 
-- [Tylicz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Tylicz.secret.md) 

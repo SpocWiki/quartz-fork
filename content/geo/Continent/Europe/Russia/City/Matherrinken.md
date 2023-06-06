@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Matherrinken](../../../../../../_public/geo/Continent/Europe/Russia/City/Matherrinken.md) 
-- [Matherrinken.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Matherrinken.internal.md) 
-- [Matherrinken.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Matherrinken.protect.md) 
-- [Matherrinken.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Matherrinken.private.md) 
-- [Matherrinken.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Matherrinken.personal.md) 
-- [Matherrinken.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Matherrinken.secret.md) 

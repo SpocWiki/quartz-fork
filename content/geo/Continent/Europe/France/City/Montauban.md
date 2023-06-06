@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montauban](../../../../../../_public/geo/Continent/Europe/France/City/Montauban.md) 
-- [Montauban.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Montauban.internal.md) 
-- [Montauban.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Montauban.protect.md) 
-- [Montauban.private](../../../../../../_private/geo/Continent/Europe/France/City/Montauban.private.md) 
-- [Montauban.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Montauban.personal.md) 
-- [Montauban.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Montauban.secret.md) 

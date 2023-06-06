@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Olbernhau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Olbernhau.md) 
-- [Olbernhau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Olbernhau.internal.md) 
-- [Olbernhau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Olbernhau.protect.md) 
-- [Olbernhau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Olbernhau.private.md) 
-- [Olbernhau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Olbernhau.personal.md) 
-- [Olbernhau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Olbernhau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dolina](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Dolina.md) 
-- [Dolina.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Dolina.internal.md) 
-- [Dolina.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Dolina.protect.md) 
-- [Dolina.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Dolina.private.md) 
-- [Dolina.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Dolina.personal.md) 
-- [Dolina.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Dolina.secret.md) 

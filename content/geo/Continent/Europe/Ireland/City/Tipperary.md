@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tipperary](../../../../../../_public/geo/Continent/Europe/Ireland/City/Tipperary.md) 
-- [Tipperary.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tipperary.internal.md) 
-- [Tipperary.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tipperary.protect.md) 
-- [Tipperary.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Tipperary.private.md) 
-- [Tipperary.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tipperary.personal.md) 
-- [Tipperary.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tipperary.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mekka=Makkah=Mecca](../../../../../../_public/geo/Continent/Asia/Saudi_Arabia/City/Mekka=Makkah=Mecca.md) 
-- [Mekka=Makkah=Mecca.internal](../../../../../../_internal/geo/Continent/Asia/Saudi_Arabia/City/Mekka=Makkah=Mecca.internal.md) 
-- [Mekka=Makkah=Mecca.protect](../../../../../../_protect/geo/Continent/Asia/Saudi_Arabia/City/Mekka=Makkah=Mecca.protect.md) 
-- [Mekka=Makkah=Mecca.private](../../../../../../_private/geo/Continent/Asia/Saudi_Arabia/City/Mekka=Makkah=Mecca.private.md) 
-- [Mekka=Makkah=Mecca.personal](../../../../../../_personal/geo/Continent/Asia/Saudi_Arabia/City/Mekka=Makkah=Mecca.personal.md) 
-- [Mekka=Makkah=Mecca.secret](../../../../../../_secret/geo/Continent/Asia/Saudi_Arabia/City/Mekka=Makkah=Mecca.secret.md) 

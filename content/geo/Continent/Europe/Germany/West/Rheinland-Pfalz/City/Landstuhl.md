@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landstuhl](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landstuhl.md) 
-- [Landstuhl.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landstuhl.internal.md) 
-- [Landstuhl.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landstuhl.protect.md) 
-- [Landstuhl.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landstuhl.private.md) 
-- [Landstuhl.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landstuhl.personal.md) 
-- [Landstuhl.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Landstuhl.secret.md) 

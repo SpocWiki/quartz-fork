@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valenciennes](../../../../../../_public/geo/Continent/Europe/France/City/Valenciennes.md) 
-- [Valenciennes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Valenciennes.internal.md) 
-- [Valenciennes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Valenciennes.protect.md) 
-- [Valenciennes.private](../../../../../../_private/geo/Continent/Europe/France/City/Valenciennes.private.md) 
-- [Valenciennes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Valenciennes.personal.md) 
-- [Valenciennes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Valenciennes.secret.md) 

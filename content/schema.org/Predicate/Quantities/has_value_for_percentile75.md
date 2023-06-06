@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_percentile75](../../../../_public/schema.org/Predicate/Quantities/has_value_for_percentile75.md) 
-- [has_value_for_percentile75.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_percentile75.internal.md) 
-- [has_value_for_percentile75.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_percentile75.protect.md) 
-- [has_value_for_percentile75.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_percentile75.private.md) 
-- [has_value_for_percentile75.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_percentile75.personal.md) 
-- [has_value_for_percentile75.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_percentile75.secret.md) 

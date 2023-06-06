@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwiebus](../../../../../../_public/geo/Continent/Europe/Poland/City/Schwiebus.md) 
-- [Schwiebus.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwiebus.internal.md) 
-- [Schwiebus.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwiebus.protect.md) 
-- [Schwiebus.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schwiebus.private.md) 
-- [Schwiebus.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwiebus.personal.md) 
-- [Schwiebus.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwiebus.secret.md) 

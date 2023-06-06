@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Herzfelde](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Herzfelde.md) 
-- [Herzfelde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Herzfelde.internal.md) 
-- [Herzfelde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Herzfelde.protect.md) 
-- [Herzfelde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Herzfelde.private.md) 
-- [Herzfelde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Herzfelde.personal.md) 
-- [Herzfelde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Herzfelde.secret.md) 

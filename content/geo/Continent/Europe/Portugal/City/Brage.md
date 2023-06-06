@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brage](../../../../../../_public/geo/Continent/Europe/Portugal/City/Brage.md) 
-- [Brage.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Brage.internal.md) 
-- [Brage.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Brage.protect.md) 
-- [Brage.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Brage.private.md) 
-- [Brage.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Brage.personal.md) 
-- [Brage.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Brage.secret.md) 

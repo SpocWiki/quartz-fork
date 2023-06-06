@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zola_Predosa](../../../../../../_public/geo/Continent/Europe/Italy/City/Zola_Predosa.md) 
-- [Zola_Predosa.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Zola_Predosa.internal.md) 
-- [Zola_Predosa.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Zola_Predosa.protect.md) 
-- [Zola_Predosa.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Zola_Predosa.private.md) 
-- [Zola_Predosa.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Zola_Predosa.personal.md) 
-- [Zola_Predosa.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Zola_Predosa.secret.md) 

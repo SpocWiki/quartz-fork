@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muehlen~Oldenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.md) 
-- [Muehlen~Oldenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.internal.md) 
-- [Muehlen~Oldenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.protect.md) 
-- [Muehlen~Oldenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.private.md) 
-- [Muehlen~Oldenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.personal.md) 
-- [Muehlen~Oldenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muehlen~Oldenburg.secret.md) 

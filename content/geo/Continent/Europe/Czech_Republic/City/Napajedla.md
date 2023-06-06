@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Napajedla](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Napajedla.md) 
-- [Napajedla.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Napajedla.internal.md) 
-- [Napajedla.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Napajedla.protect.md) 
-- [Napajedla.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Napajedla.private.md) 
-- [Napajedla.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Napajedla.personal.md) 
-- [Napajedla.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Napajedla.secret.md) 

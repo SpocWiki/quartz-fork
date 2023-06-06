@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lecce](../../../../../../_public/geo/Continent/Europe/Italy/City/Lecce.md) 
-- [Lecce.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Lecce.internal.md) 
-- [Lecce.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Lecce.protect.md) 
-- [Lecce.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Lecce.private.md) 
-- [Lecce.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Lecce.personal.md) 
-- [Lecce.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Lecce.secret.md) 

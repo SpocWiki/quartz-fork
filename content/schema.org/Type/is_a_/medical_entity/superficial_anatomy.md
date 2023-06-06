@@ -43,10 +43,3 @@ Anatomical features that can be observed by sight (without dissection), includin
 
 
 
-## Confidential Links & Embeds: 
-- [superficial_anatomy](../../../../../_public/schema.org/Type/is_a_/medical_entity/superficial_anatomy.md) 
-- [superficial_anatomy.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/superficial_anatomy.internal.md) 
-- [superficial_anatomy.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/superficial_anatomy.protect.md) 
-- [superficial_anatomy.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/superficial_anatomy.private.md) 
-- [superficial_anatomy.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/superficial_anatomy.personal.md) 
-- [superficial_anatomy.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/superficial_anatomy.secret.md) 

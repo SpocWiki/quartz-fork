@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Victoria](../../../../../../_public/geo/Continent/Africa/Seychelles/City/Victoria.md) 
-- [Victoria.internal](../../../../../../_internal/geo/Continent/Africa/Seychelles/City/Victoria.internal.md) 
-- [Victoria.protect](../../../../../../_protect/geo/Continent/Africa/Seychelles/City/Victoria.protect.md) 
-- [Victoria.private](../../../../../../_private/geo/Continent/Africa/Seychelles/City/Victoria.private.md) 
-- [Victoria.personal](../../../../../../_personal/geo/Continent/Africa/Seychelles/City/Victoria.personal.md) 
-- [Victoria.secret](../../../../../../_secret/geo/Continent/Africa/Seychelles/City/Victoria.secret.md) 

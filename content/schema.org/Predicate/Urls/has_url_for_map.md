@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_url_for_map](../../../../_public/schema.org/Predicate/Urls/has_url_for_map.md) 
-- [has_url_for_map.internal](../../../../_internal/schema.org/Predicate/Urls/has_url_for_map.internal.md) 
-- [has_url_for_map.protect](../../../../_protect/schema.org/Predicate/Urls/has_url_for_map.protect.md) 
-- [has_url_for_map.private](../../../../_private/schema.org/Predicate/Urls/has_url_for_map.private.md) 
-- [has_url_for_map.personal](../../../../_personal/schema.org/Predicate/Urls/has_url_for_map.personal.md) 
-- [has_url_for_map.secret](../../../../_secret/schema.org/Predicate/Urls/has_url_for_map.secret.md) 

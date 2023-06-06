@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Novgorod_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Novgorod_Oblast.md) 
-- [State-Novgorod_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Novgorod_Oblast.internal.md) 
-- [State-Novgorod_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Novgorod_Oblast.protect.md) 
-- [State-Novgorod_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Novgorod_Oblast.private.md) 
-- [State-Novgorod_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Novgorod_Oblast.personal.md) 
-- [State-Novgorod_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Novgorod_Oblast.secret.md) 

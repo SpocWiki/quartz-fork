@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pembroke](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Pembroke.md) 
-- [Pembroke.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Pembroke.internal.md) 
-- [Pembroke.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Pembroke.protect.md) 
-- [Pembroke.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Pembroke.private.md) 
-- [Pembroke.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Pembroke.personal.md) 
-- [Pembroke.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Pembroke.secret.md) 

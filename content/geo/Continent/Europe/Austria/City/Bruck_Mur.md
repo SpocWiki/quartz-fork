@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bruck_Mur](../../../../../../_public/geo/Continent/Europe/Austria/City/Bruck_Mur.md) 
-- [Bruck_Mur.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Bruck_Mur.internal.md) 
-- [Bruck_Mur.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Bruck_Mur.protect.md) 
-- [Bruck_Mur.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Bruck_Mur.private.md) 
-- [Bruck_Mur.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Bruck_Mur.personal.md) 
-- [Bruck_Mur.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Bruck_Mur.secret.md) 

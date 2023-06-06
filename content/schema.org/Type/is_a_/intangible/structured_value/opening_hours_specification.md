@@ -47,10 +47,3 @@ If the value for the <a class="localLink" href="/closes">closes</a> property is 
 
 
 
-## Confidential Links & Embeds: 
-- [opening_hours_specification](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.md) 
-- [opening_hours_specification.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.internal.md) 
-- [opening_hours_specification.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.protect.md) 
-- [opening_hours_specification.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.private.md) 
-- [opening_hours_specification.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.personal.md) 
-- [opening_hours_specification.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.secret.md) 

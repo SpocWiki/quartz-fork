@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Tatarstan~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Tatarstan~Republic.md) 
-- [State-Tatarstan~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Tatarstan~Republic.internal.md) 
-- [State-Tatarstan~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Tatarstan~Republic.protect.md) 
-- [State-Tatarstan~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Tatarstan~Republic.private.md) 
-- [State-Tatarstan~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Tatarstan~Republic.personal.md) 
-- [State-Tatarstan~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Tatarstan~Republic.secret.md) 

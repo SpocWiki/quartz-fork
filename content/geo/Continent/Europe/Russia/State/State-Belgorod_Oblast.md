@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Belgorod_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Belgorod_Oblast.md) 
-- [State-Belgorod_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Belgorod_Oblast.internal.md) 
-- [State-Belgorod_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Belgorod_Oblast.protect.md) 
-- [State-Belgorod_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Belgorod_Oblast.private.md) 
-- [State-Belgorod_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Belgorod_Oblast.personal.md) 
-- [State-Belgorod_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Belgorod_Oblast.secret.md) 

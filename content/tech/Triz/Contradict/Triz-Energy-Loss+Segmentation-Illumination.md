@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Segmentation-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Segmentation-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.md) 
-- [Triz-Energy-Loss+Segmentation-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.internal.md) 
-- [Triz-Energy-Loss+Segmentation-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.protect.md) 
-- [Triz-Energy-Loss+Segmentation-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.private.md) 
-- [Triz-Energy-Loss+Segmentation-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.personal.md) 
-- [Triz-Energy-Loss+Segmentation-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Segmentation-Illumination.secret.md) 

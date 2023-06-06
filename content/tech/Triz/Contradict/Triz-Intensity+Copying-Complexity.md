@@ -19,10 +19,3 @@ title: Triz-Intensity+Copying-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Copying-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Copying-Complexity.md) 
-- [Triz-Intensity+Copying-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Copying-Complexity.internal.md) 
-- [Triz-Intensity+Copying-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Copying-Complexity.protect.md) 
-- [Triz-Intensity+Copying-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Copying-Complexity.private.md) 
-- [Triz-Intensity+Copying-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Copying-Complexity.personal.md) 
-- [Triz-Intensity+Copying-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Copying-Complexity.secret.md) 

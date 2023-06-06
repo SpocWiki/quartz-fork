@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stavanger](../../../../../../_public/geo/Continent/Europe/Norway/City/Stavanger.md) 
-- [Stavanger.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Stavanger.internal.md) 
-- [Stavanger.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Stavanger.protect.md) 
-- [Stavanger.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Stavanger.private.md) 
-- [Stavanger.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Stavanger.personal.md) 
-- [Stavanger.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Stavanger.secret.md) 

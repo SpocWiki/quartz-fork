@@ -45,10 +45,3 @@ A <a class="localLink" href="/NewsArticle">NewsArticle</a> and <a class="localLi
 
 
 
-## Confidential Links & Embeds: 
-- [review_news_article](../../../../../../../_public/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.md) 
-- [review_news_article.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.internal.md) 
-- [review_news_article.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.protect.md) 
-- [review_news_article.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.private.md) 
-- [review_news_article.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.personal.md) 
-- [review_news_article.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.secret.md) 

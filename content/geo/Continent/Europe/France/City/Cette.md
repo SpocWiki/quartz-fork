@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cette](../../../../../../_public/geo/Continent/Europe/France/City/Cette.md) 
-- [Cette.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Cette.internal.md) 
-- [Cette.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Cette.protect.md) 
-- [Cette.private](../../../../../../_private/geo/Continent/Europe/France/City/Cette.private.md) 
-- [Cette.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Cette.personal.md) 
-- [Cette.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Cette.secret.md) 

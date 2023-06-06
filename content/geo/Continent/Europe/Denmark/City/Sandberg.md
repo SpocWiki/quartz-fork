@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sandberg](../../../../../../_public/geo/Continent/Europe/Denmark/City/Sandberg.md) 
-- [Sandberg.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Sandberg.internal.md) 
-- [Sandberg.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Sandberg.protect.md) 
-- [Sandberg.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Sandberg.private.md) 
-- [Sandberg.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Sandberg.personal.md) 
-- [Sandberg.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Sandberg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ober-Glogau](../../../../../../_public/geo/Continent/Europe/Poland/City/Ober-Glogau.md) 
-- [Ober-Glogau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ober-Glogau.internal.md) 
-- [Ober-Glogau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ober-Glogau.protect.md) 
-- [Ober-Glogau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ober-Glogau.private.md) 
-- [Ober-Glogau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ober-Glogau.personal.md) 
-- [Ober-Glogau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ober-Glogau.secret.md) 

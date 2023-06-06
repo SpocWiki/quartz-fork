@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reppen](../../../../../../_public/geo/Continent/Europe/Poland/City/Reppen.md) 
-- [Reppen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Reppen.internal.md) 
-- [Reppen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Reppen.protect.md) 
-- [Reppen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Reppen.private.md) 
-- [Reppen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Reppen.personal.md) 
-- [Reppen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Reppen.secret.md) 

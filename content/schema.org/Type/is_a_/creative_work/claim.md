@@ -49,10 +49,3 @@ At this time, Schema.org does not define any types of relationship between claim
 
 
 
-## Confidential Links & Embeds: 
-- [claim](../../../../../_public/schema.org/Type/is_a_/creative_work/claim.md) 
-- [claim.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/claim.internal.md) 
-- [claim.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/claim.protect.md) 
-- [claim.private](../../../../../_private/schema.org/Type/is_a_/creative_work/claim.private.md) 
-- [claim.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/claim.personal.md) 
-- [claim.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/claim.secret.md) 

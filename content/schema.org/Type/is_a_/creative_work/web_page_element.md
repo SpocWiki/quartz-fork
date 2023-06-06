@@ -45,10 +45,3 @@ A web page element, like a table or an image.
 
 
 
-## Confidential Links & Embeds: 
-- [web_page_element](../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element.md) 
-- [web_page_element.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element.internal.md) 
-- [web_page_element.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element.protect.md) 
-- [web_page_element.private](../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element.private.md) 
-- [web_page_element.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element.personal.md) 
-- [web_page_element.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element.secret.md) 

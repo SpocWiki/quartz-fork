@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Rastaben](../../../_public/astro/Star/Rastaben.md) 
-- [Rastaben.internal](../../../_internal/astro/Star/Rastaben.internal.md) 
-- [Rastaben.protect](../../../_protect/astro/Star/Rastaben.protect.md) 
-- [Rastaben.private](../../../_private/astro/Star/Rastaben.private.md) 
-- [Rastaben.personal](../../../_personal/astro/Star/Rastaben.personal.md) 
-- [Rastaben.secret](../../../_secret/astro/Star/Rastaben.secret.md) 

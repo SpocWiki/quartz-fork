@@ -43,10 +43,3 @@ A park.
 
 
 
-## Confidential Links & Embeds: 
-- [park](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/park.md) 
-- [park.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/park.internal.md) 
-- [park.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/park.protect.md) 
-- [park.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/park.private.md) 
-- [park.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/park.personal.md) 
-- [park.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/park.secret.md) 

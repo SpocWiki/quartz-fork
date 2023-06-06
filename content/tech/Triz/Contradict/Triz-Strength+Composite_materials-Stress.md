@@ -19,10 +19,3 @@ title: Triz-Strength+Composite_materials-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Composite_materials-Stress](../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-Stress.md) 
-- [Triz-Strength+Composite_materials-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Stress.internal.md) 
-- [Triz-Strength+Composite_materials-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-Stress.protect.md) 
-- [Triz-Strength+Composite_materials-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-Stress.private.md) 
-- [Triz-Strength+Composite_materials-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Stress.personal.md) 
-- [Triz-Strength+Composite_materials-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Composite_materials-Stress.secret.md) 

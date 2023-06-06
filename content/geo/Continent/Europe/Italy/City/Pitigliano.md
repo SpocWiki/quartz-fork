@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pitigliano](../../../../../../_public/geo/Continent/Europe/Italy/City/Pitigliano.md) 
-- [Pitigliano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pitigliano.internal.md) 
-- [Pitigliano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pitigliano.protect.md) 
-- [Pitigliano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pitigliano.private.md) 
-- [Pitigliano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pitigliano.personal.md) 
-- [Pitigliano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pitigliano.secret.md) 

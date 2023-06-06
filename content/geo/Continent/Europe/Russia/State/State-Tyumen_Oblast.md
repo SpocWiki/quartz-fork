@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Tyumen_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Tyumen_Oblast.md) 
-- [State-Tyumen_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Tyumen_Oblast.internal.md) 
-- [State-Tyumen_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Tyumen_Oblast.protect.md) 
-- [State-Tyumen_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Tyumen_Oblast.private.md) 
-- [State-Tyumen_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Tyumen_Oblast.personal.md) 
-- [State-Tyumen_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Tyumen_Oblast.secret.md) 

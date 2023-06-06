@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dragebruch](../../../../../../_public/geo/Continent/Europe/Poland/City/Dragebruch.md) 
-- [Dragebruch.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Dragebruch.internal.md) 
-- [Dragebruch.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Dragebruch.protect.md) 
-- [Dragebruch.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Dragebruch.private.md) 
-- [Dragebruch.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Dragebruch.personal.md) 
-- [Dragebruch.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Dragebruch.secret.md) 

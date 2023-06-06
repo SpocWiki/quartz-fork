@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Kew_Gardens](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.md) 
-- [Sub-Kew_Gardens.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.internal.md) 
-- [Sub-Kew_Gardens.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.protect.md) 
-- [Sub-Kew_Gardens.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.private.md) 
-- [Sub-Kew_Gardens.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.personal.md) 
-- [Sub-Kew_Gardens.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kew_Gardens.secret.md) 

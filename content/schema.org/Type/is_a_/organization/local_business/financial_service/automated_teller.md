@@ -43,10 +43,3 @@ ATM/cash machine.
 
 
 
-## Confidential Links & Embeds: 
-- [automated_teller](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.md) 
-- [automated_teller.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.internal.md) 
-- [automated_teller.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.protect.md) 
-- [automated_teller.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.private.md) 
-- [automated_teller.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.personal.md) 
-- [automated_teller.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.secret.md) 

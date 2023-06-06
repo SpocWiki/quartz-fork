@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Budua](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Budua.md) 
-- [Budua.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Budua.internal.md) 
-- [Budua.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Budua.protect.md) 
-- [Budua.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Budua.private.md) 
-- [Budua.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Budua.personal.md) 
-- [Budua.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Budua.secret.md) 

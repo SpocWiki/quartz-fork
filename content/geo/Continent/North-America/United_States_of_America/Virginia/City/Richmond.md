@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Richmond](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.md) 
-- [Richmond.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.internal.md) 
-- [Richmond.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.protect.md) 
-- [Richmond.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.private.md) 
-- [Richmond.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.personal.md) 
-- [Richmond.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Virginia/City/Richmond.secret.md) 

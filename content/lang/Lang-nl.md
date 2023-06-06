@@ -19,11 +19,3 @@ title: Lang-nl
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-nl](../../_public/lang/Lang-nl.md) 
-- [Lang-nl.internal](../../_internal/lang/Lang-nl.internal.md) 
-- [Lang-nl.protect](../../_protect/lang/Lang-nl.protect.md) 
-- [Lang-nl.private](../../_private/lang/Lang-nl.private.md) 
-- [Lang-nl.personal](../../_personal/lang/Lang-nl.personal.md) 
-- [Lang-nl.secret](../../_secret/lang/Lang-nl.secret.md)
-

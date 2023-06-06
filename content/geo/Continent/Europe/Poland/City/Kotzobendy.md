@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kotzobendy](../../../../../../_public/geo/Continent/Europe/Poland/City/Kotzobendy.md) 
-- [Kotzobendy.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kotzobendy.internal.md) 
-- [Kotzobendy.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kotzobendy.protect.md) 
-- [Kotzobendy.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kotzobendy.private.md) 
-- [Kotzobendy.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kotzobendy.personal.md) 
-- [Kotzobendy.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kotzobendy.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Medenblick](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Medenblick.md) 
-- [Medenblick.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Medenblick.internal.md) 
-- [Medenblick.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Medenblick.protect.md) 
-- [Medenblick.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Medenblick.private.md) 
-- [Medenblick.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Medenblick.personal.md) 
-- [Medenblick.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Medenblick.secret.md) 

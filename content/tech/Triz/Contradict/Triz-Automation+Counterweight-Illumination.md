@@ -19,10 +19,3 @@ title: Triz-Automation+Counterweight-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Counterweight-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.md) 
-- [Triz-Automation+Counterweight-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.internal.md) 
-- [Triz-Automation+Counterweight-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.protect.md) 
-- [Triz-Automation+Counterweight-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.private.md) 
-- [Triz-Automation+Counterweight-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.personal.md) 
-- [Triz-Automation+Counterweight-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Counterweight-Illumination.secret.md) 

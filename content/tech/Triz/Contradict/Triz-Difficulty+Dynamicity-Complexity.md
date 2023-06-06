@@ -19,10 +19,3 @@ title: Triz-Difficulty+Dynamicity-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Dynamicity-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Complexity.md) 
-- [Triz-Difficulty+Dynamicity-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Complexity.internal.md) 
-- [Triz-Difficulty+Dynamicity-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Complexity.protect.md) 
-- [Triz-Difficulty+Dynamicity-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Complexity.private.md) 
-- [Triz-Difficulty+Dynamicity-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Complexity.personal.md) 
-- [Triz-Difficulty+Dynamicity-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Dynamicity-Complexity.secret.md) 

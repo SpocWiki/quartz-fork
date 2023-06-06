@@ -57,10 +57,3 @@ it may also sometimes prove useful to describe a longer-term series as an Event.
 
 
 
-## Confidential Links & Embeds: 
-- [event_series](../../../../../_public/schema.org/Type/is_a_/event/event_series.md) 
-- [event_series.internal](../../../../../_internal/schema.org/Type/is_a_/event/event_series.internal.md) 
-- [event_series.protect](../../../../../_protect/schema.org/Type/is_a_/event/event_series.protect.md) 
-- [event_series.private](../../../../../_private/schema.org/Type/is_a_/event/event_series.private.md) 
-- [event_series.personal](../../../../../_personal/schema.org/Type/is_a_/event/event_series.personal.md) 
-- [event_series.secret](../../../../../_secret/schema.org/Type/is_a_/event/event_series.secret.md) 

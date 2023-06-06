@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Croydon](../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.md) 
-- [Croydon.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.internal.md) 
-- [Croydon.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.protect.md) 
-- [Croydon.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.private.md) 
-- [Croydon.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.personal.md) 
-- [Croydon.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Croydon.secret.md) 

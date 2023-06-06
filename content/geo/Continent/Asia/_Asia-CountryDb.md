@@ -446,10 +446,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_Asia-CountryDb](../../../../_public/geo/Continent/Asia/_Asia-CountryDb.md) 
-- [_Asia-CountryDb.internal](../../../../_internal/geo/Continent/Asia/_Asia-CountryDb.internal.md) 
-- [_Asia-CountryDb.protect](../../../../_protect/geo/Continent/Asia/_Asia-CountryDb.protect.md) 
-- [_Asia-CountryDb.private](../../../../_private/geo/Continent/Asia/_Asia-CountryDb.private.md) 
-- [_Asia-CountryDb.personal](../../../../_personal/geo/Continent/Asia/_Asia-CountryDb.personal.md) 
-- [_Asia-CountryDb.secret](../../../../_secret/geo/Continent/Asia/_Asia-CountryDb.secret.md) 

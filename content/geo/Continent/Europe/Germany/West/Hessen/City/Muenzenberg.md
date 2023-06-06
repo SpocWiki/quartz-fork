@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muenzenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Muenzenberg.md) 
-- [Muenzenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Muenzenberg.internal.md) 
-- [Muenzenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Muenzenberg.protect.md) 
-- [Muenzenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Muenzenberg.private.md) 
-- [Muenzenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Muenzenberg.personal.md) 
-- [Muenzenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Muenzenberg.secret.md) 

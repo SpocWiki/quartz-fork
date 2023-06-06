@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Woltschansk](../../../../../../_public/geo/Continent/Europe/Russia/City/Woltschansk.md) 
-- [Woltschansk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Woltschansk.internal.md) 
-- [Woltschansk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Woltschansk.protect.md) 
-- [Woltschansk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Woltschansk.private.md) 
-- [Woltschansk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Woltschansk.personal.md) 
-- [Woltschansk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Woltschansk.secret.md) 

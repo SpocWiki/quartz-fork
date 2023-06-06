@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hosingen](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Hosingen.md) 
-- [Hosingen.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Hosingen.internal.md) 
-- [Hosingen.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Hosingen.protect.md) 
-- [Hosingen.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Hosingen.private.md) 
-- [Hosingen.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Hosingen.personal.md) 
-- [Hosingen.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Hosingen.secret.md) 

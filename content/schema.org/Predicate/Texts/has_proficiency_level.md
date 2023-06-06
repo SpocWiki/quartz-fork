@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_proficiency_level](../../../../_public/schema.org/Predicate/Texts/has_proficiency_level.md) 
-- [has_proficiency_level.internal](../../../../_internal/schema.org/Predicate/Texts/has_proficiency_level.internal.md) 
-- [has_proficiency_level.protect](../../../../_protect/schema.org/Predicate/Texts/has_proficiency_level.protect.md) 
-- [has_proficiency_level.private](../../../../_private/schema.org/Predicate/Texts/has_proficiency_level.private.md) 
-- [has_proficiency_level.personal](../../../../_personal/schema.org/Predicate/Texts/has_proficiency_level.personal.md) 
-- [has_proficiency_level.secret](../../../../_secret/schema.org/Predicate/Texts/has_proficiency_level.secret.md) 

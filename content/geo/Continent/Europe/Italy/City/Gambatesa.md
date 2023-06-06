@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gambatesa](../../../../../../_public/geo/Continent/Europe/Italy/City/Gambatesa.md) 
-- [Gambatesa.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Gambatesa.internal.md) 
-- [Gambatesa.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Gambatesa.protect.md) 
-- [Gambatesa.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Gambatesa.private.md) 
-- [Gambatesa.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Gambatesa.personal.md) 
-- [Gambatesa.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Gambatesa.secret.md) 

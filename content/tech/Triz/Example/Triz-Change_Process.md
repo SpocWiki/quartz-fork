@@ -17,10 +17,3 @@ title: Triz-Change_Process
 
 Change Sensitivity of an Autopilot when within 5 Miles of an Airport.
 
-## Confidential Links & Embeds: 
-- [Triz-Change_Process](../../../../_public/tech/Triz/Example/Triz-Change_Process.md) 
-- [Triz-Change_Process.internal](../../../../_internal/tech/Triz/Example/Triz-Change_Process.internal.md) 
-- [Triz-Change_Process.protect](../../../../_protect/tech/Triz/Example/Triz-Change_Process.protect.md) 
-- [Triz-Change_Process.private](../../../../_private/tech/Triz/Example/Triz-Change_Process.private.md) 
-- [Triz-Change_Process.personal](../../../../_personal/tech/Triz/Example/Triz-Change_Process.personal.md) 
-- [Triz-Change_Process.secret](../../../../_secret/tech/Triz/Example/Triz-Change_Process.secret.md) 

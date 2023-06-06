@@ -38,10 +38,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Texas](../../../../../_public/geo/Continent/North-America/United_States_of_America/Texas.md) 
-- [Texas.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas.internal.md) 
-- [Texas.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas.protect.md) 
-- [Texas.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas.private.md) 
-- [Texas.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas.personal.md) 
-- [Texas.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas.secret.md) 

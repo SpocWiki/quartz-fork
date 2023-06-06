@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kothmaissling](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.md) 
-- [Kothmaissling.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.internal.md) 
-- [Kothmaissling.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.protect.md) 
-- [Kothmaissling.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.private.md) 
-- [Kothmaissling.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.personal.md) 
-- [Kothmaissling.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Livorno](../../../../../../_public/geo/Continent/Europe/Italy/City/Livorno.md) 
-- [Livorno.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Livorno.internal.md) 
-- [Livorno.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Livorno.protect.md) 
-- [Livorno.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Livorno.private.md) 
-- [Livorno.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Livorno.personal.md) 
-- [Livorno.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Livorno.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.md) 
-- [Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.internal.md) 
-- [Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.protect.md) 
-- [Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.private.md) 
-- [Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.personal.md) 
-- [Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Use_a_pneumatic_or_hydralic_construction-Difficulty.secret.md) 

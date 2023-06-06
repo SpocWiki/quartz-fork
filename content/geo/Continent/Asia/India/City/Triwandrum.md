@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Triwandrum](../../../../../../_public/geo/Continent/Asia/India/City/Triwandrum.md) 
-- [Triwandrum.internal](../../../../../../_internal/geo/Continent/Asia/India/City/Triwandrum.internal.md) 
-- [Triwandrum.protect](../../../../../../_protect/geo/Continent/Asia/India/City/Triwandrum.protect.md) 
-- [Triwandrum.private](../../../../../../_private/geo/Continent/Asia/India/City/Triwandrum.private.md) 
-- [Triwandrum.personal](../../../../../../_personal/geo/Continent/Asia/India/City/Triwandrum.personal.md) 
-- [Triwandrum.secret](../../../../../../_secret/geo/Continent/Asia/India/City/Triwandrum.secret.md) 

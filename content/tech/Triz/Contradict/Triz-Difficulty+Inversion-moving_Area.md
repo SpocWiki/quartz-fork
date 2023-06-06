@@ -19,10 +19,3 @@ title: Triz-Difficulty+Inversion-moving_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Inversion-moving_Area](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.md) 
-- [Triz-Difficulty+Inversion-moving_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.internal.md) 
-- [Triz-Difficulty+Inversion-moving_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.protect.md) 
-- [Triz-Difficulty+Inversion-moving_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.private.md) 
-- [Triz-Difficulty+Inversion-moving_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.personal.md) 
-- [Triz-Difficulty+Inversion-moving_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Inversion-moving_Area.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vadsoe](../../../../../../_public/geo/Continent/Europe/Norway/City/Vadsoe.md) 
-- [Vadsoe.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Vadsoe.internal.md) 
-- [Vadsoe.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Vadsoe.protect.md) 
-- [Vadsoe.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Vadsoe.private.md) 
-- [Vadsoe.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Vadsoe.personal.md) 
-- [Vadsoe.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Vadsoe.secret.md) 

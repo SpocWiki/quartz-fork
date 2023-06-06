@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_cost_currency](../../../../_public/schema.org/Predicate/Texts/has_cost_currency.md) 
-- [has_cost_currency.internal](../../../../_internal/schema.org/Predicate/Texts/has_cost_currency.internal.md) 
-- [has_cost_currency.protect](../../../../_protect/schema.org/Predicate/Texts/has_cost_currency.protect.md) 
-- [has_cost_currency.private](../../../../_private/schema.org/Predicate/Texts/has_cost_currency.private.md) 
-- [has_cost_currency.personal](../../../../_personal/schema.org/Predicate/Texts/has_cost_currency.personal.md) 
-- [has_cost_currency.secret](../../../../_secret/schema.org/Predicate/Texts/has_cost_currency.secret.md) 

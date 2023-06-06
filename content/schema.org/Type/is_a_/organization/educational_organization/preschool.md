@@ -43,10 +43,3 @@ A preschool.
 
 
 
-## Confidential Links & Embeds: 
-- [preschool](../../../../../../_public/schema.org/Type/is_a_/organization/educational_organization/preschool.md) 
-- [preschool.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/educational_organization/preschool.internal.md) 
-- [preschool.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/educational_organization/preschool.protect.md) 
-- [preschool.private](../../../../../../_private/schema.org/Type/is_a_/organization/educational_organization/preschool.private.md) 
-- [preschool.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/educational_organization/preschool.personal.md) 
-- [preschool.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/educational_organization/preschool.secret.md) 

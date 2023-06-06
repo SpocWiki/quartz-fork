@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Badbergen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Badbergen.md) 
-- [Badbergen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Badbergen.internal.md) 
-- [Badbergen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Badbergen.protect.md) 
-- [Badbergen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Badbergen.private.md) 
-- [Badbergen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Badbergen.personal.md) 
-- [Badbergen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Badbergen.secret.md) 

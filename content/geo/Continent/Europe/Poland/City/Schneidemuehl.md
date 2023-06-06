@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schneidemuehl](../../../../../../_public/geo/Continent/Europe/Poland/City/Schneidemuehl.md) 
-- [Schneidemuehl.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schneidemuehl.internal.md) 
-- [Schneidemuehl.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schneidemuehl.protect.md) 
-- [Schneidemuehl.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schneidemuehl.private.md) 
-- [Schneidemuehl.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schneidemuehl.personal.md) 
-- [Schneidemuehl.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schneidemuehl.secret.md) 

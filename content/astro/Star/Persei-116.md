@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Persei-116](../../../_public/astro/Star/Persei-116.md) 
-- [Persei-116.internal](../../../_internal/astro/Star/Persei-116.internal.md) 
-- [Persei-116.protect](../../../_protect/astro/Star/Persei-116.protect.md) 
-- [Persei-116.private](../../../_private/astro/Star/Persei-116.private.md) 
-- [Persei-116.personal](../../../_personal/astro/Star/Persei-116.personal.md) 
-- [Persei-116.secret](../../../_secret/astro/Star/Persei-116.secret.md) 

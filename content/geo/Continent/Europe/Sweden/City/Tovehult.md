@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tovehult](../../../../../../_public/geo/Continent/Europe/Sweden/City/Tovehult.md) 
-- [Tovehult.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Tovehult.internal.md) 
-- [Tovehult.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Tovehult.protect.md) 
-- [Tovehult.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Tovehult.private.md) 
-- [Tovehult.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Tovehult.personal.md) 
-- [Tovehult.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Tovehult.secret.md) 

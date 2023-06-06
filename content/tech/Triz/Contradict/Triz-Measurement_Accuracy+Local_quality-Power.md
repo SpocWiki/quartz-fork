@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Local_quality-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Local_quality-Power](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.md) 
-- [Triz-Measurement_Accuracy+Local_quality-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.internal.md) 
-- [Triz-Measurement_Accuracy+Local_quality-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.protect.md) 
-- [Triz-Measurement_Accuracy+Local_quality-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.private.md) 
-- [Triz-Measurement_Accuracy+Local_quality-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.personal.md) 
-- [Triz-Measurement_Accuracy+Local_quality-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Local_quality-Power.secret.md) 

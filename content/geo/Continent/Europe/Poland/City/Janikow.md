@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Janikow](../../../../../../_public/geo/Continent/Europe/Poland/City/Janikow.md) 
-- [Janikow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Janikow.internal.md) 
-- [Janikow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Janikow.protect.md) 
-- [Janikow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Janikow.private.md) 
-- [Janikow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Janikow.personal.md) 
-- [Janikow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Janikow.secret.md) 

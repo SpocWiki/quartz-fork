@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oranjestad](../../../../../../_public/geo/Continent/South-America/Aruba/City/Oranjestad.md) 
-- [Oranjestad.internal](../../../../../../_internal/geo/Continent/South-America/Aruba/City/Oranjestad.internal.md) 
-- [Oranjestad.protect](../../../../../../_protect/geo/Continent/South-America/Aruba/City/Oranjestad.protect.md) 
-- [Oranjestad.private](../../../../../../_private/geo/Continent/South-America/Aruba/City/Oranjestad.private.md) 
-- [Oranjestad.personal](../../../../../../_personal/geo/Continent/South-America/Aruba/City/Oranjestad.personal.md) 
-- [Oranjestad.secret](../../../../../../_secret/geo/Continent/South-America/Aruba/City/Oranjestad.secret.md) 

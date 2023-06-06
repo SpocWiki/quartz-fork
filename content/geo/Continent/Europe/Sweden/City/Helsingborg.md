@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Helsingborg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Helsingborg.md) 
-- [Helsingborg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Helsingborg.internal.md) 
-- [Helsingborg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Helsingborg.protect.md) 
-- [Helsingborg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Helsingborg.private.md) 
-- [Helsingborg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Helsingborg.personal.md) 
-- [Helsingborg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Helsingborg.secret.md) 

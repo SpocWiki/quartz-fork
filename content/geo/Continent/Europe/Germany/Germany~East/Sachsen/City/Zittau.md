@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zittau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zittau.md) 
-- [Zittau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zittau.internal.md) 
-- [Zittau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zittau.protect.md) 
-- [Zittau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zittau.private.md) 
-- [Zittau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zittau.personal.md) 
-- [Zittau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zittau.secret.md) 

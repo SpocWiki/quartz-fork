@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jershoeft](../../../../../../_public/geo/Continent/Europe/Poland/City/Jershoeft.md) 
-- [Jershoeft.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Jershoeft.internal.md) 
-- [Jershoeft.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Jershoeft.protect.md) 
-- [Jershoeft.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Jershoeft.private.md) 
-- [Jershoeft.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Jershoeft.personal.md) 
-- [Jershoeft.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Jershoeft.secret.md) 

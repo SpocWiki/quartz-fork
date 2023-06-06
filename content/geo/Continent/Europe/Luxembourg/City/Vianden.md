@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vianden](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Vianden.md) 
-- [Vianden.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Vianden.internal.md) 
-- [Vianden.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Vianden.protect.md) 
-- [Vianden.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Vianden.private.md) 
-- [Vianden.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Vianden.personal.md) 
-- [Vianden.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Vianden.secret.md) 

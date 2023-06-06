@@ -19,10 +19,3 @@ title: Triz-Complexity+Inversion-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Inversion-Shape](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.md) 
-- [Triz-Complexity+Inversion-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.internal.md) 
-- [Triz-Complexity+Inversion-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.protect.md) 
-- [Triz-Complexity+Inversion-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.private.md) 
-- [Triz-Complexity+Inversion-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.personal.md) 
-- [Triz-Complexity+Inversion-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Shape.secret.md) 

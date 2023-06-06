@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Segmentation-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Segmentation-Stability](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Stability.md) 
-- [Triz-stationary_Weight+Segmentation-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Stability.internal.md) 
-- [Triz-stationary_Weight+Segmentation-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Stability.protect.md) 
-- [Triz-stationary_Weight+Segmentation-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Stability.private.md) 
-- [Triz-stationary_Weight+Segmentation-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Stability.personal.md) 
-- [Triz-stationary_Weight+Segmentation-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Segmentation-Stability.secret.md) 

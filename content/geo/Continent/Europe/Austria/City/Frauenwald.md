@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frauenwald](../../../../../../_public/geo/Continent/Europe/Austria/City/Frauenwald.md) 
-- [Frauenwald.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Frauenwald.internal.md) 
-- [Frauenwald.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Frauenwald.protect.md) 
-- [Frauenwald.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Frauenwald.private.md) 
-- [Frauenwald.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Frauenwald.personal.md) 
-- [Frauenwald.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Frauenwald.secret.md) 

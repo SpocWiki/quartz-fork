@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Linlithgow](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Linlithgow.md) 
-- [Linlithgow.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Linlithgow.internal.md) 
-- [Linlithgow.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Linlithgow.protect.md) 
-- [Linlithgow.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Linlithgow.private.md) 
-- [Linlithgow.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Linlithgow.personal.md) 
-- [Linlithgow.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Linlithgow.secret.md) 

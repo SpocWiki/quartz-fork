@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Duenamuende](../../../../../../_public/geo/Continent/Europe/Russia/City/Duenamuende.md) 
-- [Duenamuende.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Duenamuende.internal.md) 
-- [Duenamuende.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Duenamuende.protect.md) 
-- [Duenamuende.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Duenamuende.private.md) 
-- [Duenamuende.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Duenamuende.personal.md) 
-- [Duenamuende.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Duenamuende.secret.md) 

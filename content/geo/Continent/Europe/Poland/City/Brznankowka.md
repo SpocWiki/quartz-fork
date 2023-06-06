@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brznankowka](../../../../../../_public/geo/Continent/Europe/Poland/City/Brznankowka.md) 
-- [Brznankowka.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Brznankowka.internal.md) 
-- [Brznankowka.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Brznankowka.protect.md) 
-- [Brznankowka.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Brznankowka.private.md) 
-- [Brznankowka.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Brznankowka.personal.md) 
-- [Brznankowka.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Brznankowka.secret.md) 

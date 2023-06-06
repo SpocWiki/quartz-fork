@@ -19,10 +19,3 @@ title: Triz-affected_harm+Cushion_in_advance-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Cushion_in_advance-Versatility](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.md) 
-- [Triz-affected_harm+Cushion_in_advance-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.internal.md) 
-- [Triz-affected_harm+Cushion_in_advance-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.protect.md) 
-- [Triz-affected_harm+Cushion_in_advance-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.private.md) 
-- [Triz-affected_harm+Cushion_in_advance-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.personal.md) 
-- [Triz-affected_harm+Cushion_in_advance-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Cushion_in_advance-Versatility.secret.md) 

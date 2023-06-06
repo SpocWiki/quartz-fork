@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sokolka](../../../../../../_public/geo/Continent/Europe/Poland/City/Sokolka.md) 
-- [Sokolka.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sokolka.internal.md) 
-- [Sokolka.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sokolka.protect.md) 
-- [Sokolka.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sokolka.private.md) 
-- [Sokolka.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sokolka.personal.md) 
-- [Sokolka.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sokolka.secret.md) 

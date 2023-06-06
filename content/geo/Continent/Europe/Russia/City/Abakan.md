@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abakan](../../../../../../_public/geo/Continent/Europe/Russia/City/Abakan.md) 
-- [Abakan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Abakan.internal.md) 
-- [Abakan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Abakan.protect.md) 
-- [Abakan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Abakan.private.md) 
-- [Abakan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Abakan.personal.md) 
-- [Abakan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Abakan.secret.md) 

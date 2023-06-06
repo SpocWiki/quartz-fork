@@ -43,10 +43,3 @@ A datasheet or vendor specification of a product (in the sense of a prototypical
 
 
 
-## Confidential Links & Embeds: 
-- [product_model](../../../../../_public/schema.org/Type/is_a_/product/product_model.md) 
-- [product_model.internal](../../../../../_internal/schema.org/Type/is_a_/product/product_model.internal.md) 
-- [product_model.protect](../../../../../_protect/schema.org/Type/is_a_/product/product_model.protect.md) 
-- [product_model.private](../../../../../_private/schema.org/Type/is_a_/product/product_model.private.md) 
-- [product_model.personal](../../../../../_personal/schema.org/Type/is_a_/product/product_model.personal.md) 
-- [product_model.secret](../../../../../_secret/schema.org/Type/is_a_/product/product_model.secret.md) 

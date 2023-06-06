@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loewen](../../../../../../_public/geo/Continent/Europe/Poland/City/Loewen.md) 
-- [Loewen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Loewen.internal.md) 
-- [Loewen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Loewen.protect.md) 
-- [Loewen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Loewen.private.md) 
-- [Loewen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Loewen.personal.md) 
-- [Loewen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Loewen.secret.md) 

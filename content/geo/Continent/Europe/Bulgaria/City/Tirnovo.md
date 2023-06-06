@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tirnovo](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Tirnovo.md) 
-- [Tirnovo.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Tirnovo.internal.md) 
-- [Tirnovo.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Tirnovo.protect.md) 
-- [Tirnovo.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Tirnovo.private.md) 
-- [Tirnovo.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Tirnovo.personal.md) 
-- [Tirnovo.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Tirnovo.secret.md) 

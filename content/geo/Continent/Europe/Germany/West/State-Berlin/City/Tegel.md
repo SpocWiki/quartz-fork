@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tegel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Tegel.md) 
-- [Tegel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Tegel.internal.md) 
-- [Tegel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Tegel.protect.md) 
-- [Tegel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Tegel.private.md) 
-- [Tegel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Tegel.personal.md) 
-- [Tegel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Tegel.secret.md) 

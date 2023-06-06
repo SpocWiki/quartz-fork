@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Heddernheimer_Landstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Heddernheimer_Landstra%C3%9Fe.md) 
-- [U-Heddernheimer_Landstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Heddernheimer_Landstra%C3%9Fe.internal.md) 
-- [U-Heddernheimer_Landstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Heddernheimer_Landstra%C3%9Fe.protect.md) 
-- [U-Heddernheimer_Landstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Heddernheimer_Landstra%C3%9Fe.private.md) 
-- [U-Heddernheimer_Landstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Heddernheimer_Landstra%C3%9Fe.personal.md) 
-- [U-Heddernheimer_Landstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Heddernheimer_Landstra%C3%9Fe.secret.md) 

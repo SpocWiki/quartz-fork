@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Treysa](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.md) 
-- [Treysa.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.internal.md) 
-- [Treysa.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.protect.md) 
-- [Treysa.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.private.md) 
-- [Treysa.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.personal.md) 
-- [Treysa.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Treysa.secret.md) 

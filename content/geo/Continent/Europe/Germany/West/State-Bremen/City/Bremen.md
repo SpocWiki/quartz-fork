@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bremen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremen.md) 
-- [Bremen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremen.internal.md) 
-- [Bremen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremen.protect.md) 
-- [Bremen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremen.private.md) 
-- [Bremen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremen.personal.md) 
-- [Bremen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Bremen/City/Bremen.secret.md) 

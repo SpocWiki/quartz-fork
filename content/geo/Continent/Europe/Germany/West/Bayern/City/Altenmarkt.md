@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altenmarkt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.md) 
-- [Altenmarkt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.internal.md) 
-- [Altenmarkt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.protect.md) 
-- [Altenmarkt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.private.md) 
-- [Altenmarkt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.personal.md) 
-- [Altenmarkt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.secret.md) 

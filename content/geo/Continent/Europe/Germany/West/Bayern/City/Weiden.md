@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weiden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Weiden.md) 
-- [Weiden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Weiden.internal.md) 
-- [Weiden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Weiden.protect.md) 
-- [Weiden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Weiden.private.md) 
-- [Weiden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Weiden.personal.md) 
-- [Weiden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Weiden.secret.md) 

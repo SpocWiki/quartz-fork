@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Santander](../../../../../../_public/geo/Continent/Europe/Spain/City/Santander.md) 
-- [Santander.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Santander.internal.md) 
-- [Santander.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Santander.protect.md) 
-- [Santander.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Santander.private.md) 
-- [Santander.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Santander.personal.md) 
-- [Santander.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Santander.secret.md) 

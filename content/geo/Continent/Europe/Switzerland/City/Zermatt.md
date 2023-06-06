@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zermatt](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zermatt.md) 
-- [Zermatt.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zermatt.internal.md) 
-- [Zermatt.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zermatt.protect.md) 
-- [Zermatt.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zermatt.private.md) 
-- [Zermatt.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zermatt.personal.md) 
-- [Zermatt.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zermatt.secret.md) 

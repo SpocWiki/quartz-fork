@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bender](../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Bender.md) 
-- [Bender.internal](../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Bender.internal.md) 
-- [Bender.protect](../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Bender.protect.md) 
-- [Bender.private](../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Bender.private.md) 
-- [Bender.personal](../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Bender.personal.md) 
-- [Bender.secret](../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Bender.secret.md) 

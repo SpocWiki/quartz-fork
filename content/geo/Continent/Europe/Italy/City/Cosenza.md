@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cosenza](../../../../../../_public/geo/Continent/Europe/Italy/City/Cosenza.md) 
-- [Cosenza.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cosenza.internal.md) 
-- [Cosenza.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cosenza.protect.md) 
-- [Cosenza.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cosenza.private.md) 
-- [Cosenza.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cosenza.personal.md) 
-- [Cosenza.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cosenza.secret.md) 

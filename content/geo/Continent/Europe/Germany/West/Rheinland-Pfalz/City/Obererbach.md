@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Obererbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obererbach.md) 
-- [Obererbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obererbach.internal.md) 
-- [Obererbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obererbach.protect.md) 
-- [Obererbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obererbach.private.md) 
-- [Obererbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obererbach.personal.md) 
-- [Obererbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Obererbach.secret.md) 

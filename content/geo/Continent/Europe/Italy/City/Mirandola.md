@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mirandola](../../../../../../_public/geo/Continent/Europe/Italy/City/Mirandola.md) 
-- [Mirandola.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Mirandola.internal.md) 
-- [Mirandola.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Mirandola.protect.md) 
-- [Mirandola.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Mirandola.private.md) 
-- [Mirandola.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Mirandola.personal.md) 
-- [Mirandola.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Mirandola.secret.md) 

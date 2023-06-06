@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Misdroy](../../../../../../_public/geo/Continent/Europe/Poland/City/Misdroy.md) 
-- [Misdroy.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Misdroy.internal.md) 
-- [Misdroy.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Misdroy.protect.md) 
-- [Misdroy.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Misdroy.private.md) 
-- [Misdroy.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Misdroy.personal.md) 
-- [Misdroy.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Misdroy.secret.md) 

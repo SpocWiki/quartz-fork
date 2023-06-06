@@ -49,10 +49,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_nsn](../../../../_public/schema.org/Predicate/Texts/has_nsn.md) 
-- [has_nsn.internal](../../../../_internal/schema.org/Predicate/Texts/has_nsn.internal.md) 
-- [has_nsn.protect](../../../../_protect/schema.org/Predicate/Texts/has_nsn.protect.md) 
-- [has_nsn.private](../../../../_private/schema.org/Predicate/Texts/has_nsn.private.md) 
-- [has_nsn.personal](../../../../_personal/schema.org/Predicate/Texts/has_nsn.personal.md) 
-- [has_nsn.secret](../../../../_secret/schema.org/Predicate/Texts/has_nsn.secret.md) 

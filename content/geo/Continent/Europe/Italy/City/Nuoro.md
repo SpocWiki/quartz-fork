@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nuoro](../../../../../../_public/geo/Continent/Europe/Italy/City/Nuoro.md) 
-- [Nuoro.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Nuoro.internal.md) 
-- [Nuoro.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Nuoro.protect.md) 
-- [Nuoro.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Nuoro.private.md) 
-- [Nuoro.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Nuoro.personal.md) 
-- [Nuoro.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Nuoro.secret.md) 

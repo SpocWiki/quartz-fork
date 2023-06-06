@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Feldkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Feldkirchen.md) 
-- [Feldkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Feldkirchen.internal.md) 
-- [Feldkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Feldkirchen.protect.md) 
-- [Feldkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Feldkirchen.private.md) 
-- [Feldkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Feldkirchen.personal.md) 
-- [Feldkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Feldkirchen.secret.md) 

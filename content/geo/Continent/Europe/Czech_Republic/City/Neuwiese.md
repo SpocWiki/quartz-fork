@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuwiese](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Neuwiese.md) 
-- [Neuwiese.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Neuwiese.internal.md) 
-- [Neuwiese.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Neuwiese.protect.md) 
-- [Neuwiese.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Neuwiese.private.md) 
-- [Neuwiese.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Neuwiese.personal.md) 
-- [Neuwiese.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Neuwiese.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orbetello](../../../../../../_public/geo/Continent/Europe/Italy/City/Orbetello.md) 
-- [Orbetello.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Orbetello.internal.md) 
-- [Orbetello.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Orbetello.protect.md) 
-- [Orbetello.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Orbetello.private.md) 
-- [Orbetello.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Orbetello.personal.md) 
-- [Orbetello.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Orbetello.secret.md) 

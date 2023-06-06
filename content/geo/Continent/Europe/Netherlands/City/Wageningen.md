@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wageningen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Wageningen.md) 
-- [Wageningen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Wageningen.internal.md) 
-- [Wageningen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Wageningen.protect.md) 
-- [Wageningen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Wageningen.private.md) 
-- [Wageningen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Wageningen.personal.md) 
-- [Wageningen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Wageningen.secret.md) 

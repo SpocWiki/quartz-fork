@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leipzig](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leipzig.md) 
-- [Leipzig.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leipzig.internal.md) 
-- [Leipzig.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leipzig.protect.md) 
-- [Leipzig.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leipzig.private.md) 
-- [Leipzig.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leipzig.personal.md) 
-- [Leipzig.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Leipzig.secret.md) 

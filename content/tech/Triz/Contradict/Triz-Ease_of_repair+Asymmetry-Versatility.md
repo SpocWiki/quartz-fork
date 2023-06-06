@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Asymmetry-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Asymmetry-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Versatility.md) 
-- [Triz-Ease_of_repair+Asymmetry-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Versatility.internal.md) 
-- [Triz-Ease_of_repair+Asymmetry-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Versatility.protect.md) 
-- [Triz-Ease_of_repair+Asymmetry-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Versatility.private.md) 
-- [Triz-Ease_of_repair+Asymmetry-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Versatility.personal.md) 
-- [Triz-Ease_of_repair+Asymmetry-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Versatility.secret.md) 

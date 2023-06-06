@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Drogobycz](../../../../../../_public/geo/Continent/Europe/Russia/City/Drogobycz.md) 
-- [Drogobycz.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Drogobycz.internal.md) 
-- [Drogobycz.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Drogobycz.protect.md) 
-- [Drogobycz.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Drogobycz.private.md) 
-- [Drogobycz.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Drogobycz.personal.md) 
-- [Drogobycz.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Drogobycz.secret.md) 

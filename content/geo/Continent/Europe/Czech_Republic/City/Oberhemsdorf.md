@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberhemsdorf](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.md) 
-- [Oberhemsdorf.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.internal.md) 
-- [Oberhemsdorf.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.protect.md) 
-- [Oberhemsdorf.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.private.md) 
-- [Oberhemsdorf.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.personal.md) 
-- [Oberhemsdorf.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Oberhemsdorf.secret.md) 

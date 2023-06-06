@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nuku_alofa](../../../../../../_public/geo/Continent/Oceania/Tonga/City/Nuku_alofa.md) 
-- [Nuku_alofa.internal](../../../../../../_internal/geo/Continent/Oceania/Tonga/City/Nuku_alofa.internal.md) 
-- [Nuku_alofa.protect](../../../../../../_protect/geo/Continent/Oceania/Tonga/City/Nuku_alofa.protect.md) 
-- [Nuku_alofa.private](../../../../../../_private/geo/Continent/Oceania/Tonga/City/Nuku_alofa.private.md) 
-- [Nuku_alofa.personal](../../../../../../_personal/geo/Continent/Oceania/Tonga/City/Nuku_alofa.personal.md) 
-- [Nuku_alofa.secret](../../../../../../_secret/geo/Continent/Oceania/Tonga/City/Nuku_alofa.secret.md) 

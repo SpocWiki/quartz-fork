@@ -47,10 +47,3 @@ A CDCPMDRecord is a data structure representing a record in a CDC tabular data f
 
 
 
-## Confidential Links & Embeds: 
-- [cdcpmd_record](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.md) 
-- [cdcpmd_record.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.internal.md) 
-- [cdcpmd_record.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.protect.md) 
-- [cdcpmd_record.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.private.md) 
-- [cdcpmd_record.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.personal.md) 
-- [cdcpmd_record.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.secret.md) 

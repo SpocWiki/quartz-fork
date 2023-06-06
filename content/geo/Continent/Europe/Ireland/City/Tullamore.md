@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tullamore](../../../../../../_public/geo/Continent/Europe/Ireland/City/Tullamore.md) 
-- [Tullamore.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Tullamore.internal.md) 
-- [Tullamore.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Tullamore.protect.md) 
-- [Tullamore.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Tullamore.private.md) 
-- [Tullamore.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Tullamore.personal.md) 
-- [Tullamore.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Tullamore.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Changing_the_color-stationary_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Changing_the_color-stationary_Length](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.internal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.protect.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.private.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.personal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-stationary_Length.secret.md) 

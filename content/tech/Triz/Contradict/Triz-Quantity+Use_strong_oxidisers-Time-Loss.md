@@ -19,10 +19,3 @@ title: Triz-Quantity+Use_strong_oxidisers-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Use_strong_oxidisers-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.md) 
-- [Triz-Quantity+Use_strong_oxidisers-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.internal.md) 
-- [Triz-Quantity+Use_strong_oxidisers-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.protect.md) 
-- [Triz-Quantity+Use_strong_oxidisers-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.private.md) 
-- [Triz-Quantity+Use_strong_oxidisers-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.personal.md) 
-- [Triz-Quantity+Use_strong_oxidisers-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_strong_oxidisers-Time-Loss.secret.md) 

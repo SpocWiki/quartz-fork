@@ -45,10 +45,3 @@ The day of the week between Thursday and Saturday.
 
 
 
-## Confidential Links & Embeds: 
-- [friday](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.md) 
-- [friday.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.internal.md) 
-- [friday.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.protect.md) 
-- [friday.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.private.md) 
-- [friday.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.personal.md) 
-- [friday.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week/friday.secret.md) 

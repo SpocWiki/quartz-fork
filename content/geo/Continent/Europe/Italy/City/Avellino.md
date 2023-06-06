@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Avellino](../../../../../../_public/geo/Continent/Europe/Italy/City/Avellino.md) 
-- [Avellino.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Avellino.internal.md) 
-- [Avellino.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Avellino.protect.md) 
-- [Avellino.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Avellino.private.md) 
-- [Avellino.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Avellino.personal.md) 
-- [Avellino.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Avellino.secret.md) 

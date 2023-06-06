@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pluwig](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pluwig.md) 
-- [Pluwig.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pluwig.internal.md) 
-- [Pluwig.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pluwig.protect.md) 
-- [Pluwig.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pluwig.private.md) 
-- [Pluwig.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pluwig.personal.md) 
-- [Pluwig.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pluwig.secret.md) 

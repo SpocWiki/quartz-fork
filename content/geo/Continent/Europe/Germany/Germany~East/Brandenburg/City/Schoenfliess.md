@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoenfliess](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schoenfliess.md) 
-- [Schoenfliess.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schoenfliess.internal.md) 
-- [Schoenfliess.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schoenfliess.protect.md) 
-- [Schoenfliess.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schoenfliess.private.md) 
-- [Schoenfliess.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schoenfliess.personal.md) 
-- [Schoenfliess.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schoenfliess.secret.md) 

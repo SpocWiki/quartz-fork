@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_is_available_at_or_from](../../../../_public/schema.org/Predicate/geos/has_geo_is_available_at_or_from.md) 
-- [has_geo_is_available_at_or_from.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_is_available_at_or_from.internal.md) 
-- [has_geo_is_available_at_or_from.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_is_available_at_or_from.protect.md) 
-- [has_geo_is_available_at_or_from.private](../../../../_private/schema.org/Predicate/geos/has_geo_is_available_at_or_from.private.md) 
-- [has_geo_is_available_at_or_from.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_is_available_at_or_from.personal.md) 
-- [has_geo_is_available_at_or_from.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_is_available_at_or_from.secret.md) 

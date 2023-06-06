@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hobart](../../../../../../_public/geo/Continent/Australia/Australia/City/Hobart.md) 
-- [Hobart.internal](../../../../../../_internal/geo/Continent/Australia/Australia/City/Hobart.internal.md) 
-- [Hobart.protect](../../../../../../_protect/geo/Continent/Australia/Australia/City/Hobart.protect.md) 
-- [Hobart.private](../../../../../../_private/geo/Continent/Australia/Australia/City/Hobart.private.md) 
-- [Hobart.personal](../../../../../../_personal/geo/Continent/Australia/Australia/City/Hobart.personal.md) 
-- [Hobart.secret](../../../../../../_secret/geo/Continent/Australia/Australia/City/Hobart.secret.md) 

@@ -17,10 +17,3 @@ title: Triz-twisted_Pipes
 
 Reinforced Shaft made from several Pipes which have been previously twisted.
 
-## Confidential Links & Embeds: 
-- [Triz-twisted_Pipes](../../../../_public/tech/Triz/Example/Triz-twisted_Pipes.md) 
-- [Triz-twisted_Pipes.internal](../../../../_internal/tech/Triz/Example/Triz-twisted_Pipes.internal.md) 
-- [Triz-twisted_Pipes.protect](../../../../_protect/tech/Triz/Example/Triz-twisted_Pipes.protect.md) 
-- [Triz-twisted_Pipes.private](../../../../_private/tech/Triz/Example/Triz-twisted_Pipes.private.md) 
-- [Triz-twisted_Pipes.personal](../../../../_personal/tech/Triz/Example/Triz-twisted_Pipes.personal.md) 
-- [Triz-twisted_Pipes.secret](../../../../_secret/tech/Triz/Example/Triz-twisted_Pipes.secret.md) 

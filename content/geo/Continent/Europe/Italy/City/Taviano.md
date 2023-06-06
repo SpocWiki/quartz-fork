@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taviano](../../../../../../_public/geo/Continent/Europe/Italy/City/Taviano.md) 
-- [Taviano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Taviano.internal.md) 
-- [Taviano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Taviano.protect.md) 
-- [Taviano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Taviano.private.md) 
-- [Taviano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Taviano.personal.md) 
-- [Taviano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Taviano.secret.md) 

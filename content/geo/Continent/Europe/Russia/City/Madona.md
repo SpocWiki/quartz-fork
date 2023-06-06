@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Madona](../../../../../../_public/geo/Continent/Europe/Russia/City/Madona.md) 
-- [Madona.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Madona.internal.md) 
-- [Madona.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Madona.protect.md) 
-- [Madona.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Madona.private.md) 
-- [Madona.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Madona.personal.md) 
-- [Madona.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Madona.secret.md) 

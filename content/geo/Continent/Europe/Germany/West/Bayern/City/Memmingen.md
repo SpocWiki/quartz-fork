@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Memmingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Memmingen.md) 
-- [Memmingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Memmingen.internal.md) 
-- [Memmingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Memmingen.protect.md) 
-- [Memmingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Memmingen.private.md) 
-- [Memmingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Memmingen.personal.md) 
-- [Memmingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Memmingen.secret.md) 

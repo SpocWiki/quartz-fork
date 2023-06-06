@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nakskov](../../../../../../_public/geo/Continent/Europe/Denmark/City/Nakskov.md) 
-- [Nakskov.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nakskov.internal.md) 
-- [Nakskov.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nakskov.protect.md) 
-- [Nakskov.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Nakskov.private.md) 
-- [Nakskov.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nakskov.personal.md) 
-- [Nakskov.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nakskov.secret.md) 

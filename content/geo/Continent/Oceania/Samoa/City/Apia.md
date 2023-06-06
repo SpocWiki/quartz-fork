@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Apia](../../../../../../_public/geo/Continent/Oceania/Samoa/City/Apia.md) 
-- [Apia.internal](../../../../../../_internal/geo/Continent/Oceania/Samoa/City/Apia.internal.md) 
-- [Apia.protect](../../../../../../_protect/geo/Continent/Oceania/Samoa/City/Apia.protect.md) 
-- [Apia.private](../../../../../../_private/geo/Continent/Oceania/Samoa/City/Apia.private.md) 
-- [Apia.personal](../../../../../../_personal/geo/Continent/Oceania/Samoa/City/Apia.personal.md) 
-- [Apia.secret](../../../../../../_secret/geo/Continent/Oceania/Samoa/City/Apia.secret.md) 

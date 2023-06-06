@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Storsaetern](../../../../../../_public/geo/Continent/Europe/Sweden/City/Storsaetern.md) 
-- [Storsaetern.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Storsaetern.internal.md) 
-- [Storsaetern.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Storsaetern.protect.md) 
-- [Storsaetern.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Storsaetern.private.md) 
-- [Storsaetern.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Storsaetern.personal.md) 
-- [Storsaetern.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Storsaetern.secret.md) 

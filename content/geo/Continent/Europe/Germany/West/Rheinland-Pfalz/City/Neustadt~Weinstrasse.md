@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neustadt~Weinstrasse](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.md) 
-- [Neustadt~Weinstrasse.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.internal.md) 
-- [Neustadt~Weinstrasse.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.protect.md) 
-- [Neustadt~Weinstrasse.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.private.md) 
-- [Neustadt~Weinstrasse.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.personal.md) 
-- [Neustadt~Weinstrasse.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Neustadt~Weinstrasse.secret.md) 

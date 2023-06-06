@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Ludwig-Erhard-Anlage](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.md) 
-- [T-Ludwig-Erhard-Anlage.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.internal.md) 
-- [T-Ludwig-Erhard-Anlage.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.protect.md) 
-- [T-Ludwig-Erhard-Anlage.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.private.md) 
-- [T-Ludwig-Erhard-Anlage.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.personal.md) 
-- [T-Ludwig-Erhard-Anlage.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ludwig-Erhard-Anlage.secret.md) 

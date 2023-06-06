@@ -19,10 +19,3 @@ title: Triz-Stability+Rushing_through-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Rushing_through-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Stability+Rushing_through-Intensity.md) 
-- [Triz-Stability+Rushing_through-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Rushing_through-Intensity.internal.md) 
-- [Triz-Stability+Rushing_through-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Rushing_through-Intensity.protect.md) 
-- [Triz-Stability+Rushing_through-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Rushing_through-Intensity.private.md) 
-- [Triz-Stability+Rushing_through-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Rushing_through-Intensity.personal.md) 
-- [Triz-Stability+Rushing_through-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Rushing_through-Intensity.secret.md) 

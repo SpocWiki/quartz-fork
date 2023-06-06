@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dreux](../../../../../../_public/geo/Continent/Europe/France/City/Dreux.md) 
-- [Dreux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Dreux.internal.md) 
-- [Dreux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Dreux.protect.md) 
-- [Dreux.private](../../../../../../_private/geo/Continent/Europe/France/City/Dreux.private.md) 
-- [Dreux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Dreux.personal.md) 
-- [Dreux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Dreux.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Norry-Targ](../../../../../../_public/geo/Continent/Europe/Poland/City/Norry-Targ.md) 
-- [Norry-Targ.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Norry-Targ.internal.md) 
-- [Norry-Targ.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Norry-Targ.protect.md) 
-- [Norry-Targ.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Norry-Targ.private.md) 
-- [Norry-Targ.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Norry-Targ.personal.md) 
-- [Norry-Targ.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Norry-Targ.secret.md) 

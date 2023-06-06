@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radomier](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Radomier.md) 
-- [Radomier.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Radomier.internal.md) 
-- [Radomier.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Radomier.protect.md) 
-- [Radomier.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Radomier.private.md) 
-- [Radomier.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Radomier.personal.md) 
-- [Radomier.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Radomier.secret.md) 

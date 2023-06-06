@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Figueras](../../../../../../_public/geo/Continent/Europe/Spain/City/Figueras.md) 
-- [Figueras.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Figueras.internal.md) 
-- [Figueras.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Figueras.protect.md) 
-- [Figueras.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Figueras.private.md) 
-- [Figueras.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Figueras.personal.md) 
-- [Figueras.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Figueras.secret.md) 

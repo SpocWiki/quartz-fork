@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skien](../../../../../../_public/geo/Continent/Europe/Norway/City/Skien.md) 
-- [Skien.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Skien.internal.md) 
-- [Skien.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Skien.protect.md) 
-- [Skien.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Skien.private.md) 
-- [Skien.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Skien.personal.md) 
-- [Skien.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Skien.secret.md) 

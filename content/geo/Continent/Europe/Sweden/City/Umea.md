@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Umea](../../../../../../_public/geo/Continent/Europe/Sweden/City/Umea.md) 
-- [Umea.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Umea.internal.md) 
-- [Umea.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Umea.protect.md) 
-- [Umea.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Umea.private.md) 
-- [Umea.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Umea.personal.md) 
-- [Umea.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Umea.secret.md) 

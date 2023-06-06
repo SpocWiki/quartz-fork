@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wallau~Lahn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Wallau~Lahn.md) 
-- [Wallau~Lahn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wallau~Lahn.internal.md) 
-- [Wallau~Lahn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wallau~Lahn.protect.md) 
-- [Wallau~Lahn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wallau~Lahn.private.md) 
-- [Wallau~Lahn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wallau~Lahn.personal.md) 
-- [Wallau~Lahn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wallau~Lahn.secret.md) 

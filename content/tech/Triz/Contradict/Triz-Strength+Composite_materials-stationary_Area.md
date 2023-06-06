@@ -19,10 +19,3 @@ title: Triz-Strength+Composite_materials-stationary_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Composite_materials-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.md) 
-- [Triz-Strength+Composite_materials-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.internal.md) 
-- [Triz-Strength+Composite_materials-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.protect.md) 
-- [Triz-Strength+Composite_materials-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.private.md) 
-- [Triz-Strength+Composite_materials-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.personal.md) 
-- [Triz-Strength+Composite_materials-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Composite_materials-stationary_Area.secret.md) 

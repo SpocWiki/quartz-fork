@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Darmstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.md) 
-- [Darmstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.internal.md) 
-- [Darmstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.protect.md) 
-- [Darmstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.private.md) 
-- [Darmstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.personal.md) 
-- [Darmstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Darmstadt.secret.md) 

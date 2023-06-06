@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Mühlheim~Main](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main.md) 
-- [S-Mühlheim~Main.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main.internal.md) 
-- [S-Mühlheim~Main.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main.protect.md) 
-- [S-Mühlheim~Main.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main.private.md) 
-- [S-Mühlheim~Main.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main.personal.md) 
-- [S-Mühlheim~Main.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main.secret.md) 

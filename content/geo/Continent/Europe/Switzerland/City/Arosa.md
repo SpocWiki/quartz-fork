@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arosa](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Arosa.md) 
-- [Arosa.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Arosa.internal.md) 
-- [Arosa.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Arosa.protect.md) 
-- [Arosa.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Arosa.private.md) 
-- [Arosa.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Arosa.personal.md) 
-- [Arosa.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Arosa.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lottin](../../../../../../_public/geo/Continent/Europe/Poland/City/Lottin.md) 
-- [Lottin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lottin.internal.md) 
-- [Lottin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lottin.protect.md) 
-- [Lottin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lottin.private.md) 
-- [Lottin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lottin.personal.md) 
-- [Lottin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lottin.secret.md) 

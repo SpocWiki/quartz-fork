@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jagielnica](../../../../../../_public/geo/Continent/Europe/Poland/City/Jagielnica.md) 
-- [Jagielnica.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Jagielnica.internal.md) 
-- [Jagielnica.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Jagielnica.protect.md) 
-- [Jagielnica.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Jagielnica.private.md) 
-- [Jagielnica.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Jagielnica.personal.md) 
-- [Jagielnica.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Jagielnica.secret.md) 

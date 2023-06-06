@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lienz](../../../../../../_public/geo/Continent/Europe/Austria/City/Lienz.md) 
-- [Lienz.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Lienz.internal.md) 
-- [Lienz.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Lienz.protect.md) 
-- [Lienz.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Lienz.private.md) 
-- [Lienz.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Lienz.personal.md) 
-- [Lienz.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Lienz.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Anantapur](../../../../../../_public/geo/Continent/Asia/India/City/Anantapur.md) 
-- [Anantapur.internal](../../../../../../_internal/geo/Continent/Asia/India/City/Anantapur.internal.md) 
-- [Anantapur.protect](../../../../../../_protect/geo/Continent/Asia/India/City/Anantapur.protect.md) 
-- [Anantapur.private](../../../../../../_private/geo/Continent/Asia/India/City/Anantapur.private.md) 
-- [Anantapur.personal](../../../../../../_personal/geo/Continent/Asia/India/City/Anantapur.personal.md) 
-- [Anantapur.secret](../../../../../../_secret/geo/Continent/Asia/India/City/Anantapur.secret.md) 

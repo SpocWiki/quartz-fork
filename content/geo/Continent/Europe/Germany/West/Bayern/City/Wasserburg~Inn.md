@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wasserburg~Inn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.md) 
-- [Wasserburg~Inn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.internal.md) 
-- [Wasserburg~Inn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.protect.md) 
-- [Wasserburg~Inn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.private.md) 
-- [Wasserburg~Inn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.personal.md) 
-- [Wasserburg~Inn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Inn.secret.md) 

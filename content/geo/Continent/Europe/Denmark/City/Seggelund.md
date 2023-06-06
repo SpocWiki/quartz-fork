@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seggelund](../../../../../../_public/geo/Continent/Europe/Denmark/City/Seggelund.md) 
-- [Seggelund.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Seggelund.internal.md) 
-- [Seggelund.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Seggelund.protect.md) 
-- [Seggelund.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Seggelund.private.md) 
-- [Seggelund.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Seggelund.personal.md) 
-- [Seggelund.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Seggelund.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Strength+Local_quality-Measurement_Accuracy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Local_quality-Measurement_Accuracy](../../../../_public/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.md) 
-- [Triz-Strength+Local_quality-Measurement_Accuracy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.internal.md) 
-- [Triz-Strength+Local_quality-Measurement_Accuracy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.protect.md) 
-- [Triz-Strength+Local_quality-Measurement_Accuracy.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.private.md) 
-- [Triz-Strength+Local_quality-Measurement_Accuracy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.personal.md) 
-- [Triz-Strength+Local_quality-Measurement_Accuracy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Local_quality-Measurement_Accuracy.secret.md) 

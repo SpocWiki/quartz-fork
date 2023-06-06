@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tunbridge](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tunbridge.md) 
-- [Tunbridge.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tunbridge.internal.md) 
-- [Tunbridge.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tunbridge.protect.md) 
-- [Tunbridge.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tunbridge.private.md) 
-- [Tunbridge.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tunbridge.personal.md) 
-- [Tunbridge.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tunbridge.secret.md) 

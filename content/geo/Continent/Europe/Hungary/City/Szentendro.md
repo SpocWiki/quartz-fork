@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Szentendro](../../../../../../_public/geo/Continent/Europe/Hungary/City/Szentendro.md) 
-- [Szentendro.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szentendro.internal.md) 
-- [Szentendro.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szentendro.protect.md) 
-- [Szentendro.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Szentendro.private.md) 
-- [Szentendro.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szentendro.personal.md) 
-- [Szentendro.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szentendro.secret.md) 

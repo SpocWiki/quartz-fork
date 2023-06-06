@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hartkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hartkirchen.md) 
-- [Hartkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hartkirchen.internal.md) 
-- [Hartkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hartkirchen.protect.md) 
-- [Hartkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hartkirchen.private.md) 
-- [Hartkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hartkirchen.personal.md) 
-- [Hartkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hartkirchen.secret.md) 

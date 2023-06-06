@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lidzbark_Warmiński](../../../../../../_public/geo/Continent/Europe/Poland/City/Lidzbark_Warmi%C5%84ski.md) 
-- [Lidzbark_Warmiński.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lidzbark_Warmi%C5%84ski.internal.md) 
-- [Lidzbark_Warmiński.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lidzbark_Warmi%C5%84ski.protect.md) 
-- [Lidzbark_Warmiński.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lidzbark_Warmi%C5%84ski.private.md) 
-- [Lidzbark_Warmiński.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lidzbark_Warmi%C5%84ski.personal.md) 
-- [Lidzbark_Warmiński.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lidzbark_Warmi%C5%84ski.secret.md) 

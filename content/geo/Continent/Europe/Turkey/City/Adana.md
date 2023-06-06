@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Adana](../../../../../../_public/geo/Continent/Europe/Turkey/City/Adana.md) 
-- [Adana.internal](../../../../../../_internal/geo/Continent/Europe/Turkey/City/Adana.internal.md) 
-- [Adana.protect](../../../../../../_protect/geo/Continent/Europe/Turkey/City/Adana.protect.md) 
-- [Adana.private](../../../../../../_private/geo/Continent/Europe/Turkey/City/Adana.private.md) 
-- [Adana.personal](../../../../../../_personal/geo/Continent/Europe/Turkey/City/Adana.personal.md) 
-- [Adana.secret](../../../../../../_secret/geo/Continent/Europe/Turkey/City/Adana.secret.md) 

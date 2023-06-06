@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schopfloch](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schopfloch.md) 
-- [Schopfloch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schopfloch.internal.md) 
-- [Schopfloch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schopfloch.protect.md) 
-- [Schopfloch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schopfloch.private.md) 
-- [Schopfloch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schopfloch.personal.md) 
-- [Schopfloch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schopfloch.secret.md) 

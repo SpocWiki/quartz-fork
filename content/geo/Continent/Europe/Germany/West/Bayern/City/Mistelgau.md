@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mistelgau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Mistelgau.md) 
-- [Mistelgau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mistelgau.internal.md) 
-- [Mistelgau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mistelgau.protect.md) 
-- [Mistelgau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mistelgau.private.md) 
-- [Mistelgau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Mistelgau.personal.md) 
-- [Mistelgau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Mistelgau.secret.md) 

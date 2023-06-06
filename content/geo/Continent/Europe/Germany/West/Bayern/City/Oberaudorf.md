@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberaudorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Oberaudorf.md) 
-- [Oberaudorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberaudorf.internal.md) 
-- [Oberaudorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberaudorf.protect.md) 
-- [Oberaudorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberaudorf.private.md) 
-- [Oberaudorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oberaudorf.personal.md) 
-- [Oberaudorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oberaudorf.secret.md) 

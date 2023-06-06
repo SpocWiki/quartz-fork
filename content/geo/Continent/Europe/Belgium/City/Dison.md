@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dison](../../../../../../_public/geo/Continent/Europe/Belgium/City/Dison.md) 
-- [Dison.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Dison.internal.md) 
-- [Dison.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Dison.protect.md) 
-- [Dison.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Dison.private.md) 
-- [Dison.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Dison.personal.md) 
-- [Dison.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Dison.secret.md) 

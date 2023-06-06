@@ -36,10 +36,3 @@ markerFolder: ./Heard_and_Mc_Donald~Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [Heard_and_Mc_Donald~Islands](../../../../_public/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.md) 
-- [Heard_and_Mc_Donald~Islands.internal](../../../../_internal/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.internal.md) 
-- [Heard_and_Mc_Donald~Islands.protect](../../../../_protect/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.protect.md) 
-- [Heard_and_Mc_Donald~Islands.private](../../../../_private/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.private.md) 
-- [Heard_and_Mc_Donald~Islands.personal](../../../../_personal/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.personal.md) 
-- [Heard_and_Mc_Donald~Islands.secret](../../../../_secret/geo/Continent/Antarctica/Heard_and_Mc_Donald~Islands.secret.md) 

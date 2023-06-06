@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Graechen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Graechen.md) 
-- [Graechen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Graechen.internal.md) 
-- [Graechen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Graechen.protect.md) 
-- [Graechen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Graechen.private.md) 
-- [Graechen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Graechen.personal.md) 
-- [Graechen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Graechen.secret.md) 

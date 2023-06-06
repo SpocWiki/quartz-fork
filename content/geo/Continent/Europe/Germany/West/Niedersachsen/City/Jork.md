@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jork](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jork.md) 
-- [Jork.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jork.internal.md) 
-- [Jork.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jork.protect.md) 
-- [Jork.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jork.private.md) 
-- [Jork.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jork.personal.md) 
-- [Jork.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jork.secret.md) 

@@ -47,10 +47,3 @@ BusinessSupport: this is a benefit for supporting businesses.
 
 
 
-## Confidential Links & Embeds: 
-- [business_support](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.md) 
-- [business_support.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.internal.md) 
-- [business_support.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.protect.md) 
-- [business_support.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.private.md) 
-- [business_support.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.personal.md) 
-- [business_support.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.secret.md) 

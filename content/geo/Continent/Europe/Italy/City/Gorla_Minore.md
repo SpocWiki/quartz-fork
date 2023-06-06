@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gorla_Minore](../../../../../../_public/geo/Continent/Europe/Italy/City/Gorla_Minore.md) 
-- [Gorla_Minore.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Gorla_Minore.internal.md) 
-- [Gorla_Minore.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Gorla_Minore.protect.md) 
-- [Gorla_Minore.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Gorla_Minore.private.md) 
-- [Gorla_Minore.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Gorla_Minore.personal.md) 
-- [Gorla_Minore.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Gorla_Minore.secret.md) 

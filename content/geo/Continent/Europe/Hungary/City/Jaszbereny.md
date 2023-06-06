@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jaszbereny](../../../../../../_public/geo/Continent/Europe/Hungary/City/Jaszbereny.md) 
-- [Jaszbereny.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Jaszbereny.internal.md) 
-- [Jaszbereny.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Jaszbereny.protect.md) 
-- [Jaszbereny.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Jaszbereny.private.md) 
-- [Jaszbereny.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Jaszbereny.personal.md) 
-- [Jaszbereny.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Jaszbereny.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chiasso](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chiasso.md) 
-- [Chiasso.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chiasso.internal.md) 
-- [Chiasso.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chiasso.protect.md) 
-- [Chiasso.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chiasso.private.md) 
-- [Chiasso.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chiasso.personal.md) 
-- [Chiasso.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chiasso.secret.md) 

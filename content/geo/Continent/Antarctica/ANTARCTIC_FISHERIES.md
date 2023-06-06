@@ -36,10 +36,3 @@ markerFolder: ./ANTARCTIC_FISHERIES/City
 
 
 
-## Confidential Links & Embeds: 
-- [ANTARCTIC_FISHERIES](../../../../_public/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.md) 
-- [ANTARCTIC_FISHERIES.internal](../../../../_internal/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.internal.md) 
-- [ANTARCTIC_FISHERIES.protect](../../../../_protect/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.protect.md) 
-- [ANTARCTIC_FISHERIES.private](../../../../_private/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.private.md) 
-- [ANTARCTIC_FISHERIES.personal](../../../../_personal/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.personal.md) 
-- [ANTARCTIC_FISHERIES.secret](../../../../_secret/geo/Continent/Antarctica/ANTARCTIC_FISHERIES.secret.md) 

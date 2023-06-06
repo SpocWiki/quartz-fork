@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goertz=Goriza](../../../../../../_public/geo/Continent/Europe/Italy/City/Goertz=Goriza.md) 
-- [Goertz=Goriza.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Goertz=Goriza.internal.md) 
-- [Goertz=Goriza.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Goertz=Goriza.protect.md) 
-- [Goertz=Goriza.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Goertz=Goriza.private.md) 
-- [Goertz=Goriza.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Goertz=Goriza.personal.md) 
-- [Goertz=Goriza.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Goertz=Goriza.secret.md) 

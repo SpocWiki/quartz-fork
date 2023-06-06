@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Crewe](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Crewe.md) 
-- [Crewe.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Crewe.internal.md) 
-- [Crewe.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Crewe.protect.md) 
-- [Crewe.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Crewe.private.md) 
-- [Crewe.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Crewe.personal.md) 
-- [Crewe.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Crewe.secret.md) 

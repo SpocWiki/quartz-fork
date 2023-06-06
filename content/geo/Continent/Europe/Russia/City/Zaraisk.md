@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zaraisk](../../../../../../_public/geo/Continent/Europe/Russia/City/Zaraisk.md) 
-- [Zaraisk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zaraisk.internal.md) 
-- [Zaraisk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zaraisk.protect.md) 
-- [Zaraisk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zaraisk.private.md) 
-- [Zaraisk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zaraisk.personal.md) 
-- [Zaraisk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zaraisk.secret.md) 

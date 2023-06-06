@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wertingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wertingen.md) 
-- [Wertingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wertingen.internal.md) 
-- [Wertingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wertingen.protect.md) 
-- [Wertingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wertingen.private.md) 
-- [Wertingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wertingen.personal.md) 
-- [Wertingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wertingen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marseille](../../../../../../_public/geo/Continent/Europe/France/City/Marseille.md) 
-- [Marseille.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Marseille.internal.md) 
-- [Marseille.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Marseille.protect.md) 
-- [Marseille.private](../../../../../../_private/geo/Continent/Europe/France/City/Marseille.private.md) 
-- [Marseille.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Marseille.personal.md) 
-- [Marseille.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Marseille.secret.md) 

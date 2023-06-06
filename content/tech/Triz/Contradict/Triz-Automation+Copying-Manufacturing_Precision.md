@@ -19,10 +19,3 @@ title: Triz-Automation+Copying-Manufacturing_Precision
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Copying-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-Automation+Copying-Manufacturing_Precision.md) 
-- [Triz-Automation+Copying-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Copying-Manufacturing_Precision.internal.md) 
-- [Triz-Automation+Copying-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Copying-Manufacturing_Precision.protect.md) 
-- [Triz-Automation+Copying-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Copying-Manufacturing_Precision.private.md) 
-- [Triz-Automation+Copying-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Copying-Manufacturing_Precision.personal.md) 
-- [Triz-Automation+Copying-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Copying-Manufacturing_Precision.secret.md) 

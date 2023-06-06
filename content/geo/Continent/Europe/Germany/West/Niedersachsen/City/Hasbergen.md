@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hasbergen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hasbergen.md) 
-- [Hasbergen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hasbergen.internal.md) 
-- [Hasbergen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hasbergen.protect.md) 
-- [Hasbergen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hasbergen.private.md) 
-- [Hasbergen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hasbergen.personal.md) 
-- [Hasbergen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hasbergen.secret.md) 

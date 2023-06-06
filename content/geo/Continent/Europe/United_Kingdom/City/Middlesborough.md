@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Middlesborough](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Middlesborough.md) 
-- [Middlesborough.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Middlesborough.internal.md) 
-- [Middlesborough.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Middlesborough.protect.md) 
-- [Middlesborough.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Middlesborough.private.md) 
-- [Middlesborough.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Middlesborough.personal.md) 
-- [Middlesborough.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Middlesborough.secret.md) 

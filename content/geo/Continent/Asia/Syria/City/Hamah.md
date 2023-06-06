@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hamah](../../../../../../_public/geo/Continent/Asia/Syria/City/Hamah.md) 
-- [Hamah.internal](../../../../../../_internal/geo/Continent/Asia/Syria/City/Hamah.internal.md) 
-- [Hamah.protect](../../../../../../_protect/geo/Continent/Asia/Syria/City/Hamah.protect.md) 
-- [Hamah.private](../../../../../../_private/geo/Continent/Asia/Syria/City/Hamah.private.md) 
-- [Hamah.personal](../../../../../../_personal/geo/Continent/Asia/Syria/City/Hamah.personal.md) 
-- [Hamah.secret](../../../../../../_secret/geo/Continent/Asia/Syria/City/Hamah.secret.md) 

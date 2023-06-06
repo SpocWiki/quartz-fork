@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Gerauer_Straße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Gerauer_Stra%C3%9Fe.md) 
-- [T-Gerauer_Straße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Gerauer_Stra%C3%9Fe.internal.md) 
-- [T-Gerauer_Straße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Gerauer_Stra%C3%9Fe.protect.md) 
-- [T-Gerauer_Straße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Gerauer_Stra%C3%9Fe.private.md) 
-- [T-Gerauer_Straße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Gerauer_Stra%C3%9Fe.personal.md) 
-- [T-Gerauer_Straße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Gerauer_Stra%C3%9Fe.secret.md) 

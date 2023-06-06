@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tiverston](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tiverston.md) 
-- [Tiverston.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tiverston.internal.md) 
-- [Tiverston.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tiverston.protect.md) 
-- [Tiverston.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tiverston.private.md) 
-- [Tiverston.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tiverston.personal.md) 
-- [Tiverston.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tiverston.secret.md) 

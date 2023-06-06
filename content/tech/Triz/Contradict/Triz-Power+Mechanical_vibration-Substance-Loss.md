@@ -19,10 +19,3 @@ title: Triz-Power+Mechanical_vibration-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Mechanical_vibration-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.md) 
-- [Triz-Power+Mechanical_vibration-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.internal.md) 
-- [Triz-Power+Mechanical_vibration-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.protect.md) 
-- [Triz-Power+Mechanical_vibration-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.private.md) 
-- [Triz-Power+Mechanical_vibration-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.personal.md) 
-- [Triz-Power+Mechanical_vibration-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Mechanical_vibration-Substance-Loss.secret.md) 

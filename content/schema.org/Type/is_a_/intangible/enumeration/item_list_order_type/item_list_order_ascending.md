@@ -45,10 +45,3 @@ An ItemList ordered with lower values listed first.
 
 
 
-## Confidential Links & Embeds: 
-- [item_list_order_ascending](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.md) 
-- [item_list_order_ascending.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.internal.md) 
-- [item_list_order_ascending.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.protect.md) 
-- [item_list_order_ascending.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.private.md) 
-- [item_list_order_ascending.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.personal.md) 
-- [item_list_order_ascending.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.secret.md) 

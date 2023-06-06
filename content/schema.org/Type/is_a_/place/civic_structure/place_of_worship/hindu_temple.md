@@ -43,10 +43,3 @@ A Hindu temple.
 
 
 
-## Confidential Links & Embeds: 
-- [hindu_temple](../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship/hindu_temple.md) 
-- [hindu_temple.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/hindu_temple.internal.md) 
-- [hindu_temple.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship/hindu_temple.protect.md) 
-- [hindu_temple.private](../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship/hindu_temple.private.md) 
-- [hindu_temple.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/hindu_temple.personal.md) 
-- [hindu_temple.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship/hindu_temple.secret.md) 

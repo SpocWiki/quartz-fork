@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Verdun](../../../../../../_public/geo/Continent/Europe/France/City/Verdun.md) 
-- [Verdun.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Verdun.internal.md) 
-- [Verdun.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Verdun.protect.md) 
-- [Verdun.private](../../../../../../_private/geo/Continent/Europe/France/City/Verdun.private.md) 
-- [Verdun.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Verdun.personal.md) 
-- [Verdun.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Verdun.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klus](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klus.md) 
-- [Klus.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klus.internal.md) 
-- [Klus.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klus.protect.md) 
-- [Klus.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klus.private.md) 
-- [Klus.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klus.personal.md) 
-- [Klus.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Klus.secret.md) 

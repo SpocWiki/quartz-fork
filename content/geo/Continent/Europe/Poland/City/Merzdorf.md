@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Merzdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Merzdorf.md) 
-- [Merzdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Merzdorf.internal.md) 
-- [Merzdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Merzdorf.protect.md) 
-- [Merzdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Merzdorf.private.md) 
-- [Merzdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Merzdorf.personal.md) 
-- [Merzdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Merzdorf.secret.md) 

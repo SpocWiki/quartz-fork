@@ -43,10 +43,3 @@ Organization: Non-governmental Organization.
 
 
 
-## Confidential Links & Embeds: 
-- [ngo](../../../../../_public/schema.org/Type/is_a_/organization/ngo.md) 
-- [ngo.internal](../../../../../_internal/schema.org/Type/is_a_/organization/ngo.internal.md) 
-- [ngo.protect](../../../../../_protect/schema.org/Type/is_a_/organization/ngo.protect.md) 
-- [ngo.private](../../../../../_private/schema.org/Type/is_a_/organization/ngo.private.md) 
-- [ngo.personal](../../../../../_personal/schema.org/Type/is_a_/organization/ngo.personal.md) 
-- [ngo.secret](../../../../../_secret/schema.org/Type/is_a_/organization/ngo.secret.md) 

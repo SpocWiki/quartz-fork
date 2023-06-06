@@ -17,10 +17,3 @@ title: Triz-Chips_on_both_Sides
 
 Electronic Chips on both Sides of a printed Circuit Board
 
-## Confidential Links & Embeds: 
-- [Triz-Chips_on_both_Sides](../../../../_public/tech/Triz/Example/Triz-Chips_on_both_Sides.md) 
-- [Triz-Chips_on_both_Sides.internal](../../../../_internal/tech/Triz/Example/Triz-Chips_on_both_Sides.internal.md) 
-- [Triz-Chips_on_both_Sides.protect](../../../../_protect/tech/Triz/Example/Triz-Chips_on_both_Sides.protect.md) 
-- [Triz-Chips_on_both_Sides.private](../../../../_private/tech/Triz/Example/Triz-Chips_on_both_Sides.private.md) 
-- [Triz-Chips_on_both_Sides.personal](../../../../_personal/tech/Triz/Example/Triz-Chips_on_both_Sides.personal.md) 
-- [Triz-Chips_on_both_Sides.secret](../../../../_secret/tech/Triz/Example/Triz-Chips_on_both_Sides.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Comacchio](../../../../../../_public/geo/Continent/Europe/Italy/City/Comacchio.md) 
-- [Comacchio.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Comacchio.internal.md) 
-- [Comacchio.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Comacchio.protect.md) 
-- [Comacchio.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Comacchio.private.md) 
-- [Comacchio.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Comacchio.personal.md) 
-- [Comacchio.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Comacchio.secret.md) 

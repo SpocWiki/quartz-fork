@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lebus](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lebus.md) 
-- [Lebus.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lebus.internal.md) 
-- [Lebus.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lebus.protect.md) 
-- [Lebus.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lebus.private.md) 
-- [Lebus.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lebus.personal.md) 
-- [Lebus.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lebus.secret.md) 

@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_nerve_motor](../../../../../_public/schema.org/Predicate/Relations/has/has_nerve_motor.md) 
-- [has_nerve_motor.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_nerve_motor.internal.md) 
-- [has_nerve_motor.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_nerve_motor.protect.md) 
-- [has_nerve_motor.private](../../../../../_private/schema.org/Predicate/Relations/has/has_nerve_motor.private.md) 
-- [has_nerve_motor.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_nerve_motor.personal.md) 
-- [has_nerve_motor.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_nerve_motor.secret.md) 

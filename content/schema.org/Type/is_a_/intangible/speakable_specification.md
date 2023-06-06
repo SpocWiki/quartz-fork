@@ -43,10 +43,3 @@ A SpeakableSpecification indicates (typically via <a class="localLink" href="/xp
 
 
 
-## Confidential Links & Embeds: 
-- [speakable_specification](../../../../../_public/schema.org/Type/is_a_/intangible/speakable_specification.md) 
-- [speakable_specification.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/speakable_specification.internal.md) 
-- [speakable_specification.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/speakable_specification.protect.md) 
-- [speakable_specification.private](../../../../../_private/schema.org/Type/is_a_/intangible/speakable_specification.private.md) 
-- [speakable_specification.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/speakable_specification.personal.md) 
-- [speakable_specification.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/speakable_specification.secret.md) 

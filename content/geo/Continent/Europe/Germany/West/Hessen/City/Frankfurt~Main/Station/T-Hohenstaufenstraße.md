@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Hohenstaufenstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hohenstaufenstra%C3%9Fe.md) 
-- [T-Hohenstaufenstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hohenstaufenstra%C3%9Fe.internal.md) 
-- [T-Hohenstaufenstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hohenstaufenstra%C3%9Fe.protect.md) 
-- [T-Hohenstaufenstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hohenstaufenstra%C3%9Fe.private.md) 
-- [T-Hohenstaufenstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hohenstaufenstra%C3%9Fe.personal.md) 
-- [T-Hohenstaufenstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Hohenstaufenstra%C3%9Fe.secret.md) 

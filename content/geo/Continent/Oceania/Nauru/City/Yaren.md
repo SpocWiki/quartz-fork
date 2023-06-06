@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yaren](../../../../../../_public/geo/Continent/Oceania/Nauru/City/Yaren.md) 
-- [Yaren.internal](../../../../../../_internal/geo/Continent/Oceania/Nauru/City/Yaren.internal.md) 
-- [Yaren.protect](../../../../../../_protect/geo/Continent/Oceania/Nauru/City/Yaren.protect.md) 
-- [Yaren.private](../../../../../../_private/geo/Continent/Oceania/Nauru/City/Yaren.private.md) 
-- [Yaren.personal](../../../../../../_personal/geo/Continent/Oceania/Nauru/City/Yaren.personal.md) 
-- [Yaren.secret](../../../../../../_secret/geo/Continent/Oceania/Nauru/City/Yaren.secret.md) 

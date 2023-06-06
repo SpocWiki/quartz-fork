@@ -124,7 +124,7 @@ markerFolder: ./Uganda/City
 
 ![450](geo/Continent/Africa/Uganda/Coat_of_arms_of_Uganda.svg)
 
-![Anthem-Uganda](xLarge/National-Anthem/Anthem-Uganda.mp3)
+[Anthem-Uganda](xLarge/National-Anthem/Anthem-Uganda.mp3)
 
 ![350](geo/Continent/Africa/Uganda/Flag_of_Uganda.svg)
 
@@ -135,10 +135,3 @@ markerFolder: ./Uganda/City
 
 
 
-## Confidential Links & Embeds: 
-- [Uganda](../../../../_public/geo/Continent/Africa/Uganda.md) 
-- [Uganda.internal](../../../../_internal/geo/Continent/Africa/Uganda.internal.md) 
-- [Uganda.protect](../../../../_protect/geo/Continent/Africa/Uganda.protect.md) 
-- [Uganda.private](../../../../_private/geo/Continent/Africa/Uganda.private.md) 
-- [Uganda.personal](../../../../_personal/geo/Continent/Africa/Uganda.personal.md) 
-- [Uganda.secret](../../../../_secret/geo/Continent/Africa/Uganda.secret.md) 

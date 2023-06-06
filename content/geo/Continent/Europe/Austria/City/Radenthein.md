@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radenthein](../../../../../../_public/geo/Continent/Europe/Austria/City/Radenthein.md) 
-- [Radenthein.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Radenthein.internal.md) 
-- [Radenthein.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Radenthein.protect.md) 
-- [Radenthein.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Radenthein.private.md) 
-- [Radenthein.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Radenthein.personal.md) 
-- [Radenthein.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Radenthein.secret.md) 

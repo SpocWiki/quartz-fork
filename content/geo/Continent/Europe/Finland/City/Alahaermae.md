@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alahaermae](../../../../../../_public/geo/Continent/Europe/Finland/City/Alahaermae.md) 
-- [Alahaermae.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Alahaermae.internal.md) 
-- [Alahaermae.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Alahaermae.protect.md) 
-- [Alahaermae.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Alahaermae.private.md) 
-- [Alahaermae.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Alahaermae.personal.md) 
-- [Alahaermae.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Alahaermae.secret.md) 

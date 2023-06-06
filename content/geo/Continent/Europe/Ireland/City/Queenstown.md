@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Queenstown](../../../../../../_public/geo/Continent/Europe/Ireland/City/Queenstown.md) 
-- [Queenstown.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Queenstown.internal.md) 
-- [Queenstown.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Queenstown.protect.md) 
-- [Queenstown.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Queenstown.private.md) 
-- [Queenstown.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Queenstown.personal.md) 
-- [Queenstown.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Queenstown.secret.md) 

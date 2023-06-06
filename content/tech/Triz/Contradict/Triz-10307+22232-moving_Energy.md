@@ -19,10 +19,3 @@ title: Triz-10307+22232-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22232-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-10307+22232-moving_Energy.md) 
-- [Triz-10307+22232-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22232-moving_Energy.internal.md) 
-- [Triz-10307+22232-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22232-moving_Energy.protect.md) 
-- [Triz-10307+22232-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22232-moving_Energy.private.md) 
-- [Triz-10307+22232-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22232-moving_Energy.personal.md) 
-- [Triz-10307+22232-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22232-moving_Energy.secret.md) 

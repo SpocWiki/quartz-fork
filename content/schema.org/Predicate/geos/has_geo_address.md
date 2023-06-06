@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_address](../../../../_public/schema.org/Predicate/geos/has_geo_address.md) 
-- [has_geo_address.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_address.internal.md) 
-- [has_geo_address.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_address.protect.md) 
-- [has_geo_address.private](../../../../_private/schema.org/Predicate/geos/has_geo_address.private.md) 
-- [has_geo_address.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_address.personal.md) 
-- [has_geo_address.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_address.secret.md) 

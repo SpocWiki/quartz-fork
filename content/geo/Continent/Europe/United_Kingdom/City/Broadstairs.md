@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Broadstairs](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Broadstairs.md) 
-- [Broadstairs.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Broadstairs.internal.md) 
-- [Broadstairs.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Broadstairs.protect.md) 
-- [Broadstairs.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Broadstairs.private.md) 
-- [Broadstairs.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Broadstairs.personal.md) 
-- [Broadstairs.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Broadstairs.secret.md) 

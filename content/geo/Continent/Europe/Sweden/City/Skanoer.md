@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skanoer](../../../../../../_public/geo/Continent/Europe/Sweden/City/Skanoer.md) 
-- [Skanoer.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Skanoer.internal.md) 
-- [Skanoer.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Skanoer.protect.md) 
-- [Skanoer.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Skanoer.private.md) 
-- [Skanoer.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Skanoer.personal.md) 
-- [Skanoer.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Skanoer.secret.md) 

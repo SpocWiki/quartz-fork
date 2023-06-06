@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nogent_sur_Seine](../../../../../../_public/geo/Continent/Europe/France/City/Nogent_sur_Seine.md) 
-- [Nogent_sur_Seine.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nogent_sur_Seine.internal.md) 
-- [Nogent_sur_Seine.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nogent_sur_Seine.protect.md) 
-- [Nogent_sur_Seine.private](../../../../../../_private/geo/Continent/Europe/France/City/Nogent_sur_Seine.private.md) 
-- [Nogent_sur_Seine.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nogent_sur_Seine.personal.md) 
-- [Nogent_sur_Seine.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nogent_sur_Seine.secret.md) 

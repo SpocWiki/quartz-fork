@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Laasphe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Laasphe.md) 
-- [Laasphe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Laasphe.internal.md) 
-- [Laasphe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Laasphe.protect.md) 
-- [Laasphe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Laasphe.private.md) 
-- [Laasphe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Laasphe.personal.md) 
-- [Laasphe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Laasphe.secret.md) 

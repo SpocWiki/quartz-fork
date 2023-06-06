@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vietz](../../../../../../_public/geo/Continent/Europe/Poland/City/Vietz.md) 
-- [Vietz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Vietz.internal.md) 
-- [Vietz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Vietz.protect.md) 
-- [Vietz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Vietz.private.md) 
-- [Vietz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Vietz.personal.md) 
-- [Vietz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Vietz.secret.md) 

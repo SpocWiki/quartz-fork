@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Appenzell](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Appenzell.md) 
-- [Appenzell.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Appenzell.internal.md) 
-- [Appenzell.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Appenzell.protect.md) 
-- [Appenzell.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Appenzell.private.md) 
-- [Appenzell.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Appenzell.personal.md) 
-- [Appenzell.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Appenzell.secret.md) 

@@ -47,10 +47,3 @@ A program offered by an institution which determines the learning progress to ac
 
 
 
-## Confidential Links & Embeds: 
-- [educational_occupational_program](../../../../../_public/schema.org/Type/is_a_/intangible/educational_occupational_program.md) 
-- [educational_occupational_program.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/educational_occupational_program.internal.md) 
-- [educational_occupational_program.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/educational_occupational_program.protect.md) 
-- [educational_occupational_program.private](../../../../../_private/schema.org/Type/is_a_/intangible/educational_occupational_program.private.md) 
-- [educational_occupational_program.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/educational_occupational_program.personal.md) 
-- [educational_occupational_program.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/educational_occupational_program.secret.md) 

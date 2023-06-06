@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langenbrueck](../../../../../../_public/geo/Continent/Europe/Poland/City/Langenbrueck.md) 
-- [Langenbrueck.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Langenbrueck.internal.md) 
-- [Langenbrueck.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Langenbrueck.protect.md) 
-- [Langenbrueck.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Langenbrueck.private.md) 
-- [Langenbrueck.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Langenbrueck.personal.md) 
-- [Langenbrueck.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Langenbrueck.secret.md) 

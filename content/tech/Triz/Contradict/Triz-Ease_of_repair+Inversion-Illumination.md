@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Inversion-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Inversion-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.md) 
-- [Triz-Ease_of_repair+Inversion-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.internal.md) 
-- [Triz-Ease_of_repair+Inversion-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.protect.md) 
-- [Triz-Ease_of_repair+Inversion-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.private.md) 
-- [Triz-Ease_of_repair+Inversion-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.personal.md) 
-- [Triz-Ease_of_repair+Inversion-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Illumination.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valognes](../../../../../../_public/geo/Continent/Europe/France/City/Valognes.md) 
-- [Valognes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Valognes.internal.md) 
-- [Valognes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Valognes.protect.md) 
-- [Valognes.private](../../../../../../_private/geo/Continent/Europe/France/City/Valognes.private.md) 
-- [Valognes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Valognes.personal.md) 
-- [Valognes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Valognes.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borszczow](../../../../../../_public/geo/Continent/Europe/Poland/City/Borszczow.md) 
-- [Borszczow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Borszczow.internal.md) 
-- [Borszczow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Borszczow.protect.md) 
-- [Borszczow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Borszczow.private.md) 
-- [Borszczow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Borszczow.personal.md) 
-- [Borszczow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Borszczow.secret.md) 

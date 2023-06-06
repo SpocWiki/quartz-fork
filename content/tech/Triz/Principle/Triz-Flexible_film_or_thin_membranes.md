@@ -14,10 +14,3 @@ title: Triz-Flexible_film_or_thin_membranes
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Flexible_film_or_thin_membranes](../../../../_public/tech/Triz/Principle/Triz-Flexible_film_or_thin_membranes.md) 
-- [Triz-Flexible_film_or_thin_membranes.internal](../../../../_internal/tech/Triz/Principle/Triz-Flexible_film_or_thin_membranes.internal.md) 
-- [Triz-Flexible_film_or_thin_membranes.protect](../../../../_protect/tech/Triz/Principle/Triz-Flexible_film_or_thin_membranes.protect.md) 
-- [Triz-Flexible_film_or_thin_membranes.private](../../../../_private/tech/Triz/Principle/Triz-Flexible_film_or_thin_membranes.private.md) 
-- [Triz-Flexible_film_or_thin_membranes.personal](../../../../_personal/tech/Triz/Principle/Triz-Flexible_film_or_thin_membranes.personal.md) 
-- [Triz-Flexible_film_or_thin_membranes.secret](../../../../_secret/tech/Triz/Principle/Triz-Flexible_film_or_thin_membranes.secret.md) 

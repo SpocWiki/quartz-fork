@@ -45,10 +45,3 @@ The drug's cost represents the wholesale acquisition cost of the drug.
 
 
 
-## Confidential Links & Embeds: 
-- [wholesale](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.md) 
-- [wholesale.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.internal.md) 
-- [wholesale.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.protect.md) 
-- [wholesale.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.private.md) 
-- [wholesale.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.personal.md) 
-- [wholesale.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.secret.md) 

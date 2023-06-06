@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cartagena](../../../../../../_public/geo/Continent/Europe/Spain/City/Cartagena.md) 
-- [Cartagena.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Cartagena.internal.md) 
-- [Cartagena.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Cartagena.protect.md) 
-- [Cartagena.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Cartagena.private.md) 
-- [Cartagena.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Cartagena.personal.md) 
-- [Cartagena.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Cartagena.secret.md) 

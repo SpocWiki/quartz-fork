@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sobkowitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Sobkowitz.md) 
-- [Sobkowitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sobkowitz.internal.md) 
-- [Sobkowitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sobkowitz.protect.md) 
-- [Sobkowitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sobkowitz.private.md) 
-- [Sobkowitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sobkowitz.personal.md) 
-- [Sobkowitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sobkowitz.secret.md) 

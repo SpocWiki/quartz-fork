@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuressaar](../../../../../../_public/geo/Continent/Europe/Russia/City/Kuressaar.md) 
-- [Kuressaar.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kuressaar.internal.md) 
-- [Kuressaar.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kuressaar.protect.md) 
-- [Kuressaar.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kuressaar.private.md) 
-- [Kuressaar.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kuressaar.personal.md) 
-- [Kuressaar.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kuressaar.secret.md) 

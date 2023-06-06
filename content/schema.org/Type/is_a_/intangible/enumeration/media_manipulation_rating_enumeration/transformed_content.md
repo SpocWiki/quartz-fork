@@ -59,10 +59,3 @@ Part or all of the audio has been manipulated to alter the words or sounds, or t
 
 
 
-## Confidential Links & Embeds: 
-- [transformed_content](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.md) 
-- [transformed_content.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.internal.md) 
-- [transformed_content.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.protect.md) 
-- [transformed_content.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.private.md) 
-- [transformed_content.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.personal.md) 
-- [transformed_content.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/transformed_content.secret.md) 

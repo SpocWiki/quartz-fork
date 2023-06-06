@@ -47,10 +47,3 @@ Specifies that product returns must be made at a kiosk.
 
 
 
-## Confidential Links & Embeds: 
-- [return_at_kiosk](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.md) 
-- [return_at_kiosk.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.internal.md) 
-- [return_at_kiosk.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.protect.md) 
-- [return_at_kiosk.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.private.md) 
-- [return_at_kiosk.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.personal.md) 
-- [return_at_kiosk.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.secret.md) 

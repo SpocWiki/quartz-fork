@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dorchester](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dorchester.md) 
-- [Dorchester.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dorchester.internal.md) 
-- [Dorchester.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dorchester.protect.md) 
-- [Dorchester.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dorchester.private.md) 
-- [Dorchester.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dorchester.personal.md) 
-- [Dorchester.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dorchester.secret.md) 

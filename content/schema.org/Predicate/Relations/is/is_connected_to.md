@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_connected_to](../../../../../_public/schema.org/Predicate/Relations/is/is_connected_to.md) 
-- [is_connected_to.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_connected_to.internal.md) 
-- [is_connected_to.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_connected_to.protect.md) 
-- [is_connected_to.private](../../../../../_private/schema.org/Predicate/Relations/is/is_connected_to.private.md) 
-- [is_connected_to.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_connected_to.personal.md) 
-- [is_connected_to.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_connected_to.secret.md) 

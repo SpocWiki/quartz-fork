@@ -47,10 +47,3 @@ Represents the broad notion of iOS-based operating systems.
 
 
 
-## Confidential Links & Embeds: 
-- [ios_platform](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.md) 
-- [ios_platform.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.internal.md) 
-- [ios_platform.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.protect.md) 
-- [ios_platform.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.private.md) 
-- [ios_platform.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.personal.md) 
-- [ios_platform.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.secret.md) 

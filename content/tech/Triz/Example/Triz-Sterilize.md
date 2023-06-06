@@ -17,10 +17,3 @@ title: Triz-Sterilize
 
 Sterilize all Instruments needed for a surgical Procedure on a Sealed Tray.
 
-## Confidential Links & Embeds: 
-- [Triz-Sterilize](../../../../_public/tech/Triz/Example/Triz-Sterilize.md) 
-- [Triz-Sterilize.internal](../../../../_internal/tech/Triz/Example/Triz-Sterilize.internal.md) 
-- [Triz-Sterilize.protect](../../../../_protect/tech/Triz/Example/Triz-Sterilize.protect.md) 
-- [Triz-Sterilize.private](../../../../_private/tech/Triz/Example/Triz-Sterilize.private.md) 
-- [Triz-Sterilize.personal](../../../../_personal/tech/Triz/Example/Triz-Sterilize.personal.md) 
-- [Triz-Sterilize.secret](../../../../_secret/tech/Triz/Example/Triz-Sterilize.secret.md) 

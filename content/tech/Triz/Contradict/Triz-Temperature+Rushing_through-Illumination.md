@@ -19,10 +19,3 @@ title: Triz-Temperature+Rushing_through-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Rushing_through-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.md) 
-- [Triz-Temperature+Rushing_through-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.internal.md) 
-- [Triz-Temperature+Rushing_through-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.protect.md) 
-- [Triz-Temperature+Rushing_through-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.private.md) 
-- [Triz-Temperature+Rushing_through-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.personal.md) 
-- [Triz-Temperature+Rushing_through-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Illumination.secret.md) 

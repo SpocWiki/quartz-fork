@@ -19,10 +19,3 @@ title: Triz-moving_Length+Mediator-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Mediator-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Mediator-Difficulty.md) 
-- [Triz-moving_Length+Mediator-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Mediator-Difficulty.internal.md) 
-- [Triz-moving_Length+Mediator-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Mediator-Difficulty.protect.md) 
-- [Triz-moving_Length+Mediator-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Mediator-Difficulty.private.md) 
-- [Triz-moving_Length+Mediator-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Mediator-Difficulty.personal.md) 
-- [Triz-moving_Length+Mediator-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Mediator-Difficulty.secret.md) 

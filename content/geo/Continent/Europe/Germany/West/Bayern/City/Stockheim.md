@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stockheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Stockheim.md) 
-- [Stockheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Stockheim.internal.md) 
-- [Stockheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Stockheim.protect.md) 
-- [Stockheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Stockheim.private.md) 
-- [Stockheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Stockheim.personal.md) 
-- [Stockheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Stockheim.secret.md) 

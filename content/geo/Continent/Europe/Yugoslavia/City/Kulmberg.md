@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kulmberg](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Kulmberg.md) 
-- [Kulmberg.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kulmberg.internal.md) 
-- [Kulmberg.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kulmberg.protect.md) 
-- [Kulmberg.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kulmberg.private.md) 
-- [Kulmberg.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kulmberg.personal.md) 
-- [Kulmberg.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kulmberg.secret.md) 

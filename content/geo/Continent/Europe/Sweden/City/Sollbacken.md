@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sollbacken](../../../../../../_public/geo/Continent/Europe/Sweden/City/Sollbacken.md) 
-- [Sollbacken.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sollbacken.internal.md) 
-- [Sollbacken.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sollbacken.protect.md) 
-- [Sollbacken.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Sollbacken.private.md) 
-- [Sollbacken.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sollbacken.personal.md) 
-- [Sollbacken.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sollbacken.secret.md) 

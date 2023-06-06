@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwyz](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schwyz.md) 
-- [Schwyz.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schwyz.internal.md) 
-- [Schwyz.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schwyz.protect.md) 
-- [Schwyz.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schwyz.private.md) 
-- [Schwyz.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schwyz.personal.md) 
-- [Schwyz.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schwyz.secret.md) 

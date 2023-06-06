@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_consumable_for](../../../../../_public/schema.org/Predicate/Relations/is/is_consumable_for.md) 
-- [is_consumable_for.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_consumable_for.internal.md) 
-- [is_consumable_for.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_consumable_for.protect.md) 
-- [is_consumable_for.private](../../../../../_private/schema.org/Predicate/Relations/is/is_consumable_for.private.md) 
-- [is_consumable_for.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_consumable_for.personal.md) 
-- [is_consumable_for.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_consumable_for.secret.md) 

@@ -43,10 +43,3 @@ Properties that take Distances as values are of the form '&lt;Number&gt; &lt;Len
 
 
 
-## Confidential Links & Embeds: 
-- [distance](../../../../../../_public/schema.org/Type/is_a_/intangible/quantity/distance.md) 
-- [distance.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/quantity/distance.internal.md) 
-- [distance.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/quantity/distance.protect.md) 
-- [distance.private](../../../../../../_private/schema.org/Type/is_a_/intangible/quantity/distance.private.md) 
-- [distance.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/quantity/distance.personal.md) 
-- [distance.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/quantity/distance.secret.md) 

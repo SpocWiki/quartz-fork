@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mechtersen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mechtersen.md) 
-- [Mechtersen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mechtersen.internal.md) 
-- [Mechtersen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mechtersen.protect.md) 
-- [Mechtersen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mechtersen.private.md) 
-- [Mechtersen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mechtersen.personal.md) 
-- [Mechtersen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mechtersen.secret.md) 

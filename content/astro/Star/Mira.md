@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Mira](../../../_public/astro/Star/Mira.md) 
-- [Mira.internal](../../../_internal/astro/Star/Mira.internal.md) 
-- [Mira.protect](../../../_protect/astro/Star/Mira.protect.md) 
-- [Mira.private](../../../_private/astro/Star/Mira.private.md) 
-- [Mira.personal](../../../_personal/astro/Star/Mira.personal.md) 
-- [Mira.secret](../../../_secret/astro/Star/Mira.secret.md) 

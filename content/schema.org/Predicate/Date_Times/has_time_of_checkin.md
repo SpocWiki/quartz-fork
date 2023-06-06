@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_time_of_checkin](../../../../_public/schema.org/Predicate/Date_Times/has_time_of_checkin.md) 
-- [has_time_of_checkin.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_checkin.internal.md) 
-- [has_time_of_checkin.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_checkin.protect.md) 
-- [has_time_of_checkin.private](../../../../_private/schema.org/Predicate/Date_Times/has_time_of_checkin.private.md) 
-- [has_time_of_checkin.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_checkin.personal.md) 
-- [has_time_of_checkin.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_checkin.secret.md) 

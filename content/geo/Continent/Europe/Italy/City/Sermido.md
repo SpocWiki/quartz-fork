@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sermido](../../../../../../_public/geo/Continent/Europe/Italy/City/Sermido.md) 
-- [Sermido.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sermido.internal.md) 
-- [Sermido.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sermido.protect.md) 
-- [Sermido.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sermido.private.md) 
-- [Sermido.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sermido.personal.md) 
-- [Sermido.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sermido.secret.md) 

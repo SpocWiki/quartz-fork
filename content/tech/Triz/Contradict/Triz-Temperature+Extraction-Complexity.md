@@ -19,10 +19,3 @@ title: Triz-Temperature+Extraction-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Extraction-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.md) 
-- [Triz-Temperature+Extraction-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.internal.md) 
-- [Triz-Temperature+Extraction-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.protect.md) 
-- [Triz-Temperature+Extraction-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.private.md) 
-- [Triz-Temperature+Extraction-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.personal.md) 
-- [Triz-Temperature+Extraction-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-Complexity.secret.md) 

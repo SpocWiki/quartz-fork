@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stradam](../../../../../../_public/geo/Continent/Europe/Poland/City/Stradam.md) 
-- [Stradam.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Stradam.internal.md) 
-- [Stradam.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Stradam.protect.md) 
-- [Stradam.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Stradam.private.md) 
-- [Stradam.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Stradam.personal.md) 
-- [Stradam.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Stradam.secret.md) 

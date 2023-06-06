@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guentherberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.md) 
-- [Guentherberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.internal.md) 
-- [Guentherberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.protect.md) 
-- [Guentherberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.private.md) 
-- [Guentherberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.personal.md) 
-- [Guentherberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.secret.md) 

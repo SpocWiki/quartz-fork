@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flatholme](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Flatholme.md) 
-- [Flatholme.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Flatholme.internal.md) 
-- [Flatholme.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Flatholme.protect.md) 
-- [Flatholme.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Flatholme.private.md) 
-- [Flatholme.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Flatholme.personal.md) 
-- [Flatholme.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Flatholme.secret.md) 

@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_funder](../../../../../_public/schema.org/Predicate/Relations/has/has_funder.md) 
-- [has_funder.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_funder.internal.md) 
-- [has_funder.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_funder.protect.md) 
-- [has_funder.private](../../../../../_private/schema.org/Predicate/Relations/has/has_funder.private.md) 
-- [has_funder.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_funder.personal.md) 
-- [has_funder.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_funder.secret.md) 

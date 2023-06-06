@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castel_Sarrasin](../../../../../../_public/geo/Continent/Europe/France/City/Castel_Sarrasin.md) 
-- [Castel_Sarrasin.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Castel_Sarrasin.internal.md) 
-- [Castel_Sarrasin.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Castel_Sarrasin.protect.md) 
-- [Castel_Sarrasin.private](../../../../../../_private/geo/Continent/Europe/France/City/Castel_Sarrasin.private.md) 
-- [Castel_Sarrasin.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Castel_Sarrasin.personal.md) 
-- [Castel_Sarrasin.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Castel_Sarrasin.secret.md) 

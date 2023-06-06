@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moenichkirchen](../../../../../../_public/geo/Continent/Europe/Austria/City/Moenichkirchen.md) 
-- [Moenichkirchen.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Moenichkirchen.internal.md) 
-- [Moenichkirchen.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Moenichkirchen.protect.md) 
-- [Moenichkirchen.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Moenichkirchen.private.md) 
-- [Moenichkirchen.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Moenichkirchen.personal.md) 
-- [Moenichkirchen.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Moenichkirchen.secret.md) 

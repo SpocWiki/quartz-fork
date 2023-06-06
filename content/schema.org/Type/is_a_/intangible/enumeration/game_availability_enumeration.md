@@ -43,10 +43,3 @@ For a <a class="localLink" href="/VideoGame">VideoGame</a>, such as used with a 
 
 
 
-## Confidential Links & Embeds: 
-- [game_availability_enumeration](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration.md) 
-- [game_availability_enumeration.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration.internal.md) 
-- [game_availability_enumeration.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration.protect.md) 
-- [game_availability_enumeration.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration.private.md) 
-- [game_availability_enumeration.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration.personal.md) 
-- [game_availability_enumeration.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration.secret.md) 

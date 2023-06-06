@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bautsch](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bautsch.md) 
-- [Bautsch.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bautsch.internal.md) 
-- [Bautsch.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bautsch.protect.md) 
-- [Bautsch.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bautsch.private.md) 
-- [Bautsch.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bautsch.personal.md) 
-- [Bautsch.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bautsch.secret.md) 

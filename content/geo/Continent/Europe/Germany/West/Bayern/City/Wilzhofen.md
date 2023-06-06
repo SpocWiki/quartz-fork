@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wilzhofen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wilzhofen.md) 
-- [Wilzhofen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wilzhofen.internal.md) 
-- [Wilzhofen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wilzhofen.protect.md) 
-- [Wilzhofen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wilzhofen.private.md) 
-- [Wilzhofen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wilzhofen.personal.md) 
-- [Wilzhofen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wilzhofen.secret.md) 

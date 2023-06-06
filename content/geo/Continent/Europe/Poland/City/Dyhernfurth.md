@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dyhernfurth](../../../../../../_public/geo/Continent/Europe/Poland/City/Dyhernfurth.md) 
-- [Dyhernfurth.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Dyhernfurth.internal.md) 
-- [Dyhernfurth.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Dyhernfurth.protect.md) 
-- [Dyhernfurth.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Dyhernfurth.private.md) 
-- [Dyhernfurth.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Dyhernfurth.personal.md) 
-- [Dyhernfurth.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Dyhernfurth.secret.md) 

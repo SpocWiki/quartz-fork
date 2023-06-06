@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Raab=Gyor](../../../../../../_public/geo/Continent/Europe/Hungary/City/Raab=Gyor.md) 
-- [Raab=Gyor.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Raab=Gyor.internal.md) 
-- [Raab=Gyor.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Raab=Gyor.protect.md) 
-- [Raab=Gyor.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Raab=Gyor.private.md) 
-- [Raab=Gyor.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Raab=Gyor.personal.md) 
-- [Raab=Gyor.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Raab=Gyor.secret.md) 

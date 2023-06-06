@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kovima=la_Basse](../../../../../../_public/geo/Continent/Europe/Russia/City/Kovima=la_Basse.md) 
-- [Kovima=la_Basse.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kovima=la_Basse.internal.md) 
-- [Kovima=la_Basse.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kovima=la_Basse.protect.md) 
-- [Kovima=la_Basse.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kovima=la_Basse.private.md) 
-- [Kovima=la_Basse.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kovima=la_Basse.personal.md) 
-- [Kovima=la_Basse.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kovima=la_Basse.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nijmegen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Nijmegen.md) 
-- [Nijmegen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Nijmegen.internal.md) 
-- [Nijmegen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Nijmegen.protect.md) 
-- [Nijmegen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Nijmegen.private.md) 
-- [Nijmegen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Nijmegen.personal.md) 
-- [Nijmegen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Nijmegen.secret.md) 

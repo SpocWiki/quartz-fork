@@ -122,7 +122,7 @@ markerFolder: ./Guinea-Bissau/City
 
 ![350](geo/Continent/Africa/Guinea-Bissau/Emblem_of_Guinea-Bissau.svg)
 
-![Anthem-Guinea-bissau](xLarge/National-Anthem/Anthem-Guinea-bissau.mp3)
+[Anthem-Guinea-bissau](xLarge/National-Anthem/Anthem-Guinea-bissau.mp3)
 
 ![350](geo/Continent/Africa/Guinea-Bissau/Flag_of_Guinea-Bissau.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Guinea-Bissau/City
 
 
 
-## Confidential Links & Embeds: 
-- [Guinea-Bissau](../../../../_public/geo/Continent/Africa/Guinea-Bissau.md) 
-- [Guinea-Bissau.internal](../../../../_internal/geo/Continent/Africa/Guinea-Bissau.internal.md) 
-- [Guinea-Bissau.protect](../../../../_protect/geo/Continent/Africa/Guinea-Bissau.protect.md) 
-- [Guinea-Bissau.private](../../../../_private/geo/Continent/Africa/Guinea-Bissau.private.md) 
-- [Guinea-Bissau.personal](../../../../_personal/geo/Continent/Africa/Guinea-Bissau.personal.md) 
-- [Guinea-Bissau.secret](../../../../_secret/geo/Continent/Africa/Guinea-Bissau.secret.md) 

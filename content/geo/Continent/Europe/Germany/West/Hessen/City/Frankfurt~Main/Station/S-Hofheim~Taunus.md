@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Hofheim~Taunus](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hofheim~Taunus.md) 
-- [S-Hofheim~Taunus.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hofheim~Taunus.internal.md) 
-- [S-Hofheim~Taunus.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hofheim~Taunus.protect.md) 
-- [S-Hofheim~Taunus.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hofheim~Taunus.private.md) 
-- [S-Hofheim~Taunus.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hofheim~Taunus.personal.md) 
-- [S-Hofheim~Taunus.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hofheim~Taunus.secret.md) 

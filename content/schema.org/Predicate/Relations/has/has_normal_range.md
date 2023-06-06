@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_normal_range](../../../../../_public/schema.org/Predicate/Relations/has/has_normal_range.md) 
-- [has_normal_range.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_normal_range.internal.md) 
-- [has_normal_range.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_normal_range.protect.md) 
-- [has_normal_range.private](../../../../../_private/schema.org/Predicate/Relations/has/has_normal_range.private.md) 
-- [has_normal_range.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_normal_range.personal.md) 
-- [has_normal_range.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_normal_range.secret.md) 

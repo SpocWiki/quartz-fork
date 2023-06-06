@@ -43,10 +43,3 @@ A real-estate agent.
 
 
 
-## Confidential Links & Embeds: 
-- [real_estate_agent](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/real_estate_agent.md) 
-- [real_estate_agent.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/real_estate_agent.internal.md) 
-- [real_estate_agent.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/real_estate_agent.protect.md) 
-- [real_estate_agent.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/real_estate_agent.private.md) 
-- [real_estate_agent.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/real_estate_agent.personal.md) 
-- [real_estate_agent.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/real_estate_agent.secret.md) 

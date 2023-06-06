@@ -43,10 +43,3 @@ An art gallery.
 
 
 
-## Confidential Links & Embeds: 
-- [art_gallery](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.md) 
-- [art_gallery.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.internal.md) 
-- [art_gallery.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.protect.md) 
-- [art_gallery.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.private.md) 
-- [art_gallery.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.personal.md) 
-- [art_gallery.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.secret.md) 

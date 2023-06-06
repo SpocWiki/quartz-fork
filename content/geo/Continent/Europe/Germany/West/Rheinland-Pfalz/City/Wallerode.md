@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wallerode](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wallerode.md) 
-- [Wallerode.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wallerode.internal.md) 
-- [Wallerode.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wallerode.protect.md) 
-- [Wallerode.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wallerode.private.md) 
-- [Wallerode.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wallerode.personal.md) 
-- [Wallerode.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Wallerode.secret.md) 

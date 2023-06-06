@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Toul](../../../../../../_public/geo/Continent/Europe/France/City/Toul.md) 
-- [Toul.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Toul.internal.md) 
-- [Toul.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Toul.protect.md) 
-- [Toul.private](../../../../../../_private/geo/Continent/Europe/France/City/Toul.private.md) 
-- [Toul.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Toul.personal.md) 
-- [Toul.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Toul.secret.md) 

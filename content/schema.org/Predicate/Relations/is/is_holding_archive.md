@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_holding_archive](../../../../../_public/schema.org/Predicate/Relations/is/is_holding_archive.md) 
-- [is_holding_archive.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_holding_archive.internal.md) 
-- [is_holding_archive.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_holding_archive.protect.md) 
-- [is_holding_archive.private](../../../../../_private/schema.org/Predicate/Relations/is/is_holding_archive.private.md) 
-- [is_holding_archive.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_holding_archive.personal.md) 
-- [is_holding_archive.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_holding_archive.secret.md) 

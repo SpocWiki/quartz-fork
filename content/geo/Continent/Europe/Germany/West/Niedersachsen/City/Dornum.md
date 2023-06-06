@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dornum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dornum.md) 
-- [Dornum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dornum.internal.md) 
-- [Dornum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dornum.protect.md) 
-- [Dornum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dornum.private.md) 
-- [Dornum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dornum.personal.md) 
-- [Dornum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Dornum.secret.md) 

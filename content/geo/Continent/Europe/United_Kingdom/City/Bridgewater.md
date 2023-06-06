@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bridgewater](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bridgewater.md) 
-- [Bridgewater.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bridgewater.internal.md) 
-- [Bridgewater.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bridgewater.protect.md) 
-- [Bridgewater.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bridgewater.private.md) 
-- [Bridgewater.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bridgewater.personal.md) 
-- [Bridgewater.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bridgewater.secret.md) 

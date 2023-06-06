@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Osimo](../../../../../../_public/geo/Continent/Europe/Italy/City/Osimo.md) 
-- [Osimo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Osimo.internal.md) 
-- [Osimo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Osimo.protect.md) 
-- [Osimo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Osimo.private.md) 
-- [Osimo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Osimo.personal.md) 
-- [Osimo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Osimo.secret.md) 

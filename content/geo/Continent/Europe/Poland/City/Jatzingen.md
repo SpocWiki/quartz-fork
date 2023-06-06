@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jatzingen](../../../../../../_public/geo/Continent/Europe/Poland/City/Jatzingen.md) 
-- [Jatzingen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Jatzingen.internal.md) 
-- [Jatzingen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Jatzingen.protect.md) 
-- [Jatzingen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Jatzingen.private.md) 
-- [Jatzingen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Jatzingen.personal.md) 
-- [Jatzingen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Jatzingen.secret.md) 

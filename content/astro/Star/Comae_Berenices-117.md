@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Comae_Berenices-117](../../../_public/astro/Star/Comae_Berenices-117.md) 
-- [Comae_Berenices-117.internal](../../../_internal/astro/Star/Comae_Berenices-117.internal.md) 
-- [Comae_Berenices-117.protect](../../../_protect/astro/Star/Comae_Berenices-117.protect.md) 
-- [Comae_Berenices-117.private](../../../_private/astro/Star/Comae_Berenices-117.private.md) 
-- [Comae_Berenices-117.personal](../../../_personal/astro/Star/Comae_Berenices-117.personal.md) 
-- [Comae_Berenices-117.secret](../../../_secret/astro/Star/Comae_Berenices-117.secret.md)
-

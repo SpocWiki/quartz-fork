@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sheliak](../../../_public/astro/Star/Sheliak.md) 
-- [Sheliak.internal](../../../_internal/astro/Star/Sheliak.internal.md) 
-- [Sheliak.protect](../../../_protect/astro/Star/Sheliak.protect.md) 
-- [Sheliak.private](../../../_private/astro/Star/Sheliak.private.md) 
-- [Sheliak.personal](../../../_personal/astro/Star/Sheliak.personal.md) 
-- [Sheliak.secret](../../../_secret/astro/Star/Sheliak.secret.md) 

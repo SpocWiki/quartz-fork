@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nordenburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Nordenburg.md) 
-- [Nordenburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Nordenburg.internal.md) 
-- [Nordenburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Nordenburg.protect.md) 
-- [Nordenburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Nordenburg.private.md) 
-- [Nordenburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Nordenburg.personal.md) 
-- [Nordenburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Nordenburg.secret.md) 

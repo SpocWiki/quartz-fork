@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aldboraugh](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.md) 
-- [Aldboraugh.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.internal.md) 
-- [Aldboraugh.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.protect.md) 
-- [Aldboraugh.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.private.md) 
-- [Aldboraugh.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.personal.md) 
-- [Aldboraugh.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Aldboraugh.secret.md) 

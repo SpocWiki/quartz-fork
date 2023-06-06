@@ -124,7 +124,7 @@ markerFolder: ./Sweden/City
 [Capital::[Stockholm](geo/Continent/Europe/Sweden/City/Stockholm.md)]
 ![350](geo/Continent/Europe/Sweden/Coat_of_arms_of_Sweden.svg)
 
-![Anthem-Sweden](xLarge/National-Anthem/Anthem-Sweden.mp3)
+[Anthem-Sweden](xLarge/National-Anthem/Anthem-Sweden.mp3)
 
 ![350](geo/Continent/Europe/Sweden/Flag_of_Sweden.svg)
 [Alcohol-l::10.3]
@@ -134,10 +134,3 @@ markerFolder: ./Sweden/City
 
 
 
-## Confidential Links & Embeds: 
-- [Sweden](../../../../_public/geo/Continent/Europe/Sweden.md) 
-- [Sweden.internal](../../../../_internal/geo/Continent/Europe/Sweden.internal.md) 
-- [Sweden.protect](../../../../_protect/geo/Continent/Europe/Sweden.protect.md) 
-- [Sweden.private](../../../../_private/geo/Continent/Europe/Sweden.private.md) 
-- [Sweden.personal](../../../../_personal/geo/Continent/Europe/Sweden.personal.md) 
-- [Sweden.secret](../../../../_secret/geo/Continent/Europe/Sweden.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repai
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.md) 
-- [Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal.md) 
-- [Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect.md) 
-- [Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.private.md) 
-- [Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.personal.md) 
-- [Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Partial,_overdone,_or_excessive_action-Ease_of_repair.secret.md) 

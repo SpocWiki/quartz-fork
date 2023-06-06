@@ -19,10 +19,3 @@ title: Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_obj
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.md) 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.internal.md) 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.protect.md) 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.private.md) 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.personal.md) 
-- [Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Transformation_of_physical_and_chemical_states_of_an_object-Substance-Loss.secret.md) 

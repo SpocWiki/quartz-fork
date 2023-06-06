@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Atlas](../../../_public/astro/Star/Atlas.md) 
-- [Atlas.internal](../../../_internal/astro/Star/Atlas.internal.md) 
-- [Atlas.protect](../../../_protect/astro/Star/Atlas.protect.md) 
-- [Atlas.private](../../../_private/astro/Star/Atlas.private.md) 
-- [Atlas.personal](../../../_personal/astro/Star/Atlas.personal.md) 
-- [Atlas.secret](../../../_secret/astro/Star/Atlas.secret.md)
-

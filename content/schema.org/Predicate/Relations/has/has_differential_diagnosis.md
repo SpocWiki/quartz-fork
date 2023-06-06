@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_differential_diagnosis](../../../../../_public/schema.org/Predicate/Relations/has/has_differential_diagnosis.md) 
-- [has_differential_diagnosis.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_differential_diagnosis.internal.md) 
-- [has_differential_diagnosis.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_differential_diagnosis.protect.md) 
-- [has_differential_diagnosis.private](../../../../../_private/schema.org/Predicate/Relations/has/has_differential_diagnosis.private.md) 
-- [has_differential_diagnosis.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_differential_diagnosis.personal.md) 
-- [has_differential_diagnosis.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_differential_diagnosis.secret.md) 

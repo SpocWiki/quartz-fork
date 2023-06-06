@@ -47,10 +47,3 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 
 
-## Confidential Links & Embeds: 
-- [role](../../../../../_public/schema.org/Type/is_a_/intangible/role.md) 
-- [role.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/role.internal.md) 
-- [role.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/role.protect.md) 
-- [role.private](../../../../../_private/schema.org/Type/is_a_/intangible/role.private.md) 
-- [role.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/role.personal.md) 
-- [role.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/role.secret.md) 

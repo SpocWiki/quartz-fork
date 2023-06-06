@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [San_Marino~City](../../../../../../_public/geo/Continent/Europe/San_Marino/City/San_Marino~City.md) 
-- [San_Marino~City.internal](../../../../../../_internal/geo/Continent/Europe/San_Marino/City/San_Marino~City.internal.md) 
-- [San_Marino~City.protect](../../../../../../_protect/geo/Continent/Europe/San_Marino/City/San_Marino~City.protect.md) 
-- [San_Marino~City.private](../../../../../../_private/geo/Continent/Europe/San_Marino/City/San_Marino~City.private.md) 
-- [San_Marino~City.personal](../../../../../../_personal/geo/Continent/Europe/San_Marino/City/San_Marino~City.personal.md) 
-- [San_Marino~City.secret](../../../../../../_secret/geo/Continent/Europe/San_Marino/City/San_Marino~City.secret.md) 

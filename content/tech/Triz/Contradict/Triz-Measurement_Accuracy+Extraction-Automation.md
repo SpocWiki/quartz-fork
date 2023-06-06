@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Extraction-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Extraction-Automation](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Automation.md) 
-- [Triz-Measurement_Accuracy+Extraction-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Automation.internal.md) 
-- [Triz-Measurement_Accuracy+Extraction-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Automation.protect.md) 
-- [Triz-Measurement_Accuracy+Extraction-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Automation.private.md) 
-- [Triz-Measurement_Accuracy+Extraction-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Automation.personal.md) 
-- [Triz-Measurement_Accuracy+Extraction-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Extraction-Automation.secret.md) 

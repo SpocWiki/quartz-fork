@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Zaniah](../../../_public/astro/Star/Zaniah.md) 
-- [Zaniah.internal](../../../_internal/astro/Star/Zaniah.internal.md) 
-- [Zaniah.protect](../../../_protect/astro/Star/Zaniah.protect.md) 
-- [Zaniah.private](../../../_private/astro/Star/Zaniah.private.md) 
-- [Zaniah.personal](../../../_personal/astro/Star/Zaniah.personal.md) 
-- [Zaniah.secret](../../../_secret/astro/Star/Zaniah.secret.md) 

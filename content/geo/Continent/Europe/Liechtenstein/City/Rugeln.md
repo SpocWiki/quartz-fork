@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rugeln](../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Rugeln.md) 
-- [Rugeln.internal](../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Rugeln.internal.md) 
-- [Rugeln.protect](../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Rugeln.protect.md) 
-- [Rugeln.private](../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Rugeln.private.md) 
-- [Rugeln.personal](../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Rugeln.personal.md) 
-- [Rugeln.secret](../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Rugeln.secret.md) 

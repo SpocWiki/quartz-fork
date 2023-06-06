@@ -19,10 +19,3 @@ title: Triz-stationary_Duration+Extraction-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Duration+Extraction-Versatility](../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.md) 
-- [Triz-stationary_Duration+Extraction-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.internal.md) 
-- [Triz-stationary_Duration+Extraction-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.protect.md) 
-- [Triz-stationary_Duration+Extraction-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.private.md) 
-- [Triz-stationary_Duration+Extraction-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.personal.md) 
-- [Triz-stationary_Duration+Extraction-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Extraction-Versatility.secret.md) 

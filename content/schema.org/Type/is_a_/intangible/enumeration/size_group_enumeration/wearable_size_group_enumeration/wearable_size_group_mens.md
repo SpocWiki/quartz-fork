@@ -47,10 +47,3 @@ Size group "Mens" for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_group_mens](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.md) 
-- [wearable_size_group_mens.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.internal.md) 
-- [wearable_size_group_mens.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.protect.md) 
-- [wearable_size_group_mens.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.private.md) 
-- [wearable_size_group_mens.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.personal.md) 
-- [wearable_size_group_mens.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_mens.secret.md) 

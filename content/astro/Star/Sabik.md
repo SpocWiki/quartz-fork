@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sabik](../../../_public/astro/Star/Sabik.md) 
-- [Sabik.internal](../../../_internal/astro/Star/Sabik.internal.md) 
-- [Sabik.protect](../../../_protect/astro/Star/Sabik.protect.md) 
-- [Sabik.private](../../../_private/astro/Star/Sabik.private.md) 
-- [Sabik.personal](../../../_personal/astro/Star/Sabik.personal.md) 
-- [Sabik.secret](../../../_secret/astro/Star/Sabik.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wieren](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wieren.md) 
-- [Wieren.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wieren.internal.md) 
-- [Wieren.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wieren.protect.md) 
-- [Wieren.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wieren.private.md) 
-- [Wieren.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wieren.personal.md) 
-- [Wieren.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wieren.secret.md) 

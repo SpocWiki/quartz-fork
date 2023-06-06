@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Levico](../../../../../../_public/geo/Continent/Europe/Italy/City/Levico.md) 
-- [Levico.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Levico.internal.md) 
-- [Levico.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Levico.protect.md) 
-- [Levico.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Levico.private.md) 
-- [Levico.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Levico.personal.md) 
-- [Levico.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Levico.secret.md) 

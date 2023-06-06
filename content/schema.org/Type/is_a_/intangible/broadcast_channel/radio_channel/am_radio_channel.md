@@ -43,10 +43,3 @@ A radio channel that uses AM.
 
 
 
-## Confidential Links & Embeds: 
-- [am_radio_channel](../../../../../../../_public/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.md) 
-- [am_radio_channel.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.internal.md) 
-- [am_radio_channel.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.protect.md) 
-- [am_radio_channel.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.private.md) 
-- [am_radio_channel.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.personal.md) 
-- [am_radio_channel.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.secret.md) 

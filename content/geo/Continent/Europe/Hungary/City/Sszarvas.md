@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sszarvas](../../../../../../_public/geo/Continent/Europe/Hungary/City/Sszarvas.md) 
-- [Sszarvas.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Sszarvas.internal.md) 
-- [Sszarvas.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Sszarvas.protect.md) 
-- [Sszarvas.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Sszarvas.private.md) 
-- [Sszarvas.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Sszarvas.personal.md) 
-- [Sszarvas.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Sszarvas.secret.md) 

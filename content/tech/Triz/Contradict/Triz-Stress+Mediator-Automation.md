@@ -19,10 +19,3 @@ title: Triz-Stress+Mediator-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Mediator-Automation](../../../../_public/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.md) 
-- [Triz-Stress+Mediator-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.internal.md) 
-- [Triz-Stress+Mediator-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.protect.md) 
-- [Triz-Stress+Mediator-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.private.md) 
-- [Triz-Stress+Mediator-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.personal.md) 
-- [Triz-Stress+Mediator-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Mediator-Automation.secret.md) 

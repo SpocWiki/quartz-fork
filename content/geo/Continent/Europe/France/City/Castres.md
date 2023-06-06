@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castres](../../../../../../_public/geo/Continent/Europe/France/City/Castres.md) 
-- [Castres.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Castres.internal.md) 
-- [Castres.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Castres.protect.md) 
-- [Castres.private](../../../../../../_private/geo/Continent/Europe/France/City/Castres.private.md) 
-- [Castres.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Castres.personal.md) 
-- [Castres.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Castres.secret.md) 

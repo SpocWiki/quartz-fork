@@ -128,10 +128,3 @@ markerFolder: ./New_Caledonia/City
 
 
 
-## Confidential Links & Embeds: 
-- [New_Caledonia](../../../../_public/geo/Continent/Australia/New_Caledonia.md) 
-- [New_Caledonia.internal](../../../../_internal/geo/Continent/Australia/New_Caledonia.internal.md) 
-- [New_Caledonia.protect](../../../../_protect/geo/Continent/Australia/New_Caledonia.protect.md) 
-- [New_Caledonia.private](../../../../_private/geo/Continent/Australia/New_Caledonia.private.md) 
-- [New_Caledonia.personal](../../../../_personal/geo/Continent/Australia/New_Caledonia.personal.md) 
-- [New_Caledonia.secret](../../../../_secret/geo/Continent/Australia/New_Caledonia.secret.md) 

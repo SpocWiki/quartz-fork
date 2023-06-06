@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koberg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Koberg.md) 
-- [Koberg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Koberg.internal.md) 
-- [Koberg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Koberg.protect.md) 
-- [Koberg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Koberg.private.md) 
-- [Koberg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Koberg.personal.md) 
-- [Koberg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Koberg.secret.md) 

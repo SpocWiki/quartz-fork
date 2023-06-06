@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flitsch](../../../../../../_public/geo/Continent/Europe/Italy/City/Flitsch.md) 
-- [Flitsch.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Flitsch.internal.md) 
-- [Flitsch.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Flitsch.protect.md) 
-- [Flitsch.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Flitsch.private.md) 
-- [Flitsch.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Flitsch.personal.md) 
-- [Flitsch.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Flitsch.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Crosara](../../../../../../_public/geo/Continent/Europe/Italy/City/Crosara.md) 
-- [Crosara.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Crosara.internal.md) 
-- [Crosara.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Crosara.protect.md) 
-- [Crosara.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Crosara.private.md) 
-- [Crosara.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Crosara.personal.md) 
-- [Crosara.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Crosara.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dulverton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Dulverton.md) 
-- [Dulverton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Dulverton.internal.md) 
-- [Dulverton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Dulverton.protect.md) 
-- [Dulverton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Dulverton.private.md) 
-- [Dulverton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Dulverton.personal.md) 
-- [Dulverton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Dulverton.secret.md) 

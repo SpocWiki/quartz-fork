@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_landlord](../../../../../_public/schema.org/Predicate/Relations/has/has_landlord.md) 
-- [has_landlord.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_landlord.internal.md) 
-- [has_landlord.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_landlord.protect.md) 
-- [has_landlord.private](../../../../../_private/schema.org/Predicate/Relations/has/has_landlord.private.md) 
-- [has_landlord.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_landlord.personal.md) 
-- [has_landlord.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_landlord.secret.md) 

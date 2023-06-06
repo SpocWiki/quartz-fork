@@ -17,10 +17,3 @@ title: Triz-dissolving_Capsule
 
 Use a dissolving Capsule for Medicine.
 
-## Confidential Links & Embeds: 
-- [Triz-dissolving_Capsule](../../../../_public/tech/Triz/Example/Triz-dissolving_Capsule.md) 
-- [Triz-dissolving_Capsule.internal](../../../../_internal/tech/Triz/Example/Triz-dissolving_Capsule.internal.md) 
-- [Triz-dissolving_Capsule.protect](../../../../_protect/tech/Triz/Example/Triz-dissolving_Capsule.protect.md) 
-- [Triz-dissolving_Capsule.private](../../../../_private/tech/Triz/Example/Triz-dissolving_Capsule.private.md) 
-- [Triz-dissolving_Capsule.personal](../../../../_personal/tech/Triz/Example/Triz-dissolving_Capsule.personal.md) 
-- [Triz-dissolving_Capsule.secret](../../../../_secret/tech/Triz/Example/Triz-dissolving_Capsule.secret.md) 

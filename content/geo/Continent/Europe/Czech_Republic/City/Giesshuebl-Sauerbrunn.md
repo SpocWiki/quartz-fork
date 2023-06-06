@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Giesshuebl-Sauerbrunn](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.md) 
-- [Giesshuebl-Sauerbrunn.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.internal.md) 
-- [Giesshuebl-Sauerbrunn.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.protect.md) 
-- [Giesshuebl-Sauerbrunn.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.private.md) 
-- [Giesshuebl-Sauerbrunn.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.personal.md) 
-- [Giesshuebl-Sauerbrunn.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Giesshuebl-Sauerbrunn.secret.md) 

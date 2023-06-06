@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Gacrux](../../../_public/astro/Star/Gacrux.md) 
-- [Gacrux.internal](../../../_internal/astro/Star/Gacrux.internal.md) 
-- [Gacrux.protect](../../../_protect/astro/Star/Gacrux.protect.md) 
-- [Gacrux.private](../../../_private/astro/Star/Gacrux.private.md) 
-- [Gacrux.personal](../../../_personal/astro/Star/Gacrux.personal.md) 
-- [Gacrux.secret](../../../_secret/astro/Star/Gacrux.secret.md)
-

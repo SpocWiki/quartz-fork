@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Whitehorse](../../../../../../_public/geo/Continent/North-America/Canada/City/Whitehorse.md) 
-- [Whitehorse.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Whitehorse.internal.md) 
-- [Whitehorse.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Whitehorse.protect.md) 
-- [Whitehorse.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Whitehorse.private.md) 
-- [Whitehorse.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Whitehorse.personal.md) 
-- [Whitehorse.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Whitehorse.secret.md) 

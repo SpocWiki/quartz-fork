@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dallas](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.md) 
-- [Dallas.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.internal.md) 
-- [Dallas.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.protect.md) 
-- [Dallas.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.private.md) 
-- [Dallas.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.personal.md) 
-- [Dallas.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Texas/City/Dallas.secret.md) 

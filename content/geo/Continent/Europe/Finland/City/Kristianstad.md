@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kristianstad](../../../../../../_public/geo/Continent/Europe/Finland/City/Kristianstad.md) 
-- [Kristianstad.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kristianstad.internal.md) 
-- [Kristianstad.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kristianstad.protect.md) 
-- [Kristianstad.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kristianstad.private.md) 
-- [Kristianstad.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kristianstad.personal.md) 
-- [Kristianstad.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kristianstad.secret.md) 

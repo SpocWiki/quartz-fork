@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Runkel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Runkel.md) 
-- [Runkel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Runkel.internal.md) 
-- [Runkel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Runkel.protect.md) 
-- [Runkel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Runkel.private.md) 
-- [Runkel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Runkel.personal.md) 
-- [Runkel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Runkel.secret.md) 

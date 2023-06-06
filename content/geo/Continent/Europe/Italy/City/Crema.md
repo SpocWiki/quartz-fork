@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Crema](../../../../../../_public/geo/Continent/Europe/Italy/City/Crema.md) 
-- [Crema.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Crema.internal.md) 
-- [Crema.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Crema.protect.md) 
-- [Crema.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Crema.private.md) 
-- [Crema.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Crema.personal.md) 
-- [Crema.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Crema.secret.md) 

@@ -14,10 +14,3 @@ title: Triz-Segmentation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Segmentation](../../../../_public/tech/Triz/Principle/Triz-Segmentation.md) 
-- [Triz-Segmentation.internal](../../../../_internal/tech/Triz/Principle/Triz-Segmentation.internal.md) 
-- [Triz-Segmentation.protect](../../../../_protect/tech/Triz/Principle/Triz-Segmentation.protect.md) 
-- [Triz-Segmentation.private](../../../../_private/tech/Triz/Principle/Triz-Segmentation.private.md) 
-- [Triz-Segmentation.personal](../../../../_personal/tech/Triz/Principle/Triz-Segmentation.personal.md) 
-- [Triz-Segmentation.secret](../../../../_secret/tech/Triz/Principle/Triz-Segmentation.secret.md) 

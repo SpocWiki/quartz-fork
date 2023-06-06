@@ -47,11 +47,3 @@ Data Hierarchies:
 
 
 
-## Confidential Links & Embeds: 
-- [UnEce](../_public/UnEce.md) 
-- [UnEce.internal](../_internal/UnEce.internal.md) 
-- [UnEce.protect](../_protect/UnEce.protect.md) 
-- [UnEce.private](../_private/UnEce.private.md) 
-- [UnEce.personal](../_personal/UnEce.personal.md) 
-- [UnEce.secret](../_secret/UnEce.secret.md)
-

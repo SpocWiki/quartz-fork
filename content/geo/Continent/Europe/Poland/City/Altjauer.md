@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altjauer](../../../../../../_public/geo/Continent/Europe/Poland/City/Altjauer.md) 
-- [Altjauer.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Altjauer.internal.md) 
-- [Altjauer.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Altjauer.protect.md) 
-- [Altjauer.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Altjauer.private.md) 
-- [Altjauer.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Altjauer.personal.md) 
-- [Altjauer.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Altjauer.secret.md) 

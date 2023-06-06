@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vassy](../../../../../../_public/geo/Continent/Europe/France/City/Vassy.md) 
-- [Vassy.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vassy.internal.md) 
-- [Vassy.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vassy.protect.md) 
-- [Vassy.private](../../../../../../_private/geo/Continent/Europe/France/City/Vassy.private.md) 
-- [Vassy.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vassy.personal.md) 
-- [Vassy.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vassy.secret.md) 

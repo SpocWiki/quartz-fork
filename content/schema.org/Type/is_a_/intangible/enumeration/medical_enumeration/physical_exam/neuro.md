@@ -45,10 +45,3 @@ Neurological system clinical examination.
 
 
 
-## Confidential Links & Embeds: 
-- [neuro](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neuro.md) 
-- [neuro.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neuro.internal.md) 
-- [neuro.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neuro.protect.md) 
-- [neuro.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neuro.private.md) 
-- [neuro.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neuro.personal.md) 
-- [neuro.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neuro.secret.md) 

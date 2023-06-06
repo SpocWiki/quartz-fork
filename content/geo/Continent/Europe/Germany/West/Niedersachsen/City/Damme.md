@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Damme](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Damme.md) 
-- [Damme.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Damme.internal.md) 
-- [Damme.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Damme.protect.md) 
-- [Damme.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Damme.private.md) 
-- [Damme.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Damme.personal.md) 
-- [Damme.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Damme.secret.md) 

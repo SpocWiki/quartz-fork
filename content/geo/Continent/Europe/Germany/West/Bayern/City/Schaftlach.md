@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schaftlach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schaftlach.md) 
-- [Schaftlach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schaftlach.internal.md) 
-- [Schaftlach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schaftlach.protect.md) 
-- [Schaftlach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schaftlach.private.md) 
-- [Schaftlach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schaftlach.personal.md) 
-- [Schaftlach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schaftlach.secret.md) 

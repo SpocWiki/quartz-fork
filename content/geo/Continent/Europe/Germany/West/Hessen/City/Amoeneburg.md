@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amoeneburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Amoeneburg.md) 
-- [Amoeneburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Amoeneburg.internal.md) 
-- [Amoeneburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Amoeneburg.protect.md) 
-- [Amoeneburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Amoeneburg.private.md) 
-- [Amoeneburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Amoeneburg.personal.md) 
-- [Amoeneburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Amoeneburg.secret.md) 

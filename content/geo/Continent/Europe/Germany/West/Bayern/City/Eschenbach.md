@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eschenbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Eschenbach.md) 
-- [Eschenbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Eschenbach.internal.md) 
-- [Eschenbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Eschenbach.protect.md) 
-- [Eschenbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Eschenbach.private.md) 
-- [Eschenbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Eschenbach.personal.md) 
-- [Eschenbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Eschenbach.secret.md) 

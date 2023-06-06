@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_cheat_code](../../../../../_public/schema.org/Predicate/Relations/has/has_cheat_code.md) 
-- [has_cheat_code.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_cheat_code.internal.md) 
-- [has_cheat_code.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_cheat_code.protect.md) 
-- [has_cheat_code.private](../../../../../_private/schema.org/Predicate/Relations/has/has_cheat_code.private.md) 
-- [has_cheat_code.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_cheat_code.personal.md) 
-- [has_cheat_code.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_cheat_code.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wittenberge](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittenberge.md) 
-- [Wittenberge.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittenberge.internal.md) 
-- [Wittenberge.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittenberge.protect.md) 
-- [Wittenberge.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittenberge.private.md) 
-- [Wittenberge.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittenberge.personal.md) 
-- [Wittenberge.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wittenberge.secret.md) 

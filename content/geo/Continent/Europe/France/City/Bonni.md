@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bonni](../../../../../../_public/geo/Continent/Europe/France/City/Bonni.md) 
-- [Bonni.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bonni.internal.md) 
-- [Bonni.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bonni.protect.md) 
-- [Bonni.private](../../../../../../_private/geo/Continent/Europe/France/City/Bonni.private.md) 
-- [Bonni.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bonni.personal.md) 
-- [Bonni.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bonni.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maria-Thann](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Maria-Thann.md) 
-- [Maria-Thann.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Maria-Thann.internal.md) 
-- [Maria-Thann.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Maria-Thann.protect.md) 
-- [Maria-Thann.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Maria-Thann.private.md) 
-- [Maria-Thann.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Maria-Thann.personal.md) 
-- [Maria-Thann.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Maria-Thann.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gap](../../../../../../_public/geo/Continent/Europe/France/City/Gap.md) 
-- [Gap.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Gap.internal.md) 
-- [Gap.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Gap.protect.md) 
-- [Gap.private](../../../../../../_private/geo/Continent/Europe/France/City/Gap.private.md) 
-- [Gap.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Gap.personal.md) 
-- [Gap.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Gap.secret.md) 

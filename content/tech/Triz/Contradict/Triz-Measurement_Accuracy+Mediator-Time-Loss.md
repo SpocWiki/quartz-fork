@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Mediator-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Mediator-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.md) 
-- [Triz-Measurement_Accuracy+Mediator-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.internal.md) 
-- [Triz-Measurement_Accuracy+Mediator-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.protect.md) 
-- [Triz-Measurement_Accuracy+Mediator-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.private.md) 
-- [Triz-Measurement_Accuracy+Mediator-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.personal.md) 
-- [Triz-Measurement_Accuracy+Mediator-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Time-Loss.secret.md) 

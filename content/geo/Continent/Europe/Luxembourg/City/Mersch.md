@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mersch](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Mersch.md) 
-- [Mersch.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Mersch.internal.md) 
-- [Mersch.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Mersch.protect.md) 
-- [Mersch.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Mersch.private.md) 
-- [Mersch.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Mersch.personal.md) 
-- [Mersch.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Mersch.secret.md) 

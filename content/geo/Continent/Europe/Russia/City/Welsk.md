@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Welsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Welsk.md) 
-- [Welsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Welsk.internal.md) 
-- [Welsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Welsk.protect.md) 
-- [Welsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Welsk.private.md) 
-- [Welsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Welsk.personal.md) 
-- [Welsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Welsk.secret.md) 

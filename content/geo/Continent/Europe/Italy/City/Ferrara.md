@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ferrara](../../../../../../_public/geo/Continent/Europe/Italy/City/Ferrara.md) 
-- [Ferrara.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ferrara.internal.md) 
-- [Ferrara.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ferrara.protect.md) 
-- [Ferrara.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ferrara.private.md) 
-- [Ferrara.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ferrara.personal.md) 
-- [Ferrara.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ferrara.secret.md) 

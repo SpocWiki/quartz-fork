@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Woronez](../../../../../../_public/geo/Continent/Europe/Russia/City/Woronez.md) 
-- [Woronez.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Woronez.internal.md) 
-- [Woronez.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Woronez.protect.md) 
-- [Woronez.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Woronez.private.md) 
-- [Woronez.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Woronez.personal.md) 
-- [Woronez.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Woronez.secret.md) 

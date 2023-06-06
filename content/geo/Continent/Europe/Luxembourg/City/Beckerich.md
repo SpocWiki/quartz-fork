@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beckerich](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Beckerich.md) 
-- [Beckerich.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Beckerich.internal.md) 
-- [Beckerich.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Beckerich.protect.md) 
-- [Beckerich.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Beckerich.private.md) 
-- [Beckerich.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Beckerich.personal.md) 
-- [Beckerich.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Beckerich.secret.md) 

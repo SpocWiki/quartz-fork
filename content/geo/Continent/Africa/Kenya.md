@@ -121,7 +121,7 @@ markerFolder: ./Kenya/City
 
 ![550](geo/Continent/Africa/Kenya/Coat_of_arms_of_Kenya.svg)
 
-![Anthem-Kenya](xLarge/National-Anthem/Anthem-Kenya.mp3)
+[Anthem-Kenya](xLarge/National-Anthem/Anthem-Kenya.mp3)
 
 ![350](geo/Continent/Africa/Kenya/Flag_of_Kenya.svg)
 [Alcohol-l::4.1]
@@ -131,10 +131,3 @@ markerFolder: ./Kenya/City
 
 
 
-## Confidential Links & Embeds: 
-- [Kenya](../../../../_public/geo/Continent/Africa/Kenya.md) 
-- [Kenya.internal](../../../../_internal/geo/Continent/Africa/Kenya.internal.md) 
-- [Kenya.protect](../../../../_protect/geo/Continent/Africa/Kenya.protect.md) 
-- [Kenya.private](../../../../_private/geo/Continent/Africa/Kenya.private.md) 
-- [Kenya.personal](../../../../_personal/geo/Continent/Africa/Kenya.personal.md) 
-- [Kenya.secret](../../../../_secret/geo/Continent/Africa/Kenya.secret.md) 

@@ -31,10 +31,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nanking](../../../../../../_public/geo/Continent/Asia/China/City/Nanking.md) 
-- [Nanking.internal](../../../../../../_internal/geo/Continent/Asia/China/City/Nanking.internal.md) 
-- [Nanking.protect](../../../../../../_protect/geo/Continent/Asia/China/City/Nanking.protect.md) 
-- [Nanking.private](../../../../../../_private/geo/Continent/Asia/China/City/Nanking.private.md) 
-- [Nanking.personal](../../../../../../_personal/geo/Continent/Asia/China/City/Nanking.personal.md) 
-- [Nanking.secret](../../../../../../_secret/geo/Continent/Asia/China/City/Nanking.secret.md) 

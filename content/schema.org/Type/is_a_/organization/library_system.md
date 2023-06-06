@@ -45,10 +45,3 @@ A <a class="localLink" href="/LibrarySystem">LibrarySystem</a> is a collaborativ
 
 
 
-## Confidential Links & Embeds: 
-- [library_system](../../../../../_public/schema.org/Type/is_a_/organization/library_system.md) 
-- [library_system.internal](../../../../../_internal/schema.org/Type/is_a_/organization/library_system.internal.md) 
-- [library_system.protect](../../../../../_protect/schema.org/Type/is_a_/organization/library_system.protect.md) 
-- [library_system.private](../../../../../_private/schema.org/Type/is_a_/organization/library_system.private.md) 
-- [library_system.personal](../../../../../_personal/schema.org/Type/is_a_/organization/library_system.personal.md) 
-- [library_system.secret](../../../../../_secret/schema.org/Type/is_a_/organization/library_system.secret.md) 

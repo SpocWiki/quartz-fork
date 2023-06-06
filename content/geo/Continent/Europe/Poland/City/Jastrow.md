@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jastrow](../../../../../../_public/geo/Continent/Europe/Poland/City/Jastrow.md) 
-- [Jastrow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Jastrow.internal.md) 
-- [Jastrow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Jastrow.protect.md) 
-- [Jastrow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Jastrow.private.md) 
-- [Jastrow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Jastrow.personal.md) 
-- [Jastrow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Jastrow.secret.md) 

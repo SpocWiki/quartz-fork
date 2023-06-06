@@ -45,10 +45,3 @@ An electronic file or document.
 
 
 
-## Confidential Links & Embeds: 
-- [digital_document](../../../../../_public/schema.org/Type/is_a_/creative_work/digital_document.md) 
-- [digital_document.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/digital_document.internal.md) 
-- [digital_document.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/digital_document.protect.md) 
-- [digital_document.private](../../../../../_private/schema.org/Type/is_a_/creative_work/digital_document.private.md) 
-- [digital_document.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/digital_document.personal.md) 
-- [digital_document.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/digital_document.secret.md) 

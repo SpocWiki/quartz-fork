@@ -39,10 +39,3 @@ title: Ytterbium
 
 
 
-## Confidential Links & Embeds: 
-- [Ytterbium](../../../../_public/chemic/Elements/Lanthanide-Group/Ytterbium.md) 
-- [Ytterbium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Ytterbium.internal.md) 
-- [Ytterbium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Ytterbium.protect.md) 
-- [Ytterbium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Ytterbium.private.md) 
-- [Ytterbium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Ytterbium.personal.md) 
-- [Ytterbium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Ytterbium.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Metzgeral](../../../../../../_public/geo/Continent/Europe/France/City/Metzgeral.md) 
-- [Metzgeral.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Metzgeral.internal.md) 
-- [Metzgeral.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Metzgeral.protect.md) 
-- [Metzgeral.private](../../../../../../_private/geo/Continent/Europe/France/City/Metzgeral.private.md) 
-- [Metzgeral.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Metzgeral.personal.md) 
-- [Metzgeral.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Metzgeral.secret.md) 

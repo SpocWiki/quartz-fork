@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bialystock](../../../../../../_public/geo/Continent/Europe/Poland/City/Bialystock.md) 
-- [Bialystock.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bialystock.internal.md) 
-- [Bialystock.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bialystock.protect.md) 
-- [Bialystock.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bialystock.private.md) 
-- [Bialystock.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bialystock.personal.md) 
-- [Bialystock.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bialystock.secret.md) 

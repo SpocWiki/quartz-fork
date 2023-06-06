@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neustadt](../../../../../../_public/geo/Continent/Europe/Poland/City/Neustadt.md) 
-- [Neustadt.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neustadt.internal.md) 
-- [Neustadt.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neustadt.protect.md) 
-- [Neustadt.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neustadt.private.md) 
-- [Neustadt.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neustadt.personal.md) 
-- [Neustadt.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neustadt.secret.md) 

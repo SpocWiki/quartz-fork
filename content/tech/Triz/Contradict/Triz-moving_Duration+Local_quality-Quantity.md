@@ -19,10 +19,3 @@ title: Triz-moving_Duration+Local_quality-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Duration+Local_quality-Quantity](../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Quantity.md) 
-- [Triz-moving_Duration+Local_quality-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Quantity.internal.md) 
-- [Triz-moving_Duration+Local_quality-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Quantity.protect.md) 
-- [Triz-moving_Duration+Local_quality-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Quantity.private.md) 
-- [Triz-moving_Duration+Local_quality-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Quantity.personal.md) 
-- [Triz-moving_Duration+Local_quality-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Local_quality-Quantity.secret.md) 

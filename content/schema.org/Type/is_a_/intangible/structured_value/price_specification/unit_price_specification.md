@@ -43,10 +43,3 @@ The price asked for a given offer by the respective organization or person.
 
 
 
-## Confidential Links & Embeds: 
-- [unit_price_specification](../../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/price_specification/unit_price_specification.md) 
-- [unit_price_specification.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/price_specification/unit_price_specification.internal.md) 
-- [unit_price_specification.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/price_specification/unit_price_specification.protect.md) 
-- [unit_price_specification.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/price_specification/unit_price_specification.private.md) 
-- [unit_price_specification.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/price_specification/unit_price_specification.personal.md) 
-- [unit_price_specification.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/price_specification/unit_price_specification.secret.md) 

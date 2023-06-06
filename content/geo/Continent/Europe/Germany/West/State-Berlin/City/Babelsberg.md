@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Babelsberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.md) 
-- [Babelsberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.internal.md) 
-- [Babelsberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.protect.md) 
-- [Babelsberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.private.md) 
-- [Babelsberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.personal.md) 
-- [Babelsberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Babelsberg.secret.md) 

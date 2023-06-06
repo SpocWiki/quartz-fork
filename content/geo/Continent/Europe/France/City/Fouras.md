@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fouras](../../../../../../_public/geo/Continent/Europe/France/City/Fouras.md) 
-- [Fouras.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Fouras.internal.md) 
-- [Fouras.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Fouras.protect.md) 
-- [Fouras.private](../../../../../../_private/geo/Continent/Europe/France/City/Fouras.private.md) 
-- [Fouras.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Fouras.personal.md) 
-- [Fouras.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Fouras.secret.md) 

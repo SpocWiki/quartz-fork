@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bischofswerda](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bischofswerda.md) 
-- [Bischofswerda.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bischofswerda.internal.md) 
-- [Bischofswerda.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bischofswerda.protect.md) 
-- [Bischofswerda.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bischofswerda.private.md) 
-- [Bischofswerda.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bischofswerda.personal.md) 
-- [Bischofswerda.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Bischofswerda.secret.md) 

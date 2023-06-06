@@ -19,10 +19,3 @@ title: Triz-10307+22212-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22212-Illumination](../../../../_public/tech/Triz/Contradict/Triz-10307+22212-Illumination.md) 
-- [Triz-10307+22212-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22212-Illumination.internal.md) 
-- [Triz-10307+22212-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22212-Illumination.protect.md) 
-- [Triz-10307+22212-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22212-Illumination.private.md) 
-- [Triz-10307+22212-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22212-Illumination.personal.md) 
-- [Triz-10307+22212-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22212-Illumination.secret.md) 

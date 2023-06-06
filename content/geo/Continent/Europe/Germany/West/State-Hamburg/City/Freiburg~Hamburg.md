@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freiburg~Hamburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Hamburg/City/Freiburg~Hamburg.md) 
-- [Freiburg~Hamburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Freiburg~Hamburg.internal.md) 
-- [Freiburg~Hamburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg/City/Freiburg~Hamburg.protect.md) 
-- [Freiburg~Hamburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg/City/Freiburg~Hamburg.private.md) 
-- [Freiburg~Hamburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Freiburg~Hamburg.personal.md) 
-- [Freiburg~Hamburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg/City/Freiburg~Hamburg.secret.md) 

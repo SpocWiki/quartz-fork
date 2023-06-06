@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Davos-Platz](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Davos-Platz.md) 
-- [Davos-Platz.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Davos-Platz.internal.md) 
-- [Davos-Platz.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Davos-Platz.protect.md) 
-- [Davos-Platz.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Davos-Platz.private.md) 
-- [Davos-Platz.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Davos-Platz.personal.md) 
-- [Davos-Platz.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Davos-Platz.secret.md) 

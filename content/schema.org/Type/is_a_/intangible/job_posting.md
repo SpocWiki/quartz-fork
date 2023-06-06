@@ -43,10 +43,3 @@ A listing that describes a job opening in a certain organization.
 
 
 
-## Confidential Links & Embeds: 
-- [job_posting](../../../../../_public/schema.org/Type/is_a_/intangible/job_posting.md) 
-- [job_posting.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/job_posting.internal.md) 
-- [job_posting.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/job_posting.protect.md) 
-- [job_posting.private](../../../../../_private/schema.org/Type/is_a_/intangible/job_posting.private.md) 
-- [job_posting.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/job_posting.personal.md) 
-- [job_posting.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/job_posting.secret.md) 

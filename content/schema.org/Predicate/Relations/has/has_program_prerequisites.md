@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_program_prerequisites](../../../../../_public/schema.org/Predicate/Relations/has/has_program_prerequisites.md) 
-- [has_program_prerequisites.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_program_prerequisites.internal.md) 
-- [has_program_prerequisites.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_program_prerequisites.protect.md) 
-- [has_program_prerequisites.private](../../../../../_private/schema.org/Predicate/Relations/has/has_program_prerequisites.private.md) 
-- [has_program_prerequisites.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_program_prerequisites.personal.md) 
-- [has_program_prerequisites.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_program_prerequisites.secret.md) 

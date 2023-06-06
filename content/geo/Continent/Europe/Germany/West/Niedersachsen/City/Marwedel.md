@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marwedel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marwedel.md) 
-- [Marwedel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marwedel.internal.md) 
-- [Marwedel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marwedel.protect.md) 
-- [Marwedel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marwedel.private.md) 
-- [Marwedel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marwedel.personal.md) 
-- [Marwedel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Marwedel.secret.md) 

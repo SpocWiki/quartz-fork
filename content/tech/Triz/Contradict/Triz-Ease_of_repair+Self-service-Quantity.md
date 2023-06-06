@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Self-service-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Self-service-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.md) 
-- [Triz-Ease_of_repair+Self-service-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.internal.md) 
-- [Triz-Ease_of_repair+Self-service-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.protect.md) 
-- [Triz-Ease_of_repair+Self-service-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.private.md) 
-- [Triz-Ease_of_repair+Self-service-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.personal.md) 
-- [Triz-Ease_of_repair+Self-service-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Self-service-Quantity.secret.md) 

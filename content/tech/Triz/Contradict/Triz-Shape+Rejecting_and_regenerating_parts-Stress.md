@@ -19,10 +19,3 @@ title: Triz-Shape+Rejecting_and_regenerating_parts-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Stress](../../../../_public/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.md) 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.internal.md) 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.protect.md) 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.private.md) 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.personal.md) 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Stress.secret.md) 

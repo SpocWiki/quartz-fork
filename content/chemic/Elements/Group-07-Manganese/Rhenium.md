@@ -32,10 +32,3 @@ SpocWebEntityId: 21971
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhenium)
 
-## Confidential Links & Embeds: 
-- [Rhenium](../../../../_public/chemic/Elements/Group-07-Manganese/Rhenium.md) 
-- [Rhenium.internal](../../../../_internal/chemic/Elements/Group-07-Manganese/Rhenium.internal.md) 
-- [Rhenium.protect](../../../../_protect/chemic/Elements/Group-07-Manganese/Rhenium.protect.md) 
-- [Rhenium.private](../../../../_private/chemic/Elements/Group-07-Manganese/Rhenium.private.md) 
-- [Rhenium.personal](../../../../_personal/chemic/Elements/Group-07-Manganese/Rhenium.personal.md) 
-- [Rhenium.secret](../../../../_secret/chemic/Elements/Group-07-Manganese/Rhenium.secret.md) 

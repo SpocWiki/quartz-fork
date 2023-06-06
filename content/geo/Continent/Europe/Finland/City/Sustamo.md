@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sustamo](../../../../../../_public/geo/Continent/Europe/Finland/City/Sustamo.md) 
-- [Sustamo.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Sustamo.internal.md) 
-- [Sustamo.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Sustamo.protect.md) 
-- [Sustamo.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Sustamo.private.md) 
-- [Sustamo.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Sustamo.personal.md) 
-- [Sustamo.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Sustamo.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Breno](../../../../../../_public/geo/Continent/Europe/Italy/City/Breno.md) 
-- [Breno.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Breno.internal.md) 
-- [Breno.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Breno.protect.md) 
-- [Breno.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Breno.private.md) 
-- [Breno.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Breno.personal.md) 
-- [Breno.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Breno.secret.md) 

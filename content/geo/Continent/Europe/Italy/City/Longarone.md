@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Longarone](../../../../../../_public/geo/Continent/Europe/Italy/City/Longarone.md) 
-- [Longarone.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Longarone.internal.md) 
-- [Longarone.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Longarone.protect.md) 
-- [Longarone.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Longarone.private.md) 
-- [Longarone.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Longarone.personal.md) 
-- [Longarone.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Longarone.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Bootis-8](../../../_public/astro/Star/Bootis-8.md) 
-- [Bootis-8.internal](../../../_internal/astro/Star/Bootis-8.internal.md) 
-- [Bootis-8.protect](../../../_protect/astro/Star/Bootis-8.protect.md) 
-- [Bootis-8.private](../../../_private/astro/Star/Bootis-8.private.md) 
-- [Bootis-8.personal](../../../_personal/astro/Star/Bootis-8.personal.md) 
-- [Bootis-8.secret](../../../_secret/astro/Star/Bootis-8.secret.md)
-

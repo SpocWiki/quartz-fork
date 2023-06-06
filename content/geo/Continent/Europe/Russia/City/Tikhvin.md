@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tikhvin](../../../../../../_public/geo/Continent/Europe/Russia/City/Tikhvin.md) 
-- [Tikhvin.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tikhvin.internal.md) 
-- [Tikhvin.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tikhvin.protect.md) 
-- [Tikhvin.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tikhvin.private.md) 
-- [Tikhvin.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tikhvin.personal.md) 
-- [Tikhvin.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tikhvin.secret.md) 

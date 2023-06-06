@@ -43,10 +43,3 @@ A movie.
 
 
 
-## Confidential Links & Embeds: 
-- [movie](../../../../../_public/schema.org/Type/is_a_/creative_work/movie.md) 
-- [movie.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/movie.internal.md) 
-- [movie.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/movie.protect.md) 
-- [movie.private](../../../../../_private/schema.org/Type/is_a_/creative_work/movie.private.md) 
-- [movie.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/movie.personal.md) 
-- [movie.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/movie.secret.md) 

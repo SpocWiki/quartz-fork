@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Frauenfriedenskirche](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.md) 
-- [T-Frauenfriedenskirche.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.internal.md) 
-- [T-Frauenfriedenskirche.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.protect.md) 
-- [T-Frauenfriedenskirche.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.private.md) 
-- [T-Frauenfriedenskirche.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.personal.md) 
-- [T-Frauenfriedenskirche.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frauenfriedenskirche.secret.md) 

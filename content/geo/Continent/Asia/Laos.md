@@ -127,7 +127,7 @@ markerFolder: ./Laos/City
 
 ![350](geo/Continent/Asia/Laos/Emblem_of_Laos.svg)
 
-![Anthem-Laos](xLarge/National-Anthem/Anthem-Laos.mp3)
+[Anthem-Laos](xLarge/National-Anthem/Anthem-Laos.mp3)
 
 ![350](geo/Continent/Asia/Laos/Flag_of_Laos.svg)
 
@@ -138,10 +138,3 @@ markerFolder: ./Laos/City
 
 
 
-## Confidential Links & Embeds: 
-- [Laos](../../../../_public/geo/Continent/Asia/Laos.md) 
-- [Laos.internal](../../../../_internal/geo/Continent/Asia/Laos.internal.md) 
-- [Laos.protect](../../../../_protect/geo/Continent/Asia/Laos.protect.md) 
-- [Laos.private](../../../../_private/geo/Continent/Asia/Laos.private.md) 
-- [Laos.personal](../../../../_personal/geo/Continent/Asia/Laos.personal.md) 
-- [Laos.secret](../../../../_secret/geo/Continent/Asia/Laos.secret.md) 

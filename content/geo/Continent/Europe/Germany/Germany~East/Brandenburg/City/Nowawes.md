@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nowawes](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nowawes.md) 
-- [Nowawes.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nowawes.internal.md) 
-- [Nowawes.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nowawes.protect.md) 
-- [Nowawes.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nowawes.private.md) 
-- [Nowawes.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nowawes.personal.md) 
-- [Nowawes.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nowawes.secret.md) 

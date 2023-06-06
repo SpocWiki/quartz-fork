@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suorva](../../../../../../_public/geo/Continent/Europe/Sweden/City/Suorva.md) 
-- [Suorva.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Suorva.internal.md) 
-- [Suorva.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Suorva.protect.md) 
-- [Suorva.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Suorva.private.md) 
-- [Suorva.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Suorva.personal.md) 
-- [Suorva.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Suorva.secret.md) 

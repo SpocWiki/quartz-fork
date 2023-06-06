@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Struckum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.md) 
-- [Struckum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.internal.md) 
-- [Struckum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.protect.md) 
-- [Struckum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.private.md) 
-- [Struckum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.personal.md) 
-- [Struckum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Struckum.secret.md) 

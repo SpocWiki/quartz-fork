@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Limbach~Vogtland](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Limbach~Vogtland.md) 
-- [Limbach~Vogtland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Limbach~Vogtland.internal.md) 
-- [Limbach~Vogtland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Limbach~Vogtland.protect.md) 
-- [Limbach~Vogtland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Limbach~Vogtland.private.md) 
-- [Limbach~Vogtland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Limbach~Vogtland.personal.md) 
-- [Limbach~Vogtland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Limbach~Vogtland.secret.md) 

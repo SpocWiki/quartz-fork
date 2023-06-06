@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Doernthal](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doernthal.md) 
-- [Doernthal.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doernthal.internal.md) 
-- [Doernthal.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doernthal.protect.md) 
-- [Doernthal.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doernthal.private.md) 
-- [Doernthal.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doernthal.personal.md) 
-- [Doernthal.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Doernthal.secret.md) 

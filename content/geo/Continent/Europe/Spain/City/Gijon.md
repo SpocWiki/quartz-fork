@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gijon](../../../../../../_public/geo/Continent/Europe/Spain/City/Gijon.md) 
-- [Gijon.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Gijon.internal.md) 
-- [Gijon.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Gijon.protect.md) 
-- [Gijon.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Gijon.private.md) 
-- [Gijon.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Gijon.personal.md) 
-- [Gijon.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Gijon.secret.md) 

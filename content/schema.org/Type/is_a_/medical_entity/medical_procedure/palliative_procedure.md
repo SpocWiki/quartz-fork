@@ -43,10 +43,3 @@ A medical procedure intended primarily for palliative purposes, aimed at relievi
 
 
 
-## Confidential Links & Embeds: 
-- [palliative_procedure](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure/palliative_procedure.md) 
-- [palliative_procedure.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure/palliative_procedure.internal.md) 
-- [palliative_procedure.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure/palliative_procedure.protect.md) 
-- [palliative_procedure.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure/palliative_procedure.private.md) 
-- [palliative_procedure.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure/palliative_procedure.personal.md) 
-- [palliative_procedure.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure/palliative_procedure.secret.md) 

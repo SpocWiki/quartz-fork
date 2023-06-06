@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Segmentation-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Segmentation-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Intensity.md) 
-- [Triz-Ease_of_repair+Segmentation-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Intensity.internal.md) 
-- [Triz-Ease_of_repair+Segmentation-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Intensity.protect.md) 
-- [Triz-Ease_of_repair+Segmentation-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Intensity.private.md) 
-- [Triz-Ease_of_repair+Segmentation-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Intensity.personal.md) 
-- [Triz-Ease_of_repair+Segmentation-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Intensity.secret.md) 

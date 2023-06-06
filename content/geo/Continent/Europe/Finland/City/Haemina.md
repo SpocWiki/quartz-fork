@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haemina](../../../../../../_public/geo/Continent/Europe/Finland/City/Haemina.md) 
-- [Haemina.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Haemina.internal.md) 
-- [Haemina.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Haemina.protect.md) 
-- [Haemina.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Haemina.private.md) 
-- [Haemina.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Haemina.personal.md) 
-- [Haemina.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Haemina.secret.md) 

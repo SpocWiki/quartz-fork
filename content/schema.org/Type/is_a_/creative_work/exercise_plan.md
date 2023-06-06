@@ -43,10 +43,3 @@ Fitness-related activity designed for a specific health-related purpose, includi
 
 
 
-## Confidential Links & Embeds: 
-- [exercise_plan](../../../../../_public/schema.org/Type/is_a_/creative_work/exercise_plan.md) 
-- [exercise_plan.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/exercise_plan.internal.md) 
-- [exercise_plan.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/exercise_plan.protect.md) 
-- [exercise_plan.private](../../../../../_private/schema.org/Type/is_a_/creative_work/exercise_plan.private.md) 
-- [exercise_plan.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/exercise_plan.personal.md) 
-- [exercise_plan.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/exercise_plan.secret.md) 

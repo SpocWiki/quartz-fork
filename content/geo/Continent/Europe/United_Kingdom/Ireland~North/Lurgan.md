@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lurgan](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Lurgan.md) 
-- [Lurgan.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Lurgan.internal.md) 
-- [Lurgan.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Lurgan.protect.md) 
-- [Lurgan.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Lurgan.private.md) 
-- [Lurgan.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Lurgan.personal.md) 
-- [Lurgan.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Lurgan.secret.md) 

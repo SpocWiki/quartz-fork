@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yli_Tornia](../../../../../../_public/geo/Continent/Europe/Finland/City/Yli_Tornia.md) 
-- [Yli_Tornia.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Yli_Tornia.internal.md) 
-- [Yli_Tornia.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Yli_Tornia.protect.md) 
-- [Yli_Tornia.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Yli_Tornia.private.md) 
-- [Yli_Tornia.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Yli_Tornia.personal.md) 
-- [Yli_Tornia.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Yli_Tornia.secret.md) 

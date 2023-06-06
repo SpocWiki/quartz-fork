@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vianna_do_Castello](../../../../../../_public/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.md) 
-- [Vianna_do_Castello.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.internal.md) 
-- [Vianna_do_Castello.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.protect.md) 
-- [Vianna_do_Castello.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.private.md) 
-- [Vianna_do_Castello.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.personal.md) 
-- [Vianna_do_Castello.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Vianna_do_Castello.secret.md) 

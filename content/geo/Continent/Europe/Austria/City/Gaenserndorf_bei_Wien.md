@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gaenserndorf_bei_Wien](../../../../../../_public/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.md) 
-- [Gaenserndorf_bei_Wien.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.internal.md) 
-- [Gaenserndorf_bei_Wien.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.protect.md) 
-- [Gaenserndorf_bei_Wien.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.private.md) 
-- [Gaenserndorf_bei_Wien.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.personal.md) 
-- [Gaenserndorf_bei_Wien.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Gaenserndorf_bei_Wien.secret.md) 

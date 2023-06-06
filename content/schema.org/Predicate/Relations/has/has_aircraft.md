@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_aircraft](../../../../../_public/schema.org/Predicate/Relations/has/has_aircraft.md) 
-- [has_aircraft.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_aircraft.internal.md) 
-- [has_aircraft.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_aircraft.protect.md) 
-- [has_aircraft.private](../../../../../_private/schema.org/Predicate/Relations/has/has_aircraft.private.md) 
-- [has_aircraft.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_aircraft.personal.md) 
-- [has_aircraft.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_aircraft.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ailly](../../../../../../_public/geo/Continent/Europe/France/City/Ailly.md) 
-- [Ailly.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Ailly.internal.md) 
-- [Ailly.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Ailly.protect.md) 
-- [Ailly.private](../../../../../../_private/geo/Continent/Europe/France/City/Ailly.private.md) 
-- [Ailly.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Ailly.personal.md) 
-- [Ailly.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Ailly.secret.md) 

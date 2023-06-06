@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oedenburg](../../../../../../_public/geo/Continent/Europe/Hungary/City/Oedenburg.md) 
-- [Oedenburg.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Oedenburg.internal.md) 
-- [Oedenburg.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Oedenburg.protect.md) 
-- [Oedenburg.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Oedenburg.private.md) 
-- [Oedenburg.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Oedenburg.personal.md) 
-- [Oedenburg.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Oedenburg.secret.md) 

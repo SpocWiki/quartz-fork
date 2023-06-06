@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neudorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Neudorf.md) 
-- [Neudorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neudorf.internal.md) 
-- [Neudorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neudorf.protect.md) 
-- [Neudorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neudorf.private.md) 
-- [Neudorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neudorf.personal.md) 
-- [Neudorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neudorf.secret.md) 

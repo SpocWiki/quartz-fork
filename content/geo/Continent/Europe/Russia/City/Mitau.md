@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mitau](../../../../../../_public/geo/Continent/Europe/Russia/City/Mitau.md) 
-- [Mitau.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mitau.internal.md) 
-- [Mitau.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mitau.protect.md) 
-- [Mitau.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mitau.private.md) 
-- [Mitau.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mitau.personal.md) 
-- [Mitau.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mitau.secret.md) 

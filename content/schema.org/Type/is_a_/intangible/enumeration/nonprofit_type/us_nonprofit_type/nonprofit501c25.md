@@ -47,10 +47,3 @@ Nonprofit501c25: Non-profit type referring to Real Property Title-Holding Corpor
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c25](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.md) 
-- [nonprofit501c25.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.internal.md) 
-- [nonprofit501c25.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.protect.md) 
-- [nonprofit501c25.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.private.md) 
-- [nonprofit501c25.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.personal.md) 
-- [nonprofit501c25.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c25.secret.md) 

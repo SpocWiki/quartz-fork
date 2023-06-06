@@ -45,10 +45,3 @@ A math solver which is capable of solving a subset of mathematical problems.
 
 
 
-## Confidential Links & Embeds: 
-- [math_solver](../../../../../_public/schema.org/Type/is_a_/creative_work/math_solver.md) 
-- [math_solver.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/math_solver.internal.md) 
-- [math_solver.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/math_solver.protect.md) 
-- [math_solver.private](../../../../../_private/schema.org/Type/is_a_/creative_work/math_solver.private.md) 
-- [math_solver.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/math_solver.personal.md) 
-- [math_solver.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/math_solver.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kosmac](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Kosmac.md) 
-- [Kosmac.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kosmac.internal.md) 
-- [Kosmac.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kosmac.protect.md) 
-- [Kosmac.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kosmac.private.md) 
-- [Kosmac.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kosmac.personal.md) 
-- [Kosmac.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kosmac.secret.md) 

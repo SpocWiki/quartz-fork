@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Canopus](../../../_public/astro/Star/Canopus.md) 
-- [Canopus.internal](../../../_internal/astro/Star/Canopus.internal.md) 
-- [Canopus.protect](../../../_protect/astro/Star/Canopus.protect.md) 
-- [Canopus.private](../../../_private/astro/Star/Canopus.private.md) 
-- [Canopus.personal](../../../_personal/astro/Star/Canopus.personal.md) 
-- [Canopus.secret](../../../_secret/astro/Star/Canopus.secret.md)
-

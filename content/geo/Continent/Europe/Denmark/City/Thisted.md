@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Thisted](../../../../../../_public/geo/Continent/Europe/Denmark/City/Thisted.md) 
-- [Thisted.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Thisted.internal.md) 
-- [Thisted.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Thisted.protect.md) 
-- [Thisted.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Thisted.private.md) 
-- [Thisted.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Thisted.personal.md) 
-- [Thisted.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Thisted.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buchenau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Buchenau.md) 
-- [Buchenau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Buchenau.internal.md) 
-- [Buchenau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Buchenau.protect.md) 
-- [Buchenau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Buchenau.private.md) 
-- [Buchenau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Buchenau.personal.md) 
-- [Buchenau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Buchenau.secret.md) 

@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_ticket_token](../../../../_public/schema.org/Predicate/Texts/has_ticket_token.md) 
-- [has_ticket_token.internal](../../../../_internal/schema.org/Predicate/Texts/has_ticket_token.internal.md) 
-- [has_ticket_token.protect](../../../../_protect/schema.org/Predicate/Texts/has_ticket_token.protect.md) 
-- [has_ticket_token.private](../../../../_private/schema.org/Predicate/Texts/has_ticket_token.private.md) 
-- [has_ticket_token.personal](../../../../_personal/schema.org/Predicate/Texts/has_ticket_token.personal.md) 
-- [has_ticket_token.secret](../../../../_secret/schema.org/Predicate/Texts/has_ticket_token.secret.md) 

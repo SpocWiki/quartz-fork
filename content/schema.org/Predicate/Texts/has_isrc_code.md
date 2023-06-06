@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_isrc_code](../../../../_public/schema.org/Predicate/Texts/has_isrc_code.md) 
-- [has_isrc_code.internal](../../../../_internal/schema.org/Predicate/Texts/has_isrc_code.internal.md) 
-- [has_isrc_code.protect](../../../../_protect/schema.org/Predicate/Texts/has_isrc_code.protect.md) 
-- [has_isrc_code.private](../../../../_private/schema.org/Predicate/Texts/has_isrc_code.private.md) 
-- [has_isrc_code.personal](../../../../_personal/schema.org/Predicate/Texts/has_isrc_code.personal.md) 
-- [has_isrc_code.secret](../../../../_secret/schema.org/Predicate/Texts/has_isrc_code.secret.md) 

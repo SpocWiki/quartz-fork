@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pulkowa](../../../../../../_public/geo/Continent/Europe/Russia/City/Pulkowa.md) 
-- [Pulkowa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Pulkowa.internal.md) 
-- [Pulkowa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Pulkowa.protect.md) 
-- [Pulkowa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Pulkowa.private.md) 
-- [Pulkowa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Pulkowa.personal.md) 
-- [Pulkowa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Pulkowa.secret.md) 

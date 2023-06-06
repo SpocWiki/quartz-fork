@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Local_quality-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Local_quality-Automation](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.md) 
-- [Triz-Ease_of_operation+Local_quality-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.internal.md) 
-- [Triz-Ease_of_operation+Local_quality-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.protect.md) 
-- [Triz-Ease_of_operation+Local_quality-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.private.md) 
-- [Triz-Ease_of_operation+Local_quality-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.personal.md) 
-- [Triz-Ease_of_operation+Local_quality-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Local_quality-Automation.secret.md) 

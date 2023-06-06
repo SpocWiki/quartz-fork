@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bergen~Ruegen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Bergen~Ruegen.md) 
-- [Bergen~Ruegen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Bergen~Ruegen.internal.md) 
-- [Bergen~Ruegen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Bergen~Ruegen.protect.md) 
-- [Bergen~Ruegen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Bergen~Ruegen.private.md) 
-- [Bergen~Ruegen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Bergen~Ruegen.personal.md) 
-- [Bergen~Ruegen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Bergen~Ruegen.secret.md) 

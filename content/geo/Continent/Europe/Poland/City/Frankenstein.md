@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frankenstein](../../../../../../_public/geo/Continent/Europe/Poland/City/Frankenstein.md) 
-- [Frankenstein.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Frankenstein.internal.md) 
-- [Frankenstein.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Frankenstein.protect.md) 
-- [Frankenstein.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Frankenstein.private.md) 
-- [Frankenstein.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Frankenstein.personal.md) 
-- [Frankenstein.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Frankenstein.secret.md) 

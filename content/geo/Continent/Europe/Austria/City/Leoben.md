@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leoben](../../../../../../_public/geo/Continent/Europe/Austria/City/Leoben.md) 
-- [Leoben.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Leoben.internal.md) 
-- [Leoben.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Leoben.protect.md) 
-- [Leoben.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Leoben.private.md) 
-- [Leoben.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Leoben.personal.md) 
-- [Leoben.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Leoben.secret.md) 

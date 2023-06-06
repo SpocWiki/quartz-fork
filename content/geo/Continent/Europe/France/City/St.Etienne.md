@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Etienne](../../../../../../_public/geo/Continent/Europe/France/City/St.Etienne.md) 
-- [St.Etienne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Etienne.internal.md) 
-- [St.Etienne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Etienne.protect.md) 
-- [St.Etienne.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Etienne.private.md) 
-- [St.Etienne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Etienne.personal.md) 
-- [St.Etienne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Etienne.secret.md) 

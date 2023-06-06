@@ -43,10 +43,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_assessing](../../../../../_public/schema.org/Predicate/Relations/is/is_assessing.md) 
-- [is_assessing.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_assessing.internal.md) 
-- [is_assessing.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_assessing.protect.md) 
-- [is_assessing.private](../../../../../_private/schema.org/Predicate/Relations/is/is_assessing.private.md) 
-- [is_assessing.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_assessing.personal.md) 
-- [is_assessing.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_assessing.secret.md) 

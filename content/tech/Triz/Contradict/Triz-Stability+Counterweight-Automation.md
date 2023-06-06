@@ -19,10 +19,3 @@ title: Triz-Stability+Counterweight-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Counterweight-Automation](../../../../_public/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.md) 
-- [Triz-Stability+Counterweight-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.internal.md) 
-- [Triz-Stability+Counterweight-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.protect.md) 
-- [Triz-Stability+Counterweight-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.private.md) 
-- [Triz-Stability+Counterweight-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.personal.md) 
-- [Triz-Stability+Counterweight-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Counterweight-Automation.secret.md) 

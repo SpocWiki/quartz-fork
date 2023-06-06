@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Capri](../../../../../../_public/geo/Continent/Europe/Italy/City/Capri.md) 
-- [Capri.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Capri.internal.md) 
-- [Capri.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Capri.protect.md) 
-- [Capri.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Capri.private.md) 
-- [Capri.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Capri.personal.md) 
-- [Capri.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Capri.secret.md) 

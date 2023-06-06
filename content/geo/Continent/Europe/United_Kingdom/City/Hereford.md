@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hereford](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hereford.md) 
-- [Hereford.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hereford.internal.md) 
-- [Hereford.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hereford.protect.md) 
-- [Hereford.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hereford.private.md) 
-- [Hereford.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hereford.personal.md) 
-- [Hereford.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hereford.secret.md) 

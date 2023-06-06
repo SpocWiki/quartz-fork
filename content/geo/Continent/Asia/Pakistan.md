@@ -125,7 +125,7 @@ markerFolder: ./Pakistan/City
 [VehicleCode::PK]
 [Capital::[Islamabad](geo/Continent/Asia/Pakistan/City/Islamabad.md)]
 ![350](Coat_of_arms_of_Pakistan.svg)
-![Anthem-Pakistan](xLarge/National-Anthem/Anthem-Pakistan.mp3)
+[Anthem-Pakistan](xLarge/National-Anthem/Anthem-Pakistan.mp3)
 ![350](geo/Continent/Asia/Pakistan/Flag_of_Pakistan.svg)
 [Alcohol-l::0.1]
 [Language-Id::]
@@ -134,10 +134,3 @@ markerFolder: ./Pakistan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Pakistan](../../../../_public/geo/Continent/Asia/Pakistan.md) 
-- [Pakistan.internal](../../../../_internal/geo/Continent/Asia/Pakistan.internal.md) 
-- [Pakistan.protect](../../../../_protect/geo/Continent/Asia/Pakistan.protect.md) 
-- [Pakistan.private](../../../../_private/geo/Continent/Asia/Pakistan.private.md) 
-- [Pakistan.personal](../../../../_personal/geo/Continent/Asia/Pakistan.personal.md) 
-- [Pakistan.secret](../../../../_secret/geo/Continent/Asia/Pakistan.secret.md) 

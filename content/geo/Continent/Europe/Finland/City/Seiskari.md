@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seiskari](../../../../../../_public/geo/Continent/Europe/Finland/City/Seiskari.md) 
-- [Seiskari.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Seiskari.internal.md) 
-- [Seiskari.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Seiskari.protect.md) 
-- [Seiskari.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Seiskari.private.md) 
-- [Seiskari.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Seiskari.personal.md) 
-- [Seiskari.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Seiskari.secret.md) 

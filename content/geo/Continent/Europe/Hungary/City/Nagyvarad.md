@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nagyvarad](../../../../../../_public/geo/Continent/Europe/Hungary/City/Nagyvarad.md) 
-- [Nagyvarad.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nagyvarad.internal.md) 
-- [Nagyvarad.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nagyvarad.protect.md) 
-- [Nagyvarad.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Nagyvarad.private.md) 
-- [Nagyvarad.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nagyvarad.personal.md) 
-- [Nagyvarad.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nagyvarad.secret.md) 

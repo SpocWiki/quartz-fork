@@ -41,10 +41,3 @@ markerFolder: ./{{EnglishName}}/City
 
 
 
-## Confidential Links & Embeds: 
-- [_CountryTemplate](../../../_public/geo/Continent/_CountryTemplate.md) 
-- [_CountryTemplate.internal](../../../_internal/geo/Continent/_CountryTemplate.internal.md) 
-- [_CountryTemplate.protect](../../../_protect/geo/Continent/_CountryTemplate.protect.md) 
-- [_CountryTemplate.private](../../../_private/geo/Continent/_CountryTemplate.private.md) 
-- [_CountryTemplate.personal](../../../_personal/geo/Continent/_CountryTemplate.personal.md) 
-- [_CountryTemplate.secret](../../../_secret/geo/Continent/_CountryTemplate.secret.md) 

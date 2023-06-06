@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lenkoran](../../../../../../_public/geo/Continent/Europe/Russia/City/Lenkoran.md) 
-- [Lenkoran.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Lenkoran.internal.md) 
-- [Lenkoran.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Lenkoran.protect.md) 
-- [Lenkoran.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Lenkoran.private.md) 
-- [Lenkoran.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Lenkoran.personal.md) 
-- [Lenkoran.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Lenkoran.secret.md) 

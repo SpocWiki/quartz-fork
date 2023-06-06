@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dahlen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dahlen.md) 
-- [Dahlen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dahlen.internal.md) 
-- [Dahlen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dahlen.protect.md) 
-- [Dahlen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dahlen.private.md) 
-- [Dahlen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dahlen.personal.md) 
-- [Dahlen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Dahlen.secret.md) 

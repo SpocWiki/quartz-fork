@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aberdare](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Aberdare.md) 
-- [Aberdare.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Aberdare.internal.md) 
-- [Aberdare.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Aberdare.protect.md) 
-- [Aberdare.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Aberdare.private.md) 
-- [Aberdare.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Aberdare.personal.md) 
-- [Aberdare.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Aberdare.secret.md) 

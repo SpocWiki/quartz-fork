@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bressuire](../../../../../../_public/geo/Continent/Europe/France/City/Bressuire.md) 
-- [Bressuire.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bressuire.internal.md) 
-- [Bressuire.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bressuire.protect.md) 
-- [Bressuire.private](../../../../../../_private/geo/Continent/Europe/France/City/Bressuire.private.md) 
-- [Bressuire.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bressuire.personal.md) 
-- [Bressuire.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bressuire.secret.md) 

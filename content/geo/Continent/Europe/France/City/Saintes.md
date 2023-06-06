@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saintes](../../../../../../_public/geo/Continent/Europe/France/City/Saintes.md) 
-- [Saintes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Saintes.internal.md) 
-- [Saintes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Saintes.protect.md) 
-- [Saintes.private](../../../../../../_private/geo/Continent/Europe/France/City/Saintes.private.md) 
-- [Saintes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Saintes.personal.md) 
-- [Saintes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Saintes.secret.md) 

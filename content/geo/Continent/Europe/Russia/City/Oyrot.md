@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oyrot](../../../../../../_public/geo/Continent/Europe/Russia/City/Oyrot.md) 
-- [Oyrot.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Oyrot.internal.md) 
-- [Oyrot.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Oyrot.protect.md) 
-- [Oyrot.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Oyrot.private.md) 
-- [Oyrot.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Oyrot.personal.md) 
-- [Oyrot.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Oyrot.secret.md) 

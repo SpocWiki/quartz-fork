@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Belgorod](../../../../../../_public/geo/Continent/Europe/Russia/City/Belgorod.md) 
-- [Belgorod.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Belgorod.internal.md) 
-- [Belgorod.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Belgorod.protect.md) 
-- [Belgorod.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Belgorod.private.md) 
-- [Belgorod.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Belgorod.personal.md) 
-- [Belgorod.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Belgorod.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falschette](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Falschette.md) 
-- [Falschette.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Falschette.internal.md) 
-- [Falschette.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Falschette.protect.md) 
-- [Falschette.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Falschette.private.md) 
-- [Falschette.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Falschette.personal.md) 
-- [Falschette.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Falschette.secret.md) 

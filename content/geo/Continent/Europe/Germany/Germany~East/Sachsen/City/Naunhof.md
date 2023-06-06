@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Naunhof](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Naunhof.md) 
-- [Naunhof.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Naunhof.internal.md) 
-- [Naunhof.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Naunhof.protect.md) 
-- [Naunhof.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Naunhof.private.md) 
-- [Naunhof.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Naunhof.personal.md) 
-- [Naunhof.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Naunhof.secret.md) 

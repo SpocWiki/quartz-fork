@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldenburg~Sachsen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.md) 
-- [Waldenburg~Sachsen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.internal.md) 
-- [Waldenburg~Sachsen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.protect.md) 
-- [Waldenburg~Sachsen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.private.md) 
-- [Waldenburg~Sachsen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.personal.md) 
-- [Waldenburg~Sachsen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldenburg~Sachsen.secret.md) 

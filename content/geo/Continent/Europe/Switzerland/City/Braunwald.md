@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Braunwald](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Braunwald.md) 
-- [Braunwald.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Braunwald.internal.md) 
-- [Braunwald.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Braunwald.protect.md) 
-- [Braunwald.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Braunwald.private.md) 
-- [Braunwald.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Braunwald.personal.md) 
-- [Braunwald.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Braunwald.secret.md) 

@@ -17,10 +17,3 @@ title: Triz-affected_harm
 
 Object-affected harmful factors
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm](../../../../_public/tech/Triz/Parameter/Triz-affected_harm.md) 
-- [Triz-affected_harm.internal](../../../../_internal/tech/Triz/Parameter/Triz-affected_harm.internal.md) 
-- [Triz-affected_harm.protect](../../../../_protect/tech/Triz/Parameter/Triz-affected_harm.protect.md) 
-- [Triz-affected_harm.private](../../../../_private/tech/Triz/Parameter/Triz-affected_harm.private.md) 
-- [Triz-affected_harm.personal](../../../../_personal/tech/Triz/Parameter/Triz-affected_harm.personal.md) 
-- [Triz-affected_harm.secret](../../../../_secret/tech/Triz/Parameter/Triz-affected_harm.secret.md) 

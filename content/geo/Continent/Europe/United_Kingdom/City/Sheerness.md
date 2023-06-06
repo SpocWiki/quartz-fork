@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sheerness](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sheerness.md) 
-- [Sheerness.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sheerness.internal.md) 
-- [Sheerness.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sheerness.protect.md) 
-- [Sheerness.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sheerness.private.md) 
-- [Sheerness.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sheerness.personal.md) 
-- [Sheerness.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sheerness.secret.md) 

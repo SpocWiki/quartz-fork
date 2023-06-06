@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kluczewo](../../../../../../_public/geo/Continent/Europe/Poland/City/Kluczewo.md) 
-- [Kluczewo.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kluczewo.internal.md) 
-- [Kluczewo.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kluczewo.protect.md) 
-- [Kluczewo.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kluczewo.private.md) 
-- [Kluczewo.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kluczewo.personal.md) 
-- [Kluczewo.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kluczewo.secret.md) 

@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Scheat](../../../_public/astro/Star/Scheat.md) 
-- [Scheat.internal](../../../_internal/astro/Star/Scheat.internal.md) 
-- [Scheat.protect](../../../_protect/astro/Star/Scheat.protect.md) 
-- [Scheat.private](../../../_private/astro/Star/Scheat.private.md) 
-- [Scheat.personal](../../../_personal/astro/Star/Scheat.personal.md) 
-- [Scheat.secret](../../../_secret/astro/Star/Scheat.secret.md) 

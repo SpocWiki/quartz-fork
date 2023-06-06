@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kielce](../../../../../../_public/geo/Continent/Europe/Poland/City/Kielce.md) 
-- [Kielce.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kielce.internal.md) 
-- [Kielce.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kielce.protect.md) 
-- [Kielce.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kielce.private.md) 
-- [Kielce.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kielce.personal.md) 
-- [Kielce.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kielce.secret.md) 

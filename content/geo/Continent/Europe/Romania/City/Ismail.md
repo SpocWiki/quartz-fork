@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ismail](../../../../../../_public/geo/Continent/Europe/Romania/City/Ismail.md) 
-- [Ismail.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Ismail.internal.md) 
-- [Ismail.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Ismail.protect.md) 
-- [Ismail.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Ismail.private.md) 
-- [Ismail.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Ismail.personal.md) 
-- [Ismail.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Ismail.secret.md) 

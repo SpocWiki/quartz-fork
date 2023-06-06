@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Joigny](../../../../../../_public/geo/Continent/Europe/France/City/Joigny.md) 
-- [Joigny.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Joigny.internal.md) 
-- [Joigny.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Joigny.protect.md) 
-- [Joigny.private](../../../../../../_private/geo/Continent/Europe/France/City/Joigny.private.md) 
-- [Joigny.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Joigny.personal.md) 
-- [Joigny.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Joigny.secret.md) 

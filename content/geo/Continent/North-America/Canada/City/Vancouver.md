@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vancouver](../../../../../../_public/geo/Continent/North-America/Canada/City/Vancouver.md) 
-- [Vancouver.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Vancouver.internal.md) 
-- [Vancouver.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Vancouver.protect.md) 
-- [Vancouver.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Vancouver.private.md) 
-- [Vancouver.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Vancouver.personal.md) 
-- [Vancouver.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Vancouver.secret.md) 

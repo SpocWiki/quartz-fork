@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_date_received](../../../../_public/schema.org/Predicate/Date_Times/has_date_received.md) 
-- [has_date_received.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_date_received.internal.md) 
-- [has_date_received.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_date_received.protect.md) 
-- [has_date_received.private](../../../../_private/schema.org/Predicate/Date_Times/has_date_received.private.md) 
-- [has_date_received.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_date_received.personal.md) 
-- [has_date_received.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_date_received.secret.md) 

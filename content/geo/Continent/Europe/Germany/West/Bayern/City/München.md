@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [München](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%BCnchen.md) 
-- [München.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%BCnchen.internal.md) 
-- [München.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%BCnchen.protect.md) 
-- [München.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%BCnchen.private.md) 
-- [München.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%BCnchen.personal.md) 
-- [München.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/M%C3%BCnchen.secret.md) 

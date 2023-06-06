@@ -19,10 +19,3 @@ title: Triz-Illumination+Segmentation-moving_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Segmentation-moving_Weight](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.md) 
-- [Triz-Illumination+Segmentation-moving_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.internal.md) 
-- [Triz-Illumination+Segmentation-moving_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.protect.md) 
-- [Triz-Illumination+Segmentation-moving_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.private.md) 
-- [Triz-Illumination+Segmentation-moving_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.personal.md) 
-- [Triz-Illumination+Segmentation-moving_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Segmentation-moving_Weight.secret.md) 

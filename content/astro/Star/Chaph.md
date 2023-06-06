@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Chaph](../../../_public/astro/Star/Chaph.md) 
-- [Chaph.internal](../../../_internal/astro/Star/Chaph.internal.md) 
-- [Chaph.protect](../../../_protect/astro/Star/Chaph.protect.md) 
-- [Chaph.private](../../../_private/astro/Star/Chaph.private.md) 
-- [Chaph.personal](../../../_personal/astro/Star/Chaph.personal.md) 
-- [Chaph.secret](../../../_secret/astro/Star/Chaph.secret.md)
-

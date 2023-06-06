@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_lodging_unit_type](../../../../../_public/schema.org/Predicate/Relations/has/has_lodging_unit_type.md) 
-- [has_lodging_unit_type.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_lodging_unit_type.internal.md) 
-- [has_lodging_unit_type.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_lodging_unit_type.protect.md) 
-- [has_lodging_unit_type.private](../../../../../_private/schema.org/Predicate/Relations/has/has_lodging_unit_type.private.md) 
-- [has_lodging_unit_type.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_lodging_unit_type.personal.md) 
-- [has_lodging_unit_type.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_lodging_unit_type.secret.md) 

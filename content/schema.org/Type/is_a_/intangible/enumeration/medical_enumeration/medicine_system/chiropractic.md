@@ -45,10 +45,3 @@ A system of medicine focused on the relationship between the body's structure, m
 
 
 
-## Confidential Links & Embeds: 
-- [chiropractic](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/chiropractic.md) 
-- [chiropractic.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/chiropractic.internal.md) 
-- [chiropractic.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/chiropractic.protect.md) 
-- [chiropractic.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/chiropractic.private.md) 
-- [chiropractic.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/chiropractic.personal.md) 
-- [chiropractic.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/chiropractic.secret.md) 

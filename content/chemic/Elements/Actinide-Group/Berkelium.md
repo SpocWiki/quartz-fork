@@ -34,10 +34,3 @@ title: Berkelium
 
 
 
-## Confidential Links & Embeds: 
-- [Berkelium](../../../../_public/chemic/Elements/Actinide-Group/Berkelium.md) 
-- [Berkelium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Berkelium.internal.md) 
-- [Berkelium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Berkelium.protect.md) 
-- [Berkelium.private](../../../../_private/chemic/Elements/Actinide-Group/Berkelium.private.md) 
-- [Berkelium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Berkelium.personal.md) 
-- [Berkelium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Berkelium.secret.md) 

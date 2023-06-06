@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Apen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Apen.md) 
-- [Apen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Apen.internal.md) 
-- [Apen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Apen.protect.md) 
-- [Apen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Apen.private.md) 
-- [Apen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Apen.personal.md) 
-- [Apen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Apen.secret.md) 

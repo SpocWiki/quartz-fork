@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Glarus](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Glarus.md) 
-- [Glarus.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Glarus.internal.md) 
-- [Glarus.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Glarus.protect.md) 
-- [Glarus.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Glarus.private.md) 
-- [Glarus.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Glarus.personal.md) 
-- [Glarus.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Glarus.secret.md) 

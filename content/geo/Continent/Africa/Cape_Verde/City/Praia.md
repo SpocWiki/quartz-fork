@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Praia](../../../../../../_public/geo/Continent/Africa/Cape_Verde/City/Praia.md) 
-- [Praia.internal](../../../../../../_internal/geo/Continent/Africa/Cape_Verde/City/Praia.internal.md) 
-- [Praia.protect](../../../../../../_protect/geo/Continent/Africa/Cape_Verde/City/Praia.protect.md) 
-- [Praia.private](../../../../../../_private/geo/Continent/Africa/Cape_Verde/City/Praia.private.md) 
-- [Praia.personal](../../../../../../_personal/geo/Continent/Africa/Cape_Verde/City/Praia.personal.md) 
-- [Praia.secret](../../../../../../_secret/geo/Continent/Africa/Cape_Verde/City/Praia.secret.md) 

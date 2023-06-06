@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klotzsche](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klotzsche.md) 
-- [Klotzsche.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klotzsche.internal.md) 
-- [Klotzsche.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klotzsche.protect.md) 
-- [Klotzsche.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klotzsche.private.md) 
-- [Klotzsche.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klotzsche.personal.md) 
-- [Klotzsche.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klotzsche.secret.md) 

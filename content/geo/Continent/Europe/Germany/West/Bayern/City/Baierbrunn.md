@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baierbrunn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.md) 
-- [Baierbrunn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.internal.md) 
-- [Baierbrunn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.protect.md) 
-- [Baierbrunn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.private.md) 
-- [Baierbrunn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.personal.md) 
-- [Baierbrunn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.secret.md) 

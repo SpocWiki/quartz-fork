@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Auxerre](../../../../../../_public/geo/Continent/Europe/France/City/Auxerre.md) 
-- [Auxerre.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Auxerre.internal.md) 
-- [Auxerre.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Auxerre.protect.md) 
-- [Auxerre.private](../../../../../../_private/geo/Continent/Europe/France/City/Auxerre.private.md) 
-- [Auxerre.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Auxerre.personal.md) 
-- [Auxerre.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Auxerre.secret.md) 

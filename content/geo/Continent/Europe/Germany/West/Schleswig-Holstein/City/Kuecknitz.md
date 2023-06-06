@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuecknitz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuecknitz.md) 
-- [Kuecknitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuecknitz.internal.md) 
-- [Kuecknitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuecknitz.protect.md) 
-- [Kuecknitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuecknitz.private.md) 
-- [Kuecknitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuecknitz.personal.md) 
-- [Kuecknitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuecknitz.secret.md) 

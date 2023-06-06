@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Forfar](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Forfar.md) 
-- [Forfar.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Forfar.internal.md) 
-- [Forfar.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Forfar.protect.md) 
-- [Forfar.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Forfar.private.md) 
-- [Forfar.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Forfar.personal.md) 
-- [Forfar.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Forfar.secret.md) 

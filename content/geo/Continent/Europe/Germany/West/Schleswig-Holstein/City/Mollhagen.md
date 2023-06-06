@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mollhagen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mollhagen.md) 
-- [Mollhagen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mollhagen.internal.md) 
-- [Mollhagen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mollhagen.protect.md) 
-- [Mollhagen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mollhagen.private.md) 
-- [Mollhagen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mollhagen.personal.md) 
-- [Mollhagen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Mollhagen.secret.md) 

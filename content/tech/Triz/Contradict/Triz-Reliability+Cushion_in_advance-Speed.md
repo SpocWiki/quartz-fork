@@ -19,10 +19,3 @@ title: Triz-Reliability+Cushion_in_advance-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Cushion_in_advance-Speed](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.md) 
-- [Triz-Reliability+Cushion_in_advance-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.internal.md) 
-- [Triz-Reliability+Cushion_in_advance-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.protect.md) 
-- [Triz-Reliability+Cushion_in_advance-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.private.md) 
-- [Triz-Reliability+Cushion_in_advance-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.personal.md) 
-- [Triz-Reliability+Cushion_in_advance-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Speed.secret.md) 

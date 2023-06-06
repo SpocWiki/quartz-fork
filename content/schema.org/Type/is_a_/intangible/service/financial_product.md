@@ -45,10 +45,3 @@ A product provided to consumers and businesses by financial institutions such as
 
 
 
-## Confidential Links & Embeds: 
-- [financial_product](../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product.md) 
-- [financial_product.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product.internal.md) 
-- [financial_product.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product.protect.md) 
-- [financial_product.private](../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product.private.md) 
-- [financial_product.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product.personal.md) 
-- [financial_product.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product.secret.md) 

@@ -41,10 +41,3 @@ Enumerated options related to a ContactPoint.
 
 
 
-## Confidential Links & Embeds: 
-- [contact_point_option](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/contact_point_option.md) 
-- [contact_point_option.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/contact_point_option.internal.md) 
-- [contact_point_option.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/contact_point_option.protect.md) 
-- [contact_point_option.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/contact_point_option.private.md) 
-- [contact_point_option.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/contact_point_option.personal.md) 
-- [contact_point_option.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/contact_point_option.secret.md) 

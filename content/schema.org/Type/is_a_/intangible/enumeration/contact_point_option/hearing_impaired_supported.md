@@ -45,10 +45,3 @@ Uses devices to support users with hearing impairments.
 
 
 
-## Confidential Links & Embeds: 
-- [hearing_impaired_supported](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.md) 
-- [hearing_impaired_supported.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.internal.md) 
-- [hearing_impaired_supported.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.protect.md) 
-- [hearing_impaired_supported.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.private.md) 
-- [hearing_impaired_supported.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.personal.md) 
-- [hearing_impaired_supported.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.secret.md) 

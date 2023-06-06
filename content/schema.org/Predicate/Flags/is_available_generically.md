@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_available_generically](../../../../_public/schema.org/Predicate/Flags/is_available_generically.md) 
-- [is_available_generically.internal](../../../../_internal/schema.org/Predicate/Flags/is_available_generically.internal.md) 
-- [is_available_generically.protect](../../../../_protect/schema.org/Predicate/Flags/is_available_generically.protect.md) 
-- [is_available_generically.private](../../../../_private/schema.org/Predicate/Flags/is_available_generically.private.md) 
-- [is_available_generically.personal](../../../../_personal/schema.org/Predicate/Flags/is_available_generically.personal.md) 
-- [is_available_generically.secret](../../../../_secret/schema.org/Predicate/Flags/is_available_generically.secret.md) 

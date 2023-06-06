@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ascoli_Piceno](../../../../../../_public/geo/Continent/Europe/Italy/City/Ascoli_Piceno.md) 
-- [Ascoli_Piceno.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ascoli_Piceno.internal.md) 
-- [Ascoli_Piceno.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ascoli_Piceno.protect.md) 
-- [Ascoli_Piceno.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ascoli_Piceno.private.md) 
-- [Ascoli_Piceno.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ascoli_Piceno.personal.md) 
-- [Ascoli_Piceno.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ascoli_Piceno.secret.md) 

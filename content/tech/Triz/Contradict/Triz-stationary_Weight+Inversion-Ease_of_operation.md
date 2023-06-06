@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Inversion-Ease_of_operation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Inversion-Ease_of_operation](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Ease_of_operation.md) 
-- [Triz-stationary_Weight+Inversion-Ease_of_operation.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Ease_of_operation.internal.md) 
-- [Triz-stationary_Weight+Inversion-Ease_of_operation.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Ease_of_operation.protect.md) 
-- [Triz-stationary_Weight+Inversion-Ease_of_operation.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Ease_of_operation.private.md) 
-- [Triz-stationary_Weight+Inversion-Ease_of_operation.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Ease_of_operation.personal.md) 
-- [Triz-stationary_Weight+Inversion-Ease_of_operation.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Ease_of_operation.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sjoetorp](../../../../../../_public/geo/Continent/Europe/Sweden/City/Sjoetorp.md) 
-- [Sjoetorp.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sjoetorp.internal.md) 
-- [Sjoetorp.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sjoetorp.protect.md) 
-- [Sjoetorp.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Sjoetorp.private.md) 
-- [Sjoetorp.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sjoetorp.personal.md) 
-- [Sjoetorp.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sjoetorp.secret.md) 

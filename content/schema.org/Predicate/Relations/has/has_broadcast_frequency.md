@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_broadcast_frequency](../../../../../_public/schema.org/Predicate/Relations/has/has_broadcast_frequency.md) 
-- [has_broadcast_frequency.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_frequency.internal.md) 
-- [has_broadcast_frequency.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_broadcast_frequency.protect.md) 
-- [has_broadcast_frequency.private](../../../../../_private/schema.org/Predicate/Relations/has/has_broadcast_frequency.private.md) 
-- [has_broadcast_frequency.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_broadcast_frequency.personal.md) 
-- [has_broadcast_frequency.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_broadcast_frequency.secret.md) 

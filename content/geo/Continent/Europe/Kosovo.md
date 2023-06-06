@@ -30,7 +30,7 @@ markerFolder: ./Kosovo/City
 [VehicleCode::]
 [Capital-Id::]
 ![350](Coat_of_arms_of_Kosovo.svg)
-![Anthem-Kosovo](xLarge/National-Anthem/Anthem-Kosovo.mp3)
+[Anthem-Kosovo](xLarge/National-Anthem/Anthem-Kosovo.mp3)
 ![350](Flag_of_Kosovo.svg)
 [Alcohol-l::]
 [Language-Id::]
@@ -39,10 +39,3 @@ markerFolder: ./Kosovo/City
 
 
 
-## Confidential Links & Embeds: 
-- [Kosovo](../../../../_public/geo/Continent/Europe/Kosovo.md) 
-- [Kosovo.internal](../../../../_internal/geo/Continent/Europe/Kosovo.internal.md) 
-- [Kosovo.protect](../../../../_protect/geo/Continent/Europe/Kosovo.protect.md) 
-- [Kosovo.private](../../../../_private/geo/Continent/Europe/Kosovo.private.md) 
-- [Kosovo.personal](../../../../_personal/geo/Continent/Europe/Kosovo.personal.md) 
-- [Kosovo.secret](../../../../_secret/geo/Continent/Europe/Kosovo.secret.md) 

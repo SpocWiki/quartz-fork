@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_incentive_compensation](../../../../_public/schema.org/Predicate/Texts/has_incentive_compensation.md) 
-- [has_incentive_compensation.internal](../../../../_internal/schema.org/Predicate/Texts/has_incentive_compensation.internal.md) 
-- [has_incentive_compensation.protect](../../../../_protect/schema.org/Predicate/Texts/has_incentive_compensation.protect.md) 
-- [has_incentive_compensation.private](../../../../_private/schema.org/Predicate/Texts/has_incentive_compensation.private.md) 
-- [has_incentive_compensation.personal](../../../../_personal/schema.org/Predicate/Texts/has_incentive_compensation.personal.md) 
-- [has_incentive_compensation.secret](../../../../_secret/schema.org/Predicate/Texts/has_incentive_compensation.secret.md) 

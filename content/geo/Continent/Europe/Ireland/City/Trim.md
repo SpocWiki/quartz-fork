@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trim](../../../../../../_public/geo/Continent/Europe/Ireland/City/Trim.md) 
-- [Trim.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Trim.internal.md) 
-- [Trim.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Trim.protect.md) 
-- [Trim.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Trim.private.md) 
-- [Trim.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Trim.personal.md) 
-- [Trim.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Trim.secret.md) 

@@ -18,10 +18,3 @@ title: Triz-control-harm
 If it will be necessary to do an action with both harmful and useful effects, this action should be replaced with anti-actions to control harmful effects.
 
 
-## Confidential Links & Embeds: 
-- [Triz-control-harm](../../../../_public/tech/Triz/Sub/Triz-control-harm.md) 
-- [Triz-control-harm.internal](../../../../_internal/tech/Triz/Sub/Triz-control-harm.internal.md) 
-- [Triz-control-harm.protect](../../../../_protect/tech/Triz/Sub/Triz-control-harm.protect.md) 
-- [Triz-control-harm.private](../../../../_private/tech/Triz/Sub/Triz-control-harm.private.md) 
-- [Triz-control-harm.personal](../../../../_personal/tech/Triz/Sub/Triz-control-harm.personal.md) 
-- [Triz-control-harm.secret](../../../../_secret/tech/Triz/Sub/Triz-control-harm.secret.md) 

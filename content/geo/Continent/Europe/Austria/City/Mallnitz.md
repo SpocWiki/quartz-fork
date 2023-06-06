@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mallnitz](../../../../../../_public/geo/Continent/Europe/Austria/City/Mallnitz.md) 
-- [Mallnitz.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Mallnitz.internal.md) 
-- [Mallnitz.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Mallnitz.protect.md) 
-- [Mallnitz.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Mallnitz.private.md) 
-- [Mallnitz.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Mallnitz.personal.md) 
-- [Mallnitz.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Mallnitz.secret.md) 

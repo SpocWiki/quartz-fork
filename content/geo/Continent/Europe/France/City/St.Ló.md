@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Ló](../../../../../../_public/geo/Continent/Europe/France/City/St.L%C3%B3.md) 
-- [St.Ló.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.L%C3%B3.internal.md) 
-- [St.Ló.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.L%C3%B3.protect.md) 
-- [St.Ló.private](../../../../../../_private/geo/Continent/Europe/France/City/St.L%C3%B3.private.md) 
-- [St.Ló.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.L%C3%B3.personal.md) 
-- [St.Ló.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.L%C3%B3.secret.md) 

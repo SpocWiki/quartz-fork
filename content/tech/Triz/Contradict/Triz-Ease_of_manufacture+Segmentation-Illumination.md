@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Segmentation-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Segmentation-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.internal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.protect.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.private.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.personal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Illumination.secret.md) 

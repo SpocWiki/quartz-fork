@@ -19,10 +19,3 @@ title: Triz-Shape+Rejecting_and_regenerating_parts-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Speed](../../../../_public/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Speed.md) 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Speed.internal.md) 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Speed.protect.md) 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Speed.private.md) 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Speed.personal.md) 
-- [Triz-Shape+Rejecting_and_regenerating_parts-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Rejecting_and_regenerating_parts-Speed.secret.md) 

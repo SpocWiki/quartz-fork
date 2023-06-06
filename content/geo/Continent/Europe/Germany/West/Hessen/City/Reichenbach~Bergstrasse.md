@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reichenbach~Bergstrasse](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.md) 
-- [Reichenbach~Bergstrasse.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.internal.md) 
-- [Reichenbach~Bergstrasse.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.protect.md) 
-- [Reichenbach~Bergstrasse.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.private.md) 
-- [Reichenbach~Bergstrasse.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.personal.md) 
-- [Reichenbach~Bergstrasse.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Reichenbach~Bergstrasse.secret.md) 

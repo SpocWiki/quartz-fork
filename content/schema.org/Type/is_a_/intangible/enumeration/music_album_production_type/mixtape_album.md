@@ -45,10 +45,3 @@ MixtapeAlbum.
 
 
 
-## Confidential Links & Embeds: 
-- [mixtape_album](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/mixtape_album.md) 
-- [mixtape_album.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/mixtape_album.internal.md) 
-- [mixtape_album.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/mixtape_album.protect.md) 
-- [mixtape_album.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/mixtape_album.private.md) 
-- [mixtape_album.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/mixtape_album.personal.md) 
-- [mixtape_album.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/mixtape_album.secret.md) 

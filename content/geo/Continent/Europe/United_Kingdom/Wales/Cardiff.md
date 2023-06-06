@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cardiff](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.md) 
-- [Cardiff.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.internal.md) 
-- [Cardiff.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.protect.md) 
-- [Cardiff.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.private.md) 
-- [Cardiff.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.personal.md) 
-- [Cardiff.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Cardiff.secret.md) 

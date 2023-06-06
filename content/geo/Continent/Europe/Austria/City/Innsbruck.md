@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Innsbruck](../../../../../../_public/geo/Continent/Europe/Austria/City/Innsbruck.md) 
-- [Innsbruck.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Innsbruck.internal.md) 
-- [Innsbruck.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Innsbruck.protect.md) 
-- [Innsbruck.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Innsbruck.private.md) 
-- [Innsbruck.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Innsbruck.personal.md) 
-- [Innsbruck.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Innsbruck.secret.md) 

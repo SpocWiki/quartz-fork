@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Warmbrunn](../../../../../../_public/geo/Continent/Europe/Poland/City/Warmbrunn.md) 
-- [Warmbrunn.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Warmbrunn.internal.md) 
-- [Warmbrunn.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Warmbrunn.protect.md) 
-- [Warmbrunn.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Warmbrunn.private.md) 
-- [Warmbrunn.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Warmbrunn.personal.md) 
-- [Warmbrunn.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Warmbrunn.secret.md) 

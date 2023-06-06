@@ -19,10 +19,3 @@ title: Triz-Strength+Composite_materials-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Composite_materials-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.md) 
-- [Triz-Strength+Composite_materials-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.internal.md) 
-- [Triz-Strength+Composite_materials-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.protect.md) 
-- [Triz-Strength+Composite_materials-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.private.md) 
-- [Triz-Strength+Composite_materials-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.personal.md) 
-- [Triz-Strength+Composite_materials-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Composite_materials-Difficulty.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amiens](../../../../../../_public/geo/Continent/Europe/France/City/Amiens.md) 
-- [Amiens.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Amiens.internal.md) 
-- [Amiens.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Amiens.protect.md) 
-- [Amiens.private](../../../../../../_private/geo/Continent/Europe/France/City/Amiens.private.md) 
-- [Amiens.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Amiens.personal.md) 
-- [Amiens.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Amiens.secret.md) 

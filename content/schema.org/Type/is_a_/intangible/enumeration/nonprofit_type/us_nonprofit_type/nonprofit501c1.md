@@ -47,10 +47,3 @@ Nonprofit501c1: Non-profit type referring to Corporations Organized Under Act of
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c1](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.md) 
-- [nonprofit501c1.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.internal.md) 
-- [nonprofit501c1.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.protect.md) 
-- [nonprofit501c1.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.private.md) 
-- [nonprofit501c1.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.personal.md) 
-- [nonprofit501c1.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.secret.md) 

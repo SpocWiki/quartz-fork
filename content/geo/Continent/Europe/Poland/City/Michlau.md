@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Michlau](../../../../../../_public/geo/Continent/Europe/Poland/City/Michlau.md) 
-- [Michlau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Michlau.internal.md) 
-- [Michlau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Michlau.protect.md) 
-- [Michlau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Michlau.private.md) 
-- [Michlau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Michlau.personal.md) 
-- [Michlau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Michlau.secret.md) 

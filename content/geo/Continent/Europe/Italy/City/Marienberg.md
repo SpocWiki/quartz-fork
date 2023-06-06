@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marienberg](../../../../../../_public/geo/Continent/Europe/Italy/City/Marienberg.md) 
-- [Marienberg.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Marienberg.internal.md) 
-- [Marienberg.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Marienberg.protect.md) 
-- [Marienberg.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Marienberg.private.md) 
-- [Marienberg.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Marienberg.personal.md) 
-- [Marienberg.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Marienberg.secret.md) 

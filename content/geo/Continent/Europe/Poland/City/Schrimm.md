@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schrimm](../../../../../../_public/geo/Continent/Europe/Poland/City/Schrimm.md) 
-- [Schrimm.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schrimm.internal.md) 
-- [Schrimm.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schrimm.protect.md) 
-- [Schrimm.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schrimm.private.md) 
-- [Schrimm.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schrimm.personal.md) 
-- [Schrimm.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schrimm.secret.md) 

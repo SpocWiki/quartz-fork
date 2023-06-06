@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Liverpool_Street](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Liverpool_Street.md) 
-- [Sub-Liverpool_Street.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Liverpool_Street.internal.md) 
-- [Sub-Liverpool_Street.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Liverpool_Street.protect.md) 
-- [Sub-Liverpool_Street.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Liverpool_Street.private.md) 
-- [Sub-Liverpool_Street.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Liverpool_Street.personal.md) 
-- [Sub-Liverpool_Street.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Liverpool_Street.secret.md) 

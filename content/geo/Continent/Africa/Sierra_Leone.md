@@ -122,7 +122,7 @@ markerFolder: ./Sierra_Leone/City
 [Capital::[Freetown](geo/Continent/Africa/Sierra_Leone/City/Freetown.md)]
 ![550](geo/Continent/Africa/Sierra_Leone/Coat_of_arms_of_Sierra_Leone.svg)
 
-![Anthem-Sierra-leone](xLarge/National-Anthem/Anthem-Sierra-leone.mp3)
+[Anthem-Sierra-leone](xLarge/National-Anthem/Anthem-Sierra-leone.mp3)
 
 ![350](geo/Continent/Africa/Sierra_Leone/Flag_of_Sierra_Leone.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Sierra_Leone/City
 
 
 
-## Confidential Links & Embeds: 
-- [Sierra_Leone](../../../../_public/geo/Continent/Africa/Sierra_Leone.md) 
-- [Sierra_Leone.internal](../../../../_internal/geo/Continent/Africa/Sierra_Leone.internal.md) 
-- [Sierra_Leone.protect](../../../../_protect/geo/Continent/Africa/Sierra_Leone.protect.md) 
-- [Sierra_Leone.private](../../../../_private/geo/Continent/Africa/Sierra_Leone.private.md) 
-- [Sierra_Leone.personal](../../../../_personal/geo/Continent/Africa/Sierra_Leone.personal.md) 
-- [Sierra_Leone.secret](../../../../_secret/geo/Continent/Africa/Sierra_Leone.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sans_Soucis](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Sans_Soucis.md) 
-- [Sans_Soucis.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Sans_Soucis.internal.md) 
-- [Sans_Soucis.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Sans_Soucis.protect.md) 
-- [Sans_Soucis.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Sans_Soucis.private.md) 
-- [Sans_Soucis.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Sans_Soucis.personal.md) 
-- [Sans_Soucis.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Sans_Soucis.secret.md) 

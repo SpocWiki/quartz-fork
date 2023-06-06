@@ -45,10 +45,3 @@ The <a class="localLink" href="/position">position</a> property is used to recon
 
 
 
-## Confidential Links & Embeds: 
-- [breadcrumb_list](../../../../../../_public/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.md) 
-- [breadcrumb_list.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.internal.md) 
-- [breadcrumb_list.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.protect.md) 
-- [breadcrumb_list.private](../../../../../../_private/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.private.md) 
-- [breadcrumb_list.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.personal.md) 
-- [breadcrumb_list.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.secret.md) 

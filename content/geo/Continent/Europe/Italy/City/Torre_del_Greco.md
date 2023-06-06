@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Torre_del_Greco](../../../../../../_public/geo/Continent/Europe/Italy/City/Torre_del_Greco.md) 
-- [Torre_del_Greco.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Torre_del_Greco.internal.md) 
-- [Torre_del_Greco.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Torre_del_Greco.protect.md) 
-- [Torre_del_Greco.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Torre_del_Greco.private.md) 
-- [Torre_del_Greco.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Torre_del_Greco.personal.md) 
-- [Torre_del_Greco.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Torre_del_Greco.secret.md) 

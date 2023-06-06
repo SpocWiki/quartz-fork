@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sandwich](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sandwich.md) 
-- [Sandwich.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sandwich.internal.md) 
-- [Sandwich.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sandwich.protect.md) 
-- [Sandwich.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sandwich.private.md) 
-- [Sandwich.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sandwich.personal.md) 
-- [Sandwich.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sandwich.secret.md) 

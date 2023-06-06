@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Northwest_Territories](../../../../../../_public/geo/Continent/North-America/Canada/State/State-Northwest_Territories.md) 
-- [State-Northwest_Territories.internal](../../../../../../_internal/geo/Continent/North-America/Canada/State/State-Northwest_Territories.internal.md) 
-- [State-Northwest_Territories.protect](../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Northwest_Territories.protect.md) 
-- [State-Northwest_Territories.private](../../../../../../_private/geo/Continent/North-America/Canada/State/State-Northwest_Territories.private.md) 
-- [State-Northwest_Territories.personal](../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Northwest_Territories.personal.md) 
-- [State-Northwest_Territories.secret](../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Northwest_Territories.secret.md) 

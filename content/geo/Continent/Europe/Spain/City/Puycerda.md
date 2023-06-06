@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Puycerda](../../../../../../_public/geo/Continent/Europe/Spain/City/Puycerda.md) 
-- [Puycerda.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Puycerda.internal.md) 
-- [Puycerda.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Puycerda.protect.md) 
-- [Puycerda.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Puycerda.private.md) 
-- [Puycerda.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Puycerda.personal.md) 
-- [Puycerda.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Puycerda.secret.md) 

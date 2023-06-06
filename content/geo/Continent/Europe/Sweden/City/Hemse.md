@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hemse](../../../../../../_public/geo/Continent/Europe/Sweden/City/Hemse.md) 
-- [Hemse.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hemse.internal.md) 
-- [Hemse.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hemse.protect.md) 
-- [Hemse.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Hemse.private.md) 
-- [Hemse.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hemse.personal.md) 
-- [Hemse.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hemse.secret.md) 

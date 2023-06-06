@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_country_of_assembly](../../../../_public/schema.org/Predicate/Texts/has_country_of_assembly.md) 
-- [has_country_of_assembly.internal](../../../../_internal/schema.org/Predicate/Texts/has_country_of_assembly.internal.md) 
-- [has_country_of_assembly.protect](../../../../_protect/schema.org/Predicate/Texts/has_country_of_assembly.protect.md) 
-- [has_country_of_assembly.private](../../../../_private/schema.org/Predicate/Texts/has_country_of_assembly.private.md) 
-- [has_country_of_assembly.personal](../../../../_personal/schema.org/Predicate/Texts/has_country_of_assembly.personal.md) 
-- [has_country_of_assembly.secret](../../../../_secret/schema.org/Predicate/Texts/has_country_of_assembly.secret.md) 

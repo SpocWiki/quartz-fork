@@ -34,10 +34,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kensington](../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.md) 
-- [Kensington.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.internal.md) 
-- [Kensington.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.protect.md) 
-- [Kensington.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.private.md) 
-- [Kensington.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.personal.md) 
-- [Kensington.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Kensington.secret.md) 

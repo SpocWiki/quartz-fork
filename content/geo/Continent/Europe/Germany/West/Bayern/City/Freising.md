@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freising](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Freising.md) 
-- [Freising.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Freising.internal.md) 
-- [Freising.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Freising.protect.md) 
-- [Freising.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Freising.private.md) 
-- [Freising.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Freising.personal.md) 
-- [Freising.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Freising.secret.md) 

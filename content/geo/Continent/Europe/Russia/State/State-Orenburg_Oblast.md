@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Orenburg_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Orenburg_Oblast.md) 
-- [State-Orenburg_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Orenburg_Oblast.internal.md) 
-- [State-Orenburg_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Orenburg_Oblast.protect.md) 
-- [State-Orenburg_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Orenburg_Oblast.private.md) 
-- [State-Orenburg_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Orenburg_Oblast.personal.md) 
-- [State-Orenburg_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Orenburg_Oblast.secret.md) 

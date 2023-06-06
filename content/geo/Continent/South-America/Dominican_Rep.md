@@ -30,7 +30,7 @@ markerFolder: ./Dominican_Rep/City
 [VehicleCode::DOM]
 [Capital::[Santo_Domingo](geo/Continent/South-America/Dominican_Rep/City/Santo_Domingo.md)]
 ![350](Coat_of_arms_of_Dominican-republic.svg)
-![Anthem-Dominican-republic](xLarge/National-Anthem/Anthem-Dominican-republic.mp3)
+[Anthem-Dominican-republic](xLarge/National-Anthem/Anthem-Dominican-republic.mp3)
 ![350](Flag_of_Dominican-republic.svg)
 [Alcohol-l::6.4]
 [Language-Id::492]
@@ -39,10 +39,3 @@ markerFolder: ./Dominican_Rep/City
 
 
 
-## Confidential Links & Embeds: 
-- [Dominican_Rep](../../../../_public/geo/Continent/South-America/Dominican_Rep.md) 
-- [Dominican_Rep.internal](../../../../_internal/geo/Continent/South-America/Dominican_Rep.internal.md) 
-- [Dominican_Rep.protect](../../../../_protect/geo/Continent/South-America/Dominican_Rep.protect.md) 
-- [Dominican_Rep.private](../../../../_private/geo/Continent/South-America/Dominican_Rep.private.md) 
-- [Dominican_Rep.personal](../../../../_personal/geo/Continent/South-America/Dominican_Rep.personal.md) 
-- [Dominican_Rep.secret](../../../../_secret/geo/Continent/South-America/Dominican_Rep.secret.md) 

@@ -43,10 +43,3 @@ Event type: Visual arts event.
 
 
 
-## Confidential Links & Embeds: 
-- [visual_arts_event](../../../../../_public/schema.org/Type/is_a_/event/visual_arts_event.md) 
-- [visual_arts_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/visual_arts_event.internal.md) 
-- [visual_arts_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/visual_arts_event.protect.md) 
-- [visual_arts_event.private](../../../../../_private/schema.org/Type/is_a_/event/visual_arts_event.private.md) 
-- [visual_arts_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/visual_arts_event.personal.md) 
-- [visual_arts_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/visual_arts_event.secret.md) 

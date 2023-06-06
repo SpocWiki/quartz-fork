@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pontivy](../../../../../../_public/geo/Continent/Europe/France/City/Pontivy.md) 
-- [Pontivy.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Pontivy.internal.md) 
-- [Pontivy.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Pontivy.protect.md) 
-- [Pontivy.private](../../../../../../_private/geo/Continent/Europe/France/City/Pontivy.private.md) 
-- [Pontivy.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Pontivy.personal.md) 
-- [Pontivy.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Pontivy.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Spheroidality-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Spheroidality-Stability](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Spheroidality-Stability.md) 
-- [Triz-Energy-Loss+Spheroidality-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Spheroidality-Stability.internal.md) 
-- [Triz-Energy-Loss+Spheroidality-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Spheroidality-Stability.protect.md) 
-- [Triz-Energy-Loss+Spheroidality-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Spheroidality-Stability.private.md) 
-- [Triz-Energy-Loss+Spheroidality-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Spheroidality-Stability.personal.md) 
-- [Triz-Energy-Loss+Spheroidality-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Spheroidality-Stability.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Intensity+Feedback-Measurement_Accuracy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Feedback-Measurement_Accuracy](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Feedback-Measurement_Accuracy.md) 
-- [Triz-Intensity+Feedback-Measurement_Accuracy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Feedback-Measurement_Accuracy.internal.md) 
-- [Triz-Intensity+Feedback-Measurement_Accuracy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Feedback-Measurement_Accuracy.protect.md) 
-- [Triz-Intensity+Feedback-Measurement_Accuracy.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Feedback-Measurement_Accuracy.private.md) 
-- [Triz-Intensity+Feedback-Measurement_Accuracy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Feedback-Measurement_Accuracy.personal.md) 
-- [Triz-Intensity+Feedback-Measurement_Accuracy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Feedback-Measurement_Accuracy.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Korosten](../../../../../../_public/geo/Continent/Europe/Russia/City/Korosten.md) 
-- [Korosten.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Korosten.internal.md) 
-- [Korosten.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Korosten.protect.md) 
-- [Korosten.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Korosten.private.md) 
-- [Korosten.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Korosten.personal.md) 
-- [Korosten.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Korosten.secret.md) 

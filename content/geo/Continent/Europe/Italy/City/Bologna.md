@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bologna](../../../../../../_public/geo/Continent/Europe/Italy/City/Bologna.md) 
-- [Bologna.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bologna.internal.md) 
-- [Bologna.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bologna.protect.md) 
-- [Bologna.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bologna.private.md) 
-- [Bologna.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bologna.personal.md) 
-- [Bologna.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bologna.secret.md) 

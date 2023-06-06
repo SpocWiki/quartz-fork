@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Turin=Terino](../../../../../../_public/geo/Continent/Europe/Italy/City/Turin=Terino.md) 
-- [Turin=Terino.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Turin=Terino.internal.md) 
-- [Turin=Terino.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Turin=Terino.protect.md) 
-- [Turin=Terino.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Turin=Terino.private.md) 
-- [Turin=Terino.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Turin=Terino.personal.md) 
-- [Turin=Terino.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Turin=Terino.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rousdon](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Rousdon.md) 
-- [Rousdon.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Rousdon.internal.md) 
-- [Rousdon.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Rousdon.protect.md) 
-- [Rousdon.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Rousdon.private.md) 
-- [Rousdon.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Rousdon.personal.md) 
-- [Rousdon.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Rousdon.secret.md) 

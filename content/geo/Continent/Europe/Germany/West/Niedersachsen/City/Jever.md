@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jever](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jever.md) 
-- [Jever.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jever.internal.md) 
-- [Jever.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jever.protect.md) 
-- [Jever.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jever.private.md) 
-- [Jever.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jever.personal.md) 
-- [Jever.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jever.secret.md) 

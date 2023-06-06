@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Von_der_Heydt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Von_der_Heydt.md) 
-- [Von_der_Heydt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Von_der_Heydt.internal.md) 
-- [Von_der_Heydt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Von_der_Heydt.protect.md) 
-- [Von_der_Heydt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Von_der_Heydt.private.md) 
-- [Von_der_Heydt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Von_der_Heydt.personal.md) 
-- [Von_der_Heydt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Von_der_Heydt.secret.md) 

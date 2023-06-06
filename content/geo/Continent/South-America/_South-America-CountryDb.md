@@ -446,10 +446,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_South-America-CountryDb](../../../../_public/geo/Continent/South-America/_South-America-CountryDb.md) 
-- [_South-America-CountryDb.internal](../../../../_internal/geo/Continent/South-America/_South-America-CountryDb.internal.md) 
-- [_South-America-CountryDb.protect](../../../../_protect/geo/Continent/South-America/_South-America-CountryDb.protect.md) 
-- [_South-America-CountryDb.private](../../../../_private/geo/Continent/South-America/_South-America-CountryDb.private.md) 
-- [_South-America-CountryDb.personal](../../../../_personal/geo/Continent/South-America/_South-America-CountryDb.personal.md) 
-- [_South-America-CountryDb.secret](../../../../_secret/geo/Continent/South-America/_South-America-CountryDb.secret.md) 

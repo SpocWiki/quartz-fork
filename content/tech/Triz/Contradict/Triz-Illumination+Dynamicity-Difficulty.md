@@ -19,10 +19,3 @@ title: Triz-Illumination+Dynamicity-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Dynamicity-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Difficulty.md) 
-- [Triz-Illumination+Dynamicity-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Difficulty.internal.md) 
-- [Triz-Illumination+Dynamicity-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Difficulty.protect.md) 
-- [Triz-Illumination+Dynamicity-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Difficulty.private.md) 
-- [Triz-Illumination+Dynamicity-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Difficulty.personal.md) 
-- [Triz-Illumination+Dynamicity-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Dynamicity-Difficulty.secret.md) 

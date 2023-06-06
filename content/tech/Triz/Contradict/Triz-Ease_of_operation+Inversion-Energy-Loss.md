@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Inversion-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Inversion-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Energy-Loss.md) 
-- [Triz-Ease_of_operation+Inversion-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Energy-Loss.internal.md) 
-- [Triz-Ease_of_operation+Inversion-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Energy-Loss.protect.md) 
-- [Triz-Ease_of_operation+Inversion-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Energy-Loss.private.md) 
-- [Triz-Ease_of_operation+Inversion-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Energy-Loss.personal.md) 
-- [Triz-Ease_of_operation+Inversion-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Energy-Loss.secret.md) 

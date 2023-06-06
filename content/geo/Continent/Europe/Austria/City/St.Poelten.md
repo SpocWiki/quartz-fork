@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Poelten](../../../../../../_public/geo/Continent/Europe/Austria/City/St.Poelten.md) 
-- [St.Poelten.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Poelten.internal.md) 
-- [St.Poelten.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Poelten.protect.md) 
-- [St.Poelten.private](../../../../../../_private/geo/Continent/Europe/Austria/City/St.Poelten.private.md) 
-- [St.Poelten.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Poelten.personal.md) 
-- [St.Poelten.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Poelten.secret.md) 

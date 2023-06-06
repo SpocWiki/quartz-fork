@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tepl](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tepl.md) 
-- [Tepl.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tepl.internal.md) 
-- [Tepl.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tepl.protect.md) 
-- [Tepl.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tepl.private.md) 
-- [Tepl.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tepl.personal.md) 
-- [Tepl.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tepl.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Dynamicity-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Dynamicity-Shape](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.md) 
-- [Triz-stationary_Length+Dynamicity-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.internal.md) 
-- [Triz-stationary_Length+Dynamicity-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.protect.md) 
-- [Triz-stationary_Length+Dynamicity-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.private.md) 
-- [Triz-stationary_Length+Dynamicity-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.personal.md) 
-- [Triz-stationary_Length+Dynamicity-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Dynamicity-Shape.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jefferson~City](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Missouri/City/Jefferson~City.md) 
-- [Jefferson~City.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Missouri/City/Jefferson~City.internal.md) 
-- [Jefferson~City.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Missouri/City/Jefferson~City.protect.md) 
-- [Jefferson~City.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Missouri/City/Jefferson~City.private.md) 
-- [Jefferson~City.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Missouri/City/Jefferson~City.personal.md) 
-- [Jefferson~City.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Missouri/City/Jefferson~City.secret.md) 

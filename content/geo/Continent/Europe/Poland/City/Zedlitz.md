@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zedlitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Zedlitz.md) 
-- [Zedlitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zedlitz.internal.md) 
-- [Zedlitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zedlitz.protect.md) 
-- [Zedlitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zedlitz.private.md) 
-- [Zedlitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zedlitz.personal.md) 
-- [Zedlitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zedlitz.secret.md) 

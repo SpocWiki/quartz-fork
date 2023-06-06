@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tamhof](../../../../../../_public/geo/Continent/Europe/Russia/City/Tamhof.md) 
-- [Tamhof.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tamhof.internal.md) 
-- [Tamhof.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tamhof.protect.md) 
-- [Tamhof.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tamhof.private.md) 
-- [Tamhof.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tamhof.personal.md) 
-- [Tamhof.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tamhof.secret.md) 

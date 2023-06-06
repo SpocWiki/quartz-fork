@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Geminorum-17](../../../_public/astro/Star/Geminorum-17.md) 
-- [Geminorum-17.internal](../../../_internal/astro/Star/Geminorum-17.internal.md) 
-- [Geminorum-17.protect](../../../_protect/astro/Star/Geminorum-17.protect.md) 
-- [Geminorum-17.private](../../../_private/astro/Star/Geminorum-17.private.md) 
-- [Geminorum-17.personal](../../../_personal/astro/Star/Geminorum-17.personal.md) 
-- [Geminorum-17.secret](../../../_secret/astro/Star/Geminorum-17.secret.md)
-

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radebeul](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radebeul.md) 
-- [Radebeul.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radebeul.internal.md) 
-- [Radebeul.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radebeul.protect.md) 
-- [Radebeul.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radebeul.private.md) 
-- [Radebeul.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radebeul.personal.md) 
-- [Radebeul.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radebeul.secret.md) 

@@ -18,10 +18,3 @@ title: Triz-use-films
 Use flexible shells and thin films instead of three dimensional structures.
 
 
-## Confidential Links & Embeds: 
-- [Triz-use-films](../../../../_public/tech/Triz/Sub/Triz-use-films.md) 
-- [Triz-use-films.internal](../../../../_internal/tech/Triz/Sub/Triz-use-films.internal.md) 
-- [Triz-use-films.protect](../../../../_protect/tech/Triz/Sub/Triz-use-films.protect.md) 
-- [Triz-use-films.private](../../../../_private/tech/Triz/Sub/Triz-use-films.private.md) 
-- [Triz-use-films.personal](../../../../_personal/tech/Triz/Sub/Triz-use-films.personal.md) 
-- [Triz-use-films.secret](../../../../_secret/tech/Triz/Sub/Triz-use-films.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hatzfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Hatzfeld.md) 
-- [Hatzfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hatzfeld.internal.md) 
-- [Hatzfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hatzfeld.protect.md) 
-- [Hatzfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hatzfeld.private.md) 
-- [Hatzfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hatzfeld.personal.md) 
-- [Hatzfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hatzfeld.secret.md) 

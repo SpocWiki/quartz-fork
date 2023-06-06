@@ -19,10 +19,3 @@ title: Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_obj
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.md) 
-- [Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.internal.md) 
-- [Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.protect.md) 
-- [Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.private.md) 
-- [Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.personal.md) 
-- [Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.secret.md) 

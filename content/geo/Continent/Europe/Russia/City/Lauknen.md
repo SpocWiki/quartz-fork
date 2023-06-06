@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauknen](../../../../../../_public/geo/Continent/Europe/Russia/City/Lauknen.md) 
-- [Lauknen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Lauknen.internal.md) 
-- [Lauknen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Lauknen.protect.md) 
-- [Lauknen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Lauknen.private.md) 
-- [Lauknen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Lauknen.personal.md) 
-- [Lauknen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Lauknen.secret.md) 

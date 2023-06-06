@@ -133,10 +133,3 @@ geojsonFolder: [_public/geo/Continent/Europe/Greece](_public/geo/Continent/Europ
 
 
 
-## Confidential Links & Embeds: 
-- [Greece](../../../../_public/geo/Continent/Europe/Greece.md) 
-- [Greece.internal](../../../../_internal/geo/Continent/Europe/Greece.internal.md) 
-- [Greece.protect](../../../../_protect/geo/Continent/Europe/Greece.protect.md) 
-- [Greece.private](../../../../_private/geo/Continent/Europe/Greece.private.md) 
-- [Greece.personal](../../../../_personal/geo/Continent/Europe/Greece.personal.md) 
-- [Greece.secret](../../../../_secret/geo/Continent/Europe/Greece.secret.md) 

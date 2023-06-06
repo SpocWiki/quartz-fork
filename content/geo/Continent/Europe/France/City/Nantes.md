@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nantes](../../../../../../_public/geo/Continent/Europe/France/City/Nantes.md) 
-- [Nantes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nantes.internal.md) 
-- [Nantes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nantes.protect.md) 
-- [Nantes.private](../../../../../../_private/geo/Continent/Europe/France/City/Nantes.private.md) 
-- [Nantes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nantes.personal.md) 
-- [Nantes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nantes.secret.md) 

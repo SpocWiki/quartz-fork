@@ -43,10 +43,3 @@ The footer section of the page.
 
 
 
-## Confidential Links & Embeds: 
-- [wp_footer](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.md) 
-- [wp_footer.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.internal.md) 
-- [wp_footer.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.protect.md) 
-- [wp_footer.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.private.md) 
-- [wp_footer.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.personal.md) 
-- [wp_footer.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.secret.md) 

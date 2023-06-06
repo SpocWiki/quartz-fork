@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hogland](../../../../../../_public/geo/Continent/Europe/Finland/City/Hogland.md) 
-- [Hogland.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Hogland.internal.md) 
-- [Hogland.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Hogland.protect.md) 
-- [Hogland.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Hogland.private.md) 
-- [Hogland.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Hogland.personal.md) 
-- [Hogland.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Hogland.secret.md) 

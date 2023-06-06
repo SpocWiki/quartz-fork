@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Tambov_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Tambov_Oblast.md) 
-- [State-Tambov_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Tambov_Oblast.internal.md) 
-- [State-Tambov_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Tambov_Oblast.protect.md) 
-- [State-Tambov_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Tambov_Oblast.private.md) 
-- [State-Tambov_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Tambov_Oblast.personal.md) 
-- [State-Tambov_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Tambov_Oblast.secret.md) 

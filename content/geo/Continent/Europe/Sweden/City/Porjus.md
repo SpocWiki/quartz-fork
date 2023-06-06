@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Porjus](../../../../../../_public/geo/Continent/Europe/Sweden/City/Porjus.md) 
-- [Porjus.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Porjus.internal.md) 
-- [Porjus.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Porjus.protect.md) 
-- [Porjus.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Porjus.private.md) 
-- [Porjus.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Porjus.personal.md) 
-- [Porjus.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Porjus.secret.md) 

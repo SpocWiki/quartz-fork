@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Penza_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Penza_Oblast.md) 
-- [State-Penza_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Penza_Oblast.internal.md) 
-- [State-Penza_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Penza_Oblast.protect.md) 
-- [State-Penza_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Penza_Oblast.private.md) 
-- [State-Penza_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Penza_Oblast.personal.md) 
-- [State-Penza_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Penza_Oblast.secret.md) 

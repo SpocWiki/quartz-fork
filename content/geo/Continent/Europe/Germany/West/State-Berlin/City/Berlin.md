@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berlin](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Berlin.md) 
-- [Berlin.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Berlin.internal.md) 
-- [Berlin.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Berlin.protect.md) 
-- [Berlin.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Berlin.private.md) 
-- [Berlin.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Berlin.personal.md) 
-- [Berlin.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Berlin.secret.md) 

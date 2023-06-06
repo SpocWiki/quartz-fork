@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Charlottetown](../../../../../../_public/geo/Continent/North-America/Canada/City/Charlottetown.md) 
-- [Charlottetown.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Charlottetown.internal.md) 
-- [Charlottetown.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Charlottetown.protect.md) 
-- [Charlottetown.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Charlottetown.private.md) 
-- [Charlottetown.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Charlottetown.personal.md) 
-- [Charlottetown.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Charlottetown.secret.md) 

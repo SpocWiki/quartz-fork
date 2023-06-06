@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pribor](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pribor.md) 
-- [Pribor.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pribor.internal.md) 
-- [Pribor.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pribor.protect.md) 
-- [Pribor.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pribor.private.md) 
-- [Pribor.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pribor.personal.md) 
-- [Pribor.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pribor.secret.md) 

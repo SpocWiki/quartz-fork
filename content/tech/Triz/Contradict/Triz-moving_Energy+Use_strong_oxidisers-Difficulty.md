@@ -19,10 +19,3 @@ title: Triz-moving_Energy+Use_strong_oxidisers-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy+Use_strong_oxidisers-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.md) 
-- [Triz-moving_Energy+Use_strong_oxidisers-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.internal.md) 
-- [Triz-moving_Energy+Use_strong_oxidisers-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.protect.md) 
-- [Triz-moving_Energy+Use_strong_oxidisers-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.private.md) 
-- [Triz-moving_Energy+Use_strong_oxidisers-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.personal.md) 
-- [Triz-moving_Energy+Use_strong_oxidisers-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Use_strong_oxidisers-Difficulty.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rade](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rade.md) 
-- [Rade.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rade.internal.md) 
-- [Rade.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rade.protect.md) 
-- [Rade.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rade.private.md) 
-- [Rade.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rade.personal.md) 
-- [Rade.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rade.secret.md) 

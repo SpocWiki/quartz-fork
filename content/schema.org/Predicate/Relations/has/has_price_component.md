@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_price_component](../../../../../_public/schema.org/Predicate/Relations/has/has_price_component.md) 
-- [has_price_component.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_price_component.internal.md) 
-- [has_price_component.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_price_component.protect.md) 
-- [has_price_component.private](../../../../../_private/schema.org/Predicate/Relations/has/has_price_component.private.md) 
-- [has_price_component.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_price_component.personal.md) 
-- [has_price_component.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_price_component.secret.md) 

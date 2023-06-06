@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skerries](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Skerries.md) 
-- [Skerries.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Skerries.internal.md) 
-- [Skerries.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Skerries.protect.md) 
-- [Skerries.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Skerries.private.md) 
-- [Skerries.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Skerries.personal.md) 
-- [Skerries.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Skerries.secret.md) 

@@ -43,10 +43,3 @@ A radio station.
 
 
 
-## Confidential Links & Embeds: 
-- [radio_station](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/radio_station.md) 
-- [radio_station.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/radio_station.internal.md) 
-- [radio_station.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/radio_station.protect.md) 
-- [radio_station.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/radio_station.private.md) 
-- [radio_station.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/radio_station.personal.md) 
-- [radio_station.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/radio_station.secret.md) 

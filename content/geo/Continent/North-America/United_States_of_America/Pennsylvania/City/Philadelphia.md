@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Philadelphia](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.md) 
-- [Philadelphia.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.internal.md) 
-- [Philadelphia.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.protect.md) 
-- [Philadelphia.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.private.md) 
-- [Philadelphia.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.personal.md) 
-- [Philadelphia.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Philadelphia.secret.md) 

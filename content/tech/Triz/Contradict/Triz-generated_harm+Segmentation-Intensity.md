@@ -19,10 +19,3 @@ title: Triz-generated_harm+Segmentation-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Segmentation-Intensity](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Intensity.md) 
-- [Triz-generated_harm+Segmentation-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Intensity.internal.md) 
-- [Triz-generated_harm+Segmentation-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Intensity.protect.md) 
-- [Triz-generated_harm+Segmentation-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Intensity.private.md) 
-- [Triz-generated_harm+Segmentation-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Intensity.personal.md) 
-- [Triz-generated_harm+Segmentation-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Intensity.secret.md) 

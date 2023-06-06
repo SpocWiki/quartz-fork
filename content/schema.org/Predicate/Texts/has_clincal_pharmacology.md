@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_clincal_pharmacology](../../../../_public/schema.org/Predicate/Texts/has_clincal_pharmacology.md) 
-- [has_clincal_pharmacology.internal](../../../../_internal/schema.org/Predicate/Texts/has_clincal_pharmacology.internal.md) 
-- [has_clincal_pharmacology.protect](../../../../_protect/schema.org/Predicate/Texts/has_clincal_pharmacology.protect.md) 
-- [has_clincal_pharmacology.private](../../../../_private/schema.org/Predicate/Texts/has_clincal_pharmacology.private.md) 
-- [has_clincal_pharmacology.personal](../../../../_personal/schema.org/Predicate/Texts/has_clincal_pharmacology.personal.md) 
-- [has_clincal_pharmacology.secret](../../../../_secret/schema.org/Predicate/Texts/has_clincal_pharmacology.secret.md) 

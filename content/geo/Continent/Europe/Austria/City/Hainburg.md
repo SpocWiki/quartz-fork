@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hainburg](../../../../../../_public/geo/Continent/Europe/Austria/City/Hainburg.md) 
-- [Hainburg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Hainburg.internal.md) 
-- [Hainburg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Hainburg.protect.md) 
-- [Hainburg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Hainburg.private.md) 
-- [Hainburg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Hainburg.personal.md) 
-- [Hainburg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Hainburg.secret.md) 

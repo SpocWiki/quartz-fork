@@ -17,10 +17,3 @@ title: Triz-continuous_Bottleneck
 
 Run the Bottleneck Operations in a Factory continuously, to reach the optimum Pace. (From Theory of Constraints, or Takt Time Operations)
 
-## Confidential Links & Embeds: 
-- [Triz-continuous_Bottleneck](../../../../_public/tech/Triz/Example/Triz-continuous_Bottleneck.md) 
-- [Triz-continuous_Bottleneck.internal](../../../../_internal/tech/Triz/Example/Triz-continuous_Bottleneck.internal.md) 
-- [Triz-continuous_Bottleneck.protect](../../../../_protect/tech/Triz/Example/Triz-continuous_Bottleneck.protect.md) 
-- [Triz-continuous_Bottleneck.private](../../../../_private/tech/Triz/Example/Triz-continuous_Bottleneck.private.md) 
-- [Triz-continuous_Bottleneck.personal](../../../../_personal/tech/Triz/Example/Triz-continuous_Bottleneck.personal.md) 
-- [Triz-continuous_Bottleneck.secret](../../../../_secret/tech/Triz/Example/Triz-continuous_Bottleneck.secret.md) 

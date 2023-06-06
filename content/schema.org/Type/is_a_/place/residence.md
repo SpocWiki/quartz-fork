@@ -45,10 +45,3 @@ The place where a person lives.
 
 
 
-## Confidential Links & Embeds: 
-- [residence](../../../../../_public/schema.org/Type/is_a_/place/residence.md) 
-- [residence.internal](../../../../../_internal/schema.org/Type/is_a_/place/residence.internal.md) 
-- [residence.protect](../../../../../_protect/schema.org/Type/is_a_/place/residence.protect.md) 
-- [residence.private](../../../../../_private/schema.org/Type/is_a_/place/residence.private.md) 
-- [residence.personal](../../../../../_personal/schema.org/Type/is_a_/place/residence.personal.md) 
-- [residence.secret](../../../../../_secret/schema.org/Type/is_a_/place/residence.secret.md) 

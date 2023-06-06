@@ -47,10 +47,3 @@ A legal document such as an act, decree, bill, etc. (enforceable or not) or a co
 
 
 
-## Confidential Links & Embeds: 
-- [legislation](../../../../../_public/schema.org/Type/is_a_/creative_work/legislation.md) 
-- [legislation.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/legislation.internal.md) 
-- [legislation.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/legislation.protect.md) 
-- [legislation.private](../../../../../_private/schema.org/Type/is_a_/creative_work/legislation.private.md) 
-- [legislation.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/legislation.personal.md) 
-- [legislation.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/legislation.secret.md) 

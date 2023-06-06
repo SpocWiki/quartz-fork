@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cadiz](../../../../../../_public/geo/Continent/Europe/Spain/City/Cadiz.md) 
-- [Cadiz.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Cadiz.internal.md) 
-- [Cadiz.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Cadiz.protect.md) 
-- [Cadiz.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Cadiz.private.md) 
-- [Cadiz.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Cadiz.personal.md) 
-- [Cadiz.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Cadiz.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Belgard](../../../../../../_public/geo/Continent/Europe/Poland/City/Belgard.md) 
-- [Belgard.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Belgard.internal.md) 
-- [Belgard.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Belgard.protect.md) 
-- [Belgard.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Belgard.private.md) 
-- [Belgard.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Belgard.personal.md) 
-- [Belgard.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Belgard.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Petrowsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Petrowsk.md) 
-- [Petrowsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrowsk.internal.md) 
-- [Petrowsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrowsk.protect.md) 
-- [Petrowsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Petrowsk.private.md) 
-- [Petrowsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrowsk.personal.md) 
-- [Petrowsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrowsk.secret.md) 

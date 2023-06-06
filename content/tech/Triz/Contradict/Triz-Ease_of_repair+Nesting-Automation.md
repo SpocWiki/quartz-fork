@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Nesting-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Nesting-Automation](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.md) 
-- [Triz-Ease_of_repair+Nesting-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.internal.md) 
-- [Triz-Ease_of_repair+Nesting-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.protect.md) 
-- [Triz-Ease_of_repair+Nesting-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.private.md) 
-- [Triz-Ease_of_repair+Nesting-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.personal.md) 
-- [Triz-Ease_of_repair+Nesting-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Automation.secret.md) 

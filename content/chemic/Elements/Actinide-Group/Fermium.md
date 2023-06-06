@@ -34,10 +34,3 @@ title: Fermium
 
 
 
-## Confidential Links & Embeds: 
-- [Fermium](../../../../_public/chemic/Elements/Actinide-Group/Fermium.md) 
-- [Fermium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Fermium.internal.md) 
-- [Fermium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Fermium.protect.md) 
-- [Fermium.private](../../../../_private/chemic/Elements/Actinide-Group/Fermium.private.md) 
-- [Fermium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Fermium.personal.md) 
-- [Fermium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Fermium.secret.md) 

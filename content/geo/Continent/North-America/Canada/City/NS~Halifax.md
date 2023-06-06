@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [NS~Halifax](../../../../../../_public/geo/Continent/North-America/Canada/City/NS~Halifax.md) 
-- [NS~Halifax.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/NS~Halifax.internal.md) 
-- [NS~Halifax.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/NS~Halifax.protect.md) 
-- [NS~Halifax.private](../../../../../../_private/geo/Continent/North-America/Canada/City/NS~Halifax.private.md) 
-- [NS~Halifax.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/NS~Halifax.personal.md) 
-- [NS~Halifax.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/NS~Halifax.secret.md) 

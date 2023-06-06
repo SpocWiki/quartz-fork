@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zschackau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschackau.md) 
-- [Zschackau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschackau.internal.md) 
-- [Zschackau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschackau.protect.md) 
-- [Zschackau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschackau.private.md) 
-- [Zschackau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschackau.personal.md) 
-- [Zschackau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschackau.secret.md) 

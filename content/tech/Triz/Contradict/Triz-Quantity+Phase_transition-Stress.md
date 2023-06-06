@@ -19,10 +19,3 @@ title: Triz-Quantity+Phase_transition-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Phase_transition-Stress](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.md) 
-- [Triz-Quantity+Phase_transition-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.internal.md) 
-- [Triz-Quantity+Phase_transition-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.protect.md) 
-- [Triz-Quantity+Phase_transition-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.private.md) 
-- [Triz-Quantity+Phase_transition-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.personal.md) 
-- [Triz-Quantity+Phase_transition-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Phase_transition-Stress.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leubsdorf~Rheinland](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Leubsdorf~Rheinland.md) 
-- [Leubsdorf~Rheinland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Leubsdorf~Rheinland.internal.md) 
-- [Leubsdorf~Rheinland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Leubsdorf~Rheinland.protect.md) 
-- [Leubsdorf~Rheinland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Leubsdorf~Rheinland.private.md) 
-- [Leubsdorf~Rheinland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Leubsdorf~Rheinland.personal.md) 
-- [Leubsdorf~Rheinland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Leubsdorf~Rheinland.secret.md) 

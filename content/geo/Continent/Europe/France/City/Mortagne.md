@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mortagne](../../../../../../_public/geo/Continent/Europe/France/City/Mortagne.md) 
-- [Mortagne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Mortagne.internal.md) 
-- [Mortagne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Mortagne.protect.md) 
-- [Mortagne.private](../../../../../../_private/geo/Continent/Europe/France/City/Mortagne.private.md) 
-- [Mortagne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Mortagne.personal.md) 
-- [Mortagne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Mortagne.secret.md) 

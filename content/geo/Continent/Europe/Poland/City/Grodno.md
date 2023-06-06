@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grodno](../../../../../../_public/geo/Continent/Europe/Poland/City/Grodno.md) 
-- [Grodno.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Grodno.internal.md) 
-- [Grodno.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Grodno.protect.md) 
-- [Grodno.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Grodno.private.md) 
-- [Grodno.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Grodno.personal.md) 
-- [Grodno.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Grodno.secret.md) 

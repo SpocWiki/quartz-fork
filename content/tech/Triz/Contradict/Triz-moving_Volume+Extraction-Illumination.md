@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Extraction-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Extraction-Illumination](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.md) 
-- [Triz-moving_Volume+Extraction-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.internal.md) 
-- [Triz-moving_Volume+Extraction-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.protect.md) 
-- [Triz-moving_Volume+Extraction-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.private.md) 
-- [Triz-moving_Volume+Extraction-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.personal.md) 
-- [Triz-moving_Volume+Extraction-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Illumination.secret.md) 

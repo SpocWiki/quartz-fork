@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Friedhof_Westhausen](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Friedhof_Westhausen.md) 
-- [U-Friedhof_Westhausen.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Friedhof_Westhausen.internal.md) 
-- [U-Friedhof_Westhausen.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Friedhof_Westhausen.protect.md) 
-- [U-Friedhof_Westhausen.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Friedhof_Westhausen.private.md) 
-- [U-Friedhof_Westhausen.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Friedhof_Westhausen.personal.md) 
-- [U-Friedhof_Westhausen.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Friedhof_Westhausen.secret.md) 

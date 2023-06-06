@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pollnow](../../../../../../_public/geo/Continent/Europe/Poland/City/Pollnow.md) 
-- [Pollnow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Pollnow.internal.md) 
-- [Pollnow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Pollnow.protect.md) 
-- [Pollnow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Pollnow.private.md) 
-- [Pollnow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Pollnow.personal.md) 
-- [Pollnow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Pollnow.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirchdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchdorf.md) 
-- [Kirchdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchdorf.internal.md) 
-- [Kirchdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchdorf.protect.md) 
-- [Kirchdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchdorf.private.md) 
-- [Kirchdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchdorf.personal.md) 
-- [Kirchdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Kirchdorf.secret.md) 

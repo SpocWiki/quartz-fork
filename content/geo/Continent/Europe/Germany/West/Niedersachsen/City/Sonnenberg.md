@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sonnenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sonnenberg.md) 
-- [Sonnenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sonnenberg.internal.md) 
-- [Sonnenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sonnenberg.protect.md) 
-- [Sonnenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sonnenberg.private.md) 
-- [Sonnenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sonnenberg.personal.md) 
-- [Sonnenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sonnenberg.secret.md) 

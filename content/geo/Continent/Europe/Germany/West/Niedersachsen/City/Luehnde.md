@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luehnde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.md) 
-- [Luehnde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.internal.md) 
-- [Luehnde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.protect.md) 
-- [Luehnde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.private.md) 
-- [Luehnde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.personal.md) 
-- [Luehnde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luehnde.secret.md) 

@@ -134,10 +134,3 @@ markerFolder: ./Iran/City
 
 
 
-## Confidential Links & Embeds: 
-- [Iran](../../../../_public/geo/Continent/Asia/Iran.md) 
-- [Iran.internal](../../../../_internal/geo/Continent/Asia/Iran.internal.md) 
-- [Iran.protect](../../../../_protect/geo/Continent/Asia/Iran.protect.md) 
-- [Iran.private](../../../../_private/geo/Continent/Asia/Iran.private.md) 
-- [Iran.personal](../../../../_personal/geo/Continent/Asia/Iran.personal.md) 
-- [Iran.secret](../../../../_secret/geo/Continent/Asia/Iran.secret.md) 

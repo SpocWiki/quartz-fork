@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_accessible_for_free](../../../../_public/schema.org/Predicate/Flags/is_accessible_for_free.md) 
-- [is_accessible_for_free.internal](../../../../_internal/schema.org/Predicate/Flags/is_accessible_for_free.internal.md) 
-- [is_accessible_for_free.protect](../../../../_protect/schema.org/Predicate/Flags/is_accessible_for_free.protect.md) 
-- [is_accessible_for_free.private](../../../../_private/schema.org/Predicate/Flags/is_accessible_for_free.private.md) 
-- [is_accessible_for_free.personal](../../../../_personal/schema.org/Predicate/Flags/is_accessible_for_free.personal.md) 
-- [is_accessible_for_free.secret](../../../../_secret/schema.org/Predicate/Flags/is_accessible_for_free.secret.md) 

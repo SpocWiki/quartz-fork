@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ratzeburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ratzeburg.md) 
-- [Ratzeburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ratzeburg.internal.md) 
-- [Ratzeburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ratzeburg.protect.md) 
-- [Ratzeburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ratzeburg.private.md) 
-- [Ratzeburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ratzeburg.personal.md) 
-- [Ratzeburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Ratzeburg.secret.md) 

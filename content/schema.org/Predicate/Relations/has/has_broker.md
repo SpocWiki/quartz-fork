@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_broker](../../../../../_public/schema.org/Predicate/Relations/has/has_broker.md) 
-- [has_broker.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_broker.internal.md) 
-- [has_broker.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_broker.protect.md) 
-- [has_broker.private](../../../../../_private/schema.org/Predicate/Relations/has/has_broker.private.md) 
-- [has_broker.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_broker.personal.md) 
-- [has_broker.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_broker.secret.md) 

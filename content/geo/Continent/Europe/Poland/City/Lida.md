@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lida](../../../../../../_public/geo/Continent/Europe/Poland/City/Lida.md) 
-- [Lida.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lida.internal.md) 
-- [Lida.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lida.protect.md) 
-- [Lida.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lida.private.md) 
-- [Lida.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lida.personal.md) 
-- [Lida.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lida.secret.md) 

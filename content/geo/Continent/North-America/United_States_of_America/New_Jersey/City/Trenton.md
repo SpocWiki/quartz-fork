@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trenton](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.md) 
-- [Trenton.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.internal.md) 
-- [Trenton.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.protect.md) 
-- [Trenton.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.private.md) 
-- [Trenton.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.personal.md) 
-- [Trenton.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Jersey/City/Trenton.secret.md) 

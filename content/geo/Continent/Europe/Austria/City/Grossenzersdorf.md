@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grossenzersdorf](../../../../../../_public/geo/Continent/Europe/Austria/City/Grossenzersdorf.md) 
-- [Grossenzersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Grossenzersdorf.internal.md) 
-- [Grossenzersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Grossenzersdorf.protect.md) 
-- [Grossenzersdorf.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Grossenzersdorf.private.md) 
-- [Grossenzersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Grossenzersdorf.personal.md) 
-- [Grossenzersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Grossenzersdorf.secret.md) 

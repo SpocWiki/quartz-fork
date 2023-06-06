@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Newcastle_upon_Tyne](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Newcastle_upon_Tyne.md) 
-- [Newcastle_upon_Tyne.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Newcastle_upon_Tyne.internal.md) 
-- [Newcastle_upon_Tyne.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Newcastle_upon_Tyne.protect.md) 
-- [Newcastle_upon_Tyne.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Newcastle_upon_Tyne.private.md) 
-- [Newcastle_upon_Tyne.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Newcastle_upon_Tyne.personal.md) 
-- [Newcastle_upon_Tyne.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Newcastle_upon_Tyne.secret.md) 

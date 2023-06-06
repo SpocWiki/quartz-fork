@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Termoli](../../../../../../_public/geo/Continent/Europe/Italy/City/Termoli.md) 
-- [Termoli.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Termoli.internal.md) 
-- [Termoli.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Termoli.protect.md) 
-- [Termoli.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Termoli.private.md) 
-- [Termoli.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Termoli.personal.md) 
-- [Termoli.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Termoli.secret.md) 

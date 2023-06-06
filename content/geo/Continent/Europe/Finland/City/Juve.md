@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Juve](../../../../../../_public/geo/Continent/Europe/Finland/City/Juve.md) 
-- [Juve.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Juve.internal.md) 
-- [Juve.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Juve.protect.md) 
-- [Juve.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Juve.private.md) 
-- [Juve.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Juve.personal.md) 
-- [Juve.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Juve.secret.md) 

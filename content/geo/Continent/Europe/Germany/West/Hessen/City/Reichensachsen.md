@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reichensachsen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.md) 
-- [Reichensachsen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.internal.md) 
-- [Reichensachsen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.protect.md) 
-- [Reichensachsen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.private.md) 
-- [Reichensachsen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.personal.md) 
-- [Reichensachsen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Reichensachsen.secret.md) 

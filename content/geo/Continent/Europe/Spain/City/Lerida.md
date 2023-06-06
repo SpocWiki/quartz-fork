@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lerida](../../../../../../_public/geo/Continent/Europe/Spain/City/Lerida.md) 
-- [Lerida.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Lerida.internal.md) 
-- [Lerida.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Lerida.protect.md) 
-- [Lerida.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Lerida.private.md) 
-- [Lerida.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Lerida.personal.md) 
-- [Lerida.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Lerida.secret.md) 

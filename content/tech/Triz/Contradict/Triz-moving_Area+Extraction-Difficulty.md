@@ -19,10 +19,3 @@ title: Triz-moving_Area+Extraction-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Extraction-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.md) 
-- [Triz-moving_Area+Extraction-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.internal.md) 
-- [Triz-moving_Area+Extraction-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.protect.md) 
-- [Triz-moving_Area+Extraction-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.private.md) 
-- [Triz-moving_Area+Extraction-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.personal.md) 
-- [Triz-moving_Area+Extraction-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Extraction-Difficulty.secret.md) 

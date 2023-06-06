@@ -43,10 +43,3 @@ The price for the delivery of an offer using a particular delivery method.
 
 
 
-## Confidential Links & Embeds: 
-- [delivery_charge_specification](../../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.md) 
-- [delivery_charge_specification.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.internal.md) 
-- [delivery_charge_specification.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.protect.md) 
-- [delivery_charge_specification.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.private.md) 
-- [delivery_charge_specification.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.personal.md) 
-- [delivery_charge_specification.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.secret.md) 

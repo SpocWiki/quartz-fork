@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Composite_materials-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Composite_materials-Stability](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.md) 
-- [Triz-stationary_Volume+Composite_materials-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.internal.md) 
-- [Triz-stationary_Volume+Composite_materials-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.protect.md) 
-- [Triz-stationary_Volume+Composite_materials-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.private.md) 
-- [Triz-stationary_Volume+Composite_materials-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.personal.md) 
-- [Triz-stationary_Volume+Composite_materials-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Composite_materials-Stability.secret.md) 

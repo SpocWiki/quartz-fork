@@ -19,10 +19,3 @@ title: Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.internal.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.protect.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.private.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.personal.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Weight.secret.md) 

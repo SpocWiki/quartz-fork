@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marstal](../../../../../../_public/geo/Continent/Europe/Denmark/City/Marstal.md) 
-- [Marstal.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Marstal.internal.md) 
-- [Marstal.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Marstal.protect.md) 
-- [Marstal.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Marstal.private.md) 
-- [Marstal.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Marstal.personal.md) 
-- [Marstal.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Marstal.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Noworossijsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Noworossijsk.md) 
-- [Noworossijsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Noworossijsk.internal.md) 
-- [Noworossijsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Noworossijsk.protect.md) 
-- [Noworossijsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Noworossijsk.private.md) 
-- [Noworossijsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Noworossijsk.personal.md) 
-- [Noworossijsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Noworossijsk.secret.md) 

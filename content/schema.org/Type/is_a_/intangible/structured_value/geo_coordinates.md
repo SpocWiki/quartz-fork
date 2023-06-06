@@ -43,10 +43,3 @@ The geographic coordinates of a place or event.
 
 
 
-## Confidential Links & Embeds: 
-- [geo_coordinates](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.md) 
-- [geo_coordinates.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.internal.md) 
-- [geo_coordinates.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.protect.md) 
-- [geo_coordinates.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.private.md) 
-- [geo_coordinates.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.personal.md) 
-- [geo_coordinates.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.secret.md) 

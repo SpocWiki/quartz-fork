@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bogsolowsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Bogsolowsk.md) 
-- [Bogsolowsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Bogsolowsk.internal.md) 
-- [Bogsolowsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Bogsolowsk.protect.md) 
-- [Bogsolowsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Bogsolowsk.private.md) 
-- [Bogsolowsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Bogsolowsk.personal.md) 
-- [Bogsolowsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Bogsolowsk.secret.md) 

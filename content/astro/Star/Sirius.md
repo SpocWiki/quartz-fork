@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sirius](../../../_public/astro/Star/Sirius.md) 
-- [Sirius.internal](../../../_internal/astro/Star/Sirius.internal.md) 
-- [Sirius.protect](../../../_protect/astro/Star/Sirius.protect.md) 
-- [Sirius.private](../../../_private/astro/Star/Sirius.private.md) 
-- [Sirius.personal](../../../_personal/astro/Star/Sirius.personal.md) 
-- [Sirius.secret](../../../_secret/astro/Star/Sirius.secret.md) 

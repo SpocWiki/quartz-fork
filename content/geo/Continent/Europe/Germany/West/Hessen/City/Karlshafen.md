@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karlshafen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Karlshafen.md) 
-- [Karlshafen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Karlshafen.internal.md) 
-- [Karlshafen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Karlshafen.protect.md) 
-- [Karlshafen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Karlshafen.private.md) 
-- [Karlshafen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Karlshafen.personal.md) 
-- [Karlshafen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Karlshafen.secret.md) 

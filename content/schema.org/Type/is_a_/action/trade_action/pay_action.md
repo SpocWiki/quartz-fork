@@ -43,10 +43,3 @@ An agent pays a price to a participant.
 
 
 
-## Confidential Links & Embeds: 
-- [pay_action](../../../../../../_public/schema.org/Type/is_a_/action/trade_action/pay_action.md) 
-- [pay_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/pay_action.internal.md) 
-- [pay_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/pay_action.protect.md) 
-- [pay_action.private](../../../../../../_private/schema.org/Type/is_a_/action/trade_action/pay_action.private.md) 
-- [pay_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/pay_action.personal.md) 
-- [pay_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/pay_action.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Piombino](../../../../../../_public/geo/Continent/Europe/Italy/City/Piombino.md) 
-- [Piombino.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Piombino.internal.md) 
-- [Piombino.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Piombino.protect.md) 
-- [Piombino.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Piombino.private.md) 
-- [Piombino.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Piombino.personal.md) 
-- [Piombino.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Piombino.secret.md) 

@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_dosage_form](../../../../_public/schema.org/Predicate/Texts/has_dosage_form.md) 
-- [has_dosage_form.internal](../../../../_internal/schema.org/Predicate/Texts/has_dosage_form.internal.md) 
-- [has_dosage_form.protect](../../../../_protect/schema.org/Predicate/Texts/has_dosage_form.protect.md) 
-- [has_dosage_form.private](../../../../_private/schema.org/Predicate/Texts/has_dosage_form.private.md) 
-- [has_dosage_form.personal](../../../../_personal/schema.org/Predicate/Texts/has_dosage_form.personal.md) 
-- [has_dosage_form.secret](../../../../_secret/schema.org/Predicate/Texts/has_dosage_form.secret.md) 

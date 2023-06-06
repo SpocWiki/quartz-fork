@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Miaplacidus](../../../_public/astro/Star/Miaplacidus.md) 
-- [Miaplacidus.internal](../../../_internal/astro/Star/Miaplacidus.internal.md) 
-- [Miaplacidus.protect](../../../_protect/astro/Star/Miaplacidus.protect.md) 
-- [Miaplacidus.private](../../../_private/astro/Star/Miaplacidus.private.md) 
-- [Miaplacidus.personal](../../../_personal/astro/Star/Miaplacidus.personal.md) 
-- [Miaplacidus.secret](../../../_secret/astro/Star/Miaplacidus.secret.md) 

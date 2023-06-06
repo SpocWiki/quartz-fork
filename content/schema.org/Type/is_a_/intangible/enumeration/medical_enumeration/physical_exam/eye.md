@@ -45,10 +45,3 @@ Eye or ophthalmological function assessment with clinical examination.
 
 
 
-## Confidential Links & Embeds: 
-- [eye](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/eye.md) 
-- [eye.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/eye.internal.md) 
-- [eye.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/eye.protect.md) 
-- [eye.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/eye.private.md) 
-- [eye.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/eye.personal.md) 
-- [eye.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/eye.secret.md) 

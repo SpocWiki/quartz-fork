@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kladno](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kladno.md) 
-- [Kladno.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kladno.internal.md) 
-- [Kladno.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kladno.protect.md) 
-- [Kladno.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kladno.private.md) 
-- [Kladno.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kladno.personal.md) 
-- [Kladno.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kladno.secret.md) 

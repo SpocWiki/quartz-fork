@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Sakhalin_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Sakhalin_Oblast.md) 
-- [State-Sakhalin_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Sakhalin_Oblast.internal.md) 
-- [State-Sakhalin_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Sakhalin_Oblast.protect.md) 
-- [State-Sakhalin_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Sakhalin_Oblast.private.md) 
-- [State-Sakhalin_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Sakhalin_Oblast.personal.md) 
-- [State-Sakhalin_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Sakhalin_Oblast.secret.md) 

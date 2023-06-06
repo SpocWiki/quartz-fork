@@ -39,10 +39,3 @@ markerFolder: ./Saint_Kitts_And_Nevis/City
 
 
 
-## Confidential Links & Embeds: 
-- [Saint_Kitts_and_Nevis~Islands](../../../../_public/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.md) 
-- [Saint_Kitts_and_Nevis~Islands.internal](../../../../_internal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.internal.md) 
-- [Saint_Kitts_and_Nevis~Islands.protect](../../../../_protect/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.protect.md) 
-- [Saint_Kitts_and_Nevis~Islands.private](../../../../_private/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.private.md) 
-- [Saint_Kitts_and_Nevis~Islands.personal](../../../../_personal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.personal.md) 
-- [Saint_Kitts_and_Nevis~Islands.secret](../../../../_secret/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands.secret.md) 

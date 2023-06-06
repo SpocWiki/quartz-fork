@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Self-service-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Self-service-Illumination](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.md) 
-- [Triz-stationary_Length+Self-service-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.internal.md) 
-- [Triz-stationary_Length+Self-service-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.protect.md) 
-- [Triz-stationary_Length+Self-service-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.private.md) 
-- [Triz-stationary_Length+Self-service-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.personal.md) 
-- [Triz-stationary_Length+Self-service-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Self-service-Illumination.secret.md) 

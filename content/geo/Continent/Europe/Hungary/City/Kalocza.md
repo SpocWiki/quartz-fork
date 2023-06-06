@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kalocza](../../../../../../_public/geo/Continent/Europe/Hungary/City/Kalocza.md) 
-- [Kalocza.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kalocza.internal.md) 
-- [Kalocza.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kalocza.protect.md) 
-- [Kalocza.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Kalocza.private.md) 
-- [Kalocza.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kalocza.personal.md) 
-- [Kalocza.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kalocza.secret.md) 

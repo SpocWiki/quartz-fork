@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kelsterbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Kelsterbach.md) 
-- [Kelsterbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kelsterbach.internal.md) 
-- [Kelsterbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kelsterbach.protect.md) 
-- [Kelsterbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kelsterbach.private.md) 
-- [Kelsterbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Kelsterbach.personal.md) 
-- [Kelsterbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Kelsterbach.secret.md) 

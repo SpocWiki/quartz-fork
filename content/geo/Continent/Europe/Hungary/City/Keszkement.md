@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Keszkement](../../../../../../_public/geo/Continent/Europe/Hungary/City/Keszkement.md) 
-- [Keszkement.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Keszkement.internal.md) 
-- [Keszkement.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Keszkement.protect.md) 
-- [Keszkement.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Keszkement.private.md) 
-- [Keszkement.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Keszkement.personal.md) 
-- [Keszkement.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Keszkement.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gruenstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Gruenstadt.md) 
-- [Gruenstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Gruenstadt.internal.md) 
-- [Gruenstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Gruenstadt.protect.md) 
-- [Gruenstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Gruenstadt.private.md) 
-- [Gruenstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Gruenstadt.personal.md) 
-- [Gruenstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Gruenstadt.secret.md) 

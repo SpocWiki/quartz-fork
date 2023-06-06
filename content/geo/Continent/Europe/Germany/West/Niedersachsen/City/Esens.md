@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Esens](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Esens.md) 
-- [Esens.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Esens.internal.md) 
-- [Esens.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Esens.protect.md) 
-- [Esens.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Esens.private.md) 
-- [Esens.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Esens.personal.md) 
-- [Esens.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Esens.secret.md) 

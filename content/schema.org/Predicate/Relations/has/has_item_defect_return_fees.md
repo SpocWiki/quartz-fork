@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_item_defect_return_fees](../../../../../_public/schema.org/Predicate/Relations/has/has_item_defect_return_fees.md) 
-- [has_item_defect_return_fees.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_item_defect_return_fees.internal.md) 
-- [has_item_defect_return_fees.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_item_defect_return_fees.protect.md) 
-- [has_item_defect_return_fees.private](../../../../../_private/schema.org/Predicate/Relations/has/has_item_defect_return_fees.private.md) 
-- [has_item_defect_return_fees.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_item_defect_return_fees.personal.md) 
-- [has_item_defect_return_fees.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_item_defect_return_fees.secret.md) 

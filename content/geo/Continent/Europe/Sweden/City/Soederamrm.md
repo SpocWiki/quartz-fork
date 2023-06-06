@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soederamrm](../../../../../../_public/geo/Continent/Europe/Sweden/City/Soederamrm.md) 
-- [Soederamrm.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Soederamrm.internal.md) 
-- [Soederamrm.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Soederamrm.protect.md) 
-- [Soederamrm.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Soederamrm.private.md) 
-- [Soederamrm.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Soederamrm.personal.md) 
-- [Soederamrm.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Soederamrm.secret.md) 

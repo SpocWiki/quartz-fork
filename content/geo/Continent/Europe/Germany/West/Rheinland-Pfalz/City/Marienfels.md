@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marienfels](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Marienfels.md) 
-- [Marienfels.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Marienfels.internal.md) 
-- [Marienfels.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Marienfels.protect.md) 
-- [Marienfels.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Marienfels.private.md) 
-- [Marienfels.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Marienfels.personal.md) 
-- [Marienfels.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Marienfels.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Manghit](../../../../../../_public/geo/Continent/Europe/Russia/City/Manghit.md) 
-- [Manghit.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Manghit.internal.md) 
-- [Manghit.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Manghit.protect.md) 
-- [Manghit.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Manghit.private.md) 
-- [Manghit.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Manghit.personal.md) 
-- [Manghit.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Manghit.secret.md) 

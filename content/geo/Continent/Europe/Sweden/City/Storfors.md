@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Storfors](../../../../../../_public/geo/Continent/Europe/Sweden/City/Storfors.md) 
-- [Storfors.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Storfors.internal.md) 
-- [Storfors.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Storfors.protect.md) 
-- [Storfors.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Storfors.private.md) 
-- [Storfors.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Storfors.personal.md) 
-- [Storfors.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Storfors.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radweg](../../../../../../_public/geo/Continent/Europe/Austria/City/Radweg.md) 
-- [Radweg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Radweg.internal.md) 
-- [Radweg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Radweg.protect.md) 
-- [Radweg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Radweg.private.md) 
-- [Radweg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Radweg.personal.md) 
-- [Radweg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Radweg.secret.md) 

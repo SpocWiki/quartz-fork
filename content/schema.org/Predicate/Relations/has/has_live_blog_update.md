@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_live_blog_update](../../../../../_public/schema.org/Predicate/Relations/has/has_live_blog_update.md) 
-- [has_live_blog_update.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_live_blog_update.internal.md) 
-- [has_live_blog_update.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_live_blog_update.protect.md) 
-- [has_live_blog_update.private](../../../../../_private/schema.org/Predicate/Relations/has/has_live_blog_update.private.md) 
-- [has_live_blog_update.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_live_blog_update.personal.md) 
-- [has_live_blog_update.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_live_blog_update.secret.md) 

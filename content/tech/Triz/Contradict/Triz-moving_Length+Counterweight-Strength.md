@@ -19,10 +19,3 @@ title: Triz-moving_Length+Counterweight-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Counterweight-Strength](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Strength.md) 
-- [Triz-moving_Length+Counterweight-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Strength.internal.md) 
-- [Triz-moving_Length+Counterweight-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Strength.protect.md) 
-- [Triz-moving_Length+Counterweight-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Strength.private.md) 
-- [Triz-moving_Length+Counterweight-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Strength.personal.md) 
-- [Triz-moving_Length+Counterweight-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Strength.secret.md) 

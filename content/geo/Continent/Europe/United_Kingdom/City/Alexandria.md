@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alexandria](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Alexandria.md) 
-- [Alexandria.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Alexandria.internal.md) 
-- [Alexandria.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Alexandria.protect.md) 
-- [Alexandria.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Alexandria.private.md) 
-- [Alexandria.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Alexandria.personal.md) 
-- [Alexandria.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Alexandria.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Power+Asymmetry-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Asymmetry-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.md) 
-- [Triz-Power+Asymmetry-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.internal.md) 
-- [Triz-Power+Asymmetry-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.protect.md) 
-- [Triz-Power+Asymmetry-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.private.md) 
-- [Triz-Power+Asymmetry-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.personal.md) 
-- [Triz-Power+Asymmetry-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Asymmetry-Quantity.secret.md) 

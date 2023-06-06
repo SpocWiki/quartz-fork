@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wilkau~Sachsen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.md) 
-- [Wilkau~Sachsen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.internal.md) 
-- [Wilkau~Sachsen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.protect.md) 
-- [Wilkau~Sachsen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.private.md) 
-- [Wilkau~Sachsen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.personal.md) 
-- [Wilkau~Sachsen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilkau~Sachsen.secret.md) 

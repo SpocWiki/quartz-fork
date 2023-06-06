@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yerevan](../../../../../../_public/geo/Continent/Asia/Armenia/City/Yerevan.md) 
-- [Yerevan.internal](../../../../../../_internal/geo/Continent/Asia/Armenia/City/Yerevan.internal.md) 
-- [Yerevan.protect](../../../../../../_protect/geo/Continent/Asia/Armenia/City/Yerevan.protect.md) 
-- [Yerevan.private](../../../../../../_private/geo/Continent/Asia/Armenia/City/Yerevan.private.md) 
-- [Yerevan.personal](../../../../../../_personal/geo/Continent/Asia/Armenia/City/Yerevan.personal.md) 
-- [Yerevan.secret](../../../../../../_secret/geo/Continent/Asia/Armenia/City/Yerevan.secret.md) 

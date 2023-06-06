@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maienfeld](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Maienfeld.md) 
-- [Maienfeld.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Maienfeld.internal.md) 
-- [Maienfeld.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Maienfeld.protect.md) 
-- [Maienfeld.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Maienfeld.private.md) 
-- [Maienfeld.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Maienfeld.personal.md) 
-- [Maienfeld.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Maienfeld.secret.md) 

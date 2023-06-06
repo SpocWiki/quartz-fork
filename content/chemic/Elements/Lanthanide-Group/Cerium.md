@@ -38,10 +38,3 @@ title: Cerium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cerium)
 
-## Confidential Links & Embeds: 
-- [Cerium](../../../../_public/chemic/Elements/Lanthanide-Group/Cerium.md) 
-- [Cerium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Cerium.internal.md) 
-- [Cerium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Cerium.protect.md) 
-- [Cerium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Cerium.private.md) 
-- [Cerium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Cerium.personal.md) 
-- [Cerium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Cerium.secret.md) 

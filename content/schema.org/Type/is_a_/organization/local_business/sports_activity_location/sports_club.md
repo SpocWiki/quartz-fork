@@ -43,10 +43,3 @@ A sports club.
 
 
 
-## Confidential Links & Embeds: 
-- [sports_club](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.md) 
-- [sports_club.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.internal.md) 
-- [sports_club.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.protect.md) 
-- [sports_club.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.private.md) 
-- [sports_club.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.personal.md) 
-- [sports_club.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.secret.md) 

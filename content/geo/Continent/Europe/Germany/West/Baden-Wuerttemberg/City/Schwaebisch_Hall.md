@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwaebisch_Hall](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.md) 
-- [Schwaebisch_Hall.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.internal.md) 
-- [Schwaebisch_Hall.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.protect.md) 
-- [Schwaebisch_Hall.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.private.md) 
-- [Schwaebisch_Hall.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.personal.md) 
-- [Schwaebisch_Hall.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch_Hall.secret.md) 

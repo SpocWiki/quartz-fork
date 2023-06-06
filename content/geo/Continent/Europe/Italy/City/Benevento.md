@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Benevento](../../../../../../_public/geo/Continent/Europe/Italy/City/Benevento.md) 
-- [Benevento.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Benevento.internal.md) 
-- [Benevento.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Benevento.protect.md) 
-- [Benevento.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Benevento.private.md) 
-- [Benevento.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Benevento.personal.md) 
-- [Benevento.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Benevento.secret.md) 

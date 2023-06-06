@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nyborg](../../../../../../_public/geo/Continent/Europe/Denmark/City/Nyborg.md) 
-- [Nyborg.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nyborg.internal.md) 
-- [Nyborg.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nyborg.protect.md) 
-- [Nyborg.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Nyborg.private.md) 
-- [Nyborg.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nyborg.personal.md) 
-- [Nyborg.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nyborg.secret.md) 

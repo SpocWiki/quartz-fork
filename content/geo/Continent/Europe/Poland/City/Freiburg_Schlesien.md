@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freiburg_Schlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.md) 
-- [Freiburg_Schlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.internal.md) 
-- [Freiburg_Schlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.protect.md) 
-- [Freiburg_Schlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.private.md) 
-- [Freiburg_Schlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.personal.md) 
-- [Freiburg_Schlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Freiburg_Schlesien.secret.md) 

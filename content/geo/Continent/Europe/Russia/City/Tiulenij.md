@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tiulenij](../../../../../../_public/geo/Continent/Europe/Russia/City/Tiulenij.md) 
-- [Tiulenij.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tiulenij.internal.md) 
-- [Tiulenij.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tiulenij.protect.md) 
-- [Tiulenij.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tiulenij.private.md) 
-- [Tiulenij.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tiulenij.personal.md) 
-- [Tiulenij.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tiulenij.secret.md) 

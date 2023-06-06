@@ -19,10 +19,3 @@ title: Triz-Intensity+Periodic_action-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Periodic_action-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Energy.md) 
-- [Triz-Intensity+Periodic_action-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Energy.internal.md) 
-- [Triz-Intensity+Periodic_action-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Energy.protect.md) 
-- [Triz-Intensity+Periodic_action-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Energy.private.md) 
-- [Triz-Intensity+Periodic_action-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Energy.personal.md) 
-- [Triz-Intensity+Periodic_action-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Periodic_action-moving_Energy.secret.md) 

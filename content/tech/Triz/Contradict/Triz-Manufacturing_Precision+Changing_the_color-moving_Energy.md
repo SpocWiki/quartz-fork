@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Changing_the_color-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Changing_the_color-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.internal.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.protect.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.private.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.personal.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-moving_Energy.secret.md) 

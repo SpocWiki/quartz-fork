@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lugnian](../../../../../../_public/geo/Continent/Europe/Poland/City/Lugnian.md) 
-- [Lugnian.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lugnian.internal.md) 
-- [Lugnian.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lugnian.protect.md) 
-- [Lugnian.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lugnian.private.md) 
-- [Lugnian.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lugnian.personal.md) 
-- [Lugnian.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lugnian.secret.md) 

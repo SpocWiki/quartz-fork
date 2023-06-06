@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heinsberg~Rheinland](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.md) 
-- [Heinsberg~Rheinland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.internal.md) 
-- [Heinsberg~Rheinland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.protect.md) 
-- [Heinsberg~Rheinland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.private.md) 
-- [Heinsberg~Rheinland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.personal.md) 
-- [Heinsberg~Rheinland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Heinsberg~Rheinland.secret.md) 

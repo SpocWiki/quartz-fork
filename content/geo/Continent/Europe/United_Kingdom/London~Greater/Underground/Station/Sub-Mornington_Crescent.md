@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Mornington_Crescent](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.md) 
-- [Sub-Mornington_Crescent.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.internal.md) 
-- [Sub-Mornington_Crescent.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.protect.md) 
-- [Sub-Mornington_Crescent.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.private.md) 
-- [Sub-Mornington_Crescent.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.personal.md) 
-- [Sub-Mornington_Crescent.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Mornington_Crescent.secret.md) 

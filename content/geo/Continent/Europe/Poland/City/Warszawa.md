@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Warszawa](../../../../../../_public/geo/Continent/Europe/Poland/City/Warszawa.md) 
-- [Warszawa.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Warszawa.internal.md) 
-- [Warszawa.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Warszawa.protect.md) 
-- [Warszawa.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Warszawa.private.md) 
-- [Warszawa.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Warszawa.personal.md) 
-- [Warszawa.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Warszawa.secret.md) 

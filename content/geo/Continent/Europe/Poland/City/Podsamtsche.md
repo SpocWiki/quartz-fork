@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Podsamtsche](../../../../../../_public/geo/Continent/Europe/Poland/City/Podsamtsche.md) 
-- [Podsamtsche.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Podsamtsche.internal.md) 
-- [Podsamtsche.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Podsamtsche.protect.md) 
-- [Podsamtsche.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Podsamtsche.private.md) 
-- [Podsamtsche.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Podsamtsche.personal.md) 
-- [Podsamtsche.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Podsamtsche.secret.md) 

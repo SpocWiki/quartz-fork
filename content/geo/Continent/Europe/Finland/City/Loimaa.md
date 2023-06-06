@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loimaa](../../../../../../_public/geo/Continent/Europe/Finland/City/Loimaa.md) 
-- [Loimaa.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Loimaa.internal.md) 
-- [Loimaa.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Loimaa.protect.md) 
-- [Loimaa.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Loimaa.private.md) 
-- [Loimaa.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Loimaa.personal.md) 
-- [Loimaa.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Loimaa.secret.md) 

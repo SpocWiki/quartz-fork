@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baden_bei_Wien](../../../../../../_public/geo/Continent/Europe/Austria/City/Baden_bei_Wien.md) 
-- [Baden_bei_Wien.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Baden_bei_Wien.internal.md) 
-- [Baden_bei_Wien.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Baden_bei_Wien.protect.md) 
-- [Baden_bei_Wien.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Baden_bei_Wien.private.md) 
-- [Baden_bei_Wien.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Baden_bei_Wien.personal.md) 
-- [Baden_bei_Wien.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Baden_bei_Wien.secret.md) 

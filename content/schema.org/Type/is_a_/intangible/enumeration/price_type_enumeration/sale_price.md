@@ -47,10 +47,3 @@ Represents a sale price (usually active for a limited period) of an offered prod
 
 
 
-## Confidential Links & Embeds: 
-- [sale_price](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.md) 
-- [sale_price.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.internal.md) 
-- [sale_price.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.protect.md) 
-- [sale_price.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.private.md) 
-- [sale_price.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.personal.md) 
-- [sale_price.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/sale_price.secret.md) 

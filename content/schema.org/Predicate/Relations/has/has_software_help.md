@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_software_help](../../../../../_public/schema.org/Predicate/Relations/has/has_software_help.md) 
-- [has_software_help.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_software_help.internal.md) 
-- [has_software_help.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_software_help.protect.md) 
-- [has_software_help.private](../../../../../_private/schema.org/Predicate/Relations/has/has_software_help.private.md) 
-- [has_software_help.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_software_help.personal.md) 
-- [has_software_help.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_software_help.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Twickenham](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.md) 
-- [Twickenham.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.internal.md) 
-- [Twickenham.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.protect.md) 
-- [Twickenham.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.private.md) 
-- [Twickenham.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.personal.md) 
-- [Twickenham.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Twickenham.secret.md) 

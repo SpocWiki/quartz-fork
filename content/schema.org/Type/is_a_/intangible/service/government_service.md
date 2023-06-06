@@ -43,10 +43,3 @@ A service provided by a government organization, e.g. food stamps, veterans bene
 
 
 
-## Confidential Links & Embeds: 
-- [government_service](../../../../../../_public/schema.org/Type/is_a_/intangible/service/government_service.md) 
-- [government_service.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/service/government_service.internal.md) 
-- [government_service.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/service/government_service.protect.md) 
-- [government_service.private](../../../../../../_private/schema.org/Type/is_a_/intangible/service/government_service.private.md) 
-- [government_service.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/service/government_service.personal.md) 
-- [government_service.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/service/government_service.secret.md) 

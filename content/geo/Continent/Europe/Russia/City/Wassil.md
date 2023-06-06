@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wassil](../../../../../../_public/geo/Continent/Europe/Russia/City/Wassil.md) 
-- [Wassil.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Wassil.internal.md) 
-- [Wassil.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Wassil.protect.md) 
-- [Wassil.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Wassil.private.md) 
-- [Wassil.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Wassil.personal.md) 
-- [Wassil.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Wassil.secret.md) 

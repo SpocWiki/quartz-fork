@@ -43,10 +43,3 @@ A school.
 
 
 
-## Confidential Links & Embeds: 
-- [school](../../../../../../_public/schema.org/Type/is_a_/organization/educational_organization/school.md) 
-- [school.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/educational_organization/school.internal.md) 
-- [school.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/educational_organization/school.protect.md) 
-- [school.private](../../../../../../_private/schema.org/Type/is_a_/organization/educational_organization/school.private.md) 
-- [school.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/educational_organization/school.personal.md) 
-- [school.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/educational_organization/school.secret.md) 

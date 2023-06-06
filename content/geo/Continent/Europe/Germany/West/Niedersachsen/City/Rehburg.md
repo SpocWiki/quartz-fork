@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rehburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rehburg.md) 
-- [Rehburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rehburg.internal.md) 
-- [Rehburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rehburg.protect.md) 
-- [Rehburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rehburg.private.md) 
-- [Rehburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rehburg.personal.md) 
-- [Rehburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rehburg.secret.md) 

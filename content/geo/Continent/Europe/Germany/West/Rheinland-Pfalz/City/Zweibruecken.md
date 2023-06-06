@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zweibruecken](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.md) 
-- [Zweibruecken.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.internal.md) 
-- [Zweibruecken.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.protect.md) 
-- [Zweibruecken.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.private.md) 
-- [Zweibruecken.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.personal.md) 
-- [Zweibruecken.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Zweibruecken.secret.md) 

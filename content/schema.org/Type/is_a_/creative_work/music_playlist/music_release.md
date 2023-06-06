@@ -43,10 +43,3 @@ A MusicRelease is a specific release of a music album.
 
 
 
-## Confidential Links & Embeds: 
-- [music_release](../../../../../../_public/schema.org/Type/is_a_/creative_work/music_playlist/music_release.md) 
-- [music_release.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/music_playlist/music_release.internal.md) 
-- [music_release.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/music_playlist/music_release.protect.md) 
-- [music_release.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/music_playlist/music_release.private.md) 
-- [music_release.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/music_playlist/music_release.personal.md) 
-- [music_release.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/music_playlist/music_release.secret.md) 

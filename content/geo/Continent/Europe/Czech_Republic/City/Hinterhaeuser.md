@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hinterhaeuser](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.md) 
-- [Hinterhaeuser.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.internal.md) 
-- [Hinterhaeuser.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.protect.md) 
-- [Hinterhaeuser.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.private.md) 
-- [Hinterhaeuser.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.personal.md) 
-- [Hinterhaeuser.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.secret.md) 

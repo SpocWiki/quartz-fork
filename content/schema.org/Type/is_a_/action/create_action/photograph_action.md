@@ -43,10 +43,3 @@ The act of capturing still images of objects using a camera.
 
 
 
-## Confidential Links & Embeds: 
-- [photograph_action](../../../../../../_public/schema.org/Type/is_a_/action/create_action/photograph_action.md) 
-- [photograph_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/create_action/photograph_action.internal.md) 
-- [photograph_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/create_action/photograph_action.protect.md) 
-- [photograph_action.private](../../../../../../_private/schema.org/Type/is_a_/action/create_action/photograph_action.private.md) 
-- [photograph_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/create_action/photograph_action.personal.md) 
-- [photograph_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/create_action/photograph_action.secret.md) 

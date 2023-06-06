@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harrogate](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Harrogate.md) 
-- [Harrogate.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Harrogate.internal.md) 
-- [Harrogate.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Harrogate.protect.md) 
-- [Harrogate.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Harrogate.private.md) 
-- [Harrogate.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Harrogate.personal.md) 
-- [Harrogate.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Harrogate.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Tula_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Tula_Oblast.md) 
-- [State-Tula_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Tula_Oblast.internal.md) 
-- [State-Tula_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Tula_Oblast.protect.md) 
-- [State-Tula_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Tula_Oblast.private.md) 
-- [State-Tula_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Tula_Oblast.personal.md) 
-- [State-Tula_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Tula_Oblast.secret.md) 

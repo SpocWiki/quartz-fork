@@ -19,10 +19,3 @@ title: Triz-Quantity+Rejecting_and_regenerating_parts-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Rejecting_and_regenerating_parts-Strength](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.md) 
-- [Triz-Quantity+Rejecting_and_regenerating_parts-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.internal.md) 
-- [Triz-Quantity+Rejecting_and_regenerating_parts-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.protect.md) 
-- [Triz-Quantity+Rejecting_and_regenerating_parts-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.private.md) 
-- [Triz-Quantity+Rejecting_and_regenerating_parts-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.personal.md) 
-- [Triz-Quantity+Rejecting_and_regenerating_parts-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Rejecting_and_regenerating_parts-Strength.secret.md) 

@@ -36,10 +36,3 @@ markerFolder: ./Reunion/City
 
 
 
-## Confidential Links & Embeds: 
-- [Reunion](../../../../_public/geo/Continent/Africa/Reunion.md) 
-- [Reunion.internal](../../../../_internal/geo/Continent/Africa/Reunion.internal.md) 
-- [Reunion.protect](../../../../_protect/geo/Continent/Africa/Reunion.protect.md) 
-- [Reunion.private](../../../../_private/geo/Continent/Africa/Reunion.private.md) 
-- [Reunion.personal](../../../../_personal/geo/Continent/Africa/Reunion.personal.md) 
-- [Reunion.secret](../../../../_secret/geo/Continent/Africa/Reunion.secret.md) 

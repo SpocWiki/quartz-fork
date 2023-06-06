@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Linden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Linden.md) 
-- [Linden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Linden.internal.md) 
-- [Linden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Linden.protect.md) 
-- [Linden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Linden.private.md) 
-- [Linden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Linden.personal.md) 
-- [Linden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Linden.secret.md) 

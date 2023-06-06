@@ -45,10 +45,3 @@ A type of blood vessel that specifically carries blood away from the heart.
 
 
 
-## Confidential Links & Embeds: 
-- [artery](../../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/artery.md) 
-- [artery.internal](../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/artery.internal.md) 
-- [artery.protect](../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/artery.protect.md) 
-- [artery.private](../../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/artery.private.md) 
-- [artery.personal](../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/artery.personal.md) 
-- [artery.secret](../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/artery.secret.md) 

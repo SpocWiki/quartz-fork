@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tirschenreuth](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.md) 
-- [Tirschenreuth.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.internal.md) 
-- [Tirschenreuth.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.protect.md) 
-- [Tirschenreuth.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.private.md) 
-- [Tirschenreuth.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.personal.md) 
-- [Tirschenreuth.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.secret.md) 

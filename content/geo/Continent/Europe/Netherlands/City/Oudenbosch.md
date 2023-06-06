@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oudenbosch](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Oudenbosch.md) 
-- [Oudenbosch.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Oudenbosch.internal.md) 
-- [Oudenbosch.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Oudenbosch.protect.md) 
-- [Oudenbosch.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Oudenbosch.private.md) 
-- [Oudenbosch.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Oudenbosch.personal.md) 
-- [Oudenbosch.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Oudenbosch.secret.md) 

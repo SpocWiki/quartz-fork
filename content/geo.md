@@ -15,11 +15,3 @@ Primary Source of open-source geographic maps is the excellent
 [naturalearthdata.com](https://www.naturalearthdata.com/downloads/)  Site. 
 
 
-## Confidential Links & Embeds: 
-- [geo](../_public/geo.md) 
-- [geo.internal](../_internal/geo.internal.md) 
-- [geo.protect](../_protect/geo.protect.md) 
-- [geo.private](../_private/geo.private.md) 
-- [geo.personal](../_personal/geo.personal.md) 
-- [geo.secret](../_secret/geo.secret.md)
-

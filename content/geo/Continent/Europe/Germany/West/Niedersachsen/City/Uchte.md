@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uchte](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uchte.md) 
-- [Uchte.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uchte.internal.md) 
-- [Uchte.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uchte.protect.md) 
-- [Uchte.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uchte.private.md) 
-- [Uchte.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uchte.personal.md) 
-- [Uchte.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uchte.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Temperature+Composite_materials-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Composite_materials-Strength](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.md) 
-- [Triz-Temperature+Composite_materials-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.internal.md) 
-- [Triz-Temperature+Composite_materials-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.protect.md) 
-- [Triz-Temperature+Composite_materials-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.private.md) 
-- [Triz-Temperature+Composite_materials-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.personal.md) 
-- [Triz-Temperature+Composite_materials-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Composite_materials-Strength.secret.md) 

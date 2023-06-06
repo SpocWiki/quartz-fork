@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kutala](../../../../../../_public/geo/Continent/Europe/Russia/City/Kutala.md) 
-- [Kutala.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kutala.internal.md) 
-- [Kutala.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kutala.protect.md) 
-- [Kutala.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kutala.private.md) 
-- [Kutala.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kutala.personal.md) 
-- [Kutala.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kutala.secret.md) 

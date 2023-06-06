@@ -19,10 +19,3 @@ title: Triz-Difficulty+Local_quality-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Local_quality-Speed](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.md) 
-- [Triz-Difficulty+Local_quality-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.internal.md) 
-- [Triz-Difficulty+Local_quality-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.protect.md) 
-- [Triz-Difficulty+Local_quality-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.private.md) 
-- [Triz-Difficulty+Local_quality-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.personal.md) 
-- [Triz-Difficulty+Local_quality-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Local_quality-Speed.secret.md) 

@@ -47,10 +47,3 @@ See also <a href="http://blog.schema.org/2014/04/announcing-schemaorg-actions.ht
 
 
 
-## Confidential Links & Embeds: 
-- [action](../../../../_public/schema.org/Type/is_a_/action.md) 
-- [action.internal](../../../../_internal/schema.org/Type/is_a_/action.internal.md) 
-- [action.protect](../../../../_protect/schema.org/Type/is_a_/action.protect.md) 
-- [action.private](../../../../_private/schema.org/Type/is_a_/action.private.md) 
-- [action.personal](../../../../_personal/schema.org/Type/is_a_/action.personal.md) 
-- [action.secret](../../../../_secret/schema.org/Type/is_a_/action.secret.md) 

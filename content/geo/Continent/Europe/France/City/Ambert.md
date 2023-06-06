@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ambert](../../../../../../_public/geo/Continent/Europe/France/City/Ambert.md) 
-- [Ambert.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Ambert.internal.md) 
-- [Ambert.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Ambert.protect.md) 
-- [Ambert.private](../../../../../../_private/geo/Continent/Europe/France/City/Ambert.private.md) 
-- [Ambert.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Ambert.personal.md) 
-- [Ambert.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Ambert.secret.md) 

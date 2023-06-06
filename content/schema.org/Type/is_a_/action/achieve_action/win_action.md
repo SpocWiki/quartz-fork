@@ -43,10 +43,3 @@ The act of achieving victory in a competitive activity.
 
 
 
-## Confidential Links & Embeds: 
-- [win_action](../../../../../../_public/schema.org/Type/is_a_/action/achieve_action/win_action.md) 
-- [win_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/achieve_action/win_action.internal.md) 
-- [win_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/achieve_action/win_action.protect.md) 
-- [win_action.private](../../../../../../_private/schema.org/Type/is_a_/action/achieve_action/win_action.private.md) 
-- [win_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/achieve_action/win_action.personal.md) 
-- [win_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/achieve_action/win_action.secret.md) 

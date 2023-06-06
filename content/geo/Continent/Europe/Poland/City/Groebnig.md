@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Groebnig](../../../../../../_public/geo/Continent/Europe/Poland/City/Groebnig.md) 
-- [Groebnig.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Groebnig.internal.md) 
-- [Groebnig.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Groebnig.protect.md) 
-- [Groebnig.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Groebnig.private.md) 
-- [Groebnig.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Groebnig.personal.md) 
-- [Groebnig.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Groebnig.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hassfurt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hassfurt.md) 
-- [Hassfurt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hassfurt.internal.md) 
-- [Hassfurt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hassfurt.protect.md) 
-- [Hassfurt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hassfurt.private.md) 
-- [Hassfurt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hassfurt.personal.md) 
-- [Hassfurt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hassfurt.secret.md) 

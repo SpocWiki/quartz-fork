@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Melle](../../../../../../_public/geo/Continent/Europe/France/City/Melle.md) 
-- [Melle.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Melle.internal.md) 
-- [Melle.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Melle.protect.md) 
-- [Melle.private](../../../../../../_private/geo/Continent/Europe/France/City/Melle.private.md) 
-- [Melle.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Melle.personal.md) 
-- [Melle.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Melle.secret.md) 

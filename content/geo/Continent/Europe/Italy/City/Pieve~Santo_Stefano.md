@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pieve~Santo_Stefano](../../../../../../_public/geo/Continent/Europe/Italy/City/Pieve~Santo_Stefano.md) 
-- [Pieve~Santo_Stefano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pieve~Santo_Stefano.internal.md) 
-- [Pieve~Santo_Stefano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pieve~Santo_Stefano.protect.md) 
-- [Pieve~Santo_Stefano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pieve~Santo_Stefano.private.md) 
-- [Pieve~Santo_Stefano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pieve~Santo_Stefano.personal.md) 
-- [Pieve~Santo_Stefano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pieve~Santo_Stefano.secret.md) 

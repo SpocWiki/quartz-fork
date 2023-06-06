@@ -19,10 +19,3 @@ title: Triz-moving_Energy+Combining_(Integration)-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy+Combining_(Integration)-Strength](../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.md) 
-- [Triz-moving_Energy+Combining_(Integration)-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.internal.md) 
-- [Triz-moving_Energy+Combining_(Integration)-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.protect.md) 
-- [Triz-moving_Energy+Combining_(Integration)-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.private.md) 
-- [Triz-moving_Energy+Combining_(Integration)-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.personal.md) 
-- [Triz-moving_Energy+Combining_(Integration)-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Combining_(Integration)-Strength.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Chuvash~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Chuvash~Republic.md) 
-- [State-Chuvash~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Chuvash~Republic.internal.md) 
-- [State-Chuvash~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Chuvash~Republic.protect.md) 
-- [State-Chuvash~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Chuvash~Republic.private.md) 
-- [State-Chuvash~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Chuvash~Republic.personal.md) 
-- [State-Chuvash~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Chuvash~Republic.secret.md) 

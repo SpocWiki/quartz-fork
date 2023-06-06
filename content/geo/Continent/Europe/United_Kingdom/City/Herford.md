@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Herford](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Herford.md) 
-- [Herford.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Herford.internal.md) 
-- [Herford.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Herford.protect.md) 
-- [Herford.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Herford.private.md) 
-- [Herford.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Herford.personal.md) 
-- [Herford.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Herford.secret.md) 

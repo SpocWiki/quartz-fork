@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Acrab](../../../_public/astro/Star/Acrab.md) 
-- [Acrab.internal](../../../_internal/astro/Star/Acrab.internal.md) 
-- [Acrab.protect](../../../_protect/astro/Star/Acrab.protect.md) 
-- [Acrab.private](../../../_private/astro/Star/Acrab.private.md) 
-- [Acrab.personal](../../../_personal/astro/Star/Acrab.personal.md) 
-- [Acrab.secret](../../../_secret/astro/Star/Acrab.secret.md)
-

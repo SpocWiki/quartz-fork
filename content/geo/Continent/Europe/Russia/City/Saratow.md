@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saratow](../../../../../../_public/geo/Continent/Europe/Russia/City/Saratow.md) 
-- [Saratow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Saratow.internal.md) 
-- [Saratow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Saratow.protect.md) 
-- [Saratow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Saratow.private.md) 
-- [Saratow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Saratow.personal.md) 
-- [Saratow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Saratow.secret.md) 

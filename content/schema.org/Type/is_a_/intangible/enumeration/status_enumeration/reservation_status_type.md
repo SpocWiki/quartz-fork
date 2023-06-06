@@ -41,10 +41,3 @@ Enumerated status values for Reservation.
 
 
 
-## Confidential Links & Embeds: 
-- [reservation_status_type](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type.md) 
-- [reservation_status_type.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type.internal.md) 
-- [reservation_status_type.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type.protect.md) 
-- [reservation_status_type.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type.private.md) 
-- [reservation_status_type.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type.personal.md) 
-- [reservation_status_type.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type.secret.md) 

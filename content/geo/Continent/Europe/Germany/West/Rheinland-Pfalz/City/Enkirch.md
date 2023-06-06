@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Enkirch](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.md) 
-- [Enkirch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.internal.md) 
-- [Enkirch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.protect.md) 
-- [Enkirch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.private.md) 
-- [Enkirch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.personal.md) 
-- [Enkirch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Enkirch.secret.md) 

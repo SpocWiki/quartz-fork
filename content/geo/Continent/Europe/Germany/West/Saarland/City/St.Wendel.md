@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Wendel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/St.Wendel.md) 
-- [St.Wendel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/St.Wendel.internal.md) 
-- [St.Wendel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/St.Wendel.protect.md) 
-- [St.Wendel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/St.Wendel.private.md) 
-- [St.Wendel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/St.Wendel.personal.md) 
-- [St.Wendel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/St.Wendel.secret.md) 

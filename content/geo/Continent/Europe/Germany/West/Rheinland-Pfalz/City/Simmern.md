@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Simmern](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Simmern.md) 
-- [Simmern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Simmern.internal.md) 
-- [Simmern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Simmern.protect.md) 
-- [Simmern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Simmern.private.md) 
-- [Simmern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Simmern.personal.md) 
-- [Simmern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Simmern.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power](../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.md) 
-- [Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.internal.md) 
-- [Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.protect.md) 
-- [Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.private.md) 
-- [Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.personal.md) 
-- [Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Transformation_of_physical_and_chemical_states_of_an_object-Power.secret.md) 

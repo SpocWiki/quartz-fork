@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grunwald](../../../../../../_public/geo/Continent/Europe/Poland/City/Grunwald.md) 
-- [Grunwald.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Grunwald.internal.md) 
-- [Grunwald.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Grunwald.protect.md) 
-- [Grunwald.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Grunwald.private.md) 
-- [Grunwald.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Grunwald.personal.md) 
-- [Grunwald.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Grunwald.secret.md) 

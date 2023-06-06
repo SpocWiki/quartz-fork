@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Isperdorf](../../../../../../_public/geo/Continent/Europe/Austria/City/Isperdorf.md) 
-- [Isperdorf.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Isperdorf.internal.md) 
-- [Isperdorf.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Isperdorf.protect.md) 
-- [Isperdorf.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Isperdorf.private.md) 
-- [Isperdorf.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Isperdorf.personal.md) 
-- [Isperdorf.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Isperdorf.secret.md) 

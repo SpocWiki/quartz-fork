@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fécamp](../../../../../../_public/geo/Continent/Europe/France/City/F%C3%A9camp.md) 
-- [Fécamp.internal](../../../../../../_internal/geo/Continent/Europe/France/City/F%C3%A9camp.internal.md) 
-- [Fécamp.protect](../../../../../../_protect/geo/Continent/Europe/France/City/F%C3%A9camp.protect.md) 
-- [Fécamp.private](../../../../../../_private/geo/Continent/Europe/France/City/F%C3%A9camp.private.md) 
-- [Fécamp.personal](../../../../../../_personal/geo/Continent/Europe/France/City/F%C3%A9camp.personal.md) 
-- [Fécamp.secret](../../../../../../_secret/geo/Continent/Europe/France/City/F%C3%A9camp.secret.md) 

@@ -43,10 +43,3 @@ A description of an educational course which may be offered as distinct instance
 
 
 
-## Confidential Links & Embeds: 
-- [course](../../../../../_public/schema.org/Type/is_a_/creative_work/course.md) 
-- [course.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/course.internal.md) 
-- [course.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/course.protect.md) 
-- [course.private](../../../../../_private/schema.org/Type/is_a_/creative_work/course.private.md) 
-- [course.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/course.personal.md) 
-- [course.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/course.secret.md) 

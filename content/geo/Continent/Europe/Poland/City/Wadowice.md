@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wadowice](../../../../../../_public/geo/Continent/Europe/Poland/City/Wadowice.md) 
-- [Wadowice.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wadowice.internal.md) 
-- [Wadowice.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wadowice.protect.md) 
-- [Wadowice.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wadowice.private.md) 
-- [Wadowice.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wadowice.personal.md) 
-- [Wadowice.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wadowice.secret.md) 

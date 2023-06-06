@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Camelopardalis-111](../../../_public/astro/Star/Camelopardalis-111.md) 
-- [Camelopardalis-111.internal](../../../_internal/astro/Star/Camelopardalis-111.internal.md) 
-- [Camelopardalis-111.protect](../../../_protect/astro/Star/Camelopardalis-111.protect.md) 
-- [Camelopardalis-111.private](../../../_private/astro/Star/Camelopardalis-111.private.md) 
-- [Camelopardalis-111.personal](../../../_personal/astro/Star/Camelopardalis-111.personal.md) 
-- [Camelopardalis-111.secret](../../../_secret/astro/Star/Camelopardalis-111.secret.md)
-

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klisura](../../../../../../_public/geo/Continent/Europe/Albania/City/Klisura.md) 
-- [Klisura.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Klisura.internal.md) 
-- [Klisura.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Klisura.protect.md) 
-- [Klisura.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Klisura.private.md) 
-- [Klisura.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Klisura.personal.md) 
-- [Klisura.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Klisura.secret.md) 

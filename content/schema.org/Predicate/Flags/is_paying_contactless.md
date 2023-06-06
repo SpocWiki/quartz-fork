@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_paying_contactless](../../../../_public/schema.org/Predicate/Flags/is_paying_contactless.md) 
-- [is_paying_contactless.internal](../../../../_internal/schema.org/Predicate/Flags/is_paying_contactless.internal.md) 
-- [is_paying_contactless.protect](../../../../_protect/schema.org/Predicate/Flags/is_paying_contactless.protect.md) 
-- [is_paying_contactless.private](../../../../_private/schema.org/Predicate/Flags/is_paying_contactless.private.md) 
-- [is_paying_contactless.personal](../../../../_personal/schema.org/Predicate/Flags/is_paying_contactless.personal.md) 
-- [is_paying_contactless.secret](../../../../_secret/schema.org/Predicate/Flags/is_paying_contactless.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gravasa](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Gravasa.md) 
-- [Gravasa.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Gravasa.internal.md) 
-- [Gravasa.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Gravasa.protect.md) 
-- [Gravasa.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Gravasa.private.md) 
-- [Gravasa.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Gravasa.personal.md) 
-- [Gravasa.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Gravasa.secret.md) 

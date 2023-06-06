@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Herculis-4](../../../_public/astro/Star/Herculis-4.md) 
-- [Herculis-4.internal](../../../_internal/astro/Star/Herculis-4.internal.md) 
-- [Herculis-4.protect](../../../_protect/astro/Star/Herculis-4.protect.md) 
-- [Herculis-4.private](../../../_private/astro/Star/Herculis-4.private.md) 
-- [Herculis-4.personal](../../../_personal/astro/Star/Herculis-4.personal.md) 
-- [Herculis-4.secret](../../../_secret/astro/Star/Herculis-4.secret.md)
-

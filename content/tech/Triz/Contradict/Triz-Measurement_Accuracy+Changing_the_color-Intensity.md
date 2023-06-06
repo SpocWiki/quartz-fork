@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Changing_the_color-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Changing_the_color-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.internal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.protect.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.private.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.personal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Intensity.secret.md) 

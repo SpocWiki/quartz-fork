@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaffzig](../../../../../../_public/geo/Continent/Europe/Poland/City/Kaffzig.md) 
-- [Kaffzig.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kaffzig.internal.md) 
-- [Kaffzig.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kaffzig.protect.md) 
-- [Kaffzig.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kaffzig.private.md) 
-- [Kaffzig.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kaffzig.personal.md) 
-- [Kaffzig.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kaffzig.secret.md) 

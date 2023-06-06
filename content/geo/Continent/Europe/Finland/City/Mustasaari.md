@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mustasaari](../../../../../../_public/geo/Continent/Europe/Finland/City/Mustasaari.md) 
-- [Mustasaari.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Mustasaari.internal.md) 
-- [Mustasaari.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Mustasaari.protect.md) 
-- [Mustasaari.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Mustasaari.private.md) 
-- [Mustasaari.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Mustasaari.personal.md) 
-- [Mustasaari.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Mustasaari.secret.md) 

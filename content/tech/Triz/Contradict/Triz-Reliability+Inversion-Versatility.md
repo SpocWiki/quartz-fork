@@ -19,10 +19,3 @@ title: Triz-Reliability+Inversion-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Inversion-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Inversion-Versatility.md) 
-- [Triz-Reliability+Inversion-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Inversion-Versatility.internal.md) 
-- [Triz-Reliability+Inversion-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Inversion-Versatility.protect.md) 
-- [Triz-Reliability+Inversion-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Inversion-Versatility.private.md) 
-- [Triz-Reliability+Inversion-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Inversion-Versatility.personal.md) 
-- [Triz-Reliability+Inversion-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Inversion-Versatility.secret.md) 

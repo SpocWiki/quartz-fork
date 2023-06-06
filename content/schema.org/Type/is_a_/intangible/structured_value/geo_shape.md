@@ -45,10 +45,3 @@ The geographic shape of a place. A GeoShape can be described using several prope
 
 
 
-## Confidential Links & Embeds: 
-- [geo_shape](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/geo_shape.md) 
-- [geo_shape.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/geo_shape.internal.md) 
-- [geo_shape.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/geo_shape.protect.md) 
-- [geo_shape.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/geo_shape.private.md) 
-- [geo_shape.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/geo_shape.personal.md) 
-- [geo_shape.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/geo_shape.secret.md) 

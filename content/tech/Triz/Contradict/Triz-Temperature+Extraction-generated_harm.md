@@ -19,10 +19,3 @@ title: Triz-Temperature+Extraction-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Extraction-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Extraction-generated_harm.md) 
-- [Triz-Temperature+Extraction-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-generated_harm.internal.md) 
-- [Triz-Temperature+Extraction-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-generated_harm.protect.md) 
-- [Triz-Temperature+Extraction-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-generated_harm.private.md) 
-- [Triz-Temperature+Extraction-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-generated_harm.personal.md) 
-- [Triz-Temperature+Extraction-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-generated_harm.secret.md) 

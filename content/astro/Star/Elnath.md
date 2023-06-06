@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Elnath](../../../_public/astro/Star/Elnath.md) 
-- [Elnath.internal](../../../_internal/astro/Star/Elnath.internal.md) 
-- [Elnath.protect](../../../_protect/astro/Star/Elnath.protect.md) 
-- [Elnath.private](../../../_private/astro/Star/Elnath.private.md) 
-- [Elnath.personal](../../../_personal/astro/Star/Elnath.personal.md) 
-- [Elnath.secret](../../../_secret/astro/Star/Elnath.secret.md)
-

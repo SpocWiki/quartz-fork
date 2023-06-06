@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cheboksary](../../../../../../_public/geo/Continent/Europe/Russia/City/Cheboksary.md) 
-- [Cheboksary.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Cheboksary.internal.md) 
-- [Cheboksary.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Cheboksary.protect.md) 
-- [Cheboksary.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Cheboksary.private.md) 
-- [Cheboksary.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Cheboksary.personal.md) 
-- [Cheboksary.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Cheboksary.secret.md) 

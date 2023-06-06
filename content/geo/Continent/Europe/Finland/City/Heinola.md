@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heinola](../../../../../../_public/geo/Continent/Europe/Finland/City/Heinola.md) 
-- [Heinola.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Heinola.internal.md) 
-- [Heinola.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Heinola.protect.md) 
-- [Heinola.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Heinola.private.md) 
-- [Heinola.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Heinola.personal.md) 
-- [Heinola.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Heinola.secret.md) 

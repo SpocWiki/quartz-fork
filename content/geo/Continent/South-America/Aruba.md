@@ -122,7 +122,7 @@ markerFolder: ./Aruba/City
 
 ![350](geo/Continent/South-America/Aruba/Coat_of_arms_of_Aruba.svg)
 
-![Anthem-Aruba](xLarge/National-Anthem/Anthem-Aruba.mp3)
+[Anthem-Aruba](xLarge/National-Anthem/Anthem-Aruba.mp3)
 
 ![350](geo/Continent/South-America/Aruba/Flag_of_Aruba.svg)
 
@@ -142,10 +142,3 @@ markerFolder: ./Aruba/City
 
 
 
-## Confidential Links & Embeds: 
-- [Aruba](../../../../_public/geo/Continent/South-America/Aruba.md) 
-- [Aruba.internal](../../../../_internal/geo/Continent/South-America/Aruba.internal.md) 
-- [Aruba.protect](../../../../_protect/geo/Continent/South-America/Aruba.protect.md) 
-- [Aruba.private](../../../../_private/geo/Continent/South-America/Aruba.private.md) 
-- [Aruba.personal](../../../../_personal/geo/Continent/South-America/Aruba.personal.md) 
-- [Aruba.secret](../../../../_secret/geo/Continent/South-America/Aruba.secret.md) 

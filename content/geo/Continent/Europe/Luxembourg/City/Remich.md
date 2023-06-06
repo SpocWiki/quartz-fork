@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Remich](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Remich.md) 
-- [Remich.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Remich.internal.md) 
-- [Remich.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Remich.protect.md) 
-- [Remich.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Remich.private.md) 
-- [Remich.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Remich.personal.md) 
-- [Remich.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Remich.secret.md) 

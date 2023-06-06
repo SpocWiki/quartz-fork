@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kehrberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Kehrberg.md) 
-- [Kehrberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kehrberg.internal.md) 
-- [Kehrberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kehrberg.protect.md) 
-- [Kehrberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kehrberg.private.md) 
-- [Kehrberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kehrberg.personal.md) 
-- [Kehrberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kehrberg.secret.md) 

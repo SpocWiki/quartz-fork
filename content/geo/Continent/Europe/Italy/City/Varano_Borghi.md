@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Varano_Borghi](../../../../../../_public/geo/Continent/Europe/Italy/City/Varano_Borghi.md) 
-- [Varano_Borghi.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Varano_Borghi.internal.md) 
-- [Varano_Borghi.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Varano_Borghi.protect.md) 
-- [Varano_Borghi.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Varano_Borghi.private.md) 
-- [Varano_Borghi.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Varano_Borghi.personal.md) 
-- [Varano_Borghi.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Varano_Borghi.secret.md) 

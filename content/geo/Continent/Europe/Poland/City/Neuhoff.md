@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuhoff](../../../../../../_public/geo/Continent/Europe/Poland/City/Neuhoff.md) 
-- [Neuhoff.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neuhoff.internal.md) 
-- [Neuhoff.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neuhoff.protect.md) 
-- [Neuhoff.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neuhoff.private.md) 
-- [Neuhoff.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neuhoff.personal.md) 
-- [Neuhoff.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neuhoff.secret.md) 

@@ -86,10 +86,3 @@ FROM outgoing([Sub-District](Sub-District))
 
 
 
-## Confidential Links & Embeds: 
-- [Line~District](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.md) 
-- [Line~District.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.internal.md) 
-- [Line~District.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.protect.md) 
-- [Line~District.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.private.md) 
-- [Line~District.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.personal.md) 
-- [Line~District.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~District.secret.md) 

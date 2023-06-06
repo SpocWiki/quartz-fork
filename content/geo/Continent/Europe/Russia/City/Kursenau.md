@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kursenau](../../../../../../_public/geo/Continent/Europe/Russia/City/Kursenau.md) 
-- [Kursenau.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kursenau.internal.md) 
-- [Kursenau.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kursenau.protect.md) 
-- [Kursenau.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kursenau.private.md) 
-- [Kursenau.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kursenau.personal.md) 
-- [Kursenau.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kursenau.secret.md) 

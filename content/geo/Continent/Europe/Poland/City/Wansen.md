@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wansen](../../../../../../_public/geo/Continent/Europe/Poland/City/Wansen.md) 
-- [Wansen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wansen.internal.md) 
-- [Wansen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wansen.protect.md) 
-- [Wansen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wansen.private.md) 
-- [Wansen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wansen.personal.md) 
-- [Wansen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wansen.secret.md) 

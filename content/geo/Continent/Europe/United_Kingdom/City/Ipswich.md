@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ipswich](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ipswich.md) 
-- [Ipswich.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ipswich.internal.md) 
-- [Ipswich.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ipswich.protect.md) 
-- [Ipswich.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ipswich.private.md) 
-- [Ipswich.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ipswich.personal.md) 
-- [Ipswich.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ipswich.secret.md) 

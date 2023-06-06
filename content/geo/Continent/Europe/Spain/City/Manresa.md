@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Manresa](../../../../../../_public/geo/Continent/Europe/Spain/City/Manresa.md) 
-- [Manresa.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Manresa.internal.md) 
-- [Manresa.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Manresa.protect.md) 
-- [Manresa.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Manresa.private.md) 
-- [Manresa.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Manresa.personal.md) 
-- [Manresa.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Manresa.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arnhem](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Arnhem.md) 
-- [Arnhem.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Arnhem.internal.md) 
-- [Arnhem.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Arnhem.protect.md) 
-- [Arnhem.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Arnhem.private.md) 
-- [Arnhem.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Arnhem.personal.md) 
-- [Arnhem.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Arnhem.secret.md) 

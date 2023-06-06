@@ -122,7 +122,7 @@ markerFolder: ./Germany/City
 
 ![350](geo/Continent/Europe/Germany/Coat_of_arms_of_Germany.svg)
 
-![Anthem-Germany](xLarge/National-Anthem/Anthem-Germany.mp3)
+[Anthem-Germany](xLarge/National-Anthem/Anthem-Germany.mp3)
 ![350](geo/Continent/Europe/Germany/Flag_of_Germany.svg)
 
 
@@ -139,10 +139,3 @@ markerFolder: ./Germany/City
 
 
 
-## Confidential Links & Embeds: 
-- [Germany](../../../../_public/geo/Continent/Europe/Germany.md) 
-- [Germany.internal](../../../../_internal/geo/Continent/Europe/Germany.internal.md) 
-- [Germany.protect](../../../../_protect/geo/Continent/Europe/Germany.protect.md) 
-- [Germany.private](../../../../_private/geo/Continent/Europe/Germany.private.md) 
-- [Germany.personal](../../../../_personal/geo/Continent/Europe/Germany.personal.md) 
-- [Germany.secret](../../../../_secret/geo/Continent/Europe/Germany.secret.md) 

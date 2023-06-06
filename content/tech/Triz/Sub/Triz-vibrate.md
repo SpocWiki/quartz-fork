@@ -18,10 +18,3 @@ title: Triz-vibrate
 Cause an object to oscillate or vibrate.
 
 
-## Confidential Links & Embeds: 
-- [Triz-vibrate](../../../../_public/tech/Triz/Sub/Triz-vibrate.md) 
-- [Triz-vibrate.internal](../../../../_internal/tech/Triz/Sub/Triz-vibrate.internal.md) 
-- [Triz-vibrate.protect](../../../../_protect/tech/Triz/Sub/Triz-vibrate.protect.md) 
-- [Triz-vibrate.private](../../../../_private/tech/Triz/Sub/Triz-vibrate.private.md) 
-- [Triz-vibrate.personal](../../../../_personal/tech/Triz/Sub/Triz-vibrate.personal.md) 
-- [Triz-vibrate.secret](../../../../_secret/tech/Triz/Sub/Triz-vibrate.secret.md) 

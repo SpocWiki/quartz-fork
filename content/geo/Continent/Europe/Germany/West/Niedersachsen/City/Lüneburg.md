@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lüneburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/L%C3%BCneburg.md) 
-- [Lüneburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/L%C3%BCneburg.internal.md) 
-- [Lüneburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/L%C3%BCneburg.protect.md) 
-- [Lüneburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/L%C3%BCneburg.private.md) 
-- [Lüneburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/L%C3%BCneburg.personal.md) 
-- [Lüneburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/L%C3%BCneburg.secret.md) 

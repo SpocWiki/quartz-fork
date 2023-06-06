@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Paisley](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Paisley.md) 
-- [Paisley.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Paisley.internal.md) 
-- [Paisley.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Paisley.protect.md) 
-- [Paisley.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Paisley.private.md) 
-- [Paisley.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Paisley.personal.md) 
-- [Paisley.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Paisley.secret.md) 

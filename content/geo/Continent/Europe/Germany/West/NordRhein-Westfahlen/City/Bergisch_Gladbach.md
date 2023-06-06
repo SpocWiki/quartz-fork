@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bergisch_Gladbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.md) 
-- [Bergisch_Gladbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.internal.md) 
-- [Bergisch_Gladbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.protect.md) 
-- [Bergisch_Gladbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.private.md) 
-- [Bergisch_Gladbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.personal.md) 
-- [Bergisch_Gladbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bergisch_Gladbach.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Atlanta](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Atlanta.md) 
-- [Atlanta.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Atlanta.internal.md) 
-- [Atlanta.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Atlanta.protect.md) 
-- [Atlanta.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Atlanta.private.md) 
-- [Atlanta.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Atlanta.personal.md) 
-- [Atlanta.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Georgia~USA/City/Atlanta.secret.md) 

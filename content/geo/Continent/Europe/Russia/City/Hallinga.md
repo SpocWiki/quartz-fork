@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hallinga](../../../../../../_public/geo/Continent/Europe/Russia/City/Hallinga.md) 
-- [Hallinga.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Hallinga.internal.md) 
-- [Hallinga.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Hallinga.protect.md) 
-- [Hallinga.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Hallinga.private.md) 
-- [Hallinga.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Hallinga.personal.md) 
-- [Hallinga.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Hallinga.secret.md) 

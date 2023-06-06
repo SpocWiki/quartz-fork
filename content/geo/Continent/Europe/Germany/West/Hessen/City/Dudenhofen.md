@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dudenhofen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Dudenhofen.md) 
-- [Dudenhofen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dudenhofen.internal.md) 
-- [Dudenhofen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dudenhofen.protect.md) 
-- [Dudenhofen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dudenhofen.private.md) 
-- [Dudenhofen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Dudenhofen.personal.md) 
-- [Dudenhofen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Dudenhofen.secret.md) 

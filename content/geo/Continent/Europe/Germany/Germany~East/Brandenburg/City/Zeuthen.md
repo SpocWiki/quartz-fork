@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zeuthen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zeuthen.md) 
-- [Zeuthen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zeuthen.internal.md) 
-- [Zeuthen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zeuthen.protect.md) 
-- [Zeuthen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zeuthen.private.md) 
-- [Zeuthen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zeuthen.personal.md) 
-- [Zeuthen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Zeuthen.secret.md) 

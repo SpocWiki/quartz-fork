@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Herenthals](../../../../../../_public/geo/Continent/Europe/Belgium/City/Herenthals.md) 
-- [Herenthals.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Herenthals.internal.md) 
-- [Herenthals.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Herenthals.protect.md) 
-- [Herenthals.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Herenthals.private.md) 
-- [Herenthals.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Herenthals.personal.md) 
-- [Herenthals.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Herenthals.secret.md) 

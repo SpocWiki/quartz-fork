@@ -45,10 +45,3 @@ The most generic kind of creative work, including books, movies, photographs, so
 
 
 
-## Confidential Links & Embeds: 
-- [creative_work](../../../../_public/schema.org/Type/is_a_/creative_work.md) 
-- [creative_work.internal](../../../../_internal/schema.org/Type/is_a_/creative_work.internal.md) 
-- [creative_work.protect](../../../../_protect/schema.org/Type/is_a_/creative_work.protect.md) 
-- [creative_work.private](../../../../_private/schema.org/Type/is_a_/creative_work.private.md) 
-- [creative_work.personal](../../../../_personal/schema.org/Type/is_a_/creative_work.personal.md) 
-- [creative_work.secret](../../../../_secret/schema.org/Type/is_a_/creative_work.secret.md) 

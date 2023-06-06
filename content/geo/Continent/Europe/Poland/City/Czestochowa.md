@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Czestochowa](../../../../../../_public/geo/Continent/Europe/Poland/City/Czestochowa.md) 
-- [Czestochowa.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Czestochowa.internal.md) 
-- [Czestochowa.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Czestochowa.protect.md) 
-- [Czestochowa.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Czestochowa.private.md) 
-- [Czestochowa.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Czestochowa.personal.md) 
-- [Czestochowa.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Czestochowa.secret.md) 

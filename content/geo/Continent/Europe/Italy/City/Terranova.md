@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Terranova](../../../../../../_public/geo/Continent/Europe/Italy/City/Terranova.md) 
-- [Terranova.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Terranova.internal.md) 
-- [Terranova.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Terranova.protect.md) 
-- [Terranova.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Terranova.private.md) 
-- [Terranova.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Terranova.personal.md) 
-- [Terranova.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Terranova.secret.md) 

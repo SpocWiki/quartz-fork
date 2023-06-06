@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [West_Island](../../../../../../_public/geo/Continent/Oceania/Cocos_Island/City/West_Island.md) 
-- [West_Island.internal](../../../../../../_internal/geo/Continent/Oceania/Cocos_Island/City/West_Island.internal.md) 
-- [West_Island.protect](../../../../../../_protect/geo/Continent/Oceania/Cocos_Island/City/West_Island.protect.md) 
-- [West_Island.private](../../../../../../_private/geo/Continent/Oceania/Cocos_Island/City/West_Island.private.md) 
-- [West_Island.personal](../../../../../../_personal/geo/Continent/Oceania/Cocos_Island/City/West_Island.personal.md) 
-- [West_Island.secret](../../../../../../_secret/geo/Continent/Oceania/Cocos_Island/City/West_Island.secret.md) 

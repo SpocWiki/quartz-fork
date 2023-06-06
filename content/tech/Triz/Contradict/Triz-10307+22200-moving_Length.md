@@ -19,10 +19,3 @@ title: Triz-10307+22200-moving_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22200-moving_Length](../../../../_public/tech/Triz/Contradict/Triz-10307+22200-moving_Length.md) 
-- [Triz-10307+22200-moving_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22200-moving_Length.internal.md) 
-- [Triz-10307+22200-moving_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22200-moving_Length.protect.md) 
-- [Triz-10307+22200-moving_Length.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22200-moving_Length.private.md) 
-- [Triz-10307+22200-moving_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22200-moving_Length.personal.md) 
-- [Triz-10307+22200-moving_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22200-moving_Length.secret.md) 

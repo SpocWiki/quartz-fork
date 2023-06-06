@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saybusch](../../../../../../_public/geo/Continent/Europe/Poland/City/Saybusch.md) 
-- [Saybusch.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Saybusch.internal.md) 
-- [Saybusch.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Saybusch.protect.md) 
-- [Saybusch.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Saybusch.private.md) 
-- [Saybusch.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Saybusch.personal.md) 
-- [Saybusch.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Saybusch.secret.md) 

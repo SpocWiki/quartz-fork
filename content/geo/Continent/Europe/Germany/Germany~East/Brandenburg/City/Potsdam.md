@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Potsdam](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Potsdam.md) 
-- [Potsdam.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Potsdam.internal.md) 
-- [Potsdam.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Potsdam.protect.md) 
-- [Potsdam.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Potsdam.private.md) 
-- [Potsdam.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Potsdam.personal.md) 
-- [Potsdam.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Potsdam.secret.md) 

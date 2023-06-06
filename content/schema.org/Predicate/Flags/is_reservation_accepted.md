@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_reservation_accepted](../../../../_public/schema.org/Predicate/Flags/is_reservation_accepted.md) 
-- [is_reservation_accepted.internal](../../../../_internal/schema.org/Predicate/Flags/is_reservation_accepted.internal.md) 
-- [is_reservation_accepted.protect](../../../../_protect/schema.org/Predicate/Flags/is_reservation_accepted.protect.md) 
-- [is_reservation_accepted.private](../../../../_private/schema.org/Predicate/Flags/is_reservation_accepted.private.md) 
-- [is_reservation_accepted.personal](../../../../_personal/schema.org/Predicate/Flags/is_reservation_accepted.personal.md) 
-- [is_reservation_accepted.secret](../../../../_secret/schema.org/Predicate/Flags/is_reservation_accepted.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grambke](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.md) 
-- [Grambke.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.internal.md) 
-- [Grambke.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.protect.md) 
-- [Grambke.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.private.md) 
-- [Grambke.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.personal.md) 
-- [Grambke.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Bremen/City/Grambke.secret.md) 

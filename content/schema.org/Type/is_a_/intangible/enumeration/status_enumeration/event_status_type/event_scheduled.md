@@ -45,10 +45,3 @@ The event is taking place or has taken place on the startDate as scheduled. Use 
 
 
 
-## Confidential Links & Embeds: 
-- [event_scheduled](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.md) 
-- [event_scheduled.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.internal.md) 
-- [event_scheduled.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.protect.md) 
-- [event_scheduled.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.private.md) 
-- [event_scheduled.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.personal.md) 
-- [event_scheduled.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.secret.md) 

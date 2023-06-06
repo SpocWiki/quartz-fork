@@ -19,10 +19,3 @@ title: Triz-affected_harm+Homogeneity-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Homogeneity-Temperature](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.md) 
-- [Triz-affected_harm+Homogeneity-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.internal.md) 
-- [Triz-affected_harm+Homogeneity-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.protect.md) 
-- [Triz-affected_harm+Homogeneity-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.private.md) 
-- [Triz-affected_harm+Homogeneity-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.personal.md) 
-- [Triz-affected_harm+Homogeneity-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Temperature.secret.md) 

@@ -43,10 +43,3 @@ The act of expressing a difference of opinion with the object. An agent disagree
 
 
 
-## Confidential Links & Embeds: 
-- [disagree_action](../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.md) 
-- [disagree_action.internal](../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.internal.md) 
-- [disagree_action.protect](../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.protect.md) 
-- [disagree_action.private](../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.private.md) 
-- [disagree_action.personal](../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.personal.md) 
-- [disagree_action.secret](../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.secret.md) 

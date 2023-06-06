@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Extraction-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Extraction-Automation](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.md) 
-- [Triz-stationary_Weight+Extraction-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.internal.md) 
-- [Triz-stationary_Weight+Extraction-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.protect.md) 
-- [Triz-stationary_Weight+Extraction-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.private.md) 
-- [Triz-stationary_Weight+Extraction-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.personal.md) 
-- [Triz-stationary_Weight+Extraction-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Automation.secret.md) 

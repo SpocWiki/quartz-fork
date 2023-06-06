@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Helmond](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Helmond.md) 
-- [Helmond.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Helmond.internal.md) 
-- [Helmond.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Helmond.protect.md) 
-- [Helmond.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Helmond.private.md) 
-- [Helmond.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Helmond.personal.md) 
-- [Helmond.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Helmond.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Honiara](../../../../../../_public/geo/Continent/Oceania/Solomon~Islands/City/Honiara.md) 
-- [Honiara.internal](../../../../../../_internal/geo/Continent/Oceania/Solomon~Islands/City/Honiara.internal.md) 
-- [Honiara.protect](../../../../../../_protect/geo/Continent/Oceania/Solomon~Islands/City/Honiara.protect.md) 
-- [Honiara.private](../../../../../../_private/geo/Continent/Oceania/Solomon~Islands/City/Honiara.private.md) 
-- [Honiara.personal](../../../../../../_personal/geo/Continent/Oceania/Solomon~Islands/City/Honiara.personal.md) 
-- [Honiara.secret](../../../../../../_secret/geo/Continent/Oceania/Solomon~Islands/City/Honiara.secret.md) 

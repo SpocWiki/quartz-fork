@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ennis](../../../../../../_public/geo/Continent/Europe/Ireland/City/Ennis.md) 
-- [Ennis.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Ennis.internal.md) 
-- [Ennis.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Ennis.protect.md) 
-- [Ennis.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Ennis.private.md) 
-- [Ennis.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Ennis.personal.md) 
-- [Ennis.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Ennis.secret.md) 

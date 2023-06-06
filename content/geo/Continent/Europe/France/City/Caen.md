@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Caen](../../../../../../_public/geo/Continent/Europe/France/City/Caen.md) 
-- [Caen.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Caen.internal.md) 
-- [Caen.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Caen.protect.md) 
-- [Caen.private](../../../../../../_private/geo/Continent/Europe/France/City/Caen.private.md) 
-- [Caen.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Caen.personal.md) 
-- [Caen.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Caen.secret.md) 

@@ -28,7 +28,7 @@ markerFolder: ./Sao_Tome_And_Principe/City
 [Area-Land::960]
 [Continent::[Africa](geo/Continent/Africa.md)]
 ![350](Coat_of_arms_of_Sao-tome-and-principe.svg)
-![Anthem-Sao-tome-and-principe](xLarge/National-Anthem/Anthem-Sao-tome-and-principe.mp3)
+[Anthem-Sao-tome-and-principe](xLarge/National-Anthem/Anthem-Sao-tome-and-principe.mp3)
 ![350](Flag_of_Sao-tome-and-principe.svg)
 [VehicleCode::]
 [Capital-Id::]
@@ -39,10 +39,3 @@ markerFolder: ./Sao_Tome_And_Principe/City
 
 
 
-## Confidential Links & Embeds: 
-- [Sao_Tome_And_Principe](../../../../_public/geo/Continent/Africa/Sao_Tome_And_Principe.md) 
-- [Sao_Tome_And_Principe.internal](../../../../_internal/geo/Continent/Africa/Sao_Tome_And_Principe.internal.md) 
-- [Sao_Tome_And_Principe.protect](../../../../_protect/geo/Continent/Africa/Sao_Tome_And_Principe.protect.md) 
-- [Sao_Tome_And_Principe.private](../../../../_private/geo/Continent/Africa/Sao_Tome_And_Principe.private.md) 
-- [Sao_Tome_And_Principe.personal](../../../../_personal/geo/Continent/Africa/Sao_Tome_And_Principe.personal.md) 
-- [Sao_Tome_And_Principe.secret](../../../../_secret/geo/Continent/Africa/Sao_Tome_And_Principe.secret.md) 

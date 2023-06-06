@@ -19,10 +19,3 @@ title: Triz-Stability+Copying-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Copying-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.md) 
-- [Triz-Stability+Copying-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.internal.md) 
-- [Triz-Stability+Copying-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.protect.md) 
-- [Triz-Stability+Copying-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.private.md) 
-- [Triz-Stability+Copying-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.personal.md) 
-- [Triz-Stability+Copying-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Copying-Complexity.secret.md) 

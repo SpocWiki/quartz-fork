@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lowestoft~Suffolk](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.md) 
-- [Lowestoft~Suffolk.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.internal.md) 
-- [Lowestoft~Suffolk.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.protect.md) 
-- [Lowestoft~Suffolk.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.private.md) 
-- [Lowestoft~Suffolk.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.personal.md) 
-- [Lowestoft~Suffolk.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lowestoft~Suffolk.secret.md) 

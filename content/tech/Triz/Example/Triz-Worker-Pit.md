@@ -17,10 +17,3 @@ title: Triz-Worker-Pit
 
 Automobile Engine Oil is changed by Workers in a Pit to avoid using expensive Lifting Equipment or unsafe Ramps.
 
-## Confidential Links & Embeds: 
-- [Triz-Worker-Pit](../../../../_public/tech/Triz/Example/Triz-Worker-Pit.md) 
-- [Triz-Worker-Pit.internal](../../../../_internal/tech/Triz/Example/Triz-Worker-Pit.internal.md) 
-- [Triz-Worker-Pit.protect](../../../../_protect/tech/Triz/Example/Triz-Worker-Pit.protect.md) 
-- [Triz-Worker-Pit.private](../../../../_private/tech/Triz/Example/Triz-Worker-Pit.private.md) 
-- [Triz-Worker-Pit.personal](../../../../_personal/tech/Triz/Example/Triz-Worker-Pit.personal.md) 
-- [Triz-Worker-Pit.secret](../../../../_secret/tech/Triz/Example/Triz-Worker-Pit.secret.md) 

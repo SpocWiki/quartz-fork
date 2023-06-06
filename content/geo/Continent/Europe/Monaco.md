@@ -120,7 +120,7 @@ markerFolder: ./Monaco/City
 [name-en::Monaco]
 [name-de::Monaco]
 ![650](geo/Continent/Europe/Monaco/Coat_of_arms_of_Monaco.svg)
-![Anthem-Montenegro](xLarge/National-Anthem/Anthem-Montenegro.mp3)
+[Anthem-Montenegro](xLarge/National-Anthem/Anthem-Montenegro.mp3)
 ![350](geo/Continent/Europe/Monaco/Flag_of_Monaco.svg)
 
 [Area-Total::2]
@@ -135,10 +135,3 @@ markerFolder: ./Monaco/City
 
 
 
-## Confidential Links & Embeds: 
-- [Monaco](../../../../_public/geo/Continent/Europe/Monaco.md) 
-- [Monaco.internal](../../../../_internal/geo/Continent/Europe/Monaco.internal.md) 
-- [Monaco.protect](../../../../_protect/geo/Continent/Europe/Monaco.protect.md) 
-- [Monaco.private](../../../../_private/geo/Continent/Europe/Monaco.private.md) 
-- [Monaco.personal](../../../../_personal/geo/Continent/Europe/Monaco.personal.md) 
-- [Monaco.secret](../../../../_secret/geo/Continent/Europe/Monaco.secret.md) 

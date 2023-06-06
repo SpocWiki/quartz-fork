@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberdrauburg](../../../../../../_public/geo/Continent/Europe/Austria/City/Oberdrauburg.md) 
-- [Oberdrauburg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Oberdrauburg.internal.md) 
-- [Oberdrauburg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Oberdrauburg.protect.md) 
-- [Oberdrauburg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Oberdrauburg.private.md) 
-- [Oberdrauburg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Oberdrauburg.personal.md) 
-- [Oberdrauburg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Oberdrauburg.secret.md) 

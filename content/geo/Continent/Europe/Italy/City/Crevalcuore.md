@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Crevalcuore](../../../../../../_public/geo/Continent/Europe/Italy/City/Crevalcuore.md) 
-- [Crevalcuore.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Crevalcuore.internal.md) 
-- [Crevalcuore.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Crevalcuore.protect.md) 
-- [Crevalcuore.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Crevalcuore.private.md) 
-- [Crevalcuore.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Crevalcuore.personal.md) 
-- [Crevalcuore.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Crevalcuore.secret.md) 

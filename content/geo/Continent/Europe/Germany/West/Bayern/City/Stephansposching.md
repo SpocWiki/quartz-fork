@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stephansposching](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.md) 
-- [Stephansposching.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.internal.md) 
-- [Stephansposching.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.protect.md) 
-- [Stephansposching.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.private.md) 
-- [Stephansposching.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.personal.md) 
-- [Stephansposching.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Stephansposching.secret.md) 

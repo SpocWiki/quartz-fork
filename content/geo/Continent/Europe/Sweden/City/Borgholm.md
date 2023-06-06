@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borgholm](../../../../../../_public/geo/Continent/Europe/Sweden/City/Borgholm.md) 
-- [Borgholm.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Borgholm.internal.md) 
-- [Borgholm.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Borgholm.protect.md) 
-- [Borgholm.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Borgholm.private.md) 
-- [Borgholm.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Borgholm.personal.md) 
-- [Borgholm.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Borgholm.secret.md) 

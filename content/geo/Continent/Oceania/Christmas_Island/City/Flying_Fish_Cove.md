@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flying_Fish_Cove](../../../../../../_public/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.md) 
-- [Flying_Fish_Cove.internal](../../../../../../_internal/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.internal.md) 
-- [Flying_Fish_Cove.protect](../../../../../../_protect/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.protect.md) 
-- [Flying_Fish_Cove.private](../../../../../../_private/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.private.md) 
-- [Flying_Fish_Cove.personal](../../../../../../_personal/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.personal.md) 
-- [Flying_Fish_Cove.secret](../../../../../../_secret/geo/Continent/Oceania/Christmas_Island/City/Flying_Fish_Cove.secret.md) 

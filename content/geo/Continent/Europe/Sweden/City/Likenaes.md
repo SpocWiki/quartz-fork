@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Likenaes](../../../../../../_public/geo/Continent/Europe/Sweden/City/Likenaes.md) 
-- [Likenaes.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Likenaes.internal.md) 
-- [Likenaes.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Likenaes.protect.md) 
-- [Likenaes.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Likenaes.private.md) 
-- [Likenaes.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Likenaes.personal.md) 
-- [Likenaes.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Likenaes.secret.md) 

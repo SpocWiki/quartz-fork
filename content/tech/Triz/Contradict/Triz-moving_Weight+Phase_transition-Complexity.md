@@ -19,10 +19,3 @@ title: Triz-moving_Weight+Phase_transition-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Weight+Phase_transition-Complexity](../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.md) 
-- [Triz-moving_Weight+Phase_transition-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.internal.md) 
-- [Triz-moving_Weight+Phase_transition-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.protect.md) 
-- [Triz-moving_Weight+Phase_transition-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.private.md) 
-- [Triz-moving_Weight+Phase_transition-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.personal.md) 
-- [Triz-moving_Weight+Phase_transition-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Phase_transition-Complexity.secret.md) 

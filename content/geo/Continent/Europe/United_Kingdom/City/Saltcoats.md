@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saltcoats](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Saltcoats.md) 
-- [Saltcoats.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Saltcoats.internal.md) 
-- [Saltcoats.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Saltcoats.protect.md) 
-- [Saltcoats.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Saltcoats.private.md) 
-- [Saltcoats.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Saltcoats.personal.md) 
-- [Saltcoats.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Saltcoats.secret.md) 

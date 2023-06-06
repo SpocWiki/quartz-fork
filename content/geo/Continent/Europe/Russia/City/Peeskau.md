@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peeskau](../../../../../../_public/geo/Continent/Europe/Russia/City/Peeskau.md) 
-- [Peeskau.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Peeskau.internal.md) 
-- [Peeskau.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Peeskau.protect.md) 
-- [Peeskau.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Peeskau.private.md) 
-- [Peeskau.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Peeskau.personal.md) 
-- [Peeskau.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Peeskau.secret.md) 

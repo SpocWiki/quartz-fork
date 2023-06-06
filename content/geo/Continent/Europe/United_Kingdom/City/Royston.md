@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Royston](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Royston.md) 
-- [Royston.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Royston.internal.md) 
-- [Royston.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Royston.protect.md) 
-- [Royston.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Royston.private.md) 
-- [Royston.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Royston.personal.md) 
-- [Royston.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Royston.secret.md) 

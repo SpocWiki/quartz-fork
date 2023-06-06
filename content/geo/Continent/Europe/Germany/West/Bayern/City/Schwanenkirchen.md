@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwanenkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.md) 
-- [Schwanenkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.internal.md) 
-- [Schwanenkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.protect.md) 
-- [Schwanenkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.private.md) 
-- [Schwanenkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.personal.md) 
-- [Schwanenkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schwanenkirchen.secret.md) 

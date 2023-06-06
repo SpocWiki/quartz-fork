@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hartlieb](../../../../../../_public/geo/Continent/Europe/Poland/City/Hartlieb.md) 
-- [Hartlieb.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Hartlieb.internal.md) 
-- [Hartlieb.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Hartlieb.protect.md) 
-- [Hartlieb.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Hartlieb.private.md) 
-- [Hartlieb.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Hartlieb.personal.md) 
-- [Hartlieb.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Hartlieb.secret.md) 

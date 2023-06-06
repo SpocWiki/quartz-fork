@@ -138,10 +138,3 @@ markerFolder: ./Syria/City
 
 
 
-## Confidential Links & Embeds: 
-- [Syria](../../../../_public/geo/Continent/Asia/Syria.md) 
-- [Syria.internal](../../../../_internal/geo/Continent/Asia/Syria.internal.md) 
-- [Syria.protect](../../../../_protect/geo/Continent/Asia/Syria.protect.md) 
-- [Syria.private](../../../../_private/geo/Continent/Asia/Syria.private.md) 
-- [Syria.personal](../../../../_personal/geo/Continent/Asia/Syria.personal.md) 
-- [Syria.secret](../../../../_secret/geo/Continent/Asia/Syria.secret.md) 

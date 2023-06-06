@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seelow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Seelow.md) 
-- [Seelow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Seelow.internal.md) 
-- [Seelow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Seelow.protect.md) 
-- [Seelow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Seelow.private.md) 
-- [Seelow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Seelow.personal.md) 
-- [Seelow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Seelow.secret.md) 

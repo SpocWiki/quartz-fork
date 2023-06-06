@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nairobi](../../../../../../_public/geo/Continent/Africa/Kenya/City/Nairobi.md) 
-- [Nairobi.internal](../../../../../../_internal/geo/Continent/Africa/Kenya/City/Nairobi.internal.md) 
-- [Nairobi.protect](../../../../../../_protect/geo/Continent/Africa/Kenya/City/Nairobi.protect.md) 
-- [Nairobi.private](../../../../../../_private/geo/Continent/Africa/Kenya/City/Nairobi.private.md) 
-- [Nairobi.personal](../../../../../../_personal/geo/Continent/Africa/Kenya/City/Nairobi.personal.md) 
-- [Nairobi.secret](../../../../../../_secret/geo/Continent/Africa/Kenya/City/Nairobi.secret.md) 

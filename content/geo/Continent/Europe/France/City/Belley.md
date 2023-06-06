@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Belley](../../../../../../_public/geo/Continent/Europe/France/City/Belley.md) 
-- [Belley.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Belley.internal.md) 
-- [Belley.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Belley.protect.md) 
-- [Belley.private](../../../../../../_private/geo/Continent/Europe/France/City/Belley.private.md) 
-- [Belley.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Belley.personal.md) 
-- [Belley.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Belley.secret.md) 

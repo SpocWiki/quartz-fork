@@ -19,10 +19,3 @@ title: Triz-Automation+Copying-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Copying-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Automation+Copying-stationary_Weight.md) 
-- [Triz-Automation+Copying-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Copying-stationary_Weight.internal.md) 
-- [Triz-Automation+Copying-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Copying-stationary_Weight.protect.md) 
-- [Triz-Automation+Copying-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Copying-stationary_Weight.private.md) 
-- [Triz-Automation+Copying-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Copying-stationary_Weight.personal.md) 
-- [Triz-Automation+Copying-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Copying-stationary_Weight.secret.md) 

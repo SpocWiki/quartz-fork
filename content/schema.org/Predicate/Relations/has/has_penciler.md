@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_penciler](../../../../../_public/schema.org/Predicate/Relations/has/has_penciler.md) 
-- [has_penciler.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_penciler.internal.md) 
-- [has_penciler.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_penciler.protect.md) 
-- [has_penciler.private](../../../../../_private/schema.org/Predicate/Relations/has/has_penciler.private.md) 
-- [has_penciler.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_penciler.personal.md) 
-- [has_penciler.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_penciler.secret.md) 

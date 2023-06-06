@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bar_le_Duc](../../../../../../_public/geo/Continent/Europe/France/City/Bar_le_Duc.md) 
-- [Bar_le_Duc.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bar_le_Duc.internal.md) 
-- [Bar_le_Duc.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bar_le_Duc.protect.md) 
-- [Bar_le_Duc.private](../../../../../../_private/geo/Continent/Europe/France/City/Bar_le_Duc.private.md) 
-- [Bar_le_Duc.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bar_le_Duc.personal.md) 
-- [Bar_le_Duc.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bar_le_Duc.secret.md) 

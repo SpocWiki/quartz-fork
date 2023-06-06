@@ -19,10 +19,3 @@ title: Triz-Automation+Self-service-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Self-service-Strength](../../../../_public/tech/Triz/Contradict/Triz-Automation+Self-service-Strength.md) 
-- [Triz-Automation+Self-service-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Self-service-Strength.internal.md) 
-- [Triz-Automation+Self-service-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Self-service-Strength.protect.md) 
-- [Triz-Automation+Self-service-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Self-service-Strength.private.md) 
-- [Triz-Automation+Self-service-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Self-service-Strength.personal.md) 
-- [Triz-Automation+Self-service-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Self-service-Strength.secret.md) 

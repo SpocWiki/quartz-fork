@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Narbonne](../../../../../../_public/geo/Continent/Europe/France/City/Narbonne.md) 
-- [Narbonne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Narbonne.internal.md) 
-- [Narbonne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Narbonne.protect.md) 
-- [Narbonne.private](../../../../../../_private/geo/Continent/Europe/France/City/Narbonne.private.md) 
-- [Narbonne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Narbonne.personal.md) 
-- [Narbonne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Narbonne.secret.md) 

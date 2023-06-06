@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Carinae-38](../../../_public/astro/Star/Carinae-38.md) 
-- [Carinae-38.internal](../../../_internal/astro/Star/Carinae-38.internal.md) 
-- [Carinae-38.protect](../../../_protect/astro/Star/Carinae-38.protect.md) 
-- [Carinae-38.private](../../../_private/astro/Star/Carinae-38.private.md) 
-- [Carinae-38.personal](../../../_personal/astro/Star/Carinae-38.personal.md) 
-- [Carinae-38.secret](../../../_secret/astro/Star/Carinae-38.secret.md)
-

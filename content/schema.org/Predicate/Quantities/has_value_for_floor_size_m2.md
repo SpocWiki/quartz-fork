@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_floor_size_m2](../../../../_public/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.md) 
-- [has_value_for_floor_size_m2.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.internal.md) 
-- [has_value_for_floor_size_m2.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.protect.md) 
-- [has_value_for_floor_size_m2.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.private.md) 
-- [has_value_for_floor_size_m2.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.personal.md) 
-- [has_value_for_floor_size_m2.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luebbenau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luebbenau.md) 
-- [Luebbenau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luebbenau.internal.md) 
-- [Luebbenau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luebbenau.protect.md) 
-- [Luebbenau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luebbenau.private.md) 
-- [Luebbenau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luebbenau.personal.md) 
-- [Luebbenau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Luebbenau.secret.md) 

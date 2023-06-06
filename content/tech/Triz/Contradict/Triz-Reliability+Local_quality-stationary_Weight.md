@@ -19,10 +19,3 @@ title: Triz-Reliability+Local_quality-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Local_quality-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.md) 
-- [Triz-Reliability+Local_quality-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.internal.md) 
-- [Triz-Reliability+Local_quality-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.protect.md) 
-- [Triz-Reliability+Local_quality-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.private.md) 
-- [Triz-Reliability+Local_quality-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.personal.md) 
-- [Triz-Reliability+Local_quality-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Local_quality-stationary_Weight.secret.md) 

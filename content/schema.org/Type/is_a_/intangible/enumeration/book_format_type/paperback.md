@@ -45,10 +45,3 @@ Book format: Paperback.
 
 
 
-## Confidential Links & Embeds: 
-- [paperback](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.md) 
-- [paperback.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.internal.md) 
-- [paperback.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.protect.md) 
-- [paperback.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.private.md) 
-- [paperback.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.personal.md) 
-- [paperback.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.secret.md) 

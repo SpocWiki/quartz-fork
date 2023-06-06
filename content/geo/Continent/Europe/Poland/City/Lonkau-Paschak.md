@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lonkau-Paschak](../../../../../../_public/geo/Continent/Europe/Poland/City/Lonkau-Paschak.md) 
-- [Lonkau-Paschak.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lonkau-Paschak.internal.md) 
-- [Lonkau-Paschak.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lonkau-Paschak.protect.md) 
-- [Lonkau-Paschak.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lonkau-Paschak.private.md) 
-- [Lonkau-Paschak.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lonkau-Paschak.personal.md) 
-- [Lonkau-Paschak.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lonkau-Paschak.secret.md) 

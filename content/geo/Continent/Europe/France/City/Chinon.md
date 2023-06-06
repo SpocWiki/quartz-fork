@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chinon](../../../../../../_public/geo/Continent/Europe/France/City/Chinon.md) 
-- [Chinon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chinon.internal.md) 
-- [Chinon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chinon.protect.md) 
-- [Chinon.private](../../../../../../_private/geo/Continent/Europe/France/City/Chinon.private.md) 
-- [Chinon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chinon.personal.md) 
-- [Chinon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chinon.secret.md) 

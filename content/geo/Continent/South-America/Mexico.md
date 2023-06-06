@@ -122,7 +122,7 @@ markerFolder: ./Mexico/City
 
 ![350](geo/Continent/South-America/Mexico/Coat_of_arms_of_Mexico.svg)
 
-![Anthem-Mexico](xLarge/National-Anthem/Anthem-Mexico.mp3)
+[Anthem-Mexico](xLarge/National-Anthem/Anthem-Mexico.mp3)
 
 ![350](geo/Continent/South-America/Mexico/Flag_of_Mexico.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Mexico/City
 
 
 
-## Confidential Links & Embeds: 
-- [Mexico](../../../../_public/geo/Continent/South-America/Mexico.md) 
-- [Mexico.internal](../../../../_internal/geo/Continent/South-America/Mexico.internal.md) 
-- [Mexico.protect](../../../../_protect/geo/Continent/South-America/Mexico.protect.md) 
-- [Mexico.private](../../../../_private/geo/Continent/South-America/Mexico.private.md) 
-- [Mexico.personal](../../../../_personal/geo/Continent/South-America/Mexico.personal.md) 
-- [Mexico.secret](../../../../_secret/geo/Continent/South-America/Mexico.secret.md) 

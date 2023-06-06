@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldei](../../../../../../_public/geo/Continent/Europe/Russia/City/Waldei.md) 
-- [Waldei.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Waldei.internal.md) 
-- [Waldei.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Waldei.protect.md) 
-- [Waldei.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Waldei.private.md) 
-- [Waldei.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Waldei.personal.md) 
-- [Waldei.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Waldei.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Magadan](../../../../../../_public/geo/Continent/Europe/Russia/City/Magadan.md) 
-- [Magadan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Magadan.internal.md) 
-- [Magadan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Magadan.protect.md) 
-- [Magadan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Magadan.private.md) 
-- [Magadan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Magadan.personal.md) 
-- [Magadan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Magadan.secret.md) 

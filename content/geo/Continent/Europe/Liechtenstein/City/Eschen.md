@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eschen](../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Eschen.md) 
-- [Eschen.internal](../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Eschen.internal.md) 
-- [Eschen.protect](../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Eschen.protect.md) 
-- [Eschen.private](../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Eschen.private.md) 
-- [Eschen.personal](../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Eschen.personal.md) 
-- [Eschen.secret](../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Eschen.secret.md) 

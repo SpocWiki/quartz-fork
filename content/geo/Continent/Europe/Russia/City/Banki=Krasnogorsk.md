@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Banki=Krasnogorsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Banki=Krasnogorsk.md) 
-- [Banki=Krasnogorsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Banki=Krasnogorsk.internal.md) 
-- [Banki=Krasnogorsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Banki=Krasnogorsk.protect.md) 
-- [Banki=Krasnogorsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Banki=Krasnogorsk.private.md) 
-- [Banki=Krasnogorsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Banki=Krasnogorsk.personal.md) 
-- [Banki=Krasnogorsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Banki=Krasnogorsk.secret.md) 

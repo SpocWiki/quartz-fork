@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Szegedin](../../../../../../_public/geo/Continent/Europe/Hungary/City/Szegedin.md) 
-- [Szegedin.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szegedin.internal.md) 
-- [Szegedin.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szegedin.protect.md) 
-- [Szegedin.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Szegedin.private.md) 
-- [Szegedin.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szegedin.personal.md) 
-- [Szegedin.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szegedin.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kleinpertenschlag](../../../../../../_public/geo/Continent/Europe/Austria/City/Kleinpertenschlag.md) 
-- [Kleinpertenschlag.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Kleinpertenschlag.internal.md) 
-- [Kleinpertenschlag.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Kleinpertenschlag.protect.md) 
-- [Kleinpertenschlag.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Kleinpertenschlag.private.md) 
-- [Kleinpertenschlag.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Kleinpertenschlag.personal.md) 
-- [Kleinpertenschlag.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Kleinpertenschlag.secret.md) 

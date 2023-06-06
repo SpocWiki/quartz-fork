@@ -19,10 +19,3 @@ title: Triz-Power+Universality-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Universality-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Power+Universality-Time-Loss.md) 
-- [Triz-Power+Universality-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Universality-Time-Loss.internal.md) 
-- [Triz-Power+Universality-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Universality-Time-Loss.protect.md) 
-- [Triz-Power+Universality-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Universality-Time-Loss.private.md) 
-- [Triz-Power+Universality-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Universality-Time-Loss.personal.md) 
-- [Triz-Power+Universality-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Universality-Time-Loss.secret.md) 

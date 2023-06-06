@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kauschit-Kala](../../../../../../_public/geo/Continent/Europe/Russia/City/Kauschit-Kala.md) 
-- [Kauschit-Kala.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kauschit-Kala.internal.md) 
-- [Kauschit-Kala.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kauschit-Kala.protect.md) 
-- [Kauschit-Kala.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kauschit-Kala.private.md) 
-- [Kauschit-Kala.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kauschit-Kala.personal.md) 
-- [Kauschit-Kala.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kauschit-Kala.secret.md) 

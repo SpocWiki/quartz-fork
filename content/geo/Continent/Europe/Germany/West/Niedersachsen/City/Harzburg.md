@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harzburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Harzburg.md) 
-- [Harzburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Harzburg.internal.md) 
-- [Harzburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Harzburg.protect.md) 
-- [Harzburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Harzburg.private.md) 
-- [Harzburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Harzburg.personal.md) 
-- [Harzburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Harzburg.secret.md) 

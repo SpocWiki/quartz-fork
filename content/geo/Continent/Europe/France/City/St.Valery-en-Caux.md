@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Valery-en-Caux](../../../../../../_public/geo/Continent/Europe/France/City/St.Valery-en-Caux.md) 
-- [St.Valery-en-Caux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Valery-en-Caux.internal.md) 
-- [St.Valery-en-Caux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Valery-en-Caux.protect.md) 
-- [St.Valery-en-Caux.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Valery-en-Caux.private.md) 
-- [St.Valery-en-Caux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Valery-en-Caux.personal.md) 
-- [St.Valery-en-Caux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Valery-en-Caux.secret.md) 

@@ -49,10 +49,3 @@ Is [sub_property_of::dateCreated]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_date_of_legislation](../../../../_public/schema.org/Predicate/Date_Times/has_date_of_legislation.md) 
-- [has_date_of_legislation.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_date_of_legislation.internal.md) 
-- [has_date_of_legislation.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_date_of_legislation.protect.md) 
-- [has_date_of_legislation.private](../../../../_private/schema.org/Predicate/Date_Times/has_date_of_legislation.private.md) 
-- [has_date_of_legislation.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_date_of_legislation.personal.md) 
-- [has_date_of_legislation.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_date_of_legislation.secret.md) 

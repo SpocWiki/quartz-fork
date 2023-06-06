@@ -45,10 +45,3 @@ Tag Instances like this:
 
 
 
-## Confidential Links & Embeds: 
-- [geospatial_geometry](../../../../../_public/schema.org/Type/is_a_/intangible/geospatial_geometry.md) 
-- [geospatial_geometry.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/geospatial_geometry.internal.md) 
-- [geospatial_geometry.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/geospatial_geometry.protect.md) 
-- [geospatial_geometry.private](../../../../../_private/schema.org/Type/is_a_/intangible/geospatial_geometry.private.md) 
-- [geospatial_geometry.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/geospatial_geometry.personal.md) 
-- [geospatial_geometry.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/geospatial_geometry.secret.md) 

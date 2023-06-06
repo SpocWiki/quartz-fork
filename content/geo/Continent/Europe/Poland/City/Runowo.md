@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Runowo](../../../../../../_public/geo/Continent/Europe/Poland/City/Runowo.md) 
-- [Runowo.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Runowo.internal.md) 
-- [Runowo.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Runowo.protect.md) 
-- [Runowo.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Runowo.private.md) 
-- [Runowo.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Runowo.personal.md) 
-- [Runowo.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Runowo.secret.md) 

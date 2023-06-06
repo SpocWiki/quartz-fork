@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Kochab](../../../_public/astro/Star/Kochab.md) 
-- [Kochab.internal](../../../_internal/astro/Star/Kochab.internal.md) 
-- [Kochab.protect](../../../_protect/astro/Star/Kochab.protect.md) 
-- [Kochab.private](../../../_private/astro/Star/Kochab.private.md) 
-- [Kochab.personal](../../../_personal/astro/Star/Kochab.personal.md) 
-- [Kochab.secret](../../../_secret/astro/Star/Kochab.secret.md)
-

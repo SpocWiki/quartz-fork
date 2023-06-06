@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dushanbe](../../../../../../_public/geo/Continent/Asia/Tajikistan/City/Dushanbe.md) 
-- [Dushanbe.internal](../../../../../../_internal/geo/Continent/Asia/Tajikistan/City/Dushanbe.internal.md) 
-- [Dushanbe.protect](../../../../../../_protect/geo/Continent/Asia/Tajikistan/City/Dushanbe.protect.md) 
-- [Dushanbe.private](../../../../../../_private/geo/Continent/Asia/Tajikistan/City/Dushanbe.private.md) 
-- [Dushanbe.personal](../../../../../../_personal/geo/Continent/Asia/Tajikistan/City/Dushanbe.personal.md) 
-- [Dushanbe.secret](../../../../../../_secret/geo/Continent/Asia/Tajikistan/City/Dushanbe.secret.md) 

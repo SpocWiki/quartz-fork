@@ -34,10 +34,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ealing](../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.md) 
-- [Ealing.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.internal.md) 
-- [Ealing.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.protect.md) 
-- [Ealing.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.private.md) 
-- [Ealing.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.personal.md) 
-- [Ealing.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Ealing.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Miang](../../../../../../_public/geo/Continent/Europe/Denmark/City/Miang.md) 
-- [Miang.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Miang.internal.md) 
-- [Miang.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Miang.protect.md) 
-- [Miang.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Miang.private.md) 
-- [Miang.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Miang.personal.md) 
-- [Miang.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Miang.secret.md) 

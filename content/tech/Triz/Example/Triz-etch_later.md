@@ -17,10 +17,3 @@ title: Triz-etch_later
 
 Oxidize the whole Substrate in MicroElectronics and etch it later.
 
-## Confidential Links & Embeds: 
-- [Triz-etch_later](../../../../_public/tech/Triz/Example/Triz-etch_later.md) 
-- [Triz-etch_later.internal](../../../../_internal/tech/Triz/Example/Triz-etch_later.internal.md) 
-- [Triz-etch_later.protect](../../../../_protect/tech/Triz/Example/Triz-etch_later.protect.md) 
-- [Triz-etch_later.private](../../../../_private/tech/Triz/Example/Triz-etch_later.private.md) 
-- [Triz-etch_later.personal](../../../../_personal/tech/Triz/Example/Triz-etch_later.personal.md) 
-- [Triz-etch_later.secret](../../../../_secret/tech/Triz/Example/Triz-etch_later.secret.md) 

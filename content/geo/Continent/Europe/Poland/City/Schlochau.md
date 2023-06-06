@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schlochau](../../../../../../_public/geo/Continent/Europe/Poland/City/Schlochau.md) 
-- [Schlochau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlochau.internal.md) 
-- [Schlochau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlochau.protect.md) 
-- [Schlochau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schlochau.private.md) 
-- [Schlochau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlochau.personal.md) 
-- [Schlochau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlochau.secret.md) 

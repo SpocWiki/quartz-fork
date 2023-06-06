@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Metten~Niederbayern](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.md) 
-- [Metten~Niederbayern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.internal.md) 
-- [Metten~Niederbayern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.protect.md) 
-- [Metten~Niederbayern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.private.md) 
-- [Metten~Niederbayern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.personal.md) 
-- [Metten~Niederbayern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.secret.md) 

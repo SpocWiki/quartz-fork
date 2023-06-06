@@ -19,10 +19,3 @@ title: Triz-stationary_Energy+Extraction-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Energy+Extraction-Illumination](../../../../_public/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.md) 
-- [Triz-stationary_Energy+Extraction-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.internal.md) 
-- [Triz-stationary_Energy+Extraction-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.protect.md) 
-- [Triz-stationary_Energy+Extraction-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.private.md) 
-- [Triz-stationary_Energy+Extraction-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.personal.md) 
-- [Triz-stationary_Energy+Extraction-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Energy+Extraction-Illumination.secret.md) 

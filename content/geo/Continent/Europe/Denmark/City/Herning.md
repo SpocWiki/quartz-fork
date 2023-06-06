@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Herning](../../../../../../_public/geo/Continent/Europe/Denmark/City/Herning.md) 
-- [Herning.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Herning.internal.md) 
-- [Herning.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Herning.protect.md) 
-- [Herning.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Herning.private.md) 
-- [Herning.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Herning.personal.md) 
-- [Herning.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Herning.secret.md) 

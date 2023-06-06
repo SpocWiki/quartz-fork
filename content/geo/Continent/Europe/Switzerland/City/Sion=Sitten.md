@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sion=Sitten](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sion=Sitten.md) 
-- [Sion=Sitten.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sion=Sitten.internal.md) 
-- [Sion=Sitten.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sion=Sitten.protect.md) 
-- [Sion=Sitten.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sion=Sitten.private.md) 
-- [Sion=Sitten.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sion=Sitten.personal.md) 
-- [Sion=Sitten.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sion=Sitten.secret.md) 

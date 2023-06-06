@@ -19,10 +19,3 @@ title: Triz-Automation+Self-service-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Self-service-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.md) 
-- [Triz-Automation+Self-service-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.internal.md) 
-- [Triz-Automation+Self-service-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.protect.md) 
-- [Triz-Automation+Self-service-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.private.md) 
-- [Triz-Automation+Self-service-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.personal.md) 
-- [Triz-Automation+Self-service-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Self-service-Difficulty.secret.md) 

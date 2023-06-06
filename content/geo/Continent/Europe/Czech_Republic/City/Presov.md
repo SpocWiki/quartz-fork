@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Presov](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Presov.md) 
-- [Presov.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Presov.internal.md) 
-- [Presov.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Presov.protect.md) 
-- [Presov.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Presov.private.md) 
-- [Presov.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Presov.personal.md) 
-- [Presov.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Presov.secret.md) 

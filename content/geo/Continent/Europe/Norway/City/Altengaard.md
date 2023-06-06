@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altengaard](../../../../../../_public/geo/Continent/Europe/Norway/City/Altengaard.md) 
-- [Altengaard.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Altengaard.internal.md) 
-- [Altengaard.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Altengaard.protect.md) 
-- [Altengaard.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Altengaard.private.md) 
-- [Altengaard.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Altengaard.personal.md) 
-- [Altengaard.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Altengaard.secret.md) 

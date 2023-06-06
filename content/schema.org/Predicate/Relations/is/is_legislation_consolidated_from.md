@@ -49,10 +49,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_legislation_consolidated_from](../../../../../_public/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.md) 
-- [is_legislation_consolidated_from.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.internal.md) 
-- [is_legislation_consolidated_from.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.protect.md) 
-- [is_legislation_consolidated_from.private](../../../../../_private/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.private.md) 
-- [is_legislation_consolidated_from.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.personal.md) 
-- [is_legislation_consolidated_from.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.secret.md) 

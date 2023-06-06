@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koritza](../../../../../../_public/geo/Continent/Europe/Albania/City/Koritza.md) 
-- [Koritza.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Koritza.internal.md) 
-- [Koritza.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Koritza.protect.md) 
-- [Koritza.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Koritza.private.md) 
-- [Koritza.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Koritza.personal.md) 
-- [Koritza.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Koritza.secret.md) 

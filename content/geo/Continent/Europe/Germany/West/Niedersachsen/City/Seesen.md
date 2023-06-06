@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seesen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Seesen.md) 
-- [Seesen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Seesen.internal.md) 
-- [Seesen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Seesen.protect.md) 
-- [Seesen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Seesen.private.md) 
-- [Seesen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Seesen.personal.md) 
-- [Seesen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Seesen.secret.md) 

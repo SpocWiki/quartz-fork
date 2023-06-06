@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nargoe](../../../../../../_public/geo/Continent/Europe/Russia/City/Nargoe.md) 
-- [Nargoe.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nargoe.internal.md) 
-- [Nargoe.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nargoe.protect.md) 
-- [Nargoe.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nargoe.private.md) 
-- [Nargoe.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nargoe.personal.md) 
-- [Nargoe.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nargoe.secret.md) 

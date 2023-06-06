@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siofok](../../../../../../_public/geo/Continent/Europe/Hungary/City/Siofok.md) 
-- [Siofok.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Siofok.internal.md) 
-- [Siofok.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Siofok.protect.md) 
-- [Siofok.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Siofok.private.md) 
-- [Siofok.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Siofok.personal.md) 
-- [Siofok.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Siofok.secret.md) 

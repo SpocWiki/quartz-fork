@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Einsiedeln](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Einsiedeln.md) 
-- [Einsiedeln.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Einsiedeln.internal.md) 
-- [Einsiedeln.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Einsiedeln.protect.md) 
-- [Einsiedeln.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Einsiedeln.private.md) 
-- [Einsiedeln.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Einsiedeln.personal.md) 
-- [Einsiedeln.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Einsiedeln.secret.md) 

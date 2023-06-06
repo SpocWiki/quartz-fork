@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sakloe](../../../../../../_public/geo/Continent/Europe/Sweden/City/Sakloe.md) 
-- [Sakloe.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sakloe.internal.md) 
-- [Sakloe.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sakloe.protect.md) 
-- [Sakloe.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Sakloe.private.md) 
-- [Sakloe.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sakloe.personal.md) 
-- [Sakloe.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sakloe.secret.md) 

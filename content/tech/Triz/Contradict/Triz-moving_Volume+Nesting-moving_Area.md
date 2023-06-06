@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Nesting-moving_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Nesting-moving_Area](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Nesting-moving_Area.md) 
-- [Triz-moving_Volume+Nesting-moving_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Nesting-moving_Area.internal.md) 
-- [Triz-moving_Volume+Nesting-moving_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Nesting-moving_Area.protect.md) 
-- [Triz-moving_Volume+Nesting-moving_Area.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Nesting-moving_Area.private.md) 
-- [Triz-moving_Volume+Nesting-moving_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Nesting-moving_Area.personal.md) 
-- [Triz-moving_Volume+Nesting-moving_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Nesting-moving_Area.secret.md) 

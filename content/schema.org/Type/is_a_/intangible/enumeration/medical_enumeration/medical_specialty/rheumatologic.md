@@ -45,10 +45,3 @@ A specific branch of medical science that deals with the study and treatment of 
 
 
 
-## Confidential Links & Embeds: 
-- [rheumatologic](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.md) 
-- [rheumatologic.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.internal.md) 
-- [rheumatologic.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.protect.md) 
-- [rheumatologic.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.private.md) 
-- [rheumatologic.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.personal.md) 
-- [rheumatologic.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.secret.md) 

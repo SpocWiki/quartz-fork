@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ettelbrueck](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.md) 
-- [Ettelbrueck.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.internal.md) 
-- [Ettelbrueck.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.protect.md) 
-- [Ettelbrueck.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.private.md) 
-- [Ettelbrueck.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.personal.md) 
-- [Ettelbrueck.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Ettelbrueck.secret.md) 

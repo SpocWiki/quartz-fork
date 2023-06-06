@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_business_days](../../../../../_public/schema.org/Predicate/Relations/has/has_business_days.md) 
-- [has_business_days.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_business_days.internal.md) 
-- [has_business_days.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_business_days.protect.md) 
-- [has_business_days.private](../../../../../_private/schema.org/Predicate/Relations/has/has_business_days.private.md) 
-- [has_business_days.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_business_days.personal.md) 
-- [has_business_days.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_business_days.secret.md) 

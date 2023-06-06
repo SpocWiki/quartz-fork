@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lahti](../../../../../../_public/geo/Continent/Europe/Finland/City/Lahti.md) 
-- [Lahti.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Lahti.internal.md) 
-- [Lahti.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Lahti.protect.md) 
-- [Lahti.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Lahti.private.md) 
-- [Lahti.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Lahti.personal.md) 
-- [Lahti.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Lahti.secret.md) 

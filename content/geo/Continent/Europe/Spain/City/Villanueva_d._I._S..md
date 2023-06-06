@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Villanueva_d._I._S.](../../../../../../_public/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..md) 
-- [Villanueva_d._I._S..internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..internal.md) 
-- [Villanueva_d._I._S..protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..protect.md) 
-- [Villanueva_d._I._S..private](../../../../../../_private/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..private.md) 
-- [Villanueva_d._I._S..personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..personal.md) 
-- [Villanueva_d._I._S..secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Villanueva_d._I._S..secret.md) 

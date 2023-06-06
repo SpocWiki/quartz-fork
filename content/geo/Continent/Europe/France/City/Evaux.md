@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Evaux](../../../../../../_public/geo/Continent/Europe/France/City/Evaux.md) 
-- [Evaux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Evaux.internal.md) 
-- [Evaux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Evaux.protect.md) 
-- [Evaux.private](../../../../../../_private/geo/Continent/Europe/France/City/Evaux.private.md) 
-- [Evaux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Evaux.personal.md) 
-- [Evaux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Evaux.secret.md) 

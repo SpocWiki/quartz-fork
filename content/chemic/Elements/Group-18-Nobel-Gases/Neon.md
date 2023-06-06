@@ -37,10 +37,3 @@ title: Neon
 
 
 
-## Confidential Links & Embeds: 
-- [Neon](../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Neon.md) 
-- [Neon.internal](../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Neon.internal.md) 
-- [Neon.protect](../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Neon.protect.md) 
-- [Neon.private](../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Neon.private.md) 
-- [Neon.personal](../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Neon.personal.md) 
-- [Neon.secret](../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Neon.secret.md) 

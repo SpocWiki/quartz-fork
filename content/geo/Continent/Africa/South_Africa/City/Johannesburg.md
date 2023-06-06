@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Johannesburg](../../../../../../_public/geo/Continent/Africa/South_Africa/City/Johannesburg.md) 
-- [Johannesburg.internal](../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Johannesburg.internal.md) 
-- [Johannesburg.protect](../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Johannesburg.protect.md) 
-- [Johannesburg.private](../../../../../../_private/geo/Continent/Africa/South_Africa/City/Johannesburg.private.md) 
-- [Johannesburg.personal](../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Johannesburg.personal.md) 
-- [Johannesburg.secret](../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Johannesburg.secret.md) 

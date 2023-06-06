@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Spheroidality-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Spheroidality-Strength](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Spheroidality-Strength.md) 
-- [Triz-stationary_Volume+Spheroidality-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Spheroidality-Strength.internal.md) 
-- [Triz-stationary_Volume+Spheroidality-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Spheroidality-Strength.protect.md) 
-- [Triz-stationary_Volume+Spheroidality-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Spheroidality-Strength.private.md) 
-- [Triz-stationary_Volume+Spheroidality-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Spheroidality-Strength.personal.md) 
-- [Triz-stationary_Volume+Spheroidality-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Spheroidality-Strength.secret.md) 

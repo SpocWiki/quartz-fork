@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Espozende](../../../../../../_public/geo/Continent/Europe/Portugal/City/Espozende.md) 
-- [Espozende.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Espozende.internal.md) 
-- [Espozende.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Espozende.protect.md) 
-- [Espozende.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Espozende.private.md) 
-- [Espozende.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Espozende.personal.md) 
-- [Espozende.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Espozende.secret.md) 

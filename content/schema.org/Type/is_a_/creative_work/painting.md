@@ -43,10 +43,3 @@ A painting.
 
 
 
-## Confidential Links & Embeds: 
-- [painting](../../../../../_public/schema.org/Type/is_a_/creative_work/painting.md) 
-- [painting.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/painting.internal.md) 
-- [painting.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/painting.protect.md) 
-- [painting.private](../../../../../_private/schema.org/Type/is_a_/creative_work/painting.private.md) 
-- [painting.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/painting.personal.md) 
-- [painting.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/painting.secret.md) 

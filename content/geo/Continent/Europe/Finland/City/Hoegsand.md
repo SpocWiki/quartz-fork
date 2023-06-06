@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoegsand](../../../../../../_public/geo/Continent/Europe/Finland/City/Hoegsand.md) 
-- [Hoegsand.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Hoegsand.internal.md) 
-- [Hoegsand.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Hoegsand.protect.md) 
-- [Hoegsand.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Hoegsand.private.md) 
-- [Hoegsand.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Hoegsand.personal.md) 
-- [Hoegsand.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Hoegsand.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chaux-de-Fonds](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.md) 
-- [Chaux-de-Fonds.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.internal.md) 
-- [Chaux-de-Fonds.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.protect.md) 
-- [Chaux-de-Fonds.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.private.md) 
-- [Chaux-de-Fonds.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.personal.md) 
-- [Chaux-de-Fonds.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Chaux-de-Fonds.secret.md) 

@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_broadcast_service_tier](../../../../_public/schema.org/Predicate/Texts/has_broadcast_service_tier.md) 
-- [has_broadcast_service_tier.internal](../../../../_internal/schema.org/Predicate/Texts/has_broadcast_service_tier.internal.md) 
-- [has_broadcast_service_tier.protect](../../../../_protect/schema.org/Predicate/Texts/has_broadcast_service_tier.protect.md) 
-- [has_broadcast_service_tier.private](../../../../_private/schema.org/Predicate/Texts/has_broadcast_service_tier.private.md) 
-- [has_broadcast_service_tier.personal](../../../../_personal/schema.org/Predicate/Texts/has_broadcast_service_tier.personal.md) 
-- [has_broadcast_service_tier.secret](../../../../_secret/schema.org/Predicate/Texts/has_broadcast_service_tier.secret.md) 

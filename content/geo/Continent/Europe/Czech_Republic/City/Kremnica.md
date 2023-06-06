@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kremnica](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kremnica.md) 
-- [Kremnica.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kremnica.internal.md) 
-- [Kremnica.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kremnica.protect.md) 
-- [Kremnica.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kremnica.private.md) 
-- [Kremnica.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kremnica.personal.md) 
-- [Kremnica.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kremnica.secret.md) 

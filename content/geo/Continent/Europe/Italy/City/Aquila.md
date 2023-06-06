@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aquila](../../../../../../_public/geo/Continent/Europe/Italy/City/Aquila.md) 
-- [Aquila.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Aquila.internal.md) 
-- [Aquila.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Aquila.protect.md) 
-- [Aquila.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Aquila.private.md) 
-- [Aquila.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Aquila.personal.md) 
-- [Aquila.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Aquila.secret.md) 

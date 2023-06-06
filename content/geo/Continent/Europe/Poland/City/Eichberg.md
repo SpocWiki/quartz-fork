@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eichberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Eichberg.md) 
-- [Eichberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Eichberg.internal.md) 
-- [Eichberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Eichberg.protect.md) 
-- [Eichberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Eichberg.private.md) 
-- [Eichberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Eichberg.personal.md) 
-- [Eichberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Eichberg.secret.md) 

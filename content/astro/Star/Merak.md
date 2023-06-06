@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Merak](../../../_public/astro/Star/Merak.md) 
-- [Merak.internal](../../../_internal/astro/Star/Merak.internal.md) 
-- [Merak.protect](../../../_protect/astro/Star/Merak.protect.md) 
-- [Merak.private](../../../_private/astro/Star/Merak.private.md) 
-- [Merak.personal](../../../_personal/astro/Star/Merak.personal.md) 
-- [Merak.secret](../../../_secret/astro/Star/Merak.secret.md) 

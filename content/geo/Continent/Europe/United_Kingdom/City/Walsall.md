@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Walsall](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Walsall.md) 
-- [Walsall.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Walsall.internal.md) 
-- [Walsall.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Walsall.protect.md) 
-- [Walsall.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Walsall.private.md) 
-- [Walsall.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Walsall.personal.md) 
-- [Walsall.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Walsall.secret.md) 

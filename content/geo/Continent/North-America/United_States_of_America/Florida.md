@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Florida](../../../../../_public/geo/Continent/North-America/United_States_of_America/Florida.md) 
-- [Florida.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Florida.internal.md) 
-- [Florida.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Florida.protect.md) 
-- [Florida.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Florida.private.md) 
-- [Florida.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Florida.personal.md) 
-- [Florida.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Florida.secret.md) 

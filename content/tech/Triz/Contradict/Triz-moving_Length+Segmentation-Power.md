@@ -19,10 +19,3 @@ title: Triz-moving_Length+Segmentation-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Segmentation-Power](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Power.md) 
-- [Triz-moving_Length+Segmentation-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Power.internal.md) 
-- [Triz-moving_Length+Segmentation-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Power.protect.md) 
-- [Triz-moving_Length+Segmentation-Power.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Power.private.md) 
-- [Triz-moving_Length+Segmentation-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Power.personal.md) 
-- [Triz-moving_Length+Segmentation-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Power.secret.md) 

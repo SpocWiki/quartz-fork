@@ -49,10 +49,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_actionable_feedback_policy](../../../../../_public/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.md) 
-- [has_actionable_feedback_policy.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.internal.md) 
-- [has_actionable_feedback_policy.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.protect.md) 
-- [has_actionable_feedback_policy.private](../../../../../_private/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.private.md) 
-- [has_actionable_feedback_policy.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.personal.md) 
-- [has_actionable_feedback_policy.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.secret.md) 

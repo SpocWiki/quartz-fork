@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soudak](../../../../../../_public/geo/Continent/Europe/Russia/City/Soudak.md) 
-- [Soudak.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Soudak.internal.md) 
-- [Soudak.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Soudak.protect.md) 
-- [Soudak.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Soudak.private.md) 
-- [Soudak.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Soudak.personal.md) 
-- [Soudak.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Soudak.secret.md) 

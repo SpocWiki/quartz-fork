@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rosenbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Rosenbach.md) 
-- [Rosenbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rosenbach.internal.md) 
-- [Rosenbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rosenbach.protect.md) 
-- [Rosenbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rosenbach.private.md) 
-- [Rosenbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rosenbach.personal.md) 
-- [Rosenbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rosenbach.secret.md) 

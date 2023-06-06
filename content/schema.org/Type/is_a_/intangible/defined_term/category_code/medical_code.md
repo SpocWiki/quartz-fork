@@ -43,10 +43,3 @@ A code for a medical entity.
 
 
 
-## Confidential Links & Embeds: 
-- [medical_code](../../../../../../../_public/schema.org/Type/is_a_/intangible/defined_term/category_code/medical_code.md) 
-- [medical_code.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/defined_term/category_code/medical_code.internal.md) 
-- [medical_code.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/defined_term/category_code/medical_code.protect.md) 
-- [medical_code.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/defined_term/category_code/medical_code.private.md) 
-- [medical_code.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/defined_term/category_code/medical_code.personal.md) 
-- [medical_code.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/defined_term/category_code/medical_code.secret.md) 

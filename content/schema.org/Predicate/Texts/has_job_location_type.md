@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_job_location_type](../../../../_public/schema.org/Predicate/Texts/has_job_location_type.md) 
-- [has_job_location_type.internal](../../../../_internal/schema.org/Predicate/Texts/has_job_location_type.internal.md) 
-- [has_job_location_type.protect](../../../../_protect/schema.org/Predicate/Texts/has_job_location_type.protect.md) 
-- [has_job_location_type.private](../../../../_private/schema.org/Predicate/Texts/has_job_location_type.private.md) 
-- [has_job_location_type.personal](../../../../_personal/schema.org/Predicate/Texts/has_job_location_type.personal.md) 
-- [has_job_location_type.secret](../../../../_secret/schema.org/Predicate/Texts/has_job_location_type.secret.md) 

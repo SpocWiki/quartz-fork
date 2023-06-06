@@ -43,10 +43,3 @@ The act of producing a balanced opinion about the object for an audience. An age
 
 
 
-## Confidential Links & Embeds: 
-- [review_action](../../../../../../_public/schema.org/Type/is_a_/action/assess_action/review_action.md) 
-- [review_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/review_action.internal.md) 
-- [review_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/review_action.protect.md) 
-- [review_action.private](../../../../../../_private/schema.org/Type/is_a_/action/assess_action/review_action.private.md) 
-- [review_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/review_action.personal.md) 
-- [review_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/review_action.secret.md) 

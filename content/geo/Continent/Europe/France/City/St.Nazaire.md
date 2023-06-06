@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Nazaire](../../../../../../_public/geo/Continent/Europe/France/City/St.Nazaire.md) 
-- [St.Nazaire.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Nazaire.internal.md) 
-- [St.Nazaire.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Nazaire.protect.md) 
-- [St.Nazaire.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Nazaire.private.md) 
-- [St.Nazaire.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Nazaire.personal.md) 
-- [St.Nazaire.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Nazaire.secret.md) 

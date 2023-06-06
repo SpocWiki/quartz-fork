@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frankenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankenberg.md) 
-- [Frankenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankenberg.internal.md) 
-- [Frankenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankenberg.protect.md) 
-- [Frankenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankenberg.private.md) 
-- [Frankenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankenberg.personal.md) 
-- [Frankenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankenberg.secret.md) 

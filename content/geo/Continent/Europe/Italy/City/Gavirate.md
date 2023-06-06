@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gavirate](../../../../../../_public/geo/Continent/Europe/Italy/City/Gavirate.md) 
-- [Gavirate.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Gavirate.internal.md) 
-- [Gavirate.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Gavirate.protect.md) 
-- [Gavirate.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Gavirate.private.md) 
-- [Gavirate.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Gavirate.personal.md) 
-- [Gavirate.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Gavirate.secret.md) 

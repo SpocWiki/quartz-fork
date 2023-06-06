@@ -45,10 +45,3 @@ A motorized bicycle is a bicycle with an attached motor used to power the vehicl
 
 
 
-## Confidential Links & Embeds: 
-- [motorized_bicycle](../../../../../../_public/schema.org/Type/is_a_/product/vehicle/motorized_bicycle.md) 
-- [motorized_bicycle.internal](../../../../../../_internal/schema.org/Type/is_a_/product/vehicle/motorized_bicycle.internal.md) 
-- [motorized_bicycle.protect](../../../../../../_protect/schema.org/Type/is_a_/product/vehicle/motorized_bicycle.protect.md) 
-- [motorized_bicycle.private](../../../../../../_private/schema.org/Type/is_a_/product/vehicle/motorized_bicycle.private.md) 
-- [motorized_bicycle.personal](../../../../../../_personal/schema.org/Type/is_a_/product/vehicle/motorized_bicycle.personal.md) 
-- [motorized_bicycle.secret](../../../../../../_secret/schema.org/Type/is_a_/product/vehicle/motorized_bicycle.secret.md) 

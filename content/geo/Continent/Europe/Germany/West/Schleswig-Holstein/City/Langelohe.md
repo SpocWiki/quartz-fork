@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langelohe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Langelohe.md) 
-- [Langelohe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Langelohe.internal.md) 
-- [Langelohe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Langelohe.protect.md) 
-- [Langelohe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Langelohe.private.md) 
-- [Langelohe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Langelohe.personal.md) 
-- [Langelohe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Langelohe.secret.md) 

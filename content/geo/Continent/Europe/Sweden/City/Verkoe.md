@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Verkoe](../../../../../../_public/geo/Continent/Europe/Sweden/City/Verkoe.md) 
-- [Verkoe.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Verkoe.internal.md) 
-- [Verkoe.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Verkoe.protect.md) 
-- [Verkoe.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Verkoe.private.md) 
-- [Verkoe.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Verkoe.personal.md) 
-- [Verkoe.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Verkoe.secret.md) 

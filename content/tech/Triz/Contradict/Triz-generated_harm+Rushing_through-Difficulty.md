@@ -19,10 +19,3 @@ title: Triz-generated_harm+Rushing_through-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Rushing_through-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.md) 
-- [Triz-generated_harm+Rushing_through-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.internal.md) 
-- [Triz-generated_harm+Rushing_through-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.protect.md) 
-- [Triz-generated_harm+Rushing_through-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.private.md) 
-- [Triz-generated_harm+Rushing_through-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.personal.md) 
-- [Triz-generated_harm+Rushing_through-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Difficulty.secret.md) 

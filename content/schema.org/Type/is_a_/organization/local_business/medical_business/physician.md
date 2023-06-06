@@ -43,10 +43,3 @@ A doctor's office.
 
 
 
-## Confidential Links & Embeds: 
-- [physician](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/physician.md) 
-- [physician.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/physician.internal.md) 
-- [physician.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/physician.protect.md) 
-- [physician.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/physician.private.md) 
-- [physician.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/physician.personal.md) 
-- [physician.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/physician.secret.md) 

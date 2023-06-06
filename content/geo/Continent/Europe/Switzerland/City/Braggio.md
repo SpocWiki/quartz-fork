@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Braggio](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Braggio.md) 
-- [Braggio.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Braggio.internal.md) 
-- [Braggio.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Braggio.protect.md) 
-- [Braggio.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Braggio.private.md) 
-- [Braggio.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Braggio.personal.md) 
-- [Braggio.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Braggio.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hohenstein](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hohenstein.md) 
-- [Hohenstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hohenstein.internal.md) 
-- [Hohenstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hohenstein.protect.md) 
-- [Hohenstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hohenstein.private.md) 
-- [Hohenstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hohenstein.personal.md) 
-- [Hohenstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hohenstein.secret.md) 

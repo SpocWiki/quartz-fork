@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fougéres](../../../../../../_public/geo/Continent/Europe/France/City/Foug%C3%A9res.md) 
-- [Fougéres.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Foug%C3%A9res.internal.md) 
-- [Fougéres.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Foug%C3%A9res.protect.md) 
-- [Fougéres.private](../../../../../../_private/geo/Continent/Europe/France/City/Foug%C3%A9res.private.md) 
-- [Fougéres.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Foug%C3%A9res.personal.md) 
-- [Fougéres.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Foug%C3%A9res.secret.md) 

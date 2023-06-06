@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castellamonte](../../../../../../_public/geo/Continent/Europe/Italy/City/Castellamonte.md) 
-- [Castellamonte.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Castellamonte.internal.md) 
-- [Castellamonte.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Castellamonte.protect.md) 
-- [Castellamonte.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Castellamonte.private.md) 
-- [Castellamonte.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Castellamonte.personal.md) 
-- [Castellamonte.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Castellamonte.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chelmsford](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Chelmsford.md) 
-- [Chelmsford.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chelmsford.internal.md) 
-- [Chelmsford.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chelmsford.protect.md) 
-- [Chelmsford.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chelmsford.private.md) 
-- [Chelmsford.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chelmsford.personal.md) 
-- [Chelmsford.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chelmsford.secret.md) 

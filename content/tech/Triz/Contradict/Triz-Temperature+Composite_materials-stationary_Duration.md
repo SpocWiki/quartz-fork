@@ -19,10 +19,3 @@ title: Triz-Temperature+Composite_materials-stationary_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Composite_materials-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.md) 
-- [Triz-Temperature+Composite_materials-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.internal.md) 
-- [Triz-Temperature+Composite_materials-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.protect.md) 
-- [Triz-Temperature+Composite_materials-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.private.md) 
-- [Triz-Temperature+Composite_materials-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.personal.md) 
-- [Triz-Temperature+Composite_materials-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Composite_materials-stationary_Duration.secret.md) 

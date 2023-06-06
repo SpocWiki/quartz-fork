@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tynemouth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tynemouth.md) 
-- [Tynemouth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tynemouth.internal.md) 
-- [Tynemouth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tynemouth.protect.md) 
-- [Tynemouth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tynemouth.private.md) 
-- [Tynemouth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tynemouth.personal.md) 
-- [Tynemouth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tynemouth.secret.md) 

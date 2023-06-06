@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Hyde_Park_Corner](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hyde_Park_Corner.md) 
-- [Sub-Hyde_Park_Corner.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hyde_Park_Corner.internal.md) 
-- [Sub-Hyde_Park_Corner.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hyde_Park_Corner.protect.md) 
-- [Sub-Hyde_Park_Corner.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hyde_Park_Corner.private.md) 
-- [Sub-Hyde_Park_Corner.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hyde_Park_Corner.personal.md) 
-- [Sub-Hyde_Park_Corner.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Hyde_Park_Corner.secret.md) 

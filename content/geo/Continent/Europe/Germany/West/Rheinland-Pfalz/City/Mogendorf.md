@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mogendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mogendorf.md) 
-- [Mogendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mogendorf.internal.md) 
-- [Mogendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mogendorf.protect.md) 
-- [Mogendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mogendorf.private.md) 
-- [Mogendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mogendorf.personal.md) 
-- [Mogendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mogendorf.secret.md) 

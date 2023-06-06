@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vesoul](../../../../../../_public/geo/Continent/Europe/France/City/Vesoul.md) 
-- [Vesoul.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vesoul.internal.md) 
-- [Vesoul.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vesoul.protect.md) 
-- [Vesoul.private](../../../../../../_private/geo/Continent/Europe/France/City/Vesoul.private.md) 
-- [Vesoul.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vesoul.personal.md) 
-- [Vesoul.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vesoul.secret.md) 

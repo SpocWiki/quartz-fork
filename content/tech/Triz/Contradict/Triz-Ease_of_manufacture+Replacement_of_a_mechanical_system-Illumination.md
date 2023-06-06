@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.internal.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.protect.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.private.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.personal.md) 
-- [Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Replacement_of_a_mechanical_system-Illumination.secret.md) 

@@ -57,10 +57,3 @@ Region = state, canton, prefecture, autonomous community...
 
 
 
-## Confidential Links & Embeds: 
-- [defined_region](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/defined_region.md) 
-- [defined_region.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/defined_region.internal.md) 
-- [defined_region.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/defined_region.protect.md) 
-- [defined_region.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/defined_region.private.md) 
-- [defined_region.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/defined_region.personal.md) 
-- [defined_region.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/defined_region.secret.md) 

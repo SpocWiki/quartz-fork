@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kiskoros](../../../../../../_public/geo/Continent/Europe/Hungary/City/Kiskoros.md) 
-- [Kiskoros.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kiskoros.internal.md) 
-- [Kiskoros.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kiskoros.protect.md) 
-- [Kiskoros.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Kiskoros.private.md) 
-- [Kiskoros.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kiskoros.personal.md) 
-- [Kiskoros.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kiskoros.secret.md) 

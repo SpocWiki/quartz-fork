@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maribo](../../../../../../_public/geo/Continent/Europe/Denmark/City/Maribo.md) 
-- [Maribo.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Maribo.internal.md) 
-- [Maribo.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Maribo.protect.md) 
-- [Maribo.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Maribo.private.md) 
-- [Maribo.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Maribo.personal.md) 
-- [Maribo.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Maribo.secret.md) 

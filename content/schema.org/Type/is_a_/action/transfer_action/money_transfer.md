@@ -45,10 +45,3 @@ The act of transferring money from one place to another place. This may occur el
 
 
 
-## Confidential Links & Embeds: 
-- [money_transfer](../../../../../../_public/schema.org/Type/is_a_/action/transfer_action/money_transfer.md) 
-- [money_transfer.internal](../../../../../../_internal/schema.org/Type/is_a_/action/transfer_action/money_transfer.internal.md) 
-- [money_transfer.protect](../../../../../../_protect/schema.org/Type/is_a_/action/transfer_action/money_transfer.protect.md) 
-- [money_transfer.private](../../../../../../_private/schema.org/Type/is_a_/action/transfer_action/money_transfer.private.md) 
-- [money_transfer.personal](../../../../../../_personal/schema.org/Type/is_a_/action/transfer_action/money_transfer.personal.md) 
-- [money_transfer.secret](../../../../../../_secret/schema.org/Type/is_a_/action/transfer_action/money_transfer.secret.md) 

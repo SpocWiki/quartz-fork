@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Kaus_Borealis](../../../_public/astro/Star/Kaus_Borealis.md) 
-- [Kaus_Borealis.internal](../../../_internal/astro/Star/Kaus_Borealis.internal.md) 
-- [Kaus_Borealis.protect](../../../_protect/astro/Star/Kaus_Borealis.protect.md) 
-- [Kaus_Borealis.private](../../../_private/astro/Star/Kaus_Borealis.private.md) 
-- [Kaus_Borealis.personal](../../../_personal/astro/Star/Kaus_Borealis.personal.md) 
-- [Kaus_Borealis.secret](../../../_secret/astro/Star/Kaus_Borealis.secret.md)
-

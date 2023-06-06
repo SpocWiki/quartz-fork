@@ -18,10 +18,3 @@ title: Triz-use-copies
 Instead of an unavailable, expensive, fragile object, use simpler and inexpensive copies.
 
 
-## Confidential Links & Embeds: 
-- [Triz-use-copies](../../../../_public/tech/Triz/Sub/Triz-use-copies.md) 
-- [Triz-use-copies.internal](../../../../_internal/tech/Triz/Sub/Triz-use-copies.internal.md) 
-- [Triz-use-copies.protect](../../../../_protect/tech/Triz/Sub/Triz-use-copies.protect.md) 
-- [Triz-use-copies.private](../../../../_private/tech/Triz/Sub/Triz-use-copies.private.md) 
-- [Triz-use-copies.personal](../../../../_personal/tech/Triz/Sub/Triz-use-copies.personal.md) 
-- [Triz-use-copies.secret](../../../../_secret/tech/Triz/Sub/Triz-use-copies.secret.md) 

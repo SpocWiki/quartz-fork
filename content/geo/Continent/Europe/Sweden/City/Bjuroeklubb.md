@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bjuroeklubb](../../../../../../_public/geo/Continent/Europe/Sweden/City/Bjuroeklubb.md) 
-- [Bjuroeklubb.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bjuroeklubb.internal.md) 
-- [Bjuroeklubb.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bjuroeklubb.protect.md) 
-- [Bjuroeklubb.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Bjuroeklubb.private.md) 
-- [Bjuroeklubb.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bjuroeklubb.personal.md) 
-- [Bjuroeklubb.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bjuroeklubb.secret.md) 

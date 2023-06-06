@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saaringen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Saaringen.md) 
-- [Saaringen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Saaringen.internal.md) 
-- [Saaringen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Saaringen.protect.md) 
-- [Saaringen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Saaringen.private.md) 
-- [Saaringen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Saaringen.personal.md) 
-- [Saaringen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Saaringen.secret.md) 

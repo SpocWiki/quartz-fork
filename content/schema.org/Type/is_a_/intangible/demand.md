@@ -43,10 +43,3 @@ A demand entity represents the public, not necessarily binding, not necessarily 
 
 
 
-## Confidential Links & Embeds: 
-- [demand](../../../../../_public/schema.org/Type/is_a_/intangible/demand.md) 
-- [demand.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/demand.internal.md) 
-- [demand.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/demand.protect.md) 
-- [demand.private](../../../../../_private/schema.org/Type/is_a_/intangible/demand.private.md) 
-- [demand.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/demand.personal.md) 
-- [demand.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/demand.secret.md) 

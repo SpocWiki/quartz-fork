@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aszod](../../../../../../_public/geo/Continent/Europe/Hungary/City/Aszod.md) 
-- [Aszod.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Aszod.internal.md) 
-- [Aszod.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Aszod.protect.md) 
-- [Aszod.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Aszod.private.md) 
-- [Aszod.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Aszod.personal.md) 
-- [Aszod.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Aszod.secret.md) 

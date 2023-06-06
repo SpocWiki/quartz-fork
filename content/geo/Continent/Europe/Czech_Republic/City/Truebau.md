@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Truebau](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Truebau.md) 
-- [Truebau.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Truebau.internal.md) 
-- [Truebau.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Truebau.protect.md) 
-- [Truebau.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Truebau.private.md) 
-- [Truebau.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Truebau.personal.md) 
-- [Truebau.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Truebau.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ruhstorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ruhstorf.md) 
-- [Ruhstorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ruhstorf.internal.md) 
-- [Ruhstorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ruhstorf.protect.md) 
-- [Ruhstorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ruhstorf.private.md) 
-- [Ruhstorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ruhstorf.personal.md) 
-- [Ruhstorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ruhstorf.secret.md) 

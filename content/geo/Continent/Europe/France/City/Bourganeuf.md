@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bourganeuf](../../../../../../_public/geo/Continent/Europe/France/City/Bourganeuf.md) 
-- [Bourganeuf.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bourganeuf.internal.md) 
-- [Bourganeuf.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bourganeuf.protect.md) 
-- [Bourganeuf.private](../../../../../../_private/geo/Continent/Europe/France/City/Bourganeuf.private.md) 
-- [Bourganeuf.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bourganeuf.personal.md) 
-- [Bourganeuf.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bourganeuf.secret.md) 

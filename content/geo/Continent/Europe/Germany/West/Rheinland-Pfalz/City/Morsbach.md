@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Morsbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Morsbach.md) 
-- [Morsbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Morsbach.internal.md) 
-- [Morsbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Morsbach.protect.md) 
-- [Morsbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Morsbach.private.md) 
-- [Morsbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Morsbach.personal.md) 
-- [Morsbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Morsbach.secret.md) 

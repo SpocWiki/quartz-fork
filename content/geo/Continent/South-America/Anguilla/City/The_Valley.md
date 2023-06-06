@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [The_Valley](../../../../../../_public/geo/Continent/South-America/Anguilla/City/The_Valley.md) 
-- [The_Valley.internal](../../../../../../_internal/geo/Continent/South-America/Anguilla/City/The_Valley.internal.md) 
-- [The_Valley.protect](../../../../../../_protect/geo/Continent/South-America/Anguilla/City/The_Valley.protect.md) 
-- [The_Valley.private](../../../../../../_private/geo/Continent/South-America/Anguilla/City/The_Valley.private.md) 
-- [The_Valley.personal](../../../../../../_personal/geo/Continent/South-America/Anguilla/City/The_Valley.personal.md) 
-- [The_Valley.secret](../../../../../../_secret/geo/Continent/South-America/Anguilla/City/The_Valley.secret.md) 

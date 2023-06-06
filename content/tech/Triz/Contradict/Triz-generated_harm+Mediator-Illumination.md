@@ -19,10 +19,3 @@ title: Triz-generated_harm+Mediator-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Mediator-Illumination](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Mediator-Illumination.md) 
-- [Triz-generated_harm+Mediator-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Mediator-Illumination.internal.md) 
-- [Triz-generated_harm+Mediator-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Mediator-Illumination.protect.md) 
-- [Triz-generated_harm+Mediator-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Mediator-Illumination.private.md) 
-- [Triz-generated_harm+Mediator-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Mediator-Illumination.personal.md) 
-- [Triz-generated_harm+Mediator-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Mediator-Illumination.secret.md) 

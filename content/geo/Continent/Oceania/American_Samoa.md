@@ -132,10 +132,3 @@ markerFolder: ./American_Samoa/City
 
 
 
-## Confidential Links & Embeds: 
-- [American_Samoa](../../../../_public/geo/Continent/Oceania/American_Samoa.md) 
-- [American_Samoa.internal](../../../../_internal/geo/Continent/Oceania/American_Samoa.internal.md) 
-- [American_Samoa.protect](../../../../_protect/geo/Continent/Oceania/American_Samoa.protect.md) 
-- [American_Samoa.private](../../../../_private/geo/Continent/Oceania/American_Samoa.private.md) 
-- [American_Samoa.personal](../../../../_personal/geo/Continent/Oceania/American_Samoa.personal.md) 
-- [American_Samoa.secret](../../../../_secret/geo/Continent/Oceania/American_Samoa.secret.md) 

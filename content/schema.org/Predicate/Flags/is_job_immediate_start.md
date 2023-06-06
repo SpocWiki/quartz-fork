@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_job_immediate_start](../../../../_public/schema.org/Predicate/Flags/is_job_immediate_start.md) 
-- [is_job_immediate_start.internal](../../../../_internal/schema.org/Predicate/Flags/is_job_immediate_start.internal.md) 
-- [is_job_immediate_start.protect](../../../../_protect/schema.org/Predicate/Flags/is_job_immediate_start.protect.md) 
-- [is_job_immediate_start.private](../../../../_private/schema.org/Predicate/Flags/is_job_immediate_start.private.md) 
-- [is_job_immediate_start.personal](../../../../_personal/schema.org/Predicate/Flags/is_job_immediate_start.personal.md) 
-- [is_job_immediate_start.secret](../../../../_secret/schema.org/Predicate/Flags/is_job_immediate_start.secret.md) 

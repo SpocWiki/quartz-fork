@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berry_Head](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Berry_Head.md) 
-- [Berry_Head.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Berry_Head.internal.md) 
-- [Berry_Head.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Berry_Head.protect.md) 
-- [Berry_Head.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Berry_Head.private.md) 
-- [Berry_Head.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Berry_Head.personal.md) 
-- [Berry_Head.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Berry_Head.secret.md) 

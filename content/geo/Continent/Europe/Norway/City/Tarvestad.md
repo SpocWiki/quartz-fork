@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tarvestad](../../../../../../_public/geo/Continent/Europe/Norway/City/Tarvestad.md) 
-- [Tarvestad.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Tarvestad.internal.md) 
-- [Tarvestad.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Tarvestad.protect.md) 
-- [Tarvestad.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Tarvestad.private.md) 
-- [Tarvestad.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Tarvestad.personal.md) 
-- [Tarvestad.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Tarvestad.secret.md) 

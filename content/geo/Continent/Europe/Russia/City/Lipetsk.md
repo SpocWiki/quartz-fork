@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lipetsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Lipetsk.md) 
-- [Lipetsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Lipetsk.internal.md) 
-- [Lipetsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Lipetsk.protect.md) 
-- [Lipetsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Lipetsk.private.md) 
-- [Lipetsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Lipetsk.personal.md) 
-- [Lipetsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Lipetsk.secret.md) 

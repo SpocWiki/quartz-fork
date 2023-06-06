@@ -45,10 +45,3 @@ Indicates that the item has been discontinued.
 
 
 
-## Confidential Links & Embeds: 
-- [discontinued](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.md) 
-- [discontinued.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.internal.md) 
-- [discontinued.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.protect.md) 
-- [discontinued.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.private.md) 
-- [discontinued.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.personal.md) 
-- [discontinued.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/discontinued.secret.md) 

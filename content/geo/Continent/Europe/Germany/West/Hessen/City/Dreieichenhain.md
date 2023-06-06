@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dreieichenhain](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.md) 
-- [Dreieichenhain.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.internal.md) 
-- [Dreieichenhain.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.protect.md) 
-- [Dreieichenhain.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.private.md) 
-- [Dreieichenhain.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.personal.md) 
-- [Dreieichenhain.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Dreieichenhain.secret.md) 

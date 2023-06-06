@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pawlodar](../../../../../../_public/geo/Continent/Europe/Russia/City/Pawlodar.md) 
-- [Pawlodar.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Pawlodar.internal.md) 
-- [Pawlodar.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Pawlodar.protect.md) 
-- [Pawlodar.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Pawlodar.private.md) 
-- [Pawlodar.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Pawlodar.personal.md) 
-- [Pawlodar.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Pawlodar.secret.md) 

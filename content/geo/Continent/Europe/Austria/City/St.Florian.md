@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Florian](../../../../../../_public/geo/Continent/Europe/Austria/City/St.Florian.md) 
-- [St.Florian.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Florian.internal.md) 
-- [St.Florian.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Florian.protect.md) 
-- [St.Florian.private](../../../../../../_private/geo/Continent/Europe/Austria/City/St.Florian.private.md) 
-- [St.Florian.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Florian.personal.md) 
-- [St.Florian.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Florian.secret.md) 

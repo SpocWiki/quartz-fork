@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pierre](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.md) 
-- [Pierre.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.internal.md) 
-- [Pierre.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.protect.md) 
-- [Pierre.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.private.md) 
-- [Pierre.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.personal.md) 
-- [Pierre.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Pierre.secret.md) 

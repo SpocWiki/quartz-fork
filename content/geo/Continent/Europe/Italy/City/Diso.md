@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Diso](../../../../../../_public/geo/Continent/Europe/Italy/City/Diso.md) 
-- [Diso.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Diso.internal.md) 
-- [Diso.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Diso.protect.md) 
-- [Diso.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Diso.private.md) 
-- [Diso.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Diso.personal.md) 
-- [Diso.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Diso.secret.md) 

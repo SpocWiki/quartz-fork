@@ -19,10 +19,3 @@ title: Triz-Speed+Copying-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Copying-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.md) 
-- [Triz-Speed+Copying-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.internal.md) 
-- [Triz-Speed+Copying-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.protect.md) 
-- [Triz-Speed+Copying-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.private.md) 
-- [Triz-Speed+Copying-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.personal.md) 
-- [Triz-Speed+Copying-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Copying-Versatility.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Santa_Monika](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.md) 
-- [Santa_Monika.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.internal.md) 
-- [Santa_Monika.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.protect.md) 
-- [Santa_Monika.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.private.md) 
-- [Santa_Monika.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.personal.md) 
-- [Santa_Monika.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Santa_Monika.secret.md) 

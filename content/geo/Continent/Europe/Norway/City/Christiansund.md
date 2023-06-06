@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Christiansund](../../../../../../_public/geo/Continent/Europe/Norway/City/Christiansund.md) 
-- [Christiansund.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Christiansund.internal.md) 
-- [Christiansund.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Christiansund.protect.md) 
-- [Christiansund.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Christiansund.private.md) 
-- [Christiansund.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Christiansund.personal.md) 
-- [Christiansund.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Christiansund.secret.md) 

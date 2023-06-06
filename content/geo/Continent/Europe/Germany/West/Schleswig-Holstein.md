@@ -32,10 +32,3 @@ markerFolder: ./Schleswig-Holstein/City
 
 
 
-## Confidential Links & Embeds: 
-- [Schleswig-Holstein](../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein.md) 
-- [Schleswig-Holstein.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein.internal.md) 
-- [Schleswig-Holstein.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein.protect.md) 
-- [Schleswig-Holstein.private](../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein.private.md) 
-- [Schleswig-Holstein.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein.personal.md) 
-- [Schleswig-Holstein.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein.secret.md) 

@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sadalsuud](../../../_public/astro/Star/Sadalsuud.md) 
-- [Sadalsuud.internal](../../../_internal/astro/Star/Sadalsuud.internal.md) 
-- [Sadalsuud.protect](../../../_protect/astro/Star/Sadalsuud.protect.md) 
-- [Sadalsuud.private](../../../_private/astro/Star/Sadalsuud.private.md) 
-- [Sadalsuud.personal](../../../_personal/astro/Star/Sadalsuud.personal.md) 
-- [Sadalsuud.secret](../../../_secret/astro/Star/Sadalsuud.secret.md) 

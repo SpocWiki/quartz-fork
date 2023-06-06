@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Equipotentiality-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Equipotentiality-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.md) 
-- [Triz-Ease_of_manufacture+Equipotentiality-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.internal.md) 
-- [Triz-Ease_of_manufacture+Equipotentiality-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.protect.md) 
-- [Triz-Ease_of_manufacture+Equipotentiality-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.private.md) 
-- [Triz-Ease_of_manufacture+Equipotentiality-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.personal.md) 
-- [Triz-Ease_of_manufacture+Equipotentiality-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Equipotentiality-Intensity.secret.md) 

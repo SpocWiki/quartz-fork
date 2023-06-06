@@ -43,10 +43,3 @@ A food or drink item listed in a menu or menu section.
 
 
 
-## Confidential Links & Embeds: 
-- [menu_item](../../../../../_public/schema.org/Type/is_a_/intangible/menu_item.md) 
-- [menu_item.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/menu_item.internal.md) 
-- [menu_item.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/menu_item.protect.md) 
-- [menu_item.private](../../../../../_private/schema.org/Type/is_a_/intangible/menu_item.private.md) 
-- [menu_item.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/menu_item.personal.md) 
-- [menu_item.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/menu_item.secret.md) 

@@ -35,10 +35,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stade](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stade.md) 
-- [Stade.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stade.internal.md) 
-- [Stade.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stade.protect.md) 
-- [Stade.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stade.private.md) 
-- [Stade.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stade.personal.md) 
-- [Stade.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stade.secret.md) 

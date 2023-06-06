@@ -43,10 +43,3 @@ An email message.
 
 
 
-## Confidential Links & Embeds: 
-- [email_message](../../../../../../_public/schema.org/Type/is_a_/creative_work/message/email_message.md) 
-- [email_message.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/message/email_message.internal.md) 
-- [email_message.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/message/email_message.protect.md) 
-- [email_message.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/message/email_message.private.md) 
-- [email_message.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/message/email_message.personal.md) 
-- [email_message.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/message/email_message.secret.md) 

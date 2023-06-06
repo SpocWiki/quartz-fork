@@ -19,10 +19,3 @@ title: Triz-Difficulty+Rushing_through-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Rushing_through-Automation](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Rushing_through-Automation.md) 
-- [Triz-Difficulty+Rushing_through-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Rushing_through-Automation.internal.md) 
-- [Triz-Difficulty+Rushing_through-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Rushing_through-Automation.protect.md) 
-- [Triz-Difficulty+Rushing_through-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Rushing_through-Automation.private.md) 
-- [Triz-Difficulty+Rushing_through-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Rushing_through-Automation.personal.md) 
-- [Triz-Difficulty+Rushing_through-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Rushing_through-Automation.secret.md) 

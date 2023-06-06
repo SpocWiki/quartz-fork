@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaederoebo](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaederoebo.md) 
-- [Vaederoebo.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaederoebo.internal.md) 
-- [Vaederoebo.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaederoebo.protect.md) 
-- [Vaederoebo.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaederoebo.private.md) 
-- [Vaederoebo.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaederoebo.personal.md) 
-- [Vaederoebo.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaederoebo.secret.md) 

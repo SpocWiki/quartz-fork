@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bissingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bissingen.md) 
-- [Bissingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bissingen.internal.md) 
-- [Bissingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bissingen.protect.md) 
-- [Bissingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bissingen.private.md) 
-- [Bissingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bissingen.personal.md) 
-- [Bissingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bissingen.secret.md) 

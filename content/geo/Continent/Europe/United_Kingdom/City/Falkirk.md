@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falkirk](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Falkirk.md) 
-- [Falkirk.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Falkirk.internal.md) 
-- [Falkirk.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Falkirk.protect.md) 
-- [Falkirk.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Falkirk.private.md) 
-- [Falkirk.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Falkirk.personal.md) 
-- [Falkirk.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Falkirk.secret.md) 

@@ -17,10 +17,3 @@ title: Triz-Kanban_Arrangements
 
 Kanban Arrangements in a Just-In-Time Factory
 
-## Confidential Links & Embeds: 
-- [Triz-Kanban_Arrangements](../../../../_public/tech/Triz/Example/Triz-Kanban_Arrangements.md) 
-- [Triz-Kanban_Arrangements.internal](../../../../_internal/tech/Triz/Example/Triz-Kanban_Arrangements.internal.md) 
-- [Triz-Kanban_Arrangements.protect](../../../../_protect/tech/Triz/Example/Triz-Kanban_Arrangements.protect.md) 
-- [Triz-Kanban_Arrangements.private](../../../../_private/tech/Triz/Example/Triz-Kanban_Arrangements.private.md) 
-- [Triz-Kanban_Arrangements.personal](../../../../_personal/tech/Triz/Example/Triz-Kanban_Arrangements.personal.md) 
-- [Triz-Kanban_Arrangements.secret](../../../../_secret/tech/Triz/Example/Triz-Kanban_Arrangements.secret.md) 

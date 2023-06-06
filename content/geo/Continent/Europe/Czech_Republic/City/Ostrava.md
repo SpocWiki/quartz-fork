@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ostrava](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Ostrava.md) 
-- [Ostrava.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Ostrava.internal.md) 
-- [Ostrava.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Ostrava.protect.md) 
-- [Ostrava.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Ostrava.private.md) 
-- [Ostrava.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Ostrava.personal.md) 
-- [Ostrava.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Ostrava.secret.md) 

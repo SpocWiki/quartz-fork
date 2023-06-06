@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Youkon_Territory](../../../../../../_public/geo/Continent/North-America/Canada/State/State-Youkon_Territory.md) 
-- [State-Youkon_Territory.internal](../../../../../../_internal/geo/Continent/North-America/Canada/State/State-Youkon_Territory.internal.md) 
-- [State-Youkon_Territory.protect](../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Youkon_Territory.protect.md) 
-- [State-Youkon_Territory.private](../../../../../../_private/geo/Continent/North-America/Canada/State/State-Youkon_Territory.private.md) 
-- [State-Youkon_Territory.personal](../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Youkon_Territory.personal.md) 
-- [State-Youkon_Territory.secret](../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Youkon_Territory.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Xanten=Xanthen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.md) 
-- [Xanten=Xanthen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.internal.md) 
-- [Xanten=Xanthen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.protect.md) 
-- [Xanten=Xanthen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.private.md) 
-- [Xanten=Xanthen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.personal.md) 
-- [Xanten=Xanthen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Xanten=Xanthen.secret.md) 

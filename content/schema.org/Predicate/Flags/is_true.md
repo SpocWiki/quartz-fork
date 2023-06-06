@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_true](../../../../_public/schema.org/Predicate/Flags/is_true.md) 
-- [is_true.internal](../../../../_internal/schema.org/Predicate/Flags/is_true.internal.md) 
-- [is_true.protect](../../../../_protect/schema.org/Predicate/Flags/is_true.protect.md) 
-- [is_true.private](../../../../_private/schema.org/Predicate/Flags/is_true.private.md) 
-- [is_true.personal](../../../../_personal/schema.org/Predicate/Flags/is_true.personal.md) 
-- [is_true.secret](../../../../_secret/schema.org/Predicate/Flags/is_true.secret.md) 

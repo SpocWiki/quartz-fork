@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leschnitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Leschnitz.md) 
-- [Leschnitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Leschnitz.internal.md) 
-- [Leschnitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Leschnitz.protect.md) 
-- [Leschnitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Leschnitz.private.md) 
-- [Leschnitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Leschnitz.personal.md) 
-- [Leschnitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Leschnitz.secret.md) 

@@ -43,10 +43,3 @@ A tattoo parlor.
 
 
 
-## Confidential Links & Embeds: 
-- [tattoo_parlor](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.md) 
-- [tattoo_parlor.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.internal.md) 
-- [tattoo_parlor.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.protect.md) 
-- [tattoo_parlor.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.private.md) 
-- [tattoo_parlor.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.personal.md) 
-- [tattoo_parlor.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.secret.md) 

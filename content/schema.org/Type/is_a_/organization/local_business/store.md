@@ -45,10 +45,3 @@ A retail good store.
 
 
 
-## Confidential Links & Embeds: 
-- [store](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store.md) 
-- [store.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store.internal.md) 
-- [store.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store.protect.md) 
-- [store.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store.private.md) 
-- [store.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store.personal.md) 
-- [store.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store.secret.md) 

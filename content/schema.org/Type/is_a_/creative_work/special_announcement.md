@@ -78,10 +78,3 @@ media type information, e.g. "application/rss+xml" or "application/atom+xml".
 
 
 
-## Confidential Links & Embeds: 
-- [special_announcement](../../../../../_public/schema.org/Type/is_a_/creative_work/special_announcement.md) 
-- [special_announcement.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/special_announcement.internal.md) 
-- [special_announcement.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/special_announcement.protect.md) 
-- [special_announcement.private](../../../../../_private/schema.org/Type/is_a_/creative_work/special_announcement.private.md) 
-- [special_announcement.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/special_announcement.personal.md) 
-- [special_announcement.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/special_announcement.secret.md) 

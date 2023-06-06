@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Piandelagotti](../../../../../../_public/geo/Continent/Europe/Italy/City/Piandelagotti.md) 
-- [Piandelagotti.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Piandelagotti.internal.md) 
-- [Piandelagotti.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Piandelagotti.protect.md) 
-- [Piandelagotti.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Piandelagotti.private.md) 
-- [Piandelagotti.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Piandelagotti.personal.md) 
-- [Piandelagotti.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Piandelagotti.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Concord](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Concord.md) 
-- [Concord.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Concord.internal.md) 
-- [Concord.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Concord.protect.md) 
-- [Concord.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Concord.private.md) 
-- [Concord.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Concord.personal.md) 
-- [Concord.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_Hampshire/City/Concord.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Antananarivo](../../../../../../_public/geo/Continent/Africa/Madagascar/City/Antananarivo.md) 
-- [Antananarivo.internal](../../../../../../_internal/geo/Continent/Africa/Madagascar/City/Antananarivo.internal.md) 
-- [Antananarivo.protect](../../../../../../_protect/geo/Continent/Africa/Madagascar/City/Antananarivo.protect.md) 
-- [Antananarivo.private](../../../../../../_private/geo/Continent/Africa/Madagascar/City/Antananarivo.private.md) 
-- [Antananarivo.personal](../../../../../../_personal/geo/Continent/Africa/Madagascar/City/Antananarivo.personal.md) 
-- [Antananarivo.secret](../../../../../../_secret/geo/Continent/Africa/Madagascar/City/Antananarivo.secret.md) 

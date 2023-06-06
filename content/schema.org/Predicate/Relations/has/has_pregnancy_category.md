@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_pregnancy_category](../../../../../_public/schema.org/Predicate/Relations/has/has_pregnancy_category.md) 
-- [has_pregnancy_category.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_pregnancy_category.internal.md) 
-- [has_pregnancy_category.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_pregnancy_category.protect.md) 
-- [has_pregnancy_category.private](../../../../../_private/schema.org/Predicate/Relations/has/has_pregnancy_category.private.md) 
-- [has_pregnancy_category.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_pregnancy_category.personal.md) 
-- [has_pregnancy_category.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_pregnancy_category.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Aibling](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Aibling.md) 
-- [Bad_Aibling.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Aibling.internal.md) 
-- [Bad_Aibling.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Aibling.protect.md) 
-- [Bad_Aibling.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Aibling.private.md) 
-- [Bad_Aibling.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Aibling.personal.md) 
-- [Bad_Aibling.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Aibling.secret.md) 

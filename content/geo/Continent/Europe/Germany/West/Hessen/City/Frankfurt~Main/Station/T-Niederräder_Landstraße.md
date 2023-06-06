@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Niederräder_Landstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Niederr%C3%A4der_Landstra%C3%9Fe.md) 
-- [T-Niederräder_Landstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Niederr%C3%A4der_Landstra%C3%9Fe.internal.md) 
-- [T-Niederräder_Landstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Niederr%C3%A4der_Landstra%C3%9Fe.protect.md) 
-- [T-Niederräder_Landstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Niederr%C3%A4der_Landstra%C3%9Fe.private.md) 
-- [T-Niederräder_Landstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Niederr%C3%A4der_Landstra%C3%9Fe.personal.md) 
-- [T-Niederräder_Landstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Niederr%C3%A4der_Landstra%C3%9Fe.secret.md) 

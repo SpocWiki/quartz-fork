@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Auerberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Auerberg.md) 
-- [Auerberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Auerberg.internal.md) 
-- [Auerberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Auerberg.protect.md) 
-- [Auerberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Auerberg.private.md) 
-- [Auerberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Auerberg.personal.md) 
-- [Auerberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Auerberg.secret.md) 

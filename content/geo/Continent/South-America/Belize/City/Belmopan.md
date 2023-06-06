@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Belmopan](../../../../../../_public/geo/Continent/South-America/Belize/City/Belmopan.md) 
-- [Belmopan.internal](../../../../../../_internal/geo/Continent/South-America/Belize/City/Belmopan.internal.md) 
-- [Belmopan.protect](../../../../../../_protect/geo/Continent/South-America/Belize/City/Belmopan.protect.md) 
-- [Belmopan.private](../../../../../../_private/geo/Continent/South-America/Belize/City/Belmopan.private.md) 
-- [Belmopan.personal](../../../../../../_personal/geo/Continent/South-America/Belize/City/Belmopan.personal.md) 
-- [Belmopan.secret](../../../../../../_secret/geo/Continent/South-America/Belize/City/Belmopan.secret.md) 

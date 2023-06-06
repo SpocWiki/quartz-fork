@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Burton-upon-Trent](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.md) 
-- [Burton-upon-Trent.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.internal.md) 
-- [Burton-upon-Trent.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.protect.md) 
-- [Burton-upon-Trent.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.private.md) 
-- [Burton-upon-Trent.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.personal.md) 
-- [Burton-upon-Trent.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Burton-upon-Trent.secret.md) 

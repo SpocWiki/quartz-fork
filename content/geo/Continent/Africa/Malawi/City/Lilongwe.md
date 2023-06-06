@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lilongwe](../../../../../../_public/geo/Continent/Africa/Malawi/City/Lilongwe.md) 
-- [Lilongwe.internal](../../../../../../_internal/geo/Continent/Africa/Malawi/City/Lilongwe.internal.md) 
-- [Lilongwe.protect](../../../../../../_protect/geo/Continent/Africa/Malawi/City/Lilongwe.protect.md) 
-- [Lilongwe.private](../../../../../../_private/geo/Continent/Africa/Malawi/City/Lilongwe.private.md) 
-- [Lilongwe.personal](../../../../../../_personal/geo/Continent/Africa/Malawi/City/Lilongwe.personal.md) 
-- [Lilongwe.secret](../../../../../../_secret/geo/Continent/Africa/Malawi/City/Lilongwe.secret.md) 

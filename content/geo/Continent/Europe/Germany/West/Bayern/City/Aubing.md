@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aubing](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Aubing.md) 
-- [Aubing.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Aubing.internal.md) 
-- [Aubing.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Aubing.protect.md) 
-- [Aubing.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Aubing.private.md) 
-- [Aubing.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Aubing.personal.md) 
-- [Aubing.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Aubing.secret.md) 

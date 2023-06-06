@@ -45,10 +45,3 @@ A transit map.
 
 
 
-## Confidential Links & Embeds: 
-- [transit_map](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/map_category_type/transit_map.md) 
-- [transit_map.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/map_category_type/transit_map.internal.md) 
-- [transit_map.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/map_category_type/transit_map.protect.md) 
-- [transit_map.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/map_category_type/transit_map.private.md) 
-- [transit_map.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/map_category_type/transit_map.personal.md) 
-- [transit_map.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/map_category_type/transit_map.secret.md) 

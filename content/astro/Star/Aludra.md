@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Aludra](../../../_public/astro/Star/Aludra.md) 
-- [Aludra.internal](../../../_internal/astro/Star/Aludra.internal.md) 
-- [Aludra.protect](../../../_protect/astro/Star/Aludra.protect.md) 
-- [Aludra.private](../../../_private/astro/Star/Aludra.private.md) 
-- [Aludra.personal](../../../_personal/astro/Star/Aludra.personal.md) 
-- [Aludra.secret](../../../_secret/astro/Star/Aludra.secret.md)
-

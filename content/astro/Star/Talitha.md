@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Talitha](../../../_public/astro/Star/Talitha.md) 
-- [Talitha.internal](../../../_internal/astro/Star/Talitha.internal.md) 
-- [Talitha.protect](../../../_protect/astro/Star/Talitha.protect.md) 
-- [Talitha.private](../../../_private/astro/Star/Talitha.private.md) 
-- [Talitha.personal](../../../_personal/astro/Star/Talitha.personal.md) 
-- [Talitha.secret](../../../_secret/astro/Star/Talitha.secret.md) 

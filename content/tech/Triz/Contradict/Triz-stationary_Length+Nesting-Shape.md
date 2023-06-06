@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Nesting-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Nesting-Shape](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.md) 
-- [Triz-stationary_Length+Nesting-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.internal.md) 
-- [Triz-stationary_Length+Nesting-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.protect.md) 
-- [Triz-stationary_Length+Nesting-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.private.md) 
-- [Triz-stationary_Length+Nesting-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.personal.md) 
-- [Triz-stationary_Length+Nesting-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Nesting-Shape.secret.md) 

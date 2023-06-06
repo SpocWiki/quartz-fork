@@ -45,10 +45,3 @@ A public structure, such as a town hall or concert hall.
 
 
 
-## Confidential Links & Embeds: 
-- [civic_structure](../../../../../_public/schema.org/Type/is_a_/place/civic_structure.md) 
-- [civic_structure.internal](../../../../../_internal/schema.org/Type/is_a_/place/civic_structure.internal.md) 
-- [civic_structure.protect](../../../../../_protect/schema.org/Type/is_a_/place/civic_structure.protect.md) 
-- [civic_structure.private](../../../../../_private/schema.org/Type/is_a_/place/civic_structure.private.md) 
-- [civic_structure.personal](../../../../../_personal/schema.org/Type/is_a_/place/civic_structure.personal.md) 
-- [civic_structure.secret](../../../../../_secret/schema.org/Type/is_a_/place/civic_structure.secret.md) 

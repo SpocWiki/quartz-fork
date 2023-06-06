@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Holtorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holtorf.md) 
-- [Holtorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holtorf.internal.md) 
-- [Holtorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holtorf.protect.md) 
-- [Holtorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holtorf.private.md) 
-- [Holtorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holtorf.personal.md) 
-- [Holtorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holtorf.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leun](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Leun.md) 
-- [Leun.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Leun.internal.md) 
-- [Leun.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Leun.protect.md) 
-- [Leun.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Leun.private.md) 
-- [Leun.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Leun.personal.md) 
-- [Leun.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Leun.secret.md) 

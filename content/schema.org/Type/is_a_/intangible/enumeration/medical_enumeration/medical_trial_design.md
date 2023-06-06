@@ -41,10 +41,3 @@ Design models for medical trials. Enumerated type.
 
 
 
-## Confidential Links & Embeds: 
-- [medical_trial_design](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design.md) 
-- [medical_trial_design.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design.internal.md) 
-- [medical_trial_design.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design.protect.md) 
-- [medical_trial_design.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design.private.md) 
-- [medical_trial_design.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design.personal.md) 
-- [medical_trial_design.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design.secret.md) 

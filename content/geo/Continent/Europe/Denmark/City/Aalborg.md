@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aalborg](../../../../../../_public/geo/Continent/Europe/Denmark/City/Aalborg.md) 
-- [Aalborg.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Aalborg.internal.md) 
-- [Aalborg.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Aalborg.protect.md) 
-- [Aalborg.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Aalborg.private.md) 
-- [Aalborg.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Aalborg.personal.md) 
-- [Aalborg.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Aalborg.secret.md) 

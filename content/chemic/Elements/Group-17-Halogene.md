@@ -18,10 +18,3 @@ title: Group-17-Halogene
 
 
 
-## Confidential Links & Embeds: 
-- [Group-17-Halogene](../../../_public/chemic/Elements/Group-17-Halogene.md) 
-- [Group-17-Halogene.internal](../../../_internal/chemic/Elements/Group-17-Halogene.internal.md) 
-- [Group-17-Halogene.protect](../../../_protect/chemic/Elements/Group-17-Halogene.protect.md) 
-- [Group-17-Halogene.private](../../../_private/chemic/Elements/Group-17-Halogene.private.md) 
-- [Group-17-Halogene.personal](../../../_personal/chemic/Elements/Group-17-Halogene.personal.md) 
-- [Group-17-Halogene.secret](../../../_secret/chemic/Elements/Group-17-Halogene.secret.md) 

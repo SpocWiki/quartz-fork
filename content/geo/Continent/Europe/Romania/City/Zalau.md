@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zalau](../../../../../../_public/geo/Continent/Europe/Romania/City/Zalau.md) 
-- [Zalau.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Zalau.internal.md) 
-- [Zalau.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Zalau.protect.md) 
-- [Zalau.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Zalau.private.md) 
-- [Zalau.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Zalau.personal.md) 
-- [Zalau.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Zalau.secret.md) 

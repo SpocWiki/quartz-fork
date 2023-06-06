@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ober-Rosen](../../../../../../_public/geo/Continent/Europe/Poland/City/Ober-Rosen.md) 
-- [Ober-Rosen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ober-Rosen.internal.md) 
-- [Ober-Rosen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ober-Rosen.protect.md) 
-- [Ober-Rosen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ober-Rosen.private.md) 
-- [Ober-Rosen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ober-Rosen.personal.md) 
-- [Ober-Rosen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ober-Rosen.secret.md) 

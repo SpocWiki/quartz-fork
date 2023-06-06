@@ -43,10 +43,3 @@ A supply consumed when performing the instructions for how to achieve a result.
 
 
 
-## Confidential Links & Embeds: 
-- [how_to_supply](../../../../../../../_public/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.md) 
-- [how_to_supply.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.internal.md) 
-- [how_to_supply.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.protect.md) 
-- [how_to_supply.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.private.md) 
-- [how_to_supply.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.personal.md) 
-- [how_to_supply.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.secret.md) 

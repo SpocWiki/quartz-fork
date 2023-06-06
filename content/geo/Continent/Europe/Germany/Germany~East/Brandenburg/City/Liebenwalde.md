@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liebenwalde](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwalde.md) 
-- [Liebenwalde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwalde.internal.md) 
-- [Liebenwalde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwalde.protect.md) 
-- [Liebenwalde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwalde.private.md) 
-- [Liebenwalde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwalde.personal.md) 
-- [Liebenwalde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Liebenwalde.secret.md) 

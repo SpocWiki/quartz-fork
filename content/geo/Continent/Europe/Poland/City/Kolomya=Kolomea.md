@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kolomya=Kolomea](../../../../../../_public/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.md) 
-- [Kolomya=Kolomea.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.internal.md) 
-- [Kolomya=Kolomea.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.protect.md) 
-- [Kolomya=Kolomea.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.private.md) 
-- [Kolomya=Kolomea.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.personal.md) 
-- [Kolomya=Kolomea.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kolomya=Kolomea.secret.md) 

@@ -49,10 +49,3 @@ Examples of funding agencies include ERC, REA, NIH, Bill and Melinda Gates Found
 
 
 
-## Confidential Links & Embeds: 
-- [funding_agency](../../../../../../_public/schema.org/Type/is_a_/organization/project/funding_agency.md) 
-- [funding_agency.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/project/funding_agency.internal.md) 
-- [funding_agency.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/project/funding_agency.protect.md) 
-- [funding_agency.private](../../../../../../_private/schema.org/Type/is_a_/organization/project/funding_agency.private.md) 
-- [funding_agency.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/project/funding_agency.personal.md) 
-- [funding_agency.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/project/funding_agency.secret.md) 

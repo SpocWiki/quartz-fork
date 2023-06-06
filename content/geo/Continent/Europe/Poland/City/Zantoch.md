@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zantoch](../../../../../../_public/geo/Continent/Europe/Poland/City/Zantoch.md) 
-- [Zantoch.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zantoch.internal.md) 
-- [Zantoch.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zantoch.protect.md) 
-- [Zantoch.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zantoch.private.md) 
-- [Zantoch.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zantoch.personal.md) 
-- [Zantoch.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zantoch.secret.md) 

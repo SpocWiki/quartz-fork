@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gmunden](../../../../../../_public/geo/Continent/Europe/Austria/City/Gmunden.md) 
-- [Gmunden.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Gmunden.internal.md) 
-- [Gmunden.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Gmunden.protect.md) 
-- [Gmunden.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Gmunden.private.md) 
-- [Gmunden.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Gmunden.personal.md) 
-- [Gmunden.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Gmunden.secret.md) 

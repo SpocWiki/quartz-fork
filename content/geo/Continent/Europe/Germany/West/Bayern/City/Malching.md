@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Malching](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Malching.md) 
-- [Malching.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Malching.internal.md) 
-- [Malching.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Malching.protect.md) 
-- [Malching.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Malching.private.md) 
-- [Malching.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Malching.personal.md) 
-- [Malching.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Malching.secret.md) 

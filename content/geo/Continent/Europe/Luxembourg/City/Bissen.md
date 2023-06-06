@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bissen](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Bissen.md) 
-- [Bissen.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Bissen.internal.md) 
-- [Bissen.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Bissen.protect.md) 
-- [Bissen.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Bissen.private.md) 
-- [Bissen.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Bissen.personal.md) 
-- [Bissen.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Bissen.secret.md) 

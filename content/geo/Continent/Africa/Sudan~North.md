@@ -32,7 +32,7 @@ markerFolder: ./Sudan/City
 
 ![350](geo/Continent/Africa/Sudan/Emblem_of_Sudan.svg)
 
-![Anthem-Sudan](xLarge/National-Anthem/Anthem-Sudan.mp3)
+[Anthem-Sudan](xLarge/National-Anthem/Anthem-Sudan.mp3)
 
 ![350](geo/Continent/Africa/Sudan/Flag_of_Sudan.svg)
 
@@ -43,10 +43,3 @@ markerFolder: ./Sudan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Sudan~North](../../../../_public/geo/Continent/Africa/Sudan~North.md) 
-- [Sudan~North.internal](../../../../_internal/geo/Continent/Africa/Sudan~North.internal.md) 
-- [Sudan~North.protect](../../../../_protect/geo/Continent/Africa/Sudan~North.protect.md) 
-- [Sudan~North.private](../../../../_private/geo/Continent/Africa/Sudan~North.private.md) 
-- [Sudan~North.personal](../../../../_personal/geo/Continent/Africa/Sudan~North.personal.md) 
-- [Sudan~North.secret](../../../../_secret/geo/Continent/Africa/Sudan~North.secret.md) 

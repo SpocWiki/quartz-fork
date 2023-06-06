@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tonsberg](../../../../../../_public/geo/Continent/Europe/Norway/City/Tonsberg.md) 
-- [Tonsberg.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Tonsberg.internal.md) 
-- [Tonsberg.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Tonsberg.protect.md) 
-- [Tonsberg.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Tonsberg.private.md) 
-- [Tonsberg.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Tonsberg.personal.md) 
-- [Tonsberg.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Tonsberg.secret.md) 

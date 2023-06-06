@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Runoe](../../../../../../_public/geo/Continent/Europe/Russia/City/Runoe.md) 
-- [Runoe.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Runoe.internal.md) 
-- [Runoe.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Runoe.protect.md) 
-- [Runoe.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Runoe.private.md) 
-- [Runoe.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Runoe.personal.md) 
-- [Runoe.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Runoe.secret.md) 

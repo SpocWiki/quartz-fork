@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Macclesfield](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Macclesfield.md) 
-- [Macclesfield.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Macclesfield.internal.md) 
-- [Macclesfield.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Macclesfield.protect.md) 
-- [Macclesfield.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Macclesfield.private.md) 
-- [Macclesfield.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Macclesfield.personal.md) 
-- [Macclesfield.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Macclesfield.secret.md) 

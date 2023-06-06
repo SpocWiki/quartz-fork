@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fritzlar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Fritzlar.md) 
-- [Fritzlar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Fritzlar.internal.md) 
-- [Fritzlar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Fritzlar.protect.md) 
-- [Fritzlar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Fritzlar.private.md) 
-- [Fritzlar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Fritzlar.personal.md) 
-- [Fritzlar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Fritzlar.secret.md) 

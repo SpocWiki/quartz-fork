@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ulkokalla](../../../../../../_public/geo/Continent/Europe/Finland/City/Ulkokalla.md) 
-- [Ulkokalla.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Ulkokalla.internal.md) 
-- [Ulkokalla.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Ulkokalla.protect.md) 
-- [Ulkokalla.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Ulkokalla.private.md) 
-- [Ulkokalla.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Ulkokalla.personal.md) 
-- [Ulkokalla.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Ulkokalla.secret.md) 

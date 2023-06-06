@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gleiwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Gleiwitz.md) 
-- [Gleiwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gleiwitz.internal.md) 
-- [Gleiwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gleiwitz.protect.md) 
-- [Gleiwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gleiwitz.private.md) 
-- [Gleiwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gleiwitz.personal.md) 
-- [Gleiwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gleiwitz.secret.md) 

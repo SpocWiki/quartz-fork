@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Use_strong_oxidisers-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Use_strong_oxidisers-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Intensity.md) 
-- [Triz-Energy-Loss+Use_strong_oxidisers-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Intensity.internal.md) 
-- [Triz-Energy-Loss+Use_strong_oxidisers-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Intensity.protect.md) 
-- [Triz-Energy-Loss+Use_strong_oxidisers-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Intensity.private.md) 
-- [Triz-Energy-Loss+Use_strong_oxidisers-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Intensity.personal.md) 
-- [Triz-Energy-Loss+Use_strong_oxidisers-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Use_strong_oxidisers-Intensity.secret.md) 

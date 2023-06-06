@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Greiffenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Greiffenberg.md) 
-- [Greiffenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Greiffenberg.internal.md) 
-- [Greiffenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Greiffenberg.protect.md) 
-- [Greiffenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Greiffenberg.private.md) 
-- [Greiffenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Greiffenberg.personal.md) 
-- [Greiffenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Greiffenberg.secret.md) 

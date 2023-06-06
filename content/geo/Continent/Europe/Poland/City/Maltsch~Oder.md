@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maltsch~Oder](../../../../../../_public/geo/Continent/Europe/Poland/City/Maltsch~Oder.md) 
-- [Maltsch~Oder.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Maltsch~Oder.internal.md) 
-- [Maltsch~Oder.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Maltsch~Oder.protect.md) 
-- [Maltsch~Oder.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Maltsch~Oder.private.md) 
-- [Maltsch~Oder.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Maltsch~Oder.personal.md) 
-- [Maltsch~Oder.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Maltsch~Oder.secret.md) 

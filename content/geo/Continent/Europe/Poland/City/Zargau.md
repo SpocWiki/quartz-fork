@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zargau](../../../../../../_public/geo/Continent/Europe/Poland/City/Zargau.md) 
-- [Zargau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zargau.internal.md) 
-- [Zargau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zargau.protect.md) 
-- [Zargau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zargau.private.md) 
-- [Zargau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zargau.personal.md) 
-- [Zargau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zargau.secret.md) 

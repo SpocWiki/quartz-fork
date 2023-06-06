@@ -19,10 +19,3 @@ title: Triz-Difficulty+Asymmetry-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Asymmetry-Speed](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.md) 
-- [Triz-Difficulty+Asymmetry-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.internal.md) 
-- [Triz-Difficulty+Asymmetry-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.protect.md) 
-- [Triz-Difficulty+Asymmetry-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.private.md) 
-- [Triz-Difficulty+Asymmetry-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.personal.md) 
-- [Triz-Difficulty+Asymmetry-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Asymmetry-Speed.secret.md) 

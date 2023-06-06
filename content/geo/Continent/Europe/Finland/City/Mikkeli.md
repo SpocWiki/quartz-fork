@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mikkeli](../../../../../../_public/geo/Continent/Europe/Finland/City/Mikkeli.md) 
-- [Mikkeli.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Mikkeli.internal.md) 
-- [Mikkeli.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Mikkeli.protect.md) 
-- [Mikkeli.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Mikkeli.private.md) 
-- [Mikkeli.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Mikkeli.personal.md) 
-- [Mikkeli.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Mikkeli.secret.md) 

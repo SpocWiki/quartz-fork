@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tarussa](../../../../../../_public/geo/Continent/Europe/Russia/City/Tarussa.md) 
-- [Tarussa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tarussa.internal.md) 
-- [Tarussa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tarussa.protect.md) 
-- [Tarussa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tarussa.private.md) 
-- [Tarussa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tarussa.personal.md) 
-- [Tarussa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tarussa.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nagykoros](../../../../../../_public/geo/Continent/Europe/Hungary/City/Nagykoros.md) 
-- [Nagykoros.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Nagykoros.internal.md) 
-- [Nagykoros.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Nagykoros.protect.md) 
-- [Nagykoros.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Nagykoros.private.md) 
-- [Nagykoros.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Nagykoros.personal.md) 
-- [Nagykoros.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Nagykoros.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tikkurila](../../../../../../_public/geo/Continent/Europe/Finland/City/Tikkurila.md) 
-- [Tikkurila.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Tikkurila.internal.md) 
-- [Tikkurila.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Tikkurila.protect.md) 
-- [Tikkurila.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Tikkurila.private.md) 
-- [Tikkurila.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Tikkurila.personal.md) 
-- [Tikkurila.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Tikkurila.secret.md) 

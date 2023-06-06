@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wels](../../../../../../_public/geo/Continent/Europe/Austria/City/Wels.md) 
-- [Wels.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Wels.internal.md) 
-- [Wels.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Wels.protect.md) 
-- [Wels.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Wels.private.md) 
-- [Wels.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Wels.personal.md) 
-- [Wels.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Wels.secret.md) 

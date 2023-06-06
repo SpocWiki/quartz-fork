@@ -32,10 +32,3 @@ markerFolder: ./State-Berlin/City
 
 
 
-## Confidential Links & Embeds: 
-- [State-Berlin](../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin.md) 
-- [State-Berlin.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin.internal.md) 
-- [State-Berlin.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin.protect.md) 
-- [State-Berlin.private](../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin.private.md) 
-- [State-Berlin.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin.personal.md) 
-- [State-Berlin.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-affected_harm+Mediator-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Mediator-Stability](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Mediator-Stability.md) 
-- [Triz-affected_harm+Mediator-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Mediator-Stability.internal.md) 
-- [Triz-affected_harm+Mediator-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Mediator-Stability.protect.md) 
-- [Triz-affected_harm+Mediator-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Mediator-Stability.private.md) 
-- [Triz-affected_harm+Mediator-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Mediator-Stability.personal.md) 
-- [Triz-affected_harm+Mediator-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Mediator-Stability.secret.md) 

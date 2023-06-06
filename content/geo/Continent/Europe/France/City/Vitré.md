@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vitré](../../../../../../_public/geo/Continent/Europe/France/City/Vitr%C3%A9.md) 
-- [Vitré.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vitr%C3%A9.internal.md) 
-- [Vitré.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vitr%C3%A9.protect.md) 
-- [Vitré.private](../../../../../../_private/geo/Continent/Europe/France/City/Vitr%C3%A9.private.md) 
-- [Vitré.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vitr%C3%A9.personal.md) 
-- [Vitré.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vitr%C3%A9.secret.md) 

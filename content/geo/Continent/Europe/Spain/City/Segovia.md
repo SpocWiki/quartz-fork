@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Segovia](../../../../../../_public/geo/Continent/Europe/Spain/City/Segovia.md) 
-- [Segovia.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Segovia.internal.md) 
-- [Segovia.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Segovia.protect.md) 
-- [Segovia.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Segovia.private.md) 
-- [Segovia.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Segovia.personal.md) 
-- [Segovia.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Segovia.secret.md) 

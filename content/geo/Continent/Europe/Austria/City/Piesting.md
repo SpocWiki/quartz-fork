@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Piesting](../../../../../../_public/geo/Continent/Europe/Austria/City/Piesting.md) 
-- [Piesting.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Piesting.internal.md) 
-- [Piesting.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Piesting.protect.md) 
-- [Piesting.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Piesting.private.md) 
-- [Piesting.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Piesting.personal.md) 
-- [Piesting.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Piesting.secret.md) 

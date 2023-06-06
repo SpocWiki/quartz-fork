@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castellon_de_la_Plana](../../../../../../_public/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.md) 
-- [Castellon_de_la_Plana.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.internal.md) 
-- [Castellon_de_la_Plana.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.protect.md) 
-- [Castellon_de_la_Plana.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.private.md) 
-- [Castellon_de_la_Plana.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.personal.md) 
-- [Castellon_de_la_Plana.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Castellon_de_la_Plana.secret.md) 

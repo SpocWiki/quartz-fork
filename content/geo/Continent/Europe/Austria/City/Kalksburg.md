@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kalksburg](../../../../../../_public/geo/Continent/Europe/Austria/City/Kalksburg.md) 
-- [Kalksburg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Kalksburg.internal.md) 
-- [Kalksburg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Kalksburg.protect.md) 
-- [Kalksburg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Kalksburg.private.md) 
-- [Kalksburg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Kalksburg.personal.md) 
-- [Kalksburg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Kalksburg.secret.md) 

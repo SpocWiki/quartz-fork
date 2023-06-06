@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gutenbrunn](../../../../../../_public/geo/Continent/Europe/Austria/City/Gutenbrunn.md) 
-- [Gutenbrunn.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Gutenbrunn.internal.md) 
-- [Gutenbrunn.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Gutenbrunn.protect.md) 
-- [Gutenbrunn.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Gutenbrunn.private.md) 
-- [Gutenbrunn.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Gutenbrunn.personal.md) 
-- [Gutenbrunn.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Gutenbrunn.secret.md) 

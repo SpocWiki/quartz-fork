@@ -19,10 +19,3 @@ title: Triz-Intensity+Extraction-moving_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Extraction-moving_Duration](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Extraction-moving_Duration.md) 
-- [Triz-Intensity+Extraction-moving_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Extraction-moving_Duration.internal.md) 
-- [Triz-Intensity+Extraction-moving_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Extraction-moving_Duration.protect.md) 
-- [Triz-Intensity+Extraction-moving_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Extraction-moving_Duration.private.md) 
-- [Triz-Intensity+Extraction-moving_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Extraction-moving_Duration.personal.md) 
-- [Triz-Intensity+Extraction-moving_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Extraction-moving_Duration.secret.md) 

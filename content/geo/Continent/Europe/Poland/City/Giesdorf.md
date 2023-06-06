@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Giesdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Giesdorf.md) 
-- [Giesdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Giesdorf.internal.md) 
-- [Giesdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Giesdorf.protect.md) 
-- [Giesdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Giesdorf.private.md) 
-- [Giesdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Giesdorf.personal.md) 
-- [Giesdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Giesdorf.secret.md) 

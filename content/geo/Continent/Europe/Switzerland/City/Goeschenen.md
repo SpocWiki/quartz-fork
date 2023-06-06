@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goeschenen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Goeschenen.md) 
-- [Goeschenen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Goeschenen.internal.md) 
-- [Goeschenen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Goeschenen.protect.md) 
-- [Goeschenen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Goeschenen.private.md) 
-- [Goeschenen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Goeschenen.personal.md) 
-- [Goeschenen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Goeschenen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Danzig](../../../../../../_public/geo/Continent/Europe/Poland/City/Danzig.md) 
-- [Danzig.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Danzig.internal.md) 
-- [Danzig.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Danzig.protect.md) 
-- [Danzig.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Danzig.private.md) 
-- [Danzig.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Danzig.personal.md) 
-- [Danzig.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Danzig.secret.md) 

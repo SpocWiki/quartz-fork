@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Celana](../../../../../../_public/geo/Continent/Europe/Italy/City/Celana.md) 
-- [Celana.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Celana.internal.md) 
-- [Celana.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Celana.protect.md) 
-- [Celana.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Celana.private.md) 
-- [Celana.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Celana.personal.md) 
-- [Celana.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Celana.secret.md) 

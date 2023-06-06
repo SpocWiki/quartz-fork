@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schroop](../../../../../../_public/geo/Continent/Europe/Poland/City/Schroop.md) 
-- [Schroop.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schroop.internal.md) 
-- [Schroop.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schroop.protect.md) 
-- [Schroop.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schroop.private.md) 
-- [Schroop.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schroop.personal.md) 
-- [Schroop.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schroop.secret.md) 

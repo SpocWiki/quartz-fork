@@ -43,10 +43,3 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 
 
 
-## Confidential Links & Embeds: 
-- [brain_structure](../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.md) 
-- [brain_structure.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.internal.md) 
-- [brain_structure.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.protect.md) 
-- [brain_structure.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.private.md) 
-- [brain_structure.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.personal.md) 
-- [brain_structure.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.secret.md) 

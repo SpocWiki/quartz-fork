@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Valery~Picardie](../../../../../../_public/geo/Continent/Europe/France/City/St.Valery~Picardie.md) 
-- [St.Valery~Picardie.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Valery~Picardie.internal.md) 
-- [St.Valery~Picardie.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Valery~Picardie.protect.md) 
-- [St.Valery~Picardie.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Valery~Picardie.private.md) 
-- [St.Valery~Picardie.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Valery~Picardie.personal.md) 
-- [St.Valery~Picardie.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Valery~Picardie.secret.md) 

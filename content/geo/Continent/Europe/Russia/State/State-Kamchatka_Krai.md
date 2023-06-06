@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Kamchatka_Krai](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Kamchatka_Krai.md) 
-- [State-Kamchatka_Krai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Kamchatka_Krai.internal.md) 
-- [State-Kamchatka_Krai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Kamchatka_Krai.protect.md) 
-- [State-Kamchatka_Krai.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Kamchatka_Krai.private.md) 
-- [State-Kamchatka_Krai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Kamchatka_Krai.personal.md) 
-- [State-Kamchatka_Krai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Kamchatka_Krai.secret.md) 

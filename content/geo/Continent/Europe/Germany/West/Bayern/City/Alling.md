@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alling](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Alling.md) 
-- [Alling.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Alling.internal.md) 
-- [Alling.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Alling.protect.md) 
-- [Alling.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Alling.private.md) 
-- [Alling.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Alling.personal.md) 
-- [Alling.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Alling.secret.md) 

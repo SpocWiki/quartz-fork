@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Niamey](../../../../../../_public/geo/Continent/Africa/Niger/City/Niamey.md) 
-- [Niamey.internal](../../../../../../_internal/geo/Continent/Africa/Niger/City/Niamey.internal.md) 
-- [Niamey.protect](../../../../../../_protect/geo/Continent/Africa/Niger/City/Niamey.protect.md) 
-- [Niamey.private](../../../../../../_private/geo/Continent/Africa/Niger/City/Niamey.private.md) 
-- [Niamey.personal](../../../../../../_personal/geo/Continent/Africa/Niger/City/Niamey.personal.md) 
-- [Niamey.secret](../../../../../../_secret/geo/Continent/Africa/Niger/City/Niamey.secret.md) 

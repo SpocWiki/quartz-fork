@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberiberg](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Oberiberg.md) 
-- [Oberiberg.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Oberiberg.internal.md) 
-- [Oberiberg.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Oberiberg.protect.md) 
-- [Oberiberg.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Oberiberg.private.md) 
-- [Oberiberg.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Oberiberg.personal.md) 
-- [Oberiberg.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Oberiberg.secret.md) 

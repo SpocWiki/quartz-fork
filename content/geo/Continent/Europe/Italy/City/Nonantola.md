@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nonantola](../../../../../../_public/geo/Continent/Europe/Italy/City/Nonantola.md) 
-- [Nonantola.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Nonantola.internal.md) 
-- [Nonantola.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Nonantola.protect.md) 
-- [Nonantola.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Nonantola.private.md) 
-- [Nonantola.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Nonantola.personal.md) 
-- [Nonantola.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Nonantola.secret.md) 

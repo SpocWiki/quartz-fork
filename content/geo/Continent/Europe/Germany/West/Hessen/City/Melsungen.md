@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Melsungen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Melsungen.md) 
-- [Melsungen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Melsungen.internal.md) 
-- [Melsungen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Melsungen.protect.md) 
-- [Melsungen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Melsungen.private.md) 
-- [Melsungen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Melsungen.personal.md) 
-- [Melsungen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Melsungen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Madrid](../../../../../../_public/geo/Continent/Europe/Spain/City/Madrid.md) 
-- [Madrid.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Madrid.internal.md) 
-- [Madrid.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Madrid.protect.md) 
-- [Madrid.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Madrid.private.md) 
-- [Madrid.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Madrid.personal.md) 
-- [Madrid.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Madrid.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marquartstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Marquartstein.md) 
-- [Marquartstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Marquartstein.internal.md) 
-- [Marquartstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Marquartstein.protect.md) 
-- [Marquartstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Marquartstein.private.md) 
-- [Marquartstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Marquartstein.personal.md) 
-- [Marquartstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Marquartstein.secret.md) 

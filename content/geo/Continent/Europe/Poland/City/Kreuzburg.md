@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kreuzburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Kreuzburg.md) 
-- [Kreuzburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kreuzburg.internal.md) 
-- [Kreuzburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kreuzburg.protect.md) 
-- [Kreuzburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kreuzburg.private.md) 
-- [Kreuzburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kreuzburg.personal.md) 
-- [Kreuzburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kreuzburg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neu-Schwarzort](../../../../../../_public/geo/Continent/Europe/Russia/City/Neu-Schwarzort.md) 
-- [Neu-Schwarzort.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Neu-Schwarzort.internal.md) 
-- [Neu-Schwarzort.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Neu-Schwarzort.protect.md) 
-- [Neu-Schwarzort.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Neu-Schwarzort.private.md) 
-- [Neu-Schwarzort.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Neu-Schwarzort.personal.md) 
-- [Neu-Schwarzort.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Neu-Schwarzort.secret.md) 

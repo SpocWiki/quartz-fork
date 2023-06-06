@@ -19,10 +19,3 @@ title: Triz-Shape+Copying-moving_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Copying-moving_Duration](../../../../_public/tech/Triz/Contradict/Triz-Shape+Copying-moving_Duration.md) 
-- [Triz-Shape+Copying-moving_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Copying-moving_Duration.internal.md) 
-- [Triz-Shape+Copying-moving_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Copying-moving_Duration.protect.md) 
-- [Triz-Shape+Copying-moving_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Copying-moving_Duration.private.md) 
-- [Triz-Shape+Copying-moving_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Copying-moving_Duration.personal.md) 
-- [Triz-Shape+Copying-moving_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Copying-moving_Duration.secret.md) 

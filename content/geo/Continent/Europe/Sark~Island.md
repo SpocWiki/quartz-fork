@@ -108,10 +108,3 @@ Languages: []
 [	ISO3166-1-numeric	 ::  ]
 
 
-## Confidential Links & Embeds: 
-- [Sark~Island](../../../../_public/geo/Continent/Europe/Sark~Island.md) 
-- [Sark~Island.internal](../../../../_internal/geo/Continent/Europe/Sark~Island.internal.md) 
-- [Sark~Island.protect](../../../../_protect/geo/Continent/Europe/Sark~Island.protect.md) 
-- [Sark~Island.private](../../../../_private/geo/Continent/Europe/Sark~Island.private.md) 
-- [Sark~Island.personal](../../../../_personal/geo/Continent/Europe/Sark~Island.personal.md) 
-- [Sark~Island.secret](../../../../_secret/geo/Continent/Europe/Sark~Island.secret.md) 

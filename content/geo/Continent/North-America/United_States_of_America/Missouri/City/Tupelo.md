@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tupelo](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.md) 
-- [Tupelo.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.internal.md) 
-- [Tupelo.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.protect.md) 
-- [Tupelo.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.private.md) 
-- [Tupelo.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.personal.md) 
-- [Tupelo.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Missouri/City/Tupelo.secret.md) 

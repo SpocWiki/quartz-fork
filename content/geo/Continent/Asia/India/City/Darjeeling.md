@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Darjeeling](../../../../../../_public/geo/Continent/Asia/India/City/Darjeeling.md) 
-- [Darjeeling.internal](../../../../../../_internal/geo/Continent/Asia/India/City/Darjeeling.internal.md) 
-- [Darjeeling.protect](../../../../../../_protect/geo/Continent/Asia/India/City/Darjeeling.protect.md) 
-- [Darjeeling.private](../../../../../../_private/geo/Continent/Asia/India/City/Darjeeling.private.md) 
-- [Darjeeling.personal](../../../../../../_personal/geo/Continent/Asia/India/City/Darjeeling.personal.md) 
-- [Darjeeling.secret](../../../../../../_secret/geo/Continent/Asia/India/City/Darjeeling.secret.md) 

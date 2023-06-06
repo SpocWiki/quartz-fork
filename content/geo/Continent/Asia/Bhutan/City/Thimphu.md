@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Thimphu](../../../../../../_public/geo/Continent/Asia/Bhutan/City/Thimphu.md) 
-- [Thimphu.internal](../../../../../../_internal/geo/Continent/Asia/Bhutan/City/Thimphu.internal.md) 
-- [Thimphu.protect](../../../../../../_protect/geo/Continent/Asia/Bhutan/City/Thimphu.protect.md) 
-- [Thimphu.private](../../../../../../_private/geo/Continent/Asia/Bhutan/City/Thimphu.private.md) 
-- [Thimphu.personal](../../../../../../_personal/geo/Continent/Asia/Bhutan/City/Thimphu.personal.md) 
-- [Thimphu.secret](../../../../../../_secret/geo/Continent/Asia/Bhutan/City/Thimphu.secret.md) 

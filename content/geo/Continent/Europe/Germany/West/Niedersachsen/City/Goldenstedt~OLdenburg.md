@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goldenstedt~OLdenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goldenstedt~OLdenburg.md) 
-- [Goldenstedt~OLdenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goldenstedt~OLdenburg.internal.md) 
-- [Goldenstedt~OLdenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goldenstedt~OLdenburg.protect.md) 
-- [Goldenstedt~OLdenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goldenstedt~OLdenburg.private.md) 
-- [Goldenstedt~OLdenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goldenstedt~OLdenburg.personal.md) 
-- [Goldenstedt~OLdenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Goldenstedt~OLdenburg.secret.md) 

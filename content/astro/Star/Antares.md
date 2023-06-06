@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Antares](../../../_public/astro/Star/Antares.md) 
-- [Antares.internal](../../../_internal/astro/Star/Antares.internal.md) 
-- [Antares.protect](../../../_protect/astro/Star/Antares.protect.md) 
-- [Antares.private](../../../_private/astro/Star/Antares.private.md) 
-- [Antares.personal](../../../_personal/astro/Star/Antares.personal.md) 
-- [Antares.secret](../../../_secret/astro/Star/Antares.secret.md)
-

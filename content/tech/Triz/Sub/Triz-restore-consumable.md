@@ -18,10 +18,3 @@ title: Triz-restore-consumable
 Conversely, restore consumable parts of an object directly in operation.
 
 
-## Confidential Links & Embeds: 
-- [Triz-restore-consumable](../../../../_public/tech/Triz/Sub/Triz-restore-consumable.md) 
-- [Triz-restore-consumable.internal](../../../../_internal/tech/Triz/Sub/Triz-restore-consumable.internal.md) 
-- [Triz-restore-consumable.protect](../../../../_protect/tech/Triz/Sub/Triz-restore-consumable.protect.md) 
-- [Triz-restore-consumable.private](../../../../_private/tech/Triz/Sub/Triz-restore-consumable.private.md) 
-- [Triz-restore-consumable.personal](../../../../_personal/tech/Triz/Sub/Triz-restore-consumable.personal.md) 
-- [Triz-restore-consumable.secret](../../../../_secret/tech/Triz/Sub/Triz-restore-consumable.secret.md) 

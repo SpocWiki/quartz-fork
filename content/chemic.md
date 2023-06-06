@@ -16,11 +16,3 @@ Chemistry is a wide Field; therefore it is broken up into
 
 
 
-## Confidential Links & Embeds: 
-- [chemic](../_public/chemic.md) 
-- [chemic.internal](../_internal/chemic.internal.md) 
-- [chemic.protect](../_protect/chemic.protect.md) 
-- [chemic.private](../_private/chemic.private.md) 
-- [chemic.personal](../_personal/chemic.personal.md) 
-- [chemic.secret](../_secret/chemic.secret.md)
-

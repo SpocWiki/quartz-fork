@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hohn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohn.md) 
-- [Hohn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohn.internal.md) 
-- [Hohn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohn.protect.md) 
-- [Hohn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohn.private.md) 
-- [Hohn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohn.personal.md) 
-- [Hohn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohn.secret.md) 

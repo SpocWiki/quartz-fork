@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_time_to_pick_up](../../../../_public/schema.org/Predicate/Date_Times/has_time_to_pick_up.md) 
-- [has_time_to_pick_up.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_pick_up.internal.md) 
-- [has_time_to_pick_up.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_pick_up.protect.md) 
-- [has_time_to_pick_up.private](../../../../_private/schema.org/Predicate/Date_Times/has_time_to_pick_up.private.md) 
-- [has_time_to_pick_up.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_time_to_pick_up.personal.md) 
-- [has_time_to_pick_up.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_time_to_pick_up.secret.md) 

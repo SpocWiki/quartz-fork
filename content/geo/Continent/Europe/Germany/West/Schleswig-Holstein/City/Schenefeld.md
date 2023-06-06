@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schenefeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schenefeld.md) 
-- [Schenefeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schenefeld.internal.md) 
-- [Schenefeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schenefeld.protect.md) 
-- [Schenefeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schenefeld.private.md) 
-- [Schenefeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schenefeld.personal.md) 
-- [Schenefeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schenefeld.secret.md) 

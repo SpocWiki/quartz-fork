@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hagsoen](../../../../../../_public/geo/Continent/Europe/Sweden/City/Hagsoen.md) 
-- [Hagsoen.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hagsoen.internal.md) 
-- [Hagsoen.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hagsoen.protect.md) 
-- [Hagsoen.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Hagsoen.private.md) 
-- [Hagsoen.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hagsoen.personal.md) 
-- [Hagsoen.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hagsoen.secret.md) 

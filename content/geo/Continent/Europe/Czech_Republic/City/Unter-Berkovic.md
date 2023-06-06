@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Unter-Berkovic](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.md) 
-- [Unter-Berkovic.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.internal.md) 
-- [Unter-Berkovic.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.protect.md) 
-- [Unter-Berkovic.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.private.md) 
-- [Unter-Berkovic.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.personal.md) 
-- [Unter-Berkovic.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Unter-Berkovic.secret.md) 

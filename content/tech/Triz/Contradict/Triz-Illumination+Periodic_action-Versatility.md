@@ -19,10 +19,3 @@ title: Triz-Illumination+Periodic_action-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Periodic_action-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.md) 
-- [Triz-Illumination+Periodic_action-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.internal.md) 
-- [Triz-Illumination+Periodic_action-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.protect.md) 
-- [Triz-Illumination+Periodic_action-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.private.md) 
-- [Triz-Illumination+Periodic_action-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.personal.md) 
-- [Triz-Illumination+Periodic_action-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Versatility.secret.md) 

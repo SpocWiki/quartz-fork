@@ -38,10 +38,3 @@ title: Sulfur
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sulfur)
 
-## Confidential Links & Embeds: 
-- [Sulfur](../../../../_public/chemic/Elements/Group-16-Chalcogene/Sulfur.md) 
-- [Sulfur.internal](../../../../_internal/chemic/Elements/Group-16-Chalcogene/Sulfur.internal.md) 
-- [Sulfur.protect](../../../../_protect/chemic/Elements/Group-16-Chalcogene/Sulfur.protect.md) 
-- [Sulfur.private](../../../../_private/chemic/Elements/Group-16-Chalcogene/Sulfur.private.md) 
-- [Sulfur.personal](../../../../_personal/chemic/Elements/Group-16-Chalcogene/Sulfur.personal.md) 
-- [Sulfur.secret](../../../../_secret/chemic/Elements/Group-16-Chalcogene/Sulfur.secret.md) 

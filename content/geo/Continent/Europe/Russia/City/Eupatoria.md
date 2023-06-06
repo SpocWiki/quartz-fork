@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eupatoria](../../../../../../_public/geo/Continent/Europe/Russia/City/Eupatoria.md) 
-- [Eupatoria.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Eupatoria.internal.md) 
-- [Eupatoria.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Eupatoria.protect.md) 
-- [Eupatoria.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Eupatoria.private.md) 
-- [Eupatoria.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Eupatoria.personal.md) 
-- [Eupatoria.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Eupatoria.secret.md) 

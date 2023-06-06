@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauenburg~Pommern](../../../../../../_public/geo/Continent/Europe/Poland/City/Lauenburg~Pommern.md) 
-- [Lauenburg~Pommern.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lauenburg~Pommern.internal.md) 
-- [Lauenburg~Pommern.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lauenburg~Pommern.protect.md) 
-- [Lauenburg~Pommern.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lauenburg~Pommern.private.md) 
-- [Lauenburg~Pommern.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lauenburg~Pommern.personal.md) 
-- [Lauenburg~Pommern.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lauenburg~Pommern.secret.md) 

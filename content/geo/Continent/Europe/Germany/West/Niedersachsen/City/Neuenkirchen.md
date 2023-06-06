@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuenkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.md) 
-- [Neuenkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.internal.md) 
-- [Neuenkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.protect.md) 
-- [Neuenkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.private.md) 
-- [Neuenkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.personal.md) 
-- [Neuenkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenkirchen.secret.md) 

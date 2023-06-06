@@ -123,7 +123,7 @@ markerFolder: ./Ghana/City
 
 ![350](geo/Continent/Africa/Ghana/Coat_of_arms_of_Ghana.svg)
 
-![Anthem-Ghana](xLarge/National-Anthem/Anthem-Ghana.mp3)
+[Anthem-Ghana](xLarge/National-Anthem/Anthem-Ghana.mp3)
 
 ![350](geo/Continent/Africa/Ghana/Flag_of_Ghana.svg)
 
@@ -136,10 +136,3 @@ markerFolder: ./Ghana/City
 
 
 
-## Confidential Links & Embeds: 
-- [Ghana](../../../../_public/geo/Continent/Africa/Ghana.md) 
-- [Ghana.internal](../../../../_internal/geo/Continent/Africa/Ghana.internal.md) 
-- [Ghana.protect](../../../../_protect/geo/Continent/Africa/Ghana.protect.md) 
-- [Ghana.private](../../../../_private/geo/Continent/Africa/Ghana.private.md) 
-- [Ghana.personal](../../../../_personal/geo/Continent/Africa/Ghana.personal.md) 
-- [Ghana.secret](../../../../_secret/geo/Continent/Africa/Ghana.secret.md) 

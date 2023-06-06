@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sacramento](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.md) 
-- [Sacramento.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.internal.md) 
-- [Sacramento.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.protect.md) 
-- [Sacramento.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.private.md) 
-- [Sacramento.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.personal.md) 
-- [Sacramento.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Sacramento.secret.md) 

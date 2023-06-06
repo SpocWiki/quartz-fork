@@ -45,10 +45,3 @@ Radiography is an imaging technique that uses electromagnetic radiation other th
 
 
 
-## Confidential Links & Embeds: 
-- [radiography](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.md) 
-- [radiography.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.internal.md) 
-- [radiography.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.protect.md) 
-- [radiography.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.private.md) 
-- [radiography.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.personal.md) 
-- [radiography.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/radiography.secret.md) 

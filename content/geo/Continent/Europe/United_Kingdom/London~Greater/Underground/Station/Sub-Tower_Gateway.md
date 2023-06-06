@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Tower_Gateway](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.md) 
-- [Sub-Tower_Gateway.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.internal.md) 
-- [Sub-Tower_Gateway.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.protect.md) 
-- [Sub-Tower_Gateway.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.private.md) 
-- [Sub-Tower_Gateway.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.personal.md) 
-- [Sub-Tower_Gateway.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tower_Gateway.secret.md) 

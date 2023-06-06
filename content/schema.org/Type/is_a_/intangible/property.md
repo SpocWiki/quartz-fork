@@ -47,10 +47,3 @@ A property, used to indicate attributes and relationships of some Thing; equival
 
 
 
-## Confidential Links & Embeds: 
-- [property](../../../../../_public/schema.org/Type/is_a_/intangible/property.md) 
-- [property.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/property.internal.md) 
-- [property.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/property.protect.md) 
-- [property.private](../../../../../_private/schema.org/Type/is_a_/intangible/property.private.md) 
-- [property.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/property.personal.md) 
-- [property.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/property.secret.md) 

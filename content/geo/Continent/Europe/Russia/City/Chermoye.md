@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chermoye](../../../../../../_public/geo/Continent/Europe/Russia/City/Chermoye.md) 
-- [Chermoye.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Chermoye.internal.md) 
-- [Chermoye.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Chermoye.protect.md) 
-- [Chermoye.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Chermoye.private.md) 
-- [Chermoye.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Chermoye.personal.md) 
-- [Chermoye.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Chermoye.secret.md) 

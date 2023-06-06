@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Asymmetry-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Asymmetry-Shape](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Shape.md) 
-- [Triz-Ease_of_repair+Asymmetry-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Shape.internal.md) 
-- [Triz-Ease_of_repair+Asymmetry-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Shape.protect.md) 
-- [Triz-Ease_of_repair+Asymmetry-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Shape.private.md) 
-- [Triz-Ease_of_repair+Asymmetry-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Shape.personal.md) 
-- [Triz-Ease_of_repair+Asymmetry-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Asymmetry-Shape.secret.md) 

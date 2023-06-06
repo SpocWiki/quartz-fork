@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krempe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Krempe.md) 
-- [Krempe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Krempe.internal.md) 
-- [Krempe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Krempe.protect.md) 
-- [Krempe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Krempe.private.md) 
-- [Krempe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Krempe.personal.md) 
-- [Krempe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Krempe.secret.md) 

@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_epidemiology](../../../../_public/schema.org/Predicate/Texts/has_epidemiology.md) 
-- [has_epidemiology.internal](../../../../_internal/schema.org/Predicate/Texts/has_epidemiology.internal.md) 
-- [has_epidemiology.protect](../../../../_protect/schema.org/Predicate/Texts/has_epidemiology.protect.md) 
-- [has_epidemiology.private](../../../../_private/schema.org/Predicate/Texts/has_epidemiology.private.md) 
-- [has_epidemiology.personal](../../../../_personal/schema.org/Predicate/Texts/has_epidemiology.personal.md) 
-- [has_epidemiology.secret](../../../../_secret/schema.org/Predicate/Texts/has_epidemiology.secret.md) 

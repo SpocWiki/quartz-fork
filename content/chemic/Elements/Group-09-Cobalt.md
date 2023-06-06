@@ -19,10 +19,3 @@ title: Group-09-Cobalt
 
 
 
-## Confidential Links & Embeds: 
-- [Group-09-Cobalt](../../../_public/chemic/Elements/Group-09-Cobalt.md) 
-- [Group-09-Cobalt.internal](../../../_internal/chemic/Elements/Group-09-Cobalt.internal.md) 
-- [Group-09-Cobalt.protect](../../../_protect/chemic/Elements/Group-09-Cobalt.protect.md) 
-- [Group-09-Cobalt.private](../../../_private/chemic/Elements/Group-09-Cobalt.private.md) 
-- [Group-09-Cobalt.personal](../../../_personal/chemic/Elements/Group-09-Cobalt.personal.md) 
-- [Group-09-Cobalt.secret](../../../_secret/chemic/Elements/Group-09-Cobalt.secret.md) 

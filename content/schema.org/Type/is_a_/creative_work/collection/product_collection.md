@@ -45,10 +45,3 @@ A set of products (either <a class="localLink" href="/ProductGroup">ProductGroup
 
 
 
-## Confidential Links & Embeds: 
-- [product_collection](../../../../../../_public/schema.org/Type/is_a_/creative_work/collection/product_collection.md) 
-- [product_collection.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/collection/product_collection.internal.md) 
-- [product_collection.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/collection/product_collection.protect.md) 
-- [product_collection.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/collection/product_collection.private.md) 
-- [product_collection.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/collection/product_collection.personal.md) 
-- [product_collection.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/collection/product_collection.secret.md) 

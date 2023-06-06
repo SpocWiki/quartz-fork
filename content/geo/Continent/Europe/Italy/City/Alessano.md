@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alessano](../../../../../../_public/geo/Continent/Europe/Italy/City/Alessano.md) 
-- [Alessano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Alessano.internal.md) 
-- [Alessano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Alessano.protect.md) 
-- [Alessano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Alessano.private.md) 
-- [Alessano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Alessano.personal.md) 
-- [Alessano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Alessano.secret.md) 

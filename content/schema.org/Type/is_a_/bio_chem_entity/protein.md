@@ -45,10 +45,3 @@ Protein is here used in its widest possible definition, as classes of amino acid
 
 
 
-## Confidential Links & Embeds: 
-- [protein](../../../../../_public/schema.org/Type/is_a_/bio_chem_entity/protein.md) 
-- [protein.internal](../../../../../_internal/schema.org/Type/is_a_/bio_chem_entity/protein.internal.md) 
-- [protein.protect](../../../../../_protect/schema.org/Type/is_a_/bio_chem_entity/protein.protect.md) 
-- [protein.private](../../../../../_private/schema.org/Type/is_a_/bio_chem_entity/protein.private.md) 
-- [protein.personal](../../../../../_personal/schema.org/Type/is_a_/bio_chem_entity/protein.personal.md) 
-- [protein.secret](../../../../../_secret/schema.org/Type/is_a_/bio_chem_entity/protein.secret.md) 

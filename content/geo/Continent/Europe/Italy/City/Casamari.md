@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Casamari](../../../../../../_public/geo/Continent/Europe/Italy/City/Casamari.md) 
-- [Casamari.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Casamari.internal.md) 
-- [Casamari.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Casamari.protect.md) 
-- [Casamari.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Casamari.private.md) 
-- [Casamari.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Casamari.personal.md) 
-- [Casamari.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Casamari.secret.md) 

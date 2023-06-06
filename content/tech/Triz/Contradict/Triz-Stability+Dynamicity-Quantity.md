@@ -19,10 +19,3 @@ title: Triz-Stability+Dynamicity-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Dynamicity-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Stability+Dynamicity-Quantity.md) 
-- [Triz-Stability+Dynamicity-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Dynamicity-Quantity.internal.md) 
-- [Triz-Stability+Dynamicity-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Dynamicity-Quantity.protect.md) 
-- [Triz-Stability+Dynamicity-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Dynamicity-Quantity.private.md) 
-- [Triz-Stability+Dynamicity-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Dynamicity-Quantity.personal.md) 
-- [Triz-Stability+Dynamicity-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Dynamicity-Quantity.secret.md) 

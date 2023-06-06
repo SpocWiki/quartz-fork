@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Kitalphar](../../../_public/astro/Star/Kitalphar.md) 
-- [Kitalphar.internal](../../../_internal/astro/Star/Kitalphar.internal.md) 
-- [Kitalphar.protect](../../../_protect/astro/Star/Kitalphar.protect.md) 
-- [Kitalphar.private](../../../_private/astro/Star/Kitalphar.private.md) 
-- [Kitalphar.personal](../../../_personal/astro/Star/Kitalphar.personal.md) 
-- [Kitalphar.secret](../../../_secret/astro/Star/Kitalphar.secret.md)
-

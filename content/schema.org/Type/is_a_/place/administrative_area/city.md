@@ -43,10 +43,3 @@ A city or town.
 
 
 
-## Confidential Links & Embeds: 
-- [city](../../../../../../_public/schema.org/Type/is_a_/place/administrative_area/city.md) 
-- [city.internal](../../../../../../_internal/schema.org/Type/is_a_/place/administrative_area/city.internal.md) 
-- [city.protect](../../../../../../_protect/schema.org/Type/is_a_/place/administrative_area/city.protect.md) 
-- [city.private](../../../../../../_private/schema.org/Type/is_a_/place/administrative_area/city.private.md) 
-- [city.personal](../../../../../../_personal/schema.org/Type/is_a_/place/administrative_area/city.personal.md) 
-- [city.secret](../../../../../../_secret/schema.org/Type/is_a_/place/administrative_area/city.secret.md) 

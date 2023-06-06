@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gifhorn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.md) 
-- [Gifhorn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.internal.md) 
-- [Gifhorn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.protect.md) 
-- [Gifhorn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.private.md) 
-- [Gifhorn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.personal.md) 
-- [Gifhorn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gifhorn.secret.md) 

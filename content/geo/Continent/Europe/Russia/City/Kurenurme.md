@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kurenurme](../../../../../../_public/geo/Continent/Europe/Russia/City/Kurenurme.md) 
-- [Kurenurme.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kurenurme.internal.md) 
-- [Kurenurme.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kurenurme.protect.md) 
-- [Kurenurme.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kurenurme.private.md) 
-- [Kurenurme.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kurenurme.personal.md) 
-- [Kurenurme.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kurenurme.secret.md) 

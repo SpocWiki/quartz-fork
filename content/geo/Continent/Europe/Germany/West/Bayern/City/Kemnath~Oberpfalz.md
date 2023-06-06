@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kemnath~Oberpfalz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.md) 
-- [Kemnath~Oberpfalz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.internal.md) 
-- [Kemnath~Oberpfalz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.protect.md) 
-- [Kemnath~Oberpfalz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.private.md) 
-- [Kemnath~Oberpfalz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.personal.md) 
-- [Kemnath~Oberpfalz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.secret.md) 

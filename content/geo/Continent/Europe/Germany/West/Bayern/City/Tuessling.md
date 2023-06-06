@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tuessling](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Tuessling.md) 
-- [Tuessling.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tuessling.internal.md) 
-- [Tuessling.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tuessling.protect.md) 
-- [Tuessling.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tuessling.private.md) 
-- [Tuessling.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Tuessling.personal.md) 
-- [Tuessling.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Tuessling.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Lauingen.md) 
-- [Lauingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Lauingen.internal.md) 
-- [Lauingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Lauingen.protect.md) 
-- [Lauingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Lauingen.private.md) 
-- [Lauingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Lauingen.personal.md) 
-- [Lauingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Lauingen.secret.md) 

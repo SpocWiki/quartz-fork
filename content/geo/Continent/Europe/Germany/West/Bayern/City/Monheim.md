@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Monheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Monheim.md) 
-- [Monheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Monheim.internal.md) 
-- [Monheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Monheim.protect.md) 
-- [Monheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Monheim.private.md) 
-- [Monheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Monheim.personal.md) 
-- [Monheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Monheim.secret.md) 

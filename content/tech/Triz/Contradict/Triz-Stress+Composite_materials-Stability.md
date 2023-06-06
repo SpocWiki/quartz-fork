@@ -19,10 +19,3 @@ title: Triz-Stress+Composite_materials-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Composite_materials-Stability](../../../../_public/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.md) 
-- [Triz-Stress+Composite_materials-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.internal.md) 
-- [Triz-Stress+Composite_materials-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.protect.md) 
-- [Triz-Stress+Composite_materials-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.private.md) 
-- [Triz-Stress+Composite_materials-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.personal.md) 
-- [Triz-Stress+Composite_materials-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Composite_materials-Stability.secret.md) 

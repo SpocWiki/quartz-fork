@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Kostroma_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Kostroma_Oblast.md) 
-- [State-Kostroma_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Kostroma_Oblast.internal.md) 
-- [State-Kostroma_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Kostroma_Oblast.protect.md) 
-- [State-Kostroma_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Kostroma_Oblast.private.md) 
-- [State-Kostroma_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Kostroma_Oblast.personal.md) 
-- [State-Kostroma_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Kostroma_Oblast.secret.md) 

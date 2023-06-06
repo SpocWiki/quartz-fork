@@ -45,10 +45,3 @@ The act of forming one's opinion, reaction or sentiment.
 
 
 
-## Confidential Links & Embeds: 
-- [assess_action](../../../../../_public/schema.org/Type/is_a_/action/assess_action.md) 
-- [assess_action.internal](../../../../../_internal/schema.org/Type/is_a_/action/assess_action.internal.md) 
-- [assess_action.protect](../../../../../_protect/schema.org/Type/is_a_/action/assess_action.protect.md) 
-- [assess_action.private](../../../../../_private/schema.org/Type/is_a_/action/assess_action.private.md) 
-- [assess_action.personal](../../../../../_personal/schema.org/Type/is_a_/action/assess_action.personal.md) 
-- [assess_action.secret](../../../../../_secret/schema.org/Type/is_a_/action/assess_action.secret.md) 

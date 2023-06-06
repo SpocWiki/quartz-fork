@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kablow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kablow.md) 
-- [Kablow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kablow.internal.md) 
-- [Kablow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kablow.protect.md) 
-- [Kablow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kablow.private.md) 
-- [Kablow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kablow.personal.md) 
-- [Kablow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kablow.secret.md) 

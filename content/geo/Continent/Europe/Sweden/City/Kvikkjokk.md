@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kvikkjokk](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kvikkjokk.md) 
-- [Kvikkjokk.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kvikkjokk.internal.md) 
-- [Kvikkjokk.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kvikkjokk.protect.md) 
-- [Kvikkjokk.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kvikkjokk.private.md) 
-- [Kvikkjokk.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kvikkjokk.personal.md) 
-- [Kvikkjokk.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kvikkjokk.secret.md) 

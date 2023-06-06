@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vire](../../../../../../_public/geo/Continent/Europe/France/City/Vire.md) 
-- [Vire.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vire.internal.md) 
-- [Vire.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vire.protect.md) 
-- [Vire.private](../../../../../../_private/geo/Continent/Europe/France/City/Vire.private.md) 
-- [Vire.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vire.personal.md) 
-- [Vire.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vire.secret.md) 

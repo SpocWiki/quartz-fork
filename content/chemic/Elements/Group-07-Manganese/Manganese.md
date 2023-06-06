@@ -39,10 +39,3 @@ SpocWebEntityId: 21925
 
 
 
-## Confidential Links & Embeds: 
-- [Manganese](../../../../_public/chemic/Elements/Group-07-Manganese/Manganese.md) 
-- [Manganese.internal](../../../../_internal/chemic/Elements/Group-07-Manganese/Manganese.internal.md) 
-- [Manganese.protect](../../../../_protect/chemic/Elements/Group-07-Manganese/Manganese.protect.md) 
-- [Manganese.private](../../../../_private/chemic/Elements/Group-07-Manganese/Manganese.private.md) 
-- [Manganese.personal](../../../../_personal/chemic/Elements/Group-07-Manganese/Manganese.personal.md) 
-- [Manganese.secret](../../../../_secret/chemic/Elements/Group-07-Manganese/Manganese.secret.md) 

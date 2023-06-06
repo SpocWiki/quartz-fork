@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Thuban](../../../_public/astro/Star/Thuban.md) 
-- [Thuban.internal](../../../_internal/astro/Star/Thuban.internal.md) 
-- [Thuban.protect](../../../_protect/astro/Star/Thuban.protect.md) 
-- [Thuban.private](../../../_private/astro/Star/Thuban.private.md) 
-- [Thuban.personal](../../../_personal/astro/Star/Thuban.personal.md) 
-- [Thuban.secret](../../../_secret/astro/Star/Thuban.secret.md) 

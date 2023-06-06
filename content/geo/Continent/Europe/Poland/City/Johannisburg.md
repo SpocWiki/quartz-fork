@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Johannisburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Johannisburg.md) 
-- [Johannisburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Johannisburg.internal.md) 
-- [Johannisburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Johannisburg.protect.md) 
-- [Johannisburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Johannisburg.private.md) 
-- [Johannisburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Johannisburg.personal.md) 
-- [Johannisburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Johannisburg.secret.md) 

@@ -45,10 +45,3 @@ The character of a medical substance, typically a medicine, of being available o
 
 
 
-## Confidential Links & Embeds: 
-- [otc](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/otc.md) 
-- [otc.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/otc.internal.md) 
-- [otc.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/otc.protect.md) 
-- [otc.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/otc.private.md) 
-- [otc.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/otc.personal.md) 
-- [otc.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/otc.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rothfliess](../../../../../../_public/geo/Continent/Europe/Poland/City/Rothfliess.md) 
-- [Rothfliess.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rothfliess.internal.md) 
-- [Rothfliess.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rothfliess.protect.md) 
-- [Rothfliess.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rothfliess.private.md) 
-- [Rothfliess.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rothfliess.personal.md) 
-- [Rothfliess.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rothfliess.secret.md) 

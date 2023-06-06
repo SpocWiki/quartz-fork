@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Raubu](../../../../../../_public/geo/Continent/Europe/Finland/City/Raubu.md) 
-- [Raubu.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Raubu.internal.md) 
-- [Raubu.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Raubu.protect.md) 
-- [Raubu.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Raubu.private.md) 
-- [Raubu.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Raubu.personal.md) 
-- [Raubu.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Raubu.secret.md) 

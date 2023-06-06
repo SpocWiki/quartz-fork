@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Belrock](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Belrock.md) 
-- [Belrock.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Belrock.internal.md) 
-- [Belrock.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Belrock.protect.md) 
-- [Belrock.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Belrock.private.md) 
-- [Belrock.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Belrock.personal.md) 
-- [Belrock.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Belrock.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kustendjil](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Kustendjil.md) 
-- [Kustendjil.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Kustendjil.internal.md) 
-- [Kustendjil.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Kustendjil.protect.md) 
-- [Kustendjil.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Kustendjil.private.md) 
-- [Kustendjil.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Kustendjil.personal.md) 
-- [Kustendjil.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Kustendjil.secret.md) 

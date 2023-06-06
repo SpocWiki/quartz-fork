@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Plymouth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Plymouth.md) 
-- [Plymouth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Plymouth.internal.md) 
-- [Plymouth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Plymouth.protect.md) 
-- [Plymouth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Plymouth.private.md) 
-- [Plymouth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Plymouth.personal.md) 
-- [Plymouth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Plymouth.secret.md) 

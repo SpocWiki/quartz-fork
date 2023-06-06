@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Swansea](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Swansea.md) 
-- [Swansea.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Swansea.internal.md) 
-- [Swansea.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Swansea.protect.md) 
-- [Swansea.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Swansea.private.md) 
-- [Swansea.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Swansea.personal.md) 
-- [Swansea.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Swansea.secret.md) 

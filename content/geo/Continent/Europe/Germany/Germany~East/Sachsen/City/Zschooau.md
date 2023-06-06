@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zschooau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschooau.md) 
-- [Zschooau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschooau.internal.md) 
-- [Zschooau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschooau.protect.md) 
-- [Zschooau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschooau.private.md) 
-- [Zschooau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschooau.personal.md) 
-- [Zschooau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zschooau.secret.md) 

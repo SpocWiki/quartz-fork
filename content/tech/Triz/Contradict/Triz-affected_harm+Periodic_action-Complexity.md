@@ -19,10 +19,3 @@ title: Triz-affected_harm+Periodic_action-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Periodic_action-Complexity](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.md) 
-- [Triz-affected_harm+Periodic_action-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.internal.md) 
-- [Triz-affected_harm+Periodic_action-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.protect.md) 
-- [Triz-affected_harm+Periodic_action-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.private.md) 
-- [Triz-affected_harm+Periodic_action-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.personal.md) 
-- [Triz-affected_harm+Periodic_action-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Periodic_action-Complexity.secret.md) 

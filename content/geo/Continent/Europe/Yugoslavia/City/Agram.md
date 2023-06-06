@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Agram](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Agram.md) 
-- [Agram.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Agram.internal.md) 
-- [Agram.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Agram.protect.md) 
-- [Agram.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Agram.private.md) 
-- [Agram.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Agram.personal.md) 
-- [Agram.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Agram.secret.md) 

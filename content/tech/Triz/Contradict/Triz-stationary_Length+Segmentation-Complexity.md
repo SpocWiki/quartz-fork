@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Segmentation-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Segmentation-Complexity](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Complexity.md) 
-- [Triz-stationary_Length+Segmentation-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Complexity.internal.md) 
-- [Triz-stationary_Length+Segmentation-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Complexity.protect.md) 
-- [Triz-stationary_Length+Segmentation-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Complexity.private.md) 
-- [Triz-stationary_Length+Segmentation-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Complexity.personal.md) 
-- [Triz-stationary_Length+Segmentation-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Segmentation-Complexity.secret.md) 

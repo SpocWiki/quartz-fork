@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Portnahaven](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Portnahaven.md) 
-- [Portnahaven.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Portnahaven.internal.md) 
-- [Portnahaven.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Portnahaven.protect.md) 
-- [Portnahaven.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Portnahaven.private.md) 
-- [Portnahaven.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Portnahaven.personal.md) 
-- [Portnahaven.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Portnahaven.secret.md) 

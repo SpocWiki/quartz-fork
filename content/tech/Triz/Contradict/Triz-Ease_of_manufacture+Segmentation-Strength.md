@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Segmentation-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Segmentation-Strength](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Strength.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Strength.internal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Strength.protect.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Strength.private.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Strength.personal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Strength.secret.md) 

@@ -43,10 +43,3 @@ An electrician.
 
 
 
-## Confidential Links & Embeds: 
-- [electrician](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.md) 
-- [electrician.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.internal.md) 
-- [electrician.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.protect.md) 
-- [electrician.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.private.md) 
-- [electrician.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.personal.md) 
-- [electrician.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.secret.md) 

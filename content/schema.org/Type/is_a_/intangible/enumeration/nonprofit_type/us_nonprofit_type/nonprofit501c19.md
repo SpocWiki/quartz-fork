@@ -47,10 +47,3 @@ Nonprofit501c19: Non-profit type referring to Post or Organization of Past or Pr
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c19](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c19.md) 
-- [nonprofit501c19.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c19.internal.md) 
-- [nonprofit501c19.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c19.protect.md) 
-- [nonprofit501c19.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c19.private.md) 
-- [nonprofit501c19.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c19.personal.md) 
-- [nonprofit501c19.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c19.secret.md) 

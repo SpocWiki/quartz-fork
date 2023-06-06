@@ -124,7 +124,7 @@ markerFolder: ./Uzbekistan/City
 
 ![350](geo/Continent/Asia/Uzbekistan/Emblem_of_Uzbekistan.svg)
 
-![Anthem-Uzbekistan](xLarge/National-Anthem/Anthem-Uzbekistan.mp3)
+[Anthem-Uzbekistan](xLarge/National-Anthem/Anthem-Uzbekistan.mp3)
 
 ![350](geo/Continent/Asia/Uzbekistan/Flag_of_Uzbekistan.svg)
 
@@ -135,10 +135,3 @@ markerFolder: ./Uzbekistan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Uzbekistan](../../../../_public/geo/Continent/Asia/Uzbekistan.md) 
-- [Uzbekistan.internal](../../../../_internal/geo/Continent/Asia/Uzbekistan.internal.md) 
-- [Uzbekistan.protect](../../../../_protect/geo/Continent/Asia/Uzbekistan.protect.md) 
-- [Uzbekistan.private](../../../../_private/geo/Continent/Asia/Uzbekistan.private.md) 
-- [Uzbekistan.personal](../../../../_personal/geo/Continent/Asia/Uzbekistan.personal.md) 
-- [Uzbekistan.secret](../../../../_secret/geo/Continent/Asia/Uzbekistan.secret.md) 

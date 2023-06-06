@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vergorac](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Vergorac.md) 
-- [Vergorac.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Vergorac.internal.md) 
-- [Vergorac.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Vergorac.protect.md) 
-- [Vergorac.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Vergorac.private.md) 
-- [Vergorac.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Vergorac.personal.md) 
-- [Vergorac.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Vergorac.secret.md) 

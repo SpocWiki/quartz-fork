@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heinersdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Heinersdorf.md) 
-- [Heinersdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Heinersdorf.internal.md) 
-- [Heinersdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Heinersdorf.protect.md) 
-- [Heinersdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Heinersdorf.private.md) 
-- [Heinersdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Heinersdorf.personal.md) 
-- [Heinersdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Heinersdorf.secret.md) 

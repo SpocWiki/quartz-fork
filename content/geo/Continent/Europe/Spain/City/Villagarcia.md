@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Villagarcia](../../../../../../_public/geo/Continent/Europe/Spain/City/Villagarcia.md) 
-- [Villagarcia.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Villagarcia.internal.md) 
-- [Villagarcia.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Villagarcia.protect.md) 
-- [Villagarcia.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Villagarcia.private.md) 
-- [Villagarcia.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Villagarcia.personal.md) 
-- [Villagarcia.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Villagarcia.secret.md) 

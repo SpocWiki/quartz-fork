@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stipanj](../../../../../../_public/geo/Continent/Europe/Albania/City/Stipanj.md) 
-- [Stipanj.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Stipanj.internal.md) 
-- [Stipanj.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Stipanj.protect.md) 
-- [Stipanj.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Stipanj.private.md) 
-- [Stipanj.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Stipanj.personal.md) 
-- [Stipanj.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Stipanj.secret.md) 

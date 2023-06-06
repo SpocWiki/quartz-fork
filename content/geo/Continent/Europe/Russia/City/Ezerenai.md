@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ezerenai](../../../../../../_public/geo/Continent/Europe/Russia/City/Ezerenai.md) 
-- [Ezerenai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ezerenai.internal.md) 
-- [Ezerenai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ezerenai.protect.md) 
-- [Ezerenai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ezerenai.private.md) 
-- [Ezerenai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ezerenai.personal.md) 
-- [Ezerenai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ezerenai.secret.md) 

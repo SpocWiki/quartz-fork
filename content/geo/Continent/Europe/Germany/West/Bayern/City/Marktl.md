@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marktl](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Marktl.md) 
-- [Marktl.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Marktl.internal.md) 
-- [Marktl.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Marktl.protect.md) 
-- [Marktl.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Marktl.private.md) 
-- [Marktl.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Marktl.personal.md) 
-- [Marktl.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Marktl.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saeby](../../../../../../_public/geo/Continent/Europe/Sweden/City/Saeby.md) 
-- [Saeby.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Saeby.internal.md) 
-- [Saeby.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Saeby.protect.md) 
-- [Saeby.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Saeby.private.md) 
-- [Saeby.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Saeby.personal.md) 
-- [Saeby.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Saeby.secret.md) 

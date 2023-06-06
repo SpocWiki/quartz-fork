@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rudoltowitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Rudoltowitz.md) 
-- [Rudoltowitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rudoltowitz.internal.md) 
-- [Rudoltowitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rudoltowitz.protect.md) 
-- [Rudoltowitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rudoltowitz.private.md) 
-- [Rudoltowitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rudoltowitz.personal.md) 
-- [Rudoltowitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rudoltowitz.secret.md) 

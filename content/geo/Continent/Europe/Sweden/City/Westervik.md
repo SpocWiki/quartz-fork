@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Westervik](../../../../../../_public/geo/Continent/Europe/Sweden/City/Westervik.md) 
-- [Westervik.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Westervik.internal.md) 
-- [Westervik.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Westervik.protect.md) 
-- [Westervik.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Westervik.private.md) 
-- [Westervik.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Westervik.personal.md) 
-- [Westervik.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Westervik.secret.md) 

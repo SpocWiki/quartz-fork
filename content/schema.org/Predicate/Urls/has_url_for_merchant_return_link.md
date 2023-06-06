@@ -49,10 +49,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_url_for_merchant_return_link](../../../../_public/schema.org/Predicate/Urls/has_url_for_merchant_return_link.md) 
-- [has_url_for_merchant_return_link.internal](../../../../_internal/schema.org/Predicate/Urls/has_url_for_merchant_return_link.internal.md) 
-- [has_url_for_merchant_return_link.protect](../../../../_protect/schema.org/Predicate/Urls/has_url_for_merchant_return_link.protect.md) 
-- [has_url_for_merchant_return_link.private](../../../../_private/schema.org/Predicate/Urls/has_url_for_merchant_return_link.private.md) 
-- [has_url_for_merchant_return_link.personal](../../../../_personal/schema.org/Predicate/Urls/has_url_for_merchant_return_link.personal.md) 
-- [has_url_for_merchant_return_link.secret](../../../../_secret/schema.org/Predicate/Urls/has_url_for_merchant_return_link.secret.md) 

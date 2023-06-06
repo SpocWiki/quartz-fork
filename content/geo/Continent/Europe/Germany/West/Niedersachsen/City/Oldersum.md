@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oldersum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldersum.md) 
-- [Oldersum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldersum.internal.md) 
-- [Oldersum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldersum.protect.md) 
-- [Oldersum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldersum.private.md) 
-- [Oldersum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldersum.personal.md) 
-- [Oldersum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oldersum.secret.md) 

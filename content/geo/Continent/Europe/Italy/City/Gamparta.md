@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gamparta](../../../../../../_public/geo/Continent/Europe/Italy/City/Gamparta.md) 
-- [Gamparta.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Gamparta.internal.md) 
-- [Gamparta.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Gamparta.protect.md) 
-- [Gamparta.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Gamparta.private.md) 
-- [Gamparta.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Gamparta.personal.md) 
-- [Gamparta.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Gamparta.secret.md) 

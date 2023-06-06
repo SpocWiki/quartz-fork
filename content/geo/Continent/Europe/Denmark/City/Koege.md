@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koege](../../../../../../_public/geo/Continent/Europe/Denmark/City/Koege.md) 
-- [Koege.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Koege.internal.md) 
-- [Koege.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Koege.protect.md) 
-- [Koege.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Koege.private.md) 
-- [Koege.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Koege.personal.md) 
-- [Koege.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Koege.secret.md) 

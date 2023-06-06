@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ybbs~Donau](../../../../../../_public/geo/Continent/Europe/Austria/City/Ybbs~Donau.md) 
-- [Ybbs~Donau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Ybbs~Donau.internal.md) 
-- [Ybbs~Donau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Ybbs~Donau.protect.md) 
-- [Ybbs~Donau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Ybbs~Donau.private.md) 
-- [Ybbs~Donau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Ybbs~Donau.personal.md) 
-- [Ybbs~Donau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Ybbs~Donau.secret.md) 

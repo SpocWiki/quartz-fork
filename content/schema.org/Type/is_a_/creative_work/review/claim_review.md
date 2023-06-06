@@ -43,10 +43,3 @@ A fact-checking review of claims made (or reported) in some creative work (refer
 
 
 
-## Confidential Links & Embeds: 
-- [claim_review](../../../../../../_public/schema.org/Type/is_a_/creative_work/review/claim_review.md) 
-- [claim_review.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/claim_review.internal.md) 
-- [claim_review.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/claim_review.protect.md) 
-- [claim_review.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/review/claim_review.private.md) 
-- [claim_review.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/claim_review.personal.md) 
-- [claim_review.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/claim_review.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_L
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.md) 
-- [Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.internal.md) 
-- [Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.protect.md) 
-- [Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.private.md) 
-- [Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.personal.md) 
-- [Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Partial,_overdone,_or_excessive_action-moving_Length.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hontskari](../../../../../../_public/geo/Continent/Europe/Finland/City/Hontskari.md) 
-- [Hontskari.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Hontskari.internal.md) 
-- [Hontskari.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Hontskari.protect.md) 
-- [Hontskari.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Hontskari.private.md) 
-- [Hontskari.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Hontskari.personal.md) 
-- [Hontskari.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Hontskari.secret.md) 

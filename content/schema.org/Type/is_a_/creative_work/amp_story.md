@@ -45,10 +45,3 @@ A creative work with a visual storytelling format intended to be viewed online, 
 
 
 
-## Confidential Links & Embeds: 
-- [amp_story](../../../../../_public/schema.org/Type/is_a_/creative_work/amp_story.md) 
-- [amp_story.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/amp_story.internal.md) 
-- [amp_story.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/amp_story.protect.md) 
-- [amp_story.private](../../../../../_private/schema.org/Type/is_a_/creative_work/amp_story.private.md) 
-- [amp_story.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/amp_story.personal.md) 
-- [amp_story.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/amp_story.secret.md) 

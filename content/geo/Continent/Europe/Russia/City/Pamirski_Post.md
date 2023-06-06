@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pamirski_Post](../../../../../../_public/geo/Continent/Europe/Russia/City/Pamirski_Post.md) 
-- [Pamirski_Post.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Pamirski_Post.internal.md) 
-- [Pamirski_Post.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Pamirski_Post.protect.md) 
-- [Pamirski_Post.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Pamirski_Post.private.md) 
-- [Pamirski_Post.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Pamirski_Post.personal.md) 
-- [Pamirski_Post.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Pamirski_Post.secret.md) 

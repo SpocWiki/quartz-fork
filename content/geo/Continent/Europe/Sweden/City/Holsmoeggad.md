@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Holsmoeggad](../../../../../../_public/geo/Continent/Europe/Sweden/City/Holsmoeggad.md) 
-- [Holsmoeggad.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Holsmoeggad.internal.md) 
-- [Holsmoeggad.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Holsmoeggad.protect.md) 
-- [Holsmoeggad.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Holsmoeggad.private.md) 
-- [Holsmoeggad.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Holsmoeggad.personal.md) 
-- [Holsmoeggad.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Holsmoeggad.secret.md) 

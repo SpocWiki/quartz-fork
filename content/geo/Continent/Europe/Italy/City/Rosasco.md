@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rosasco](../../../../../../_public/geo/Continent/Europe/Italy/City/Rosasco.md) 
-- [Rosasco.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Rosasco.internal.md) 
-- [Rosasco.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Rosasco.protect.md) 
-- [Rosasco.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Rosasco.private.md) 
-- [Rosasco.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Rosasco.personal.md) 
-- [Rosasco.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Rosasco.secret.md) 

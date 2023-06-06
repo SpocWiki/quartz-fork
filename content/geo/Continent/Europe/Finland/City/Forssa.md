@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Forssa](../../../../../../_public/geo/Continent/Europe/Finland/City/Forssa.md) 
-- [Forssa.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Forssa.internal.md) 
-- [Forssa.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Forssa.protect.md) 
-- [Forssa.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Forssa.private.md) 
-- [Forssa.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Forssa.personal.md) 
-- [Forssa.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Forssa.secret.md) 

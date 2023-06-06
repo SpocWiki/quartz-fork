@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orange](../../../../../../_public/geo/Continent/Europe/France/City/Orange.md) 
-- [Orange.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Orange.internal.md) 
-- [Orange.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Orange.protect.md) 
-- [Orange.private](../../../../../../_private/geo/Continent/Europe/France/City/Orange.private.md) 
-- [Orange.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Orange.personal.md) 
-- [Orange.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Orange.secret.md) 

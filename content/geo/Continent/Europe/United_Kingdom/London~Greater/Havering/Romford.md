@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Romford](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Havering/Romford.md) 
-- [Romford.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Havering/Romford.internal.md) 
-- [Romford.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Havering/Romford.protect.md) 
-- [Romford.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Havering/Romford.private.md) 
-- [Romford.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Havering/Romford.personal.md) 
-- [Romford.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Havering/Romford.secret.md) 

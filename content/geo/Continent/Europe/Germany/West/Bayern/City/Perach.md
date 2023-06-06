@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Perach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Perach.md) 
-- [Perach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Perach.internal.md) 
-- [Perach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Perach.protect.md) 
-- [Perach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Perach.private.md) 
-- [Perach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Perach.personal.md) 
-- [Perach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Perach.secret.md) 

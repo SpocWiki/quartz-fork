@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zivilsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Zivilsk.md) 
-- [Zivilsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zivilsk.internal.md) 
-- [Zivilsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zivilsk.protect.md) 
-- [Zivilsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zivilsk.private.md) 
-- [Zivilsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zivilsk.personal.md) 
-- [Zivilsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zivilsk.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karvia](../../../../../../_public/geo/Continent/Europe/Finland/City/Karvia.md) 
-- [Karvia.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Karvia.internal.md) 
-- [Karvia.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Karvia.protect.md) 
-- [Karvia.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Karvia.private.md) 
-- [Karvia.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Karvia.personal.md) 
-- [Karvia.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Karvia.secret.md) 

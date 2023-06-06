@@ -123,7 +123,7 @@ markerFolder: ./Venezuela/City
 
 ![350](geo/Continent/South-America/Venezuela/Coat_of_arms_of_Venezuela.svg)
 
-![Anthem-Venezuela](xLarge/National-Anthem/Anthem-Venezuela.mp3)
+[Anthem-Venezuela](xLarge/National-Anthem/Anthem-Venezuela.mp3)
 
 ![350](geo/Continent/South-America/Venezuela/Flag_of_Venezuela.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Venezuela/City
 
 
 
-## Confidential Links & Embeds: 
-- [Venezuela](../../../../_public/geo/Continent/South-America/Venezuela.md) 
-- [Venezuela.internal](../../../../_internal/geo/Continent/South-America/Venezuela.internal.md) 
-- [Venezuela.protect](../../../../_protect/geo/Continent/South-America/Venezuela.protect.md) 
-- [Venezuela.private](../../../../_private/geo/Continent/South-America/Venezuela.private.md) 
-- [Venezuela.personal](../../../../_personal/geo/Continent/South-America/Venezuela.personal.md) 
-- [Venezuela.secret](../../../../_secret/geo/Continent/South-America/Venezuela.secret.md) 

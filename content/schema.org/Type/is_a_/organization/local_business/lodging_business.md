@@ -45,10 +45,3 @@ A lodging business, such as a motel, hotel, or inn.
 
 
 
-## Confidential Links & Embeds: 
-- [lodging_business](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/lodging_business.md) 
-- [lodging_business.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/lodging_business.internal.md) 
-- [lodging_business.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/lodging_business.protect.md) 
-- [lodging_business.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/lodging_business.private.md) 
-- [lodging_business.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/lodging_business.personal.md) 
-- [lodging_business.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/lodging_business.secret.md) 

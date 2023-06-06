@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.md) 
-- [Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.internal.md) 
-- [Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.protect.md) 
-- [Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.private.md) 
-- [Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.personal.md) 
-- [Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Flexible_film_or_thin_membranes-Stability.secret.md) 

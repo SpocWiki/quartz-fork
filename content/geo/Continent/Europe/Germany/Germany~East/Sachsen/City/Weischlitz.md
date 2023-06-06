@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weischlitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weischlitz.md) 
-- [Weischlitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weischlitz.internal.md) 
-- [Weischlitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weischlitz.protect.md) 
-- [Weischlitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weischlitz.private.md) 
-- [Weischlitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weischlitz.personal.md) 
-- [Weischlitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Weischlitz.secret.md) 

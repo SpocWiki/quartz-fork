@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soro](../../../../../../_public/geo/Continent/Europe/Denmark/City/Soro.md) 
-- [Soro.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Soro.internal.md) 
-- [Soro.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Soro.protect.md) 
-- [Soro.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Soro.private.md) 
-- [Soro.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Soro.personal.md) 
-- [Soro.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Soro.secret.md) 

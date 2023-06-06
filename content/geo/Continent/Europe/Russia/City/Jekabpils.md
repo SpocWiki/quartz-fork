@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jekabpils](../../../../../../_public/geo/Continent/Europe/Russia/City/Jekabpils.md) 
-- [Jekabpils.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jekabpils.internal.md) 
-- [Jekabpils.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jekabpils.protect.md) 
-- [Jekabpils.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jekabpils.private.md) 
-- [Jekabpils.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jekabpils.personal.md) 
-- [Jekabpils.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jekabpils.secret.md) 

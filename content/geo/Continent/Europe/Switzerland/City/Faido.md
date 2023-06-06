@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Faido](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Faido.md) 
-- [Faido.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Faido.internal.md) 
-- [Faido.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Faido.protect.md) 
-- [Faido.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Faido.private.md) 
-- [Faido.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Faido.personal.md) 
-- [Faido.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Faido.secret.md) 

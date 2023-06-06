@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brueckenau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Brueckenau.md) 
-- [Brueckenau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Brueckenau.internal.md) 
-- [Brueckenau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Brueckenau.protect.md) 
-- [Brueckenau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Brueckenau.private.md) 
-- [Brueckenau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Brueckenau.personal.md) 
-- [Brueckenau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Brueckenau.secret.md) 

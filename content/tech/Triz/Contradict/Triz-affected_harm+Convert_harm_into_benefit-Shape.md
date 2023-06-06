@@ -19,10 +19,3 @@ title: Triz-affected_harm+Convert_harm_into_benefit-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Convert_harm_into_benefit-Shape](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.internal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.protect.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.private.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.personal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Shape.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hamm~Westfalen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.md) 
-- [Hamm~Westfalen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.internal.md) 
-- [Hamm~Westfalen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.protect.md) 
-- [Hamm~Westfalen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.private.md) 
-- [Hamm~Westfalen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.personal.md) 
-- [Hamm~Westfalen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Hamm~Westfalen.secret.md) 

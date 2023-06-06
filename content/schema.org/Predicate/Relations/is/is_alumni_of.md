@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_alumni_of](../../../../../_public/schema.org/Predicate/Relations/is/is_alumni_of.md) 
-- [is_alumni_of.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_alumni_of.internal.md) 
-- [is_alumni_of.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_alumni_of.protect.md) 
-- [is_alumni_of.private](../../../../../_private/schema.org/Predicate/Relations/is/is_alumni_of.private.md) 
-- [is_alumni_of.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_alumni_of.personal.md) 
-- [is_alumni_of.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_alumni_of.secret.md) 

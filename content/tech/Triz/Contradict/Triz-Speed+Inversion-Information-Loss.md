@@ -19,10 +19,3 @@ title: Triz-Speed+Inversion-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Inversion-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.md) 
-- [Triz-Speed+Inversion-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.internal.md) 
-- [Triz-Speed+Inversion-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.protect.md) 
-- [Triz-Speed+Inversion-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.private.md) 
-- [Triz-Speed+Inversion-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.personal.md) 
-- [Triz-Speed+Inversion-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Inversion-Information-Loss.secret.md) 

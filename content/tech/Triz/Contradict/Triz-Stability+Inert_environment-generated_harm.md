@@ -19,10 +19,3 @@ title: Triz-Stability+Inert_environment-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Inert_environment-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Stability+Inert_environment-generated_harm.md) 
-- [Triz-Stability+Inert_environment-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Inert_environment-generated_harm.internal.md) 
-- [Triz-Stability+Inert_environment-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Inert_environment-generated_harm.protect.md) 
-- [Triz-Stability+Inert_environment-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Inert_environment-generated_harm.private.md) 
-- [Triz-Stability+Inert_environment-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Inert_environment-generated_harm.personal.md) 
-- [Triz-Stability+Inert_environment-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Inert_environment-generated_harm.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maidstone](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Maidstone.md) 
-- [Maidstone.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Maidstone.internal.md) 
-- [Maidstone.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Maidstone.protect.md) 
-- [Maidstone.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Maidstone.private.md) 
-- [Maidstone.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Maidstone.personal.md) 
-- [Maidstone.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Maidstone.secret.md) 

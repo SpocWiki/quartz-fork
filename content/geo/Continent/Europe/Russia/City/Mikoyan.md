@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mikoyan](../../../../../../_public/geo/Continent/Europe/Russia/City/Mikoyan.md) 
-- [Mikoyan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mikoyan.internal.md) 
-- [Mikoyan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mikoyan.protect.md) 
-- [Mikoyan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mikoyan.private.md) 
-- [Mikoyan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mikoyan.personal.md) 
-- [Mikoyan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mikoyan.secret.md) 

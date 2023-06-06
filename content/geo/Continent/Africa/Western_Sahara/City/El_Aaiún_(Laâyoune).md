@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [El_Aaiún_(Laâyoune)](../../../../../../_public/geo/Continent/Africa/Western_Sahara/City/El_Aai%C3%BAn_(La%C3%A2youne).md) 
-- [El_Aaiún_(Laâyoune).internal](../../../../../../_internal/geo/Continent/Africa/Western_Sahara/City/El_Aai%C3%BAn_(La%C3%A2youne).internal.md) 
-- [El_Aaiún_(Laâyoune).protect](../../../../../../_protect/geo/Continent/Africa/Western_Sahara/City/El_Aai%C3%BAn_(La%C3%A2youne).protect.md) 
-- [El_Aaiún_(Laâyoune).private](../../../../../../_private/geo/Continent/Africa/Western_Sahara/City/El_Aai%C3%BAn_(La%C3%A2youne).private.md) 
-- [El_Aaiún_(Laâyoune).personal](../../../../../../_personal/geo/Continent/Africa/Western_Sahara/City/El_Aai%C3%BAn_(La%C3%A2youne).personal.md) 
-- [El_Aaiún_(Laâyoune).secret](../../../../../../_secret/geo/Continent/Africa/Western_Sahara/City/El_Aai%C3%BAn_(La%C3%A2youne).secret.md) 

@@ -43,10 +43,3 @@ An indication for a medical therapy that has been formally specified or approved
 
 
 
-## Confidential Links & Embeds: 
-- [approved_indication](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_indication/approved_indication.md) 
-- [approved_indication.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_indication/approved_indication.internal.md) 
-- [approved_indication.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_indication/approved_indication.protect.md) 
-- [approved_indication.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_indication/approved_indication.private.md) 
-- [approved_indication.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_indication/approved_indication.personal.md) 
-- [approved_indication.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_indication/approved_indication.secret.md) 

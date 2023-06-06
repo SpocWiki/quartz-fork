@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gollnow](../../../../../../_public/geo/Continent/Europe/Poland/City/Gollnow.md) 
-- [Gollnow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gollnow.internal.md) 
-- [Gollnow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gollnow.protect.md) 
-- [Gollnow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gollnow.private.md) 
-- [Gollnow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gollnow.personal.md) 
-- [Gollnow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gollnow.secret.md) 

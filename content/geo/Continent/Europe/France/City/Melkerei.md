@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Melkerei](../../../../../../_public/geo/Continent/Europe/France/City/Melkerei.md) 
-- [Melkerei.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Melkerei.internal.md) 
-- [Melkerei.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Melkerei.protect.md) 
-- [Melkerei.private](../../../../../../_private/geo/Continent/Europe/France/City/Melkerei.private.md) 
-- [Melkerei.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Melkerei.personal.md) 
-- [Melkerei.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Melkerei.secret.md) 

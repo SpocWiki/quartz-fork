@@ -19,10 +19,3 @@ title: Triz-Illumination+Inversion-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Inversion-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Inversion-Complexity.md) 
-- [Triz-Illumination+Inversion-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Inversion-Complexity.internal.md) 
-- [Triz-Illumination+Inversion-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Inversion-Complexity.protect.md) 
-- [Triz-Illumination+Inversion-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Inversion-Complexity.private.md) 
-- [Triz-Illumination+Inversion-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Inversion-Complexity.personal.md) 
-- [Triz-Illumination+Inversion-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Inversion-Complexity.secret.md) 

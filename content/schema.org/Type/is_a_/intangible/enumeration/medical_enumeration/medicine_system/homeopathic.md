@@ -45,10 +45,3 @@ A system of medicine based on the principle that a disease can be cured by a sub
 
 
 
-## Confidential Links & Embeds: 
-- [homeopathic](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.md) 
-- [homeopathic.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.internal.md) 
-- [homeopathic.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.protect.md) 
-- [homeopathic.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.private.md) 
-- [homeopathic.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.personal.md) 
-- [homeopathic.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mistelbach](../../../../../../_public/geo/Continent/Europe/Austria/City/Mistelbach.md) 
-- [Mistelbach.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Mistelbach.internal.md) 
-- [Mistelbach.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Mistelbach.protect.md) 
-- [Mistelbach.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Mistelbach.private.md) 
-- [Mistelbach.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Mistelbach.personal.md) 
-- [Mistelbach.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Mistelbach.secret.md) 

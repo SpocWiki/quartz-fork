@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ludwigsstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ludwigsstadt.md) 
-- [Ludwigsstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ludwigsstadt.internal.md) 
-- [Ludwigsstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ludwigsstadt.protect.md) 
-- [Ludwigsstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ludwigsstadt.private.md) 
-- [Ludwigsstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ludwigsstadt.personal.md) 
-- [Ludwigsstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Ludwigsstadt.secret.md) 

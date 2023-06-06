@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Villefranch_de_Lauraguais](../../../../../../_public/geo/Continent/Europe/France/City/Villefranch_de_Lauraguais.md) 
-- [Villefranch_de_Lauraguais.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Villefranch_de_Lauraguais.internal.md) 
-- [Villefranch_de_Lauraguais.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Villefranch_de_Lauraguais.protect.md) 
-- [Villefranch_de_Lauraguais.private](../../../../../../_private/geo/Continent/Europe/France/City/Villefranch_de_Lauraguais.private.md) 
-- [Villefranch_de_Lauraguais.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Villefranch_de_Lauraguais.personal.md) 
-- [Villefranch_de_Lauraguais.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Villefranch_de_Lauraguais.secret.md) 

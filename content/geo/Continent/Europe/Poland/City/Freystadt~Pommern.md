@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freystadt~Pommern](../../../../../../_public/geo/Continent/Europe/Poland/City/Freystadt~Pommern.md) 
-- [Freystadt~Pommern.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Freystadt~Pommern.internal.md) 
-- [Freystadt~Pommern.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Freystadt~Pommern.protect.md) 
-- [Freystadt~Pommern.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Freystadt~Pommern.private.md) 
-- [Freystadt~Pommern.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Freystadt~Pommern.personal.md) 
-- [Freystadt~Pommern.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Freystadt~Pommern.secret.md) 

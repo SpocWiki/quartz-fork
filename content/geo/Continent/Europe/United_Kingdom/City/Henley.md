@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Henley](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Henley.md) 
-- [Henley.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Henley.internal.md) 
-- [Henley.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Henley.protect.md) 
-- [Henley.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Henley.private.md) 
-- [Henley.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Henley.personal.md) 
-- [Henley.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Henley.secret.md) 

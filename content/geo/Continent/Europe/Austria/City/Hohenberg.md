@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hohenberg](../../../../../../_public/geo/Continent/Europe/Austria/City/Hohenberg.md) 
-- [Hohenberg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Hohenberg.internal.md) 
-- [Hohenberg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Hohenberg.protect.md) 
-- [Hohenberg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Hohenberg.private.md) 
-- [Hohenberg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Hohenberg.personal.md) 
-- [Hohenberg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Hohenberg.secret.md) 

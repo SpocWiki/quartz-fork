@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Molde](../../../../../../_public/geo/Continent/Europe/Norway/City/Molde.md) 
-- [Molde.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Molde.internal.md) 
-- [Molde.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Molde.protect.md) 
-- [Molde.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Molde.private.md) 
-- [Molde.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Molde.personal.md) 
-- [Molde.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Molde.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Steinbach~Allg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.md) 
-- [Steinbach~Allg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.internal.md) 
-- [Steinbach~Allg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.protect.md) 
-- [Steinbach~Allg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.private.md) 
-- [Steinbach~Allg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.personal.md) 
-- [Steinbach~Allg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.secret.md) 

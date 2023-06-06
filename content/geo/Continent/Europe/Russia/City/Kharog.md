@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kharog](../../../../../../_public/geo/Continent/Europe/Russia/City/Kharog.md) 
-- [Kharog.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kharog.internal.md) 
-- [Kharog.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kharog.protect.md) 
-- [Kharog.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kharog.private.md) 
-- [Kharog.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kharog.personal.md) 
-- [Kharog.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kharog.secret.md) 

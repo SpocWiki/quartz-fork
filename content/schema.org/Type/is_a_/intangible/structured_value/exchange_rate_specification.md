@@ -45,10 +45,3 @@ A structured value representing exchange rate.
 
 
 
-## Confidential Links & Embeds: 
-- [exchange_rate_specification](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.md) 
-- [exchange_rate_specification.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.internal.md) 
-- [exchange_rate_specification.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.protect.md) 
-- [exchange_rate_specification.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.private.md) 
-- [exchange_rate_specification.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.personal.md) 
-- [exchange_rate_specification.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/exchange_rate_specification.secret.md) 

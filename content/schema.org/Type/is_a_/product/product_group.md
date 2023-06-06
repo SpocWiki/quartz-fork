@@ -47,10 +47,3 @@ While a ProductGroup itself is not directly offered for sale, the various varyin
 
 
 
-## Confidential Links & Embeds: 
-- [product_group](../../../../../_public/schema.org/Type/is_a_/product/product_group.md) 
-- [product_group.internal](../../../../../_internal/schema.org/Type/is_a_/product/product_group.internal.md) 
-- [product_group.protect](../../../../../_protect/schema.org/Type/is_a_/product/product_group.protect.md) 
-- [product_group.private](../../../../../_private/schema.org/Type/is_a_/product/product_group.private.md) 
-- [product_group.personal](../../../../../_personal/schema.org/Type/is_a_/product/product_group.personal.md) 
-- [product_group.secret](../../../../../_secret/schema.org/Type/is_a_/product/product_group.secret.md) 

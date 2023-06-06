@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_telephone](../../../../_public/schema.org/Predicate/Texts/has_telephone.md) 
-- [has_telephone.internal](../../../../_internal/schema.org/Predicate/Texts/has_telephone.internal.md) 
-- [has_telephone.protect](../../../../_protect/schema.org/Predicate/Texts/has_telephone.protect.md) 
-- [has_telephone.private](../../../../_private/schema.org/Predicate/Texts/has_telephone.private.md) 
-- [has_telephone.personal](../../../../_personal/schema.org/Predicate/Texts/has_telephone.personal.md) 
-- [has_telephone.secret](../../../../_secret/schema.org/Predicate/Texts/has_telephone.secret.md) 

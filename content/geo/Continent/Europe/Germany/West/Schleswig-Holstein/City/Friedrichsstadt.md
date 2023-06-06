@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Friedrichsstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Friedrichsstadt.md) 
-- [Friedrichsstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Friedrichsstadt.internal.md) 
-- [Friedrichsstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Friedrichsstadt.protect.md) 
-- [Friedrichsstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Friedrichsstadt.private.md) 
-- [Friedrichsstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Friedrichsstadt.personal.md) 
-- [Friedrichsstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Friedrichsstadt.secret.md) 

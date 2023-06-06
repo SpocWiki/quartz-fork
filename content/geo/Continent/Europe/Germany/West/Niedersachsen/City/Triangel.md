@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Triangel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Triangel.md) 
-- [Triangel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Triangel.internal.md) 
-- [Triangel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Triangel.protect.md) 
-- [Triangel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Triangel.private.md) 
-- [Triangel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Triangel.personal.md) 
-- [Triangel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Triangel.secret.md) 

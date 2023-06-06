@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cuneo](../../../../../../_public/geo/Continent/Europe/Italy/City/Cuneo.md) 
-- [Cuneo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cuneo.internal.md) 
-- [Cuneo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cuneo.protect.md) 
-- [Cuneo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cuneo.private.md) 
-- [Cuneo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cuneo.personal.md) 
-- [Cuneo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cuneo.secret.md) 

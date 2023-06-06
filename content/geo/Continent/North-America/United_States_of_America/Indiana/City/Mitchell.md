@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mitchell](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.md) 
-- [Mitchell.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.internal.md) 
-- [Mitchell.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.protect.md) 
-- [Mitchell.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.private.md) 
-- [Mitchell.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.personal.md) 
-- [Mitchell.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Indiana/City/Mitchell.secret.md) 

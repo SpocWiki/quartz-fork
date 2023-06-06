@@ -43,10 +43,3 @@ The act of  departing from a place. An agent departs from a fromLocation for a d
 
 
 
-## Confidential Links & Embeds: 
-- [depart_action](../../../../../../_public/schema.org/Type/is_a_/action/move_action/depart_action.md) 
-- [depart_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/move_action/depart_action.internal.md) 
-- [depart_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/move_action/depart_action.protect.md) 
-- [depart_action.private](../../../../../../_private/schema.org/Type/is_a_/action/move_action/depart_action.private.md) 
-- [depart_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/move_action/depart_action.personal.md) 
-- [depart_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/move_action/depart_action.secret.md) 

@@ -47,10 +47,3 @@ Indicates that the publisher gives some special status to the publication of the
 
 
 
-## Confidential Links & Embeds: 
-- [authoritative_legal_value](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/authoritative_legal_value.md) 
-- [authoritative_legal_value.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/authoritative_legal_value.internal.md) 
-- [authoritative_legal_value.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/authoritative_legal_value.protect.md) 
-- [authoritative_legal_value.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/authoritative_legal_value.private.md) 
-- [authoritative_legal_value.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/authoritative_legal_value.personal.md) 
-- [authoritative_legal_value.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/authoritative_legal_value.secret.md) 

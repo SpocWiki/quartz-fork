@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Velorum-33](../../../_public/astro/Star/Velorum-33.md) 
-- [Velorum-33.internal](../../../_internal/astro/Star/Velorum-33.internal.md) 
-- [Velorum-33.protect](../../../_protect/astro/Star/Velorum-33.protect.md) 
-- [Velorum-33.private](../../../_private/astro/Star/Velorum-33.private.md) 
-- [Velorum-33.personal](../../../_personal/astro/Star/Velorum-33.personal.md) 
-- [Velorum-33.secret](../../../_secret/astro/Star/Velorum-33.secret.md) 

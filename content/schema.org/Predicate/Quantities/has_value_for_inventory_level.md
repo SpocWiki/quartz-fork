@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_inventory_level](../../../../_public/schema.org/Predicate/Quantities/has_value_for_inventory_level.md) 
-- [has_value_for_inventory_level.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_inventory_level.internal.md) 
-- [has_value_for_inventory_level.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_inventory_level.protect.md) 
-- [has_value_for_inventory_level.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_inventory_level.private.md) 
-- [has_value_for_inventory_level.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_inventory_level.personal.md) 
-- [has_value_for_inventory_level.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_inventory_level.secret.md) 

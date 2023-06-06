@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haapavesi](../../../../../../_public/geo/Continent/Europe/Finland/City/Haapavesi.md) 
-- [Haapavesi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Haapavesi.internal.md) 
-- [Haapavesi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Haapavesi.protect.md) 
-- [Haapavesi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Haapavesi.private.md) 
-- [Haapavesi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Haapavesi.personal.md) 
-- [Haapavesi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Haapavesi.secret.md) 

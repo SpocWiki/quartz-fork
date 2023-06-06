@@ -19,10 +19,3 @@ title: Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.internal.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.protect.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.private.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.personal.md) 
-- [Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Transformation_of_physical_and_chemical_states_of_an_object-Shape.secret.md) 

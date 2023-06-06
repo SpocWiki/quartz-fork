@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jaunlatgale](../../../../../../_public/geo/Continent/Europe/Russia/City/Jaunlatgale.md) 
-- [Jaunlatgale.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jaunlatgale.internal.md) 
-- [Jaunlatgale.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jaunlatgale.protect.md) 
-- [Jaunlatgale.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jaunlatgale.private.md) 
-- [Jaunlatgale.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jaunlatgale.personal.md) 
-- [Jaunlatgale.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jaunlatgale.secret.md) 

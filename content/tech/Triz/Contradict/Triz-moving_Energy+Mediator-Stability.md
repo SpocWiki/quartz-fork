@@ -19,10 +19,3 @@ title: Triz-moving_Energy+Mediator-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy+Mediator-Stability](../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.md) 
-- [Triz-moving_Energy+Mediator-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.internal.md) 
-- [Triz-moving_Energy+Mediator-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.protect.md) 
-- [Triz-moving_Energy+Mediator-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.private.md) 
-- [Triz-moving_Energy+Mediator-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.personal.md) 
-- [Triz-moving_Energy+Mediator-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Mediator-Stability.secret.md) 

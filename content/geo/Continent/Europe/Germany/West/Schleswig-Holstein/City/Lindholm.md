@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lindholm](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lindholm.md) 
-- [Lindholm.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lindholm.internal.md) 
-- [Lindholm.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lindholm.protect.md) 
-- [Lindholm.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lindholm.private.md) 
-- [Lindholm.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lindholm.personal.md) 
-- [Lindholm.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lindholm.secret.md) 

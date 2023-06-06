@@ -45,10 +45,3 @@ A description of costs to the patient under a given network or formulary.
 
 
 
-## Confidential Links & Embeds: 
-- [health_plan_cost_sharing_specification](../../../../../_public/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.md) 
-- [health_plan_cost_sharing_specification.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.internal.md) 
-- [health_plan_cost_sharing_specification.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.protect.md) 
-- [health_plan_cost_sharing_specification.private](../../../../../_private/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.private.md) 
-- [health_plan_cost_sharing_specification.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.personal.md) 
-- [health_plan_cost_sharing_specification.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.secret.md) 

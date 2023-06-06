@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_nonprofit_status](../../../../../_public/schema.org/Predicate/Relations/has/has_nonprofit_status.md) 
-- [has_nonprofit_status.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_nonprofit_status.internal.md) 
-- [has_nonprofit_status.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_nonprofit_status.protect.md) 
-- [has_nonprofit_status.private](../../../../../_private/schema.org/Predicate/Relations/has/has_nonprofit_status.private.md) 
-- [has_nonprofit_status.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_nonprofit_status.personal.md) 
-- [has_nonprofit_status.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_nonprofit_status.secret.md) 

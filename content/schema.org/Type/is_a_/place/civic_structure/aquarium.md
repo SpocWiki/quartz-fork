@@ -43,10 +43,3 @@ Aquarium.
 
 
 
-## Confidential Links & Embeds: 
-- [aquarium](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/aquarium.md) 
-- [aquarium.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/aquarium.internal.md) 
-- [aquarium.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/aquarium.protect.md) 
-- [aquarium.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/aquarium.private.md) 
-- [aquarium.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/aquarium.personal.md) 
-- [aquarium.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/aquarium.secret.md) 

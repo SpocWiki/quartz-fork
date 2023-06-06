@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nettuna](../../../../../../_public/geo/Continent/Europe/Italy/City/Nettuna.md) 
-- [Nettuna.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Nettuna.internal.md) 
-- [Nettuna.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Nettuna.protect.md) 
-- [Nettuna.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Nettuna.private.md) 
-- [Nettuna.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Nettuna.personal.md) 
-- [Nettuna.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Nettuna.secret.md) 

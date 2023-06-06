@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Asymmetry-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Asymmetry-Quantity](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.md) 
-- [Triz-stationary_Area+Asymmetry-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.internal.md) 
-- [Triz-stationary_Area+Asymmetry-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.protect.md) 
-- [Triz-stationary_Area+Asymmetry-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.private.md) 
-- [Triz-stationary_Area+Asymmetry-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.personal.md) 
-- [Triz-stationary_Area+Asymmetry-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Asymmetry-Quantity.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saeaksmaeki](../../../../../../_public/geo/Continent/Europe/Finland/City/Saeaksmaeki.md) 
-- [Saeaksmaeki.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Saeaksmaeki.internal.md) 
-- [Saeaksmaeki.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Saeaksmaeki.protect.md) 
-- [Saeaksmaeki.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Saeaksmaeki.private.md) 
-- [Saeaksmaeki.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Saeaksmaeki.personal.md) 
-- [Saeaksmaeki.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Saeaksmaeki.secret.md) 

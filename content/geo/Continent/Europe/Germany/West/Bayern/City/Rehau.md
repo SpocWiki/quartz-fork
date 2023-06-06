@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rehau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Rehau.md) 
-- [Rehau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rehau.internal.md) 
-- [Rehau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rehau.protect.md) 
-- [Rehau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rehau.private.md) 
-- [Rehau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rehau.personal.md) 
-- [Rehau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rehau.secret.md) 

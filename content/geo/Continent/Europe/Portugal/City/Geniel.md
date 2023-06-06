@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Geniel](../../../../../../_public/geo/Continent/Europe/Portugal/City/Geniel.md) 
-- [Geniel.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Geniel.internal.md) 
-- [Geniel.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Geniel.protect.md) 
-- [Geniel.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Geniel.private.md) 
-- [Geniel.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Geniel.personal.md) 
-- [Geniel.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Geniel.secret.md) 

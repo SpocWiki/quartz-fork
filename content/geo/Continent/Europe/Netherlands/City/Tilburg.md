@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tilburg](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Tilburg.md) 
-- [Tilburg.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Tilburg.internal.md) 
-- [Tilburg.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Tilburg.protect.md) 
-- [Tilburg.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Tilburg.private.md) 
-- [Tilburg.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Tilburg.personal.md) 
-- [Tilburg.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Tilburg.secret.md) 

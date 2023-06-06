@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frederiksborg](../../../../../../_public/geo/Continent/Europe/Denmark/City/Frederiksborg.md) 
-- [Frederiksborg.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Frederiksborg.internal.md) 
-- [Frederiksborg.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Frederiksborg.protect.md) 
-- [Frederiksborg.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Frederiksborg.private.md) 
-- [Frederiksborg.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Frederiksborg.personal.md) 
-- [Frederiksborg.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Frederiksborg.secret.md) 

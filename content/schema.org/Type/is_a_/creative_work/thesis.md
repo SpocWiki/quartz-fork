@@ -45,10 +45,3 @@ A thesis or dissertation document submitted in support of candidature for an aca
 
 
 
-## Confidential Links & Embeds: 
-- [thesis](../../../../../_public/schema.org/Type/is_a_/creative_work/thesis.md) 
-- [thesis.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/thesis.internal.md) 
-- [thesis.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/thesis.protect.md) 
-- [thesis.private](../../../../../_private/schema.org/Type/is_a_/creative_work/thesis.private.md) 
-- [thesis.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/thesis.personal.md) 
-- [thesis.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/thesis.secret.md) 

@@ -44,10 +44,3 @@ title: Tin
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tin)
 
-## Confidential Links & Embeds: 
-- [Tin](../../../../_public/chemic/Elements/Group-14-Carbon/Tin.md) 
-- [Tin.internal](../../../../_internal/chemic/Elements/Group-14-Carbon/Tin.internal.md) 
-- [Tin.protect](../../../../_protect/chemic/Elements/Group-14-Carbon/Tin.protect.md) 
-- [Tin.private](../../../../_private/chemic/Elements/Group-14-Carbon/Tin.private.md) 
-- [Tin.personal](../../../../_personal/chemic/Elements/Group-14-Carbon/Tin.personal.md) 
-- [Tin.secret](../../../../_secret/chemic/Elements/Group-14-Carbon/Tin.secret.md) 

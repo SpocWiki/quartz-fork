@@ -45,10 +45,3 @@ Indicates that the item has limited availability.
 
 
 
-## Confidential Links & Embeds: 
-- [limited_availability](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/limited_availability.md) 
-- [limited_availability.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/limited_availability.internal.md) 
-- [limited_availability.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/limited_availability.protect.md) 
-- [limited_availability.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/limited_availability.private.md) 
-- [limited_availability.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/limited_availability.personal.md) 
-- [limited_availability.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/limited_availability.secret.md) 

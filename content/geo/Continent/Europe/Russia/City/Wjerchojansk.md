@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wjerchojansk](../../../../../../_public/geo/Continent/Europe/Russia/City/Wjerchojansk.md) 
-- [Wjerchojansk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Wjerchojansk.internal.md) 
-- [Wjerchojansk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Wjerchojansk.protect.md) 
-- [Wjerchojansk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Wjerchojansk.private.md) 
-- [Wjerchojansk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Wjerchojansk.personal.md) 
-- [Wjerchojansk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Wjerchojansk.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Szekesfehervar=Stuhlweissenburg](../../../../../../_public/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.md) 
-- [Szekesfehervar=Stuhlweissenburg.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.internal.md) 
-- [Szekesfehervar=Stuhlweissenburg.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.protect.md) 
-- [Szekesfehervar=Stuhlweissenburg.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.private.md) 
-- [Szekesfehervar=Stuhlweissenburg.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.personal.md) 
-- [Szekesfehervar=Stuhlweissenburg.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szekesfehervar=Stuhlweissenburg.secret.md) 

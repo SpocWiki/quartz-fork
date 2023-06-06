@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Jean_de_Luz](../../../../../../_public/geo/Continent/Europe/France/City/St.Jean_de_Luz.md) 
-- [St.Jean_de_Luz.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Jean_de_Luz.internal.md) 
-- [St.Jean_de_Luz.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Jean_de_Luz.protect.md) 
-- [St.Jean_de_Luz.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Jean_de_Luz.private.md) 
-- [St.Jean_de_Luz.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Jean_de_Luz.personal.md) 
-- [St.Jean_de_Luz.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Jean_de_Luz.secret.md) 

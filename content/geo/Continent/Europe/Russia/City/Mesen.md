@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mesen](../../../../../../_public/geo/Continent/Europe/Russia/City/Mesen.md) 
-- [Mesen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mesen.internal.md) 
-- [Mesen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mesen.protect.md) 
-- [Mesen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mesen.private.md) 
-- [Mesen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mesen.personal.md) 
-- [Mesen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mesen.secret.md) 

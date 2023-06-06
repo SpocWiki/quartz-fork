@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kurn](../../../../../../_public/geo/Continent/Europe/Finland/City/Kurn.md) 
-- [Kurn.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kurn.internal.md) 
-- [Kurn.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kurn.protect.md) 
-- [Kurn.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kurn.private.md) 
-- [Kurn.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kurn.personal.md) 
-- [Kurn.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kurn.secret.md) 

@@ -45,10 +45,3 @@ VinylFormat.
 
 
 
-## Confidential Links & Embeds: 
-- [vinyl_format](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.md) 
-- [vinyl_format.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.internal.md) 
-- [vinyl_format.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.protect.md) 
-- [vinyl_format.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.private.md) 
-- [vinyl_format.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.personal.md) 
-- [vinyl_format.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.secret.md) 

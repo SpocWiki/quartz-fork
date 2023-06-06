@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Clermont-Ferrand](../../../../../../_public/geo/Continent/Europe/France/City/Clermont-Ferrand.md) 
-- [Clermont-Ferrand.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Clermont-Ferrand.internal.md) 
-- [Clermont-Ferrand.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Clermont-Ferrand.protect.md) 
-- [Clermont-Ferrand.private](../../../../../../_private/geo/Continent/Europe/France/City/Clermont-Ferrand.private.md) 
-- [Clermont-Ferrand.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Clermont-Ferrand.personal.md) 
-- [Clermont-Ferrand.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Clermont-Ferrand.secret.md) 

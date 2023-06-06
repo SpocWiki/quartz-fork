@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Port_Patrick](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.md) 
-- [Port_Patrick.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.internal.md) 
-- [Port_Patrick.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.protect.md) 
-- [Port_Patrick.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.private.md) 
-- [Port_Patrick.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.personal.md) 
-- [Port_Patrick.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Port_Patrick.secret.md) 

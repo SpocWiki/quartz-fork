@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Papenhagen](../../../../../../_public/geo/Continent/Europe/Poland/City/Papenhagen.md) 
-- [Papenhagen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Papenhagen.internal.md) 
-- [Papenhagen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Papenhagen.protect.md) 
-- [Papenhagen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Papenhagen.private.md) 
-- [Papenhagen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Papenhagen.personal.md) 
-- [Papenhagen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Papenhagen.secret.md) 

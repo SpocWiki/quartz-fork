@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fells](../../../../../../_public/geo/Continent/Europe/Spain/City/Fells.md) 
-- [Fells.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Fells.internal.md) 
-- [Fells.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Fells.protect.md) 
-- [Fells.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Fells.private.md) 
-- [Fells.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Fells.personal.md) 
-- [Fells.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Fells.secret.md) 

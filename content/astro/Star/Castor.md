@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Castor](../../../_public/astro/Star/Castor.md) 
-- [Castor.internal](../../../_internal/astro/Star/Castor.internal.md) 
-- [Castor.protect](../../../_protect/astro/Star/Castor.protect.md) 
-- [Castor.private](../../../_private/astro/Star/Castor.private.md) 
-- [Castor.personal](../../../_personal/astro/Star/Castor.personal.md) 
-- [Castor.secret](../../../_secret/astro/Star/Castor.secret.md)
-

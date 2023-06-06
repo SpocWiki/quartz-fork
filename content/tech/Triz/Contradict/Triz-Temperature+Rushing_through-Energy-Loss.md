@@ -19,10 +19,3 @@ title: Triz-Temperature+Rushing_through-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Rushing_through-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.md) 
-- [Triz-Temperature+Rushing_through-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.internal.md) 
-- [Triz-Temperature+Rushing_through-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.protect.md) 
-- [Triz-Temperature+Rushing_through-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.private.md) 
-- [Triz-Temperature+Rushing_through-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.personal.md) 
-- [Triz-Temperature+Rushing_through-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Rushing_through-Energy-Loss.secret.md) 

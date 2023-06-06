@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bodo](../../../../../../_public/geo/Continent/Europe/Norway/City/Bodo.md) 
-- [Bodo.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Bodo.internal.md) 
-- [Bodo.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Bodo.protect.md) 
-- [Bodo.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Bodo.private.md) 
-- [Bodo.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Bodo.personal.md) 
-- [Bodo.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Bodo.secret.md) 

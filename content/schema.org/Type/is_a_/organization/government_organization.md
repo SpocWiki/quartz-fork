@@ -43,10 +43,3 @@ A governmental organization or agency.
 
 
 
-## Confidential Links & Embeds: 
-- [government_organization](../../../../../_public/schema.org/Type/is_a_/organization/government_organization.md) 
-- [government_organization.internal](../../../../../_internal/schema.org/Type/is_a_/organization/government_organization.internal.md) 
-- [government_organization.protect](../../../../../_protect/schema.org/Type/is_a_/organization/government_organization.protect.md) 
-- [government_organization.private](../../../../../_private/schema.org/Type/is_a_/organization/government_organization.private.md) 
-- [government_organization.personal](../../../../../_personal/schema.org/Type/is_a_/organization/government_organization.personal.md) 
-- [government_organization.secret](../../../../../_secret/schema.org/Type/is_a_/organization/government_organization.secret.md) 

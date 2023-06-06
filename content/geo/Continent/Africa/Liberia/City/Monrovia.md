@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Monrovia](../../../../../../_public/geo/Continent/Africa/Liberia/City/Monrovia.md) 
-- [Monrovia.internal](../../../../../../_internal/geo/Continent/Africa/Liberia/City/Monrovia.internal.md) 
-- [Monrovia.protect](../../../../../../_protect/geo/Continent/Africa/Liberia/City/Monrovia.protect.md) 
-- [Monrovia.private](../../../../../../_private/geo/Continent/Africa/Liberia/City/Monrovia.private.md) 
-- [Monrovia.personal](../../../../../../_personal/geo/Continent/Africa/Liberia/City/Monrovia.personal.md) 
-- [Monrovia.secret](../../../../../../_secret/geo/Continent/Africa/Liberia/City/Monrovia.secret.md) 

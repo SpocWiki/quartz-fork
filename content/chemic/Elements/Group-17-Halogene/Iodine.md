@@ -38,10 +38,3 @@ title: Iodine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iodine)
 
-## Confidential Links & Embeds: 
-- [Iodine](../../../../_public/chemic/Elements/Group-17-Halogene/Iodine.md) 
-- [Iodine.internal](../../../../_internal/chemic/Elements/Group-17-Halogene/Iodine.internal.md) 
-- [Iodine.protect](../../../../_protect/chemic/Elements/Group-17-Halogene/Iodine.protect.md) 
-- [Iodine.private](../../../../_private/chemic/Elements/Group-17-Halogene/Iodine.private.md) 
-- [Iodine.personal](../../../../_personal/chemic/Elements/Group-17-Halogene/Iodine.personal.md) 
-- [Iodine.secret](../../../../_secret/chemic/Elements/Group-17-Halogene/Iodine.secret.md) 

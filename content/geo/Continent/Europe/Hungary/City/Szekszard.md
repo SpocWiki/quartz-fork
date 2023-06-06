@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Szekszard](../../../../../../_public/geo/Continent/Europe/Hungary/City/Szekszard.md) 
-- [Szekszard.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szekszard.internal.md) 
-- [Szekszard.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szekszard.protect.md) 
-- [Szekszard.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Szekszard.private.md) 
-- [Szekszard.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szekszard.personal.md) 
-- [Szekszard.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szekszard.secret.md) 

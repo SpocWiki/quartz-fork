@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zaandam](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Zaandam.md) 
-- [Zaandam.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zaandam.internal.md) 
-- [Zaandam.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zaandam.protect.md) 
-- [Zaandam.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zaandam.private.md) 
-- [Zaandam.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zaandam.personal.md) 
-- [Zaandam.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zaandam.secret.md) 

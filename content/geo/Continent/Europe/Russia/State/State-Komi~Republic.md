@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Komi~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Komi~Republic.md) 
-- [State-Komi~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Komi~Republic.internal.md) 
-- [State-Komi~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Komi~Republic.protect.md) 
-- [State-Komi~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Komi~Republic.private.md) 
-- [State-Komi~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Komi~Republic.personal.md) 
-- [State-Komi~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Komi~Republic.secret.md) 

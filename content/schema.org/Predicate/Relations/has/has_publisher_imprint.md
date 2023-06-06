@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_publisher_imprint](../../../../../_public/schema.org/Predicate/Relations/has/has_publisher_imprint.md) 
-- [has_publisher_imprint.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_publisher_imprint.internal.md) 
-- [has_publisher_imprint.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_publisher_imprint.protect.md) 
-- [has_publisher_imprint.private](../../../../../_private/schema.org/Predicate/Relations/has/has_publisher_imprint.private.md) 
-- [has_publisher_imprint.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_publisher_imprint.personal.md) 
-- [has_publisher_imprint.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_publisher_imprint.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schlobitten](../../../../../../_public/geo/Continent/Europe/Poland/City/Schlobitten.md) 
-- [Schlobitten.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schlobitten.internal.md) 
-- [Schlobitten.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schlobitten.protect.md) 
-- [Schlobitten.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schlobitten.private.md) 
-- [Schlobitten.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schlobitten.personal.md) 
-- [Schlobitten.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schlobitten.secret.md) 

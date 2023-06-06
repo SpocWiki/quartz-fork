@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alatornio](../../../../../../_public/geo/Continent/Europe/Finland/City/Alatornio.md) 
-- [Alatornio.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Alatornio.internal.md) 
-- [Alatornio.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Alatornio.protect.md) 
-- [Alatornio.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Alatornio.private.md) 
-- [Alatornio.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Alatornio.personal.md) 
-- [Alatornio.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Alatornio.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Mordovia~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Mordovia~Republic.md) 
-- [State-Mordovia~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Mordovia~Republic.internal.md) 
-- [State-Mordovia~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Mordovia~Republic.protect.md) 
-- [State-Mordovia~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Mordovia~Republic.private.md) 
-- [State-Mordovia~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Mordovia~Republic.personal.md) 
-- [State-Mordovia~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Mordovia~Republic.secret.md) 

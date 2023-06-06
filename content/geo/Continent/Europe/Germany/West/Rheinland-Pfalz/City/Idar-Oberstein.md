@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Idar-Oberstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.md) 
-- [Idar-Oberstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.internal.md) 
-- [Idar-Oberstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.protect.md) 
-- [Idar-Oberstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.private.md) 
-- [Idar-Oberstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.personal.md) 
-- [Idar-Oberstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Idar-Oberstein.secret.md) 

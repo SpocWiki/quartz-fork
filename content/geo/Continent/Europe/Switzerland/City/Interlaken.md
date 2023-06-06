@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Interlaken](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Interlaken.md) 
-- [Interlaken.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Interlaken.internal.md) 
-- [Interlaken.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Interlaken.protect.md) 
-- [Interlaken.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Interlaken.private.md) 
-- [Interlaken.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Interlaken.personal.md) 
-- [Interlaken.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Interlaken.secret.md) 

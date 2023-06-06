@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guttentag](../../../../../../_public/geo/Continent/Europe/Poland/City/Guttentag.md) 
-- [Guttentag.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Guttentag.internal.md) 
-- [Guttentag.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Guttentag.protect.md) 
-- [Guttentag.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Guttentag.private.md) 
-- [Guttentag.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Guttentag.personal.md) 
-- [Guttentag.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Guttentag.secret.md) 

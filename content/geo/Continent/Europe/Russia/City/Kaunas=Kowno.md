@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaunas=Kowno](../../../../../../_public/geo/Continent/Europe/Russia/City/Kaunas=Kowno.md) 
-- [Kaunas=Kowno.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaunas=Kowno.internal.md) 
-- [Kaunas=Kowno.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaunas=Kowno.protect.md) 
-- [Kaunas=Kowno.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kaunas=Kowno.private.md) 
-- [Kaunas=Kowno.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaunas=Kowno.personal.md) 
-- [Kaunas=Kowno.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaunas=Kowno.secret.md) 

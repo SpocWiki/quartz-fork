@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bethune](../../../../../../_public/geo/Continent/Europe/France/City/Bethune.md) 
-- [Bethune.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bethune.internal.md) 
-- [Bethune.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bethune.protect.md) 
-- [Bethune.private](../../../../../../_private/geo/Continent/Europe/France/City/Bethune.private.md) 
-- [Bethune.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bethune.personal.md) 
-- [Bethune.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bethune.secret.md) 

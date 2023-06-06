@@ -45,10 +45,3 @@ Indicates that the item is available only online.
 
 
 
-## Confidential Links & Embeds: 
-- [online_only](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.md) 
-- [online_only.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.internal.md) 
-- [online_only.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.protect.md) 
-- [online_only.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.private.md) 
-- [online_only.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.personal.md) 
-- [online_only.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.secret.md) 

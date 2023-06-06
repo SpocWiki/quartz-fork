@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Retz](../../../../../../_public/geo/Continent/Europe/Hungary/City/Retz.md) 
-- [Retz.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Retz.internal.md) 
-- [Retz.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Retz.protect.md) 
-- [Retz.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Retz.private.md) 
-- [Retz.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Retz.personal.md) 
-- [Retz.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Retz.secret.md) 

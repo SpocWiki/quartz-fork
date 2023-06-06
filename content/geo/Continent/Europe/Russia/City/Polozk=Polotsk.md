@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Polozk=Polotsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Polozk=Polotsk.md) 
-- [Polozk=Polotsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Polozk=Polotsk.internal.md) 
-- [Polozk=Polotsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Polozk=Polotsk.protect.md) 
-- [Polozk=Polotsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Polozk=Polotsk.private.md) 
-- [Polozk=Polotsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Polozk=Polotsk.personal.md) 
-- [Polozk=Polotsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Polozk=Polotsk.secret.md) 

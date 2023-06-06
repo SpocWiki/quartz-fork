@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_energy_efficiency_scale_max](../../../../../_public/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_max.md) 
-- [has_energy_efficiency_scale_max.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_max.internal.md) 
-- [has_energy_efficiency_scale_max.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_max.protect.md) 
-- [has_energy_efficiency_scale_max.private](../../../../../_private/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_max.private.md) 
-- [has_energy_efficiency_scale_max.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_max.personal.md) 
-- [has_energy_efficiency_scale_max.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_max.secret.md) 

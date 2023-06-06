@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hangoe=Hanko](../../../../../../_public/geo/Continent/Europe/Finland/City/Hangoe=Hanko.md) 
-- [Hangoe=Hanko.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Hangoe=Hanko.internal.md) 
-- [Hangoe=Hanko.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Hangoe=Hanko.protect.md) 
-- [Hangoe=Hanko.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Hangoe=Hanko.private.md) 
-- [Hangoe=Hanko.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Hangoe=Hanko.personal.md) 
-- [Hangoe=Hanko.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Hangoe=Hanko.secret.md) 

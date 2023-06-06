@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Use_strong_oxidisers-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Use_strong_oxidisers-Temperature](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.md) 
-- [Triz-stationary_Length+Use_strong_oxidisers-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.internal.md) 
-- [Triz-stationary_Length+Use_strong_oxidisers-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.protect.md) 
-- [Triz-stationary_Length+Use_strong_oxidisers-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.private.md) 
-- [Triz-stationary_Length+Use_strong_oxidisers-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.personal.md) 
-- [Triz-stationary_Length+Use_strong_oxidisers-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Use_strong_oxidisers-Temperature.secret.md) 

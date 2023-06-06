@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Varnja](../../../../../../_public/geo/Continent/Europe/Russia/City/Varnja.md) 
-- [Varnja.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Varnja.internal.md) 
-- [Varnja.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Varnja.protect.md) 
-- [Varnja.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Varnja.private.md) 
-- [Varnja.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Varnja.personal.md) 
-- [Varnja.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Varnja.secret.md) 

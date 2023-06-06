@@ -43,10 +43,3 @@ A gym.
 
 
 
-## Confidential Links & Embeds: 
-- [exercise_gym](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/sports_activity_location/exercise_gym.md) 
-- [exercise_gym.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/exercise_gym.internal.md) 
-- [exercise_gym.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/sports_activity_location/exercise_gym.protect.md) 
-- [exercise_gym.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/sports_activity_location/exercise_gym.private.md) 
-- [exercise_gym.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/exercise_gym.personal.md) 
-- [exercise_gym.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/sports_activity_location/exercise_gym.secret.md) 

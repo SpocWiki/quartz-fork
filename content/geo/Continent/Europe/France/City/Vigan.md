@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vigan](../../../../../../_public/geo/Continent/Europe/France/City/Vigan.md) 
-- [Vigan.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Vigan.internal.md) 
-- [Vigan.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Vigan.protect.md) 
-- [Vigan.private](../../../../../../_private/geo/Continent/Europe/France/City/Vigan.private.md) 
-- [Vigan.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Vigan.personal.md) 
-- [Vigan.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Vigan.secret.md) 

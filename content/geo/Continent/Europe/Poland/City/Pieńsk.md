@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pieńsk](../../../../../../_public/geo/Continent/Europe/Poland/City/Pie%C5%84sk.md) 
-- [Pieńsk.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Pie%C5%84sk.internal.md) 
-- [Pieńsk.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Pie%C5%84sk.protect.md) 
-- [Pieńsk.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Pie%C5%84sk.private.md) 
-- [Pieńsk.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Pie%C5%84sk.personal.md) 
-- [Pieńsk.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Pie%C5%84sk.secret.md) 

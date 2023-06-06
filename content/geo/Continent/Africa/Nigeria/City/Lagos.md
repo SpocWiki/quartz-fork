@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lagos](../../../../../../_public/geo/Continent/Africa/Nigeria/City/Lagos.md) 
-- [Lagos.internal](../../../../../../_internal/geo/Continent/Africa/Nigeria/City/Lagos.internal.md) 
-- [Lagos.protect](../../../../../../_protect/geo/Continent/Africa/Nigeria/City/Lagos.protect.md) 
-- [Lagos.private](../../../../../../_private/geo/Continent/Africa/Nigeria/City/Lagos.private.md) 
-- [Lagos.personal](../../../../../../_personal/geo/Continent/Africa/Nigeria/City/Lagos.personal.md) 
-- [Lagos.secret](../../../../../../_secret/geo/Continent/Africa/Nigeria/City/Lagos.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Foix](../../../../../../_public/geo/Continent/Europe/France/City/Foix.md) 
-- [Foix.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Foix.internal.md) 
-- [Foix.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Foix.protect.md) 
-- [Foix.private](../../../../../../_private/geo/Continent/Europe/France/City/Foix.private.md) 
-- [Foix.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Foix.personal.md) 
-- [Foix.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Foix.secret.md) 

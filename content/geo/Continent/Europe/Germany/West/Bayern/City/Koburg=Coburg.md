@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koburg=Coburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Koburg=Coburg.md) 
-- [Koburg=Coburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Koburg=Coburg.internal.md) 
-- [Koburg=Coburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Koburg=Coburg.protect.md) 
-- [Koburg=Coburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Koburg=Coburg.private.md) 
-- [Koburg=Coburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Koburg=Coburg.personal.md) 
-- [Koburg=Coburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Koburg=Coburg.secret.md) 

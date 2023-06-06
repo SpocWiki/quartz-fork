@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kollautschen](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kollautschen.md) 
-- [Kollautschen.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kollautschen.internal.md) 
-- [Kollautschen.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kollautschen.protect.md) 
-- [Kollautschen.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kollautschen.private.md) 
-- [Kollautschen.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kollautschen.personal.md) 
-- [Kollautschen.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kollautschen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wormeldange](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Wormeldange.md) 
-- [Wormeldange.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Wormeldange.internal.md) 
-- [Wormeldange.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Wormeldange.protect.md) 
-- [Wormeldange.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Wormeldange.private.md) 
-- [Wormeldange.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Wormeldange.personal.md) 
-- [Wormeldange.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Wormeldange.secret.md) 

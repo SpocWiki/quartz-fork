@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aichach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Aichach.md) 
-- [Aichach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Aichach.internal.md) 
-- [Aichach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Aichach.protect.md) 
-- [Aichach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Aichach.private.md) 
-- [Aichach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Aichach.personal.md) 
-- [Aichach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Aichach.secret.md) 

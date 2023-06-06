@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Eridani-141](../../../_public/astro/Star/Eridani-141.md) 
-- [Eridani-141.internal](../../../_internal/astro/Star/Eridani-141.internal.md) 
-- [Eridani-141.protect](../../../_protect/astro/Star/Eridani-141.protect.md) 
-- [Eridani-141.private](../../../_private/astro/Star/Eridani-141.private.md) 
-- [Eridani-141.personal](../../../_personal/astro/Star/Eridani-141.personal.md) 
-- [Eridani-141.secret](../../../_secret/astro/Star/Eridani-141.secret.md)
-

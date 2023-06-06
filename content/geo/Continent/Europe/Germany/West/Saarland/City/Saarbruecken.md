@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saarbruecken](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Saarbruecken.md) 
-- [Saarbruecken.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Saarbruecken.internal.md) 
-- [Saarbruecken.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Saarbruecken.protect.md) 
-- [Saarbruecken.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Saarbruecken.private.md) 
-- [Saarbruecken.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Saarbruecken.personal.md) 
-- [Saarbruecken.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Saarbruecken.secret.md) 

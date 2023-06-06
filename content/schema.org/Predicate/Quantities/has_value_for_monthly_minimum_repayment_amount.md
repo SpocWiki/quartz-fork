@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_monthly_minimum_repayment_amount](../../../../_public/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.md) 
-- [has_value_for_monthly_minimum_repayment_amount.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.internal.md) 
-- [has_value_for_monthly_minimum_repayment_amount.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.protect.md) 
-- [has_value_for_monthly_minimum_repayment_amount.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.private.md) 
-- [has_value_for_monthly_minimum_repayment_amount.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.personal.md) 
-- [has_value_for_monthly_minimum_repayment_amount.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.secret.md) 

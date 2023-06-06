@@ -45,10 +45,3 @@ Throat assessment with  clinical examination.
 
 
 
-## Confidential Links & Embeds: 
-- [throat](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/throat.md) 
-- [throat.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/throat.internal.md) 
-- [throat.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/throat.protect.md) 
-- [throat.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/throat.private.md) 
-- [throat.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/throat.personal.md) 
-- [throat.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/throat.secret.md) 

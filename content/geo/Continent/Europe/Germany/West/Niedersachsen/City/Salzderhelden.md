@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salzderhelden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzderhelden.md) 
-- [Salzderhelden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzderhelden.internal.md) 
-- [Salzderhelden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzderhelden.protect.md) 
-- [Salzderhelden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzderhelden.private.md) 
-- [Salzderhelden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzderhelden.personal.md) 
-- [Salzderhelden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzderhelden.secret.md) 

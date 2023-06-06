@@ -43,10 +43,3 @@ A set of characteristics describing parents, who can be interested in viewing so
 
 
 
-## Confidential Links & Embeds: 
-- [parent_audience](../../../../../../../_public/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.md) 
-- [parent_audience.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.internal.md) 
-- [parent_audience.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.protect.md) 
-- [parent_audience.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.private.md) 
-- [parent_audience.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.personal.md) 
-- [parent_audience.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/people_audience/parent_audience.secret.md) 

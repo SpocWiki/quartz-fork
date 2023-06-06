@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Feuchtwangen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.md) 
-- [Feuchtwangen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.internal.md) 
-- [Feuchtwangen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.protect.md) 
-- [Feuchtwangen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.private.md) 
-- [Feuchtwangen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.personal.md) 
-- [Feuchtwangen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Feuchtwangen.secret.md) 

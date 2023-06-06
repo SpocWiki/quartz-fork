@@ -20,10 +20,3 @@ title: Group-14-Carbon
 
 
 
-## Confidential Links & Embeds: 
-- [Group-14-Carbon](../../../_public/chemic/Elements/Group-14-Carbon.md) 
-- [Group-14-Carbon.internal](../../../_internal/chemic/Elements/Group-14-Carbon.internal.md) 
-- [Group-14-Carbon.protect](../../../_protect/chemic/Elements/Group-14-Carbon.protect.md) 
-- [Group-14-Carbon.private](../../../_private/chemic/Elements/Group-14-Carbon.private.md) 
-- [Group-14-Carbon.personal](../../../_personal/chemic/Elements/Group-14-Carbon.personal.md) 
-- [Group-14-Carbon.secret](../../../_secret/chemic/Elements/Group-14-Carbon.secret.md) 

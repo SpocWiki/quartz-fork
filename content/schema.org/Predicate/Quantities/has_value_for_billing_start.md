@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_billing_start](../../../../_public/schema.org/Predicate/Quantities/has_value_for_billing_start.md) 
-- [has_value_for_billing_start.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_billing_start.internal.md) 
-- [has_value_for_billing_start.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_billing_start.protect.md) 
-- [has_value_for_billing_start.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_billing_start.private.md) 
-- [has_value_for_billing_start.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_billing_start.personal.md) 
-- [has_value_for_billing_start.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_billing_start.secret.md) 

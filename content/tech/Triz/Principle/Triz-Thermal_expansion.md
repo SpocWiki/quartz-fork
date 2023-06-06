@@ -14,10 +14,3 @@ title: Triz-Thermal_expansion
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Thermal_expansion](../../../../_public/tech/Triz/Principle/Triz-Thermal_expansion.md) 
-- [Triz-Thermal_expansion.internal](../../../../_internal/tech/Triz/Principle/Triz-Thermal_expansion.internal.md) 
-- [Triz-Thermal_expansion.protect](../../../../_protect/tech/Triz/Principle/Triz-Thermal_expansion.protect.md) 
-- [Triz-Thermal_expansion.private](../../../../_private/tech/Triz/Principle/Triz-Thermal_expansion.private.md) 
-- [Triz-Thermal_expansion.personal](../../../../_personal/tech/Triz/Principle/Triz-Thermal_expansion.personal.md) 
-- [Triz-Thermal_expansion.secret](../../../../_secret/tech/Triz/Principle/Triz-Thermal_expansion.secret.md) 

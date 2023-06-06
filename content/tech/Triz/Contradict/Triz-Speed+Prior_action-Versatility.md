@@ -19,10 +19,3 @@ title: Triz-Speed+Prior_action-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Prior_action-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.md) 
-- [Triz-Speed+Prior_action-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.internal.md) 
-- [Triz-Speed+Prior_action-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.protect.md) 
-- [Triz-Speed+Prior_action-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.private.md) 
-- [Triz-Speed+Prior_action-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.personal.md) 
-- [Triz-Speed+Prior_action-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Prior_action-Versatility.secret.md) 

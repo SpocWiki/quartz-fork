@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_number_of_rooms](../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_rooms.md) 
-- [has_number_of_number_of_rooms.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_rooms.internal.md) 
-- [has_number_of_number_of_rooms.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_rooms.protect.md) 
-- [has_number_of_number_of_rooms.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_rooms.private.md) 
-- [has_number_of_number_of_rooms.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_rooms.personal.md) 
-- [has_number_of_number_of_rooms.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_rooms.secret.md) 

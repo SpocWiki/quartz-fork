@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kunzendorf~Oder](../../../../../../_public/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.md) 
-- [Kunzendorf~Oder.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.internal.md) 
-- [Kunzendorf~Oder.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.protect.md) 
-- [Kunzendorf~Oder.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.private.md) 
-- [Kunzendorf~Oder.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.personal.md) 
-- [Kunzendorf~Oder.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kunzendorf~Oder.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Eissporthalle_Festplatz](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Eissporthalle_Festplatz.md) 
-- [T-Eissporthalle_Festplatz.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Eissporthalle_Festplatz.internal.md) 
-- [T-Eissporthalle_Festplatz.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Eissporthalle_Festplatz.protect.md) 
-- [T-Eissporthalle_Festplatz.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Eissporthalle_Festplatz.private.md) 
-- [T-Eissporthalle_Festplatz.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Eissporthalle_Festplatz.personal.md) 
-- [T-Eissporthalle_Festplatz.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Eissporthalle_Festplatz.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Perekop](../../../../../../_public/geo/Continent/Europe/Russia/City/Perekop.md) 
-- [Perekop.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Perekop.internal.md) 
-- [Perekop.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Perekop.protect.md) 
-- [Perekop.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Perekop.private.md) 
-- [Perekop.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Perekop.personal.md) 
-- [Perekop.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Perekop.secret.md) 

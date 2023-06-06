@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Keltsch](../../../../../../_public/geo/Continent/Europe/Poland/City/Keltsch.md) 
-- [Keltsch.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Keltsch.internal.md) 
-- [Keltsch.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Keltsch.protect.md) 
-- [Keltsch.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Keltsch.private.md) 
-- [Keltsch.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Keltsch.personal.md) 
-- [Keltsch.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Keltsch.secret.md) 

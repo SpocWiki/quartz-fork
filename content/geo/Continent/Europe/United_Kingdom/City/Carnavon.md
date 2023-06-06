@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Carnavon](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Carnavon.md) 
-- [Carnavon.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Carnavon.internal.md) 
-- [Carnavon.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Carnavon.protect.md) 
-- [Carnavon.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Carnavon.private.md) 
-- [Carnavon.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Carnavon.personal.md) 
-- [Carnavon.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Carnavon.secret.md) 

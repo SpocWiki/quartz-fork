@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chateau-Thierry](../../../../../../_public/geo/Continent/Europe/France/City/Chateau-Thierry.md) 
-- [Chateau-Thierry.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chateau-Thierry.internal.md) 
-- [Chateau-Thierry.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chateau-Thierry.protect.md) 
-- [Chateau-Thierry.private](../../../../../../_private/geo/Continent/Europe/France/City/Chateau-Thierry.private.md) 
-- [Chateau-Thierry.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chateau-Thierry.personal.md) 
-- [Chateau-Thierry.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chateau-Thierry.secret.md) 

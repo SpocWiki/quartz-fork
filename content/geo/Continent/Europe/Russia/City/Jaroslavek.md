@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jaroslavek](../../../../../../_public/geo/Continent/Europe/Russia/City/Jaroslavek.md) 
-- [Jaroslavek.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jaroslavek.internal.md) 
-- [Jaroslavek.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jaroslavek.protect.md) 
-- [Jaroslavek.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jaroslavek.private.md) 
-- [Jaroslavek.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jaroslavek.personal.md) 
-- [Jaroslavek.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jaroslavek.secret.md) 

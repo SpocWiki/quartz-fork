@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abuja](../../../../../../_public/geo/Continent/Africa/Nigeria/City/Abuja.md) 
-- [Abuja.internal](../../../../../../_internal/geo/Continent/Africa/Nigeria/City/Abuja.internal.md) 
-- [Abuja.protect](../../../../../../_protect/geo/Continent/Africa/Nigeria/City/Abuja.protect.md) 
-- [Abuja.private](../../../../../../_private/geo/Continent/Africa/Nigeria/City/Abuja.private.md) 
-- [Abuja.personal](../../../../../../_personal/geo/Continent/Africa/Nigeria/City/Abuja.personal.md) 
-- [Abuja.secret](../../../../../../_secret/geo/Continent/Africa/Nigeria/City/Abuja.secret.md) 

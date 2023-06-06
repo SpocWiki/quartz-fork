@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Charkow](../../../../../../_public/geo/Continent/Europe/Russia/City/Charkow.md) 
-- [Charkow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Charkow.internal.md) 
-- [Charkow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Charkow.protect.md) 
-- [Charkow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Charkow.private.md) 
-- [Charkow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Charkow.personal.md) 
-- [Charkow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Charkow.secret.md) 

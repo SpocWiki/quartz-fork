@@ -47,10 +47,3 @@ Represents the suggested retail price ("SRP") of an offered product.
 
 
 
-## Confidential Links & Embeds: 
-- [srp](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.md) 
-- [srp.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.internal.md) 
-- [srp.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.protect.md) 
-- [srp.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.private.md) 
-- [srp.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.personal.md) 
-- [srp.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.secret.md) 

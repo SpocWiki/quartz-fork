@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karstula](../../../../../../_public/geo/Continent/Europe/Finland/City/Karstula.md) 
-- [Karstula.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Karstula.internal.md) 
-- [Karstula.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Karstula.protect.md) 
-- [Karstula.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Karstula.private.md) 
-- [Karstula.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Karstula.personal.md) 
-- [Karstula.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Karstula.secret.md) 

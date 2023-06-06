@@ -47,10 +47,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_corrections_policy](../../../../../_public/schema.org/Predicate/Relations/has/has_corrections_policy.md) 
-- [has_corrections_policy.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_corrections_policy.internal.md) 
-- [has_corrections_policy.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_corrections_policy.protect.md) 
-- [has_corrections_policy.private](../../../../../_private/schema.org/Predicate/Relations/has/has_corrections_policy.private.md) 
-- [has_corrections_policy.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_corrections_policy.personal.md) 
-- [has_corrections_policy.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_corrections_policy.secret.md) 

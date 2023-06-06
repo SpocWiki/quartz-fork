@@ -43,10 +43,3 @@ The act of expressing a negative sentiment about the object. An agent dislikes a
 
 
 
-## Confidential Links & Embeds: 
-- [dislike_action](../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.md) 
-- [dislike_action.internal](../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.internal.md) 
-- [dislike_action.protect](../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.protect.md) 
-- [dislike_action.private](../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.private.md) 
-- [dislike_action.personal](../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.personal.md) 
-- [dislike_action.secret](../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.secret.md) 

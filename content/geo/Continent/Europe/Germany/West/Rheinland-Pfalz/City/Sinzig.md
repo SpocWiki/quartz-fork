@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sinzig](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sinzig.md) 
-- [Sinzig.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sinzig.internal.md) 
-- [Sinzig.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sinzig.protect.md) 
-- [Sinzig.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sinzig.private.md) 
-- [Sinzig.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sinzig.personal.md) 
-- [Sinzig.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Sinzig.secret.md) 

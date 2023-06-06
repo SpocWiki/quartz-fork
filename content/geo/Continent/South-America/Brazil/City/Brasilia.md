@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brasilia](../../../../../../_public/geo/Continent/South-America/Brazil/City/Brasilia.md) 
-- [Brasilia.internal](../../../../../../_internal/geo/Continent/South-America/Brazil/City/Brasilia.internal.md) 
-- [Brasilia.protect](../../../../../../_protect/geo/Continent/South-America/Brazil/City/Brasilia.protect.md) 
-- [Brasilia.private](../../../../../../_private/geo/Continent/South-America/Brazil/City/Brasilia.private.md) 
-- [Brasilia.personal](../../../../../../_personal/geo/Continent/South-America/Brazil/City/Brasilia.personal.md) 
-- [Brasilia.secret](../../../../../../_secret/geo/Continent/South-America/Brazil/City/Brasilia.secret.md) 

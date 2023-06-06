@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Anzio](../../../../../../_public/geo/Continent/Europe/Italy/City/Anzio.md) 
-- [Anzio.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Anzio.internal.md) 
-- [Anzio.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Anzio.protect.md) 
-- [Anzio.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Anzio.private.md) 
-- [Anzio.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Anzio.personal.md) 
-- [Anzio.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Anzio.secret.md) 

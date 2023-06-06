@@ -43,10 +43,3 @@ The act of downloading an object.
 
 
 
-## Confidential Links & Embeds: 
-- [download_action](../../../../../../_public/schema.org/Type/is_a_/action/transfer_action/download_action.md) 
-- [download_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/transfer_action/download_action.internal.md) 
-- [download_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/transfer_action/download_action.protect.md) 
-- [download_action.private](../../../../../../_private/schema.org/Type/is_a_/action/transfer_action/download_action.private.md) 
-- [download_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/transfer_action/download_action.personal.md) 
-- [download_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/transfer_action/download_action.secret.md) 

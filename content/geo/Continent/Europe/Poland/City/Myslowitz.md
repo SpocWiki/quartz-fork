@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Myslowitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Myslowitz.md) 
-- [Myslowitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Myslowitz.internal.md) 
-- [Myslowitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Myslowitz.protect.md) 
-- [Myslowitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Myslowitz.private.md) 
-- [Myslowitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Myslowitz.personal.md) 
-- [Myslowitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Myslowitz.secret.md) 

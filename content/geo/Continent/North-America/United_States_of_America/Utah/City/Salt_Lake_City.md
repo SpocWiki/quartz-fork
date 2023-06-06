@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salt_Lake_City](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Utah/City/Salt_Lake_City.md) 
-- [Salt_Lake_City.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Utah/City/Salt_Lake_City.internal.md) 
-- [Salt_Lake_City.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Utah/City/Salt_Lake_City.protect.md) 
-- [Salt_Lake_City.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Utah/City/Salt_Lake_City.private.md) 
-- [Salt_Lake_City.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Utah/City/Salt_Lake_City.personal.md) 
-- [Salt_Lake_City.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Utah/City/Salt_Lake_City.secret.md) 

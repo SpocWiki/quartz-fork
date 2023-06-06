@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skellefted](../../../../../../_public/geo/Continent/Europe/Sweden/City/Skellefted.md) 
-- [Skellefted.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Skellefted.internal.md) 
-- [Skellefted.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Skellefted.protect.md) 
-- [Skellefted.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Skellefted.private.md) 
-- [Skellefted.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Skellefted.personal.md) 
-- [Skellefted.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Skellefted.secret.md) 

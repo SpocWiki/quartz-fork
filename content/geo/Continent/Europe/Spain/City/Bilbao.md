@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bilbao](../../../../../../_public/geo/Continent/Europe/Spain/City/Bilbao.md) 
-- [Bilbao.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Bilbao.internal.md) 
-- [Bilbao.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Bilbao.protect.md) 
-- [Bilbao.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Bilbao.private.md) 
-- [Bilbao.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Bilbao.personal.md) 
-- [Bilbao.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Bilbao.secret.md) 

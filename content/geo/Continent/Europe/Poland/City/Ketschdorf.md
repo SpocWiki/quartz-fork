@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ketschdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Ketschdorf.md) 
-- [Ketschdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ketschdorf.internal.md) 
-- [Ketschdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ketschdorf.protect.md) 
-- [Ketschdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ketschdorf.private.md) 
-- [Ketschdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ketschdorf.personal.md) 
-- [Ketschdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ketschdorf.secret.md) 

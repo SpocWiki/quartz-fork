@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ruegheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ruegheim.md) 
-- [Ruegheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ruegheim.internal.md) 
-- [Ruegheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ruegheim.protect.md) 
-- [Ruegheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ruegheim.private.md) 
-- [Ruegheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ruegheim.personal.md) 
-- [Ruegheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ruegheim.secret.md) 

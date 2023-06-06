@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oettingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Oettingen.md) 
-- [Oettingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oettingen.internal.md) 
-- [Oettingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oettingen.protect.md) 
-- [Oettingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oettingen.private.md) 
-- [Oettingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oettingen.personal.md) 
-- [Oettingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oettingen.secret.md) 

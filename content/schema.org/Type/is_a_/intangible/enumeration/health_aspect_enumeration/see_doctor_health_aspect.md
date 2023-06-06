@@ -47,10 +47,3 @@ Information about questions that may be asked, when to see a professional, measu
 
 
 
-## Confidential Links & Embeds: 
-- [see_doctor_health_aspect](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/see_doctor_health_aspect.md) 
-- [see_doctor_health_aspect.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/see_doctor_health_aspect.internal.md) 
-- [see_doctor_health_aspect.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/see_doctor_health_aspect.protect.md) 
-- [see_doctor_health_aspect.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/see_doctor_health_aspect.private.md) 
-- [see_doctor_health_aspect.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/see_doctor_health_aspect.personal.md) 
-- [see_doctor_health_aspect.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/see_doctor_health_aspect.secret.md) 

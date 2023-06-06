@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bollerup](../../../../../../_public/geo/Continent/Europe/Sweden/City/Bollerup.md) 
-- [Bollerup.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bollerup.internal.md) 
-- [Bollerup.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bollerup.protect.md) 
-- [Bollerup.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Bollerup.private.md) 
-- [Bollerup.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bollerup.personal.md) 
-- [Bollerup.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bollerup.secret.md) 

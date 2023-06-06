@@ -18,10 +18,3 @@ title: Triz-inert-additives
 Add neutral parts, or inert additives to an object.
 
 
-## Confidential Links & Embeds: 
-- [Triz-inert-additives](../../../../_public/tech/Triz/Sub/Triz-inert-additives.md) 
-- [Triz-inert-additives.internal](../../../../_internal/tech/Triz/Sub/Triz-inert-additives.internal.md) 
-- [Triz-inert-additives.protect](../../../../_protect/tech/Triz/Sub/Triz-inert-additives.protect.md) 
-- [Triz-inert-additives.private](../../../../_private/tech/Triz/Sub/Triz-inert-additives.private.md) 
-- [Triz-inert-additives.personal](../../../../_personal/tech/Triz/Sub/Triz-inert-additives.personal.md) 
-- [Triz-inert-additives.secret](../../../../_secret/tech/Triz/Sub/Triz-inert-additives.secret.md) 

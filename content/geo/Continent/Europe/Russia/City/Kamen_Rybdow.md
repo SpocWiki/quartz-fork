@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kamen_Rybdow](../../../../../../_public/geo/Continent/Europe/Russia/City/Kamen_Rybdow.md) 
-- [Kamen_Rybdow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kamen_Rybdow.internal.md) 
-- [Kamen_Rybdow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kamen_Rybdow.protect.md) 
-- [Kamen_Rybdow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kamen_Rybdow.private.md) 
-- [Kamen_Rybdow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kamen_Rybdow.personal.md) 
-- [Kamen_Rybdow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kamen_Rybdow.secret.md) 

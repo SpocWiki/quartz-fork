@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Tooting_Broadway](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.md) 
-- [Sub-Tooting_Broadway.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.internal.md) 
-- [Sub-Tooting_Broadway.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.protect.md) 
-- [Sub-Tooting_Broadway.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.private.md) 
-- [Sub-Tooting_Broadway.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.personal.md) 
-- [Sub-Tooting_Broadway.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Broadway.secret.md) 

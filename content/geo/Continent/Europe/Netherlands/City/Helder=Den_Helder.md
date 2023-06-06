@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Helder=Den_Helder](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Helder=Den_Helder.md) 
-- [Helder=Den_Helder.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Helder=Den_Helder.internal.md) 
-- [Helder=Den_Helder.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Helder=Den_Helder.protect.md) 
-- [Helder=Den_Helder.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Helder=Den_Helder.private.md) 
-- [Helder=Den_Helder.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Helder=Den_Helder.personal.md) 
-- [Helder=Den_Helder.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Helder=Den_Helder.secret.md) 

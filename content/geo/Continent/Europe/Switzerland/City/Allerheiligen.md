@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Allerheiligen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Allerheiligen.md) 
-- [Allerheiligen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Allerheiligen.internal.md) 
-- [Allerheiligen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Allerheiligen.protect.md) 
-- [Allerheiligen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Allerheiligen.private.md) 
-- [Allerheiligen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Allerheiligen.personal.md) 
-- [Allerheiligen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Allerheiligen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valsjoebyn](../../../../../../_public/geo/Continent/Europe/Sweden/City/Valsjoebyn.md) 
-- [Valsjoebyn.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Valsjoebyn.internal.md) 
-- [Valsjoebyn.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Valsjoebyn.protect.md) 
-- [Valsjoebyn.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Valsjoebyn.private.md) 
-- [Valsjoebyn.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Valsjoebyn.personal.md) 
-- [Valsjoebyn.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Valsjoebyn.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pago_Pago](../../../../../../_public/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.md) 
-- [Pago_Pago.internal](../../../../../../_internal/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.internal.md) 
-- [Pago_Pago.protect](../../../../../../_protect/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.protect.md) 
-- [Pago_Pago.private](../../../../../../_private/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.private.md) 
-- [Pago_Pago.personal](../../../../../../_personal/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.personal.md) 
-- [Pago_Pago.secret](../../../../../../_secret/geo/Continent/Oceania/American_Samoa/City/Pago_Pago.secret.md) 

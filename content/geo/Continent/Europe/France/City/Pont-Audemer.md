@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pont-Audemer](../../../../../../_public/geo/Continent/Europe/France/City/Pont-Audemer.md) 
-- [Pont-Audemer.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Pont-Audemer.internal.md) 
-- [Pont-Audemer.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Pont-Audemer.protect.md) 
-- [Pont-Audemer.private](../../../../../../_private/geo/Continent/Europe/France/City/Pont-Audemer.private.md) 
-- [Pont-Audemer.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Pont-Audemer.personal.md) 
-- [Pont-Audemer.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Pont-Audemer.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tranekiaer](../../../../../../_public/geo/Continent/Europe/Denmark/City/Tranekiaer.md) 
-- [Tranekiaer.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Tranekiaer.internal.md) 
-- [Tranekiaer.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Tranekiaer.protect.md) 
-- [Tranekiaer.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Tranekiaer.private.md) 
-- [Tranekiaer.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Tranekiaer.personal.md) 
-- [Tranekiaer.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Tranekiaer.secret.md) 

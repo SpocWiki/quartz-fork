@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lichtentanne](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtentanne.md) 
-- [Lichtentanne.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtentanne.internal.md) 
-- [Lichtentanne.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtentanne.protect.md) 
-- [Lichtentanne.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtentanne.private.md) 
-- [Lichtentanne.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtentanne.personal.md) 
-- [Lichtentanne.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lichtentanne.secret.md) 

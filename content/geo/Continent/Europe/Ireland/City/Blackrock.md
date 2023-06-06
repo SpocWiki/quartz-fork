@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blackrock](../../../../../../_public/geo/Continent/Europe/Ireland/City/Blackrock.md) 
-- [Blackrock.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Blackrock.internal.md) 
-- [Blackrock.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Blackrock.protect.md) 
-- [Blackrock.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Blackrock.private.md) 
-- [Blackrock.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Blackrock.personal.md) 
-- [Blackrock.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Blackrock.secret.md) 

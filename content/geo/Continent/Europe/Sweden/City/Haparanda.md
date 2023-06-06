@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haparanda](../../../../../../_public/geo/Continent/Europe/Sweden/City/Haparanda.md) 
-- [Haparanda.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haparanda.internal.md) 
-- [Haparanda.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haparanda.protect.md) 
-- [Haparanda.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Haparanda.private.md) 
-- [Haparanda.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haparanda.personal.md) 
-- [Haparanda.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haparanda.secret.md) 

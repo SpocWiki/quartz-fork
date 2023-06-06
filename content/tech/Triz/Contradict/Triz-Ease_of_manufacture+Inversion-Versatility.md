@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Inversion-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Inversion-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.md) 
-- [Triz-Ease_of_manufacture+Inversion-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.internal.md) 
-- [Triz-Ease_of_manufacture+Inversion-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.protect.md) 
-- [Triz-Ease_of_manufacture+Inversion-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.private.md) 
-- [Triz-Ease_of_manufacture+Inversion-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.personal.md) 
-- [Triz-Ease_of_manufacture+Inversion-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Versatility.secret.md) 

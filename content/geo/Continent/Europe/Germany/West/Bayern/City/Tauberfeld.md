@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tauberfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Tauberfeld.md) 
-- [Tauberfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tauberfeld.internal.md) 
-- [Tauberfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tauberfeld.protect.md) 
-- [Tauberfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tauberfeld.private.md) 
-- [Tauberfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Tauberfeld.personal.md) 
-- [Tauberfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Tauberfeld.secret.md) 

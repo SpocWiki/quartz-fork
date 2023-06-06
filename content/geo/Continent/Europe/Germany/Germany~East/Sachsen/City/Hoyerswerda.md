@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoyerswerda](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.md) 
-- [Hoyerswerda.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.internal.md) 
-- [Hoyerswerda.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.protect.md) 
-- [Hoyerswerda.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.private.md) 
-- [Hoyerswerda.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.personal.md) 
-- [Hoyerswerda.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hoyerswerda.secret.md) 

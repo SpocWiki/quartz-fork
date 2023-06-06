@@ -45,10 +45,3 @@ A trial design in which neither the researcher nor the patient knows the details
 
 
 
-## Confidential Links & Embeds: 
-- [double_blinded_trial](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.md) 
-- [double_blinded_trial.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.internal.md) 
-- [double_blinded_trial.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.protect.md) 
-- [double_blinded_trial.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.private.md) 
-- [double_blinded_trial.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.personal.md) 
-- [double_blinded_trial.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.secret.md) 

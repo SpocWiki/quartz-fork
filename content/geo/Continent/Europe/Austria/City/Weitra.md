@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weitra](../../../../../../_public/geo/Continent/Europe/Austria/City/Weitra.md) 
-- [Weitra.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Weitra.internal.md) 
-- [Weitra.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Weitra.protect.md) 
-- [Weitra.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Weitra.private.md) 
-- [Weitra.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Weitra.personal.md) 
-- [Weitra.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Weitra.secret.md) 

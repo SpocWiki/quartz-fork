@@ -47,10 +47,3 @@ Nonprofit501c10: Non-profit type referring to Domestic Fraternal Societies and A
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c10](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.md) 
-- [nonprofit501c10.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.internal.md) 
-- [nonprofit501c10.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.protect.md) 
-- [nonprofit501c10.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.private.md) 
-- [nonprofit501c10.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.personal.md) 
-- [nonprofit501c10.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.secret.md) 

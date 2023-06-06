@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Eton.md) 
-- [Eton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Eton.internal.md) 
-- [Eton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Eton.protect.md) 
-- [Eton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Eton.private.md) 
-- [Eton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Eton.personal.md) 
-- [Eton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Eton.secret.md) 

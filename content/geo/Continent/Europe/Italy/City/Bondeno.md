@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bondeno](../../../../../../_public/geo/Continent/Europe/Italy/City/Bondeno.md) 
-- [Bondeno.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bondeno.internal.md) 
-- [Bondeno.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bondeno.protect.md) 
-- [Bondeno.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bondeno.private.md) 
-- [Bondeno.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bondeno.personal.md) 
-- [Bondeno.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bondeno.secret.md) 

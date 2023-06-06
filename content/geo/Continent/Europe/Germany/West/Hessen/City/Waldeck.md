@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldeck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Waldeck.md) 
-- [Waldeck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Waldeck.internal.md) 
-- [Waldeck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Waldeck.protect.md) 
-- [Waldeck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Waldeck.private.md) 
-- [Waldeck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Waldeck.personal.md) 
-- [Waldeck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Waldeck.secret.md) 

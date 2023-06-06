@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gehren~Brandenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gehren~Brandenburg.md) 
-- [Gehren~Brandenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gehren~Brandenburg.internal.md) 
-- [Gehren~Brandenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gehren~Brandenburg.protect.md) 
-- [Gehren~Brandenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gehren~Brandenburg.private.md) 
-- [Gehren~Brandenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gehren~Brandenburg.personal.md) 
-- [Gehren~Brandenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gehren~Brandenburg.secret.md) 

@@ -45,10 +45,3 @@ Indicates that the item has sold out.
 
 
 
-## Confidential Links & Embeds: 
-- [sold_out](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.md) 
-- [sold_out.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.internal.md) 
-- [sold_out.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.protect.md) 
-- [sold_out.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.private.md) 
-- [sold_out.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.personal.md) 
-- [sold_out.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.secret.md) 

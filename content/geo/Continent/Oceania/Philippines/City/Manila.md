@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Manila](../../../../../../_public/geo/Continent/Oceania/Philippines/City/Manila.md) 
-- [Manila.internal](../../../../../../_internal/geo/Continent/Oceania/Philippines/City/Manila.internal.md) 
-- [Manila.protect](../../../../../../_protect/geo/Continent/Oceania/Philippines/City/Manila.protect.md) 
-- [Manila.private](../../../../../../_private/geo/Continent/Oceania/Philippines/City/Manila.private.md) 
-- [Manila.personal](../../../../../../_personal/geo/Continent/Oceania/Philippines/City/Manila.personal.md) 
-- [Manila.secret](../../../../../../_secret/geo/Continent/Oceania/Philippines/City/Manila.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Andrews](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Andrews.md) 
-- [St.Andrews.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Andrews.internal.md) 
-- [St.Andrews.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Andrews.protect.md) 
-- [St.Andrews.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Andrews.private.md) 
-- [St.Andrews.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Andrews.personal.md) 
-- [St.Andrews.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Andrews.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ust-Sysolsk=Syktivkar](../../../../../../_public/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.md) 
-- [Ust-Sysolsk=Syktivkar.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.internal.md) 
-- [Ust-Sysolsk=Syktivkar.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.protect.md) 
-- [Ust-Sysolsk=Syktivkar.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.private.md) 
-- [Ust-Sysolsk=Syktivkar.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.personal.md) 
-- [Ust-Sysolsk=Syktivkar.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ust-Sysolsk=Syktivkar.secret.md) 

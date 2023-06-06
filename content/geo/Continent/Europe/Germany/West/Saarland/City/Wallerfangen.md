@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wallerfangen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Wallerfangen.md) 
-- [Wallerfangen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Wallerfangen.internal.md) 
-- [Wallerfangen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Wallerfangen.protect.md) 
-- [Wallerfangen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Wallerfangen.private.md) 
-- [Wallerfangen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Wallerfangen.personal.md) 
-- [Wallerfangen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Wallerfangen.secret.md) 

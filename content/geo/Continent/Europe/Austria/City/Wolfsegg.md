@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolfsegg](../../../../../../_public/geo/Continent/Europe/Austria/City/Wolfsegg.md) 
-- [Wolfsegg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Wolfsegg.internal.md) 
-- [Wolfsegg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Wolfsegg.protect.md) 
-- [Wolfsegg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Wolfsegg.private.md) 
-- [Wolfsegg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Wolfsegg.personal.md) 
-- [Wolfsegg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Wolfsegg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Urluk](../../../../../../_public/geo/Continent/Europe/Russia/City/Urluk.md) 
-- [Urluk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Urluk.internal.md) 
-- [Urluk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Urluk.protect.md) 
-- [Urluk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Urluk.private.md) 
-- [Urluk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Urluk.personal.md) 
-- [Urluk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Urluk.secret.md) 

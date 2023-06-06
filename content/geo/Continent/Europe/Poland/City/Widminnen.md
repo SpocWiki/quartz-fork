@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Widminnen](../../../../../../_public/geo/Continent/Europe/Poland/City/Widminnen.md) 
-- [Widminnen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Widminnen.internal.md) 
-- [Widminnen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Widminnen.protect.md) 
-- [Widminnen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Widminnen.private.md) 
-- [Widminnen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Widminnen.personal.md) 
-- [Widminnen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Widminnen.secret.md) 

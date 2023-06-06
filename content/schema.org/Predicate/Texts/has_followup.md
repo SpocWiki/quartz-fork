@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_followup](../../../../_public/schema.org/Predicate/Texts/has_followup.md) 
-- [has_followup.internal](../../../../_internal/schema.org/Predicate/Texts/has_followup.internal.md) 
-- [has_followup.protect](../../../../_protect/schema.org/Predicate/Texts/has_followup.protect.md) 
-- [has_followup.private](../../../../_private/schema.org/Predicate/Texts/has_followup.private.md) 
-- [has_followup.personal](../../../../_personal/schema.org/Predicate/Texts/has_followup.personal.md) 
-- [has_followup.secret](../../../../_secret/schema.org/Predicate/Texts/has_followup.secret.md) 

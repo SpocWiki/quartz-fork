@@ -19,10 +19,3 @@ title: Triz-Speed+Periodic_action-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Periodic_action-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Speed+Periodic_action-Quantity.md) 
-- [Triz-Speed+Periodic_action-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Periodic_action-Quantity.internal.md) 
-- [Triz-Speed+Periodic_action-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Periodic_action-Quantity.protect.md) 
-- [Triz-Speed+Periodic_action-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Periodic_action-Quantity.private.md) 
-- [Triz-Speed+Periodic_action-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Periodic_action-Quantity.personal.md) 
-- [Triz-Speed+Periodic_action-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Periodic_action-Quantity.secret.md) 

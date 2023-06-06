@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montbeliard](../../../../../../_public/geo/Continent/Europe/France/City/Montbeliard.md) 
-- [Montbeliard.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Montbeliard.internal.md) 
-- [Montbeliard.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Montbeliard.protect.md) 
-- [Montbeliard.private](../../../../../../_private/geo/Continent/Europe/France/City/Montbeliard.private.md) 
-- [Montbeliard.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Montbeliard.personal.md) 
-- [Montbeliard.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Montbeliard.secret.md) 

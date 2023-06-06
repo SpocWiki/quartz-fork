@@ -45,10 +45,3 @@ An <a class="localLink" href="/EmployerReview">EmployerReview</a> is a review of
 
 
 
-## Confidential Links & Embeds: 
-- [employer_review](../../../../../../_public/schema.org/Type/is_a_/creative_work/review/employer_review.md) 
-- [employer_review.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/employer_review.internal.md) 
-- [employer_review.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/employer_review.protect.md) 
-- [employer_review.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/review/employer_review.private.md) 
-- [employer_review.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/employer_review.personal.md) 
-- [employer_review.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/employer_review.secret.md) 

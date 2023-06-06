@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pieliljaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Pieliljaervi.md) 
-- [Pieliljaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Pieliljaervi.internal.md) 
-- [Pieliljaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Pieliljaervi.protect.md) 
-- [Pieliljaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Pieliljaervi.private.md) 
-- [Pieliljaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Pieliljaervi.personal.md) 
-- [Pieliljaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Pieliljaervi.secret.md) 

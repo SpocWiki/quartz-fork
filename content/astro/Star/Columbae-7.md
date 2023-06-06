@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Columbae-7](../../../_public/astro/Star/Columbae-7.md) 
-- [Columbae-7.internal](../../../_internal/astro/Star/Columbae-7.internal.md) 
-- [Columbae-7.protect](../../../_protect/astro/Star/Columbae-7.protect.md) 
-- [Columbae-7.private](../../../_private/astro/Star/Columbae-7.private.md) 
-- [Columbae-7.personal](../../../_personal/astro/Star/Columbae-7.personal.md) 
-- [Columbae-7.secret](../../../_secret/astro/Star/Columbae-7.secret.md)
-

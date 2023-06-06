@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kunau](../../../../../../_public/geo/Continent/Europe/Poland/City/Kunau.md) 
-- [Kunau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kunau.internal.md) 
-- [Kunau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kunau.protect.md) 
-- [Kunau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kunau.private.md) 
-- [Kunau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kunau.personal.md) 
-- [Kunau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kunau.secret.md) 

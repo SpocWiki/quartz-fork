@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Thermal_expansion-moving_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Thermal_expansion-moving_Weight](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Thermal_expansion-moving_Weight.md) 
-- [Triz-Time-Loss+Thermal_expansion-moving_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Thermal_expansion-moving_Weight.internal.md) 
-- [Triz-Time-Loss+Thermal_expansion-moving_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Thermal_expansion-moving_Weight.protect.md) 
-- [Triz-Time-Loss+Thermal_expansion-moving_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Thermal_expansion-moving_Weight.private.md) 
-- [Triz-Time-Loss+Thermal_expansion-moving_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Thermal_expansion-moving_Weight.personal.md) 
-- [Triz-Time-Loss+Thermal_expansion-moving_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Thermal_expansion-moving_Weight.secret.md) 

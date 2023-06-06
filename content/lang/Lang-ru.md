@@ -19,11 +19,3 @@ title: Lang-ru
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-ru](../../_public/lang/Lang-ru.md) 
-- [Lang-ru.internal](../../_internal/lang/Lang-ru.internal.md) 
-- [Lang-ru.protect](../../_protect/lang/Lang-ru.protect.md) 
-- [Lang-ru.private](../../_private/lang/Lang-ru.private.md) 
-- [Lang-ru.personal](../../_personal/lang/Lang-ru.personal.md) 
-- [Lang-ru.secret](../../_secret/lang/Lang-ru.secret.md)
-

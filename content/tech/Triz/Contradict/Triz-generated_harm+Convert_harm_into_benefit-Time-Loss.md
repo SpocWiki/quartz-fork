@@ -19,10 +19,3 @@ title: Triz-generated_harm+Convert_harm_into_benefit-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Convert_harm_into_benefit-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.md) 
-- [Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.internal.md) 
-- [Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.protect.md) 
-- [Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.private.md) 
-- [Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.personal.md) 
-- [Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Time-Loss.secret.md) 

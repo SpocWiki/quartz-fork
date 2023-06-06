@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falkenstein](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenstein.md) 
-- [Falkenstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenstein.internal.md) 
-- [Falkenstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenstein.protect.md) 
-- [Falkenstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenstein.private.md) 
-- [Falkenstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenstein.personal.md) 
-- [Falkenstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenstein.secret.md) 

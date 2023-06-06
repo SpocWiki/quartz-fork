@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_polygon](../../../../_public/schema.org/Predicate/Texts/has_polygon.md) 
-- [has_polygon.internal](../../../../_internal/schema.org/Predicate/Texts/has_polygon.internal.md) 
-- [has_polygon.protect](../../../../_protect/schema.org/Predicate/Texts/has_polygon.protect.md) 
-- [has_polygon.private](../../../../_private/schema.org/Predicate/Texts/has_polygon.private.md) 
-- [has_polygon.personal](../../../../_personal/schema.org/Predicate/Texts/has_polygon.personal.md) 
-- [has_polygon.secret](../../../../_secret/schema.org/Predicate/Texts/has_polygon.secret.md) 

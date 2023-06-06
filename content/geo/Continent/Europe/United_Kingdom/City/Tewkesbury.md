@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tewkesbury](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tewkesbury.md) 
-- [Tewkesbury.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tewkesbury.internal.md) 
-- [Tewkesbury.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tewkesbury.protect.md) 
-- [Tewkesbury.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tewkesbury.private.md) 
-- [Tewkesbury.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tewkesbury.personal.md) 
-- [Tewkesbury.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tewkesbury.secret.md) 

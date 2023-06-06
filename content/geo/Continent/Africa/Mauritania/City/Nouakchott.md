@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nouakchott](../../../../../../_public/geo/Continent/Africa/Mauritania/City/Nouakchott.md) 
-- [Nouakchott.internal](../../../../../../_internal/geo/Continent/Africa/Mauritania/City/Nouakchott.internal.md) 
-- [Nouakchott.protect](../../../../../../_protect/geo/Continent/Africa/Mauritania/City/Nouakchott.protect.md) 
-- [Nouakchott.private](../../../../../../_private/geo/Continent/Africa/Mauritania/City/Nouakchott.private.md) 
-- [Nouakchott.personal](../../../../../../_personal/geo/Continent/Africa/Mauritania/City/Nouakchott.personal.md) 
-- [Nouakchott.secret](../../../../../../_secret/geo/Continent/Africa/Mauritania/City/Nouakchott.secret.md) 

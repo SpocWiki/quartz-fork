@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pollanten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Pollanten.md) 
-- [Pollanten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pollanten.internal.md) 
-- [Pollanten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pollanten.protect.md) 
-- [Pollanten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pollanten.private.md) 
-- [Pollanten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pollanten.personal.md) 
-- [Pollanten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pollanten.secret.md) 

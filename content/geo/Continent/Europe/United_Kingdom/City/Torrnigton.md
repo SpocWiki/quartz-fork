@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Torrnigton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Torrnigton.md) 
-- [Torrnigton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Torrnigton.internal.md) 
-- [Torrnigton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Torrnigton.protect.md) 
-- [Torrnigton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Torrnigton.private.md) 
-- [Torrnigton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Torrnigton.personal.md) 
-- [Torrnigton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Torrnigton.secret.md) 

@@ -43,10 +43,3 @@ The act of stopping or deactivating a device or application (e.g. stopping a tim
 
 
 
-## Confidential Links & Embeds: 
-- [deactivate_action](../../../../../../_public/schema.org/Type/is_a_/action/control_action/deactivate_action.md) 
-- [deactivate_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/control_action/deactivate_action.internal.md) 
-- [deactivate_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/control_action/deactivate_action.protect.md) 
-- [deactivate_action.private](../../../../../../_private/schema.org/Type/is_a_/action/control_action/deactivate_action.private.md) 
-- [deactivate_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/control_action/deactivate_action.personal.md) 
-- [deactivate_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/control_action/deactivate_action.secret.md) 

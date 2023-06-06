@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muensterberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Muensterberg.md) 
-- [Muensterberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Muensterberg.internal.md) 
-- [Muensterberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Muensterberg.protect.md) 
-- [Muensterberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Muensterberg.private.md) 
-- [Muensterberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Muensterberg.personal.md) 
-- [Muensterberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Muensterberg.secret.md) 

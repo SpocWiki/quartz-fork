@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frielendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frielendorf.md) 
-- [Frielendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frielendorf.internal.md) 
-- [Frielendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frielendorf.protect.md) 
-- [Frielendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frielendorf.private.md) 
-- [Frielendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frielendorf.personal.md) 
-- [Frielendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frielendorf.secret.md) 

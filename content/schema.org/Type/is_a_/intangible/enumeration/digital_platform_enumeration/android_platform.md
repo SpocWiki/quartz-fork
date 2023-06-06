@@ -47,10 +47,3 @@ Represents the broad notion of Android-based operating systems.
 
 
 
-## Confidential Links & Embeds: 
-- [android_platform](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.md) 
-- [android_platform.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.internal.md) 
-- [android_platform.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.protect.md) 
-- [android_platform.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.private.md) 
-- [android_platform.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.personal.md) 
-- [android_platform.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.secret.md) 

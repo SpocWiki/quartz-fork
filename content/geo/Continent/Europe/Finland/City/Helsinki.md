@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Helsinki](../../../../../../_public/geo/Continent/Europe/Finland/City/Helsinki.md) 
-- [Helsinki.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Helsinki.internal.md) 
-- [Helsinki.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Helsinki.protect.md) 
-- [Helsinki.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Helsinki.private.md) 
-- [Helsinki.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Helsinki.personal.md) 
-- [Helsinki.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Helsinki.secret.md) 

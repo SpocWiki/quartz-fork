@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_taxonomic_range](../../../../../_public/schema.org/Predicate/Relations/has/has_taxonomic_range.md) 
-- [has_taxonomic_range.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_taxonomic_range.internal.md) 
-- [has_taxonomic_range.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_taxonomic_range.protect.md) 
-- [has_taxonomic_range.private](../../../../../_private/schema.org/Predicate/Relations/has/has_taxonomic_range.private.md) 
-- [has_taxonomic_range.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_taxonomic_range.personal.md) 
-- [has_taxonomic_range.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_taxonomic_range.secret.md) 

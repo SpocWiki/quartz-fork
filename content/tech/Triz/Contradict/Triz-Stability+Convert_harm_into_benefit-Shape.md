@@ -19,10 +19,3 @@ title: Triz-Stability+Convert_harm_into_benefit-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Convert_harm_into_benefit-Shape](../../../../_public/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.md) 
-- [Triz-Stability+Convert_harm_into_benefit-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.internal.md) 
-- [Triz-Stability+Convert_harm_into_benefit-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.protect.md) 
-- [Triz-Stability+Convert_harm_into_benefit-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.private.md) 
-- [Triz-Stability+Convert_harm_into_benefit-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.personal.md) 
-- [Triz-Stability+Convert_harm_into_benefit-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Convert_harm_into_benefit-Shape.secret.md) 

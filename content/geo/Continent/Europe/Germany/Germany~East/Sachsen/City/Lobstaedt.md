@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lobstaedt](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lobstaedt.md) 
-- [Lobstaedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lobstaedt.internal.md) 
-- [Lobstaedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lobstaedt.protect.md) 
-- [Lobstaedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lobstaedt.private.md) 
-- [Lobstaedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lobstaedt.personal.md) 
-- [Lobstaedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lobstaedt.secret.md) 

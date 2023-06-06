@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sedan](../../../../../../_public/geo/Continent/Europe/France/City/Sedan.md) 
-- [Sedan.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Sedan.internal.md) 
-- [Sedan.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Sedan.protect.md) 
-- [Sedan.private](../../../../../../_private/geo/Continent/Europe/France/City/Sedan.private.md) 
-- [Sedan.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Sedan.personal.md) 
-- [Sedan.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Sedan.secret.md) 

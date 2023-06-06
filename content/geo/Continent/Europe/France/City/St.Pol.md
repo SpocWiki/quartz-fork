@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Pol](../../../../../../_public/geo/Continent/Europe/France/City/St.Pol.md) 
-- [St.Pol.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Pol.internal.md) 
-- [St.Pol.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Pol.protect.md) 
-- [St.Pol.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Pol.private.md) 
-- [St.Pol.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Pol.personal.md) 
-- [St.Pol.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Pol.secret.md) 

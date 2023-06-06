@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Scarborough](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Scarborough.md) 
-- [Scarborough.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Scarborough.internal.md) 
-- [Scarborough.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Scarborough.protect.md) 
-- [Scarborough.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Scarborough.private.md) 
-- [Scarborough.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Scarborough.personal.md) 
-- [Scarborough.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Scarborough.secret.md) 

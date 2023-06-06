@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fossano](../../../../../../_public/geo/Continent/Europe/Italy/City/Fossano.md) 
-- [Fossano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Fossano.internal.md) 
-- [Fossano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Fossano.protect.md) 
-- [Fossano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Fossano.private.md) 
-- [Fossano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Fossano.personal.md) 
-- [Fossano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Fossano.secret.md) 

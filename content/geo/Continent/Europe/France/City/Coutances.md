@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Coutances](../../../../../../_public/geo/Continent/Europe/France/City/Coutances.md) 
-- [Coutances.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Coutances.internal.md) 
-- [Coutances.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Coutances.protect.md) 
-- [Coutances.private](../../../../../../_private/geo/Continent/Europe/France/City/Coutances.private.md) 
-- [Coutances.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Coutances.personal.md) 
-- [Coutances.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Coutances.secret.md) 

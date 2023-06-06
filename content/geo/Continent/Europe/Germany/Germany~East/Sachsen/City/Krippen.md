@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krippen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Krippen.md) 
-- [Krippen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Krippen.internal.md) 
-- [Krippen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Krippen.protect.md) 
-- [Krippen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Krippen.private.md) 
-- [Krippen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Krippen.personal.md) 
-- [Krippen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Krippen.secret.md) 

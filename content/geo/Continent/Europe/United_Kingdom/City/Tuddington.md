@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tuddington](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Tuddington.md) 
-- [Tuddington.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Tuddington.internal.md) 
-- [Tuddington.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Tuddington.protect.md) 
-- [Tuddington.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Tuddington.private.md) 
-- [Tuddington.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Tuddington.personal.md) 
-- [Tuddington.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Tuddington.secret.md) 

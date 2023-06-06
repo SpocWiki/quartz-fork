@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langenberg~Rheinland](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenberg~Rheinland.md) 
-- [Langenberg~Rheinland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenberg~Rheinland.internal.md) 
-- [Langenberg~Rheinland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenberg~Rheinland.protect.md) 
-- [Langenberg~Rheinland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenberg~Rheinland.private.md) 
-- [Langenberg~Rheinland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenberg~Rheinland.personal.md) 
-- [Langenberg~Rheinland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Langenberg~Rheinland.secret.md) 

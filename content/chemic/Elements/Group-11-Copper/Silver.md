@@ -36,10 +36,3 @@ SpocWebEntityId: 17799
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Silver)
 
-## Confidential Links & Embeds: 
-- [Silver](../../../../_public/chemic/Elements/Group-11-Copper/Silver.md) 
-- [Silver.internal](../../../../_internal/chemic/Elements/Group-11-Copper/Silver.internal.md) 
-- [Silver.protect](../../../../_protect/chemic/Elements/Group-11-Copper/Silver.protect.md) 
-- [Silver.private](../../../../_private/chemic/Elements/Group-11-Copper/Silver.private.md) 
-- [Silver.personal](../../../../_personal/chemic/Elements/Group-11-Copper/Silver.personal.md) 
-- [Silver.secret](../../../../_secret/chemic/Elements/Group-11-Copper/Silver.secret.md) 

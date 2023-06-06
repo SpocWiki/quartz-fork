@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rehfelde](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.md) 
-- [Rehfelde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.internal.md) 
-- [Rehfelde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.protect.md) 
-- [Rehfelde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.private.md) 
-- [Rehfelde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.personal.md) 
-- [Rehfelde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rehfelde.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Changing_the_color-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Changing_the_color-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.internal.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.protect.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.private.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.personal.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Reliability.secret.md) 

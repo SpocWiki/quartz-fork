@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goeding](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Goeding.md) 
-- [Goeding.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Goeding.internal.md) 
-- [Goeding.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Goeding.protect.md) 
-- [Goeding.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Goeding.private.md) 
-- [Goeding.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Goeding.personal.md) 
-- [Goeding.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Goeding.secret.md) 

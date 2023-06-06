@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hardingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hardingen.md) 
-- [Hardingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hardingen.internal.md) 
-- [Hardingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hardingen.protect.md) 
-- [Hardingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hardingen.private.md) 
-- [Hardingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hardingen.personal.md) 
-- [Hardingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hardingen.secret.md) 

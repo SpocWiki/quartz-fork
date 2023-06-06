@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sevenoaks](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.md) 
-- [Sevenoaks.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.internal.md) 
-- [Sevenoaks.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.protect.md) 
-- [Sevenoaks.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.private.md) 
-- [Sevenoaks.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.personal.md) 
-- [Sevenoaks.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sevenoaks.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-generated_harm+Extraction-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Extraction-Automation](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-Automation.md) 
-- [Triz-generated_harm+Extraction-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Automation.internal.md) 
-- [Triz-generated_harm+Extraction-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Extraction-Automation.protect.md) 
-- [Triz-generated_harm+Extraction-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Extraction-Automation.private.md) 
-- [Triz-generated_harm+Extraction-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Automation.personal.md) 
-- [Triz-generated_harm+Extraction-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Extraction-Automation.secret.md) 

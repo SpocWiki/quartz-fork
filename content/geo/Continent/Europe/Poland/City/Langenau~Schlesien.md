@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langenau~Schlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Langenau~Schlesien.md) 
-- [Langenau~Schlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Langenau~Schlesien.internal.md) 
-- [Langenau~Schlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Langenau~Schlesien.protect.md) 
-- [Langenau~Schlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Langenau~Schlesien.private.md) 
-- [Langenau~Schlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Langenau~Schlesien.personal.md) 
-- [Langenau~Schlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Langenau~Schlesien.secret.md) 

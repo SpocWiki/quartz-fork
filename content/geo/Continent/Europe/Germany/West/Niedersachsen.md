@@ -32,10 +32,3 @@ markerFolder: ./Niedersachsen/City
 
 
 
-## Confidential Links & Embeds: 
-- [Niedersachsen](../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen.md) 
-- [Niedersachsen.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen.internal.md) 
-- [Niedersachsen.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen.protect.md) 
-- [Niedersachsen.private](../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen.private.md) 
-- [Niedersachsen.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen.personal.md) 
-- [Niedersachsen.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leicester](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Leicester.md) 
-- [Leicester.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Leicester.internal.md) 
-- [Leicester.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Leicester.protect.md) 
-- [Leicester.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Leicester.private.md) 
-- [Leicester.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Leicester.personal.md) 
-- [Leicester.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Leicester.secret.md) 

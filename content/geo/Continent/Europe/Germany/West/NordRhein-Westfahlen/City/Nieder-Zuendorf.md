@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nieder-Zuendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.md) 
-- [Nieder-Zuendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.internal.md) 
-- [Nieder-Zuendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.protect.md) 
-- [Nieder-Zuendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.private.md) 
-- [Nieder-Zuendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.personal.md) 
-- [Nieder-Zuendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Nieder-Zuendorf.secret.md) 

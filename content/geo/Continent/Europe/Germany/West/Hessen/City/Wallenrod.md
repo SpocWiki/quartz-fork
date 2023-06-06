@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wallenrod](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.md) 
-- [Wallenrod.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.internal.md) 
-- [Wallenrod.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.protect.md) 
-- [Wallenrod.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.private.md) 
-- [Wallenrod.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.personal.md) 
-- [Wallenrod.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wallenrod.secret.md) 

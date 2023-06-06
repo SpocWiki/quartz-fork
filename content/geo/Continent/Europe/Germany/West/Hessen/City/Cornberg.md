@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cornberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Cornberg.md) 
-- [Cornberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Cornberg.internal.md) 
-- [Cornberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Cornberg.protect.md) 
-- [Cornberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Cornberg.private.md) 
-- [Cornberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Cornberg.personal.md) 
-- [Cornberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Cornberg.secret.md) 

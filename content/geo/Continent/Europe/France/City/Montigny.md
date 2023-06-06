@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montigny](../../../../../../_public/geo/Continent/Europe/France/City/Montigny.md) 
-- [Montigny.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Montigny.internal.md) 
-- [Montigny.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Montigny.protect.md) 
-- [Montigny.private](../../../../../../_private/geo/Continent/Europe/France/City/Montigny.private.md) 
-- [Montigny.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Montigny.personal.md) 
-- [Montigny.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Montigny.secret.md) 

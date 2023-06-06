@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wilthen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilthen.md) 
-- [Wilthen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilthen.internal.md) 
-- [Wilthen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilthen.protect.md) 
-- [Wilthen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilthen.private.md) 
-- [Wilthen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilthen.personal.md) 
-- [Wilthen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Wilthen.secret.md) 

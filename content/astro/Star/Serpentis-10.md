@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Serpentis-10](../../../_public/astro/Star/Serpentis-10.md) 
-- [Serpentis-10.internal](../../../_internal/astro/Star/Serpentis-10.internal.md) 
-- [Serpentis-10.protect](../../../_protect/astro/Star/Serpentis-10.protect.md) 
-- [Serpentis-10.private](../../../_private/astro/Star/Serpentis-10.private.md) 
-- [Serpentis-10.personal](../../../_personal/astro/Star/Serpentis-10.personal.md) 
-- [Serpentis-10.secret](../../../_secret/astro/Star/Serpentis-10.secret.md) 

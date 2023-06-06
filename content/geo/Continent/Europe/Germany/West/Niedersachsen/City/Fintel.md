@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fintel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fintel.md) 
-- [Fintel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fintel.internal.md) 
-- [Fintel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fintel.protect.md) 
-- [Fintel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fintel.private.md) 
-- [Fintel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fintel.personal.md) 
-- [Fintel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fintel.secret.md) 

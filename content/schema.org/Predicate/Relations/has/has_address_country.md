@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_address_country](../../../../../_public/schema.org/Predicate/Relations/has/has_address_country.md) 
-- [has_address_country.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_address_country.internal.md) 
-- [has_address_country.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_address_country.protect.md) 
-- [has_address_country.private](../../../../../_private/schema.org/Predicate/Relations/has/has_address_country.private.md) 
-- [has_address_country.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_address_country.personal.md) 
-- [has_address_country.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_address_country.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Korbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Korbach.md) 
-- [Korbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Korbach.internal.md) 
-- [Korbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Korbach.protect.md) 
-- [Korbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Korbach.private.md) 
-- [Korbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Korbach.personal.md) 
-- [Korbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Korbach.secret.md) 

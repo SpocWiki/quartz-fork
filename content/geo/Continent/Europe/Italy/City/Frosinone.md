@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frosinone](../../../../../../_public/geo/Continent/Europe/Italy/City/Frosinone.md) 
-- [Frosinone.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Frosinone.internal.md) 
-- [Frosinone.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Frosinone.protect.md) 
-- [Frosinone.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Frosinone.private.md) 
-- [Frosinone.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Frosinone.personal.md) 
-- [Frosinone.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Frosinone.secret.md) 

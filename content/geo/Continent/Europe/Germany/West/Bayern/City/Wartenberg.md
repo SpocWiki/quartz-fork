@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wartenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wartenberg.md) 
-- [Wartenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wartenberg.internal.md) 
-- [Wartenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wartenberg.protect.md) 
-- [Wartenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wartenberg.private.md) 
-- [Wartenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wartenberg.personal.md) 
-- [Wartenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wartenberg.secret.md) 

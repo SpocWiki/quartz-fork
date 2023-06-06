@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wieps](../../../../../../_public/geo/Continent/Europe/Poland/City/Wieps.md) 
-- [Wieps.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wieps.internal.md) 
-- [Wieps.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wieps.protect.md) 
-- [Wieps.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wieps.private.md) 
-- [Wieps.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wieps.personal.md) 
-- [Wieps.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wieps.secret.md) 

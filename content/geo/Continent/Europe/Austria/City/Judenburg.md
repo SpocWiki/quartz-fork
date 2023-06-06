@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Judenburg](../../../../../../_public/geo/Continent/Europe/Austria/City/Judenburg.md) 
-- [Judenburg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Judenburg.internal.md) 
-- [Judenburg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Judenburg.protect.md) 
-- [Judenburg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Judenburg.private.md) 
-- [Judenburg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Judenburg.personal.md) 
-- [Judenburg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Judenburg.secret.md) 

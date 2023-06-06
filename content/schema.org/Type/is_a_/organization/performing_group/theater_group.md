@@ -43,10 +43,3 @@ A theater group or company, for example, the Royal Shakespeare Company or Druid 
 
 
 
-## Confidential Links & Embeds: 
-- [theater_group](../../../../../../_public/schema.org/Type/is_a_/organization/performing_group/theater_group.md) 
-- [theater_group.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/performing_group/theater_group.internal.md) 
-- [theater_group.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/performing_group/theater_group.protect.md) 
-- [theater_group.private](../../../../../../_private/schema.org/Type/is_a_/organization/performing_group/theater_group.private.md) 
-- [theater_group.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/performing_group/theater_group.personal.md) 
-- [theater_group.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/performing_group/theater_group.secret.md) 

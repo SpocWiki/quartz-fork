@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Walsrode](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Walsrode.md) 
-- [Walsrode.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Walsrode.internal.md) 
-- [Walsrode.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Walsrode.protect.md) 
-- [Walsrode.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Walsrode.private.md) 
-- [Walsrode.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Walsrode.personal.md) 
-- [Walsrode.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Walsrode.secret.md) 

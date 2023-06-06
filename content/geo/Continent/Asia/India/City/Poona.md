@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poona](../../../../../../_public/geo/Continent/Asia/India/City/Poona.md) 
-- [Poona.internal](../../../../../../_internal/geo/Continent/Asia/India/City/Poona.internal.md) 
-- [Poona.protect](../../../../../../_protect/geo/Continent/Asia/India/City/Poona.protect.md) 
-- [Poona.private](../../../../../../_private/geo/Continent/Asia/India/City/Poona.private.md) 
-- [Poona.personal](../../../../../../_personal/geo/Continent/Asia/India/City/Poona.personal.md) 
-- [Poona.secret](../../../../../../_secret/geo/Continent/Asia/India/City/Poona.secret.md) 

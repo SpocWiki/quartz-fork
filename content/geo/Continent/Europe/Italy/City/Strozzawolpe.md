@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strozzawolpe](../../../../../../_public/geo/Continent/Europe/Italy/City/Strozzawolpe.md) 
-- [Strozzawolpe.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Strozzawolpe.internal.md) 
-- [Strozzawolpe.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Strozzawolpe.protect.md) 
-- [Strozzawolpe.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Strozzawolpe.private.md) 
-- [Strozzawolpe.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Strozzawolpe.personal.md) 
-- [Strozzawolpe.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Strozzawolpe.secret.md) 

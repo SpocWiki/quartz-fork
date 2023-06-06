@@ -19,10 +19,3 @@ title: Triz-affected_harm+Convert_harm_into_benefit-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Convert_harm_into_benefit-Stress](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.internal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.protect.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.private.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.personal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Stress.secret.md) 

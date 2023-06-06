@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karkku](../../../../../../_public/geo/Continent/Europe/Finland/City/Karkku.md) 
-- [Karkku.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Karkku.internal.md) 
-- [Karkku.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Karkku.protect.md) 
-- [Karkku.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Karkku.private.md) 
-- [Karkku.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Karkku.personal.md) 
-- [Karkku.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Karkku.secret.md) 

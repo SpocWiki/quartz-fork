@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Segmentation-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Segmentation-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Reliability.md) 
-- [Triz-Measurement_Accuracy+Segmentation-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Reliability.internal.md) 
-- [Triz-Measurement_Accuracy+Segmentation-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Reliability.protect.md) 
-- [Triz-Measurement_Accuracy+Segmentation-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Reliability.private.md) 
-- [Triz-Measurement_Accuracy+Segmentation-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Reliability.personal.md) 
-- [Triz-Measurement_Accuracy+Segmentation-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Segmentation-Reliability.secret.md) 

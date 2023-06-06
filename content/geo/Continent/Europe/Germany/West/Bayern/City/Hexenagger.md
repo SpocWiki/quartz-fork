@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hexenagger](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hexenagger.md) 
-- [Hexenagger.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hexenagger.internal.md) 
-- [Hexenagger.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hexenagger.protect.md) 
-- [Hexenagger.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hexenagger.private.md) 
-- [Hexenagger.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hexenagger.personal.md) 
-- [Hexenagger.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hexenagger.secret.md) 

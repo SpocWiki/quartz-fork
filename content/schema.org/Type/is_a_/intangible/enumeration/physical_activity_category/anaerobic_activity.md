@@ -45,10 +45,3 @@ Physical activity that is of high-intensity which utilizes the anaerobic metabol
 
 
 
-## Confidential Links & Embeds: 
-- [anaerobic_activity](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.md) 
-- [anaerobic_activity.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.internal.md) 
-- [anaerobic_activity.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.protect.md) 
-- [anaerobic_activity.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.private.md) 
-- [anaerobic_activity.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.personal.md) 
-- [anaerobic_activity.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.secret.md) 

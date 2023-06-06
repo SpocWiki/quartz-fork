@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zwischenalm](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zwischenalm.md) 
-- [Zwischenalm.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zwischenalm.internal.md) 
-- [Zwischenalm.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zwischenalm.protect.md) 
-- [Zwischenalm.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zwischenalm.private.md) 
-- [Zwischenalm.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zwischenalm.personal.md) 
-- [Zwischenalm.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Zwischenalm.secret.md) 

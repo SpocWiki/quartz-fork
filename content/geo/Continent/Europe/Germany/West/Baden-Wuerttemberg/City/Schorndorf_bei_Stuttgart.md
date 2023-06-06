@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schorndorf_bei_Stuttgart](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.md) 
-- [Schorndorf_bei_Stuttgart.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.internal.md) 
-- [Schorndorf_bei_Stuttgart.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.protect.md) 
-- [Schorndorf_bei_Stuttgart.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.private.md) 
-- [Schorndorf_bei_Stuttgart.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.personal.md) 
-- [Schorndorf_bei_Stuttgart.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schorndorf_bei_Stuttgart.secret.md) 

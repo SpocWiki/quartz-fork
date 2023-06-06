@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kastona](../../../../../../_public/geo/Continent/Europe/Russia/City/Kastona.md) 
-- [Kastona.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kastona.internal.md) 
-- [Kastona.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kastona.protect.md) 
-- [Kastona.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kastona.private.md) 
-- [Kastona.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kastona.personal.md) 
-- [Kastona.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kastona.secret.md) 

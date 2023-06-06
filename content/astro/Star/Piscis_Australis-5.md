@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Piscis_Australis-5](../../../_public/astro/Star/Piscis_Australis-5.md) 
-- [Piscis_Australis-5.internal](../../../_internal/astro/Star/Piscis_Australis-5.internal.md) 
-- [Piscis_Australis-5.protect](../../../_protect/astro/Star/Piscis_Australis-5.protect.md) 
-- [Piscis_Australis-5.private](../../../_private/astro/Star/Piscis_Australis-5.private.md) 
-- [Piscis_Australis-5.personal](../../../_personal/astro/Star/Piscis_Australis-5.personal.md) 
-- [Piscis_Australis-5.secret](../../../_secret/astro/Star/Piscis_Australis-5.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Draghaellan](../../../../../../_public/geo/Continent/Europe/Russia/City/Draghaellan.md) 
-- [Draghaellan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Draghaellan.internal.md) 
-- [Draghaellan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Draghaellan.protect.md) 
-- [Draghaellan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Draghaellan.private.md) 
-- [Draghaellan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Draghaellan.personal.md) 
-- [Draghaellan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Draghaellan.secret.md) 

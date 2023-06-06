@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Frankfurt~Main_Mühlberg](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_M%C3%BChlberg.md) 
-- [S-Frankfurt~Main_Mühlberg.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_M%C3%BChlberg.internal.md) 
-- [S-Frankfurt~Main_Mühlberg.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_M%C3%BChlberg.protect.md) 
-- [S-Frankfurt~Main_Mühlberg.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_M%C3%BChlberg.private.md) 
-- [S-Frankfurt~Main_Mühlberg.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_M%C3%BChlberg.personal.md) 
-- [S-Frankfurt~Main_Mühlberg.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Frankfurt~Main_M%C3%BChlberg.secret.md) 

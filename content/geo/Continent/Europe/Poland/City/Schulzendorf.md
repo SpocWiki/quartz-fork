@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schulzendorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Schulzendorf.md) 
-- [Schulzendorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schulzendorf.internal.md) 
-- [Schulzendorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schulzendorf.protect.md) 
-- [Schulzendorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schulzendorf.private.md) 
-- [Schulzendorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schulzendorf.personal.md) 
-- [Schulzendorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schulzendorf.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buchdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Buchdorf.md) 
-- [Buchdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Buchdorf.internal.md) 
-- [Buchdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Buchdorf.protect.md) 
-- [Buchdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Buchdorf.private.md) 
-- [Buchdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Buchdorf.personal.md) 
-- [Buchdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Buchdorf.secret.md) 

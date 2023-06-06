@@ -17,10 +17,3 @@ title: Triz-Complexity
 
 Device complexity
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity](../../../../_public/tech/Triz/Parameter/Triz-Complexity.md) 
-- [Triz-Complexity.internal](../../../../_internal/tech/Triz/Parameter/Triz-Complexity.internal.md) 
-- [Triz-Complexity.protect](../../../../_protect/tech/Triz/Parameter/Triz-Complexity.protect.md) 
-- [Triz-Complexity.private](../../../../_private/tech/Triz/Parameter/Triz-Complexity.private.md) 
-- [Triz-Complexity.personal](../../../../_personal/tech/Triz/Parameter/Triz-Complexity.personal.md) 
-- [Triz-Complexity.secret](../../../../_secret/tech/Triz/Parameter/Triz-Complexity.secret.md) 

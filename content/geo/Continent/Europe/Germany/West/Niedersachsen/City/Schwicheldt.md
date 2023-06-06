@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwicheldt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.md) 
-- [Schwicheldt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.internal.md) 
-- [Schwicheldt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.protect.md) 
-- [Schwicheldt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.private.md) 
-- [Schwicheldt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.personal.md) 
-- [Schwicheldt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schwicheldt.secret.md) 

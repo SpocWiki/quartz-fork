@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [San_Felice_sul_Panard](../../../../../../_public/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.md) 
-- [San_Felice_sul_Panard.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.internal.md) 
-- [San_Felice_sul_Panard.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.protect.md) 
-- [San_Felice_sul_Panard.private](../../../../../../_private/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.private.md) 
-- [San_Felice_sul_Panard.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.personal.md) 
-- [San_Felice_sul_Panard.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Felice_sul_Panard.secret.md) 

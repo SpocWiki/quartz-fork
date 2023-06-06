@@ -45,10 +45,3 @@ Any rule set or interactive tool for estimating the risk of developing a complic
 
 
 
-## Confidential Links & Embeds: 
-- [medical_risk_estimator](../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_risk_estimator.md) 
-- [medical_risk_estimator.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_risk_estimator.internal.md) 
-- [medical_risk_estimator.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_risk_estimator.protect.md) 
-- [medical_risk_estimator.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_risk_estimator.private.md) 
-- [medical_risk_estimator.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_risk_estimator.personal.md) 
-- [medical_risk_estimator.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_risk_estimator.secret.md) 

@@ -45,10 +45,3 @@ A specific branch of medical science that is concerned with the study, treatment
 
 
 
-## Confidential Links & Embeds: 
-- [psychiatric](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/psychiatric.md) 
-- [psychiatric.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/psychiatric.internal.md) 
-- [psychiatric.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/psychiatric.protect.md) 
-- [psychiatric.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/psychiatric.private.md) 
-- [psychiatric.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/psychiatric.personal.md) 
-- [psychiatric.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/psychiatric.secret.md) 

@@ -43,10 +43,3 @@ A scholarly article in the medical domain.
 
 
 
-## Confidential Links & Embeds: 
-- [medical_scholarly_article](../../../../../../../_public/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.md) 
-- [medical_scholarly_article.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.internal.md) 
-- [medical_scholarly_article.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.protect.md) 
-- [medical_scholarly_article.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.private.md) 
-- [medical_scholarly_article.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.personal.md) 
-- [medical_scholarly_article.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.secret.md) 

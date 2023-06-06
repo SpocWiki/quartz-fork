@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ancona](../../../../../../_public/geo/Continent/Europe/Italy/City/Ancona.md) 
-- [Ancona.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ancona.internal.md) 
-- [Ancona.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ancona.protect.md) 
-- [Ancona.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ancona.private.md) 
-- [Ancona.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ancona.personal.md) 
-- [Ancona.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ancona.secret.md) 

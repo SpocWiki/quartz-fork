@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Polch](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Polch.md) 
-- [Polch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Polch.internal.md) 
-- [Polch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Polch.protect.md) 
-- [Polch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Polch.private.md) 
-- [Polch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Polch.personal.md) 
-- [Polch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Polch.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.md) 
-- [Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.internal.md) 
-- [Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.protect.md) 
-- [Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.private.md) 
-- [Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.personal.md) 
-- [Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Use_strong_oxidisers-stationary_Duration.secret.md) 

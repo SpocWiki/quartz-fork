@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sorau](../../../../../../_public/geo/Continent/Europe/Poland/City/Sorau.md) 
-- [Sorau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sorau.internal.md) 
-- [Sorau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sorau.protect.md) 
-- [Sorau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sorau.private.md) 
-- [Sorau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sorau.personal.md) 
-- [Sorau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sorau.secret.md) 

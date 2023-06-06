@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luga](../../../../../../_public/geo/Continent/Europe/Russia/City/Luga.md) 
-- [Luga.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Luga.internal.md) 
-- [Luga.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Luga.protect.md) 
-- [Luga.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Luga.private.md) 
-- [Luga.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Luga.personal.md) 
-- [Luga.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Luga.secret.md) 

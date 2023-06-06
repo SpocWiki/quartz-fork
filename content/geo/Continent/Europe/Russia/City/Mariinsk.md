@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mariinsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Mariinsk.md) 
-- [Mariinsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mariinsk.internal.md) 
-- [Mariinsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mariinsk.protect.md) 
-- [Mariinsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mariinsk.private.md) 
-- [Mariinsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mariinsk.personal.md) 
-- [Mariinsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mariinsk.secret.md) 

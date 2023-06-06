@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldmuenchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.md) 
-- [Waldmuenchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.internal.md) 
-- [Waldmuenchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.protect.md) 
-- [Waldmuenchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.private.md) 
-- [Waldmuenchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.personal.md) 
-- [Waldmuenchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.secret.md) 

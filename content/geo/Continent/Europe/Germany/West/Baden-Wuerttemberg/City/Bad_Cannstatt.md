@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Cannstatt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.md) 
-- [Bad_Cannstatt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.internal.md) 
-- [Bad_Cannstatt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.protect.md) 
-- [Bad_Cannstatt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.private.md) 
-- [Bad_Cannstatt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.personal.md) 
-- [Bad_Cannstatt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Bad_Cannstatt.secret.md) 

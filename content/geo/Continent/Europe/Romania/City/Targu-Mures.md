@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Targu-Mures](../../../../../../_public/geo/Continent/Europe/Romania/City/Targu-Mures.md) 
-- [Targu-Mures.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Targu-Mures.internal.md) 
-- [Targu-Mures.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Targu-Mures.protect.md) 
-- [Targu-Mures.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Targu-Mures.private.md) 
-- [Targu-Mures.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Targu-Mures.personal.md) 
-- [Targu-Mures.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Targu-Mures.secret.md) 

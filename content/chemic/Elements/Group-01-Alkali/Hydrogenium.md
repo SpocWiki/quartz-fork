@@ -37,10 +37,3 @@ title: Hydrogenium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trihydrogen%20cation)
 
-## Confidential Links & Embeds: 
-- [Hydrogenium](../../../../_public/chemic/Elements/Group-01-Alkali/Hydrogenium.md) 
-- [Hydrogenium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Hydrogenium.internal.md) 
-- [Hydrogenium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Hydrogenium.protect.md) 
-- [Hydrogenium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Hydrogenium.private.md) 
-- [Hydrogenium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Hydrogenium.personal.md) 
-- [Hydrogenium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Hydrogenium.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Somma_Lombardo](../../../../../../_public/geo/Continent/Europe/Italy/City/Somma_Lombardo.md) 
-- [Somma_Lombardo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Somma_Lombardo.internal.md) 
-- [Somma_Lombardo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Somma_Lombardo.protect.md) 
-- [Somma_Lombardo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Somma_Lombardo.private.md) 
-- [Somma_Lombardo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Somma_Lombardo.personal.md) 
-- [Somma_Lombardo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Somma_Lombardo.secret.md) 

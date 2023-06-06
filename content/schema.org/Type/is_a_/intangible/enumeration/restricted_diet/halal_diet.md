@@ -45,10 +45,3 @@ A diet conforming to Islamic dietary practices.
 
 
 
-## Confidential Links & Embeds: 
-- [halal_diet](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/halal_diet.md) 
-- [halal_diet.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/halal_diet.internal.md) 
-- [halal_diet.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/halal_diet.protect.md) 
-- [halal_diet.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/halal_diet.private.md) 
-- [halal_diet.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/halal_diet.personal.md) 
-- [halal_diet.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/halal_diet.secret.md) 

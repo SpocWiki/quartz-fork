@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spassk~Tambow](../../../../../../_public/geo/Continent/Europe/Russia/City/Spassk~Tambow.md) 
-- [Spassk~Tambow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Spassk~Tambow.internal.md) 
-- [Spassk~Tambow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Spassk~Tambow.protect.md) 
-- [Spassk~Tambow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Spassk~Tambow.private.md) 
-- [Spassk~Tambow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Spassk~Tambow.personal.md) 
-- [Spassk~Tambow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Spassk~Tambow.secret.md) 

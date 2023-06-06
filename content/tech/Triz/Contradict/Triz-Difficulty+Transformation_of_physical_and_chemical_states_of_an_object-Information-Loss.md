@@ -19,10 +19,3 @@ title: Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_obje
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.md) 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.internal.md) 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.protect.md) 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.private.md) 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.personal.md) 
-- [Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Transformation_of_physical_and_chemical_states_of_an_object-Information-Loss.secret.md) 

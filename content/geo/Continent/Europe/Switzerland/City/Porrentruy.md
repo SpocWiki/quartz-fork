@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Porrentruy](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Porrentruy.md) 
-- [Porrentruy.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Porrentruy.internal.md) 
-- [Porrentruy.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Porrentruy.protect.md) 
-- [Porrentruy.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Porrentruy.private.md) 
-- [Porrentruy.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Porrentruy.personal.md) 
-- [Porrentruy.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Porrentruy.secret.md) 

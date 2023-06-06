@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uttenhofen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Uttenhofen.md) 
-- [Uttenhofen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Uttenhofen.internal.md) 
-- [Uttenhofen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Uttenhofen.protect.md) 
-- [Uttenhofen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Uttenhofen.private.md) 
-- [Uttenhofen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Uttenhofen.personal.md) 
-- [Uttenhofen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Uttenhofen.secret.md) 

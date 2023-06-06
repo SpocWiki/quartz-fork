@@ -45,10 +45,3 @@ A condition or factor that indicates use of a medical therapy, including signs, 
 
 
 
-## Confidential Links & Embeds: 
-- [medical_indication](../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_indication.md) 
-- [medical_indication.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_indication.internal.md) 
-- [medical_indication.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_indication.protect.md) 
-- [medical_indication.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_indication.private.md) 
-- [medical_indication.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_indication.personal.md) 
-- [medical_indication.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_indication.secret.md) 

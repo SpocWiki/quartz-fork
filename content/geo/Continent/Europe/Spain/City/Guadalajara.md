@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guadalajara](../../../../../../_public/geo/Continent/Europe/Spain/City/Guadalajara.md) 
-- [Guadalajara.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Guadalajara.internal.md) 
-- [Guadalajara.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Guadalajara.protect.md) 
-- [Guadalajara.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Guadalajara.private.md) 
-- [Guadalajara.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Guadalajara.personal.md) 
-- [Guadalajara.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Guadalajara.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saldus](../../../../../../_public/geo/Continent/Europe/Russia/City/Saldus.md) 
-- [Saldus.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Saldus.internal.md) 
-- [Saldus.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Saldus.protect.md) 
-- [Saldus.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Saldus.private.md) 
-- [Saldus.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Saldus.personal.md) 
-- [Saldus.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Saldus.secret.md) 

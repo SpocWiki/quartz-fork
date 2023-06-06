@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schmiedeberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Schmiedeberg.md) 
-- [Schmiedeberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schmiedeberg.internal.md) 
-- [Schmiedeberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schmiedeberg.protect.md) 
-- [Schmiedeberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schmiedeberg.private.md) 
-- [Schmiedeberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schmiedeberg.personal.md) 
-- [Schmiedeberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schmiedeberg.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hohenweststedt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.md) 
-- [Hohenweststedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.internal.md) 
-- [Hohenweststedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.protect.md) 
-- [Hohenweststedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.private.md) 
-- [Hohenweststedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.personal.md) 
-- [Hohenweststedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohenweststedt.secret.md) 

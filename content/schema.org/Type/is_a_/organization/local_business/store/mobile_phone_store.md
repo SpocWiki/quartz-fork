@@ -43,10 +43,3 @@ A store that sells mobile phones and related accessories.
 
 
 
-## Confidential Links & Embeds: 
-- [mobile_phone_store](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.md) 
-- [mobile_phone_store.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.internal.md) 
-- [mobile_phone_store.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.protect.md) 
-- [mobile_phone_store.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.private.md) 
-- [mobile_phone_store.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.personal.md) 
-- [mobile_phone_store.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kruunupyy](../../../../../../_public/geo/Continent/Europe/Finland/City/Kruunupyy.md) 
-- [Kruunupyy.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kruunupyy.internal.md) 
-- [Kruunupyy.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kruunupyy.protect.md) 
-- [Kruunupyy.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kruunupyy.private.md) 
-- [Kruunupyy.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kruunupyy.personal.md) 
-- [Kruunupyy.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kruunupyy.secret.md) 

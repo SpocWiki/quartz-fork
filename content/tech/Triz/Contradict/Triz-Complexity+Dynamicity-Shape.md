@@ -19,10 +19,3 @@ title: Triz-Complexity+Dynamicity-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Dynamicity-Shape](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Shape.md) 
-- [Triz-Complexity+Dynamicity-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Shape.internal.md) 
-- [Triz-Complexity+Dynamicity-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Shape.protect.md) 
-- [Triz-Complexity+Dynamicity-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Shape.private.md) 
-- [Triz-Complexity+Dynamicity-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Shape.personal.md) 
-- [Triz-Complexity+Dynamicity-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Dynamicity-Shape.secret.md) 

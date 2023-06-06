@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Asymmetry-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Asymmetry-Temperature](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.md) 
-- [Triz-stationary_Volume+Asymmetry-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.internal.md) 
-- [Triz-stationary_Volume+Asymmetry-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.protect.md) 
-- [Triz-stationary_Volume+Asymmetry-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.private.md) 
-- [Triz-stationary_Volume+Asymmetry-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.personal.md) 
-- [Triz-stationary_Volume+Asymmetry-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Asymmetry-Temperature.secret.md) 

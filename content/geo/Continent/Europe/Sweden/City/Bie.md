@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bie](../../../../../../_public/geo/Continent/Europe/Sweden/City/Bie.md) 
-- [Bie.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Bie.internal.md) 
-- [Bie.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Bie.protect.md) 
-- [Bie.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Bie.private.md) 
-- [Bie.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Bie.personal.md) 
-- [Bie.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Bie.secret.md) 

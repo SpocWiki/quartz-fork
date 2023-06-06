@@ -37,10 +37,3 @@ title: Arsenic
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Arsenic)
 
-## Confidential Links & Embeds: 
-- [Arsenic](../../../../_public/chemic/Elements/Group-15-Nitrogen/Arsenic.md) 
-- [Arsenic.internal](../../../../_internal/chemic/Elements/Group-15-Nitrogen/Arsenic.internal.md) 
-- [Arsenic.protect](../../../../_protect/chemic/Elements/Group-15-Nitrogen/Arsenic.protect.md) 
-- [Arsenic.private](../../../../_private/chemic/Elements/Group-15-Nitrogen/Arsenic.private.md) 
-- [Arsenic.personal](../../../../_personal/chemic/Elements/Group-15-Nitrogen/Arsenic.personal.md) 
-- [Arsenic.secret](../../../../_secret/chemic/Elements/Group-15-Nitrogen/Arsenic.secret.md) 

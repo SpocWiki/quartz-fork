@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Turrach](../../../../../../_public/geo/Continent/Europe/Austria/City/Turrach.md) 
-- [Turrach.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Turrach.internal.md) 
-- [Turrach.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Turrach.protect.md) 
-- [Turrach.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Turrach.private.md) 
-- [Turrach.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Turrach.personal.md) 
-- [Turrach.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Turrach.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Merced](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Merced.md) 
-- [Merced.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Merced.internal.md) 
-- [Merced.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Merced.protect.md) 
-- [Merced.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Merced.private.md) 
-- [Merced.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Merced.personal.md) 
-- [Merced.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Merced.secret.md) 

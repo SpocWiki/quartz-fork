@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oppenheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.md) 
-- [Oppenheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.internal.md) 
-- [Oppenheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.protect.md) 
-- [Oppenheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.private.md) 
-- [Oppenheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.personal.md) 
-- [Oppenheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Oppenheim.secret.md) 

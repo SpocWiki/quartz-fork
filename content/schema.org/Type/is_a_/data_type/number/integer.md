@@ -41,10 +41,3 @@ Data type: Integer.
 
 
 
-## Confidential Links & Embeds: 
-- [integer](../../../../../../_public/schema.org/Type/is_a_/data_type/number/integer.md) 
-- [integer.internal](../../../../../../_internal/schema.org/Type/is_a_/data_type/number/integer.internal.md) 
-- [integer.protect](../../../../../../_protect/schema.org/Type/is_a_/data_type/number/integer.protect.md) 
-- [integer.private](../../../../../../_private/schema.org/Type/is_a_/data_type/number/integer.private.md) 
-- [integer.personal](../../../../../../_personal/schema.org/Type/is_a_/data_type/number/integer.personal.md) 
-- [integer.secret](../../../../../../_secret/schema.org/Type/is_a_/data_type/number/integer.secret.md) 

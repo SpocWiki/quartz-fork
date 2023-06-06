@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Halifax](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Halifax.md) 
-- [Halifax.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Halifax.internal.md) 
-- [Halifax.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Halifax.protect.md) 
-- [Halifax.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Halifax.private.md) 
-- [Halifax.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Halifax.personal.md) 
-- [Halifax.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Halifax.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luzzara](../../../../../../_public/geo/Continent/Europe/Italy/City/Luzzara.md) 
-- [Luzzara.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Luzzara.internal.md) 
-- [Luzzara.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Luzzara.protect.md) 
-- [Luzzara.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Luzzara.private.md) 
-- [Luzzara.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Luzzara.personal.md) 
-- [Luzzara.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Luzzara.secret.md) 

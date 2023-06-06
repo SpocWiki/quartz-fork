@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nassau](../../../../../../_public/geo/Continent/South-America/Bahamas/City/Nassau.md) 
-- [Nassau.internal](../../../../../../_internal/geo/Continent/South-America/Bahamas/City/Nassau.internal.md) 
-- [Nassau.protect](../../../../../../_protect/geo/Continent/South-America/Bahamas/City/Nassau.protect.md) 
-- [Nassau.private](../../../../../../_private/geo/Continent/South-America/Bahamas/City/Nassau.private.md) 
-- [Nassau.personal](../../../../../../_personal/geo/Continent/South-America/Bahamas/City/Nassau.personal.md) 
-- [Nassau.secret](../../../../../../_secret/geo/Continent/South-America/Bahamas/City/Nassau.secret.md) 

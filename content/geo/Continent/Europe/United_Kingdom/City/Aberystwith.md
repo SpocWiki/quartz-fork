@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aberystwith](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Aberystwith.md) 
-- [Aberystwith.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Aberystwith.internal.md) 
-- [Aberystwith.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Aberystwith.protect.md) 
-- [Aberystwith.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Aberystwith.private.md) 
-- [Aberystwith.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Aberystwith.personal.md) 
-- [Aberystwith.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Aberystwith.secret.md) 

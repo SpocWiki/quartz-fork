@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wangerooge](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wangerooge.md) 
-- [Wangerooge.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wangerooge.internal.md) 
-- [Wangerooge.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wangerooge.protect.md) 
-- [Wangerooge.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wangerooge.private.md) 
-- [Wangerooge.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wangerooge.personal.md) 
-- [Wangerooge.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wangerooge.secret.md) 

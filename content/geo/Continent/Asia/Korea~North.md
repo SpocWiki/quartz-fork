@@ -39,10 +39,3 @@ markerFolder: ./Korea~North/City
 
 
 
-## Confidential Links & Embeds: 
-- [Korea~North](../../../../_public/geo/Continent/Asia/Korea~North.md) 
-- [Korea~North.internal](../../../../_internal/geo/Continent/Asia/Korea~North.internal.md) 
-- [Korea~North.protect](../../../../_protect/geo/Continent/Asia/Korea~North.protect.md) 
-- [Korea~North.private](../../../../_private/geo/Continent/Asia/Korea~North.private.md) 
-- [Korea~North.personal](../../../../_personal/geo/Continent/Asia/Korea~North.personal.md) 
-- [Korea~North.secret](../../../../_secret/geo/Continent/Asia/Korea~North.secret.md) 

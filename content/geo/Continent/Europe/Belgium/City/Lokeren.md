@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lokeren](../../../../../../_public/geo/Continent/Europe/Belgium/City/Lokeren.md) 
-- [Lokeren.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Lokeren.internal.md) 
-- [Lokeren.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Lokeren.protect.md) 
-- [Lokeren.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Lokeren.private.md) 
-- [Lokeren.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Lokeren.personal.md) 
-- [Lokeren.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Lokeren.secret.md) 

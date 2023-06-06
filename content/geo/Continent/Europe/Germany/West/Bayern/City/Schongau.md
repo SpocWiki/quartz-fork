@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schongau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schongau.md) 
-- [Schongau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schongau.internal.md) 
-- [Schongau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schongau.protect.md) 
-- [Schongau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schongau.private.md) 
-- [Schongau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schongau.personal.md) 
-- [Schongau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schongau.secret.md) 

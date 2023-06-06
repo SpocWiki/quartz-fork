@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_unnamed_sources_policy](../../../../../_public/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.md) 
-- [has_unnamed_sources_policy.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.internal.md) 
-- [has_unnamed_sources_policy.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.protect.md) 
-- [has_unnamed_sources_policy.private](../../../../../_private/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.private.md) 
-- [has_unnamed_sources_policy.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.personal.md) 
-- [has_unnamed_sources_policy.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.secret.md) 

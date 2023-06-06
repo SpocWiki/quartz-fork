@@ -29,11 +29,3 @@ title: Alamak
 
 
 
-## Confidential Links & Embeds: 
-- [Alamak](../../../_public/astro/Star/Alamak.md) 
-- [Alamak.internal](../../../_internal/astro/Star/Alamak.internal.md) 
-- [Alamak.protect](../../../_protect/astro/Star/Alamak.protect.md) 
-- [Alamak.private](../../../_private/astro/Star/Alamak.private.md) 
-- [Alamak.personal](../../../_personal/astro/Star/Alamak.personal.md) 
-- [Alamak.secret](../../../_secret/astro/Star/Alamak.secret.md)
-

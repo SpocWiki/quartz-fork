@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soppau](../../../../../../_public/geo/Continent/Europe/Poland/City/Soppau.md) 
-- [Soppau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Soppau.internal.md) 
-- [Soppau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Soppau.protect.md) 
-- [Soppau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Soppau.private.md) 
-- [Soppau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Soppau.personal.md) 
-- [Soppau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Soppau.secret.md) 

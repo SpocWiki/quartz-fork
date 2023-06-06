@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castellamaro_di_Golfo](../../../../../../_public/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.md) 
-- [Castellamaro_di_Golfo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.internal.md) 
-- [Castellamaro_di_Golfo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.protect.md) 
-- [Castellamaro_di_Golfo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.private.md) 
-- [Castellamaro_di_Golfo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.personal.md) 
-- [Castellamaro_di_Golfo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Castellamaro_di_Golfo.secret.md) 

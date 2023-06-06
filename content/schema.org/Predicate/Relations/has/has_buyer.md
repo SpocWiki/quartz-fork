@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_buyer](../../../../../_public/schema.org/Predicate/Relations/has/has_buyer.md) 
-- [has_buyer.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_buyer.internal.md) 
-- [has_buyer.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_buyer.protect.md) 
-- [has_buyer.private](../../../../../_private/schema.org/Predicate/Relations/has/has_buyer.private.md) 
-- [has_buyer.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_buyer.personal.md) 
-- [has_buyer.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_buyer.secret.md) 

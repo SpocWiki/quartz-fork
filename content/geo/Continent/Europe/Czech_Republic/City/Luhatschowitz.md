@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luhatschowitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.md) 
-- [Luhatschowitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.internal.md) 
-- [Luhatschowitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.protect.md) 
-- [Luhatschowitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.private.md) 
-- [Luhatschowitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.personal.md) 
-- [Luhatschowitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.secret.md) 

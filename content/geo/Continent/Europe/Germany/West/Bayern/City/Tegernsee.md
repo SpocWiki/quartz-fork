@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tegernsee](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Tegernsee.md) 
-- [Tegernsee.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tegernsee.internal.md) 
-- [Tegernsee.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tegernsee.protect.md) 
-- [Tegernsee.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tegernsee.private.md) 
-- [Tegernsee.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Tegernsee.personal.md) 
-- [Tegernsee.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Tegernsee.secret.md) 

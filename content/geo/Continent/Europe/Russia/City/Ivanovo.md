@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ivanovo](../../../../../../_public/geo/Continent/Europe/Russia/City/Ivanovo.md) 
-- [Ivanovo.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ivanovo.internal.md) 
-- [Ivanovo.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ivanovo.protect.md) 
-- [Ivanovo.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ivanovo.private.md) 
-- [Ivanovo.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ivanovo.personal.md) 
-- [Ivanovo.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ivanovo.secret.md) 

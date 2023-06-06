@@ -121,7 +121,7 @@ markerFolder: ./Chile/City
 
 ![550](geo/Continent/South-America/Chile/Coat_of_arms_of_Chile.svg)
 
-![Anthem-Chile](xLarge/National-Anthem/Anthem-Chile.mp3)
+[Anthem-Chile](xLarge/National-Anthem/Anthem-Chile.mp3)
 
 ![350](geo/Continent/South-America/Chile/Flag_of_Chile.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Chile/City
 
 
 
-## Confidential Links & Embeds: 
-- [Chile](../../../../_public/geo/Continent/South-America/Chile.md) 
-- [Chile.internal](../../../../_internal/geo/Continent/South-America/Chile.internal.md) 
-- [Chile.protect](../../../../_protect/geo/Continent/South-America/Chile.protect.md) 
-- [Chile.private](../../../../_private/geo/Continent/South-America/Chile.private.md) 
-- [Chile.personal](../../../../_personal/geo/Continent/South-America/Chile.personal.md) 
-- [Chile.secret](../../../../_secret/geo/Continent/South-America/Chile.secret.md) 

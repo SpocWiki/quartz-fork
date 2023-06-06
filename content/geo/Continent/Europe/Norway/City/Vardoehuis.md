@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vardoehuis](../../../../../../_public/geo/Continent/Europe/Norway/City/Vardoehuis.md) 
-- [Vardoehuis.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Vardoehuis.internal.md) 
-- [Vardoehuis.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Vardoehuis.protect.md) 
-- [Vardoehuis.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Vardoehuis.private.md) 
-- [Vardoehuis.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Vardoehuis.personal.md) 
-- [Vardoehuis.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Vardoehuis.secret.md) 

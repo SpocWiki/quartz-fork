@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Betzdorf~Siegen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.md) 
-- [Betzdorf~Siegen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.internal.md) 
-- [Betzdorf~Siegen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.protect.md) 
-- [Betzdorf~Siegen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.private.md) 
-- [Betzdorf~Siegen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.personal.md) 
-- [Betzdorf~Siegen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Betzdorf~Siegen.secret.md) 

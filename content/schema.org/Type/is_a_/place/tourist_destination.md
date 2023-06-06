@@ -46,10 +46,3 @@ A tourist destination. In principle any <a class="localLink" href="/Place">Place
 
 
 
-## Confidential Links & Embeds: 
-- [tourist_destination](../../../../../_public/schema.org/Type/is_a_/place/tourist_destination.md) 
-- [tourist_destination.internal](../../../../../_internal/schema.org/Type/is_a_/place/tourist_destination.internal.md) 
-- [tourist_destination.protect](../../../../../_protect/schema.org/Type/is_a_/place/tourist_destination.protect.md) 
-- [tourist_destination.private](../../../../../_private/schema.org/Type/is_a_/place/tourist_destination.private.md) 
-- [tourist_destination.personal](../../../../../_personal/schema.org/Type/is_a_/place/tourist_destination.personal.md) 
-- [tourist_destination.secret](../../../../../_secret/schema.org/Type/is_a_/place/tourist_destination.secret.md) 

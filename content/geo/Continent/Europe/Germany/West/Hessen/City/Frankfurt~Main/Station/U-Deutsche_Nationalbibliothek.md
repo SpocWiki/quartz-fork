@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Deutsche_Nationalbibliothek](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.md) 
-- [U-Deutsche_Nationalbibliothek.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.internal.md) 
-- [U-Deutsche_Nationalbibliothek.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.protect.md) 
-- [U-Deutsche_Nationalbibliothek.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.private.md) 
-- [U-Deutsche_Nationalbibliothek.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.personal.md) 
-- [U-Deutsche_Nationalbibliothek.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Deutsche_Nationalbibliothek.secret.md) 

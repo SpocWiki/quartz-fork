@@ -32,10 +32,3 @@ maxZoom: 18
 
 
 
-## Confidential Links & Embeds: 
-- [T-Münzenberger_Straße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%BCnzenberger_Stra%C3%9Fe.md) 
-- [T-Münzenberger_Straße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%BCnzenberger_Stra%C3%9Fe.internal.md) 
-- [T-Münzenberger_Straße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%BCnzenberger_Stra%C3%9Fe.protect.md) 
-- [T-Münzenberger_Straße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%BCnzenberger_Stra%C3%9Fe.private.md) 
-- [T-Münzenberger_Straße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%BCnzenberger_Stra%C3%9Fe.personal.md) 
-- [T-Münzenberger_Straße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%BCnzenberger_Stra%C3%9Fe.secret.md) 

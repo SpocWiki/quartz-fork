@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Vulpeculae-101](../../../_public/astro/Star/Vulpeculae-101.md) 
-- [Vulpeculae-101.internal](../../../_internal/astro/Star/Vulpeculae-101.internal.md) 
-- [Vulpeculae-101.protect](../../../_protect/astro/Star/Vulpeculae-101.protect.md) 
-- [Vulpeculae-101.private](../../../_private/astro/Star/Vulpeculae-101.private.md) 
-- [Vulpeculae-101.personal](../../../_personal/astro/Star/Vulpeculae-101.personal.md) 
-- [Vulpeculae-101.secret](../../../_secret/astro/Star/Vulpeculae-101.secret.md) 

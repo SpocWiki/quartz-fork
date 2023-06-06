@@ -19,10 +19,3 @@ title: Triz-moving_Length+Copying-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Copying-Automation](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.md) 
-- [Triz-moving_Length+Copying-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.internal.md) 
-- [Triz-moving_Length+Copying-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.protect.md) 
-- [Triz-moving_Length+Copying-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.private.md) 
-- [Triz-moving_Length+Copying-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.personal.md) 
-- [Triz-moving_Length+Copying-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Copying-Automation.secret.md) 

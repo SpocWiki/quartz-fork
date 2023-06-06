@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saarhoelzbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.md) 
-- [Saarhoelzbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.internal.md) 
-- [Saarhoelzbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.protect.md) 
-- [Saarhoelzbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.private.md) 
-- [Saarhoelzbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.personal.md) 
-- [Saarhoelzbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Saarhoelzbach.secret.md) 

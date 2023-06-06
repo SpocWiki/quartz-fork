@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.md) 
-- [Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.internal.md) 
-- [Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.protect.md) 
-- [Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.private.md) 
-- [Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.personal.md) 
-- [Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Replacement_of_a_mechanical_system-Energy-Loss.secret.md) 

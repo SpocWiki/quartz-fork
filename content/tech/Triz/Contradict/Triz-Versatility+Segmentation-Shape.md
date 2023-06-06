@@ -19,10 +19,3 @@ title: Triz-Versatility+Segmentation-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Segmentation-Shape](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Segmentation-Shape.md) 
-- [Triz-Versatility+Segmentation-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Shape.internal.md) 
-- [Triz-Versatility+Segmentation-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Segmentation-Shape.protect.md) 
-- [Triz-Versatility+Segmentation-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Segmentation-Shape.private.md) 
-- [Triz-Versatility+Segmentation-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Segmentation-Shape.personal.md) 
-- [Triz-Versatility+Segmentation-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Segmentation-Shape.secret.md) 

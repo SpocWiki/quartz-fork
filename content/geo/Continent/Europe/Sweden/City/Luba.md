@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luba](../../../../../../_public/geo/Continent/Europe/Sweden/City/Luba.md) 
-- [Luba.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Luba.internal.md) 
-- [Luba.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Luba.protect.md) 
-- [Luba.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Luba.private.md) 
-- [Luba.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Luba.personal.md) 
-- [Luba.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Luba.secret.md) 

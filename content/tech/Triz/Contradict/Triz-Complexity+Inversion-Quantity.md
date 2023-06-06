@@ -19,10 +19,3 @@ title: Triz-Complexity+Inversion-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Inversion-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Quantity.md) 
-- [Triz-Complexity+Inversion-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Quantity.internal.md) 
-- [Triz-Complexity+Inversion-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Quantity.protect.md) 
-- [Triz-Complexity+Inversion-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Quantity.private.md) 
-- [Triz-Complexity+Inversion-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Quantity.personal.md) 
-- [Triz-Complexity+Inversion-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Quantity.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nowosibirsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Nowosibirsk.md) 
-- [Nowosibirsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowosibirsk.internal.md) 
-- [Nowosibirsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowosibirsk.protect.md) 
-- [Nowosibirsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nowosibirsk.private.md) 
-- [Nowosibirsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowosibirsk.personal.md) 
-- [Nowosibirsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowosibirsk.secret.md) 

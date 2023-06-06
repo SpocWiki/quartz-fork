@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Juuka](../../../../../../_public/geo/Continent/Europe/Finland/City/Juuka.md) 
-- [Juuka.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Juuka.internal.md) 
-- [Juuka.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Juuka.protect.md) 
-- [Juuka.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Juuka.private.md) 
-- [Juuka.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Juuka.personal.md) 
-- [Juuka.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Juuka.secret.md) 

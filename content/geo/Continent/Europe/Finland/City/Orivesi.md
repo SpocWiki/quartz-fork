@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orivesi](../../../../../../_public/geo/Continent/Europe/Finland/City/Orivesi.md) 
-- [Orivesi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Orivesi.internal.md) 
-- [Orivesi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Orivesi.protect.md) 
-- [Orivesi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Orivesi.private.md) 
-- [Orivesi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Orivesi.personal.md) 
-- [Orivesi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Orivesi.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liegnitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Liegnitz.md) 
-- [Liegnitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Liegnitz.internal.md) 
-- [Liegnitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Liegnitz.protect.md) 
-- [Liegnitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Liegnitz.private.md) 
-- [Liegnitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Liegnitz.personal.md) 
-- [Liegnitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Liegnitz.secret.md) 

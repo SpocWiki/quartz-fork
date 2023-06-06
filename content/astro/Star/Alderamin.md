@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alderamin](../../../_public/astro/Star/Alderamin.md) 
-- [Alderamin.internal](../../../_internal/astro/Star/Alderamin.internal.md) 
-- [Alderamin.protect](../../../_protect/astro/Star/Alderamin.protect.md) 
-- [Alderamin.private](../../../_private/astro/Star/Alderamin.private.md) 
-- [Alderamin.personal](../../../_personal/astro/Star/Alderamin.personal.md) 
-- [Alderamin.secret](../../../_secret/astro/Star/Alderamin.secret.md)
-

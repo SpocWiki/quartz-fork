@@ -45,10 +45,3 @@ A Research Organization (e.g. scientific institute, research company).
 
 
 
-## Confidential Links & Embeds: 
-- [research_organization](../../../../../_public/schema.org/Type/is_a_/organization/research_organization.md) 
-- [research_organization.internal](../../../../../_internal/schema.org/Type/is_a_/organization/research_organization.internal.md) 
-- [research_organization.protect](../../../../../_protect/schema.org/Type/is_a_/organization/research_organization.protect.md) 
-- [research_organization.private](../../../../../_private/schema.org/Type/is_a_/organization/research_organization.private.md) 
-- [research_organization.personal](../../../../../_personal/schema.org/Type/is_a_/organization/research_organization.personal.md) 
-- [research_organization.secret](../../../../../_secret/schema.org/Type/is_a_/organization/research_organization.secret.md) 

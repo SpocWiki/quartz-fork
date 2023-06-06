@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ange](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ange.md) 
-- [Ange.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ange.internal.md) 
-- [Ange.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ange.protect.md) 
-- [Ange.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ange.private.md) 
-- [Ange.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ange.personal.md) 
-- [Ange.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ange.secret.md) 

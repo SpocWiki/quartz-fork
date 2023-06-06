@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alterf](../../../_public/astro/Star/Alterf.md) 
-- [Alterf.internal](../../../_internal/astro/Star/Alterf.internal.md) 
-- [Alterf.protect](../../../_protect/astro/Star/Alterf.protect.md) 
-- [Alterf.private](../../../_private/astro/Star/Alterf.private.md) 
-- [Alterf.personal](../../../_personal/astro/Star/Alterf.personal.md) 
-- [Alterf.secret](../../../_secret/astro/Star/Alterf.secret.md)
-

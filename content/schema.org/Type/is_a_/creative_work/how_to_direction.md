@@ -43,10 +43,3 @@ A direction indicating a single action to do in the instructions for how to achi
 
 
 
-## Confidential Links & Embeds: 
-- [how_to_direction](../../../../../_public/schema.org/Type/is_a_/creative_work/how_to_direction.md) 
-- [how_to_direction.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/how_to_direction.internal.md) 
-- [how_to_direction.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/how_to_direction.protect.md) 
-- [how_to_direction.private](../../../../../_private/schema.org/Type/is_a_/creative_work/how_to_direction.private.md) 
-- [how_to_direction.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/how_to_direction.personal.md) 
-- [how_to_direction.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/how_to_direction.secret.md) 

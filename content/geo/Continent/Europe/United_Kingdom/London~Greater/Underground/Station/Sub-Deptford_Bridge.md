@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Deptford_Bridge](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Deptford_Bridge.md) 
-- [Sub-Deptford_Bridge.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Deptford_Bridge.internal.md) 
-- [Sub-Deptford_Bridge.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Deptford_Bridge.protect.md) 
-- [Sub-Deptford_Bridge.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Deptford_Bridge.private.md) 
-- [Sub-Deptford_Bridge.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Deptford_Bridge.personal.md) 
-- [Sub-Deptford_Bridge.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Deptford_Bridge.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Dynamicity-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Dynamicity-Versatility](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Versatility.md) 
-- [Triz-stationary_Weight+Dynamicity-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Versatility.internal.md) 
-- [Triz-stationary_Weight+Dynamicity-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Versatility.protect.md) 
-- [Triz-stationary_Weight+Dynamicity-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Versatility.private.md) 
-- [Triz-stationary_Weight+Dynamicity-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Versatility.personal.md) 
-- [Triz-stationary_Weight+Dynamicity-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Versatility.secret.md) 

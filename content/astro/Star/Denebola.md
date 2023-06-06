@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Denebola](../../../_public/astro/Star/Denebola.md) 
-- [Denebola.internal](../../../_internal/astro/Star/Denebola.internal.md) 
-- [Denebola.protect](../../../_protect/astro/Star/Denebola.protect.md) 
-- [Denebola.private](../../../_private/astro/Star/Denebola.private.md) 
-- [Denebola.personal](../../../_personal/astro/Star/Denebola.personal.md) 
-- [Denebola.secret](../../../_secret/astro/Star/Denebola.secret.md)
-

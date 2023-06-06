@@ -18,10 +18,3 @@ title: Triz-another-side
 Use 'another side' of a given area.
 
 
-## Confidential Links & Embeds: 
-- [Triz-another-side](../../../../_public/tech/Triz/Sub/Triz-another-side.md) 
-- [Triz-another-side.internal](../../../../_internal/tech/Triz/Sub/Triz-another-side.internal.md) 
-- [Triz-another-side.protect](../../../../_protect/tech/Triz/Sub/Triz-another-side.protect.md) 
-- [Triz-another-side.private](../../../../_private/tech/Triz/Sub/Triz-another-side.private.md) 
-- [Triz-another-side.personal](../../../../_personal/tech/Triz/Sub/Triz-another-side.personal.md) 
-- [Triz-another-side.secret](../../../../_secret/tech/Triz/Sub/Triz-another-side.secret.md) 

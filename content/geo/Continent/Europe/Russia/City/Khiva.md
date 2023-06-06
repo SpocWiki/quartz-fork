@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Khiva](../../../../../../_public/geo/Continent/Europe/Russia/City/Khiva.md) 
-- [Khiva.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Khiva.internal.md) 
-- [Khiva.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Khiva.protect.md) 
-- [Khiva.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Khiva.private.md) 
-- [Khiva.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Khiva.personal.md) 
-- [Khiva.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Khiva.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaduz](../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Vaduz.md) 
-- [Vaduz.internal](../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Vaduz.internal.md) 
-- [Vaduz.protect](../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Vaduz.protect.md) 
-- [Vaduz.private](../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Vaduz.private.md) 
-- [Vaduz.personal](../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Vaduz.personal.md) 
-- [Vaduz.secret](../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Vaduz.secret.md) 

@@ -40,10 +40,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uelzen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uelzen.md) 
-- [Uelzen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uelzen.internal.md) 
-- [Uelzen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uelzen.protect.md) 
-- [Uelzen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uelzen.private.md) 
-- [Uelzen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uelzen.personal.md) 
-- [Uelzen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Uelzen.secret.md) 

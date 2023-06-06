@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freiburg~Breisgau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.md) 
-- [Freiburg~Breisgau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.internal.md) 
-- [Freiburg~Breisgau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.protect.md) 
-- [Freiburg~Breisgau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.private.md) 
-- [Freiburg~Breisgau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.personal.md) 
-- [Freiburg~Breisgau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Freiburg~Breisgau.secret.md) 

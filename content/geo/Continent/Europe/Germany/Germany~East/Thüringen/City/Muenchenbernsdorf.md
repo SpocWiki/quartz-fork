@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muenchenbernsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muenchenbernsdorf.md) 
-- [Muenchenbernsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muenchenbernsdorf.internal.md) 
-- [Muenchenbernsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muenchenbernsdorf.protect.md) 
-- [Muenchenbernsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muenchenbernsdorf.private.md) 
-- [Muenchenbernsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muenchenbernsdorf.personal.md) 
-- [Muenchenbernsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Muenchenbernsdorf.secret.md) 

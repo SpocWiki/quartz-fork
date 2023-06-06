@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arco](../../../../../../_public/geo/Continent/Europe/Italy/City/Arco.md) 
-- [Arco.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Arco.internal.md) 
-- [Arco.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Arco.protect.md) 
-- [Arco.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Arco.private.md) 
-- [Arco.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Arco.personal.md) 
-- [Arco.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Arco.secret.md) 

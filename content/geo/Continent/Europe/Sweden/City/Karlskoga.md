@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karlskoga](../../../../../../_public/geo/Continent/Europe/Sweden/City/Karlskoga.md) 
-- [Karlskoga.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Karlskoga.internal.md) 
-- [Karlskoga.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Karlskoga.protect.md) 
-- [Karlskoga.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Karlskoga.private.md) 
-- [Karlskoga.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Karlskoga.personal.md) 
-- [Karlskoga.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Karlskoga.secret.md) 

@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_floor_limit](../../../../_public/schema.org/Predicate/Quantities/has_value_for_floor_limit.md) 
-- [has_value_for_floor_limit.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_floor_limit.internal.md) 
-- [has_value_for_floor_limit.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_floor_limit.protect.md) 
-- [has_value_for_floor_limit.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_floor_limit.private.md) 
-- [has_value_for_floor_limit.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_floor_limit.personal.md) 
-- [has_value_for_floor_limit.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_floor_limit.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chermigov](../../../../../../_public/geo/Continent/Europe/Russia/City/Chermigov.md) 
-- [Chermigov.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Chermigov.internal.md) 
-- [Chermigov.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Chermigov.protect.md) 
-- [Chermigov.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Chermigov.private.md) 
-- [Chermigov.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Chermigov.personal.md) 
-- [Chermigov.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Chermigov.secret.md) 

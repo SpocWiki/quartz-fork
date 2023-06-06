@@ -19,10 +19,3 @@ title: Triz-Automation+Segmentation-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Segmentation-Shape](../../../../_public/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.md) 
-- [Triz-Automation+Segmentation-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.internal.md) 
-- [Triz-Automation+Segmentation-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.protect.md) 
-- [Triz-Automation+Segmentation-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.private.md) 
-- [Triz-Automation+Segmentation-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.personal.md) 
-- [Triz-Automation+Segmentation-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Segmentation-Shape.secret.md) 

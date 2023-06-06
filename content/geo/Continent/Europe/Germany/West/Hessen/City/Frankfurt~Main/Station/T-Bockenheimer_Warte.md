@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Bockenheimer_Warte](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bockenheimer_Warte.md) 
-- [T-Bockenheimer_Warte.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bockenheimer_Warte.internal.md) 
-- [T-Bockenheimer_Warte.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bockenheimer_Warte.protect.md) 
-- [T-Bockenheimer_Warte.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bockenheimer_Warte.private.md) 
-- [T-Bockenheimer_Warte.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bockenheimer_Warte.personal.md) 
-- [T-Bockenheimer_Warte.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Bockenheimer_Warte.secret.md) 

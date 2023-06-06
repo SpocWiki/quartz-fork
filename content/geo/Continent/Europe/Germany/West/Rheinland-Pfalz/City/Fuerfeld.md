@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuerfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Fuerfeld.md) 
-- [Fuerfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Fuerfeld.internal.md) 
-- [Fuerfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Fuerfeld.protect.md) 
-- [Fuerfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Fuerfeld.private.md) 
-- [Fuerfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Fuerfeld.personal.md) 
-- [Fuerfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Fuerfeld.secret.md) 

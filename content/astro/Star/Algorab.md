@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Algorab](../../../_public/astro/Star/Algorab.md) 
-- [Algorab.internal](../../../_internal/astro/Star/Algorab.internal.md) 
-- [Algorab.protect](../../../_protect/astro/Star/Algorab.protect.md) 
-- [Algorab.private](../../../_private/astro/Star/Algorab.private.md) 
-- [Algorab.personal](../../../_personal/astro/Star/Algorab.personal.md) 
-- [Algorab.secret](../../../_secret/astro/Star/Algorab.secret.md)
-

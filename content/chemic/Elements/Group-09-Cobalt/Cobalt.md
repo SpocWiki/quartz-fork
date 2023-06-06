@@ -41,10 +41,3 @@ SpocWebEntityId: 21926
 
 
 
-## Confidential Links & Embeds: 
-- [Cobalt](../../../../_public/chemic/Elements/Group-09-Cobalt/Cobalt.md) 
-- [Cobalt.internal](../../../../_internal/chemic/Elements/Group-09-Cobalt/Cobalt.internal.md) 
-- [Cobalt.protect](../../../../_protect/chemic/Elements/Group-09-Cobalt/Cobalt.protect.md) 
-- [Cobalt.private](../../../../_private/chemic/Elements/Group-09-Cobalt/Cobalt.private.md) 
-- [Cobalt.personal](../../../../_personal/chemic/Elements/Group-09-Cobalt/Cobalt.personal.md) 
-- [Cobalt.secret](../../../../_secret/chemic/Elements/Group-09-Cobalt/Cobalt.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Augustusburg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Augustusburg.md) 
-- [Augustusburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Augustusburg.internal.md) 
-- [Augustusburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Augustusburg.protect.md) 
-- [Augustusburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Augustusburg.private.md) 
-- [Augustusburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Augustusburg.personal.md) 
-- [Augustusburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Augustusburg.secret.md) 

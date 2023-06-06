@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Algol](../../../_public/astro/Star/Algol.md) 
-- [Algol.internal](../../../_internal/astro/Star/Algol.internal.md) 
-- [Algol.protect](../../../_protect/astro/Star/Algol.protect.md) 
-- [Algol.private](../../../_private/astro/Star/Algol.private.md) 
-- [Algol.personal](../../../_personal/astro/Star/Algol.personal.md) 
-- [Algol.secret](../../../_secret/astro/Star/Algol.secret.md)
-

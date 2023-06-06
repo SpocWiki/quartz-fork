@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tokyo=Tokio](../../../../../../_public/geo/Continent/Asia/Japan/City/Tokyo=Tokio.md) 
-- [Tokyo=Tokio.internal](../../../../../../_internal/geo/Continent/Asia/Japan/City/Tokyo=Tokio.internal.md) 
-- [Tokyo=Tokio.protect](../../../../../../_protect/geo/Continent/Asia/Japan/City/Tokyo=Tokio.protect.md) 
-- [Tokyo=Tokio.private](../../../../../../_private/geo/Continent/Asia/Japan/City/Tokyo=Tokio.private.md) 
-- [Tokyo=Tokio.personal](../../../../../../_personal/geo/Continent/Asia/Japan/City/Tokyo=Tokio.personal.md) 
-- [Tokyo=Tokio.secret](../../../../../../_secret/geo/Continent/Asia/Japan/City/Tokyo=Tokio.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Quantity+Universality-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Universality-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.md) 
-- [Triz-Quantity+Universality-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.internal.md) 
-- [Triz-Quantity+Universality-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.protect.md) 
-- [Triz-Quantity+Universality-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.private.md) 
-- [Triz-Quantity+Universality-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.personal.md) 
-- [Triz-Quantity+Universality-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Universality-Substance-Loss.secret.md) 

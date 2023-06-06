@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liebau](../../../../../../_public/geo/Continent/Europe/Poland/City/Liebau.md) 
-- [Liebau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Liebau.internal.md) 
-- [Liebau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Liebau.protect.md) 
-- [Liebau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Liebau.private.md) 
-- [Liebau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Liebau.personal.md) 
-- [Liebau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Liebau.secret.md) 

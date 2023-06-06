@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kelheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kelheim.md) 
-- [Kelheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kelheim.internal.md) 
-- [Kelheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kelheim.protect.md) 
-- [Kelheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kelheim.private.md) 
-- [Kelheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kelheim.personal.md) 
-- [Kelheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kelheim.secret.md) 

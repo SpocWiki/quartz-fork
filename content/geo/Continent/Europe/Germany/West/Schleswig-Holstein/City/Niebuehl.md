@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Niebuehl](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Niebuehl.md) 
-- [Niebuehl.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Niebuehl.internal.md) 
-- [Niebuehl.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Niebuehl.protect.md) 
-- [Niebuehl.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Niebuehl.private.md) 
-- [Niebuehl.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Niebuehl.personal.md) 
-- [Niebuehl.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Niebuehl.secret.md) 

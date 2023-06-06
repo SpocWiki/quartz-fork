@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bergovetz](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Bergovetz.md) 
-- [Bergovetz.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Bergovetz.internal.md) 
-- [Bergovetz.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Bergovetz.protect.md) 
-- [Bergovetz.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Bergovetz.private.md) 
-- [Bergovetz.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Bergovetz.personal.md) 
-- [Bergovetz.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Bergovetz.secret.md) 

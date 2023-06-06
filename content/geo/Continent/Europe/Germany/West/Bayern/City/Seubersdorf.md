@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seubersdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Seubersdorf.md) 
-- [Seubersdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Seubersdorf.internal.md) 
-- [Seubersdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Seubersdorf.protect.md) 
-- [Seubersdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Seubersdorf.private.md) 
-- [Seubersdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Seubersdorf.personal.md) 
-- [Seubersdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Seubersdorf.secret.md) 

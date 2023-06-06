@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kornat](../../../../../../_public/geo/Continent/Europe/Austria/City/Kornat.md) 
-- [Kornat.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Kornat.internal.md) 
-- [Kornat.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Kornat.protect.md) 
-- [Kornat.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Kornat.private.md) 
-- [Kornat.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Kornat.personal.md) 
-- [Kornat.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Kornat.secret.md) 

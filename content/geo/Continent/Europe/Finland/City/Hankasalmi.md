@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hankasalmi](../../../../../../_public/geo/Continent/Europe/Finland/City/Hankasalmi.md) 
-- [Hankasalmi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Hankasalmi.internal.md) 
-- [Hankasalmi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Hankasalmi.protect.md) 
-- [Hankasalmi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Hankasalmi.private.md) 
-- [Hankasalmi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Hankasalmi.personal.md) 
-- [Hankasalmi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Hankasalmi.secret.md) 

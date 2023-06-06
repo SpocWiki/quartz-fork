@@ -17,10 +17,3 @@ title: Triz-Extending_Pointer
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Extending_Pointer](../../../../_public/tech/Triz/Example/Triz-Extending_Pointer.md) 
-- [Triz-Extending_Pointer.internal](../../../../_internal/tech/Triz/Example/Triz-Extending_Pointer.internal.md) 
-- [Triz-Extending_Pointer.protect](../../../../_protect/tech/Triz/Example/Triz-Extending_Pointer.protect.md) 
-- [Triz-Extending_Pointer.private](../../../../_private/tech/Triz/Example/Triz-Extending_Pointer.private.md) 
-- [Triz-Extending_Pointer.personal](../../../../_personal/tech/Triz/Example/Triz-Extending_Pointer.personal.md) 
-- [Triz-Extending_Pointer.secret](../../../../_secret/tech/Triz/Example/Triz-Extending_Pointer.secret.md) 

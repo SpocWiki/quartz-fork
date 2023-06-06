@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Delve](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Delve.md) 
-- [Delve.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Delve.internal.md) 
-- [Delve.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Delve.protect.md) 
-- [Delve.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Delve.private.md) 
-- [Delve.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Delve.personal.md) 
-- [Delve.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Delve.secret.md) 

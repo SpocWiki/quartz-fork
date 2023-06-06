@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zundert](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Zundert.md) 
-- [Zundert.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Zundert.internal.md) 
-- [Zundert.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Zundert.protect.md) 
-- [Zundert.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Zundert.private.md) 
-- [Zundert.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Zundert.personal.md) 
-- [Zundert.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Zundert.secret.md) 

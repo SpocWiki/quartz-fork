@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Microscopii-3](../../../_public/astro/Star/Microscopii-3.md) 
-- [Microscopii-3.internal](../../../_internal/astro/Star/Microscopii-3.internal.md) 
-- [Microscopii-3.protect](../../../_protect/astro/Star/Microscopii-3.protect.md) 
-- [Microscopii-3.private](../../../_private/astro/Star/Microscopii-3.private.md) 
-- [Microscopii-3.personal](../../../_personal/astro/Star/Microscopii-3.personal.md) 
-- [Microscopii-3.secret](../../../_secret/astro/Star/Microscopii-3.secret.md) 

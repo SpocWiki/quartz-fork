@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guatemala~City](../../../../../../_public/geo/Continent/South-America/Guatemala/City/Guatemala~City.md) 
-- [Guatemala~City.internal](../../../../../../_internal/geo/Continent/South-America/Guatemala/City/Guatemala~City.internal.md) 
-- [Guatemala~City.protect](../../../../../../_protect/geo/Continent/South-America/Guatemala/City/Guatemala~City.protect.md) 
-- [Guatemala~City.private](../../../../../../_private/geo/Continent/South-America/Guatemala/City/Guatemala~City.private.md) 
-- [Guatemala~City.personal](../../../../../../_personal/geo/Continent/South-America/Guatemala/City/Guatemala~City.personal.md) 
-- [Guatemala~City.secret](../../../../../../_secret/geo/Continent/South-America/Guatemala/City/Guatemala~City.secret.md) 

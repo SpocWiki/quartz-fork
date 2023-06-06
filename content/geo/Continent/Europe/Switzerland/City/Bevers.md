@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bevers](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bevers.md) 
-- [Bevers.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bevers.internal.md) 
-- [Bevers.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bevers.protect.md) 
-- [Bevers.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bevers.private.md) 
-- [Bevers.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bevers.personal.md) 
-- [Bevers.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bevers.secret.md) 

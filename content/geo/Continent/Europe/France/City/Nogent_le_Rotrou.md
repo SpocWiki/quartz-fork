@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nogent_le_Rotrou](../../../../../../_public/geo/Continent/Europe/France/City/Nogent_le_Rotrou.md) 
-- [Nogent_le_Rotrou.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nogent_le_Rotrou.internal.md) 
-- [Nogent_le_Rotrou.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nogent_le_Rotrou.protect.md) 
-- [Nogent_le_Rotrou.private](../../../../../../_private/geo/Continent/Europe/France/City/Nogent_le_Rotrou.private.md) 
-- [Nogent_le_Rotrou.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nogent_le_Rotrou.personal.md) 
-- [Nogent_le_Rotrou.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nogent_le_Rotrou.secret.md) 

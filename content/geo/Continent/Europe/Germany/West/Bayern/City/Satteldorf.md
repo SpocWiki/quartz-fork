@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Satteldorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Satteldorf.md) 
-- [Satteldorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Satteldorf.internal.md) 
-- [Satteldorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Satteldorf.protect.md) 
-- [Satteldorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Satteldorf.private.md) 
-- [Satteldorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Satteldorf.personal.md) 
-- [Satteldorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Satteldorf.secret.md) 

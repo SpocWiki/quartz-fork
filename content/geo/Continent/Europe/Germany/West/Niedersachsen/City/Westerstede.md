@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Westerstede](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerstede.md) 
-- [Westerstede.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerstede.internal.md) 
-- [Westerstede.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerstede.protect.md) 
-- [Westerstede.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerstede.private.md) 
-- [Westerstede.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerstede.personal.md) 
-- [Westerstede.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westerstede.secret.md) 

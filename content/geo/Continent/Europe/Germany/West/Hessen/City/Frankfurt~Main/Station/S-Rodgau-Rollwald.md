@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Rodgau-Rollwald](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.md) 
-- [S-Rodgau-Rollwald.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.internal.md) 
-- [S-Rodgau-Rollwald.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.protect.md) 
-- [S-Rodgau-Rollwald.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.private.md) 
-- [S-Rodgau-Rollwald.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.personal.md) 
-- [S-Rodgau-Rollwald.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Rodgau-Rollwald.secret.md) 

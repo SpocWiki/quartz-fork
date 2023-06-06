@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luchtringen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luchtringen.md) 
-- [Luchtringen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luchtringen.internal.md) 
-- [Luchtringen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luchtringen.protect.md) 
-- [Luchtringen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luchtringen.private.md) 
-- [Luchtringen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luchtringen.personal.md) 
-- [Luchtringen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Luchtringen.secret.md) 

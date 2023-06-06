@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blaye](../../../../../../_public/geo/Continent/Europe/France/City/Blaye.md) 
-- [Blaye.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Blaye.internal.md) 
-- [Blaye.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Blaye.protect.md) 
-- [Blaye.private](../../../../../../_private/geo/Continent/Europe/France/City/Blaye.private.md) 
-- [Blaye.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Blaye.personal.md) 
-- [Blaye.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Blaye.secret.md) 

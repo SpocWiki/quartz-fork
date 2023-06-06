@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Managua](../../../../../../_public/geo/Continent/South-America/Nicaragua/City/Managua.md) 
-- [Managua.internal](../../../../../../_internal/geo/Continent/South-America/Nicaragua/City/Managua.internal.md) 
-- [Managua.protect](../../../../../../_protect/geo/Continent/South-America/Nicaragua/City/Managua.protect.md) 
-- [Managua.private](../../../../../../_private/geo/Continent/South-America/Nicaragua/City/Managua.private.md) 
-- [Managua.personal](../../../../../../_personal/geo/Continent/South-America/Nicaragua/City/Managua.personal.md) 
-- [Managua.secret](../../../../../../_secret/geo/Continent/South-America/Nicaragua/City/Managua.secret.md) 

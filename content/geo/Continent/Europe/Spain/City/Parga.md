@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Parga](../../../../../../_public/geo/Continent/Europe/Spain/City/Parga.md) 
-- [Parga.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Parga.internal.md) 
-- [Parga.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Parga.protect.md) 
-- [Parga.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Parga.private.md) 
-- [Parga.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Parga.personal.md) 
-- [Parga.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Parga.secret.md) 

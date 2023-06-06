@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Galtuer](../../../../../../_public/geo/Continent/Europe/Austria/City/Galtuer.md) 
-- [Galtuer.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Galtuer.internal.md) 
-- [Galtuer.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Galtuer.protect.md) 
-- [Galtuer.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Galtuer.private.md) 
-- [Galtuer.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Galtuer.personal.md) 
-- [Galtuer.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Galtuer.secret.md) 

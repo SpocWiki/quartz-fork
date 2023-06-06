@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Selkirk](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Selkirk.md) 
-- [Selkirk.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Selkirk.internal.md) 
-- [Selkirk.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Selkirk.protect.md) 
-- [Selkirk.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Selkirk.private.md) 
-- [Selkirk.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Selkirk.personal.md) 
-- [Selkirk.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Selkirk.secret.md) 

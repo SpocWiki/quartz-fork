@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zwettl](../../../../../../_public/geo/Continent/Europe/Austria/City/Zwettl.md) 
-- [Zwettl.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Zwettl.internal.md) 
-- [Zwettl.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Zwettl.protect.md) 
-- [Zwettl.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Zwettl.private.md) 
-- [Zwettl.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Zwettl.personal.md) 
-- [Zwettl.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Zwettl.secret.md) 

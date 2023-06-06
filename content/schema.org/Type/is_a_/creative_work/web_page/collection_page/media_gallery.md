@@ -45,10 +45,3 @@ Web page type: Media gallery page. A mixed-media page that can contain media suc
 
 
 
-## Confidential Links & Embeds: 
-- [media_gallery](../../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery.md) 
-- [media_gallery.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery.internal.md) 
-- [media_gallery.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery.protect.md) 
-- [media_gallery.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery.private.md) 
-- [media_gallery.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery.personal.md) 
-- [media_gallery.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery.secret.md) 

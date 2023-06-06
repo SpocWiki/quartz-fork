@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zeimeliai](../../../../../../_public/geo/Continent/Europe/Russia/City/Zeimeliai.md) 
-- [Zeimeliai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zeimeliai.internal.md) 
-- [Zeimeliai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zeimeliai.protect.md) 
-- [Zeimeliai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zeimeliai.private.md) 
-- [Zeimeliai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zeimeliai.personal.md) 
-- [Zeimeliai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zeimeliai.secret.md) 

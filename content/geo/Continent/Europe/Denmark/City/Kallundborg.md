@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kallundborg](../../../../../../_public/geo/Continent/Europe/Denmark/City/Kallundborg.md) 
-- [Kallundborg.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Kallundborg.internal.md) 
-- [Kallundborg.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Kallundborg.protect.md) 
-- [Kallundborg.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Kallundborg.private.md) 
-- [Kallundborg.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Kallundborg.personal.md) 
-- [Kallundborg.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Kallundborg.secret.md) 

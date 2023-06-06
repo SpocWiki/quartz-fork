@@ -43,10 +43,3 @@ A collection of music tracks.
 
 
 
-## Confidential Links & Embeds: 
-- [music_album](../../../../../../_public/schema.org/Type/is_a_/creative_work/music_playlist/music_album.md) 
-- [music_album.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/music_playlist/music_album.internal.md) 
-- [music_album.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/music_playlist/music_album.protect.md) 
-- [music_album.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/music_playlist/music_album.private.md) 
-- [music_album.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/music_playlist/music_album.personal.md) 
-- [music_album.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/music_playlist/music_album.secret.md) 

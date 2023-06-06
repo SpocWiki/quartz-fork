@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Accrington](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Accrington.md) 
-- [Accrington.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Accrington.internal.md) 
-- [Accrington.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Accrington.protect.md) 
-- [Accrington.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Accrington.private.md) 
-- [Accrington.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Accrington.personal.md) 
-- [Accrington.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Accrington.secret.md) 

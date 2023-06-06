@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grunow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grunow.md) 
-- [Grunow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grunow.internal.md) 
-- [Grunow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grunow.protect.md) 
-- [Grunow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grunow.private.md) 
-- [Grunow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grunow.personal.md) 
-- [Grunow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grunow.secret.md) 

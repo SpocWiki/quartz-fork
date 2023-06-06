@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eichstaett](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Eichstaett.md) 
-- [Eichstaett.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Eichstaett.internal.md) 
-- [Eichstaett.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Eichstaett.protect.md) 
-- [Eichstaett.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Eichstaett.private.md) 
-- [Eichstaett.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Eichstaett.personal.md) 
-- [Eichstaett.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Eichstaett.secret.md) 

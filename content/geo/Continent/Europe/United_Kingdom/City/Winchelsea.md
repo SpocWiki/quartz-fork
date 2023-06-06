@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winchelsea](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Winchelsea.md) 
-- [Winchelsea.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Winchelsea.internal.md) 
-- [Winchelsea.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Winchelsea.protect.md) 
-- [Winchelsea.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Winchelsea.private.md) 
-- [Winchelsea.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Winchelsea.personal.md) 
-- [Winchelsea.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Winchelsea.secret.md) 

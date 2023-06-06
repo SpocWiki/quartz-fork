@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kellinghusen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kellinghusen.md) 
-- [Kellinghusen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kellinghusen.internal.md) 
-- [Kellinghusen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kellinghusen.protect.md) 
-- [Kellinghusen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kellinghusen.private.md) 
-- [Kellinghusen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kellinghusen.personal.md) 
-- [Kellinghusen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kellinghusen.secret.md) 

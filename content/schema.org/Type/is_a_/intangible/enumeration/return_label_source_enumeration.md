@@ -43,10 +43,3 @@ Enumerates several types of return labels for product returns.
 
 
 
-## Confidential Links & Embeds: 
-- [return_label_source_enumeration](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration.md) 
-- [return_label_source_enumeration.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration.internal.md) 
-- [return_label_source_enumeration.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration.protect.md) 
-- [return_label_source_enumeration.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration.private.md) 
-- [return_label_source_enumeration.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration.personal.md) 
-- [return_label_source_enumeration.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration.secret.md) 

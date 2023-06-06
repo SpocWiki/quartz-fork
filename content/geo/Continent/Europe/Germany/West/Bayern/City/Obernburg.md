@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Obernburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Obernburg.md) 
-- [Obernburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Obernburg.internal.md) 
-- [Obernburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Obernburg.protect.md) 
-- [Obernburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Obernburg.private.md) 
-- [Obernburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Obernburg.personal.md) 
-- [Obernburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Obernburg.secret.md) 

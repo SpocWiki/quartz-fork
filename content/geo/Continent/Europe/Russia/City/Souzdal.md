@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Souzdal](../../../../../../_public/geo/Continent/Europe/Russia/City/Souzdal.md) 
-- [Souzdal.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Souzdal.internal.md) 
-- [Souzdal.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Souzdal.protect.md) 
-- [Souzdal.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Souzdal.private.md) 
-- [Souzdal.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Souzdal.personal.md) 
-- [Souzdal.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Souzdal.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Shaftesbury](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.md) 
-- [Shaftesbury.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.internal.md) 
-- [Shaftesbury.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.protect.md) 
-- [Shaftesbury.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.private.md) 
-- [Shaftesbury.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.personal.md) 
-- [Shaftesbury.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Shaftesbury.secret.md) 

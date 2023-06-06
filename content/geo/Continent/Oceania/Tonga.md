@@ -130,10 +130,3 @@ markerFolder: ./Tonga/City
 
 
 
-## Confidential Links & Embeds: 
-- [Tonga](../../../../_public/geo/Continent/Oceania/Tonga.md) 
-- [Tonga.internal](../../../../_internal/geo/Continent/Oceania/Tonga.internal.md) 
-- [Tonga.protect](../../../../_protect/geo/Continent/Oceania/Tonga.protect.md) 
-- [Tonga.private](../../../../_private/geo/Continent/Oceania/Tonga.private.md) 
-- [Tonga.personal](../../../../_personal/geo/Continent/Oceania/Tonga.personal.md) 
-- [Tonga.secret](../../../../_secret/geo/Continent/Oceania/Tonga.secret.md) 

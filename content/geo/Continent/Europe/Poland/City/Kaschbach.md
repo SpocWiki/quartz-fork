@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaschbach](../../../../../../_public/geo/Continent/Europe/Poland/City/Kaschbach.md) 
-- [Kaschbach.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kaschbach.internal.md) 
-- [Kaschbach.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kaschbach.protect.md) 
-- [Kaschbach.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kaschbach.private.md) 
-- [Kaschbach.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kaschbach.personal.md) 
-- [Kaschbach.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kaschbach.secret.md) 

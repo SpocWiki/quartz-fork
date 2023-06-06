@@ -45,10 +45,3 @@ A US-style health insurance plan, including PPOs, EPOs, and HMOs.
 
 
 
-## Confidential Links & Embeds: 
-- [health_insurance_plan](../../../../../_public/schema.org/Type/is_a_/intangible/health_insurance_plan.md) 
-- [health_insurance_plan.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/health_insurance_plan.internal.md) 
-- [health_insurance_plan.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/health_insurance_plan.protect.md) 
-- [health_insurance_plan.private](../../../../../_private/schema.org/Type/is_a_/intangible/health_insurance_plan.private.md) 
-- [health_insurance_plan.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/health_insurance_plan.personal.md) 
-- [health_insurance_plan.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/health_insurance_plan.secret.md) 

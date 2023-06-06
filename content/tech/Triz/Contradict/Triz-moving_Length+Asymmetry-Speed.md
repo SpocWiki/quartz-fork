@@ -19,10 +19,3 @@ title: Triz-moving_Length+Asymmetry-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Asymmetry-Speed](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Speed.md) 
-- [Triz-moving_Length+Asymmetry-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Speed.internal.md) 
-- [Triz-moving_Length+Asymmetry-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Speed.protect.md) 
-- [Triz-moving_Length+Asymmetry-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Speed.private.md) 
-- [Triz-moving_Length+Asymmetry-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Speed.personal.md) 
-- [Triz-moving_Length+Asymmetry-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Asymmetry-Speed.secret.md) 

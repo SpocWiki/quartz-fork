@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jaunkahnava](../../../../../../_public/geo/Continent/Europe/Russia/City/Jaunkahnava.md) 
-- [Jaunkahnava.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jaunkahnava.internal.md) 
-- [Jaunkahnava.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jaunkahnava.protect.md) 
-- [Jaunkahnava.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jaunkahnava.private.md) 
-- [Jaunkahnava.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jaunkahnava.personal.md) 
-- [Jaunkahnava.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jaunkahnava.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neufcháteau](../../../../../../_public/geo/Continent/Europe/France/City/Neufch%C3%A1teau.md) 
-- [Neufcháteau.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Neufch%C3%A1teau.internal.md) 
-- [Neufcháteau.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Neufch%C3%A1teau.protect.md) 
-- [Neufcháteau.private](../../../../../../_private/geo/Continent/Europe/France/City/Neufch%C3%A1teau.private.md) 
-- [Neufcháteau.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Neufch%C3%A1teau.personal.md) 
-- [Neufcháteau.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Neufch%C3%A1teau.secret.md) 

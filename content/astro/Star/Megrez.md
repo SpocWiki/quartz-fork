@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Megrez](../../../_public/astro/Star/Megrez.md) 
-- [Megrez.internal](../../../_internal/astro/Star/Megrez.internal.md) 
-- [Megrez.protect](../../../_protect/astro/Star/Megrez.protect.md) 
-- [Megrez.private](../../../_private/astro/Star/Megrez.private.md) 
-- [Megrez.personal](../../../_personal/astro/Star/Megrez.personal.md) 
-- [Megrez.secret](../../../_secret/astro/Star/Megrez.secret.md) 

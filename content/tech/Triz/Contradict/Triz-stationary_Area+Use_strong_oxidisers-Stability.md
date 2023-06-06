@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Use_strong_oxidisers-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Use_strong_oxidisers-Stability](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.md) 
-- [Triz-stationary_Area+Use_strong_oxidisers-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.internal.md) 
-- [Triz-stationary_Area+Use_strong_oxidisers-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.protect.md) 
-- [Triz-stationary_Area+Use_strong_oxidisers-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.private.md) 
-- [Triz-stationary_Area+Use_strong_oxidisers-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.personal.md) 
-- [Triz-stationary_Area+Use_strong_oxidisers-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Use_strong_oxidisers-Stability.secret.md) 

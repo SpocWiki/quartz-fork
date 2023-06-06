@@ -48,10 +48,3 @@ Use properties from <a class="localLink" href="/Organization">Organization</a>, 
 
 
 
-## Confidential Links & Embeds: 
-- [project](../../../../../_public/schema.org/Type/is_a_/organization/project.md) 
-- [project.internal](../../../../../_internal/schema.org/Type/is_a_/organization/project.internal.md) 
-- [project.protect](../../../../../_protect/schema.org/Type/is_a_/organization/project.protect.md) 
-- [project.private](../../../../../_private/schema.org/Type/is_a_/organization/project.private.md) 
-- [project.personal](../../../../../_personal/schema.org/Type/is_a_/organization/project.personal.md) 
-- [project.secret](../../../../../_secret/schema.org/Type/is_a_/organization/project.secret.md) 

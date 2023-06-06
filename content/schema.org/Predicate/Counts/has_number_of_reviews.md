@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_reviews](../../../../_public/schema.org/Predicate/Counts/has_number_of_reviews.md) 
-- [has_number_of_reviews.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_reviews.internal.md) 
-- [has_number_of_reviews.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_reviews.protect.md) 
-- [has_number_of_reviews.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_reviews.private.md) 
-- [has_number_of_reviews.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_reviews.personal.md) 
-- [has_number_of_reviews.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_reviews.secret.md) 

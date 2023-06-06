@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_risk_factor](../../../../../_public/schema.org/Predicate/Relations/has/has_risk_factor.md) 
-- [has_risk_factor.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_risk_factor.internal.md) 
-- [has_risk_factor.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_risk_factor.protect.md) 
-- [has_risk_factor.private](../../../../../_private/schema.org/Predicate/Relations/has/has_risk_factor.private.md) 
-- [has_risk_factor.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_risk_factor.personal.md) 
-- [has_risk_factor.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_risk_factor.secret.md) 

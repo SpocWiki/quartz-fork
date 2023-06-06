@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Simbirsk=Ulyanovsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Simbirsk=Ulyanovsk.md) 
-- [Simbirsk=Ulyanovsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Simbirsk=Ulyanovsk.internal.md) 
-- [Simbirsk=Ulyanovsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Simbirsk=Ulyanovsk.protect.md) 
-- [Simbirsk=Ulyanovsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Simbirsk=Ulyanovsk.private.md) 
-- [Simbirsk=Ulyanovsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Simbirsk=Ulyanovsk.personal.md) 
-- [Simbirsk=Ulyanovsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Simbirsk=Ulyanovsk.secret.md) 

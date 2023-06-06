@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rathmines](../../../../../../_public/geo/Continent/Europe/Ireland/City/Rathmines.md) 
-- [Rathmines.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Rathmines.internal.md) 
-- [Rathmines.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Rathmines.protect.md) 
-- [Rathmines.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Rathmines.private.md) 
-- [Rathmines.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Rathmines.personal.md) 
-- [Rathmines.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Rathmines.secret.md) 

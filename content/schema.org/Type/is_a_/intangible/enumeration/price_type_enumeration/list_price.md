@@ -47,10 +47,3 @@ Represents the list price (the price a product is actually advertised for) of an
 
 
 
-## Confidential Links & Embeds: 
-- [list_price](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.md) 
-- [list_price.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.internal.md) 
-- [list_price.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.protect.md) 
-- [list_price.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.private.md) 
-- [list_price.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.personal.md) 
-- [list_price.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/list_price.secret.md) 

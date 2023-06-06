@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barnet](../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.md) 
-- [Barnet.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.internal.md) 
-- [Barnet.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.protect.md) 
-- [Barnet.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.private.md) 
-- [Barnet.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.personal.md) 
-- [Barnet.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Barnet.secret.md) 

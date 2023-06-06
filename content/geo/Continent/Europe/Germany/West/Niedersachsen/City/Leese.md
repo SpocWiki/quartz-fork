@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leese](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leese.md) 
-- [Leese.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leese.internal.md) 
-- [Leese.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leese.protect.md) 
-- [Leese.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leese.private.md) 
-- [Leese.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leese.personal.md) 
-- [Leese.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leese.secret.md) 

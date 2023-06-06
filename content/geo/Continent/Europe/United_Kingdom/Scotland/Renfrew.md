@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Renfrew](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.md) 
-- [Renfrew.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.internal.md) 
-- [Renfrew.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.protect.md) 
-- [Renfrew.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.private.md) 
-- [Renfrew.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.personal.md) 
-- [Renfrew.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Renfrew.secret.md) 

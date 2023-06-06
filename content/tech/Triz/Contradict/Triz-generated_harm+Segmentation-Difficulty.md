@@ -19,10 +19,3 @@ title: Triz-generated_harm+Segmentation-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Segmentation-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.md) 
-- [Triz-generated_harm+Segmentation-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.internal.md) 
-- [Triz-generated_harm+Segmentation-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.protect.md) 
-- [Triz-generated_harm+Segmentation-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.private.md) 
-- [Triz-generated_harm+Segmentation-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.personal.md) 
-- [Triz-generated_harm+Segmentation-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Segmentation-Difficulty.secret.md) 

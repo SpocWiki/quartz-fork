@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_icao_code](../../../../_public/schema.org/Predicate/Texts/has_icao_code.md) 
-- [has_icao_code.internal](../../../../_internal/schema.org/Predicate/Texts/has_icao_code.internal.md) 
-- [has_icao_code.protect](../../../../_protect/schema.org/Predicate/Texts/has_icao_code.protect.md) 
-- [has_icao_code.private](../../../../_private/schema.org/Predicate/Texts/has_icao_code.private.md) 
-- [has_icao_code.personal](../../../../_personal/schema.org/Predicate/Texts/has_icao_code.personal.md) 
-- [has_icao_code.secret](../../../../_secret/schema.org/Predicate/Texts/has_icao_code.secret.md) 

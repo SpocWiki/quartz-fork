@@ -45,10 +45,3 @@ A specific branch of medical science that pertains to hereditary transmission an
 
 
 
-## Confidential Links & Embeds: 
-- [genetic](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/genetic.md) 
-- [genetic.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/genetic.internal.md) 
-- [genetic.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/genetic.protect.md) 
-- [genetic.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/genetic.private.md) 
-- [genetic.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/genetic.personal.md) 
-- [genetic.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/genetic.secret.md) 

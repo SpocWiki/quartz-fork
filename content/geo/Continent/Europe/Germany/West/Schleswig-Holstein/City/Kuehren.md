@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuehren](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.md) 
-- [Kuehren.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.internal.md) 
-- [Kuehren.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.protect.md) 
-- [Kuehren.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.private.md) 
-- [Kuehren.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.personal.md) 
-- [Kuehren.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kuehren.secret.md) 

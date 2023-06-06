@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bourg-en-Presse](../../../../../../_public/geo/Continent/Europe/France/City/Bourg-en-Presse.md) 
-- [Bourg-en-Presse.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bourg-en-Presse.internal.md) 
-- [Bourg-en-Presse.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bourg-en-Presse.protect.md) 
-- [Bourg-en-Presse.private](../../../../../../_private/geo/Continent/Europe/France/City/Bourg-en-Presse.private.md) 
-- [Bourg-en-Presse.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bourg-en-Presse.personal.md) 
-- [Bourg-en-Presse.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bourg-en-Presse.secret.md) 

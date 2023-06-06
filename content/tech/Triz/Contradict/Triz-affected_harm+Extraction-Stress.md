@@ -19,10 +19,3 @@ title: Triz-affected_harm+Extraction-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Extraction-Stress](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.md) 
-- [Triz-affected_harm+Extraction-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.internal.md) 
-- [Triz-affected_harm+Extraction-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.protect.md) 
-- [Triz-affected_harm+Extraction-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.private.md) 
-- [Triz-affected_harm+Extraction-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.personal.md) 
-- [Triz-affected_harm+Extraction-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-Stress.secret.md) 

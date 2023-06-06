@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gabersdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Gabersdorf.md) 
-- [Gabersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gabersdorf.internal.md) 
-- [Gabersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gabersdorf.protect.md) 
-- [Gabersdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gabersdorf.private.md) 
-- [Gabersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gabersdorf.personal.md) 
-- [Gabersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gabersdorf.secret.md) 

@@ -45,10 +45,3 @@ A media episode (e.g. TV, radio, video game) which can be part of a series or se
 
 
 
-## Confidential Links & Embeds: 
-- [episode](../../../../../_public/schema.org/Type/is_a_/creative_work/episode.md) 
-- [episode.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/episode.internal.md) 
-- [episode.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/episode.protect.md) 
-- [episode.private](../../../../../_private/schema.org/Type/is_a_/creative_work/episode.private.md) 
-- [episode.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/episode.personal.md) 
-- [episode.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/episode.secret.md) 

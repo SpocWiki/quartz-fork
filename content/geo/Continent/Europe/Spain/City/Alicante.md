@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alicante](../../../../../../_public/geo/Continent/Europe/Spain/City/Alicante.md) 
-- [Alicante.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Alicante.internal.md) 
-- [Alicante.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Alicante.protect.md) 
-- [Alicante.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Alicante.private.md) 
-- [Alicante.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Alicante.personal.md) 
-- [Alicante.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Alicante.secret.md) 

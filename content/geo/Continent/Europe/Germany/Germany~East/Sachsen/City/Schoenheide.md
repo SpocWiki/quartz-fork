@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoenheide](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoenheide.md) 
-- [Schoenheide.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoenheide.internal.md) 
-- [Schoenheide.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoenheide.protect.md) 
-- [Schoenheide.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoenheide.private.md) 
-- [Schoenheide.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoenheide.personal.md) 
-- [Schoenheide.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schoenheide.secret.md) 

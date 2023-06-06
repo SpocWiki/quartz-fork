@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Diepholz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Diepholz.md) 
-- [Diepholz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Diepholz.internal.md) 
-- [Diepholz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Diepholz.protect.md) 
-- [Diepholz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Diepholz.private.md) 
-- [Diepholz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Diepholz.personal.md) 
-- [Diepholz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Diepholz.secret.md) 

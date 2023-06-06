@@ -47,10 +47,3 @@ All the documents published by an official publisher should have at least the le
 
 
 
-## Confidential Links & Embeds: 
-- [official_legal_value](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.md) 
-- [official_legal_value.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.internal.md) 
-- [official_legal_value.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.protect.md) 
-- [official_legal_value.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.private.md) 
-- [official_legal_value.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.personal.md) 
-- [official_legal_value.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.secret.md) 

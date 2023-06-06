@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Memel](../../../../../../_public/geo/Continent/Europe/Russia/City/Memel.md) 
-- [Memel.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Memel.internal.md) 
-- [Memel.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Memel.protect.md) 
-- [Memel.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Memel.private.md) 
-- [Memel.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Memel.personal.md) 
-- [Memel.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Memel.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borkum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borkum.md) 
-- [Borkum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borkum.internal.md) 
-- [Borkum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borkum.protect.md) 
-- [Borkum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borkum.private.md) 
-- [Borkum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borkum.personal.md) 
-- [Borkum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Borkum.secret.md) 

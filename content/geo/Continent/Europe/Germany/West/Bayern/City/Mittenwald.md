@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mittenwald](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Mittenwald.md) 
-- [Mittenwald.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mittenwald.internal.md) 
-- [Mittenwald.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mittenwald.protect.md) 
-- [Mittenwald.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mittenwald.private.md) 
-- [Mittenwald.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Mittenwald.personal.md) 
-- [Mittenwald.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Mittenwald.secret.md) 

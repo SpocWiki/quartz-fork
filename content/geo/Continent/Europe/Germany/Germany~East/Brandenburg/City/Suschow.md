@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suschow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Suschow.md) 
-- [Suschow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Suschow.internal.md) 
-- [Suschow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Suschow.protect.md) 
-- [Suschow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Suschow.private.md) 
-- [Suschow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Suschow.personal.md) 
-- [Suschow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Suschow.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ballie](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.md) 
-- [Ballie.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.internal.md) 
-- [Ballie.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.protect.md) 
-- [Ballie.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.private.md) 
-- [Ballie.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.personal.md) 
-- [Ballie.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ballie.secret.md) 

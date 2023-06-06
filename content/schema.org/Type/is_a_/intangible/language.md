@@ -43,10 +43,3 @@ Natural languages such as Spanish, Tamil, Hindi, English, etc. Formal language c
 
 
 
-## Confidential Links & Embeds: 
-- [language](../../../../../_public/schema.org/Type/is_a_/intangible/language.md) 
-- [language.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/language.internal.md) 
-- [language.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/language.protect.md) 
-- [language.private](../../../../../_private/schema.org/Type/is_a_/intangible/language.private.md) 
-- [language.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/language.personal.md) 
-- [language.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/language.secret.md) 

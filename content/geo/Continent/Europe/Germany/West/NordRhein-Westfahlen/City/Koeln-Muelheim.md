@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koeln-Muelheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Muelheim.md) 
-- [Koeln-Muelheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Muelheim.internal.md) 
-- [Koeln-Muelheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Muelheim.protect.md) 
-- [Koeln-Muelheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Muelheim.private.md) 
-- [Koeln-Muelheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Muelheim.personal.md) 
-- [Koeln-Muelheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Muelheim.secret.md) 

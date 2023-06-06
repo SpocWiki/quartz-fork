@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Changing_the_color-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Changing_the_color-Stability](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stability.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stability.internal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stability.protect.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stability.private.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stability.personal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-Stability.secret.md) 

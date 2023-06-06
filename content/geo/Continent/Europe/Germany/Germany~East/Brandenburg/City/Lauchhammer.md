@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauchhammer](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lauchhammer.md) 
-- [Lauchhammer.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lauchhammer.internal.md) 
-- [Lauchhammer.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lauchhammer.protect.md) 
-- [Lauchhammer.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lauchhammer.private.md) 
-- [Lauchhammer.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lauchhammer.personal.md) 
-- [Lauchhammer.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Lauchhammer.secret.md) 

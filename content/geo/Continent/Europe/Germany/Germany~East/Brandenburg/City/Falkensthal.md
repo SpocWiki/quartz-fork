@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falkensthal](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkensthal.md) 
-- [Falkensthal.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkensthal.internal.md) 
-- [Falkensthal.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkensthal.protect.md) 
-- [Falkensthal.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkensthal.private.md) 
-- [Falkensthal.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkensthal.personal.md) 
-- [Falkensthal.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Falkensthal.secret.md) 

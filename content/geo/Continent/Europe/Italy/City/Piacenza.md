@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Piacenza](../../../../../../_public/geo/Continent/Europe/Italy/City/Piacenza.md) 
-- [Piacenza.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Piacenza.internal.md) 
-- [Piacenza.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Piacenza.protect.md) 
-- [Piacenza.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Piacenza.private.md) 
-- [Piacenza.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Piacenza.personal.md) 
-- [Piacenza.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Piacenza.secret.md) 

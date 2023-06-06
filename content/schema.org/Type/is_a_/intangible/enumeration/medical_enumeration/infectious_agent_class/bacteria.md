@@ -45,10 +45,3 @@ Pathogenic bacteria that cause bacterial infection.
 
 
 
-## Confidential Links & Embeds: 
-- [bacteria](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/bacteria.md) 
-- [bacteria.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/bacteria.internal.md) 
-- [bacteria.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/bacteria.protect.md) 
-- [bacteria.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/bacteria.private.md) 
-- [bacteria.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/bacteria.personal.md) 
-- [bacteria.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/bacteria.secret.md) 

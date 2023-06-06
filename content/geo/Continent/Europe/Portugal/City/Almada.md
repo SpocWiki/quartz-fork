@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Almada](../../../../../../_public/geo/Continent/Europe/Portugal/City/Almada.md) 
-- [Almada.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Almada.internal.md) 
-- [Almada.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Almada.protect.md) 
-- [Almada.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Almada.private.md) 
-- [Almada.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Almada.personal.md) 
-- [Almada.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Almada.secret.md) 

@@ -43,10 +43,3 @@ The act of capturing sound and moving images on film, video, or digitally.
 
 
 
-## Confidential Links & Embeds: 
-- [film_action](../../../../../../_public/schema.org/Type/is_a_/action/create_action/film_action.md) 
-- [film_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/create_action/film_action.internal.md) 
-- [film_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/create_action/film_action.protect.md) 
-- [film_action.private](../../../../../../_private/schema.org/Type/is_a_/action/create_action/film_action.private.md) 
-- [film_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/create_action/film_action.personal.md) 
-- [film_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/create_action/film_action.secret.md) 

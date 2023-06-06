@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Römer_Paulskirche](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-R%C3%B6mer_Paulskirche.md) 
-- [T-Römer_Paulskirche.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-R%C3%B6mer_Paulskirche.internal.md) 
-- [T-Römer_Paulskirche.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-R%C3%B6mer_Paulskirche.protect.md) 
-- [T-Römer_Paulskirche.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-R%C3%B6mer_Paulskirche.private.md) 
-- [T-Römer_Paulskirche.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-R%C3%B6mer_Paulskirche.personal.md) 
-- [T-Römer_Paulskirche.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-R%C3%B6mer_Paulskirche.secret.md) 

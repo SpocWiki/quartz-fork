@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hainichen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hainichen.md) 
-- [Hainichen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hainichen.internal.md) 
-- [Hainichen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hainichen.protect.md) 
-- [Hainichen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hainichen.private.md) 
-- [Hainichen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hainichen.personal.md) 
-- [Hainichen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hainichen.secret.md) 

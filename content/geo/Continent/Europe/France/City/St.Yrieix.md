@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Yrieix](../../../../../../_public/geo/Continent/Europe/France/City/St.Yrieix.md) 
-- [St.Yrieix.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Yrieix.internal.md) 
-- [St.Yrieix.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Yrieix.protect.md) 
-- [St.Yrieix.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Yrieix.private.md) 
-- [St.Yrieix.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Yrieix.personal.md) 
-- [St.Yrieix.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Yrieix.secret.md) 

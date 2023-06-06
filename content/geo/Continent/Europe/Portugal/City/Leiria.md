@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leiria](../../../../../../_public/geo/Continent/Europe/Portugal/City/Leiria.md) 
-- [Leiria.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Leiria.internal.md) 
-- [Leiria.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Leiria.protect.md) 
-- [Leiria.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Leiria.private.md) 
-- [Leiria.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Leiria.personal.md) 
-- [Leiria.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Leiria.secret.md) 

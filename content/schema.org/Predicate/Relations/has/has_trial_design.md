@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_trial_design](../../../../../_public/schema.org/Predicate/Relations/has/has_trial_design.md) 
-- [has_trial_design.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_trial_design.internal.md) 
-- [has_trial_design.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_trial_design.protect.md) 
-- [has_trial_design.private](../../../../../_private/schema.org/Predicate/Relations/has/has_trial_design.private.md) 
-- [has_trial_design.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_trial_design.personal.md) 
-- [has_trial_design.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_trial_design.secret.md) 

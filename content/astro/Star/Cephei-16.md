@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Cephei-16](../../../_public/astro/Star/Cephei-16.md) 
-- [Cephei-16.internal](../../../_internal/astro/Star/Cephei-16.internal.md) 
-- [Cephei-16.protect](../../../_protect/astro/Star/Cephei-16.protect.md) 
-- [Cephei-16.private](../../../_private/astro/Star/Cephei-16.private.md) 
-- [Cephei-16.personal](../../../_personal/astro/Star/Cephei-16.personal.md) 
-- [Cephei-16.secret](../../../_secret/astro/Star/Cephei-16.secret.md)
-

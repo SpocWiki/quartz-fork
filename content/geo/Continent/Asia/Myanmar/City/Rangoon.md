@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rangoon](../../../../../../_public/geo/Continent/Asia/Myanmar/City/Rangoon.md) 
-- [Rangoon.internal](../../../../../../_internal/geo/Continent/Asia/Myanmar/City/Rangoon.internal.md) 
-- [Rangoon.protect](../../../../../../_protect/geo/Continent/Asia/Myanmar/City/Rangoon.protect.md) 
-- [Rangoon.private](../../../../../../_private/geo/Continent/Asia/Myanmar/City/Rangoon.private.md) 
-- [Rangoon.personal](../../../../../../_personal/geo/Continent/Asia/Myanmar/City/Rangoon.personal.md) 
-- [Rangoon.secret](../../../../../../_secret/geo/Continent/Asia/Myanmar/City/Rangoon.secret.md) 

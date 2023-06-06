@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sergijewsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Sergijewsk.md) 
-- [Sergijewsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sergijewsk.internal.md) 
-- [Sergijewsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sergijewsk.protect.md) 
-- [Sergijewsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sergijewsk.private.md) 
-- [Sergijewsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sergijewsk.personal.md) 
-- [Sergijewsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sergijewsk.secret.md) 

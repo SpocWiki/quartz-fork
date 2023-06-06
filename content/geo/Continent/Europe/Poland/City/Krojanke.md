@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krojanke](../../../../../../_public/geo/Continent/Europe/Poland/City/Krojanke.md) 
-- [Krojanke.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Krojanke.internal.md) 
-- [Krojanke.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Krojanke.protect.md) 
-- [Krojanke.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Krojanke.private.md) 
-- [Krojanke.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Krojanke.personal.md) 
-- [Krojanke.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Krojanke.secret.md) 

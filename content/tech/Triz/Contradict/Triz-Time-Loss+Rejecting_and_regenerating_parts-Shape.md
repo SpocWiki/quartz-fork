@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.md) 
-- [Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.internal.md) 
-- [Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.protect.md) 
-- [Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.private.md) 
-- [Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.personal.md) 
-- [Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Rejecting_and_regenerating_parts-Shape.secret.md) 

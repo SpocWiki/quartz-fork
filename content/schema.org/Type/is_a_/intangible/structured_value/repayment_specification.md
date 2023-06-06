@@ -45,10 +45,3 @@ A structured value representing repayment.
 
 
 
-## Confidential Links & Embeds: 
-- [repayment_specification](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.md) 
-- [repayment_specification.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.internal.md) 
-- [repayment_specification.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.protect.md) 
-- [repayment_specification.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.private.md) 
-- [repayment_specification.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.personal.md) 
-- [repayment_specification.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.secret.md) 

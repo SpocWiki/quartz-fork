@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Howath](../../../../../../_public/geo/Continent/Europe/Ireland/City/Howath.md) 
-- [Howath.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Howath.internal.md) 
-- [Howath.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Howath.protect.md) 
-- [Howath.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Howath.private.md) 
-- [Howath.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Howath.personal.md) 
-- [Howath.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Howath.secret.md) 

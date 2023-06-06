@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Dynamicity-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Dynamicity-Shape](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Shape.md) 
-- [Triz-Ease_of_operation+Dynamicity-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Shape.internal.md) 
-- [Triz-Ease_of_operation+Dynamicity-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Shape.protect.md) 
-- [Triz-Ease_of_operation+Dynamicity-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Shape.private.md) 
-- [Triz-Ease_of_operation+Dynamicity-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Shape.personal.md) 
-- [Triz-Ease_of_operation+Dynamicity-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Shape.secret.md) 

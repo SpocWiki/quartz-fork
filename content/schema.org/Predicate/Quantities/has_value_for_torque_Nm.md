@@ -54,10 +54,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_torque_Nm](../../../../_public/schema.org/Predicate/Quantities/has_value_for_torque_Nm.md) 
-- [has_value_for_torque_Nm.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_torque_Nm.internal.md) 
-- [has_value_for_torque_Nm.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_torque_Nm.protect.md) 
-- [has_value_for_torque_Nm.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_torque_Nm.private.md) 
-- [has_value_for_torque_Nm.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_torque_Nm.personal.md) 
-- [has_value_for_torque_Nm.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_torque_Nm.secret.md) 

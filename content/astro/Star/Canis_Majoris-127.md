@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Canis_Majoris-127](../../../_public/astro/Star/Canis_Majoris-127.md) 
-- [Canis_Majoris-127.internal](../../../_internal/astro/Star/Canis_Majoris-127.internal.md) 
-- [Canis_Majoris-127.protect](../../../_protect/astro/Star/Canis_Majoris-127.protect.md) 
-- [Canis_Majoris-127.private](../../../_private/astro/Star/Canis_Majoris-127.private.md) 
-- [Canis_Majoris-127.personal](../../../_personal/astro/Star/Canis_Majoris-127.personal.md) 
-- [Canis_Majoris-127.secret](../../../_secret/astro/Star/Canis_Majoris-127.secret.md)
-

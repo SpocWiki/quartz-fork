@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nossen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nossen.md) 
-- [Nossen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nossen.internal.md) 
-- [Nossen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nossen.protect.md) 
-- [Nossen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nossen.private.md) 
-- [Nossen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nossen.personal.md) 
-- [Nossen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nossen.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fraulautern](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Fraulautern.md) 
-- [Fraulautern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Fraulautern.internal.md) 
-- [Fraulautern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Fraulautern.protect.md) 
-- [Fraulautern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Fraulautern.private.md) 
-- [Fraulautern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Fraulautern.personal.md) 
-- [Fraulautern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Fraulautern.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Limoux](../../../../../../_public/geo/Continent/Europe/France/City/Limoux.md) 
-- [Limoux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Limoux.internal.md) 
-- [Limoux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Limoux.protect.md) 
-- [Limoux.private](../../../../../../_private/geo/Continent/Europe/France/City/Limoux.private.md) 
-- [Limoux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Limoux.personal.md) 
-- [Limoux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Limoux.secret.md) 

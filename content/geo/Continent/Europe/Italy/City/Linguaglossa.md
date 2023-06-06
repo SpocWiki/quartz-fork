@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Linguaglossa](../../../../../../_public/geo/Continent/Europe/Italy/City/Linguaglossa.md) 
-- [Linguaglossa.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Linguaglossa.internal.md) 
-- [Linguaglossa.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Linguaglossa.protect.md) 
-- [Linguaglossa.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Linguaglossa.private.md) 
-- [Linguaglossa.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Linguaglossa.personal.md) 
-- [Linguaglossa.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Linguaglossa.secret.md) 

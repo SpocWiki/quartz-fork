@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Husum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Husum.md) 
-- [Husum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Husum.internal.md) 
-- [Husum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Husum.protect.md) 
-- [Husum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Husum.private.md) 
-- [Husum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Husum.personal.md) 
-- [Husum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Husum.secret.md) 

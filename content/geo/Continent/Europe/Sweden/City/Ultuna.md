@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ultuna](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ultuna.md) 
-- [Ultuna.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ultuna.internal.md) 
-- [Ultuna.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ultuna.protect.md) 
-- [Ultuna.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ultuna.private.md) 
-- [Ultuna.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ultuna.personal.md) 
-- [Ultuna.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ultuna.secret.md) 

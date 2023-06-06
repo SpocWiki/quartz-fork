@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Delle](../../../../../../_public/geo/Continent/Europe/France/City/Delle.md) 
-- [Delle.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Delle.internal.md) 
-- [Delle.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Delle.protect.md) 
-- [Delle.private](../../../../../../_private/geo/Continent/Europe/France/City/Delle.private.md) 
-- [Delle.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Delle.personal.md) 
-- [Delle.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Delle.secret.md) 

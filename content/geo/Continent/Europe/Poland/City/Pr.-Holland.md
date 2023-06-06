@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pr.-Holland](../../../../../../_public/geo/Continent/Europe/Poland/City/Pr.-Holland.md) 
-- [Pr.-Holland.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Pr.-Holland.internal.md) 
-- [Pr.-Holland.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Pr.-Holland.protect.md) 
-- [Pr.-Holland.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Pr.-Holland.private.md) 
-- [Pr.-Holland.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Pr.-Holland.personal.md) 
-- [Pr.-Holland.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Pr.-Holland.secret.md) 

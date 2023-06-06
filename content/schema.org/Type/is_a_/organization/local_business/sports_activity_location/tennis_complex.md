@@ -43,10 +43,3 @@ A tennis complex.
 
 
 
-## Confidential Links & Embeds: 
-- [tennis_complex](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.md) 
-- [tennis_complex.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.internal.md) 
-- [tennis_complex.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.protect.md) 
-- [tennis_complex.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.private.md) 
-- [tennis_complex.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.personal.md) 
-- [tennis_complex.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.secret.md) 

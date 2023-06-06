@@ -19,10 +19,3 @@ title: Triz-Temperature+Extraction-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Extraction-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.md) 
-- [Triz-Temperature+Extraction-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.internal.md) 
-- [Triz-Temperature+Extraction-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.protect.md) 
-- [Triz-Temperature+Extraction-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.private.md) 
-- [Triz-Temperature+Extraction-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.personal.md) 
-- [Triz-Temperature+Extraction-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-Versatility.secret.md) 

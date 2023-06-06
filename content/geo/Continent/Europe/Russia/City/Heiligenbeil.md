@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heiligenbeil](../../../../../../_public/geo/Continent/Europe/Russia/City/Heiligenbeil.md) 
-- [Heiligenbeil.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Heiligenbeil.internal.md) 
-- [Heiligenbeil.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Heiligenbeil.protect.md) 
-- [Heiligenbeil.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Heiligenbeil.private.md) 
-- [Heiligenbeil.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Heiligenbeil.personal.md) 
-- [Heiligenbeil.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Heiligenbeil.secret.md) 

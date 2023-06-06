@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sergatsch](../../../../../../_public/geo/Continent/Europe/Russia/City/Sergatsch.md) 
-- [Sergatsch.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sergatsch.internal.md) 
-- [Sergatsch.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sergatsch.protect.md) 
-- [Sergatsch.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sergatsch.private.md) 
-- [Sergatsch.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sergatsch.personal.md) 
-- [Sergatsch.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sergatsch.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Torrevieja](../../../../../../_public/geo/Continent/Europe/Spain/City/Torrevieja.md) 
-- [Torrevieja.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Torrevieja.internal.md) 
-- [Torrevieja.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Torrevieja.protect.md) 
-- [Torrevieja.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Torrevieja.private.md) 
-- [Torrevieja.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Torrevieja.personal.md) 
-- [Torrevieja.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Torrevieja.secret.md) 

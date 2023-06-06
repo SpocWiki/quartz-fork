@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Junfer](../../../../../../_public/geo/Continent/Europe/Poland/City/Junfer.md) 
-- [Junfer.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Junfer.internal.md) 
-- [Junfer.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Junfer.protect.md) 
-- [Junfer.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Junfer.private.md) 
-- [Junfer.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Junfer.personal.md) 
-- [Junfer.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Junfer.secret.md) 

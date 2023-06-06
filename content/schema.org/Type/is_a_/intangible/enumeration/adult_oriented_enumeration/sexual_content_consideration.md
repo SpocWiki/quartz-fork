@@ -47,10 +47,3 @@ The item contains sexually oriented content such as nudity, suggestive or explic
 
 
 
-## Confidential Links & Embeds: 
-- [sexual_content_consideration](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.md) 
-- [sexual_content_consideration.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.internal.md) 
-- [sexual_content_consideration.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.protect.md) 
-- [sexual_content_consideration.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.private.md) 
-- [sexual_content_consideration.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.personal.md) 
-- [sexual_content_consideration.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/sexual_content_consideration.secret.md) 

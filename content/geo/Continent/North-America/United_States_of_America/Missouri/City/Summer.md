@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Summer](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Missouri/City/Summer.md) 
-- [Summer.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Missouri/City/Summer.internal.md) 
-- [Summer.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Missouri/City/Summer.protect.md) 
-- [Summer.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Missouri/City/Summer.private.md) 
-- [Summer.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Missouri/City/Summer.personal.md) 
-- [Summer.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Missouri/City/Summer.secret.md) 

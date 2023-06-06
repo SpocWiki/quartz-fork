@@ -45,10 +45,3 @@ Quiz: A test of knowledge, skills and abilities.
 
 
 
-## Confidential Links & Embeds: 
-- [quiz](../../../../../../_public/schema.org/Type/is_a_/creative_work/learning_resource/quiz.md) 
-- [quiz.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/learning_resource/quiz.internal.md) 
-- [quiz.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/learning_resource/quiz.protect.md) 
-- [quiz.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/learning_resource/quiz.private.md) 
-- [quiz.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/learning_resource/quiz.personal.md) 
-- [quiz.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/learning_resource/quiz.secret.md) 

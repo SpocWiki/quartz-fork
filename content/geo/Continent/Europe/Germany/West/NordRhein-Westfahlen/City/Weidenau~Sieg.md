@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weidenau~Sieg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Weidenau~Sieg.md) 
-- [Weidenau~Sieg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Weidenau~Sieg.internal.md) 
-- [Weidenau~Sieg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Weidenau~Sieg.protect.md) 
-- [Weidenau~Sieg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Weidenau~Sieg.private.md) 
-- [Weidenau~Sieg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Weidenau~Sieg.personal.md) 
-- [Weidenau~Sieg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Weidenau~Sieg.secret.md) 

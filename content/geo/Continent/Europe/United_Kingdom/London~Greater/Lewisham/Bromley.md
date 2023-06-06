@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bromley](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham/Bromley.md) 
-- [Bromley.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham/Bromley.internal.md) 
-- [Bromley.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham/Bromley.protect.md) 
-- [Bromley.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham/Bromley.private.md) 
-- [Bromley.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham/Bromley.personal.md) 
-- [Bromley.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Lewisham/Bromley.secret.md) 

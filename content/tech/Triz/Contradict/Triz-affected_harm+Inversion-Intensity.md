@@ -19,10 +19,3 @@ title: Triz-affected_harm+Inversion-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Inversion-Intensity](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Inversion-Intensity.md) 
-- [Triz-affected_harm+Inversion-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Inversion-Intensity.internal.md) 
-- [Triz-affected_harm+Inversion-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Inversion-Intensity.protect.md) 
-- [Triz-affected_harm+Inversion-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Inversion-Intensity.private.md) 
-- [Triz-affected_harm+Inversion-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Inversion-Intensity.personal.md) 
-- [Triz-affected_harm+Inversion-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Inversion-Intensity.secret.md) 

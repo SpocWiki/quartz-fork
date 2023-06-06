@@ -47,10 +47,3 @@ Size group "Boys" for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_group_boys](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_boys.md) 
-- [wearable_size_group_boys.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_boys.internal.md) 
-- [wearable_size_group_boys.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_boys.protect.md) 
-- [wearable_size_group_boys.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_boys.private.md) 
-- [wearable_size_group_boys.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_boys.personal.md) 
-- [wearable_size_group_boys.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_boys.secret.md) 

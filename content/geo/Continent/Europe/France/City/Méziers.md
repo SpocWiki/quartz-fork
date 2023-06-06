@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Méziers](../../../../../../_public/geo/Continent/Europe/France/City/M%C3%A9ziers.md) 
-- [Méziers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/M%C3%A9ziers.internal.md) 
-- [Méziers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/M%C3%A9ziers.protect.md) 
-- [Méziers.private](../../../../../../_private/geo/Continent/Europe/France/City/M%C3%A9ziers.private.md) 
-- [Méziers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/M%C3%A9ziers.personal.md) 
-- [Méziers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/M%C3%A9ziers.secret.md) 

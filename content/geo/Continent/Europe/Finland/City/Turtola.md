@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Turtola](../../../../../../_public/geo/Continent/Europe/Finland/City/Turtola.md) 
-- [Turtola.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Turtola.internal.md) 
-- [Turtola.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Turtola.protect.md) 
-- [Turtola.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Turtola.private.md) 
-- [Turtola.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Turtola.personal.md) 
-- [Turtola.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Turtola.secret.md) 

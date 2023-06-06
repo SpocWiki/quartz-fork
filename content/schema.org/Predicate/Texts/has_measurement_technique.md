@@ -54,10 +54,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_measurement_technique](../../../../_public/schema.org/Predicate/Texts/has_measurement_technique.md) 
-- [has_measurement_technique.internal](../../../../_internal/schema.org/Predicate/Texts/has_measurement_technique.internal.md) 
-- [has_measurement_technique.protect](../../../../_protect/schema.org/Predicate/Texts/has_measurement_technique.protect.md) 
-- [has_measurement_technique.private](../../../../_private/schema.org/Predicate/Texts/has_measurement_technique.private.md) 
-- [has_measurement_technique.personal](../../../../_personal/schema.org/Predicate/Texts/has_measurement_technique.personal.md) 
-- [has_measurement_technique.secret](../../../../_secret/schema.org/Predicate/Texts/has_measurement_technique.secret.md) 

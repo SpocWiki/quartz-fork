@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berolsheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Berolsheim.md) 
-- [Berolsheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Berolsheim.internal.md) 
-- [Berolsheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Berolsheim.protect.md) 
-- [Berolsheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Berolsheim.private.md) 
-- [Berolsheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Berolsheim.personal.md) 
-- [Berolsheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Berolsheim.secret.md) 

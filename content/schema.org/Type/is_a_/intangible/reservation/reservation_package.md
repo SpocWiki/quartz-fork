@@ -43,10 +43,3 @@ A group of multiple reservations with common values for all sub-reservations.
 
 
 
-## Confidential Links & Embeds: 
-- [reservation_package](../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/reservation_package.md) 
-- [reservation_package.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/reservation_package.internal.md) 
-- [reservation_package.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/reservation_package.protect.md) 
-- [reservation_package.private](../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/reservation_package.private.md) 
-- [reservation_package.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/reservation_package.personal.md) 
-- [reservation_package.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/reservation_package.secret.md) 

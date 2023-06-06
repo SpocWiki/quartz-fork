@@ -17,10 +17,3 @@ title: Triz-Mulching_Universality
 
 Mulching lawnmower (Yes, it demonstrates both Principles 5 and 6, Merging and Universality.)
 
-## Confidential Links & Embeds: 
-- [Triz-Mulching_Universality](../../../../_public/tech/Triz/Example/Triz-Mulching_Universality.md) 
-- [Triz-Mulching_Universality.internal](../../../../_internal/tech/Triz/Example/Triz-Mulching_Universality.internal.md) 
-- [Triz-Mulching_Universality.protect](../../../../_protect/tech/Triz/Example/Triz-Mulching_Universality.protect.md) 
-- [Triz-Mulching_Universality.private](../../../../_private/tech/Triz/Example/Triz-Mulching_Universality.private.md) 
-- [Triz-Mulching_Universality.personal](../../../../_personal/tech/Triz/Example/Triz-Mulching_Universality.personal.md) 
-- [Triz-Mulching_Universality.secret](../../../../_secret/tech/Triz/Example/Triz-Mulching_Universality.secret.md) 

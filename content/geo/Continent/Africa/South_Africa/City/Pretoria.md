@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pretoria](../../../../../../_public/geo/Continent/Africa/South_Africa/City/Pretoria.md) 
-- [Pretoria.internal](../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Pretoria.internal.md) 
-- [Pretoria.protect](../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Pretoria.protect.md) 
-- [Pretoria.private](../../../../../../_private/geo/Continent/Africa/South_Africa/City/Pretoria.private.md) 
-- [Pretoria.personal](../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Pretoria.personal.md) 
-- [Pretoria.secret](../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Pretoria.secret.md) 

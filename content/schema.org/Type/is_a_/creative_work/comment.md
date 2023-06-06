@@ -45,10 +45,3 @@ A comment on an item - for example, a comment on a blog post. The comment's cont
 
 
 
-## Confidential Links & Embeds: 
-- [comment](../../../../../_public/schema.org/Type/is_a_/creative_work/comment.md) 
-- [comment.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/comment.internal.md) 
-- [comment.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/comment.protect.md) 
-- [comment.private](../../../../../_private/schema.org/Type/is_a_/creative_work/comment.private.md) 
-- [comment.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/comment.personal.md) 
-- [comment.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/comment.secret.md) 

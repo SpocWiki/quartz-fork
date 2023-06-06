@@ -19,11 +19,3 @@ title: Lang-jv
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-jv](../../_public/lang/Lang-jv.md) 
-- [Lang-jv.internal](../../_internal/lang/Lang-jv.internal.md) 
-- [Lang-jv.protect](../../_protect/lang/Lang-jv.protect.md) 
-- [Lang-jv.private](../../_private/lang/Lang-jv.private.md) 
-- [Lang-jv.personal](../../_personal/lang/Lang-jv.personal.md) 
-- [Lang-jv.secret](../../_secret/lang/Lang-jv.secret.md)
-

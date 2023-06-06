@@ -45,10 +45,3 @@ Branch of medicine that pertains to the health services to improve and protect c
 
 
 
-## Confidential Links & Embeds: 
-- [public_health](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/public_health.md) 
-- [public_health.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/public_health.internal.md) 
-- [public_health.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/public_health.protect.md) 
-- [public_health.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/public_health.private.md) 
-- [public_health.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/public_health.personal.md) 
-- [public_health.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/public_health.secret.md) 

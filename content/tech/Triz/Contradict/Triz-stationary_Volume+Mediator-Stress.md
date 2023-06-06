@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Mediator-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Mediator-Stress](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.md) 
-- [Triz-stationary_Volume+Mediator-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.internal.md) 
-- [Triz-stationary_Volume+Mediator-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.protect.md) 
-- [Triz-stationary_Volume+Mediator-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.private.md) 
-- [Triz-stationary_Volume+Mediator-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.personal.md) 
-- [Triz-stationary_Volume+Mediator-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Mediator-Stress.secret.md) 

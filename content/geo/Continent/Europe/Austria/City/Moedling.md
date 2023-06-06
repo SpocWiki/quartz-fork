@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moedling](../../../../../../_public/geo/Continent/Europe/Austria/City/Moedling.md) 
-- [Moedling.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Moedling.internal.md) 
-- [Moedling.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Moedling.protect.md) 
-- [Moedling.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Moedling.private.md) 
-- [Moedling.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Moedling.personal.md) 
-- [Moedling.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Moedling.secret.md) 

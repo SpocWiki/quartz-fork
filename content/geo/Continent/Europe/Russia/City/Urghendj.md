@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Urghendj](../../../../../../_public/geo/Continent/Europe/Russia/City/Urghendj.md) 
-- [Urghendj.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Urghendj.internal.md) 
-- [Urghendj.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Urghendj.protect.md) 
-- [Urghendj.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Urghendj.private.md) 
-- [Urghendj.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Urghendj.personal.md) 
-- [Urghendj.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Urghendj.secret.md) 

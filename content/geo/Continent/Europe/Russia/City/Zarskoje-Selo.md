@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zarskoje-Selo](../../../../../../_public/geo/Continent/Europe/Russia/City/Zarskoje-Selo.md) 
-- [Zarskoje-Selo.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zarskoje-Selo.internal.md) 
-- [Zarskoje-Selo.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zarskoje-Selo.protect.md) 
-- [Zarskoje-Selo.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zarskoje-Selo.private.md) 
-- [Zarskoje-Selo.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zarskoje-Selo.personal.md) 
-- [Zarskoje-Selo.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zarskoje-Selo.secret.md) 

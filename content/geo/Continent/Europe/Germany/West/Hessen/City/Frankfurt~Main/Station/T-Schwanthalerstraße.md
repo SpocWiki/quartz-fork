@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Schwanthalerstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwanthalerstra%C3%9Fe.md) 
-- [T-Schwanthalerstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwanthalerstra%C3%9Fe.internal.md) 
-- [T-Schwanthalerstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwanthalerstra%C3%9Fe.protect.md) 
-- [T-Schwanthalerstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwanthalerstra%C3%9Fe.private.md) 
-- [T-Schwanthalerstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwanthalerstra%C3%9Fe.personal.md) 
-- [T-Schwanthalerstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwanthalerstra%C3%9Fe.secret.md) 

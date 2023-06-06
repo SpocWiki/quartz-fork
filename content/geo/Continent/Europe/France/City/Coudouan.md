@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Coudouan](../../../../../../_public/geo/Continent/Europe/France/City/Coudouan.md) 
-- [Coudouan.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Coudouan.internal.md) 
-- [Coudouan.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Coudouan.protect.md) 
-- [Coudouan.private](../../../../../../_private/geo/Continent/Europe/France/City/Coudouan.private.md) 
-- [Coudouan.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Coudouan.personal.md) 
-- [Coudouan.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Coudouan.secret.md) 

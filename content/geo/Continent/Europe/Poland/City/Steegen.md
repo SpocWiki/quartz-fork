@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Steegen](../../../../../../_public/geo/Continent/Europe/Poland/City/Steegen.md) 
-- [Steegen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Steegen.internal.md) 
-- [Steegen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Steegen.protect.md) 
-- [Steegen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Steegen.private.md) 
-- [Steegen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Steegen.personal.md) 
-- [Steegen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Steegen.secret.md) 

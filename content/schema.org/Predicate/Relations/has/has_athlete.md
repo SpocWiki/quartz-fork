@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_athlete](../../../../../_public/schema.org/Predicate/Relations/has/has_athlete.md) 
-- [has_athlete.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_athlete.internal.md) 
-- [has_athlete.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_athlete.protect.md) 
-- [has_athlete.private](../../../../../_private/schema.org/Predicate/Relations/has/has_athlete.private.md) 
-- [has_athlete.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_athlete.personal.md) 
-- [has_athlete.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_athlete.secret.md) 

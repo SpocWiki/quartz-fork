@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Villnow](../../../../../../_public/geo/Continent/Europe/Poland/City/Villnow.md) 
-- [Villnow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Villnow.internal.md) 
-- [Villnow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Villnow.protect.md) 
-- [Villnow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Villnow.private.md) 
-- [Villnow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Villnow.personal.md) 
-- [Villnow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Villnow.secret.md) 

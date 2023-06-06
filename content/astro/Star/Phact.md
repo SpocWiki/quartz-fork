@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Phact](../../../_public/astro/Star/Phact.md) 
-- [Phact.internal](../../../_internal/astro/Star/Phact.internal.md) 
-- [Phact.protect](../../../_protect/astro/Star/Phact.protect.md) 
-- [Phact.private](../../../_private/astro/Star/Phact.private.md) 
-- [Phact.personal](../../../_personal/astro/Star/Phact.personal.md) 
-- [Phact.secret](../../../_secret/astro/Star/Phact.secret.md) 

@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="/static/leaflet/leaflet.css">
+		<script src="/static/leaflet/leaflet.js"></script>		
+	</head>
+	<body>
+		<script>
+			<!-- add this Line to the HuGo content File: 
+				{{ partial "leaflet-map.html" (dict "latitude" 51.505 "longitude" -0.09 "zoom" 13) }}  -->
+			var map = L.map('map').setView([{{ .latitude }}, {{ .longitude }}], {{ .zoom }});
+			L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+				attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+				maxZoom: 18,
+			}).addTo(map);
+		</script>
+		<div id="map"></div>
+	</body>
+</html>

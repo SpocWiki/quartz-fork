@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pudasjaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Pudasjaervi.md) 
-- [Pudasjaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Pudasjaervi.internal.md) 
-- [Pudasjaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Pudasjaervi.protect.md) 
-- [Pudasjaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Pudasjaervi.private.md) 
-- [Pudasjaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Pudasjaervi.personal.md) 
-- [Pudasjaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Pudasjaervi.secret.md) 

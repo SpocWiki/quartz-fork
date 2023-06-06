@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Southampton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Southampton.md) 
-- [Southampton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southampton.internal.md) 
-- [Southampton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southampton.protect.md) 
-- [Southampton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southampton.private.md) 
-- [Southampton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southampton.personal.md) 
-- [Southampton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southampton.secret.md) 

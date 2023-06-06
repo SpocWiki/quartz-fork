@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tara](../../../../../../_public/geo/Continent/Europe/Russia/City/Tara.md) 
-- [Tara.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tara.internal.md) 
-- [Tara.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tara.protect.md) 
-- [Tara.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tara.private.md) 
-- [Tara.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tara.personal.md) 
-- [Tara.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tara.secret.md) 

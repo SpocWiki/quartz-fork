@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poitiers](../../../../../../_public/geo/Continent/Europe/France/City/Poitiers.md) 
-- [Poitiers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Poitiers.internal.md) 
-- [Poitiers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Poitiers.protect.md) 
-- [Poitiers.private](../../../../../../_private/geo/Continent/Europe/France/City/Poitiers.private.md) 
-- [Poitiers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Poitiers.personal.md) 
-- [Poitiers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Poitiers.secret.md) 

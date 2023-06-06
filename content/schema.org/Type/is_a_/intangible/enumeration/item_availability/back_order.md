@@ -45,10 +45,3 @@ Indicates that the item is available on back order.
 
 
 
-## Confidential Links & Embeds: 
-- [back_order](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.md) 
-- [back_order.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.internal.md) 
-- [back_order.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.protect.md) 
-- [back_order.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.private.md) 
-- [back_order.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.personal.md) 
-- [back_order.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.secret.md) 

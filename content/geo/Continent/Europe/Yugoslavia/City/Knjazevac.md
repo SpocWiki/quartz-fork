@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Knjazevac](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Knjazevac.md) 
-- [Knjazevac.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Knjazevac.internal.md) 
-- [Knjazevac.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Knjazevac.protect.md) 
-- [Knjazevac.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Knjazevac.private.md) 
-- [Knjazevac.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Knjazevac.personal.md) 
-- [Knjazevac.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Knjazevac.secret.md) 

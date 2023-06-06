@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gabel](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Gabel.md) 
-- [Gabel.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gabel.internal.md) 
-- [Gabel.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gabel.protect.md) 
-- [Gabel.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gabel.private.md) 
-- [Gabel.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gabel.personal.md) 
-- [Gabel.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gabel.secret.md) 

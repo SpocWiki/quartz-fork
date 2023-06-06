@@ -54,10 +54,3 @@ Commonly used values:
 
 
 
-## Confidential Links & Embeds: 
-- [credit_card](../../../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.md) 
-- [credit_card.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.internal.md) 
-- [credit_card.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.protect.md) 
-- [credit_card.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.private.md) 
-- [credit_card.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.personal.md) 
-- [credit_card.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.secret.md) 

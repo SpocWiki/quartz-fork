@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vlissingen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Vlissingen.md) 
-- [Vlissingen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Vlissingen.internal.md) 
-- [Vlissingen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Vlissingen.protect.md) 
-- [Vlissingen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Vlissingen.private.md) 
-- [Vlissingen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Vlissingen.personal.md) 
-- [Vlissingen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Vlissingen.secret.md) 

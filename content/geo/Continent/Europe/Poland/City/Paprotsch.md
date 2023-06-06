@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Paprotsch](../../../../../../_public/geo/Continent/Europe/Poland/City/Paprotsch.md) 
-- [Paprotsch.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Paprotsch.internal.md) 
-- [Paprotsch.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Paprotsch.protect.md) 
-- [Paprotsch.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Paprotsch.private.md) 
-- [Paprotsch.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Paprotsch.personal.md) 
-- [Paprotsch.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Paprotsch.secret.md) 

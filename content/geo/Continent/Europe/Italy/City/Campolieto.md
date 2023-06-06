@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Campolieto](../../../../../../_public/geo/Continent/Europe/Italy/City/Campolieto.md) 
-- [Campolieto.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Campolieto.internal.md) 
-- [Campolieto.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Campolieto.protect.md) 
-- [Campolieto.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Campolieto.private.md) 
-- [Campolieto.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Campolieto.personal.md) 
-- [Campolieto.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Campolieto.secret.md) 

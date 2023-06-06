@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Civita_Vecchia](../../../../../../_public/geo/Continent/Europe/Italy/City/Civita_Vecchia.md) 
-- [Civita_Vecchia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Civita_Vecchia.internal.md) 
-- [Civita_Vecchia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Civita_Vecchia.protect.md) 
-- [Civita_Vecchia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Civita_Vecchia.private.md) 
-- [Civita_Vecchia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Civita_Vecchia.personal.md) 
-- [Civita_Vecchia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Civita_Vecchia.secret.md) 

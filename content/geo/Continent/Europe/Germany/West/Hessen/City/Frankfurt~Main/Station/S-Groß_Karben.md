@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Groß_Karben](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Karben.md) 
-- [S-Groß_Karben.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Karben.internal.md) 
-- [S-Groß_Karben.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Karben.protect.md) 
-- [S-Groß_Karben.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Karben.private.md) 
-- [S-Groß_Karben.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Karben.personal.md) 
-- [S-Groß_Karben.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Karben.secret.md) 

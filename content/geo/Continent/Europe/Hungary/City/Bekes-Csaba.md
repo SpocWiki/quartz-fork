@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bekes-Csaba](../../../../../../_public/geo/Continent/Europe/Hungary/City/Bekes-Csaba.md) 
-- [Bekes-Csaba.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Bekes-Csaba.internal.md) 
-- [Bekes-Csaba.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Bekes-Csaba.protect.md) 
-- [Bekes-Csaba.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Bekes-Csaba.private.md) 
-- [Bekes-Csaba.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Bekes-Csaba.personal.md) 
-- [Bekes-Csaba.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Bekes-Csaba.secret.md) 

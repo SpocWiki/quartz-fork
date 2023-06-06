@@ -130,7 +130,7 @@ markerFolder: ./Djibouti/City
 
 ![350](geo/Continent/Africa/Djibouti/Emblem_of_Djibouti.svg)
 
-![Anthem-Djibouti](xLarge/National-Anthem/Anthem-Djibouti.mp3)
+[Anthem-Djibouti](xLarge/National-Anthem/Anthem-Djibouti.mp3)
 
 ![350](geo/Continent/Africa/Djibouti/Flag_of_Djibouti.svg)
 
@@ -141,10 +141,3 @@ markerFolder: ./Djibouti/City
 
 
 
-## Confidential Links & Embeds: 
-- [Djibouti](../../../../_public/geo/Continent/Africa/Djibouti.md) 
-- [Djibouti.internal](../../../../_internal/geo/Continent/Africa/Djibouti.internal.md) 
-- [Djibouti.protect](../../../../_protect/geo/Continent/Africa/Djibouti.protect.md) 
-- [Djibouti.private](../../../../_private/geo/Continent/Africa/Djibouti.private.md) 
-- [Djibouti.personal](../../../../_personal/geo/Continent/Africa/Djibouti.personal.md) 
-- [Djibouti.secret](../../../../_secret/geo/Continent/Africa/Djibouti.secret.md) 

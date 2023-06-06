@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Thuengersheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Thuengersheim.md) 
-- [Thuengersheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Thuengersheim.internal.md) 
-- [Thuengersheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Thuengersheim.protect.md) 
-- [Thuengersheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Thuengersheim.private.md) 
-- [Thuengersheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Thuengersheim.personal.md) 
-- [Thuengersheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Thuengersheim.secret.md) 

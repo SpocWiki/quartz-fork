@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sils-Maria](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sils-Maria.md) 
-- [Sils-Maria.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sils-Maria.internal.md) 
-- [Sils-Maria.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sils-Maria.protect.md) 
-- [Sils-Maria.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sils-Maria.private.md) 
-- [Sils-Maria.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sils-Maria.personal.md) 
-- [Sils-Maria.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sils-Maria.secret.md) 

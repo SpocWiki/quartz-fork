@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orléans](../../../../../../_public/geo/Continent/Europe/France/City/Orl%C3%A9ans.md) 
-- [Orléans.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Orl%C3%A9ans.internal.md) 
-- [Orléans.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Orl%C3%A9ans.protect.md) 
-- [Orléans.private](../../../../../../_private/geo/Continent/Europe/France/City/Orl%C3%A9ans.private.md) 
-- [Orléans.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Orl%C3%A9ans.personal.md) 
-- [Orléans.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Orl%C3%A9ans.secret.md) 

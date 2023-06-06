@@ -45,10 +45,3 @@ Indicates that the item is refurbished.
 
 
 
-## Confidential Links & Embeds: 
-- [refurbished_condition](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.md) 
-- [refurbished_condition.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.internal.md) 
-- [refurbished_condition.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.protect.md) 
-- [refurbished_condition.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.private.md) 
-- [refurbished_condition.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.personal.md) 
-- [refurbished_condition.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.secret.md) 

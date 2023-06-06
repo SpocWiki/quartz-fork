@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hagenau](../../../../../../_public/geo/Continent/Europe/France/City/Hagenau.md) 
-- [Hagenau.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Hagenau.internal.md) 
-- [Hagenau.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Hagenau.protect.md) 
-- [Hagenau.private](../../../../../../_private/geo/Continent/Europe/France/City/Hagenau.private.md) 
-- [Hagenau.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Hagenau.personal.md) 
-- [Hagenau.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Hagenau.secret.md) 

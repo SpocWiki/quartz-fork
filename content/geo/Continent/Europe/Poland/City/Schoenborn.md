@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoenborn](../../../../../../_public/geo/Continent/Europe/Poland/City/Schoenborn.md) 
-- [Schoenborn.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenborn.internal.md) 
-- [Schoenborn.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenborn.protect.md) 
-- [Schoenborn.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenborn.private.md) 
-- [Schoenborn.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenborn.personal.md) 
-- [Schoenborn.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenborn.secret.md) 

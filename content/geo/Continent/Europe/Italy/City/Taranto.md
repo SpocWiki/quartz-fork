@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taranto](../../../../../../_public/geo/Continent/Europe/Italy/City/Taranto.md) 
-- [Taranto.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Taranto.internal.md) 
-- [Taranto.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Taranto.protect.md) 
-- [Taranto.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Taranto.private.md) 
-- [Taranto.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Taranto.personal.md) 
-- [Taranto.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Taranto.secret.md) 

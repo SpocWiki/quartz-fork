@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lunde](../../../../../../_public/geo/Continent/Europe/Norway/City/Lunde.md) 
-- [Lunde.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Lunde.internal.md) 
-- [Lunde.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Lunde.protect.md) 
-- [Lunde.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Lunde.private.md) 
-- [Lunde.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Lunde.personal.md) 
-- [Lunde.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Lunde.secret.md) 

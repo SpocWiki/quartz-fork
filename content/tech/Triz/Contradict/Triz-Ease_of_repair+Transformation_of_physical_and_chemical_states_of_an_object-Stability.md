@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.md) 
-- [Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.internal.md) 
-- [Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.protect.md) 
-- [Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.private.md) 
-- [Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.personal.md) 
-- [Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Transformation_of_physical_and_chemical_states_of_an_object-Stability.secret.md) 

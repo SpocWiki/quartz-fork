@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oldenstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenstadt.md) 
-- [Oldenstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenstadt.internal.md) 
-- [Oldenstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenstadt.protect.md) 
-- [Oldenstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenstadt.private.md) 
-- [Oldenstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenstadt.personal.md) 
-- [Oldenstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenstadt.secret.md) 

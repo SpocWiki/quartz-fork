@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pamiers](../../../../../../_public/geo/Continent/Europe/France/City/Pamiers.md) 
-- [Pamiers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Pamiers.internal.md) 
-- [Pamiers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Pamiers.protect.md) 
-- [Pamiers.private](../../../../../../_private/geo/Continent/Europe/France/City/Pamiers.private.md) 
-- [Pamiers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Pamiers.personal.md) 
-- [Pamiers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Pamiers.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Saskatchewan](../../../../../../_public/geo/Continent/North-America/Canada/State/State-Saskatchewan.md) 
-- [State-Saskatchewan.internal](../../../../../../_internal/geo/Continent/North-America/Canada/State/State-Saskatchewan.internal.md) 
-- [State-Saskatchewan.protect](../../../../../../_protect/geo/Continent/North-America/Canada/State/State-Saskatchewan.protect.md) 
-- [State-Saskatchewan.private](../../../../../../_private/geo/Continent/North-America/Canada/State/State-Saskatchewan.private.md) 
-- [State-Saskatchewan.personal](../../../../../../_personal/geo/Continent/North-America/Canada/State/State-Saskatchewan.personal.md) 
-- [State-Saskatchewan.secret](../../../../../../_secret/geo/Continent/North-America/Canada/State/State-Saskatchewan.secret.md) 

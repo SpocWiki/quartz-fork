@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mt.Palomar](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.md) 
-- [Mt.Palomar.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.internal.md) 
-- [Mt.Palomar.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.protect.md) 
-- [Mt.Palomar.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.private.md) 
-- [Mt.Palomar.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.personal.md) 
-- [Mt.Palomar.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Mt.Palomar.secret.md) 

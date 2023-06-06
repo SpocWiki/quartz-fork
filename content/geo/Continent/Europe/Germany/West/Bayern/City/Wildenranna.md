@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wildenranna](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wildenranna.md) 
-- [Wildenranna.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wildenranna.internal.md) 
-- [Wildenranna.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wildenranna.protect.md) 
-- [Wildenranna.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wildenranna.private.md) 
-- [Wildenranna.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wildenranna.personal.md) 
-- [Wildenranna.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wildenranna.secret.md) 

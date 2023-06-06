@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meyenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Meyenburg.md) 
-- [Meyenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Meyenburg.internal.md) 
-- [Meyenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Meyenburg.protect.md) 
-- [Meyenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Meyenburg.private.md) 
-- [Meyenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Meyenburg.personal.md) 
-- [Meyenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Meyenburg.secret.md) 

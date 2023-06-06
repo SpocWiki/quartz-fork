@@ -32,10 +32,3 @@ title: Lawrencium
 
 
 
-## Confidential Links & Embeds: 
-- [Lawrencium](../../../../_public/chemic/Elements/Group-03-Scandium/Lawrencium.md) 
-- [Lawrencium.internal](../../../../_internal/chemic/Elements/Group-03-Scandium/Lawrencium.internal.md) 
-- [Lawrencium.protect](../../../../_protect/chemic/Elements/Group-03-Scandium/Lawrencium.protect.md) 
-- [Lawrencium.private](../../../../_private/chemic/Elements/Group-03-Scandium/Lawrencium.private.md) 
-- [Lawrencium.personal](../../../../_personal/chemic/Elements/Group-03-Scandium/Lawrencium.personal.md) 
-- [Lawrencium.secret](../../../../_secret/chemic/Elements/Group-03-Scandium/Lawrencium.secret.md) 

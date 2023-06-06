@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hamilton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hamilton.md) 
-- [Hamilton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hamilton.internal.md) 
-- [Hamilton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hamilton.protect.md) 
-- [Hamilton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hamilton.private.md) 
-- [Hamilton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hamilton.personal.md) 
-- [Hamilton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hamilton.secret.md) 

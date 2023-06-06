@@ -45,10 +45,3 @@ Positron emission tomography imaging.
 
 
 
-## Confidential Links & Embeds: 
-- [pet](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.md) 
-- [pet.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.internal.md) 
-- [pet.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.protect.md) 
-- [pet.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.private.md) 
-- [pet.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.personal.md) 
-- [pet.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.secret.md) 

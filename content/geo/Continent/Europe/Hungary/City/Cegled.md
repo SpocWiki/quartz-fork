@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cegled](../../../../../../_public/geo/Continent/Europe/Hungary/City/Cegled.md) 
-- [Cegled.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Cegled.internal.md) 
-- [Cegled.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Cegled.protect.md) 
-- [Cegled.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Cegled.private.md) 
-- [Cegled.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Cegled.personal.md) 
-- [Cegled.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Cegled.secret.md) 

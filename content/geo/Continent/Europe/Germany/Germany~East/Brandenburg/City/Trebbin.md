@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trebbin](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Trebbin.md) 
-- [Trebbin.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Trebbin.internal.md) 
-- [Trebbin.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Trebbin.protect.md) 
-- [Trebbin.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Trebbin.private.md) 
-- [Trebbin.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Trebbin.personal.md) 
-- [Trebbin.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Trebbin.secret.md) 

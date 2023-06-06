@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Inversion-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Inversion-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.md) 
-- [Triz-stationary_Weight+Inversion-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.internal.md) 
-- [Triz-stationary_Weight+Inversion-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.protect.md) 
-- [Triz-stationary_Weight+Inversion-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.private.md) 
-- [Triz-stationary_Weight+Inversion-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.personal.md) 
-- [Triz-stationary_Weight+Inversion-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Inversion-Substance-Loss.secret.md) 

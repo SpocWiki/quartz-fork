@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [West_Hartlepool](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.md) 
-- [West_Hartlepool.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.internal.md) 
-- [West_Hartlepool.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.protect.md) 
-- [West_Hartlepool.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.private.md) 
-- [West_Hartlepool.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.personal.md) 
-- [West_Hartlepool.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/West_Hartlepool.secret.md) 

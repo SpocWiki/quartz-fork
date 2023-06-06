@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Margertshausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.md) 
-- [Margertshausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.internal.md) 
-- [Margertshausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.protect.md) 
-- [Margertshausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.private.md) 
-- [Margertshausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.personal.md) 
-- [Margertshausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.secret.md) 

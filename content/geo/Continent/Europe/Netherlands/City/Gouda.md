@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gouda](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Gouda.md) 
-- [Gouda.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Gouda.internal.md) 
-- [Gouda.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Gouda.protect.md) 
-- [Gouda.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Gouda.private.md) 
-- [Gouda.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Gouda.personal.md) 
-- [Gouda.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Gouda.secret.md) 

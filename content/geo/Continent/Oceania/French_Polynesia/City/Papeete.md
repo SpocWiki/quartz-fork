@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Papeete](../../../../../../_public/geo/Continent/Oceania/French_Polynesia/City/Papeete.md) 
-- [Papeete.internal](../../../../../../_internal/geo/Continent/Oceania/French_Polynesia/City/Papeete.internal.md) 
-- [Papeete.protect](../../../../../../_protect/geo/Continent/Oceania/French_Polynesia/City/Papeete.protect.md) 
-- [Papeete.private](../../../../../../_private/geo/Continent/Oceania/French_Polynesia/City/Papeete.private.md) 
-- [Papeete.personal](../../../../../../_personal/geo/Continent/Oceania/French_Polynesia/City/Papeete.personal.md) 
-- [Papeete.secret](../../../../../../_secret/geo/Continent/Oceania/French_Polynesia/City/Papeete.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Langen-Flugsicherung](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.md) 
-- [S-Langen-Flugsicherung.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.internal.md) 
-- [S-Langen-Flugsicherung.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.protect.md) 
-- [S-Langen-Flugsicherung.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.private.md) 
-- [S-Langen-Flugsicherung.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.personal.md) 
-- [S-Langen-Flugsicherung.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Langen-Flugsicherung.secret.md) 

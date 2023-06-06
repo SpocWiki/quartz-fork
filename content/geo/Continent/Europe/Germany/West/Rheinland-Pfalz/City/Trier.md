@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trier](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.md) 
-- [Trier.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.internal.md) 
-- [Trier.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.protect.md) 
-- [Trier.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.private.md) 
-- [Trier.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.personal.md) 
-- [Trier.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Trier.secret.md) 

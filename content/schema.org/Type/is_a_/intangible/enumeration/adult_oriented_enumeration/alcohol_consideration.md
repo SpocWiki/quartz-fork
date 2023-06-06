@@ -47,10 +47,3 @@ Item contains alcohol or promotes alcohol consumption.
 
 
 
-## Confidential Links & Embeds: 
-- [alcohol_consideration](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.md) 
-- [alcohol_consideration.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.internal.md) 
-- [alcohol_consideration.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.protect.md) 
-- [alcohol_consideration.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.private.md) 
-- [alcohol_consideration.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.personal.md) 
-- [alcohol_consideration.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.secret.md) 

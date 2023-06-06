@@ -43,10 +43,3 @@ A step in the instructions for how to achieve a result. It is an ordered list wi
 
 
 
-## Confidential Links & Embeds: 
-- [how_to_step](../../../../../_public/schema.org/Type/is_a_/creative_work/how_to_step.md) 
-- [how_to_step.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/how_to_step.internal.md) 
-- [how_to_step.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/how_to_step.protect.md) 
-- [how_to_step.private](../../../../../_private/schema.org/Type/is_a_/creative_work/how_to_step.private.md) 
-- [how_to_step.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/how_to_step.personal.md) 
-- [how_to_step.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/how_to_step.secret.md) 

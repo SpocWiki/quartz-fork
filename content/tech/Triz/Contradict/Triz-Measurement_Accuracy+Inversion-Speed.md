@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Inversion-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Inversion-Speed](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.md) 
-- [Triz-Measurement_Accuracy+Inversion-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.internal.md) 
-- [Triz-Measurement_Accuracy+Inversion-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.protect.md) 
-- [Triz-Measurement_Accuracy+Inversion-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.private.md) 
-- [Triz-Measurement_Accuracy+Inversion-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.personal.md) 
-- [Triz-Measurement_Accuracy+Inversion-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Speed.secret.md) 

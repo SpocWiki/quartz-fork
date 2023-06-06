@@ -47,10 +47,3 @@ Indicates the usage of the vehicle as a rental car.
 
 
 
-## Confidential Links & Embeds: 
-- [rental_vehicle_usage](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.md) 
-- [rental_vehicle_usage.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.internal.md) 
-- [rental_vehicle_usage.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.protect.md) 
-- [rental_vehicle_usage.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.private.md) 
-- [rental_vehicle_usage.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.personal.md) 
-- [rental_vehicle_usage.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.secret.md) 

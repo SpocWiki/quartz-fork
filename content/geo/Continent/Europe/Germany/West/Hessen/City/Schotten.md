@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schotten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Schotten.md) 
-- [Schotten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schotten.internal.md) 
-- [Schotten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schotten.protect.md) 
-- [Schotten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schotten.private.md) 
-- [Schotten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Schotten.personal.md) 
-- [Schotten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Schotten.secret.md) 

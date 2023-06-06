@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lannion](../../../../../../_public/geo/Continent/Europe/France/City/Lannion.md) 
-- [Lannion.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lannion.internal.md) 
-- [Lannion.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lannion.protect.md) 
-- [Lannion.private](../../../../../../_private/geo/Continent/Europe/France/City/Lannion.private.md) 
-- [Lannion.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lannion.personal.md) 
-- [Lannion.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lannion.secret.md) 

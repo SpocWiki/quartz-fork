@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wladiwostok](../../../../../../_public/geo/Continent/Europe/Russia/City/Wladiwostok.md) 
-- [Wladiwostok.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Wladiwostok.internal.md) 
-- [Wladiwostok.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Wladiwostok.protect.md) 
-- [Wladiwostok.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Wladiwostok.private.md) 
-- [Wladiwostok.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Wladiwostok.personal.md) 
-- [Wladiwostok.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Wladiwostok.secret.md) 

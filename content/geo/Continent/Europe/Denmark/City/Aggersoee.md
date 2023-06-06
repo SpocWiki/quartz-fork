@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aggersoee](../../../../../../_public/geo/Continent/Europe/Denmark/City/Aggersoee.md) 
-- [Aggersoee.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Aggersoee.internal.md) 
-- [Aggersoee.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Aggersoee.protect.md) 
-- [Aggersoee.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Aggersoee.private.md) 
-- [Aggersoee.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Aggersoee.personal.md) 
-- [Aggersoee.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Aggersoee.secret.md) 

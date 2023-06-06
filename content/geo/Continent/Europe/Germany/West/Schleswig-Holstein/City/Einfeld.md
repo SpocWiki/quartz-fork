@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Einfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Einfeld.md) 
-- [Einfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Einfeld.internal.md) 
-- [Einfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Einfeld.protect.md) 
-- [Einfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Einfeld.private.md) 
-- [Einfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Einfeld.personal.md) 
-- [Einfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Einfeld.secret.md) 

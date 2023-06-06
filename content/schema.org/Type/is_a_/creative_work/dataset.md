@@ -47,10 +47,3 @@ A body of structured information describing some topic(s) of interest.
 
 
 
-## Confidential Links & Embeds: 
-- [dataset](../../../../../_public/schema.org/Type/is_a_/creative_work/dataset.md) 
-- [dataset.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/dataset.internal.md) 
-- [dataset.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/dataset.protect.md) 
-- [dataset.private](../../../../../_private/schema.org/Type/is_a_/creative_work/dataset.private.md) 
-- [dataset.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/dataset.personal.md) 
-- [dataset.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/dataset.secret.md) 

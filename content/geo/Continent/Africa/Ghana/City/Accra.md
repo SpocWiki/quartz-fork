@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Accra](../../../../../../_public/geo/Continent/Africa/Ghana/City/Accra.md) 
-- [Accra.internal](../../../../../../_internal/geo/Continent/Africa/Ghana/City/Accra.internal.md) 
-- [Accra.protect](../../../../../../_protect/geo/Continent/Africa/Ghana/City/Accra.protect.md) 
-- [Accra.private](../../../../../../_private/geo/Continent/Africa/Ghana/City/Accra.private.md) 
-- [Accra.personal](../../../../../../_personal/geo/Continent/Africa/Ghana/City/Accra.personal.md) 
-- [Accra.secret](../../../../../../_secret/geo/Continent/Africa/Ghana/City/Accra.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Campogalliano](../../../../../../_public/geo/Continent/Europe/Italy/City/Campogalliano.md) 
-- [Campogalliano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Campogalliano.internal.md) 
-- [Campogalliano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Campogalliano.protect.md) 
-- [Campogalliano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Campogalliano.private.md) 
-- [Campogalliano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Campogalliano.personal.md) 
-- [Campogalliano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Campogalliano.secret.md) 

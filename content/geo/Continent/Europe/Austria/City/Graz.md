@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Graz](../../../../../../_public/geo/Continent/Europe/Austria/City/Graz.md) 
-- [Graz.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Graz.internal.md) 
-- [Graz.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Graz.protect.md) 
-- [Graz.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Graz.private.md) 
-- [Graz.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Graz.personal.md) 
-- [Graz.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Graz.secret.md) 

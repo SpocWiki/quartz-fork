@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Istebna](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Istebna.md) 
-- [Istebna.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Istebna.internal.md) 
-- [Istebna.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Istebna.protect.md) 
-- [Istebna.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Istebna.private.md) 
-- [Istebna.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Istebna.personal.md) 
-- [Istebna.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Istebna.secret.md) 

@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Speyerer_Straße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Speyerer_Stra%C3%9Fe.md) 
-- [T-Speyerer_Straße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Speyerer_Stra%C3%9Fe.internal.md) 
-- [T-Speyerer_Straße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Speyerer_Stra%C3%9Fe.protect.md) 
-- [T-Speyerer_Straße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Speyerer_Stra%C3%9Fe.private.md) 
-- [T-Speyerer_Straße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Speyerer_Stra%C3%9Fe.personal.md) 
-- [T-Speyerer_Straße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Speyerer_Stra%C3%9Fe.secret.md) 

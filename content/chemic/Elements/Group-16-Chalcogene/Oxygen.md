@@ -38,10 +38,3 @@ title: Oxygen
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxygen)
 
-## Confidential Links & Embeds: 
-- [Oxygen](../../../../_public/chemic/Elements/Group-16-Chalcogene/Oxygen.md) 
-- [Oxygen.internal](../../../../_internal/chemic/Elements/Group-16-Chalcogene/Oxygen.internal.md) 
-- [Oxygen.protect](../../../../_protect/chemic/Elements/Group-16-Chalcogene/Oxygen.protect.md) 
-- [Oxygen.private](../../../../_private/chemic/Elements/Group-16-Chalcogene/Oxygen.private.md) 
-- [Oxygen.personal](../../../../_personal/chemic/Elements/Group-16-Chalcogene/Oxygen.personal.md) 
-- [Oxygen.secret](../../../../_secret/chemic/Elements/Group-16-Chalcogene/Oxygen.secret.md) 

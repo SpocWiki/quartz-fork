@@ -46,10 +46,3 @@ A tourist trip. A created itinerary of visits to one or more places of interest 
 
 
 
-## Confidential Links & Embeds: 
-- [tourist_trip](../../../../../../_public/schema.org/Type/is_a_/intangible/trip/tourist_trip.md) 
-- [tourist_trip.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/trip/tourist_trip.internal.md) 
-- [tourist_trip.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/trip/tourist_trip.protect.md) 
-- [tourist_trip.private](../../../../../../_private/schema.org/Type/is_a_/intangible/trip/tourist_trip.private.md) 
-- [tourist_trip.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/trip/tourist_trip.personal.md) 
-- [tourist_trip.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/trip/tourist_trip.secret.md) 

@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_advance_booking_requirement](../../../../_public/schema.org/Predicate/Quantities/has_value_for_advance_booking_requirement.md) 
-- [has_value_for_advance_booking_requirement.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_advance_booking_requirement.internal.md) 
-- [has_value_for_advance_booking_requirement.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_advance_booking_requirement.protect.md) 
-- [has_value_for_advance_booking_requirement.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_advance_booking_requirement.private.md) 
-- [has_value_for_advance_booking_requirement.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_advance_booking_requirement.personal.md) 
-- [has_value_for_advance_booking_requirement.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_advance_booking_requirement.secret.md) 

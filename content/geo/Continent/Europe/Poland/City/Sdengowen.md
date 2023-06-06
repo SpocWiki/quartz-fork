@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sdengowen](../../../../../../_public/geo/Continent/Europe/Poland/City/Sdengowen.md) 
-- [Sdengowen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sdengowen.internal.md) 
-- [Sdengowen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sdengowen.protect.md) 
-- [Sdengowen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sdengowen.private.md) 
-- [Sdengowen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sdengowen.personal.md) 
-- [Sdengowen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sdengowen.secret.md) 

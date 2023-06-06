@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uzés](../../../../../../_public/geo/Continent/Europe/France/City/Uz%C3%A9s.md) 
-- [Uzés.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Uz%C3%A9s.internal.md) 
-- [Uzés.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Uz%C3%A9s.protect.md) 
-- [Uzés.private](../../../../../../_private/geo/Continent/Europe/France/City/Uz%C3%A9s.private.md) 
-- [Uzés.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Uz%C3%A9s.personal.md) 
-- [Uzés.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Uz%C3%A9s.secret.md) 

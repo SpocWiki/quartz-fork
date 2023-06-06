@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Litchfield](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Litchfield.md) 
-- [Litchfield.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Litchfield.internal.md) 
-- [Litchfield.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Litchfield.protect.md) 
-- [Litchfield.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Litchfield.private.md) 
-- [Litchfield.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Litchfield.personal.md) 
-- [Litchfield.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Litchfield.secret.md) 

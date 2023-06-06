@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arnsfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Arnsfeld.md) 
-- [Arnsfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Arnsfeld.internal.md) 
-- [Arnsfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Arnsfeld.protect.md) 
-- [Arnsfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Arnsfeld.private.md) 
-- [Arnsfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Arnsfeld.personal.md) 
-- [Arnsfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Arnsfeld.secret.md) 

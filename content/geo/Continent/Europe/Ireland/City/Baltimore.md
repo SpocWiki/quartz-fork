@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baltimore](../../../../../../_public/geo/Continent/Europe/Ireland/City/Baltimore.md) 
-- [Baltimore.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Baltimore.internal.md) 
-- [Baltimore.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Baltimore.protect.md) 
-- [Baltimore.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Baltimore.private.md) 
-- [Baltimore.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Baltimore.personal.md) 
-- [Baltimore.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Baltimore.secret.md) 

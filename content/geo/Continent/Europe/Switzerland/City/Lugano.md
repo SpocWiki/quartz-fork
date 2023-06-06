@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lugano](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lugano.md) 
-- [Lugano.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lugano.internal.md) 
-- [Lugano.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lugano.protect.md) 
-- [Lugano.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lugano.private.md) 
-- [Lugano.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lugano.personal.md) 
-- [Lugano.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lugano.secret.md) 

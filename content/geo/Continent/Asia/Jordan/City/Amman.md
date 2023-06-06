@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amman](../../../../../../_public/geo/Continent/Asia/Jordan/City/Amman.md) 
-- [Amman.internal](../../../../../../_internal/geo/Continent/Asia/Jordan/City/Amman.internal.md) 
-- [Amman.protect](../../../../../../_protect/geo/Continent/Asia/Jordan/City/Amman.protect.md) 
-- [Amman.private](../../../../../../_private/geo/Continent/Asia/Jordan/City/Amman.private.md) 
-- [Amman.personal](../../../../../../_personal/geo/Continent/Asia/Jordan/City/Amman.personal.md) 
-- [Amman.secret](../../../../../../_secret/geo/Continent/Asia/Jordan/City/Amman.secret.md) 

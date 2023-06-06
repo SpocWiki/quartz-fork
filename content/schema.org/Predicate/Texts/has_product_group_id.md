@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_product_group_id](../../../../_public/schema.org/Predicate/Texts/has_product_group_id.md) 
-- [has_product_group_id.internal](../../../../_internal/schema.org/Predicate/Texts/has_product_group_id.internal.md) 
-- [has_product_group_id.protect](../../../../_protect/schema.org/Predicate/Texts/has_product_group_id.protect.md) 
-- [has_product_group_id.private](../../../../_private/schema.org/Predicate/Texts/has_product_group_id.private.md) 
-- [has_product_group_id.personal](../../../../_personal/schema.org/Predicate/Texts/has_product_group_id.personal.md) 
-- [has_product_group_id.secret](../../../../_secret/schema.org/Predicate/Texts/has_product_group_id.secret.md) 

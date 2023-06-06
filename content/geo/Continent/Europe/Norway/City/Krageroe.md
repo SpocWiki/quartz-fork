@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krageroe](../../../../../../_public/geo/Continent/Europe/Norway/City/Krageroe.md) 
-- [Krageroe.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Krageroe.internal.md) 
-- [Krageroe.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Krageroe.protect.md) 
-- [Krageroe.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Krageroe.private.md) 
-- [Krageroe.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Krageroe.personal.md) 
-- [Krageroe.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Krageroe.secret.md) 

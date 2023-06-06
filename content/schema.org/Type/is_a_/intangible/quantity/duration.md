@@ -43,10 +43,3 @@ Quantity: Duration (use <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601
 
 
 
-## Confidential Links & Embeds: 
-- [duration](../../../../../../_public/schema.org/Type/is_a_/intangible/quantity/duration.md) 
-- [duration.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/quantity/duration.internal.md) 
-- [duration.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/quantity/duration.protect.md) 
-- [duration.private](../../../../../../_private/schema.org/Type/is_a_/intangible/quantity/duration.private.md) 
-- [duration.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/quantity/duration.personal.md) 
-- [duration.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/quantity/duration.secret.md) 

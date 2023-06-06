@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Margate](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Margate.md) 
-- [Margate.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Margate.internal.md) 
-- [Margate.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Margate.protect.md) 
-- [Margate.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Margate.private.md) 
-- [Margate.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Margate.personal.md) 
-- [Margate.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Margate.secret.md) 

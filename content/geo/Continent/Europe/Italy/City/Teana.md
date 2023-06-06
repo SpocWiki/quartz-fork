@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teana](../../../../../../_public/geo/Continent/Europe/Italy/City/Teana.md) 
-- [Teana.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Teana.internal.md) 
-- [Teana.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Teana.protect.md) 
-- [Teana.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Teana.private.md) 
-- [Teana.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Teana.personal.md) 
-- [Teana.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Teana.secret.md) 

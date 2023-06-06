@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amberg~Schwaben](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.md) 
-- [Amberg~Schwaben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.internal.md) 
-- [Amberg~Schwaben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.protect.md) 
-- [Amberg~Schwaben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.private.md) 
-- [Amberg~Schwaben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.personal.md) 
-- [Amberg~Schwaben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.secret.md) 

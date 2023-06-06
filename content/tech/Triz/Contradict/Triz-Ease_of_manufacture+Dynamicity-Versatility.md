@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Dynamicity-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Dynamicity-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.md) 
-- [Triz-Ease_of_manufacture+Dynamicity-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.internal.md) 
-- [Triz-Ease_of_manufacture+Dynamicity-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.protect.md) 
-- [Triz-Ease_of_manufacture+Dynamicity-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.private.md) 
-- [Triz-Ease_of_manufacture+Dynamicity-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.personal.md) 
-- [Triz-Ease_of_manufacture+Dynamicity-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Dynamicity-Versatility.secret.md) 

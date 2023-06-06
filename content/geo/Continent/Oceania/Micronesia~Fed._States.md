@@ -36,10 +36,3 @@ markerFolder: ./Micronesia,_Fed._States/City
 
 
 
-## Confidential Links & Embeds: 
-- [Micronesia~Fed._States](../../../../_public/geo/Continent/Oceania/Micronesia~Fed._States.md) 
-- [Micronesia~Fed._States.internal](../../../../_internal/geo/Continent/Oceania/Micronesia~Fed._States.internal.md) 
-- [Micronesia~Fed._States.protect](../../../../_protect/geo/Continent/Oceania/Micronesia~Fed._States.protect.md) 
-- [Micronesia~Fed._States.private](../../../../_private/geo/Continent/Oceania/Micronesia~Fed._States.private.md) 
-- [Micronesia~Fed._States.personal](../../../../_personal/geo/Continent/Oceania/Micronesia~Fed._States.personal.md) 
-- [Micronesia~Fed._States.secret](../../../../_secret/geo/Continent/Oceania/Micronesia~Fed._States.secret.md) 

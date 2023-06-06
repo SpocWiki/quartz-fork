@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_diversity_policy](../../../../../_public/schema.org/Predicate/Relations/has/has_diversity_policy.md) 
-- [has_diversity_policy.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_diversity_policy.internal.md) 
-- [has_diversity_policy.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_diversity_policy.protect.md) 
-- [has_diversity_policy.private](../../../../../_private/schema.org/Predicate/Relations/has/has_diversity_policy.private.md) 
-- [has_diversity_policy.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_diversity_policy.personal.md) 
-- [has_diversity_policy.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_diversity_policy.secret.md) 

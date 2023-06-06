@@ -19,10 +19,3 @@ title: Triz-affected_harm+Inversion-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Inversion-Illumination](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Inversion-Illumination.md) 
-- [Triz-affected_harm+Inversion-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Inversion-Illumination.internal.md) 
-- [Triz-affected_harm+Inversion-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Inversion-Illumination.protect.md) 
-- [Triz-affected_harm+Inversion-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Inversion-Illumination.private.md) 
-- [Triz-affected_harm+Inversion-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Inversion-Illumination.personal.md) 
-- [Triz-affected_harm+Inversion-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Inversion-Illumination.secret.md) 

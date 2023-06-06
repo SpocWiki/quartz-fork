@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goettweig](../../../../../../_public/geo/Continent/Europe/Austria/City/Goettweig.md) 
-- [Goettweig.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Goettweig.internal.md) 
-- [Goettweig.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Goettweig.protect.md) 
-- [Goettweig.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Goettweig.private.md) 
-- [Goettweig.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Goettweig.personal.md) 
-- [Goettweig.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Goettweig.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falun](../../../../../../_public/geo/Continent/Europe/Sweden/City/Falun.md) 
-- [Falun.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Falun.internal.md) 
-- [Falun.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Falun.protect.md) 
-- [Falun.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Falun.private.md) 
-- [Falun.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Falun.personal.md) 
-- [Falun.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Falun.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Porto](../../../../../../_public/geo/Continent/Europe/Portugal/City/Porto.md) 
-- [Porto.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Porto.internal.md) 
-- [Porto.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Porto.protect.md) 
-- [Porto.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Porto.private.md) 
-- [Porto.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Porto.personal.md) 
-- [Porto.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Porto.secret.md) 

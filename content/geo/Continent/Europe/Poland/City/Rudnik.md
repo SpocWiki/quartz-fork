@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rudnik](../../../../../../_public/geo/Continent/Europe/Poland/City/Rudnik.md) 
-- [Rudnik.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rudnik.internal.md) 
-- [Rudnik.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rudnik.protect.md) 
-- [Rudnik.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rudnik.private.md) 
-- [Rudnik.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rudnik.personal.md) 
-- [Rudnik.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rudnik.secret.md) 

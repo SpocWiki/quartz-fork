@@ -43,10 +43,3 @@ A museum.
 
 
 
-## Confidential Links & Embeds: 
-- [museum](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/museum.md) 
-- [museum.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/museum.internal.md) 
-- [museum.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/museum.protect.md) 
-- [museum.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/museum.private.md) 
-- [museum.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/museum.personal.md) 
-- [museum.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/museum.secret.md) 

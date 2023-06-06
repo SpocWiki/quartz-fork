@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_suggested_age](../../../../_public/schema.org/Predicate/Quantities/has_value_for_suggested_age.md) 
-- [has_value_for_suggested_age.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_suggested_age.internal.md) 
-- [has_value_for_suggested_age.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_suggested_age.protect.md) 
-- [has_value_for_suggested_age.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_suggested_age.private.md) 
-- [has_value_for_suggested_age.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_suggested_age.personal.md) 
-- [has_value_for_suggested_age.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_suggested_age.secret.md) 

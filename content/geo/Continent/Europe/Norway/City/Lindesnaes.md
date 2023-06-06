@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lindesnaes](../../../../../../_public/geo/Continent/Europe/Norway/City/Lindesnaes.md) 
-- [Lindesnaes.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Lindesnaes.internal.md) 
-- [Lindesnaes.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Lindesnaes.protect.md) 
-- [Lindesnaes.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Lindesnaes.private.md) 
-- [Lindesnaes.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Lindesnaes.personal.md) 
-- [Lindesnaes.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Lindesnaes.secret.md) 

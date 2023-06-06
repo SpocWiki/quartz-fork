@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falkenberg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Falkenberg.md) 
-- [Falkenberg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Falkenberg.internal.md) 
-- [Falkenberg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Falkenberg.protect.md) 
-- [Falkenberg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Falkenberg.private.md) 
-- [Falkenberg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Falkenberg.personal.md) 
-- [Falkenberg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Falkenberg.secret.md) 

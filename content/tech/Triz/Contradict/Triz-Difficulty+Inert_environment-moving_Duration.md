@@ -19,10 +19,3 @@ title: Triz-Difficulty+Inert_environment-moving_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Inert_environment-moving_Duration](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-moving_Duration.md) 
-- [Triz-Difficulty+Inert_environment-moving_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-moving_Duration.internal.md) 
-- [Triz-Difficulty+Inert_environment-moving_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-moving_Duration.protect.md) 
-- [Triz-Difficulty+Inert_environment-moving_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-moving_Duration.private.md) 
-- [Triz-Difficulty+Inert_environment-moving_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-moving_Duration.personal.md) 
-- [Triz-Difficulty+Inert_environment-moving_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Inert_environment-moving_Duration.secret.md) 

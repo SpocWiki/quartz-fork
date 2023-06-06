@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Naumburg~Schlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.md) 
-- [Naumburg~Schlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.internal.md) 
-- [Naumburg~Schlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.protect.md) 
-- [Naumburg~Schlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.private.md) 
-- [Naumburg~Schlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.personal.md) 
-- [Naumburg~Schlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Naumburg~Schlesien.secret.md) 

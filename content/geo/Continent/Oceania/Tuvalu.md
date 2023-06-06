@@ -130,10 +130,3 @@ markerFolder: ./Tuvalu/City
 
 
 
-## Confidential Links & Embeds: 
-- [Tuvalu](../../../../_public/geo/Continent/Oceania/Tuvalu.md) 
-- [Tuvalu.internal](../../../../_internal/geo/Continent/Oceania/Tuvalu.internal.md) 
-- [Tuvalu.protect](../../../../_protect/geo/Continent/Oceania/Tuvalu.protect.md) 
-- [Tuvalu.private](../../../../_private/geo/Continent/Oceania/Tuvalu.private.md) 
-- [Tuvalu.personal](../../../../_personal/geo/Continent/Oceania/Tuvalu.personal.md) 
-- [Tuvalu.secret](../../../../_secret/geo/Continent/Oceania/Tuvalu.secret.md) 

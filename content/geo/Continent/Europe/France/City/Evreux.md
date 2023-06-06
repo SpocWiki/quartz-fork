@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Evreux](../../../../../../_public/geo/Continent/Europe/France/City/Evreux.md) 
-- [Evreux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Evreux.internal.md) 
-- [Evreux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Evreux.protect.md) 
-- [Evreux.private](../../../../../../_private/geo/Continent/Europe/France/City/Evreux.private.md) 
-- [Evreux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Evreux.personal.md) 
-- [Evreux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Evreux.secret.md) 

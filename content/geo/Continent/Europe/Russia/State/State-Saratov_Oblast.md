@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Saratov_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Saratov_Oblast.md) 
-- [State-Saratov_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Saratov_Oblast.internal.md) 
-- [State-Saratov_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Saratov_Oblast.protect.md) 
-- [State-Saratov_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Saratov_Oblast.private.md) 
-- [State-Saratov_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Saratov_Oblast.personal.md) 
-- [State-Saratov_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Saratov_Oblast.secret.md) 

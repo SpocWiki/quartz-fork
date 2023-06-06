@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Libochovon](../../../../../../_public/geo/Continent/Europe/Albania/City/Libochovon.md) 
-- [Libochovon.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Libochovon.internal.md) 
-- [Libochovon.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Libochovon.protect.md) 
-- [Libochovon.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Libochovon.private.md) 
-- [Libochovon.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Libochovon.personal.md) 
-- [Libochovon.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Libochovon.secret.md) 

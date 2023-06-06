@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ulan_Ude](../../../../../../_public/geo/Continent/Europe/Russia/City/Ulan_Ude.md) 
-- [Ulan_Ude.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ulan_Ude.internal.md) 
-- [Ulan_Ude.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ulan_Ude.protect.md) 
-- [Ulan_Ude.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ulan_Ude.private.md) 
-- [Ulan_Ude.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ulan_Ude.personal.md) 
-- [Ulan_Ude.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ulan_Ude.secret.md) 

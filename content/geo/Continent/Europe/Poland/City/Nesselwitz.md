@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nesselwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Nesselwitz.md) 
-- [Nesselwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Nesselwitz.internal.md) 
-- [Nesselwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Nesselwitz.protect.md) 
-- [Nesselwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Nesselwitz.private.md) 
-- [Nesselwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Nesselwitz.personal.md) 
-- [Nesselwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Nesselwitz.secret.md) 

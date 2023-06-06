@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strabane](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.md) 
-- [Strabane.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.internal.md) 
-- [Strabane.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.protect.md) 
-- [Strabane.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.private.md) 
-- [Strabane.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.personal.md) 
-- [Strabane.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Strabane.secret.md) 

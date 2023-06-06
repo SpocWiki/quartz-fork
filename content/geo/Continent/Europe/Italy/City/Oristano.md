@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oristano](../../../../../../_public/geo/Continent/Europe/Italy/City/Oristano.md) 
-- [Oristano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Oristano.internal.md) 
-- [Oristano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Oristano.protect.md) 
-- [Oristano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Oristano.private.md) 
-- [Oristano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Oristano.personal.md) 
-- [Oristano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Oristano.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peterswaldau](../../../../../../_public/geo/Continent/Europe/Poland/City/Peterswaldau.md) 
-- [Peterswaldau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Peterswaldau.internal.md) 
-- [Peterswaldau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Peterswaldau.protect.md) 
-- [Peterswaldau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Peterswaldau.private.md) 
-- [Peterswaldau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Peterswaldau.personal.md) 
-- [Peterswaldau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Peterswaldau.secret.md) 

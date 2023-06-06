@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skive](../../../../../../_public/geo/Continent/Europe/Denmark/City/Skive.md) 
-- [Skive.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Skive.internal.md) 
-- [Skive.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Skive.protect.md) 
-- [Skive.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Skive.private.md) 
-- [Skive.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Skive.personal.md) 
-- [Skive.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Skive.secret.md) 

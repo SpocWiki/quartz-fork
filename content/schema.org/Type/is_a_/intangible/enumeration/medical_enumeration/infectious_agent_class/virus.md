@@ -45,10 +45,3 @@ Pathogenic virus that causes viral infection.
 
 
 
-## Confidential Links & Embeds: 
-- [virus](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.md) 
-- [virus.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.internal.md) 
-- [virus.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.protect.md) 
-- [virus.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.private.md) 
-- [virus.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.personal.md) 
-- [virus.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.secret.md) 

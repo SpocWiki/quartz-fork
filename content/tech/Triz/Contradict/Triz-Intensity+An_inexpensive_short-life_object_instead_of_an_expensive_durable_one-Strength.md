@@ -19,10 +19,3 @@ title: Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_d
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength](../../../../_public/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.md) 
-- [Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.internal.md) 
-- [Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.protect.md) 
-- [Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.private.md) 
-- [Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.personal.md) 
-- [Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Strength.secret.md) 

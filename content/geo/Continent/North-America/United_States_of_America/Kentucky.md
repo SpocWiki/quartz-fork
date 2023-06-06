@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kentucky](../../../../../_public/geo/Continent/North-America/United_States_of_America/Kentucky.md) 
-- [Kentucky.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Kentucky.internal.md) 
-- [Kentucky.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Kentucky.protect.md) 
-- [Kentucky.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Kentucky.private.md) 
-- [Kentucky.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Kentucky.personal.md) 
-- [Kentucky.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Kentucky.secret.md) 

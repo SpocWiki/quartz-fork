@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gex](../../../../../../_public/geo/Continent/Europe/France/City/Gex.md) 
-- [Gex.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Gex.internal.md) 
-- [Gex.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Gex.protect.md) 
-- [Gex.private](../../../../../../_private/geo/Continent/Europe/France/City/Gex.private.md) 
-- [Gex.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Gex.personal.md) 
-- [Gex.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Gex.secret.md) 

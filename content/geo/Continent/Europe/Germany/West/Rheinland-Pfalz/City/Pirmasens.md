@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pirmasens](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pirmasens.md) 
-- [Pirmasens.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pirmasens.internal.md) 
-- [Pirmasens.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pirmasens.protect.md) 
-- [Pirmasens.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pirmasens.private.md) 
-- [Pirmasens.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pirmasens.personal.md) 
-- [Pirmasens.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Pirmasens.secret.md) 

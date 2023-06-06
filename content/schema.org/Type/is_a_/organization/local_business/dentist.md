@@ -43,10 +43,3 @@ A dentist.
 
 
 
-## Confidential Links & Embeds: 
-- [dentist](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/dentist.md) 
-- [dentist.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/dentist.internal.md) 
-- [dentist.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/dentist.protect.md) 
-- [dentist.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/dentist.private.md) 
-- [dentist.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/dentist.personal.md) 
-- [dentist.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/dentist.secret.md) 

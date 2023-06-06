@@ -19,10 +19,3 @@ title: Triz-moving_Length+Counterweight-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Counterweight-Shape](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Shape.md) 
-- [Triz-moving_Length+Counterweight-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Shape.internal.md) 
-- [Triz-moving_Length+Counterweight-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Shape.protect.md) 
-- [Triz-moving_Length+Counterweight-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Shape.private.md) 
-- [Triz-moving_Length+Counterweight-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Shape.personal.md) 
-- [Triz-moving_Length+Counterweight-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Counterweight-Shape.secret.md) 

@@ -124,7 +124,7 @@ markerFolder: ./Morocco/City
 
 ![550](geo/Continent/Africa/Morocco/Coat_of_arms_of_Morocco.svg)
 
-![Anthem-Morocco](xLarge/National-Anthem/Anthem-Morocco.mp3)
+[Anthem-Morocco](xLarge/National-Anthem/Anthem-Morocco.mp3)
 
 ![350](geo/Continent/Africa/Morocco/Flag_of_Morocco.svg)
 [Alcohol-l::1.5]
@@ -134,10 +134,3 @@ markerFolder: ./Morocco/City
 
 
 
-## Confidential Links & Embeds: 
-- [Morocco](../../../../_public/geo/Continent/Africa/Morocco.md) 
-- [Morocco.internal](../../../../_internal/geo/Continent/Africa/Morocco.internal.md) 
-- [Morocco.protect](../../../../_protect/geo/Continent/Africa/Morocco.protect.md) 
-- [Morocco.private](../../../../_private/geo/Continent/Africa/Morocco.private.md) 
-- [Morocco.personal](../../../../_personal/geo/Continent/Africa/Morocco.personal.md) 
-- [Morocco.secret](../../../../_secret/geo/Continent/Africa/Morocco.secret.md) 

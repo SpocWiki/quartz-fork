@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Reichenhall](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Reichenhall.md) 
-- [Bad_Reichenhall.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Reichenhall.internal.md) 
-- [Bad_Reichenhall.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Reichenhall.protect.md) 
-- [Bad_Reichenhall.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Reichenhall.private.md) 
-- [Bad_Reichenhall.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Reichenhall.personal.md) 
-- [Bad_Reichenhall.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Reichenhall.secret.md) 

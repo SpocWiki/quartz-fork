@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Combining_(Integration)-moving_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Combining_(Integration)-moving_Volume](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-moving_Volume.md) 
-- [Triz-Time-Loss+Combining_(Integration)-moving_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-moving_Volume.internal.md) 
-- [Triz-Time-Loss+Combining_(Integration)-moving_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-moving_Volume.protect.md) 
-- [Triz-Time-Loss+Combining_(Integration)-moving_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-moving_Volume.private.md) 
-- [Triz-Time-Loss+Combining_(Integration)-moving_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-moving_Volume.personal.md) 
-- [Triz-Time-Loss+Combining_(Integration)-moving_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Combining_(Integration)-moving_Volume.secret.md) 

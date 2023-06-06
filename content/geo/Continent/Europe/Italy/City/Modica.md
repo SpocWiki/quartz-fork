@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Modica](../../../../../../_public/geo/Continent/Europe/Italy/City/Modica.md) 
-- [Modica.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Modica.internal.md) 
-- [Modica.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Modica.protect.md) 
-- [Modica.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Modica.private.md) 
-- [Modica.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Modica.personal.md) 
-- [Modica.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Modica.secret.md) 

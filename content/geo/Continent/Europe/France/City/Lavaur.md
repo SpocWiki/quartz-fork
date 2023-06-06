@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lavaur](../../../../../../_public/geo/Continent/Europe/France/City/Lavaur.md) 
-- [Lavaur.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lavaur.internal.md) 
-- [Lavaur.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lavaur.protect.md) 
-- [Lavaur.private](../../../../../../_private/geo/Continent/Europe/France/City/Lavaur.private.md) 
-- [Lavaur.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lavaur.personal.md) 
-- [Lavaur.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lavaur.secret.md) 

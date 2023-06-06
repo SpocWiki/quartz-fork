@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Doui](../../../../../../_public/geo/Continent/Europe/Russia/City/Doui.md) 
-- [Doui.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Doui.internal.md) 
-- [Doui.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Doui.protect.md) 
-- [Doui.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Doui.private.md) 
-- [Doui.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Doui.personal.md) 
-- [Doui.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Doui.secret.md) 

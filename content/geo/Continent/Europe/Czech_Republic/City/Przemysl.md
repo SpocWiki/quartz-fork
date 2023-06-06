@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Przemysl](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Przemysl.md) 
-- [Przemysl.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Przemysl.internal.md) 
-- [Przemysl.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Przemysl.protect.md) 
-- [Przemysl.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Przemysl.private.md) 
-- [Przemysl.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Przemysl.personal.md) 
-- [Przemysl.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Przemysl.secret.md) 

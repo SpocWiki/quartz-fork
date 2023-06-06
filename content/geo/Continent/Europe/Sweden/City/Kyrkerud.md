@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kyrkerud](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kyrkerud.md) 
-- [Kyrkerud.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kyrkerud.internal.md) 
-- [Kyrkerud.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kyrkerud.protect.md) 
-- [Kyrkerud.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kyrkerud.private.md) 
-- [Kyrkerud.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kyrkerud.personal.md) 
-- [Kyrkerud.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kyrkerud.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dabikine](../../../../../../_public/geo/Continent/Europe/Russia/City/Dabikine.md) 
-- [Dabikine.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Dabikine.internal.md) 
-- [Dabikine.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Dabikine.protect.md) 
-- [Dabikine.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Dabikine.private.md) 
-- [Dabikine.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Dabikine.personal.md) 
-- [Dabikine.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Dabikine.secret.md) 

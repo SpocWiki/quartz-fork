@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Copying-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Copying-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.md) 
-- [Triz-Time-Loss+Copying-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.internal.md) 
-- [Triz-Time-Loss+Copying-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.protect.md) 
-- [Triz-Time-Loss+Copying-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.private.md) 
-- [Triz-Time-Loss+Copying-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.personal.md) 
-- [Triz-Time-Loss+Copying-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Copying-Information-Loss.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neustettin](../../../../../../_public/geo/Continent/Europe/Poland/City/Neustettin.md) 
-- [Neustettin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neustettin.internal.md) 
-- [Neustettin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neustettin.protect.md) 
-- [Neustettin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neustettin.private.md) 
-- [Neustettin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neustettin.personal.md) 
-- [Neustettin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neustettin.secret.md) 

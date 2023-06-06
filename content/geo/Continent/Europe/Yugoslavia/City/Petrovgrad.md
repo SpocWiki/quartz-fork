@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Petrovgrad](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.md) 
-- [Petrovgrad.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.internal.md) 
-- [Petrovgrad.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.protect.md) 
-- [Petrovgrad.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.private.md) 
-- [Petrovgrad.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.personal.md) 
-- [Petrovgrad.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Petrovgrad.secret.md) 

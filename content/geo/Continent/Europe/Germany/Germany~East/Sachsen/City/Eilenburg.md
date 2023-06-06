@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eilenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eilenburg.md) 
-- [Eilenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eilenburg.internal.md) 
-- [Eilenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eilenburg.protect.md) 
-- [Eilenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eilenburg.private.md) 
-- [Eilenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eilenburg.personal.md) 
-- [Eilenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Eilenburg.secret.md) 

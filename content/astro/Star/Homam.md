@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Homam](../../../_public/astro/Star/Homam.md) 
-- [Homam.internal](../../../_internal/astro/Star/Homam.internal.md) 
-- [Homam.protect](../../../_protect/astro/Star/Homam.protect.md) 
-- [Homam.private](../../../_private/astro/Star/Homam.private.md) 
-- [Homam.personal](../../../_personal/astro/Star/Homam.personal.md) 
-- [Homam.secret](../../../_secret/astro/Star/Homam.secret.md)
-

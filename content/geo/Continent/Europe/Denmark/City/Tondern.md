@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tondern](../../../../../../_public/geo/Continent/Europe/Denmark/City/Tondern.md) 
-- [Tondern.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Tondern.internal.md) 
-- [Tondern.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Tondern.protect.md) 
-- [Tondern.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Tondern.private.md) 
-- [Tondern.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Tondern.personal.md) 
-- [Tondern.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Tondern.secret.md) 

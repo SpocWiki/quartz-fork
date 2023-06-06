@@ -45,10 +45,3 @@ OrderStatus representing availability of an order for pickup.
 
 
 
-## Confidential Links & Embeds: 
-- [order_pickup_available](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.md) 
-- [order_pickup_available.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.internal.md) 
-- [order_pickup_available.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.protect.md) 
-- [order_pickup_available.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.private.md) 
-- [order_pickup_available.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.personal.md) 
-- [order_pickup_available.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.secret.md) 

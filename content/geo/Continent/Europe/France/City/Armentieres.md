@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Armentieres](../../../../../../_public/geo/Continent/Europe/France/City/Armentieres.md) 
-- [Armentieres.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Armentieres.internal.md) 
-- [Armentieres.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Armentieres.protect.md) 
-- [Armentieres.private](../../../../../../_private/geo/Continent/Europe/France/City/Armentieres.private.md) 
-- [Armentieres.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Armentieres.personal.md) 
-- [Armentieres.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Armentieres.secret.md) 

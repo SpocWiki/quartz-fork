@@ -47,10 +47,3 @@ Girth of neck. Used, for example, to fit shirts.
 
 
 
-## Confidential Links & Embeds: 
-- [body_measurement_neck](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.md) 
-- [body_measurement_neck.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.internal.md) 
-- [body_measurement_neck.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.protect.md) 
-- [body_measurement_neck.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.private.md) 
-- [body_measurement_neck.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.personal.md) 
-- [body_measurement_neck.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_neck.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stockton-on-Tees](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.md) 
-- [Stockton-on-Tees.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.internal.md) 
-- [Stockton-on-Tees.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.protect.md) 
-- [Stockton-on-Tees.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.private.md) 
-- [Stockton-on-Tees.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.personal.md) 
-- [Stockton-on-Tees.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stockton-on-Tees.secret.md) 

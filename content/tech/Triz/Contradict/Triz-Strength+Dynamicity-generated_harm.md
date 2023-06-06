@@ -19,10 +19,3 @@ title: Triz-Strength+Dynamicity-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Dynamicity-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Strength+Dynamicity-generated_harm.md) 
-- [Triz-Strength+Dynamicity-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Dynamicity-generated_harm.internal.md) 
-- [Triz-Strength+Dynamicity-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Dynamicity-generated_harm.protect.md) 
-- [Triz-Strength+Dynamicity-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Dynamicity-generated_harm.private.md) 
-- [Triz-Strength+Dynamicity-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Dynamicity-generated_harm.personal.md) 
-- [Triz-Strength+Dynamicity-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Dynamicity-generated_harm.secret.md) 

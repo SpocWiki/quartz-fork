@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borna](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Borna.md) 
-- [Borna.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Borna.internal.md) 
-- [Borna.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Borna.protect.md) 
-- [Borna.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Borna.private.md) 
-- [Borna.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Borna.personal.md) 
-- [Borna.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Borna.secret.md) 

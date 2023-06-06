@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Feldkirch](../../../../../../_public/geo/Continent/Europe/Austria/City/Feldkirch.md) 
-- [Feldkirch.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Feldkirch.internal.md) 
-- [Feldkirch.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Feldkirch.protect.md) 
-- [Feldkirch.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Feldkirch.private.md) 
-- [Feldkirch.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Feldkirch.personal.md) 
-- [Feldkirch.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Feldkirch.secret.md) 

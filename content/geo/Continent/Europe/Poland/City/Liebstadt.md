@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liebstadt](../../../../../../_public/geo/Continent/Europe/Poland/City/Liebstadt.md) 
-- [Liebstadt.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Liebstadt.internal.md) 
-- [Liebstadt.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Liebstadt.protect.md) 
-- [Liebstadt.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Liebstadt.private.md) 
-- [Liebstadt.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Liebstadt.personal.md) 
-- [Liebstadt.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Liebstadt.secret.md) 

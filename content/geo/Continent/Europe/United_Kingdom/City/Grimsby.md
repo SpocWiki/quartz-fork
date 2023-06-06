@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grimsby](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Grimsby.md) 
-- [Grimsby.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Grimsby.internal.md) 
-- [Grimsby.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Grimsby.protect.md) 
-- [Grimsby.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Grimsby.private.md) 
-- [Grimsby.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Grimsby.personal.md) 
-- [Grimsby.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Grimsby.secret.md) 

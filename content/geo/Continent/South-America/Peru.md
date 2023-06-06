@@ -123,7 +123,7 @@ markerFolder: ./Peru/City
 [VehicleCode::PE]
 [Capital::[Lima](geo/Continent/South-America/Peru/City/Lima.md)]
 ![350](Coat_of_arms_of_Peru.svg)
-![Anthem-Peru](xLarge/National-Anthem/Anthem-Peru.mp3)
+[Anthem-Peru](xLarge/National-Anthem/Anthem-Peru.mp3)
 ![350](geo/Continent/South-America/Peru/Flag_of_Peru.svg)
 [Alcohol-l::6.9]
 [Language-Id::492]
@@ -132,10 +132,3 @@ markerFolder: ./Peru/City
 
 
 
-## Confidential Links & Embeds: 
-- [Peru](../../../../_public/geo/Continent/South-America/Peru.md) 
-- [Peru.internal](../../../../_internal/geo/Continent/South-America/Peru.internal.md) 
-- [Peru.protect](../../../../_protect/geo/Continent/South-America/Peru.protect.md) 
-- [Peru.private](../../../../_private/geo/Continent/South-America/Peru.private.md) 
-- [Peru.personal](../../../../_personal/geo/Continent/South-America/Peru.personal.md) 
-- [Peru.secret](../../../../_secret/geo/Continent/South-America/Peru.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orthez](../../../../../../_public/geo/Continent/Europe/France/City/Orthez.md) 
-- [Orthez.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Orthez.internal.md) 
-- [Orthez.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Orthez.protect.md) 
-- [Orthez.private](../../../../../../_private/geo/Continent/Europe/France/City/Orthez.private.md) 
-- [Orthez.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Orthez.personal.md) 
-- [Orthez.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Orthez.secret.md) 

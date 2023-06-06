@@ -43,10 +43,3 @@ The act of participating in performance arts.
 
 
 
-## Confidential Links & Embeds: 
-- [perform_action](../../../../../../_public/schema.org/Type/is_a_/action/play_action/perform_action.md) 
-- [perform_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/play_action/perform_action.internal.md) 
-- [perform_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/play_action/perform_action.protect.md) 
-- [perform_action.private](../../../../../../_private/schema.org/Type/is_a_/action/play_action/perform_action.private.md) 
-- [perform_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/play_action/perform_action.personal.md) 
-- [perform_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/play_action/perform_action.secret.md) 

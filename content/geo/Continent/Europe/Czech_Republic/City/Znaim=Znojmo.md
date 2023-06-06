@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Znaim=Znojmo](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.md) 
-- [Znaim=Znojmo.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.internal.md) 
-- [Znaim=Znojmo.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.protect.md) 
-- [Znaim=Znojmo.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.private.md) 
-- [Znaim=Znojmo.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.personal.md) 
-- [Znaim=Znojmo.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.secret.md) 

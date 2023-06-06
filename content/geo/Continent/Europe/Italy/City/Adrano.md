@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Adrano](../../../../../../_public/geo/Continent/Europe/Italy/City/Adrano.md) 
-- [Adrano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Adrano.internal.md) 
-- [Adrano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Adrano.protect.md) 
-- [Adrano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Adrano.private.md) 
-- [Adrano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Adrano.personal.md) 
-- [Adrano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Adrano.secret.md) 

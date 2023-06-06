@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoechstaedt~Donau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.md) 
-- [Hoechstaedt~Donau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.internal.md) 
-- [Hoechstaedt~Donau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.protect.md) 
-- [Hoechstaedt~Donau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.private.md) 
-- [Hoechstaedt~Donau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.personal.md) 
-- [Hoechstaedt~Donau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Donau.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neumuenster](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neumuenster.md) 
-- [Neumuenster.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neumuenster.internal.md) 
-- [Neumuenster.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neumuenster.protect.md) 
-- [Neumuenster.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neumuenster.private.md) 
-- [Neumuenster.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neumuenster.personal.md) 
-- [Neumuenster.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Neumuenster.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-generated_harm+Extraction-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Extraction-Strength](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-Strength.md) 
-- [Triz-generated_harm+Extraction-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Strength.internal.md) 
-- [Triz-generated_harm+Extraction-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Extraction-Strength.protect.md) 
-- [Triz-generated_harm+Extraction-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Extraction-Strength.private.md) 
-- [Triz-generated_harm+Extraction-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Strength.personal.md) 
-- [Triz-generated_harm+Extraction-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Extraction-Strength.secret.md) 

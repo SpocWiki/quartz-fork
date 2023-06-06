@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Quaritz](../../../../../../_public/geo/Continent/Europe/Poland/City/Quaritz.md) 
-- [Quaritz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Quaritz.internal.md) 
-- [Quaritz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Quaritz.protect.md) 
-- [Quaritz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Quaritz.private.md) 
-- [Quaritz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Quaritz.personal.md) 
-- [Quaritz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Quaritz.secret.md) 

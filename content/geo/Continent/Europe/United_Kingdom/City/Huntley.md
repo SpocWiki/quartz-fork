@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Huntley](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Huntley.md) 
-- [Huntley.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Huntley.internal.md) 
-- [Huntley.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Huntley.protect.md) 
-- [Huntley.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Huntley.private.md) 
-- [Huntley.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Huntley.personal.md) 
-- [Huntley.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Huntley.secret.md) 

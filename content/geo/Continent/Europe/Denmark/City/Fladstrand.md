@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fladstrand](../../../../../../_public/geo/Continent/Europe/Denmark/City/Fladstrand.md) 
-- [Fladstrand.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Fladstrand.internal.md) 
-- [Fladstrand.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Fladstrand.protect.md) 
-- [Fladstrand.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Fladstrand.private.md) 
-- [Fladstrand.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Fladstrand.personal.md) 
-- [Fladstrand.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Fladstrand.secret.md) 

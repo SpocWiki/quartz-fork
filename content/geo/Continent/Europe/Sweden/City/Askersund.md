@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Askersund](../../../../../../_public/geo/Continent/Europe/Sweden/City/Askersund.md) 
-- [Askersund.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Askersund.internal.md) 
-- [Askersund.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Askersund.protect.md) 
-- [Askersund.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Askersund.private.md) 
-- [Askersund.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Askersund.personal.md) 
-- [Askersund.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Askersund.secret.md) 

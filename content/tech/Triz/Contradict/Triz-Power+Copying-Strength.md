@@ -19,10 +19,3 @@ title: Triz-Power+Copying-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Copying-Strength](../../../../_public/tech/Triz/Contradict/Triz-Power+Copying-Strength.md) 
-- [Triz-Power+Copying-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Copying-Strength.internal.md) 
-- [Triz-Power+Copying-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Copying-Strength.protect.md) 
-- [Triz-Power+Copying-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Copying-Strength.private.md) 
-- [Triz-Power+Copying-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Copying-Strength.personal.md) 
-- [Triz-Power+Copying-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Copying-Strength.secret.md) 

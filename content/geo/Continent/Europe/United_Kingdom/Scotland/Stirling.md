@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stirling](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Stirling.md) 
-- [Stirling.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Stirling.internal.md) 
-- [Stirling.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Stirling.protect.md) 
-- [Stirling.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Stirling.private.md) 
-- [Stirling.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Stirling.personal.md) 
-- [Stirling.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Stirling.secret.md) 

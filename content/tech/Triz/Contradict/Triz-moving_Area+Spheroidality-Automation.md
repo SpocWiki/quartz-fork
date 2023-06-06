@@ -19,10 +19,3 @@ title: Triz-moving_Area+Spheroidality-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Spheroidality-Automation](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.md) 
-- [Triz-moving_Area+Spheroidality-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.internal.md) 
-- [Triz-moving_Area+Spheroidality-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.protect.md) 
-- [Triz-moving_Area+Spheroidality-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.private.md) 
-- [Triz-moving_Area+Spheroidality-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.personal.md) 
-- [Triz-moving_Area+Spheroidality-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Spheroidality-Automation.secret.md) 

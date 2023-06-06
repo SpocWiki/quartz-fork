@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaersaemaeki](../../../../../../_public/geo/Continent/Europe/Finland/City/Kaersaemaeki.md) 
-- [Kaersaemaeki.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaersaemaeki.internal.md) 
-- [Kaersaemaeki.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaersaemaeki.protect.md) 
-- [Kaersaemaeki.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kaersaemaeki.private.md) 
-- [Kaersaemaeki.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaersaemaeki.personal.md) 
-- [Kaersaemaeki.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaersaemaeki.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-10307+22229-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22229-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Difficulty.md) 
-- [Triz-10307+22229-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22229-Difficulty.internal.md) 
-- [Triz-10307+22229-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22229-Difficulty.protect.md) 
-- [Triz-10307+22229-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22229-Difficulty.private.md) 
-- [Triz-10307+22229-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22229-Difficulty.personal.md) 
-- [Triz-10307+22229-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22229-Difficulty.secret.md) 

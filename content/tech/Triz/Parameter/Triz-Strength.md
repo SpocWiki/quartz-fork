@@ -17,10 +17,3 @@ title: Triz-Strength
 
 Strength
 
-## Confidential Links & Embeds: 
-- [Triz-Strength](../../../../_public/tech/Triz/Parameter/Triz-Strength.md) 
-- [Triz-Strength.internal](../../../../_internal/tech/Triz/Parameter/Triz-Strength.internal.md) 
-- [Triz-Strength.protect](../../../../_protect/tech/Triz/Parameter/Triz-Strength.protect.md) 
-- [Triz-Strength.private](../../../../_private/tech/Triz/Parameter/Triz-Strength.private.md) 
-- [Triz-Strength.personal](../../../../_personal/tech/Triz/Parameter/Triz-Strength.personal.md) 
-- [Triz-Strength.secret](../../../../_secret/tech/Triz/Parameter/Triz-Strength.secret.md) 

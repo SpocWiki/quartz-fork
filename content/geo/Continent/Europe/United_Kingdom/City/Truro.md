@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Truro](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Truro.md) 
-- [Truro.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Truro.internal.md) 
-- [Truro.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Truro.protect.md) 
-- [Truro.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Truro.private.md) 
-- [Truro.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Truro.personal.md) 
-- [Truro.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Truro.secret.md) 

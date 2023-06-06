@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Prior_counteracion-stationary_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Prior_counteracion-stationary_Length](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Prior_counteracion-stationary_Length.md) 
-- [Triz-stationary_Area+Prior_counteracion-stationary_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Prior_counteracion-stationary_Length.internal.md) 
-- [Triz-stationary_Area+Prior_counteracion-stationary_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Prior_counteracion-stationary_Length.protect.md) 
-- [Triz-stationary_Area+Prior_counteracion-stationary_Length.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Prior_counteracion-stationary_Length.private.md) 
-- [Triz-stationary_Area+Prior_counteracion-stationary_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Prior_counteracion-stationary_Length.personal.md) 
-- [Triz-stationary_Area+Prior_counteracion-stationary_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Prior_counteracion-stationary_Length.secret.md) 

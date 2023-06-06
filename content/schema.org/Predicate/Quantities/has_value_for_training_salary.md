@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_training_salary](../../../../_public/schema.org/Predicate/Quantities/has_value_for_training_salary.md) 
-- [has_value_for_training_salary.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_training_salary.internal.md) 
-- [has_value_for_training_salary.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_training_salary.protect.md) 
-- [has_value_for_training_salary.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_training_salary.private.md) 
-- [has_value_for_training_salary.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_training_salary.personal.md) 
-- [has_value_for_training_salary.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_training_salary.secret.md) 

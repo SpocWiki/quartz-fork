@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hemau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hemau.md) 
-- [Hemau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hemau.internal.md) 
-- [Hemau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hemau.protect.md) 
-- [Hemau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hemau.private.md) 
-- [Hemau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hemau.personal.md) 
-- [Hemau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hemau.secret.md) 

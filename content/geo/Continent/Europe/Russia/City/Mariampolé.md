@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mariampolé](../../../../../../_public/geo/Continent/Europe/Russia/City/Mariampol%C3%A9.md) 
-- [Mariampolé.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mariampol%C3%A9.internal.md) 
-- [Mariampolé.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mariampol%C3%A9.protect.md) 
-- [Mariampolé.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mariampol%C3%A9.private.md) 
-- [Mariampolé.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mariampol%C3%A9.personal.md) 
-- [Mariampolé.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mariampol%C3%A9.secret.md) 

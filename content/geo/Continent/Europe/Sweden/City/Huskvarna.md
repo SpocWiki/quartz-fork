@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Huskvarna](../../../../../../_public/geo/Continent/Europe/Sweden/City/Huskvarna.md) 
-- [Huskvarna.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Huskvarna.internal.md) 
-- [Huskvarna.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Huskvarna.protect.md) 
-- [Huskvarna.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Huskvarna.private.md) 
-- [Huskvarna.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Huskvarna.personal.md) 
-- [Huskvarna.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Huskvarna.secret.md) 

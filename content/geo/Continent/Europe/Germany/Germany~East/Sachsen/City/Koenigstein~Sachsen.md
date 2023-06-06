@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenigstein~Sachsen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.md) 
-- [Koenigstein~Sachsen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.internal.md) 
-- [Koenigstein~Sachsen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.protect.md) 
-- [Koenigstein~Sachsen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.private.md) 
-- [Koenigstein~Sachsen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.personal.md) 
-- [Koenigstein~Sachsen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigstein~Sachsen.secret.md) 

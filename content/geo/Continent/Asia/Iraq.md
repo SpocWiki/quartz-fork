@@ -121,7 +121,7 @@ markerFolder: ./Iraq/City
 [VehicleCode::IRQ]
 [Capital::[Baghdad](geo/Continent/Asia/Iraq/City/Baghdad.md)]
 ![350](geo/Continent/Asia/Iraq/Coat_of_arms_of_Iraq.svg)
-![Anthem-Iraq](xLarge/National-Anthem/Anthem-Iraq.mp3)
+[Anthem-Iraq](xLarge/National-Anthem/Anthem-Iraq.mp3)
 ![350](geo/Continent/Asia/Iraq/Flag_of_Iraq.svg)
 [Alcohol-l::0.4]
 [Language-Id::472]
@@ -130,10 +130,3 @@ markerFolder: ./Iraq/City
 
 
 
-## Confidential Links & Embeds: 
-- [Iraq](../../../../_public/geo/Continent/Asia/Iraq.md) 
-- [Iraq.internal](../../../../_internal/geo/Continent/Asia/Iraq.internal.md) 
-- [Iraq.protect](../../../../_protect/geo/Continent/Asia/Iraq.protect.md) 
-- [Iraq.private](../../../../_private/geo/Continent/Asia/Iraq.private.md) 
-- [Iraq.personal](../../../../_personal/geo/Continent/Asia/Iraq.personal.md) 
-- [Iraq.secret](../../../../_secret/geo/Continent/Asia/Iraq.secret.md) 

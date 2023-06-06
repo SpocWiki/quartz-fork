@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Locorotondo](../../../../../../_public/geo/Continent/Europe/Italy/City/Locorotondo.md) 
-- [Locorotondo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Locorotondo.internal.md) 
-- [Locorotondo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Locorotondo.protect.md) 
-- [Locorotondo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Locorotondo.private.md) 
-- [Locorotondo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Locorotondo.personal.md) 
-- [Locorotondo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Locorotondo.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Ruislip_Manor](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Manor.md) 
-- [Sub-Ruislip_Manor.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Manor.internal.md) 
-- [Sub-Ruislip_Manor.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Manor.protect.md) 
-- [Sub-Ruislip_Manor.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Manor.private.md) 
-- [Sub-Ruislip_Manor.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Manor.personal.md) 
-- [Sub-Ruislip_Manor.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Ruislip_Manor.secret.md) 

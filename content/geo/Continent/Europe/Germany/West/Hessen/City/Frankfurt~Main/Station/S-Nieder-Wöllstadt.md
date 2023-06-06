@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Nieder-Wöllstadt](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-W%C3%B6llstadt.md) 
-- [S-Nieder-Wöllstadt.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-W%C3%B6llstadt.internal.md) 
-- [S-Nieder-Wöllstadt.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-W%C3%B6llstadt.protect.md) 
-- [S-Nieder-Wöllstadt.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-W%C3%B6llstadt.private.md) 
-- [S-Nieder-Wöllstadt.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-W%C3%B6llstadt.personal.md) 
-- [S-Nieder-Wöllstadt.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Nieder-W%C3%B6llstadt.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-generated_harm+Mediator-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Mediator-Temperature](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Mediator-Temperature.md) 
-- [Triz-generated_harm+Mediator-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Mediator-Temperature.internal.md) 
-- [Triz-generated_harm+Mediator-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Mediator-Temperature.protect.md) 
-- [Triz-generated_harm+Mediator-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Mediator-Temperature.private.md) 
-- [Triz-generated_harm+Mediator-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Mediator-Temperature.personal.md) 
-- [Triz-generated_harm+Mediator-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Mediator-Temperature.secret.md) 

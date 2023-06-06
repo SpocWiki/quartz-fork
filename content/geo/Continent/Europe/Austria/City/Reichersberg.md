@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reichersberg](../../../../../../_public/geo/Continent/Europe/Austria/City/Reichersberg.md) 
-- [Reichersberg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Reichersberg.internal.md) 
-- [Reichersberg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Reichersberg.protect.md) 
-- [Reichersberg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Reichersberg.private.md) 
-- [Reichersberg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Reichersberg.personal.md) 
-- [Reichersberg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Reichersberg.secret.md) 

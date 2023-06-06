@@ -19,10 +19,3 @@ title: Triz-Stability+Inversion-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Inversion-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Stability+Inversion-moving_Energy.md) 
-- [Triz-Stability+Inversion-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Inversion-moving_Energy.internal.md) 
-- [Triz-Stability+Inversion-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Inversion-moving_Energy.protect.md) 
-- [Triz-Stability+Inversion-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Inversion-moving_Energy.private.md) 
-- [Triz-Stability+Inversion-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Inversion-moving_Energy.personal.md) 
-- [Triz-Stability+Inversion-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Inversion-moving_Energy.secret.md) 

@@ -122,7 +122,7 @@ geojsonFolder: [./Algeria]
 ![350](geo/Continent/Africa/Algeria/Emblem_of_Algeria.svg)
 
 
-![Anthem-Algeria](xLarge/National-Anthem/Anthem-Algeria.mp3)
+[Anthem-Algeria](xLarge/National-Anthem/Anthem-Algeria.mp3)
 
 
 ![350](geo/Continent/Africa/Algeria/Flag_of_Algeria.svg)
@@ -134,10 +134,3 @@ geojsonFolder: [./Algeria]
 
 
 
-## Confidential Links & Embeds: 
-- [Algeria](../../../../_public/geo/Continent/Africa/Algeria.md) 
-- [Algeria.internal](../../../../_internal/geo/Continent/Africa/Algeria.internal.md) 
-- [Algeria.protect](../../../../_protect/geo/Continent/Africa/Algeria.protect.md) 
-- [Algeria.private](../../../../_private/geo/Continent/Africa/Algeria.private.md) 
-- [Algeria.personal](../../../../_personal/geo/Continent/Africa/Algeria.personal.md) 
-- [Algeria.secret](../../../../_secret/geo/Continent/Africa/Algeria.secret.md) 

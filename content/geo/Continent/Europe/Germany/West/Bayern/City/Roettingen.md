@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roettingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Roettingen.md) 
-- [Roettingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Roettingen.internal.md) 
-- [Roettingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Roettingen.protect.md) 
-- [Roettingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Roettingen.private.md) 
-- [Roettingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Roettingen.personal.md) 
-- [Roettingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Roettingen.secret.md) 

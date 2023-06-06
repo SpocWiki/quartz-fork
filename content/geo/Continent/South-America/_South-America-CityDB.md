@@ -344,10 +344,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_South-America-CityDB](../../../../_public/geo/Continent/South-America/_South-America-CityDB.md) 
-- [_South-America-CityDB.internal](../../../../_internal/geo/Continent/South-America/_South-America-CityDB.internal.md) 
-- [_South-America-CityDB.protect](../../../../_protect/geo/Continent/South-America/_South-America-CityDB.protect.md) 
-- [_South-America-CityDB.private](../../../../_private/geo/Continent/South-America/_South-America-CityDB.private.md) 
-- [_South-America-CityDB.personal](../../../../_personal/geo/Continent/South-America/_South-America-CityDB.personal.md) 
-- [_South-America-CityDB.secret](../../../../_secret/geo/Continent/South-America/_South-America-CityDB.secret.md) 

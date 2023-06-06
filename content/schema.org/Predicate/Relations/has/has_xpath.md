@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_xpath](../../../../../_public/schema.org/Predicate/Relations/has/has_xpath.md) 
-- [has_xpath.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_xpath.internal.md) 
-- [has_xpath.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_xpath.protect.md) 
-- [has_xpath.private](../../../../../_private/schema.org/Predicate/Relations/has/has_xpath.private.md) 
-- [has_xpath.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_xpath.personal.md) 
-- [has_xpath.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_xpath.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Versatility+Thermal_expansion-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Thermal_expansion-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.md) 
-- [Triz-Versatility+Thermal_expansion-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.internal.md) 
-- [Triz-Versatility+Thermal_expansion-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.protect.md) 
-- [Triz-Versatility+Thermal_expansion-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.private.md) 
-- [Triz-Versatility+Thermal_expansion-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.personal.md) 
-- [Triz-Versatility+Thermal_expansion-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Thermal_expansion-Complexity.secret.md) 

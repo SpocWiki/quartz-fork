@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maglie](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Maglie.md) 
-- [Maglie.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Maglie.internal.md) 
-- [Maglie.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Maglie.protect.md) 
-- [Maglie.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Maglie.private.md) 
-- [Maglie.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Maglie.personal.md) 
-- [Maglie.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Maglie.secret.md) 

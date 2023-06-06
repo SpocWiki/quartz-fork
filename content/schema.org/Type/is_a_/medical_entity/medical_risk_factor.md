@@ -43,10 +43,3 @@ A risk factor is anything that increases a person's likelihood of developing or 
 
 
 
-## Confidential Links & Embeds: 
-- [medical_risk_factor](../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_risk_factor.md) 
-- [medical_risk_factor.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_risk_factor.internal.md) 
-- [medical_risk_factor.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_risk_factor.protect.md) 
-- [medical_risk_factor.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_risk_factor.private.md) 
-- [medical_risk_factor.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_risk_factor.personal.md) 
-- [medical_risk_factor.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_risk_factor.secret.md) 

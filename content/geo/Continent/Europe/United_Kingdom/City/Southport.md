@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Southport](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Southport.md) 
-- [Southport.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southport.internal.md) 
-- [Southport.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southport.protect.md) 
-- [Southport.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southport.private.md) 
-- [Southport.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southport.personal.md) 
-- [Southport.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southport.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lodge](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.md) 
-- [Lodge.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.internal.md) 
-- [Lodge.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.protect.md) 
-- [Lodge.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.private.md) 
-- [Lodge.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.personal.md) 
-- [Lodge.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Montana/City/Lodge.secret.md) 

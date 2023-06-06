@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Mechanical_vibration-stationary_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Mechanical_vibration-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.internal.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.protect.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.private.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.personal.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-stationary_Area.secret.md) 

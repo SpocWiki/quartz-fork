@@ -45,10 +45,3 @@ Skin assessment with clinical examination.
 
 
 
-## Confidential Links & Embeds: 
-- [skin](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.md) 
-- [skin.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.internal.md) 
-- [skin.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.protect.md) 
-- [skin.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.private.md) 
-- [skin.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.personal.md) 
-- [skin.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.secret.md) 

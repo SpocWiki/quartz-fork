@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Drelsdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.md) 
-- [Drelsdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.internal.md) 
-- [Drelsdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.protect.md) 
-- [Drelsdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.private.md) 
-- [Drelsdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.personal.md) 
-- [Drelsdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Drelsdorf.secret.md) 

@@ -47,10 +47,3 @@ Continental size system for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_system_continental](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.md) 
-- [wearable_size_system_continental.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.internal.md) 
-- [wearable_size_system_continental.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.protect.md) 
-- [wearable_size_system_continental.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.private.md) 
-- [wearable_size_system_continental.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.personal.md) 
-- [wearable_size_system_continental.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_continental.secret.md) 

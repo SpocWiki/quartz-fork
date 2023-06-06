@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bari](../../../../../../_public/geo/Continent/Europe/Italy/City/Bari.md) 
-- [Bari.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bari.internal.md) 
-- [Bari.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bari.protect.md) 
-- [Bari.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bari.private.md) 
-- [Bari.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bari.personal.md) 
-- [Bari.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bari.secret.md) 

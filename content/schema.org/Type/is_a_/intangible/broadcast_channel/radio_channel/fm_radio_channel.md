@@ -43,10 +43,3 @@ A radio channel that uses FM.
 
 
 
-## Confidential Links & Embeds: 
-- [fm_radio_channel](../../../../../../../_public/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/fm_radio_channel.md) 
-- [fm_radio_channel.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/fm_radio_channel.internal.md) 
-- [fm_radio_channel.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/fm_radio_channel.protect.md) 
-- [fm_radio_channel.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/fm_radio_channel.private.md) 
-- [fm_radio_channel.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/fm_radio_channel.personal.md) 
-- [fm_radio_channel.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/broadcast_channel/radio_channel/fm_radio_channel.secret.md) 

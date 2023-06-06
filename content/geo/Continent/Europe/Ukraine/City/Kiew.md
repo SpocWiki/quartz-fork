@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kiew](../../../../../../_public/geo/Continent/Europe/Ukraine/City/Kiew.md) 
-- [Kiew.internal](../../../../../../_internal/geo/Continent/Europe/Ukraine/City/Kiew.internal.md) 
-- [Kiew.protect](../../../../../../_protect/geo/Continent/Europe/Ukraine/City/Kiew.protect.md) 
-- [Kiew.private](../../../../../../_private/geo/Continent/Europe/Ukraine/City/Kiew.private.md) 
-- [Kiew.personal](../../../../../../_personal/geo/Continent/Europe/Ukraine/City/Kiew.personal.md) 
-- [Kiew.secret](../../../../../../_secret/geo/Continent/Europe/Ukraine/City/Kiew.secret.md) 

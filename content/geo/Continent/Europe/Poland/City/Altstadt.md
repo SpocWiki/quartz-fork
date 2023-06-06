@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Altstadt](../../../../../../_public/geo/Continent/Europe/Poland/City/Altstadt.md) 
-- [Altstadt.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Altstadt.internal.md) 
-- [Altstadt.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Altstadt.protect.md) 
-- [Altstadt.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Altstadt.private.md) 
-- [Altstadt.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Altstadt.personal.md) 
-- [Altstadt.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Altstadt.secret.md) 

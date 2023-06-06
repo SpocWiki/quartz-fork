@@ -29,11 +29,3 @@ title: Adhara
 
 
 
-## Confidential Links & Embeds: 
-- [Adhara](../../../_public/astro/Star/Adhara.md) 
-- [Adhara.internal](../../../_internal/astro/Star/Adhara.internal.md) 
-- [Adhara.protect](../../../_protect/astro/Star/Adhara.protect.md) 
-- [Adhara.private](../../../_private/astro/Star/Adhara.private.md) 
-- [Adhara.personal](../../../_personal/astro/Star/Adhara.personal.md) 
-- [Adhara.secret](../../../_secret/astro/Star/Adhara.secret.md)
-

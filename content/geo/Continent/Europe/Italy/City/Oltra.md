@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oltra](../../../../../../_public/geo/Continent/Europe/Italy/City/Oltra.md) 
-- [Oltra.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Oltra.internal.md) 
-- [Oltra.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Oltra.protect.md) 
-- [Oltra.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Oltra.private.md) 
-- [Oltra.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Oltra.personal.md) 
-- [Oltra.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Oltra.secret.md) 

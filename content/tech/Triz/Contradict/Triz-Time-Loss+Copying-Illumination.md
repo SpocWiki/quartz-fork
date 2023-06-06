@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Copying-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Copying-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.md) 
-- [Triz-Time-Loss+Copying-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.internal.md) 
-- [Triz-Time-Loss+Copying-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.protect.md) 
-- [Triz-Time-Loss+Copying-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.private.md) 
-- [Triz-Time-Loss+Copying-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.personal.md) 
-- [Triz-Time-Loss+Copying-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Copying-Illumination.secret.md) 

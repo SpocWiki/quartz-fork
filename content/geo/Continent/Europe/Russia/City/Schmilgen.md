@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schmilgen](../../../../../../_public/geo/Continent/Europe/Russia/City/Schmilgen.md) 
-- [Schmilgen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Schmilgen.internal.md) 
-- [Schmilgen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Schmilgen.protect.md) 
-- [Schmilgen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Schmilgen.private.md) 
-- [Schmilgen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Schmilgen.personal.md) 
-- [Schmilgen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Schmilgen.secret.md) 

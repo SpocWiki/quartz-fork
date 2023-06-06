@@ -45,10 +45,3 @@ A diet exclusive of animal meat.
 
 
 
-## Confidential Links & Embeds: 
-- [vegetarian_diet](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.md) 
-- [vegetarian_diet.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.internal.md) 
-- [vegetarian_diet.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.protect.md) 
-- [vegetarian_diet.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.private.md) 
-- [vegetarian_diet.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.personal.md) 
-- [vegetarian_diet.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.secret.md) 

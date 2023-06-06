@@ -38,10 +38,3 @@ title: Praseodymium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Praseodymium)
 
-## Confidential Links & Embeds: 
-- [Praseodymium](../../../../_public/chemic/Elements/Lanthanide-Group/Praseodymium.md) 
-- [Praseodymium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Praseodymium.internal.md) 
-- [Praseodymium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Praseodymium.protect.md) 
-- [Praseodymium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Praseodymium.private.md) 
-- [Praseodymium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Praseodymium.personal.md) 
-- [Praseodymium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Praseodymium.secret.md) 

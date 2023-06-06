@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hannover~Oldenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.md) 
-- [Hannover~Oldenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.internal.md) 
-- [Hannover~Oldenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.protect.md) 
-- [Hannover~Oldenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.private.md) 
-- [Hannover~Oldenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.personal.md) 
-- [Hannover~Oldenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hannover~Oldenburg.secret.md) 

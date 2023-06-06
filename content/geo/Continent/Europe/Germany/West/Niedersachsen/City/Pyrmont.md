@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pyrmont](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Pyrmont.md) 
-- [Pyrmont.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Pyrmont.internal.md) 
-- [Pyrmont.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Pyrmont.protect.md) 
-- [Pyrmont.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Pyrmont.private.md) 
-- [Pyrmont.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Pyrmont.personal.md) 
-- [Pyrmont.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Pyrmont.secret.md) 

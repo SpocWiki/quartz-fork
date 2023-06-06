@@ -45,10 +45,3 @@ The airline boards by groups based on check-in time, priority, etc.
 
 
 
-## Confidential Links & Embeds: 
-- [group_boarding_policy](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.md) 
-- [group_boarding_policy.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.internal.md) 
-- [group_boarding_policy.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.protect.md) 
-- [group_boarding_policy.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.private.md) 
-- [group_boarding_policy.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.personal.md) 
-- [group_boarding_policy.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuivastu](../../../../../../_public/geo/Continent/Europe/Russia/City/Kuivastu.md) 
-- [Kuivastu.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kuivastu.internal.md) 
-- [Kuivastu.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kuivastu.protect.md) 
-- [Kuivastu.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kuivastu.private.md) 
-- [Kuivastu.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kuivastu.personal.md) 
-- [Kuivastu.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kuivastu.secret.md) 

@@ -124,7 +124,7 @@ markerFolder: ./Chad/City
 
 ![350](geo/Continent/Africa/Chad/Coat_of_arms_of_Chad.svg)
 
-![Anthem-Chad](xLarge/National-Anthem/Anthem-Chad.mp3)
+[Anthem-Chad](xLarge/National-Anthem/Anthem-Chad.mp3)
 
 ![350](geo/Continent/Africa/Chad/Flag_of_Chad.svg)
 
@@ -135,10 +135,3 @@ markerFolder: ./Chad/City
 
 
 
-## Confidential Links & Embeds: 
-- [Chad](../../../../_public/geo/Continent/Africa/Chad.md) 
-- [Chad.internal](../../../../_internal/geo/Continent/Africa/Chad.internal.md) 
-- [Chad.protect](../../../../_protect/geo/Continent/Africa/Chad.protect.md) 
-- [Chad.private](../../../../_private/geo/Continent/Africa/Chad.private.md) 
-- [Chad.personal](../../../../_personal/geo/Continent/Africa/Chad.personal.md) 
-- [Chad.secret](../../../../_secret/geo/Continent/Africa/Chad.secret.md) 

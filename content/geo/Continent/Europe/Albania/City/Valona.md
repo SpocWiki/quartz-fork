@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valona](../../../../../../_public/geo/Continent/Europe/Albania/City/Valona.md) 
-- [Valona.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Valona.internal.md) 
-- [Valona.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Valona.protect.md) 
-- [Valona.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Valona.private.md) 
-- [Valona.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Valona.personal.md) 
-- [Valona.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Valona.secret.md) 

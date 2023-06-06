@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Porto_Maurizio](../../../../../../_public/geo/Continent/Europe/Italy/City/Porto_Maurizio.md) 
-- [Porto_Maurizio.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Porto_Maurizio.internal.md) 
-- [Porto_Maurizio.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Porto_Maurizio.protect.md) 
-- [Porto_Maurizio.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Porto_Maurizio.private.md) 
-- [Porto_Maurizio.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Porto_Maurizio.personal.md) 
-- [Porto_Maurizio.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Porto_Maurizio.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pretzschendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pretzschendorf.md) 
-- [Pretzschendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pretzschendorf.internal.md) 
-- [Pretzschendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pretzschendorf.protect.md) 
-- [Pretzschendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pretzschendorf.private.md) 
-- [Pretzschendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pretzschendorf.personal.md) 
-- [Pretzschendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pretzschendorf.secret.md) 

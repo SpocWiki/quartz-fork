@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aiguesmorth](../../../../../../_public/geo/Continent/Europe/France/City/Aiguesmorth.md) 
-- [Aiguesmorth.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Aiguesmorth.internal.md) 
-- [Aiguesmorth.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Aiguesmorth.protect.md) 
-- [Aiguesmorth.private](../../../../../../_private/geo/Continent/Europe/France/City/Aiguesmorth.private.md) 
-- [Aiguesmorth.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Aiguesmorth.personal.md) 
-- [Aiguesmorth.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Aiguesmorth.secret.md) 

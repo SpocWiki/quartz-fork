@@ -48,10 +48,3 @@ A CovidTestingFacility is a <a class="localLink" href="/MedicalClinic">MedicalCl
 
 
 
-## Confidential Links & Embeds: 
-- [covid_testing_facility](../../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.md) 
-- [covid_testing_facility.internal](../../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.internal.md) 
-- [covid_testing_facility.protect](../../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.protect.md) 
-- [covid_testing_facility.private](../../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.private.md) 
-- [covid_testing_facility.personal](../../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.personal.md) 
-- [covid_testing_facility.secret](../../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.secret.md) 

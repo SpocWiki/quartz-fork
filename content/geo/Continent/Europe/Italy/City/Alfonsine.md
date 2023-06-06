@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alfonsine](../../../../../../_public/geo/Continent/Europe/Italy/City/Alfonsine.md) 
-- [Alfonsine.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Alfonsine.internal.md) 
-- [Alfonsine.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Alfonsine.protect.md) 
-- [Alfonsine.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Alfonsine.private.md) 
-- [Alfonsine.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Alfonsine.personal.md) 
-- [Alfonsine.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Alfonsine.secret.md) 

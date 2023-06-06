@@ -122,7 +122,7 @@ markerFolder: ./Slovakia/City
 [Capital::[Bratislava](geo/Continent/Europe/Slovakia/City/Bratislava.md)]
 ![350](geo/Continent/Europe/Slovakia/Coat_of_arms_of_Slovakia.svg)
 
-![Anthem-Slovak-republic](xLarge/National-Anthem/Anthem-Slovak-republic.mp3)
+[Anthem-Slovak-republic](xLarge/National-Anthem/Anthem-Slovak-republic.mp3)
 
 ![350](geo/Continent/Europe/Slovakia/Flag_of_Slovakia.svg)
 [Alcohol-l::13.3]
@@ -132,10 +132,3 @@ markerFolder: ./Slovakia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Slovakia](../../../../_public/geo/Continent/Europe/Slovakia.md) 
-- [Slovakia.internal](../../../../_internal/geo/Continent/Europe/Slovakia.internal.md) 
-- [Slovakia.protect](../../../../_protect/geo/Continent/Europe/Slovakia.protect.md) 
-- [Slovakia.private](../../../../_private/geo/Continent/Europe/Slovakia.private.md) 
-- [Slovakia.personal](../../../../_personal/geo/Continent/Europe/Slovakia.personal.md) 
-- [Slovakia.secret](../../../../_secret/geo/Continent/Europe/Slovakia.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Surrey_Quays](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Surrey_Quays.md) 
-- [Sub-Surrey_Quays.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Surrey_Quays.internal.md) 
-- [Sub-Surrey_Quays.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Surrey_Quays.protect.md) 
-- [Sub-Surrey_Quays.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Surrey_Quays.private.md) 
-- [Sub-Surrey_Quays.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Surrey_Quays.personal.md) 
-- [Sub-Surrey_Quays.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Surrey_Quays.secret.md) 

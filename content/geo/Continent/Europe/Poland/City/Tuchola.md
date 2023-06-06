@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tuchola](../../../../../../_public/geo/Continent/Europe/Poland/City/Tuchola.md) 
-- [Tuchola.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Tuchola.internal.md) 
-- [Tuchola.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Tuchola.protect.md) 
-- [Tuchola.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Tuchola.private.md) 
-- [Tuchola.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Tuchola.personal.md) 
-- [Tuchola.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Tuchola.secret.md) 

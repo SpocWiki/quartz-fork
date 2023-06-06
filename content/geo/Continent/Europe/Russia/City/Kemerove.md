@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kemerove](../../../../../../_public/geo/Continent/Europe/Russia/City/Kemerove.md) 
-- [Kemerove.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kemerove.internal.md) 
-- [Kemerove.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kemerove.protect.md) 
-- [Kemerove.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kemerove.private.md) 
-- [Kemerove.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kemerove.personal.md) 
-- [Kemerove.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kemerove.secret.md) 

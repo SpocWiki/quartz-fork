@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Aquarii-171](../../../_public/astro/Star/Aquarii-171.md) 
-- [Aquarii-171.internal](../../../_internal/astro/Star/Aquarii-171.internal.md) 
-- [Aquarii-171.protect](../../../_protect/astro/Star/Aquarii-171.protect.md) 
-- [Aquarii-171.private](../../../_private/astro/Star/Aquarii-171.private.md) 
-- [Aquarii-171.personal](../../../_personal/astro/Star/Aquarii-171.personal.md) 
-- [Aquarii-171.secret](../../../_secret/astro/Star/Aquarii-171.secret.md)
-

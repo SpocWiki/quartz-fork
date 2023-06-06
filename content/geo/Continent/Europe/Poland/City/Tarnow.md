@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tarnow](../../../../../../_public/geo/Continent/Europe/Poland/City/Tarnow.md) 
-- [Tarnow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Tarnow.internal.md) 
-- [Tarnow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Tarnow.protect.md) 
-- [Tarnow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Tarnow.private.md) 
-- [Tarnow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Tarnow.personal.md) 
-- [Tarnow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Tarnow.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Power+Inversion-stationary_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Inversion-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-Power+Inversion-stationary_Area.md) 
-- [Triz-Power+Inversion-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Inversion-stationary_Area.internal.md) 
-- [Triz-Power+Inversion-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Inversion-stationary_Area.protect.md) 
-- [Triz-Power+Inversion-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Inversion-stationary_Area.private.md) 
-- [Triz-Power+Inversion-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Inversion-stationary_Area.personal.md) 
-- [Triz-Power+Inversion-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Inversion-stationary_Area.secret.md) 

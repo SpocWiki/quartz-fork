@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Voelklingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.md) 
-- [Voelklingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.internal.md) 
-- [Voelklingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.protect.md) 
-- [Voelklingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.private.md) 
-- [Voelklingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.personal.md) 
-- [Voelklingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Voelklingen.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Copying-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Copying-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.md) 
-- [Triz-Manufacturing_Precision+Copying-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.internal.md) 
-- [Triz-Manufacturing_Precision+Copying-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.protect.md) 
-- [Triz-Manufacturing_Precision+Copying-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.private.md) 
-- [Triz-Manufacturing_Precision+Copying-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.personal.md) 
-- [Triz-Manufacturing_Precision+Copying-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Copying-Time-Loss.secret.md) 

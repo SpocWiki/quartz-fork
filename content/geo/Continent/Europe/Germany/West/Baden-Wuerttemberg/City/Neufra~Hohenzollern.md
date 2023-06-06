@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neufra~Hohenzollern](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.md) 
-- [Neufra~Hohenzollern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.internal.md) 
-- [Neufra~Hohenzollern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.protect.md) 
-- [Neufra~Hohenzollern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.private.md) 
-- [Neufra~Hohenzollern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.personal.md) 
-- [Neufra~Hohenzollern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Neufra~Hohenzollern.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoenlanke](../../../../../../_public/geo/Continent/Europe/Poland/City/Schoenlanke.md) 
-- [Schoenlanke.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenlanke.internal.md) 
-- [Schoenlanke.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenlanke.protect.md) 
-- [Schoenlanke.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenlanke.private.md) 
-- [Schoenlanke.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenlanke.personal.md) 
-- [Schoenlanke.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenlanke.secret.md) 

@@ -33,10 +33,3 @@ SpocWebEntityId: 21969
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tantalum)
 
-## Confidential Links & Embeds: 
-- [Tantalum](../../../../_public/chemic/Elements/Group-05-Vanadium/Tantalum.md) 
-- [Tantalum.internal](../../../../_internal/chemic/Elements/Group-05-Vanadium/Tantalum.internal.md) 
-- [Tantalum.protect](../../../../_protect/chemic/Elements/Group-05-Vanadium/Tantalum.protect.md) 
-- [Tantalum.private](../../../../_private/chemic/Elements/Group-05-Vanadium/Tantalum.private.md) 
-- [Tantalum.personal](../../../../_personal/chemic/Elements/Group-05-Vanadium/Tantalum.personal.md) 
-- [Tantalum.secret](../../../../_secret/chemic/Elements/Group-05-Vanadium/Tantalum.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kansk](../../../../../../_public/geo/Continent/Europe/Russia/City/Kansk.md) 
-- [Kansk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kansk.internal.md) 
-- [Kansk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kansk.protect.md) 
-- [Kansk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kansk.private.md) 
-- [Kansk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kansk.personal.md) 
-- [Kansk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kansk.secret.md) 

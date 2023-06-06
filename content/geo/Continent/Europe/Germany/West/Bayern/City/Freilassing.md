@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freilassing](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Freilassing.md) 
-- [Freilassing.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Freilassing.internal.md) 
-- [Freilassing.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Freilassing.protect.md) 
-- [Freilassing.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Freilassing.private.md) 
-- [Freilassing.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Freilassing.personal.md) 
-- [Freilassing.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Freilassing.secret.md) 

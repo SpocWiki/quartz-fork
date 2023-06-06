@@ -123,7 +123,7 @@ markerFolder: ./Equatorial_Guinea/City
 
 ![350](geo/Continent/Africa/Guinea/Coat_of_arms_of_Guinea.svg)
 
-![Anthem-Guinea](xLarge/National-Anthem/Anthem-Guinea.mp3)
+[Anthem-Guinea](xLarge/National-Anthem/Anthem-Guinea.mp3)
 
 ![350](geo/Continent/Africa/Guinea/Flag_of_Guinea.svg)
 [Alcohol-l::6.1]
@@ -133,10 +133,3 @@ markerFolder: ./Equatorial_Guinea/City
 
 
 
-## Confidential Links & Embeds: 
-- [Equatorial_Guinea](../../../../_public/geo/Continent/Africa/Equatorial_Guinea.md) 
-- [Equatorial_Guinea.internal](../../../../_internal/geo/Continent/Africa/Equatorial_Guinea.internal.md) 
-- [Equatorial_Guinea.protect](../../../../_protect/geo/Continent/Africa/Equatorial_Guinea.protect.md) 
-- [Equatorial_Guinea.private](../../../../_private/geo/Continent/Africa/Equatorial_Guinea.private.md) 
-- [Equatorial_Guinea.personal](../../../../_personal/geo/Continent/Africa/Equatorial_Guinea.personal.md) 
-- [Equatorial_Guinea.secret](../../../../_secret/geo/Continent/Africa/Equatorial_Guinea.secret.md) 

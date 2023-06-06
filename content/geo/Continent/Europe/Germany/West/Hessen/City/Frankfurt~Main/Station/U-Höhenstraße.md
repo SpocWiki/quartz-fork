@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Höhenstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-H%C3%B6henstra%C3%9Fe.md) 
-- [U-Höhenstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-H%C3%B6henstra%C3%9Fe.internal.md) 
-- [U-Höhenstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-H%C3%B6henstra%C3%9Fe.protect.md) 
-- [U-Höhenstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-H%C3%B6henstra%C3%9Fe.private.md) 
-- [U-Höhenstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-H%C3%B6henstra%C3%9Fe.personal.md) 
-- [U-Höhenstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-H%C3%B6henstra%C3%9Fe.secret.md) 

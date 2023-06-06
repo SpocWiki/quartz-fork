@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rosbach~Siegburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.md) 
-- [Rosbach~Siegburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.internal.md) 
-- [Rosbach~Siegburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.protect.md) 
-- [Rosbach~Siegburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.private.md) 
-- [Rosbach~Siegburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.personal.md) 
-- [Rosbach~Siegburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Rosbach~Siegburg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Banska_Stiavnica](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Banska_Stiavnica.md) 
-- [Banska_Stiavnica.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Banska_Stiavnica.internal.md) 
-- [Banska_Stiavnica.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Banska_Stiavnica.protect.md) 
-- [Banska_Stiavnica.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Banska_Stiavnica.private.md) 
-- [Banska_Stiavnica.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Banska_Stiavnica.personal.md) 
-- [Banska_Stiavnica.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Banska_Stiavnica.secret.md) 

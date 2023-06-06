@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mecheln](../../../../../../_public/geo/Continent/Europe/Belgium/City/Mecheln.md) 
-- [Mecheln.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Mecheln.internal.md) 
-- [Mecheln.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Mecheln.protect.md) 
-- [Mecheln.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Mecheln.private.md) 
-- [Mecheln.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Mecheln.personal.md) 
-- [Mecheln.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Mecheln.secret.md) 

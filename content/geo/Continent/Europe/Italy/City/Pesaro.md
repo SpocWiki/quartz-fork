@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pesaro](../../../../../../_public/geo/Continent/Europe/Italy/City/Pesaro.md) 
-- [Pesaro.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pesaro.internal.md) 
-- [Pesaro.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pesaro.protect.md) 
-- [Pesaro.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pesaro.private.md) 
-- [Pesaro.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pesaro.personal.md) 
-- [Pesaro.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pesaro.secret.md) 

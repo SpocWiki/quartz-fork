@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Greene](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greene.md) 
-- [Greene.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greene.internal.md) 
-- [Greene.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greene.protect.md) 
-- [Greene.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greene.private.md) 
-- [Greene.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greene.personal.md) 
-- [Greene.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Greene.secret.md) 

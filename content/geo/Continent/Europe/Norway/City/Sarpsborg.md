@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sarpsborg](../../../../../../_public/geo/Continent/Europe/Norway/City/Sarpsborg.md) 
-- [Sarpsborg.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Sarpsborg.internal.md) 
-- [Sarpsborg.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Sarpsborg.protect.md) 
-- [Sarpsborg.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Sarpsborg.private.md) 
-- [Sarpsborg.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Sarpsborg.personal.md) 
-- [Sarpsborg.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Sarpsborg.secret.md) 

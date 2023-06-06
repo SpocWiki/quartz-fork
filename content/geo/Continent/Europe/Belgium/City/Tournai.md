@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tournai](../../../../../../_public/geo/Continent/Europe/Belgium/City/Tournai.md) 
-- [Tournai.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Tournai.internal.md) 
-- [Tournai.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Tournai.protect.md) 
-- [Tournai.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Tournai.private.md) 
-- [Tournai.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Tournai.personal.md) 
-- [Tournai.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Tournai.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kremmen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kremmen.md) 
-- [Kremmen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kremmen.internal.md) 
-- [Kremmen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kremmen.protect.md) 
-- [Kremmen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kremmen.private.md) 
-- [Kremmen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kremmen.personal.md) 
-- [Kremmen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kremmen.secret.md) 

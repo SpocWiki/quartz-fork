@@ -19,10 +19,3 @@ title: Triz-Automation+Inversion-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Inversion-Shape](../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.md) 
-- [Triz-Automation+Inversion-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.internal.md) 
-- [Triz-Automation+Inversion-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.protect.md) 
-- [Triz-Automation+Inversion-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.private.md) 
-- [Triz-Automation+Inversion-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.personal.md) 
-- [Triz-Automation+Inversion-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Inversion-Shape.secret.md) 

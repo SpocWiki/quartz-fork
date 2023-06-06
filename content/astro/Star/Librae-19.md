@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Librae-19](../../../_public/astro/Star/Librae-19.md) 
-- [Librae-19.internal](../../../_internal/astro/Star/Librae-19.internal.md) 
-- [Librae-19.protect](../../../_protect/astro/Star/Librae-19.protect.md) 
-- [Librae-19.private](../../../_private/astro/Star/Librae-19.private.md) 
-- [Librae-19.personal](../../../_personal/astro/Star/Librae-19.personal.md) 
-- [Librae-19.secret](../../../_secret/astro/Star/Librae-19.secret.md) 

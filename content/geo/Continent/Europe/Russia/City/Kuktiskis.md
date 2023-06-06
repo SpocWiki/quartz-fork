@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuktiskis](../../../../../../_public/geo/Continent/Europe/Russia/City/Kuktiskis.md) 
-- [Kuktiskis.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kuktiskis.internal.md) 
-- [Kuktiskis.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kuktiskis.protect.md) 
-- [Kuktiskis.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kuktiskis.private.md) 
-- [Kuktiskis.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kuktiskis.personal.md) 
-- [Kuktiskis.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kuktiskis.secret.md) 

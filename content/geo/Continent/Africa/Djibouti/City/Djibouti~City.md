@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Djibouti~City](../../../../../../_public/geo/Continent/Africa/Djibouti/City/Djibouti~City.md) 
-- [Djibouti~City.internal](../../../../../../_internal/geo/Continent/Africa/Djibouti/City/Djibouti~City.internal.md) 
-- [Djibouti~City.protect](../../../../../../_protect/geo/Continent/Africa/Djibouti/City/Djibouti~City.protect.md) 
-- [Djibouti~City.private](../../../../../../_private/geo/Continent/Africa/Djibouti/City/Djibouti~City.private.md) 
-- [Djibouti~City.personal](../../../../../../_personal/geo/Continent/Africa/Djibouti/City/Djibouti~City.personal.md) 
-- [Djibouti~City.secret](../../../../../../_secret/geo/Continent/Africa/Djibouti/City/Djibouti~City.secret.md) 

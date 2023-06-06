@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Prior_action-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Prior_action-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Quantity.md) 
-- [Triz-Substance-Loss+Prior_action-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Quantity.internal.md) 
-- [Triz-Substance-Loss+Prior_action-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Quantity.protect.md) 
-- [Triz-Substance-Loss+Prior_action-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Quantity.private.md) 
-- [Triz-Substance-Loss+Prior_action-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Quantity.personal.md) 
-- [Triz-Substance-Loss+Prior_action-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Quantity.secret.md) 

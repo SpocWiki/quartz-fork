@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Equipotentiality-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Equipotentiality-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.internal.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.protect.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.private.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.personal.md) 
-- [Triz-Ease_of_operation+Equipotentiality-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Equipotentiality-Quantity.secret.md) 

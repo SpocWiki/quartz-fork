@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tortosa](../../../../../../_public/geo/Continent/Europe/Spain/City/Tortosa.md) 
-- [Tortosa.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Tortosa.internal.md) 
-- [Tortosa.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Tortosa.protect.md) 
-- [Tortosa.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Tortosa.private.md) 
-- [Tortosa.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Tortosa.personal.md) 
-- [Tortosa.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Tortosa.secret.md) 

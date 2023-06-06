@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hooglede](../../../../../../_public/geo/Continent/Europe/Belgium/City/Hooglede.md) 
-- [Hooglede.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Hooglede.internal.md) 
-- [Hooglede.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Hooglede.protect.md) 
-- [Hooglede.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Hooglede.private.md) 
-- [Hooglede.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Hooglede.personal.md) 
-- [Hooglede.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Hooglede.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chichester](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Chichester.md) 
-- [Chichester.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chichester.internal.md) 
-- [Chichester.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chichester.protect.md) 
-- [Chichester.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chichester.private.md) 
-- [Chichester.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chichester.personal.md) 
-- [Chichester.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chichester.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kronsburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.md) 
-- [Kronsburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.internal.md) 
-- [Kronsburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.protect.md) 
-- [Kronsburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.private.md) 
-- [Kronsburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.personal.md) 
-- [Kronsburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Kronsburg.secret.md) 

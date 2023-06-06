@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Doullens](../../../../../../_public/geo/Continent/Europe/France/City/Doullens.md) 
-- [Doullens.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Doullens.internal.md) 
-- [Doullens.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Doullens.protect.md) 
-- [Doullens.private](../../../../../../_private/geo/Continent/Europe/France/City/Doullens.private.md) 
-- [Doullens.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Doullens.personal.md) 
-- [Doullens.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Doullens.secret.md) 

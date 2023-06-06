@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frederiksstad](../../../../../../_public/geo/Continent/Europe/Norway/City/Frederiksstad.md) 
-- [Frederiksstad.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Frederiksstad.internal.md) 
-- [Frederiksstad.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Frederiksstad.protect.md) 
-- [Frederiksstad.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Frederiksstad.private.md) 
-- [Frederiksstad.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Frederiksstad.personal.md) 
-- [Frederiksstad.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Frederiksstad.secret.md) 

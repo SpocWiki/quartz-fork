@@ -18,10 +18,3 @@ title: Triz-change-temperature
 Change the temperature.
 
 
-## Confidential Links & Embeds: 
-- [Triz-change-temperature](../../../../_public/tech/Triz/Sub/Triz-change-temperature.md) 
-- [Triz-change-temperature.internal](../../../../_internal/tech/Triz/Sub/Triz-change-temperature.internal.md) 
-- [Triz-change-temperature.protect](../../../../_protect/tech/Triz/Sub/Triz-change-temperature.protect.md) 
-- [Triz-change-temperature.private](../../../../_private/tech/Triz/Sub/Triz-change-temperature.private.md) 
-- [Triz-change-temperature.personal](../../../../_personal/tech/Triz/Sub/Triz-change-temperature.personal.md) 
-- [Triz-change-temperature.secret](../../../../_secret/tech/Triz/Sub/Triz-change-temperature.secret.md) 

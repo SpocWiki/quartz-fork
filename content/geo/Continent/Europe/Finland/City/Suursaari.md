@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suursaari](../../../../../../_public/geo/Continent/Europe/Finland/City/Suursaari.md) 
-- [Suursaari.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Suursaari.internal.md) 
-- [Suursaari.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Suursaari.protect.md) 
-- [Suursaari.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Suursaari.private.md) 
-- [Suursaari.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Suursaari.personal.md) 
-- [Suursaari.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Suursaari.secret.md) 

@@ -45,10 +45,3 @@ X-ray computed tomography imaging.
 
 
 
-## Confidential Links & Embeds: 
-- [ct](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.md) 
-- [ct.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.internal.md) 
-- [ct.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.protect.md) 
-- [ct.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.private.md) 
-- [ct.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.personal.md) 
-- [ct.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.secret.md) 

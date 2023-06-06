@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tammisaari](../../../../../../_public/geo/Continent/Europe/Finland/City/Tammisaari.md) 
-- [Tammisaari.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Tammisaari.internal.md) 
-- [Tammisaari.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Tammisaari.protect.md) 
-- [Tammisaari.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Tammisaari.private.md) 
-- [Tammisaari.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Tammisaari.personal.md) 
-- [Tammisaari.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Tammisaari.secret.md) 

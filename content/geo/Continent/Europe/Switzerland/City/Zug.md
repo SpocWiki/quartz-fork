@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zug](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zug.md) 
-- [Zug.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zug.internal.md) 
-- [Zug.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zug.protect.md) 
-- [Zug.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zug.private.md) 
-- [Zug.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zug.personal.md) 
-- [Zug.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zug.secret.md) 

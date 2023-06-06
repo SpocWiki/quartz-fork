@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Prior_action-moving_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Prior_action-moving_Volume](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-moving_Volume.md) 
-- [Triz-Time-Loss+Prior_action-moving_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-moving_Volume.internal.md) 
-- [Triz-Time-Loss+Prior_action-moving_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-moving_Volume.protect.md) 
-- [Triz-Time-Loss+Prior_action-moving_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-moving_Volume.private.md) 
-- [Triz-Time-Loss+Prior_action-moving_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-moving_Volume.personal.md) 
-- [Triz-Time-Loss+Prior_action-moving_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Prior_action-moving_Volume.secret.md) 

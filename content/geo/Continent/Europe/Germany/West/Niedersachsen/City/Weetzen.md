@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weetzen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.md) 
-- [Weetzen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.internal.md) 
-- [Weetzen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.protect.md) 
-- [Weetzen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.private.md) 
-- [Weetzen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.personal.md) 
-- [Weetzen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Weetzen.secret.md) 

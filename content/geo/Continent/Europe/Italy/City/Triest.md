@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Triest](../../../../../../_public/geo/Continent/Europe/Italy/City/Triest.md) 
-- [Triest.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Triest.internal.md) 
-- [Triest.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Triest.protect.md) 
-- [Triest.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Triest.private.md) 
-- [Triest.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Triest.personal.md) 
-- [Triest.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Triest.secret.md) 

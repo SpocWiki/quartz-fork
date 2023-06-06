@@ -19,10 +19,3 @@ title: Triz-10307+22222-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22222-Complexity](../../../../_public/tech/Triz/Contradict/Triz-10307+22222-Complexity.md) 
-- [Triz-10307+22222-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22222-Complexity.internal.md) 
-- [Triz-10307+22222-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22222-Complexity.protect.md) 
-- [Triz-10307+22222-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22222-Complexity.private.md) 
-- [Triz-10307+22222-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22222-Complexity.personal.md) 
-- [Triz-10307+22222-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22222-Complexity.secret.md) 

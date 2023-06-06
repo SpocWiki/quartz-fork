@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mirande](../../../../../../_public/geo/Continent/Europe/France/City/Mirande.md) 
-- [Mirande.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Mirande.internal.md) 
-- [Mirande.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Mirande.protect.md) 
-- [Mirande.private](../../../../../../_private/geo/Continent/Europe/France/City/Mirande.private.md) 
-- [Mirande.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Mirande.personal.md) 
-- [Mirande.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Mirande.secret.md) 

@@ -45,10 +45,3 @@ A specific branch of medical science that deals with the evaluation and initial 
 
 
 
-## Confidential Links & Embeds: 
-- [emergency](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.md) 
-- [emergency.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.internal.md) 
-- [emergency.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.protect.md) 
-- [emergency.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.private.md) 
-- [emergency.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.personal.md) 
-- [emergency.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.secret.md) 

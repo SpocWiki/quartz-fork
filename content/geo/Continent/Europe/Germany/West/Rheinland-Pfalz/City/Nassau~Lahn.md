@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nassau~Lahn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nassau~Lahn.md) 
-- [Nassau~Lahn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nassau~Lahn.internal.md) 
-- [Nassau~Lahn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nassau~Lahn.protect.md) 
-- [Nassau~Lahn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nassau~Lahn.private.md) 
-- [Nassau~Lahn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nassau~Lahn.personal.md) 
-- [Nassau~Lahn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Nassau~Lahn.secret.md) 

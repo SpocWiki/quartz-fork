@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Universitätsklinikum](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Universit%C3%A4tsklinikum.md) 
-- [T-Universitätsklinikum.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Universit%C3%A4tsklinikum.internal.md) 
-- [T-Universitätsklinikum.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Universit%C3%A4tsklinikum.protect.md) 
-- [T-Universitätsklinikum.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Universit%C3%A4tsklinikum.private.md) 
-- [T-Universitätsklinikum.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Universit%C3%A4tsklinikum.personal.md) 
-- [T-Universitätsklinikum.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Universit%C3%A4tsklinikum.secret.md) 

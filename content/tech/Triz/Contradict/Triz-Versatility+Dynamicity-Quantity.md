@@ -19,10 +19,3 @@ title: Triz-Versatility+Dynamicity-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Dynamicity-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Quantity.md) 
-- [Triz-Versatility+Dynamicity-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Quantity.internal.md) 
-- [Triz-Versatility+Dynamicity-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Quantity.protect.md) 
-- [Triz-Versatility+Dynamicity-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Quantity.private.md) 
-- [Triz-Versatility+Dynamicity-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Quantity.personal.md) 
-- [Triz-Versatility+Dynamicity-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Quantity.secret.md) 

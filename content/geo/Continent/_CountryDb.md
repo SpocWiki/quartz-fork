@@ -446,10 +446,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_CountryDb](../../../_public/geo/Continent/_CountryDb.md) 
-- [_CountryDb.internal](../../../_internal/geo/Continent/_CountryDb.internal.md) 
-- [_CountryDb.protect](../../../_protect/geo/Continent/_CountryDb.protect.md) 
-- [_CountryDb.private](../../../_private/geo/Continent/_CountryDb.private.md) 
-- [_CountryDb.personal](../../../_personal/geo/Continent/_CountryDb.personal.md) 
-- [_CountryDb.secret](../../../_secret/geo/Continent/_CountryDb.secret.md) 

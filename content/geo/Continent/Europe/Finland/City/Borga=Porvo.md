@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borga=Porvo](../../../../../../_public/geo/Continent/Europe/Finland/City/Borga=Porvo.md) 
-- [Borga=Porvo.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Borga=Porvo.internal.md) 
-- [Borga=Porvo.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Borga=Porvo.protect.md) 
-- [Borga=Porvo.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Borga=Porvo.private.md) 
-- [Borga=Porvo.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Borga=Porvo.personal.md) 
-- [Borga=Porvo.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Borga=Porvo.secret.md) 

@@ -121,7 +121,7 @@ markerFolder: ./Jordan/City
 [VehicleCode::JOR]
 [Capital::[Amman](geo/Continent/Asia/Jordan/City/Amman.md)]
 ![350](geo/Continent/Asia/Jordan/Coat_of_arms_of_Jordan.svg)
-![Anthem-Jordan](xLarge/National-Anthem/Anthem-Jordan.mp3)
+[Anthem-Jordan](xLarge/National-Anthem/Anthem-Jordan.mp3)
 ![350](geo/Continent/Asia/Jordan/Flag_of_Jordan.svg)
 [Alcohol-l::0.7]
 [Language-Id::472]
@@ -130,10 +130,3 @@ markerFolder: ./Jordan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Jordan](../../../../_public/geo/Continent/Asia/Jordan.md) 
-- [Jordan.internal](../../../../_internal/geo/Continent/Asia/Jordan.internal.md) 
-- [Jordan.protect](../../../../_protect/geo/Continent/Asia/Jordan.protect.md) 
-- [Jordan.private](../../../../_private/geo/Continent/Asia/Jordan.private.md) 
-- [Jordan.personal](../../../../_personal/geo/Continent/Asia/Jordan.personal.md) 
-- [Jordan.secret](../../../../_secret/geo/Continent/Asia/Jordan.secret.md) 

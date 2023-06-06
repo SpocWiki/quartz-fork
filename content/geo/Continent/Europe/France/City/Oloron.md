@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oloron](../../../../../../_public/geo/Continent/Europe/France/City/Oloron.md) 
-- [Oloron.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Oloron.internal.md) 
-- [Oloron.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Oloron.protect.md) 
-- [Oloron.private](../../../../../../_private/geo/Continent/Europe/France/City/Oloron.private.md) 
-- [Oloron.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Oloron.personal.md) 
-- [Oloron.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Oloron.secret.md) 

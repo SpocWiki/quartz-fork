@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_objec
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.md) 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.internal.md) 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.protect.md) 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.private.md) 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.personal.md) 
-- [Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Transformation_of_physical_and_chemical_states_of_an_object-stationary_Volume.secret.md) 

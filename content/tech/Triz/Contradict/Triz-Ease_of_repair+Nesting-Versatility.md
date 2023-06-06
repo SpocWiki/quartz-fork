@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Nesting-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Nesting-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Versatility.md) 
-- [Triz-Ease_of_repair+Nesting-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Versatility.internal.md) 
-- [Triz-Ease_of_repair+Nesting-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Versatility.protect.md) 
-- [Triz-Ease_of_repair+Nesting-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Versatility.private.md) 
-- [Triz-Ease_of_repair+Nesting-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Versatility.personal.md) 
-- [Triz-Ease_of_repair+Nesting-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Nesting-Versatility.secret.md) 

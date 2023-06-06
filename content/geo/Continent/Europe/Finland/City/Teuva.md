@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teuva](../../../../../../_public/geo/Continent/Europe/Finland/City/Teuva.md) 
-- [Teuva.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Teuva.internal.md) 
-- [Teuva.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Teuva.protect.md) 
-- [Teuva.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Teuva.private.md) 
-- [Teuva.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Teuva.personal.md) 
-- [Teuva.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Teuva.secret.md) 

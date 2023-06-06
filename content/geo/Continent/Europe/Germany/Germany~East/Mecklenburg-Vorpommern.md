@@ -32,10 +32,3 @@ markerFolder: ./Mecklenburg-Vorpommern/City
 
 
 
-## Confidential Links & Embeds: 
-- [Mecklenburg-Vorpommern](../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern.md) 
-- [Mecklenburg-Vorpommern.internal](../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern.internal.md) 
-- [Mecklenburg-Vorpommern.protect](../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern.protect.md) 
-- [Mecklenburg-Vorpommern.private](../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern.private.md) 
-- [Mecklenburg-Vorpommern.personal](../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern.personal.md) 
-- [Mecklenburg-Vorpommern.secret](../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern.secret.md) 

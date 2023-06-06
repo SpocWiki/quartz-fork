@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Segmentation-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Segmentation-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Segmentation-generated_harm.md) 
-- [Triz-Substance-Loss+Segmentation-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Segmentation-generated_harm.internal.md) 
-- [Triz-Substance-Loss+Segmentation-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Segmentation-generated_harm.protect.md) 
-- [Triz-Substance-Loss+Segmentation-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Segmentation-generated_harm.private.md) 
-- [Triz-Substance-Loss+Segmentation-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Segmentation-generated_harm.personal.md) 
-- [Triz-Substance-Loss+Segmentation-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Segmentation-generated_harm.secret.md) 

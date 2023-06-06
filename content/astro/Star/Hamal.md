@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Hamal](../../../_public/astro/Star/Hamal.md) 
-- [Hamal.internal](../../../_internal/astro/Star/Hamal.internal.md) 
-- [Hamal.protect](../../../_protect/astro/Star/Hamal.protect.md) 
-- [Hamal.private](../../../_private/astro/Star/Hamal.private.md) 
-- [Hamal.personal](../../../_personal/astro/Star/Hamal.personal.md) 
-- [Hamal.secret](../../../_secret/astro/Star/Hamal.secret.md)
-

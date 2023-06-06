@@ -43,10 +43,3 @@ The act of generating a comment about a subject.
 
 
 
-## Confidential Links & Embeds: 
-- [comment_action](../../../../../../../_public/schema.org/Type/is_a_/action/interact_action/communicate_action/comment_action.md) 
-- [comment_action.internal](../../../../../../../_internal/schema.org/Type/is_a_/action/interact_action/communicate_action/comment_action.internal.md) 
-- [comment_action.protect](../../../../../../../_protect/schema.org/Type/is_a_/action/interact_action/communicate_action/comment_action.protect.md) 
-- [comment_action.private](../../../../../../../_private/schema.org/Type/is_a_/action/interact_action/communicate_action/comment_action.private.md) 
-- [comment_action.personal](../../../../../../../_personal/schema.org/Type/is_a_/action/interact_action/communicate_action/comment_action.personal.md) 
-- [comment_action.secret](../../../../../../../_secret/schema.org/Type/is_a_/action/interact_action/communicate_action/comment_action.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vetriano](../../../../../../_public/geo/Continent/Europe/Italy/City/Vetriano.md) 
-- [Vetriano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Vetriano.internal.md) 
-- [Vetriano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Vetriano.protect.md) 
-- [Vetriano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Vetriano.private.md) 
-- [Vetriano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Vetriano.personal.md) 
-- [Vetriano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Vetriano.secret.md) 

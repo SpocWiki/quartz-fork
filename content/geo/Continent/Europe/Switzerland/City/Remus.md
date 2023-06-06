@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Remus](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Remus.md) 
-- [Remus.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Remus.internal.md) 
-- [Remus.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Remus.protect.md) 
-- [Remus.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Remus.private.md) 
-- [Remus.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Remus.personal.md) 
-- [Remus.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Remus.secret.md) 

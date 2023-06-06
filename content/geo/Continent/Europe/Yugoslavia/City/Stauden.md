@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stauden](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Stauden.md) 
-- [Stauden.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Stauden.internal.md) 
-- [Stauden.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Stauden.protect.md) 
-- [Stauden.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Stauden.private.md) 
-- [Stauden.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Stauden.personal.md) 
-- [Stauden.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Stauden.secret.md) 

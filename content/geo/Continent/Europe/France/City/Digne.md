@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Digne](../../../../../../_public/geo/Continent/Europe/France/City/Digne.md) 
-- [Digne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Digne.internal.md) 
-- [Digne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Digne.protect.md) 
-- [Digne.private](../../../../../../_private/geo/Continent/Europe/France/City/Digne.private.md) 
-- [Digne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Digne.personal.md) 
-- [Digne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Digne.secret.md) 

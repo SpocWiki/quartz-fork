@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaczyka](../../../../../../_public/geo/Continent/Europe/Romania/City/Kaczyka.md) 
-- [Kaczyka.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Kaczyka.internal.md) 
-- [Kaczyka.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Kaczyka.protect.md) 
-- [Kaczyka.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Kaczyka.private.md) 
-- [Kaczyka.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Kaczyka.personal.md) 
-- [Kaczyka.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Kaczyka.secret.md) 

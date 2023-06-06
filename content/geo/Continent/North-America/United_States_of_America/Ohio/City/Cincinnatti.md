@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cincinnatti](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Ohio/City/Cincinnatti.md) 
-- [Cincinnatti.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Ohio/City/Cincinnatti.internal.md) 
-- [Cincinnatti.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Ohio/City/Cincinnatti.protect.md) 
-- [Cincinnatti.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Ohio/City/Cincinnatti.private.md) 
-- [Cincinnatti.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Ohio/City/Cincinnatti.personal.md) 
-- [Cincinnatti.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Ohio/City/Cincinnatti.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Speed+Rushing_through-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Rushing_through-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Speed+Rushing_through-generated_harm.md) 
-- [Triz-Speed+Rushing_through-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Rushing_through-generated_harm.internal.md) 
-- [Triz-Speed+Rushing_through-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Rushing_through-generated_harm.protect.md) 
-- [Triz-Speed+Rushing_through-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Rushing_through-generated_harm.private.md) 
-- [Triz-Speed+Rushing_through-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Rushing_through-generated_harm.personal.md) 
-- [Triz-Speed+Rushing_through-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Rushing_through-generated_harm.secret.md) 

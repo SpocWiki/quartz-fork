@@ -19,10 +19,3 @@ title: Triz-Illumination+Segmentation-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Segmentation-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Segmentation-Information-Loss.md) 
-- [Triz-Illumination+Segmentation-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Information-Loss.internal.md) 
-- [Triz-Illumination+Segmentation-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Segmentation-Information-Loss.protect.md) 
-- [Triz-Illumination+Segmentation-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Segmentation-Information-Loss.private.md) 
-- [Triz-Illumination+Segmentation-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Segmentation-Information-Loss.personal.md) 
-- [Triz-Illumination+Segmentation-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Segmentation-Information-Loss.secret.md) 

@@ -49,10 +49,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_legislation_identifier](../../../../_public/schema.org/Predicate/Texts/has_legislation_identifier.md) 
-- [has_legislation_identifier.internal](../../../../_internal/schema.org/Predicate/Texts/has_legislation_identifier.internal.md) 
-- [has_legislation_identifier.protect](../../../../_protect/schema.org/Predicate/Texts/has_legislation_identifier.protect.md) 
-- [has_legislation_identifier.private](../../../../_private/schema.org/Predicate/Texts/has_legislation_identifier.private.md) 
-- [has_legislation_identifier.personal](../../../../_personal/schema.org/Predicate/Texts/has_legislation_identifier.personal.md) 
-- [has_legislation_identifier.secret](../../../../_secret/schema.org/Predicate/Texts/has_legislation_identifier.secret.md) 

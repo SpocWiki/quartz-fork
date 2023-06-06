@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_winner](../../../../../_public/schema.org/Predicate/Relations/has/has_winner.md) 
-- [has_winner.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_winner.internal.md) 
-- [has_winner.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_winner.protect.md) 
-- [has_winner.private](../../../../../_private/schema.org/Predicate/Relations/has/has_winner.private.md) 
-- [has_winner.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_winner.personal.md) 
-- [has_winner.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_winner.secret.md) 

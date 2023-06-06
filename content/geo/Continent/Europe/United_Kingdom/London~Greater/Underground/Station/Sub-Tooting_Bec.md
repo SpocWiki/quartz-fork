@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Tooting_Bec](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.md) 
-- [Sub-Tooting_Bec.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.internal.md) 
-- [Sub-Tooting_Bec.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.protect.md) 
-- [Sub-Tooting_Bec.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.private.md) 
-- [Sub-Tooting_Bec.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.personal.md) 
-- [Sub-Tooting_Bec.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tooting_Bec.secret.md) 

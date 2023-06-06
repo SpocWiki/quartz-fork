@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Deggendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Deggendorf.md) 
-- [Deggendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Deggendorf.internal.md) 
-- [Deggendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Deggendorf.protect.md) 
-- [Deggendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Deggendorf.private.md) 
-- [Deggendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Deggendorf.personal.md) 
-- [Deggendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Deggendorf.secret.md) 

@@ -119,7 +119,7 @@ markerFolder: ./Ireland/City
 [VehicleCode::IRL]
 [Capital::[Dublin](geo/Continent/Europe/Ireland/City/Dublin.md)]
 ![350](geo/Continent/Europe/Ireland/Coat_of_arms_of_Ireland.svg)
-![Anthem-Ireland](xLarge/National-Anthem/Anthem-Ireland.mp3)
+[Anthem-Ireland](xLarge/National-Anthem/Anthem-Ireland.mp3)
 ![350](geo/Continent/Europe/Ireland/Flag_of_Ireland.svg)
 [Alcohol-l::14.4]
 [Language-Id::499]
@@ -128,10 +128,3 @@ markerFolder: ./Ireland/City
 
 
 
-## Confidential Links & Embeds: 
-- [Ireland](../../../../_public/geo/Continent/Europe/Ireland.md) 
-- [Ireland.internal](../../../../_internal/geo/Continent/Europe/Ireland.internal.md) 
-- [Ireland.protect](../../../../_protect/geo/Continent/Europe/Ireland.protect.md) 
-- [Ireland.private](../../../../_private/geo/Continent/Europe/Ireland.private.md) 
-- [Ireland.personal](../../../../_personal/geo/Continent/Europe/Ireland.personal.md) 
-- [Ireland.secret](../../../../_secret/geo/Continent/Europe/Ireland.secret.md) 

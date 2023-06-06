@@ -43,10 +43,3 @@ A furniture store.
 
 
 
-## Confidential Links & Embeds: 
-- [furniture_store](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/furniture_store.md) 
-- [furniture_store.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/furniture_store.internal.md) 
-- [furniture_store.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/furniture_store.protect.md) 
-- [furniture_store.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/furniture_store.private.md) 
-- [furniture_store.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/furniture_store.personal.md) 
-- [furniture_store.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/furniture_store.secret.md) 

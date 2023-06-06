@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spluegen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Spluegen.md) 
-- [Spluegen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Spluegen.internal.md) 
-- [Spluegen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Spluegen.protect.md) 
-- [Spluegen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Spluegen.private.md) 
-- [Spluegen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Spluegen.personal.md) 
-- [Spluegen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Spluegen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radom](../../../../../../_public/geo/Continent/Europe/Poland/City/Radom.md) 
-- [Radom.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Radom.internal.md) 
-- [Radom.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Radom.protect.md) 
-- [Radom.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Radom.private.md) 
-- [Radom.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Radom.personal.md) 
-- [Radom.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Radom.secret.md) 

@@ -43,10 +43,3 @@ A parking lot or other parking facility.
 
 
 
-## Confidential Links & Embeds: 
-- [parking_facility](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/parking_facility.md) 
-- [parking_facility.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/parking_facility.internal.md) 
-- [parking_facility.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/parking_facility.protect.md) 
-- [parking_facility.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/parking_facility.private.md) 
-- [parking_facility.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/parking_facility.personal.md) 
-- [parking_facility.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/parking_facility.secret.md) 

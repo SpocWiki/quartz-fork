@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Zaurak](../../../_public/astro/Star/Zaurak.md) 
-- [Zaurak.internal](../../../_internal/astro/Star/Zaurak.internal.md) 
-- [Zaurak.protect](../../../_protect/astro/Star/Zaurak.protect.md) 
-- [Zaurak.private](../../../_private/astro/Star/Zaurak.private.md) 
-- [Zaurak.personal](../../../_personal/astro/Star/Zaurak.personal.md) 
-- [Zaurak.secret](../../../_secret/astro/Star/Zaurak.secret.md) 

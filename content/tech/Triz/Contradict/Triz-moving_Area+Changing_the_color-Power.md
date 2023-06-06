@@ -19,10 +19,3 @@ title: Triz-moving_Area+Changing_the_color-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Changing_the_color-Power](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Changing_the_color-Power.md) 
-- [Triz-moving_Area+Changing_the_color-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Changing_the_color-Power.internal.md) 
-- [Triz-moving_Area+Changing_the_color-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Changing_the_color-Power.protect.md) 
-- [Triz-moving_Area+Changing_the_color-Power.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Changing_the_color-Power.private.md) 
-- [Triz-moving_Area+Changing_the_color-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Changing_the_color-Power.personal.md) 
-- [Triz-moving_Area+Changing_the_color-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Changing_the_color-Power.secret.md) 

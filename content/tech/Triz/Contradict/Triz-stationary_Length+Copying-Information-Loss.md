@@ -19,10 +19,3 @@ title: Triz-stationary_Length+Copying-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Length+Copying-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-stationary_Length+Copying-Information-Loss.md) 
-- [Triz-stationary_Length+Copying-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Length+Copying-Information-Loss.internal.md) 
-- [Triz-stationary_Length+Copying-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Length+Copying-Information-Loss.protect.md) 
-- [Triz-stationary_Length+Copying-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Length+Copying-Information-Loss.private.md) 
-- [Triz-stationary_Length+Copying-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Length+Copying-Information-Loss.personal.md) 
-- [Triz-stationary_Length+Copying-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Length+Copying-Information-Loss.secret.md) 

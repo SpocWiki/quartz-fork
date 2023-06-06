@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valdgano](../../../../../../_public/geo/Continent/Europe/Italy/City/Valdgano.md) 
-- [Valdgano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Valdgano.internal.md) 
-- [Valdgano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Valdgano.protect.md) 
-- [Valdgano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Valdgano.private.md) 
-- [Valdgano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Valdgano.personal.md) 
-- [Valdgano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Valdgano.secret.md) 

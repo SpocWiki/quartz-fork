@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pozega](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Pozega.md) 
-- [Pozega.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Pozega.internal.md) 
-- [Pozega.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Pozega.protect.md) 
-- [Pozega.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Pozega.private.md) 
-- [Pozega.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Pozega.personal.md) 
-- [Pozega.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Pozega.secret.md) 

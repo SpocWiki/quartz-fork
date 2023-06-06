@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jackson](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Mississippi/City/Jackson.md) 
-- [Jackson.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Mississippi/City/Jackson.internal.md) 
-- [Jackson.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Mississippi/City/Jackson.protect.md) 
-- [Jackson.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Mississippi/City/Jackson.private.md) 
-- [Jackson.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Mississippi/City/Jackson.personal.md) 
-- [Jackson.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Mississippi/City/Jackson.secret.md) 

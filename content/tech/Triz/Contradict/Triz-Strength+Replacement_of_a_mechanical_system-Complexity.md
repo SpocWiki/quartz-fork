@@ -19,10 +19,3 @@ title: Triz-Strength+Replacement_of_a_mechanical_system-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Replacement_of_a_mechanical_system-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Complexity.md) 
-- [Triz-Strength+Replacement_of_a_mechanical_system-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Complexity.internal.md) 
-- [Triz-Strength+Replacement_of_a_mechanical_system-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Complexity.protect.md) 
-- [Triz-Strength+Replacement_of_a_mechanical_system-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Complexity.private.md) 
-- [Triz-Strength+Replacement_of_a_mechanical_system-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Complexity.personal.md) 
-- [Triz-Strength+Replacement_of_a_mechanical_system-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Replacement_of_a_mechanical_system-Complexity.secret.md) 

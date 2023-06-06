@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Braunsberg](../../../../../../_public/geo/Continent/Europe/Russia/City/Braunsberg.md) 
-- [Braunsberg.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Braunsberg.internal.md) 
-- [Braunsberg.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Braunsberg.protect.md) 
-- [Braunsberg.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Braunsberg.private.md) 
-- [Braunsberg.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Braunsberg.personal.md) 
-- [Braunsberg.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Braunsberg.secret.md) 

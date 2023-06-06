@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Erkheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Erkheim.md) 
-- [Erkheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Erkheim.internal.md) 
-- [Erkheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Erkheim.protect.md) 
-- [Erkheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Erkheim.private.md) 
-- [Erkheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Erkheim.personal.md) 
-- [Erkheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Erkheim.secret.md) 

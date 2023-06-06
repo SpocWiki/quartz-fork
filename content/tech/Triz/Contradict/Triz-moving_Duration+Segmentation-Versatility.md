@@ -19,10 +19,3 @@ title: Triz-moving_Duration+Segmentation-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Duration+Segmentation-Versatility](../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.md) 
-- [Triz-moving_Duration+Segmentation-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.internal.md) 
-- [Triz-moving_Duration+Segmentation-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.protect.md) 
-- [Triz-moving_Duration+Segmentation-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.private.md) 
-- [Triz-moving_Duration+Segmentation-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.personal.md) 
-- [Triz-moving_Duration+Segmentation-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Segmentation-Versatility.secret.md) 

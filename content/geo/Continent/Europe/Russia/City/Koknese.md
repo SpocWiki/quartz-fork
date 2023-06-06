@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koknese](../../../../../../_public/geo/Continent/Europe/Russia/City/Koknese.md) 
-- [Koknese.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Koknese.internal.md) 
-- [Koknese.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Koknese.protect.md) 
-- [Koknese.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Koknese.private.md) 
-- [Koknese.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Koknese.personal.md) 
-- [Koknese.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Koknese.secret.md) 

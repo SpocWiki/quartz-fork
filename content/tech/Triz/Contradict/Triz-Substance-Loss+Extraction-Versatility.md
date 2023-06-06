@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Extraction-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Extraction-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.md) 
-- [Triz-Substance-Loss+Extraction-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.internal.md) 
-- [Triz-Substance-Loss+Extraction-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.protect.md) 
-- [Triz-Substance-Loss+Extraction-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.private.md) 
-- [Triz-Substance-Loss+Extraction-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.personal.md) 
-- [Triz-Substance-Loss+Extraction-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Extraction-Versatility.secret.md) 

@@ -43,10 +43,3 @@ A publication event, e.g. catch-up TV or radio podcast, during which a program i
 
 
 
-## Confidential Links & Embeds: 
-- [on_demand_event](../../../../../../_public/schema.org/Type/is_a_/event/publication_event/on_demand_event.md) 
-- [on_demand_event.internal](../../../../../../_internal/schema.org/Type/is_a_/event/publication_event/on_demand_event.internal.md) 
-- [on_demand_event.protect](../../../../../../_protect/schema.org/Type/is_a_/event/publication_event/on_demand_event.protect.md) 
-- [on_demand_event.private](../../../../../../_private/schema.org/Type/is_a_/event/publication_event/on_demand_event.private.md) 
-- [on_demand_event.personal](../../../../../../_personal/schema.org/Type/is_a_/event/publication_event/on_demand_event.personal.md) 
-- [on_demand_event.secret](../../../../../../_secret/schema.org/Type/is_a_/event/publication_event/on_demand_event.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lentate_al_Sedveso](../../../../../../_public/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.md) 
-- [Lentate_al_Sedveso.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.internal.md) 
-- [Lentate_al_Sedveso.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.protect.md) 
-- [Lentate_al_Sedveso.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.private.md) 
-- [Lentate_al_Sedveso.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.personal.md) 
-- [Lentate_al_Sedveso.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Lentate_al_Sedveso.secret.md) 

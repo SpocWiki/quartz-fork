@@ -45,10 +45,3 @@ A food-related business.
 
 
 
-## Confidential Links & Embeds: 
-- [food_establishment](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment.md) 
-- [food_establishment.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment.internal.md) 
-- [food_establishment.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment.protect.md) 
-- [food_establishment.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment.private.md) 
-- [food_establishment.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment.personal.md) 
-- [food_establishment.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment.secret.md) 

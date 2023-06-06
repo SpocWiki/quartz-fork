@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Boppard](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Boppard.md) 
-- [Boppard.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Boppard.internal.md) 
-- [Boppard.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Boppard.protect.md) 
-- [Boppard.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Boppard.private.md) 
-- [Boppard.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Boppard.personal.md) 
-- [Boppard.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Boppard.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bodenbach=Podmolky](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.md) 
-- [Bodenbach=Podmolky.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.internal.md) 
-- [Bodenbach=Podmolky.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.protect.md) 
-- [Bodenbach=Podmolky.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.private.md) 
-- [Bodenbach=Podmolky.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.personal.md) 
-- [Bodenbach=Podmolky.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.secret.md) 

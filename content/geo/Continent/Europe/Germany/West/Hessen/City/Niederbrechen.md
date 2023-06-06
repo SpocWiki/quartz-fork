@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Niederbrechen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.md) 
-- [Niederbrechen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.internal.md) 
-- [Niederbrechen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.protect.md) 
-- [Niederbrechen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.private.md) 
-- [Niederbrechen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.personal.md) 
-- [Niederbrechen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Niederbrechen.secret.md) 

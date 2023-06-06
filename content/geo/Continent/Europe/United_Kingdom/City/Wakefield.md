@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wakefield](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wakefield.md) 
-- [Wakefield.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wakefield.internal.md) 
-- [Wakefield.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wakefield.protect.md) 
-- [Wakefield.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wakefield.private.md) 
-- [Wakefield.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wakefield.personal.md) 
-- [Wakefield.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wakefield.secret.md) 

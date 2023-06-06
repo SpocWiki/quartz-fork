@@ -43,10 +43,3 @@ An internet cafe.
 
 
 
-## Confidential Links & Embeds: 
-- [internet_cafe](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/internet_cafe.md) 
-- [internet_cafe.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/internet_cafe.internal.md) 
-- [internet_cafe.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/internet_cafe.protect.md) 
-- [internet_cafe.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/internet_cafe.private.md) 
-- [internet_cafe.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/internet_cafe.personal.md) 
-- [internet_cafe.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/internet_cafe.secret.md) 

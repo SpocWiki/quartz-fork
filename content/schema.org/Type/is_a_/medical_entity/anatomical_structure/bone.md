@@ -43,10 +43,3 @@ Rigid connective tissue that comprises up the skeletal structure of the human bo
 
 
 
-## Confidential Links & Embeds: 
-- [bone](../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.md) 
-- [bone.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.internal.md) 
-- [bone.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.protect.md) 
-- [bone.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.private.md) 
-- [bone.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.personal.md) 
-- [bone.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.secret.md) 

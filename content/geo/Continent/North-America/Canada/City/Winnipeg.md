@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winnipeg](../../../../../../_public/geo/Continent/North-America/Canada/City/Winnipeg.md) 
-- [Winnipeg.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Winnipeg.internal.md) 
-- [Winnipeg.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Winnipeg.protect.md) 
-- [Winnipeg.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Winnipeg.private.md) 
-- [Winnipeg.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Winnipeg.personal.md) 
-- [Winnipeg.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Winnipeg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bergen_op_Zoom](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.md) 
-- [Bergen_op_Zoom.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.internal.md) 
-- [Bergen_op_Zoom.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.protect.md) 
-- [Bergen_op_Zoom.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.private.md) 
-- [Bergen_op_Zoom.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.personal.md) 
-- [Bergen_op_Zoom.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Bergen_op_Zoom.secret.md) 

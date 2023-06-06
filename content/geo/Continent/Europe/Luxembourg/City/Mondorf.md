@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mondorf](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Mondorf.md) 
-- [Mondorf.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Mondorf.internal.md) 
-- [Mondorf.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Mondorf.protect.md) 
-- [Mondorf.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Mondorf.private.md) 
-- [Mondorf.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Mondorf.personal.md) 
-- [Mondorf.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Mondorf.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Termini](../../../../../../_public/geo/Continent/Europe/Italy/City/Termini.md) 
-- [Termini.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Termini.internal.md) 
-- [Termini.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Termini.protect.md) 
-- [Termini.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Termini.private.md) 
-- [Termini.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Termini.personal.md) 
-- [Termini.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Termini.secret.md) 

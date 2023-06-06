@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Feldmoching](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Feldmoching.md) 
-- [Feldmoching.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Feldmoching.internal.md) 
-- [Feldmoching.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Feldmoching.protect.md) 
-- [Feldmoching.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Feldmoching.private.md) 
-- [Feldmoching.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Feldmoching.personal.md) 
-- [Feldmoching.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Feldmoching.secret.md) 

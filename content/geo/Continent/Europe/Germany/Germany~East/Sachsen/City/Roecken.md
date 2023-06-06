@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roecken](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Roecken.md) 
-- [Roecken.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Roecken.internal.md) 
-- [Roecken.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Roecken.protect.md) 
-- [Roecken.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Roecken.private.md) 
-- [Roecken.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Roecken.personal.md) 
-- [Roecken.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Roecken.secret.md) 

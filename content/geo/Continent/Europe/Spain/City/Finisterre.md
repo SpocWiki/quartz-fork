@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Finisterre](../../../../../../_public/geo/Continent/Europe/Spain/City/Finisterre.md) 
-- [Finisterre.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Finisterre.internal.md) 
-- [Finisterre.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Finisterre.protect.md) 
-- [Finisterre.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Finisterre.private.md) 
-- [Finisterre.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Finisterre.personal.md) 
-- [Finisterre.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Finisterre.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tschernigof](../../../../../../_public/geo/Continent/Europe/Russia/City/Tschernigof.md) 
-- [Tschernigof.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschernigof.internal.md) 
-- [Tschernigof.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschernigof.protect.md) 
-- [Tschernigof.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tschernigof.private.md) 
-- [Tschernigof.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschernigof.personal.md) 
-- [Tschernigof.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschernigof.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nerchinsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Nerchinsk.md) 
-- [Nerchinsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nerchinsk.internal.md) 
-- [Nerchinsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nerchinsk.protect.md) 
-- [Nerchinsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nerchinsk.private.md) 
-- [Nerchinsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nerchinsk.personal.md) 
-- [Nerchinsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nerchinsk.secret.md) 

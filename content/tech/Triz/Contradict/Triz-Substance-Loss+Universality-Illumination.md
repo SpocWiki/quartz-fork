@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Universality-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Universality-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.md) 
-- [Triz-Substance-Loss+Universality-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.internal.md) 
-- [Triz-Substance-Loss+Universality-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.protect.md) 
-- [Triz-Substance-Loss+Universality-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.private.md) 
-- [Triz-Substance-Loss+Universality-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.personal.md) 
-- [Triz-Substance-Loss+Universality-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Universality-Illumination.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sarnen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Sarnen.md) 
-- [Sarnen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Sarnen.internal.md) 
-- [Sarnen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Sarnen.protect.md) 
-- [Sarnen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Sarnen.private.md) 
-- [Sarnen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Sarnen.personal.md) 
-- [Sarnen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Sarnen.secret.md) 

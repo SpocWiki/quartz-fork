@@ -120,7 +120,7 @@ markerFolder: ./Guatemala/City
 
 ![350](geo/Continent/South-America/Guatemala/Coat_of_arms_of_Guatemala.svg)
 
-![Anthem-Guatemala](xLarge/National-Anthem/Anthem-Guatemala.mp3)
+[Anthem-Guatemala](xLarge/National-Anthem/Anthem-Guatemala.mp3)
 
 ![350](geo/Continent/South-America/Guatemala/Flag_of_Guatemala.svg)
 
@@ -131,10 +131,3 @@ markerFolder: ./Guatemala/City
 
 
 
-## Confidential Links & Embeds: 
-- [Guatemala](../../../../_public/geo/Continent/South-America/Guatemala.md) 
-- [Guatemala.internal](../../../../_internal/geo/Continent/South-America/Guatemala.internal.md) 
-- [Guatemala.protect](../../../../_protect/geo/Continent/South-America/Guatemala.protect.md) 
-- [Guatemala.private](../../../../_private/geo/Continent/South-America/Guatemala.private.md) 
-- [Guatemala.personal](../../../../_personal/geo/Continent/South-America/Guatemala.personal.md) 
-- [Guatemala.secret](../../../../_secret/geo/Continent/South-America/Guatemala.secret.md) 

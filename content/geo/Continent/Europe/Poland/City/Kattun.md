@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kattun](../../../../../../_public/geo/Continent/Europe/Poland/City/Kattun.md) 
-- [Kattun.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kattun.internal.md) 
-- [Kattun.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kattun.protect.md) 
-- [Kattun.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kattun.private.md) 
-- [Kattun.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kattun.personal.md) 
-- [Kattun.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kattun.secret.md) 

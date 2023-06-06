@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tapia](../../../../../../_public/geo/Continent/Europe/Albania/City/Tapia.md) 
-- [Tapia.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Tapia.internal.md) 
-- [Tapia.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Tapia.protect.md) 
-- [Tapia.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Tapia.private.md) 
-- [Tapia.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Tapia.personal.md) 
-- [Tapia.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Tapia.secret.md) 

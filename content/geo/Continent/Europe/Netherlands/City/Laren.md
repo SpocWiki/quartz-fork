@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Laren](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Laren.md) 
-- [Laren.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Laren.internal.md) 
-- [Laren.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Laren.protect.md) 
-- [Laren.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Laren.private.md) 
-- [Laren.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Laren.personal.md) 
-- [Laren.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Laren.secret.md) 

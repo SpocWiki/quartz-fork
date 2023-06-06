@@ -19,10 +19,3 @@ title: Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.md) 
-- [Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.internal.md) 
-- [Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.protect.md) 
-- [Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.private.md) 
-- [Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.personal.md) 
-- [Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Flexible_film_or_thin_membranes-stationary_Area.secret.md) 

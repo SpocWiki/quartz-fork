@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zwoenitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwoenitz.md) 
-- [Zwoenitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwoenitz.internal.md) 
-- [Zwoenitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwoenitz.protect.md) 
-- [Zwoenitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwoenitz.private.md) 
-- [Zwoenitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwoenitz.personal.md) 
-- [Zwoenitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Zwoenitz.secret.md) 

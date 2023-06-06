@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Thielt](../../../../../../_public/geo/Continent/Europe/Belgium/City/Thielt.md) 
-- [Thielt.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Thielt.internal.md) 
-- [Thielt.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Thielt.protect.md) 
-- [Thielt.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Thielt.private.md) 
-- [Thielt.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Thielt.personal.md) 
-- [Thielt.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Thielt.secret.md) 

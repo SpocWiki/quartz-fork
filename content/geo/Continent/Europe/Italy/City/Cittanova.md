@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cittanova](../../../../../../_public/geo/Continent/Europe/Italy/City/Cittanova.md) 
-- [Cittanova.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cittanova.internal.md) 
-- [Cittanova.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cittanova.protect.md) 
-- [Cittanova.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cittanova.private.md) 
-- [Cittanova.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cittanova.personal.md) 
-- [Cittanova.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cittanova.secret.md) 

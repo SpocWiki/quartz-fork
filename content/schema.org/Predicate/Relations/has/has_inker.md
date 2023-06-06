@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_inker](../../../../../_public/schema.org/Predicate/Relations/has/has_inker.md) 
-- [has_inker.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_inker.internal.md) 
-- [has_inker.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_inker.protect.md) 
-- [has_inker.private](../../../../../_private/schema.org/Predicate/Relations/has/has_inker.private.md) 
-- [has_inker.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_inker.personal.md) 
-- [has_inker.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_inker.secret.md) 

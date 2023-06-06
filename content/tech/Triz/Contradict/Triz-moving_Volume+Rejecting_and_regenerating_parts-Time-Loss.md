@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.md) 
-- [Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.internal.md) 
-- [Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.protect.md) 
-- [Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.private.md) 
-- [Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.personal.md) 
-- [Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Rejecting_and_regenerating_parts-Time-Loss.secret.md) 

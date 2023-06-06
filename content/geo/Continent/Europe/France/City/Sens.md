@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sens](../../../../../../_public/geo/Continent/Europe/France/City/Sens.md) 
-- [Sens.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Sens.internal.md) 
-- [Sens.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Sens.protect.md) 
-- [Sens.private](../../../../../../_private/geo/Continent/Europe/France/City/Sens.private.md) 
-- [Sens.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Sens.personal.md) 
-- [Sens.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Sens.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Phnom_Penh](../../../../../../_public/geo/Continent/Asia/Cambodia/City/Phnom_Penh.md) 
-- [Phnom_Penh.internal](../../../../../../_internal/geo/Continent/Asia/Cambodia/City/Phnom_Penh.internal.md) 
-- [Phnom_Penh.protect](../../../../../../_protect/geo/Continent/Asia/Cambodia/City/Phnom_Penh.protect.md) 
-- [Phnom_Penh.private](../../../../../../_private/geo/Continent/Asia/Cambodia/City/Phnom_Penh.private.md) 
-- [Phnom_Penh.personal](../../../../../../_personal/geo/Continent/Asia/Cambodia/City/Phnom_Penh.personal.md) 
-- [Phnom_Penh.secret](../../../../../../_secret/geo/Continent/Asia/Cambodia/City/Phnom_Penh.secret.md) 

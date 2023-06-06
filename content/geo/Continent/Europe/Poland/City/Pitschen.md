@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pitschen](../../../../../../_public/geo/Continent/Europe/Poland/City/Pitschen.md) 
-- [Pitschen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Pitschen.internal.md) 
-- [Pitschen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Pitschen.protect.md) 
-- [Pitschen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Pitschen.private.md) 
-- [Pitschen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Pitschen.personal.md) 
-- [Pitschen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Pitschen.secret.md) 

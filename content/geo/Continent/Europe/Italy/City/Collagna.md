@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Collagna](../../../../../../_public/geo/Continent/Europe/Italy/City/Collagna.md) 
-- [Collagna.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Collagna.internal.md) 
-- [Collagna.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Collagna.protect.md) 
-- [Collagna.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Collagna.private.md) 
-- [Collagna.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Collagna.personal.md) 
-- [Collagna.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Collagna.secret.md) 

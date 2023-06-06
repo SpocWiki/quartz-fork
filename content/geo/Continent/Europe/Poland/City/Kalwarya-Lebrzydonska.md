@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kalwarya-Lebrzydonska](../../../../../../_public/geo/Continent/Europe/Poland/City/Kalwarya-Lebrzydonska.md) 
-- [Kalwarya-Lebrzydonska.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kalwarya-Lebrzydonska.internal.md) 
-- [Kalwarya-Lebrzydonska.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kalwarya-Lebrzydonska.protect.md) 
-- [Kalwarya-Lebrzydonska.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kalwarya-Lebrzydonska.private.md) 
-- [Kalwarya-Lebrzydonska.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kalwarya-Lebrzydonska.personal.md) 
-- [Kalwarya-Lebrzydonska.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kalwarya-Lebrzydonska.secret.md) 

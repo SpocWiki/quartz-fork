@@ -14,10 +14,3 @@ title: Triz-Prior_counteracion
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Prior_counteracion](../../../../_public/tech/Triz/Principle/Triz-Prior_counteracion.md) 
-- [Triz-Prior_counteracion.internal](../../../../_internal/tech/Triz/Principle/Triz-Prior_counteracion.internal.md) 
-- [Triz-Prior_counteracion.protect](../../../../_protect/tech/Triz/Principle/Triz-Prior_counteracion.protect.md) 
-- [Triz-Prior_counteracion.private](../../../../_private/tech/Triz/Principle/Triz-Prior_counteracion.private.md) 
-- [Triz-Prior_counteracion.personal](../../../../_personal/tech/Triz/Principle/Triz-Prior_counteracion.personal.md) 
-- [Triz-Prior_counteracion.secret](../../../../_secret/tech/Triz/Principle/Triz-Prior_counteracion.secret.md) 

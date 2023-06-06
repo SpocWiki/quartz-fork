@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_measurement](../../../../_public/schema.org/Predicate/Quantities/has_value_for_measurement.md) 
-- [has_value_for_measurement.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_measurement.internal.md) 
-- [has_value_for_measurement.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_measurement.protect.md) 
-- [has_value_for_measurement.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_measurement.private.md) 
-- [has_value_for_measurement.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_measurement.personal.md) 
-- [has_value_for_measurement.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_measurement.secret.md) 

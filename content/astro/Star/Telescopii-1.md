@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Telescopii-1](../../../_public/astro/Star/Telescopii-1.md) 
-- [Telescopii-1.internal](../../../_internal/astro/Star/Telescopii-1.internal.md) 
-- [Telescopii-1.protect](../../../_protect/astro/Star/Telescopii-1.protect.md) 
-- [Telescopii-1.private](../../../_private/astro/Star/Telescopii-1.private.md) 
-- [Telescopii-1.personal](../../../_personal/astro/Star/Telescopii-1.personal.md) 
-- [Telescopii-1.secret](../../../_secret/astro/Star/Telescopii-1.secret.md) 

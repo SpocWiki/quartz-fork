@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Herrnhut](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Herrnhut.md) 
-- [Herrnhut.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Herrnhut.internal.md) 
-- [Herrnhut.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Herrnhut.protect.md) 
-- [Herrnhut.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Herrnhut.private.md) 
-- [Herrnhut.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Herrnhut.personal.md) 
-- [Herrnhut.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Herrnhut.secret.md) 

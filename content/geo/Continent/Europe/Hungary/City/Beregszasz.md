@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beregszasz](../../../../../../_public/geo/Continent/Europe/Hungary/City/Beregszasz.md) 
-- [Beregszasz.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Beregszasz.internal.md) 
-- [Beregszasz.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Beregszasz.protect.md) 
-- [Beregszasz.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Beregszasz.private.md) 
-- [Beregszasz.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Beregszasz.personal.md) 
-- [Beregszasz.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Beregszasz.secret.md) 

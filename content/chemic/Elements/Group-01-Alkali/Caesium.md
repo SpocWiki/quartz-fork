@@ -38,10 +38,3 @@ title: Caesium
 
 
 
-## Confidential Links & Embeds: 
-- [Caesium](../../../../_public/chemic/Elements/Group-01-Alkali/Caesium.md) 
-- [Caesium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Caesium.internal.md) 
-- [Caesium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Caesium.protect.md) 
-- [Caesium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Caesium.private.md) 
-- [Caesium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Caesium.personal.md) 
-- [Caesium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Caesium.secret.md) 

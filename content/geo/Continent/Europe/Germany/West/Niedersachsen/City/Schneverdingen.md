@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schneverdingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schneverdingen.md) 
-- [Schneverdingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schneverdingen.internal.md) 
-- [Schneverdingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schneverdingen.protect.md) 
-- [Schneverdingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schneverdingen.private.md) 
-- [Schneverdingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schneverdingen.personal.md) 
-- [Schneverdingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schneverdingen.secret.md) 

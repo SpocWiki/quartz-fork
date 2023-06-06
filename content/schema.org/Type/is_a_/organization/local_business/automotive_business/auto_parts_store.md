@@ -43,10 +43,3 @@ An auto parts store.
 
 
 
-## Confidential Links & Embeds: 
-- [auto_parts_store](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.md) 
-- [auto_parts_store.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.internal.md) 
-- [auto_parts_store.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.protect.md) 
-- [auto_parts_store.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.private.md) 
-- [auto_parts_store.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.personal.md) 
-- [auto_parts_store.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.secret.md) 

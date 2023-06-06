@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Merkenes](../../../../../../_public/geo/Continent/Europe/Sweden/City/Merkenes.md) 
-- [Merkenes.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Merkenes.internal.md) 
-- [Merkenes.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Merkenes.protect.md) 
-- [Merkenes.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Merkenes.private.md) 
-- [Merkenes.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Merkenes.personal.md) 
-- [Merkenes.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Merkenes.secret.md) 

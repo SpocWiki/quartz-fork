@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alofi](../../../../../../_public/geo/Continent/Oceania/Niue/City/Alofi.md) 
-- [Alofi.internal](../../../../../../_internal/geo/Continent/Oceania/Niue/City/Alofi.internal.md) 
-- [Alofi.protect](../../../../../../_protect/geo/Continent/Oceania/Niue/City/Alofi.protect.md) 
-- [Alofi.private](../../../../../../_private/geo/Continent/Oceania/Niue/City/Alofi.private.md) 
-- [Alofi.personal](../../../../../../_personal/geo/Continent/Oceania/Niue/City/Alofi.personal.md) 
-- [Alofi.secret](../../../../../../_secret/geo/Continent/Oceania/Niue/City/Alofi.secret.md) 

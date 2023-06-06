@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lugansk=Voroshilovgrad](../../../../../../_public/geo/Continent/Europe/Russia/City/Lugansk=Voroshilovgrad.md) 
-- [Lugansk=Voroshilovgrad.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Lugansk=Voroshilovgrad.internal.md) 
-- [Lugansk=Voroshilovgrad.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Lugansk=Voroshilovgrad.protect.md) 
-- [Lugansk=Voroshilovgrad.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Lugansk=Voroshilovgrad.private.md) 
-- [Lugansk=Voroshilovgrad.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Lugansk=Voroshilovgrad.personal.md) 
-- [Lugansk=Voroshilovgrad.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Lugansk=Voroshilovgrad.secret.md) 

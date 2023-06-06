@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Elbing_Ostpreussen](../../../../../../_public/geo/Continent/Europe/Russia/City/Elbing_Ostpreussen.md) 
-- [Elbing_Ostpreussen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Elbing_Ostpreussen.internal.md) 
-- [Elbing_Ostpreussen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Elbing_Ostpreussen.protect.md) 
-- [Elbing_Ostpreussen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Elbing_Ostpreussen.private.md) 
-- [Elbing_Ostpreussen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Elbing_Ostpreussen.personal.md) 
-- [Elbing_Ostpreussen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Elbing_Ostpreussen.secret.md) 

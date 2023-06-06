@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_cutoff_time](../../../../../_public/schema.org/Predicate/Relations/has/has_cutoff_time.md) 
-- [has_cutoff_time.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_cutoff_time.internal.md) 
-- [has_cutoff_time.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_cutoff_time.protect.md) 
-- [has_cutoff_time.private](../../../../../_private/schema.org/Predicate/Relations/has/has_cutoff_time.private.md) 
-- [has_cutoff_time.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_cutoff_time.personal.md) 
-- [has_cutoff_time.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_cutoff_time.secret.md) 

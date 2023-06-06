@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nastola](../../../../../../_public/geo/Continent/Europe/Finland/City/Nastola.md) 
-- [Nastola.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Nastola.internal.md) 
-- [Nastola.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Nastola.protect.md) 
-- [Nastola.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Nastola.private.md) 
-- [Nastola.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Nastola.personal.md) 
-- [Nastola.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Nastola.secret.md) 

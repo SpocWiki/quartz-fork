@@ -19,10 +19,3 @@ title: Triz-moving_Area+Inversion-Ease_of_manufacture
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Inversion-Ease_of_manufacture](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_manufacture.md) 
-- [Triz-moving_Area+Inversion-Ease_of_manufacture.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_manufacture.internal.md) 
-- [Triz-moving_Area+Inversion-Ease_of_manufacture.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_manufacture.protect.md) 
-- [Triz-moving_Area+Inversion-Ease_of_manufacture.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_manufacture.private.md) 
-- [Triz-moving_Area+Inversion-Ease_of_manufacture.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_manufacture.personal.md) 
-- [Triz-moving_Area+Inversion-Ease_of_manufacture.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Inversion-Ease_of_manufacture.secret.md) 

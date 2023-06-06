@@ -37,10 +37,3 @@ title: Thulium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thulium)
 
-## Confidential Links & Embeds: 
-- [Thulium](../../../../_public/chemic/Elements/Lanthanide-Group/Thulium.md) 
-- [Thulium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Thulium.internal.md) 
-- [Thulium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Thulium.protect.md) 
-- [Thulium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Thulium.private.md) 
-- [Thulium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Thulium.personal.md) 
-- [Thulium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Thulium.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Dynamicity-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Dynamicity-Intensity](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Intensity.md) 
-- [Triz-moving_Volume+Dynamicity-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Intensity.internal.md) 
-- [Triz-moving_Volume+Dynamicity-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Intensity.protect.md) 
-- [Triz-moving_Volume+Dynamicity-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Intensity.private.md) 
-- [Triz-moving_Volume+Dynamicity-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Intensity.personal.md) 
-- [Triz-moving_Volume+Dynamicity-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Intensity.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Regensburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.md) 
-- [Regensburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.internal.md) 
-- [Regensburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.protect.md) 
-- [Regensburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.private.md) 
-- [Regensburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.personal.md) 
-- [Regensburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.secret.md) 

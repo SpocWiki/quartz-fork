@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Demitz-Thumitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.md) 
-- [Demitz-Thumitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.internal.md) 
-- [Demitz-Thumitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.protect.md) 
-- [Demitz-Thumitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.private.md) 
-- [Demitz-Thumitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.personal.md) 
-- [Demitz-Thumitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Demitz-Thumitz.secret.md) 

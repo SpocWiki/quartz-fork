@@ -45,10 +45,3 @@ The act of notifying someone of information pertinent to them, with no expectati
 
 
 
-## Confidential Links & Embeds: 
-- [inform_action](../../../../../../../_public/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.md) 
-- [inform_action.internal](../../../../../../../_internal/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.internal.md) 
-- [inform_action.protect](../../../../../../../_protect/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.protect.md) 
-- [inform_action.private](../../../../../../../_private/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.private.md) 
-- [inform_action.personal](../../../../../../../_personal/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.personal.md) 
-- [inform_action.secret](../../../../../../../_secret/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.secret.md) 

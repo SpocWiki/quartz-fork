@@ -19,10 +19,3 @@ title: Triz-Versatility+Dynamicity-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Dynamicity-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Complexity.md) 
-- [Triz-Versatility+Dynamicity-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Complexity.internal.md) 
-- [Triz-Versatility+Dynamicity-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Complexity.protect.md) 
-- [Triz-Versatility+Dynamicity-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Complexity.private.md) 
-- [Triz-Versatility+Dynamicity-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Complexity.personal.md) 
-- [Triz-Versatility+Dynamicity-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Complexity.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Vladimir_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Vladimir_Oblast.md) 
-- [State-Vladimir_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Vladimir_Oblast.internal.md) 
-- [State-Vladimir_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Vladimir_Oblast.protect.md) 
-- [State-Vladimir_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Vladimir_Oblast.private.md) 
-- [State-Vladimir_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Vladimir_Oblast.personal.md) 
-- [State-Vladimir_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Vladimir_Oblast.secret.md) 

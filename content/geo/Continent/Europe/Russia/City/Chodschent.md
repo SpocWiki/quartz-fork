@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chodschent](../../../../../../_public/geo/Continent/Europe/Russia/City/Chodschent.md) 
-- [Chodschent.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Chodschent.internal.md) 
-- [Chodschent.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Chodschent.protect.md) 
-- [Chodschent.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Chodschent.private.md) 
-- [Chodschent.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Chodschent.personal.md) 
-- [Chodschent.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Chodschent.secret.md) 

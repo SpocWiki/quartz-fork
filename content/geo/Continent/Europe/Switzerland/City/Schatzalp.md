@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schatzalp](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schatzalp.md) 
-- [Schatzalp.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schatzalp.internal.md) 
-- [Schatzalp.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schatzalp.protect.md) 
-- [Schatzalp.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schatzalp.private.md) 
-- [Schatzalp.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schatzalp.personal.md) 
-- [Schatzalp.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schatzalp.secret.md) 

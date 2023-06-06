@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koslow](../../../../../../_public/geo/Continent/Europe/Russia/City/Koslow.md) 
-- [Koslow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Koslow.internal.md) 
-- [Koslow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Koslow.protect.md) 
-- [Koslow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Koslow.private.md) 
-- [Koslow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Koslow.personal.md) 
-- [Koslow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Koslow.secret.md) 

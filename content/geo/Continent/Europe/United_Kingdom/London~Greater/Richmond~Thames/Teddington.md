@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teddington](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.md) 
-- [Teddington.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.internal.md) 
-- [Teddington.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.protect.md) 
-- [Teddington.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.private.md) 
-- [Teddington.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.personal.md) 
-- [Teddington.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Richmond~Thames/Teddington.secret.md) 

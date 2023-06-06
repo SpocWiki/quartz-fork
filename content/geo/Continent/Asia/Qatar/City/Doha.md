@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Doha](../../../../../../_public/geo/Continent/Asia/Qatar/City/Doha.md) 
-- [Doha.internal](../../../../../../_internal/geo/Continent/Asia/Qatar/City/Doha.internal.md) 
-- [Doha.protect](../../../../../../_protect/geo/Continent/Asia/Qatar/City/Doha.protect.md) 
-- [Doha.private](../../../../../../_private/geo/Continent/Asia/Qatar/City/Doha.private.md) 
-- [Doha.personal](../../../../../../_personal/geo/Continent/Asia/Qatar/City/Doha.personal.md) 
-- [Doha.secret](../../../../../../_secret/geo/Continent/Asia/Qatar/City/Doha.secret.md) 

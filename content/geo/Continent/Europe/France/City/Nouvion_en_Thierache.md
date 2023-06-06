@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nouvion_en_Thierache](../../../../../../_public/geo/Continent/Europe/France/City/Nouvion_en_Thierache.md) 
-- [Nouvion_en_Thierache.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nouvion_en_Thierache.internal.md) 
-- [Nouvion_en_Thierache.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nouvion_en_Thierache.protect.md) 
-- [Nouvion_en_Thierache.private](../../../../../../_private/geo/Continent/Europe/France/City/Nouvion_en_Thierache.private.md) 
-- [Nouvion_en_Thierache.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nouvion_en_Thierache.personal.md) 
-- [Nouvion_en_Thierache.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nouvion_en_Thierache.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ferney-Voltaire](../../../../../../_public/geo/Continent/Europe/France/City/Ferney-Voltaire.md) 
-- [Ferney-Voltaire.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Ferney-Voltaire.internal.md) 
-- [Ferney-Voltaire.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Ferney-Voltaire.protect.md) 
-- [Ferney-Voltaire.private](../../../../../../_private/geo/Continent/Europe/France/City/Ferney-Voltaire.private.md) 
-- [Ferney-Voltaire.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Ferney-Voltaire.personal.md) 
-- [Ferney-Voltaire.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Ferney-Voltaire.secret.md) 

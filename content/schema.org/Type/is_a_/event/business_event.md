@@ -43,10 +43,3 @@ Event type: Business event.
 
 
 
-## Confidential Links & Embeds: 
-- [business_event](../../../../../_public/schema.org/Type/is_a_/event/business_event.md) 
-- [business_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/business_event.internal.md) 
-- [business_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/business_event.protect.md) 
-- [business_event.private](../../../../../_private/schema.org/Type/is_a_/event/business_event.private.md) 
-- [business_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/business_event.personal.md) 
-- [business_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/business_event.secret.md) 

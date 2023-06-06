@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Llandes](../../../../../../_public/geo/Continent/Europe/Spain/City/Llandes.md) 
-- [Llandes.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Llandes.internal.md) 
-- [Llandes.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Llandes.protect.md) 
-- [Llandes.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Llandes.private.md) 
-- [Llandes.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Llandes.personal.md) 
-- [Llandes.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Llandes.secret.md) 

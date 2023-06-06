@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Warberg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Warberg.md) 
-- [Warberg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Warberg.internal.md) 
-- [Warberg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Warberg.protect.md) 
-- [Warberg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Warberg.private.md) 
-- [Warberg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Warberg.personal.md) 
-- [Warberg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Warberg.secret.md) 

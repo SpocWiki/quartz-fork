@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Belle-Isle](../../../../../../_public/geo/Continent/Europe/France/City/Belle-Isle.md) 
-- [Belle-Isle.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Belle-Isle.internal.md) 
-- [Belle-Isle.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Belle-Isle.protect.md) 
-- [Belle-Isle.private](../../../../../../_private/geo/Continent/Europe/France/City/Belle-Isle.private.md) 
-- [Belle-Isle.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Belle-Isle.personal.md) 
-- [Belle-Isle.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Belle-Isle.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rothenfels](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.md) 
-- [Rothenfels.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.internal.md) 
-- [Rothenfels.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.protect.md) 
-- [Rothenfels.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.private.md) 
-- [Rothenfels.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.personal.md) 
-- [Rothenfels.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.secret.md) 

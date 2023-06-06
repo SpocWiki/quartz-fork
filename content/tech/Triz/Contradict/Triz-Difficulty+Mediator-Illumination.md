@@ -19,10 +19,3 @@ title: Triz-Difficulty+Mediator-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Mediator-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Mediator-Illumination.md) 
-- [Triz-Difficulty+Mediator-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Illumination.internal.md) 
-- [Triz-Difficulty+Mediator-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Mediator-Illumination.protect.md) 
-- [Triz-Difficulty+Mediator-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Mediator-Illumination.private.md) 
-- [Triz-Difficulty+Mediator-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Illumination.personal.md) 
-- [Triz-Difficulty+Mediator-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Mediator-Illumination.secret.md) 

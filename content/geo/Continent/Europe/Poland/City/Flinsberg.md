@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flinsberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Flinsberg.md) 
-- [Flinsberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Flinsberg.internal.md) 
-- [Flinsberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Flinsberg.protect.md) 
-- [Flinsberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Flinsberg.private.md) 
-- [Flinsberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Flinsberg.personal.md) 
-- [Flinsberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Flinsberg.secret.md) 

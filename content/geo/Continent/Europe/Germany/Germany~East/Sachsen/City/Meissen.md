@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meissen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meissen.md) 
-- [Meissen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meissen.internal.md) 
-- [Meissen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meissen.protect.md) 
-- [Meissen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meissen.private.md) 
-- [Meissen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meissen.personal.md) 
-- [Meissen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Meissen.secret.md) 

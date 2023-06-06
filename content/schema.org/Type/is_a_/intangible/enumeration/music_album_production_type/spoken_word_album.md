@@ -45,10 +45,3 @@ SpokenWordAlbum.
 
 
 
-## Confidential Links & Embeds: 
-- [spoken_word_album](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.md) 
-- [spoken_word_album.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.internal.md) 
-- [spoken_word_album.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.protect.md) 
-- [spoken_word_album.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.private.md) 
-- [spoken_word_album.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.personal.md) 
-- [spoken_word_album.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.secret.md) 

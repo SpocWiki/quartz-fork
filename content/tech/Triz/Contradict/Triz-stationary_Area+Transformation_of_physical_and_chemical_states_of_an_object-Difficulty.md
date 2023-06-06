@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.md) 
-- [Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.internal.md) 
-- [Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.protect.md) 
-- [Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.private.md) 
-- [Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.personal.md) 
-- [Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Transformation_of_physical_and_chemical_states_of_an_object-Difficulty.secret.md) 

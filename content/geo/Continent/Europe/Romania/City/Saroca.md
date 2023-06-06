@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saroca](../../../../../../_public/geo/Continent/Europe/Romania/City/Saroca.md) 
-- [Saroca.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Saroca.internal.md) 
-- [Saroca.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Saroca.protect.md) 
-- [Saroca.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Saroca.private.md) 
-- [Saroca.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Saroca.personal.md) 
-- [Saroca.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Saroca.secret.md) 

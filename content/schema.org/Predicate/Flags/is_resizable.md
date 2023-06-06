@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_resizable](../../../../_public/schema.org/Predicate/Flags/is_resizable.md) 
-- [is_resizable.internal](../../../../_internal/schema.org/Predicate/Flags/is_resizable.internal.md) 
-- [is_resizable.protect](../../../../_protect/schema.org/Predicate/Flags/is_resizable.protect.md) 
-- [is_resizable.private](../../../../_private/schema.org/Predicate/Flags/is_resizable.private.md) 
-- [is_resizable.personal](../../../../_personal/schema.org/Predicate/Flags/is_resizable.personal.md) 
-- [is_resizable.secret](../../../../_secret/schema.org/Predicate/Flags/is_resizable.secret.md) 

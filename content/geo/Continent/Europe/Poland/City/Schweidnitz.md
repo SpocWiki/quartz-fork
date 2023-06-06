@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schweidnitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Schweidnitz.md) 
-- [Schweidnitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schweidnitz.internal.md) 
-- [Schweidnitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schweidnitz.protect.md) 
-- [Schweidnitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schweidnitz.private.md) 
-- [Schweidnitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schweidnitz.personal.md) 
-- [Schweidnitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schweidnitz.secret.md) 

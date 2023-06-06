@@ -122,7 +122,7 @@ markerFolder: ./Sri_Lanka/City
 
 ![350](geo/Continent/Asia/Sri_Lanka/Emblem_of_Sri_Lanka.svg)
 
-![Anthem-Sri-lanka](xLarge/National-Anthem/Anthem-Sri-lanka.mp3)
+[Anthem-Sri-lanka](xLarge/National-Anthem/Anthem-Sri-lanka.mp3)
 
 ![350](geo/Continent/Asia/Sri_Lanka/Flag_of_Sri_Lanka.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Sri_Lanka/City
 
 
 
-## Confidential Links & Embeds: 
-- [Sri_Lanka](../../../../_public/geo/Continent/Asia/Sri_Lanka.md) 
-- [Sri_Lanka.internal](../../../../_internal/geo/Continent/Asia/Sri_Lanka.internal.md) 
-- [Sri_Lanka.protect](../../../../_protect/geo/Continent/Asia/Sri_Lanka.protect.md) 
-- [Sri_Lanka.private](../../../../_private/geo/Continent/Asia/Sri_Lanka.private.md) 
-- [Sri_Lanka.personal](../../../../_personal/geo/Continent/Asia/Sri_Lanka.personal.md) 
-- [Sri_Lanka.secret](../../../../_secret/geo/Continent/Asia/Sri_Lanka.secret.md) 

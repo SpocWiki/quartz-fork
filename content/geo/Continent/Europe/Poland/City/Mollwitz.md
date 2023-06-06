@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mollwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Mollwitz.md) 
-- [Mollwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Mollwitz.internal.md) 
-- [Mollwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Mollwitz.protect.md) 
-- [Mollwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Mollwitz.private.md) 
-- [Mollwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Mollwitz.personal.md) 
-- [Mollwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Mollwitz.secret.md) 

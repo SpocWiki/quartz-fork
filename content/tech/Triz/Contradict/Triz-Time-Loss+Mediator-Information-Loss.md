@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Mediator-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Mediator-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.md) 
-- [Triz-Time-Loss+Mediator-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.internal.md) 
-- [Triz-Time-Loss+Mediator-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.protect.md) 
-- [Triz-Time-Loss+Mediator-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.private.md) 
-- [Triz-Time-Loss+Mediator-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.personal.md) 
-- [Triz-Time-Loss+Mediator-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Mediator-Information-Loss.secret.md) 

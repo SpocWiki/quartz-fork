@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vallenhove](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Vallenhove.md) 
-- [Vallenhove.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Vallenhove.internal.md) 
-- [Vallenhove.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Vallenhove.protect.md) 
-- [Vallenhove.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Vallenhove.private.md) 
-- [Vallenhove.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Vallenhove.personal.md) 
-- [Vallenhove.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Vallenhove.secret.md) 

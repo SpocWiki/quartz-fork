@@ -18,10 +18,3 @@ title: Triz-multi-story
 Use a multi-story arrangement of objects instead of a single-story arrangement.
 
 
-## Confidential Links & Embeds: 
-- [Triz-multi-story](../../../../_public/tech/Triz/Sub/Triz-multi-story.md) 
-- [Triz-multi-story.internal](../../../../_internal/tech/Triz/Sub/Triz-multi-story.internal.md) 
-- [Triz-multi-story.protect](../../../../_protect/tech/Triz/Sub/Triz-multi-story.protect.md) 
-- [Triz-multi-story.private](../../../../_private/tech/Triz/Sub/Triz-multi-story.private.md) 
-- [Triz-multi-story.personal](../../../../_personal/tech/Triz/Sub/Triz-multi-story.personal.md) 
-- [Triz-multi-story.secret](../../../../_secret/tech/Triz/Sub/Triz-multi-story.secret.md) 

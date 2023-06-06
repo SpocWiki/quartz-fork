@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klin](../../../../../../_public/geo/Continent/Europe/Russia/City/Klin.md) 
-- [Klin.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Klin.internal.md) 
-- [Klin.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Klin.protect.md) 
-- [Klin.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Klin.private.md) 
-- [Klin.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Klin.personal.md) 
-- [Klin.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Klin.secret.md) 

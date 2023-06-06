@@ -19,10 +19,3 @@ title: Triz-Quantity+Spheroidality-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Spheroidality-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Intensity.md) 
-- [Triz-Quantity+Spheroidality-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Intensity.internal.md) 
-- [Triz-Quantity+Spheroidality-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Intensity.protect.md) 
-- [Triz-Quantity+Spheroidality-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Intensity.private.md) 
-- [Triz-Quantity+Spheroidality-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Intensity.personal.md) 
-- [Triz-Quantity+Spheroidality-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Intensity.secret.md) 

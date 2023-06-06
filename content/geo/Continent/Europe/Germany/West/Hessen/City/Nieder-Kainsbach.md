@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nieder-Kainsbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.md) 
-- [Nieder-Kainsbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.internal.md) 
-- [Nieder-Kainsbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.protect.md) 
-- [Nieder-Kainsbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.private.md) 
-- [Nieder-Kainsbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.personal.md) 
-- [Nieder-Kainsbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Nieder-Kainsbach.secret.md) 

@@ -43,10 +43,3 @@ A stadium.
 
 
 
-## Confidential Links & Embeds: 
-- [stadium_or_arena](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.md) 
-- [stadium_or_arena.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.internal.md) 
-- [stadium_or_arena.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.protect.md) 
-- [stadium_or_arena.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.private.md) 
-- [stadium_or_arena.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.personal.md) 
-- [stadium_or_arena.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.secret.md) 

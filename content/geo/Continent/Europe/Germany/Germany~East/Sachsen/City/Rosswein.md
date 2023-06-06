@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rosswein](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rosswein.md) 
-- [Rosswein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rosswein.internal.md) 
-- [Rosswein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rosswein.protect.md) 
-- [Rosswein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rosswein.private.md) 
-- [Rosswein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rosswein.personal.md) 
-- [Rosswein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Rosswein.secret.md) 

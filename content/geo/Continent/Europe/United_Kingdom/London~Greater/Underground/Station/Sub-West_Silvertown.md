@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-West_Silvertown](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Silvertown.md) 
-- [Sub-West_Silvertown.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Silvertown.internal.md) 
-- [Sub-West_Silvertown.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Silvertown.protect.md) 
-- [Sub-West_Silvertown.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Silvertown.private.md) 
-- [Sub-West_Silvertown.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Silvertown.personal.md) 
-- [Sub-West_Silvertown.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-West_Silvertown.secret.md) 

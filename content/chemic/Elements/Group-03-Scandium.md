@@ -25,10 +25,3 @@ title: Group-03-Scandium
 
 
 
-## Confidential Links & Embeds: 
-- [Group-03-Scandium](../../../_public/chemic/Elements/Group-03-Scandium.md) 
-- [Group-03-Scandium.internal](../../../_internal/chemic/Elements/Group-03-Scandium.internal.md) 
-- [Group-03-Scandium.protect](../../../_protect/chemic/Elements/Group-03-Scandium.protect.md) 
-- [Group-03-Scandium.private](../../../_private/chemic/Elements/Group-03-Scandium.private.md) 
-- [Group-03-Scandium.personal](../../../_personal/chemic/Elements/Group-03-Scandium.personal.md) 
-- [Group-03-Scandium.secret](../../../_secret/chemic/Elements/Group-03-Scandium.secret.md) 

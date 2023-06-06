@@ -32,10 +32,3 @@ markerFolder: ./Baden-Wuerttemberg/City
 
 
 
-## Confidential Links & Embeds: 
-- [Baden-Wuerttemberg](../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.md) 
-- [Baden-Wuerttemberg.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.internal.md) 
-- [Baden-Wuerttemberg.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.protect.md) 
-- [Baden-Wuerttemberg.private](../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.private.md) 
-- [Baden-Wuerttemberg.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.personal.md) 
-- [Baden-Wuerttemberg.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lewin](../../../../../../_public/geo/Continent/Europe/Poland/City/Lewin.md) 
-- [Lewin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lewin.internal.md) 
-- [Lewin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lewin.protect.md) 
-- [Lewin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lewin.private.md) 
-- [Lewin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lewin.personal.md) 
-- [Lewin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lewin.secret.md) 

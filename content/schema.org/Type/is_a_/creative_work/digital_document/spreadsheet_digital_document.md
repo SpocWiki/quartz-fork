@@ -43,10 +43,3 @@ A spreadsheet file.
 
 
 
-## Confidential Links & Embeds: 
-- [spreadsheet_digital_document](../../../../../../_public/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.md) 
-- [spreadsheet_digital_document.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.internal.md) 
-- [spreadsheet_digital_document.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.protect.md) 
-- [spreadsheet_digital_document.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.private.md) 
-- [spreadsheet_digital_document.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.personal.md) 
-- [spreadsheet_digital_document.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.secret.md) 

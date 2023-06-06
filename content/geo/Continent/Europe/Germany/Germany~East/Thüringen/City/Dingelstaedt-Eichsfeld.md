@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dingelstaedt-Eichsfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Dingelstaedt-Eichsfeld.md) 
-- [Dingelstaedt-Eichsfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Dingelstaedt-Eichsfeld.internal.md) 
-- [Dingelstaedt-Eichsfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Dingelstaedt-Eichsfeld.protect.md) 
-- [Dingelstaedt-Eichsfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Dingelstaedt-Eichsfeld.private.md) 
-- [Dingelstaedt-Eichsfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Dingelstaedt-Eichsfeld.personal.md) 
-- [Dingelstaedt-Eichsfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Dingelstaedt-Eichsfeld.secret.md) 

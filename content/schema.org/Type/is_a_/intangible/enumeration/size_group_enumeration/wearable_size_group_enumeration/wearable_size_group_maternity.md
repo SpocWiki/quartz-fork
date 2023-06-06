@@ -47,10 +47,3 @@ Size group "Maternity" for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_group_maternity](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.md) 
-- [wearable_size_group_maternity.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.internal.md) 
-- [wearable_size_group_maternity.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.protect.md) 
-- [wearable_size_group_maternity.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.private.md) 
-- [wearable_size_group_maternity.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.personal.md) 
-- [wearable_size_group_maternity.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_maternity.secret.md) 

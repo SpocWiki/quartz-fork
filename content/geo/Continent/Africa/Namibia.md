@@ -125,7 +125,7 @@ markerFolder: ./Namibia/City
 
 ![350](geo/Continent/Africa/Namibia/Coat_of_arms_of_Namibia.svg)
 
-![Anthem-Namibia](xLarge/National-Anthem/Anthem-Namibia.mp3)
+[Anthem-Namibia](xLarge/National-Anthem/Anthem-Namibia.mp3)
 
 ![350](geo/Continent/Africa/Namibia/Flag_of_Namibia.svg)
 
@@ -136,10 +136,3 @@ markerFolder: ./Namibia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Namibia](../../../../_public/geo/Continent/Africa/Namibia.md) 
-- [Namibia.internal](../../../../_internal/geo/Continent/Africa/Namibia.internal.md) 
-- [Namibia.protect](../../../../_protect/geo/Continent/Africa/Namibia.protect.md) 
-- [Namibia.private](../../../../_private/geo/Continent/Africa/Namibia.private.md) 
-- [Namibia.personal](../../../../_personal/geo/Continent/Africa/Namibia.personal.md) 
-- [Namibia.secret](../../../../_secret/geo/Continent/Africa/Namibia.secret.md) 

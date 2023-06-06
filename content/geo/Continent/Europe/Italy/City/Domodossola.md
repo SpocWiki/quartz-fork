@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Domodossola](../../../../../../_public/geo/Continent/Europe/Italy/City/Domodossola.md) 
-- [Domodossola.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Domodossola.internal.md) 
-- [Domodossola.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Domodossola.protect.md) 
-- [Domodossola.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Domodossola.private.md) 
-- [Domodossola.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Domodossola.personal.md) 
-- [Domodossola.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Domodossola.secret.md) 

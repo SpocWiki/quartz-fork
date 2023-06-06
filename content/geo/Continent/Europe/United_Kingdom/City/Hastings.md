@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hastings](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Hastings.md) 
-- [Hastings.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Hastings.internal.md) 
-- [Hastings.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Hastings.protect.md) 
-- [Hastings.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Hastings.private.md) 
-- [Hastings.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Hastings.personal.md) 
-- [Hastings.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Hastings.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tortoli](../../../../../../_public/geo/Continent/Europe/Italy/City/Tortoli.md) 
-- [Tortoli.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Tortoli.internal.md) 
-- [Tortoli.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Tortoli.protect.md) 
-- [Tortoli.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Tortoli.private.md) 
-- [Tortoli.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Tortoli.personal.md) 
-- [Tortoli.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Tortoli.secret.md) 

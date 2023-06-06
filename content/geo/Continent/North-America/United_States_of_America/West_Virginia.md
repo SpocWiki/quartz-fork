@@ -39,10 +39,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [West_Virginia](../../../../../_public/geo/Continent/North-America/United_States_of_America/West_Virginia.md) 
-- [West_Virginia.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/West_Virginia.internal.md) 
-- [West_Virginia.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/West_Virginia.protect.md) 
-- [West_Virginia.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/West_Virginia.private.md) 
-- [West_Virginia.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/West_Virginia.personal.md) 
-- [West_Virginia.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/West_Virginia.secret.md) 

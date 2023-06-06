@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rosenhagen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rosenhagen.md) 
-- [Rosenhagen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rosenhagen.internal.md) 
-- [Rosenhagen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rosenhagen.protect.md) 
-- [Rosenhagen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rosenhagen.private.md) 
-- [Rosenhagen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rosenhagen.personal.md) 
-- [Rosenhagen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rosenhagen.secret.md) 

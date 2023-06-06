@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_hosting_organization](../../../../../_public/schema.org/Predicate/Relations/has/has_hosting_organization.md) 
-- [has_hosting_organization.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_hosting_organization.internal.md) 
-- [has_hosting_organization.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_hosting_organization.protect.md) 
-- [has_hosting_organization.private](../../../../../_private/schema.org/Predicate/Relations/has/has_hosting_organization.private.md) 
-- [has_hosting_organization.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_hosting_organization.personal.md) 
-- [has_hosting_organization.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_hosting_organization.secret.md) 

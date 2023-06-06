@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Longhborough](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Longhborough.md) 
-- [Longhborough.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Longhborough.internal.md) 
-- [Longhborough.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Longhborough.protect.md) 
-- [Longhborough.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Longhborough.private.md) 
-- [Longhborough.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Longhborough.personal.md) 
-- [Longhborough.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Longhborough.secret.md) 

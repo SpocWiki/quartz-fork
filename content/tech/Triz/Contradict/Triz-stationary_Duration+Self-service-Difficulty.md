@@ -19,10 +19,3 @@ title: Triz-stationary_Duration+Self-service-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Duration+Self-service-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.md) 
-- [Triz-stationary_Duration+Self-service-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.internal.md) 
-- [Triz-stationary_Duration+Self-service-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.protect.md) 
-- [Triz-stationary_Duration+Self-service-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.private.md) 
-- [Triz-stationary_Duration+Self-service-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.personal.md) 
-- [Triz-stationary_Duration+Self-service-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Self-service-Difficulty.secret.md) 

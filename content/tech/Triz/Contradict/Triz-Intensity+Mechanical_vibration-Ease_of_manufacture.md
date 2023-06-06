@@ -19,10 +19,3 @@ title: Triz-Intensity+Mechanical_vibration-Ease_of_manufacture
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Mechanical_vibration-Ease_of_manufacture](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.md) 
-- [Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.internal.md) 
-- [Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.protect.md) 
-- [Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.private.md) 
-- [Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.personal.md) 
-- [Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Mechanical_vibration-Ease_of_manufacture.secret.md) 

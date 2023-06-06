@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Martina_Franka](../../../../../../_public/geo/Continent/Europe/Italy/City/Martina_Franka.md) 
-- [Martina_Franka.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Martina_Franka.internal.md) 
-- [Martina_Franka.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Martina_Franka.protect.md) 
-- [Martina_Franka.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Martina_Franka.private.md) 
-- [Martina_Franka.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Martina_Franka.personal.md) 
-- [Martina_Franka.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Martina_Franka.secret.md) 

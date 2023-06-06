@@ -34,10 +34,3 @@ title: Radon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radon)
 
-## Confidential Links & Embeds: 
-- [Radon](../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Radon.md) 
-- [Radon.internal](../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Radon.internal.md) 
-- [Radon.protect](../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Radon.protect.md) 
-- [Radon.private](../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Radon.private.md) 
-- [Radon.personal](../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Radon.personal.md) 
-- [Radon.secret](../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Radon.secret.md) 

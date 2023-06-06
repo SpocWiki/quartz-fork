@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tournon](../../../../../../_public/geo/Continent/Europe/France/City/Tournon.md) 
-- [Tournon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Tournon.internal.md) 
-- [Tournon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Tournon.protect.md) 
-- [Tournon.private](../../../../../../_private/geo/Continent/Europe/France/City/Tournon.private.md) 
-- [Tournon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Tournon.personal.md) 
-- [Tournon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Tournon.secret.md) 

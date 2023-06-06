@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Domslau](../../../../../../_public/geo/Continent/Europe/Poland/City/Domslau.md) 
-- [Domslau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Domslau.internal.md) 
-- [Domslau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Domslau.protect.md) 
-- [Domslau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Domslau.private.md) 
-- [Domslau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Domslau.personal.md) 
-- [Domslau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Domslau.secret.md) 

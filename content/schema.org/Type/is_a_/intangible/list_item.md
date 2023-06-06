@@ -45,10 +45,3 @@ An list item, e.g. a step in a checklist or how-to description.
 
 
 
-## Confidential Links & Embeds: 
-- [list_item](../../../../../_public/schema.org/Type/is_a_/intangible/list_item.md) 
-- [list_item.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/list_item.internal.md) 
-- [list_item.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/list_item.protect.md) 
-- [list_item.private](../../../../../_private/schema.org/Type/is_a_/intangible/list_item.private.md) 
-- [list_item.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/list_item.personal.md) 
-- [list_item.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/list_item.secret.md) 

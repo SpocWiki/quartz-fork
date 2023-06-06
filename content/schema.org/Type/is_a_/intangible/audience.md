@@ -45,10 +45,3 @@ Intended audience for an item, i.e. the group for whom the item was created.
 
 
 
-## Confidential Links & Embeds: 
-- [audience](../../../../../_public/schema.org/Type/is_a_/intangible/audience.md) 
-- [audience.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/audience.internal.md) 
-- [audience.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/audience.protect.md) 
-- [audience.private](../../../../../_private/schema.org/Type/is_a_/intangible/audience.private.md) 
-- [audience.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/audience.personal.md) 
-- [audience.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/audience.secret.md) 

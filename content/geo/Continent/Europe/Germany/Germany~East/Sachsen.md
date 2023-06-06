@@ -31,10 +31,3 @@ markerFolder: ./Sachsen/City
 
 
 
-## Confidential Links & Embeds: 
-- [Sachsen](../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen.md) 
-- [Sachsen.internal](../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen.internal.md) 
-- [Sachsen.protect](../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen.protect.md) 
-- [Sachsen.private](../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen.private.md) 
-- [Sachsen.personal](../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen.personal.md) 
-- [Sachsen.secret](../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen.secret.md) 

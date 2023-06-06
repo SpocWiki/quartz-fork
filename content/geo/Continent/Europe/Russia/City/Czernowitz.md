@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Czernowitz](../../../../../../_public/geo/Continent/Europe/Russia/City/Czernowitz.md) 
-- [Czernowitz.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Czernowitz.internal.md) 
-- [Czernowitz.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Czernowitz.protect.md) 
-- [Czernowitz.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Czernowitz.private.md) 
-- [Czernowitz.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Czernowitz.personal.md) 
-- [Czernowitz.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Czernowitz.secret.md) 

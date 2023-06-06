@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wadendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wadendorf.md) 
-- [Wadendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wadendorf.internal.md) 
-- [Wadendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wadendorf.protect.md) 
-- [Wadendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wadendorf.private.md) 
-- [Wadendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wadendorf.personal.md) 
-- [Wadendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wadendorf.secret.md) 

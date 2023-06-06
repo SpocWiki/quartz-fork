@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valvasone](../../../../../../_public/geo/Continent/Europe/Italy/City/Valvasone.md) 
-- [Valvasone.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Valvasone.internal.md) 
-- [Valvasone.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Valvasone.protect.md) 
-- [Valvasone.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Valvasone.private.md) 
-- [Valvasone.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Valvasone.personal.md) 
-- [Valvasone.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Valvasone.secret.md) 

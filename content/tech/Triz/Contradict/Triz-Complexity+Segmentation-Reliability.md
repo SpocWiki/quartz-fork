@@ -19,10 +19,3 @@ title: Triz-Complexity+Segmentation-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Segmentation-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Segmentation-Reliability.md) 
-- [Triz-Complexity+Segmentation-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Segmentation-Reliability.internal.md) 
-- [Triz-Complexity+Segmentation-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Segmentation-Reliability.protect.md) 
-- [Triz-Complexity+Segmentation-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Segmentation-Reliability.private.md) 
-- [Triz-Complexity+Segmentation-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Segmentation-Reliability.personal.md) 
-- [Triz-Complexity+Segmentation-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Segmentation-Reliability.secret.md) 

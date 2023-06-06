@@ -48,10 +48,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_in_store_return_offered](../../../../_public/schema.org/Predicate/Flags/is_in_store_return_offered.md) 
-- [is_in_store_return_offered.internal](../../../../_internal/schema.org/Predicate/Flags/is_in_store_return_offered.internal.md) 
-- [is_in_store_return_offered.protect](../../../../_protect/schema.org/Predicate/Flags/is_in_store_return_offered.protect.md) 
-- [is_in_store_return_offered.private](../../../../_private/schema.org/Predicate/Flags/is_in_store_return_offered.private.md) 
-- [is_in_store_return_offered.personal](../../../../_personal/schema.org/Predicate/Flags/is_in_store_return_offered.personal.md) 
-- [is_in_store_return_offered.secret](../../../../_secret/schema.org/Predicate/Flags/is_in_store_return_offered.secret.md) 

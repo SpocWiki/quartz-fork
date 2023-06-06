@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schleswig](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.md) 
-- [Schleswig.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.internal.md) 
-- [Schleswig.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.protect.md) 
-- [Schleswig.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.private.md) 
-- [Schleswig.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.personal.md) 
-- [Schleswig.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schleswig.secret.md) 

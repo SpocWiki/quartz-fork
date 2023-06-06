@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.md) 
-- [Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.internal.md) 
-- [Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.protect.md) 
-- [Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.private.md) 
-- [Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.personal.md) 
-- [Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Rejecting_and_regenerating_parts-Automation.secret.md) 

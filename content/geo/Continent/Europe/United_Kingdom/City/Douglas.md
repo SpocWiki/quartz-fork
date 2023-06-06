@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Douglas](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Douglas.md) 
-- [Douglas.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Douglas.internal.md) 
-- [Douglas.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Douglas.protect.md) 
-- [Douglas.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Douglas.private.md) 
-- [Douglas.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Douglas.personal.md) 
-- [Douglas.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Douglas.secret.md) 

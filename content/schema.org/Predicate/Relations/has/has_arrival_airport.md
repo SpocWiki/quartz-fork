@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_arrival_airport](../../../../../_public/schema.org/Predicate/Relations/has/has_arrival_airport.md) 
-- [has_arrival_airport.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_arrival_airport.internal.md) 
-- [has_arrival_airport.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_arrival_airport.protect.md) 
-- [has_arrival_airport.private](../../../../../_private/schema.org/Predicate/Relations/has/has_arrival_airport.private.md) 
-- [has_arrival_airport.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_arrival_airport.personal.md) 
-- [has_arrival_airport.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_arrival_airport.secret.md) 

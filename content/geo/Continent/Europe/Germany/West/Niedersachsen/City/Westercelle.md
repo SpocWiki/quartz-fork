@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Westercelle](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.md) 
-- [Westercelle.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.internal.md) 
-- [Westercelle.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.protect.md) 
-- [Westercelle.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.private.md) 
-- [Westercelle.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.personal.md) 
-- [Westercelle.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Westercelle.secret.md) 

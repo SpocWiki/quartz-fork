@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gronau~Westfahlen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gronau~Westfahlen.md) 
-- [Gronau~Westfahlen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gronau~Westfahlen.internal.md) 
-- [Gronau~Westfahlen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gronau~Westfahlen.protect.md) 
-- [Gronau~Westfahlen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gronau~Westfahlen.private.md) 
-- [Gronau~Westfahlen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gronau~Westfahlen.personal.md) 
-- [Gronau~Westfahlen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Gronau~Westfahlen.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stolpen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stolpen.md) 
-- [Stolpen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stolpen.internal.md) 
-- [Stolpen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stolpen.protect.md) 
-- [Stolpen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stolpen.private.md) 
-- [Stolpen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stolpen.personal.md) 
-- [Stolpen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Stolpen.secret.md) 

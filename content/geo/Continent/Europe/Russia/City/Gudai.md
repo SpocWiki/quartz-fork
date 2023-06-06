@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gudai](../../../../../../_public/geo/Continent/Europe/Russia/City/Gudai.md) 
-- [Gudai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Gudai.internal.md) 
-- [Gudai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Gudai.protect.md) 
-- [Gudai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Gudai.private.md) 
-- [Gudai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Gudai.personal.md) 
-- [Gudai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Gudai.secret.md) 

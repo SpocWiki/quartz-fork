@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Himmelpforten](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Himmelpforten.md) 
-- [Himmelpforten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Himmelpforten.internal.md) 
-- [Himmelpforten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Himmelpforten.protect.md) 
-- [Himmelpforten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Himmelpforten.private.md) 
-- [Himmelpforten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Himmelpforten.personal.md) 
-- [Himmelpforten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Himmelpforten.secret.md) 

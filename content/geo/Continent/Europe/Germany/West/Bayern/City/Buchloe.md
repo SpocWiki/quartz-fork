@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buchloe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Buchloe.md) 
-- [Buchloe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Buchloe.internal.md) 
-- [Buchloe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Buchloe.protect.md) 
-- [Buchloe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Buchloe.private.md) 
-- [Buchloe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Buchloe.personal.md) 
-- [Buchloe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Buchloe.secret.md) 

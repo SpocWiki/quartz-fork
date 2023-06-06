@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saransk](../../../../../../_public/geo/Continent/Europe/Russia/City/Saransk.md) 
-- [Saransk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Saransk.internal.md) 
-- [Saransk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Saransk.protect.md) 
-- [Saransk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Saransk.private.md) 
-- [Saransk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Saransk.personal.md) 
-- [Saransk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Saransk.secret.md) 

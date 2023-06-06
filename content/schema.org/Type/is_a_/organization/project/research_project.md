@@ -45,10 +45,3 @@ A Research project.
 
 
 
-## Confidential Links & Embeds: 
-- [research_project](../../../../../../_public/schema.org/Type/is_a_/organization/project/research_project.md) 
-- [research_project.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/project/research_project.internal.md) 
-- [research_project.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/project/research_project.protect.md) 
-- [research_project.private](../../../../../../_private/schema.org/Type/is_a_/organization/project/research_project.private.md) 
-- [research_project.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/project/research_project.personal.md) 
-- [research_project.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/project/research_project.secret.md) 

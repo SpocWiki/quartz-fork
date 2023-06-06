@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goessweinstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.md) 
-- [Goessweinstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.internal.md) 
-- [Goessweinstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.protect.md) 
-- [Goessweinstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.private.md) 
-- [Goessweinstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.personal.md) 
-- [Goessweinstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.secret.md) 

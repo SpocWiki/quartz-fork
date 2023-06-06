@@ -43,10 +43,3 @@ The act of expressing a preference from a fixed/finite/structured set of choices
 
 
 
-## Confidential Links & Embeds: 
-- [vote_action](../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/choose_action/vote_action.md) 
-- [vote_action.internal](../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/choose_action/vote_action.internal.md) 
-- [vote_action.protect](../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/choose_action/vote_action.protect.md) 
-- [vote_action.private](../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/choose_action/vote_action.private.md) 
-- [vote_action.personal](../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/choose_action/vote_action.personal.md) 
-- [vote_action.secret](../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/choose_action/vote_action.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bassano](../../../../../../_public/geo/Continent/Europe/Italy/City/Bassano.md) 
-- [Bassano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bassano.internal.md) 
-- [Bassano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bassano.protect.md) 
-- [Bassano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bassano.private.md) 
-- [Bassano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bassano.personal.md) 
-- [Bassano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bassano.secret.md) 

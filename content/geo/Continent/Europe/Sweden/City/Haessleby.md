@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haessleby](../../../../../../_public/geo/Continent/Europe/Sweden/City/Haessleby.md) 
-- [Haessleby.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Haessleby.internal.md) 
-- [Haessleby.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Haessleby.protect.md) 
-- [Haessleby.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Haessleby.private.md) 
-- [Haessleby.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Haessleby.personal.md) 
-- [Haessleby.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Haessleby.secret.md) 

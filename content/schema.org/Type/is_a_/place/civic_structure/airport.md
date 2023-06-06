@@ -43,10 +43,3 @@ An airport.
 
 
 
-## Confidential Links & Embeds: 
-- [airport](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/airport.md) 
-- [airport.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/airport.internal.md) 
-- [airport.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/airport.protect.md) 
-- [airport.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/airport.private.md) 
-- [airport.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/airport.personal.md) 
-- [airport.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/airport.secret.md) 

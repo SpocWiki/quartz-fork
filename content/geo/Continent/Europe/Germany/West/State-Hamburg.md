@@ -33,10 +33,3 @@ markerFolder: ./State-Hamburg/City
 
 
 
-## Confidential Links & Embeds: 
-- [State-Hamburg](../../../../../../_public/geo/Continent/Europe/Germany/West/State-Hamburg.md) 
-- [State-Hamburg.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg.internal.md) 
-- [State-Hamburg.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg.protect.md) 
-- [State-Hamburg.private](../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg.private.md) 
-- [State-Hamburg.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg.personal.md) 
-- [State-Hamburg.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg.secret.md) 

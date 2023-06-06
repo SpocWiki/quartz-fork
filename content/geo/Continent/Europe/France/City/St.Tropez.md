@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Tropez](../../../../../../_public/geo/Continent/Europe/France/City/St.Tropez.md) 
-- [St.Tropez.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Tropez.internal.md) 
-- [St.Tropez.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Tropez.protect.md) 
-- [St.Tropez.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Tropez.private.md) 
-- [St.Tropez.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Tropez.personal.md) 
-- [St.Tropez.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Tropez.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nowograd=Volynskiy](../../../../../../_public/geo/Continent/Europe/Russia/City/Nowograd=Volynskiy.md) 
-- [Nowograd=Volynskiy.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowograd=Volynskiy.internal.md) 
-- [Nowograd=Volynskiy.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowograd=Volynskiy.protect.md) 
-- [Nowograd=Volynskiy.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nowograd=Volynskiy.private.md) 
-- [Nowograd=Volynskiy.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowograd=Volynskiy.personal.md) 
-- [Nowograd=Volynskiy.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowograd=Volynskiy.secret.md) 

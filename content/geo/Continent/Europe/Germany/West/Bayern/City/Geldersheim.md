@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Geldersheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Geldersheim.md) 
-- [Geldersheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Geldersheim.internal.md) 
-- [Geldersheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Geldersheim.protect.md) 
-- [Geldersheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Geldersheim.private.md) 
-- [Geldersheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Geldersheim.personal.md) 
-- [Geldersheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Geldersheim.secret.md) 

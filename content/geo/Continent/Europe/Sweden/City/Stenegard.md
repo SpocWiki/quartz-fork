@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stenegard](../../../../../../_public/geo/Continent/Europe/Sweden/City/Stenegard.md) 
-- [Stenegard.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stenegard.internal.md) 
-- [Stenegard.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stenegard.protect.md) 
-- [Stenegard.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Stenegard.private.md) 
-- [Stenegard.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stenegard.personal.md) 
-- [Stenegard.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stenegard.secret.md) 

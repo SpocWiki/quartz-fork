@@ -19,10 +19,3 @@ title: Triz-affected_harm+Convert_harm_into_benefit-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Convert_harm_into_benefit-Power](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Power.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Power.internal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Power.protect.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Power.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Power.private.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Power.personal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-Power.secret.md) 

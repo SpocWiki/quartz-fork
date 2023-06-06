@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chateau-Chninon](../../../../../../_public/geo/Continent/Europe/France/City/Chateau-Chninon.md) 
-- [Chateau-Chninon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chateau-Chninon.internal.md) 
-- [Chateau-Chninon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chateau-Chninon.protect.md) 
-- [Chateau-Chninon.private](../../../../../../_private/geo/Continent/Europe/France/City/Chateau-Chninon.private.md) 
-- [Chateau-Chninon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chateau-Chninon.personal.md) 
-- [Chateau-Chninon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chateau-Chninon.secret.md) 

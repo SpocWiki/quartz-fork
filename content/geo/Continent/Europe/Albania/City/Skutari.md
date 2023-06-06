@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skutari](../../../../../../_public/geo/Continent/Europe/Albania/City/Skutari.md) 
-- [Skutari.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Skutari.internal.md) 
-- [Skutari.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Skutari.protect.md) 
-- [Skutari.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Skutari.private.md) 
-- [Skutari.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Skutari.personal.md) 
-- [Skutari.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Skutari.secret.md) 

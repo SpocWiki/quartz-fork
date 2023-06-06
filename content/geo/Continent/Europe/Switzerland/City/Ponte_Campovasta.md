@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ponte_Campovasta](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.md) 
-- [Ponte_Campovasta.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.internal.md) 
-- [Ponte_Campovasta.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.protect.md) 
-- [Ponte_Campovasta.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.private.md) 
-- [Ponte_Campovasta.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.personal.md) 
-- [Ponte_Campovasta.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Ponte_Campovasta.secret.md) 

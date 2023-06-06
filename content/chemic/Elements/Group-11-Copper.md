@@ -18,10 +18,3 @@ title: Group-11-Copper
 
 
 
-## Confidential Links & Embeds: 
-- [Group-11-Copper](../../../_public/chemic/Elements/Group-11-Copper.md) 
-- [Group-11-Copper.internal](../../../_internal/chemic/Elements/Group-11-Copper.internal.md) 
-- [Group-11-Copper.protect](../../../_protect/chemic/Elements/Group-11-Copper.protect.md) 
-- [Group-11-Copper.private](../../../_private/chemic/Elements/Group-11-Copper.private.md) 
-- [Group-11-Copper.personal](../../../_personal/chemic/Elements/Group-11-Copper.personal.md) 
-- [Group-11-Copper.secret](../../../_secret/chemic/Elements/Group-11-Copper.secret.md) 

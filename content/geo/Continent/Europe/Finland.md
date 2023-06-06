@@ -122,7 +122,7 @@ markerFolder: ./Finland/City
 [VehicleCode::FIN]
 [Capital::[Helsingfors](geo/Continent/Europe/Finland/City/Helsingfors.md)]
 ![350](geo/Continent/Europe/Finland/Coat_of_arms_of_Finland.svg)
-![Anthem-Finland](xLarge/National-Anthem/Anthem-Finland.mp3)
+[Anthem-Finland](xLarge/National-Anthem/Anthem-Finland.mp3)
 ![350](geo/Continent/Europe/Finland/Flag_of_Finland.svg)
 [Alcohol-l::12.5]
 [Language-Id::]
@@ -131,10 +131,3 @@ markerFolder: ./Finland/City
 
 
 
-## Confidential Links & Embeds: 
-- [Finland](../../../../_public/geo/Continent/Europe/Finland.md) 
-- [Finland.internal](../../../../_internal/geo/Continent/Europe/Finland.internal.md) 
-- [Finland.protect](../../../../_protect/geo/Continent/Europe/Finland.protect.md) 
-- [Finland.private](../../../../_private/geo/Continent/Europe/Finland.private.md) 
-- [Finland.personal](../../../../_personal/geo/Continent/Europe/Finland.personal.md) 
-- [Finland.secret](../../../../_secret/geo/Continent/Europe/Finland.secret.md) 

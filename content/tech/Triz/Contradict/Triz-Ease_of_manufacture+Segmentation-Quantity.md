@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Segmentation-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Segmentation-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.internal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.protect.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.private.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.personal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Quantity.secret.md) 

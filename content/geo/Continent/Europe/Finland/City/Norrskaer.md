@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Norrskaer](../../../../../../_public/geo/Continent/Europe/Finland/City/Norrskaer.md) 
-- [Norrskaer.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Norrskaer.internal.md) 
-- [Norrskaer.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Norrskaer.protect.md) 
-- [Norrskaer.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Norrskaer.private.md) 
-- [Norrskaer.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Norrskaer.personal.md) 
-- [Norrskaer.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Norrskaer.secret.md) 

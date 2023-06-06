@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hohentauern](../../../../../../_public/geo/Continent/Europe/Austria/City/Hohentauern.md) 
-- [Hohentauern.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Hohentauern.internal.md) 
-- [Hohentauern.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Hohentauern.protect.md) 
-- [Hohentauern.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Hohentauern.private.md) 
-- [Hohentauern.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Hohentauern.personal.md) 
-- [Hohentauern.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Hohentauern.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Thourout](../../../../../../_public/geo/Continent/Europe/Belgium/City/Thourout.md) 
-- [Thourout.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Thourout.internal.md) 
-- [Thourout.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Thourout.protect.md) 
-- [Thourout.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Thourout.private.md) 
-- [Thourout.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Thourout.personal.md) 
-- [Thourout.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Thourout.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bradford](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bradford.md) 
-- [Bradford.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bradford.internal.md) 
-- [Bradford.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bradford.protect.md) 
-- [Bradford.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bradford.private.md) 
-- [Bradford.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bradford.personal.md) 
-- [Bradford.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bradford.secret.md) 

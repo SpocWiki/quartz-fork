@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barnstaple](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Barnstaple.md) 
-- [Barnstaple.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Barnstaple.internal.md) 
-- [Barnstaple.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Barnstaple.protect.md) 
-- [Barnstaple.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Barnstaple.private.md) 
-- [Barnstaple.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Barnstaple.personal.md) 
-- [Barnstaple.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Barnstaple.secret.md) 

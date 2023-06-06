@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_for_a_gift](../../../../_public/schema.org/Predicate/Flags/is_for_a_gift.md) 
-- [is_for_a_gift.internal](../../../../_internal/schema.org/Predicate/Flags/is_for_a_gift.internal.md) 
-- [is_for_a_gift.protect](../../../../_protect/schema.org/Predicate/Flags/is_for_a_gift.protect.md) 
-- [is_for_a_gift.private](../../../../_private/schema.org/Predicate/Flags/is_for_a_gift.private.md) 
-- [is_for_a_gift.personal](../../../../_personal/schema.org/Predicate/Flags/is_for_a_gift.personal.md) 
-- [is_for_a_gift.secret](../../../../_secret/schema.org/Predicate/Flags/is_for_a_gift.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barnstorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.md) 
-- [Barnstorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.internal.md) 
-- [Barnstorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.protect.md) 
-- [Barnstorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.private.md) 
-- [Barnstorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.personal.md) 
-- [Barnstorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Barnstorf.secret.md) 

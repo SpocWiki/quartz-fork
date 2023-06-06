@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sarstedt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sarstedt.md) 
-- [Sarstedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sarstedt.internal.md) 
-- [Sarstedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sarstedt.protect.md) 
-- [Sarstedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sarstedt.private.md) 
-- [Sarstedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sarstedt.personal.md) 
-- [Sarstedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sarstedt.secret.md) 

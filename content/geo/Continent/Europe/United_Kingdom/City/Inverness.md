@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Inverness](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Inverness.md) 
-- [Inverness.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Inverness.internal.md) 
-- [Inverness.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Inverness.protect.md) 
-- [Inverness.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Inverness.private.md) 
-- [Inverness.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Inverness.personal.md) 
-- [Inverness.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Inverness.secret.md) 

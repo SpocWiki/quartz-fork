@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ulyanowsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Ulyanowsk.md) 
-- [Ulyanowsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ulyanowsk.internal.md) 
-- [Ulyanowsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ulyanowsk.protect.md) 
-- [Ulyanowsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ulyanowsk.private.md) 
-- [Ulyanowsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ulyanowsk.personal.md) 
-- [Ulyanowsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ulyanowsk.secret.md) 

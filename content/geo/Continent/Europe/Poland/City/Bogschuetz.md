@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bogschuetz](../../../../../../_public/geo/Continent/Europe/Poland/City/Bogschuetz.md) 
-- [Bogschuetz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bogschuetz.internal.md) 
-- [Bogschuetz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bogschuetz.protect.md) 
-- [Bogschuetz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bogschuetz.private.md) 
-- [Bogschuetz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bogschuetz.personal.md) 
-- [Bogschuetz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bogschuetz.secret.md) 

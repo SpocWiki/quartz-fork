@@ -36,10 +36,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kinshasa](../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.md) 
-- [Kinshasa.internal](../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.internal.md) 
-- [Kinshasa.protect](../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.protect.md) 
-- [Kinshasa.private](../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.private.md) 
-- [Kinshasa.personal](../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.personal.md) 
-- [Kinshasa.secret](../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.secret.md) 

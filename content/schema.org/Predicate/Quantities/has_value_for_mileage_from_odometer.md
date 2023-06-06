@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_mileage_from_odometer](../../../../_public/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.md) 
-- [has_value_for_mileage_from_odometer.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.internal.md) 
-- [has_value_for_mileage_from_odometer.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.protect.md) 
-- [has_value_for_mileage_from_odometer.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.private.md) 
-- [has_value_for_mileage_from_odometer.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.personal.md) 
-- [has_value_for_mileage_from_odometer.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.secret.md) 

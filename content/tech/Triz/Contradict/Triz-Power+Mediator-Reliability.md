@@ -19,10 +19,3 @@ title: Triz-Power+Mediator-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Mediator-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.md) 
-- [Triz-Power+Mediator-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.internal.md) 
-- [Triz-Power+Mediator-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.protect.md) 
-- [Triz-Power+Mediator-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.private.md) 
-- [Triz-Power+Mediator-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.personal.md) 
-- [Triz-Power+Mediator-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Mediator-Reliability.secret.md) 

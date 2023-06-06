@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pont_l`Evéque](../../../../../../_public/geo/Continent/Europe/France/City/Pont_l%60Ev%C3%A9que.md) 
-- [Pont_l`Evéque.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Pont_l%60Ev%C3%A9que.internal.md) 
-- [Pont_l`Evéque.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Pont_l%60Ev%C3%A9que.protect.md) 
-- [Pont_l`Evéque.private](../../../../../../_private/geo/Continent/Europe/France/City/Pont_l%60Ev%C3%A9que.private.md) 
-- [Pont_l`Evéque.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Pont_l%60Ev%C3%A9que.personal.md) 
-- [Pont_l`Evéque.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Pont_l%60Ev%C3%A9que.secret.md) 

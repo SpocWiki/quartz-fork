@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tirlemont](../../../../../../_public/geo/Continent/Europe/Belgium/City/Tirlemont.md) 
-- [Tirlemont.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Tirlemont.internal.md) 
-- [Tirlemont.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Tirlemont.protect.md) 
-- [Tirlemont.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Tirlemont.private.md) 
-- [Tirlemont.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Tirlemont.personal.md) 
-- [Tirlemont.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Tirlemont.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winchester](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Winchester.md) 
-- [Winchester.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Winchester.internal.md) 
-- [Winchester.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Winchester.protect.md) 
-- [Winchester.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Winchester.private.md) 
-- [Winchester.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Winchester.personal.md) 
-- [Winchester.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Winchester.secret.md) 

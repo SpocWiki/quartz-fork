@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bra](../../../../../../_public/geo/Continent/Europe/Italy/City/Bra.md) 
-- [Bra.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bra.internal.md) 
-- [Bra.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bra.protect.md) 
-- [Bra.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bra.private.md) 
-- [Bra.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bra.personal.md) 
-- [Bra.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bra.secret.md) 

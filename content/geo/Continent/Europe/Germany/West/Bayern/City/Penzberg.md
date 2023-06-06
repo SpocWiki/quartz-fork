@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Penzberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Penzberg.md) 
-- [Penzberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Penzberg.internal.md) 
-- [Penzberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Penzberg.protect.md) 
-- [Penzberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Penzberg.private.md) 
-- [Penzberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Penzberg.personal.md) 
-- [Penzberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Penzberg.secret.md) 

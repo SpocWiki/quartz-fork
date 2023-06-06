@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reichenbach~Oberlausitz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.md) 
-- [Reichenbach~Oberlausitz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.internal.md) 
-- [Reichenbach~Oberlausitz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.protect.md) 
-- [Reichenbach~Oberlausitz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.private.md) 
-- [Reichenbach~Oberlausitz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.personal.md) 
-- [Reichenbach~Oberlausitz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Reichenbach~Oberlausitz.secret.md) 

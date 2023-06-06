@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Peacock](../../../_public/astro/Star/Peacock.md) 
-- [Peacock.internal](../../../_internal/astro/Star/Peacock.internal.md) 
-- [Peacock.protect](../../../_protect/astro/Star/Peacock.protect.md) 
-- [Peacock.private](../../../_private/astro/Star/Peacock.private.md) 
-- [Peacock.personal](../../../_personal/astro/Star/Peacock.personal.md) 
-- [Peacock.secret](../../../_secret/astro/Star/Peacock.secret.md) 

@@ -45,10 +45,3 @@ A specific branch of medical science that pertains to the health care of women, 
 
 
 
-## Confidential Links & Embeds: 
-- [gynecologic](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/gynecologic.md) 
-- [gynecologic.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/gynecologic.internal.md) 
-- [gynecologic.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/gynecologic.protect.md) 
-- [gynecologic.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/gynecologic.private.md) 
-- [gynecologic.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/gynecologic.personal.md) 
-- [gynecologic.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/gynecologic.secret.md) 

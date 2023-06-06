@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Paimboeuf](../../../../../../_public/geo/Continent/Europe/France/City/Paimboeuf.md) 
-- [Paimboeuf.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Paimboeuf.internal.md) 
-- [Paimboeuf.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Paimboeuf.protect.md) 
-- [Paimboeuf.private](../../../../../../_private/geo/Continent/Europe/France/City/Paimboeuf.private.md) 
-- [Paimboeuf.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Paimboeuf.personal.md) 
-- [Paimboeuf.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Paimboeuf.secret.md) 

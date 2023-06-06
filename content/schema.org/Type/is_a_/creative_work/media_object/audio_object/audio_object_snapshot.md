@@ -45,10 +45,3 @@ A specific and exact (byte-for-byte) version of an <a class="localLink" href="/A
 
 
 
-## Confidential Links & Embeds: 
-- [audio_object_snapshot](../../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/audio_object/audio_object_snapshot.md) 
-- [audio_object_snapshot.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/audio_object/audio_object_snapshot.internal.md) 
-- [audio_object_snapshot.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/audio_object/audio_object_snapshot.protect.md) 
-- [audio_object_snapshot.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/audio_object/audio_object_snapshot.private.md) 
-- [audio_object_snapshot.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/audio_object/audio_object_snapshot.personal.md) 
-- [audio_object_snapshot.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/audio_object/audio_object_snapshot.secret.md) 

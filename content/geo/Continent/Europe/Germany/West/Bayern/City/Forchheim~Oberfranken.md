@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Forchheim~Oberfranken](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.md) 
-- [Forchheim~Oberfranken.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.internal.md) 
-- [Forchheim~Oberfranken.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.protect.md) 
-- [Forchheim~Oberfranken.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.private.md) 
-- [Forchheim~Oberfranken.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.personal.md) 
-- [Forchheim~Oberfranken.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Forchheim~Oberfranken.secret.md) 

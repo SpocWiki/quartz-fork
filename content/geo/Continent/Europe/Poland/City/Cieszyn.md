@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cieszyn](../../../../../../_public/geo/Continent/Europe/Poland/City/Cieszyn.md) 
-- [Cieszyn.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Cieszyn.internal.md) 
-- [Cieszyn.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Cieszyn.protect.md) 
-- [Cieszyn.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Cieszyn.private.md) 
-- [Cieszyn.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Cieszyn.personal.md) 
-- [Cieszyn.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Cieszyn.secret.md) 

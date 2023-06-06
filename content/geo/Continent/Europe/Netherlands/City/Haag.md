@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haag](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Haag.md) 
-- [Haag.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Haag.internal.md) 
-- [Haag.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Haag.protect.md) 
-- [Haag.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Haag.private.md) 
-- [Haag.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Haag.personal.md) 
-- [Haag.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Haag.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radeberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radeberg.md) 
-- [Radeberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radeberg.internal.md) 
-- [Radeberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radeberg.protect.md) 
-- [Radeberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radeberg.private.md) 
-- [Radeberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radeberg.personal.md) 
-- [Radeberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Radeberg.secret.md) 

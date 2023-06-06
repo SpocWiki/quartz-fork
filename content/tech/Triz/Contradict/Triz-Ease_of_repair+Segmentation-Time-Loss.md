@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Segmentation-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Segmentation-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Time-Loss.md) 
-- [Triz-Ease_of_repair+Segmentation-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Time-Loss.internal.md) 
-- [Triz-Ease_of_repair+Segmentation-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Time-Loss.protect.md) 
-- [Triz-Ease_of_repair+Segmentation-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Time-Loss.private.md) 
-- [Triz-Ease_of_repair+Segmentation-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Time-Loss.personal.md) 
-- [Triz-Ease_of_repair+Segmentation-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Segmentation-Time-Loss.secret.md) 

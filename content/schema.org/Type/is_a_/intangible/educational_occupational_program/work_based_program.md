@@ -45,10 +45,3 @@ A program with both an educational and employment component. Typically based at 
 
 
 
-## Confidential Links & Embeds: 
-- [work_based_program](../../../../../../_public/schema.org/Type/is_a_/intangible/educational_occupational_program/work_based_program.md) 
-- [work_based_program.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/educational_occupational_program/work_based_program.internal.md) 
-- [work_based_program.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/educational_occupational_program/work_based_program.protect.md) 
-- [work_based_program.private](../../../../../../_private/schema.org/Type/is_a_/intangible/educational_occupational_program/work_based_program.private.md) 
-- [work_based_program.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/educational_occupational_program/work_based_program.personal.md) 
-- [work_based_program.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/educational_occupational_program/work_based_program.secret.md) 

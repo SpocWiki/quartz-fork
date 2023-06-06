@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meppen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meppen.md) 
-- [Meppen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meppen.internal.md) 
-- [Meppen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meppen.protect.md) 
-- [Meppen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meppen.private.md) 
-- [Meppen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meppen.personal.md) 
-- [Meppen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meppen.secret.md) 

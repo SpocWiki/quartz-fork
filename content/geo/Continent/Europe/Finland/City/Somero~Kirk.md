@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Somero~Kirk](../../../../../../_public/geo/Continent/Europe/Finland/City/Somero~Kirk.md) 
-- [Somero~Kirk.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Somero~Kirk.internal.md) 
-- [Somero~Kirk.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Somero~Kirk.protect.md) 
-- [Somero~Kirk.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Somero~Kirk.private.md) 
-- [Somero~Kirk.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Somero~Kirk.personal.md) 
-- [Somero~Kirk.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Somero~Kirk.secret.md) 

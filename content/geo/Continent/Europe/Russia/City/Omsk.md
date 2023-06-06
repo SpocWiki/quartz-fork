@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Omsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Omsk.md) 
-- [Omsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Omsk.internal.md) 
-- [Omsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Omsk.protect.md) 
-- [Omsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Omsk.private.md) 
-- [Omsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Omsk.personal.md) 
-- [Omsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Omsk.secret.md) 

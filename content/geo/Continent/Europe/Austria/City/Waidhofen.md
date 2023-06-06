@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waidhofen](../../../../../../_public/geo/Continent/Europe/Austria/City/Waidhofen.md) 
-- [Waidhofen.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Waidhofen.internal.md) 
-- [Waidhofen.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Waidhofen.protect.md) 
-- [Waidhofen.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Waidhofen.private.md) 
-- [Waidhofen.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Waidhofen.personal.md) 
-- [Waidhofen.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Waidhofen.secret.md) 

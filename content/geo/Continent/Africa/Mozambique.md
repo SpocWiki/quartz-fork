@@ -121,7 +121,7 @@ markerFolder: ./Mozambique/City
 
 ![350](geo/Continent/Africa/Mozambique/Emblem_of_Mozambique.svg)
 
-![Anthem-Mozambique](xLarge/National-Anthem/Anthem-Mozambique.mp3)
+[Anthem-Mozambique](xLarge/National-Anthem/Anthem-Mozambique.mp3)
 
 ![350](geo/Continent/Africa/Mozambique/Flag_of_Mozambique.svg)
 [Alcohol-l::2.4]
@@ -131,10 +131,3 @@ markerFolder: ./Mozambique/City
 
 
 
-## Confidential Links & Embeds: 
-- [Mozambique](../../../../_public/geo/Continent/Africa/Mozambique.md) 
-- [Mozambique.internal](../../../../_internal/geo/Continent/Africa/Mozambique.internal.md) 
-- [Mozambique.protect](../../../../_protect/geo/Continent/Africa/Mozambique.protect.md) 
-- [Mozambique.private](../../../../_private/geo/Continent/Africa/Mozambique.private.md) 
-- [Mozambique.personal](../../../../_personal/geo/Continent/Africa/Mozambique.personal.md) 
-- [Mozambique.secret](../../../../_secret/geo/Continent/Africa/Mozambique.secret.md) 

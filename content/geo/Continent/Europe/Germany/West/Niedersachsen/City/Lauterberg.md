@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauterberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lauterberg.md) 
-- [Lauterberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lauterberg.internal.md) 
-- [Lauterberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lauterberg.protect.md) 
-- [Lauterberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lauterberg.private.md) 
-- [Lauterberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lauterberg.personal.md) 
-- [Lauterberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lauterberg.secret.md) 

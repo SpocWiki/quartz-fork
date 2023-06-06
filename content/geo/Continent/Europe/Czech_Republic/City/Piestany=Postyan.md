@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Piestany=Postyan](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.md) 
-- [Piestany=Postyan.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.internal.md) 
-- [Piestany=Postyan.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.protect.md) 
-- [Piestany=Postyan.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.private.md) 
-- [Piestany=Postyan.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.personal.md) 
-- [Piestany=Postyan.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.secret.md) 

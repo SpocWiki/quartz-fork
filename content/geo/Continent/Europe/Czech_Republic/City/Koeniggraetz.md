@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koeniggraetz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.md) 
-- [Koeniggraetz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.internal.md) 
-- [Koeniggraetz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.protect.md) 
-- [Koeniggraetz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.private.md) 
-- [Koeniggraetz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.personal.md) 
-- [Koeniggraetz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Koeniggraetz.secret.md) 

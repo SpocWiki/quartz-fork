@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vraca](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Vraca.md) 
-- [Vraca.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Vraca.internal.md) 
-- [Vraca.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Vraca.protect.md) 
-- [Vraca.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Vraca.private.md) 
-- [Vraca.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Vraca.personal.md) 
-- [Vraca.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Vraca.secret.md) 

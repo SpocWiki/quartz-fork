@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pazardjik](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Pazardjik.md) 
-- [Pazardjik.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Pazardjik.internal.md) 
-- [Pazardjik.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Pazardjik.protect.md) 
-- [Pazardjik.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Pazardjik.private.md) 
-- [Pazardjik.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Pazardjik.personal.md) 
-- [Pazardjik.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Pazardjik.secret.md) 

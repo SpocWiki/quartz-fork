@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_beneficiary_bank](../../../../../_public/schema.org/Predicate/Relations/has/has_beneficiary_bank.md) 
-- [has_beneficiary_bank.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_beneficiary_bank.internal.md) 
-- [has_beneficiary_bank.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_beneficiary_bank.protect.md) 
-- [has_beneficiary_bank.private](../../../../../_private/schema.org/Predicate/Relations/has/has_beneficiary_bank.private.md) 
-- [has_beneficiary_bank.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_beneficiary_bank.personal.md) 
-- [has_beneficiary_bank.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_beneficiary_bank.secret.md) 

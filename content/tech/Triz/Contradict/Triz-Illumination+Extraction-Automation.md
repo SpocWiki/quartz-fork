@@ -19,10 +19,3 @@ title: Triz-Illumination+Extraction-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Extraction-Automation](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Extraction-Automation.md) 
-- [Triz-Illumination+Extraction-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Extraction-Automation.internal.md) 
-- [Triz-Illumination+Extraction-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Extraction-Automation.protect.md) 
-- [Triz-Illumination+Extraction-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Extraction-Automation.private.md) 
-- [Triz-Illumination+Extraction-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Extraction-Automation.personal.md) 
-- [Triz-Illumination+Extraction-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Extraction-Automation.secret.md) 

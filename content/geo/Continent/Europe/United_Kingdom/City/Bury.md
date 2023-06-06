@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bury](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bury.md) 
-- [Bury.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bury.internal.md) 
-- [Bury.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bury.protect.md) 
-- [Bury.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bury.private.md) 
-- [Bury.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bury.personal.md) 
-- [Bury.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bury.secret.md) 

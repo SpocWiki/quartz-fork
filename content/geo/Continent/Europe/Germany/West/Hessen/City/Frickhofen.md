@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frickhofen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.md) 
-- [Frickhofen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.internal.md) 
-- [Frickhofen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.protect.md) 
-- [Frickhofen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.private.md) 
-- [Frickhofen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.personal.md) 
-- [Frickhofen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frickhofen.secret.md) 

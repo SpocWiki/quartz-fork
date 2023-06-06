@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mont-de-Marsan](../../../../../../_public/geo/Continent/Europe/France/City/Mont-de-Marsan.md) 
-- [Mont-de-Marsan.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Mont-de-Marsan.internal.md) 
-- [Mont-de-Marsan.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Mont-de-Marsan.protect.md) 
-- [Mont-de-Marsan.private](../../../../../../_private/geo/Continent/Europe/France/City/Mont-de-Marsan.private.md) 
-- [Mont-de-Marsan.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Mont-de-Marsan.personal.md) 
-- [Mont-de-Marsan.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Mont-de-Marsan.secret.md) 

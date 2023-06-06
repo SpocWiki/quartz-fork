@@ -19,10 +19,3 @@ title: Triz-Versatility+Dynamicity-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Dynamicity-Shape](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Shape.md) 
-- [Triz-Versatility+Dynamicity-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Shape.internal.md) 
-- [Triz-Versatility+Dynamicity-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Shape.protect.md) 
-- [Triz-Versatility+Dynamicity-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Shape.private.md) 
-- [Triz-Versatility+Dynamicity-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Shape.personal.md) 
-- [Triz-Versatility+Dynamicity-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Shape.secret.md) 

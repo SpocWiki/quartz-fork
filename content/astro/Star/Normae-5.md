@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Normae-5](../../../_public/astro/Star/Normae-5.md) 
-- [Normae-5.internal](../../../_internal/astro/Star/Normae-5.internal.md) 
-- [Normae-5.protect](../../../_protect/astro/Star/Normae-5.protect.md) 
-- [Normae-5.private](../../../_private/astro/Star/Normae-5.private.md) 
-- [Normae-5.personal](../../../_personal/astro/Star/Normae-5.personal.md) 
-- [Normae-5.secret](../../../_secret/astro/Star/Normae-5.secret.md) 

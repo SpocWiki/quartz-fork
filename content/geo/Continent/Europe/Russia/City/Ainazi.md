@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ainazi](../../../../../../_public/geo/Continent/Europe/Russia/City/Ainazi.md) 
-- [Ainazi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ainazi.internal.md) 
-- [Ainazi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ainazi.protect.md) 
-- [Ainazi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ainazi.private.md) 
-- [Ainazi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ainazi.personal.md) 
-- [Ainazi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ainazi.secret.md) 

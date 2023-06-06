@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Mechanical_vibration-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.md) 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.internal.md) 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.protect.md) 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.private.md) 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.personal.md) 
-- [Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mechanical_vibration-Temperature.secret.md) 

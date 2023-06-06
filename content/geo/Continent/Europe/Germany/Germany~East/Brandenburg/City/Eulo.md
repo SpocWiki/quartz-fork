@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eulo](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Eulo.md) 
-- [Eulo.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Eulo.internal.md) 
-- [Eulo.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Eulo.protect.md) 
-- [Eulo.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Eulo.private.md) 
-- [Eulo.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Eulo.personal.md) 
-- [Eulo.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Eulo.secret.md) 

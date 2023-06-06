@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hallbach](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hallbach.md) 
-- [Hallbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hallbach.internal.md) 
-- [Hallbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hallbach.protect.md) 
-- [Hallbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hallbach.private.md) 
-- [Hallbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hallbach.personal.md) 
-- [Hallbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hallbach.secret.md) 

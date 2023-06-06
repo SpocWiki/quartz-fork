@@ -43,10 +43,3 @@ CreativeWorkSeries dedicated to TV broadcast and associated online delivery.
 
 
 
-## Confidential Links & Embeds: 
-- [tv_series](../../../../../_public/schema.org/Type/is_a_/creative_work/tv_series.md) 
-- [tv_series.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/tv_series.internal.md) 
-- [tv_series.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/tv_series.protect.md) 
-- [tv_series.private](../../../../../_private/schema.org/Type/is_a_/creative_work/tv_series.private.md) 
-- [tv_series.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/tv_series.personal.md) 
-- [tv_series.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/tv_series.secret.md) 

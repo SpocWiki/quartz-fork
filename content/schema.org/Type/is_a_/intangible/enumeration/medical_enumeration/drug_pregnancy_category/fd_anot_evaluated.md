@@ -45,10 +45,3 @@ A designation that the drug in question has not been assigned a pregnancy catego
 
 
 
-## Confidential Links & Embeds: 
-- [fd_anot_evaluated](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.md) 
-- [fd_anot_evaluated.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.internal.md) 
-- [fd_anot_evaluated.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.protect.md) 
-- [fd_anot_evaluated.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.private.md) 
-- [fd_anot_evaluated.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.personal.md) 
-- [fd_anot_evaluated.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.secret.md) 

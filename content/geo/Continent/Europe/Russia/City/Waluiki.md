@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waluiki](../../../../../../_public/geo/Continent/Europe/Russia/City/Waluiki.md) 
-- [Waluiki.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Waluiki.internal.md) 
-- [Waluiki.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Waluiki.protect.md) 
-- [Waluiki.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Waluiki.private.md) 
-- [Waluiki.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Waluiki.personal.md) 
-- [Waluiki.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Waluiki.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Northeim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Northeim.md) 
-- [Northeim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Northeim.internal.md) 
-- [Northeim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Northeim.protect.md) 
-- [Northeim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Northeim.private.md) 
-- [Northeim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Northeim.personal.md) 
-- [Northeim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Northeim.secret.md) 

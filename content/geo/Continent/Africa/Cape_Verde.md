@@ -121,7 +121,7 @@ markerFolder: ./Cape_Verde/City
 
 ![350](geo/Continent/Africa/Cape_Verde/Coat_of_arms_of_Cape_Verde.svg)
 
-![Anthem-Cape-verde](xLarge/National-Anthem/Anthem-Cape-verde.mp3)
+[Anthem-Cape-verde](xLarge/National-Anthem/Anthem-Cape-verde.mp3)
 
 ![350](geo/Continent/Africa/Cape_Verde/Flag_of_Cape_Verde.svg)
 [Alcohol-l::5]
@@ -131,10 +131,3 @@ markerFolder: ./Cape_Verde/City
 
 
 
-## Confidential Links & Embeds: 
-- [Cape_Verde](../../../../_public/geo/Continent/Africa/Cape_Verde.md) 
-- [Cape_Verde.internal](../../../../_internal/geo/Continent/Africa/Cape_Verde.internal.md) 
-- [Cape_Verde.protect](../../../../_protect/geo/Continent/Africa/Cape_Verde.protect.md) 
-- [Cape_Verde.private](../../../../_private/geo/Continent/Africa/Cape_Verde.private.md) 
-- [Cape_Verde.personal](../../../../_personal/geo/Continent/Africa/Cape_Verde.personal.md) 
-- [Cape_Verde.secret](../../../../_secret/geo/Continent/Africa/Cape_Verde.secret.md) 

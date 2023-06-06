@@ -43,10 +43,3 @@ The act of resuming a device or application which was formerly paused (e.g. resu
 
 
 
-## Confidential Links & Embeds: 
-- [resume_action](../../../../../../_public/schema.org/Type/is_a_/action/control_action/resume_action.md) 
-- [resume_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/control_action/resume_action.internal.md) 
-- [resume_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/control_action/resume_action.protect.md) 
-- [resume_action.private](../../../../../../_private/schema.org/Type/is_a_/action/control_action/resume_action.private.md) 
-- [resume_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/control_action/resume_action.personal.md) 
-- [resume_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/control_action/resume_action.secret.md) 

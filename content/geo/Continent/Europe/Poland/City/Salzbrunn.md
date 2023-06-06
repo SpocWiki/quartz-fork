@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salzbrunn](../../../../../../_public/geo/Continent/Europe/Poland/City/Salzbrunn.md) 
-- [Salzbrunn.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Salzbrunn.internal.md) 
-- [Salzbrunn.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Salzbrunn.protect.md) 
-- [Salzbrunn.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Salzbrunn.private.md) 
-- [Salzbrunn.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Salzbrunn.personal.md) 
-- [Salzbrunn.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Salzbrunn.secret.md) 

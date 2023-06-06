@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mayenne](../../../../../../_public/geo/Continent/Europe/France/City/Mayenne.md) 
-- [Mayenne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Mayenne.internal.md) 
-- [Mayenne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Mayenne.protect.md) 
-- [Mayenne.private](../../../../../../_private/geo/Continent/Europe/France/City/Mayenne.private.md) 
-- [Mayenne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Mayenne.personal.md) 
-- [Mayenne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Mayenne.secret.md) 

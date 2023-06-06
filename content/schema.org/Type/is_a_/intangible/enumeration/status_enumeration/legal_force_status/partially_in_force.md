@@ -47,10 +47,3 @@ Indicates that parts of the legislation are in force, and parts are not.
 
 
 
-## Confidential Links & Embeds: 
-- [partially_in_force](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.md) 
-- [partially_in_force.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.internal.md) 
-- [partially_in_force.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.protect.md) 
-- [partially_in_force.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.private.md) 
-- [partially_in_force.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.personal.md) 
-- [partially_in_force.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.secret.md) 

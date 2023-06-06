@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jandelsbrunn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.md) 
-- [Jandelsbrunn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.internal.md) 
-- [Jandelsbrunn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.protect.md) 
-- [Jandelsbrunn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.private.md) 
-- [Jandelsbrunn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.personal.md) 
-- [Jandelsbrunn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Jandelsbrunn.secret.md) 

@@ -45,10 +45,3 @@ A summary of how users have interacted with this CreativeWork. In most cases, au
 
 
 
-## Confidential Links & Embeds: 
-- [interaction_counter](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.md) 
-- [interaction_counter.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.internal.md) 
-- [interaction_counter.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.protect.md) 
-- [interaction_counter.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.private.md) 
-- [interaction_counter.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.personal.md) 
-- [interaction_counter.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/interaction_counter.secret.md) 

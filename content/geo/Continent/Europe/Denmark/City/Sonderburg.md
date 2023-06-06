@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sonderburg](../../../../../../_public/geo/Continent/Europe/Denmark/City/Sonderburg.md) 
-- [Sonderburg.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Sonderburg.internal.md) 
-- [Sonderburg.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Sonderburg.protect.md) 
-- [Sonderburg.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Sonderburg.private.md) 
-- [Sonderburg.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Sonderburg.personal.md) 
-- [Sonderburg.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Sonderburg.secret.md) 

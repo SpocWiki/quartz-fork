@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nowgorod](../../../../../../_public/geo/Continent/Europe/Russia/City/Nowgorod.md) 
-- [Nowgorod.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowgorod.internal.md) 
-- [Nowgorod.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowgorod.protect.md) 
-- [Nowgorod.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nowgorod.private.md) 
-- [Nowgorod.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowgorod.personal.md) 
-- [Nowgorod.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowgorod.secret.md) 

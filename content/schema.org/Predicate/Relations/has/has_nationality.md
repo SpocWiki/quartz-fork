@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_nationality](../../../../../_public/schema.org/Predicate/Relations/has/has_nationality.md) 
-- [has_nationality.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_nationality.internal.md) 
-- [has_nationality.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_nationality.protect.md) 
-- [has_nationality.private](../../../../../_private/schema.org/Predicate/Relations/has/has_nationality.private.md) 
-- [has_nationality.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_nationality.personal.md) 
-- [has_nationality.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_nationality.secret.md) 

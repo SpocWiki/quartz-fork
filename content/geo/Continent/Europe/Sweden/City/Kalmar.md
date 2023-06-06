@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kalmar](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kalmar.md) 
-- [Kalmar.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kalmar.internal.md) 
-- [Kalmar.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kalmar.protect.md) 
-- [Kalmar.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kalmar.private.md) 
-- [Kalmar.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kalmar.personal.md) 
-- [Kalmar.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kalmar.secret.md) 

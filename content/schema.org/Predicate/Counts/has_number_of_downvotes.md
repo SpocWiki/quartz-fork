@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_downvotes](../../../../_public/schema.org/Predicate/Counts/has_number_of_downvotes.md) 
-- [has_number_of_downvotes.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_downvotes.internal.md) 
-- [has_number_of_downvotes.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_downvotes.protect.md) 
-- [has_number_of_downvotes.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_downvotes.private.md) 
-- [has_number_of_downvotes.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_downvotes.personal.md) 
-- [has_number_of_downvotes.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_downvotes.secret.md) 

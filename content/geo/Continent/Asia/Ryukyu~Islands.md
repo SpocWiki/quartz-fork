@@ -36,10 +36,3 @@ markerFolder: ./Ryukyu_Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [Ryukyu~Islands](../../../../_public/geo/Continent/Asia/Ryukyu~Islands.md) 
-- [Ryukyu~Islands.internal](../../../../_internal/geo/Continent/Asia/Ryukyu~Islands.internal.md) 
-- [Ryukyu~Islands.protect](../../../../_protect/geo/Continent/Asia/Ryukyu~Islands.protect.md) 
-- [Ryukyu~Islands.private](../../../../_private/geo/Continent/Asia/Ryukyu~Islands.private.md) 
-- [Ryukyu~Islands.personal](../../../../_personal/geo/Continent/Asia/Ryukyu~Islands.personal.md) 
-- [Ryukyu~Islands.secret](../../../../_secret/geo/Continent/Asia/Ryukyu~Islands.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mildenhall](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Mildenhall.md) 
-- [Mildenhall.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Mildenhall.internal.md) 
-- [Mildenhall.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Mildenhall.protect.md) 
-- [Mildenhall.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Mildenhall.private.md) 
-- [Mildenhall.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Mildenhall.personal.md) 
-- [Mildenhall.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Mildenhall.secret.md) 

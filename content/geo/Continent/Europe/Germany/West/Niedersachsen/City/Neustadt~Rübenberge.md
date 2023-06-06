@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neustadt~Rübenberge](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~R%C3%BCbenberge.md) 
-- [Neustadt~Rübenberge.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~R%C3%BCbenberge.internal.md) 
-- [Neustadt~Rübenberge.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~R%C3%BCbenberge.protect.md) 
-- [Neustadt~Rübenberge.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~R%C3%BCbenberge.private.md) 
-- [Neustadt~Rübenberge.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~R%C3%BCbenberge.personal.md) 
-- [Neustadt~Rübenberge.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neustadt~R%C3%BCbenberge.secret.md) 

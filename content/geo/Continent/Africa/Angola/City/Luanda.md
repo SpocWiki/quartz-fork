@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luanda](../../../../../../_public/geo/Continent/Africa/Angola/City/Luanda.md) 
-- [Luanda.internal](../../../../../../_internal/geo/Continent/Africa/Angola/City/Luanda.internal.md) 
-- [Luanda.protect](../../../../../../_protect/geo/Continent/Africa/Angola/City/Luanda.protect.md) 
-- [Luanda.private](../../../../../../_private/geo/Continent/Africa/Angola/City/Luanda.private.md) 
-- [Luanda.personal](../../../../../../_personal/geo/Continent/Africa/Angola/City/Luanda.personal.md) 
-- [Luanda.secret](../../../../../../_secret/geo/Continent/Africa/Angola/City/Luanda.secret.md) 

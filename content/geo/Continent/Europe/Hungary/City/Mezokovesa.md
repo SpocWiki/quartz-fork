@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mezokovesa](../../../../../../_public/geo/Continent/Europe/Hungary/City/Mezokovesa.md) 
-- [Mezokovesa.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Mezokovesa.internal.md) 
-- [Mezokovesa.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Mezokovesa.protect.md) 
-- [Mezokovesa.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Mezokovesa.private.md) 
-- [Mezokovesa.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Mezokovesa.personal.md) 
-- [Mezokovesa.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Mezokovesa.secret.md) 

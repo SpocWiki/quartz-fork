@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aurillac](../../../../../../_public/geo/Continent/Europe/France/City/Aurillac.md) 
-- [Aurillac.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Aurillac.internal.md) 
-- [Aurillac.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Aurillac.protect.md) 
-- [Aurillac.private](../../../../../../_private/geo/Continent/Europe/France/City/Aurillac.private.md) 
-- [Aurillac.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Aurillac.personal.md) 
-- [Aurillac.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Aurillac.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kisko](../../../../../../_public/geo/Continent/Europe/Finland/City/Kisko.md) 
-- [Kisko.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kisko.internal.md) 
-- [Kisko.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kisko.protect.md) 
-- [Kisko.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kisko.private.md) 
-- [Kisko.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kisko.personal.md) 
-- [Kisko.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kisko.secret.md) 

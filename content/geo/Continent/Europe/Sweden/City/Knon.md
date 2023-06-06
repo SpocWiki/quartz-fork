@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Knon](../../../../../../_public/geo/Continent/Europe/Sweden/City/Knon.md) 
-- [Knon.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Knon.internal.md) 
-- [Knon.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Knon.protect.md) 
-- [Knon.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Knon.private.md) 
-- [Knon.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Knon.personal.md) 
-- [Knon.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Knon.secret.md) 

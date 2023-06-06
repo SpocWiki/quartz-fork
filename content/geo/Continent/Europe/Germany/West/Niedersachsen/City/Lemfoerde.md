@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lemfoerde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.md) 
-- [Lemfoerde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.internal.md) 
-- [Lemfoerde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.protect.md) 
-- [Lemfoerde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.private.md) 
-- [Lemfoerde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.personal.md) 
-- [Lemfoerde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Lemfoerde.secret.md) 

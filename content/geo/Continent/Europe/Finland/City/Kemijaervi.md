@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kemijaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Kemijaervi.md) 
-- [Kemijaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kemijaervi.internal.md) 
-- [Kemijaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kemijaervi.protect.md) 
-- [Kemijaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kemijaervi.private.md) 
-- [Kemijaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kemijaervi.personal.md) 
-- [Kemijaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kemijaervi.secret.md) 

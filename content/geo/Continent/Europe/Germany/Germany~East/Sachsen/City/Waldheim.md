@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldheim](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldheim.md) 
-- [Waldheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldheim.internal.md) 
-- [Waldheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldheim.protect.md) 
-- [Waldheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldheim.private.md) 
-- [Waldheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldheim.personal.md) 
-- [Waldheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Waldheim.secret.md) 

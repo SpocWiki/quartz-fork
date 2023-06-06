@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoenhof](../../../../../../_public/geo/Continent/Europe/Poland/City/Schoenhof.md) 
-- [Schoenhof.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schoenhof.internal.md) 
-- [Schoenhof.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schoenhof.protect.md) 
-- [Schoenhof.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schoenhof.private.md) 
-- [Schoenhof.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schoenhof.personal.md) 
-- [Schoenhof.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schoenhof.secret.md) 

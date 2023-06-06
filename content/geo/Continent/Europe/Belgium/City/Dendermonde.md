@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dendermonde](../../../../../../_public/geo/Continent/Europe/Belgium/City/Dendermonde.md) 
-- [Dendermonde.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Dendermonde.internal.md) 
-- [Dendermonde.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Dendermonde.protect.md) 
-- [Dendermonde.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Dendermonde.private.md) 
-- [Dendermonde.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Dendermonde.personal.md) 
-- [Dendermonde.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Dendermonde.secret.md) 

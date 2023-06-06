@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuerstenfeldbruck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.md) 
-- [Fuerstenfeldbruck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.internal.md) 
-- [Fuerstenfeldbruck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.protect.md) 
-- [Fuerstenfeldbruck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.private.md) 
-- [Fuerstenfeldbruck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.personal.md) 
-- [Fuerstenfeldbruck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.secret.md) 

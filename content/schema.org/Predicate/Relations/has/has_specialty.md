@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_specialty](../../../../../_public/schema.org/Predicate/Relations/has/has_specialty.md) 
-- [has_specialty.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_specialty.internal.md) 
-- [has_specialty.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_specialty.protect.md) 
-- [has_specialty.private](../../../../../_private/schema.org/Predicate/Relations/has/has_specialty.private.md) 
-- [has_specialty.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_specialty.personal.md) 
-- [has_specialty.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_specialty.secret.md) 

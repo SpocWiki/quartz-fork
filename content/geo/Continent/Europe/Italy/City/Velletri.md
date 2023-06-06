@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Velletri](../../../../../../_public/geo/Continent/Europe/Italy/City/Velletri.md) 
-- [Velletri.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Velletri.internal.md) 
-- [Velletri.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Velletri.protect.md) 
-- [Velletri.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Velletri.private.md) 
-- [Velletri.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Velletri.personal.md) 
-- [Velletri.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Velletri.secret.md) 

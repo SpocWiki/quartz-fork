@@ -43,10 +43,3 @@ A short radio program or a segment/part of a radio program.
 
 
 
-## Confidential Links & Embeds: 
-- [radio_clip](../../../../../../_public/schema.org/Type/is_a_/creative_work/clip/radio_clip.md) 
-- [radio_clip.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/clip/radio_clip.internal.md) 
-- [radio_clip.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/clip/radio_clip.protect.md) 
-- [radio_clip.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/clip/radio_clip.private.md) 
-- [radio_clip.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/clip/radio_clip.personal.md) 
-- [radio_clip.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/clip/radio_clip.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-10307+22229-stationary_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22229-stationary_Area](../../../../_public/tech/Triz/Contradict/Triz-10307+22229-stationary_Area.md) 
-- [Triz-10307+22229-stationary_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22229-stationary_Area.internal.md) 
-- [Triz-10307+22229-stationary_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22229-stationary_Area.protect.md) 
-- [Triz-10307+22229-stationary_Area.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22229-stationary_Area.private.md) 
-- [Triz-10307+22229-stationary_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22229-stationary_Area.personal.md) 
-- [Triz-10307+22229-stationary_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22229-stationary_Area.secret.md) 

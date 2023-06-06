@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skara](../../../../../../_public/geo/Continent/Europe/Sweden/City/Skara.md) 
-- [Skara.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Skara.internal.md) 
-- [Skara.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Skara.protect.md) 
-- [Skara.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Skara.private.md) 
-- [Skara.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Skara.personal.md) 
-- [Skara.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Skara.secret.md) 

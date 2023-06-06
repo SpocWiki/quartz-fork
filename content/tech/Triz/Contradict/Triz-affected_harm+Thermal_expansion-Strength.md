@@ -19,10 +19,3 @@ title: Triz-affected_harm+Thermal_expansion-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Thermal_expansion-Strength](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.md) 
-- [Triz-affected_harm+Thermal_expansion-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.internal.md) 
-- [Triz-affected_harm+Thermal_expansion-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.protect.md) 
-- [Triz-affected_harm+Thermal_expansion-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.private.md) 
-- [Triz-affected_harm+Thermal_expansion-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.personal.md) 
-- [Triz-affected_harm+Thermal_expansion-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Thermal_expansion-Strength.secret.md) 

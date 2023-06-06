@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nykobing](../../../../../../_public/geo/Continent/Europe/Sweden/City/Nykobing.md) 
-- [Nykobing.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Nykobing.internal.md) 
-- [Nykobing.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Nykobing.protect.md) 
-- [Nykobing.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Nykobing.private.md) 
-- [Nykobing.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Nykobing.personal.md) 
-- [Nykobing.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Nykobing.secret.md) 

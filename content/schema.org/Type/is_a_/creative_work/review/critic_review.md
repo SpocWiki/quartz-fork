@@ -47,10 +47,3 @@ A <a class="localLink" href="/CriticReview">CriticReview</a> is a more specializ
 
 
 
-## Confidential Links & Embeds: 
-- [critic_review](../../../../../../_public/schema.org/Type/is_a_/creative_work/review/critic_review.md) 
-- [critic_review.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/critic_review.internal.md) 
-- [critic_review.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/critic_review.protect.md) 
-- [critic_review.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/review/critic_review.private.md) 
-- [critic_review.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/critic_review.personal.md) 
-- [critic_review.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/critic_review.secret.md) 

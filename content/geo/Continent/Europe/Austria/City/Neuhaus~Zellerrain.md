@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuhaus~Zellerrain](../../../../../../_public/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.md) 
-- [Neuhaus~Zellerrain.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.internal.md) 
-- [Neuhaus~Zellerrain.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.protect.md) 
-- [Neuhaus~Zellerrain.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.private.md) 
-- [Neuhaus~Zellerrain.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.personal.md) 
-- [Neuhaus~Zellerrain.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Neuhaus~Zellerrain.secret.md) 

@@ -64,10 +64,3 @@ For example, using incorrect dates or locations, or sharing brief clips from a l
 
 
 
-## Confidential Links & Embeds: 
-- [decontextualized_content](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.md) 
-- [decontextualized_content.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.internal.md) 
-- [decontextualized_content.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.protect.md) 
-- [decontextualized_content.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.private.md) 
-- [decontextualized_content.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.personal.md) 
-- [decontextualized_content.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.secret.md) 

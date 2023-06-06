@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vechelde](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.md) 
-- [Vechelde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.internal.md) 
-- [Vechelde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.protect.md) 
-- [Vechelde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.private.md) 
-- [Vechelde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.personal.md) 
-- [Vechelde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vechelde.secret.md) 

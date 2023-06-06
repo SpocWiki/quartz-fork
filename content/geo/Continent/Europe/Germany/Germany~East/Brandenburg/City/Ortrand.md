@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ortrand](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Ortrand.md) 
-- [Ortrand.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Ortrand.internal.md) 
-- [Ortrand.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Ortrand.protect.md) 
-- [Ortrand.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Ortrand.private.md) 
-- [Ortrand.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Ortrand.personal.md) 
-- [Ortrand.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Ortrand.secret.md) 

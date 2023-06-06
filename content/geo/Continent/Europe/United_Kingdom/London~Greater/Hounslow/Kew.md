@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kew](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.md) 
-- [Kew.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.internal.md) 
-- [Kew.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.protect.md) 
-- [Kew.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.private.md) 
-- [Kew.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.personal.md) 
-- [Kew.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Hounslow/Kew.secret.md) 

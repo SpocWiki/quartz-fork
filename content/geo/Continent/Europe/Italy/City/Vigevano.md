@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vigevano](../../../../../../_public/geo/Continent/Europe/Italy/City/Vigevano.md) 
-- [Vigevano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Vigevano.internal.md) 
-- [Vigevano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Vigevano.protect.md) 
-- [Vigevano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Vigevano.private.md) 
-- [Vigevano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Vigevano.personal.md) 
-- [Vigevano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Vigevano.secret.md) 

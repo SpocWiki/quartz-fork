@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Markneukirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Markneukirchen.md) 
-- [Markneukirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Markneukirchen.internal.md) 
-- [Markneukirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Markneukirchen.protect.md) 
-- [Markneukirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Markneukirchen.private.md) 
-- [Markneukirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Markneukirchen.personal.md) 
-- [Markneukirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Markneukirchen.secret.md) 

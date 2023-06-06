@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Thorne](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Thorne.md) 
-- [Thorne.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Thorne.internal.md) 
-- [Thorne.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Thorne.protect.md) 
-- [Thorne.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Thorne.private.md) 
-- [Thorne.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Thorne.personal.md) 
-- [Thorne.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Thorne.secret.md) 

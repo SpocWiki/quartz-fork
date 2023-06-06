@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Debrecen](../../../../../../_public/geo/Continent/Europe/Hungary/City/Debrecen.md) 
-- [Debrecen.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Debrecen.internal.md) 
-- [Debrecen.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Debrecen.protect.md) 
-- [Debrecen.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Debrecen.private.md) 
-- [Debrecen.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Debrecen.personal.md) 
-- [Debrecen.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Debrecen.secret.md) 

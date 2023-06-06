@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abensberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Abensberg.md) 
-- [Abensberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Abensberg.internal.md) 
-- [Abensberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Abensberg.protect.md) 
-- [Abensberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Abensberg.private.md) 
-- [Abensberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Abensberg.personal.md) 
-- [Abensberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Abensberg.secret.md) 

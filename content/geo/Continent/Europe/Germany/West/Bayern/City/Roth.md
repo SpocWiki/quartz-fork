@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roth](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Roth.md) 
-- [Roth.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Roth.internal.md) 
-- [Roth.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Roth.protect.md) 
-- [Roth.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Roth.private.md) 
-- [Roth.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Roth.personal.md) 
-- [Roth.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Roth.secret.md) 

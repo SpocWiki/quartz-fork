@@ -45,10 +45,3 @@ Book format: [graphic_novel](schema.org/Type/is_a_/intangible/enumeration/book_f
 
 
 
-## Confidential Links & Embeds: 
-- [graphic_novel](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/book_format_type/graphic_novel.md) 
-- [graphic_novel.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/graphic_novel.internal.md) 
-- [graphic_novel.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/book_format_type/graphic_novel.protect.md) 
-- [graphic_novel.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/book_format_type/graphic_novel.private.md) 
-- [graphic_novel.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/graphic_novel.personal.md) 
-- [graphic_novel.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/book_format_type/graphic_novel.secret.md) 

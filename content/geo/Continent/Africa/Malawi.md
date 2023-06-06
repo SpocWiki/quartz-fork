@@ -123,7 +123,7 @@ markerFolder: ./Malawi/City
 
 ![550](geo/Continent/Africa/Malawi/Coat_of_arms_of_Malawi.svg)
 
-![Anthem-Malawi](xLarge/National-Anthem/Anthem-Malawi.mp3)
+[Anthem-Malawi](xLarge/National-Anthem/Anthem-Malawi.mp3)
 
 ![350](geo/Continent/Africa/Malawi/Flag_of_Malawi.svg)
 [Alcohol-l::1.7]
@@ -133,10 +133,3 @@ markerFolder: ./Malawi/City
 
 
 
-## Confidential Links & Embeds: 
-- [Malawi](../../../../_public/geo/Continent/Africa/Malawi.md) 
-- [Malawi.internal](../../../../_internal/geo/Continent/Africa/Malawi.internal.md) 
-- [Malawi.protect](../../../../_protect/geo/Continent/Africa/Malawi.protect.md) 
-- [Malawi.private](../../../../_private/geo/Continent/Africa/Malawi.private.md) 
-- [Malawi.personal](../../../../_personal/geo/Continent/Africa/Malawi.personal.md) 
-- [Malawi.secret](../../../../_secret/geo/Continent/Africa/Malawi.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [NFD~St._Johns](../../../../../../_public/geo/Continent/North-America/Canada/City/NFD~St._Johns.md) 
-- [NFD~St._Johns.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/NFD~St._Johns.internal.md) 
-- [NFD~St._Johns.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/NFD~St._Johns.protect.md) 
-- [NFD~St._Johns.private](../../../../../../_private/geo/Continent/North-America/Canada/City/NFD~St._Johns.private.md) 
-- [NFD~St._Johns.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/NFD~St._Johns.personal.md) 
-- [NFD~St._Johns.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/NFD~St._Johns.secret.md) 

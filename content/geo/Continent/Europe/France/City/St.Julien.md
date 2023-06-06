@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Julien](../../../../../../_public/geo/Continent/Europe/France/City/St.Julien.md) 
-- [St.Julien.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Julien.internal.md) 
-- [St.Julien.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Julien.protect.md) 
-- [St.Julien.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Julien.private.md) 
-- [St.Julien.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Julien.personal.md) 
-- [St.Julien.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Julien.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Inari~Enare](../../../../../../_public/geo/Continent/Europe/Finland/City/Inari~Enare.md) 
-- [Inari~Enare.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Inari~Enare.internal.md) 
-- [Inari~Enare.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Inari~Enare.protect.md) 
-- [Inari~Enare.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Inari~Enare.private.md) 
-- [Inari~Enare.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Inari~Enare.personal.md) 
-- [Inari~Enare.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Inari~Enare.secret.md) 

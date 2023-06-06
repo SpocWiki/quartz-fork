@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abrantes](../../../../../../_public/geo/Continent/Europe/Portugal/City/Abrantes.md) 
-- [Abrantes.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Abrantes.internal.md) 
-- [Abrantes.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Abrantes.protect.md) 
-- [Abrantes.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Abrantes.private.md) 
-- [Abrantes.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Abrantes.personal.md) 
-- [Abrantes.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Abrantes.secret.md) 

@@ -43,10 +43,3 @@ A file composed primarily of text.
 
 
 
-## Confidential Links & Embeds: 
-- [text_digital_document](../../../../../../_public/schema.org/Type/is_a_/creative_work/digital_document/text_digital_document.md) 
-- [text_digital_document.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/digital_document/text_digital_document.internal.md) 
-- [text_digital_document.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/digital_document/text_digital_document.protect.md) 
-- [text_digital_document.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/digital_document/text_digital_document.private.md) 
-- [text_digital_document.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/digital_document/text_digital_document.personal.md) 
-- [text_digital_document.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/digital_document/text_digital_document.secret.md) 

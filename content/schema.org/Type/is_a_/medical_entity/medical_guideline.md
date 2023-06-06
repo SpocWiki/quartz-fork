@@ -45,10 +45,3 @@ Any recommendation made by a standard society (e.g. ACC/AHA) or consensus statem
 
 
 
-## Confidential Links & Embeds: 
-- [medical_guideline](../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_guideline.md) 
-- [medical_guideline.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_guideline.internal.md) 
-- [medical_guideline.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_guideline.protect.md) 
-- [medical_guideline.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_guideline.private.md) 
-- [medical_guideline.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_guideline.personal.md) 
-- [medical_guideline.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_guideline.secret.md) 

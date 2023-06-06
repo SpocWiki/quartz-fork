@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Samara](../../../../../../_public/geo/Continent/Europe/Russia/City/Samara.md) 
-- [Samara.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Samara.internal.md) 
-- [Samara.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Samara.protect.md) 
-- [Samara.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Samara.private.md) 
-- [Samara.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Samara.personal.md) 
-- [Samara.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Samara.secret.md) 

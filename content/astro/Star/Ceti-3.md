@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Ceti-3](../../../_public/astro/Star/Ceti-3.md) 
-- [Ceti-3.internal](../../../_internal/astro/Star/Ceti-3.internal.md) 
-- [Ceti-3.protect](../../../_protect/astro/Star/Ceti-3.protect.md) 
-- [Ceti-3.private](../../../_private/astro/Star/Ceti-3.private.md) 
-- [Ceti-3.personal](../../../_personal/astro/Star/Ceti-3.personal.md) 
-- [Ceti-3.secret](../../../_secret/astro/Star/Ceti-3.secret.md)
-

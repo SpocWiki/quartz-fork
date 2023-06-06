@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mayen~Eifel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.md) 
-- [Mayen~Eifel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.internal.md) 
-- [Mayen~Eifel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.protect.md) 
-- [Mayen~Eifel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.private.md) 
-- [Mayen~Eifel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.personal.md) 
-- [Mayen~Eifel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mayen~Eifel.secret.md) 

@@ -43,10 +43,3 @@ The act of providing goods, services, or money without compensation, often for p
 
 
 
-## Confidential Links & Embeds: 
-- [donate_action](../../../../../../_public/schema.org/Type/is_a_/action/trade_action/donate_action.md) 
-- [donate_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/donate_action.internal.md) 
-- [donate_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/donate_action.protect.md) 
-- [donate_action.private](../../../../../../_private/schema.org/Type/is_a_/action/trade_action/donate_action.private.md) 
-- [donate_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/donate_action.personal.md) 
-- [donate_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/donate_action.secret.md) 

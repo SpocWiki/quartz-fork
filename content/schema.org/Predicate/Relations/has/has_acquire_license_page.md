@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_acquire_license_page](../../../../../_public/schema.org/Predicate/Relations/has/has_acquire_license_page.md) 
-- [has_acquire_license_page.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_acquire_license_page.internal.md) 
-- [has_acquire_license_page.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_acquire_license_page.protect.md) 
-- [has_acquire_license_page.private](../../../../../_private/schema.org/Predicate/Relations/has/has_acquire_license_page.private.md) 
-- [has_acquire_license_page.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_acquire_license_page.personal.md) 
-- [has_acquire_license_page.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_acquire_license_page.secret.md) 

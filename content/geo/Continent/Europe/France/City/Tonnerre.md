@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tonnerre](../../../../../../_public/geo/Continent/Europe/France/City/Tonnerre.md) 
-- [Tonnerre.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Tonnerre.internal.md) 
-- [Tonnerre.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Tonnerre.protect.md) 
-- [Tonnerre.private](../../../../../../_private/geo/Continent/Europe/France/City/Tonnerre.private.md) 
-- [Tonnerre.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Tonnerre.personal.md) 
-- [Tonnerre.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Tonnerre.secret.md) 

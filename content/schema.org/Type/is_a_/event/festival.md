@@ -43,10 +43,3 @@ Event type: Festival.
 
 
 
-## Confidential Links & Embeds: 
-- [festival](../../../../../_public/schema.org/Type/is_a_/event/festival.md) 
-- [festival.internal](../../../../../_internal/schema.org/Type/is_a_/event/festival.internal.md) 
-- [festival.protect](../../../../../_protect/schema.org/Type/is_a_/event/festival.protect.md) 
-- [festival.private](../../../../../_private/schema.org/Type/is_a_/event/festival.private.md) 
-- [festival.personal](../../../../../_personal/schema.org/Type/is_a_/event/festival.personal.md) 
-- [festival.secret](../../../../../_secret/schema.org/Type/is_a_/event/festival.secret.md) 

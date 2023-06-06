@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hollola](../../../../../../_public/geo/Continent/Europe/Finland/City/Hollola.md) 
-- [Hollola.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Hollola.internal.md) 
-- [Hollola.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Hollola.protect.md) 
-- [Hollola.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Hollola.private.md) 
-- [Hollola.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Hollola.personal.md) 
-- [Hollola.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Hollola.secret.md) 

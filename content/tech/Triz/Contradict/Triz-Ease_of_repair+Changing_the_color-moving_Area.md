@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Changing_the_color-moving_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Changing_the_color-moving_Area](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.md) 
-- [Triz-Ease_of_repair+Changing_the_color-moving_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.internal.md) 
-- [Triz-Ease_of_repair+Changing_the_color-moving_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.protect.md) 
-- [Triz-Ease_of_repair+Changing_the_color-moving_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.private.md) 
-- [Triz-Ease_of_repair+Changing_the_color-moving_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.personal.md) 
-- [Triz-Ease_of_repair+Changing_the_color-moving_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Changing_the_color-moving_Area.secret.md) 

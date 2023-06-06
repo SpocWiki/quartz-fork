@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tarifa](../../../../../../_public/geo/Continent/Europe/Spain/City/Tarifa.md) 
-- [Tarifa.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Tarifa.internal.md) 
-- [Tarifa.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Tarifa.protect.md) 
-- [Tarifa.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Tarifa.private.md) 
-- [Tarifa.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Tarifa.personal.md) 
-- [Tarifa.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Tarifa.secret.md) 

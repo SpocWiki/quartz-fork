@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kabul](../../../../../../_public/geo/Continent/Asia/Afghanistan/City/Kabul.md) 
-- [Kabul.internal](../../../../../../_internal/geo/Continent/Asia/Afghanistan/City/Kabul.internal.md) 
-- [Kabul.protect](../../../../../../_protect/geo/Continent/Asia/Afghanistan/City/Kabul.protect.md) 
-- [Kabul.private](../../../../../../_private/geo/Continent/Asia/Afghanistan/City/Kabul.private.md) 
-- [Kabul.personal](../../../../../../_personal/geo/Continent/Asia/Afghanistan/City/Kabul.personal.md) 
-- [Kabul.secret](../../../../../../_secret/geo/Continent/Asia/Afghanistan/City/Kabul.secret.md) 

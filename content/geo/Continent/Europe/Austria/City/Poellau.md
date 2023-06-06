@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poellau](../../../../../../_public/geo/Continent/Europe/Austria/City/Poellau.md) 
-- [Poellau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Poellau.internal.md) 
-- [Poellau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Poellau.protect.md) 
-- [Poellau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Poellau.private.md) 
-- [Poellau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Poellau.personal.md) 
-- [Poellau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Poellau.secret.md) 

@@ -45,10 +45,3 @@ A HyperToEntry is an item within a <a class="localLink" href="/HyperToc">HyperTo
 
 
 
-## Confidential Links & Embeds: 
-- [hyper_toc_entry](../../../../../_public/schema.org/Type/is_a_/creative_work/hyper_toc_entry.md) 
-- [hyper_toc_entry.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/hyper_toc_entry.internal.md) 
-- [hyper_toc_entry.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/hyper_toc_entry.protect.md) 
-- [hyper_toc_entry.private](../../../../../_private/schema.org/Type/is_a_/creative_work/hyper_toc_entry.private.md) 
-- [hyper_toc_entry.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/hyper_toc_entry.personal.md) 
-- [hyper_toc_entry.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/hyper_toc_entry.secret.md) 

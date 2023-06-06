@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Highbury_&_Islington](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.md) 
-- [Sub-Highbury_&_Islington.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.internal.md) 
-- [Sub-Highbury_&_Islington.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.protect.md) 
-- [Sub-Highbury_&_Islington.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.private.md) 
-- [Sub-Highbury_&_Islington.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.personal.md) 
-- [Sub-Highbury_&_Islington.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Highbury_&_Islington.secret.md) 

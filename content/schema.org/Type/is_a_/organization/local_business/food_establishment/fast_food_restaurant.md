@@ -43,10 +43,3 @@ A fast-food restaurant.
 
 
 
-## Confidential Links & Embeds: 
-- [fast_food_restaurant](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.md) 
-- [fast_food_restaurant.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.internal.md) 
-- [fast_food_restaurant.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.protect.md) 
-- [fast_food_restaurant.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.private.md) 
-- [fast_food_restaurant.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.personal.md) 
-- [fast_food_restaurant.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.secret.md) 

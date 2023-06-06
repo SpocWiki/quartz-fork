@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberwesel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberwesel.md) 
-- [Oberwesel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberwesel.internal.md) 
-- [Oberwesel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberwesel.protect.md) 
-- [Oberwesel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberwesel.private.md) 
-- [Oberwesel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberwesel.personal.md) 
-- [Oberwesel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Oberwesel.secret.md) 

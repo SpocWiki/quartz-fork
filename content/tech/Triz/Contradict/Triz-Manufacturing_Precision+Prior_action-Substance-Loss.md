@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Prior_action-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Prior_action-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.md) 
-- [Triz-Manufacturing_Precision+Prior_action-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.internal.md) 
-- [Triz-Manufacturing_Precision+Prior_action-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.protect.md) 
-- [Triz-Manufacturing_Precision+Prior_action-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.private.md) 
-- [Triz-Manufacturing_Precision+Prior_action-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.personal.md) 
-- [Triz-Manufacturing_Precision+Prior_action-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Prior_action-Substance-Loss.secret.md) 

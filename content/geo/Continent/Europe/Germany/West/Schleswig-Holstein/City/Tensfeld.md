@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tensfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.md) 
-- [Tensfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.internal.md) 
-- [Tensfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.protect.md) 
-- [Tensfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.private.md) 
-- [Tensfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.personal.md) 
-- [Tensfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Tensfeld.secret.md) 

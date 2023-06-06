@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vihti](../../../../../../_public/geo/Continent/Europe/Finland/City/Vihti.md) 
-- [Vihti.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Vihti.internal.md) 
-- [Vihti.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Vihti.protect.md) 
-- [Vihti.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Vihti.private.md) 
-- [Vihti.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Vihti.personal.md) 
-- [Vihti.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Vihti.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tiraspol](../../../../../../_public/geo/Continent/Europe/Russia/City/Tiraspol.md) 
-- [Tiraspol.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tiraspol.internal.md) 
-- [Tiraspol.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tiraspol.protect.md) 
-- [Tiraspol.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tiraspol.private.md) 
-- [Tiraspol.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tiraspol.personal.md) 
-- [Tiraspol.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tiraspol.secret.md) 

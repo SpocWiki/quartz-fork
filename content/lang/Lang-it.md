@@ -19,11 +19,3 @@ title: Lang-it
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-it](../../_public/lang/Lang-it.md) 
-- [Lang-it.internal](../../_internal/lang/Lang-it.internal.md) 
-- [Lang-it.protect](../../_protect/lang/Lang-it.protect.md) 
-- [Lang-it.private](../../_private/lang/Lang-it.private.md) 
-- [Lang-it.personal](../../_personal/lang/Lang-it.personal.md) 
-- [Lang-it.secret](../../_secret/lang/Lang-it.secret.md)
-

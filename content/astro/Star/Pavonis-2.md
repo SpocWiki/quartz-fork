@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Pavonis-2](../../../_public/astro/Star/Pavonis-2.md) 
-- [Pavonis-2.internal](../../../_internal/astro/Star/Pavonis-2.internal.md) 
-- [Pavonis-2.protect](../../../_protect/astro/Star/Pavonis-2.protect.md) 
-- [Pavonis-2.private](../../../_private/astro/Star/Pavonis-2.private.md) 
-- [Pavonis-2.personal](../../../_personal/astro/Star/Pavonis-2.personal.md) 
-- [Pavonis-2.secret](../../../_secret/astro/Star/Pavonis-2.secret.md) 

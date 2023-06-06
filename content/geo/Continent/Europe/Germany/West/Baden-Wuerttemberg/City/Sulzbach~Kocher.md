@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sulzbach~Kocher](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulzbach~Kocher.md) 
-- [Sulzbach~Kocher.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulzbach~Kocher.internal.md) 
-- [Sulzbach~Kocher.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulzbach~Kocher.protect.md) 
-- [Sulzbach~Kocher.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulzbach~Kocher.private.md) 
-- [Sulzbach~Kocher.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulzbach~Kocher.personal.md) 
-- [Sulzbach~Kocher.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Sulzbach~Kocher.secret.md) 

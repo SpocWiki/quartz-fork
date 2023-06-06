@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saint_Paul](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.md) 
-- [Saint_Paul.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.internal.md) 
-- [Saint_Paul.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.protect.md) 
-- [Saint_Paul.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.private.md) 
-- [Saint_Paul.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.personal.md) 
-- [Saint_Paul.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Minnesota/City/Saint_Paul.secret.md) 

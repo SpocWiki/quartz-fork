@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peebles](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Peebles.md) 
-- [Peebles.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Peebles.internal.md) 
-- [Peebles.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Peebles.protect.md) 
-- [Peebles.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Peebles.private.md) 
-- [Peebles.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Peebles.personal.md) 
-- [Peebles.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Peebles.secret.md) 

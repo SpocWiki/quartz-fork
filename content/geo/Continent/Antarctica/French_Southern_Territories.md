@@ -122,10 +122,3 @@ markerFolder: ./French_Southern_Territories/City
 
 
 
-## Confidential Links & Embeds: 
-- [French_Southern_Territories](../../../../_public/geo/Continent/Antarctica/French_Southern_Territories.md) 
-- [French_Southern_Territories.internal](../../../../_internal/geo/Continent/Antarctica/French_Southern_Territories.internal.md) 
-- [French_Southern_Territories.protect](../../../../_protect/geo/Continent/Antarctica/French_Southern_Territories.protect.md) 
-- [French_Southern_Territories.private](../../../../_private/geo/Continent/Antarctica/French_Southern_Territories.private.md) 
-- [French_Southern_Territories.personal](../../../../_personal/geo/Continent/Antarctica/French_Southern_Territories.personal.md) 
-- [French_Southern_Territories.secret](../../../../_secret/geo/Continent/Antarctica/French_Southern_Territories.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Isola_della_Scala](../../../../../../_public/geo/Continent/Europe/Italy/City/Isola_della_Scala.md) 
-- [Isola_della_Scala.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Isola_della_Scala.internal.md) 
-- [Isola_della_Scala.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Isola_della_Scala.protect.md) 
-- [Isola_della_Scala.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Isola_della_Scala.private.md) 
-- [Isola_della_Scala.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Isola_della_Scala.personal.md) 
-- [Isola_della_Scala.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Isola_della_Scala.secret.md) 

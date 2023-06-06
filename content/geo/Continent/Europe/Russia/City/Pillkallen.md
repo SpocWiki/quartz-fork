@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pillkallen](../../../../../../_public/geo/Continent/Europe/Russia/City/Pillkallen.md) 
-- [Pillkallen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Pillkallen.internal.md) 
-- [Pillkallen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Pillkallen.protect.md) 
-- [Pillkallen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Pillkallen.private.md) 
-- [Pillkallen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Pillkallen.personal.md) 
-- [Pillkallen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Pillkallen.secret.md) 

@@ -49,10 +49,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_serial_number](../../../../_public/schema.org/Predicate/Texts/has_serial_number.md) 
-- [has_serial_number.internal](../../../../_internal/schema.org/Predicate/Texts/has_serial_number.internal.md) 
-- [has_serial_number.protect](../../../../_protect/schema.org/Predicate/Texts/has_serial_number.protect.md) 
-- [has_serial_number.private](../../../../_private/schema.org/Predicate/Texts/has_serial_number.private.md) 
-- [has_serial_number.personal](../../../../_personal/schema.org/Predicate/Texts/has_serial_number.personal.md) 
-- [has_serial_number.secret](../../../../_secret/schema.org/Predicate/Texts/has_serial_number.secret.md) 

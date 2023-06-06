@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Perwez](../../../../../../_public/geo/Continent/Europe/Belgium/City/Perwez.md) 
-- [Perwez.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Perwez.internal.md) 
-- [Perwez.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Perwez.protect.md) 
-- [Perwez.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Perwez.private.md) 
-- [Perwez.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Perwez.personal.md) 
-- [Perwez.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Perwez.secret.md) 

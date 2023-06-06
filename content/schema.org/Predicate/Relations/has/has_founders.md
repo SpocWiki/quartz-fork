@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_founders](../../../../../_public/schema.org/Predicate/Relations/has/has_founders.md) 
-- [has_founders.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_founders.internal.md) 
-- [has_founders.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_founders.protect.md) 
-- [has_founders.private](../../../../../_private/schema.org/Predicate/Relations/has/has_founders.private.md) 
-- [has_founders.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_founders.personal.md) 
-- [has_founders.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_founders.secret.md) 

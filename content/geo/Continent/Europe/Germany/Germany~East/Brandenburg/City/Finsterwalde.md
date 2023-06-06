@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Finsterwalde](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Finsterwalde.md) 
-- [Finsterwalde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Finsterwalde.internal.md) 
-- [Finsterwalde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Finsterwalde.protect.md) 
-- [Finsterwalde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Finsterwalde.private.md) 
-- [Finsterwalde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Finsterwalde.personal.md) 
-- [Finsterwalde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Finsterwalde.secret.md) 

@@ -115,7 +115,7 @@ markerFolder: ./Guadeloupe/City
 
 ![350](geo/Continent/South-America/Guatemala/Coat_of_arms_of_Guatemala.svg)
 
-![Anthem-Guatemala](xLarge/National-Anthem/Anthem-Guatemala.mp3)
+[Anthem-Guatemala](xLarge/National-Anthem/Anthem-Guatemala.mp3)
 
 ![350](geo/Continent/South-America/Guatemala/Flag_of_Guatemala.svg)
 
@@ -131,10 +131,3 @@ markerFolder: ./Guadeloupe/City
 
 
 
-## Confidential Links & Embeds: 
-- [Guadeloupe](../../../../_public/geo/Continent/South-America/Guadeloupe.md) 
-- [Guadeloupe.internal](../../../../_internal/geo/Continent/South-America/Guadeloupe.internal.md) 
-- [Guadeloupe.protect](../../../../_protect/geo/Continent/South-America/Guadeloupe.protect.md) 
-- [Guadeloupe.private](../../../../_private/geo/Continent/South-America/Guadeloupe.private.md) 
-- [Guadeloupe.personal](../../../../_personal/geo/Continent/South-America/Guadeloupe.personal.md) 
-- [Guadeloupe.secret](../../../../_secret/geo/Continent/South-America/Guadeloupe.secret.md) 

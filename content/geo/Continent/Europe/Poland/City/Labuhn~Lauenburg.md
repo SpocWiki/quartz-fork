@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Labuhn~Lauenburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.md) 
-- [Labuhn~Lauenburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.internal.md) 
-- [Labuhn~Lauenburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.protect.md) 
-- [Labuhn~Lauenburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.private.md) 
-- [Labuhn~Lauenburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.personal.md) 
-- [Labuhn~Lauenburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Labuhn~Lauenburg.secret.md) 

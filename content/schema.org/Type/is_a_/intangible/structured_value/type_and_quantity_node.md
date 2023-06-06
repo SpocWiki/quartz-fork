@@ -43,10 +43,3 @@ A structured value indicating the quantity, unit of measurement, and business fu
 
 
 
-## Confidential Links & Embeds: 
-- [type_and_quantity_node](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.md) 
-- [type_and_quantity_node.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.internal.md) 
-- [type_and_quantity_node.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.protect.md) 
-- [type_and_quantity_node.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.private.md) 
-- [type_and_quantity_node.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.personal.md) 
-- [type_and_quantity_node.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.secret.md) 

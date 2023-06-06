@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Albireo](../../../_public/astro/Star/Albireo.md) 
-- [Albireo.internal](../../../_internal/astro/Star/Albireo.internal.md) 
-- [Albireo.protect](../../../_protect/astro/Star/Albireo.protect.md) 
-- [Albireo.private](../../../_private/astro/Star/Albireo.private.md) 
-- [Albireo.personal](../../../_personal/astro/Star/Albireo.personal.md) 
-- [Albireo.secret](../../../_secret/astro/Star/Albireo.secret.md)
-

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Edmonton](../../../../../../_public/geo/Continent/North-America/Canada/City/Edmonton.md) 
-- [Edmonton.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Edmonton.internal.md) 
-- [Edmonton.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Edmonton.protect.md) 
-- [Edmonton.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Edmonton.private.md) 
-- [Edmonton.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Edmonton.personal.md) 
-- [Edmonton.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Edmonton.secret.md) 

@@ -45,10 +45,3 @@ Relation describes that:
 [ #is_/inverse_of :: [is_lesser_than](schema.org/Predicate/Relations/is/is_lesser_than.md)] 
 
 
-## Confidential Links & Embeds: 
-- [is_greater_than](../../../../../_public/schema.org/Predicate/Relations/is/is_greater_than.md) 
-- [is_greater_than.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_greater_than.internal.md) 
-- [is_greater_than.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_greater_than.protect.md) 
-- [is_greater_than.private](../../../../../_private/schema.org/Predicate/Relations/is/is_greater_than.private.md) 
-- [is_greater_than.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_greater_than.personal.md) 
-- [is_greater_than.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_greater_than.secret.md) 

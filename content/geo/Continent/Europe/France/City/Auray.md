@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Auray](../../../../../../_public/geo/Continent/Europe/France/City/Auray.md) 
-- [Auray.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Auray.internal.md) 
-- [Auray.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Auray.protect.md) 
-- [Auray.private](../../../../../../_private/geo/Continent/Europe/France/City/Auray.private.md) 
-- [Auray.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Auray.personal.md) 
-- [Auray.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Auray.secret.md) 

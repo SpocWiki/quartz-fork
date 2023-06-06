@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wunsiedel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.md) 
-- [Wunsiedel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.internal.md) 
-- [Wunsiedel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.protect.md) 
-- [Wunsiedel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.private.md) 
-- [Wunsiedel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.personal.md) 
-- [Wunsiedel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wunsiedel.secret.md) 

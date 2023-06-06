@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hohlacker](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.md) 
-- [Hohlacker.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.internal.md) 
-- [Hohlacker.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.protect.md) 
-- [Hohlacker.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.private.md) 
-- [Hohlacker.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.personal.md) 
-- [Hohlacker.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hohlacker.secret.md) 

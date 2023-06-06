@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Voeslau](../../../../../../_public/geo/Continent/Europe/Austria/City/Voeslau.md) 
-- [Voeslau.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Voeslau.internal.md) 
-- [Voeslau.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Voeslau.protect.md) 
-- [Voeslau.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Voeslau.private.md) 
-- [Voeslau.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Voeslau.personal.md) 
-- [Voeslau.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Voeslau.secret.md) 

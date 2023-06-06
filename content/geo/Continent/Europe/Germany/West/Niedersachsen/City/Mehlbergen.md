@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mehlbergen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mehlbergen.md) 
-- [Mehlbergen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mehlbergen.internal.md) 
-- [Mehlbergen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mehlbergen.protect.md) 
-- [Mehlbergen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mehlbergen.private.md) 
-- [Mehlbergen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mehlbergen.personal.md) 
-- [Mehlbergen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Mehlbergen.secret.md) 

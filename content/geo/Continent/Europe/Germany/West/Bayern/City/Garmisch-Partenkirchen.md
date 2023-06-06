@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Garmisch-Partenkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.md) 
-- [Garmisch-Partenkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.internal.md) 
-- [Garmisch-Partenkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.protect.md) 
-- [Garmisch-Partenkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.private.md) 
-- [Garmisch-Partenkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.personal.md) 
-- [Garmisch-Partenkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Garmisch-Partenkirchen.secret.md) 

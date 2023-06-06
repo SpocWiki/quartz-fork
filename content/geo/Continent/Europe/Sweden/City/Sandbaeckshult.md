@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sandbaeckshult](../../../../../../_public/geo/Continent/Europe/Sweden/City/Sandbaeckshult.md) 
-- [Sandbaeckshult.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sandbaeckshult.internal.md) 
-- [Sandbaeckshult.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sandbaeckshult.protect.md) 
-- [Sandbaeckshult.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Sandbaeckshult.private.md) 
-- [Sandbaeckshult.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sandbaeckshult.personal.md) 
-- [Sandbaeckshult.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sandbaeckshult.secret.md) 

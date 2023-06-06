@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_address_region](../../../../_public/schema.org/Predicate/Texts/has_address_region.md) 
-- [has_address_region.internal](../../../../_internal/schema.org/Predicate/Texts/has_address_region.internal.md) 
-- [has_address_region.protect](../../../../_protect/schema.org/Predicate/Texts/has_address_region.protect.md) 
-- [has_address_region.private](../../../../_private/schema.org/Predicate/Texts/has_address_region.private.md) 
-- [has_address_region.personal](../../../../_personal/schema.org/Predicate/Texts/has_address_region.personal.md) 
-- [has_address_region.secret](../../../../_secret/schema.org/Predicate/Texts/has_address_region.secret.md) 

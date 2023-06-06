@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nowógrodék](../../../../../../_public/geo/Continent/Europe/Poland/City/Now%C3%B3grod%C3%A9k.md) 
-- [Nowógrodék.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Now%C3%B3grod%C3%A9k.internal.md) 
-- [Nowógrodék.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Now%C3%B3grod%C3%A9k.protect.md) 
-- [Nowógrodék.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Now%C3%B3grod%C3%A9k.private.md) 
-- [Nowógrodék.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Now%C3%B3grod%C3%A9k.personal.md) 
-- [Nowógrodék.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Now%C3%B3grod%C3%A9k.secret.md) 

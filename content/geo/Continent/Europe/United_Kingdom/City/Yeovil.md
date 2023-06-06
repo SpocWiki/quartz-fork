@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yeovil](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Yeovil.md) 
-- [Yeovil.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Yeovil.internal.md) 
-- [Yeovil.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Yeovil.protect.md) 
-- [Yeovil.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Yeovil.private.md) 
-- [Yeovil.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Yeovil.personal.md) 
-- [Yeovil.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Yeovil.secret.md) 

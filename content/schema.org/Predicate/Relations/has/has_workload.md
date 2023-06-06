@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_workload](../../../../../_public/schema.org/Predicate/Relations/has/has_workload.md) 
-- [has_workload.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_workload.internal.md) 
-- [has_workload.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_workload.protect.md) 
-- [has_workload.private](../../../../../_private/schema.org/Predicate/Relations/has/has_workload.private.md) 
-- [has_workload.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_workload.personal.md) 
-- [has_workload.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_workload.secret.md) 

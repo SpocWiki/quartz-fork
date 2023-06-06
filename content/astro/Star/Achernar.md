@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Achernar](../../../_public/astro/Star/Achernar.md) 
-- [Achernar.internal](../../../_internal/astro/Star/Achernar.internal.md) 
-- [Achernar.protect](../../../_protect/astro/Star/Achernar.protect.md) 
-- [Achernar.private](../../../_private/astro/Star/Achernar.private.md) 
-- [Achernar.personal](../../../_personal/astro/Star/Achernar.personal.md) 
-- [Achernar.secret](../../../_secret/astro/Star/Achernar.secret.md)
-

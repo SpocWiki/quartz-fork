@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Avila](../../../../../../_public/geo/Continent/Europe/Spain/City/Avila.md) 
-- [Avila.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Avila.internal.md) 
-- [Avila.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Avila.protect.md) 
-- [Avila.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Avila.private.md) 
-- [Avila.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Avila.personal.md) 
-- [Avila.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Avila.secret.md) 

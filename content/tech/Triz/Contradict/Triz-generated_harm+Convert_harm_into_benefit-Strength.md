@@ -19,10 +19,3 @@ title: Triz-generated_harm+Convert_harm_into_benefit-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Convert_harm_into_benefit-Strength](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Strength.md) 
-- [Triz-generated_harm+Convert_harm_into_benefit-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Strength.internal.md) 
-- [Triz-generated_harm+Convert_harm_into_benefit-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Strength.protect.md) 
-- [Triz-generated_harm+Convert_harm_into_benefit-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Strength.private.md) 
-- [Triz-generated_harm+Convert_harm_into_benefit-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Strength.personal.md) 
-- [Triz-generated_harm+Convert_harm_into_benefit-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Convert_harm_into_benefit-Strength.secret.md) 

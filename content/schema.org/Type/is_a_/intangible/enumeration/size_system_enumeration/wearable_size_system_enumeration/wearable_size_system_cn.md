@@ -47,10 +47,3 @@ Chinese size system for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_system_cn](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.md) 
-- [wearable_size_system_cn.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.internal.md) 
-- [wearable_size_system_cn.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.protect.md) 
-- [wearable_size_system_cn.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.private.md) 
-- [wearable_size_system_cn.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.personal.md) 
-- [wearable_size_system_cn.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.secret.md) 

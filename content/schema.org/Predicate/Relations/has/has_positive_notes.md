@@ -48,10 +48,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_positive_notes](../../../../../_public/schema.org/Predicate/Relations/has/has_positive_notes.md) 
-- [has_positive_notes.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_positive_notes.internal.md) 
-- [has_positive_notes.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_positive_notes.protect.md) 
-- [has_positive_notes.private](../../../../../_private/schema.org/Predicate/Relations/has/has_positive_notes.private.md) 
-- [has_positive_notes.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_positive_notes.personal.md) 
-- [has_positive_notes.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_positive_notes.secret.md) 

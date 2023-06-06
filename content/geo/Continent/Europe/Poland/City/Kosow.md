@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kosow](../../../../../../_public/geo/Continent/Europe/Poland/City/Kosow.md) 
-- [Kosow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kosow.internal.md) 
-- [Kosow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kosow.protect.md) 
-- [Kosow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kosow.private.md) 
-- [Kosow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kosow.personal.md) 
-- [Kosow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kosow.secret.md) 

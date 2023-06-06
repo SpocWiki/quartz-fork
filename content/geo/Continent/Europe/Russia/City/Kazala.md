@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kazala](../../../../../../_public/geo/Continent/Europe/Russia/City/Kazala.md) 
-- [Kazala.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kazala.internal.md) 
-- [Kazala.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kazala.protect.md) 
-- [Kazala.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kazala.private.md) 
-- [Kazala.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kazala.personal.md) 
-- [Kazala.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kazala.secret.md) 

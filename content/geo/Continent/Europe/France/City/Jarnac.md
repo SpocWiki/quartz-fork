@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jarnac](../../../../../../_public/geo/Continent/Europe/France/City/Jarnac.md) 
-- [Jarnac.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Jarnac.internal.md) 
-- [Jarnac.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Jarnac.protect.md) 
-- [Jarnac.private](../../../../../../_private/geo/Continent/Europe/France/City/Jarnac.private.md) 
-- [Jarnac.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Jarnac.personal.md) 
-- [Jarnac.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Jarnac.secret.md) 

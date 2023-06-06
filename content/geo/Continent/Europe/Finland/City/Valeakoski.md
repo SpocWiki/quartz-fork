@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valeakoski](../../../../../../_public/geo/Continent/Europe/Finland/City/Valeakoski.md) 
-- [Valeakoski.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Valeakoski.internal.md) 
-- [Valeakoski.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Valeakoski.protect.md) 
-- [Valeakoski.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Valeakoski.private.md) 
-- [Valeakoski.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Valeakoski.personal.md) 
-- [Valeakoski.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Valeakoski.secret.md) 

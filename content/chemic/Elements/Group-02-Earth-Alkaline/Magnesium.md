@@ -33,10 +33,3 @@ SpocWebEntityId: 21914
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnesium)
 
-## Confidential Links & Embeds: 
-- [Magnesium](../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.md) 
-- [Magnesium.internal](../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.internal.md) 
-- [Magnesium.protect](../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.protect.md) 
-- [Magnesium.private](../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.private.md) 
-- [Magnesium.personal](../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.personal.md) 
-- [Magnesium.secret](../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.secret.md) 

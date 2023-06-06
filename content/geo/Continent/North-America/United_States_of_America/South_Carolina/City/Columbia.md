@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Columbia](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.md) 
-- [Columbia.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.internal.md) 
-- [Columbia.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.protect.md) 
-- [Columbia.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.private.md) 
-- [Columbia.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.personal.md) 
-- [Columbia.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Carolina/City/Columbia.secret.md) 

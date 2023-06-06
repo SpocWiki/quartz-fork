@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poels](../../../../../../_public/geo/Continent/Europe/Austria/City/Poels.md) 
-- [Poels.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Poels.internal.md) 
-- [Poels.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Poels.protect.md) 
-- [Poels.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Poels.private.md) 
-- [Poels.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Poels.personal.md) 
-- [Poels.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Poels.secret.md) 

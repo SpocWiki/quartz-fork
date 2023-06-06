@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Ophiuchi-15](../../../_public/astro/Star/Ophiuchi-15.md) 
-- [Ophiuchi-15.internal](../../../_internal/astro/Star/Ophiuchi-15.internal.md) 
-- [Ophiuchi-15.protect](../../../_protect/astro/Star/Ophiuchi-15.protect.md) 
-- [Ophiuchi-15.private](../../../_private/astro/Star/Ophiuchi-15.private.md) 
-- [Ophiuchi-15.personal](../../../_personal/astro/Star/Ophiuchi-15.personal.md) 
-- [Ophiuchi-15.secret](../../../_secret/astro/Star/Ophiuchi-15.secret.md) 

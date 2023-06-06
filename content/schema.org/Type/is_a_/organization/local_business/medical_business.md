@@ -45,10 +45,3 @@ A particular physical or virtual business of an organization for medical purpose
 
 
 
-## Confidential Links & Embeds: 
-- [medical_business](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business.md) 
-- [medical_business.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business.internal.md) 
-- [medical_business.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business.protect.md) 
-- [medical_business.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business.private.md) 
-- [medical_business.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business.personal.md) 
-- [medical_business.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spital~Pyhrnpass](../../../../../../_public/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.md) 
-- [Spital~Pyhrnpass.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.internal.md) 
-- [Spital~Pyhrnpass.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.protect.md) 
-- [Spital~Pyhrnpass.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.private.md) 
-- [Spital~Pyhrnpass.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.personal.md) 
-- [Spital~Pyhrnpass.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Spital~Pyhrnpass.secret.md) 

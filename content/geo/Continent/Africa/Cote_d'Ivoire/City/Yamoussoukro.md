@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yamoussoukro](../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.md) 
-- [Yamoussoukro.internal](../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.internal.md) 
-- [Yamoussoukro.protect](../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.protect.md) 
-- [Yamoussoukro.private](../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.private.md) 
-- [Yamoussoukro.personal](../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.personal.md) 
-- [Yamoussoukro.secret](../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.secret.md) 

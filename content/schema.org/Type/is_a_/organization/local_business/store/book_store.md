@@ -43,10 +43,3 @@ A bookstore.
 
 
 
-## Confidential Links & Embeds: 
-- [book_store](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/book_store.md) 
-- [book_store.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/book_store.internal.md) 
-- [book_store.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/book_store.protect.md) 
-- [book_store.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/book_store.private.md) 
-- [book_store.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/book_store.personal.md) 
-- [book_store.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/book_store.secret.md) 

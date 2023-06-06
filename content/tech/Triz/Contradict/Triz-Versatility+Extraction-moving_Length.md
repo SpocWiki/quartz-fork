@@ -19,10 +19,3 @@ title: Triz-Versatility+Extraction-moving_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Extraction-moving_Length](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Extraction-moving_Length.md) 
-- [Triz-Versatility+Extraction-moving_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Extraction-moving_Length.internal.md) 
-- [Triz-Versatility+Extraction-moving_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Extraction-moving_Length.protect.md) 
-- [Triz-Versatility+Extraction-moving_Length.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Extraction-moving_Length.private.md) 
-- [Triz-Versatility+Extraction-moving_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Extraction-moving_Length.personal.md) 
-- [Triz-Versatility+Extraction-moving_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Extraction-moving_Length.secret.md) 

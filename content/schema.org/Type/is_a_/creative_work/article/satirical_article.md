@@ -45,10 +45,3 @@ An <a class="localLink" href="/Article">Article</a> whose content is primarily <
 
 
 
-## Confidential Links & Embeds: 
-- [satirical_article](../../../../../../_public/schema.org/Type/is_a_/creative_work/article/satirical_article.md) 
-- [satirical_article.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/satirical_article.internal.md) 
-- [satirical_article.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/satirical_article.protect.md) 
-- [satirical_article.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/article/satirical_article.private.md) 
-- [satirical_article.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/satirical_article.personal.md) 
-- [satirical_article.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/satirical_article.secret.md) 

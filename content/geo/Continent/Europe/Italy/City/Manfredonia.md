@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Manfredonia](../../../../../../_public/geo/Continent/Europe/Italy/City/Manfredonia.md) 
-- [Manfredonia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Manfredonia.internal.md) 
-- [Manfredonia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Manfredonia.protect.md) 
-- [Manfredonia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Manfredonia.private.md) 
-- [Manfredonia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Manfredonia.personal.md) 
-- [Manfredonia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Manfredonia.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dublin](../../../../../../_public/geo/Continent/Europe/Ireland/City/Dublin.md) 
-- [Dublin.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Dublin.internal.md) 
-- [Dublin.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Dublin.protect.md) 
-- [Dublin.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Dublin.private.md) 
-- [Dublin.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Dublin.personal.md) 
-- [Dublin.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Dublin.secret.md) 

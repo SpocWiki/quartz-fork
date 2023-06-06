@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaukehnen](../../../../../../_public/geo/Continent/Europe/Russia/City/Kaukehnen.md) 
-- [Kaukehnen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kaukehnen.internal.md) 
-- [Kaukehnen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kaukehnen.protect.md) 
-- [Kaukehnen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kaukehnen.private.md) 
-- [Kaukehnen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kaukehnen.personal.md) 
-- [Kaukehnen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kaukehnen.secret.md) 

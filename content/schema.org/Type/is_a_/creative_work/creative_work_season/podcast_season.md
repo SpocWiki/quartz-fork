@@ -45,10 +45,3 @@ A single season of a podcast. Many podcasts do not break down into separate seas
 
 
 
-## Confidential Links & Embeds: 
-- [podcast_season](../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.md) 
-- [podcast_season.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.internal.md) 
-- [podcast_season.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.protect.md) 
-- [podcast_season.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.private.md) 
-- [podcast_season.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.personal.md) 
-- [podcast_season.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.secret.md) 

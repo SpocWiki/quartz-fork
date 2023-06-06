@@ -43,10 +43,3 @@ A common pathway for the electrochemical nerve impulses that are transmitted alo
 
 
 
-## Confidential Links & Embeds: 
-- [nerve](../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.md) 
-- [nerve.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.internal.md) 
-- [nerve.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.protect.md) 
-- [nerve.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.private.md) 
-- [nerve.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.personal.md) 
-- [nerve.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.secret.md) 

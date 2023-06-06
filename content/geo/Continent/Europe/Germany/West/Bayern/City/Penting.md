@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Penting](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Penting.md) 
-- [Penting.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Penting.internal.md) 
-- [Penting.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Penting.protect.md) 
-- [Penting.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Penting.private.md) 
-- [Penting.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Penting.personal.md) 
-- [Penting.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Penting.secret.md) 

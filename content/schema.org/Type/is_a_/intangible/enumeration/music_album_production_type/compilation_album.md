@@ -45,10 +45,3 @@ CompilationAlbum.
 
 
 
-## Confidential Links & Embeds: 
-- [compilation_album](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.md) 
-- [compilation_album.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.internal.md) 
-- [compilation_album.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.protect.md) 
-- [compilation_album.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.private.md) 
-- [compilation_album.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.personal.md) 
-- [compilation_album.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type/compilation_album.secret.md) 

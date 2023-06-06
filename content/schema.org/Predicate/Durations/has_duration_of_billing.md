@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_duration_of_billing](../../../../_public/schema.org/Predicate/Durations/has_duration_of_billing.md) 
-- [has_duration_of_billing.internal](../../../../_internal/schema.org/Predicate/Durations/has_duration_of_billing.internal.md) 
-- [has_duration_of_billing.protect](../../../../_protect/schema.org/Predicate/Durations/has_duration_of_billing.protect.md) 
-- [has_duration_of_billing.private](../../../../_private/schema.org/Predicate/Durations/has_duration_of_billing.private.md) 
-- [has_duration_of_billing.personal](../../../../_personal/schema.org/Predicate/Durations/has_duration_of_billing.personal.md) 
-- [has_duration_of_billing.secret](../../../../_secret/schema.org/Predicate/Durations/has_duration_of_billing.secret.md) 

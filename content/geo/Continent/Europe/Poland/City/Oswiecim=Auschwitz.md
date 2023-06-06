@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oswiecim=Auschwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Oswiecim=Auschwitz.md) 
-- [Oswiecim=Auschwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Oswiecim=Auschwitz.internal.md) 
-- [Oswiecim=Auschwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Oswiecim=Auschwitz.protect.md) 
-- [Oswiecim=Auschwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Oswiecim=Auschwitz.private.md) 
-- [Oswiecim=Auschwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Oswiecim=Auschwitz.personal.md) 
-- [Oswiecim=Auschwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Oswiecim=Auschwitz.secret.md) 

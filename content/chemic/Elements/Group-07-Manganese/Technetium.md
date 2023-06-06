@@ -37,10 +37,3 @@ SpocWebEntityId: 21941
 
 
 
-## Confidential Links & Embeds: 
-- [Technetium](../../../../_public/chemic/Elements/Group-07-Manganese/Technetium.md) 
-- [Technetium.internal](../../../../_internal/chemic/Elements/Group-07-Manganese/Technetium.internal.md) 
-- [Technetium.protect](../../../../_protect/chemic/Elements/Group-07-Manganese/Technetium.protect.md) 
-- [Technetium.private](../../../../_private/chemic/Elements/Group-07-Manganese/Technetium.private.md) 
-- [Technetium.personal](../../../../_personal/chemic/Elements/Group-07-Manganese/Technetium.personal.md) 
-- [Technetium.secret](../../../../_secret/chemic/Elements/Group-07-Manganese/Technetium.secret.md) 

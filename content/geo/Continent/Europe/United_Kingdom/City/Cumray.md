@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cumray](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Cumray.md) 
-- [Cumray.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Cumray.internal.md) 
-- [Cumray.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Cumray.protect.md) 
-- [Cumray.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Cumray.private.md) 
-- [Cumray.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Cumray.personal.md) 
-- [Cumray.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Cumray.secret.md) 

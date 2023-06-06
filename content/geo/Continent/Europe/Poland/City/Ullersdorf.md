@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ullersdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Ullersdorf.md) 
-- [Ullersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ullersdorf.internal.md) 
-- [Ullersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ullersdorf.protect.md) 
-- [Ullersdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ullersdorf.private.md) 
-- [Ullersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ullersdorf.personal.md) 
-- [Ullersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ullersdorf.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuessen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Fuessen.md) 
-- [Fuessen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuessen.internal.md) 
-- [Fuessen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuessen.protect.md) 
-- [Fuessen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuessen.private.md) 
-- [Fuessen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fuessen.personal.md) 
-- [Fuessen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fuessen.secret.md) 

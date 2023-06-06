@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [New_Romney](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/New_Romney.md) 
-- [New_Romney.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/New_Romney.internal.md) 
-- [New_Romney.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/New_Romney.protect.md) 
-- [New_Romney.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/New_Romney.private.md) 
-- [New_Romney.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/New_Romney.personal.md) 
-- [New_Romney.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/New_Romney.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Detskoje_Selo](../../../../../../_public/geo/Continent/Europe/Russia/City/Detskoje_Selo.md) 
-- [Detskoje_Selo.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Detskoje_Selo.internal.md) 
-- [Detskoje_Selo.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Detskoje_Selo.protect.md) 
-- [Detskoje_Selo.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Detskoje_Selo.private.md) 
-- [Detskoje_Selo.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Detskoje_Selo.personal.md) 
-- [Detskoje_Selo.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Detskoje_Selo.secret.md) 

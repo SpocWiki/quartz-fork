@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Caslau](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Caslau.md) 
-- [Caslau.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Caslau.internal.md) 
-- [Caslau.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Caslau.protect.md) 
-- [Caslau.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Caslau.private.md) 
-- [Caslau.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Caslau.personal.md) 
-- [Caslau.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Caslau.secret.md) 

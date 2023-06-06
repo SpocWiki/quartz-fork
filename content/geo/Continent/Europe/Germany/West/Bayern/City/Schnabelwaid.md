@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schnabelwaid](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.md) 
-- [Schnabelwaid.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.internal.md) 
-- [Schnabelwaid.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.protect.md) 
-- [Schnabelwaid.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.private.md) 
-- [Schnabelwaid.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.personal.md) 
-- [Schnabelwaid.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.secret.md) 

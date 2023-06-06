@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dinan](../../../../../../_public/geo/Continent/Europe/France/City/Dinan.md) 
-- [Dinan.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Dinan.internal.md) 
-- [Dinan.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Dinan.protect.md) 
-- [Dinan.private](../../../../../../_private/geo/Continent/Europe/France/City/Dinan.private.md) 
-- [Dinan.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Dinan.personal.md) 
-- [Dinan.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Dinan.secret.md) 

@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Mintaka](../../../_public/astro/Star/Mintaka.md) 
-- [Mintaka.internal](../../../_internal/astro/Star/Mintaka.internal.md) 
-- [Mintaka.protect](../../../_protect/astro/Star/Mintaka.protect.md) 
-- [Mintaka.private](../../../_private/astro/Star/Mintaka.private.md) 
-- [Mintaka.personal](../../../_personal/astro/Star/Mintaka.personal.md) 
-- [Mintaka.secret](../../../_secret/astro/Star/Mintaka.secret.md) 

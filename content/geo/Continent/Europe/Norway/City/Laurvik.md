@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Laurvik](../../../../../../_public/geo/Continent/Europe/Norway/City/Laurvik.md) 
-- [Laurvik.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Laurvik.internal.md) 
-- [Laurvik.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Laurvik.protect.md) 
-- [Laurvik.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Laurvik.private.md) 
-- [Laurvik.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Laurvik.personal.md) 
-- [Laurvik.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Laurvik.secret.md) 

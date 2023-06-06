@@ -137,10 +137,3 @@ markerFolder: ./Malaysia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Malaysia](../../../../_public/geo/Continent/Oceania/Malaysia.md) 
-- [Malaysia.internal](../../../../_internal/geo/Continent/Oceania/Malaysia.internal.md) 
-- [Malaysia.protect](../../../../_protect/geo/Continent/Oceania/Malaysia.protect.md) 
-- [Malaysia.private](../../../../_private/geo/Continent/Oceania/Malaysia.private.md) 
-- [Malaysia.personal](../../../../_personal/geo/Continent/Oceania/Malaysia.personal.md) 
-- [Malaysia.secret](../../../../_secret/geo/Continent/Oceania/Malaysia.secret.md) 

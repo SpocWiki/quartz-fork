@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stafford](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stafford.md) 
-- [Stafford.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stafford.internal.md) 
-- [Stafford.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stafford.protect.md) 
-- [Stafford.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stafford.private.md) 
-- [Stafford.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stafford.personal.md) 
-- [Stafford.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stafford.secret.md) 

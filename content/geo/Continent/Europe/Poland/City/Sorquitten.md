@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sorquitten](../../../../../../_public/geo/Continent/Europe/Poland/City/Sorquitten.md) 
-- [Sorquitten.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sorquitten.internal.md) 
-- [Sorquitten.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sorquitten.protect.md) 
-- [Sorquitten.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sorquitten.private.md) 
-- [Sorquitten.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sorquitten.personal.md) 
-- [Sorquitten.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sorquitten.secret.md) 

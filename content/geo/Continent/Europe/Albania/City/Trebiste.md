@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trebiste](../../../../../../_public/geo/Continent/Europe/Albania/City/Trebiste.md) 
-- [Trebiste.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Trebiste.internal.md) 
-- [Trebiste.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Trebiste.protect.md) 
-- [Trebiste.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Trebiste.private.md) 
-- [Trebiste.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Trebiste.personal.md) 
-- [Trebiste.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Trebiste.secret.md) 

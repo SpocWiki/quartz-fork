@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Thomajaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Thomajaervi.md) 
-- [Thomajaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Thomajaervi.internal.md) 
-- [Thomajaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Thomajaervi.protect.md) 
-- [Thomajaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Thomajaervi.private.md) 
-- [Thomajaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Thomajaervi.personal.md) 
-- [Thomajaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Thomajaervi.secret.md) 

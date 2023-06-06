@@ -45,10 +45,3 @@ An in-progress action (e.g., while watching the movie, or driving to a location)
 
 
 
-## Confidential Links & Embeds: 
-- [active_action_status](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/active_action_status.md) 
-- [active_action_status.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/active_action_status.internal.md) 
-- [active_action_status.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/active_action_status.protect.md) 
-- [active_action_status.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/active_action_status.private.md) 
-- [active_action_status.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/active_action_status.personal.md) 
-- [active_action_status.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/active_action_status.secret.md) 

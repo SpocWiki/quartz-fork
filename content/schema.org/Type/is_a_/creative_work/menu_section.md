@@ -43,10 +43,3 @@ A sub-grouping of food or drink items in a menu. E.g. courses (such as 'Dinner',
 
 
 
-## Confidential Links & Embeds: 
-- [menu_section](../../../../../_public/schema.org/Type/is_a_/creative_work/menu_section.md) 
-- [menu_section.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/menu_section.internal.md) 
-- [menu_section.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/menu_section.protect.md) 
-- [menu_section.private](../../../../../_private/schema.org/Type/is_a_/creative_work/menu_section.private.md) 
-- [menu_section.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/menu_section.personal.md) 
-- [menu_section.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/menu_section.secret.md) 

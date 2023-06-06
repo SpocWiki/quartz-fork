@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haifa](../../../../../../_public/geo/Continent/Asia/Israel/City/Haifa.md) 
-- [Haifa.internal](../../../../../../_internal/geo/Continent/Asia/Israel/City/Haifa.internal.md) 
-- [Haifa.protect](../../../../../../_protect/geo/Continent/Asia/Israel/City/Haifa.protect.md) 
-- [Haifa.private](../../../../../../_private/geo/Continent/Asia/Israel/City/Haifa.private.md) 
-- [Haifa.personal](../../../../../../_personal/geo/Continent/Asia/Israel/City/Haifa.personal.md) 
-- [Haifa.secret](../../../../../../_secret/geo/Continent/Asia/Israel/City/Haifa.secret.md) 

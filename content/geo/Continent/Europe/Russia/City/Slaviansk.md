@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Slaviansk](../../../../../../_public/geo/Continent/Europe/Russia/City/Slaviansk.md) 
-- [Slaviansk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Slaviansk.internal.md) 
-- [Slaviansk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Slaviansk.protect.md) 
-- [Slaviansk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Slaviansk.private.md) 
-- [Slaviansk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Slaviansk.personal.md) 
-- [Slaviansk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Slaviansk.secret.md) 

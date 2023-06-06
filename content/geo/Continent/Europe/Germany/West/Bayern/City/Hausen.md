@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hausen.md) 
-- [Hausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hausen.internal.md) 
-- [Hausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hausen.protect.md) 
-- [Hausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hausen.private.md) 
-- [Hausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hausen.personal.md) 
-- [Hausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hausen.secret.md) 

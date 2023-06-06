@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vila_Real](../../../../../../_public/geo/Continent/Europe/Portugal/City/Vila_Real.md) 
-- [Vila_Real.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Vila_Real.internal.md) 
-- [Vila_Real.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Vila_Real.protect.md) 
-- [Vila_Real.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Vila_Real.private.md) 
-- [Vila_Real.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Vila_Real.personal.md) 
-- [Vila_Real.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Vila_Real.secret.md) 

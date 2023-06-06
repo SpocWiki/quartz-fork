@@ -43,10 +43,3 @@ A synagogue.
 
 
 
-## Confidential Links & Embeds: 
-- [synagogue](../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.md) 
-- [synagogue.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.internal.md) 
-- [synagogue.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.protect.md) 
-- [synagogue.private](../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.private.md) 
-- [synagogue.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.personal.md) 
-- [synagogue.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.secret.md) 

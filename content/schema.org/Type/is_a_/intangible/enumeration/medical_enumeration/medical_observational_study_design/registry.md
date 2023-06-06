@@ -45,10 +45,3 @@ A registry-based study design.
 
 
 
-## Confidential Links & Embeds: 
-- [registry](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.md) 
-- [registry.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.internal.md) 
-- [registry.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.protect.md) 
-- [registry.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.private.md) 
-- [registry.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.personal.md) 
-- [registry.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.secret.md) 

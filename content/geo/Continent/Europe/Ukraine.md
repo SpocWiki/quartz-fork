@@ -121,7 +121,7 @@ markerFolder: ./Ukraine/City
 [VehicleCode::UA]
 [Capital::[Kiew](geo/Continent/Europe/Ukraine/City/Kiew.md)]
 ![350](Coat_of_arms_of_Ukraine.svg)
-![Anthem-Ukraine](xLarge/National-Anthem/Anthem-Ukraine.mp3)
+[Anthem-Ukraine](xLarge/National-Anthem/Anthem-Ukraine.mp3)
 ![350](geo/Continent/Europe/Ukraine/Flag_of_Ukraine.svg)
 [Alcohol-l::15.6]
 [Language-Id::469]
@@ -130,10 +130,3 @@ markerFolder: ./Ukraine/City
 
 
 
-## Confidential Links & Embeds: 
-- [Ukraine](../../../../_public/geo/Continent/Europe/Ukraine.md) 
-- [Ukraine.internal](../../../../_internal/geo/Continent/Europe/Ukraine.internal.md) 
-- [Ukraine.protect](../../../../_protect/geo/Continent/Europe/Ukraine.protect.md) 
-- [Ukraine.private](../../../../_private/geo/Continent/Europe/Ukraine.private.md) 
-- [Ukraine.personal](../../../../_personal/geo/Continent/Europe/Ukraine.personal.md) 
-- [Ukraine.secret](../../../../_secret/geo/Continent/Europe/Ukraine.secret.md) 

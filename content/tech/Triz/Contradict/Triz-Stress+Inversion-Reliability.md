@@ -19,10 +19,3 @@ title: Triz-Stress+Inversion-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Inversion-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.md) 
-- [Triz-Stress+Inversion-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.internal.md) 
-- [Triz-Stress+Inversion-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.protect.md) 
-- [Triz-Stress+Inversion-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.private.md) 
-- [Triz-Stress+Inversion-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.personal.md) 
-- [Triz-Stress+Inversion-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Inversion-Reliability.secret.md) 

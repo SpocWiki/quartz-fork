@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Anne](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Anne.md) 
-- [St.Anne.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Anne.internal.md) 
-- [St.Anne.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Anne.protect.md) 
-- [St.Anne.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Anne.private.md) 
-- [St.Anne.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Anne.personal.md) 
-- [St.Anne.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Anne.secret.md) 

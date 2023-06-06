@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Raddusa](../../../../../../_public/geo/Continent/Europe/Italy/City/Raddusa.md) 
-- [Raddusa.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Raddusa.internal.md) 
-- [Raddusa.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Raddusa.protect.md) 
-- [Raddusa.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Raddusa.private.md) 
-- [Raddusa.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Raddusa.personal.md) 
-- [Raddusa.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Raddusa.secret.md) 

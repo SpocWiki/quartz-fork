@@ -43,10 +43,3 @@ Residence type: Single-family home.
 
 
 
-## Confidential Links & Embeds: 
-- [single_family_residence](../../../../../../../_public/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.md) 
-- [single_family_residence.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.internal.md) 
-- [single_family_residence.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.protect.md) 
-- [single_family_residence.private](../../../../../../../_private/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.private.md) 
-- [single_family_residence.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.personal.md) 
-- [single_family_residence.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.secret.md) 

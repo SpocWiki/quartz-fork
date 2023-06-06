@@ -43,10 +43,3 @@ Reference documentation for application programming interfaces (APIs).
 
 
 
-## Confidential Links & Embeds: 
-- [api_reference](../../../../../../../_public/schema.org/Type/is_a_/creative_work/article/tech_article/api_reference.md) 
-- [api_reference.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/tech_article/api_reference.internal.md) 
-- [api_reference.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/tech_article/api_reference.protect.md) 
-- [api_reference.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/article/tech_article/api_reference.private.md) 
-- [api_reference.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/tech_article/api_reference.personal.md) 
-- [api_reference.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/tech_article/api_reference.secret.md) 

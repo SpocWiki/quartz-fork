@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saint-Pierre](../../../../../../_public/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.md) 
-- [Saint-Pierre.internal](../../../../../../_internal/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.internal.md) 
-- [Saint-Pierre.protect](../../../../../../_protect/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.protect.md) 
-- [Saint-Pierre.private](../../../../../../_private/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.private.md) 
-- [Saint-Pierre.personal](../../../../../../_personal/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.personal.md) 
-- [Saint-Pierre.secret](../../../../../../_secret/geo/Continent/North-America/Saint-Pierre-et-Miquelon/City/Saint-Pierre.secret.md) 

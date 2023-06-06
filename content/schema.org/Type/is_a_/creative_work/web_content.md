@@ -47,10 +47,3 @@ WebContent is a type representing all <a class="localLink" href="/WebPage">WebPa
 
 
 
-## Confidential Links & Embeds: 
-- [web_content](../../../../../_public/schema.org/Type/is_a_/creative_work/web_content.md) 
-- [web_content.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/web_content.internal.md) 
-- [web_content.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/web_content.protect.md) 
-- [web_content.private](../../../../../_private/schema.org/Type/is_a_/creative_work/web_content.private.md) 
-- [web_content.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/web_content.personal.md) 
-- [web_content.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/web_content.secret.md) 

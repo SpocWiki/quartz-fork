@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Portalegre](../../../../../../_public/geo/Continent/Europe/Portugal/City/Portalegre.md) 
-- [Portalegre.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Portalegre.internal.md) 
-- [Portalegre.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Portalegre.protect.md) 
-- [Portalegre.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Portalegre.private.md) 
-- [Portalegre.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Portalegre.personal.md) 
-- [Portalegre.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Portalegre.secret.md) 

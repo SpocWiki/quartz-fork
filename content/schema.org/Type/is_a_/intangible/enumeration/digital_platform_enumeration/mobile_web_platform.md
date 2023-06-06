@@ -47,10 +47,3 @@ Represents the broad notion of 'mobile' browsers as a Web Platform.
 
 
 
-## Confidential Links & Embeds: 
-- [mobile_web_platform](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/mobile_web_platform.md) 
-- [mobile_web_platform.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/mobile_web_platform.internal.md) 
-- [mobile_web_platform.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/mobile_web_platform.protect.md) 
-- [mobile_web_platform.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/mobile_web_platform.private.md) 
-- [mobile_web_platform.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/mobile_web_platform.personal.md) 
-- [mobile_web_platform.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/digital_platform_enumeration/mobile_web_platform.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bellshill](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bellshill.md) 
-- [Bellshill.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bellshill.internal.md) 
-- [Bellshill.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bellshill.protect.md) 
-- [Bellshill.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bellshill.private.md) 
-- [Bellshill.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bellshill.personal.md) 
-- [Bellshill.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bellshill.secret.md) 

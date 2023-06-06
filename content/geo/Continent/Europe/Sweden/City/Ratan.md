@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ratan](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ratan.md) 
-- [Ratan.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ratan.internal.md) 
-- [Ratan.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ratan.protect.md) 
-- [Ratan.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ratan.private.md) 
-- [Ratan.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ratan.personal.md) 
-- [Ratan.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ratan.secret.md) 

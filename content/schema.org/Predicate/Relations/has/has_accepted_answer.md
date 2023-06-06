@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_accepted_answer](../../../../../_public/schema.org/Predicate/Relations/has/has_accepted_answer.md) 
-- [has_accepted_answer.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_accepted_answer.internal.md) 
-- [has_accepted_answer.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_accepted_answer.protect.md) 
-- [has_accepted_answer.private](../../../../../_private/schema.org/Predicate/Relations/has/has_accepted_answer.private.md) 
-- [has_accepted_answer.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_accepted_answer.personal.md) 
-- [has_accepted_answer.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_accepted_answer.secret.md) 

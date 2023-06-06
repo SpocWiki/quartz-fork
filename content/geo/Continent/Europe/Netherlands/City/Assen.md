@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Assen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Assen.md) 
-- [Assen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Assen.internal.md) 
-- [Assen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Assen.protect.md) 
-- [Assen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Assen.private.md) 
-- [Assen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Assen.personal.md) 
-- [Assen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Assen.secret.md) 

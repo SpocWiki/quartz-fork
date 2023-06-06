@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weilbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Weilbach.md) 
-- [Weilbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Weilbach.internal.md) 
-- [Weilbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Weilbach.protect.md) 
-- [Weilbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Weilbach.private.md) 
-- [Weilbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Weilbach.personal.md) 
-- [Weilbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Weilbach.secret.md) 

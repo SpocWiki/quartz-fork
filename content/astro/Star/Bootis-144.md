@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Bootis-144](../../../_public/astro/Star/Bootis-144.md) 
-- [Bootis-144.internal](../../../_internal/astro/Star/Bootis-144.internal.md) 
-- [Bootis-144.protect](../../../_protect/astro/Star/Bootis-144.protect.md) 
-- [Bootis-144.private](../../../_private/astro/Star/Bootis-144.private.md) 
-- [Bootis-144.personal](../../../_personal/astro/Star/Bootis-144.personal.md) 
-- [Bootis-144.secret](../../../_secret/astro/Star/Bootis-144.secret.md)
-

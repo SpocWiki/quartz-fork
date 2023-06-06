@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berdum](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berdum.md) 
-- [Berdum.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berdum.internal.md) 
-- [Berdum.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berdum.protect.md) 
-- [Berdum.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berdum.private.md) 
-- [Berdum.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berdum.personal.md) 
-- [Berdum.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Berdum.secret.md) 

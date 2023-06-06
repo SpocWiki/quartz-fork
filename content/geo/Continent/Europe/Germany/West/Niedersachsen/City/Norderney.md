@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Norderney](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norderney.md) 
-- [Norderney.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norderney.internal.md) 
-- [Norderney.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norderney.protect.md) 
-- [Norderney.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norderney.private.md) 
-- [Norderney.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norderney.personal.md) 
-- [Norderney.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norderney.secret.md) 

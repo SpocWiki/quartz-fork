@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_making_offer](../../../../../_public/schema.org/Predicate/Relations/is/is_making_offer.md) 
-- [is_making_offer.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_making_offer.internal.md) 
-- [is_making_offer.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_making_offer.protect.md) 
-- [is_making_offer.private](../../../../../_private/schema.org/Predicate/Relations/is/is_making_offer.private.md) 
-- [is_making_offer.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_making_offer.personal.md) 
-- [is_making_offer.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_making_offer.secret.md) 

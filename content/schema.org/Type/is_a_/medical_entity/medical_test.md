@@ -45,10 +45,3 @@ Any medical test, typically performed for diagnostic purposes.
 
 
 
-## Confidential Links & Embeds: 
-- [medical_test](../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_test.md) 
-- [medical_test.internal](../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_test.internal.md) 
-- [medical_test.protect](../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_test.protect.md) 
-- [medical_test.private](../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_test.private.md) 
-- [medical_test.personal](../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_test.personal.md) 
-- [medical_test.secret](../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_test.secret.md) 

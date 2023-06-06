@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oestersund](../../../../../../_public/geo/Continent/Europe/Sweden/City/Oestersund.md) 
-- [Oestersund.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oestersund.internal.md) 
-- [Oestersund.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oestersund.protect.md) 
-- [Oestersund.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Oestersund.private.md) 
-- [Oestersund.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oestersund.personal.md) 
-- [Oestersund.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oestersund.secret.md) 

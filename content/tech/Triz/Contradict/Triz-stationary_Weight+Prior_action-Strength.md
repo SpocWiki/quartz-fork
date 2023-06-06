@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Prior_action-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Prior_action-Strength](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.md) 
-- [Triz-stationary_Weight+Prior_action-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.internal.md) 
-- [Triz-stationary_Weight+Prior_action-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.protect.md) 
-- [Triz-stationary_Weight+Prior_action-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.private.md) 
-- [Triz-stationary_Weight+Prior_action-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.personal.md) 
-- [Triz-stationary_Weight+Prior_action-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Prior_action-Strength.secret.md) 

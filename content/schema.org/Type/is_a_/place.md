@@ -45,10 +45,3 @@ Entities that have a somewhat fixed, physical extension.
 
 
 
-## Confidential Links & Embeds: 
-- [place](../../../../_public/schema.org/Type/is_a_/place.md) 
-- [place.internal](../../../../_internal/schema.org/Type/is_a_/place.internal.md) 
-- [place.protect](../../../../_protect/schema.org/Type/is_a_/place.protect.md) 
-- [place.private](../../../../_private/schema.org/Type/is_a_/place.private.md) 
-- [place.personal](../../../../_personal/schema.org/Type/is_a_/place.personal.md) 
-- [place.secret](../../../../_secret/schema.org/Type/is_a_/place.secret.md) 

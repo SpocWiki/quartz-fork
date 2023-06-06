@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mineo](../../../../../../_public/geo/Continent/Europe/Italy/City/Mineo.md) 
-- [Mineo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Mineo.internal.md) 
-- [Mineo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Mineo.protect.md) 
-- [Mineo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Mineo.private.md) 
-- [Mineo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Mineo.personal.md) 
-- [Mineo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Mineo.secret.md) 

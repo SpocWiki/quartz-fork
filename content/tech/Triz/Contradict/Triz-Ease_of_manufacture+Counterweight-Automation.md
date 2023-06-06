@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Counterweight-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Counterweight-Automation](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Automation.md) 
-- [Triz-Ease_of_manufacture+Counterweight-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Automation.internal.md) 
-- [Triz-Ease_of_manufacture+Counterweight-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Automation.protect.md) 
-- [Triz-Ease_of_manufacture+Counterweight-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Automation.private.md) 
-- [Triz-Ease_of_manufacture+Counterweight-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Automation.personal.md) 
-- [Triz-Ease_of_manufacture+Counterweight-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Counterweight-Automation.secret.md) 

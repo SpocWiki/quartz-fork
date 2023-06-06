@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nidda](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Nidda.md) 
-- [Nidda.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Nidda.internal.md) 
-- [Nidda.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Nidda.protect.md) 
-- [Nidda.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Nidda.private.md) 
-- [Nidda.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Nidda.personal.md) 
-- [Nidda.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Nidda.secret.md) 

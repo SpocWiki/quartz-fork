@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gefrees](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Gefrees.md) 
-- [Gefrees.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gefrees.internal.md) 
-- [Gefrees.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gefrees.protect.md) 
-- [Gefrees.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gefrees.private.md) 
-- [Gefrees.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Gefrees.personal.md) 
-- [Gefrees.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Gefrees.secret.md) 

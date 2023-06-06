@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Belgern](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Belgern.md) 
-- [Belgern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Belgern.internal.md) 
-- [Belgern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Belgern.protect.md) 
-- [Belgern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Belgern.private.md) 
-- [Belgern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Belgern.personal.md) 
-- [Belgern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Belgern.secret.md) 

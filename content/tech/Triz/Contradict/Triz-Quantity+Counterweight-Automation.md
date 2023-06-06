@@ -19,10 +19,3 @@ title: Triz-Quantity+Counterweight-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Counterweight-Automation](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.md) 
-- [Triz-Quantity+Counterweight-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.internal.md) 
-- [Triz-Quantity+Counterweight-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.protect.md) 
-- [Triz-Quantity+Counterweight-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.private.md) 
-- [Triz-Quantity+Counterweight-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.personal.md) 
-- [Triz-Quantity+Counterweight-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Counterweight-Automation.secret.md) 

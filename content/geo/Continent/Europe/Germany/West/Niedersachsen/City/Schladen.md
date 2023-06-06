@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schladen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schladen.md) 
-- [Schladen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schladen.internal.md) 
-- [Schladen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schladen.protect.md) 
-- [Schladen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schladen.private.md) 
-- [Schladen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schladen.personal.md) 
-- [Schladen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Schladen.secret.md) 

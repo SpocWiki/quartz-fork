@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pilatus-Kulm](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.md) 
-- [Pilatus-Kulm.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.internal.md) 
-- [Pilatus-Kulm.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.protect.md) 
-- [Pilatus-Kulm.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.private.md) 
-- [Pilatus-Kulm.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.personal.md) 
-- [Pilatus-Kulm.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Pilatus-Kulm.secret.md) 

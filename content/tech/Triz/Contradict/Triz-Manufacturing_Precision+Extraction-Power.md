@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Extraction-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Extraction-Power](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.md) 
-- [Triz-Manufacturing_Precision+Extraction-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.internal.md) 
-- [Triz-Manufacturing_Precision+Extraction-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.protect.md) 
-- [Triz-Manufacturing_Precision+Extraction-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.private.md) 
-- [Triz-Manufacturing_Precision+Extraction-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.personal.md) 
-- [Triz-Manufacturing_Precision+Extraction-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Extraction-Power.secret.md) 

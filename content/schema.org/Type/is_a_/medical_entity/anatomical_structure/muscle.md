@@ -43,10 +43,3 @@ A muscle is an anatomical structure consisting of a contractile form of tissue t
 
 
 
-## Confidential Links & Embeds: 
-- [muscle](../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.md) 
-- [muscle.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.internal.md) 
-- [muscle.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.protect.md) 
-- [muscle.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.private.md) 
-- [muscle.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.personal.md) 
-- [muscle.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/muscle.secret.md) 

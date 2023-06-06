@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harburg~Schwaben](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.md) 
-- [Harburg~Schwaben.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.internal.md) 
-- [Harburg~Schwaben.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.protect.md) 
-- [Harburg~Schwaben.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.private.md) 
-- [Harburg~Schwaben.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.personal.md) 
-- [Harburg~Schwaben.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Harburg~Schwaben.secret.md) 

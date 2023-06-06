@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gravelines](../../../../../../_public/geo/Continent/Europe/France/City/Gravelines.md) 
-- [Gravelines.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Gravelines.internal.md) 
-- [Gravelines.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Gravelines.protect.md) 
-- [Gravelines.private](../../../../../../_private/geo/Continent/Europe/France/City/Gravelines.private.md) 
-- [Gravelines.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Gravelines.personal.md) 
-- [Gravelines.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Gravelines.secret.md) 

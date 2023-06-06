@@ -47,10 +47,3 @@ Size group "Misses" (also known as "Missy") for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_group_misses](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.md) 
-- [wearable_size_group_misses.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.internal.md) 
-- [wearable_size_group_misses.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.protect.md) 
-- [wearable_size_group_misses.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.private.md) 
-- [wearable_size_group_misses.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.personal.md) 
-- [wearable_size_group_misses.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.secret.md) 

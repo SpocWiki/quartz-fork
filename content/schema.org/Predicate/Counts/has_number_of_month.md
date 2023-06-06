@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_month](../../../../_public/schema.org/Predicate/Counts/has_number_of_month.md) 
-- [has_number_of_month.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_month.internal.md) 
-- [has_number_of_month.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_month.protect.md) 
-- [has_number_of_month.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_month.private.md) 
-- [has_number_of_month.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_month.personal.md) 
-- [has_number_of_month.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_month.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Iglau=Jihlava](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Iglau=Jihlava.md) 
-- [Iglau=Jihlava.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Iglau=Jihlava.internal.md) 
-- [Iglau=Jihlava.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Iglau=Jihlava.protect.md) 
-- [Iglau=Jihlava.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Iglau=Jihlava.private.md) 
-- [Iglau=Jihlava.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Iglau=Jihlava.personal.md) 
-- [Iglau=Jihlava.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Iglau=Jihlava.secret.md) 

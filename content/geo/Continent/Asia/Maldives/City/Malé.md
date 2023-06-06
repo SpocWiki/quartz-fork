@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Malé](../../../../../../_public/geo/Continent/Asia/Maldives/City/Mal%C3%A9.md) 
-- [Malé.internal](../../../../../../_internal/geo/Continent/Asia/Maldives/City/Mal%C3%A9.internal.md) 
-- [Malé.protect](../../../../../../_protect/geo/Continent/Asia/Maldives/City/Mal%C3%A9.protect.md) 
-- [Malé.private](../../../../../../_private/geo/Continent/Asia/Maldives/City/Mal%C3%A9.private.md) 
-- [Malé.personal](../../../../../../_personal/geo/Continent/Asia/Maldives/City/Mal%C3%A9.personal.md) 
-- [Malé.secret](../../../../../../_secret/geo/Continent/Asia/Maldives/City/Mal%C3%A9.secret.md) 

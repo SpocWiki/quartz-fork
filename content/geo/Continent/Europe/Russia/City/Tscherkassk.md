@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tscherkassk](../../../../../../_public/geo/Continent/Europe/Russia/City/Tscherkassk.md) 
-- [Tscherkassk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tscherkassk.internal.md) 
-- [Tscherkassk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tscherkassk.protect.md) 
-- [Tscherkassk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tscherkassk.private.md) 
-- [Tscherkassk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tscherkassk.personal.md) 
-- [Tscherkassk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tscherkassk.secret.md) 

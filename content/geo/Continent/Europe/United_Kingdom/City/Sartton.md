@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sartton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sartton.md) 
-- [Sartton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sartton.internal.md) 
-- [Sartton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sartton.protect.md) 
-- [Sartton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sartton.private.md) 
-- [Sartton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sartton.personal.md) 
-- [Sartton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sartton.secret.md) 

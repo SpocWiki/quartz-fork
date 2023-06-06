@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Craveggia](../../../../../../_public/geo/Continent/Europe/Italy/City/Craveggia.md) 
-- [Craveggia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Craveggia.internal.md) 
-- [Craveggia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Craveggia.protect.md) 
-- [Craveggia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Craveggia.private.md) 
-- [Craveggia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Craveggia.personal.md) 
-- [Craveggia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Craveggia.secret.md) 

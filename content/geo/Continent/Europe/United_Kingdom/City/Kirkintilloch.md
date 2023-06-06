@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirkintilloch](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.md) 
-- [Kirkintilloch.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.internal.md) 
-- [Kirkintilloch.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.protect.md) 
-- [Kirkintilloch.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.private.md) 
-- [Kirkintilloch.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.personal.md) 
-- [Kirkintilloch.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkintilloch.secret.md) 

@@ -45,10 +45,3 @@ The act of managing by changing/editing the state of the object.
 
 
 
-## Confidential Links & Embeds: 
-- [update_action](../../../../../_public/schema.org/Type/is_a_/action/update_action.md) 
-- [update_action.internal](../../../../../_internal/schema.org/Type/is_a_/action/update_action.internal.md) 
-- [update_action.protect](../../../../../_protect/schema.org/Type/is_a_/action/update_action.protect.md) 
-- [update_action.private](../../../../../_private/schema.org/Type/is_a_/action/update_action.private.md) 
-- [update_action.personal](../../../../../_personal/schema.org/Type/is_a_/action/update_action.personal.md) 
-- [update_action.secret](../../../../../_secret/schema.org/Type/is_a_/action/update_action.secret.md) 

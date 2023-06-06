@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_value_added_tax_included](../../../../_public/schema.org/Predicate/Flags/is_value_added_tax_included.md) 
-- [is_value_added_tax_included.internal](../../../../_internal/schema.org/Predicate/Flags/is_value_added_tax_included.internal.md) 
-- [is_value_added_tax_included.protect](../../../../_protect/schema.org/Predicate/Flags/is_value_added_tax_included.protect.md) 
-- [is_value_added_tax_included.private](../../../../_private/schema.org/Predicate/Flags/is_value_added_tax_included.private.md) 
-- [is_value_added_tax_included.personal](../../../../_personal/schema.org/Predicate/Flags/is_value_added_tax_included.personal.md) 
-- [is_value_added_tax_included.secret](../../../../_secret/schema.org/Predicate/Flags/is_value_added_tax_included.secret.md) 

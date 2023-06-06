@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Virtsu](../../../../../../_public/geo/Continent/Europe/Russia/City/Virtsu.md) 
-- [Virtsu.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Virtsu.internal.md) 
-- [Virtsu.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Virtsu.protect.md) 
-- [Virtsu.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Virtsu.private.md) 
-- [Virtsu.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Virtsu.personal.md) 
-- [Virtsu.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Virtsu.secret.md) 

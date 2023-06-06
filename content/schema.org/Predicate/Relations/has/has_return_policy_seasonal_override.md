@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_return_policy_seasonal_override](../../../../../_public/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.md) 
-- [has_return_policy_seasonal_override.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.internal.md) 
-- [has_return_policy_seasonal_override.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.protect.md) 
-- [has_return_policy_seasonal_override.private](../../../../../_private/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.private.md) 
-- [has_return_policy_seasonal_override.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.personal.md) 
-- [has_return_policy_seasonal_override.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.secret.md) 

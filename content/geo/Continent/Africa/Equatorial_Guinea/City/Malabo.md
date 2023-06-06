@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Malabo](../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.md) 
-- [Malabo.internal](../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.internal.md) 
-- [Malabo.protect](../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.protect.md) 
-- [Malabo.private](../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.private.md) 
-- [Malabo.personal](../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.personal.md) 
-- [Malabo.secret](../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/City/Malabo.secret.md) 

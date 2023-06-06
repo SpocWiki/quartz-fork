@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Troon](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Troon.md) 
-- [Troon.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Troon.internal.md) 
-- [Troon.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Troon.protect.md) 
-- [Troon.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Troon.private.md) 
-- [Troon.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Troon.personal.md) 
-- [Troon.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Troon.secret.md) 

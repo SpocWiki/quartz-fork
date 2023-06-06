@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ober-Eisseln](../../../../../../_public/geo/Continent/Europe/Russia/City/Ober-Eisseln.md) 
-- [Ober-Eisseln.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ober-Eisseln.internal.md) 
-- [Ober-Eisseln.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ober-Eisseln.protect.md) 
-- [Ober-Eisseln.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ober-Eisseln.private.md) 
-- [Ober-Eisseln.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ober-Eisseln.personal.md) 
-- [Ober-Eisseln.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ober-Eisseln.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-moving_Weight+Counterweight-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Weight+Counterweight-Versatility](../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Counterweight-Versatility.md) 
-- [Triz-moving_Weight+Counterweight-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Counterweight-Versatility.internal.md) 
-- [Triz-moving_Weight+Counterweight-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Counterweight-Versatility.protect.md) 
-- [Triz-moving_Weight+Counterweight-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Counterweight-Versatility.private.md) 
-- [Triz-moving_Weight+Counterweight-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Counterweight-Versatility.personal.md) 
-- [Triz-moving_Weight+Counterweight-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Counterweight-Versatility.secret.md) 

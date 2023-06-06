@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salzgitter](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzgitter.md) 
-- [Salzgitter.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzgitter.internal.md) 
-- [Salzgitter.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzgitter.protect.md) 
-- [Salzgitter.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzgitter.private.md) 
-- [Salzgitter.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzgitter.personal.md) 
-- [Salzgitter.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Salzgitter.secret.md) 

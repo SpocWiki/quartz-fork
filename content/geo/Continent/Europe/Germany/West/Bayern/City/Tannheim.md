@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tannheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.md) 
-- [Tannheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.internal.md) 
-- [Tannheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.protect.md) 
-- [Tannheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.private.md) 
-- [Tannheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.personal.md) 
-- [Tannheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Tannheim.secret.md) 

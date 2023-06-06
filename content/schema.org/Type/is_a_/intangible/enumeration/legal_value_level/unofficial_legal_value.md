@@ -47,10 +47,3 @@ Indicates that a document has no particular or special standing (e.g. a republic
 
 
 
-## Confidential Links & Embeds: 
-- [unofficial_legal_value](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.md) 
-- [unofficial_legal_value.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.internal.md) 
-- [unofficial_legal_value.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.protect.md) 
-- [unofficial_legal_value.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.private.md) 
-- [unofficial_legal_value.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.personal.md) 
-- [unofficial_legal_value.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.secret.md) 

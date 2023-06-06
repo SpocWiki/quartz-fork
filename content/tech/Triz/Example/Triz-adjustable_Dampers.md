@@ -17,10 +17,3 @@ title: Triz-adjustable_Dampers
 
 Use adjustable Dampers to reduce the Noise of Parts falling into a Container by restricting the Motion of the Walls of the Container.
 
-## Confidential Links & Embeds: 
-- [Triz-adjustable_Dampers](../../../../_public/tech/Triz/Example/Triz-adjustable_Dampers.md) 
-- [Triz-adjustable_Dampers.internal](../../../../_internal/tech/Triz/Example/Triz-adjustable_Dampers.internal.md) 
-- [Triz-adjustable_Dampers.protect](../../../../_protect/tech/Triz/Example/Triz-adjustable_Dampers.protect.md) 
-- [Triz-adjustable_Dampers.private](../../../../_private/tech/Triz/Example/Triz-adjustable_Dampers.private.md) 
-- [Triz-adjustable_Dampers.personal](../../../../_personal/tech/Triz/Example/Triz-adjustable_Dampers.personal.md) 
-- [Triz-adjustable_Dampers.secret](../../../../_secret/tech/Triz/Example/Triz-adjustable_Dampers.secret.md) 

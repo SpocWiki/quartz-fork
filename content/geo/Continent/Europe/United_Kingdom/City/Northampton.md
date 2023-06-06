@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Northampton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Northampton.md) 
-- [Northampton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Northampton.internal.md) 
-- [Northampton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Northampton.protect.md) 
-- [Northampton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Northampton.private.md) 
-- [Northampton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Northampton.personal.md) 
-- [Northampton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Northampton.secret.md) 

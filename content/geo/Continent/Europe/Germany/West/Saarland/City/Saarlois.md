@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saarlois](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Saarlois.md) 
-- [Saarlois.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Saarlois.internal.md) 
-- [Saarlois.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Saarlois.protect.md) 
-- [Saarlois.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Saarlois.private.md) 
-- [Saarlois.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Saarlois.personal.md) 
-- [Saarlois.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Saarlois.secret.md) 

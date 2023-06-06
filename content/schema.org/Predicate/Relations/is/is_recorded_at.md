@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_recorded_at](../../../../../_public/schema.org/Predicate/Relations/is/is_recorded_at.md) 
-- [is_recorded_at.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_recorded_at.internal.md) 
-- [is_recorded_at.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_recorded_at.protect.md) 
-- [is_recorded_at.private](../../../../../_private/schema.org/Predicate/Relations/is/is_recorded_at.private.md) 
-- [is_recorded_at.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_recorded_at.personal.md) 
-- [is_recorded_at.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_recorded_at.secret.md) 

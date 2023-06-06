@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wehrshausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Wehrshausen.md) 
-- [Wehrshausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wehrshausen.internal.md) 
-- [Wehrshausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wehrshausen.protect.md) 
-- [Wehrshausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wehrshausen.private.md) 
-- [Wehrshausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wehrshausen.personal.md) 
-- [Wehrshausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wehrshausen.secret.md) 

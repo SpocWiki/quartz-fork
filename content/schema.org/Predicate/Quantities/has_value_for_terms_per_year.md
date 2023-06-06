@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_terms_per_year](../../../../_public/schema.org/Predicate/Quantities/has_value_for_terms_per_year.md) 
-- [has_value_for_terms_per_year.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_terms_per_year.internal.md) 
-- [has_value_for_terms_per_year.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_terms_per_year.protect.md) 
-- [has_value_for_terms_per_year.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_terms_per_year.private.md) 
-- [has_value_for_terms_per_year.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_terms_per_year.personal.md) 
-- [has_value_for_terms_per_year.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_terms_per_year.secret.md) 

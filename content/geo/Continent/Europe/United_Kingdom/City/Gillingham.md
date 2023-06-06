@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gillingham](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Gillingham.md) 
-- [Gillingham.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Gillingham.internal.md) 
-- [Gillingham.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Gillingham.protect.md) 
-- [Gillingham.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Gillingham.private.md) 
-- [Gillingham.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Gillingham.personal.md) 
-- [Gillingham.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Gillingham.secret.md) 

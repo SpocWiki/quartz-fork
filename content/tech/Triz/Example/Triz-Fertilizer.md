@@ -17,10 +17,3 @@ title: Triz-Fertilizer
 
 Use Animal Waste as Fertilizer.
 
-## Confidential Links & Embeds: 
-- [Triz-Fertilizer](../../../../_public/tech/Triz/Example/Triz-Fertilizer.md) 
-- [Triz-Fertilizer.internal](../../../../_internal/tech/Triz/Example/Triz-Fertilizer.internal.md) 
-- [Triz-Fertilizer.protect](../../../../_protect/tech/Triz/Example/Triz-Fertilizer.protect.md) 
-- [Triz-Fertilizer.private](../../../../_private/tech/Triz/Example/Triz-Fertilizer.private.md) 
-- [Triz-Fertilizer.personal](../../../../_personal/tech/Triz/Example/Triz-Fertilizer.personal.md) 
-- [Triz-Fertilizer.secret](../../../../_secret/tech/Triz/Example/Triz-Fertilizer.secret.md) 

@@ -40,10 +40,3 @@ title: Helium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Helium)
 
-## Confidential Links & Embeds: 
-- [Helium](../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Helium.md) 
-- [Helium.internal](../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Helium.internal.md) 
-- [Helium.protect](../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Helium.protect.md) 
-- [Helium.private](../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Helium.private.md) 
-- [Helium.personal](../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Helium.personal.md) 
-- [Helium.secret](../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Helium.secret.md) 

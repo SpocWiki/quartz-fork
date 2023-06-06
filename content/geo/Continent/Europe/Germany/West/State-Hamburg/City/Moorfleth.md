@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moorfleth](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorfleth.md) 
-- [Moorfleth.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorfleth.internal.md) 
-- [Moorfleth.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorfleth.protect.md) 
-- [Moorfleth.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorfleth.private.md) 
-- [Moorfleth.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorfleth.personal.md) 
-- [Moorfleth.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Hamburg/City/Moorfleth.secret.md) 

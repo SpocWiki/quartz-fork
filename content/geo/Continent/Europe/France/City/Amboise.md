@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amboise](../../../../../../_public/geo/Continent/Europe/France/City/Amboise.md) 
-- [Amboise.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Amboise.internal.md) 
-- [Amboise.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Amboise.protect.md) 
-- [Amboise.private](../../../../../../_private/geo/Continent/Europe/France/City/Amboise.private.md) 
-- [Amboise.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Amboise.personal.md) 
-- [Amboise.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Amboise.secret.md) 

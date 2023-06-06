@@ -43,10 +43,3 @@ A courthouse.
 
 
 
-## Confidential Links & Embeds: 
-- [courthouse](../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.md) 
-- [courthouse.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.internal.md) 
-- [courthouse.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.protect.md) 
-- [courthouse.private](../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.private.md) 
-- [courthouse.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.personal.md) 
-- [courthouse.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.secret.md) 

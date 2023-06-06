@@ -123,7 +123,7 @@ markerFolder: ./Tajikistan/City
 
 ![350](geo/Continent/Asia/Tajikistan/Emblem_of_Tajikistan.svg)
 
-![Anthem-Tajikistan](xLarge/National-Anthem/Anthem-Tajikistan.mp3)
+[Anthem-Tajikistan](xLarge/National-Anthem/Anthem-Tajikistan.mp3)
 
 ![350](geo/Continent/Asia/Tajikistan/Flag_of_Tajikistan.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Tajikistan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Tajikistan](../../../../_public/geo/Continent/Asia/Tajikistan.md) 
-- [Tajikistan.internal](../../../../_internal/geo/Continent/Asia/Tajikistan.internal.md) 
-- [Tajikistan.protect](../../../../_protect/geo/Continent/Asia/Tajikistan.protect.md) 
-- [Tajikistan.private](../../../../_private/geo/Continent/Asia/Tajikistan.private.md) 
-- [Tajikistan.personal](../../../../_personal/geo/Continent/Asia/Tajikistan.personal.md) 
-- [Tajikistan.secret](../../../../_secret/geo/Continent/Asia/Tajikistan.secret.md) 

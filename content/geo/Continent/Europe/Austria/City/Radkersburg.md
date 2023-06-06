@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Radkersburg](../../../../../../_public/geo/Continent/Europe/Austria/City/Radkersburg.md) 
-- [Radkersburg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Radkersburg.internal.md) 
-- [Radkersburg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Radkersburg.protect.md) 
-- [Radkersburg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Radkersburg.private.md) 
-- [Radkersburg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Radkersburg.personal.md) 
-- [Radkersburg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Radkersburg.secret.md) 

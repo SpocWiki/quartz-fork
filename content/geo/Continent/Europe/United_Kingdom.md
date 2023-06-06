@@ -27,7 +27,7 @@ markerFolder: ./United_Kingdom/City
 ![750](geo/Continent/Europe/United_Kingdom/Coat_of_Arms_of_the_United_Kingdom.svg)
 
 
-![Anthem-United-kingdom](xLarge/National-Anthem/Anthem-United-kingdom.mp3)
+[Anthem-United-kingdom](xLarge/National-Anthem/Anthem-United-kingdom.mp3)
 
 ![350](geo/Continent/Europe/United_Kingdom/Flag_of_the_United_Kingdom_(3-5).svg)
 [Area-Total::241752]
@@ -42,10 +42,3 @@ markerFolder: ./United_Kingdom/City
 
 
 
-## Confidential Links & Embeds: 
-- [United_Kingdom](../../../../_public/geo/Continent/Europe/United_Kingdom.md) 
-- [United_Kingdom.internal](../../../../_internal/geo/Continent/Europe/United_Kingdom.internal.md) 
-- [United_Kingdom.protect](../../../../_protect/geo/Continent/Europe/United_Kingdom.protect.md) 
-- [United_Kingdom.private](../../../../_private/geo/Continent/Europe/United_Kingdom.private.md) 
-- [United_Kingdom.personal](../../../../_personal/geo/Continent/Europe/United_Kingdom.personal.md) 
-- [United_Kingdom.secret](../../../../_secret/geo/Continent/Europe/United_Kingdom.secret.md) 

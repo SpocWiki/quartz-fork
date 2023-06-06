@@ -51,10 +51,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_spatial_coverage](../../../../_public/schema.org/Predicate/geos/has_geo_spatial_coverage.md) 
-- [has_geo_spatial_coverage.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_spatial_coverage.internal.md) 
-- [has_geo_spatial_coverage.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_spatial_coverage.protect.md) 
-- [has_geo_spatial_coverage.private](../../../../_private/schema.org/Predicate/geos/has_geo_spatial_coverage.private.md) 
-- [has_geo_spatial_coverage.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_spatial_coverage.personal.md) 
-- [has_geo_spatial_coverage.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_spatial_coverage.secret.md) 

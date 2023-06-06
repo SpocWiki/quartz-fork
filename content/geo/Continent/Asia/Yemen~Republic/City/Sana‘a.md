@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sana‘a](../../../../../../_public/geo/Continent/Asia/Yemen~Republic/City/Sana%E2%80%98a.md) 
-- [Sana‘a.internal](../../../../../../_internal/geo/Continent/Asia/Yemen~Republic/City/Sana%E2%80%98a.internal.md) 
-- [Sana‘a.protect](../../../../../../_protect/geo/Continent/Asia/Yemen~Republic/City/Sana%E2%80%98a.protect.md) 
-- [Sana‘a.private](../../../../../../_private/geo/Continent/Asia/Yemen~Republic/City/Sana%E2%80%98a.private.md) 
-- [Sana‘a.personal](../../../../../../_personal/geo/Continent/Asia/Yemen~Republic/City/Sana%E2%80%98a.personal.md) 
-- [Sana‘a.secret](../../../../../../_secret/geo/Continent/Asia/Yemen~Republic/City/Sana%E2%80%98a.secret.md) 

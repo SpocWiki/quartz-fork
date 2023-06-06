@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Picerno](../../../../../../_public/geo/Continent/Europe/Italy/City/Picerno.md) 
-- [Picerno.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Picerno.internal.md) 
-- [Picerno.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Picerno.protect.md) 
-- [Picerno.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Picerno.private.md) 
-- [Picerno.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Picerno.personal.md) 
-- [Picerno.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Picerno.secret.md) 

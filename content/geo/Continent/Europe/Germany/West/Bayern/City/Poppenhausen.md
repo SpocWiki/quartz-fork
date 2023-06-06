@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poppenhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Poppenhausen.md) 
-- [Poppenhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Poppenhausen.internal.md) 
-- [Poppenhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Poppenhausen.protect.md) 
-- [Poppenhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Poppenhausen.private.md) 
-- [Poppenhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Poppenhausen.personal.md) 
-- [Poppenhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Poppenhausen.secret.md) 

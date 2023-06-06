@@ -45,10 +45,3 @@ Quantities such as distance, time, mass, weight, etc. Particular instances of sa
 
 
 
-## Confidential Links & Embeds: 
-- [quantity](../../../../../_public/schema.org/Type/is_a_/intangible/quantity.md) 
-- [quantity.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/quantity.internal.md) 
-- [quantity.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/quantity.protect.md) 
-- [quantity.private](../../../../../_private/schema.org/Type/is_a_/intangible/quantity.private.md) 
-- [quantity.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/quantity.personal.md) 
-- [quantity.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/quantity.secret.md) 

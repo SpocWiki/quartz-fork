@@ -34,10 +34,3 @@ markerFolder: ./Czechoslovakia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Czechoslovakia](../../../../_public/geo/Continent/Europe/Czechoslovakia.md) 
-- [Czechoslovakia.internal](../../../../_internal/geo/Continent/Europe/Czechoslovakia.internal.md) 
-- [Czechoslovakia.protect](../../../../_protect/geo/Continent/Europe/Czechoslovakia.protect.md) 
-- [Czechoslovakia.private](../../../../_private/geo/Continent/Europe/Czechoslovakia.private.md) 
-- [Czechoslovakia.personal](../../../../_personal/geo/Continent/Europe/Czechoslovakia.personal.md) 
-- [Czechoslovakia.secret](../../../../_secret/geo/Continent/Europe/Czechoslovakia.secret.md) 

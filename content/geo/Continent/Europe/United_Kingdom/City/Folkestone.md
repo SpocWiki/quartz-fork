@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Folkestone](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Folkestone.md) 
-- [Folkestone.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Folkestone.internal.md) 
-- [Folkestone.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Folkestone.protect.md) 
-- [Folkestone.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Folkestone.private.md) 
-- [Folkestone.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Folkestone.personal.md) 
-- [Folkestone.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Folkestone.secret.md) 

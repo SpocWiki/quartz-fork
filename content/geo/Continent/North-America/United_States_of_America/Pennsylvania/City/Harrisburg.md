@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harrisburg](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Harrisburg.md) 
-- [Harrisburg.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Harrisburg.internal.md) 
-- [Harrisburg.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Harrisburg.protect.md) 
-- [Harrisburg.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Harrisburg.private.md) 
-- [Harrisburg.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Harrisburg.personal.md) 
-- [Harrisburg.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Pennsylvania/City/Harrisburg.secret.md) 

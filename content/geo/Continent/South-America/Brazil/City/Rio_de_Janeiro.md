@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rio_de_Janeiro](../../../../../../_public/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.md) 
-- [Rio_de_Janeiro.internal](../../../../../../_internal/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.internal.md) 
-- [Rio_de_Janeiro.protect](../../../../../../_protect/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.protect.md) 
-- [Rio_de_Janeiro.private](../../../../../../_private/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.private.md) 
-- [Rio_de_Janeiro.personal](../../../../../../_personal/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.personal.md) 
-- [Rio_de_Janeiro.secret](../../../../../../_secret/geo/Continent/South-America/Brazil/City/Rio_de_Janeiro.secret.md) 

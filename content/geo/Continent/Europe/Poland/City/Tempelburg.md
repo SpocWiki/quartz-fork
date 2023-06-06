@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tempelburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Tempelburg.md) 
-- [Tempelburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Tempelburg.internal.md) 
-- [Tempelburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Tempelburg.protect.md) 
-- [Tempelburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Tempelburg.private.md) 
-- [Tempelburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Tempelburg.personal.md) 
-- [Tempelburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Tempelburg.secret.md) 

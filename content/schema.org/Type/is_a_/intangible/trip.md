@@ -45,10 +45,3 @@ A trip or journey. An itinerary of visits to one or more places.
 
 
 
-## Confidential Links & Embeds: 
-- [trip](../../../../../_public/schema.org/Type/is_a_/intangible/trip.md) 
-- [trip.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/trip.internal.md) 
-- [trip.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/trip.protect.md) 
-- [trip.private](../../../../../_private/schema.org/Type/is_a_/intangible/trip.private.md) 
-- [trip.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/trip.personal.md) 
-- [trip.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/trip.secret.md) 

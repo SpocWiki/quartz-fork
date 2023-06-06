@@ -36,10 +36,3 @@ markerFolder: ./Tanganyika/City
 
 
 
-## Confidential Links & Embeds: 
-- [Tanganyika](../../../../_public/geo/Continent/Africa/Tanganyika.md) 
-- [Tanganyika.internal](../../../../_internal/geo/Continent/Africa/Tanganyika.internal.md) 
-- [Tanganyika.protect](../../../../_protect/geo/Continent/Africa/Tanganyika.protect.md) 
-- [Tanganyika.private](../../../../_private/geo/Continent/Africa/Tanganyika.private.md) 
-- [Tanganyika.personal](../../../../_personal/geo/Continent/Africa/Tanganyika.personal.md) 
-- [Tanganyika.secret](../../../../_secret/geo/Continent/Africa/Tanganyika.secret.md) 

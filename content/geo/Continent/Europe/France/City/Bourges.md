@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bourges](../../../../../../_public/geo/Continent/Europe/France/City/Bourges.md) 
-- [Bourges.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bourges.internal.md) 
-- [Bourges.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bourges.protect.md) 
-- [Bourges.private](../../../../../../_private/geo/Continent/Europe/France/City/Bourges.private.md) 
-- [Bourges.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bourges.personal.md) 
-- [Bourges.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bourges.secret.md) 

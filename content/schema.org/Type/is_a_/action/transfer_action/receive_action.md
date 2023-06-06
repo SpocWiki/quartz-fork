@@ -50,10 +50,3 @@ Related actions:
 
 
 
-## Confidential Links & Embeds: 
-- [receive_action](../../../../../../_public/schema.org/Type/is_a_/action/transfer_action/receive_action.md) 
-- [receive_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/transfer_action/receive_action.internal.md) 
-- [receive_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/transfer_action/receive_action.protect.md) 
-- [receive_action.private](../../../../../../_private/schema.org/Type/is_a_/action/transfer_action/receive_action.private.md) 
-- [receive_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/transfer_action/receive_action.personal.md) 
-- [receive_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/transfer_action/receive_action.secret.md) 

@@ -30,7 +30,7 @@ markerFolder: ./Serbia_and_Montenegro/City
 [VehicleCode::]
 [Capital-Id::]
 ![350](Coat_of_arms_of_Serbia.svg)
-![Anthem-Serbia](xLarge/National-Anthem/Anthem-Serbia.mp3)
+[Anthem-Serbia](xLarge/National-Anthem/Anthem-Serbia.mp3)
 ![350](Flag_of_Serbia.svg)
 [Alcohol-l::]
 [Language-Id::]
@@ -39,10 +39,3 @@ markerFolder: ./Serbia_and_Montenegro/City
 
 
 
-## Confidential Links & Embeds: 
-- [Serbia_and_Montenegro](../../../../_public/geo/Continent/Europe/Serbia_and_Montenegro.md) 
-- [Serbia_and_Montenegro.internal](../../../../_internal/geo/Continent/Europe/Serbia_and_Montenegro.internal.md) 
-- [Serbia_and_Montenegro.protect](../../../../_protect/geo/Continent/Europe/Serbia_and_Montenegro.protect.md) 
-- [Serbia_and_Montenegro.private](../../../../_private/geo/Continent/Europe/Serbia_and_Montenegro.private.md) 
-- [Serbia_and_Montenegro.personal](../../../../_personal/geo/Continent/Europe/Serbia_and_Montenegro.personal.md) 
-- [Serbia_and_Montenegro.secret](../../../../_secret/geo/Continent/Europe/Serbia_and_Montenegro.secret.md) 

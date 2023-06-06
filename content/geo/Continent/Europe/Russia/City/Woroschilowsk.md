@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Woroschilowsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Woroschilowsk.md) 
-- [Woroschilowsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Woroschilowsk.internal.md) 
-- [Woroschilowsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Woroschilowsk.protect.md) 
-- [Woroschilowsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Woroschilowsk.private.md) 
-- [Woroschilowsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Woroschilowsk.personal.md) 
-- [Woroschilowsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Woroschilowsk.secret.md) 

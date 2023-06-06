@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Szczawinca](../../../../../../_public/geo/Continent/Europe/Poland/City/Szczawinca.md) 
-- [Szczawinca.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Szczawinca.internal.md) 
-- [Szczawinca.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Szczawinca.protect.md) 
-- [Szczawinca.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Szczawinca.private.md) 
-- [Szczawinca.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Szczawinca.personal.md) 
-- [Szczawinca.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Szczawinca.secret.md) 

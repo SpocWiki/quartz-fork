@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spokane](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.md) 
-- [Spokane.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.internal.md) 
-- [Spokane.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.protect.md) 
-- [Spokane.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.private.md) 
-- [Spokane.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.personal.md) 
-- [Spokane.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Washington/City/Spokane.secret.md) 

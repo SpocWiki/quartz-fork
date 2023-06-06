@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Santiago_de_Compostela](../../../../../../_public/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.md) 
-- [Santiago_de_Compostela.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.internal.md) 
-- [Santiago_de_Compostela.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.protect.md) 
-- [Santiago_de_Compostela.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.private.md) 
-- [Santiago_de_Compostela.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.personal.md) 
-- [Santiago_de_Compostela.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Santiago_de_Compostela.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kathmandu](../../../../../../_public/geo/Continent/Asia/Nepal/City/Kathmandu.md) 
-- [Kathmandu.internal](../../../../../../_internal/geo/Continent/Asia/Nepal/City/Kathmandu.internal.md) 
-- [Kathmandu.protect](../../../../../../_protect/geo/Continent/Asia/Nepal/City/Kathmandu.protect.md) 
-- [Kathmandu.private](../../../../../../_private/geo/Continent/Asia/Nepal/City/Kathmandu.private.md) 
-- [Kathmandu.personal](../../../../../../_personal/geo/Continent/Asia/Nepal/City/Kathmandu.personal.md) 
-- [Kathmandu.secret](../../../../../../_secret/geo/Continent/Asia/Nepal/City/Kathmandu.secret.md) 

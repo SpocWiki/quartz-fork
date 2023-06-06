@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alchiba](../../../_public/astro/Star/Alchiba.md) 
-- [Alchiba.internal](../../../_internal/astro/Star/Alchiba.internal.md) 
-- [Alchiba.protect](../../../_protect/astro/Star/Alchiba.protect.md) 
-- [Alchiba.private](../../../_private/astro/Star/Alchiba.private.md) 
-- [Alchiba.personal](../../../_personal/astro/Star/Alchiba.personal.md) 
-- [Alchiba.secret](../../../_secret/astro/Star/Alchiba.secret.md)
-

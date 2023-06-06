@@ -19,10 +19,3 @@ title: Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Preci
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.md) 
-- [Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.internal.md) 
-- [Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.protect.md) 
-- [Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.private.md) 
-- [Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.personal.md) 
-- [Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Replacement_of_a_mechanical_system-Manufacturing_Precision.secret.md) 

@@ -34,10 +34,3 @@ title: Einsteinium
 
 
 
-## Confidential Links & Embeds: 
-- [Einsteinium](../../../../_public/chemic/Elements/Actinide-Group/Einsteinium.md) 
-- [Einsteinium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Einsteinium.internal.md) 
-- [Einsteinium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Einsteinium.protect.md) 
-- [Einsteinium.private](../../../../_private/chemic/Elements/Actinide-Group/Einsteinium.private.md) 
-- [Einsteinium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Einsteinium.personal.md) 
-- [Einsteinium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Einsteinium.secret.md) 

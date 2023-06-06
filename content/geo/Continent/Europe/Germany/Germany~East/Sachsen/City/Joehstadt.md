@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Joehstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Joehstadt.md) 
-- [Joehstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Joehstadt.internal.md) 
-- [Joehstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Joehstadt.protect.md) 
-- [Joehstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Joehstadt.private.md) 
-- [Joehstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Joehstadt.personal.md) 
-- [Joehstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Joehstadt.secret.md) 

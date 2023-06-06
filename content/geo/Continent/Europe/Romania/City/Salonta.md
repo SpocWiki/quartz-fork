@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salonta](../../../../../../_public/geo/Continent/Europe/Romania/City/Salonta.md) 
-- [Salonta.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Salonta.internal.md) 
-- [Salonta.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Salonta.protect.md) 
-- [Salonta.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Salonta.private.md) 
-- [Salonta.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Salonta.personal.md) 
-- [Salonta.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Salonta.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Furnoegrund](../../../../../../_public/geo/Continent/Europe/Sweden/City/Furnoegrund.md) 
-- [Furnoegrund.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Furnoegrund.internal.md) 
-- [Furnoegrund.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Furnoegrund.protect.md) 
-- [Furnoegrund.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Furnoegrund.private.md) 
-- [Furnoegrund.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Furnoegrund.personal.md) 
-- [Furnoegrund.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Furnoegrund.secret.md) 

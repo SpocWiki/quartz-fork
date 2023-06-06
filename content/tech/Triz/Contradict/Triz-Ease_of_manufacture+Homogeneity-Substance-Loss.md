@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Homogeneity-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Homogeneity-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.md) 
-- [Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.internal.md) 
-- [Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.protect.md) 
-- [Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.private.md) 
-- [Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.personal.md) 
-- [Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Homogeneity-Substance-Loss.secret.md) 

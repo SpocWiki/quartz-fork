@@ -17,10 +17,3 @@ title: Triz-Amplitude_Modulation
 
 Replace a continuous Siren with Sound that changes Amplitude and Frequency.
 
-## Confidential Links & Embeds: 
-- [Triz-Amplitude_Modulation](../../../../_public/tech/Triz/Example/Triz-Amplitude_Modulation.md) 
-- [Triz-Amplitude_Modulation.internal](../../../../_internal/tech/Triz/Example/Triz-Amplitude_Modulation.internal.md) 
-- [Triz-Amplitude_Modulation.protect](../../../../_protect/tech/Triz/Example/Triz-Amplitude_Modulation.protect.md) 
-- [Triz-Amplitude_Modulation.private](../../../../_private/tech/Triz/Example/Triz-Amplitude_Modulation.private.md) 
-- [Triz-Amplitude_Modulation.personal](../../../../_personal/tech/Triz/Example/Triz-Amplitude_Modulation.personal.md) 
-- [Triz-Amplitude_Modulation.secret](../../../../_secret/tech/Triz/Example/Triz-Amplitude_Modulation.secret.md) 

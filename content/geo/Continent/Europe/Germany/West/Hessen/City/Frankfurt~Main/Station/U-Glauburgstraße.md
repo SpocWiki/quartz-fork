@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Glauburgstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glauburgstra%C3%9Fe.md) 
-- [U-Glauburgstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glauburgstra%C3%9Fe.internal.md) 
-- [U-Glauburgstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glauburgstra%C3%9Fe.protect.md) 
-- [U-Glauburgstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glauburgstra%C3%9Fe.private.md) 
-- [U-Glauburgstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glauburgstra%C3%9Fe.personal.md) 
-- [U-Glauburgstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Glauburgstra%C3%9Fe.secret.md) 

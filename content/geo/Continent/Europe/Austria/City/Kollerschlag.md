@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kollerschlag](../../../../../../_public/geo/Continent/Europe/Austria/City/Kollerschlag.md) 
-- [Kollerschlag.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Kollerschlag.internal.md) 
-- [Kollerschlag.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Kollerschlag.protect.md) 
-- [Kollerschlag.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Kollerschlag.private.md) 
-- [Kollerschlag.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Kollerschlag.personal.md) 
-- [Kollerschlag.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Kollerschlag.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heidberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.md) 
-- [Heidberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.internal.md) 
-- [Heidberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.protect.md) 
-- [Heidberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.private.md) 
-- [Heidberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.personal.md) 
-- [Heidberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heidberg.secret.md) 

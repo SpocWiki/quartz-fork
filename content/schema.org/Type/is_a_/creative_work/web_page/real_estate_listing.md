@@ -46,10 +46,3 @@ A <a class="localLink" href="/RealEstateListing">RealEstateListing</a> is a list
 
 
 
-## Confidential Links & Embeds: 
-- [real_estate_listing](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.md) 
-- [real_estate_listing.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.internal.md) 
-- [real_estate_listing.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.protect.md) 
-- [real_estate_listing.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.private.md) 
-- [real_estate_listing.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.personal.md) 
-- [real_estate_listing.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.secret.md) 

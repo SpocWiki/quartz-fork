@@ -119,7 +119,7 @@ markerFolder: ./Suriname/City
 
 ![350](geo/Continent/South-America/Mexico/Coat_of_arms_of_Mexico.svg)
 
-![Anthem-Mexico](xLarge/National-Anthem/Anthem-Mexico.mp3)
+[Anthem-Mexico](xLarge/National-Anthem/Anthem-Mexico.mp3)
 
 ![350](geo/Continent/South-America/Mexico/Flag_of_Mexico.svg)
 
@@ -135,10 +135,3 @@ markerFolder: ./Suriname/City
 
 
 
-## Confidential Links & Embeds: 
-- [Suriname](../../../../_public/geo/Continent/South-America/Suriname.md) 
-- [Suriname.internal](../../../../_internal/geo/Continent/South-America/Suriname.internal.md) 
-- [Suriname.protect](../../../../_protect/geo/Continent/South-America/Suriname.protect.md) 
-- [Suriname.private](../../../../_private/geo/Continent/South-America/Suriname.private.md) 
-- [Suriname.personal](../../../../_personal/geo/Continent/South-America/Suriname.personal.md) 
-- [Suriname.secret](../../../../_secret/geo/Continent/South-America/Suriname.secret.md) 

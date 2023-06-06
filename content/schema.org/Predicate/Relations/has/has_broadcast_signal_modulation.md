@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_broadcast_signal_modulation](../../../../../_public/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.md) 
-- [has_broadcast_signal_modulation.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.internal.md) 
-- [has_broadcast_signal_modulation.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.protect.md) 
-- [has_broadcast_signal_modulation.private](../../../../../_private/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.private.md) 
-- [has_broadcast_signal_modulation.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.personal.md) 
-- [has_broadcast_signal_modulation.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.secret.md) 

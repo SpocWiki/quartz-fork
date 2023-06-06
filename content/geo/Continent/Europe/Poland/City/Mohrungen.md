@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mohrungen](../../../../../../_public/geo/Continent/Europe/Poland/City/Mohrungen.md) 
-- [Mohrungen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Mohrungen.internal.md) 
-- [Mohrungen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Mohrungen.protect.md) 
-- [Mohrungen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Mohrungen.private.md) 
-- [Mohrungen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Mohrungen.personal.md) 
-- [Mohrungen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Mohrungen.secret.md) 

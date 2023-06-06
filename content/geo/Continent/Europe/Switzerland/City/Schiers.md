@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schiers](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schiers.md) 
-- [Schiers.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schiers.internal.md) 
-- [Schiers.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schiers.protect.md) 
-- [Schiers.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schiers.private.md) 
-- [Schiers.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schiers.personal.md) 
-- [Schiers.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schiers.secret.md) 

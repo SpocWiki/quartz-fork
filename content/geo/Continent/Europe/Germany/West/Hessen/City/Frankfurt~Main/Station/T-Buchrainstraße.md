@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Buchrainstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Buchrainstra%C3%9Fe.md) 
-- [T-Buchrainstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Buchrainstra%C3%9Fe.internal.md) 
-- [T-Buchrainstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Buchrainstra%C3%9Fe.protect.md) 
-- [T-Buchrainstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Buchrainstra%C3%9Fe.private.md) 
-- [T-Buchrainstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Buchrainstra%C3%9Fe.personal.md) 
-- [T-Buchrainstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Buchrainstra%C3%9Fe.secret.md) 

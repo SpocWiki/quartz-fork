@@ -43,10 +43,3 @@ Originally, URLs from <a href="http://purl.org/goodrelations/v1">GoodRelations</
 
 
 
-## Confidential Links & Embeds: 
-- [day_of_week](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week.md) 
-- [day_of_week.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week.internal.md) 
-- [day_of_week.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week.protect.md) 
-- [day_of_week.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week.private.md) 
-- [day_of_week.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week.personal.md) 
-- [day_of_week.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week.secret.md) 

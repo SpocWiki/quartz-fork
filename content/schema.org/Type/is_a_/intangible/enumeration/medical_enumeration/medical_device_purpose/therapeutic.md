@@ -45,10 +45,3 @@ A medical device used for therapeutic purposes.
 
 
 
-## Confidential Links & Embeds: 
-- [therapeutic](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.md) 
-- [therapeutic.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.internal.md) 
-- [therapeutic.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.protect.md) 
-- [therapeutic.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.private.md) 
-- [therapeutic.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.personal.md) 
-- [therapeutic.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.secret.md) 

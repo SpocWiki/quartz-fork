@@ -43,10 +43,3 @@ Web page type: Image gallery page.
 
 
 
-## Confidential Links & Embeds: 
-- [image_gallery](../../../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/image_gallery.md) 
-- [image_gallery.internal](../../../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/image_gallery.internal.md) 
-- [image_gallery.protect](../../../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/image_gallery.protect.md) 
-- [image_gallery.private](../../../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/image_gallery.private.md) 
-- [image_gallery.personal](../../../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/image_gallery.personal.md) 
-- [image_gallery.secret](../../../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/image_gallery.secret.md) 

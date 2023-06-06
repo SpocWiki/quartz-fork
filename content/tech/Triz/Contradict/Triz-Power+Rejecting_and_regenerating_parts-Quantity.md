@@ -19,10 +19,3 @@ title: Triz-Power+Rejecting_and_regenerating_parts-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Rejecting_and_regenerating_parts-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.internal.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.protect.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.private.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.personal.md) 
-- [Triz-Power+Rejecting_and_regenerating_parts-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Rejecting_and_regenerating_parts-Quantity.secret.md) 

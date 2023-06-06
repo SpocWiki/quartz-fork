@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Kensington_(Olympia)](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).md) 
-- [Sub-Kensington_(Olympia).internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).internal.md) 
-- [Sub-Kensington_(Olympia).protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).protect.md) 
-- [Sub-Kensington_(Olympia).private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).private.md) 
-- [Sub-Kensington_(Olympia).personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).personal.md) 
-- [Sub-Kensington_(Olympia).secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Kensington_(Olympia).secret.md) 

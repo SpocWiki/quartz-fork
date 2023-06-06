@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hengelo](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hengelo.md) 
-- [Hengelo.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hengelo.internal.md) 
-- [Hengelo.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hengelo.protect.md) 
-- [Hengelo.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hengelo.private.md) 
-- [Hengelo.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hengelo.personal.md) 
-- [Hengelo.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hengelo.secret.md) 

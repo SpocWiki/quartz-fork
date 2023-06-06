@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Troyes](../../../../../../_public/geo/Continent/Europe/France/City/Troyes.md) 
-- [Troyes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Troyes.internal.md) 
-- [Troyes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Troyes.protect.md) 
-- [Troyes.private](../../../../../../_private/geo/Continent/Europe/France/City/Troyes.private.md) 
-- [Troyes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Troyes.personal.md) 
-- [Troyes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Troyes.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Quiestello](../../../../../../_public/geo/Continent/Europe/Italy/City/Quiestello.md) 
-- [Quiestello.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Quiestello.internal.md) 
-- [Quiestello.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Quiestello.protect.md) 
-- [Quiestello.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Quiestello.private.md) 
-- [Quiestello.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Quiestello.personal.md) 
-- [Quiestello.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Quiestello.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Agnano](../../../../../../_public/geo/Continent/Europe/Italy/City/Agnano.md) 
-- [Agnano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Agnano.internal.md) 
-- [Agnano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Agnano.protect.md) 
-- [Agnano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Agnano.private.md) 
-- [Agnano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Agnano.personal.md) 
-- [Agnano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Agnano.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Heathrow_Terminals_1,_2_&_3](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminals_1,_2_&_3.md) 
-- [Sub-Heathrow_Terminals_1,_2_&_3.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminals_1,_2_&_3.internal.md) 
-- [Sub-Heathrow_Terminals_1,_2_&_3.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminals_1,_2_&_3.protect.md) 
-- [Sub-Heathrow_Terminals_1,_2_&_3.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminals_1,_2_&_3.private.md) 
-- [Sub-Heathrow_Terminals_1,_2_&_3.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminals_1,_2_&_3.personal.md) 
-- [Sub-Heathrow_Terminals_1,_2_&_3.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminals_1,_2_&_3.secret.md) 

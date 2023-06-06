@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Miltenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Miltenberg.md) 
-- [Miltenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Miltenberg.internal.md) 
-- [Miltenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Miltenberg.protect.md) 
-- [Miltenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Miltenberg.private.md) 
-- [Miltenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Miltenberg.personal.md) 
-- [Miltenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Miltenberg.secret.md) 

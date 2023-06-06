@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_url_for_tracking_url](../../../../_public/schema.org/Predicate/Urls/has_url_for_tracking_url.md) 
-- [has_url_for_tracking_url.internal](../../../../_internal/schema.org/Predicate/Urls/has_url_for_tracking_url.internal.md) 
-- [has_url_for_tracking_url.protect](../../../../_protect/schema.org/Predicate/Urls/has_url_for_tracking_url.protect.md) 
-- [has_url_for_tracking_url.private](../../../../_private/schema.org/Predicate/Urls/has_url_for_tracking_url.private.md) 
-- [has_url_for_tracking_url.personal](../../../../_personal/schema.org/Predicate/Urls/has_url_for_tracking_url.personal.md) 
-- [has_url_for_tracking_url.secret](../../../../_secret/schema.org/Predicate/Urls/has_url_for_tracking_url.secret.md) 

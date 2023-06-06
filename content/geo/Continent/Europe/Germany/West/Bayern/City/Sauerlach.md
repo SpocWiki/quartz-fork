@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sauerlach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Sauerlach.md) 
-- [Sauerlach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Sauerlach.internal.md) 
-- [Sauerlach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Sauerlach.protect.md) 
-- [Sauerlach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Sauerlach.private.md) 
-- [Sauerlach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Sauerlach.personal.md) 
-- [Sauerlach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Sauerlach.secret.md) 

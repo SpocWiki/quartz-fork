@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kampehl](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.md) 
-- [Kampehl.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.internal.md) 
-- [Kampehl.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.protect.md) 
-- [Kampehl.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.private.md) 
-- [Kampehl.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.personal.md) 
-- [Kampehl.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Kampehl.secret.md) 

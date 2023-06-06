@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Feedback-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Feedback-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Feedback-Quantity.md) 
-- [Triz-Ease_of_manufacture+Feedback-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Feedback-Quantity.internal.md) 
-- [Triz-Ease_of_manufacture+Feedback-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Feedback-Quantity.protect.md) 
-- [Triz-Ease_of_manufacture+Feedback-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Feedback-Quantity.private.md) 
-- [Triz-Ease_of_manufacture+Feedback-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Feedback-Quantity.personal.md) 
-- [Triz-Ease_of_manufacture+Feedback-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Feedback-Quantity.secret.md) 

@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_lei_code](../../../../_public/schema.org/Predicate/Texts/has_lei_code.md) 
-- [has_lei_code.internal](../../../../_internal/schema.org/Predicate/Texts/has_lei_code.internal.md) 
-- [has_lei_code.protect](../../../../_protect/schema.org/Predicate/Texts/has_lei_code.protect.md) 
-- [has_lei_code.private](../../../../_private/schema.org/Predicate/Texts/has_lei_code.private.md) 
-- [has_lei_code.personal](../../../../_personal/schema.org/Predicate/Texts/has_lei_code.personal.md) 
-- [has_lei_code.secret](../../../../_secret/schema.org/Predicate/Texts/has_lei_code.secret.md) 

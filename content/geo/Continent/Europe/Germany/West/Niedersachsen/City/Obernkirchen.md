@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Obernkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.md) 
-- [Obernkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.internal.md) 
-- [Obernkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.protect.md) 
-- [Obernkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.private.md) 
-- [Obernkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.personal.md) 
-- [Obernkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Obernkirchen.secret.md) 

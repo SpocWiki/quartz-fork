@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seoul](../../../../../../_public/geo/Continent/Asia/Korea~South/City/Seoul.md) 
-- [Seoul.internal](../../../../../../_internal/geo/Continent/Asia/Korea~South/City/Seoul.internal.md) 
-- [Seoul.protect](../../../../../../_protect/geo/Continent/Asia/Korea~South/City/Seoul.protect.md) 
-- [Seoul.private](../../../../../../_private/geo/Continent/Asia/Korea~South/City/Seoul.private.md) 
-- [Seoul.personal](../../../../../../_personal/geo/Continent/Asia/Korea~South/City/Seoul.personal.md) 
-- [Seoul.secret](../../../../../../_secret/geo/Continent/Asia/Korea~South/City/Seoul.secret.md) 

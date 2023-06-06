@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_lesser_than](../../../../../_public/schema.org/Predicate/Relations/is/is_lesser_than.md) 
-- [is_lesser_than.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_lesser_than.internal.md) 
-- [is_lesser_than.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_lesser_than.protect.md) 
-- [is_lesser_than.private](../../../../../_private/schema.org/Predicate/Relations/is/is_lesser_than.private.md) 
-- [is_lesser_than.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_lesser_than.personal.md) 
-- [is_lesser_than.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_lesser_than.secret.md) 

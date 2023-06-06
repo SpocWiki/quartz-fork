@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ussita](../../../../../../_public/geo/Continent/Europe/Italy/City/Ussita.md) 
-- [Ussita.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ussita.internal.md) 
-- [Ussita.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ussita.protect.md) 
-- [Ussita.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ussita.private.md) 
-- [Ussita.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ussita.personal.md) 
-- [Ussita.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ussita.secret.md) 

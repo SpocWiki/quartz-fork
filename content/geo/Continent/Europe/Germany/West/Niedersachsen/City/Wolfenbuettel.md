@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolfenbuettel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.md) 
-- [Wolfenbuettel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.internal.md) 
-- [Wolfenbuettel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.protect.md) 
-- [Wolfenbuettel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.private.md) 
-- [Wolfenbuettel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.personal.md) 
-- [Wolfenbuettel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wolfenbuettel.secret.md) 

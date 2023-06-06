@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Ceginus](../../../_public/astro/Star/Ceginus.md) 
-- [Ceginus.internal](../../../_internal/astro/Star/Ceginus.internal.md) 
-- [Ceginus.protect](../../../_protect/astro/Star/Ceginus.protect.md) 
-- [Ceginus.private](../../../_private/astro/Star/Ceginus.private.md) 
-- [Ceginus.personal](../../../_personal/astro/Star/Ceginus.personal.md) 
-- [Ceginus.secret](../../../_secret/astro/Star/Ceginus.secret.md)
-

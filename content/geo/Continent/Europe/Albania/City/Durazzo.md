@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Durazzo](../../../../../../_public/geo/Continent/Europe/Albania/City/Durazzo.md) 
-- [Durazzo.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Durazzo.internal.md) 
-- [Durazzo.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Durazzo.protect.md) 
-- [Durazzo.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Durazzo.private.md) 
-- [Durazzo.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Durazzo.personal.md) 
-- [Durazzo.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Durazzo.secret.md) 

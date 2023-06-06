@@ -45,10 +45,3 @@ The status of a reservation on hold pending an update like credit card number or
 
 
 
-## Confidential Links & Embeds: 
-- [reservation_hold](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.md) 
-- [reservation_hold.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.internal.md) 
-- [reservation_hold.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.protect.md) 
-- [reservation_hold.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.private.md) 
-- [reservation_hold.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.personal.md) 
-- [reservation_hold.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.secret.md) 

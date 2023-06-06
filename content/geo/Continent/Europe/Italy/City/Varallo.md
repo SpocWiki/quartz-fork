@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Varallo](../../../../../../_public/geo/Continent/Europe/Italy/City/Varallo.md) 
-- [Varallo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Varallo.internal.md) 
-- [Varallo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Varallo.protect.md) 
-- [Varallo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Varallo.private.md) 
-- [Varallo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Varallo.personal.md) 
-- [Varallo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Varallo.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montevideo](../../../../../../_public/geo/Continent/South-America/Uruguay/City/Montevideo.md) 
-- [Montevideo.internal](../../../../../../_internal/geo/Continent/South-America/Uruguay/City/Montevideo.internal.md) 
-- [Montevideo.protect](../../../../../../_protect/geo/Continent/South-America/Uruguay/City/Montevideo.protect.md) 
-- [Montevideo.private](../../../../../../_private/geo/Continent/South-America/Uruguay/City/Montevideo.private.md) 
-- [Montevideo.personal](../../../../../../_personal/geo/Continent/South-America/Uruguay/City/Montevideo.personal.md) 
-- [Montevideo.secret](../../../../../../_secret/geo/Continent/South-America/Uruguay/City/Montevideo.secret.md) 

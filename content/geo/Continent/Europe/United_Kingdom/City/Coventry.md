@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Coventry](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Coventry.md) 
-- [Coventry.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Coventry.internal.md) 
-- [Coventry.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Coventry.protect.md) 
-- [Coventry.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Coventry.private.md) 
-- [Coventry.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Coventry.personal.md) 
-- [Coventry.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Coventry.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strullendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Strullendorf.md) 
-- [Strullendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Strullendorf.internal.md) 
-- [Strullendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Strullendorf.protect.md) 
-- [Strullendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Strullendorf.private.md) 
-- [Strullendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Strullendorf.personal.md) 
-- [Strullendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Strullendorf.secret.md) 

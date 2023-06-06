@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harrow](../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.md) 
-- [Harrow.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.internal.md) 
-- [Harrow.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.protect.md) 
-- [Harrow.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.private.md) 
-- [Harrow.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.personal.md) 
-- [Harrow.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Harrow.secret.md) 

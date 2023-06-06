@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Deventer](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Deventer.md) 
-- [Deventer.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Deventer.internal.md) 
-- [Deventer.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Deventer.protect.md) 
-- [Deventer.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Deventer.private.md) 
-- [Deventer.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Deventer.personal.md) 
-- [Deventer.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Deventer.secret.md) 

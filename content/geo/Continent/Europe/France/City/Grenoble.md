@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grenoble](../../../../../../_public/geo/Continent/Europe/France/City/Grenoble.md) 
-- [Grenoble.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Grenoble.internal.md) 
-- [Grenoble.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Grenoble.protect.md) 
-- [Grenoble.private](../../../../../../_private/geo/Continent/Europe/France/City/Grenoble.private.md) 
-- [Grenoble.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Grenoble.personal.md) 
-- [Grenoble.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Grenoble.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuwait=Kuweit](../../../../../../_public/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.md) 
-- [Kuwait=Kuweit.internal](../../../../../../_internal/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.internal.md) 
-- [Kuwait=Kuweit.protect](../../../../../../_protect/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.protect.md) 
-- [Kuwait=Kuweit.private](../../../../../../_private/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.private.md) 
-- [Kuwait=Kuweit.personal](../../../../../../_personal/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.personal.md) 
-- [Kuwait=Kuweit.secret](../../../../../../_secret/geo/Continent/Asia/Kuwait/City/Kuwait=Kuweit.secret.md) 

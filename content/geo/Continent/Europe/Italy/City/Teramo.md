@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teramo](../../../../../../_public/geo/Continent/Europe/Italy/City/Teramo.md) 
-- [Teramo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Teramo.internal.md) 
-- [Teramo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Teramo.protect.md) 
-- [Teramo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Teramo.private.md) 
-- [Teramo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Teramo.personal.md) 
-- [Teramo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Teramo.secret.md) 

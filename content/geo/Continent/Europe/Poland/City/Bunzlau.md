@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bunzlau](../../../../../../_public/geo/Continent/Europe/Poland/City/Bunzlau.md) 
-- [Bunzlau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bunzlau.internal.md) 
-- [Bunzlau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bunzlau.protect.md) 
-- [Bunzlau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bunzlau.private.md) 
-- [Bunzlau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bunzlau.personal.md) 
-- [Bunzlau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bunzlau.secret.md) 

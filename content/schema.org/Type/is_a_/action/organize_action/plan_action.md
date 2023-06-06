@@ -45,10 +45,3 @@ The act of planning the execution of an event/task/action/reservation/plan to a 
 
 
 
-## Confidential Links & Embeds: 
-- [plan_action](../../../../../../_public/schema.org/Type/is_a_/action/organize_action/plan_action.md) 
-- [plan_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/plan_action.internal.md) 
-- [plan_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/plan_action.protect.md) 
-- [plan_action.private](../../../../../../_private/schema.org/Type/is_a_/action/organize_action/plan_action.private.md) 
-- [plan_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/plan_action.personal.md) 
-- [plan_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/plan_action.secret.md) 

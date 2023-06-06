@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freetown](../../../../../../_public/geo/Continent/Africa/Sierra_Leone/City/Freetown.md) 
-- [Freetown.internal](../../../../../../_internal/geo/Continent/Africa/Sierra_Leone/City/Freetown.internal.md) 
-- [Freetown.protect](../../../../../../_protect/geo/Continent/Africa/Sierra_Leone/City/Freetown.protect.md) 
-- [Freetown.private](../../../../../../_private/geo/Continent/Africa/Sierra_Leone/City/Freetown.private.md) 
-- [Freetown.personal](../../../../../../_personal/geo/Continent/Africa/Sierra_Leone/City/Freetown.personal.md) 
-- [Freetown.secret](../../../../../../_secret/geo/Continent/Africa/Sierra_Leone/City/Freetown.secret.md) 

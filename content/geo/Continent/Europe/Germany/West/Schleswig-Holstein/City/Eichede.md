@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eichede](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.md) 
-- [Eichede.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.internal.md) 
-- [Eichede.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.protect.md) 
-- [Eichede.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.private.md) 
-- [Eichede.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.personal.md) 
-- [Eichede.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Eichede.secret.md) 

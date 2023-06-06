@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Nesting-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Nesting-Quantity](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.md) 
-- [Triz-moving_Volume+Nesting-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.internal.md) 
-- [Triz-moving_Volume+Nesting-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.protect.md) 
-- [Triz-moving_Volume+Nesting-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.private.md) 
-- [Triz-moving_Volume+Nesting-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.personal.md) 
-- [Triz-moving_Volume+Nesting-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Nesting-Quantity.secret.md) 

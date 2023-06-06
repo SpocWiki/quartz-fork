@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuchátel](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Neuch%C3%A1tel.md) 
-- [Neuchátel.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Neuch%C3%A1tel.internal.md) 
-- [Neuchátel.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Neuch%C3%A1tel.protect.md) 
-- [Neuchátel.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Neuch%C3%A1tel.private.md) 
-- [Neuchátel.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Neuch%C3%A1tel.personal.md) 
-- [Neuchátel.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Neuch%C3%A1tel.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nerchau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nerchau.md) 
-- [Nerchau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nerchau.internal.md) 
-- [Nerchau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nerchau.protect.md) 
-- [Nerchau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nerchau.private.md) 
-- [Nerchau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nerchau.personal.md) 
-- [Nerchau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Nerchau.secret.md) 

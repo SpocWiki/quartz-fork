@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krementschug](../../../../../../_public/geo/Continent/Europe/Russia/City/Krementschug.md) 
-- [Krementschug.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Krementschug.internal.md) 
-- [Krementschug.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Krementschug.protect.md) 
-- [Krementschug.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Krementschug.private.md) 
-- [Krementschug.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Krementschug.personal.md) 
-- [Krementschug.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Krementschug.secret.md) 

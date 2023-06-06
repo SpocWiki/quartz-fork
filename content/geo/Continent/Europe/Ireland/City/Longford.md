@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Longford](../../../../../../_public/geo/Continent/Europe/Ireland/City/Longford.md) 
-- [Longford.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Longford.internal.md) 
-- [Longford.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Longford.protect.md) 
-- [Longford.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Longford.private.md) 
-- [Longford.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Longford.personal.md) 
-- [Longford.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Longford.secret.md) 

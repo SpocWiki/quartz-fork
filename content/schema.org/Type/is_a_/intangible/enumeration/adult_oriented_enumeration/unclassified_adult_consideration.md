@@ -47,10 +47,3 @@ The item is suitable only for adults, without indicating why. Due to widespread 
 
 
 
-## Confidential Links & Embeds: 
-- [unclassified_adult_consideration](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.md) 
-- [unclassified_adult_consideration.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.internal.md) 
-- [unclassified_adult_consideration.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.protect.md) 
-- [unclassified_adult_consideration.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.private.md) 
-- [unclassified_adult_consideration.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.personal.md) 
-- [unclassified_adult_consideration.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.secret.md) 

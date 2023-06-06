@@ -47,10 +47,3 @@ Any biological, chemical, or biochemical thing. For example: a protein; a gene; 
 
 
 
-## Confidential Links & Embeds: 
-- [bio_chem_entity](../../../../_public/schema.org/Type/is_a_/bio_chem_entity.md) 
-- [bio_chem_entity.internal](../../../../_internal/schema.org/Type/is_a_/bio_chem_entity.internal.md) 
-- [bio_chem_entity.protect](../../../../_protect/schema.org/Type/is_a_/bio_chem_entity.protect.md) 
-- [bio_chem_entity.private](../../../../_private/schema.org/Type/is_a_/bio_chem_entity.private.md) 
-- [bio_chem_entity.personal](../../../../_personal/schema.org/Type/is_a_/bio_chem_entity.personal.md) 
-- [bio_chem_entity.secret](../../../../_secret/schema.org/Type/is_a_/bio_chem_entity.secret.md) 

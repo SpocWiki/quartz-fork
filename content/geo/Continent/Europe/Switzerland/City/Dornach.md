@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dornach](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Dornach.md) 
-- [Dornach.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Dornach.internal.md) 
-- [Dornach.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Dornach.protect.md) 
-- [Dornach.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Dornach.private.md) 
-- [Dornach.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Dornach.personal.md) 
-- [Dornach.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Dornach.secret.md) 

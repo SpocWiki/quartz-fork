@@ -19,10 +19,3 @@ title: Triz-Stress+Universality-moving_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Universality-moving_Volume](../../../../_public/tech/Triz/Contradict/Triz-Stress+Universality-moving_Volume.md) 
-- [Triz-Stress+Universality-moving_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Universality-moving_Volume.internal.md) 
-- [Triz-Stress+Universality-moving_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Universality-moving_Volume.protect.md) 
-- [Triz-Stress+Universality-moving_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Universality-moving_Volume.private.md) 
-- [Triz-Stress+Universality-moving_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Universality-moving_Volume.personal.md) 
-- [Triz-Stress+Universality-moving_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Universality-moving_Volume.secret.md) 

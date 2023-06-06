@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_job_location](../../../../_public/schema.org/Predicate/geos/has_geo_job_location.md) 
-- [has_geo_job_location.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_job_location.internal.md) 
-- [has_geo_job_location.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_job_location.protect.md) 
-- [has_geo_job_location.private](../../../../_private/schema.org/Predicate/geos/has_geo_job_location.private.md) 
-- [has_geo_job_location.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_job_location.personal.md) 
-- [has_geo_job_location.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_job_location.secret.md) 

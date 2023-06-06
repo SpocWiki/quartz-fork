@@ -47,10 +47,3 @@ Measurement of the collar, for example of a shirt
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_measurement_collar](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.md) 
-- [wearable_measurement_collar.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.internal.md) 
-- [wearable_measurement_collar.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.protect.md) 
-- [wearable_measurement_collar.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.private.md) 
-- [wearable_measurement_collar.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.personal.md) 
-- [wearable_measurement_collar.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.secret.md) 

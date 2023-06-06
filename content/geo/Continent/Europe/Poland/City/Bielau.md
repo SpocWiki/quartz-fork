@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bielau](../../../../../../_public/geo/Continent/Europe/Poland/City/Bielau.md) 
-- [Bielau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bielau.internal.md) 
-- [Bielau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bielau.protect.md) 
-- [Bielau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bielau.private.md) 
-- [Bielau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bielau.personal.md) 
-- [Bielau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bielau.secret.md) 

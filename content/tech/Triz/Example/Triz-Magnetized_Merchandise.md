@@ -17,10 +17,3 @@ title: Triz-Magnetized_Merchandise
 
 Magnetized Merchandise to prevent Shop Lifting
 
-## Confidential Links & Embeds: 
-- [Triz-Magnetized_Merchandise](../../../../_public/tech/Triz/Example/Triz-Magnetized_Merchandise.md) 
-- [Triz-Magnetized_Merchandise.internal](../../../../_internal/tech/Triz/Example/Triz-Magnetized_Merchandise.internal.md) 
-- [Triz-Magnetized_Merchandise.protect](../../../../_protect/tech/Triz/Example/Triz-Magnetized_Merchandise.protect.md) 
-- [Triz-Magnetized_Merchandise.private](../../../../_private/tech/Triz/Example/Triz-Magnetized_Merchandise.private.md) 
-- [Triz-Magnetized_Merchandise.personal](../../../../_personal/tech/Triz/Example/Triz-Magnetized_Merchandise.personal.md) 
-- [Triz-Magnetized_Merchandise.secret](../../../../_secret/tech/Triz/Example/Triz-Magnetized_Merchandise.secret.md) 

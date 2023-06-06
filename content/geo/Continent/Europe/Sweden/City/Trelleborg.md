@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trelleborg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Trelleborg.md) 
-- [Trelleborg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Trelleborg.internal.md) 
-- [Trelleborg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Trelleborg.protect.md) 
-- [Trelleborg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Trelleborg.private.md) 
-- [Trelleborg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Trelleborg.personal.md) 
-- [Trelleborg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Trelleborg.secret.md) 

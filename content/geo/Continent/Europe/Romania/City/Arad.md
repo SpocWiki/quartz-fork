@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arad](../../../../../../_public/geo/Continent/Europe/Romania/City/Arad.md) 
-- [Arad.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Arad.internal.md) 
-- [Arad.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Arad.protect.md) 
-- [Arad.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Arad.private.md) 
-- [Arad.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Arad.personal.md) 
-- [Arad.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Arad.secret.md) 

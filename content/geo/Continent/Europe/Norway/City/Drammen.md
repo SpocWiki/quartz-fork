@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Drammen](../../../../../../_public/geo/Continent/Europe/Norway/City/Drammen.md) 
-- [Drammen.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Drammen.internal.md) 
-- [Drammen.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Drammen.protect.md) 
-- [Drammen.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Drammen.private.md) 
-- [Drammen.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Drammen.personal.md) 
-- [Drammen.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Drammen.secret.md) 

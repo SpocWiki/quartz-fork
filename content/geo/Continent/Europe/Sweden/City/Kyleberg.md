@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kyleberg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kyleberg.md) 
-- [Kyleberg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kyleberg.internal.md) 
-- [Kyleberg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kyleberg.protect.md) 
-- [Kyleberg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kyleberg.private.md) 
-- [Kyleberg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kyleberg.personal.md) 
-- [Kyleberg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kyleberg.secret.md) 

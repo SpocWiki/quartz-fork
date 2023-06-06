@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seraing](../../../../../../_public/geo/Continent/Europe/Belgium/City/Seraing.md) 
-- [Seraing.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Seraing.internal.md) 
-- [Seraing.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Seraing.protect.md) 
-- [Seraing.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Seraing.private.md) 
-- [Seraing.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Seraing.personal.md) 
-- [Seraing.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Seraing.secret.md) 

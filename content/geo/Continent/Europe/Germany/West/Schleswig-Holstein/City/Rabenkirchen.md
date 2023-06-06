@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rabenkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rabenkirchen.md) 
-- [Rabenkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rabenkirchen.internal.md) 
-- [Rabenkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rabenkirchen.protect.md) 
-- [Rabenkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rabenkirchen.private.md) 
-- [Rabenkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rabenkirchen.personal.md) 
-- [Rabenkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Rabenkirchen.secret.md) 

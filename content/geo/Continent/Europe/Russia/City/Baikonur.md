@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baikonur](../../../../../../_public/geo/Continent/Europe/Russia/City/Baikonur.md) 
-- [Baikonur.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Baikonur.internal.md) 
-- [Baikonur.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Baikonur.protect.md) 
-- [Baikonur.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Baikonur.private.md) 
-- [Baikonur.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Baikonur.personal.md) 
-- [Baikonur.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Baikonur.secret.md) 

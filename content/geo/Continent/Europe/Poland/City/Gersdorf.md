@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gersdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Gersdorf.md) 
-- [Gersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gersdorf.internal.md) 
-- [Gersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gersdorf.protect.md) 
-- [Gersdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gersdorf.private.md) 
-- [Gersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gersdorf.personal.md) 
-- [Gersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gersdorf.secret.md) 

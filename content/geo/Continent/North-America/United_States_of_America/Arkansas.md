@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arkansas](../../../../../_public/geo/Continent/North-America/United_States_of_America/Arkansas.md) 
-- [Arkansas.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Arkansas.internal.md) 
-- [Arkansas.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Arkansas.protect.md) 
-- [Arkansas.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Arkansas.private.md) 
-- [Arkansas.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Arkansas.personal.md) 
-- [Arkansas.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Arkansas.secret.md) 

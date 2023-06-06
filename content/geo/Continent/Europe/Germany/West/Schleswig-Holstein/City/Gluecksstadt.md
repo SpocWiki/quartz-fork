@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gluecksstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gluecksstadt.md) 
-- [Gluecksstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gluecksstadt.internal.md) 
-- [Gluecksstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gluecksstadt.protect.md) 
-- [Gluecksstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gluecksstadt.private.md) 
-- [Gluecksstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gluecksstadt.personal.md) 
-- [Gluecksstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Gluecksstadt.secret.md) 

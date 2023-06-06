@@ -45,10 +45,3 @@ Nose function assessment with clinical examination.
 
 
 
-## Confidential Links & Embeds: 
-- [nose](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/nose.md) 
-- [nose.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/nose.internal.md) 
-- [nose.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/nose.protect.md) 
-- [nose.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/nose.private.md) 
-- [nose.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/nose.personal.md) 
-- [nose.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/nose.secret.md) 

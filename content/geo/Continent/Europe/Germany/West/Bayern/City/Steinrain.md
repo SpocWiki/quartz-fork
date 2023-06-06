@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Steinrain](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.md) 
-- [Steinrain.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.internal.md) 
-- [Steinrain.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.protect.md) 
-- [Steinrain.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.private.md) 
-- [Steinrain.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.personal.md) 
-- [Steinrain.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.secret.md) 

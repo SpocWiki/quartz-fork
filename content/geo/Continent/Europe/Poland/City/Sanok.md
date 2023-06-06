@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sanok](../../../../../../_public/geo/Continent/Europe/Poland/City/Sanok.md) 
-- [Sanok.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sanok.internal.md) 
-- [Sanok.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sanok.protect.md) 
-- [Sanok.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sanok.private.md) 
-- [Sanok.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sanok.personal.md) 
-- [Sanok.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sanok.secret.md) 

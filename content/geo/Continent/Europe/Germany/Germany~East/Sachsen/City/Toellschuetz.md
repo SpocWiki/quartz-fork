@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Toellschuetz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Toellschuetz.md) 
-- [Toellschuetz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Toellschuetz.internal.md) 
-- [Toellschuetz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Toellschuetz.protect.md) 
-- [Toellschuetz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Toellschuetz.private.md) 
-- [Toellschuetz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Toellschuetz.personal.md) 
-- [Toellschuetz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Toellschuetz.secret.md) 

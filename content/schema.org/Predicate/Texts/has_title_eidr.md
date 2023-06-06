@@ -53,10 +53,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_title_eidr](../../../../_public/schema.org/Predicate/Texts/has_title_eidr.md) 
-- [has_title_eidr.internal](../../../../_internal/schema.org/Predicate/Texts/has_title_eidr.internal.md) 
-- [has_title_eidr.protect](../../../../_protect/schema.org/Predicate/Texts/has_title_eidr.protect.md) 
-- [has_title_eidr.private](../../../../_private/schema.org/Predicate/Texts/has_title_eidr.private.md) 
-- [has_title_eidr.personal](../../../../_personal/schema.org/Predicate/Texts/has_title_eidr.personal.md) 
-- [has_title_eidr.secret](../../../../_secret/schema.org/Predicate/Texts/has_title_eidr.secret.md) 

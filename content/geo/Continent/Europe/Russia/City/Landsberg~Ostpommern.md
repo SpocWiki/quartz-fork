@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landsberg~Ostpommern](../../../../../../_public/geo/Continent/Europe/Russia/City/Landsberg~Ostpommern.md) 
-- [Landsberg~Ostpommern.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Landsberg~Ostpommern.internal.md) 
-- [Landsberg~Ostpommern.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Landsberg~Ostpommern.protect.md) 
-- [Landsberg~Ostpommern.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Landsberg~Ostpommern.private.md) 
-- [Landsberg~Ostpommern.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Landsberg~Ostpommern.personal.md) 
-- [Landsberg~Ostpommern.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Landsberg~Ostpommern.secret.md) 

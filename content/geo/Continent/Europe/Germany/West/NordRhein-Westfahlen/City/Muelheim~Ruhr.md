@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muelheim~Ruhr](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muelheim~Ruhr.md) 
-- [Muelheim~Ruhr.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muelheim~Ruhr.internal.md) 
-- [Muelheim~Ruhr.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muelheim~Ruhr.protect.md) 
-- [Muelheim~Ruhr.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muelheim~Ruhr.private.md) 
-- [Muelheim~Ruhr.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muelheim~Ruhr.personal.md) 
-- [Muelheim~Ruhr.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Muelheim~Ruhr.secret.md) 

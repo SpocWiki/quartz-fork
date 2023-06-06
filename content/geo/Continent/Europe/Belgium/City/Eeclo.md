@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eeclo](../../../../../../_public/geo/Continent/Europe/Belgium/City/Eeclo.md) 
-- [Eeclo.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Eeclo.internal.md) 
-- [Eeclo.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Eeclo.protect.md) 
-- [Eeclo.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Eeclo.private.md) 
-- [Eeclo.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Eeclo.personal.md) 
-- [Eeclo.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Eeclo.secret.md) 

@@ -45,10 +45,3 @@ All or part of a <a class="localLink" href="/Dataset">Dataset</a> in downloadabl
 
 
 
-## Confidential Links & Embeds: 
-- [data_download](../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/data_download.md) 
-- [data_download.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/data_download.internal.md) 
-- [data_download.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/data_download.protect.md) 
-- [data_download.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/data_download.private.md) 
-- [data_download.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/data_download.personal.md) 
-- [data_download.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/data_download.secret.md) 

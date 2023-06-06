@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falkenburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Falkenburg.md) 
-- [Falkenburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Falkenburg.internal.md) 
-- [Falkenburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Falkenburg.protect.md) 
-- [Falkenburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Falkenburg.private.md) 
-- [Falkenburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Falkenburg.personal.md) 
-- [Falkenburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Falkenburg.secret.md) 

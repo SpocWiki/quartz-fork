@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ehrenfriedersdorf](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.md) 
-- [Ehrenfriedersdorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.internal.md) 
-- [Ehrenfriedersdorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.protect.md) 
-- [Ehrenfriedersdorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.private.md) 
-- [Ehrenfriedersdorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.personal.md) 
-- [Ehrenfriedersdorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Ehrenfriedersdorf.secret.md) 

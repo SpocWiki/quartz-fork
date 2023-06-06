@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tomsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Tomsk.md) 
-- [Tomsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tomsk.internal.md) 
-- [Tomsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tomsk.protect.md) 
-- [Tomsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tomsk.private.md) 
-- [Tomsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tomsk.personal.md) 
-- [Tomsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tomsk.secret.md) 

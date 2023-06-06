@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alba-Julia](../../../../../../_public/geo/Continent/Europe/Romania/City/Alba-Julia.md) 
-- [Alba-Julia.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Alba-Julia.internal.md) 
-- [Alba-Julia.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Alba-Julia.protect.md) 
-- [Alba-Julia.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Alba-Julia.private.md) 
-- [Alba-Julia.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Alba-Julia.personal.md) 
-- [Alba-Julia.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Alba-Julia.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wiesau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wiesau.md) 
-- [Wiesau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wiesau.internal.md) 
-- [Wiesau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wiesau.protect.md) 
-- [Wiesau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wiesau.private.md) 
-- [Wiesau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wiesau.personal.md) 
-- [Wiesau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wiesau.secret.md) 

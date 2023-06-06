@@ -118,7 +118,7 @@ markerFolder: ./Canada/City
 
 ![350](geo/Continent/North-America/Canada/Coat_of_arms_of_Canada.svg)
 
-![Anthem-Canada](xLarge/National-Anthem/Anthem-Canada.mp3)
+[Anthem-Canada](xLarge/National-Anthem/Anthem-Canada.mp3)
 
 ![350](geo/Continent/North-America/Canada/Flag_of_Canada.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Canada/City
 
 
 
-## Confidential Links & Embeds: 
-- [Canada](../../../../_public/geo/Continent/North-America/Canada.md) 
-- [Canada.internal](../../../../_internal/geo/Continent/North-America/Canada.internal.md) 
-- [Canada.protect](../../../../_protect/geo/Continent/North-America/Canada.protect.md) 
-- [Canada.private](../../../../_private/geo/Continent/North-America/Canada.private.md) 
-- [Canada.personal](../../../../_personal/geo/Continent/North-America/Canada.personal.md) 
-- [Canada.secret](../../../../_secret/geo/Continent/North-America/Canada.secret.md) 

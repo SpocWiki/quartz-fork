@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zuerich=Zurich](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.md) 
-- [Zuerich=Zurich.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.internal.md) 
-- [Zuerich=Zurich.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.protect.md) 
-- [Zuerich=Zurich.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.private.md) 
-- [Zuerich=Zurich.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.personal.md) 
-- [Zuerich=Zurich.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Zuerich=Zurich.secret.md) 

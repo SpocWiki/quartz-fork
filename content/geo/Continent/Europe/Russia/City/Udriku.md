@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Udriku](../../../../../../_public/geo/Continent/Europe/Russia/City/Udriku.md) 
-- [Udriku.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Udriku.internal.md) 
-- [Udriku.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Udriku.protect.md) 
-- [Udriku.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Udriku.private.md) 
-- [Udriku.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Udriku.personal.md) 
-- [Udriku.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Udriku.secret.md) 

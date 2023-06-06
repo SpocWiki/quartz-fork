@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guérande](../../../../../../_public/geo/Continent/Europe/France/City/Gu%C3%A9rande.md) 
-- [Guérande.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Gu%C3%A9rande.internal.md) 
-- [Guérande.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Gu%C3%A9rande.protect.md) 
-- [Guérande.private](../../../../../../_private/geo/Continent/Europe/France/City/Gu%C3%A9rande.private.md) 
-- [Guérande.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Gu%C3%A9rande.personal.md) 
-- [Guérande.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Gu%C3%A9rande.secret.md) 

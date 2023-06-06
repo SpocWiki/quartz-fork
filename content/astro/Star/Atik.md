@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Atik](../../../_public/astro/Star/Atik.md) 
-- [Atik.internal](../../../_internal/astro/Star/Atik.internal.md) 
-- [Atik.protect](../../../_protect/astro/Star/Atik.protect.md) 
-- [Atik.private](../../../_private/astro/Star/Atik.private.md) 
-- [Atik.personal](../../../_personal/astro/Star/Atik.personal.md) 
-- [Atik.secret](../../../_secret/astro/Star/Atik.secret.md)
-

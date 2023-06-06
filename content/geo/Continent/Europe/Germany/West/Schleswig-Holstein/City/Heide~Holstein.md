@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heide~Holstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heide~Holstein.md) 
-- [Heide~Holstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heide~Holstein.internal.md) 
-- [Heide~Holstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heide~Holstein.protect.md) 
-- [Heide~Holstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heide~Holstein.private.md) 
-- [Heide~Holstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heide~Holstein.personal.md) 
-- [Heide~Holstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heide~Holstein.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lasswalde](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lasswalde.md) 
-- [Lasswalde.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lasswalde.internal.md) 
-- [Lasswalde.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lasswalde.protect.md) 
-- [Lasswalde.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lasswalde.private.md) 
-- [Lasswalde.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lasswalde.personal.md) 
-- [Lasswalde.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lasswalde.secret.md) 

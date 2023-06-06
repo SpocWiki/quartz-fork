@@ -36,10 +36,3 @@ markerFolder: ./Hawaii/City
 
 
 
-## Confidential Links & Embeds: 
-- [Hawaii](../../../../_public/geo/Continent/Oceania/Hawaii.md) 
-- [Hawaii.internal](../../../../_internal/geo/Continent/Oceania/Hawaii.internal.md) 
-- [Hawaii.protect](../../../../_protect/geo/Continent/Oceania/Hawaii.protect.md) 
-- [Hawaii.private](../../../../_private/geo/Continent/Oceania/Hawaii.private.md) 
-- [Hawaii.personal](../../../../_personal/geo/Continent/Oceania/Hawaii.personal.md) 
-- [Hawaii.secret](../../../../_secret/geo/Continent/Oceania/Hawaii.secret.md) 

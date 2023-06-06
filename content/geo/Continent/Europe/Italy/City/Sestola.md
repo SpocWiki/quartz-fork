@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sestola](../../../../../../_public/geo/Continent/Europe/Italy/City/Sestola.md) 
-- [Sestola.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sestola.internal.md) 
-- [Sestola.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sestola.protect.md) 
-- [Sestola.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sestola.private.md) 
-- [Sestola.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sestola.personal.md) 
-- [Sestola.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sestola.secret.md) 

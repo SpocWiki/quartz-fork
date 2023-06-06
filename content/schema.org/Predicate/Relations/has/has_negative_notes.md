@@ -49,10 +49,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_negative_notes](../../../../../_public/schema.org/Predicate/Relations/has/has_negative_notes.md) 
-- [has_negative_notes.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_negative_notes.internal.md) 
-- [has_negative_notes.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_negative_notes.protect.md) 
-- [has_negative_notes.private](../../../../../_private/schema.org/Predicate/Relations/has/has_negative_notes.private.md) 
-- [has_negative_notes.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_negative_notes.personal.md) 
-- [has_negative_notes.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_negative_notes.secret.md) 

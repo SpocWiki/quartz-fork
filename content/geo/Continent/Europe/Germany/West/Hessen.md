@@ -34,10 +34,3 @@ markerFolder: ./Hessen/City
 
 
 
-## Confidential Links & Embeds: 
-- [Hessen](../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen.md) 
-- [Hessen.internal](../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen.internal.md) 
-- [Hessen.protect](../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen.protect.md) 
-- [Hessen.private](../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen.private.md) 
-- [Hessen.personal](../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen.personal.md) 
-- [Hessen.secret](../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen.secret.md) 

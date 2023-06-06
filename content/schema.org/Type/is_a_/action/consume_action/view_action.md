@@ -43,10 +43,3 @@ The act of consuming static visual content.
 
 
 
-## Confidential Links & Embeds: 
-- [view_action](../../../../../../_public/schema.org/Type/is_a_/action/consume_action/view_action.md) 
-- [view_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/view_action.internal.md) 
-- [view_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/view_action.protect.md) 
-- [view_action.private](../../../../../../_private/schema.org/Type/is_a_/action/consume_action/view_action.private.md) 
-- [view_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/view_action.personal.md) 
-- [view_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/view_action.secret.md) 

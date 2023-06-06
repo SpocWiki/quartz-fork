@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brazzaville](../../../../../../_public/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.md) 
-- [Brazzaville.internal](../../../../../../_internal/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.internal.md) 
-- [Brazzaville.protect](../../../../../../_protect/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.protect.md) 
-- [Brazzaville.private](../../../../../../_private/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.private.md) 
-- [Brazzaville.personal](../../../../../../_personal/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.personal.md) 
-- [Brazzaville.secret](../../../../../../_secret/geo/Continent/Africa/Congo~Brazzaville/City/Brazzaville.secret.md) 

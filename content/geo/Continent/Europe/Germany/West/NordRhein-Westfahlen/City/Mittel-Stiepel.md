@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mittel-Stiepel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.md) 
-- [Mittel-Stiepel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.internal.md) 
-- [Mittel-Stiepel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.protect.md) 
-- [Mittel-Stiepel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.private.md) 
-- [Mittel-Stiepel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.personal.md) 
-- [Mittel-Stiepel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Mittel-Stiepel.secret.md) 

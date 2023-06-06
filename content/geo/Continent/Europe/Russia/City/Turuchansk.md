@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Turuchansk](../../../../../../_public/geo/Continent/Europe/Russia/City/Turuchansk.md) 
-- [Turuchansk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Turuchansk.internal.md) 
-- [Turuchansk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Turuchansk.protect.md) 
-- [Turuchansk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Turuchansk.private.md) 
-- [Turuchansk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Turuchansk.personal.md) 
-- [Turuchansk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Turuchansk.secret.md) 

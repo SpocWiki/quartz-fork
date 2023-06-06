@@ -47,10 +47,3 @@ Imperial size system.
 
 
 
-## Confidential Links & Embeds: 
-- [size_system_imperial](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.md) 
-- [size_system_imperial.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.internal.md) 
-- [size_system_imperial.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.protect.md) 
-- [size_system_imperial.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.private.md) 
-- [size_system_imperial.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.personal.md) 
-- [size_system_imperial.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.secret.md) 

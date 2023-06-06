@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kraslin=Kraslice](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.md) 
-- [Kraslin=Kraslice.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.internal.md) 
-- [Kraslin=Kraslice.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.protect.md) 
-- [Kraslin=Kraslice.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.private.md) 
-- [Kraslin=Kraslice.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.personal.md) 
-- [Kraslin=Kraslice.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.secret.md) 

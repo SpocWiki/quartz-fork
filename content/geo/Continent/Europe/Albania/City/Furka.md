@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Furka](../../../../../../_public/geo/Continent/Europe/Albania/City/Furka.md) 
-- [Furka.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Furka.internal.md) 
-- [Furka.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Furka.protect.md) 
-- [Furka.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Furka.private.md) 
-- [Furka.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Furka.personal.md) 
-- [Furka.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Furka.secret.md) 

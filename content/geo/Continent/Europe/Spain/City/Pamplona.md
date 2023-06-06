@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pamplona](../../../../../../_public/geo/Continent/Europe/Spain/City/Pamplona.md) 
-- [Pamplona.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Pamplona.internal.md) 
-- [Pamplona.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Pamplona.protect.md) 
-- [Pamplona.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Pamplona.private.md) 
-- [Pamplona.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Pamplona.personal.md) 
-- [Pamplona.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Pamplona.secret.md) 

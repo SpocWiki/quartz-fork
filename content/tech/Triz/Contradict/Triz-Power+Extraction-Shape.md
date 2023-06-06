@@ -19,10 +19,3 @@ title: Triz-Power+Extraction-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Extraction-Shape](../../../../_public/tech/Triz/Contradict/Triz-Power+Extraction-Shape.md) 
-- [Triz-Power+Extraction-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Extraction-Shape.internal.md) 
-- [Triz-Power+Extraction-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Extraction-Shape.protect.md) 
-- [Triz-Power+Extraction-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Extraction-Shape.private.md) 
-- [Triz-Power+Extraction-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Extraction-Shape.personal.md) 
-- [Triz-Power+Extraction-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Extraction-Shape.secret.md) 

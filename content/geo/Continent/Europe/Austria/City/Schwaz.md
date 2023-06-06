@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwaz](../../../../../../_public/geo/Continent/Europe/Austria/City/Schwaz.md) 
-- [Schwaz.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwaz.internal.md) 
-- [Schwaz.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwaz.protect.md) 
-- [Schwaz.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Schwaz.private.md) 
-- [Schwaz.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwaz.personal.md) 
-- [Schwaz.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwaz.secret.md) 

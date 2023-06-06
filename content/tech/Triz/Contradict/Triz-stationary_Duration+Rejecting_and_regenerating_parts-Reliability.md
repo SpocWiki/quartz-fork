@@ -19,10 +19,3 @@ title: Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability](../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.md) 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.internal.md) 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.protect.md) 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.private.md) 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.personal.md) 
-- [Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Rejecting_and_regenerating_parts-Reliability.secret.md) 

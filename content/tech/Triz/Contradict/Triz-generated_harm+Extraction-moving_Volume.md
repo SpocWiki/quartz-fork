@@ -19,10 +19,3 @@ title: Triz-generated_harm+Extraction-moving_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Extraction-moving_Volume](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Volume.md) 
-- [Triz-generated_harm+Extraction-moving_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Volume.internal.md) 
-- [Triz-generated_harm+Extraction-moving_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Volume.protect.md) 
-- [Triz-generated_harm+Extraction-moving_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Volume.private.md) 
-- [Triz-generated_harm+Extraction-moving_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Volume.personal.md) 
-- [Triz-generated_harm+Extraction-moving_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Volume.secret.md) 

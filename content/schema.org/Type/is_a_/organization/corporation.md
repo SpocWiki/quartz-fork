@@ -43,10 +43,3 @@ Organization: A business corporation.
 
 
 
-## Confidential Links & Embeds: 
-- [corporation](../../../../../_public/schema.org/Type/is_a_/organization/corporation.md) 
-- [corporation.internal](../../../../../_internal/schema.org/Type/is_a_/organization/corporation.internal.md) 
-- [corporation.protect](../../../../../_protect/schema.org/Type/is_a_/organization/corporation.protect.md) 
-- [corporation.private](../../../../../_private/schema.org/Type/is_a_/organization/corporation.private.md) 
-- [corporation.personal](../../../../../_personal/schema.org/Type/is_a_/organization/corporation.personal.md) 
-- [corporation.secret](../../../../../_secret/schema.org/Type/is_a_/organization/corporation.secret.md) 

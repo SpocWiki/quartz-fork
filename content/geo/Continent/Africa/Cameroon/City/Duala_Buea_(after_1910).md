@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Duala_Buea_(after_1910)](../../../../../../_public/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).md) 
-- [Duala_Buea_(after_1910).internal](../../../../../../_internal/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).internal.md) 
-- [Duala_Buea_(after_1910).protect](../../../../../../_protect/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).protect.md) 
-- [Duala_Buea_(after_1910).private](../../../../../../_private/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).private.md) 
-- [Duala_Buea_(after_1910).personal](../../../../../../_personal/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).personal.md) 
-- [Duala_Buea_(after_1910).secret](../../../../../../_secret/geo/Continent/Africa/Cameroon/City/Duala_Buea_(after_1910).secret.md) 

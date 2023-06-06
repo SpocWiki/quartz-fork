@@ -43,10 +43,3 @@ Any medical imaging modality typically used for diagnostic purposes.
 
 
 
-## Confidential Links & Embeds: 
-- [imaging_test](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_test/imaging_test.md) 
-- [imaging_test.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_test/imaging_test.internal.md) 
-- [imaging_test.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_test/imaging_test.protect.md) 
-- [imaging_test.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_test/imaging_test.private.md) 
-- [imaging_test.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_test/imaging_test.personal.md) 
-- [imaging_test.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_test/imaging_test.secret.md) 

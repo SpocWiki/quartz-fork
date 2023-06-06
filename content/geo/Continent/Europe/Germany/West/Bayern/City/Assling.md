@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Assling](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Assling.md) 
-- [Assling.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Assling.internal.md) 
-- [Assling.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Assling.protect.md) 
-- [Assling.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Assling.private.md) 
-- [Assling.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Assling.personal.md) 
-- [Assling.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Assling.secret.md) 

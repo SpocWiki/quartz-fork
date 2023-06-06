@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ariano_di_Puglia](../../../../../../_public/geo/Continent/Europe/Italy/City/Ariano_di_Puglia.md) 
-- [Ariano_di_Puglia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ariano_di_Puglia.internal.md) 
-- [Ariano_di_Puglia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ariano_di_Puglia.protect.md) 
-- [Ariano_di_Puglia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ariano_di_Puglia.private.md) 
-- [Ariano_di_Puglia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ariano_di_Puglia.personal.md) 
-- [Ariano_di_Puglia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ariano_di_Puglia.secret.md) 

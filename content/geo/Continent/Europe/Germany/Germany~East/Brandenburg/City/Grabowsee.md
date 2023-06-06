@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grabowsee](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grabowsee.md) 
-- [Grabowsee.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grabowsee.internal.md) 
-- [Grabowsee.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grabowsee.protect.md) 
-- [Grabowsee.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grabowsee.private.md) 
-- [Grabowsee.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grabowsee.personal.md) 
-- [Grabowsee.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Grabowsee.secret.md) 

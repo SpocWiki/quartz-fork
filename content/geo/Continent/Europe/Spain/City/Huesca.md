@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Huesca](../../../../../../_public/geo/Continent/Europe/Spain/City/Huesca.md) 
-- [Huesca.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Huesca.internal.md) 
-- [Huesca.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Huesca.protect.md) 
-- [Huesca.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Huesca.private.md) 
-- [Huesca.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Huesca.personal.md) 
-- [Huesca.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Huesca.secret.md) 

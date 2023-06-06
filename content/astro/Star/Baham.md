@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Baham](../../../_public/astro/Star/Baham.md) 
-- [Baham.internal](../../../_internal/astro/Star/Baham.internal.md) 
-- [Baham.protect](../../../_protect/astro/Star/Baham.protect.md) 
-- [Baham.private](../../../_private/astro/Star/Baham.private.md) 
-- [Baham.personal](../../../_personal/astro/Star/Baham.personal.md) 
-- [Baham.secret](../../../_secret/astro/Star/Baham.secret.md)
-

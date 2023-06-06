@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ostiano](../../../../../../_public/geo/Continent/Europe/Italy/City/Ostiano.md) 
-- [Ostiano.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ostiano.internal.md) 
-- [Ostiano.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ostiano.protect.md) 
-- [Ostiano.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ostiano.private.md) 
-- [Ostiano.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ostiano.personal.md) 
-- [Ostiano.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ostiano.secret.md) 

@@ -120,7 +120,7 @@ markerFolder: ./Malta/City
 [VehicleCode::M]
 [Capital::[Valletta](geo/Continent/Europe/Malta/City/Valletta.md)]
 ![350](geo/Continent/Europe/Malta/Coat_of_arms_of_Malta.svg)
-![Anthem-Malta](xLarge/National-Anthem/Anthem-Malta.mp3)
+[Anthem-Malta](xLarge/National-Anthem/Anthem-Malta.mp3)
 ![350](geo/Continent/Europe/Malta/Flag_of_Malta.svg)
 [Alcohol-l::4.3]
 [Language-Id::]
@@ -129,10 +129,3 @@ markerFolder: ./Malta/City
 
 
 
-## Confidential Links & Embeds: 
-- [Malta](../../../../_public/geo/Continent/Europe/Malta.md) 
-- [Malta.internal](../../../../_internal/geo/Continent/Europe/Malta.internal.md) 
-- [Malta.protect](../../../../_protect/geo/Continent/Europe/Malta.protect.md) 
-- [Malta.private](../../../../_private/geo/Continent/Europe/Malta.private.md) 
-- [Malta.personal](../../../../_personal/geo/Continent/Europe/Malta.personal.md) 
-- [Malta.secret](../../../../_secret/geo/Continent/Europe/Malta.secret.md) 

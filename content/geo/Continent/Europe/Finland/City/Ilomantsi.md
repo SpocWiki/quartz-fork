@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ilomantsi](../../../../../../_public/geo/Continent/Europe/Finland/City/Ilomantsi.md) 
-- [Ilomantsi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Ilomantsi.internal.md) 
-- [Ilomantsi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Ilomantsi.protect.md) 
-- [Ilomantsi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Ilomantsi.private.md) 
-- [Ilomantsi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Ilomantsi.personal.md) 
-- [Ilomantsi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Ilomantsi.secret.md) 

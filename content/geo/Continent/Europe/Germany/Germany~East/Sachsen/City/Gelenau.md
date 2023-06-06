@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gelenau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gelenau.md) 
-- [Gelenau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gelenau.internal.md) 
-- [Gelenau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gelenau.protect.md) 
-- [Gelenau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gelenau.private.md) 
-- [Gelenau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gelenau.personal.md) 
-- [Gelenau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Gelenau.secret.md) 

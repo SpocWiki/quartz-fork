@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ruestringen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ruestringen.md) 
-- [Ruestringen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ruestringen.internal.md) 
-- [Ruestringen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ruestringen.protect.md) 
-- [Ruestringen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ruestringen.private.md) 
-- [Ruestringen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ruestringen.personal.md) 
-- [Ruestringen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ruestringen.secret.md) 

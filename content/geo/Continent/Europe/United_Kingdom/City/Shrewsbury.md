@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Shrewsbury](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.md) 
-- [Shrewsbury.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.internal.md) 
-- [Shrewsbury.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.protect.md) 
-- [Shrewsbury.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.private.md) 
-- [Shrewsbury.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.personal.md) 
-- [Shrewsbury.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Shrewsbury.secret.md) 

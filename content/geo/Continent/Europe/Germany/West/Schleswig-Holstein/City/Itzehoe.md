@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Itzehoe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Itzehoe.md) 
-- [Itzehoe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Itzehoe.internal.md) 
-- [Itzehoe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Itzehoe.protect.md) 
-- [Itzehoe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Itzehoe.private.md) 
-- [Itzehoe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Itzehoe.personal.md) 
-- [Itzehoe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Itzehoe.secret.md) 

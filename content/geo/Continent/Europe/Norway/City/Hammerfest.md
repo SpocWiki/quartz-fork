@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hammerfest](../../../../../../_public/geo/Continent/Europe/Norway/City/Hammerfest.md) 
-- [Hammerfest.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Hammerfest.internal.md) 
-- [Hammerfest.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Hammerfest.protect.md) 
-- [Hammerfest.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Hammerfest.private.md) 
-- [Hammerfest.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Hammerfest.personal.md) 
-- [Hammerfest.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Hammerfest.secret.md) 

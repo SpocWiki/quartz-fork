@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [s'Gravenhage=Den_Haag](../../../../../../_public/geo/Continent/Europe/Netherlands/City/s'Gravenhage=Den_Haag.md) 
-- [s'Gravenhage=Den_Haag.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/s'Gravenhage=Den_Haag.internal.md) 
-- [s'Gravenhage=Den_Haag.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/s'Gravenhage=Den_Haag.protect.md) 
-- [s'Gravenhage=Den_Haag.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/s'Gravenhage=Den_Haag.private.md) 
-- [s'Gravenhage=Den_Haag.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/s'Gravenhage=Den_Haag.personal.md) 
-- [s'Gravenhage=Den_Haag.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/s'Gravenhage=Den_Haag.secret.md) 

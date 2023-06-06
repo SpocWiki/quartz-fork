@@ -19,10 +19,3 @@ title: Triz-Quantity+Spheroidality-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Spheroidality-Stress](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Stress.md) 
-- [Triz-Quantity+Spheroidality-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Stress.internal.md) 
-- [Triz-Quantity+Spheroidality-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Stress.protect.md) 
-- [Triz-Quantity+Spheroidality-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Stress.private.md) 
-- [Triz-Quantity+Spheroidality-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Stress.personal.md) 
-- [Triz-Quantity+Spheroidality-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Spheroidality-Stress.secret.md) 

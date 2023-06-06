@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Torokszentmiklos](../../../../../../_public/geo/Continent/Europe/Hungary/City/Torokszentmiklos.md) 
-- [Torokszentmiklos.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Torokszentmiklos.internal.md) 
-- [Torokszentmiklos.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Torokszentmiklos.protect.md) 
-- [Torokszentmiklos.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Torokszentmiklos.private.md) 
-- [Torokszentmiklos.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Torokszentmiklos.personal.md) 
-- [Torokszentmiklos.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Torokszentmiklos.secret.md) 

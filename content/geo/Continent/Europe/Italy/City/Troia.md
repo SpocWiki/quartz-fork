@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Troia](../../../../../../_public/geo/Continent/Europe/Italy/City/Troia.md) 
-- [Troia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Troia.internal.md) 
-- [Troia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Troia.protect.md) 
-- [Troia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Troia.private.md) 
-- [Troia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Troia.personal.md) 
-- [Troia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Troia.secret.md) 

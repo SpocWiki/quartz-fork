@@ -38,10 +38,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [South_Carolina](../../../../../_public/geo/Continent/North-America/United_States_of_America/South_Carolina.md) 
-- [South_Carolina.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Carolina.internal.md) 
-- [South_Carolina.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Carolina.protect.md) 
-- [South_Carolina.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Carolina.private.md) 
-- [South_Carolina.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Carolina.personal.md) 
-- [South_Carolina.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Carolina.secret.md) 

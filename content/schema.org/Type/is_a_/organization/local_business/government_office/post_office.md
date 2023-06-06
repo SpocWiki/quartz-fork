@@ -43,10 +43,3 @@ A post office.
 
 
 
-## Confidential Links & Embeds: 
-- [post_office](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/government_office/post_office.md) 
-- [post_office.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/government_office/post_office.internal.md) 
-- [post_office.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/government_office/post_office.protect.md) 
-- [post_office.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/government_office/post_office.private.md) 
-- [post_office.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/government_office/post_office.personal.md) 
-- [post_office.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/government_office/post_office.secret.md) 

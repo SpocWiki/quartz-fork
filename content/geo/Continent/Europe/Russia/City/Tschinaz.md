@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tschinaz](../../../../../../_public/geo/Continent/Europe/Russia/City/Tschinaz.md) 
-- [Tschinaz.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschinaz.internal.md) 
-- [Tschinaz.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschinaz.protect.md) 
-- [Tschinaz.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tschinaz.private.md) 
-- [Tschinaz.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschinaz.personal.md) 
-- [Tschinaz.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschinaz.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Extraction-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Extraction-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.md) 
-- [Triz-stationary_Volume+Extraction-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.internal.md) 
-- [Triz-stationary_Volume+Extraction-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.protect.md) 
-- [Triz-stationary_Volume+Extraction-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.private.md) 
-- [Triz-stationary_Volume+Extraction-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.personal.md) 
-- [Triz-stationary_Volume+Extraction-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Difficulty.secret.md) 

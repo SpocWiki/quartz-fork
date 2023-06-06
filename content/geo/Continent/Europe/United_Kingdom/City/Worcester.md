@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Worcester](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Worcester.md) 
-- [Worcester.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Worcester.internal.md) 
-- [Worcester.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Worcester.protect.md) 
-- [Worcester.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Worcester.private.md) 
-- [Worcester.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Worcester.personal.md) 
-- [Worcester.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Worcester.secret.md) 

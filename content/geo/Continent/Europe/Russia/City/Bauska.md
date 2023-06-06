@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bauska](../../../../../../_public/geo/Continent/Europe/Russia/City/Bauska.md) 
-- [Bauska.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Bauska.internal.md) 
-- [Bauska.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Bauska.protect.md) 
-- [Bauska.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Bauska.private.md) 
-- [Bauska.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Bauska.personal.md) 
-- [Bauska.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Bauska.secret.md) 

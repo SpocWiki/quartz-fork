@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberndorf~Neckar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.md) 
-- [Oberndorf~Neckar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.internal.md) 
-- [Oberndorf~Neckar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.protect.md) 
-- [Oberndorf~Neckar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.private.md) 
-- [Oberndorf~Neckar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.personal.md) 
-- [Oberndorf~Neckar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Oberndorf~Neckar.secret.md) 

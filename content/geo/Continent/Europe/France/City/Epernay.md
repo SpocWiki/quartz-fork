@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Epernay](../../../../../../_public/geo/Continent/Europe/France/City/Epernay.md) 
-- [Epernay.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Epernay.internal.md) 
-- [Epernay.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Epernay.protect.md) 
-- [Epernay.private](../../../../../../_private/geo/Continent/Europe/France/City/Epernay.private.md) 
-- [Epernay.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Epernay.personal.md) 
-- [Epernay.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Epernay.secret.md) 

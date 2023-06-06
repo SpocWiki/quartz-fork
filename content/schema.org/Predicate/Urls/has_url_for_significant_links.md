@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_url_for_significant_links](../../../../_public/schema.org/Predicate/Urls/has_url_for_significant_links.md) 
-- [has_url_for_significant_links.internal](../../../../_internal/schema.org/Predicate/Urls/has_url_for_significant_links.internal.md) 
-- [has_url_for_significant_links.protect](../../../../_protect/schema.org/Predicate/Urls/has_url_for_significant_links.protect.md) 
-- [has_url_for_significant_links.private](../../../../_private/schema.org/Predicate/Urls/has_url_for_significant_links.private.md) 
-- [has_url_for_significant_links.personal](../../../../_personal/schema.org/Predicate/Urls/has_url_for_significant_links.personal.md) 
-- [has_url_for_significant_links.secret](../../../../_secret/schema.org/Predicate/Urls/has_url_for_significant_links.secret.md) 

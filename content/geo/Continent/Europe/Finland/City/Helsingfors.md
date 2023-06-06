@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Helsingfors](../../../../../../_public/geo/Continent/Europe/Finland/City/Helsingfors.md) 
-- [Helsingfors.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Helsingfors.internal.md) 
-- [Helsingfors.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Helsingfors.protect.md) 
-- [Helsingfors.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Helsingfors.private.md) 
-- [Helsingfors.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Helsingfors.personal.md) 
-- [Helsingfors.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Helsingfors.secret.md) 

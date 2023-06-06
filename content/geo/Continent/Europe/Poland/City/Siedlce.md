@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siedlce](../../../../../../_public/geo/Continent/Europe/Poland/City/Siedlce.md) 
-- [Siedlce.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Siedlce.internal.md) 
-- [Siedlce.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Siedlce.protect.md) 
-- [Siedlce.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Siedlce.private.md) 
-- [Siedlce.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Siedlce.personal.md) 
-- [Siedlce.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Siedlce.secret.md) 

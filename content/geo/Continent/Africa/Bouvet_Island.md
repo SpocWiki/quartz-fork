@@ -124,10 +124,3 @@ markerFolder: ./Bouvet_Island/City
 
 
 
-## Confidential Links & Embeds: 
-- [Bouvet_Island](../../../../_public/geo/Continent/Africa/Bouvet_Island.md) 
-- [Bouvet_Island.internal](../../../../_internal/geo/Continent/Africa/Bouvet_Island.internal.md) 
-- [Bouvet_Island.protect](../../../../_protect/geo/Continent/Africa/Bouvet_Island.protect.md) 
-- [Bouvet_Island.private](../../../../_private/geo/Continent/Africa/Bouvet_Island.private.md) 
-- [Bouvet_Island.personal](../../../../_personal/geo/Continent/Africa/Bouvet_Island.personal.md) 
-- [Bouvet_Island.secret](../../../../_secret/geo/Continent/Africa/Bouvet_Island.secret.md) 

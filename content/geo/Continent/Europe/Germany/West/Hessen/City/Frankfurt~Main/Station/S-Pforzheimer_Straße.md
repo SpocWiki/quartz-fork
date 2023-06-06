@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Pforzheimer_Straße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Pforzheimer_Stra%C3%9Fe.md) 
-- [S-Pforzheimer_Straße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Pforzheimer_Stra%C3%9Fe.internal.md) 
-- [S-Pforzheimer_Straße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Pforzheimer_Stra%C3%9Fe.protect.md) 
-- [S-Pforzheimer_Straße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Pforzheimer_Stra%C3%9Fe.private.md) 
-- [S-Pforzheimer_Straße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Pforzheimer_Stra%C3%9Fe.personal.md) 
-- [S-Pforzheimer_Straße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Pforzheimer_Stra%C3%9Fe.secret.md) 

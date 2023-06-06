@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Namsos](../../../../../../_public/geo/Continent/Europe/Norway/City/Namsos.md) 
-- [Namsos.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Namsos.internal.md) 
-- [Namsos.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Namsos.protect.md) 
-- [Namsos.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Namsos.private.md) 
-- [Namsos.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Namsos.personal.md) 
-- [Namsos.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Namsos.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Valery~Normandie](../../../../../../_public/geo/Continent/Europe/France/City/St.Valery~Normandie.md) 
-- [St.Valery~Normandie.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Valery~Normandie.internal.md) 
-- [St.Valery~Normandie.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Valery~Normandie.protect.md) 
-- [St.Valery~Normandie.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Valery~Normandie.private.md) 
-- [St.Valery~Normandie.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Valery~Normandie.personal.md) 
-- [St.Valery~Normandie.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Valery~Normandie.secret.md) 

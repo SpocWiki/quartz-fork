@@ -19,10 +19,3 @@ title: Triz-Illumination+Inversion-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Inversion-Speed](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.md) 
-- [Triz-Illumination+Inversion-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.internal.md) 
-- [Triz-Illumination+Inversion-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.protect.md) 
-- [Triz-Illumination+Inversion-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.private.md) 
-- [Triz-Illumination+Inversion-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.personal.md) 
-- [Triz-Illumination+Inversion-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Inversion-Speed.secret.md) 

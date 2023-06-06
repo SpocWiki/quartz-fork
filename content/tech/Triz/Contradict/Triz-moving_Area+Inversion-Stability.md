@@ -19,10 +19,3 @@ title: Triz-moving_Area+Inversion-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Inversion-Stability](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.md) 
-- [Triz-moving_Area+Inversion-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.internal.md) 
-- [Triz-moving_Area+Inversion-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.protect.md) 
-- [Triz-moving_Area+Inversion-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.private.md) 
-- [Triz-moving_Area+Inversion-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.personal.md) 
-- [Triz-moving_Area+Inversion-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Inversion-Stability.secret.md) 

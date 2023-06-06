@@ -17,10 +17,3 @@ title: Triz-conical_Railway_Wheels
 
 Use conical Railway Wheels that generate a central Force to stabilize the Wagons.
 
-## Confidential Links & Embeds: 
-- [Triz-conical_Railway_Wheels](../../../../_public/tech/Triz/Example/Triz-conical_Railway_Wheels.md) 
-- [Triz-conical_Railway_Wheels.internal](../../../../_internal/tech/Triz/Example/Triz-conical_Railway_Wheels.internal.md) 
-- [Triz-conical_Railway_Wheels.protect](../../../../_protect/tech/Triz/Example/Triz-conical_Railway_Wheels.protect.md) 
-- [Triz-conical_Railway_Wheels.private](../../../../_private/tech/Triz/Example/Triz-conical_Railway_Wheels.private.md) 
-- [Triz-conical_Railway_Wheels.personal](../../../../_personal/tech/Triz/Example/Triz-conical_Railway_Wheels.personal.md) 
-- [Triz-conical_Railway_Wheels.secret](../../../../_secret/tech/Triz/Example/Triz-conical_Railway_Wheels.secret.md) 

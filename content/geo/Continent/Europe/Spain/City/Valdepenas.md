@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valdepenas](../../../../../../_public/geo/Continent/Europe/Spain/City/Valdepenas.md) 
-- [Valdepenas.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Valdepenas.internal.md) 
-- [Valdepenas.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Valdepenas.protect.md) 
-- [Valdepenas.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Valdepenas.private.md) 
-- [Valdepenas.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Valdepenas.personal.md) 
-- [Valdepenas.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Valdepenas.secret.md) 

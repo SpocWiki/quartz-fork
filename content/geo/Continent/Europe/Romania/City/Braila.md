@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Braila](../../../../../../_public/geo/Continent/Europe/Romania/City/Braila.md) 
-- [Braila.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Braila.internal.md) 
-- [Braila.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Braila.protect.md) 
-- [Braila.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Braila.private.md) 
-- [Braila.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Braila.personal.md) 
-- [Braila.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Braila.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alya](../../../_public/astro/Star/Alya.md) 
-- [Alya.internal](../../../_internal/astro/Star/Alya.internal.md) 
-- [Alya.protect](../../../_protect/astro/Star/Alya.protect.md) 
-- [Alya.private](../../../_private/astro/Star/Alya.private.md) 
-- [Alya.personal](../../../_personal/astro/Star/Alya.personal.md) 
-- [Alya.secret](../../../_secret/astro/Star/Alya.secret.md)
-

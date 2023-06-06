@@ -45,10 +45,3 @@ An intangible type to be applied to any archive content, carrying with it a set 
 
 
 
-## Confidential Links & Embeds: 
-- [archive_component](../../../../../_public/schema.org/Type/is_a_/creative_work/archive_component.md) 
-- [archive_component.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/archive_component.internal.md) 
-- [archive_component.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/archive_component.protect.md) 
-- [archive_component.private](../../../../../_private/schema.org/Type/is_a_/creative_work/archive_component.private.md) 
-- [archive_component.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/archive_component.personal.md) 
-- [archive_component.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/archive_component.secret.md) 

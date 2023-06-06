@@ -45,10 +45,3 @@ A predefined value for a product characteristic, e.g. the power cord plug type '
 
 
 
-## Confidential Links & Embeds: 
-- [qualitative_value](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/qualitative_value.md) 
-- [qualitative_value.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/qualitative_value.internal.md) 
-- [qualitative_value.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/qualitative_value.protect.md) 
-- [qualitative_value.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/qualitative_value.private.md) 
-- [qualitative_value.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/qualitative_value.personal.md) 
-- [qualitative_value.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/qualitative_value.secret.md) 

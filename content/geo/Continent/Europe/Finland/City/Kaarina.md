@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaarina](../../../../../../_public/geo/Continent/Europe/Finland/City/Kaarina.md) 
-- [Kaarina.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kaarina.internal.md) 
-- [Kaarina.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kaarina.protect.md) 
-- [Kaarina.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kaarina.private.md) 
-- [Kaarina.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kaarina.personal.md) 
-- [Kaarina.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kaarina.secret.md) 

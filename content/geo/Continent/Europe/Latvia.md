@@ -122,7 +122,7 @@ markerFolder: ./Latvia/City
 [VehicleCode::LV]
 [Capital::[Riga](geo/Continent/Europe/Latvia/City/Riga.md)]
 ![650](geo/Continent/Europe/Latvia/Coat_of_arms_of_Latvia.svg)
-![Anthem-Latvia](xLarge/National-Anthem/Anthem-Latvia.mp3)
+[Anthem-Latvia](xLarge/National-Anthem/Anthem-Latvia.mp3)
 ![350](geo/Continent/Europe/Latvia/Flag_of_Latvia.svg)
 [Alcohol-l::12.5]
 [Language-Id::]
@@ -131,10 +131,3 @@ markerFolder: ./Latvia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Latvia](../../../../_public/geo/Continent/Europe/Latvia.md) 
-- [Latvia.internal](../../../../_internal/geo/Continent/Europe/Latvia.internal.md) 
-- [Latvia.protect](../../../../_protect/geo/Continent/Europe/Latvia.protect.md) 
-- [Latvia.private](../../../../_private/geo/Continent/Europe/Latvia.private.md) 
-- [Latvia.personal](../../../../_personal/geo/Continent/Europe/Latvia.personal.md) 
-- [Latvia.secret](../../../../_secret/geo/Continent/Europe/Latvia.secret.md) 

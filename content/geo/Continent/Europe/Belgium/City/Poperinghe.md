@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poperinghe](../../../../../../_public/geo/Continent/Europe/Belgium/City/Poperinghe.md) 
-- [Poperinghe.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Poperinghe.internal.md) 
-- [Poperinghe.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Poperinghe.protect.md) 
-- [Poperinghe.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Poperinghe.private.md) 
-- [Poperinghe.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Poperinghe.personal.md) 
-- [Poperinghe.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Poperinghe.secret.md) 

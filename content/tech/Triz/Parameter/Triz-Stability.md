@@ -17,10 +17,3 @@ title: Triz-Stability
 
 Stability of the object's composition
 
-## Confidential Links & Embeds: 
-- [Triz-Stability](../../../../_public/tech/Triz/Parameter/Triz-Stability.md) 
-- [Triz-Stability.internal](../../../../_internal/tech/Triz/Parameter/Triz-Stability.internal.md) 
-- [Triz-Stability.protect](../../../../_protect/tech/Triz/Parameter/Triz-Stability.protect.md) 
-- [Triz-Stability.private](../../../../_private/tech/Triz/Parameter/Triz-Stability.private.md) 
-- [Triz-Stability.personal](../../../../_personal/tech/Triz/Parameter/Triz-Stability.personal.md) 
-- [Triz-Stability.secret](../../../../_secret/tech/Triz/Parameter/Triz-Stability.secret.md) 

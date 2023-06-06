@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rovellasca](../../../../../../_public/geo/Continent/Europe/Italy/City/Rovellasca.md) 
-- [Rovellasca.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovellasca.internal.md) 
-- [Rovellasca.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovellasca.protect.md) 
-- [Rovellasca.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Rovellasca.private.md) 
-- [Rovellasca.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovellasca.personal.md) 
-- [Rovellasca.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovellasca.secret.md) 

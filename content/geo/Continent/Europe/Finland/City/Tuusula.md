@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tuusula](../../../../../../_public/geo/Continent/Europe/Finland/City/Tuusula.md) 
-- [Tuusula.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Tuusula.internal.md) 
-- [Tuusula.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Tuusula.protect.md) 
-- [Tuusula.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Tuusula.private.md) 
-- [Tuusula.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Tuusula.personal.md) 
-- [Tuusula.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Tuusula.secret.md) 

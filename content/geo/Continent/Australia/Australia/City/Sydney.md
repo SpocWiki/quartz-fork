@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sydney](../../../../../../_public/geo/Continent/Australia/Australia/City/Sydney.md) 
-- [Sydney.internal](../../../../../../_internal/geo/Continent/Australia/Australia/City/Sydney.internal.md) 
-- [Sydney.protect](../../../../../../_protect/geo/Continent/Australia/Australia/City/Sydney.protect.md) 
-- [Sydney.private](../../../../../../_private/geo/Continent/Australia/Australia/City/Sydney.private.md) 
-- [Sydney.personal](../../../../../../_personal/geo/Continent/Australia/Australia/City/Sydney.personal.md) 
-- [Sydney.secret](../../../../../../_secret/geo/Continent/Australia/Australia/City/Sydney.secret.md) 

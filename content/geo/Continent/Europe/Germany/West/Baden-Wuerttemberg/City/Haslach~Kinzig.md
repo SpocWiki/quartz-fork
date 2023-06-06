@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haslach~Kinzig](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haslach~Kinzig.md) 
-- [Haslach~Kinzig.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haslach~Kinzig.internal.md) 
-- [Haslach~Kinzig.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haslach~Kinzig.protect.md) 
-- [Haslach~Kinzig.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haslach~Kinzig.private.md) 
-- [Haslach~Kinzig.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haslach~Kinzig.personal.md) 
-- [Haslach~Kinzig.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Haslach~Kinzig.secret.md) 

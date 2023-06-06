@@ -43,10 +43,3 @@ The act of granting permission to an object.
 
 
 
-## Confidential Links & Embeds: 
-- [authorize_action](../../../../../../../_public/schema.org/Type/is_a_/action/organize_action/allocate_action/authorize_action.md) 
-- [authorize_action.internal](../../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/allocate_action/authorize_action.internal.md) 
-- [authorize_action.protect](../../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/allocate_action/authorize_action.protect.md) 
-- [authorize_action.private](../../../../../../../_private/schema.org/Type/is_a_/action/organize_action/allocate_action/authorize_action.private.md) 
-- [authorize_action.personal](../../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/allocate_action/authorize_action.personal.md) 
-- [authorize_action.secret](../../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/allocate_action/authorize_action.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nibe](../../../../../../_public/geo/Continent/Europe/Denmark/City/Nibe.md) 
-- [Nibe.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Nibe.internal.md) 
-- [Nibe.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Nibe.protect.md) 
-- [Nibe.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Nibe.private.md) 
-- [Nibe.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Nibe.personal.md) 
-- [Nibe.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Nibe.secret.md) 

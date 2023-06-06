@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_country_of_origin](../../../../../_public/schema.org/Predicate/Relations/has/has_country_of_origin.md) 
-- [has_country_of_origin.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_country_of_origin.internal.md) 
-- [has_country_of_origin.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_country_of_origin.protect.md) 
-- [has_country_of_origin.private](../../../../../_private/schema.org/Predicate/Relations/has/has_country_of_origin.private.md) 
-- [has_country_of_origin.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_country_of_origin.personal.md) 
-- [has_country_of_origin.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_country_of_origin.secret.md) 

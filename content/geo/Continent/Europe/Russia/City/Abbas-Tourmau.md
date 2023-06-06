@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abbas-Tourmau](../../../../../../_public/geo/Continent/Europe/Russia/City/Abbas-Tourmau.md) 
-- [Abbas-Tourmau.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Abbas-Tourmau.internal.md) 
-- [Abbas-Tourmau.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Abbas-Tourmau.protect.md) 
-- [Abbas-Tourmau.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Abbas-Tourmau.private.md) 
-- [Abbas-Tourmau.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Abbas-Tourmau.personal.md) 
-- [Abbas-Tourmau.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Abbas-Tourmau.secret.md) 

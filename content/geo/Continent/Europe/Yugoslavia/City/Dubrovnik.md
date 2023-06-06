@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dubrovnik](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.md) 
-- [Dubrovnik.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.internal.md) 
-- [Dubrovnik.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.protect.md) 
-- [Dubrovnik.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.private.md) 
-- [Dubrovnik.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.personal.md) 
-- [Dubrovnik.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Dubrovnik.secret.md) 

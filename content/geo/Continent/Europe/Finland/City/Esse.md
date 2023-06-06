@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Esse](../../../../../../_public/geo/Continent/Europe/Finland/City/Esse.md) 
-- [Esse.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Esse.internal.md) 
-- [Esse.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Esse.protect.md) 
-- [Esse.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Esse.private.md) 
-- [Esse.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Esse.personal.md) 
-- [Esse.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Esse.secret.md) 

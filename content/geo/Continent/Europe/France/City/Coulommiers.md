@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Coulommiers](../../../../../../_public/geo/Continent/Europe/France/City/Coulommiers.md) 
-- [Coulommiers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Coulommiers.internal.md) 
-- [Coulommiers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Coulommiers.protect.md) 
-- [Coulommiers.private](../../../../../../_private/geo/Continent/Europe/France/City/Coulommiers.private.md) 
-- [Coulommiers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Coulommiers.personal.md) 
-- [Coulommiers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Coulommiers.secret.md) 

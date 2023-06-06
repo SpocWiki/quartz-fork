@@ -43,10 +43,3 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 
 
 
-## Confidential Links & Embeds: 
-- [television_channel](../../../../../../_public/schema.org/Type/is_a_/intangible/broadcast_channel/television_channel.md) 
-- [television_channel.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/broadcast_channel/television_channel.internal.md) 
-- [television_channel.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/broadcast_channel/television_channel.protect.md) 
-- [television_channel.private](../../../../../../_private/schema.org/Type/is_a_/intangible/broadcast_channel/television_channel.private.md) 
-- [television_channel.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/broadcast_channel/television_channel.personal.md) 
-- [television_channel.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/broadcast_channel/television_channel.secret.md) 

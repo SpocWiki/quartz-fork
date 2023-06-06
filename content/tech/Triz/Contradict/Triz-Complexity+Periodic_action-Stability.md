@@ -19,10 +19,3 @@ title: Triz-Complexity+Periodic_action-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Periodic_action-Stability](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.md) 
-- [Triz-Complexity+Periodic_action-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.internal.md) 
-- [Triz-Complexity+Periodic_action-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.protect.md) 
-- [Triz-Complexity+Periodic_action-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.private.md) 
-- [Triz-Complexity+Periodic_action-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.personal.md) 
-- [Triz-Complexity+Periodic_action-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Periodic_action-Stability.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ustjansk](../../../../../../_public/geo/Continent/Europe/Russia/City/Ustjansk.md) 
-- [Ustjansk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ustjansk.internal.md) 
-- [Ustjansk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ustjansk.protect.md) 
-- [Ustjansk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ustjansk.private.md) 
-- [Ustjansk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ustjansk.personal.md) 
-- [Ustjansk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ustjansk.secret.md) 

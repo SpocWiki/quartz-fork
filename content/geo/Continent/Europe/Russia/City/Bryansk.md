@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bryansk](../../../../../../_public/geo/Continent/Europe/Russia/City/Bryansk.md) 
-- [Bryansk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Bryansk.internal.md) 
-- [Bryansk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Bryansk.protect.md) 
-- [Bryansk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Bryansk.private.md) 
-- [Bryansk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Bryansk.personal.md) 
-- [Bryansk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Bryansk.secret.md) 

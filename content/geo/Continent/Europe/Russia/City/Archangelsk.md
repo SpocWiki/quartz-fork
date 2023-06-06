@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Archangelsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Archangelsk.md) 
-- [Archangelsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Archangelsk.internal.md) 
-- [Archangelsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Archangelsk.protect.md) 
-- [Archangelsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Archangelsk.private.md) 
-- [Archangelsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Archangelsk.personal.md) 
-- [Archangelsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Archangelsk.secret.md) 

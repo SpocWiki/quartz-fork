@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolokolamsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Wolokolamsk.md) 
-- [Wolokolamsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Wolokolamsk.internal.md) 
-- [Wolokolamsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Wolokolamsk.protect.md) 
-- [Wolokolamsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Wolokolamsk.private.md) 
-- [Wolokolamsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Wolokolamsk.personal.md) 
-- [Wolokolamsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Wolokolamsk.secret.md) 

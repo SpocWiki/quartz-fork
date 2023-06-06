@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chateau-Gontier](../../../../../../_public/geo/Continent/Europe/France/City/Chateau-Gontier.md) 
-- [Chateau-Gontier.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chateau-Gontier.internal.md) 
-- [Chateau-Gontier.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chateau-Gontier.protect.md) 
-- [Chateau-Gontier.private](../../../../../../_private/geo/Continent/Europe/France/City/Chateau-Gontier.private.md) 
-- [Chateau-Gontier.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chateau-Gontier.personal.md) 
-- [Chateau-Gontier.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chateau-Gontier.secret.md) 

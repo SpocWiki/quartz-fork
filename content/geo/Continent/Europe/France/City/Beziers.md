@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beziers](../../../../../../_public/geo/Continent/Europe/France/City/Beziers.md) 
-- [Beziers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Beziers.internal.md) 
-- [Beziers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Beziers.protect.md) 
-- [Beziers.private](../../../../../../_private/geo/Continent/Europe/France/City/Beziers.private.md) 
-- [Beziers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Beziers.personal.md) 
-- [Beziers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Beziers.secret.md) 

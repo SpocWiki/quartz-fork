@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saelgrund](../../../../../../_public/geo/Continent/Europe/Finland/City/Saelgrund.md) 
-- [Saelgrund.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Saelgrund.internal.md) 
-- [Saelgrund.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Saelgrund.protect.md) 
-- [Saelgrund.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Saelgrund.private.md) 
-- [Saelgrund.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Saelgrund.personal.md) 
-- [Saelgrund.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Saelgrund.secret.md) 

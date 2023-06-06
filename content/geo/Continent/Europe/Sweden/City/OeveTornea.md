@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [OeveTornea](../../../../../../_public/geo/Continent/Europe/Sweden/City/OeveTornea.md) 
-- [OeveTornea.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/OeveTornea.internal.md) 
-- [OeveTornea.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/OeveTornea.protect.md) 
-- [OeveTornea.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/OeveTornea.private.md) 
-- [OeveTornea.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/OeveTornea.personal.md) 
-- [OeveTornea.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/OeveTornea.secret.md) 

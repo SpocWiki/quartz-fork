@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weichselmuende](../../../../../../_public/geo/Continent/Europe/Poland/City/Weichselmuende.md) 
-- [Weichselmuende.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Weichselmuende.internal.md) 
-- [Weichselmuende.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Weichselmuende.protect.md) 
-- [Weichselmuende.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Weichselmuende.private.md) 
-- [Weichselmuende.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Weichselmuende.personal.md) 
-- [Weichselmuende.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Weichselmuende.secret.md) 

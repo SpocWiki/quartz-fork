@@ -19,10 +19,3 @@ title: Triz-Intensity+Extraction-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Extraction-Automation](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.md) 
-- [Triz-Intensity+Extraction-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.internal.md) 
-- [Triz-Intensity+Extraction-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.protect.md) 
-- [Triz-Intensity+Extraction-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.private.md) 
-- [Triz-Intensity+Extraction-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.personal.md) 
-- [Triz-Intensity+Extraction-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Extraction-Automation.secret.md) 

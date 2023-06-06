@@ -43,10 +43,3 @@ A recycling center.
 
 
 
-## Confidential Links & Embeds: 
-- [recycling_center](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/recycling_center.md) 
-- [recycling_center.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/recycling_center.internal.md) 
-- [recycling_center.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/recycling_center.protect.md) 
-- [recycling_center.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/recycling_center.private.md) 
-- [recycling_center.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/recycling_center.personal.md) 
-- [recycling_center.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/recycling_center.secret.md) 

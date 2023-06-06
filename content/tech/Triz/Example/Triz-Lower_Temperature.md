@@ -17,10 +17,3 @@ title: Triz-Lower_Temperature
 
 Lower the Temperature of medical Specimens to preserve them for later Analysis.
 
-## Confidential Links & Embeds: 
-- [Triz-Lower_Temperature](../../../../_public/tech/Triz/Example/Triz-Lower_Temperature.md) 
-- [Triz-Lower_Temperature.internal](../../../../_internal/tech/Triz/Example/Triz-Lower_Temperature.internal.md) 
-- [Triz-Lower_Temperature.protect](../../../../_protect/tech/Triz/Example/Triz-Lower_Temperature.protect.md) 
-- [Triz-Lower_Temperature.private](../../../../_private/tech/Triz/Example/Triz-Lower_Temperature.private.md) 
-- [Triz-Lower_Temperature.personal](../../../../_personal/tech/Triz/Example/Triz-Lower_Temperature.personal.md) 
-- [Triz-Lower_Temperature.secret](../../../../_secret/tech/Triz/Example/Triz-Lower_Temperature.secret.md) 

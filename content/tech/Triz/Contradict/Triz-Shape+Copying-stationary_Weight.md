@@ -19,10 +19,3 @@ title: Triz-Shape+Copying-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Copying-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.md) 
-- [Triz-Shape+Copying-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.internal.md) 
-- [Triz-Shape+Copying-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.protect.md) 
-- [Triz-Shape+Copying-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.private.md) 
-- [Triz-Shape+Copying-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.personal.md) 
-- [Triz-Shape+Copying-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Copying-stationary_Weight.secret.md) 

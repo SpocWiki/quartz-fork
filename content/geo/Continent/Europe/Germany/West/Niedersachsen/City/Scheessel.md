@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Scheessel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Scheessel.md) 
-- [Scheessel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Scheessel.internal.md) 
-- [Scheessel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Scheessel.protect.md) 
-- [Scheessel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Scheessel.private.md) 
-- [Scheessel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Scheessel.personal.md) 
-- [Scheessel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Scheessel.secret.md) 

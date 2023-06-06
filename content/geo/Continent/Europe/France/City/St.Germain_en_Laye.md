@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Germain_en_Laye](../../../../../../_public/geo/Continent/Europe/France/City/St.Germain_en_Laye.md) 
-- [St.Germain_en_Laye.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Germain_en_Laye.internal.md) 
-- [St.Germain_en_Laye.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Germain_en_Laye.protect.md) 
-- [St.Germain_en_Laye.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Germain_en_Laye.private.md) 
-- [St.Germain_en_Laye.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Germain_en_Laye.personal.md) 
-- [St.Germain_en_Laye.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Germain_en_Laye.secret.md) 

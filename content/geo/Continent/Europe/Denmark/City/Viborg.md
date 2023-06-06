@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Viborg](../../../../../../_public/geo/Continent/Europe/Denmark/City/Viborg.md) 
-- [Viborg.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Viborg.internal.md) 
-- [Viborg.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Viborg.protect.md) 
-- [Viborg.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Viborg.private.md) 
-- [Viborg.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Viborg.personal.md) 
-- [Viborg.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Viborg.secret.md) 

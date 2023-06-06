@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chobt](../../../../../../_public/geo/Continent/Europe/France/City/Chobt.md) 
-- [Chobt.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chobt.internal.md) 
-- [Chobt.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chobt.protect.md) 
-- [Chobt.private](../../../../../../_private/geo/Continent/Europe/France/City/Chobt.private.md) 
-- [Chobt.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chobt.personal.md) 
-- [Chobt.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chobt.secret.md) 

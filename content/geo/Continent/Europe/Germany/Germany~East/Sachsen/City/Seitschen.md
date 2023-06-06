@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seitschen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.md) 
-- [Seitschen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.internal.md) 
-- [Seitschen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.protect.md) 
-- [Seitschen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.private.md) 
-- [Seitschen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.personal.md) 
-- [Seitschen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Seitschen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gremboczin](../../../../../../_public/geo/Continent/Europe/Poland/City/Gremboczin.md) 
-- [Gremboczin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gremboczin.internal.md) 
-- [Gremboczin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gremboczin.protect.md) 
-- [Gremboczin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gremboczin.private.md) 
-- [Gremboczin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gremboczin.personal.md) 
-- [Gremboczin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gremboczin.secret.md) 

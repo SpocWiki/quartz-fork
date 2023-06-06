@@ -19,10 +19,3 @@ title: Triz-Versatility+Counterweight-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Counterweight-Shape](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.md) 
-- [Triz-Versatility+Counterweight-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.internal.md) 
-- [Triz-Versatility+Counterweight-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.protect.md) 
-- [Triz-Versatility+Counterweight-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.private.md) 
-- [Triz-Versatility+Counterweight-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.personal.md) 
-- [Triz-Versatility+Counterweight-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Counterweight-Shape.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Viljandi](../../../../../../_public/geo/Continent/Europe/Russia/City/Viljandi.md) 
-- [Viljandi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Viljandi.internal.md) 
-- [Viljandi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Viljandi.protect.md) 
-- [Viljandi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Viljandi.private.md) 
-- [Viljandi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Viljandi.personal.md) 
-- [Viljandi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Viljandi.secret.md) 

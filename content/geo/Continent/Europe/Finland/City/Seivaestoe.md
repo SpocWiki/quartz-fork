@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seivaestoe](../../../../../../_public/geo/Continent/Europe/Finland/City/Seivaestoe.md) 
-- [Seivaestoe.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Seivaestoe.internal.md) 
-- [Seivaestoe.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Seivaestoe.protect.md) 
-- [Seivaestoe.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Seivaestoe.private.md) 
-- [Seivaestoe.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Seivaestoe.personal.md) 
-- [Seivaestoe.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Seivaestoe.secret.md) 

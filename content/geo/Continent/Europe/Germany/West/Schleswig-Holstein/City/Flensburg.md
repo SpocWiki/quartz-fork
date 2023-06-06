@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flensburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.md) 
-- [Flensburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.internal.md) 
-- [Flensburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.protect.md) 
-- [Flensburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.private.md) 
-- [Flensburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.personal.md) 
-- [Flensburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Flensburg.secret.md) 

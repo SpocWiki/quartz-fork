@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Norden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norden.md) 
-- [Norden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norden.internal.md) 
-- [Norden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norden.protect.md) 
-- [Norden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norden.private.md) 
-- [Norden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norden.personal.md) 
-- [Norden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Norden.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nertschimsky](../../../../../../_public/geo/Continent/Europe/Russia/City/Nertschimsky.md) 
-- [Nertschimsky.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nertschimsky.internal.md) 
-- [Nertschimsky.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nertschimsky.protect.md) 
-- [Nertschimsky.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nertschimsky.private.md) 
-- [Nertschimsky.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nertschimsky.personal.md) 
-- [Nertschimsky.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nertschimsky.secret.md) 

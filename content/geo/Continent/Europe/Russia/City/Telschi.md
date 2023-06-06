@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Telschi](../../../../../../_public/geo/Continent/Europe/Russia/City/Telschi.md) 
-- [Telschi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Telschi.internal.md) 
-- [Telschi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Telschi.protect.md) 
-- [Telschi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Telschi.private.md) 
-- [Telschi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Telschi.personal.md) 
-- [Telschi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Telschi.secret.md) 

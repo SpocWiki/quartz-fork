@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_physiological_benefits](../../../../_public/schema.org/Predicate/Texts/has_physiological_benefits.md) 
-- [has_physiological_benefits.internal](../../../../_internal/schema.org/Predicate/Texts/has_physiological_benefits.internal.md) 
-- [has_physiological_benefits.protect](../../../../_protect/schema.org/Predicate/Texts/has_physiological_benefits.protect.md) 
-- [has_physiological_benefits.private](../../../../_private/schema.org/Predicate/Texts/has_physiological_benefits.private.md) 
-- [has_physiological_benefits.personal](../../../../_personal/schema.org/Predicate/Texts/has_physiological_benefits.personal.md) 
-- [has_physiological_benefits.secret](../../../../_secret/schema.org/Predicate/Texts/has_physiological_benefits.secret.md) 

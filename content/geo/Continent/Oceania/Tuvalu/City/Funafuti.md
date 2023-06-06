@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Funafuti](../../../../../../_public/geo/Continent/Oceania/Tuvalu/City/Funafuti.md) 
-- [Funafuti.internal](../../../../../../_internal/geo/Continent/Oceania/Tuvalu/City/Funafuti.internal.md) 
-- [Funafuti.protect](../../../../../../_protect/geo/Continent/Oceania/Tuvalu/City/Funafuti.protect.md) 
-- [Funafuti.private](../../../../../../_private/geo/Continent/Oceania/Tuvalu/City/Funafuti.private.md) 
-- [Funafuti.personal](../../../../../../_personal/geo/Continent/Oceania/Tuvalu/City/Funafuti.personal.md) 
-- [Funafuti.secret](../../../../../../_secret/geo/Continent/Oceania/Tuvalu/City/Funafuti.secret.md) 

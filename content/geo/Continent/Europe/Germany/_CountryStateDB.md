@@ -320,10 +320,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_CountryStateDB](../../../../../_public/geo/Continent/Europe/Germany/_CountryStateDB.md) 
-- [_CountryStateDB.internal](../../../../../_internal/geo/Continent/Europe/Germany/_CountryStateDB.internal.md) 
-- [_CountryStateDB.protect](../../../../../_protect/geo/Continent/Europe/Germany/_CountryStateDB.protect.md) 
-- [_CountryStateDB.private](../../../../../_private/geo/Continent/Europe/Germany/_CountryStateDB.private.md) 
-- [_CountryStateDB.personal](../../../../../_personal/geo/Continent/Europe/Germany/_CountryStateDB.personal.md) 
-- [_CountryStateDB.secret](../../../../../_secret/geo/Continent/Europe/Germany/_CountryStateDB.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Mediator-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Mediator-Power](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.md) 
-- [Triz-Ease_of_manufacture+Mediator-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.internal.md) 
-- [Triz-Ease_of_manufacture+Mediator-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.protect.md) 
-- [Triz-Ease_of_manufacture+Mediator-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.private.md) 
-- [Triz-Ease_of_manufacture+Mediator-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.personal.md) 
-- [Triz-Ease_of_manufacture+Mediator-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Mediator-Power.secret.md) 

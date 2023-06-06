@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frauenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frauenberg.md) 
-- [Frauenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frauenberg.internal.md) 
-- [Frauenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frauenberg.protect.md) 
-- [Frauenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frauenberg.private.md) 
-- [Frauenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frauenberg.personal.md) 
-- [Frauenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frauenberg.secret.md) 

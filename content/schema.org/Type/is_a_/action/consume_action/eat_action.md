@@ -43,10 +43,3 @@ The act of swallowing solid objects.
 
 
 
-## Confidential Links & Embeds: 
-- [eat_action](../../../../../../_public/schema.org/Type/is_a_/action/consume_action/eat_action.md) 
-- [eat_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/eat_action.internal.md) 
-- [eat_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/eat_action.protect.md) 
-- [eat_action.private](../../../../../../_private/schema.org/Type/is_a_/action/consume_action/eat_action.private.md) 
-- [eat_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/eat_action.personal.md) 
-- [eat_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/eat_action.secret.md) 

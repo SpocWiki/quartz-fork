@@ -19,10 +19,3 @@ title: Triz-Versatility+Copying-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Copying-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Copying-Illumination.md) 
-- [Triz-Versatility+Copying-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Copying-Illumination.internal.md) 
-- [Triz-Versatility+Copying-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Copying-Illumination.protect.md) 
-- [Triz-Versatility+Copying-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Copying-Illumination.private.md) 
-- [Triz-Versatility+Copying-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Copying-Illumination.personal.md) 
-- [Triz-Versatility+Copying-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Copying-Illumination.secret.md) 

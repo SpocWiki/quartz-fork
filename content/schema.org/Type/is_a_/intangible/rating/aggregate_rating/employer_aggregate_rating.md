@@ -43,10 +43,3 @@ An aggregate rating of an Organization related to its role as an employer.
 
 
 
-## Confidential Links & Embeds: 
-- [employer_aggregate_rating](../../../../../../../_public/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.md) 
-- [employer_aggregate_rating.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.internal.md) 
-- [employer_aggregate_rating.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.protect.md) 
-- [employer_aggregate_rating.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.private.md) 
-- [employer_aggregate_rating.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.personal.md) 
-- [employer_aggregate_rating.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.secret.md) 

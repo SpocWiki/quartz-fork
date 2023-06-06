@@ -17,10 +17,3 @@ title: Triz-Retractable_Gear
 
 Retractable Aircraft Landing Gear Stow inside the Fuselage (also demonstrates Principle 15, Dynamism).
 
-## Confidential Links & Embeds: 
-- [Triz-Retractable_Gear](../../../../_public/tech/Triz/Example/Triz-Retractable_Gear.md) 
-- [Triz-Retractable_Gear.internal](../../../../_internal/tech/Triz/Example/Triz-Retractable_Gear.internal.md) 
-- [Triz-Retractable_Gear.protect](../../../../_protect/tech/Triz/Example/Triz-Retractable_Gear.protect.md) 
-- [Triz-Retractable_Gear.private](../../../../_private/tech/Triz/Example/Triz-Retractable_Gear.private.md) 
-- [Triz-Retractable_Gear.personal](../../../../_personal/tech/Triz/Example/Triz-Retractable_Gear.personal.md) 
-- [Triz-Retractable_Gear.secret](../../../../_secret/tech/Triz/Example/Triz-Retractable_Gear.secret.md) 

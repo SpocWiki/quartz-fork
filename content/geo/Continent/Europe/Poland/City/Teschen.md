@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Teschen](../../../../../../_public/geo/Continent/Europe/Poland/City/Teschen.md) 
-- [Teschen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Teschen.internal.md) 
-- [Teschen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Teschen.protect.md) 
-- [Teschen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Teschen.private.md) 
-- [Teschen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Teschen.personal.md) 
-- [Teschen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Teschen.secret.md) 

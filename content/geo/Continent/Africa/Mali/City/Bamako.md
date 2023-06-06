@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bamako](../../../../../../_public/geo/Continent/Africa/Mali/City/Bamako.md) 
-- [Bamako.internal](../../../../../../_internal/geo/Continent/Africa/Mali/City/Bamako.internal.md) 
-- [Bamako.protect](../../../../../../_protect/geo/Continent/Africa/Mali/City/Bamako.protect.md) 
-- [Bamako.private](../../../../../../_private/geo/Continent/Africa/Mali/City/Bamako.private.md) 
-- [Bamako.personal](../../../../../../_personal/geo/Continent/Africa/Mali/City/Bamako.personal.md) 
-- [Bamako.secret](../../../../../../_secret/geo/Continent/Africa/Mali/City/Bamako.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Airolo](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Airolo.md) 
-- [Airolo.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Airolo.internal.md) 
-- [Airolo.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Airolo.protect.md) 
-- [Airolo.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Airolo.private.md) 
-- [Airolo.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Airolo.personal.md) 
-- [Airolo.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Airolo.secret.md) 

@@ -47,10 +47,3 @@ This is the equivalent of Atom's element as defined in Feed Paging and Archiving
 
 
 
-## Confidential Links & Embeds: 
-- [complete_data_feed](../../../../../../../_public/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.md) 
-- [complete_data_feed.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.internal.md) 
-- [complete_data_feed.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.protect.md) 
-- [complete_data_feed.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.private.md) 
-- [complete_data_feed.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.personal.md) 
-- [complete_data_feed.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.secret.md) 

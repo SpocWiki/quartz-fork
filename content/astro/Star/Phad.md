@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Phad](../../../_public/astro/Star/Phad.md) 
-- [Phad.internal](../../../_internal/astro/Star/Phad.internal.md) 
-- [Phad.protect](../../../_protect/astro/Star/Phad.protect.md) 
-- [Phad.private](../../../_private/astro/Star/Phad.private.md) 
-- [Phad.personal](../../../_personal/astro/Star/Phad.personal.md) 
-- [Phad.secret](../../../_secret/astro/Star/Phad.secret.md) 

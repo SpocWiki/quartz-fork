@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kingston](../../../../../../_public/geo/Continent/South-America/Jamaica/City/Kingston.md) 
-- [Kingston.internal](../../../../../../_internal/geo/Continent/South-America/Jamaica/City/Kingston.internal.md) 
-- [Kingston.protect](../../../../../../_protect/geo/Continent/South-America/Jamaica/City/Kingston.protect.md) 
-- [Kingston.private](../../../../../../_private/geo/Continent/South-America/Jamaica/City/Kingston.private.md) 
-- [Kingston.personal](../../../../../../_personal/geo/Continent/South-America/Jamaica/City/Kingston.personal.md) 
-- [Kingston.secret](../../../../../../_secret/geo/Continent/South-America/Jamaica/City/Kingston.secret.md) 

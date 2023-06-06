@@ -19,10 +19,3 @@ title: Triz-Speed+Prior_action-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Prior_action-Automation](../../../../_public/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.md) 
-- [Triz-Speed+Prior_action-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.internal.md) 
-- [Triz-Speed+Prior_action-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.protect.md) 
-- [Triz-Speed+Prior_action-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.private.md) 
-- [Triz-Speed+Prior_action-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.personal.md) 
-- [Triz-Speed+Prior_action-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Prior_action-Automation.secret.md) 

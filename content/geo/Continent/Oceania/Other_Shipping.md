@@ -36,10 +36,3 @@ markerFolder: ./Other_Shipping/City
 
 
 
-## Confidential Links & Embeds: 
-- [Other_Shipping](../../../../_public/geo/Continent/Oceania/Other_Shipping.md) 
-- [Other_Shipping.internal](../../../../_internal/geo/Continent/Oceania/Other_Shipping.internal.md) 
-- [Other_Shipping.protect](../../../../_protect/geo/Continent/Oceania/Other_Shipping.protect.md) 
-- [Other_Shipping.private](../../../../_private/geo/Continent/Oceania/Other_Shipping.private.md) 
-- [Other_Shipping.personal](../../../../_personal/geo/Continent/Oceania/Other_Shipping.personal.md) 
-- [Other_Shipping.secret](../../../../_secret/geo/Continent/Oceania/Other_Shipping.secret.md) 

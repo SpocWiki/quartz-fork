@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenigslutter](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.md) 
-- [Koenigslutter.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.internal.md) 
-- [Koenigslutter.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.protect.md) 
-- [Koenigslutter.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.private.md) 
-- [Koenigslutter.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.personal.md) 
-- [Koenigslutter.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Koenigslutter.secret.md) 

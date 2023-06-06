@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ortelsburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Ortelsburg.md) 
-- [Ortelsburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ortelsburg.internal.md) 
-- [Ortelsburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ortelsburg.protect.md) 
-- [Ortelsburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ortelsburg.private.md) 
-- [Ortelsburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ortelsburg.personal.md) 
-- [Ortelsburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ortelsburg.secret.md) 

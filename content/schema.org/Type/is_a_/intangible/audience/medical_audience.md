@@ -45,10 +45,3 @@ Target audiences for medical web pages.
 
 
 
-## Confidential Links & Embeds: 
-- [medical_audience](../../../../../../_public/schema.org/Type/is_a_/intangible/audience/medical_audience.md) 
-- [medical_audience.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/medical_audience.internal.md) 
-- [medical_audience.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/medical_audience.protect.md) 
-- [medical_audience.private](../../../../../../_private/schema.org/Type/is_a_/intangible/audience/medical_audience.private.md) 
-- [medical_audience.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/medical_audience.personal.md) 
-- [medical_audience.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/medical_audience.secret.md) 

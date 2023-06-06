@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Hauptbahnhof_Südseite](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_S%C3%BCdseite.md) 
-- [S-Hauptbahnhof_Südseite.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_S%C3%BCdseite.internal.md) 
-- [S-Hauptbahnhof_Südseite.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_S%C3%BCdseite.protect.md) 
-- [S-Hauptbahnhof_Südseite.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_S%C3%BCdseite.private.md) 
-- [S-Hauptbahnhof_Südseite.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_S%C3%BCdseite.personal.md) 
-- [S-Hauptbahnhof_Südseite.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Hauptbahnhof_S%C3%BCdseite.secret.md) 

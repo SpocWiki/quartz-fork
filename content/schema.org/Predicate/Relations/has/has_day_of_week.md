@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_day_of_week](../../../../../_public/schema.org/Predicate/Relations/has/has_day_of_week.md) 
-- [has_day_of_week.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_day_of_week.internal.md) 
-- [has_day_of_week.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_day_of_week.protect.md) 
-- [has_day_of_week.private](../../../../../_private/schema.org/Predicate/Relations/has/has_day_of_week.private.md) 
-- [has_day_of_week.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_day_of_week.personal.md) 
-- [has_day_of_week.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_day_of_week.secret.md) 

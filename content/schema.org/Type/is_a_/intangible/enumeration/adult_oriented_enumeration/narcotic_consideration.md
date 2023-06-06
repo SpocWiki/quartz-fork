@@ -47,10 +47,3 @@ Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narco
 
 
 
-## Confidential Links & Embeds: 
-- [narcotic_consideration](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.md) 
-- [narcotic_consideration.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.internal.md) 
-- [narcotic_consideration.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.protect.md) 
-- [narcotic_consideration.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.private.md) 
-- [narcotic_consideration.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.personal.md) 
-- [narcotic_consideration.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.secret.md) 

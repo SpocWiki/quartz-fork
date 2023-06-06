@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Osijek](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Osijek.md) 
-- [Osijek.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Osijek.internal.md) 
-- [Osijek.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Osijek.protect.md) 
-- [Osijek.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Osijek.private.md) 
-- [Osijek.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Osijek.personal.md) 
-- [Osijek.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Osijek.secret.md) 

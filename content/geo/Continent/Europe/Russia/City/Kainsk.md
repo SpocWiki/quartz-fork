@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kainsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Kainsk.md) 
-- [Kainsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kainsk.internal.md) 
-- [Kainsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kainsk.protect.md) 
-- [Kainsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kainsk.private.md) 
-- [Kainsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kainsk.personal.md) 
-- [Kainsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kainsk.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Visegrad](../../../../../../_public/geo/Continent/Europe/Hungary/City/Visegrad.md) 
-- [Visegrad.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Visegrad.internal.md) 
-- [Visegrad.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Visegrad.protect.md) 
-- [Visegrad.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Visegrad.private.md) 
-- [Visegrad.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Visegrad.personal.md) 
-- [Visegrad.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Visegrad.secret.md) 

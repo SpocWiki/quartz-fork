@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haemenkyroe](../../../../../../_public/geo/Continent/Europe/Finland/City/Haemenkyroe.md) 
-- [Haemenkyroe.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Haemenkyroe.internal.md) 
-- [Haemenkyroe.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Haemenkyroe.protect.md) 
-- [Haemenkyroe.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Haemenkyroe.private.md) 
-- [Haemenkyroe.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Haemenkyroe.personal.md) 
-- [Haemenkyroe.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Haemenkyroe.secret.md) 

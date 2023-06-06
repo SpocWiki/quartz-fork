@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sosnovo](../../../../../../_public/geo/Continent/Europe/Russia/City/Sosnovo.md) 
-- [Sosnovo.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sosnovo.internal.md) 
-- [Sosnovo.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sosnovo.protect.md) 
-- [Sosnovo.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sosnovo.private.md) 
-- [Sosnovo.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sosnovo.personal.md) 
-- [Sosnovo.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sosnovo.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [New_Orleans](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Louisiana/City/New_Orleans.md) 
-- [New_Orleans.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Louisiana/City/New_Orleans.internal.md) 
-- [New_Orleans.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Louisiana/City/New_Orleans.protect.md) 
-- [New_Orleans.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Louisiana/City/New_Orleans.private.md) 
-- [New_Orleans.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Louisiana/City/New_Orleans.personal.md) 
-- [New_Orleans.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Louisiana/City/New_Orleans.secret.md) 

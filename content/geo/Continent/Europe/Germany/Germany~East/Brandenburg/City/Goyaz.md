@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goyaz](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.md) 
-- [Goyaz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.internal.md) 
-- [Goyaz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.protect.md) 
-- [Goyaz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.private.md) 
-- [Goyaz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.personal.md) 
-- [Goyaz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Goyaz.secret.md) 

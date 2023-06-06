@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Elmuthalleth](../../../_public/astro/Star/Elmuthalleth.md) 
-- [Elmuthalleth.internal](../../../_internal/astro/Star/Elmuthalleth.internal.md) 
-- [Elmuthalleth.protect](../../../_protect/astro/Star/Elmuthalleth.protect.md) 
-- [Elmuthalleth.private](../../../_private/astro/Star/Elmuthalleth.private.md) 
-- [Elmuthalleth.personal](../../../_personal/astro/Star/Elmuthalleth.personal.md) 
-- [Elmuthalleth.secret](../../../_secret/astro/Star/Elmuthalleth.secret.md)
-

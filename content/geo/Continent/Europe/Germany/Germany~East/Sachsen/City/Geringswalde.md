@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Geringswalde](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geringswalde.md) 
-- [Geringswalde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geringswalde.internal.md) 
-- [Geringswalde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geringswalde.protect.md) 
-- [Geringswalde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geringswalde.private.md) 
-- [Geringswalde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geringswalde.personal.md) 
-- [Geringswalde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Geringswalde.secret.md) 

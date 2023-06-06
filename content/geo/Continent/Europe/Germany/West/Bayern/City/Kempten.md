@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kempten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kempten.md) 
-- [Kempten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kempten.internal.md) 
-- [Kempten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kempten.protect.md) 
-- [Kempten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kempten.private.md) 
-- [Kempten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kempten.personal.md) 
-- [Kempten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kempten.secret.md) 

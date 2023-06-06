@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Orionis-7](../../../_public/astro/Star/Orionis-7.md) 
-- [Orionis-7.internal](../../../_internal/astro/Star/Orionis-7.internal.md) 
-- [Orionis-7.protect](../../../_protect/astro/Star/Orionis-7.protect.md) 
-- [Orionis-7.private](../../../_private/astro/Star/Orionis-7.private.md) 
-- [Orionis-7.personal](../../../_personal/astro/Star/Orionis-7.personal.md) 
-- [Orionis-7.secret](../../../_secret/astro/Star/Orionis-7.secret.md) 

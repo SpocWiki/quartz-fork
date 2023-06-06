@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cupertino](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.md) 
-- [Cupertino.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.internal.md) 
-- [Cupertino.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.protect.md) 
-- [Cupertino.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.private.md) 
-- [Cupertino.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.personal.md) 
-- [Cupertino.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Cupertino.secret.md) 

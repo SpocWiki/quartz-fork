@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chioggia](../../../../../../_public/geo/Continent/Europe/Italy/City/Chioggia.md) 
-- [Chioggia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Chioggia.internal.md) 
-- [Chioggia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Chioggia.protect.md) 
-- [Chioggia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Chioggia.private.md) 
-- [Chioggia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Chioggia.personal.md) 
-- [Chioggia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Chioggia.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Helier](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Helier.md) 
-- [St.Helier.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Helier.internal.md) 
-- [St.Helier.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Helier.protect.md) 
-- [St.Helier.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Helier.private.md) 
-- [St.Helier.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Helier.personal.md) 
-- [St.Helier.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Helier.secret.md) 

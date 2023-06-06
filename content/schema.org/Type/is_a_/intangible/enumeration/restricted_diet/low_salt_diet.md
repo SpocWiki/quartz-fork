@@ -45,10 +45,3 @@ A diet focused on reduced sodium intake.
 
 
 
-## Confidential Links & Embeds: 
-- [low_salt_diet](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_salt_diet.md) 
-- [low_salt_diet.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_salt_diet.internal.md) 
-- [low_salt_diet.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_salt_diet.protect.md) 
-- [low_salt_diet.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_salt_diet.private.md) 
-- [low_salt_diet.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_salt_diet.personal.md) 
-- [low_salt_diet.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/low_salt_diet.secret.md) 

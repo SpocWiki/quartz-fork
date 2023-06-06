@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Caltanisetta](../../../../../../_public/geo/Continent/Europe/Italy/City/Caltanisetta.md) 
-- [Caltanisetta.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Caltanisetta.internal.md) 
-- [Caltanisetta.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Caltanisetta.protect.md) 
-- [Caltanisetta.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Caltanisetta.private.md) 
-- [Caltanisetta.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Caltanisetta.personal.md) 
-- [Caltanisetta.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Caltanisetta.secret.md) 

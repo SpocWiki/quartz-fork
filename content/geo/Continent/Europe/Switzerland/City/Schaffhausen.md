@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schaffhausen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Schaffhausen.md) 
-- [Schaffhausen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Schaffhausen.internal.md) 
-- [Schaffhausen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Schaffhausen.protect.md) 
-- [Schaffhausen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Schaffhausen.private.md) 
-- [Schaffhausen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Schaffhausen.personal.md) 
-- [Schaffhausen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Schaffhausen.secret.md) 

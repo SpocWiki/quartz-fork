@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_course](../../../../../_public/schema.org/Predicate/Relations/has/has_course.md) 
-- [has_course.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_course.internal.md) 
-- [has_course.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_course.protect.md) 
-- [has_course.private](../../../../../_private/schema.org/Predicate/Relations/has/has_course.private.md) 
-- [has_course.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_course.personal.md) 
-- [has_course.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_course.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Regenwalde](../../../../../../_public/geo/Continent/Europe/Poland/City/Regenwalde.md) 
-- [Regenwalde.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Regenwalde.internal.md) 
-- [Regenwalde.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Regenwalde.protect.md) 
-- [Regenwalde.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Regenwalde.private.md) 
-- [Regenwalde.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Regenwalde.personal.md) 
-- [Regenwalde.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Regenwalde.secret.md) 

@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_tributary](../../../../../_public/schema.org/Predicate/Relations/has/has_tributary.md) 
-- [has_tributary.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_tributary.internal.md) 
-- [has_tributary.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_tributary.protect.md) 
-- [has_tributary.private](../../../../../_private/schema.org/Predicate/Relations/has/has_tributary.private.md) 
-- [has_tributary.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_tributary.personal.md) 
-- [has_tributary.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_tributary.secret.md) 

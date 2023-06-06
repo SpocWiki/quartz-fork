@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Inoroclaw](../../../../../../_public/geo/Continent/Europe/Poland/City/Inoroclaw.md) 
-- [Inoroclaw.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Inoroclaw.internal.md) 
-- [Inoroclaw.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Inoroclaw.protect.md) 
-- [Inoroclaw.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Inoroclaw.private.md) 
-- [Inoroclaw.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Inoroclaw.personal.md) 
-- [Inoroclaw.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Inoroclaw.secret.md) 

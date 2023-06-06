@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Imperia](../../../../../../_public/geo/Continent/Europe/Italy/City/Imperia.md) 
-- [Imperia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Imperia.internal.md) 
-- [Imperia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Imperia.protect.md) 
-- [Imperia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Imperia.private.md) 
-- [Imperia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Imperia.personal.md) 
-- [Imperia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Imperia.secret.md) 

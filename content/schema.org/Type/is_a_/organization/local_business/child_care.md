@@ -43,10 +43,3 @@ A Childcare center.
 
 
 
-## Confidential Links & Embeds: 
-- [child_care](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/child_care.md) 
-- [child_care.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/child_care.internal.md) 
-- [child_care.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/child_care.protect.md) 
-- [child_care.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/child_care.private.md) 
-- [child_care.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/child_care.personal.md) 
-- [child_care.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/child_care.secret.md) 

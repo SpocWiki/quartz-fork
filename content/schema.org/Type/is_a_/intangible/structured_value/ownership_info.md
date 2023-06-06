@@ -43,10 +43,3 @@ A structured value providing information about when a certain organization or pe
 
 
 
-## Confidential Links & Embeds: 
-- [ownership_info](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/ownership_info.md) 
-- [ownership_info.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/ownership_info.internal.md) 
-- [ownership_info.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/ownership_info.protect.md) 
-- [ownership_info.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/ownership_info.private.md) 
-- [ownership_info.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/ownership_info.personal.md) 
-- [ownership_info.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/ownership_info.secret.md) 

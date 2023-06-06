@@ -45,10 +45,3 @@ An <a class="localLink" href="/Article">Article</a> that an external entity has 
 
 
 
-## Confidential Links & Embeds: 
-- [advertiser_content_article](../../../../../../_public/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.md) 
-- [advertiser_content_article.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.internal.md) 
-- [advertiser_content_article.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.protect.md) 
-- [advertiser_content_article.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.private.md) 
-- [advertiser_content_article.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.personal.md) 
-- [advertiser_content_article.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.secret.md) 

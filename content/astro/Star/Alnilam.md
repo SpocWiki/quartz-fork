@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alnilam](../../../_public/astro/Star/Alnilam.md) 
-- [Alnilam.internal](../../../_internal/astro/Star/Alnilam.internal.md) 
-- [Alnilam.protect](../../../_protect/astro/Star/Alnilam.protect.md) 
-- [Alnilam.private](../../../_private/astro/Star/Alnilam.private.md) 
-- [Alnilam.personal](../../../_personal/astro/Star/Alnilam.personal.md) 
-- [Alnilam.secret](../../../_secret/astro/Star/Alnilam.secret.md)
-

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Novosibirsk_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Novosibirsk_Oblast.md) 
-- [State-Novosibirsk_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Novosibirsk_Oblast.internal.md) 
-- [State-Novosibirsk_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Novosibirsk_Oblast.protect.md) 
-- [State-Novosibirsk_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Novosibirsk_Oblast.private.md) 
-- [State-Novosibirsk_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Novosibirsk_Oblast.personal.md) 
-- [State-Novosibirsk_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Novosibirsk_Oblast.secret.md) 

@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_recipe](../../../../../_public/schema.org/Predicate/Relations/has/has_recipe.md) 
-- [has_recipe.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_recipe.internal.md) 
-- [has_recipe.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_recipe.protect.md) 
-- [has_recipe.private](../../../../../_private/schema.org/Predicate/Relations/has/has_recipe.private.md) 
-- [has_recipe.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_recipe.personal.md) 
-- [has_recipe.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_recipe.secret.md) 

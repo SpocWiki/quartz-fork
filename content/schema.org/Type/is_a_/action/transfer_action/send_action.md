@@ -48,10 +48,3 @@ The act of physically/electronically dispatching an object for transfer from an 
 
 
 
-## Confidential Links & Embeds: 
-- [send_action](../../../../../../_public/schema.org/Type/is_a_/action/transfer_action/send_action.md) 
-- [send_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/transfer_action/send_action.internal.md) 
-- [send_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/transfer_action/send_action.protect.md) 
-- [send_action.private](../../../../../../_private/schema.org/Type/is_a_/action/transfer_action/send_action.private.md) 
-- [send_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/transfer_action/send_action.personal.md) 
-- [send_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/transfer_action/send_action.secret.md) 

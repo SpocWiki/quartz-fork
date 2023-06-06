@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Sever](../../../../../../_public/geo/Continent/Europe/France/City/St.Sever.md) 
-- [St.Sever.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Sever.internal.md) 
-- [St.Sever.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Sever.protect.md) 
-- [St.Sever.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Sever.private.md) 
-- [St.Sever.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Sever.personal.md) 
-- [St.Sever.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Sever.secret.md) 

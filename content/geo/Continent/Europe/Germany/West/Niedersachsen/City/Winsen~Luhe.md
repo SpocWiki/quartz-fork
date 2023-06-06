@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winsen~Luhe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.md) 
-- [Winsen~Luhe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.internal.md) 
-- [Winsen~Luhe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.protect.md) 
-- [Winsen~Luhe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.private.md) 
-- [Winsen~Luhe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.personal.md) 
-- [Winsen~Luhe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Luhe.secret.md) 

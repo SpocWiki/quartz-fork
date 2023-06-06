@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aulendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Aulendorf.md) 
-- [Aulendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Aulendorf.internal.md) 
-- [Aulendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Aulendorf.protect.md) 
-- [Aulendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Aulendorf.private.md) 
-- [Aulendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Aulendorf.personal.md) 
-- [Aulendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Aulendorf.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harwich](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Harwich.md) 
-- [Harwich.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Harwich.internal.md) 
-- [Harwich.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Harwich.protect.md) 
-- [Harwich.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Harwich.private.md) 
-- [Harwich.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Harwich.personal.md) 
-- [Harwich.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Harwich.secret.md) 

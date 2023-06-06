@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Revenow](../../../../../../_public/geo/Continent/Europe/Poland/City/Revenow.md) 
-- [Revenow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Revenow.internal.md) 
-- [Revenow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Revenow.protect.md) 
-- [Revenow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Revenow.private.md) 
-- [Revenow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Revenow.personal.md) 
-- [Revenow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Revenow.secret.md) 

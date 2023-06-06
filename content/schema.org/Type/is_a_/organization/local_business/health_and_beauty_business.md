@@ -45,10 +45,3 @@ Health and beauty.
 
 
 
-## Confidential Links & Embeds: 
-- [health_and_beauty_business](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.md) 
-- [health_and_beauty_business.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.internal.md) 
-- [health_and_beauty_business.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.protect.md) 
-- [health_and_beauty_business.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.private.md) 
-- [health_and_beauty_business.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.personal.md) 
-- [health_and_beauty_business.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.secret.md) 

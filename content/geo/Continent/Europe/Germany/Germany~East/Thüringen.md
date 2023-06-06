@@ -32,10 +32,3 @@ markerFolder: ./Thüringen/City
 
 
 
-## Confidential Links & Embeds: 
-- [Thüringen](../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen.md) 
-- [Thüringen.internal](../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen.internal.md) 
-- [Thüringen.protect](../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen.protect.md) 
-- [Thüringen.private](../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen.private.md) 
-- [Thüringen.personal](../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen.personal.md) 
-- [Thüringen.secret](../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen.secret.md) 

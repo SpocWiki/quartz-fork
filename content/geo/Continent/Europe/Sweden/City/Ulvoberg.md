@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ulvoberg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ulvoberg.md) 
-- [Ulvoberg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ulvoberg.internal.md) 
-- [Ulvoberg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ulvoberg.protect.md) 
-- [Ulvoberg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ulvoberg.private.md) 
-- [Ulvoberg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ulvoberg.personal.md) 
-- [Ulvoberg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ulvoberg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Avallon](../../../../../../_public/geo/Continent/Europe/France/City/Avallon.md) 
-- [Avallon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Avallon.internal.md) 
-- [Avallon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Avallon.protect.md) 
-- [Avallon.private](../../../../../../_private/geo/Continent/Europe/France/City/Avallon.private.md) 
-- [Avallon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Avallon.personal.md) 
-- [Avallon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Avallon.secret.md) 

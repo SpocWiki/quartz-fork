@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Mediator-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Mediator-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Quantity.md) 
-- [Triz-Substance-Loss+Mediator-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Quantity.internal.md) 
-- [Triz-Substance-Loss+Mediator-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Quantity.protect.md) 
-- [Triz-Substance-Loss+Mediator-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Quantity.private.md) 
-- [Triz-Substance-Loss+Mediator-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Quantity.personal.md) 
-- [Triz-Substance-Loss+Mediator-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mediator-Quantity.secret.md) 

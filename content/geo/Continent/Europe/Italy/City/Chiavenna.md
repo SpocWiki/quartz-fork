@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chiavenna](../../../../../../_public/geo/Continent/Europe/Italy/City/Chiavenna.md) 
-- [Chiavenna.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Chiavenna.internal.md) 
-- [Chiavenna.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Chiavenna.protect.md) 
-- [Chiavenna.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Chiavenna.private.md) 
-- [Chiavenna.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Chiavenna.personal.md) 
-- [Chiavenna.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Chiavenna.secret.md) 

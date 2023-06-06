@@ -51,10 +51,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_acceleration_time](../../../../_public/schema.org/Predicate/Quantities/has_value_for_acceleration_time.md) 
-- [has_value_for_acceleration_time.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_acceleration_time.internal.md) 
-- [has_value_for_acceleration_time.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_acceleration_time.protect.md) 
-- [has_value_for_acceleration_time.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_acceleration_time.private.md) 
-- [has_value_for_acceleration_time.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_acceleration_time.personal.md) 
-- [has_value_for_acceleration_time.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_acceleration_time.secret.md) 

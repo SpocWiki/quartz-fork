@@ -36,10 +36,3 @@ markerFolder: ./Palestinian_Territory,_Occupied/City
 
 
 
-## Confidential Links & Embeds: 
-- [Palestinian_Territory,_Occupied](../../../../_public/geo/Continent/Asia/Palestinian_Territory,_Occupied.md) 
-- [Palestinian_Territory,_Occupied.internal](../../../../_internal/geo/Continent/Asia/Palestinian_Territory,_Occupied.internal.md) 
-- [Palestinian_Territory,_Occupied.protect](../../../../_protect/geo/Continent/Asia/Palestinian_Territory,_Occupied.protect.md) 
-- [Palestinian_Territory,_Occupied.private](../../../../_private/geo/Continent/Asia/Palestinian_Territory,_Occupied.private.md) 
-- [Palestinian_Territory,_Occupied.personal](../../../../_personal/geo/Continent/Asia/Palestinian_Territory,_Occupied.personal.md) 
-- [Palestinian_Territory,_Occupied.secret](../../../../_secret/geo/Continent/Asia/Palestinian_Territory,_Occupied.secret.md) 

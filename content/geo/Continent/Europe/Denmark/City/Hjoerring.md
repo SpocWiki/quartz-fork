@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hjoerring](../../../../../../_public/geo/Continent/Europe/Denmark/City/Hjoerring.md) 
-- [Hjoerring.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Hjoerring.internal.md) 
-- [Hjoerring.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Hjoerring.protect.md) 
-- [Hjoerring.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Hjoerring.private.md) 
-- [Hjoerring.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Hjoerring.personal.md) 
-- [Hjoerring.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Hjoerring.secret.md) 

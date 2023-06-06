@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hartha](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hartha.md) 
-- [Hartha.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hartha.internal.md) 
-- [Hartha.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hartha.protect.md) 
-- [Hartha.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hartha.private.md) 
-- [Hartha.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hartha.personal.md) 
-- [Hartha.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Hartha.secret.md) 

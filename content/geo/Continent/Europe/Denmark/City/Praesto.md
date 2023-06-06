@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Praesto](../../../../../../_public/geo/Continent/Europe/Denmark/City/Praesto.md) 
-- [Praesto.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Praesto.internal.md) 
-- [Praesto.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Praesto.protect.md) 
-- [Praesto.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Praesto.private.md) 
-- [Praesto.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Praesto.personal.md) 
-- [Praesto.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Praesto.secret.md) 

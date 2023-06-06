@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Mühlheim~Main_Dietesheim](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main_Dietesheim.md) 
-- [S-Mühlheim~Main_Dietesheim.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main_Dietesheim.internal.md) 
-- [S-Mühlheim~Main_Dietesheim.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main_Dietesheim.protect.md) 
-- [S-Mühlheim~Main_Dietesheim.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main_Dietesheim.private.md) 
-- [S-Mühlheim~Main_Dietesheim.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main_Dietesheim.personal.md) 
-- [S-Mühlheim~Main_Dietesheim.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-M%C3%BChlheim~Main_Dietesheim.secret.md) 

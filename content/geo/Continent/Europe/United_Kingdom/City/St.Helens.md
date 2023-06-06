@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Helens](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Helens.md) 
-- [St.Helens.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Helens.internal.md) 
-- [St.Helens.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Helens.protect.md) 
-- [St.Helens.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Helens.private.md) 
-- [St.Helens.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Helens.personal.md) 
-- [St.Helens.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Helens.secret.md) 

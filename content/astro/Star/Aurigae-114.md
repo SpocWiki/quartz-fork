@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Aurigae-114](../../../_public/astro/Star/Aurigae-114.md) 
-- [Aurigae-114.internal](../../../_internal/astro/Star/Aurigae-114.internal.md) 
-- [Aurigae-114.protect](../../../_protect/astro/Star/Aurigae-114.protect.md) 
-- [Aurigae-114.private](../../../_private/astro/Star/Aurigae-114.private.md) 
-- [Aurigae-114.personal](../../../_personal/astro/Star/Aurigae-114.personal.md) 
-- [Aurigae-114.secret](../../../_secret/astro/Star/Aurigae-114.secret.md)
-

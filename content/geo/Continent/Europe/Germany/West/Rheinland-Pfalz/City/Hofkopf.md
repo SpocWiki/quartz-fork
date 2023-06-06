@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hofkopf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hofkopf.md) 
-- [Hofkopf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hofkopf.internal.md) 
-- [Hofkopf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hofkopf.protect.md) 
-- [Hofkopf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hofkopf.private.md) 
-- [Hofkopf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hofkopf.personal.md) 
-- [Hofkopf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Hofkopf.secret.md) 

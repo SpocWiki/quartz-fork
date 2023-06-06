@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Syklyvkar=List_Sysolske](../../../../../../_public/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.md) 
-- [Syklyvkar=List_Sysolske.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.internal.md) 
-- [Syklyvkar=List_Sysolske.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.protect.md) 
-- [Syklyvkar=List_Sysolske.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.private.md) 
-- [Syklyvkar=List_Sysolske.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.personal.md) 
-- [Syklyvkar=List_Sysolske.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Syklyvkar=List_Sysolske.secret.md) 

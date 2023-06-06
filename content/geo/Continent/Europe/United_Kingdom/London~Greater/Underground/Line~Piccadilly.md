@@ -95,10 +95,3 @@ FROM outgoing([Line~Piccadilly](geo/Continent/Europe/United_Kingdom/London~Great
 
 
 
-## Confidential Links & Embeds: 
-- [Line~Piccadilly](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.md) 
-- [Line~Piccadilly.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.internal.md) 
-- [Line~Piccadilly.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.protect.md) 
-- [Line~Piccadilly.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.private.md) 
-- [Line~Piccadilly.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.personal.md) 
-- [Line~Piccadilly.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Line~Piccadilly.secret.md) 

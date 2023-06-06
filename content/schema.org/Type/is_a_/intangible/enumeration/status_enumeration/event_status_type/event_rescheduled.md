@@ -45,10 +45,3 @@ The event has been rescheduled. The event's previousStartDate should be set to t
 
 
 
-## Confidential Links & Embeds: 
-- [event_rescheduled](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.md) 
-- [event_rescheduled.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.internal.md) 
-- [event_rescheduled.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.protect.md) 
-- [event_rescheduled.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.private.md) 
-- [event_rescheduled.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.personal.md) 
-- [event_rescheduled.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.secret.md) 

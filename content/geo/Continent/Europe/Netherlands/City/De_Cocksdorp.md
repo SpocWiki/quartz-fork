@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [De_Cocksdorp](../../../../../../_public/geo/Continent/Europe/Netherlands/City/De_Cocksdorp.md) 
-- [De_Cocksdorp.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/De_Cocksdorp.internal.md) 
-- [De_Cocksdorp.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/De_Cocksdorp.protect.md) 
-- [De_Cocksdorp.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/De_Cocksdorp.private.md) 
-- [De_Cocksdorp.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/De_Cocksdorp.personal.md) 
-- [De_Cocksdorp.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/De_Cocksdorp.secret.md) 

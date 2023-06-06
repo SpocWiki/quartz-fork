@@ -43,10 +43,3 @@ A car rental business.
 
 
 
-## Confidential Links & Embeds: 
-- [auto_rental](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.md) 
-- [auto_rental.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.internal.md) 
-- [auto_rental.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.protect.md) 
-- [auto_rental.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.private.md) 
-- [auto_rental.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.personal.md) 
-- [auto_rental.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.secret.md) 

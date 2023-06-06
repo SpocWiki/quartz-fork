@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Strumica](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Strumica.md) 
-- [Strumica.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Strumica.internal.md) 
-- [Strumica.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Strumica.protect.md) 
-- [Strumica.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Strumica.private.md) 
-- [Strumica.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Strumica.personal.md) 
-- [Strumica.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Strumica.secret.md) 

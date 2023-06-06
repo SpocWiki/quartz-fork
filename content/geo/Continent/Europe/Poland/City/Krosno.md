@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krosno](../../../../../../_public/geo/Continent/Europe/Poland/City/Krosno.md) 
-- [Krosno.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Krosno.internal.md) 
-- [Krosno.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Krosno.protect.md) 
-- [Krosno.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Krosno.private.md) 
-- [Krosno.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Krosno.personal.md) 
-- [Krosno.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Krosno.secret.md) 

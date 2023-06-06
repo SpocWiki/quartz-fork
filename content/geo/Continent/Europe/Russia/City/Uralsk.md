@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Uralsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Uralsk.md) 
-- [Uralsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Uralsk.internal.md) 
-- [Uralsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Uralsk.protect.md) 
-- [Uralsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Uralsk.private.md) 
-- [Uralsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Uralsk.personal.md) 
-- [Uralsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Uralsk.secret.md) 

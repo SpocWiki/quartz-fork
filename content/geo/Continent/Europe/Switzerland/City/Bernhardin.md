@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bernhardin](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bernhardin.md) 
-- [Bernhardin.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bernhardin.internal.md) 
-- [Bernhardin.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bernhardin.protect.md) 
-- [Bernhardin.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bernhardin.private.md) 
-- [Bernhardin.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bernhardin.personal.md) 
-- [Bernhardin.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bernhardin.secret.md) 

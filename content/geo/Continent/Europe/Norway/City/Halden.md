@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Halden](../../../../../../_public/geo/Continent/Europe/Norway/City/Halden.md) 
-- [Halden.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Halden.internal.md) 
-- [Halden.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Halden.protect.md) 
-- [Halden.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Halden.private.md) 
-- [Halden.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Halden.personal.md) 
-- [Halden.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Halden.secret.md) 

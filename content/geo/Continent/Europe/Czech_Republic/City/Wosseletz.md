@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wosseletz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Wosseletz.md) 
-- [Wosseletz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Wosseletz.internal.md) 
-- [Wosseletz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Wosseletz.protect.md) 
-- [Wosseletz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Wosseletz.private.md) 
-- [Wosseletz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Wosseletz.personal.md) 
-- [Wosseletz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Wosseletz.secret.md) 

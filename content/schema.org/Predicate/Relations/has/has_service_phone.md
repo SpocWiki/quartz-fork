@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_service_phone](../../../../../_public/schema.org/Predicate/Relations/has/has_service_phone.md) 
-- [has_service_phone.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_service_phone.internal.md) 
-- [has_service_phone.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_service_phone.protect.md) 
-- [has_service_phone.private](../../../../../_private/schema.org/Predicate/Relations/has/has_service_phone.private.md) 
-- [has_service_phone.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_service_phone.personal.md) 
-- [has_service_phone.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_service_phone.secret.md) 

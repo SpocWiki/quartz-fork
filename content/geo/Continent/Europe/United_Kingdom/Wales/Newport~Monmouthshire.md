@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Newport~Monmouthshire](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.md) 
-- [Newport~Monmouthshire.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.internal.md) 
-- [Newport~Monmouthshire.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.protect.md) 
-- [Newport~Monmouthshire.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.private.md) 
-- [Newport~Monmouthshire.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.personal.md) 
-- [Newport~Monmouthshire.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Newport~Monmouthshire.secret.md) 

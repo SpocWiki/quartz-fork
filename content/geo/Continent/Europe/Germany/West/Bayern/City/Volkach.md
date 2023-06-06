@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Volkach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.md) 
-- [Volkach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.internal.md) 
-- [Volkach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.protect.md) 
-- [Volkach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.private.md) 
-- [Volkach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.personal.md) 
-- [Volkach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.secret.md) 

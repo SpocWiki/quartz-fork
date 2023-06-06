@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Paldiski](../../../../../../_public/geo/Continent/Europe/Russia/City/Paldiski.md) 
-- [Paldiski.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Paldiski.internal.md) 
-- [Paldiski.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Paldiski.protect.md) 
-- [Paldiski.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Paldiski.private.md) 
-- [Paldiski.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Paldiski.personal.md) 
-- [Paldiski.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Paldiski.secret.md) 

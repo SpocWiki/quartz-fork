@@ -34,10 +34,3 @@ title: Curium
 
 
 
-## Confidential Links & Embeds: 
-- [Curium](../../../../_public/chemic/Elements/Actinide-Group/Curium.md) 
-- [Curium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Curium.internal.md) 
-- [Curium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Curium.protect.md) 
-- [Curium.private](../../../../_private/chemic/Elements/Actinide-Group/Curium.private.md) 
-- [Curium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Curium.personal.md) 
-- [Curium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Curium.secret.md) 

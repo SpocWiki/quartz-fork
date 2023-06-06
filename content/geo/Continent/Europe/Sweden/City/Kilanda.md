@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kilanda](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kilanda.md) 
-- [Kilanda.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kilanda.internal.md) 
-- [Kilanda.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kilanda.protect.md) 
-- [Kilanda.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kilanda.private.md) 
-- [Kilanda.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kilanda.personal.md) 
-- [Kilanda.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kilanda.secret.md) 

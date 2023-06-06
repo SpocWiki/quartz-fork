@@ -19,10 +19,3 @@ title: Triz-Stability+Feedback-stationary_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Feedback-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-Stability+Feedback-stationary_Duration.md) 
-- [Triz-Stability+Feedback-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Feedback-stationary_Duration.internal.md) 
-- [Triz-Stability+Feedback-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Feedback-stationary_Duration.protect.md) 
-- [Triz-Stability+Feedback-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Feedback-stationary_Duration.private.md) 
-- [Triz-Stability+Feedback-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Feedback-stationary_Duration.personal.md) 
-- [Triz-Stability+Feedback-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Feedback-stationary_Duration.secret.md) 

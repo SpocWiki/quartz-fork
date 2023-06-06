@@ -47,10 +47,3 @@ Relation describes that:
 [is_inverse_of](schema.org/Predicate/Relations/is_inverse_of.md)
 
 
-## Confidential Links & Embeds: 
-- [has_performer](../../../../../_public/schema.org/Predicate/Relations/has/has_performer.md) 
-- [has_performer.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_performer.internal.md) 
-- [has_performer.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_performer.protect.md) 
-- [has_performer.private](../../../../../_private/schema.org/Predicate/Relations/has/has_performer.private.md) 
-- [has_performer.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_performer.personal.md) 
-- [has_performer.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_performer.secret.md) 

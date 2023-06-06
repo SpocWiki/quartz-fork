@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Espalion](../../../../../../_public/geo/Continent/Europe/France/City/Espalion.md) 
-- [Espalion.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Espalion.internal.md) 
-- [Espalion.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Espalion.protect.md) 
-- [Espalion.private](../../../../../../_private/geo/Continent/Europe/France/City/Espalion.private.md) 
-- [Espalion.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Espalion.personal.md) 
-- [Espalion.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Espalion.secret.md) 

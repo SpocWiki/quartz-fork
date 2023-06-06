@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Giauzar](../../../_public/astro/Star/Giauzar.md) 
-- [Giauzar.internal](../../../_internal/astro/Star/Giauzar.internal.md) 
-- [Giauzar.protect](../../../_protect/astro/Star/Giauzar.protect.md) 
-- [Giauzar.private](../../../_private/astro/Star/Giauzar.private.md) 
-- [Giauzar.personal](../../../_personal/astro/Star/Giauzar.personal.md) 
-- [Giauzar.secret](../../../_secret/astro/Star/Giauzar.secret.md)
-

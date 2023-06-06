@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castries](../../../../../../_public/geo/Continent/South-America/Saint_Lucia/City/Castries.md) 
-- [Castries.internal](../../../../../../_internal/geo/Continent/South-America/Saint_Lucia/City/Castries.internal.md) 
-- [Castries.protect](../../../../../../_protect/geo/Continent/South-America/Saint_Lucia/City/Castries.protect.md) 
-- [Castries.private](../../../../../../_private/geo/Continent/South-America/Saint_Lucia/City/Castries.private.md) 
-- [Castries.personal](../../../../../../_personal/geo/Continent/South-America/Saint_Lucia/City/Castries.personal.md) 
-- [Castries.secret](../../../../../../_secret/geo/Continent/South-America/Saint_Lucia/City/Castries.secret.md) 

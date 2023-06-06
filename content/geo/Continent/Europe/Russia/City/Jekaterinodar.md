@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jekaterinodar](../../../../../../_public/geo/Continent/Europe/Russia/City/Jekaterinodar.md) 
-- [Jekaterinodar.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jekaterinodar.internal.md) 
-- [Jekaterinodar.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jekaterinodar.protect.md) 
-- [Jekaterinodar.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jekaterinodar.private.md) 
-- [Jekaterinodar.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jekaterinodar.personal.md) 
-- [Jekaterinodar.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jekaterinodar.secret.md) 

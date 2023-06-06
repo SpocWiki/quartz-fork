@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ansbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ansbach.md) 
-- [Ansbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ansbach.internal.md) 
-- [Ansbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ansbach.protect.md) 
-- [Ansbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ansbach.private.md) 
-- [Ansbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ansbach.personal.md) 
-- [Ansbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ansbach.secret.md) 

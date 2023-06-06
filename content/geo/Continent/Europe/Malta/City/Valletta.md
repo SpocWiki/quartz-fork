@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valletta](../../../../../../_public/geo/Continent/Europe/Malta/City/Valletta.md) 
-- [Valletta.internal](../../../../../../_internal/geo/Continent/Europe/Malta/City/Valletta.internal.md) 
-- [Valletta.protect](../../../../../../_protect/geo/Continent/Europe/Malta/City/Valletta.protect.md) 
-- [Valletta.private](../../../../../../_private/geo/Continent/Europe/Malta/City/Valletta.private.md) 
-- [Valletta.personal](../../../../../../_personal/geo/Continent/Europe/Malta/City/Valletta.personal.md) 
-- [Valletta.secret](../../../../../../_secret/geo/Continent/Europe/Malta/City/Valletta.secret.md) 

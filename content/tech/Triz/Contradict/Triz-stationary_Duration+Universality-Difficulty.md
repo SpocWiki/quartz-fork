@@ -19,10 +19,3 @@ title: Triz-stationary_Duration+Universality-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Duration+Universality-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.md) 
-- [Triz-stationary_Duration+Universality-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.internal.md) 
-- [Triz-stationary_Duration+Universality-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.protect.md) 
-- [Triz-stationary_Duration+Universality-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.private.md) 
-- [Triz-stationary_Duration+Universality-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.personal.md) 
-- [Triz-stationary_Duration+Universality-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Duration+Universality-Difficulty.secret.md) 

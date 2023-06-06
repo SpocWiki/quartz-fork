@@ -19,10 +19,3 @@ title: Triz-generated_harm+Extraction-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Extraction-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Energy.md) 
-- [Triz-generated_harm+Extraction-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Energy.internal.md) 
-- [Triz-generated_harm+Extraction-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Energy.protect.md) 
-- [Triz-generated_harm+Extraction-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Energy.private.md) 
-- [Triz-generated_harm+Extraction-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Energy.personal.md) 
-- [Triz-generated_harm+Extraction-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Extraction-moving_Energy.secret.md) 

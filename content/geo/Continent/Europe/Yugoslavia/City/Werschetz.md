@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Werschetz](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Werschetz.md) 
-- [Werschetz.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Werschetz.internal.md) 
-- [Werschetz.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Werschetz.protect.md) 
-- [Werschetz.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Werschetz.private.md) 
-- [Werschetz.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Werschetz.personal.md) 
-- [Werschetz.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Werschetz.secret.md) 

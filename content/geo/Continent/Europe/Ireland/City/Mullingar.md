@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mullingar](../../../../../../_public/geo/Continent/Europe/Ireland/City/Mullingar.md) 
-- [Mullingar.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Mullingar.internal.md) 
-- [Mullingar.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Mullingar.protect.md) 
-- [Mullingar.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Mullingar.private.md) 
-- [Mullingar.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Mullingar.personal.md) 
-- [Mullingar.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Mullingar.secret.md) 

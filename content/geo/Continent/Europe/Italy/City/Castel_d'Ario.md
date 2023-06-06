@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castel_d'Ario](../../../../../../_public/geo/Continent/Europe/Italy/City/Castel_d'Ario.md) 
-- [Castel_d'Ario.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Castel_d'Ario.internal.md) 
-- [Castel_d'Ario.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Castel_d'Ario.protect.md) 
-- [Castel_d'Ario.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Castel_d'Ario.private.md) 
-- [Castel_d'Ario.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Castel_d'Ario.personal.md) 
-- [Castel_d'Ario.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Castel_d'Ario.secret.md) 

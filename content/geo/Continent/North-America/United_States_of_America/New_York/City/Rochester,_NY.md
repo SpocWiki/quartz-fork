@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rochester,_NY](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.md) 
-- [Rochester,_NY.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.internal.md) 
-- [Rochester,_NY.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.protect.md) 
-- [Rochester,_NY.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.private.md) 
-- [Rochester,_NY.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.personal.md) 
-- [Rochester,_NY.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/Rochester,_NY.secret.md) 

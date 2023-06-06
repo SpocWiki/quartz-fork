@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Armagh](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.md) 
-- [Armagh.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.internal.md) 
-- [Armagh.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.protect.md) 
-- [Armagh.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.private.md) 
-- [Armagh.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.personal.md) 
-- [Armagh.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Armagh.secret.md) 

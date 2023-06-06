@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_work_hours](../../../../_public/schema.org/Predicate/Texts/has_work_hours.md) 
-- [has_work_hours.internal](../../../../_internal/schema.org/Predicate/Texts/has_work_hours.internal.md) 
-- [has_work_hours.protect](../../../../_protect/schema.org/Predicate/Texts/has_work_hours.protect.md) 
-- [has_work_hours.private](../../../../_private/schema.org/Predicate/Texts/has_work_hours.private.md) 
-- [has_work_hours.personal](../../../../_personal/schema.org/Predicate/Texts/has_work_hours.personal.md) 
-- [has_work_hours.secret](../../../../_secret/schema.org/Predicate/Texts/has_work_hours.secret.md) 

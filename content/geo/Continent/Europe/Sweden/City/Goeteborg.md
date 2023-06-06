@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goeteborg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Goeteborg.md) 
-- [Goeteborg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Goeteborg.internal.md) 
-- [Goeteborg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Goeteborg.protect.md) 
-- [Goeteborg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Goeteborg.private.md) 
-- [Goeteborg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Goeteborg.personal.md) 
-- [Goeteborg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Goeteborg.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Changing_the_color-moving_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Volume](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.internal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.protect.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.private.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.personal.md) 
-- [Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Changing_the_color-moving_Volume.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Raisting](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Raisting.md) 
-- [Raisting.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Raisting.internal.md) 
-- [Raisting.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Raisting.protect.md) 
-- [Raisting.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Raisting.private.md) 
-- [Raisting.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Raisting.personal.md) 
-- [Raisting.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Raisting.secret.md) 

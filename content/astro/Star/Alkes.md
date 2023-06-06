@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alkes](../../../_public/astro/Star/Alkes.md) 
-- [Alkes.internal](../../../_internal/astro/Star/Alkes.internal.md) 
-- [Alkes.protect](../../../_protect/astro/Star/Alkes.protect.md) 
-- [Alkes.private](../../../_private/astro/Star/Alkes.private.md) 
-- [Alkes.personal](../../../_personal/astro/Star/Alkes.personal.md) 
-- [Alkes.secret](../../../_secret/astro/Star/Alkes.secret.md)
-

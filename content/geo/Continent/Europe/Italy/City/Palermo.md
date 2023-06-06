@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palermo](../../../../../../_public/geo/Continent/Europe/Italy/City/Palermo.md) 
-- [Palermo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Palermo.internal.md) 
-- [Palermo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Palermo.protect.md) 
-- [Palermo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Palermo.private.md) 
-- [Palermo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Palermo.personal.md) 
-- [Palermo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Palermo.secret.md) 

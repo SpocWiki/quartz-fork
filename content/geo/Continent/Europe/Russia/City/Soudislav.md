@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soudislav](../../../../../../_public/geo/Continent/Europe/Russia/City/Soudislav.md) 
-- [Soudislav.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Soudislav.internal.md) 
-- [Soudislav.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Soudislav.protect.md) 
-- [Soudislav.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Soudislav.private.md) 
-- [Soudislav.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Soudislav.personal.md) 
-- [Soudislav.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Soudislav.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ketkowitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.md) 
-- [Ketkowitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.internal.md) 
-- [Ketkowitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.protect.md) 
-- [Ketkowitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.private.md) 
-- [Ketkowitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.personal.md) 
-- [Ketkowitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Ketkowitz.secret.md) 

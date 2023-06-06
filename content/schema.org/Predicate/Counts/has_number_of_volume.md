@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_volume](../../../../_public/schema.org/Predicate/Counts/has_number_of_volume.md) 
-- [has_number_of_volume.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_volume.internal.md) 
-- [has_number_of_volume.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_volume.protect.md) 
-- [has_number_of_volume.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_volume.private.md) 
-- [has_number_of_volume.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_volume.personal.md) 
-- [has_number_of_volume.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_volume.secret.md) 

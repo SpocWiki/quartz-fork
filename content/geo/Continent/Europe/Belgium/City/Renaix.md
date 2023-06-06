@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Renaix](../../../../../../_public/geo/Continent/Europe/Belgium/City/Renaix.md) 
-- [Renaix.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Renaix.internal.md) 
-- [Renaix.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Renaix.protect.md) 
-- [Renaix.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Renaix.private.md) 
-- [Renaix.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Renaix.personal.md) 
-- [Renaix.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Renaix.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Serrig](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Serrig.md) 
-- [Serrig.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Serrig.internal.md) 
-- [Serrig.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Serrig.protect.md) 
-- [Serrig.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Serrig.private.md) 
-- [Serrig.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Serrig.personal.md) 
-- [Serrig.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Serrig.secret.md) 

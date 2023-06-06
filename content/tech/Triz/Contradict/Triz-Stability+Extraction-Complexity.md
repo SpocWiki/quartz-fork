@@ -19,10 +19,3 @@ title: Triz-Stability+Extraction-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Extraction-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-Complexity.md) 
-- [Triz-Stability+Extraction-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-Complexity.internal.md) 
-- [Triz-Stability+Extraction-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-Complexity.protect.md) 
-- [Triz-Stability+Extraction-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-Complexity.private.md) 
-- [Triz-Stability+Extraction-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Extraction-Complexity.personal.md) 
-- [Triz-Stability+Extraction-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Extraction-Complexity.secret.md) 

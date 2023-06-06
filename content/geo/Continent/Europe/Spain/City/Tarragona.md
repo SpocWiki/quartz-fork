@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tarragona](../../../../../../_public/geo/Continent/Europe/Spain/City/Tarragona.md) 
-- [Tarragona.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Tarragona.internal.md) 
-- [Tarragona.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Tarragona.protect.md) 
-- [Tarragona.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Tarragona.private.md) 
-- [Tarragona.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Tarragona.personal.md) 
-- [Tarragona.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Tarragona.secret.md) 

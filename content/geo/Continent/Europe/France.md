@@ -126,7 +126,7 @@ markerFolder: ./France/City
 [Capital::[Paris](geo/Continent/Europe/France/City/Paris.md)]
 [Alcohol-l::13.7]
 ![350](geo/Continent/Europe/France/Arms_of_the_French_Republic.svg)
-![Anthem-France](xLarge/National-Anthem/Anthem-France.mp3)
+[Anthem-France](xLarge/National-Anthem/Anthem-France.mp3)
 ![350](geo/Continent/Europe/France/Flag_of_France.svg)
 [Language-Id::496]
 [geo-lon::2.33663]
@@ -134,10 +134,3 @@ markerFolder: ./France/City
 
 
 
-## Confidential Links & Embeds: 
-- [France](../../../../_public/geo/Continent/Europe/France.md) 
-- [France.internal](../../../../_internal/geo/Continent/Europe/France.internal.md) 
-- [France.protect](../../../../_protect/geo/Continent/Europe/France.protect.md) 
-- [France.private](../../../../_private/geo/Continent/Europe/France.private.md) 
-- [France.personal](../../../../_personal/geo/Continent/Europe/France.personal.md) 
-- [France.secret](../../../../_secret/geo/Continent/Europe/France.secret.md) 

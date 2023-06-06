@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Allenstein](../../../../../../_public/geo/Continent/Europe/Poland/City/Allenstein.md) 
-- [Allenstein.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Allenstein.internal.md) 
-- [Allenstein.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Allenstein.protect.md) 
-- [Allenstein.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Allenstein.private.md) 
-- [Allenstein.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Allenstein.personal.md) 
-- [Allenstein.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Allenstein.secret.md) 

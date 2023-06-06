@@ -36,10 +36,3 @@ SpocWebEntityId: 22000
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dubnium)
 
-## Confidential Links & Embeds: 
-- [Dubnium](../../../../_public/chemic/Elements/Group-05-Vanadium/Dubnium.md) 
-- [Dubnium.internal](../../../../_internal/chemic/Elements/Group-05-Vanadium/Dubnium.internal.md) 
-- [Dubnium.protect](../../../../_protect/chemic/Elements/Group-05-Vanadium/Dubnium.protect.md) 
-- [Dubnium.private](../../../../_private/chemic/Elements/Group-05-Vanadium/Dubnium.private.md) 
-- [Dubnium.personal](../../../../_personal/chemic/Elements/Group-05-Vanadium/Dubnium.personal.md) 
-- [Dubnium.secret](../../../../_secret/chemic/Elements/Group-05-Vanadium/Dubnium.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seiffersdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Seiffersdorf.md) 
-- [Seiffersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Seiffersdorf.internal.md) 
-- [Seiffersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Seiffersdorf.protect.md) 
-- [Seiffersdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Seiffersdorf.private.md) 
-- [Seiffersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Seiffersdorf.personal.md) 
-- [Seiffersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Seiffersdorf.secret.md) 

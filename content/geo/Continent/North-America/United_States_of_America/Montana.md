@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montana](../../../../../_public/geo/Continent/North-America/United_States_of_America/Montana.md) 
-- [Montana.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Montana.internal.md) 
-- [Montana.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Montana.protect.md) 
-- [Montana.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Montana.private.md) 
-- [Montana.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Montana.personal.md) 
-- [Montana.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Montana.secret.md) 

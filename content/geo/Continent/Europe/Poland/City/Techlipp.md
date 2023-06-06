@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Techlipp](../../../../../../_public/geo/Continent/Europe/Poland/City/Techlipp.md) 
-- [Techlipp.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Techlipp.internal.md) 
-- [Techlipp.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Techlipp.protect.md) 
-- [Techlipp.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Techlipp.private.md) 
-- [Techlipp.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Techlipp.personal.md) 
-- [Techlipp.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Techlipp.secret.md) 

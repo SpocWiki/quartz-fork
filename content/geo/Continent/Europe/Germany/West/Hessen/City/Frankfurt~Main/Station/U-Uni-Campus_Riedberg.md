@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Uni-Campus_Riedberg](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.md) 
-- [U-Uni-Campus_Riedberg.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.internal.md) 
-- [U-Uni-Campus_Riedberg.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.protect.md) 
-- [U-Uni-Campus_Riedberg.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.private.md) 
-- [U-Uni-Campus_Riedberg.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.personal.md) 
-- [U-Uni-Campus_Riedberg.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Uni-Campus_Riedberg.secret.md) 

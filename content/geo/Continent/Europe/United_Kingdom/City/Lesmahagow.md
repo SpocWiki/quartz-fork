@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lesmahagow](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.md) 
-- [Lesmahagow.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.internal.md) 
-- [Lesmahagow.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.protect.md) 
-- [Lesmahagow.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.private.md) 
-- [Lesmahagow.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.personal.md) 
-- [Lesmahagow.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lesmahagow.secret.md) 

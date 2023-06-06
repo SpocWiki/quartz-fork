@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saverne](../../../../../../_public/geo/Continent/Europe/France/City/Saverne.md) 
-- [Saverne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Saverne.internal.md) 
-- [Saverne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Saverne.protect.md) 
-- [Saverne.private](../../../../../../_private/geo/Continent/Europe/France/City/Saverne.private.md) 
-- [Saverne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Saverne.personal.md) 
-- [Saverne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Saverne.secret.md) 

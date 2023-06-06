@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_medical_audience](../../../../../_public/schema.org/Predicate/Relations/has/has_medical_audience.md) 
-- [has_medical_audience.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_medical_audience.internal.md) 
-- [has_medical_audience.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_medical_audience.protect.md) 
-- [has_medical_audience.private](../../../../../_private/schema.org/Predicate/Relations/has/has_medical_audience.private.md) 
-- [has_medical_audience.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_medical_audience.personal.md) 
-- [has_medical_audience.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_medical_audience.secret.md) 

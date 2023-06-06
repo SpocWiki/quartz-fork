@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Storlien](../../../../../../_public/geo/Continent/Europe/Sweden/City/Storlien.md) 
-- [Storlien.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Storlien.internal.md) 
-- [Storlien.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Storlien.protect.md) 
-- [Storlien.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Storlien.private.md) 
-- [Storlien.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Storlien.personal.md) 
-- [Storlien.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Storlien.secret.md) 

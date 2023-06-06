@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Rödermark-Ober_Roden](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%B6dermark-Ober_Roden.md) 
-- [S-Rödermark-Ober_Roden.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%B6dermark-Ober_Roden.internal.md) 
-- [S-Rödermark-Ober_Roden.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%B6dermark-Ober_Roden.protect.md) 
-- [S-Rödermark-Ober_Roden.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%B6dermark-Ober_Roden.private.md) 
-- [S-Rödermark-Ober_Roden.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%B6dermark-Ober_Roden.personal.md) 
-- [S-Rödermark-Ober_Roden.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-R%C3%B6dermark-Ober_Roden.secret.md) 

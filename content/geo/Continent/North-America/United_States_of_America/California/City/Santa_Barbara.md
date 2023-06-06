@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Santa_Barbara](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.md) 
-- [Santa_Barbara.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.internal.md) 
-- [Santa_Barbara.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.protect.md) 
-- [Santa_Barbara.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.private.md) 
-- [Santa_Barbara.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.personal.md) 
-- [Santa_Barbara.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/Santa_Barbara.secret.md) 

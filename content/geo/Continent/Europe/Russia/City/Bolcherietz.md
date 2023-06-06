@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bolcherietz](../../../../../../_public/geo/Continent/Europe/Russia/City/Bolcherietz.md) 
-- [Bolcherietz.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Bolcherietz.internal.md) 
-- [Bolcherietz.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Bolcherietz.protect.md) 
-- [Bolcherietz.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Bolcherietz.private.md) 
-- [Bolcherietz.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Bolcherietz.personal.md) 
-- [Bolcherietz.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Bolcherietz.secret.md) 

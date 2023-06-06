@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Inversion-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Inversion-Shape](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Shape.md) 
-- [Triz-Ease_of_manufacture+Inversion-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Shape.internal.md) 
-- [Triz-Ease_of_manufacture+Inversion-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Shape.protect.md) 
-- [Triz-Ease_of_manufacture+Inversion-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Shape.private.md) 
-- [Triz-Ease_of_manufacture+Inversion-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Shape.personal.md) 
-- [Triz-Ease_of_manufacture+Inversion-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Inversion-Shape.secret.md) 

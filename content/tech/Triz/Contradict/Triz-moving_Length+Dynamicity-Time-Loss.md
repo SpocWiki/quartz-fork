@@ -19,10 +19,3 @@ title: Triz-moving_Length+Dynamicity-Time-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Dynamicity-Time-Loss](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.md) 
-- [Triz-moving_Length+Dynamicity-Time-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.internal.md) 
-- [Triz-moving_Length+Dynamicity-Time-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.protect.md) 
-- [Triz-moving_Length+Dynamicity-Time-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.private.md) 
-- [Triz-moving_Length+Dynamicity-Time-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.personal.md) 
-- [Triz-moving_Length+Dynamicity-Time-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Dynamicity-Time-Loss.secret.md) 

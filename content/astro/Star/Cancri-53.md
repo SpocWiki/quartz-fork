@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Cancri-53](../../../_public/astro/Star/Cancri-53.md) 
-- [Cancri-53.internal](../../../_internal/astro/Star/Cancri-53.internal.md) 
-- [Cancri-53.protect](../../../_protect/astro/Star/Cancri-53.protect.md) 
-- [Cancri-53.private](../../../_private/astro/Star/Cancri-53.private.md) 
-- [Cancri-53.personal](../../../_personal/astro/Star/Cancri-53.personal.md) 
-- [Cancri-53.secret](../../../_secret/astro/Star/Cancri-53.secret.md)
-

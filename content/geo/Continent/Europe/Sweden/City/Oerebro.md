@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oerebro](../../../../../../_public/geo/Continent/Europe/Sweden/City/Oerebro.md) 
-- [Oerebro.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Oerebro.internal.md) 
-- [Oerebro.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Oerebro.protect.md) 
-- [Oerebro.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Oerebro.private.md) 
-- [Oerebro.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Oerebro.personal.md) 
-- [Oerebro.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Oerebro.secret.md) 

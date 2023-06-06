@@ -19,10 +19,3 @@ title: Triz-moving_Energy+Copying-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy+Copying-Intensity](../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Copying-Intensity.md) 
-- [Triz-moving_Energy+Copying-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Copying-Intensity.internal.md) 
-- [Triz-moving_Energy+Copying-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Copying-Intensity.protect.md) 
-- [Triz-moving_Energy+Copying-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Copying-Intensity.private.md) 
-- [Triz-moving_Energy+Copying-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Copying-Intensity.personal.md) 
-- [Triz-moving_Energy+Copying-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Copying-Intensity.secret.md) 

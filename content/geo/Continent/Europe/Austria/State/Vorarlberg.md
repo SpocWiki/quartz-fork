@@ -27,10 +27,3 @@ markerFolder: ./Vorarlberg/City
 
 
 
-## Confidential Links & Embeds: 
-- [Vorarlberg](../../../../../../_public/geo/Continent/Europe/Austria/State/Vorarlberg.md) 
-- [Vorarlberg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/State/Vorarlberg.internal.md) 
-- [Vorarlberg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/State/Vorarlberg.protect.md) 
-- [Vorarlberg.private](../../../../../../_private/geo/Continent/Europe/Austria/State/Vorarlberg.private.md) 
-- [Vorarlberg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/State/Vorarlberg.personal.md) 
-- [Vorarlberg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/State/Vorarlberg.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Dynamicity-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Dynamicity-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.md) 
-- [Triz-Substance-Loss+Dynamicity-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.internal.md) 
-- [Triz-Substance-Loss+Dynamicity-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.protect.md) 
-- [Triz-Substance-Loss+Dynamicity-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.private.md) 
-- [Triz-Substance-Loss+Dynamicity-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.personal.md) 
-- [Triz-Substance-Loss+Dynamicity-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Intensity.secret.md) 

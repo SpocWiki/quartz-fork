@@ -120,7 +120,7 @@ markerFolder: ./Bahamas/City
 [VehicleCode::BS]
 [Capital::[Nassau](geo/Continent/South-America/Bahamas/City/Nassau.md)]
 ![350](Coat_of_arms_of_Bahamas.svg)
-![Anthem-Bahamas](xLarge/National-Anthem/Anthem-Bahamas.mp3)
+[Anthem-Bahamas](xLarge/National-Anthem/Anthem-Bahamas.mp3)
 ![350](Flag_of_Bahamas.svg)
 [Alcohol-l::8.8]
 [Language-Id::499]
@@ -129,10 +129,3 @@ markerFolder: ./Bahamas/City
 
 
 
-## Confidential Links & Embeds: 
-- [Bahamas](../../../../_public/geo/Continent/South-America/Bahamas.md) 
-- [Bahamas.internal](../../../../_internal/geo/Continent/South-America/Bahamas.internal.md) 
-- [Bahamas.protect](../../../../_protect/geo/Continent/South-America/Bahamas.protect.md) 
-- [Bahamas.private](../../../../_private/geo/Continent/South-America/Bahamas.private.md) 
-- [Bahamas.personal](../../../../_personal/geo/Continent/South-America/Bahamas.personal.md) 
-- [Bahamas.secret](../../../../_secret/geo/Continent/South-America/Bahamas.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-10307+22224-stationary_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22224-stationary_Length](../../../../_public/tech/Triz/Contradict/Triz-10307+22224-stationary_Length.md) 
-- [Triz-10307+22224-stationary_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22224-stationary_Length.internal.md) 
-- [Triz-10307+22224-stationary_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22224-stationary_Length.protect.md) 
-- [Triz-10307+22224-stationary_Length.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22224-stationary_Length.private.md) 
-- [Triz-10307+22224-stationary_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22224-stationary_Length.personal.md) 
-- [Triz-10307+22224-stationary_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22224-stationary_Length.secret.md) 

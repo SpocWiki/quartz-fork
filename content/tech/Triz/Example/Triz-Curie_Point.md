@@ -17,10 +17,3 @@ title: Triz-Curie_Point
 
 Raise the Temperature above the Curie Point to change a ferromagnetic Substance to a paramagnetic Substance.
 
-## Confidential Links & Embeds: 
-- [Triz-Curie_Point](../../../../_public/tech/Triz/Example/Triz-Curie_Point.md) 
-- [Triz-Curie_Point.internal](../../../../_internal/tech/Triz/Example/Triz-Curie_Point.internal.md) 
-- [Triz-Curie_Point.protect](../../../../_protect/tech/Triz/Example/Triz-Curie_Point.protect.md) 
-- [Triz-Curie_Point.private](../../../../_private/tech/Triz/Example/Triz-Curie_Point.private.md) 
-- [Triz-Curie_Point.personal](../../../../_personal/tech/Triz/Example/Triz-Curie_Point.personal.md) 
-- [Triz-Curie_Point.secret](../../../../_secret/tech/Triz/Example/Triz-Curie_Point.secret.md) 

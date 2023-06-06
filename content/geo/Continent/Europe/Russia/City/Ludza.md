@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ludza](../../../../../../_public/geo/Continent/Europe/Russia/City/Ludza.md) 
-- [Ludza.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ludza.internal.md) 
-- [Ludza.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ludza.protect.md) 
-- [Ludza.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ludza.private.md) 
-- [Ludza.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ludza.personal.md) 
-- [Ludza.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ludza.secret.md) 

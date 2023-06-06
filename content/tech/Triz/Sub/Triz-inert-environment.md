@@ -18,10 +18,3 @@ title: Triz-inert-environment
 Replace a normal environment with an inert one.
 
 
-## Confidential Links & Embeds: 
-- [Triz-inert-environment](../../../../_public/tech/Triz/Sub/Triz-inert-environment.md) 
-- [Triz-inert-environment.internal](../../../../_internal/tech/Triz/Sub/Triz-inert-environment.internal.md) 
-- [Triz-inert-environment.protect](../../../../_protect/tech/Triz/Sub/Triz-inert-environment.protect.md) 
-- [Triz-inert-environment.private](../../../../_private/tech/Triz/Sub/Triz-inert-environment.private.md) 
-- [Triz-inert-environment.personal](../../../../_personal/tech/Triz/Sub/Triz-inert-environment.personal.md) 
-- [Triz-inert-environment.secret](../../../../_secret/tech/Triz/Sub/Triz-inert-environment.secret.md) 

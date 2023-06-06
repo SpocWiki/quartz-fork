@@ -43,10 +43,3 @@ A shopping center or mall.
 
 
 
-## Confidential Links & Embeds: 
-- [shopping_center](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/shopping_center.md) 
-- [shopping_center.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/shopping_center.internal.md) 
-- [shopping_center.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/shopping_center.protect.md) 
-- [shopping_center.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/shopping_center.private.md) 
-- [shopping_center.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/shopping_center.personal.md) 
-- [shopping_center.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/shopping_center.secret.md) 

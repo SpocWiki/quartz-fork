@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soltau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.md) 
-- [Soltau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.internal.md) 
-- [Soltau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.protect.md) 
-- [Soltau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.private.md) 
-- [Soltau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.personal.md) 
-- [Soltau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Soltau.secret.md) 

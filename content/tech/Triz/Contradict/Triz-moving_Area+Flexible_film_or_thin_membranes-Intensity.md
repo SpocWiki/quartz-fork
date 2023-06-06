@@ -19,10 +19,3 @@ title: Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.md) 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.internal.md) 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.protect.md) 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.private.md) 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.personal.md) 
-- [Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Flexible_film_or_thin_membranes-Intensity.secret.md) 

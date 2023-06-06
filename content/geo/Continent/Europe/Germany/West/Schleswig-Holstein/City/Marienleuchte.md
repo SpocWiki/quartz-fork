@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marienleuchte](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Marienleuchte.md) 
-- [Marienleuchte.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Marienleuchte.internal.md) 
-- [Marienleuchte.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Marienleuchte.protect.md) 
-- [Marienleuchte.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Marienleuchte.private.md) 
-- [Marienleuchte.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Marienleuchte.personal.md) 
-- [Marienleuchte.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Marienleuchte.secret.md) 

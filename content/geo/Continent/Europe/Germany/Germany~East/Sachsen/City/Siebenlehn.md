@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siebenlehn](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Siebenlehn.md) 
-- [Siebenlehn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Siebenlehn.internal.md) 
-- [Siebenlehn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Siebenlehn.protect.md) 
-- [Siebenlehn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Siebenlehn.private.md) 
-- [Siebenlehn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Siebenlehn.personal.md) 
-- [Siebenlehn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Siebenlehn.secret.md) 

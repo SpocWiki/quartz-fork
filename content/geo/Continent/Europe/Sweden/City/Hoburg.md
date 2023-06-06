@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoburg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Hoburg.md) 
-- [Hoburg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hoburg.internal.md) 
-- [Hoburg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hoburg.protect.md) 
-- [Hoburg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Hoburg.private.md) 
-- [Hoburg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hoburg.personal.md) 
-- [Hoburg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hoburg.secret.md) 

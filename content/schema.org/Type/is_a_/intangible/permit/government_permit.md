@@ -43,10 +43,3 @@ A permit issued by a government agency.
 
 
 
-## Confidential Links & Embeds: 
-- [government_permit](../../../../../../_public/schema.org/Type/is_a_/intangible/permit/government_permit.md) 
-- [government_permit.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/permit/government_permit.internal.md) 
-- [government_permit.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/permit/government_permit.protect.md) 
-- [government_permit.private](../../../../../../_private/schema.org/Type/is_a_/intangible/permit/government_permit.private.md) 
-- [government_permit.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/permit/government_permit.personal.md) 
-- [government_permit.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/permit/government_permit.secret.md) 

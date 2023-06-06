@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jumet](../../../../../../_public/geo/Continent/Europe/Belgium/City/Jumet.md) 
-- [Jumet.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Jumet.internal.md) 
-- [Jumet.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Jumet.protect.md) 
-- [Jumet.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Jumet.private.md) 
-- [Jumet.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Jumet.personal.md) 
-- [Jumet.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Jumet.secret.md) 

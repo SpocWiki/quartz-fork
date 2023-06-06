@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Universality-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Universality-Temperature](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.md) 
-- [Triz-stationary_Volume+Universality-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.internal.md) 
-- [Triz-stationary_Volume+Universality-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.protect.md) 
-- [Triz-stationary_Volume+Universality-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.private.md) 
-- [Triz-stationary_Volume+Universality-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.personal.md) 
-- [Triz-stationary_Volume+Universality-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Universality-Temperature.secret.md) 

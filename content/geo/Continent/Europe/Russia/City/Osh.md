@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Osh](../../../../../../_public/geo/Continent/Europe/Russia/City/Osh.md) 
-- [Osh.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Osh.internal.md) 
-- [Osh.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Osh.protect.md) 
-- [Osh.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Osh.private.md) 
-- [Osh.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Osh.personal.md) 
-- [Osh.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Osh.secret.md) 

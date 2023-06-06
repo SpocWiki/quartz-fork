@@ -19,10 +19,3 @@ title: Triz-Stability+Flexible_film_or_thin_membranes-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Flexible_film_or_thin_membranes-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.md) 
-- [Triz-Stability+Flexible_film_or_thin_membranes-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.internal.md) 
-- [Triz-Stability+Flexible_film_or_thin_membranes-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.protect.md) 
-- [Triz-Stability+Flexible_film_or_thin_membranes-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.private.md) 
-- [Triz-Stability+Flexible_film_or_thin_membranes-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.personal.md) 
-- [Triz-Stability+Flexible_film_or_thin_membranes-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-Versatility.secret.md) 

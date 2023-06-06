@@ -34,10 +34,3 @@ title: Neptunium
 
 
 
-## Confidential Links & Embeds: 
-- [Neptunium](../../../../_public/chemic/Elements/Actinide-Group/Neptunium.md) 
-- [Neptunium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Neptunium.internal.md) 
-- [Neptunium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Neptunium.protect.md) 
-- [Neptunium.private](../../../../_private/chemic/Elements/Actinide-Group/Neptunium.private.md) 
-- [Neptunium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Neptunium.personal.md) 
-- [Neptunium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Neptunium.secret.md) 

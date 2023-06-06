@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lichtensteig](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lichtensteig.md) 
-- [Lichtensteig.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lichtensteig.internal.md) 
-- [Lichtensteig.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lichtensteig.protect.md) 
-- [Lichtensteig.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lichtensteig.private.md) 
-- [Lichtensteig.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lichtensteig.personal.md) 
-- [Lichtensteig.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lichtensteig.secret.md) 

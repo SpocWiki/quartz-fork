@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wapakoneta](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.md) 
-- [Wapakoneta.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.internal.md) 
-- [Wapakoneta.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.protect.md) 
-- [Wapakoneta.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.private.md) 
-- [Wapakoneta.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.personal.md) 
-- [Wapakoneta.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Ohio/City/Wapakoneta.secret.md) 

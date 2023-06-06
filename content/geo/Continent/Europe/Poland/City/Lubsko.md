@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lubsko](../../../../../../_public/geo/Continent/Europe/Poland/City/Lubsko.md) 
-- [Lubsko.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lubsko.internal.md) 
-- [Lubsko.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lubsko.protect.md) 
-- [Lubsko.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lubsko.private.md) 
-- [Lubsko.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lubsko.personal.md) 
-- [Lubsko.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lubsko.secret.md) 

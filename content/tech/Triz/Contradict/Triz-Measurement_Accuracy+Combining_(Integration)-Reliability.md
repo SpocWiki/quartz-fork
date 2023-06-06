@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Combining_(Integration)-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Combining_(Integration)-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.md) 
-- [Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.internal.md) 
-- [Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.protect.md) 
-- [Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.private.md) 
-- [Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.personal.md) 
-- [Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Combining_(Integration)-Reliability.secret.md) 

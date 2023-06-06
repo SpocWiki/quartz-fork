@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Khankendy](../../../../../../_public/geo/Continent/Europe/Russia/City/Khankendy.md) 
-- [Khankendy.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Khankendy.internal.md) 
-- [Khankendy.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Khankendy.protect.md) 
-- [Khankendy.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Khankendy.private.md) 
-- [Khankendy.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Khankendy.personal.md) 
-- [Khankendy.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Khankendy.secret.md) 

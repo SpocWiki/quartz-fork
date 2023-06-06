@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ober-Traubling](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.md) 
-- [Ober-Traubling.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.internal.md) 
-- [Ober-Traubling.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.protect.md) 
-- [Ober-Traubling.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.private.md) 
-- [Ober-Traubling.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.personal.md) 
-- [Ober-Traubling.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.secret.md) 

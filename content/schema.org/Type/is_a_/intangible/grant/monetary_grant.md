@@ -45,10 +45,3 @@ A monetary grant.
 
 
 
-## Confidential Links & Embeds: 
-- [monetary_grant](../../../../../../_public/schema.org/Type/is_a_/intangible/grant/monetary_grant.md) 
-- [monetary_grant.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/grant/monetary_grant.internal.md) 
-- [monetary_grant.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/grant/monetary_grant.protect.md) 
-- [monetary_grant.private](../../../../../../_private/schema.org/Type/is_a_/intangible/grant/monetary_grant.private.md) 
-- [monetary_grant.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/grant/monetary_grant.personal.md) 
-- [monetary_grant.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/grant/monetary_grant.secret.md) 

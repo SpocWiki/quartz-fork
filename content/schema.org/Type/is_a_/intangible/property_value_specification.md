@@ -43,10 +43,3 @@ A Property value specification.
 
 
 
-## Confidential Links & Embeds: 
-- [property_value_specification](../../../../../_public/schema.org/Type/is_a_/intangible/property_value_specification.md) 
-- [property_value_specification.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/property_value_specification.internal.md) 
-- [property_value_specification.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/property_value_specification.protect.md) 
-- [property_value_specification.private](../../../../../_private/schema.org/Type/is_a_/intangible/property_value_specification.private.md) 
-- [property_value_specification.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/property_value_specification.personal.md) 
-- [property_value_specification.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/property_value_specification.secret.md) 

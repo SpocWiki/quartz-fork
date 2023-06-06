@@ -45,10 +45,3 @@ Neck assessment with clinical examination.
 
 
 
-## Confidential Links & Embeds: 
-- [neck](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neck.md) 
-- [neck.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neck.internal.md) 
-- [neck.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neck.protect.md) 
-- [neck.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neck.private.md) 
-- [neck.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neck.personal.md) 
-- [neck.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neck.secret.md) 

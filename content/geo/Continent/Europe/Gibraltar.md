@@ -137,10 +137,3 @@ coordinates: [Gibraltar](geo/Continent/Europe/Gibraltar.md)
 
 
 
-## Confidential Links & Embeds: 
-- [Gibraltar](../../../../_public/geo/Continent/Europe/Gibraltar.md) 
-- [Gibraltar.internal](../../../../_internal/geo/Continent/Europe/Gibraltar.internal.md) 
-- [Gibraltar.protect](../../../../_protect/geo/Continent/Europe/Gibraltar.protect.md) 
-- [Gibraltar.private](../../../../_private/geo/Continent/Europe/Gibraltar.private.md) 
-- [Gibraltar.personal](../../../../_personal/geo/Continent/Europe/Gibraltar.personal.md) 
-- [Gibraltar.secret](../../../../_secret/geo/Continent/Europe/Gibraltar.secret.md) 

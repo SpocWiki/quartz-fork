@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freiburg](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Freiburg.md) 
-- [Freiburg.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Freiburg.internal.md) 
-- [Freiburg.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Freiburg.protect.md) 
-- [Freiburg.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Freiburg.private.md) 
-- [Freiburg.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Freiburg.personal.md) 
-- [Freiburg.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Freiburg.secret.md) 

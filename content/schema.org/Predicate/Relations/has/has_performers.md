@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_performers](../../../../../_public/schema.org/Predicate/Relations/has/has_performers.md) 
-- [has_performers.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_performers.internal.md) 
-- [has_performers.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_performers.protect.md) 
-- [has_performers.private](../../../../../_private/schema.org/Predicate/Relations/has/has_performers.private.md) 
-- [has_performers.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_performers.personal.md) 
-- [has_performers.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_performers.secret.md) 

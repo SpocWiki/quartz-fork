@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_body_type](../../../../../_public/schema.org/Predicate/Relations/has/has_body_type.md) 
-- [has_body_type.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_body_type.internal.md) 
-- [has_body_type.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_body_type.protect.md) 
-- [has_body_type.private](../../../../../_private/schema.org/Predicate/Relations/has/has_body_type.private.md) 
-- [has_body_type.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_body_type.personal.md) 
-- [has_body_type.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_body_type.secret.md) 

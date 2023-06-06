@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_early_prepayment_penalty](../../../../_public/schema.org/Predicate/Quantities/has_value_for_early_prepayment_penalty.md) 
-- [has_value_for_early_prepayment_penalty.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_early_prepayment_penalty.internal.md) 
-- [has_value_for_early_prepayment_penalty.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_early_prepayment_penalty.protect.md) 
-- [has_value_for_early_prepayment_penalty.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_early_prepayment_penalty.private.md) 
-- [has_value_for_early_prepayment_penalty.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_early_prepayment_penalty.personal.md) 
-- [has_value_for_early_prepayment_penalty.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_early_prepayment_penalty.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alytus](../../../../../../_public/geo/Continent/Europe/Russia/City/Alytus.md) 
-- [Alytus.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Alytus.internal.md) 
-- [Alytus.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Alytus.protect.md) 
-- [Alytus.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Alytus.private.md) 
-- [Alytus.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Alytus.personal.md) 
-- [Alytus.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Alytus.secret.md) 

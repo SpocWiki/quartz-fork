@@ -19,10 +19,3 @@ title: Triz-10307+22222-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22222-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.md) 
-- [Triz-10307+22222-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.internal.md) 
-- [Triz-10307+22222-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.protect.md) 
-- [Triz-10307+22222-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.private.md) 
-- [Triz-10307+22222-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.personal.md) 
-- [Triz-10307+22222-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22222-Substance-Loss.secret.md) 

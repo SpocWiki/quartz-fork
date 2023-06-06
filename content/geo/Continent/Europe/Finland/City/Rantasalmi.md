@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rantasalmi](../../../../../../_public/geo/Continent/Europe/Finland/City/Rantasalmi.md) 
-- [Rantasalmi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Rantasalmi.internal.md) 
-- [Rantasalmi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Rantasalmi.protect.md) 
-- [Rantasalmi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Rantasalmi.private.md) 
-- [Rantasalmi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Rantasalmi.personal.md) 
-- [Rantasalmi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Rantasalmi.secret.md) 

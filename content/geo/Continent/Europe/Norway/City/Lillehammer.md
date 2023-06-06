@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lillehammer](../../../../../../_public/geo/Continent/Europe/Norway/City/Lillehammer.md) 
-- [Lillehammer.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Lillehammer.internal.md) 
-- [Lillehammer.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Lillehammer.protect.md) 
-- [Lillehammer.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Lillehammer.private.md) 
-- [Lillehammer.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Lillehammer.personal.md) 
-- [Lillehammer.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Lillehammer.secret.md) 

@@ -45,10 +45,3 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 
 
-## Confidential Links & Embeds: 
-- [endocrine](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/endocrine.md) 
-- [endocrine.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/endocrine.internal.md) 
-- [endocrine.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/endocrine.protect.md) 
-- [endocrine.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/endocrine.private.md) 
-- [endocrine.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/endocrine.personal.md) 
-- [endocrine.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/endocrine.secret.md) 

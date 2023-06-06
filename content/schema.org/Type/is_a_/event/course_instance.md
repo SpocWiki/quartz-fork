@@ -43,10 +43,3 @@ An instance of a <a class="localLink" href="/Course">Course</a> which is distinc
 
 
 
-## Confidential Links & Embeds: 
-- [course_instance](../../../../../_public/schema.org/Type/is_a_/event/course_instance.md) 
-- [course_instance.internal](../../../../../_internal/schema.org/Type/is_a_/event/course_instance.internal.md) 
-- [course_instance.protect](../../../../../_protect/schema.org/Type/is_a_/event/course_instance.protect.md) 
-- [course_instance.private](../../../../../_private/schema.org/Type/is_a_/event/course_instance.private.md) 
-- [course_instance.personal](../../../../../_personal/schema.org/Type/is_a_/event/course_instance.personal.md) 
-- [course_instance.secret](../../../../../_secret/schema.org/Type/is_a_/event/course_instance.secret.md) 

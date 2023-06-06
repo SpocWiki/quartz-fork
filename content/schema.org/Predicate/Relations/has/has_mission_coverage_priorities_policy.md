@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_mission_coverage_priorities_policy](../../../../../_public/schema.org/Predicate/Relations/has/has_mission_coverage_priorities_policy.md) 
-- [has_mission_coverage_priorities_policy.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_mission_coverage_priorities_policy.internal.md) 
-- [has_mission_coverage_priorities_policy.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_mission_coverage_priorities_policy.protect.md) 
-- [has_mission_coverage_priorities_policy.private](../../../../../_private/schema.org/Predicate/Relations/has/has_mission_coverage_priorities_policy.private.md) 
-- [has_mission_coverage_priorities_policy.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_mission_coverage_priorities_policy.personal.md) 
-- [has_mission_coverage_priorities_policy.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_mission_coverage_priorities_policy.secret.md) 

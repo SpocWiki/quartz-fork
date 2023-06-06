@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Merksem](../../../../../../_public/geo/Continent/Europe/Belgium/City/Merksem.md) 
-- [Merksem.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Merksem.internal.md) 
-- [Merksem.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Merksem.protect.md) 
-- [Merksem.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Merksem.private.md) 
-- [Merksem.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Merksem.personal.md) 
-- [Merksem.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Merksem.secret.md) 

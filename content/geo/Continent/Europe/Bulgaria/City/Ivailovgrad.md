@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ivailovgrad](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.md) 
-- [Ivailovgrad.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.internal.md) 
-- [Ivailovgrad.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.protect.md) 
-- [Ivailovgrad.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.private.md) 
-- [Ivailovgrad.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.personal.md) 
-- [Ivailovgrad.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Ivailovgrad.secret.md) 

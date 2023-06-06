@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barfleur](../../../../../../_public/geo/Continent/Europe/France/City/Barfleur.md) 
-- [Barfleur.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Barfleur.internal.md) 
-- [Barfleur.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Barfleur.protect.md) 
-- [Barfleur.private](../../../../../../_private/geo/Continent/Europe/France/City/Barfleur.private.md) 
-- [Barfleur.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Barfleur.personal.md) 
-- [Barfleur.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Barfleur.secret.md) 

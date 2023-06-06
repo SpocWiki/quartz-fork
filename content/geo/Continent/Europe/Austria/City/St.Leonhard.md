@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Leonhard](../../../../../../_public/geo/Continent/Europe/Austria/City/St.Leonhard.md) 
-- [St.Leonhard.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/St.Leonhard.internal.md) 
-- [St.Leonhard.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/St.Leonhard.protect.md) 
-- [St.Leonhard.private](../../../../../../_private/geo/Continent/Europe/Austria/City/St.Leonhard.private.md) 
-- [St.Leonhard.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/St.Leonhard.personal.md) 
-- [St.Leonhard.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/St.Leonhard.secret.md) 

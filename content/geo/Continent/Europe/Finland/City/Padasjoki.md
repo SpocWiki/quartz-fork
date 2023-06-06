@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Padasjoki](../../../../../../_public/geo/Continent/Europe/Finland/City/Padasjoki.md) 
-- [Padasjoki.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Padasjoki.internal.md) 
-- [Padasjoki.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Padasjoki.protect.md) 
-- [Padasjoki.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Padasjoki.private.md) 
-- [Padasjoki.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Padasjoki.personal.md) 
-- [Padasjoki.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Padasjoki.secret.md) 

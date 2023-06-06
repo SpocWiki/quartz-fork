@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Segmentation-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Segmentation-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.internal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.protect.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.private.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.personal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Difficulty.secret.md) 

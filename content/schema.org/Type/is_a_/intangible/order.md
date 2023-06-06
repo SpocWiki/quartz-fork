@@ -43,10 +43,3 @@ An order is a confirmation of a transaction (a receipt), which can contain multi
 
 
 
-## Confidential Links & Embeds: 
-- [order](../../../../../_public/schema.org/Type/is_a_/intangible/order.md) 
-- [order.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/order.internal.md) 
-- [order.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/order.protect.md) 
-- [order.private](../../../../../_private/schema.org/Type/is_a_/intangible/order.private.md) 
-- [order.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/order.personal.md) 
-- [order.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/order.secret.md) 

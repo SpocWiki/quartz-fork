@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salsomaggiore](../../../../../../_public/geo/Continent/Europe/Italy/City/Salsomaggiore.md) 
-- [Salsomaggiore.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Salsomaggiore.internal.md) 
-- [Salsomaggiore.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Salsomaggiore.protect.md) 
-- [Salsomaggiore.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Salsomaggiore.private.md) 
-- [Salsomaggiore.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Salsomaggiore.personal.md) 
-- [Salsomaggiore.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Salsomaggiore.secret.md) 

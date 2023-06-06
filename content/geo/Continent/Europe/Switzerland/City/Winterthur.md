@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winterthur](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Winterthur.md) 
-- [Winterthur.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Winterthur.internal.md) 
-- [Winterthur.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Winterthur.protect.md) 
-- [Winterthur.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Winterthur.private.md) 
-- [Winterthur.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Winterthur.personal.md) 
-- [Winterthur.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Winterthur.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Birzai](../../../../../../_public/geo/Continent/Europe/Russia/City/Birzai.md) 
-- [Birzai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Birzai.internal.md) 
-- [Birzai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Birzai.protect.md) 
-- [Birzai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Birzai.private.md) 
-- [Birzai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Birzai.personal.md) 
-- [Birzai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Birzai.secret.md) 

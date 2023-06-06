@@ -43,10 +43,3 @@ A short TV program or a segment/part of a TV program.
 
 
 
-## Confidential Links & Embeds: 
-- [tv_clip](../../../../../../_public/schema.org/Type/is_a_/creative_work/clip/tv_clip.md) 
-- [tv_clip.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/clip/tv_clip.internal.md) 
-- [tv_clip.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/clip/tv_clip.protect.md) 
-- [tv_clip.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/clip/tv_clip.private.md) 
-- [tv_clip.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/clip/tv_clip.personal.md) 
-- [tv_clip.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/clip/tv_clip.secret.md) 

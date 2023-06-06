@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reims](../../../../../../_public/geo/Continent/Europe/France/City/Reims.md) 
-- [Reims.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Reims.internal.md) 
-- [Reims.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Reims.protect.md) 
-- [Reims.private](../../../../../../_private/geo/Continent/Europe/France/City/Reims.private.md) 
-- [Reims.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Reims.personal.md) 
-- [Reims.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Reims.secret.md) 

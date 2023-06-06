@@ -47,10 +47,3 @@ Indicates the usage of the car as a taxi.
 
 
 
-## Confidential Links & Embeds: 
-- [taxi_vehicle_usage](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.md) 
-- [taxi_vehicle_usage.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.internal.md) 
-- [taxi_vehicle_usage.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.protect.md) 
-- [taxi_vehicle_usage.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.private.md) 
-- [taxi_vehicle_usage.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.personal.md) 
-- [taxi_vehicle_usage.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.secret.md) 

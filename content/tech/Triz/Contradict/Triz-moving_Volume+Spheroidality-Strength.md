@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Spheroidality-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Spheroidality-Strength](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.md) 
-- [Triz-moving_Volume+Spheroidality-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.internal.md) 
-- [Triz-moving_Volume+Spheroidality-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.protect.md) 
-- [Triz-moving_Volume+Spheroidality-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.private.md) 
-- [Triz-moving_Volume+Spheroidality-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.personal.md) 
-- [Triz-moving_Volume+Spheroidality-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Spheroidality-Strength.secret.md) 

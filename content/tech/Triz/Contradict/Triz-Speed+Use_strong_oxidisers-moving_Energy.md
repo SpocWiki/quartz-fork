@@ -19,10 +19,3 @@ title: Triz-Speed+Use_strong_oxidisers-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Use_strong_oxidisers-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-moving_Energy.md) 
-- [Triz-Speed+Use_strong_oxidisers-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-moving_Energy.internal.md) 
-- [Triz-Speed+Use_strong_oxidisers-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-moving_Energy.protect.md) 
-- [Triz-Speed+Use_strong_oxidisers-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-moving_Energy.private.md) 
-- [Triz-Speed+Use_strong_oxidisers-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-moving_Energy.personal.md) 
-- [Triz-Speed+Use_strong_oxidisers-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Use_strong_oxidisers-moving_Energy.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Extraction-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Extraction-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.md) 
-- [Triz-Ease_of_repair+Extraction-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.internal.md) 
-- [Triz-Ease_of_repair+Extraction-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.protect.md) 
-- [Triz-Ease_of_repair+Extraction-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.private.md) 
-- [Triz-Ease_of_repair+Extraction-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.personal.md) 
-- [Triz-Ease_of_repair+Extraction-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Extraction-Quantity.secret.md) 

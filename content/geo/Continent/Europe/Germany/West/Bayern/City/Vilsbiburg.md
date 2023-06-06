@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vilsbiburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.md) 
-- [Vilsbiburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.internal.md) 
-- [Vilsbiburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.protect.md) 
-- [Vilsbiburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.private.md) 
-- [Vilsbiburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.personal.md) 
-- [Vilsbiburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Vilsbiburg.secret.md) 

@@ -351,10 +351,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_North-America-CityDB](../../../../_public/geo/Continent/North-America/_North-America-CityDB.md) 
-- [_North-America-CityDB.internal](../../../../_internal/geo/Continent/North-America/_North-America-CityDB.internal.md) 
-- [_North-America-CityDB.protect](../../../../_protect/geo/Continent/North-America/_North-America-CityDB.protect.md) 
-- [_North-America-CityDB.private](../../../../_private/geo/Continent/North-America/_North-America-CityDB.private.md) 
-- [_North-America-CityDB.personal](../../../../_personal/geo/Continent/North-America/_North-America-CityDB.personal.md) 
-- [_North-America-CityDB.secret](../../../../_secret/geo/Continent/North-America/_North-America-CityDB.secret.md) 

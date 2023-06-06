@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Slobodskai](../../../../../../_public/geo/Continent/Europe/Russia/City/Slobodskai.md) 
-- [Slobodskai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Slobodskai.internal.md) 
-- [Slobodskai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Slobodskai.protect.md) 
-- [Slobodskai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Slobodskai.private.md) 
-- [Slobodskai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Slobodskai.personal.md) 
-- [Slobodskai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Slobodskai.secret.md) 

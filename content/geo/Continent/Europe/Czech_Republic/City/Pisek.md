@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pisek](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pisek.md) 
-- [Pisek.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pisek.internal.md) 
-- [Pisek.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pisek.protect.md) 
-- [Pisek.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pisek.private.md) 
-- [Pisek.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pisek.personal.md) 
-- [Pisek.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pisek.secret.md) 

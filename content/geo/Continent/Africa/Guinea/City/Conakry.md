@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Conakry](../../../../../../_public/geo/Continent/Africa/Guinea/City/Conakry.md) 
-- [Conakry.internal](../../../../../../_internal/geo/Continent/Africa/Guinea/City/Conakry.internal.md) 
-- [Conakry.protect](../../../../../../_protect/geo/Continent/Africa/Guinea/City/Conakry.protect.md) 
-- [Conakry.private](../../../../../../_private/geo/Continent/Africa/Guinea/City/Conakry.private.md) 
-- [Conakry.personal](../../../../../../_personal/geo/Continent/Africa/Guinea/City/Conakry.personal.md) 
-- [Conakry.secret](../../../../../../_secret/geo/Continent/Africa/Guinea/City/Conakry.secret.md) 

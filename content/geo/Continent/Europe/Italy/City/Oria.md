@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oria](../../../../../../_public/geo/Continent/Europe/Italy/City/Oria.md) 
-- [Oria.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Oria.internal.md) 
-- [Oria.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Oria.protect.md) 
-- [Oria.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Oria.private.md) 
-- [Oria.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Oria.personal.md) 
-- [Oria.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Oria.secret.md) 

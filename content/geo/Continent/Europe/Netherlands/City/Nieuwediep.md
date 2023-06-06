@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nieuwediep](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Nieuwediep.md) 
-- [Nieuwediep.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Nieuwediep.internal.md) 
-- [Nieuwediep.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Nieuwediep.protect.md) 
-- [Nieuwediep.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Nieuwediep.private.md) 
-- [Nieuwediep.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Nieuwediep.personal.md) 
-- [Nieuwediep.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Nieuwediep.secret.md) 

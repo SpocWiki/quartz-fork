@@ -43,10 +43,3 @@ A brand is a name used by an organization or business person for labeling a prod
 
 
 
-## Confidential Links & Embeds: 
-- [brand](../../../../../_public/schema.org/Type/is_a_/intangible/brand.md) 
-- [brand.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/brand.internal.md) 
-- [brand.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/brand.protect.md) 
-- [brand.private](../../../../../_private/schema.org/Type/is_a_/intangible/brand.private.md) 
-- [brand.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/brand.personal.md) 
-- [brand.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/brand.secret.md) 

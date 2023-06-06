@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_loan_payment_frequency](../../../../_public/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.md) 
-- [has_value_for_loan_payment_frequency.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.internal.md) 
-- [has_value_for_loan_payment_frequency.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.protect.md) 
-- [has_value_for_loan_payment_frequency.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.private.md) 
-- [has_value_for_loan_payment_frequency.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.personal.md) 
-- [has_value_for_loan_payment_frequency.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.secret.md) 

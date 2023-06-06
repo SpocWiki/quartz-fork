@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gnesen](../../../../../../_public/geo/Continent/Europe/Poland/City/Gnesen.md) 
-- [Gnesen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gnesen.internal.md) 
-- [Gnesen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gnesen.protect.md) 
-- [Gnesen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gnesen.private.md) 
-- [Gnesen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gnesen.personal.md) 
-- [Gnesen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gnesen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tim](../../../../../../_public/geo/Continent/Europe/Russia/City/Tim.md) 
-- [Tim.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tim.internal.md) 
-- [Tim.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tim.protect.md) 
-- [Tim.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tim.private.md) 
-- [Tim.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tim.personal.md) 
-- [Tim.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tim.secret.md) 

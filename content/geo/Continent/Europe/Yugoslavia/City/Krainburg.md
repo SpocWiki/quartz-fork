@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krainburg](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Krainburg.md) 
-- [Krainburg.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Krainburg.internal.md) 
-- [Krainburg.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Krainburg.protect.md) 
-- [Krainburg.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Krainburg.private.md) 
-- [Krainburg.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Krainburg.personal.md) 
-- [Krainburg.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Krainburg.secret.md) 

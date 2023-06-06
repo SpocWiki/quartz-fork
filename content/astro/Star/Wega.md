@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Wega](../../../_public/astro/Star/Wega.md) 
-- [Wega.internal](../../../_internal/astro/Star/Wega.internal.md) 
-- [Wega.protect](../../../_protect/astro/Star/Wega.protect.md) 
-- [Wega.private](../../../_private/astro/Star/Wega.private.md) 
-- [Wega.personal](../../../_personal/astro/Star/Wega.personal.md) 
-- [Wega.secret](../../../_secret/astro/Star/Wega.secret.md) 

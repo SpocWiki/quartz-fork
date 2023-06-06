@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Burnt_Oak](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Burnt_Oak.md) 
-- [Sub-Burnt_Oak.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Burnt_Oak.internal.md) 
-- [Sub-Burnt_Oak.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Burnt_Oak.protect.md) 
-- [Sub-Burnt_Oak.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Burnt_Oak.private.md) 
-- [Sub-Burnt_Oak.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Burnt_Oak.personal.md) 
-- [Sub-Burnt_Oak.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Burnt_Oak.secret.md) 

@@ -43,10 +43,3 @@ A store that sells reading glasses and similar devices for improving vision.
 
 
 
-## Confidential Links & Embeds: 
-- [optician](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/optician.md) 
-- [optician.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/optician.internal.md) 
-- [optician.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/optician.protect.md) 
-- [optician.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/optician.private.md) 
-- [optician.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/optician.personal.md) 
-- [optician.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/optician.secret.md) 

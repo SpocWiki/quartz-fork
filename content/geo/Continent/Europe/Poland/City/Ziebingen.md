@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ziebingen](../../../../../../_public/geo/Continent/Europe/Poland/City/Ziebingen.md) 
-- [Ziebingen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ziebingen.internal.md) 
-- [Ziebingen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ziebingen.protect.md) 
-- [Ziebingen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ziebingen.private.md) 
-- [Ziebingen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ziebingen.personal.md) 
-- [Ziebingen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ziebingen.secret.md) 

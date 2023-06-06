@@ -19,10 +19,3 @@ title: Triz-Difficulty+Homogeneity-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Homogeneity-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.md) 
-- [Triz-Difficulty+Homogeneity-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.internal.md) 
-- [Triz-Difficulty+Homogeneity-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.protect.md) 
-- [Triz-Difficulty+Homogeneity-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.private.md) 
-- [Triz-Difficulty+Homogeneity-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.personal.md) 
-- [Triz-Difficulty+Homogeneity-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Homogeneity-Information-Loss.secret.md) 

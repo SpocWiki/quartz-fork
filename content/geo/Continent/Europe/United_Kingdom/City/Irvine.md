@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Irvine](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Irvine.md) 
-- [Irvine.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Irvine.internal.md) 
-- [Irvine.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Irvine.protect.md) 
-- [Irvine.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Irvine.private.md) 
-- [Irvine.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Irvine.personal.md) 
-- [Irvine.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Irvine.secret.md) 

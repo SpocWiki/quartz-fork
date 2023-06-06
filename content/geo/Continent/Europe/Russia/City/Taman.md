@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taman](../../../../../../_public/geo/Continent/Europe/Russia/City/Taman.md) 
-- [Taman.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Taman.internal.md) 
-- [Taman.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Taman.protect.md) 
-- [Taman.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Taman.private.md) 
-- [Taman.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Taman.personal.md) 
-- [Taman.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Taman.secret.md) 

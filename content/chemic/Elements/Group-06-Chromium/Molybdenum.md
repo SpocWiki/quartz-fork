@@ -33,10 +33,3 @@ SpocWebEntityId: 21940
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Molybdenum)
 
-## Confidential Links & Embeds: 
-- [Molybdenum](../../../../_public/chemic/Elements/Group-06-Chromium/Molybdenum.md) 
-- [Molybdenum.internal](../../../../_internal/chemic/Elements/Group-06-Chromium/Molybdenum.internal.md) 
-- [Molybdenum.protect](../../../../_protect/chemic/Elements/Group-06-Chromium/Molybdenum.protect.md) 
-- [Molybdenum.private](../../../../_private/chemic/Elements/Group-06-Chromium/Molybdenum.private.md) 
-- [Molybdenum.personal](../../../../_personal/chemic/Elements/Group-06-Chromium/Molybdenum.personal.md) 
-- [Molybdenum.secret](../../../../_secret/chemic/Elements/Group-06-Chromium/Molybdenum.secret.md) 

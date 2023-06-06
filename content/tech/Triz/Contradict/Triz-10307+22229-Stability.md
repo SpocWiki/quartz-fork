@@ -19,10 +19,3 @@ title: Triz-10307+22229-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22229-Stability](../../../../_public/tech/Triz/Contradict/Triz-10307+22229-Stability.md) 
-- [Triz-10307+22229-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22229-Stability.internal.md) 
-- [Triz-10307+22229-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22229-Stability.protect.md) 
-- [Triz-10307+22229-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22229-Stability.private.md) 
-- [Triz-10307+22229-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22229-Stability.personal.md) 
-- [Triz-10307+22229-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22229-Stability.secret.md) 

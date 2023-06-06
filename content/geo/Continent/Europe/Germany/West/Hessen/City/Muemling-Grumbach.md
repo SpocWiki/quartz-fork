@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muemling-Grumbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Muemling-Grumbach.md) 
-- [Muemling-Grumbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Muemling-Grumbach.internal.md) 
-- [Muemling-Grumbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Muemling-Grumbach.protect.md) 
-- [Muemling-Grumbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Muemling-Grumbach.private.md) 
-- [Muemling-Grumbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Muemling-Grumbach.personal.md) 
-- [Muemling-Grumbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Muemling-Grumbach.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoechstaedt~Aisch](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.md) 
-- [Hoechstaedt~Aisch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.internal.md) 
-- [Hoechstaedt~Aisch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.protect.md) 
-- [Hoechstaedt~Aisch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.private.md) 
-- [Hoechstaedt~Aisch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.personal.md) 
-- [Hoechstaedt~Aisch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hoechstaedt~Aisch.secret.md) 

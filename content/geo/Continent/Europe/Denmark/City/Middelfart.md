@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Middelfart](../../../../../../_public/geo/Continent/Europe/Denmark/City/Middelfart.md) 
-- [Middelfart.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Middelfart.internal.md) 
-- [Middelfart.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Middelfart.protect.md) 
-- [Middelfart.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Middelfart.private.md) 
-- [Middelfart.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Middelfart.personal.md) 
-- [Middelfart.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Middelfart.secret.md) 

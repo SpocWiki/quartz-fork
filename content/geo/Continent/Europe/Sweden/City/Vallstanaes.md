@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vallstanaes](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vallstanaes.md) 
-- [Vallstanaes.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vallstanaes.internal.md) 
-- [Vallstanaes.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vallstanaes.protect.md) 
-- [Vallstanaes.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vallstanaes.private.md) 
-- [Vallstanaes.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vallstanaes.personal.md) 
-- [Vallstanaes.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vallstanaes.secret.md) 

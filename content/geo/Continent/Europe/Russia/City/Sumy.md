@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sumy](../../../../../../_public/geo/Continent/Europe/Russia/City/Sumy.md) 
-- [Sumy.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sumy.internal.md) 
-- [Sumy.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sumy.protect.md) 
-- [Sumy.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sumy.private.md) 
-- [Sumy.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sumy.personal.md) 
-- [Sumy.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sumy.secret.md) 

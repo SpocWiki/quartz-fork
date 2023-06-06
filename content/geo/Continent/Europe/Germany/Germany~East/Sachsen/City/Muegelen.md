@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muegelen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muegelen.md) 
-- [Muegelen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muegelen.internal.md) 
-- [Muegelen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muegelen.protect.md) 
-- [Muegelen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muegelen.private.md) 
-- [Muegelen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muegelen.personal.md) 
-- [Muegelen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muegelen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wenew](../../../../../../_public/geo/Continent/Europe/Russia/City/Wenew.md) 
-- [Wenew.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Wenew.internal.md) 
-- [Wenew.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Wenew.protect.md) 
-- [Wenew.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Wenew.private.md) 
-- [Wenew.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Wenew.personal.md) 
-- [Wenew.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Wenew.secret.md) 

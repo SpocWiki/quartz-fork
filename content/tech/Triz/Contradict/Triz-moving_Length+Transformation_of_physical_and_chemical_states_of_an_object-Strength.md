@@ -19,10 +19,3 @@ title: Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_o
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.md) 
-- [Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.internal.md) 
-- [Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.protect.md) 
-- [Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.private.md) 
-- [Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.personal.md) 
-- [Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Transformation_of_physical_and_chemical_states_of_an_object-Strength.secret.md) 

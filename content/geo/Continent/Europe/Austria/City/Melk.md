@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Melk](../../../../../../_public/geo/Continent/Europe/Austria/City/Melk.md) 
-- [Melk.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Melk.internal.md) 
-- [Melk.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Melk.protect.md) 
-- [Melk.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Melk.private.md) 
-- [Melk.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Melk.personal.md) 
-- [Melk.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Melk.secret.md) 

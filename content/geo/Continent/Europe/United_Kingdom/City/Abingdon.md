@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abingdon](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Abingdon.md) 
-- [Abingdon.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Abingdon.internal.md) 
-- [Abingdon.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Abingdon.protect.md) 
-- [Abingdon.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Abingdon.private.md) 
-- [Abingdon.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Abingdon.personal.md) 
-- [Abingdon.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Abingdon.secret.md) 

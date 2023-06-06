@@ -43,10 +43,3 @@ Season dedicated to radio broadcast and associated online delivery.
 
 
 
-## Confidential Links & Embeds: 
-- [radio_season](../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_season/radio_season.md) 
-- [radio_season.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_season/radio_season.internal.md) 
-- [radio_season.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_season/radio_season.protect.md) 
-- [radio_season.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_season/radio_season.private.md) 
-- [radio_season.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_season/radio_season.personal.md) 
-- [radio_season.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_season/radio_season.secret.md) 

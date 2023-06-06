@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Panemunis](../../../../../../_public/geo/Continent/Europe/Russia/City/Panemunis.md) 
-- [Panemunis.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Panemunis.internal.md) 
-- [Panemunis.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Panemunis.protect.md) 
-- [Panemunis.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Panemunis.private.md) 
-- [Panemunis.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Panemunis.personal.md) 
-- [Panemunis.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Panemunis.secret.md) 

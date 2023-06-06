@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trostberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Trostberg.md) 
-- [Trostberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Trostberg.internal.md) 
-- [Trostberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Trostberg.protect.md) 
-- [Trostberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Trostberg.private.md) 
-- [Trostberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Trostberg.personal.md) 
-- [Trostberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Trostberg.secret.md) 

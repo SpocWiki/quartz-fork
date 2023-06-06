@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Badajoz](../../../../../../_public/geo/Continent/Europe/Spain/City/Badajoz.md) 
-- [Badajoz.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Badajoz.internal.md) 
-- [Badajoz.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Badajoz.protect.md) 
-- [Badajoz.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Badajoz.private.md) 
-- [Badajoz.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Badajoz.personal.md) 
-- [Badajoz.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Badajoz.secret.md) 

@@ -125,7 +125,7 @@ markerFolder: ./Iceland/City
 [VehicleCode::IS]
 [Capital::[Reykjavik](geo/Continent/Europe/Iceland/City/Reykjavik.md)]
 ![350](geo/Continent/Europe/Iceland/Coat_of_arms_of_Iceland.svg)
-![Anthem-Iceland](xLarge/National-Anthem/Anthem-Iceland.mp3)
+[Anthem-Iceland](xLarge/National-Anthem/Anthem-Iceland.mp3)
 ![350](geo/Continent/Europe/Iceland/Flag_of_Iceland.svg)
 [Alcohol-l::6.3]
 [Language-Id::]
@@ -134,10 +134,3 @@ markerFolder: ./Iceland/City
 
 
 
-## Confidential Links & Embeds: 
-- [Iceland](../../../../_public/geo/Continent/Europe/Iceland.md) 
-- [Iceland.internal](../../../../_internal/geo/Continent/Europe/Iceland.internal.md) 
-- [Iceland.protect](../../../../_protect/geo/Continent/Europe/Iceland.protect.md) 
-- [Iceland.private](../../../../_private/geo/Continent/Europe/Iceland.private.md) 
-- [Iceland.personal](../../../../_personal/geo/Continent/Europe/Iceland.personal.md) 
-- [Iceland.secret](../../../../_secret/geo/Continent/Europe/Iceland.secret.md) 

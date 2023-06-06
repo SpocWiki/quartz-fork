@@ -50,10 +50,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_legislation_transpose_of](../../../../../_public/schema.org/Predicate/Relations/is/is_legislation_transpose_of.md) 
-- [is_legislation_transpose_of.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_transpose_of.internal.md) 
-- [is_legislation_transpose_of.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_legislation_transpose_of.protect.md) 
-- [is_legislation_transpose_of.private](../../../../../_private/schema.org/Predicate/Relations/is/is_legislation_transpose_of.private.md) 
-- [is_legislation_transpose_of.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_legislation_transpose_of.personal.md) 
-- [is_legislation_transpose_of.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_legislation_transpose_of.secret.md) 

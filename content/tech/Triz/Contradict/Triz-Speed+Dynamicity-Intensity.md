@@ -19,10 +19,3 @@ title: Triz-Speed+Dynamicity-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Dynamicity-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Speed+Dynamicity-Intensity.md) 
-- [Triz-Speed+Dynamicity-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Dynamicity-Intensity.internal.md) 
-- [Triz-Speed+Dynamicity-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Dynamicity-Intensity.protect.md) 
-- [Triz-Speed+Dynamicity-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Dynamicity-Intensity.private.md) 
-- [Triz-Speed+Dynamicity-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Dynamicity-Intensity.personal.md) 
-- [Triz-Speed+Dynamicity-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Dynamicity-Intensity.secret.md) 

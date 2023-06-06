@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pavia](../../../../../../_public/geo/Continent/Europe/Italy/City/Pavia.md) 
-- [Pavia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pavia.internal.md) 
-- [Pavia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pavia.protect.md) 
-- [Pavia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pavia.private.md) 
-- [Pavia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pavia.personal.md) 
-- [Pavia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pavia.secret.md) 

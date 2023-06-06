@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_frequency](../../../../_public/schema.org/Predicate/Texts/has_frequency.md) 
-- [has_frequency.internal](../../../../_internal/schema.org/Predicate/Texts/has_frequency.internal.md) 
-- [has_frequency.protect](../../../../_protect/schema.org/Predicate/Texts/has_frequency.protect.md) 
-- [has_frequency.private](../../../../_private/schema.org/Predicate/Texts/has_frequency.private.md) 
-- [has_frequency.personal](../../../../_personal/schema.org/Predicate/Texts/has_frequency.personal.md) 
-- [has_frequency.secret](../../../../_secret/schema.org/Predicate/Texts/has_frequency.secret.md) 

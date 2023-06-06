@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Solka](../../../../../../_public/geo/Continent/Europe/Romania/City/Solka.md) 
-- [Solka.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Solka.internal.md) 
-- [Solka.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Solka.protect.md) 
-- [Solka.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Solka.private.md) 
-- [Solka.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Solka.personal.md) 
-- [Solka.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Solka.secret.md) 

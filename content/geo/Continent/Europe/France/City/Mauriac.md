@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mauriac](../../../../../../_public/geo/Continent/Europe/France/City/Mauriac.md) 
-- [Mauriac.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Mauriac.internal.md) 
-- [Mauriac.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Mauriac.protect.md) 
-- [Mauriac.private](../../../../../../_private/geo/Continent/Europe/France/City/Mauriac.private.md) 
-- [Mauriac.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Mauriac.personal.md) 
-- [Mauriac.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Mauriac.secret.md) 

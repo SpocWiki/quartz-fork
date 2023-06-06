@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Composite_materials-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Composite_materials-Quantity](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.md) 
-- [Triz-stationary_Area+Composite_materials-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.internal.md) 
-- [Triz-stationary_Area+Composite_materials-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.protect.md) 
-- [Triz-stationary_Area+Composite_materials-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.private.md) 
-- [Triz-stationary_Area+Composite_materials-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.personal.md) 
-- [Triz-stationary_Area+Composite_materials-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Composite_materials-Quantity.secret.md) 

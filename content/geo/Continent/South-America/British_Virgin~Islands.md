@@ -119,7 +119,7 @@ markerFolder: ./British_Virgin_Islands/City
 [VehicleCode::]
 [Capital-Id::]
 ![350](Coat_of_arms_of_Virgin-islands.svg)
-![Anthem-Virgin-islands](xLarge/National-Anthem/Anthem-Virgin-islands.mp3)
+[Anthem-Virgin-islands](xLarge/National-Anthem/Anthem-Virgin-islands.mp3)
 ![350](Flag_of_Virgin-islands.svg)
 [Alcohol-l::]
 [Language-Id::]
@@ -128,10 +128,3 @@ markerFolder: ./British_Virgin_Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [British_Virgin~Islands](../../../../_public/geo/Continent/South-America/British_Virgin~Islands.md) 
-- [British_Virgin~Islands.internal](../../../../_internal/geo/Continent/South-America/British_Virgin~Islands.internal.md) 
-- [British_Virgin~Islands.protect](../../../../_protect/geo/Continent/South-America/British_Virgin~Islands.protect.md) 
-- [British_Virgin~Islands.private](../../../../_private/geo/Continent/South-America/British_Virgin~Islands.private.md) 
-- [British_Virgin~Islands.personal](../../../../_personal/geo/Continent/South-America/British_Virgin~Islands.personal.md) 
-- [British_Virgin~Islands.secret](../../../../_secret/geo/Continent/South-America/British_Virgin~Islands.secret.md) 

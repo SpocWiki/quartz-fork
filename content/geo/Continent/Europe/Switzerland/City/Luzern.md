@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luzern](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Luzern.md) 
-- [Luzern.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Luzern.internal.md) 
-- [Luzern.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Luzern.protect.md) 
-- [Luzern.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Luzern.private.md) 
-- [Luzern.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Luzern.personal.md) 
-- [Luzern.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Luzern.secret.md) 

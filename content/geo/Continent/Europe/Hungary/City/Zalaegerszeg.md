@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zalaegerszeg](../../../../../../_public/geo/Continent/Europe/Hungary/City/Zalaegerszeg.md) 
-- [Zalaegerszeg.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Zalaegerszeg.internal.md) 
-- [Zalaegerszeg.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Zalaegerszeg.protect.md) 
-- [Zalaegerszeg.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Zalaegerszeg.private.md) 
-- [Zalaegerszeg.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Zalaegerszeg.personal.md) 
-- [Zalaegerszeg.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Zalaegerszeg.secret.md) 

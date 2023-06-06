@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kristineberg](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kristineberg.md) 
-- [Kristineberg.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kristineberg.internal.md) 
-- [Kristineberg.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kristineberg.protect.md) 
-- [Kristineberg.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kristineberg.private.md) 
-- [Kristineberg.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kristineberg.personal.md) 
-- [Kristineberg.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kristineberg.secret.md) 

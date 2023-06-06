@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Villefranch_sur_Saóne](../../../../../../_public/geo/Continent/Europe/France/City/Villefranch_sur_Sa%C3%B3ne.md) 
-- [Villefranch_sur_Saóne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Villefranch_sur_Sa%C3%B3ne.internal.md) 
-- [Villefranch_sur_Saóne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Villefranch_sur_Sa%C3%B3ne.protect.md) 
-- [Villefranch_sur_Saóne.private](../../../../../../_private/geo/Continent/Europe/France/City/Villefranch_sur_Sa%C3%B3ne.private.md) 
-- [Villefranch_sur_Saóne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Villefranch_sur_Sa%C3%B3ne.personal.md) 
-- [Villefranch_sur_Saóne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Villefranch_sur_Sa%C3%B3ne.secret.md) 

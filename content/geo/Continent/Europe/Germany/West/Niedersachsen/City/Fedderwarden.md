@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fedderwarden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.md) 
-- [Fedderwarden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.internal.md) 
-- [Fedderwarden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.protect.md) 
-- [Fedderwarden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.private.md) 
-- [Fedderwarden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.personal.md) 
-- [Fedderwarden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Fedderwarden.secret.md) 

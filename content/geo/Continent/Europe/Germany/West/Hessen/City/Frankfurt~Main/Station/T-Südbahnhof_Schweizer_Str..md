@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Südbahnhof_Schweizer_Str.](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-S%C3%BCdbahnhof_Schweizer_Str..md) 
-- [T-Südbahnhof_Schweizer_Str..internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-S%C3%BCdbahnhof_Schweizer_Str..internal.md) 
-- [T-Südbahnhof_Schweizer_Str..protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-S%C3%BCdbahnhof_Schweizer_Str..protect.md) 
-- [T-Südbahnhof_Schweizer_Str..private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-S%C3%BCdbahnhof_Schweizer_Str..private.md) 
-- [T-Südbahnhof_Schweizer_Str..personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-S%C3%BCdbahnhof_Schweizer_Str..personal.md) 
-- [T-Südbahnhof_Schweizer_Str..secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-S%C3%BCdbahnhof_Schweizer_Str..secret.md) 

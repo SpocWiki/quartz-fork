@@ -36,10 +36,3 @@ markerFolder: ./Svalbard/City
 
 
 
-## Confidential Links & Embeds: 
-- [Svalbard](../../../../_public/geo/Continent/Europe/Svalbard.md) 
-- [Svalbard.internal](../../../../_internal/geo/Continent/Europe/Svalbard.internal.md) 
-- [Svalbard.protect](../../../../_protect/geo/Continent/Europe/Svalbard.protect.md) 
-- [Svalbard.private](../../../../_private/geo/Continent/Europe/Svalbard.private.md) 
-- [Svalbard.personal](../../../../_personal/geo/Continent/Europe/Svalbard.personal.md) 
-- [Svalbard.secret](../../../../_secret/geo/Continent/Europe/Svalbard.secret.md) 

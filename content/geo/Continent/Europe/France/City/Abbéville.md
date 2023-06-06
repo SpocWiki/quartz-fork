@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abbéville](../../../../../../_public/geo/Continent/Europe/France/City/Abb%C3%A9ville.md) 
-- [Abbéville.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Abb%C3%A9ville.internal.md) 
-- [Abbéville.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Abb%C3%A9ville.protect.md) 
-- [Abbéville.private](../../../../../../_private/geo/Continent/Europe/France/City/Abb%C3%A9ville.private.md) 
-- [Abbéville.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Abb%C3%A9ville.personal.md) 
-- [Abbéville.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Abb%C3%A9ville.secret.md) 

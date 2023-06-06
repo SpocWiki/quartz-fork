@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kagalnik](../../../../../../_public/geo/Continent/Europe/Russia/City/Kagalnik.md) 
-- [Kagalnik.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kagalnik.internal.md) 
-- [Kagalnik.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kagalnik.protect.md) 
-- [Kagalnik.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kagalnik.private.md) 
-- [Kagalnik.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kagalnik.personal.md) 
-- [Kagalnik.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kagalnik.secret.md) 

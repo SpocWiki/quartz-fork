@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Periodic_action-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Periodic_action-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Periodic_action-Illumination.md) 
-- [Triz-Time-Loss+Periodic_action-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Periodic_action-Illumination.internal.md) 
-- [Triz-Time-Loss+Periodic_action-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Periodic_action-Illumination.protect.md) 
-- [Triz-Time-Loss+Periodic_action-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Periodic_action-Illumination.private.md) 
-- [Triz-Time-Loss+Periodic_action-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Periodic_action-Illumination.personal.md) 
-- [Triz-Time-Loss+Periodic_action-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Periodic_action-Illumination.secret.md) 

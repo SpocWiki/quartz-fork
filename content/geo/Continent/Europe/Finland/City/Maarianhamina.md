@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maarianhamina](../../../../../../_public/geo/Continent/Europe/Finland/City/Maarianhamina.md) 
-- [Maarianhamina.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Maarianhamina.internal.md) 
-- [Maarianhamina.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Maarianhamina.protect.md) 
-- [Maarianhamina.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Maarianhamina.private.md) 
-- [Maarianhamina.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Maarianhamina.personal.md) 
-- [Maarianhamina.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Maarianhamina.secret.md) 

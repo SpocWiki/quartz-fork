@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Rasalgethi](../../../_public/astro/Star/Rasalgethi.md) 
-- [Rasalgethi.internal](../../../_internal/astro/Star/Rasalgethi.internal.md) 
-- [Rasalgethi.protect](../../../_protect/astro/Star/Rasalgethi.protect.md) 
-- [Rasalgethi.private](../../../_private/astro/Star/Rasalgethi.private.md) 
-- [Rasalgethi.personal](../../../_personal/astro/Star/Rasalgethi.personal.md) 
-- [Rasalgethi.secret](../../../_secret/astro/Star/Rasalgethi.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ocholt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ocholt.md) 
-- [Ocholt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ocholt.internal.md) 
-- [Ocholt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ocholt.protect.md) 
-- [Ocholt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ocholt.private.md) 
-- [Ocholt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ocholt.personal.md) 
-- [Ocholt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Ocholt.secret.md) 

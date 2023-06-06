@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sopron](../../../../../../_public/geo/Continent/Europe/Hungary/City/Sopron.md) 
-- [Sopron.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Sopron.internal.md) 
-- [Sopron.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Sopron.protect.md) 
-- [Sopron.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Sopron.private.md) 
-- [Sopron.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Sopron.personal.md) 
-- [Sopron.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Sopron.secret.md) 

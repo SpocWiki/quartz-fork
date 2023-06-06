@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirchberg](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Kirchberg.md) 
-- [Kirchberg.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Kirchberg.internal.md) 
-- [Kirchberg.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Kirchberg.protect.md) 
-- [Kirchberg.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Kirchberg.private.md) 
-- [Kirchberg.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Kirchberg.personal.md) 
-- [Kirchberg.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Kirchberg.secret.md) 

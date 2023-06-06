@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sirrah](../../../_public/astro/Star/Sirrah.md) 
-- [Sirrah.internal](../../../_internal/astro/Star/Sirrah.internal.md) 
-- [Sirrah.protect](../../../_protect/astro/Star/Sirrah.protect.md) 
-- [Sirrah.private](../../../_private/astro/Star/Sirrah.private.md) 
-- [Sirrah.personal](../../../_personal/astro/Star/Sirrah.personal.md) 
-- [Sirrah.secret](../../../_secret/astro/Star/Sirrah.secret.md) 

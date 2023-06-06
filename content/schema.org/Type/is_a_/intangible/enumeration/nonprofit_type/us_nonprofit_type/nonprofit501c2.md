@@ -47,10 +47,3 @@ Nonprofit501c2: Non-profit type referring to Title-holding Corporations for Exem
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c2](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.md) 
-- [nonprofit501c2.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.internal.md) 
-- [nonprofit501c2.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.protect.md) 
-- [nonprofit501c2.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.private.md) 
-- [nonprofit501c2.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.personal.md) 
-- [nonprofit501c2.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c2.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guingamp](../../../../../../_public/geo/Continent/Europe/France/City/Guingamp.md) 
-- [Guingamp.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Guingamp.internal.md) 
-- [Guingamp.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Guingamp.protect.md) 
-- [Guingamp.private](../../../../../../_private/geo/Continent/Europe/France/City/Guingamp.private.md) 
-- [Guingamp.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Guingamp.personal.md) 
-- [Guingamp.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Guingamp.secret.md) 

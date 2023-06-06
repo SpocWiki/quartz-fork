@@ -43,10 +43,3 @@ Beach.
 
 
 
-## Confidential Links & Embeds: 
-- [beach](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/beach.md) 
-- [beach.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/beach.internal.md) 
-- [beach.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/beach.protect.md) 
-- [beach.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/beach.private.md) 
-- [beach.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/beach.personal.md) 
-- [beach.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/beach.secret.md) 

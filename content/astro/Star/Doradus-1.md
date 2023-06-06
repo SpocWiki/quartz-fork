@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Doradus-1](../../../_public/astro/Star/Doradus-1.md) 
-- [Doradus-1.internal](../../../_internal/astro/Star/Doradus-1.internal.md) 
-- [Doradus-1.protect](../../../_protect/astro/Star/Doradus-1.protect.md) 
-- [Doradus-1.private](../../../_private/astro/Star/Doradus-1.private.md) 
-- [Doradus-1.personal](../../../_personal/astro/Star/Doradus-1.personal.md) 
-- [Doradus-1.secret](../../../_secret/astro/Star/Doradus-1.secret.md)
-

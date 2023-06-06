@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dóle](../../../../../../_public/geo/Continent/Europe/France/City/D%C3%B3le.md) 
-- [Dóle.internal](../../../../../../_internal/geo/Continent/Europe/France/City/D%C3%B3le.internal.md) 
-- [Dóle.protect](../../../../../../_protect/geo/Continent/Europe/France/City/D%C3%B3le.protect.md) 
-- [Dóle.private](../../../../../../_private/geo/Continent/Europe/France/City/D%C3%B3le.private.md) 
-- [Dóle.personal](../../../../../../_personal/geo/Continent/Europe/France/City/D%C3%B3le.personal.md) 
-- [Dóle.secret](../../../../../../_secret/geo/Continent/Europe/France/City/D%C3%B3le.secret.md) 

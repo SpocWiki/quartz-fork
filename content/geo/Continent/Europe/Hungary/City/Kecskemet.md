@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kecskemet](../../../../../../_public/geo/Continent/Europe/Hungary/City/Kecskemet.md) 
-- [Kecskemet.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kecskemet.internal.md) 
-- [Kecskemet.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kecskemet.protect.md) 
-- [Kecskemet.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Kecskemet.private.md) 
-- [Kecskemet.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kecskemet.personal.md) 
-- [Kecskemet.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kecskemet.secret.md) 

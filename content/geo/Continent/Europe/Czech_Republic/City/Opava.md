@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Opava](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Opava.md) 
-- [Opava.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Opava.internal.md) 
-- [Opava.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Opava.protect.md) 
-- [Opava.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Opava.private.md) 
-- [Opava.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Opava.personal.md) 
-- [Opava.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Opava.secret.md) 

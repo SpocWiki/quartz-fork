@@ -36,10 +36,3 @@ markerFolder: ./Yugoslavia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Yugoslavia](../../../../_public/geo/Continent/Europe/Yugoslavia.md) 
-- [Yugoslavia.internal](../../../../_internal/geo/Continent/Europe/Yugoslavia.internal.md) 
-- [Yugoslavia.protect](../../../../_protect/geo/Continent/Europe/Yugoslavia.protect.md) 
-- [Yugoslavia.private](../../../../_private/geo/Continent/Europe/Yugoslavia.private.md) 
-- [Yugoslavia.personal](../../../../_personal/geo/Continent/Europe/Yugoslavia.personal.md) 
-- [Yugoslavia.secret](../../../../_secret/geo/Continent/Europe/Yugoslavia.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-moving_Weight+Changing_the_color-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Weight+Changing_the_color-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-moving_Weight+Changing_the_color-Difficulty.md) 
-- [Triz-moving_Weight+Changing_the_color-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Weight+Changing_the_color-Difficulty.internal.md) 
-- [Triz-moving_Weight+Changing_the_color-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Weight+Changing_the_color-Difficulty.protect.md) 
-- [Triz-moving_Weight+Changing_the_color-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Weight+Changing_the_color-Difficulty.private.md) 
-- [Triz-moving_Weight+Changing_the_color-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Weight+Changing_the_color-Difficulty.personal.md) 
-- [Triz-moving_Weight+Changing_the_color-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Weight+Changing_the_color-Difficulty.secret.md) 

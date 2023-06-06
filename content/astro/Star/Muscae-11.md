@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Muscae-11](../../../_public/astro/Star/Muscae-11.md) 
-- [Muscae-11.internal](../../../_internal/astro/Star/Muscae-11.internal.md) 
-- [Muscae-11.protect](../../../_protect/astro/Star/Muscae-11.protect.md) 
-- [Muscae-11.private](../../../_private/astro/Star/Muscae-11.private.md) 
-- [Muscae-11.personal](../../../_personal/astro/Star/Muscae-11.personal.md) 
-- [Muscae-11.secret](../../../_secret/astro/Star/Muscae-11.secret.md) 

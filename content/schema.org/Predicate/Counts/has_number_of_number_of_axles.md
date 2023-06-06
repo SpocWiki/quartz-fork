@@ -49,10 +49,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_number_of_axles](../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_axles.md) 
-- [has_number_of_number_of_axles.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_axles.internal.md) 
-- [has_number_of_number_of_axles.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_axles.protect.md) 
-- [has_number_of_number_of_axles.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_axles.private.md) 
-- [has_number_of_number_of_axles.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_axles.personal.md) 
-- [has_number_of_number_of_axles.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_axles.secret.md) 

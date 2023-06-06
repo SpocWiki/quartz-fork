@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schneeberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schneeberg.md) 
-- [Schneeberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schneeberg.internal.md) 
-- [Schneeberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schneeberg.protect.md) 
-- [Schneeberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schneeberg.private.md) 
-- [Schneeberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schneeberg.personal.md) 
-- [Schneeberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schneeberg.secret.md) 

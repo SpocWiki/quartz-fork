@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.md) 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.internal.md) 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.protect.md) 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.private.md) 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.personal.md) 
-- [Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Flexible_film_or_thin_membranes-Reliability.secret.md) 

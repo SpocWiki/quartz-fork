@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Steinbach-Hallenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Steinbach-Hallenberg.md) 
-- [Steinbach-Hallenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Steinbach-Hallenberg.internal.md) 
-- [Steinbach-Hallenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Steinbach-Hallenberg.protect.md) 
-- [Steinbach-Hallenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Steinbach-Hallenberg.private.md) 
-- [Steinbach-Hallenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Steinbach-Hallenberg.personal.md) 
-- [Steinbach-Hallenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Th%C3%BCringen/City/Steinbach-Hallenberg.secret.md) 

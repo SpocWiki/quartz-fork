@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jordansmuehl](../../../../../../_public/geo/Continent/Europe/Poland/City/Jordansmuehl.md) 
-- [Jordansmuehl.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Jordansmuehl.internal.md) 
-- [Jordansmuehl.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Jordansmuehl.protect.md) 
-- [Jordansmuehl.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Jordansmuehl.private.md) 
-- [Jordansmuehl.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Jordansmuehl.personal.md) 
-- [Jordansmuehl.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Jordansmuehl.secret.md) 

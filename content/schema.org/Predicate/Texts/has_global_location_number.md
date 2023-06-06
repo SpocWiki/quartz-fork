@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_global_location_number](../../../../_public/schema.org/Predicate/Texts/has_global_location_number.md) 
-- [has_global_location_number.internal](../../../../_internal/schema.org/Predicate/Texts/has_global_location_number.internal.md) 
-- [has_global_location_number.protect](../../../../_protect/schema.org/Predicate/Texts/has_global_location_number.protect.md) 
-- [has_global_location_number.private](../../../../_private/schema.org/Predicate/Texts/has_global_location_number.private.md) 
-- [has_global_location_number.personal](../../../../_personal/schema.org/Predicate/Texts/has_global_location_number.personal.md) 
-- [has_global_location_number.secret](../../../../_secret/schema.org/Predicate/Texts/has_global_location_number.secret.md) 

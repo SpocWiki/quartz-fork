@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saarijaervi~Raj](../../../../../../_public/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.md) 
-- [Saarijaervi~Raj.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.internal.md) 
-- [Saarijaervi~Raj.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.protect.md) 
-- [Saarijaervi~Raj.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.private.md) 
-- [Saarijaervi~Raj.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.personal.md) 
-- [Saarijaervi~Raj.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Saarijaervi~Raj.secret.md) 

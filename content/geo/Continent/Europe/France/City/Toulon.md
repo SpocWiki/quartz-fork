@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Toulon](../../../../../../_public/geo/Continent/Europe/France/City/Toulon.md) 
-- [Toulon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Toulon.internal.md) 
-- [Toulon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Toulon.protect.md) 
-- [Toulon.private](../../../../../../_private/geo/Continent/Europe/France/City/Toulon.private.md) 
-- [Toulon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Toulon.personal.md) 
-- [Toulon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Toulon.secret.md) 

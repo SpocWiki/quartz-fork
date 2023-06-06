@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Friedland_Schlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Friedland_Schlesien.md) 
-- [Friedland_Schlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Friedland_Schlesien.internal.md) 
-- [Friedland_Schlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Friedland_Schlesien.protect.md) 
-- [Friedland_Schlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Friedland_Schlesien.private.md) 
-- [Friedland_Schlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Friedland_Schlesien.personal.md) 
-- [Friedland_Schlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Friedland_Schlesien.secret.md) 

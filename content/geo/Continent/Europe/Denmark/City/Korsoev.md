@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Korsoev](../../../../../../_public/geo/Continent/Europe/Denmark/City/Korsoev.md) 
-- [Korsoev.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Korsoev.internal.md) 
-- [Korsoev.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Korsoev.protect.md) 
-- [Korsoev.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Korsoev.private.md) 
-- [Korsoev.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Korsoev.personal.md) 
-- [Korsoev.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Korsoev.secret.md) 

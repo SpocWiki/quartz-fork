@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neubaeu](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neubaeu.md) 
-- [Neubaeu.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neubaeu.internal.md) 
-- [Neubaeu.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neubaeu.protect.md) 
-- [Neubaeu.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neubaeu.private.md) 
-- [Neubaeu.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neubaeu.personal.md) 
-- [Neubaeu.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neubaeu.secret.md) 

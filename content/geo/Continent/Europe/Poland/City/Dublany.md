@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dublany](../../../../../../_public/geo/Continent/Europe/Poland/City/Dublany.md) 
-- [Dublany.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Dublany.internal.md) 
-- [Dublany.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Dublany.protect.md) 
-- [Dublany.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Dublany.private.md) 
-- [Dublany.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Dublany.personal.md) 
-- [Dublany.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Dublany.secret.md) 

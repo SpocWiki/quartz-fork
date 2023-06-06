@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kokoschken](../../../../../../_public/geo/Continent/Europe/Poland/City/Kokoschken.md) 
-- [Kokoschken.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kokoschken.internal.md) 
-- [Kokoschken.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kokoschken.protect.md) 
-- [Kokoschken.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kokoschken.private.md) 
-- [Kokoschken.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kokoschken.personal.md) 
-- [Kokoschken.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kokoschken.secret.md) 

@@ -43,10 +43,3 @@ A medical test performed on a sample of a patient's blood.
 
 
 
-## Confidential Links & Embeds: 
-- [blood_test](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_test/blood_test.md) 
-- [blood_test.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_test/blood_test.internal.md) 
-- [blood_test.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_test/blood_test.protect.md) 
-- [blood_test.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_test/blood_test.private.md) 
-- [blood_test.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_test/blood_test.personal.md) 
-- [blood_test.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_test/blood_test.secret.md) 

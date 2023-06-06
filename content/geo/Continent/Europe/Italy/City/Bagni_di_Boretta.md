@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bagni_di_Boretta](../../../../../../_public/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.md) 
-- [Bagni_di_Boretta.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.internal.md) 
-- [Bagni_di_Boretta.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.protect.md) 
-- [Bagni_di_Boretta.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.private.md) 
-- [Bagni_di_Boretta.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.personal.md) 
-- [Bagni_di_Boretta.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Bagni_di_Boretta.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Velzen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Velzen.md) 
-- [Velzen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Velzen.internal.md) 
-- [Velzen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Velzen.protect.md) 
-- [Velzen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Velzen.private.md) 
-- [Velzen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Velzen.personal.md) 
-- [Velzen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Velzen.secret.md) 

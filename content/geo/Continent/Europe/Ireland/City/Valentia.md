@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valentia](../../../../../../_public/geo/Continent/Europe/Ireland/City/Valentia.md) 
-- [Valentia.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Valentia.internal.md) 
-- [Valentia.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Valentia.protect.md) 
-- [Valentia.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Valentia.private.md) 
-- [Valentia.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Valentia.personal.md) 
-- [Valentia.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Valentia.secret.md) 

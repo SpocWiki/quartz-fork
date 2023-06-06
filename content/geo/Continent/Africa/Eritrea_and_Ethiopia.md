@@ -35,10 +35,3 @@ geojsonFolder: [./Eritrea,./Ethiopia]
 
 
 
-## Confidential Links & Embeds: 
-- [Eritrea_and_Ethiopia](../../../../_public/geo/Continent/Africa/Eritrea_and_Ethiopia.md) 
-- [Eritrea_and_Ethiopia.internal](../../../../_internal/geo/Continent/Africa/Eritrea_and_Ethiopia.internal.md) 
-- [Eritrea_and_Ethiopia.protect](../../../../_protect/geo/Continent/Africa/Eritrea_and_Ethiopia.protect.md) 
-- [Eritrea_and_Ethiopia.private](../../../../_private/geo/Continent/Africa/Eritrea_and_Ethiopia.private.md) 
-- [Eritrea_and_Ethiopia.personal](../../../../_personal/geo/Continent/Africa/Eritrea_and_Ethiopia.personal.md) 
-- [Eritrea_and_Ethiopia.secret](../../../../_secret/geo/Continent/Africa/Eritrea_and_Ethiopia.secret.md) 

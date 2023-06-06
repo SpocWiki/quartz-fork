@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hapsal](../../../../../../_public/geo/Continent/Europe/Russia/City/Hapsal.md) 
-- [Hapsal.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Hapsal.internal.md) 
-- [Hapsal.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Hapsal.protect.md) 
-- [Hapsal.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Hapsal.private.md) 
-- [Hapsal.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Hapsal.personal.md) 
-- [Hapsal.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Hapsal.secret.md) 

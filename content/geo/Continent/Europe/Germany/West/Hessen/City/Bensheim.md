@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bensheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Bensheim.md) 
-- [Bensheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Bensheim.internal.md) 
-- [Bensheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Bensheim.protect.md) 
-- [Bensheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Bensheim.private.md) 
-- [Bensheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Bensheim.personal.md) 
-- [Bensheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Bensheim.secret.md) 

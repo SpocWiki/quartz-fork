@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.md) 
-- [Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.internal.md) 
-- [Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.protect.md) 
-- [Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.private.md) 
-- [Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.personal.md) 
-- [Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Transformation_of_physical_and_chemical_states_of_an_object-moving_Area.secret.md) 

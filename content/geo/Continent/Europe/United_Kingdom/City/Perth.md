@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Perth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Perth.md) 
-- [Perth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Perth.internal.md) 
-- [Perth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Perth.protect.md) 
-- [Perth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Perth.private.md) 
-- [Perth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Perth.personal.md) 
-- [Perth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Perth.secret.md) 

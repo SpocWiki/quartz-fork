@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_rsvp_response](../../../../../_public/schema.org/Predicate/Relations/has/has_rsvp_response.md) 
-- [has_rsvp_response.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_rsvp_response.internal.md) 
-- [has_rsvp_response.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_rsvp_response.protect.md) 
-- [has_rsvp_response.private](../../../../../_private/schema.org/Predicate/Relations/has/has_rsvp_response.private.md) 
-- [has_rsvp_response.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_rsvp_response.personal.md) 
-- [has_rsvp_response.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_rsvp_response.secret.md) 

@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_toc_continuation](../../../../../_public/schema.org/Predicate/Relations/has/has_toc_continuation.md) 
-- [has_toc_continuation.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_toc_continuation.internal.md) 
-- [has_toc_continuation.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_toc_continuation.protect.md) 
-- [has_toc_continuation.private](../../../../../_private/schema.org/Predicate/Relations/has/has_toc_continuation.private.md) 
-- [has_toc_continuation.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_toc_continuation.personal.md) 
-- [has_toc_continuation.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_toc_continuation.secret.md) 

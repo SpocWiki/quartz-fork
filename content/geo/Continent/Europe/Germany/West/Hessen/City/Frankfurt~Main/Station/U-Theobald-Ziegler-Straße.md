@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Theobald-Ziegler-Straße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Stra%C3%9Fe.md) 
-- [U-Theobald-Ziegler-Straße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Stra%C3%9Fe.internal.md) 
-- [U-Theobald-Ziegler-Straße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Stra%C3%9Fe.protect.md) 
-- [U-Theobald-Ziegler-Straße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Stra%C3%9Fe.private.md) 
-- [U-Theobald-Ziegler-Straße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Stra%C3%9Fe.personal.md) 
-- [U-Theobald-Ziegler-Straße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Theobald-Ziegler-Stra%C3%9Fe.secret.md) 

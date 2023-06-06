@@ -127,7 +127,7 @@ markerFolder: ./Argentina/City
 
 ![350](geo/Continent/South-America/Argentina/Coat_of_arms_of_Argentina.svg)
 
-![Anthem-Argentina](xLarge/National-Anthem/Anthem-Argentina.mp3)
+[Anthem-Argentina](xLarge/National-Anthem/Anthem-Argentina.mp3)
 
 ![350](geo/Continent/South-America/Argentina/Flag_of_Argentina.svg)
 
@@ -138,10 +138,3 @@ markerFolder: ./Argentina/City
 
 
 
-## Confidential Links & Embeds: 
-- [Argentina](../../../../_public/geo/Continent/South-America/Argentina.md) 
-- [Argentina.internal](../../../../_internal/geo/Continent/South-America/Argentina.internal.md) 
-- [Argentina.protect](../../../../_protect/geo/Continent/South-America/Argentina.protect.md) 
-- [Argentina.private](../../../../_private/geo/Continent/South-America/Argentina.private.md) 
-- [Argentina.personal](../../../../_personal/geo/Continent/South-America/Argentina.personal.md) 
-- [Argentina.secret](../../../../_secret/geo/Continent/South-America/Argentina.secret.md) 

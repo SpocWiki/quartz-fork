@@ -45,10 +45,3 @@ Lung and respiratory system clinical examination.
 
 
 
-## Confidential Links & Embeds: 
-- [lung](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.md) 
-- [lung.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.internal.md) 
-- [lung.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.protect.md) 
-- [lung.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.private.md) 
-- [lung.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.personal.md) 
-- [lung.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.secret.md) 

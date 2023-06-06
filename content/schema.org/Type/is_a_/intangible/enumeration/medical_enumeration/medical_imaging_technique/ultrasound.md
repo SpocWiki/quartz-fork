@@ -45,10 +45,3 @@ Ultrasound imaging.
 
 
 
-## Confidential Links & Embeds: 
-- [ultrasound](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.md) 
-- [ultrasound.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.internal.md) 
-- [ultrasound.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.protect.md) 
-- [ultrasound.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.private.md) 
-- [ultrasound.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.personal.md) 
-- [ultrasound.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.secret.md) 

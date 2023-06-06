@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lorsch](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.md) 
-- [Lorsch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.internal.md) 
-- [Lorsch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.protect.md) 
-- [Lorsch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.private.md) 
-- [Lorsch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.personal.md) 
-- [Lorsch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Lorsch.secret.md) 

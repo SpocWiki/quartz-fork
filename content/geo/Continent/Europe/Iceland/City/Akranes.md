@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Akranes](../../../../../../_public/geo/Continent/Europe/Iceland/City/Akranes.md) 
-- [Akranes.internal](../../../../../../_internal/geo/Continent/Europe/Iceland/City/Akranes.internal.md) 
-- [Akranes.protect](../../../../../../_protect/geo/Continent/Europe/Iceland/City/Akranes.protect.md) 
-- [Akranes.private](../../../../../../_private/geo/Continent/Europe/Iceland/City/Akranes.private.md) 
-- [Akranes.personal](../../../../../../_personal/geo/Continent/Europe/Iceland/City/Akranes.personal.md) 
-- [Akranes.secret](../../../../../../_secret/geo/Continent/Europe/Iceland/City/Akranes.secret.md) 

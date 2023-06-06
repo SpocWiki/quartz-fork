@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wald_Hittenberg](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.md) 
-- [Wald_Hittenberg.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.internal.md) 
-- [Wald_Hittenberg.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.protect.md) 
-- [Wald_Hittenberg.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.private.md) 
-- [Wald_Hittenberg.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.personal.md) 
-- [Wald_Hittenberg.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Wald_Hittenberg.secret.md) 

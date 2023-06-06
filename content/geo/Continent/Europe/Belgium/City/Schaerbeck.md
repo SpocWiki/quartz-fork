@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schaerbeck](../../../../../../_public/geo/Continent/Europe/Belgium/City/Schaerbeck.md) 
-- [Schaerbeck.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Schaerbeck.internal.md) 
-- [Schaerbeck.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Schaerbeck.protect.md) 
-- [Schaerbeck.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Schaerbeck.private.md) 
-- [Schaerbeck.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Schaerbeck.personal.md) 
-- [Schaerbeck.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Schaerbeck.secret.md) 

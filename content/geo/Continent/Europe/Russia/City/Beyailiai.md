@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beyailiai](../../../../../../_public/geo/Continent/Europe/Russia/City/Beyailiai.md) 
-- [Beyailiai.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Beyailiai.internal.md) 
-- [Beyailiai.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Beyailiai.protect.md) 
-- [Beyailiai.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Beyailiai.private.md) 
-- [Beyailiai.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Beyailiai.personal.md) 
-- [Beyailiai.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Beyailiai.secret.md) 

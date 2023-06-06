@@ -17,10 +17,3 @@ title: Triz-Shoe_Sole_inserts
 
 Comfortable Shoe Sole inserts filled with Gel
 
-## Confidential Links & Embeds: 
-- [Triz-Shoe_Sole_inserts](../../../../_public/tech/Triz/Example/Triz-Shoe_Sole_inserts.md) 
-- [Triz-Shoe_Sole_inserts.internal](../../../../_internal/tech/Triz/Example/Triz-Shoe_Sole_inserts.internal.md) 
-- [Triz-Shoe_Sole_inserts.protect](../../../../_protect/tech/Triz/Example/Triz-Shoe_Sole_inserts.protect.md) 
-- [Triz-Shoe_Sole_inserts.private](../../../../_private/tech/Triz/Example/Triz-Shoe_Sole_inserts.private.md) 
-- [Triz-Shoe_Sole_inserts.personal](../../../../_personal/tech/Triz/Example/Triz-Shoe_Sole_inserts.personal.md) 
-- [Triz-Shoe_Sole_inserts.secret](../../../../_secret/tech/Triz/Example/Triz-Shoe_Sole_inserts.secret.md) 

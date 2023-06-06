@@ -41,10 +41,3 @@ Data type: URL.
 
 
 
-## Confidential Links & Embeds: 
-- [url](../../../../../../_public/schema.org/Type/is_a_/data_type/text/url.md) 
-- [url.internal](../../../../../../_internal/schema.org/Type/is_a_/data_type/text/url.internal.md) 
-- [url.protect](../../../../../../_protect/schema.org/Type/is_a_/data_type/text/url.protect.md) 
-- [url.private](../../../../../../_private/schema.org/Type/is_a_/data_type/text/url.private.md) 
-- [url.personal](../../../../../../_personal/schema.org/Type/is_a_/data_type/text/url.personal.md) 
-- [url.secret](../../../../../../_secret/schema.org/Type/is_a_/data_type/text/url.secret.md) 

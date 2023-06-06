@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Friesoythe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Friesoythe.md) 
-- [Friesoythe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Friesoythe.internal.md) 
-- [Friesoythe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Friesoythe.protect.md) 
-- [Friesoythe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Friesoythe.private.md) 
-- [Friesoythe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Friesoythe.personal.md) 
-- [Friesoythe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Friesoythe.secret.md) 

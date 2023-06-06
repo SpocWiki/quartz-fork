@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wellington](../../../../../../_public/geo/Continent/Australia/New_Zealand/City/Wellington.md) 
-- [Wellington.internal](../../../../../../_internal/geo/Continent/Australia/New_Zealand/City/Wellington.internal.md) 
-- [Wellington.protect](../../../../../../_protect/geo/Continent/Australia/New_Zealand/City/Wellington.protect.md) 
-- [Wellington.private](../../../../../../_private/geo/Continent/Australia/New_Zealand/City/Wellington.private.md) 
-- [Wellington.personal](../../../../../../_personal/geo/Continent/Australia/New_Zealand/City/Wellington.personal.md) 
-- [Wellington.secret](../../../../../../_secret/geo/Continent/Australia/New_Zealand/City/Wellington.secret.md) 

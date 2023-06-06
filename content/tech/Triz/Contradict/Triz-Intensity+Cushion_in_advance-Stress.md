@@ -19,10 +19,3 @@ title: Triz-Intensity+Cushion_in_advance-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Cushion_in_advance-Stress](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.md) 
-- [Triz-Intensity+Cushion_in_advance-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.internal.md) 
-- [Triz-Intensity+Cushion_in_advance-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.protect.md) 
-- [Triz-Intensity+Cushion_in_advance-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.private.md) 
-- [Triz-Intensity+Cushion_in_advance-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.personal.md) 
-- [Triz-Intensity+Cushion_in_advance-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Cushion_in_advance-Stress.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Porvoo](../../../../../../_public/geo/Continent/Europe/Finland/City/Porvoo.md) 
-- [Porvoo.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Porvoo.internal.md) 
-- [Porvoo.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Porvoo.protect.md) 
-- [Porvoo.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Porvoo.private.md) 
-- [Porvoo.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Porvoo.personal.md) 
-- [Porvoo.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Porvoo.secret.md) 

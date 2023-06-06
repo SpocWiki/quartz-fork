@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pskow](../../../../../../_public/geo/Continent/Europe/Russia/City/Pskow.md) 
-- [Pskow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Pskow.internal.md) 
-- [Pskow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Pskow.protect.md) 
-- [Pskow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Pskow.private.md) 
-- [Pskow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Pskow.personal.md) 
-- [Pskow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Pskow.secret.md) 

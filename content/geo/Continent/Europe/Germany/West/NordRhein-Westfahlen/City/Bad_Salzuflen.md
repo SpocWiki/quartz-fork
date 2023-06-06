@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Salzuflen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.md) 
-- [Bad_Salzuflen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.internal.md) 
-- [Bad_Salzuflen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.protect.md) 
-- [Bad_Salzuflen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.private.md) 
-- [Bad_Salzuflen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.personal.md) 
-- [Bad_Salzuflen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Bad_Salzuflen.secret.md) 

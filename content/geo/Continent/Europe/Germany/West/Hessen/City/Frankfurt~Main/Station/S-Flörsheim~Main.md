@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Flörsheim~Main](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Fl%C3%B6rsheim~Main.md) 
-- [S-Flörsheim~Main.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Fl%C3%B6rsheim~Main.internal.md) 
-- [S-Flörsheim~Main.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Fl%C3%B6rsheim~Main.protect.md) 
-- [S-Flörsheim~Main.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Fl%C3%B6rsheim~Main.private.md) 
-- [S-Flörsheim~Main.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Fl%C3%B6rsheim~Main.personal.md) 
-- [S-Flörsheim~Main.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Fl%C3%B6rsheim~Main.secret.md) 

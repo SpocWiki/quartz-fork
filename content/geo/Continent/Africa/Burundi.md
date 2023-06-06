@@ -130,10 +130,3 @@ markerFolder: ./Burundi/City
 
 
 
-## Confidential Links & Embeds: 
-- [Burundi](../../../../_public/geo/Continent/Africa/Burundi.md) 
-- [Burundi.internal](../../../../_internal/geo/Continent/Africa/Burundi.internal.md) 
-- [Burundi.protect](../../../../_protect/geo/Continent/Africa/Burundi.protect.md) 
-- [Burundi.private](../../../../_private/geo/Continent/Africa/Burundi.private.md) 
-- [Burundi.personal](../../../../_personal/geo/Continent/Africa/Burundi.personal.md) 
-- [Burundi.secret](../../../../_secret/geo/Continent/Africa/Burundi.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zaréwokokchajsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Zar%C3%A9wokokchajsk.md) 
-- [Zaréwokokchajsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zar%C3%A9wokokchajsk.internal.md) 
-- [Zaréwokokchajsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zar%C3%A9wokokchajsk.protect.md) 
-- [Zaréwokokchajsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zar%C3%A9wokokchajsk.private.md) 
-- [Zaréwokokchajsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zar%C3%A9wokokchajsk.personal.md) 
-- [Zaréwokokchajsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zar%C3%A9wokokchajsk.secret.md) 

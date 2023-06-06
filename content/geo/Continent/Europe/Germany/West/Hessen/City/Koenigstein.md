@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenigstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein.md) 
-- [Koenigstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein.internal.md) 
-- [Koenigstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein.protect.md) 
-- [Koenigstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein.private.md) 
-- [Koenigstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein.personal.md) 
-- [Koenigstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Koenigstein.secret.md) 

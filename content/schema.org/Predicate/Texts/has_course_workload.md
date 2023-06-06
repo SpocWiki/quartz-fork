@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_course_workload](../../../../_public/schema.org/Predicate/Texts/has_course_workload.md) 
-- [has_course_workload.internal](../../../../_internal/schema.org/Predicate/Texts/has_course_workload.internal.md) 
-- [has_course_workload.protect](../../../../_protect/schema.org/Predicate/Texts/has_course_workload.protect.md) 
-- [has_course_workload.private](../../../../_private/schema.org/Predicate/Texts/has_course_workload.private.md) 
-- [has_course_workload.personal](../../../../_personal/schema.org/Predicate/Texts/has_course_workload.personal.md) 
-- [has_course_workload.secret](../../../../_secret/schema.org/Predicate/Texts/has_course_workload.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Projestov=Prossnitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.md) 
-- [Projestov=Prossnitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.internal.md) 
-- [Projestov=Prossnitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.protect.md) 
-- [Projestov=Prossnitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.private.md) 
-- [Projestov=Prossnitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.personal.md) 
-- [Projestov=Prossnitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.secret.md) 

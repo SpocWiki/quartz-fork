@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tulsa](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Tulsa.md) 
-- [Tulsa.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Tulsa.internal.md) 
-- [Tulsa.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Tulsa.protect.md) 
-- [Tulsa.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Tulsa.private.md) 
-- [Tulsa.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Tulsa.personal.md) 
-- [Tulsa.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Tulsa.secret.md) 

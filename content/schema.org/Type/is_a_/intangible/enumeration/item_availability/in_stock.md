@@ -45,10 +45,3 @@ Indicates that the item is in stock.
 
 
 
-## Confidential Links & Embeds: 
-- [in_stock](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.md) 
-- [in_stock.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.internal.md) 
-- [in_stock.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.protect.md) 
-- [in_stock.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.private.md) 
-- [in_stock.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.personal.md) 
-- [in_stock.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_stock.secret.md) 

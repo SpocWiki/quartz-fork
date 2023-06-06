@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kickelhof](../../../../../../_public/geo/Continent/Europe/Russia/City/Kickelhof.md) 
-- [Kickelhof.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kickelhof.internal.md) 
-- [Kickelhof.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kickelhof.protect.md) 
-- [Kickelhof.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kickelhof.private.md) 
-- [Kickelhof.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kickelhof.personal.md) 
-- [Kickelhof.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kickelhof.secret.md) 

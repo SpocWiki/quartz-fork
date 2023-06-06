@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guxhagen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Guxhagen.md) 
-- [Guxhagen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Guxhagen.internal.md) 
-- [Guxhagen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Guxhagen.protect.md) 
-- [Guxhagen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Guxhagen.private.md) 
-- [Guxhagen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Guxhagen.personal.md) 
-- [Guxhagen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Guxhagen.secret.md) 

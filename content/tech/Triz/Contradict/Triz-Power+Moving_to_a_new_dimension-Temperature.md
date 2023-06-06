@@ -19,10 +19,3 @@ title: Triz-Power+Moving_to_a_new_dimension-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Moving_to_a_new_dimension-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Temperature.md) 
-- [Triz-Power+Moving_to_a_new_dimension-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Temperature.internal.md) 
-- [Triz-Power+Moving_to_a_new_dimension-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Temperature.protect.md) 
-- [Triz-Power+Moving_to_a_new_dimension-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Temperature.private.md) 
-- [Triz-Power+Moving_to_a_new_dimension-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Temperature.personal.md) 
-- [Triz-Power+Moving_to_a_new_dimension-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Moving_to_a_new_dimension-Temperature.secret.md) 

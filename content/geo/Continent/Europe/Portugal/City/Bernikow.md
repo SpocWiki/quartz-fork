@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bernikow](../../../../../../_public/geo/Continent/Europe/Portugal/City/Bernikow.md) 
-- [Bernikow.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Bernikow.internal.md) 
-- [Bernikow.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Bernikow.protect.md) 
-- [Bernikow.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Bernikow.private.md) 
-- [Bernikow.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Bernikow.personal.md) 
-- [Bernikow.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Bernikow.secret.md) 

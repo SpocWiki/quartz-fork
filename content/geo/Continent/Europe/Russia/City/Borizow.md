@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borizow](../../../../../../_public/geo/Continent/Europe/Russia/City/Borizow.md) 
-- [Borizow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Borizow.internal.md) 
-- [Borizow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Borizow.protect.md) 
-- [Borizow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Borizow.private.md) 
-- [Borizow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Borizow.personal.md) 
-- [Borizow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Borizow.secret.md) 

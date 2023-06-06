@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bistritz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bistritz.md) 
-- [Bistritz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bistritz.internal.md) 
-- [Bistritz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bistritz.protect.md) 
-- [Bistritz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bistritz.private.md) 
-- [Bistritz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bistritz.personal.md) 
-- [Bistritz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bistritz.secret.md) 

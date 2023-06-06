@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Herborn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Herborn.md) 
-- [Herborn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Herborn.internal.md) 
-- [Herborn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Herborn.protect.md) 
-- [Herborn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Herborn.private.md) 
-- [Herborn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Herborn.personal.md) 
-- [Herborn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Herborn.secret.md) 

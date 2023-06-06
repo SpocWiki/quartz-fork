@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weissenhorn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Weissenhorn.md) 
-- [Weissenhorn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Weissenhorn.internal.md) 
-- [Weissenhorn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Weissenhorn.protect.md) 
-- [Weissenhorn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Weissenhorn.private.md) 
-- [Weissenhorn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Weissenhorn.personal.md) 
-- [Weissenhorn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Weissenhorn.secret.md) 

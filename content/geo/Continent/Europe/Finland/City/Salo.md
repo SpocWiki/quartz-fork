@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salo](../../../../../../_public/geo/Continent/Europe/Finland/City/Salo.md) 
-- [Salo.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Salo.internal.md) 
-- [Salo.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Salo.protect.md) 
-- [Salo.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Salo.private.md) 
-- [Salo.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Salo.personal.md) 
-- [Salo.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Salo.secret.md) 

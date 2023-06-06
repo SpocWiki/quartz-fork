@@ -19,10 +19,3 @@ title: Triz-Strength+Spheroidality-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Spheroidality-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Strength+Spheroidality-Intensity.md) 
-- [Triz-Strength+Spheroidality-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Spheroidality-Intensity.internal.md) 
-- [Triz-Strength+Spheroidality-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Spheroidality-Intensity.protect.md) 
-- [Triz-Strength+Spheroidality-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Spheroidality-Intensity.private.md) 
-- [Triz-Strength+Spheroidality-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Spheroidality-Intensity.personal.md) 
-- [Triz-Strength+Spheroidality-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Spheroidality-Intensity.secret.md) 

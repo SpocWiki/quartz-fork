@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Segmentation-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Segmentation-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.md) 
-- [Triz-Ease_of_operation+Segmentation-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.internal.md) 
-- [Triz-Ease_of_operation+Segmentation-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.protect.md) 
-- [Triz-Ease_of_operation+Segmentation-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.private.md) 
-- [Triz-Ease_of_operation+Segmentation-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.personal.md) 
-- [Triz-Ease_of_operation+Segmentation-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Segmentation-Illumination.secret.md) 

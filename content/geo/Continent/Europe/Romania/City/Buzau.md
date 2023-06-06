@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Buzau](../../../../../../_public/geo/Continent/Europe/Romania/City/Buzau.md) 
-- [Buzau.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Buzau.internal.md) 
-- [Buzau.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Buzau.protect.md) 
-- [Buzau.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Buzau.private.md) 
-- [Buzau.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Buzau.personal.md) 
-- [Buzau.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Buzau.secret.md) 

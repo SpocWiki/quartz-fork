@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lapinlahti](../../../../../../_public/geo/Continent/Europe/Finland/City/Lapinlahti.md) 
-- [Lapinlahti.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Lapinlahti.internal.md) 
-- [Lapinlahti.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Lapinlahti.protect.md) 
-- [Lapinlahti.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Lapinlahti.private.md) 
-- [Lapinlahti.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Lapinlahti.personal.md) 
-- [Lapinlahti.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Lapinlahti.secret.md) 

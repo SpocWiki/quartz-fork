@@ -19,10 +19,3 @@ title: Triz-stationary_Area+Feedback-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Area+Feedback-Automation](../../../../_public/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.md) 
-- [Triz-stationary_Area+Feedback-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.internal.md) 
-- [Triz-stationary_Area+Feedback-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.protect.md) 
-- [Triz-stationary_Area+Feedback-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.private.md) 
-- [Triz-stationary_Area+Feedback-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.personal.md) 
-- [Triz-stationary_Area+Feedback-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Area+Feedback-Automation.secret.md) 

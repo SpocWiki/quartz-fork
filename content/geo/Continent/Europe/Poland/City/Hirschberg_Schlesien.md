@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hirschberg_Schlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.md) 
-- [Hirschberg_Schlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.internal.md) 
-- [Hirschberg_Schlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.protect.md) 
-- [Hirschberg_Schlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.private.md) 
-- [Hirschberg_Schlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.personal.md) 
-- [Hirschberg_Schlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Hirschberg_Schlesien.secret.md) 

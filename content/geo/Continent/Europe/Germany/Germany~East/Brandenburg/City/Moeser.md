@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moeser](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Moeser.md) 
-- [Moeser.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Moeser.internal.md) 
-- [Moeser.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Moeser.protect.md) 
-- [Moeser.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Moeser.private.md) 
-- [Moeser.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Moeser.personal.md) 
-- [Moeser.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Moeser.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Savolinna](../../../../../../_public/geo/Continent/Europe/Finland/City/Savolinna.md) 
-- [Savolinna.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Savolinna.internal.md) 
-- [Savolinna.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Savolinna.protect.md) 
-- [Savolinna.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Savolinna.private.md) 
-- [Savolinna.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Savolinna.personal.md) 
-- [Savolinna.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Savolinna.secret.md) 

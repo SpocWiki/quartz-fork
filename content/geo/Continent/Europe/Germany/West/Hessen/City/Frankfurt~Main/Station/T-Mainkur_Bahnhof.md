@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Mainkur_Bahnhof](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Mainkur_Bahnhof.md) 
-- [T-Mainkur_Bahnhof.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Mainkur_Bahnhof.internal.md) 
-- [T-Mainkur_Bahnhof.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Mainkur_Bahnhof.protect.md) 
-- [T-Mainkur_Bahnhof.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Mainkur_Bahnhof.private.md) 
-- [T-Mainkur_Bahnhof.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Mainkur_Bahnhof.personal.md) 
-- [T-Mainkur_Bahnhof.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Mainkur_Bahnhof.secret.md) 

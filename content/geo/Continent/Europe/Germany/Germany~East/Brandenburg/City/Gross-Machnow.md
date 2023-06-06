@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gross-Machnow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gross-Machnow.md) 
-- [Gross-Machnow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gross-Machnow.internal.md) 
-- [Gross-Machnow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gross-Machnow.protect.md) 
-- [Gross-Machnow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gross-Machnow.private.md) 
-- [Gross-Machnow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gross-Machnow.personal.md) 
-- [Gross-Machnow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gross-Machnow.secret.md) 

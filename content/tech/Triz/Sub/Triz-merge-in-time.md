@@ -18,10 +18,3 @@ title: Triz-merge-in-time
 Make operations contiguous or parallel; bring them together in time.
 
 
-## Confidential Links & Embeds: 
-- [Triz-merge-in-time](../../../../_public/tech/Triz/Sub/Triz-merge-in-time.md) 
-- [Triz-merge-in-time.internal](../../../../_internal/tech/Triz/Sub/Triz-merge-in-time.internal.md) 
-- [Triz-merge-in-time.protect](../../../../_protect/tech/Triz/Sub/Triz-merge-in-time.protect.md) 
-- [Triz-merge-in-time.private](../../../../_private/tech/Triz/Sub/Triz-merge-in-time.private.md) 
-- [Triz-merge-in-time.personal](../../../../_personal/tech/Triz/Sub/Triz-merge-in-time.personal.md) 
-- [Triz-merge-in-time.secret](../../../../_secret/tech/Triz/Sub/Triz-merge-in-time.secret.md) 

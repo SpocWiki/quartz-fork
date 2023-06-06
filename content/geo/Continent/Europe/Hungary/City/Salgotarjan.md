@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salgotarjan](../../../../../../_public/geo/Continent/Europe/Hungary/City/Salgotarjan.md) 
-- [Salgotarjan.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Salgotarjan.internal.md) 
-- [Salgotarjan.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Salgotarjan.protect.md) 
-- [Salgotarjan.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Salgotarjan.private.md) 
-- [Salgotarjan.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Salgotarjan.personal.md) 
-- [Salgotarjan.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Salgotarjan.secret.md) 

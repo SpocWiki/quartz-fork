@@ -49,10 +49,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_fuel_capacity_liter](../../../../_public/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.md) 
-- [has_value_for_fuel_capacity_liter.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.internal.md) 
-- [has_value_for_fuel_capacity_liter.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.protect.md) 
-- [has_value_for_fuel_capacity_liter.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.private.md) 
-- [has_value_for_fuel_capacity_liter.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.personal.md) 
-- [has_value_for_fuel_capacity_liter.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Reliability+Local_quality-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Local_quality-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.md) 
-- [Triz-Reliability+Local_quality-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.internal.md) 
-- [Triz-Reliability+Local_quality-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.protect.md) 
-- [Triz-Reliability+Local_quality-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.private.md) 
-- [Triz-Reliability+Local_quality-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.personal.md) 
-- [Triz-Reliability+Local_quality-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Local_quality-Intensity.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Frankenthal](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.md) 
-- [Frankenthal.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.internal.md) 
-- [Frankenthal.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.protect.md) 
-- [Frankenthal.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.private.md) 
-- [Frankenthal.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.personal.md) 
-- [Frankenthal.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Frankenthal.secret.md) 

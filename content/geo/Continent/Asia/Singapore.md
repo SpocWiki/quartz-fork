@@ -126,7 +126,7 @@ markerFolder: ./Singapore/City
 
 ![350](geo/Continent/Asia/Singapore/Coat_of_arms_of_Singapore.svg)
 
-![Anthem-Singapore](xLarge/National-Anthem/Anthem-Singapore.mp3)
+[Anthem-Singapore](xLarge/National-Anthem/Anthem-Singapore.mp3)
 
 ![350](geo/Continent/Asia/Singapore/Flag_of_Singapore.svg)
 
@@ -137,10 +137,3 @@ markerFolder: ./Singapore/City
 
 
 
-## Confidential Links & Embeds: 
-- [Singapore](../../../../_public/geo/Continent/Asia/Singapore.md) 
-- [Singapore.internal](../../../../_internal/geo/Continent/Asia/Singapore.internal.md) 
-- [Singapore.protect](../../../../_protect/geo/Continent/Asia/Singapore.protect.md) 
-- [Singapore.private](../../../../_private/geo/Continent/Asia/Singapore.private.md) 
-- [Singapore.personal](../../../../_personal/geo/Continent/Asia/Singapore.personal.md) 
-- [Singapore.secret](../../../../_secret/geo/Continent/Asia/Singapore.secret.md) 

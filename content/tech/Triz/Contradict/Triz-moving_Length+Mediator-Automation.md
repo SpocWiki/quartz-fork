@@ -19,10 +19,3 @@ title: Triz-moving_Length+Mediator-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Mediator-Automation](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.md) 
-- [Triz-moving_Length+Mediator-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.internal.md) 
-- [Triz-moving_Length+Mediator-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.protect.md) 
-- [Triz-moving_Length+Mediator-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.private.md) 
-- [Triz-moving_Length+Mediator-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.personal.md) 
-- [Triz-moving_Length+Mediator-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Mediator-Automation.secret.md) 

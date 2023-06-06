@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Basseterre](../../../../../../_public/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.md) 
-- [Basseterre.internal](../../../../../../_internal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.internal.md) 
-- [Basseterre.protect](../../../../../../_protect/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.protect.md) 
-- [Basseterre.private](../../../../../../_private/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.private.md) 
-- [Basseterre.personal](../../../../../../_personal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.personal.md) 
-- [Basseterre.secret](../../../../../../_secret/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.secret.md) 

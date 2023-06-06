@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lissabon=Lisboa=Lisbon](../../../../../../_public/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.md) 
-- [Lissabon=Lisboa=Lisbon.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.internal.md) 
-- [Lissabon=Lisboa=Lisbon.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.protect.md) 
-- [Lissabon=Lisboa=Lisbon.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.private.md) 
-- [Lissabon=Lisboa=Lisbon.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.personal.md) 
-- [Lissabon=Lisboa=Lisbon.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Lissabon=Lisboa=Lisbon.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Scilla](../../../../../../_public/geo/Continent/Europe/Italy/City/Scilla.md) 
-- [Scilla.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Scilla.internal.md) 
-- [Scilla.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Scilla.protect.md) 
-- [Scilla.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Scilla.private.md) 
-- [Scilla.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Scilla.personal.md) 
-- [Scilla.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Scilla.secret.md) 

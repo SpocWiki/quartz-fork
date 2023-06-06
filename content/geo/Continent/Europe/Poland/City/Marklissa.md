@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marklissa](../../../../../../_public/geo/Continent/Europe/Poland/City/Marklissa.md) 
-- [Marklissa.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Marklissa.internal.md) 
-- [Marklissa.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Marklissa.protect.md) 
-- [Marklissa.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Marklissa.private.md) 
-- [Marklissa.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Marklissa.personal.md) 
-- [Marklissa.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Marklissa.secret.md) 

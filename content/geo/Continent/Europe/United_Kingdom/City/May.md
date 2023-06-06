@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [May](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/May.md) 
-- [May.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/May.internal.md) 
-- [May.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/May.protect.md) 
-- [May.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/May.private.md) 
-- [May.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/May.personal.md) 
-- [May.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/May.secret.md) 

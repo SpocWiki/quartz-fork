@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Monte_Bré](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Monte_Br%C3%A9.md) 
-- [Monte_Bré.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Monte_Br%C3%A9.internal.md) 
-- [Monte_Bré.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Monte_Br%C3%A9.protect.md) 
-- [Monte_Bré.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Monte_Br%C3%A9.private.md) 
-- [Monte_Bré.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Monte_Br%C3%A9.personal.md) 
-- [Monte_Bré.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Monte_Br%C3%A9.secret.md) 

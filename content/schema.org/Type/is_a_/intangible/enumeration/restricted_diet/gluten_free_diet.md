@@ -45,10 +45,3 @@ A diet exclusive of gluten.
 
 
 
-## Confidential Links & Embeds: 
-- [gluten_free_diet](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.md) 
-- [gluten_free_diet.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.internal.md) 
-- [gluten_free_diet.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.protect.md) 
-- [gluten_free_diet.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.private.md) 
-- [gluten_free_diet.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.personal.md) 
-- [gluten_free_diet.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gersten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gersten.md) 
-- [Gersten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gersten.internal.md) 
-- [Gersten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gersten.protect.md) 
-- [Gersten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gersten.private.md) 
-- [Gersten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gersten.personal.md) 
-- [Gersten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Gersten.secret.md) 

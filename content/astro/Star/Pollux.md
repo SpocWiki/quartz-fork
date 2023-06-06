@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Pollux](../../../_public/astro/Star/Pollux.md) 
-- [Pollux.internal](../../../_internal/astro/Star/Pollux.internal.md) 
-- [Pollux.protect](../../../_protect/astro/Star/Pollux.protect.md) 
-- [Pollux.private](../../../_private/astro/Star/Pollux.private.md) 
-- [Pollux.personal](../../../_personal/astro/Star/Pollux.personal.md) 
-- [Pollux.secret](../../../_secret/astro/Star/Pollux.secret.md) 

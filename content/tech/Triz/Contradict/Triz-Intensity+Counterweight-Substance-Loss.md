@@ -19,10 +19,3 @@ title: Triz-Intensity+Counterweight-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Counterweight-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.md) 
-- [Triz-Intensity+Counterweight-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.internal.md) 
-- [Triz-Intensity+Counterweight-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.protect.md) 
-- [Triz-Intensity+Counterweight-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.private.md) 
-- [Triz-Intensity+Counterweight-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.personal.md) 
-- [Triz-Intensity+Counterweight-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Counterweight-Substance-Loss.secret.md) 

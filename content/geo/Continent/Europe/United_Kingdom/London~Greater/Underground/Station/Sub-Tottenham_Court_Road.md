@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Tottenham_Court_Road](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tottenham_Court_Road.md) 
-- [Sub-Tottenham_Court_Road.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tottenham_Court_Road.internal.md) 
-- [Sub-Tottenham_Court_Road.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tottenham_Court_Road.protect.md) 
-- [Sub-Tottenham_Court_Road.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tottenham_Court_Road.private.md) 
-- [Sub-Tottenham_Court_Road.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tottenham_Court_Road.personal.md) 
-- [Sub-Tottenham_Court_Road.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Tottenham_Court_Road.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beilngries](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Beilngries.md) 
-- [Beilngries.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Beilngries.internal.md) 
-- [Beilngries.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Beilngries.protect.md) 
-- [Beilngries.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Beilngries.private.md) 
-- [Beilngries.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Beilngries.personal.md) 
-- [Beilngries.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Beilngries.secret.md) 

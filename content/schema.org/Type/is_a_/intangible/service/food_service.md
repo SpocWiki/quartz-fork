@@ -43,10 +43,3 @@ A food service, like breakfast, lunch, or dinner.
 
 
 
-## Confidential Links & Embeds: 
-- [food_service](../../../../../../_public/schema.org/Type/is_a_/intangible/service/food_service.md) 
-- [food_service.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/service/food_service.internal.md) 
-- [food_service.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/service/food_service.protect.md) 
-- [food_service.private](../../../../../../_private/schema.org/Type/is_a_/intangible/service/food_service.private.md) 
-- [food_service.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/service/food_service.personal.md) 
-- [food_service.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/service/food_service.secret.md) 

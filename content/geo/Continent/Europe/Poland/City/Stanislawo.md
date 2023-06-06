@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stanislawo](../../../../../../_public/geo/Continent/Europe/Poland/City/Stanislawo.md) 
-- [Stanislawo.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Stanislawo.internal.md) 
-- [Stanislawo.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Stanislawo.protect.md) 
-- [Stanislawo.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Stanislawo.private.md) 
-- [Stanislawo.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Stanislawo.personal.md) 
-- [Stanislawo.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Stanislawo.secret.md) 

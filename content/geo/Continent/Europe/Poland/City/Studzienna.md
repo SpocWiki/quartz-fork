@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Studzienna](../../../../../../_public/geo/Continent/Europe/Poland/City/Studzienna.md) 
-- [Studzienna.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Studzienna.internal.md) 
-- [Studzienna.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Studzienna.protect.md) 
-- [Studzienna.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Studzienna.private.md) 
-- [Studzienna.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Studzienna.personal.md) 
-- [Studzienna.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Studzienna.secret.md) 

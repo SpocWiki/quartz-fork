@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Nihal](../../../_public/astro/Star/Nihal.md) 
-- [Nihal.internal](../../../_internal/astro/Star/Nihal.internal.md) 
-- [Nihal.protect](../../../_protect/astro/Star/Nihal.protect.md) 
-- [Nihal.private](../../../_private/astro/Star/Nihal.private.md) 
-- [Nihal.personal](../../../_personal/astro/Star/Nihal.personal.md) 
-- [Nihal.secret](../../../_secret/astro/Star/Nihal.secret.md) 

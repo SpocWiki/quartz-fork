@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neunkirchen~Saar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.md) 
-- [Neunkirchen~Saar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.internal.md) 
-- [Neunkirchen~Saar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.protect.md) 
-- [Neunkirchen~Saar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.private.md) 
-- [Neunkirchen~Saar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.personal.md) 
-- [Neunkirchen~Saar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Saarland/City/Neunkirchen~Saar.secret.md) 

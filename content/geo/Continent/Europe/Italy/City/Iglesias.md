@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Iglesias](../../../../../../_public/geo/Continent/Europe/Italy/City/Iglesias.md) 
-- [Iglesias.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Iglesias.internal.md) 
-- [Iglesias.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Iglesias.protect.md) 
-- [Iglesias.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Iglesias.private.md) 
-- [Iglesias.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Iglesias.personal.md) 
-- [Iglesias.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Iglesias.secret.md) 

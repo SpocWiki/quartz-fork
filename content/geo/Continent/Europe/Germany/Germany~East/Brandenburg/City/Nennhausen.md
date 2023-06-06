@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nennhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nennhausen.md) 
-- [Nennhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nennhausen.internal.md) 
-- [Nennhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nennhausen.protect.md) 
-- [Nennhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nennhausen.private.md) 
-- [Nennhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nennhausen.personal.md) 
-- [Nennhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Nennhausen.secret.md) 

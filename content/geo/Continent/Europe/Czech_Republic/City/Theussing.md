@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Theussing](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Theussing.md) 
-- [Theussing.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Theussing.internal.md) 
-- [Theussing.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Theussing.protect.md) 
-- [Theussing.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Theussing.private.md) 
-- [Theussing.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Theussing.personal.md) 
-- [Theussing.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Theussing.secret.md) 

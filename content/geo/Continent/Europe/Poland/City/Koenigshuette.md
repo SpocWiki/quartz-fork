@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenigshuette](../../../../../../_public/geo/Continent/Europe/Poland/City/Koenigshuette.md) 
-- [Koenigshuette.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Koenigshuette.internal.md) 
-- [Koenigshuette.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Koenigshuette.protect.md) 
-- [Koenigshuette.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Koenigshuette.private.md) 
-- [Koenigshuette.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Koenigshuette.personal.md) 
-- [Koenigshuette.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Koenigshuette.secret.md) 

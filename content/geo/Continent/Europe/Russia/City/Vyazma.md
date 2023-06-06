@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vyazma](../../../../../../_public/geo/Continent/Europe/Russia/City/Vyazma.md) 
-- [Vyazma.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vyazma.internal.md) 
-- [Vyazma.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vyazma.protect.md) 
-- [Vyazma.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vyazma.private.md) 
-- [Vyazma.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vyazma.personal.md) 
-- [Vyazma.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vyazma.secret.md) 

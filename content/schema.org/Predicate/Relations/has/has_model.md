@@ -49,10 +49,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_model](../../../../../_public/schema.org/Predicate/Relations/has/has_model.md) 
-- [has_model.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_model.internal.md) 
-- [has_model.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_model.protect.md) 
-- [has_model.private](../../../../../_private/schema.org/Predicate/Relations/has/has_model.private.md) 
-- [has_model.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_model.personal.md) 
-- [has_model.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_model.secret.md) 

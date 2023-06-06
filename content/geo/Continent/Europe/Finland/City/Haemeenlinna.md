@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haemeenlinna](../../../../../../_public/geo/Continent/Europe/Finland/City/Haemeenlinna.md) 
-- [Haemeenlinna.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Haemeenlinna.internal.md) 
-- [Haemeenlinna.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Haemeenlinna.protect.md) 
-- [Haemeenlinna.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Haemeenlinna.private.md) 
-- [Haemeenlinna.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Haemeenlinna.personal.md) 
-- [Haemeenlinna.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Haemeenlinna.secret.md) 

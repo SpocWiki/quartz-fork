@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sulzbach~Oberpfalz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.md) 
-- [Sulzbach~Oberpfalz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.internal.md) 
-- [Sulzbach~Oberpfalz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.protect.md) 
-- [Sulzbach~Oberpfalz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.private.md) 
-- [Sulzbach~Oberpfalz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.personal.md) 
-- [Sulzbach~Oberpfalz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.secret.md) 

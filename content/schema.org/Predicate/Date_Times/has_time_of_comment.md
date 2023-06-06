@@ -46,10 +46,3 @@ Formal Predicate:
 
 
 
-## Confidential Links & Embeds: 
-- [has_time_of_comment](../../../../_public/schema.org/Predicate/Date_Times/has_time_of_comment.md) 
-- [has_time_of_comment.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_comment.internal.md) 
-- [has_time_of_comment.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_comment.protect.md) 
-- [has_time_of_comment.private](../../../../_private/schema.org/Predicate/Date_Times/has_time_of_comment.private.md) 
-- [has_time_of_comment.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_comment.personal.md) 
-- [has_time_of_comment.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_comment.secret.md) 

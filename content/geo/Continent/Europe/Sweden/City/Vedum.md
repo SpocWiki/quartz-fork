@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vedum](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vedum.md) 
-- [Vedum.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vedum.internal.md) 
-- [Vedum.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vedum.protect.md) 
-- [Vedum.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vedum.private.md) 
-- [Vedum.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vedum.personal.md) 
-- [Vedum.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vedum.secret.md) 

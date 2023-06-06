@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pillau](../../../../../../_public/geo/Continent/Europe/Russia/City/Pillau.md) 
-- [Pillau.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Pillau.internal.md) 
-- [Pillau.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Pillau.protect.md) 
-- [Pillau.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Pillau.private.md) 
-- [Pillau.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Pillau.personal.md) 
-- [Pillau.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Pillau.secret.md) 

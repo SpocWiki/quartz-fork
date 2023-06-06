@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Inversion-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Inversion-Stress](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Stress.md) 
-- [Triz-Ease_of_repair+Inversion-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Stress.internal.md) 
-- [Triz-Ease_of_repair+Inversion-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Stress.protect.md) 
-- [Triz-Ease_of_repair+Inversion-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Stress.private.md) 
-- [Triz-Ease_of_repair+Inversion-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Stress.personal.md) 
-- [Triz-Ease_of_repair+Inversion-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Stress.secret.md) 

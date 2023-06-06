@@ -45,10 +45,3 @@ Permission to read or view the document.
 
 
 
-## Confidential Links & Embeds: 
-- [read_permission](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.md) 
-- [read_permission.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.internal.md) 
-- [read_permission.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.protect.md) 
-- [read_permission.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.private.md) 
-- [read_permission.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.personal.md) 
-- [read_permission.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.secret.md) 

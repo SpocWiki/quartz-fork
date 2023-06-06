@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Indi-8](../../../_public/astro/Star/Indi-8.md) 
-- [Indi-8.internal](../../../_internal/astro/Star/Indi-8.internal.md) 
-- [Indi-8.protect](../../../_protect/astro/Star/Indi-8.protect.md) 
-- [Indi-8.private](../../../_private/astro/Star/Indi-8.private.md) 
-- [Indi-8.personal](../../../_personal/astro/Star/Indi-8.personal.md) 
-- [Indi-8.secret](../../../_secret/astro/Star/Indi-8.secret.md)
-

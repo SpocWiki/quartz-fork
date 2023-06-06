@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nevers](../../../../../../_public/geo/Continent/Europe/France/City/Nevers.md) 
-- [Nevers.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Nevers.internal.md) 
-- [Nevers.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Nevers.protect.md) 
-- [Nevers.private](../../../../../../_private/geo/Continent/Europe/France/City/Nevers.private.md) 
-- [Nevers.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Nevers.personal.md) 
-- [Nevers.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Nevers.secret.md) 

@@ -122,7 +122,7 @@ markerFolder: ./Panama/City
 
 ![350](geo/Continent/South-America/Panama/Coat_of_arms_of_Panama.svg)
 
-![Anthem-Panama](xLarge/National-Anthem/Anthem-Panama.mp3)
+[Anthem-Panama](xLarge/National-Anthem/Anthem-Panama.mp3)
 
 ![350](geo/Continent/South-America/Panama/Flag_of_Panama.svg)
 
@@ -133,10 +133,3 @@ markerFolder: ./Panama/City
 
 
 
-## Confidential Links & Embeds: 
-- [Panama](../../../../_public/geo/Continent/South-America/Panama.md) 
-- [Panama.internal](../../../../_internal/geo/Continent/South-America/Panama.internal.md) 
-- [Panama.protect](../../../../_protect/geo/Continent/South-America/Panama.protect.md) 
-- [Panama.private](../../../../_private/geo/Continent/South-America/Panama.private.md) 
-- [Panama.personal](../../../../_personal/geo/Continent/South-America/Panama.personal.md) 
-- [Panama.secret](../../../../_secret/geo/Continent/South-America/Panama.secret.md) 

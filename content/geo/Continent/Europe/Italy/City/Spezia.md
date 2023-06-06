@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spezia](../../../../../../_public/geo/Continent/Europe/Italy/City/Spezia.md) 
-- [Spezia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Spezia.internal.md) 
-- [Spezia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Spezia.protect.md) 
-- [Spezia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Spezia.private.md) 
-- [Spezia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Spezia.personal.md) 
-- [Spezia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Spezia.secret.md) 

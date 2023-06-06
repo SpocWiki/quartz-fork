@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Umago](../../../../../../_public/geo/Continent/Europe/Italy/City/Umago.md) 
-- [Umago.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Umago.internal.md) 
-- [Umago.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Umago.protect.md) 
-- [Umago.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Umago.private.md) 
-- [Umago.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Umago.personal.md) 
-- [Umago.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Umago.secret.md) 

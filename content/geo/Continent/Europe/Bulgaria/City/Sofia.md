@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sofia](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Sofia.md) 
-- [Sofia.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Sofia.internal.md) 
-- [Sofia.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Sofia.protect.md) 
-- [Sofia.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Sofia.private.md) 
-- [Sofia.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Sofia.personal.md) 
-- [Sofia.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Sofia.secret.md) 

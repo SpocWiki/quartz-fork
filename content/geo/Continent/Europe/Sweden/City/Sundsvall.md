@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sundsvall](../../../../../../_public/geo/Continent/Europe/Sweden/City/Sundsvall.md) 
-- [Sundsvall.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sundsvall.internal.md) 
-- [Sundsvall.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sundsvall.protect.md) 
-- [Sundsvall.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Sundsvall.private.md) 
-- [Sundsvall.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sundsvall.personal.md) 
-- [Sundsvall.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sundsvall.secret.md) 

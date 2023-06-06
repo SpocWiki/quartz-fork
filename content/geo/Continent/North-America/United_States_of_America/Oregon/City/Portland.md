@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Portland](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.md) 
-- [Portland.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.internal.md) 
-- [Portland.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.protect.md) 
-- [Portland.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.private.md) 
-- [Portland.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.personal.md) 
-- [Portland.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Oregon/City/Portland.secret.md) 

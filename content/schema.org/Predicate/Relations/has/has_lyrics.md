@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_lyrics](../../../../../_public/schema.org/Predicate/Relations/has/has_lyrics.md) 
-- [has_lyrics.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_lyrics.internal.md) 
-- [has_lyrics.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_lyrics.protect.md) 
-- [has_lyrics.private](../../../../../_private/schema.org/Predicate/Relations/has/has_lyrics.private.md) 
-- [has_lyrics.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_lyrics.personal.md) 
-- [has_lyrics.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_lyrics.secret.md) 

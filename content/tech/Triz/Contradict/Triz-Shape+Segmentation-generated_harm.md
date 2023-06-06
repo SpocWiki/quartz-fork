@@ -19,10 +19,3 @@ title: Triz-Shape+Segmentation-generated_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Segmentation-generated_harm](../../../../_public/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.md) 
-- [Triz-Shape+Segmentation-generated_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.internal.md) 
-- [Triz-Shape+Segmentation-generated_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.protect.md) 
-- [Triz-Shape+Segmentation-generated_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.private.md) 
-- [Triz-Shape+Segmentation-generated_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.personal.md) 
-- [Triz-Shape+Segmentation-generated_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Segmentation-generated_harm.secret.md) 

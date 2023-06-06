@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Portadown](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.md) 
-- [Portadown.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.internal.md) 
-- [Portadown.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.protect.md) 
-- [Portadown.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.private.md) 
-- [Portadown.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.personal.md) 
-- [Portadown.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Portadown.secret.md) 

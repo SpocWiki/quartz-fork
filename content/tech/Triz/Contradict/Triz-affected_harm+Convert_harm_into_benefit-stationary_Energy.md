@@ -19,10 +19,3 @@ title: Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.internal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.protect.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.private.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.personal.md) 
-- [Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Convert_harm_into_benefit-stationary_Energy.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Handewitt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Handewitt.md) 
-- [Handewitt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Handewitt.internal.md) 
-- [Handewitt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Handewitt.protect.md) 
-- [Handewitt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Handewitt.private.md) 
-- [Handewitt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Handewitt.personal.md) 
-- [Handewitt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Handewitt.secret.md) 

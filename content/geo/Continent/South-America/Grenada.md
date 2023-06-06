@@ -115,7 +115,7 @@ markerFolder: ./Grenada/City
 
 ![450](geo/Continent/South-America/Grenada/Coat_of_arms_of_Grenada.svg)
 
-![Anthem-Guatemala](xLarge/National-Anthem/Anthem-Guatemala.mp3)
+[Anthem-Guatemala](xLarge/National-Anthem/Anthem-Guatemala.mp3)
 
 ![350](geo/Continent/South-America/Grenada/Flag_of_Grenada.svg)
 
@@ -131,10 +131,3 @@ markerFolder: ./Grenada/City
 
 
 
-## Confidential Links & Embeds: 
-- [Grenada](../../../../_public/geo/Continent/South-America/Grenada.md) 
-- [Grenada.internal](../../../../_internal/geo/Continent/South-America/Grenada.internal.md) 
-- [Grenada.protect](../../../../_protect/geo/Continent/South-America/Grenada.protect.md) 
-- [Grenada.private](../../../../_private/geo/Continent/South-America/Grenada.private.md) 
-- [Grenada.personal](../../../../_personal/geo/Continent/South-America/Grenada.personal.md) 
-- [Grenada.secret](../../../../_secret/geo/Continent/South-America/Grenada.secret.md) 

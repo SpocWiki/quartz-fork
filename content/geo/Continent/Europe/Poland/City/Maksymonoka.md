@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Maksymonoka](../../../../../../_public/geo/Continent/Europe/Poland/City/Maksymonoka.md) 
-- [Maksymonoka.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Maksymonoka.internal.md) 
-- [Maksymonoka.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Maksymonoka.protect.md) 
-- [Maksymonoka.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Maksymonoka.private.md) 
-- [Maksymonoka.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Maksymonoka.personal.md) 
-- [Maksymonoka.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Maksymonoka.secret.md) 

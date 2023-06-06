@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Pictoris-1](../../../_public/astro/Star/Pictoris-1.md) 
-- [Pictoris-1.internal](../../../_internal/astro/Star/Pictoris-1.internal.md) 
-- [Pictoris-1.protect](../../../_protect/astro/Star/Pictoris-1.protect.md) 
-- [Pictoris-1.private](../../../_private/astro/Star/Pictoris-1.private.md) 
-- [Pictoris-1.personal](../../../_personal/astro/Star/Pictoris-1.personal.md) 
-- [Pictoris-1.secret](../../../_secret/astro/Star/Pictoris-1.secret.md) 

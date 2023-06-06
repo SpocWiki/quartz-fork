@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kinding](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kinding.md) 
-- [Kinding.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kinding.internal.md) 
-- [Kinding.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kinding.protect.md) 
-- [Kinding.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kinding.private.md) 
-- [Kinding.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kinding.personal.md) 
-- [Kinding.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kinding.secret.md) 

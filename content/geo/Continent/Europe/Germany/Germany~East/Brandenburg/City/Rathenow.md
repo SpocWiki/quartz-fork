@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rathenow](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rathenow.md) 
-- [Rathenow.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rathenow.internal.md) 
-- [Rathenow.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rathenow.protect.md) 
-- [Rathenow.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rathenow.private.md) 
-- [Rathenow.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rathenow.personal.md) 
-- [Rathenow.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Rathenow.secret.md) 

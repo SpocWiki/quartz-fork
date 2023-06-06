@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_event_status](../../../../../_public/schema.org/Predicate/Relations/has/has_event_status.md) 
-- [has_event_status.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_event_status.internal.md) 
-- [has_event_status.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_event_status.protect.md) 
-- [has_event_status.private](../../../../../_private/schema.org/Predicate/Relations/has/has_event_status.private.md) 
-- [has_event_status.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_event_status.personal.md) 
-- [has_event_status.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_event_status.secret.md) 

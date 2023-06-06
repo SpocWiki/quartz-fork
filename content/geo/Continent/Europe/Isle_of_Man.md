@@ -126,10 +126,3 @@ markerFolder: ./Isle_of_Man/City
 
 
 
-## Confidential Links & Embeds: 
-- [Isle_of_Man](../../../../_public/geo/Continent/Europe/Isle_of_Man.md) 
-- [Isle_of_Man.internal](../../../../_internal/geo/Continent/Europe/Isle_of_Man.internal.md) 
-- [Isle_of_Man.protect](../../../../_protect/geo/Continent/Europe/Isle_of_Man.protect.md) 
-- [Isle_of_Man.private](../../../../_private/geo/Continent/Europe/Isle_of_Man.private.md) 
-- [Isle_of_Man.personal](../../../../_personal/geo/Continent/Europe/Isle_of_Man.personal.md) 
-- [Isle_of_Man.secret](../../../../_secret/geo/Continent/Europe/Isle_of_Man.secret.md) 

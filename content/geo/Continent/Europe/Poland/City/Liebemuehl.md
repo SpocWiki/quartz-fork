@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liebemuehl](../../../../../../_public/geo/Continent/Europe/Poland/City/Liebemuehl.md) 
-- [Liebemuehl.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Liebemuehl.internal.md) 
-- [Liebemuehl.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Liebemuehl.protect.md) 
-- [Liebemuehl.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Liebemuehl.private.md) 
-- [Liebemuehl.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Liebemuehl.personal.md) 
-- [Liebemuehl.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Liebemuehl.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Toelz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Toelz.md) 
-- [Bad_Toelz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Toelz.internal.md) 
-- [Bad_Toelz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Toelz.protect.md) 
-- [Bad_Toelz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Toelz.private.md) 
-- [Bad_Toelz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Toelz.personal.md) 
-- [Bad_Toelz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Toelz.secret.md) 

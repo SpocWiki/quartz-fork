@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Hydri-1](../../../_public/astro/Star/Hydri-1.md) 
-- [Hydri-1.internal](../../../_internal/astro/Star/Hydri-1.internal.md) 
-- [Hydri-1.protect](../../../_protect/astro/Star/Hydri-1.protect.md) 
-- [Hydri-1.private](../../../_private/astro/Star/Hydri-1.private.md) 
-- [Hydri-1.personal](../../../_personal/astro/Star/Hydri-1.personal.md) 
-- [Hydri-1.secret](../../../_secret/astro/Star/Hydri-1.secret.md)
-

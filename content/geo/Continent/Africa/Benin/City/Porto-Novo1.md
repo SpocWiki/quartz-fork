@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Porto-Novo1](../../../../../../_public/geo/Continent/Africa/Benin/City/Porto-Novo1.md) 
-- [Porto-Novo1.internal](../../../../../../_internal/geo/Continent/Africa/Benin/City/Porto-Novo1.internal.md) 
-- [Porto-Novo1.protect](../../../../../../_protect/geo/Continent/Africa/Benin/City/Porto-Novo1.protect.md) 
-- [Porto-Novo1.private](../../../../../../_private/geo/Continent/Africa/Benin/City/Porto-Novo1.private.md) 
-- [Porto-Novo1.personal](../../../../../../_personal/geo/Continent/Africa/Benin/City/Porto-Novo1.personal.md) 
-- [Porto-Novo1.secret](../../../../../../_secret/geo/Continent/Africa/Benin/City/Porto-Novo1.secret.md) 

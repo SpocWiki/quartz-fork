@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mengeringhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Mengeringhausen.md) 
-- [Mengeringhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Mengeringhausen.internal.md) 
-- [Mengeringhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Mengeringhausen.protect.md) 
-- [Mengeringhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Mengeringhausen.private.md) 
-- [Mengeringhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Mengeringhausen.personal.md) 
-- [Mengeringhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Mengeringhausen.secret.md) 

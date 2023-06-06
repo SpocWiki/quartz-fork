@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koefering](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Koefering.md) 
-- [Koefering.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Koefering.internal.md) 
-- [Koefering.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Koefering.protect.md) 
-- [Koefering.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Koefering.private.md) 
-- [Koefering.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Koefering.personal.md) 
-- [Koefering.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Koefering.secret.md) 

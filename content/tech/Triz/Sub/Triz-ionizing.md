@@ -18,10 +18,3 @@ title: Triz-ionizing
 Expose air or oxygen to ionizing radiation.
 
 
-## Confidential Links & Embeds: 
-- [Triz-ionizing](../../../../_public/tech/Triz/Sub/Triz-ionizing.md) 
-- [Triz-ionizing.internal](../../../../_internal/tech/Triz/Sub/Triz-ionizing.internal.md) 
-- [Triz-ionizing.protect](../../../../_protect/tech/Triz/Sub/Triz-ionizing.protect.md) 
-- [Triz-ionizing.private](../../../../_private/tech/Triz/Sub/Triz-ionizing.private.md) 
-- [Triz-ionizing.personal](../../../../_personal/tech/Triz/Sub/Triz-ionizing.personal.md) 
-- [Triz-ionizing.secret](../../../../_secret/tech/Triz/Sub/Triz-ionizing.secret.md) 

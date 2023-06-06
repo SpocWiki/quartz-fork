@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Welikija-Luki](../../../../../../_public/geo/Continent/Europe/Russia/City/Welikija-Luki.md) 
-- [Welikija-Luki.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Welikija-Luki.internal.md) 
-- [Welikija-Luki.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Welikija-Luki.protect.md) 
-- [Welikija-Luki.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Welikija-Luki.private.md) 
-- [Welikija-Luki.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Welikija-Luki.personal.md) 
-- [Welikija-Luki.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Welikija-Luki.secret.md) 

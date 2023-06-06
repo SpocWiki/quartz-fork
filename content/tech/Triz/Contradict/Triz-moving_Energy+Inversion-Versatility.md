@@ -19,10 +19,3 @@ title: Triz-moving_Energy+Inversion-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy+Inversion-Versatility](../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Versatility.md) 
-- [Triz-moving_Energy+Inversion-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Versatility.internal.md) 
-- [Triz-moving_Energy+Inversion-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Versatility.protect.md) 
-- [Triz-moving_Energy+Inversion-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Versatility.private.md) 
-- [Triz-moving_Energy+Inversion-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Versatility.personal.md) 
-- [Triz-moving_Energy+Inversion-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Inversion-Versatility.secret.md) 

@@ -45,10 +45,3 @@ Ear function assessment with clinical examination.
 
 
 
-## Confidential Links & Embeds: 
-- [ear](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/ear.md) 
-- [ear.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/ear.internal.md) 
-- [ear.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/ear.protect.md) 
-- [ear.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/ear.private.md) 
-- [ear.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/ear.personal.md) 
-- [ear.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/ear.secret.md) 

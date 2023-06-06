@@ -126,7 +126,7 @@ markerFolder: ./Brazil/City
 
 ![350](geo/Continent/South-America/Brazil/Coat_of_arms_of_Brazil.svg)
 
-![Anthem-Brazil](xLarge/National-Anthem/Anthem-Brazil.mp3)
+[Anthem-Brazil](xLarge/National-Anthem/Anthem-Brazil.mp3)
 
 ![350](geo/Continent/South-America/Brazil/Flag_of_Brazil.svg)
 
@@ -137,10 +137,3 @@ markerFolder: ./Brazil/City
 
 
 
-## Confidential Links & Embeds: 
-- [Brazil](../../../../_public/geo/Continent/South-America/Brazil.md) 
-- [Brazil.internal](../../../../_internal/geo/Continent/South-America/Brazil.internal.md) 
-- [Brazil.protect](../../../../_protect/geo/Continent/South-America/Brazil.protect.md) 
-- [Brazil.private](../../../../_private/geo/Continent/South-America/Brazil.private.md) 
-- [Brazil.personal](../../../../_personal/geo/Continent/South-America/Brazil.personal.md) 
-- [Brazil.secret](../../../../_secret/geo/Continent/South-America/Brazil.secret.md) 

@@ -38,10 +38,3 @@ title: Holmium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Holmium)
 
-## Confidential Links & Embeds: 
-- [Holmium](../../../../_public/chemic/Elements/Lanthanide-Group/Holmium.md) 
-- [Holmium.internal](../../../../_internal/chemic/Elements/Lanthanide-Group/Holmium.internal.md) 
-- [Holmium.protect](../../../../_protect/chemic/Elements/Lanthanide-Group/Holmium.protect.md) 
-- [Holmium.private](../../../../_private/chemic/Elements/Lanthanide-Group/Holmium.private.md) 
-- [Holmium.personal](../../../../_personal/chemic/Elements/Lanthanide-Group/Holmium.personal.md) 
-- [Holmium.secret](../../../../_secret/chemic/Elements/Lanthanide-Group/Holmium.secret.md) 

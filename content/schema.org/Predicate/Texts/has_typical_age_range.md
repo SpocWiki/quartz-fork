@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_typical_age_range](../../../../_public/schema.org/Predicate/Texts/has_typical_age_range.md) 
-- [has_typical_age_range.internal](../../../../_internal/schema.org/Predicate/Texts/has_typical_age_range.internal.md) 
-- [has_typical_age_range.protect](../../../../_protect/schema.org/Predicate/Texts/has_typical_age_range.protect.md) 
-- [has_typical_age_range.private](../../../../_private/schema.org/Predicate/Texts/has_typical_age_range.private.md) 
-- [has_typical_age_range.personal](../../../../_personal/schema.org/Predicate/Texts/has_typical_age_range.personal.md) 
-- [has_typical_age_range.secret](../../../../_secret/schema.org/Predicate/Texts/has_typical_age_range.secret.md) 

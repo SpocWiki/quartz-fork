@@ -125,7 +125,7 @@ markerFolder: ./Moldova/City
 [VehicleCode::MD]
 [Capital::[Chisinau](geo/Continent/Europe/Moldova/City/Chisinau.md)]
 ![350](geo/Continent/Europe/Moldova/Coat_of_arms_of_Moldova.svg)
-![Anthem-Moldova](xLarge/National-Anthem/Anthem-Moldova.mp3)
+[Anthem-Moldova](xLarge/National-Anthem/Anthem-Moldova.mp3)
 ![350](geo/Continent/Europe/Moldova/Flag_of_Moldova.svg)
 [Alcohol-l::18.2]
 [Language-Id::]
@@ -134,10 +134,3 @@ markerFolder: ./Moldova/City
 
 
 
-## Confidential Links & Embeds: 
-- [Moldova](../../../../_public/geo/Continent/Europe/Moldova.md) 
-- [Moldova.internal](../../../../_internal/geo/Continent/Europe/Moldova.internal.md) 
-- [Moldova.protect](../../../../_protect/geo/Continent/Europe/Moldova.protect.md) 
-- [Moldova.private](../../../../_private/geo/Continent/Europe/Moldova.private.md) 
-- [Moldova.personal](../../../../_personal/geo/Continent/Europe/Moldova.personal.md) 
-- [Moldova.secret](../../../../_secret/geo/Continent/Europe/Moldova.secret.md) 

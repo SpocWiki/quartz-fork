@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Totma](../../../../../../_public/geo/Continent/Europe/Russia/City/Totma.md) 
-- [Totma.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Totma.internal.md) 
-- [Totma.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Totma.protect.md) 
-- [Totma.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Totma.private.md) 
-- [Totma.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Totma.personal.md) 
-- [Totma.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Totma.secret.md) 

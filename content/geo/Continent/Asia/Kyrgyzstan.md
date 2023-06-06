@@ -124,7 +124,7 @@ markerFolder: ./Kyrgyzstan/City
 
 ![350](geo/Continent/Asia/Kyrgyzstan/Emblem_of_Kyrgyzstan.svg)
 
-![Anthem-Kyrgyzstan](xLarge/National-Anthem/Anthem-Kyrgyzstan.mp3)
+[Anthem-Kyrgyzstan](xLarge/National-Anthem/Anthem-Kyrgyzstan.mp3)
 
 ![350](geo/Continent/Asia/Kyrgyzstan/Flag_of_Kyrgyzstan.svg)
 
@@ -135,10 +135,3 @@ markerFolder: ./Kyrgyzstan/City
 
 
 
-## Confidential Links & Embeds: 
-- [Kyrgyzstan](../../../../_public/geo/Continent/Asia/Kyrgyzstan.md) 
-- [Kyrgyzstan.internal](../../../../_internal/geo/Continent/Asia/Kyrgyzstan.internal.md) 
-- [Kyrgyzstan.protect](../../../../_protect/geo/Continent/Asia/Kyrgyzstan.protect.md) 
-- [Kyrgyzstan.private](../../../../_private/geo/Continent/Asia/Kyrgyzstan.private.md) 
-- [Kyrgyzstan.personal](../../../../_personal/geo/Continent/Asia/Kyrgyzstan.personal.md) 
-- [Kyrgyzstan.secret](../../../../_secret/geo/Continent/Asia/Kyrgyzstan.secret.md) 

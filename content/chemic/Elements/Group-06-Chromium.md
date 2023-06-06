@@ -21,10 +21,3 @@ title: Group-06-Chromium
 
 
 
-## Confidential Links & Embeds: 
-- [Group-06-Chromium](../../../_public/chemic/Elements/Group-06-Chromium.md) 
-- [Group-06-Chromium.internal](../../../_internal/chemic/Elements/Group-06-Chromium.internal.md) 
-- [Group-06-Chromium.protect](../../../_protect/chemic/Elements/Group-06-Chromium.protect.md) 
-- [Group-06-Chromium.private](../../../_private/chemic/Elements/Group-06-Chromium.private.md) 
-- [Group-06-Chromium.personal](../../../_personal/chemic/Elements/Group-06-Chromium.personal.md) 
-- [Group-06-Chromium.secret](../../../_secret/chemic/Elements/Group-06-Chromium.secret.md) 

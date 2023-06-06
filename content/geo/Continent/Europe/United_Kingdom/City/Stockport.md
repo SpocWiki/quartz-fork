@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stockport](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Stockport.md) 
-- [Stockport.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Stockport.internal.md) 
-- [Stockport.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Stockport.protect.md) 
-- [Stockport.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Stockport.private.md) 
-- [Stockport.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Stockport.personal.md) 
-- [Stockport.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Stockport.secret.md) 

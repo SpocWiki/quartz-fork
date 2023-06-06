@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stuttgart-Vaihingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.md) 
-- [Stuttgart-Vaihingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.internal.md) 
-- [Stuttgart-Vaihingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.protect.md) 
-- [Stuttgart-Vaihingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.private.md) 
-- [Stuttgart-Vaihingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.personal.md) 
-- [Stuttgart-Vaihingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Stuttgart-Vaihingen.secret.md) 

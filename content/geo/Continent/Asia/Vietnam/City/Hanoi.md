@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hanoi](../../../../../../_public/geo/Continent/Asia/Vietnam/City/Hanoi.md) 
-- [Hanoi.internal](../../../../../../_internal/geo/Continent/Asia/Vietnam/City/Hanoi.internal.md) 
-- [Hanoi.protect](../../../../../../_protect/geo/Continent/Asia/Vietnam/City/Hanoi.protect.md) 
-- [Hanoi.private](../../../../../../_private/geo/Continent/Asia/Vietnam/City/Hanoi.private.md) 
-- [Hanoi.personal](../../../../../../_personal/geo/Continent/Asia/Vietnam/City/Hanoi.personal.md) 
-- [Hanoi.secret](../../../../../../_secret/geo/Continent/Asia/Vietnam/City/Hanoi.secret.md) 

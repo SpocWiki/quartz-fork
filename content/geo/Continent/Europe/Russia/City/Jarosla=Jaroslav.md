@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jarosla=Jaroslav](../../../../../../_public/geo/Continent/Europe/Russia/City/Jarosla=Jaroslav.md) 
-- [Jarosla=Jaroslav.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jarosla=Jaroslav.internal.md) 
-- [Jarosla=Jaroslav.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jarosla=Jaroslav.protect.md) 
-- [Jarosla=Jaroslav.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jarosla=Jaroslav.private.md) 
-- [Jarosla=Jaroslav.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jarosla=Jaroslav.personal.md) 
-- [Jarosla=Jaroslav.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jarosla=Jaroslav.secret.md) 

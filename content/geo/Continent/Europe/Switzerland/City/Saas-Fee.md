@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saas-Fee](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Saas-Fee.md) 
-- [Saas-Fee.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Saas-Fee.internal.md) 
-- [Saas-Fee.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Saas-Fee.protect.md) 
-- [Saas-Fee.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Saas-Fee.private.md) 
-- [Saas-Fee.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Saas-Fee.personal.md) 
-- [Saas-Fee.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Saas-Fee.secret.md) 

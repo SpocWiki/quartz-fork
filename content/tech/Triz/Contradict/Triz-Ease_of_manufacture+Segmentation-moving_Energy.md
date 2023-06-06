@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Segmentation-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Segmentation-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Energy.md) 
-- [Triz-Ease_of_manufacture+Segmentation-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Energy.internal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Energy.protect.md) 
-- [Triz-Ease_of_manufacture+Segmentation-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Energy.private.md) 
-- [Triz-Ease_of_manufacture+Segmentation-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Energy.personal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-moving_Energy.secret.md) 

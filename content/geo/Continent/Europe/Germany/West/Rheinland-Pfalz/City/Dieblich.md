@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dieblich](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dieblich.md) 
-- [Dieblich.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dieblich.internal.md) 
-- [Dieblich.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dieblich.protect.md) 
-- [Dieblich.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dieblich.private.md) 
-- [Dieblich.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dieblich.personal.md) 
-- [Dieblich.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dieblich.secret.md) 

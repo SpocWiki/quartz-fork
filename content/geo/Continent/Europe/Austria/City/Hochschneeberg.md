@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hochschneeberg](../../../../../../_public/geo/Continent/Europe/Austria/City/Hochschneeberg.md) 
-- [Hochschneeberg.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Hochschneeberg.internal.md) 
-- [Hochschneeberg.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Hochschneeberg.protect.md) 
-- [Hochschneeberg.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Hochschneeberg.private.md) 
-- [Hochschneeberg.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Hochschneeberg.personal.md) 
-- [Hochschneeberg.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Hochschneeberg.secret.md) 

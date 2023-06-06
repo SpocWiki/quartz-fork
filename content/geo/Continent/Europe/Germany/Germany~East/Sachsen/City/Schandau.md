@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schandau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schandau.md) 
-- [Schandau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schandau.internal.md) 
-- [Schandau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schandau.protect.md) 
-- [Schandau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schandau.private.md) 
-- [Schandau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schandau.personal.md) 
-- [Schandau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schandau.secret.md) 

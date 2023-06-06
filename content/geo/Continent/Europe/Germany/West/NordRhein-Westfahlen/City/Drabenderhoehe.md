@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Drabenderhoehe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drabenderhoehe.md) 
-- [Drabenderhoehe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drabenderhoehe.internal.md) 
-- [Drabenderhoehe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drabenderhoehe.protect.md) 
-- [Drabenderhoehe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drabenderhoehe.private.md) 
-- [Drabenderhoehe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drabenderhoehe.personal.md) 
-- [Drabenderhoehe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Drabenderhoehe.secret.md) 

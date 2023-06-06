@@ -45,10 +45,3 @@ A medical device used for diagnostic purposes.
 
 
 
-## Confidential Links & Embeds: 
-- [diagnostic](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.md) 
-- [diagnostic.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.internal.md) 
-- [diagnostic.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.protect.md) 
-- [diagnostic.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.private.md) 
-- [diagnostic.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.personal.md) 
-- [diagnostic.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.secret.md) 

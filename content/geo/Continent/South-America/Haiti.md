@@ -123,7 +123,7 @@ markerFolder: ./Haiti/City
 
 ![450](geo/Continent/South-America/Haiti/Coat_of_arms_of_Haiti.svg)
 
-![Anthem-Haiti](xLarge/National-Anthem/Anthem-Haiti.mp3)
+[Anthem-Haiti](xLarge/National-Anthem/Anthem-Haiti.mp3)
 
 ![350](geo/Continent/South-America/Haiti/Flag_of_Haiti.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Haiti/City
 
 
 
-## Confidential Links & Embeds: 
-- [Haiti](../../../../_public/geo/Continent/South-America/Haiti.md) 
-- [Haiti.internal](../../../../_internal/geo/Continent/South-America/Haiti.internal.md) 
-- [Haiti.protect](../../../../_protect/geo/Continent/South-America/Haiti.protect.md) 
-- [Haiti.private](../../../../_private/geo/Continent/South-America/Haiti.private.md) 
-- [Haiti.personal](../../../../_personal/geo/Continent/South-America/Haiti.personal.md) 
-- [Haiti.secret](../../../../_secret/geo/Continent/South-America/Haiti.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Paravisa](../../../../../../_public/geo/Continent/Europe/Italy/City/Paravisa.md) 
-- [Paravisa.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Paravisa.internal.md) 
-- [Paravisa.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Paravisa.protect.md) 
-- [Paravisa.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Paravisa.private.md) 
-- [Paravisa.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Paravisa.personal.md) 
-- [Paravisa.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Paravisa.secret.md) 

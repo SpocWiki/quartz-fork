@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Torro](../../../../../../_public/geo/Continent/Europe/Spain/City/Torro.md) 
-- [Torro.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Torro.internal.md) 
-- [Torro.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Torro.protect.md) 
-- [Torro.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Torro.private.md) 
-- [Torro.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Torro.personal.md) 
-- [Torro.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Torro.secret.md) 

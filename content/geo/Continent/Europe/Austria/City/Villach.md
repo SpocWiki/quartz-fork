@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Villach](../../../../../../_public/geo/Continent/Europe/Austria/City/Villach.md) 
-- [Villach.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Villach.internal.md) 
-- [Villach.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Villach.protect.md) 
-- [Villach.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Villach.private.md) 
-- [Villach.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Villach.personal.md) 
-- [Villach.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Villach.secret.md) 

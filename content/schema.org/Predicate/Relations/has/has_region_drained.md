@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_region_drained](../../../../../_public/schema.org/Predicate/Relations/has/has_region_drained.md) 
-- [has_region_drained.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_region_drained.internal.md) 
-- [has_region_drained.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_region_drained.protect.md) 
-- [has_region_drained.private](../../../../../_private/schema.org/Predicate/Relations/has/has_region_drained.private.md) 
-- [has_region_drained.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_region_drained.personal.md) 
-- [has_region_drained.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_region_drained.secret.md) 

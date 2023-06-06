@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Ostbahnhof_Sonnemannstr.](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Sonnemannstr..md) 
-- [T-Ostbahnhof_Sonnemannstr..internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Sonnemannstr..internal.md) 
-- [T-Ostbahnhof_Sonnemannstr..protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Sonnemannstr..protect.md) 
-- [T-Ostbahnhof_Sonnemannstr..private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Sonnemannstr..private.md) 
-- [T-Ostbahnhof_Sonnemannstr..personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Sonnemannstr..personal.md) 
-- [T-Ostbahnhof_Sonnemannstr..secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Ostbahnhof_Sonnemannstr..secret.md) 

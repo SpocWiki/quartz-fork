@@ -47,10 +47,3 @@ CharitableIncorporatedOrganization: Non-profit type referring to a Charitable In
 
 
 
-## Confidential Links & Embeds: 
-- [charitable_incorporated_organization](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.md) 
-- [charitable_incorporated_organization.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.internal.md) 
-- [charitable_incorporated_organization.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.protect.md) 
-- [charitable_incorporated_organization.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.private.md) 
-- [charitable_incorporated_organization.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.personal.md) 
-- [charitable_incorporated_organization.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.secret.md) 

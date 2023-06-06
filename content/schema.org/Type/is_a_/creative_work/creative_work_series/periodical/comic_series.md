@@ -47,10 +47,3 @@ A sequential publication of comic stories under a
 
 
 
-## Confidential Links & Embeds: 
-- [comic_series](../../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/comic_series.md) 
-- [comic_series.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/comic_series.internal.md) 
-- [comic_series.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/comic_series.protect.md) 
-- [comic_series.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/comic_series.private.md) 
-- [comic_series.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/comic_series.personal.md) 
-- [comic_series.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/comic_series.secret.md) 

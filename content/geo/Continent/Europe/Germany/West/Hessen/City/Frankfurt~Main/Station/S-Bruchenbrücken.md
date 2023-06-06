@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Bruchenbrücken](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bruchenbr%C3%BCcken.md) 
-- [S-Bruchenbrücken.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bruchenbr%C3%BCcken.internal.md) 
-- [S-Bruchenbrücken.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bruchenbr%C3%BCcken.protect.md) 
-- [S-Bruchenbrücken.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bruchenbr%C3%BCcken.private.md) 
-- [S-Bruchenbrücken.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bruchenbr%C3%BCcken.personal.md) 
-- [S-Bruchenbrücken.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bruchenbr%C3%BCcken.secret.md) 

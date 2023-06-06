@@ -126,7 +126,7 @@ markerFolder: ./Togo/City
 
 ![350](geo/Continent/Africa/Togo/Armoiries_du_Togo.svg)
 
-![Anthem-Togo](xLarge/National-Anthem/Anthem-Togo.mp3)
+[Anthem-Togo](xLarge/National-Anthem/Anthem-Togo.mp3)
 
 ![350](geo/Continent/Africa/Togo/Flag_of_Togo.svg)
 
@@ -137,10 +137,3 @@ markerFolder: ./Togo/City
 
 
 
-## Confidential Links & Embeds: 
-- [Togo](../../../../_public/geo/Continent/Africa/Togo.md) 
-- [Togo.internal](../../../../_internal/geo/Continent/Africa/Togo.internal.md) 
-- [Togo.protect](../../../../_protect/geo/Continent/Africa/Togo.protect.md) 
-- [Togo.private](../../../../_private/geo/Continent/Africa/Togo.private.md) 
-- [Togo.personal](../../../../_personal/geo/Continent/Africa/Togo.personal.md) 
-- [Togo.secret](../../../../_secret/geo/Continent/Africa/Togo.secret.md) 

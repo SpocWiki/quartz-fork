@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liebenthal](../../../../../../_public/geo/Continent/Europe/Poland/City/Liebenthal.md) 
-- [Liebenthal.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Liebenthal.internal.md) 
-- [Liebenthal.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Liebenthal.protect.md) 
-- [Liebenthal.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Liebenthal.private.md) 
-- [Liebenthal.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Liebenthal.personal.md) 
-- [Liebenthal.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Liebenthal.secret.md) 

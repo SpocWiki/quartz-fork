@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-High_Street_Kensington](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.md) 
-- [Sub-High_Street_Kensington.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.internal.md) 
-- [Sub-High_Street_Kensington.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.protect.md) 
-- [Sub-High_Street_Kensington.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.private.md) 
-- [Sub-High_Street_Kensington.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.personal.md) 
-- [Sub-High_Street_Kensington.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-High_Street_Kensington.secret.md) 

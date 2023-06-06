@@ -18,10 +18,3 @@ title: Triz-change-transparency
 Change the Transparency of an Object or its external Environment.
 
 
-## Confidential Links & Embeds: 
-- [Triz-change-transparency](../../../../_public/tech/Triz/Sub/Triz-change-transparency.md) 
-- [Triz-change-transparency.internal](../../../../_internal/tech/Triz/Sub/Triz-change-transparency.internal.md) 
-- [Triz-change-transparency.protect](../../../../_protect/tech/Triz/Sub/Triz-change-transparency.protect.md) 
-- [Triz-change-transparency.private](../../../../_private/tech/Triz/Sub/Triz-change-transparency.private.md) 
-- [Triz-change-transparency.personal](../../../../_personal/tech/Triz/Sub/Triz-change-transparency.personal.md) 
-- [Triz-change-transparency.secret](../../../../_secret/tech/Triz/Sub/Triz-change-transparency.secret.md) 

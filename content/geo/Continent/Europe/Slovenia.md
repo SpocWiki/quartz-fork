@@ -121,7 +121,7 @@ markerFolder: ./Slovenia/City
 [VehicleCode::SLO]
 [Capital::[Ljubliana](geo/Continent/Europe/Slovenia/City/Ljubliana.md)]
 ![350](geo/Continent/Europe/Slovenia/Coat_of_arms_of_Slovenia.svg)
-![Anthem-Slovenia](xLarge/National-Anthem/Anthem-Slovenia.mp3)
+[Anthem-Slovenia](xLarge/National-Anthem/Anthem-Slovenia.mp3)
 ![350](geo/Continent/Europe/Slovenia/Flag_of_Slovenia.svg)
 [Alcohol-l::15.2]
 [Language-Id::]
@@ -130,10 +130,3 @@ markerFolder: ./Slovenia/City
 
 
 
-## Confidential Links & Embeds: 
-- [Slovenia](../../../../_public/geo/Continent/Europe/Slovenia.md) 
-- [Slovenia.internal](../../../../_internal/geo/Continent/Europe/Slovenia.internal.md) 
-- [Slovenia.protect](../../../../_protect/geo/Continent/Europe/Slovenia.protect.md) 
-- [Slovenia.private](../../../../_private/geo/Continent/Europe/Slovenia.private.md) 
-- [Slovenia.personal](../../../../_personal/geo/Continent/Europe/Slovenia.personal.md) 
-- [Slovenia.secret](../../../../_secret/geo/Continent/Europe/Slovenia.secret.md) 

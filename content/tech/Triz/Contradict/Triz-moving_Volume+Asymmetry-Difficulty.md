@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Asymmetry-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Asymmetry-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Difficulty.md) 
-- [Triz-moving_Volume+Asymmetry-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Difficulty.internal.md) 
-- [Triz-moving_Volume+Asymmetry-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Difficulty.protect.md) 
-- [Triz-moving_Volume+Asymmetry-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Difficulty.private.md) 
-- [Triz-moving_Volume+Asymmetry-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Difficulty.personal.md) 
-- [Triz-moving_Volume+Asymmetry-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Asymmetry-Difficulty.secret.md) 

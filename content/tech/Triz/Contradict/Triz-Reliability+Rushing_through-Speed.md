@@ -19,10 +19,3 @@ title: Triz-Reliability+Rushing_through-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Rushing_through-Speed](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Speed.md) 
-- [Triz-Reliability+Rushing_through-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Speed.internal.md) 
-- [Triz-Reliability+Rushing_through-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Speed.protect.md) 
-- [Triz-Reliability+Rushing_through-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Speed.private.md) 
-- [Triz-Reliability+Rushing_through-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Speed.personal.md) 
-- [Triz-Reliability+Rushing_through-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Speed.secret.md) 

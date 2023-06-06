@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montreuil](../../../../../../_public/geo/Continent/Europe/France/City/Montreuil.md) 
-- [Montreuil.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Montreuil.internal.md) 
-- [Montreuil.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Montreuil.protect.md) 
-- [Montreuil.private](../../../../../../_private/geo/Continent/Europe/France/City/Montreuil.private.md) 
-- [Montreuil.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Montreuil.personal.md) 
-- [Montreuil.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Montreuil.secret.md) 

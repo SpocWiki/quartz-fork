@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tschern](../../../../../../_public/geo/Continent/Europe/Russia/City/Tschern.md) 
-- [Tschern.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschern.internal.md) 
-- [Tschern.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschern.protect.md) 
-- [Tschern.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tschern.private.md) 
-- [Tschern.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschern.personal.md) 
-- [Tschern.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschern.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Militsch](../../../../../../_public/geo/Continent/Europe/Poland/City/Militsch.md) 
-- [Militsch.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Militsch.internal.md) 
-- [Militsch.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Militsch.protect.md) 
-- [Militsch.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Militsch.private.md) 
-- [Militsch.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Militsch.personal.md) 
-- [Militsch.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Militsch.secret.md) 

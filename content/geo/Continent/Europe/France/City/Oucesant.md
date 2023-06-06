@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oucesant](../../../../../../_public/geo/Continent/Europe/France/City/Oucesant.md) 
-- [Oucesant.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Oucesant.internal.md) 
-- [Oucesant.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Oucesant.protect.md) 
-- [Oucesant.private](../../../../../../_private/geo/Continent/Europe/France/City/Oucesant.private.md) 
-- [Oucesant.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Oucesant.personal.md) 
-- [Oucesant.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Oucesant.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vastorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vastorf.md) 
-- [Vastorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vastorf.internal.md) 
-- [Vastorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vastorf.protect.md) 
-- [Vastorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vastorf.private.md) 
-- [Vastorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vastorf.personal.md) 
-- [Vastorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Vastorf.secret.md) 

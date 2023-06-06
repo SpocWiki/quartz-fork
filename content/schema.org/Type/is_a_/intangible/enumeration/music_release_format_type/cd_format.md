@@ -45,10 +45,3 @@ CDFormat.
 
 
 
-## Confidential Links & Embeds: 
-- [cd_format](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.md) 
-- [cd_format.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.internal.md) 
-- [cd_format.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.protect.md) 
-- [cd_format.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.private.md) 
-- [cd_format.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.personal.md) 
-- [cd_format.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cd_format.secret.md) 

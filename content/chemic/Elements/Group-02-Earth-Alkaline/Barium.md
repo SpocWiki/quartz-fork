@@ -34,10 +34,3 @@ SpocWebEntityId: 21952
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Barium)
 
-## Confidential Links & Embeds: 
-- [Barium](../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Barium.md) 
-- [Barium.internal](../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Barium.internal.md) 
-- [Barium.protect](../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Barium.protect.md) 
-- [Barium.private](../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Barium.private.md) 
-- [Barium.personal](../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Barium.personal.md) 
-- [Barium.secret](../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Barium.secret.md) 

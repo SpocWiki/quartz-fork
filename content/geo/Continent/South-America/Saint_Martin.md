@@ -36,10 +36,3 @@ markerFolder: ./Saint_Martin/City
 
 
 
-## Confidential Links & Embeds: 
-- [Saint_Martin](../../../../_public/geo/Continent/South-America/Saint_Martin.md) 
-- [Saint_Martin.internal](../../../../_internal/geo/Continent/South-America/Saint_Martin.internal.md) 
-- [Saint_Martin.protect](../../../../_protect/geo/Continent/South-America/Saint_Martin.protect.md) 
-- [Saint_Martin.private](../../../../_private/geo/Continent/South-America/Saint_Martin.private.md) 
-- [Saint_Martin.personal](../../../../_personal/geo/Continent/South-America/Saint_Martin.personal.md) 
-- [Saint_Martin.secret](../../../../_secret/geo/Continent/South-America/Saint_Martin.secret.md) 

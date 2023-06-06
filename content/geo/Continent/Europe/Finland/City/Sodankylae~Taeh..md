@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sodankylae~Taeh.](../../../../../../_public/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..md) 
-- [Sodankylae~Taeh..internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..internal.md) 
-- [Sodankylae~Taeh..protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..protect.md) 
-- [Sodankylae~Taeh..private](../../../../../../_private/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..private.md) 
-- [Sodankylae~Taeh..personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..personal.md) 
-- [Sodankylae~Taeh..secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Sodankylae~Taeh..secret.md) 

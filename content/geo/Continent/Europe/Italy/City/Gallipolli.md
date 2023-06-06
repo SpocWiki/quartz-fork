@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gallipolli](../../../../../../_public/geo/Continent/Europe/Italy/City/Gallipolli.md) 
-- [Gallipolli.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Gallipolli.internal.md) 
-- [Gallipolli.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Gallipolli.protect.md) 
-- [Gallipolli.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Gallipolli.private.md) 
-- [Gallipolli.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Gallipolli.personal.md) 
-- [Gallipolli.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Gallipolli.secret.md) 

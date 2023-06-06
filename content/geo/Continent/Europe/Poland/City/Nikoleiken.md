@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nikoleiken](../../../../../../_public/geo/Continent/Europe/Poland/City/Nikoleiken.md) 
-- [Nikoleiken.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Nikoleiken.internal.md) 
-- [Nikoleiken.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Nikoleiken.protect.md) 
-- [Nikoleiken.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Nikoleiken.private.md) 
-- [Nikoleiken.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Nikoleiken.personal.md) 
-- [Nikoleiken.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Nikoleiken.secret.md) 

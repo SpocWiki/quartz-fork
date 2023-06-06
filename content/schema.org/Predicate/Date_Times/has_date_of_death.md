@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_date_of_death](../../../../_public/schema.org/Predicate/Date_Times/has_date_of_death.md) 
-- [has_date_of_death.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_date_of_death.internal.md) 
-- [has_date_of_death.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_date_of_death.protect.md) 
-- [has_date_of_death.private](../../../../_private/schema.org/Predicate/Date_Times/has_date_of_death.private.md) 
-- [has_date_of_death.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_date_of_death.personal.md) 
-- [has_date_of_death.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_date_of_death.secret.md) 

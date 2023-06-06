@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sidmouth](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sidmouth.md) 
-- [Sidmouth.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sidmouth.internal.md) 
-- [Sidmouth.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sidmouth.protect.md) 
-- [Sidmouth.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sidmouth.private.md) 
-- [Sidmouth.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sidmouth.personal.md) 
-- [Sidmouth.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sidmouth.secret.md) 

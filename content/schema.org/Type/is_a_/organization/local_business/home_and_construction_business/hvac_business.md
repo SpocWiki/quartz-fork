@@ -43,10 +43,3 @@ A business that provides Heating, Ventilation and Air Conditioning services.
 
 
 
-## Confidential Links & Embeds: 
-- [hvac_business](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/hvac_business.md) 
-- [hvac_business.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/hvac_business.internal.md) 
-- [hvac_business.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/hvac_business.protect.md) 
-- [hvac_business.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/hvac_business.private.md) 
-- [hvac_business.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/hvac_business.personal.md) 
-- [hvac_business.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/hvac_business.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Andromedae-151](../../../_public/astro/Star/Andromedae-151.md) 
-- [Andromedae-151.internal](../../../_internal/astro/Star/Andromedae-151.internal.md) 
-- [Andromedae-151.protect](../../../_protect/astro/Star/Andromedae-151.protect.md) 
-- [Andromedae-151.private](../../../_private/astro/Star/Andromedae-151.private.md) 
-- [Andromedae-151.personal](../../../_personal/astro/Star/Andromedae-151.personal.md) 
-- [Andromedae-151.secret](../../../_secret/astro/Star/Andromedae-151.secret.md)
-

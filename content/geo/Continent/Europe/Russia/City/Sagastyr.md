@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sagastyr](../../../../../../_public/geo/Continent/Europe/Russia/City/Sagastyr.md) 
-- [Sagastyr.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sagastyr.internal.md) 
-- [Sagastyr.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sagastyr.protect.md) 
-- [Sagastyr.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sagastyr.private.md) 
-- [Sagastyr.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sagastyr.personal.md) 
-- [Sagastyr.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sagastyr.secret.md) 

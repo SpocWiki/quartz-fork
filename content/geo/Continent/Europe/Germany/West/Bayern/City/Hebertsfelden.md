@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hebertsfelden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Hebertsfelden.md) 
-- [Hebertsfelden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Hebertsfelden.internal.md) 
-- [Hebertsfelden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Hebertsfelden.protect.md) 
-- [Hebertsfelden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Hebertsfelden.private.md) 
-- [Hebertsfelden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Hebertsfelden.personal.md) 
-- [Hebertsfelden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Hebertsfelden.secret.md) 

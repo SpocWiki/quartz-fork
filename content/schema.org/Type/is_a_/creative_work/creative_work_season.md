@@ -47,10 +47,3 @@ A media season, e.g. TV, radio, video game etc.
 
 
 
-## Confidential Links & Embeds: 
-- [creative_work_season](../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_season.md) 
-- [creative_work_season.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_season.internal.md) 
-- [creative_work_season.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_season.protect.md) 
-- [creative_work_season.private](../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_season.private.md) 
-- [creative_work_season.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_season.personal.md) 
-- [creative_work_season.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_season.secret.md) 

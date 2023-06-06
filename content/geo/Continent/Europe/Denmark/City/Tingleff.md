@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tingleff](../../../../../../_public/geo/Continent/Europe/Denmark/City/Tingleff.md) 
-- [Tingleff.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Tingleff.internal.md) 
-- [Tingleff.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Tingleff.protect.md) 
-- [Tingleff.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Tingleff.private.md) 
-- [Tingleff.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Tingleff.personal.md) 
-- [Tingleff.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Tingleff.secret.md) 

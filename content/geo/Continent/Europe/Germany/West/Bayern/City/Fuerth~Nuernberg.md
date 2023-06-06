@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuerth~Nuernberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.md) 
-- [Fuerth~Nuernberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.internal.md) 
-- [Fuerth~Nuernberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.protect.md) 
-- [Fuerth~Nuernberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.private.md) 
-- [Fuerth~Nuernberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.personal.md) 
-- [Fuerth~Nuernberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.secret.md) 

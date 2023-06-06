@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Auen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Auen.md) 
-- [Auen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Auen.internal.md) 
-- [Auen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Auen.protect.md) 
-- [Auen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Auen.private.md) 
-- [Auen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Auen.personal.md) 
-- [Auen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Auen.secret.md) 

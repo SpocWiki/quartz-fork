@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oels](../../../../../../_public/geo/Continent/Europe/Poland/City/Oels.md) 
-- [Oels.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Oels.internal.md) 
-- [Oels.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Oels.protect.md) 
-- [Oels.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Oels.private.md) 
-- [Oels.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Oels.personal.md) 
-- [Oels.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Oels.secret.md) 

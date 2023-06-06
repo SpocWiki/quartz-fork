@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haimhausen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.md) 
-- [Haimhausen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.internal.md) 
-- [Haimhausen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.protect.md) 
-- [Haimhausen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.private.md) 
-- [Haimhausen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.personal.md) 
-- [Haimhausen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suojaervi](../../../../../../_public/geo/Continent/Europe/Finland/City/Suojaervi.md) 
-- [Suojaervi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Suojaervi.internal.md) 
-- [Suojaervi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Suojaervi.protect.md) 
-- [Suojaervi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Suojaervi.private.md) 
-- [Suojaervi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Suojaervi.personal.md) 
-- [Suojaervi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Suojaervi.secret.md) 

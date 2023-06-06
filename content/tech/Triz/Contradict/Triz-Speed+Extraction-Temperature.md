@@ -19,10 +19,3 @@ title: Triz-Speed+Extraction-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Extraction-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.md) 
-- [Triz-Speed+Extraction-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.internal.md) 
-- [Triz-Speed+Extraction-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.protect.md) 
-- [Triz-Speed+Extraction-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.private.md) 
-- [Triz-Speed+Extraction-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.personal.md) 
-- [Triz-Speed+Extraction-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Extraction-Temperature.secret.md) 

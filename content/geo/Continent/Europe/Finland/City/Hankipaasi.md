@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hankipaasi](../../../../../../_public/geo/Continent/Europe/Finland/City/Hankipaasi.md) 
-- [Hankipaasi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Hankipaasi.internal.md) 
-- [Hankipaasi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Hankipaasi.protect.md) 
-- [Hankipaasi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Hankipaasi.private.md) 
-- [Hankipaasi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Hankipaasi.personal.md) 
-- [Hankipaasi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Hankipaasi.secret.md) 

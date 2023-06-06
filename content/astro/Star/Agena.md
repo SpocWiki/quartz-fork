@@ -28,11 +28,3 @@ title: Agena
 
 
 
-## Confidential Links & Embeds: 
-- [Agena](../../../_public/astro/Star/Agena.md) 
-- [Agena.internal](../../../_internal/astro/Star/Agena.internal.md) 
-- [Agena.protect](../../../_protect/astro/Star/Agena.protect.md) 
-- [Agena.private](../../../_private/astro/Star/Agena.private.md) 
-- [Agena.personal](../../../_personal/astro/Star/Agena.personal.md) 
-- [Agena.secret](../../../_secret/astro/Star/Agena.secret.md)
-

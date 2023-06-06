@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amerting](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Amerting.md) 
-- [Amerting.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Amerting.internal.md) 
-- [Amerting.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Amerting.protect.md) 
-- [Amerting.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Amerting.private.md) 
-- [Amerting.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Amerting.personal.md) 
-- [Amerting.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Amerting.secret.md) 

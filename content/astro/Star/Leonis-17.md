@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Leonis-17](../../../_public/astro/Star/Leonis-17.md) 
-- [Leonis-17.internal](../../../_internal/astro/Star/Leonis-17.internal.md) 
-- [Leonis-17.protect](../../../_protect/astro/Star/Leonis-17.protect.md) 
-- [Leonis-17.private](../../../_private/astro/Star/Leonis-17.private.md) 
-- [Leonis-17.personal](../../../_personal/astro/Star/Leonis-17.personal.md) 
-- [Leonis-17.secret](../../../_secret/astro/Star/Leonis-17.secret.md)
-

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chiwa](../../../../../../_public/geo/Continent/Europe/Russia/City/Chiwa.md) 
-- [Chiwa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Chiwa.internal.md) 
-- [Chiwa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Chiwa.protect.md) 
-- [Chiwa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Chiwa.private.md) 
-- [Chiwa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Chiwa.personal.md) 
-- [Chiwa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Chiwa.secret.md) 

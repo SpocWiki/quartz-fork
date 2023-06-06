@@ -36,10 +36,3 @@ title: Polonium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Polonium)
 
-## Confidential Links & Embeds: 
-- [Polonium](../../../../_public/chemic/Elements/Group-16-Chalcogene/Polonium.md) 
-- [Polonium.internal](../../../../_internal/chemic/Elements/Group-16-Chalcogene/Polonium.internal.md) 
-- [Polonium.protect](../../../../_protect/chemic/Elements/Group-16-Chalcogene/Polonium.protect.md) 
-- [Polonium.private](../../../../_private/chemic/Elements/Group-16-Chalcogene/Polonium.private.md) 
-- [Polonium.personal](../../../../_personal/chemic/Elements/Group-16-Chalcogene/Polonium.personal.md) 
-- [Polonium.secret](../../../../_secret/chemic/Elements/Group-16-Chalcogene/Polonium.secret.md) 

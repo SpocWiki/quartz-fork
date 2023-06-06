@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuenfstetten](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Fuenfstetten.md) 
-- [Fuenfstetten.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuenfstetten.internal.md) 
-- [Fuenfstetten.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuenfstetten.protect.md) 
-- [Fuenfstetten.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuenfstetten.private.md) 
-- [Fuenfstetten.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fuenfstetten.personal.md) 
-- [Fuenfstetten.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fuenfstetten.secret.md) 

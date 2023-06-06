@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Copying-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Copying-Strength](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.md) 
-- [Triz-Energy-Loss+Copying-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.internal.md) 
-- [Triz-Energy-Loss+Copying-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.protect.md) 
-- [Triz-Energy-Loss+Copying-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.private.md) 
-- [Triz-Energy-Loss+Copying-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.personal.md) 
-- [Triz-Energy-Loss+Copying-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Copying-Strength.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Grumium](../../../_public/astro/Star/Grumium.md) 
-- [Grumium.internal](../../../_internal/astro/Star/Grumium.internal.md) 
-- [Grumium.protect](../../../_protect/astro/Star/Grumium.protect.md) 
-- [Grumium.private](../../../_private/astro/Star/Grumium.private.md) 
-- [Grumium.personal](../../../_personal/astro/Star/Grumium.personal.md) 
-- [Grumium.secret](../../../_secret/astro/Star/Grumium.secret.md)
-

@@ -30,7 +30,7 @@ markerFolder: ./Macedonia~North/City
 [VehicleCode::MK]
 [Capital::[Skopje](geo/Continent/Europe/Macedonia~North/City/Skopje.md)]
 ![350](Coat_of_arms_of_Macedonia.svg)
-![Anthem-Macedonia](xLarge/National-Anthem/Anthem-Macedonia.mp3)
+[Anthem-Macedonia](xLarge/National-Anthem/Anthem-Macedonia.mp3)
 ![350](Flag_of_Macedonia.svg)
 [Alcohol-l::8.5]
 [Language-Id::]
@@ -39,10 +39,3 @@ markerFolder: ./Macedonia~North/City
 
 
 
-## Confidential Links & Embeds: 
-- [Macedonia~North](../../../../_public/geo/Continent/Europe/Macedonia~North.md) 
-- [Macedonia~North.internal](../../../../_internal/geo/Continent/Europe/Macedonia~North.internal.md) 
-- [Macedonia~North.protect](../../../../_protect/geo/Continent/Europe/Macedonia~North.protect.md) 
-- [Macedonia~North.private](../../../../_private/geo/Continent/Europe/Macedonia~North.private.md) 
-- [Macedonia~North.personal](../../../../_personal/geo/Continent/Europe/Macedonia~North.personal.md) 
-- [Macedonia~North.secret](../../../../_secret/geo/Continent/Europe/Macedonia~North.secret.md) 

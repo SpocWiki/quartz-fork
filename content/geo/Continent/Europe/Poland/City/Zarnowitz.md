@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zarnowitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Zarnowitz.md) 
-- [Zarnowitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zarnowitz.internal.md) 
-- [Zarnowitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zarnowitz.protect.md) 
-- [Zarnowitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zarnowitz.private.md) 
-- [Zarnowitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zarnowitz.personal.md) 
-- [Zarnowitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zarnowitz.secret.md) 

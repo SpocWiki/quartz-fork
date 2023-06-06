@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bardenfleth](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bardenfleth.md) 
-- [Bardenfleth.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bardenfleth.internal.md) 
-- [Bardenfleth.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bardenfleth.protect.md) 
-- [Bardenfleth.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bardenfleth.private.md) 
-- [Bardenfleth.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bardenfleth.personal.md) 
-- [Bardenfleth.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Bardenfleth.secret.md) 

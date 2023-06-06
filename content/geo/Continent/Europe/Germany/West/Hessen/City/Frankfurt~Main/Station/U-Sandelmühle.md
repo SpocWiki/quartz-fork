@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Sandelmühle](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sandelm%C3%BChle.md) 
-- [U-Sandelmühle.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sandelm%C3%BChle.internal.md) 
-- [U-Sandelmühle.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sandelm%C3%BChle.protect.md) 
-- [U-Sandelmühle.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sandelm%C3%BChle.private.md) 
-- [U-Sandelmühle.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sandelm%C3%BChle.personal.md) 
-- [U-Sandelmühle.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sandelm%C3%BChle.secret.md) 

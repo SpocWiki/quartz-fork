@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Joal](../../../../../../_public/geo/Continent/Africa/Senegal/City/Joal.md) 
-- [Joal.internal](../../../../../../_internal/geo/Continent/Africa/Senegal/City/Joal.internal.md) 
-- [Joal.protect](../../../../../../_protect/geo/Continent/Africa/Senegal/City/Joal.protect.md) 
-- [Joal.private](../../../../../../_private/geo/Continent/Africa/Senegal/City/Joal.private.md) 
-- [Joal.personal](../../../../../../_personal/geo/Continent/Africa/Senegal/City/Joal.personal.md) 
-- [Joal.secret](../../../../../../_secret/geo/Continent/Africa/Senegal/City/Joal.secret.md) 

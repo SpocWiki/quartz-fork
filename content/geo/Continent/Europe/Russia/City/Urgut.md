@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Urgut](../../../../../../_public/geo/Continent/Europe/Russia/City/Urgut.md) 
-- [Urgut.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Urgut.internal.md) 
-- [Urgut.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Urgut.protect.md) 
-- [Urgut.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Urgut.private.md) 
-- [Urgut.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Urgut.personal.md) 
-- [Urgut.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Urgut.secret.md) 

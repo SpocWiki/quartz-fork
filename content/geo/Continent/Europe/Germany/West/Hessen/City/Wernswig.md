@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wernswig](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Wernswig.md) 
-- [Wernswig.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wernswig.internal.md) 
-- [Wernswig.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wernswig.protect.md) 
-- [Wernswig.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wernswig.private.md) 
-- [Wernswig.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wernswig.personal.md) 
-- [Wernswig.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wernswig.secret.md) 

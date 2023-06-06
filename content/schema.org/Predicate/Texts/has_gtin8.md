@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_gtin8](../../../../_public/schema.org/Predicate/Texts/has_gtin8.md) 
-- [has_gtin8.internal](../../../../_internal/schema.org/Predicate/Texts/has_gtin8.internal.md) 
-- [has_gtin8.protect](../../../../_protect/schema.org/Predicate/Texts/has_gtin8.protect.md) 
-- [has_gtin8.private](../../../../_private/schema.org/Predicate/Texts/has_gtin8.private.md) 
-- [has_gtin8.personal](../../../../_personal/schema.org/Predicate/Texts/has_gtin8.personal.md) 
-- [has_gtin8.secret](../../../../_secret/schema.org/Predicate/Texts/has_gtin8.secret.md) 

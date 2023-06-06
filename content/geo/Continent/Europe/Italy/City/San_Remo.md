@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [San_Remo](../../../../../../_public/geo/Continent/Europe/Italy/City/San_Remo.md) 
-- [San_Remo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/San_Remo.internal.md) 
-- [San_Remo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/San_Remo.protect.md) 
-- [San_Remo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/San_Remo.private.md) 
-- [San_Remo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/San_Remo.personal.md) 
-- [San_Remo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/San_Remo.secret.md) 

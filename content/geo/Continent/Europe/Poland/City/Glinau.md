@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Glinau](../../../../../../_public/geo/Continent/Europe/Poland/City/Glinau.md) 
-- [Glinau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Glinau.internal.md) 
-- [Glinau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Glinau.protect.md) 
-- [Glinau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Glinau.private.md) 
-- [Glinau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Glinau.personal.md) 
-- [Glinau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Glinau.secret.md) 

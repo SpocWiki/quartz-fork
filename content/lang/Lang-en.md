@@ -19,11 +19,3 @@ title: Lang-en
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-en](../../_public/lang/Lang-en.md) 
-- [Lang-en.internal](../../_internal/lang/Lang-en.internal.md) 
-- [Lang-en.protect](../../_protect/lang/Lang-en.protect.md) 
-- [Lang-en.private](../../_private/lang/Lang-en.private.md) 
-- [Lang-en.personal](../../_personal/lang/Lang-en.personal.md) 
-- [Lang-en.secret](../../_secret/lang/Lang-en.secret.md)
-

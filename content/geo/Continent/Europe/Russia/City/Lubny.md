@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lubny](../../../../../../_public/geo/Continent/Europe/Russia/City/Lubny.md) 
-- [Lubny.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Lubny.internal.md) 
-- [Lubny.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Lubny.protect.md) 
-- [Lubny.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Lubny.private.md) 
-- [Lubny.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Lubny.personal.md) 
-- [Lubny.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Lubny.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-affected_harm+Homogeneity-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Homogeneity-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Substance-Loss.md) 
-- [Triz-affected_harm+Homogeneity-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Substance-Loss.internal.md) 
-- [Triz-affected_harm+Homogeneity-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Substance-Loss.protect.md) 
-- [Triz-affected_harm+Homogeneity-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Substance-Loss.private.md) 
-- [Triz-affected_harm+Homogeneity-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Substance-Loss.personal.md) 
-- [Triz-affected_harm+Homogeneity-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Substance-Loss.secret.md) 

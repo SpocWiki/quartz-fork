@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zillendorf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Zillendorf.md) 
-- [Zillendorf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Zillendorf.internal.md) 
-- [Zillendorf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Zillendorf.protect.md) 
-- [Zillendorf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Zillendorf.private.md) 
-- [Zillendorf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Zillendorf.personal.md) 
-- [Zillendorf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Zillendorf.secret.md) 

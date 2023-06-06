@@ -19,10 +19,3 @@ title: Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.md) 
-- [Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.internal.md) 
-- [Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.protect.md) 
-- [Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.private.md) 
-- [Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.personal.md) 
-- [Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+An_inexpensive_short-life_object_instead_of_an_expensive_durable_one-Difficulty.secret.md) 

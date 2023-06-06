@@ -43,10 +43,3 @@ A ski resort.
 
 
 
-## Confidential Links & Embeds: 
-- [ski_resort](../../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.md) 
-- [ski_resort.internal](../../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.internal.md) 
-- [ski_resort.protect](../../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.protect.md) 
-- [ski_resort.private](../../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.private.md) 
-- [ski_resort.personal](../../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.personal.md) 
-- [ski_resort.secret](../../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.secret.md) 

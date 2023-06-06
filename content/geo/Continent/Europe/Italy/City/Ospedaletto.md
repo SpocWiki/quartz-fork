@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ospedaletto](../../../../../../_public/geo/Continent/Europe/Italy/City/Ospedaletto.md) 
-- [Ospedaletto.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Ospedaletto.internal.md) 
-- [Ospedaletto.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Ospedaletto.protect.md) 
-- [Ospedaletto.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Ospedaletto.private.md) 
-- [Ospedaletto.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Ospedaletto.personal.md) 
-- [Ospedaletto.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Ospedaletto.secret.md) 

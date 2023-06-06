@@ -14,10 +14,3 @@ title: Triz-Use_strong_oxidisers
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Use_strong_oxidisers](../../../../_public/tech/Triz/Principle/Triz-Use_strong_oxidisers.md) 
-- [Triz-Use_strong_oxidisers.internal](../../../../_internal/tech/Triz/Principle/Triz-Use_strong_oxidisers.internal.md) 
-- [Triz-Use_strong_oxidisers.protect](../../../../_protect/tech/Triz/Principle/Triz-Use_strong_oxidisers.protect.md) 
-- [Triz-Use_strong_oxidisers.private](../../../../_private/tech/Triz/Principle/Triz-Use_strong_oxidisers.private.md) 
-- [Triz-Use_strong_oxidisers.personal](../../../../_personal/tech/Triz/Principle/Triz-Use_strong_oxidisers.personal.md) 
-- [Triz-Use_strong_oxidisers.secret](../../../../_secret/tech/Triz/Principle/Triz-Use_strong_oxidisers.secret.md) 

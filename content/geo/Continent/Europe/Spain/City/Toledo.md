@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Toledo](../../../../../../_public/geo/Continent/Europe/Spain/City/Toledo.md) 
-- [Toledo.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Toledo.internal.md) 
-- [Toledo.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Toledo.protect.md) 
-- [Toledo.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Toledo.private.md) 
-- [Toledo.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Toledo.personal.md) 
-- [Toledo.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Toledo.secret.md) 

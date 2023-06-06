@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Smolensk](../../../../../../_public/geo/Continent/Europe/Russia/City/Smolensk.md) 
-- [Smolensk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Smolensk.internal.md) 
-- [Smolensk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Smolensk.protect.md) 
-- [Smolensk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Smolensk.private.md) 
-- [Smolensk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Smolensk.personal.md) 
-- [Smolensk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Smolensk.secret.md) 

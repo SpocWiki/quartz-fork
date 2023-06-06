@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Laubenheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.md) 
-- [Laubenheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.internal.md) 
-- [Laubenheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.protect.md) 
-- [Laubenheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.private.md) 
-- [Laubenheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.personal.md) 
-- [Laubenheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Laubenheim.secret.md) 

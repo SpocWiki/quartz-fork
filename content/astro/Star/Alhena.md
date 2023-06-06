@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alhena](../../../_public/astro/Star/Alhena.md) 
-- [Alhena.internal](../../../_internal/astro/Star/Alhena.internal.md) 
-- [Alhena.protect](../../../_protect/astro/Star/Alhena.protect.md) 
-- [Alhena.private](../../../_private/astro/Star/Alhena.private.md) 
-- [Alhena.personal](../../../_personal/astro/Star/Alhena.personal.md) 
-- [Alhena.secret](../../../_secret/astro/Star/Alhena.secret.md)
-

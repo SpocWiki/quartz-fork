@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Larne](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.md) 
-- [Larne.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.internal.md) 
-- [Larne.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.protect.md) 
-- [Larne.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.private.md) 
-- [Larne.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.personal.md) 
-- [Larne.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Ireland~North/Larne.secret.md) 

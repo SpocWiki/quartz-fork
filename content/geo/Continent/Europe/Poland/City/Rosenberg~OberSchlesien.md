@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rosenberg~OberSchlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.md) 
-- [Rosenberg~OberSchlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.internal.md) 
-- [Rosenberg~OberSchlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.protect.md) 
-- [Rosenberg~OberSchlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.private.md) 
-- [Rosenberg~OberSchlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.personal.md) 
-- [Rosenberg~OberSchlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rosenberg~OberSchlesien.secret.md) 

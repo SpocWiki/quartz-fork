@@ -19,10 +19,3 @@ title: Triz-Complexity+Inversion-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Complexity+Inversion-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.md) 
-- [Triz-Complexity+Inversion-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.internal.md) 
-- [Triz-Complexity+Inversion-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.protect.md) 
-- [Triz-Complexity+Inversion-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.private.md) 
-- [Triz-Complexity+Inversion-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.personal.md) 
-- [Triz-Complexity+Inversion-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Complexity+Inversion-Reliability.secret.md) 

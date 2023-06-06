@@ -45,10 +45,3 @@ A health profession of a person formally educated and trained in the care of the
 
 
 
-## Confidential Links & Embeds: 
-- [nursing](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/nursing.md) 
-- [nursing.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/nursing.internal.md) 
-- [nursing.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/nursing.protect.md) 
-- [nursing.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/nursing.private.md) 
-- [nursing.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/nursing.personal.md) 
-- [nursing.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/nursing.secret.md) 

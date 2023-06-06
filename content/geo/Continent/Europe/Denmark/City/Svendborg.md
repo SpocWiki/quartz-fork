@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Svendborg](../../../../../../_public/geo/Continent/Europe/Denmark/City/Svendborg.md) 
-- [Svendborg.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Svendborg.internal.md) 
-- [Svendborg.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Svendborg.protect.md) 
-- [Svendborg.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Svendborg.private.md) 
-- [Svendborg.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Svendborg.personal.md) 
-- [Svendborg.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Svendborg.secret.md) 

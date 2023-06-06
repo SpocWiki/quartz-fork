@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Floetenstein](../../../../../../_public/geo/Continent/Europe/Poland/City/Floetenstein.md) 
-- [Floetenstein.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Floetenstein.internal.md) 
-- [Floetenstein.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Floetenstein.protect.md) 
-- [Floetenstein.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Floetenstein.private.md) 
-- [Floetenstein.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Floetenstein.personal.md) 
-- [Floetenstein.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Floetenstein.secret.md) 

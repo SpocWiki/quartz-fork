@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Munsvattnet](../../../../../../_public/geo/Continent/Europe/Sweden/City/Munsvattnet.md) 
-- [Munsvattnet.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Munsvattnet.internal.md) 
-- [Munsvattnet.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Munsvattnet.protect.md) 
-- [Munsvattnet.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Munsvattnet.private.md) 
-- [Munsvattnet.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Munsvattnet.personal.md) 
-- [Munsvattnet.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Munsvattnet.secret.md) 

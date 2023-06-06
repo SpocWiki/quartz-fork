@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hradec_Kralove](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.md) 
-- [Hradec_Kralove.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.internal.md) 
-- [Hradec_Kralove.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.protect.md) 
-- [Hradec_Kralove.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.private.md) 
-- [Hradec_Kralove.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.personal.md) 
-- [Hradec_Kralove.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.secret.md) 

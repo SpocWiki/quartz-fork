@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wagram](../../../../../../_public/geo/Continent/Europe/Austria/City/Wagram.md) 
-- [Wagram.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Wagram.internal.md) 
-- [Wagram.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Wagram.protect.md) 
-- [Wagram.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Wagram.private.md) 
-- [Wagram.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Wagram.personal.md) 
-- [Wagram.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Wagram.secret.md) 

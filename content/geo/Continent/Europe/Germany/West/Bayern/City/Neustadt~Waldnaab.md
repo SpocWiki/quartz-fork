@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neustadt~Waldnaab](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.md) 
-- [Neustadt~Waldnaab.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.internal.md) 
-- [Neustadt~Waldnaab.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.protect.md) 
-- [Neustadt~Waldnaab.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.private.md) 
-- [Neustadt~Waldnaab.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.personal.md) 
-- [Neustadt~Waldnaab.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Waldnaab.secret.md) 

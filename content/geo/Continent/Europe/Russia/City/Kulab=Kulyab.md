@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kulab=Kulyab](../../../../../../_public/geo/Continent/Europe/Russia/City/Kulab=Kulyab.md) 
-- [Kulab=Kulyab.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kulab=Kulyab.internal.md) 
-- [Kulab=Kulyab.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kulab=Kulyab.protect.md) 
-- [Kulab=Kulyab.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kulab=Kulyab.private.md) 
-- [Kulab=Kulyab.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kulab=Kulyab.personal.md) 
-- [Kulab=Kulyab.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kulab=Kulyab.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Londonderry](../../../../../../_public/geo/Continent/Europe/Ireland/City/Londonderry.md) 
-- [Londonderry.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Londonderry.internal.md) 
-- [Londonderry.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Londonderry.protect.md) 
-- [Londonderry.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Londonderry.private.md) 
-- [Londonderry.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Londonderry.personal.md) 
-- [Londonderry.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Londonderry.secret.md) 

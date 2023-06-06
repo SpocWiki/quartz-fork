@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [MÜhlacker](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/M%C3%9Chlacker.md) 
-- [MÜhlacker.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/M%C3%9Chlacker.internal.md) 
-- [MÜhlacker.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/M%C3%9Chlacker.protect.md) 
-- [MÜhlacker.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/M%C3%9Chlacker.private.md) 
-- [MÜhlacker.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/M%C3%9Chlacker.personal.md) 
-- [MÜhlacker.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/M%C3%9Chlacker.secret.md) 

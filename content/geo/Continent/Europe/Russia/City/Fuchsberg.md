@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuchsberg](../../../../../../_public/geo/Continent/Europe/Russia/City/Fuchsberg.md) 
-- [Fuchsberg.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Fuchsberg.internal.md) 
-- [Fuchsberg.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Fuchsberg.protect.md) 
-- [Fuchsberg.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Fuchsberg.private.md) 
-- [Fuchsberg.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Fuchsberg.personal.md) 
-- [Fuchsberg.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Fuchsberg.secret.md) 

@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_live](../../../../_public/schema.org/Predicate/Flags/is_live.md) 
-- [is_live.internal](../../../../_internal/schema.org/Predicate/Flags/is_live.internal.md) 
-- [is_live.protect](../../../../_protect/schema.org/Predicate/Flags/is_live.protect.md) 
-- [is_live.private](../../../../_private/schema.org/Predicate/Flags/is_live.private.md) 
-- [is_live.personal](../../../../_personal/schema.org/Predicate/Flags/is_live.personal.md) 
-- [is_live.secret](../../../../_secret/schema.org/Predicate/Flags/is_live.secret.md) 

@@ -45,10 +45,3 @@ The practice of treatment of disease, injury, or deformity by physical methods s
 
 
 
-## Confidential Links & Embeds: 
-- [physiotherapy](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/physiotherapy.md) 
-- [physiotherapy.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/physiotherapy.internal.md) 
-- [physiotherapy.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/physiotherapy.protect.md) 
-- [physiotherapy.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/physiotherapy.private.md) 
-- [physiotherapy.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/physiotherapy.personal.md) 
-- [physiotherapy.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/physiotherapy.secret.md) 

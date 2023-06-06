@@ -19,10 +19,3 @@ title: Triz-Stability+Flexible_film_or_thin_membranes-affected_harm
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Flexible_film_or_thin_membranes-affected_harm](../../../../_public/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.md) 
-- [Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.internal.md) 
-- [Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.protect.md) 
-- [Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.private.md) 
-- [Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.personal.md) 
-- [Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Flexible_film_or_thin_membranes-affected_harm.secret.md) 

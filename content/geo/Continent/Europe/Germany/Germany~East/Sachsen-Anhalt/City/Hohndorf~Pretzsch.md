@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hohndorf~Pretzsch](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.md) 
-- [Hohndorf~Pretzsch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.internal.md) 
-- [Hohndorf~Pretzsch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.protect.md) 
-- [Hohndorf~Pretzsch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.private.md) 
-- [Hohndorf~Pretzsch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.personal.md) 
-- [Hohndorf~Pretzsch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Hohndorf~Pretzsch.secret.md) 

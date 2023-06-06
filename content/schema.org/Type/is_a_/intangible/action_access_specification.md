@@ -43,10 +43,3 @@ A set of requirements that must be fulfilled in order to perform an Action.
 
 
 
-## Confidential Links & Embeds: 
-- [action_access_specification](../../../../../_public/schema.org/Type/is_a_/intangible/action_access_specification.md) 
-- [action_access_specification.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/action_access_specification.internal.md) 
-- [action_access_specification.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/action_access_specification.protect.md) 
-- [action_access_specification.private](../../../../../_private/schema.org/Type/is_a_/intangible/action_access_specification.private.md) 
-- [action_access_specification.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/action_access_specification.personal.md) 
-- [action_access_specification.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/action_access_specification.secret.md) 

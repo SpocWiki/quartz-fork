@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Swerdlowsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Swerdlowsk.md) 
-- [Swerdlowsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Swerdlowsk.internal.md) 
-- [Swerdlowsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Swerdlowsk.protect.md) 
-- [Swerdlowsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Swerdlowsk.private.md) 
-- [Swerdlowsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Swerdlowsk.personal.md) 
-- [Swerdlowsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Swerdlowsk.secret.md) 

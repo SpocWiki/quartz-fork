@@ -45,10 +45,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_media_authenticity_category](../../../../../_public/schema.org/Predicate/Relations/has/has_media_authenticity_category.md) 
-- [has_media_authenticity_category.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_media_authenticity_category.internal.md) 
-- [has_media_authenticity_category.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_media_authenticity_category.protect.md) 
-- [has_media_authenticity_category.private](../../../../../_private/schema.org/Predicate/Relations/has/has_media_authenticity_category.private.md) 
-- [has_media_authenticity_category.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_media_authenticity_category.personal.md) 
-- [has_media_authenticity_category.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_media_authenticity_category.secret.md) 

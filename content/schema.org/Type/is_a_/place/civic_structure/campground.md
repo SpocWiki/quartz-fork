@@ -47,10 +47,3 @@ See also the dedicated <a href="/docs/hotels.html">document on the use of schema
 
 
 
-## Confidential Links & Embeds: 
-- [campground](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/campground.md) 
-- [campground.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/campground.internal.md) 
-- [campground.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/campground.protect.md) 
-- [campground.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/campground.private.md) 
-- [campground.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/campground.personal.md) 
-- [campground.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/campground.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hodmezovasarhely](../../../../../../_public/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.md) 
-- [Hodmezovasarhely.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.internal.md) 
-- [Hodmezovasarhely.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.protect.md) 
-- [Hodmezovasarhely.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.private.md) 
-- [Hodmezovasarhely.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.personal.md) 
-- [Hodmezovasarhely.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Hodmezovasarhely.secret.md) 

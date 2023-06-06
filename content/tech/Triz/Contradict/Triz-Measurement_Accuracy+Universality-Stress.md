@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Universality-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Universality-Stress](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.md) 
-- [Triz-Measurement_Accuracy+Universality-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.internal.md) 
-- [Triz-Measurement_Accuracy+Universality-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.protect.md) 
-- [Triz-Measurement_Accuracy+Universality-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.private.md) 
-- [Triz-Measurement_Accuracy+Universality-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.personal.md) 
-- [Triz-Measurement_Accuracy+Universality-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Universality-Stress.secret.md) 

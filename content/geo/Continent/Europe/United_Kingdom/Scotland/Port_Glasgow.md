@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Port_Glasgow](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.md) 
-- [Port_Glasgow.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.internal.md) 
-- [Port_Glasgow.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.protect.md) 
-- [Port_Glasgow.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.private.md) 
-- [Port_Glasgow.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.personal.md) 
-- [Port_Glasgow.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Scotland/Port_Glasgow.secret.md) 

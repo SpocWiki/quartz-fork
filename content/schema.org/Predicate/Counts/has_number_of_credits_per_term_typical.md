@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_credits_per_term_typical](../../../../_public/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.md) 
-- [has_number_of_credits_per_term_typical.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.internal.md) 
-- [has_number_of_credits_per_term_typical.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.protect.md) 
-- [has_number_of_credits_per_term_typical.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.private.md) 
-- [has_number_of_credits_per_term_typical.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.personal.md) 
-- [has_number_of_credits_per_term_typical.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.secret.md) 

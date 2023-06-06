@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peiskretscham](../../../../../../_public/geo/Continent/Europe/Poland/City/Peiskretscham.md) 
-- [Peiskretscham.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Peiskretscham.internal.md) 
-- [Peiskretscham.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Peiskretscham.protect.md) 
-- [Peiskretscham.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Peiskretscham.private.md) 
-- [Peiskretscham.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Peiskretscham.personal.md) 
-- [Peiskretscham.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Peiskretscham.secret.md) 

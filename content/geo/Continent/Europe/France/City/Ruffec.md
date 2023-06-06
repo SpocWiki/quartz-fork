@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ruffec](../../../../../../_public/geo/Continent/Europe/France/City/Ruffec.md) 
-- [Ruffec.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Ruffec.internal.md) 
-- [Ruffec.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Ruffec.protect.md) 
-- [Ruffec.private](../../../../../../_private/geo/Continent/Europe/France/City/Ruffec.private.md) 
-- [Ruffec.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Ruffec.personal.md) 
-- [Ruffec.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Ruffec.secret.md) 

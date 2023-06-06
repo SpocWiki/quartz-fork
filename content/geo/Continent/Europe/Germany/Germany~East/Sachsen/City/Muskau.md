@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muskau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau.md) 
-- [Muskau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau.internal.md) 
-- [Muskau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau.protect.md) 
-- [Muskau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau.private.md) 
-- [Muskau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau.personal.md) 
-- [Muskau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Muskau.secret.md) 

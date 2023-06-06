@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nortmoor](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.md) 
-- [Nortmoor.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.internal.md) 
-- [Nortmoor.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.protect.md) 
-- [Nortmoor.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.private.md) 
-- [Nortmoor.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.personal.md) 
-- [Nortmoor.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nortmoor.secret.md) 

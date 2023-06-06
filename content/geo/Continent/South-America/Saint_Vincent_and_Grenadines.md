@@ -36,10 +36,3 @@ markerFolder: ./Saint_Vincent_And_The_Grenadines/City
 
 
 
-## Confidential Links & Embeds: 
-- [Saint_Vincent_and_Grenadines](../../../../_public/geo/Continent/South-America/Saint_Vincent_and_Grenadines.md) 
-- [Saint_Vincent_and_Grenadines.internal](../../../../_internal/geo/Continent/South-America/Saint_Vincent_and_Grenadines.internal.md) 
-- [Saint_Vincent_and_Grenadines.protect](../../../../_protect/geo/Continent/South-America/Saint_Vincent_and_Grenadines.protect.md) 
-- [Saint_Vincent_and_Grenadines.private](../../../../_private/geo/Continent/South-America/Saint_Vincent_and_Grenadines.private.md) 
-- [Saint_Vincent_and_Grenadines.personal](../../../../_personal/geo/Continent/South-America/Saint_Vincent_and_Grenadines.personal.md) 
-- [Saint_Vincent_and_Grenadines.secret](../../../../_secret/geo/Continent/South-America/Saint_Vincent_and_Grenadines.secret.md) 

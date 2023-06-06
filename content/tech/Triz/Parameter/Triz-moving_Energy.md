@@ -17,10 +17,3 @@ title: Triz-moving_Energy
 
 Use of energy by moving object
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy](../../../../_public/tech/Triz/Parameter/Triz-moving_Energy.md) 
-- [Triz-moving_Energy.internal](../../../../_internal/tech/Triz/Parameter/Triz-moving_Energy.internal.md) 
-- [Triz-moving_Energy.protect](../../../../_protect/tech/Triz/Parameter/Triz-moving_Energy.protect.md) 
-- [Triz-moving_Energy.private](../../../../_private/tech/Triz/Parameter/Triz-moving_Energy.private.md) 
-- [Triz-moving_Energy.personal](../../../../_personal/tech/Triz/Parameter/Triz-moving_Energy.personal.md) 
-- [Triz-moving_Energy.secret](../../../../_secret/tech/Triz/Parameter/Triz-moving_Energy.secret.md) 

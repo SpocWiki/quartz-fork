@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kasan](../../../../../../_public/geo/Continent/Europe/Russia/City/Kasan.md) 
-- [Kasan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kasan.internal.md) 
-- [Kasan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kasan.protect.md) 
-- [Kasan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kasan.private.md) 
-- [Kasan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kasan.personal.md) 
-- [Kasan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kasan.secret.md) 

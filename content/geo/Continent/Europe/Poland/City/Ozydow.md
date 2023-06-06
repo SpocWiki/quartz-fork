@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ozydow](../../../../../../_public/geo/Continent/Europe/Poland/City/Ozydow.md) 
-- [Ozydow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ozydow.internal.md) 
-- [Ozydow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ozydow.protect.md) 
-- [Ozydow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ozydow.private.md) 
-- [Ozydow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ozydow.personal.md) 
-- [Ozydow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ozydow.secret.md) 

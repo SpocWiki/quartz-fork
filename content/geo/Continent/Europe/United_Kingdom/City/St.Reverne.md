@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Reverne](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/St.Reverne.md) 
-- [St.Reverne.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/St.Reverne.internal.md) 
-- [St.Reverne.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/St.Reverne.protect.md) 
-- [St.Reverne.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/St.Reverne.private.md) 
-- [St.Reverne.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/St.Reverne.personal.md) 
-- [St.Reverne.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/St.Reverne.secret.md) 

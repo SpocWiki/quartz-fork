@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Mechanical_vibration-moving_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Duration](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Duration.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Duration.internal.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Duration.protect.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Duration.private.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Duration.personal.md) 
-- [Triz-Substance-Loss+Mechanical_vibration-moving_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Mechanical_vibration-moving_Duration.secret.md) 

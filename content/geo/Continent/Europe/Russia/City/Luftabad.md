@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luftabad](../../../../../../_public/geo/Continent/Europe/Russia/City/Luftabad.md) 
-- [Luftabad.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Luftabad.internal.md) 
-- [Luftabad.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Luftabad.protect.md) 
-- [Luftabad.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Luftabad.private.md) 
-- [Luftabad.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Luftabad.personal.md) 
-- [Luftabad.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Luftabad.secret.md) 

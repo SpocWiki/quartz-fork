@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kumanovo](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Kumanovo.md) 
-- [Kumanovo.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Kumanovo.internal.md) 
-- [Kumanovo.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Kumanovo.protect.md) 
-- [Kumanovo.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Kumanovo.private.md) 
-- [Kumanovo.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Kumanovo.personal.md) 
-- [Kumanovo.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Kumanovo.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaposvar](../../../../../../_public/geo/Continent/Europe/Hungary/City/Kaposvar.md) 
-- [Kaposvar.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Kaposvar.internal.md) 
-- [Kaposvar.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Kaposvar.protect.md) 
-- [Kaposvar.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Kaposvar.private.md) 
-- [Kaposvar.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Kaposvar.personal.md) 
-- [Kaposvar.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Kaposvar.secret.md) 

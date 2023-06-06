@@ -45,10 +45,3 @@ A business providing entertainment.
 
 
 
-## Confidential Links & Embeds: 
-- [entertainment_business](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business.md) 
-- [entertainment_business.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business.internal.md) 
-- [entertainment_business.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business.protect.md) 
-- [entertainment_business.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business.private.md) 
-- [entertainment_business.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business.personal.md) 
-- [entertainment_business.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business.secret.md) 

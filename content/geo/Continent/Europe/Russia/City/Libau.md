@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Libau](../../../../../../_public/geo/Continent/Europe/Russia/City/Libau.md) 
-- [Libau.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Libau.internal.md) 
-- [Libau.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Libau.protect.md) 
-- [Libau.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Libau.private.md) 
-- [Libau.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Libau.personal.md) 
-- [Libau.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Libau.secret.md) 

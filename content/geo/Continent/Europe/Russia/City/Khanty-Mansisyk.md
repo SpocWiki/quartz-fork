@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Khanty-Mansisyk](../../../../../../_public/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.md) 
-- [Khanty-Mansisyk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.internal.md) 
-- [Khanty-Mansisyk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.protect.md) 
-- [Khanty-Mansisyk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.private.md) 
-- [Khanty-Mansisyk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.personal.md) 
-- [Khanty-Mansisyk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.secret.md) 

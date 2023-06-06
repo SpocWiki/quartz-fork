@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hademarschen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hademarschen.md) 
-- [Hademarschen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hademarschen.internal.md) 
-- [Hademarschen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hademarschen.protect.md) 
-- [Hademarschen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hademarschen.private.md) 
-- [Hademarschen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hademarschen.personal.md) 
-- [Hademarschen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Hademarschen.secret.md) 

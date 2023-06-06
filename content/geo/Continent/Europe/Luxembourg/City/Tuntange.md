@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tuntange](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Tuntange.md) 
-- [Tuntange.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Tuntange.internal.md) 
-- [Tuntange.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Tuntange.protect.md) 
-- [Tuntange.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Tuntange.private.md) 
-- [Tuntange.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Tuntange.personal.md) 
-- [Tuntange.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Tuntange.secret.md) 

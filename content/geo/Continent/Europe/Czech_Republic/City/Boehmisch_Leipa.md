@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Boehmisch_Leipa](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.md) 
-- [Boehmisch_Leipa.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.internal.md) 
-- [Boehmisch_Leipa.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.protect.md) 
-- [Boehmisch_Leipa.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.private.md) 
-- [Boehmisch_Leipa.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.personal.md) 
-- [Boehmisch_Leipa.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.secret.md) 

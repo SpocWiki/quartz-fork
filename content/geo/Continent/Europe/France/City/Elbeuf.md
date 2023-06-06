@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Elbeuf](../../../../../../_public/geo/Continent/Europe/France/City/Elbeuf.md) 
-- [Elbeuf.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Elbeuf.internal.md) 
-- [Elbeuf.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Elbeuf.protect.md) 
-- [Elbeuf.private](../../../../../../_private/geo/Continent/Europe/France/City/Elbeuf.private.md) 
-- [Elbeuf.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Elbeuf.personal.md) 
-- [Elbeuf.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Elbeuf.secret.md) 

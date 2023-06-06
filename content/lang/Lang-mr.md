@@ -19,11 +19,3 @@ title: Lang-mr
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-mr](../../_public/lang/Lang-mr.md) 
-- [Lang-mr.internal](../../_internal/lang/Lang-mr.internal.md) 
-- [Lang-mr.protect](../../_protect/lang/Lang-mr.protect.md) 
-- [Lang-mr.private](../../_private/lang/Lang-mr.private.md) 
-- [Lang-mr.personal](../../_personal/lang/Lang-mr.personal.md) 
-- [Lang-mr.secret](../../_secret/lang/Lang-mr.secret.md)
-

@@ -19,10 +19,3 @@ title: Triz-Temperature+Periodic_action-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Periodic_action-Shape](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.md) 
-- [Triz-Temperature+Periodic_action-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.internal.md) 
-- [Triz-Temperature+Periodic_action-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.protect.md) 
-- [Triz-Temperature+Periodic_action-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.private.md) 
-- [Triz-Temperature+Periodic_action-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.personal.md) 
-- [Triz-Temperature+Periodic_action-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Periodic_action-Shape.secret.md) 

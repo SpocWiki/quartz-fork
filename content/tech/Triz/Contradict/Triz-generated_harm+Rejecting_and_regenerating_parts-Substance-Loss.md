@@ -19,10 +19,3 @@ title: Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.md) 
-- [Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.internal.md) 
-- [Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.protect.md) 
-- [Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.private.md) 
-- [Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.personal.md) 
-- [Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Rejecting_and_regenerating_parts-Substance-Loss.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mogilew-Podolskiy](../../../../../../_public/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.md) 
-- [Mogilew-Podolskiy.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.internal.md) 
-- [Mogilew-Podolskiy.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.protect.md) 
-- [Mogilew-Podolskiy.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.private.md) 
-- [Mogilew-Podolskiy.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.personal.md) 
-- [Mogilew-Podolskiy.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mogilew-Podolskiy.secret.md) 

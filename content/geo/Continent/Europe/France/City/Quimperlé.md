@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Quimperlé](../../../../../../_public/geo/Continent/Europe/France/City/Quimperl%C3%A9.md) 
-- [Quimperlé.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Quimperl%C3%A9.internal.md) 
-- [Quimperlé.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Quimperl%C3%A9.protect.md) 
-- [Quimperlé.private](../../../../../../_private/geo/Continent/Europe/France/City/Quimperl%C3%A9.private.md) 
-- [Quimperlé.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Quimperl%C3%A9.personal.md) 
-- [Quimperlé.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Quimperl%C3%A9.secret.md) 

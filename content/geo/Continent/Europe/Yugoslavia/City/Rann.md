@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rann](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Rann.md) 
-- [Rann.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Rann.internal.md) 
-- [Rann.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Rann.protect.md) 
-- [Rann.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Rann.private.md) 
-- [Rann.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Rann.personal.md) 
-- [Rann.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Rann.secret.md) 

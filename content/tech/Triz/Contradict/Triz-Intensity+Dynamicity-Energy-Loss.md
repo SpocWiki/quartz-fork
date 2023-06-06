@@ -19,10 +19,3 @@ title: Triz-Intensity+Dynamicity-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Dynamicity-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Energy-Loss.md) 
-- [Triz-Intensity+Dynamicity-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Energy-Loss.internal.md) 
-- [Triz-Intensity+Dynamicity-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Energy-Loss.protect.md) 
-- [Triz-Intensity+Dynamicity-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Energy-Loss.private.md) 
-- [Triz-Intensity+Dynamicity-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Energy-Loss.personal.md) 
-- [Triz-Intensity+Dynamicity-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Dynamicity-Energy-Loss.secret.md) 

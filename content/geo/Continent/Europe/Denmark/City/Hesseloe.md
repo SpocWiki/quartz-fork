@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hesseloe](../../../../../../_public/geo/Continent/Europe/Denmark/City/Hesseloe.md) 
-- [Hesseloe.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Hesseloe.internal.md) 
-- [Hesseloe.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Hesseloe.protect.md) 
-- [Hesseloe.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Hesseloe.private.md) 
-- [Hesseloe.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Hesseloe.personal.md) 
-- [Hesseloe.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Hesseloe.secret.md) 

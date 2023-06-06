@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Warnsveld](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Warnsveld.md) 
-- [Warnsveld.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Warnsveld.internal.md) 
-- [Warnsveld.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Warnsveld.protect.md) 
-- [Warnsveld.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Warnsveld.private.md) 
-- [Warnsveld.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Warnsveld.personal.md) 
-- [Warnsveld.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Warnsveld.secret.md) 

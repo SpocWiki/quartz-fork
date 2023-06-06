@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Keighley](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Keighley.md) 
-- [Keighley.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Keighley.internal.md) 
-- [Keighley.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Keighley.protect.md) 
-- [Keighley.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Keighley.private.md) 
-- [Keighley.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Keighley.personal.md) 
-- [Keighley.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Keighley.secret.md) 

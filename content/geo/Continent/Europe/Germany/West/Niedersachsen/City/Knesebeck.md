@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Knesebeck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Knesebeck.md) 
-- [Knesebeck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Knesebeck.internal.md) 
-- [Knesebeck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Knesebeck.protect.md) 
-- [Knesebeck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Knesebeck.private.md) 
-- [Knesebeck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Knesebeck.personal.md) 
-- [Knesebeck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Knesebeck.secret.md) 

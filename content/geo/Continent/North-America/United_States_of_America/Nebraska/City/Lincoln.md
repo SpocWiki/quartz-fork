@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lincoln](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.md) 
-- [Lincoln.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.internal.md) 
-- [Lincoln.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.protect.md) 
-- [Lincoln.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.private.md) 
-- [Lincoln.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.personal.md) 
-- [Lincoln.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nebraska/City/Lincoln.secret.md) 

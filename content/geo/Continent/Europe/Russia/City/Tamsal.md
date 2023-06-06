@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tamsal](../../../../../../_public/geo/Continent/Europe/Russia/City/Tamsal.md) 
-- [Tamsal.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tamsal.internal.md) 
-- [Tamsal.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tamsal.protect.md) 
-- [Tamsal.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tamsal.private.md) 
-- [Tamsal.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tamsal.personal.md) 
-- [Tamsal.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tamsal.secret.md) 

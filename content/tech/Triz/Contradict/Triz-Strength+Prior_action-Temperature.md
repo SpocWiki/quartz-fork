@@ -19,10 +19,3 @@ title: Triz-Strength+Prior_action-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Prior_action-Temperature](../../../../_public/tech/Triz/Contradict/Triz-Strength+Prior_action-Temperature.md) 
-- [Triz-Strength+Prior_action-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Prior_action-Temperature.internal.md) 
-- [Triz-Strength+Prior_action-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Prior_action-Temperature.protect.md) 
-- [Triz-Strength+Prior_action-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Prior_action-Temperature.private.md) 
-- [Triz-Strength+Prior_action-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Prior_action-Temperature.personal.md) 
-- [Triz-Strength+Prior_action-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Prior_action-Temperature.secret.md) 

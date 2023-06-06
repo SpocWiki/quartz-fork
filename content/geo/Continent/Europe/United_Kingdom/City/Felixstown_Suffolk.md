@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Felixstown_Suffolk](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Felixstown_Suffolk.md) 
-- [Felixstown_Suffolk.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Felixstown_Suffolk.internal.md) 
-- [Felixstown_Suffolk.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Felixstown_Suffolk.protect.md) 
-- [Felixstown_Suffolk.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Felixstown_Suffolk.private.md) 
-- [Felixstown_Suffolk.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Felixstown_Suffolk.personal.md) 
-- [Felixstown_Suffolk.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Felixstown_Suffolk.secret.md) 

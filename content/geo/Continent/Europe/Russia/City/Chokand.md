@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chokand](../../../../../../_public/geo/Continent/Europe/Russia/City/Chokand.md) 
-- [Chokand.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Chokand.internal.md) 
-- [Chokand.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Chokand.protect.md) 
-- [Chokand.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Chokand.private.md) 
-- [Chokand.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Chokand.personal.md) 
-- [Chokand.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Chokand.secret.md) 

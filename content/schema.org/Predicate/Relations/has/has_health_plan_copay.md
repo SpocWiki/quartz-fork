@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_health_plan_copay](../../../../../_public/schema.org/Predicate/Relations/has/has_health_plan_copay.md) 
-- [has_health_plan_copay.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_health_plan_copay.internal.md) 
-- [has_health_plan_copay.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_health_plan_copay.protect.md) 
-- [has_health_plan_copay.private](../../../../../_private/schema.org/Predicate/Relations/has/has_health_plan_copay.private.md) 
-- [has_health_plan_copay.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_health_plan_copay.personal.md) 
-- [has_health_plan_copay.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_health_plan_copay.secret.md) 

@@ -49,10 +49,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_geo_ineligible_region](../../../../_public/schema.org/Predicate/geos/has_geo_ineligible_region.md) 
-- [has_geo_ineligible_region.internal](../../../../_internal/schema.org/Predicate/geos/has_geo_ineligible_region.internal.md) 
-- [has_geo_ineligible_region.protect](../../../../_protect/schema.org/Predicate/geos/has_geo_ineligible_region.protect.md) 
-- [has_geo_ineligible_region.private](../../../../_private/schema.org/Predicate/geos/has_geo_ineligible_region.private.md) 
-- [has_geo_ineligible_region.personal](../../../../_personal/schema.org/Predicate/geos/has_geo_ineligible_region.personal.md) 
-- [has_geo_ineligible_region.secret](../../../../_secret/schema.org/Predicate/geos/has_geo_ineligible_region.secret.md) 

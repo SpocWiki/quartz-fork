@@ -31,10 +31,3 @@ SpocWebEntityId: 21922
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scandium)
 
-## Confidential Links & Embeds: 
-- [Scandium](../../../../_public/chemic/Elements/Group-03-Scandium/Scandium.md) 
-- [Scandium.internal](../../../../_internal/chemic/Elements/Group-03-Scandium/Scandium.internal.md) 
-- [Scandium.protect](../../../../_protect/chemic/Elements/Group-03-Scandium/Scandium.protect.md) 
-- [Scandium.private](../../../../_private/chemic/Elements/Group-03-Scandium/Scandium.private.md) 
-- [Scandium.personal](../../../../_personal/chemic/Elements/Group-03-Scandium/Scandium.personal.md) 
-- [Scandium.secret](../../../../_secret/chemic/Elements/Group-03-Scandium/Scandium.secret.md) 

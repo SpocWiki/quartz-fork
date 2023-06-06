@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luettich](../../../../../../_public/geo/Continent/Europe/Belgium/City/Luettich.md) 
-- [Luettich.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Luettich.internal.md) 
-- [Luettich.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Luettich.protect.md) 
-- [Luettich.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Luettich.private.md) 
-- [Luettich.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Luettich.personal.md) 
-- [Luettich.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Luettich.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Illumination+Changing_the_color-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Changing_the_color-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.md) 
-- [Triz-Illumination+Changing_the_color-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.internal.md) 
-- [Triz-Illumination+Changing_the_color-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.protect.md) 
-- [Triz-Illumination+Changing_the_color-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.private.md) 
-- [Triz-Illumination+Changing_the_color-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.personal.md) 
-- [Triz-Illumination+Changing_the_color-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Changing_the_color-Complexity.secret.md) 

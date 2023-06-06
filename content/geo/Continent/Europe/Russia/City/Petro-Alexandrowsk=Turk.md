@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Petro-Alexandrowsk=Turk](../../../../../../_public/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.md) 
-- [Petro-Alexandrowsk=Turk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.internal.md) 
-- [Petro-Alexandrowsk=Turk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.protect.md) 
-- [Petro-Alexandrowsk=Turk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.private.md) 
-- [Petro-Alexandrowsk=Turk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.personal.md) 
-- [Petro-Alexandrowsk=Turk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Petro-Alexandrowsk=Turk.secret.md) 

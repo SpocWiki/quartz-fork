@@ -45,10 +45,3 @@ Appearance assessment with clinical examination.
 
 
 
-## Confidential Links & Embeds: 
-- [appearance](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/appearance.md) 
-- [appearance.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/appearance.internal.md) 
-- [appearance.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/appearance.protect.md) 
-- [appearance.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/appearance.private.md) 
-- [appearance.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/appearance.personal.md) 
-- [appearance.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/physical_exam/appearance.secret.md) 

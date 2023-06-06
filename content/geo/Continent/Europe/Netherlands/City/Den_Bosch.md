@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Den_Bosch](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Den_Bosch.md) 
-- [Den_Bosch.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Den_Bosch.internal.md) 
-- [Den_Bosch.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Den_Bosch.protect.md) 
-- [Den_Bosch.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Den_Bosch.private.md) 
-- [Den_Bosch.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Den_Bosch.personal.md) 
-- [Den_Bosch.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Den_Bosch.secret.md) 

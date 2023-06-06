@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kimramala](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kimramala.md) 
-- [Kimramala.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kimramala.internal.md) 
-- [Kimramala.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kimramala.protect.md) 
-- [Kimramala.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kimramala.private.md) 
-- [Kimramala.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kimramala.personal.md) 
-- [Kimramala.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kimramala.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Regenstauf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Regenstauf.md) 
-- [Regenstauf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Regenstauf.internal.md) 
-- [Regenstauf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Regenstauf.protect.md) 
-- [Regenstauf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Regenstauf.private.md) 
-- [Regenstauf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Regenstauf.personal.md) 
-- [Regenstauf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Regenstauf.secret.md) 

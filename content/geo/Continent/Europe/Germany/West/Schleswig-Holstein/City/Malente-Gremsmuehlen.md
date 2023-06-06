@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Malente-Gremsmuehlen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Malente-Gremsmuehlen.md) 
-- [Malente-Gremsmuehlen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Malente-Gremsmuehlen.internal.md) 
-- [Malente-Gremsmuehlen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Malente-Gremsmuehlen.protect.md) 
-- [Malente-Gremsmuehlen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Malente-Gremsmuehlen.private.md) 
-- [Malente-Gremsmuehlen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Malente-Gremsmuehlen.personal.md) 
-- [Malente-Gremsmuehlen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Malente-Gremsmuehlen.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mappach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Mappach.md) 
-- [Mappach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mappach.internal.md) 
-- [Mappach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mappach.protect.md) 
-- [Mappach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mappach.private.md) 
-- [Mappach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Mappach.personal.md) 
-- [Mappach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Mappach.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [New_Ross](../../../../../../_public/geo/Continent/Europe/Ireland/City/New_Ross.md) 
-- [New_Ross.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/New_Ross.internal.md) 
-- [New_Ross.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/New_Ross.protect.md) 
-- [New_Ross.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/New_Ross.private.md) 
-- [New_Ross.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/New_Ross.personal.md) 
-- [New_Ross.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/New_Ross.secret.md) 

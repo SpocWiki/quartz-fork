@@ -19,10 +19,3 @@ title: Triz-Automation+Inversion-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Inversion-Strength](../../../../_public/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.md) 
-- [Triz-Automation+Inversion-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.internal.md) 
-- [Triz-Automation+Inversion-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.protect.md) 
-- [Triz-Automation+Inversion-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.private.md) 
-- [Triz-Automation+Inversion-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.personal.md) 
-- [Triz-Automation+Inversion-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Inversion-Strength.secret.md) 

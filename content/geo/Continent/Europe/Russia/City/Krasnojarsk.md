@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krasnojarsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Krasnojarsk.md) 
-- [Krasnojarsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Krasnojarsk.internal.md) 
-- [Krasnojarsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Krasnojarsk.protect.md) 
-- [Krasnojarsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Krasnojarsk.private.md) 
-- [Krasnojarsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Krasnojarsk.personal.md) 
-- [Krasnojarsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Krasnojarsk.secret.md) 

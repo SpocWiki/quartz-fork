@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moenchen-Gladbach=Moenchengladbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.md) 
-- [Moenchen-Gladbach=Moenchengladbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.internal.md) 
-- [Moenchen-Gladbach=Moenchengladbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.protect.md) 
-- [Moenchen-Gladbach=Moenchengladbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.private.md) 
-- [Moenchen-Gladbach=Moenchengladbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.personal.md) 
-- [Moenchen-Gladbach=Moenchengladbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Moenchen-Gladbach=Moenchengladbach.secret.md) 

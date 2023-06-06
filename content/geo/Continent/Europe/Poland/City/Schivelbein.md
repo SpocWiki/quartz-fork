@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schivelbein](../../../../../../_public/geo/Continent/Europe/Poland/City/Schivelbein.md) 
-- [Schivelbein.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schivelbein.internal.md) 
-- [Schivelbein.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schivelbein.protect.md) 
-- [Schivelbein.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schivelbein.private.md) 
-- [Schivelbein.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schivelbein.personal.md) 
-- [Schivelbein.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schivelbein.secret.md) 

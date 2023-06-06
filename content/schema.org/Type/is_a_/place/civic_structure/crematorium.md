@@ -43,10 +43,3 @@ A crematorium.
 
 
 
-## Confidential Links & Embeds: 
-- [crematorium](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/crematorium.md) 
-- [crematorium.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/crematorium.internal.md) 
-- [crematorium.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/crematorium.protect.md) 
-- [crematorium.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/crematorium.private.md) 
-- [crematorium.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/crematorium.personal.md) 
-- [crematorium.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/crematorium.secret.md) 

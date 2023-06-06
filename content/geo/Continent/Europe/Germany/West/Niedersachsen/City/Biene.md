@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Biene](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Biene.md) 
-- [Biene.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Biene.internal.md) 
-- [Biene.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Biene.protect.md) 
-- [Biene.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Biene.private.md) 
-- [Biene.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Biene.personal.md) 
-- [Biene.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Biene.secret.md) 

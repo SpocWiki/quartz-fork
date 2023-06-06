@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gelentschik](../../../../../../_public/geo/Continent/Europe/Russia/City/Gelentschik.md) 
-- [Gelentschik.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Gelentschik.internal.md) 
-- [Gelentschik.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Gelentschik.protect.md) 
-- [Gelentschik.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Gelentschik.private.md) 
-- [Gelentschik.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Gelentschik.personal.md) 
-- [Gelentschik.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Gelentschik.secret.md) 

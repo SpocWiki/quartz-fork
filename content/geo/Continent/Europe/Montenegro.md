@@ -122,7 +122,7 @@ markerFolder: ./Montenegro/City
 [VehicleCode::MNE]
 [Capital::[Podgorica](geo/Continent/Europe/Montenegro/City/Podgorica.md)]
 ![350](geo/Continent/Europe/Montenegro/Coat_of_arms_of_Montenegro.svg)
-![Anthem-Montenegro](xLarge/National-Anthem/Anthem-Montenegro.mp3)
+[Anthem-Montenegro](xLarge/National-Anthem/Anthem-Montenegro.mp3)
 ![350](geo/Continent/Europe/Montenegro/Flag_of_Montenegro.svg)
 [Alcohol-l::]
 [Language-Id::]
@@ -131,10 +131,3 @@ markerFolder: ./Montenegro/City
 
 
 
-## Confidential Links & Embeds: 
-- [Montenegro](../../../../_public/geo/Continent/Europe/Montenegro.md) 
-- [Montenegro.internal](../../../../_internal/geo/Continent/Europe/Montenegro.internal.md) 
-- [Montenegro.protect](../../../../_protect/geo/Continent/Europe/Montenegro.protect.md) 
-- [Montenegro.private](../../../../_private/geo/Continent/Europe/Montenegro.private.md) 
-- [Montenegro.personal](../../../../_personal/geo/Continent/Europe/Montenegro.personal.md) 
-- [Montenegro.secret](../../../../_secret/geo/Continent/Europe/Montenegro.secret.md) 

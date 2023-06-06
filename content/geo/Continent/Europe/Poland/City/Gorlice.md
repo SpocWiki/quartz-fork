@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gorlice](../../../../../../_public/geo/Continent/Europe/Poland/City/Gorlice.md) 
-- [Gorlice.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Gorlice.internal.md) 
-- [Gorlice.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Gorlice.protect.md) 
-- [Gorlice.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Gorlice.private.md) 
-- [Gorlice.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Gorlice.personal.md) 
-- [Gorlice.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Gorlice.secret.md) 

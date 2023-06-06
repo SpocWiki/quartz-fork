@@ -36,10 +36,3 @@ SpocWebEntityId: 21999
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Rutherfordium)
 
-## Confidential Links & Embeds: 
-- [Rutherfordium](../../../../_public/chemic/Elements/Group-04-Titanium/Rutherfordium.md) 
-- [Rutherfordium.internal](../../../../_internal/chemic/Elements/Group-04-Titanium/Rutherfordium.internal.md) 
-- [Rutherfordium.protect](../../../../_protect/chemic/Elements/Group-04-Titanium/Rutherfordium.protect.md) 
-- [Rutherfordium.private](../../../../_private/chemic/Elements/Group-04-Titanium/Rutherfordium.private.md) 
-- [Rutherfordium.personal](../../../../_personal/chemic/Elements/Group-04-Titanium/Rutherfordium.personal.md) 
-- [Rutherfordium.secret](../../../../_secret/chemic/Elements/Group-04-Titanium/Rutherfordium.secret.md) 

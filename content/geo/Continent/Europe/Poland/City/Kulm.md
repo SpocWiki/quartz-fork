@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kulm](../../../../../../_public/geo/Continent/Europe/Poland/City/Kulm.md) 
-- [Kulm.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kulm.internal.md) 
-- [Kulm.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kulm.protect.md) 
-- [Kulm.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kulm.private.md) 
-- [Kulm.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kulm.personal.md) 
-- [Kulm.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kulm.secret.md) 

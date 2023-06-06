@@ -121,7 +121,7 @@ markerFolder: ./Qatar/City
 
 ![350](geo/Continent/Asia/Qatar/Emblem_of_Qatar.svg)
 
-![Anthem-Qatar](xLarge/National-Anthem/Anthem-Qatar.mp3)
+[Anthem-Qatar](xLarge/National-Anthem/Anthem-Qatar.mp3)
 
 ![350](geo/Continent/Asia/Qatar/Flag_of_Qatar.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Qatar/City
 
 
 
-## Confidential Links & Embeds: 
-- [Qatar](../../../../_public/geo/Continent/Asia/Qatar.md) 
-- [Qatar.internal](../../../../_internal/geo/Continent/Asia/Qatar.internal.md) 
-- [Qatar.protect](../../../../_protect/geo/Continent/Asia/Qatar.protect.md) 
-- [Qatar.private](../../../../_private/geo/Continent/Asia/Qatar.private.md) 
-- [Qatar.personal](../../../../_personal/geo/Continent/Asia/Qatar.personal.md) 
-- [Qatar.secret](../../../../_secret/geo/Continent/Asia/Qatar.secret.md) 

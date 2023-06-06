@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_health_condition](../../../../../_public/schema.org/Predicate/Relations/has/has_health_condition.md) 
-- [has_health_condition.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_health_condition.internal.md) 
-- [has_health_condition.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_health_condition.protect.md) 
-- [has_health_condition.private](../../../../../_private/schema.org/Predicate/Relations/has/has_health_condition.private.md) 
-- [has_health_condition.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_health_condition.personal.md) 
-- [has_health_condition.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_health_condition.secret.md) 

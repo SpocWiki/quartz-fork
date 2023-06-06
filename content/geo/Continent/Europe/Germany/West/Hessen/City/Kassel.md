@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kassel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.md) 
-- [Kassel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.internal.md) 
-- [Kassel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.protect.md) 
-- [Kassel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.private.md) 
-- [Kassel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.personal.md) 
-- [Kassel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Kassel.secret.md) 

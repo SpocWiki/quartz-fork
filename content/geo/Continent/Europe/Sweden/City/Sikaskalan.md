@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sikaskalan](../../../../../../_public/geo/Continent/Europe/Sweden/City/Sikaskalan.md) 
-- [Sikaskalan.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Sikaskalan.internal.md) 
-- [Sikaskalan.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Sikaskalan.protect.md) 
-- [Sikaskalan.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Sikaskalan.private.md) 
-- [Sikaskalan.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Sikaskalan.personal.md) 
-- [Sikaskalan.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Sikaskalan.secret.md) 

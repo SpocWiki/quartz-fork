@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaxholm](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaxholm.md) 
-- [Vaxholm.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaxholm.internal.md) 
-- [Vaxholm.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaxholm.protect.md) 
-- [Vaxholm.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaxholm.private.md) 
-- [Vaxholm.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaxholm.personal.md) 
-- [Vaxholm.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaxholm.secret.md) 

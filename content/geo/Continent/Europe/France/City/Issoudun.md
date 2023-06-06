@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Issoudun](../../../../../../_public/geo/Continent/Europe/France/City/Issoudun.md) 
-- [Issoudun.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Issoudun.internal.md) 
-- [Issoudun.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Issoudun.protect.md) 
-- [Issoudun.private](../../../../../../_private/geo/Continent/Europe/France/City/Issoudun.private.md) 
-- [Issoudun.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Issoudun.personal.md) 
-- [Issoudun.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Issoudun.secret.md) 

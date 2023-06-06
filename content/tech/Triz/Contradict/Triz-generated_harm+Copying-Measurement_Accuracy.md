@@ -19,10 +19,3 @@ title: Triz-generated_harm+Copying-Measurement_Accuracy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Copying-Measurement_Accuracy](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.md) 
-- [Triz-generated_harm+Copying-Measurement_Accuracy.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.internal.md) 
-- [Triz-generated_harm+Copying-Measurement_Accuracy.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.protect.md) 
-- [Triz-generated_harm+Copying-Measurement_Accuracy.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.private.md) 
-- [Triz-generated_harm+Copying-Measurement_Accuracy.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.personal.md) 
-- [Triz-generated_harm+Copying-Measurement_Accuracy.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Copying-Measurement_Accuracy.secret.md) 

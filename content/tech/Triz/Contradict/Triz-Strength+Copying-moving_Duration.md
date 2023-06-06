@@ -19,10 +19,3 @@ title: Triz-Strength+Copying-moving_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Copying-moving_Duration](../../../../_public/tech/Triz/Contradict/Triz-Strength+Copying-moving_Duration.md) 
-- [Triz-Strength+Copying-moving_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Copying-moving_Duration.internal.md) 
-- [Triz-Strength+Copying-moving_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Copying-moving_Duration.protect.md) 
-- [Triz-Strength+Copying-moving_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Copying-moving_Duration.private.md) 
-- [Triz-Strength+Copying-moving_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Copying-moving_Duration.personal.md) 
-- [Triz-Strength+Copying-moving_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Copying-moving_Duration.secret.md) 

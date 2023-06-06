@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Klitzschen](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klitzschen.md) 
-- [Klitzschen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klitzschen.internal.md) 
-- [Klitzschen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klitzschen.protect.md) 
-- [Klitzschen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klitzschen.private.md) 
-- [Klitzschen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klitzschen.personal.md) 
-- [Klitzschen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Klitzschen.secret.md) 

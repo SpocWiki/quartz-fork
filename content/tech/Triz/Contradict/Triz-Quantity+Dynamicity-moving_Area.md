@@ -19,10 +19,3 @@ title: Triz-Quantity+Dynamicity-moving_Area
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Dynamicity-moving_Area](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Dynamicity-moving_Area.md) 
-- [Triz-Quantity+Dynamicity-moving_Area.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Dynamicity-moving_Area.internal.md) 
-- [Triz-Quantity+Dynamicity-moving_Area.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Dynamicity-moving_Area.protect.md) 
-- [Triz-Quantity+Dynamicity-moving_Area.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Dynamicity-moving_Area.private.md) 
-- [Triz-Quantity+Dynamicity-moving_Area.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Dynamicity-moving_Area.personal.md) 
-- [Triz-Quantity+Dynamicity-moving_Area.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Dynamicity-moving_Area.secret.md) 

@@ -47,10 +47,3 @@ Nonprofit501c28: Non-profit type referring to National Railroad Retirement Inves
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c28](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.md) 
-- [nonprofit501c28.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.internal.md) 
-- [nonprofit501c28.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.protect.md) 
-- [nonprofit501c28.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.private.md) 
-- [nonprofit501c28.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.personal.md) 
-- [nonprofit501c28.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.secret.md) 

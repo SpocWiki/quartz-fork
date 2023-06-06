@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pori](../../../../../../_public/geo/Continent/Europe/Finland/City/Pori.md) 
-- [Pori.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Pori.internal.md) 
-- [Pori.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Pori.protect.md) 
-- [Pori.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Pori.private.md) 
-- [Pori.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Pori.personal.md) 
-- [Pori.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Pori.secret.md) 

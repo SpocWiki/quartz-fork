@@ -18,10 +18,3 @@ title: Triz-weight-environment
 To compensate for the weight of an object, make it interact with the environment (e.g. use aerodynamic, hydrodynamic, buoyancy and other forces).
 
 
-## Confidential Links & Embeds: 
-- [Triz-weight-environment](../../../../_public/tech/Triz/Sub/Triz-weight-environment.md) 
-- [Triz-weight-environment.internal](../../../../_internal/tech/Triz/Sub/Triz-weight-environment.internal.md) 
-- [Triz-weight-environment.protect](../../../../_protect/tech/Triz/Sub/Triz-weight-environment.protect.md) 
-- [Triz-weight-environment.private](../../../../_private/tech/Triz/Sub/Triz-weight-environment.private.md) 
-- [Triz-weight-environment.personal](../../../../_personal/tech/Triz/Sub/Triz-weight-environment.personal.md) 
-- [Triz-weight-environment.secret](../../../../_secret/tech/Triz/Sub/Triz-weight-environment.secret.md) 

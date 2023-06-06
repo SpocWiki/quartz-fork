@@ -47,10 +47,3 @@ Categorization and other types related to a topic.
 
 
 
-## Confidential Links & Embeds: 
-- [types_health_aspect](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.md) 
-- [types_health_aspect.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.internal.md) 
-- [types_health_aspect.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.protect.md) 
-- [types_health_aspect.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.private.md) 
-- [types_health_aspect.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.personal.md) 
-- [types_health_aspect.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/types_health_aspect.secret.md) 

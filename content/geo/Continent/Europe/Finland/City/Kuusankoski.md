@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kuusankoski](../../../../../../_public/geo/Continent/Europe/Finland/City/Kuusankoski.md) 
-- [Kuusankoski.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kuusankoski.internal.md) 
-- [Kuusankoski.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kuusankoski.protect.md) 
-- [Kuusankoski.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kuusankoski.private.md) 
-- [Kuusankoski.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kuusankoski.personal.md) 
-- [Kuusankoski.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kuusankoski.secret.md) 

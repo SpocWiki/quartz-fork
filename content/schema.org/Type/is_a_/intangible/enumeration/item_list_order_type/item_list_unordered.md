@@ -45,10 +45,3 @@ An ItemList ordered with no explicit order.
 
 
 
-## Confidential Links & Embeds: 
-- [item_list_unordered](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.md) 
-- [item_list_unordered.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.internal.md) 
-- [item_list_unordered.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.protect.md) 
-- [item_list_unordered.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.private.md) 
-- [item_list_unordered.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.personal.md) 
-- [item_list_unordered.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.secret.md) 

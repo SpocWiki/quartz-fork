@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.md) 
-- [Marburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.internal.md) 
-- [Marburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.protect.md) 
-- [Marburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.private.md) 
-- [Marburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.personal.md) 
-- [Marburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Marburg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Logrono](../../../../../../_public/geo/Continent/Europe/Spain/City/Logrono.md) 
-- [Logrono.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Logrono.internal.md) 
-- [Logrono.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Logrono.protect.md) 
-- [Logrono.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Logrono.private.md) 
-- [Logrono.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Logrono.personal.md) 
-- [Logrono.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Logrono.secret.md) 

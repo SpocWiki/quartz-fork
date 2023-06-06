@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_years_in_operation](../../../../_public/schema.org/Predicate/Quantities/has_value_for_years_in_operation.md) 
-- [has_value_for_years_in_operation.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_years_in_operation.internal.md) 
-- [has_value_for_years_in_operation.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_years_in_operation.protect.md) 
-- [has_value_for_years_in_operation.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_years_in_operation.private.md) 
-- [has_value_for_years_in_operation.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_years_in_operation.personal.md) 
-- [has_value_for_years_in_operation.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_years_in_operation.secret.md) 

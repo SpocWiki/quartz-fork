@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Panama~City](../../../../../../_public/geo/Continent/South-America/Panama/City/Panama~City.md) 
-- [Panama~City.internal](../../../../../../_internal/geo/Continent/South-America/Panama/City/Panama~City.internal.md) 
-- [Panama~City.protect](../../../../../../_protect/geo/Continent/South-America/Panama/City/Panama~City.protect.md) 
-- [Panama~City.private](../../../../../../_private/geo/Continent/South-America/Panama/City/Panama~City.private.md) 
-- [Panama~City.personal](../../../../../../_personal/geo/Continent/South-America/Panama/City/Panama~City.personal.md) 
-- [Panama~City.secret](../../../../../../_secret/geo/Continent/South-America/Panama/City/Panama~City.secret.md) 

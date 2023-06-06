@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pyatigorsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Pyatigorsk.md) 
-- [Pyatigorsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Pyatigorsk.internal.md) 
-- [Pyatigorsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Pyatigorsk.protect.md) 
-- [Pyatigorsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Pyatigorsk.private.md) 
-- [Pyatigorsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Pyatigorsk.personal.md) 
-- [Pyatigorsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Pyatigorsk.secret.md) 

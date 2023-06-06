@@ -43,10 +43,3 @@ An Insurance agency.
 
 
 
-## Confidential Links & Embeds: 
-- [insurance_agency](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.md) 
-- [insurance_agency.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.internal.md) 
-- [insurance_agency.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.protect.md) 
-- [insurance_agency.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.private.md) 
-- [insurance_agency.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.personal.md) 
-- [insurance_agency.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.secret.md) 

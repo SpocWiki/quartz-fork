@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Boras](../../../../../../_public/geo/Continent/Europe/Sweden/City/Boras.md) 
-- [Boras.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Boras.internal.md) 
-- [Boras.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Boras.protect.md) 
-- [Boras.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Boras.private.md) 
-- [Boras.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Boras.personal.md) 
-- [Boras.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Boras.secret.md) 

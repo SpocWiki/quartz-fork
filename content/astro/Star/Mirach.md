@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Mirach](../../../_public/astro/Star/Mirach.md) 
-- [Mirach.internal](../../../_internal/astro/Star/Mirach.internal.md) 
-- [Mirach.protect](../../../_protect/astro/Star/Mirach.protect.md) 
-- [Mirach.private](../../../_private/astro/Star/Mirach.private.md) 
-- [Mirach.personal](../../../_personal/astro/Star/Mirach.personal.md) 
-- [Mirach.secret](../../../_secret/astro/Star/Mirach.secret.md) 

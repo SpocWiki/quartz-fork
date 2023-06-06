@@ -34,10 +34,3 @@ SpocWebEntityId: 21983
 > [Wikipedia](https://en.wikipedia.org/wiki/Radium)
 
 
-## Confidential Links & Embeds: 
-- [Radium](../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Radium.md) 
-- [Radium.internal](../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Radium.internal.md) 
-- [Radium.protect](../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Radium.protect.md) 
-- [Radium.private](../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Radium.private.md) 
-- [Radium.personal](../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Radium.personal.md) 
-- [Radium.secret](../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Radium.secret.md) 

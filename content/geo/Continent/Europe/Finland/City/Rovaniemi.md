@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rovaniemi](../../../../../../_public/geo/Continent/Europe/Finland/City/Rovaniemi.md) 
-- [Rovaniemi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Rovaniemi.internal.md) 
-- [Rovaniemi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Rovaniemi.protect.md) 
-- [Rovaniemi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Rovaniemi.private.md) 
-- [Rovaniemi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Rovaniemi.personal.md) 
-- [Rovaniemi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Rovaniemi.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tilsit](../../../../../../_public/geo/Continent/Europe/Russia/City/Tilsit.md) 
-- [Tilsit.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tilsit.internal.md) 
-- [Tilsit.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tilsit.protect.md) 
-- [Tilsit.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tilsit.private.md) 
-- [Tilsit.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tilsit.personal.md) 
-- [Tilsit.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tilsit.secret.md) 

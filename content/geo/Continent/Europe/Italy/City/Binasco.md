@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Binasco](../../../../../../_public/geo/Continent/Europe/Italy/City/Binasco.md) 
-- [Binasco.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Binasco.internal.md) 
-- [Binasco.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Binasco.protect.md) 
-- [Binasco.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Binasco.private.md) 
-- [Binasco.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Binasco.personal.md) 
-- [Binasco.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Binasco.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mestre](../../../../../../_public/geo/Continent/Europe/Italy/City/Mestre.md) 
-- [Mestre.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Mestre.internal.md) 
-- [Mestre.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Mestre.protect.md) 
-- [Mestre.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Mestre.private.md) 
-- [Mestre.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Mestre.personal.md) 
-- [Mestre.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Mestre.secret.md) 

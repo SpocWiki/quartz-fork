@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ronneby](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ronneby.md) 
-- [Ronneby.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ronneby.internal.md) 
-- [Ronneby.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ronneby.protect.md) 
-- [Ronneby.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ronneby.private.md) 
-- [Ronneby.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ronneby.personal.md) 
-- [Ronneby.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ronneby.secret.md) 

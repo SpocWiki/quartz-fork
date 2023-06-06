@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kayl](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Kayl.md) 
-- [Kayl.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Kayl.internal.md) 
-- [Kayl.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Kayl.protect.md) 
-- [Kayl.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Kayl.private.md) 
-- [Kayl.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Kayl.personal.md) 
-- [Kayl.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Kayl.secret.md) 

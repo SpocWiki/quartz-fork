@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muenchehof](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.md) 
-- [Muenchehof.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.internal.md) 
-- [Muenchehof.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.protect.md) 
-- [Muenchehof.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.private.md) 
-- [Muenchehof.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.personal.md) 
-- [Muenchehof.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Muenchehof.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Prats-de-Mollo](../../../../../../_public/geo/Continent/Europe/France/City/Prats-de-Mollo.md) 
-- [Prats-de-Mollo.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Prats-de-Mollo.internal.md) 
-- [Prats-de-Mollo.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Prats-de-Mollo.protect.md) 
-- [Prats-de-Mollo.private](../../../../../../_private/geo/Continent/Europe/France/City/Prats-de-Mollo.private.md) 
-- [Prats-de-Mollo.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Prats-de-Mollo.personal.md) 
-- [Prats-de-Mollo.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Prats-de-Mollo.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rain](../../../../../../_public/geo/Continent/Europe/Italy/City/Rain.md) 
-- [Rain.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Rain.internal.md) 
-- [Rain.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Rain.protect.md) 
-- [Rain.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Rain.private.md) 
-- [Rain.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Rain.personal.md) 
-- [Rain.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Rain.secret.md) 

@@ -36,10 +36,3 @@ SpocWebEntityId: 21974
 
 
 
-## Confidential Links & Embeds: 
-- [Platinum](../../../../_public/chemic/Elements/Group-10-Nickel/Platinum.md) 
-- [Platinum.internal](../../../../_internal/chemic/Elements/Group-10-Nickel/Platinum.internal.md) 
-- [Platinum.protect](../../../../_protect/chemic/Elements/Group-10-Nickel/Platinum.protect.md) 
-- [Platinum.private](../../../../_private/chemic/Elements/Group-10-Nickel/Platinum.private.md) 
-- [Platinum.personal](../../../../_personal/chemic/Elements/Group-10-Nickel/Platinum.personal.md) 
-- [Platinum.secret](../../../../_secret/chemic/Elements/Group-10-Nickel/Platinum.secret.md) 

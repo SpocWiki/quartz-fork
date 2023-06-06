@@ -121,7 +121,7 @@ markerFolder: ./Niger/City
 
 ![550](geo/Continent/Africa/Niger/Coat_of_arms_of_Niger.svg)
 
-![Anthem-Niger.mp3](Anthem-Niger.mp3)
+[Anthem-Niger.mp3](Anthem-Niger.mp3)
 
 ![350](geo/Continent/Africa/Niger/Flag_of_Niger.svg)
 
@@ -137,10 +137,3 @@ markerFolder: ./Niger/City
 
 
 
-## Confidential Links & Embeds: 
-- [Niger](../../../../_public/geo/Continent/Africa/Niger.md) 
-- [Niger.internal](../../../../_internal/geo/Continent/Africa/Niger.internal.md) 
-- [Niger.protect](../../../../_protect/geo/Continent/Africa/Niger.protect.md) 
-- [Niger.private](../../../../_private/geo/Continent/Africa/Niger.private.md) 
-- [Niger.personal](../../../../_personal/geo/Continent/Africa/Niger.personal.md) 
-- [Niger.secret](../../../../_secret/geo/Continent/Africa/Niger.secret.md) 

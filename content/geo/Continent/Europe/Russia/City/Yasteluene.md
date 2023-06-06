@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yasteluene](../../../../../../_public/geo/Continent/Europe/Russia/City/Yasteluene.md) 
-- [Yasteluene.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Yasteluene.internal.md) 
-- [Yasteluene.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Yasteluene.protect.md) 
-- [Yasteluene.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Yasteluene.private.md) 
-- [Yasteluene.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Yasteluene.personal.md) 
-- [Yasteluene.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Yasteluene.secret.md) 

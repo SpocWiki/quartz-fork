@@ -19,10 +19,3 @@ title: Triz-Power+Composite_materials-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Composite_materials-Shape](../../../../_public/tech/Triz/Contradict/Triz-Power+Composite_materials-Shape.md) 
-- [Triz-Power+Composite_materials-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Composite_materials-Shape.internal.md) 
-- [Triz-Power+Composite_materials-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Composite_materials-Shape.protect.md) 
-- [Triz-Power+Composite_materials-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Composite_materials-Shape.private.md) 
-- [Triz-Power+Composite_materials-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Composite_materials-Shape.personal.md) 
-- [Triz-Power+Composite_materials-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Composite_materials-Shape.secret.md) 

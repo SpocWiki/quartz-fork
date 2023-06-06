@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sulaphat](../../../_public/astro/Star/Sulaphat.md) 
-- [Sulaphat.internal](../../../_internal/astro/Star/Sulaphat.internal.md) 
-- [Sulaphat.protect](../../../_protect/astro/Star/Sulaphat.protect.md) 
-- [Sulaphat.private](../../../_private/astro/Star/Sulaphat.private.md) 
-- [Sulaphat.personal](../../../_personal/astro/Star/Sulaphat.personal.md) 
-- [Sulaphat.secret](../../../_secret/astro/Star/Sulaphat.secret.md) 

@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_vehicle_transmission](../../../../../_public/schema.org/Predicate/Relations/has/has_vehicle_transmission.md) 
-- [has_vehicle_transmission.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_vehicle_transmission.internal.md) 
-- [has_vehicle_transmission.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_vehicle_transmission.protect.md) 
-- [has_vehicle_transmission.private](../../../../../_private/schema.org/Predicate/Relations/has/has_vehicle_transmission.private.md) 
-- [has_vehicle_transmission.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_vehicle_transmission.personal.md) 
-- [has_vehicle_transmission.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_vehicle_transmission.secret.md) 

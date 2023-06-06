@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moulins](../../../../../../_public/geo/Continent/Europe/France/City/Moulins.md) 
-- [Moulins.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Moulins.internal.md) 
-- [Moulins.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Moulins.protect.md) 
-- [Moulins.private](../../../../../../_private/geo/Continent/Europe/France/City/Moulins.private.md) 
-- [Moulins.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Moulins.personal.md) 
-- [Moulins.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Moulins.secret.md) 

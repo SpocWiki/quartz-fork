@@ -45,10 +45,3 @@ See also the <a href="/docs/hotels.html">dedicated document on the use of schema
 
 
 
-## Confidential Links & Embeds: 
-- [hotel_room](../../../../../../../_public/schema.org/Type/is_a_/place/accommodation/room/hotel_room.md) 
-- [hotel_room.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/accommodation/room/hotel_room.internal.md) 
-- [hotel_room.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/accommodation/room/hotel_room.protect.md) 
-- [hotel_room.private](../../../../../../../_private/schema.org/Type/is_a_/place/accommodation/room/hotel_room.private.md) 
-- [hotel_room.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/accommodation/room/hotel_room.personal.md) 
-- [hotel_room.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/accommodation/room/hotel_room.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neukrug](../../../../../../_public/geo/Continent/Europe/Poland/City/Neukrug.md) 
-- [Neukrug.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neukrug.internal.md) 
-- [Neukrug.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neukrug.protect.md) 
-- [Neukrug.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neukrug.private.md) 
-- [Neukrug.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neukrug.personal.md) 
-- [Neukrug.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neukrug.secret.md) 

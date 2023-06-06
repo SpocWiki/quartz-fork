@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sulina](../../../../../../_public/geo/Continent/Europe/Romania/City/Sulina.md) 
-- [Sulina.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Sulina.internal.md) 
-- [Sulina.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Sulina.protect.md) 
-- [Sulina.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Sulina.private.md) 
-- [Sulina.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Sulina.personal.md) 
-- [Sulina.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Sulina.secret.md) 

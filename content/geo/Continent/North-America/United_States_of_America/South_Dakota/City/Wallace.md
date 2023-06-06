@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wallace](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.md) 
-- [Wallace.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.internal.md) 
-- [Wallace.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.protect.md) 
-- [Wallace.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.private.md) 
-- [Wallace.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.personal.md) 
-- [Wallace.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/South_Dakota/City/Wallace.secret.md) 

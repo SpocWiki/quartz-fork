@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Offingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Offingen.md) 
-- [Offingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Offingen.internal.md) 
-- [Offingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Offingen.protect.md) 
-- [Offingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Offingen.private.md) 
-- [Offingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Offingen.personal.md) 
-- [Offingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Offingen.secret.md) 

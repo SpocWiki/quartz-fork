@@ -36,10 +36,3 @@ markerFolder: ./Macao,_China/City
 
 
 
-## Confidential Links & Embeds: 
-- [Macao,_China](../../../../_public/geo/Continent/Asia/Macao,_China.md) 
-- [Macao,_China.internal](../../../../_internal/geo/Continent/Asia/Macao,_China.internal.md) 
-- [Macao,_China.protect](../../../../_protect/geo/Continent/Asia/Macao,_China.protect.md) 
-- [Macao,_China.private](../../../../_private/geo/Continent/Asia/Macao,_China.private.md) 
-- [Macao,_China.personal](../../../../_personal/geo/Continent/Asia/Macao,_China.personal.md) 
-- [Macao,_China.secret](../../../../_secret/geo/Continent/Asia/Macao,_China.secret.md) 

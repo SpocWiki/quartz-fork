@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Horodenra](../../../../../../_public/geo/Continent/Europe/Poland/City/Horodenra.md) 
-- [Horodenra.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Horodenra.internal.md) 
-- [Horodenra.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Horodenra.protect.md) 
-- [Horodenra.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Horodenra.private.md) 
-- [Horodenra.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Horodenra.personal.md) 
-- [Horodenra.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Horodenra.secret.md) 

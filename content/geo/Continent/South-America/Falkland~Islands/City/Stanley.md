@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stanley](../../../../../../_public/geo/Continent/South-America/Falkland~Islands/City/Stanley.md) 
-- [Stanley.internal](../../../../../../_internal/geo/Continent/South-America/Falkland~Islands/City/Stanley.internal.md) 
-- [Stanley.protect](../../../../../../_protect/geo/Continent/South-America/Falkland~Islands/City/Stanley.protect.md) 
-- [Stanley.private](../../../../../../_private/geo/Continent/South-America/Falkland~Islands/City/Stanley.private.md) 
-- [Stanley.personal](../../../../../../_personal/geo/Continent/South-America/Falkland~Islands/City/Stanley.personal.md) 
-- [Stanley.secret](../../../../../../_secret/geo/Continent/South-America/Falkland~Islands/City/Stanley.secret.md) 

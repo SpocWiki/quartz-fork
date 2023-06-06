@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwaebisch-Gmuend](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.md) 
-- [Schwaebisch-Gmuend.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.internal.md) 
-- [Schwaebisch-Gmuend.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.protect.md) 
-- [Schwaebisch-Gmuend.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.private.md) 
-- [Schwaebisch-Gmuend.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.personal.md) 
-- [Schwaebisch-Gmuend.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Schwaebisch-Gmuend.secret.md) 

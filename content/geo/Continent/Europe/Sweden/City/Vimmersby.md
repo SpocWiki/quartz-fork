@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vimmersby](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vimmersby.md) 
-- [Vimmersby.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vimmersby.internal.md) 
-- [Vimmersby.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vimmersby.protect.md) 
-- [Vimmersby.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vimmersby.private.md) 
-- [Vimmersby.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vimmersby.personal.md) 
-- [Vimmersby.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vimmersby.secret.md) 

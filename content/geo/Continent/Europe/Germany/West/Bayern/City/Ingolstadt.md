@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ingolstadt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Ingolstadt.md) 
-- [Ingolstadt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ingolstadt.internal.md) 
-- [Ingolstadt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ingolstadt.protect.md) 
-- [Ingolstadt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ingolstadt.private.md) 
-- [Ingolstadt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ingolstadt.personal.md) 
-- [Ingolstadt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ingolstadt.secret.md) 

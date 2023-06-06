@@ -19,10 +19,3 @@ title: Triz-10307+22202-moving_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22202-moving_Volume](../../../../_public/tech/Triz/Contradict/Triz-10307+22202-moving_Volume.md) 
-- [Triz-10307+22202-moving_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22202-moving_Volume.internal.md) 
-- [Triz-10307+22202-moving_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22202-moving_Volume.protect.md) 
-- [Triz-10307+22202-moving_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22202-moving_Volume.private.md) 
-- [Triz-10307+22202-moving_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22202-moving_Volume.personal.md) 
-- [Triz-10307+22202-moving_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22202-moving_Volume.secret.md) 

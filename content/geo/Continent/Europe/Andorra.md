@@ -129,10 +129,3 @@ markerFolder: ./Andorra/City
 
 
 
-## Confidential Links & Embeds: 
-- [Andorra](../../../../_public/geo/Continent/Europe/Andorra.md) 
-- [Andorra.internal](../../../../_internal/geo/Continent/Europe/Andorra.internal.md) 
-- [Andorra.protect](../../../../_protect/geo/Continent/Europe/Andorra.protect.md) 
-- [Andorra.private](../../../../_private/geo/Continent/Europe/Andorra.private.md) 
-- [Andorra.personal](../../../../_personal/geo/Continent/Europe/Andorra.personal.md) 
-- [Andorra.secret](../../../../_secret/geo/Continent/Europe/Andorra.secret.md) 

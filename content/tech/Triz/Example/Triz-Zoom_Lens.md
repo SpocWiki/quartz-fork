@@ -17,10 +17,3 @@ title: Triz-Zoom_Lens
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Zoom_Lens](../../../../_public/tech/Triz/Example/Triz-Zoom_Lens.md) 
-- [Triz-Zoom_Lens.internal](../../../../_internal/tech/Triz/Example/Triz-Zoom_Lens.internal.md) 
-- [Triz-Zoom_Lens.protect](../../../../_protect/tech/Triz/Example/Triz-Zoom_Lens.protect.md) 
-- [Triz-Zoom_Lens.private](../../../../_private/tech/Triz/Example/Triz-Zoom_Lens.private.md) 
-- [Triz-Zoom_Lens.personal](../../../../_personal/tech/Triz/Example/Triz-Zoom_Lens.personal.md) 
-- [Triz-Zoom_Lens.secret](../../../../_secret/tech/Triz/Example/Triz-Zoom_Lens.secret.md) 

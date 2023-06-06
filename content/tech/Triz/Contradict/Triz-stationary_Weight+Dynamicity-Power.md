@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Dynamicity-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Dynamicity-Power](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Power.md) 
-- [Triz-stationary_Weight+Dynamicity-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Power.internal.md) 
-- [Triz-stationary_Weight+Dynamicity-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Power.protect.md) 
-- [Triz-stationary_Weight+Dynamicity-Power.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Power.private.md) 
-- [Triz-stationary_Weight+Dynamicity-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Power.personal.md) 
-- [Triz-stationary_Weight+Dynamicity-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Dynamicity-Power.secret.md) 

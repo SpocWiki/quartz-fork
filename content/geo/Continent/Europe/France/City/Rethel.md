@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rethel](../../../../../../_public/geo/Continent/Europe/France/City/Rethel.md) 
-- [Rethel.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Rethel.internal.md) 
-- [Rethel.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Rethel.protect.md) 
-- [Rethel.private](../../../../../../_private/geo/Continent/Europe/France/City/Rethel.private.md) 
-- [Rethel.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Rethel.personal.md) 
-- [Rethel.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Rethel.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Changing_the_color-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Changing_the_color-Strength](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.md) 
-- [Triz-Ease_of_manufacture+Changing_the_color-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.internal.md) 
-- [Triz-Ease_of_manufacture+Changing_the_color-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.protect.md) 
-- [Triz-Ease_of_manufacture+Changing_the_color-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.private.md) 
-- [Triz-Ease_of_manufacture+Changing_the_color-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.personal.md) 
-- [Triz-Ease_of_manufacture+Changing_the_color-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Changing_the_color-Strength.secret.md) 

@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [_CityTemplate](../../../../../_public/geo/Continent/Europe/Germany/_CityTemplate.md) 
-- [_CityTemplate.internal](../../../../../_internal/geo/Continent/Europe/Germany/_CityTemplate.internal.md) 
-- [_CityTemplate.protect](../../../../../_protect/geo/Continent/Europe/Germany/_CityTemplate.protect.md) 
-- [_CityTemplate.private](../../../../../_private/geo/Continent/Europe/Germany/_CityTemplate.private.md) 
-- [_CityTemplate.personal](../../../../../_personal/geo/Continent/Europe/Germany/_CityTemplate.personal.md) 
-- [_CityTemplate.secret](../../../../../_secret/geo/Continent/Europe/Germany/_CityTemplate.secret.md) 

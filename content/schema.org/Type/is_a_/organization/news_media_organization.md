@@ -45,10 +45,3 @@ A News/Media organization such as a newspaper or TV station.
 
 
 
-## Confidential Links & Embeds: 
-- [news_media_organization](../../../../../_public/schema.org/Type/is_a_/organization/news_media_organization.md) 
-- [news_media_organization.internal](../../../../../_internal/schema.org/Type/is_a_/organization/news_media_organization.internal.md) 
-- [news_media_organization.protect](../../../../../_protect/schema.org/Type/is_a_/organization/news_media_organization.protect.md) 
-- [news_media_organization.private](../../../../../_private/schema.org/Type/is_a_/organization/news_media_organization.private.md) 
-- [news_media_organization.personal](../../../../../_personal/schema.org/Type/is_a_/organization/news_media_organization.personal.md) 
-- [news_media_organization.secret](../../../../../_secret/schema.org/Type/is_a_/organization/news_media_organization.secret.md) 

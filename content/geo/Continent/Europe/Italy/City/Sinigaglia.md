@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sinigaglia](../../../../../../_public/geo/Continent/Europe/Italy/City/Sinigaglia.md) 
-- [Sinigaglia.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sinigaglia.internal.md) 
-- [Sinigaglia.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sinigaglia.protect.md) 
-- [Sinigaglia.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sinigaglia.private.md) 
-- [Sinigaglia.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sinigaglia.personal.md) 
-- [Sinigaglia.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sinigaglia.secret.md) 

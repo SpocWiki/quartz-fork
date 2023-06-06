@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oklahoma~City](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.md) 
-- [Oklahoma~City.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.internal.md) 
-- [Oklahoma~City.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.protect.md) 
-- [Oklahoma~City.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.private.md) 
-- [Oklahoma~City.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.personal.md) 
-- [Oklahoma~City.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Oklahoma/City/Oklahoma~City.secret.md) 

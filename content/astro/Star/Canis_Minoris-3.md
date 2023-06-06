@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Canis_Minoris-3](../../../_public/astro/Star/Canis_Minoris-3.md) 
-- [Canis_Minoris-3.internal](../../../_internal/astro/Star/Canis_Minoris-3.internal.md) 
-- [Canis_Minoris-3.protect](../../../_protect/astro/Star/Canis_Minoris-3.protect.md) 
-- [Canis_Minoris-3.private](../../../_private/astro/Star/Canis_Minoris-3.private.md) 
-- [Canis_Minoris-3.personal](../../../_personal/astro/Star/Canis_Minoris-3.personal.md) 
-- [Canis_Minoris-3.secret](../../../_secret/astro/Star/Canis_Minoris-3.secret.md)
-

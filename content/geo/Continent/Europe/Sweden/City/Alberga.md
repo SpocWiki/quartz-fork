@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alberga](../../../../../../_public/geo/Continent/Europe/Sweden/City/Alberga.md) 
-- [Alberga.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Alberga.internal.md) 
-- [Alberga.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Alberga.protect.md) 
-- [Alberga.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Alberga.private.md) 
-- [Alberga.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Alberga.personal.md) 
-- [Alberga.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Alberga.secret.md) 

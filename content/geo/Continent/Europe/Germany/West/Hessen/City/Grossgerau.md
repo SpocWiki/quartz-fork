@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Grossgerau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.md) 
-- [Grossgerau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.internal.md) 
-- [Grossgerau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.protect.md) 
-- [Grossgerau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.private.md) 
-- [Grossgerau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.personal.md) 
-- [Grossgerau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Grossgerau.secret.md) 

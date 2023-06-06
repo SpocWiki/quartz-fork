@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jerez_de_la_Frontera](../../../../../../_public/geo/Continent/Europe/Spain/City/Jerez_de_la_Frontera.md) 
-- [Jerez_de_la_Frontera.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Jerez_de_la_Frontera.internal.md) 
-- [Jerez_de_la_Frontera.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Jerez_de_la_Frontera.protect.md) 
-- [Jerez_de_la_Frontera.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Jerez_de_la_Frontera.private.md) 
-- [Jerez_de_la_Frontera.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Jerez_de_la_Frontera.personal.md) 
-- [Jerez_de_la_Frontera.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Jerez_de_la_Frontera.secret.md) 

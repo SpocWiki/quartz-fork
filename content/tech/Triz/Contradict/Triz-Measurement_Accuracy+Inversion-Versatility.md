@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Inversion-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Inversion-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Versatility.md) 
-- [Triz-Measurement_Accuracy+Inversion-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Versatility.internal.md) 
-- [Triz-Measurement_Accuracy+Inversion-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Versatility.protect.md) 
-- [Triz-Measurement_Accuracy+Inversion-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Versatility.private.md) 
-- [Triz-Measurement_Accuracy+Inversion-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Versatility.personal.md) 
-- [Triz-Measurement_Accuracy+Inversion-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Inversion-Versatility.secret.md) 

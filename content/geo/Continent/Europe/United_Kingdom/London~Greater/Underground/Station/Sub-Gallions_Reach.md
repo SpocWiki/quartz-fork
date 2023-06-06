@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Gallions_Reach](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.md) 
-- [Sub-Gallions_Reach.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.internal.md) 
-- [Sub-Gallions_Reach.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.protect.md) 
-- [Sub-Gallions_Reach.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.private.md) 
-- [Sub-Gallions_Reach.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.personal.md) 
-- [Sub-Gallions_Reach.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Gallions_Reach.secret.md) 

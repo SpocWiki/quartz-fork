@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lommatzsch](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lommatzsch.md) 
-- [Lommatzsch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lommatzsch.internal.md) 
-- [Lommatzsch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lommatzsch.protect.md) 
-- [Lommatzsch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lommatzsch.private.md) 
-- [Lommatzsch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lommatzsch.personal.md) 
-- [Lommatzsch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Lommatzsch.secret.md) 

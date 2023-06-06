@@ -44,10 +44,3 @@ Reision describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_superseded_by](../../../../../_public/schema.org/Predicate/Relations/is/is_superseded_by.md) 
-- [is_superseded_by.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_superseded_by.internal.md) 
-- [is_superseded_by.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_superseded_by.protect.md) 
-- [is_superseded_by.private](../../../../../_private/schema.org/Predicate/Relations/is/is_superseded_by.private.md) 
-- [is_superseded_by.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_superseded_by.personal.md) 
-- [is_superseded_by.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_superseded_by.secret.md) 

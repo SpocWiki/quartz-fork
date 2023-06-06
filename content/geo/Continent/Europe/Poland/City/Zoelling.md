@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zoelling](../../../../../../_public/geo/Continent/Europe/Poland/City/Zoelling.md) 
-- [Zoelling.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zoelling.internal.md) 
-- [Zoelling.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zoelling.protect.md) 
-- [Zoelling.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zoelling.private.md) 
-- [Zoelling.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zoelling.personal.md) 
-- [Zoelling.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zoelling.secret.md) 

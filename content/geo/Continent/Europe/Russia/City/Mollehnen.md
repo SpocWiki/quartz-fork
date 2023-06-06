@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mollehnen](../../../../../../_public/geo/Continent/Europe/Russia/City/Mollehnen.md) 
-- [Mollehnen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mollehnen.internal.md) 
-- [Mollehnen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mollehnen.protect.md) 
-- [Mollehnen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mollehnen.private.md) 
-- [Mollehnen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mollehnen.personal.md) 
-- [Mollehnen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mollehnen.secret.md) 

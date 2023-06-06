@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Priobisch](../../../../../../_public/geo/Continent/Europe/Poland/City/Priobisch.md) 
-- [Priobisch.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Priobisch.internal.md) 
-- [Priobisch.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Priobisch.protect.md) 
-- [Priobisch.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Priobisch.private.md) 
-- [Priobisch.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Priobisch.personal.md) 
-- [Priobisch.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Priobisch.secret.md) 

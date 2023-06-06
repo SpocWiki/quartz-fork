@@ -19,10 +19,3 @@ title: Triz-moving_Length+Segmentation-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Length+Segmentation-Stability](../../../../_public/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.md) 
-- [Triz-moving_Length+Segmentation-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.internal.md) 
-- [Triz-moving_Length+Segmentation-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.protect.md) 
-- [Triz-moving_Length+Segmentation-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.private.md) 
-- [Triz-moving_Length+Segmentation-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.personal.md) 
-- [Triz-moving_Length+Segmentation-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Length+Segmentation-Stability.secret.md) 

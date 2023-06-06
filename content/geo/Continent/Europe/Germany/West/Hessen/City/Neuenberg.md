@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuenberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.md) 
-- [Neuenberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.internal.md) 
-- [Neuenberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.protect.md) 
-- [Neuenberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.private.md) 
-- [Neuenberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.personal.md) 
-- [Neuenberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Neuenberg.secret.md) 

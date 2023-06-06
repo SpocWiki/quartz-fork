@@ -47,10 +47,3 @@ Size group "Petite" for wearables.
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_size_group_petite](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_petite.md) 
-- [wearable_size_group_petite.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_petite.internal.md) 
-- [wearable_size_group_petite.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_petite.protect.md) 
-- [wearable_size_group_petite.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_petite.private.md) 
-- [wearable_size_group_petite.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_petite.personal.md) 
-- [wearable_size_group_petite.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_petite.secret.md) 

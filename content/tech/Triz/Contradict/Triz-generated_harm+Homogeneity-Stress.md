@@ -19,10 +19,3 @@ title: Triz-generated_harm+Homogeneity-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Homogeneity-Stress](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.md) 
-- [Triz-generated_harm+Homogeneity-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.internal.md) 
-- [Triz-generated_harm+Homogeneity-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.protect.md) 
-- [Triz-generated_harm+Homogeneity-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.private.md) 
-- [Triz-generated_harm+Homogeneity-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.personal.md) 
-- [Triz-generated_harm+Homogeneity-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Homogeneity-Stress.secret.md) 

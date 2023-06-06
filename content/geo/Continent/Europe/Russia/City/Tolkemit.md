@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tolkemit](../../../../../../_public/geo/Continent/Europe/Russia/City/Tolkemit.md) 
-- [Tolkemit.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tolkemit.internal.md) 
-- [Tolkemit.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tolkemit.protect.md) 
-- [Tolkemit.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tolkemit.private.md) 
-- [Tolkemit.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tolkemit.personal.md) 
-- [Tolkemit.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tolkemit.secret.md) 

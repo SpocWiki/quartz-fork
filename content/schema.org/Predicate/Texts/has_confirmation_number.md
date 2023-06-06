@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_confirmation_number](../../../../_public/schema.org/Predicate/Texts/has_confirmation_number.md) 
-- [has_confirmation_number.internal](../../../../_internal/schema.org/Predicate/Texts/has_confirmation_number.internal.md) 
-- [has_confirmation_number.protect](../../../../_protect/schema.org/Predicate/Texts/has_confirmation_number.protect.md) 
-- [has_confirmation_number.private](../../../../_private/schema.org/Predicate/Texts/has_confirmation_number.private.md) 
-- [has_confirmation_number.personal](../../../../_personal/schema.org/Predicate/Texts/has_confirmation_number.personal.md) 
-- [has_confirmation_number.secret](../../../../_secret/schema.org/Predicate/Texts/has_confirmation_number.secret.md) 

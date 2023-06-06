@@ -19,10 +19,3 @@ title: Triz-Quantity+Mechanical_vibration-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Mechanical_vibration-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.md) 
-- [Triz-Quantity+Mechanical_vibration-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.internal.md) 
-- [Triz-Quantity+Mechanical_vibration-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.protect.md) 
-- [Triz-Quantity+Mechanical_vibration-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.private.md) 
-- [Triz-Quantity+Mechanical_vibration-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.personal.md) 
-- [Triz-Quantity+Mechanical_vibration-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Mechanical_vibration-Reliability.secret.md) 

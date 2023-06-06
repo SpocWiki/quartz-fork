@@ -19,10 +19,3 @@ title: Triz-Reliability+Cushion_in_advance-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Cushion_in_advance-Shape](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Shape.md) 
-- [Triz-Reliability+Cushion_in_advance-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Shape.internal.md) 
-- [Triz-Reliability+Cushion_in_advance-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Shape.protect.md) 
-- [Triz-Reliability+Cushion_in_advance-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Shape.private.md) 
-- [Triz-Reliability+Cushion_in_advance-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Shape.personal.md) 
-- [Triz-Reliability+Cushion_in_advance-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Cushion_in_advance-Shape.secret.md) 

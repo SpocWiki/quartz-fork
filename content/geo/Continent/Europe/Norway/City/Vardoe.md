@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vardoe](../../../../../../_public/geo/Continent/Europe/Norway/City/Vardoe.md) 
-- [Vardoe.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Vardoe.internal.md) 
-- [Vardoe.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Vardoe.protect.md) 
-- [Vardoe.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Vardoe.private.md) 
-- [Vardoe.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Vardoe.personal.md) 
-- [Vardoe.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Vardoe.secret.md) 

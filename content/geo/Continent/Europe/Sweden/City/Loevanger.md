@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loevanger](../../../../../../_public/geo/Continent/Europe/Sweden/City/Loevanger.md) 
-- [Loevanger.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Loevanger.internal.md) 
-- [Loevanger.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Loevanger.protect.md) 
-- [Loevanger.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Loevanger.private.md) 
-- [Loevanger.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Loevanger.personal.md) 
-- [Loevanger.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Loevanger.secret.md) 

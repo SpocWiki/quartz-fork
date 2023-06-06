@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waal](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Waal.md) 
-- [Waal.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waal.internal.md) 
-- [Waal.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waal.protect.md) 
-- [Waal.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waal.private.md) 
-- [Waal.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Waal.personal.md) 
-- [Waal.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Waal.secret.md) 

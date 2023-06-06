@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fellin](../../../../../../_public/geo/Continent/Europe/Russia/City/Fellin.md) 
-- [Fellin.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Fellin.internal.md) 
-- [Fellin.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Fellin.protect.md) 
-- [Fellin.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Fellin.private.md) 
-- [Fellin.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Fellin.personal.md) 
-- [Fellin.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Fellin.secret.md) 

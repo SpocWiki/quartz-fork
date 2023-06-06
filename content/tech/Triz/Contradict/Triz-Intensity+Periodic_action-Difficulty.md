@@ -19,10 +19,3 @@ title: Triz-Intensity+Periodic_action-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Periodic_action-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Periodic_action-Difficulty.md) 
-- [Triz-Intensity+Periodic_action-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Periodic_action-Difficulty.internal.md) 
-- [Triz-Intensity+Periodic_action-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Periodic_action-Difficulty.protect.md) 
-- [Triz-Intensity+Periodic_action-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Periodic_action-Difficulty.private.md) 
-- [Triz-Intensity+Periodic_action-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Periodic_action-Difficulty.personal.md) 
-- [Triz-Intensity+Periodic_action-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Periodic_action-Difficulty.secret.md) 

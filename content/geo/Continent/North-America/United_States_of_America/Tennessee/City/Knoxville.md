@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Knoxville](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.md) 
-- [Knoxville.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.internal.md) 
-- [Knoxville.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.protect.md) 
-- [Knoxville.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.private.md) 
-- [Knoxville.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.personal.md) 
-- [Knoxville.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Tennessee/City/Knoxville.secret.md) 

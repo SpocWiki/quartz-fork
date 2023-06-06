@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fontanella](../../../../../../_public/geo/Continent/Europe/Italy/City/Fontanella.md) 
-- [Fontanella.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Fontanella.internal.md) 
-- [Fontanella.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Fontanella.protect.md) 
-- [Fontanella.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Fontanella.private.md) 
-- [Fontanella.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Fontanella.personal.md) 
-- [Fontanella.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Fontanella.secret.md) 

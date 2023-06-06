@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Waldbuettelbrunn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.md) 
-- [Waldbuettelbrunn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.internal.md) 
-- [Waldbuettelbrunn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.protect.md) 
-- [Waldbuettelbrunn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.private.md) 
-- [Waldbuettelbrunn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.personal.md) 
-- [Waldbuettelbrunn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Waldbuettelbrunn.secret.md) 

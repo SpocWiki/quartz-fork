@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Karghalik](../../../../../../_public/geo/Continent/Europe/Russia/City/Karghalik.md) 
-- [Karghalik.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Karghalik.internal.md) 
-- [Karghalik.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Karghalik.protect.md) 
-- [Karghalik.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Karghalik.private.md) 
-- [Karghalik.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Karghalik.personal.md) 
-- [Karghalik.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Karghalik.secret.md) 

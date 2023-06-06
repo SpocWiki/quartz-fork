@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kloten](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kloten.md) 
-- [Kloten.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kloten.internal.md) 
-- [Kloten.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kloten.protect.md) 
-- [Kloten.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kloten.private.md) 
-- [Kloten.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kloten.personal.md) 
-- [Kloten.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kloten.secret.md) 

@@ -18,10 +18,3 @@ title: Triz-eliminate-idle
 Eliminate all idle or intermittent actions or work.
 
 
-## Confidential Links & Embeds: 
-- [Triz-eliminate-idle](../../../../_public/tech/Triz/Sub/Triz-eliminate-idle.md) 
-- [Triz-eliminate-idle.internal](../../../../_internal/tech/Triz/Sub/Triz-eliminate-idle.internal.md) 
-- [Triz-eliminate-idle.protect](../../../../_protect/tech/Triz/Sub/Triz-eliminate-idle.protect.md) 
-- [Triz-eliminate-idle.private](../../../../_private/tech/Triz/Sub/Triz-eliminate-idle.private.md) 
-- [Triz-eliminate-idle.personal](../../../../_personal/tech/Triz/Sub/Triz-eliminate-idle.personal.md) 
-- [Triz-eliminate-idle.secret](../../../../_secret/tech/Triz/Sub/Triz-eliminate-idle.secret.md) 

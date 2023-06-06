@@ -49,10 +49,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_call_sign](../../../../_public/schema.org/Predicate/Texts/has_call_sign.md) 
-- [has_call_sign.internal](../../../../_internal/schema.org/Predicate/Texts/has_call_sign.internal.md) 
-- [has_call_sign.protect](../../../../_protect/schema.org/Predicate/Texts/has_call_sign.protect.md) 
-- [has_call_sign.private](../../../../_private/schema.org/Predicate/Texts/has_call_sign.private.md) 
-- [has_call_sign.personal](../../../../_personal/schema.org/Predicate/Texts/has_call_sign.personal.md) 
-- [has_call_sign.secret](../../../../_secret/schema.org/Predicate/Texts/has_call_sign.secret.md) 

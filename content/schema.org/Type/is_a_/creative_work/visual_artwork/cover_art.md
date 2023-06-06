@@ -47,10 +47,3 @@ The artwork on the outer surface of a CreativeWork.
 
 
 
-## Confidential Links & Embeds: 
-- [cover_art](../../../../../../_public/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.md) 
-- [cover_art.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.internal.md) 
-- [cover_art.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.protect.md) 
-- [cover_art.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.private.md) 
-- [cover_art.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.personal.md) 
-- [cover_art.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.secret.md) 

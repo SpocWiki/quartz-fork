@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Bad_Vilbel_Süd](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_S%C3%BCd.md) 
-- [S-Bad_Vilbel_Süd.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_S%C3%BCd.internal.md) 
-- [S-Bad_Vilbel_Süd.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_S%C3%BCd.protect.md) 
-- [S-Bad_Vilbel_Süd.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_S%C3%BCd.private.md) 
-- [S-Bad_Vilbel_Süd.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_S%C3%BCd.personal.md) 
-- [S-Bad_Vilbel_Süd.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Bad_Vilbel_S%C3%BCd.secret.md) 

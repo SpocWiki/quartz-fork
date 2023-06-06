@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oderberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oderberg.md) 
-- [Oderberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oderberg.internal.md) 
-- [Oderberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oderberg.protect.md) 
-- [Oderberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oderberg.private.md) 
-- [Oderberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oderberg.personal.md) 
-- [Oderberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Oderberg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Baden](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Baden.md) 
-- [Baden.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Baden.internal.md) 
-- [Baden.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Baden.protect.md) 
-- [Baden.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Baden.private.md) 
-- [Baden.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Baden.personal.md) 
-- [Baden.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Baden.secret.md) 

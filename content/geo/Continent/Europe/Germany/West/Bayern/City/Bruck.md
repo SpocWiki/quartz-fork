@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bruck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.md) 
-- [Bruck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.internal.md) 
-- [Bruck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.protect.md) 
-- [Bruck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.private.md) 
-- [Bruck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.personal.md) 
-- [Bruck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.secret.md) 

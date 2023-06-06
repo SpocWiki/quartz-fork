@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neustadt~Donau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Donau.md) 
-- [Neustadt~Donau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Donau.internal.md) 
-- [Neustadt~Donau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Donau.protect.md) 
-- [Neustadt~Donau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Donau.private.md) 
-- [Neustadt~Donau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Donau.personal.md) 
-- [Neustadt~Donau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neustadt~Donau.secret.md) 

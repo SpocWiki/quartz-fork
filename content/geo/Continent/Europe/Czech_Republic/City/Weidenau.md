@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weidenau](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Weidenau.md) 
-- [Weidenau.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Weidenau.internal.md) 
-- [Weidenau.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Weidenau.protect.md) 
-- [Weidenau.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Weidenau.private.md) 
-- [Weidenau.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Weidenau.personal.md) 
-- [Weidenau.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Weidenau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fère-en-Tardenois](../../../../../../_public/geo/Continent/Europe/France/City/F%C3%A8re-en-Tardenois.md) 
-- [Fère-en-Tardenois.internal](../../../../../../_internal/geo/Continent/Europe/France/City/F%C3%A8re-en-Tardenois.internal.md) 
-- [Fère-en-Tardenois.protect](../../../../../../_protect/geo/Continent/Europe/France/City/F%C3%A8re-en-Tardenois.protect.md) 
-- [Fère-en-Tardenois.private](../../../../../../_private/geo/Continent/Europe/France/City/F%C3%A8re-en-Tardenois.private.md) 
-- [Fère-en-Tardenois.personal](../../../../../../_personal/geo/Continent/Europe/France/City/F%C3%A8re-en-Tardenois.personal.md) 
-- [Fère-en-Tardenois.secret](../../../../../../_secret/geo/Continent/Europe/France/City/F%C3%A8re-en-Tardenois.secret.md) 

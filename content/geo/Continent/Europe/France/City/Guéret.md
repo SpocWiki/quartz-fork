@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guéret](../../../../../../_public/geo/Continent/Europe/France/City/Gu%C3%A9ret.md) 
-- [Guéret.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Gu%C3%A9ret.internal.md) 
-- [Guéret.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Gu%C3%A9ret.protect.md) 
-- [Guéret.private](../../../../../../_private/geo/Continent/Europe/France/City/Gu%C3%A9ret.private.md) 
-- [Guéret.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Gu%C3%A9ret.personal.md) 
-- [Guéret.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Gu%C3%A9ret.secret.md) 

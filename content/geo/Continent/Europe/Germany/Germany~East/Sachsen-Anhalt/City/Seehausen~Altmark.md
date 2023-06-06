@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Seehausen~Altmark](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.md) 
-- [Seehausen~Altmark.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.internal.md) 
-- [Seehausen~Altmark.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.protect.md) 
-- [Seehausen~Altmark.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.private.md) 
-- [Seehausen~Altmark.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.personal.md) 
-- [Seehausen~Altmark.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Seehausen~Altmark.secret.md) 

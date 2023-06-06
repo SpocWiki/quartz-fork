@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hagudi](../../../../../../_public/geo/Continent/Europe/Russia/City/Hagudi.md) 
-- [Hagudi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Hagudi.internal.md) 
-- [Hagudi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Hagudi.protect.md) 
-- [Hagudi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Hagudi.private.md) 
-- [Hagudi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Hagudi.personal.md) 
-- [Hagudi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Hagudi.secret.md) 

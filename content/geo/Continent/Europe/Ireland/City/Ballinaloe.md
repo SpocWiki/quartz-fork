@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ballinaloe](../../../../../../_public/geo/Continent/Europe/Ireland/City/Ballinaloe.md) 
-- [Ballinaloe.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Ballinaloe.internal.md) 
-- [Ballinaloe.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Ballinaloe.protect.md) 
-- [Ballinaloe.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Ballinaloe.private.md) 
-- [Ballinaloe.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Ballinaloe.personal.md) 
-- [Ballinaloe.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Ballinaloe.secret.md) 

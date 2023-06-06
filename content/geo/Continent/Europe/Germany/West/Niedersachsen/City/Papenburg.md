@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Papenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Papenburg.md) 
-- [Papenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Papenburg.internal.md) 
-- [Papenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Papenburg.protect.md) 
-- [Papenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Papenburg.private.md) 
-- [Papenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Papenburg.personal.md) 
-- [Papenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Papenburg.secret.md) 

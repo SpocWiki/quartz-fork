@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Petrovorets](../../../../../../_public/geo/Continent/Europe/Russia/City/Petrovorets.md) 
-- [Petrovorets.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrovorets.internal.md) 
-- [Petrovorets.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrovorets.protect.md) 
-- [Petrovorets.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Petrovorets.private.md) 
-- [Petrovorets.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrovorets.personal.md) 
-- [Petrovorets.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrovorets.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.md) 
-- [Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.internal.md) 
-- [Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.protect.md) 
-- [Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.private.md) 
-- [Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.personal.md) 
-- [Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Partial,_overdone,_or_excessive_action-Ease_of_repair.secret.md) 

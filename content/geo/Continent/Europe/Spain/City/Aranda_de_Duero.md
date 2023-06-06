@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aranda_de_Duero](../../../../../../_public/geo/Continent/Europe/Spain/City/Aranda_de_Duero.md) 
-- [Aranda_de_Duero.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Aranda_de_Duero.internal.md) 
-- [Aranda_de_Duero.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Aranda_de_Duero.protect.md) 
-- [Aranda_de_Duero.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Aranda_de_Duero.private.md) 
-- [Aranda_de_Duero.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Aranda_de_Duero.personal.md) 
-- [Aranda_de_Duero.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Aranda_de_Duero.secret.md) 

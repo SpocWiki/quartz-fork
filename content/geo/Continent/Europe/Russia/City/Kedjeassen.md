@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kedjeassen](../../../../../../_public/geo/Continent/Europe/Russia/City/Kedjeassen.md) 
-- [Kedjeassen.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kedjeassen.internal.md) 
-- [Kedjeassen.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kedjeassen.protect.md) 
-- [Kedjeassen.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kedjeassen.private.md) 
-- [Kedjeassen.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kedjeassen.personal.md) 
-- [Kedjeassen.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kedjeassen.secret.md) 

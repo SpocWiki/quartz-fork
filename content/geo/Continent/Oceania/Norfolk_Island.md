@@ -130,10 +130,3 @@ markerFolder: ./Norfolk_Island/City
 
 
 
-## Confidential Links & Embeds: 
-- [Norfolk_Island](../../../../_public/geo/Continent/Oceania/Norfolk_Island.md) 
-- [Norfolk_Island.internal](../../../../_internal/geo/Continent/Oceania/Norfolk_Island.internal.md) 
-- [Norfolk_Island.protect](../../../../_protect/geo/Continent/Oceania/Norfolk_Island.protect.md) 
-- [Norfolk_Island.private](../../../../_private/geo/Continent/Oceania/Norfolk_Island.private.md) 
-- [Norfolk_Island.personal](../../../../_personal/geo/Continent/Oceania/Norfolk_Island.personal.md) 
-- [Norfolk_Island.secret](../../../../_secret/geo/Continent/Oceania/Norfolk_Island.secret.md) 

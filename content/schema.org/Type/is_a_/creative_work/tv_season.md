@@ -43,10 +43,3 @@ Season dedicated to TV broadcast and associated online delivery.
 
 
 
-## Confidential Links & Embeds: 
-- [tv_season](../../../../../_public/schema.org/Type/is_a_/creative_work/tv_season.md) 
-- [tv_season.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/tv_season.internal.md) 
-- [tv_season.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/tv_season.protect.md) 
-- [tv_season.private](../../../../../_private/schema.org/Type/is_a_/creative_work/tv_season.private.md) 
-- [tv_season.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/tv_season.personal.md) 
-- [tv_season.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/tv_season.secret.md) 

@@ -121,7 +121,7 @@ markerFolder: ./Costa_Rica/City
 
 ![350](geo/Continent/South-America/Costa_Rica/Coat_of_arms_of_Costa_Rica.svg)
 
-![Anthem-Costa-rica](xLarge/National-Anthem/Anthem-Costa-rica.mp3)
+[Anthem-Costa-rica](xLarge/National-Anthem/Anthem-Costa-rica.mp3)
 
 ![350](geo/Continent/South-America/Costa_Rica/Flag_of_Costa_Rica.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Costa_Rica/City
 
 
 
-## Confidential Links & Embeds: 
-- [Costa_Rica](../../../../_public/geo/Continent/South-America/Costa_Rica.md) 
-- [Costa_Rica.internal](../../../../_internal/geo/Continent/South-America/Costa_Rica.internal.md) 
-- [Costa_Rica.protect](../../../../_protect/geo/Continent/South-America/Costa_Rica.protect.md) 
-- [Costa_Rica.private](../../../../_private/geo/Continent/South-America/Costa_Rica.private.md) 
-- [Costa_Rica.personal](../../../../_personal/geo/Continent/South-America/Costa_Rica.personal.md) 
-- [Costa_Rica.secret](../../../../_secret/geo/Continent/South-America/Costa_Rica.secret.md) 

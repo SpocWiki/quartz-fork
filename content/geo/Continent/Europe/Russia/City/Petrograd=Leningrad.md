@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Petrograd=Leningrad](../../../../../../_public/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.md) 
-- [Petrograd=Leningrad.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.internal.md) 
-- [Petrograd=Leningrad.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.protect.md) 
-- [Petrograd=Leningrad.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.private.md) 
-- [Petrograd=Leningrad.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.personal.md) 
-- [Petrograd=Leningrad.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrograd=Leningrad.secret.md) 

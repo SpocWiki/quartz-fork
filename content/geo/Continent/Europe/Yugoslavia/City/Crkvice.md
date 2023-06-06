@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Crkvice](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Crkvice.md) 
-- [Crkvice.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Crkvice.internal.md) 
-- [Crkvice.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Crkvice.protect.md) 
-- [Crkvice.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Crkvice.private.md) 
-- [Crkvice.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Crkvice.personal.md) 
-- [Crkvice.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Crkvice.secret.md) 

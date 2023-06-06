@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abbeyfeale](../../../../../../_public/geo/Continent/Europe/Ireland/City/Abbeyfeale.md) 
-- [Abbeyfeale.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Abbeyfeale.internal.md) 
-- [Abbeyfeale.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Abbeyfeale.protect.md) 
-- [Abbeyfeale.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Abbeyfeale.private.md) 
-- [Abbeyfeale.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Abbeyfeale.personal.md) 
-- [Abbeyfeale.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Abbeyfeale.secret.md) 

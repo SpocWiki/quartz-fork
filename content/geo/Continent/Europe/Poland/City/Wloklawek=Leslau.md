@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wloklawek=Leslau](../../../../../../_public/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.md) 
-- [Wloklawek=Leslau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.internal.md) 
-- [Wloklawek=Leslau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.protect.md) 
-- [Wloklawek=Leslau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.private.md) 
-- [Wloklawek=Leslau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.personal.md) 
-- [Wloklawek=Leslau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wloklawek=Leslau.secret.md) 

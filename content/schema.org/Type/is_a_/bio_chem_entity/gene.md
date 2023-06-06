@@ -45,10 +45,3 @@ A discrete unit of inheritance which affects one or more biological traits (Sour
 
 
 
-## Confidential Links & Embeds: 
-- [gene](../../../../../_public/schema.org/Type/is_a_/bio_chem_entity/gene.md) 
-- [gene.internal](../../../../../_internal/schema.org/Type/is_a_/bio_chem_entity/gene.internal.md) 
-- [gene.protect](../../../../../_protect/schema.org/Type/is_a_/bio_chem_entity/gene.protect.md) 
-- [gene.private](../../../../../_private/schema.org/Type/is_a_/bio_chem_entity/gene.private.md) 
-- [gene.personal](../../../../../_personal/schema.org/Type/is_a_/bio_chem_entity/gene.personal.md) 
-- [gene.secret](../../../../../_secret/schema.org/Type/is_a_/bio_chem_entity/gene.secret.md) 

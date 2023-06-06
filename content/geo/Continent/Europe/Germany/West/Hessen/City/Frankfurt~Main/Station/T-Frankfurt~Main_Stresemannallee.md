@@ -31,10 +31,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Frankfurt~Main_Stresemannallee](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.md) 
-- [T-Frankfurt~Main_Stresemannallee.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.internal.md) 
-- [T-Frankfurt~Main_Stresemannallee.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.protect.md) 
-- [T-Frankfurt~Main_Stresemannallee.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.private.md) 
-- [T-Frankfurt~Main_Stresemannallee.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.personal.md) 
-- [T-Frankfurt~Main_Stresemannallee.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Frankfurt~Main_Stresemannallee.secret.md) 

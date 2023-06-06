@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Dynamicity-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Dynamicity-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Versatility.md) 
-- [Triz-Ease_of_operation+Dynamicity-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Versatility.internal.md) 
-- [Triz-Ease_of_operation+Dynamicity-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Versatility.protect.md) 
-- [Triz-Ease_of_operation+Dynamicity-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Versatility.private.md) 
-- [Triz-Ease_of_operation+Dynamicity-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Versatility.personal.md) 
-- [Triz-Ease_of_operation+Dynamicity-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Dynamicity-Versatility.secret.md) 

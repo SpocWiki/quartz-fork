@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Charleston](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/West_Virginia/City/Charleston.md) 
-- [Charleston.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/West_Virginia/City/Charleston.internal.md) 
-- [Charleston.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/West_Virginia/City/Charleston.protect.md) 
-- [Charleston.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/West_Virginia/City/Charleston.private.md) 
-- [Charleston.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/West_Virginia/City/Charleston.personal.md) 
-- [Charleston.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/West_Virginia/City/Charleston.secret.md) 

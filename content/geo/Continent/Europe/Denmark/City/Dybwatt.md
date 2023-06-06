@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dybwatt](../../../../../../_public/geo/Continent/Europe/Denmark/City/Dybwatt.md) 
-- [Dybwatt.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Dybwatt.internal.md) 
-- [Dybwatt.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Dybwatt.protect.md) 
-- [Dybwatt.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Dybwatt.private.md) 
-- [Dybwatt.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Dybwatt.personal.md) 
-- [Dybwatt.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Dybwatt.secret.md) 

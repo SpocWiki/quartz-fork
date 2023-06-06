@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mafra](../../../../../../_public/geo/Continent/Europe/Portugal/City/Mafra.md) 
-- [Mafra.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Mafra.internal.md) 
-- [Mafra.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Mafra.protect.md) 
-- [Mafra.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Mafra.private.md) 
-- [Mafra.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Mafra.personal.md) 
-- [Mafra.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Mafra.secret.md) 

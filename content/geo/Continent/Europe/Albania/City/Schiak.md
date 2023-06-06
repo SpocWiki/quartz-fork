@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schiak](../../../../../../_public/geo/Continent/Europe/Albania/City/Schiak.md) 
-- [Schiak.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Schiak.internal.md) 
-- [Schiak.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Schiak.protect.md) 
-- [Schiak.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Schiak.private.md) 
-- [Schiak.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Schiak.personal.md) 
-- [Schiak.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Schiak.secret.md) 

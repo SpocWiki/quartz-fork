@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koenigshain](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigshain.md) 
-- [Koenigshain.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigshain.internal.md) 
-- [Koenigshain.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigshain.protect.md) 
-- [Koenigshain.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigshain.private.md) 
-- [Koenigshain.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigshain.personal.md) 
-- [Koenigshain.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Koenigshain.secret.md) 

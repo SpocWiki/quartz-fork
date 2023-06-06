@@ -19,10 +19,3 @@ title: Triz-Reliability+Copying-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Copying-Power](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Copying-Power.md) 
-- [Triz-Reliability+Copying-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Copying-Power.internal.md) 
-- [Triz-Reliability+Copying-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Copying-Power.protect.md) 
-- [Triz-Reliability+Copying-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Copying-Power.private.md) 
-- [Triz-Reliability+Copying-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Copying-Power.personal.md) 
-- [Triz-Reliability+Copying-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Copying-Power.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ekenaes](../../../../../../_public/geo/Continent/Europe/Finland/City/Ekenaes.md) 
-- [Ekenaes.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Ekenaes.internal.md) 
-- [Ekenaes.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Ekenaes.protect.md) 
-- [Ekenaes.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Ekenaes.private.md) 
-- [Ekenaes.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Ekenaes.personal.md) 
-- [Ekenaes.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Ekenaes.secret.md) 

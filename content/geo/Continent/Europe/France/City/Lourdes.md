@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lourdes](../../../../../../_public/geo/Continent/Europe/France/City/Lourdes.md) 
-- [Lourdes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lourdes.internal.md) 
-- [Lourdes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lourdes.protect.md) 
-- [Lourdes.private](../../../../../../_private/geo/Continent/Europe/France/City/Lourdes.private.md) 
-- [Lourdes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lourdes.personal.md) 
-- [Lourdes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lourdes.secret.md) 

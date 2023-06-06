@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vichten](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Vichten.md) 
-- [Vichten.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Vichten.internal.md) 
-- [Vichten.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Vichten.protect.md) 
-- [Vichten.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Vichten.private.md) 
-- [Vichten.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Vichten.personal.md) 
-- [Vichten.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Vichten.secret.md) 

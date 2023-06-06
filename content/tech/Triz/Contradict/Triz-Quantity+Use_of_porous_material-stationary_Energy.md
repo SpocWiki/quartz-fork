@@ -19,10 +19,3 @@ title: Triz-Quantity+Use_of_porous_material-stationary_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Use_of_porous_material-stationary_Energy](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.md) 
-- [Triz-Quantity+Use_of_porous_material-stationary_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.internal.md) 
-- [Triz-Quantity+Use_of_porous_material-stationary_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.protect.md) 
-- [Triz-Quantity+Use_of_porous_material-stationary_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.private.md) 
-- [Triz-Quantity+Use_of_porous_material-stationary_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.personal.md) 
-- [Triz-Quantity+Use_of_porous_material-stationary_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Use_of_porous_material-stationary_Energy.secret.md) 

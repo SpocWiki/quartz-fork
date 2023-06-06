@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jerxheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jerxheim.md) 
-- [Jerxheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jerxheim.internal.md) 
-- [Jerxheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jerxheim.protect.md) 
-- [Jerxheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jerxheim.private.md) 
-- [Jerxheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jerxheim.personal.md) 
-- [Jerxheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Jerxheim.secret.md) 

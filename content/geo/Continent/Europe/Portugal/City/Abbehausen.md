@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Abbehausen](../../../../../../_public/geo/Continent/Europe/Portugal/City/Abbehausen.md) 
-- [Abbehausen.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Abbehausen.internal.md) 
-- [Abbehausen.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Abbehausen.protect.md) 
-- [Abbehausen.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Abbehausen.private.md) 
-- [Abbehausen.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Abbehausen.personal.md) 
-- [Abbehausen.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Abbehausen.secret.md) 

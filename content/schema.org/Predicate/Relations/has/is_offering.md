@@ -53,10 +53,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_offering](../../../../../_public/schema.org/Predicate/Relations/has/is_offering.md) 
-- [is_offering.internal](../../../../../_internal/schema.org/Predicate/Relations/has/is_offering.internal.md) 
-- [is_offering.protect](../../../../../_protect/schema.org/Predicate/Relations/has/is_offering.protect.md) 
-- [is_offering.private](../../../../../_private/schema.org/Predicate/Relations/has/is_offering.private.md) 
-- [is_offering.personal](../../../../../_personal/schema.org/Predicate/Relations/has/is_offering.personal.md) 
-- [is_offering.secret](../../../../../_secret/schema.org/Predicate/Relations/has/is_offering.secret.md) 

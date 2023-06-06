@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salerno](../../../../../../_public/geo/Continent/Europe/Italy/City/Salerno.md) 
-- [Salerno.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Salerno.internal.md) 
-- [Salerno.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Salerno.protect.md) 
-- [Salerno.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Salerno.private.md) 
-- [Salerno.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Salerno.personal.md) 
-- [Salerno.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Salerno.secret.md) 

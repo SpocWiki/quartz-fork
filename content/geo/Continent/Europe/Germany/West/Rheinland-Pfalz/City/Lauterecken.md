@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauterecken](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.md) 
-- [Lauterecken.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.internal.md) 
-- [Lauterecken.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.protect.md) 
-- [Lauterecken.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.private.md) 
-- [Lauterecken.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.personal.md) 
-- [Lauterecken.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Lauterecken.secret.md) 

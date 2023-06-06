@@ -19,10 +19,3 @@ title: Triz-Temperature+Extraction-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Extraction-Stress](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.md) 
-- [Triz-Temperature+Extraction-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.internal.md) 
-- [Triz-Temperature+Extraction-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.protect.md) 
-- [Triz-Temperature+Extraction-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.private.md) 
-- [Triz-Temperature+Extraction-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.personal.md) 
-- [Triz-Temperature+Extraction-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Extraction-Stress.secret.md) 

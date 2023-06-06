@@ -130,10 +130,3 @@ markerFolder: ./Kiribati/City
 
 
 
-## Confidential Links & Embeds: 
-- [Kiribati](../../../../_public/geo/Continent/Oceania/Kiribati.md) 
-- [Kiribati.internal](../../../../_internal/geo/Continent/Oceania/Kiribati.internal.md) 
-- [Kiribati.protect](../../../../_protect/geo/Continent/Oceania/Kiribati.protect.md) 
-- [Kiribati.private](../../../../_private/geo/Continent/Oceania/Kiribati.private.md) 
-- [Kiribati.personal](../../../../_personal/geo/Continent/Oceania/Kiribati.personal.md) 
-- [Kiribati.secret](../../../../_secret/geo/Continent/Oceania/Kiribati.secret.md) 

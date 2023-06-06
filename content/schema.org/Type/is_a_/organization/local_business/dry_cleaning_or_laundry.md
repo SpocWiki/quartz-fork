@@ -43,10 +43,3 @@ A dry-cleaning business.
 
 
 
-## Confidential Links & Embeds: 
-- [dry_cleaning_or_laundry](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.md) 
-- [dry_cleaning_or_laundry.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.internal.md) 
-- [dry_cleaning_or_laundry.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.protect.md) 
-- [dry_cleaning_or_laundry.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.private.md) 
-- [dry_cleaning_or_laundry.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.personal.md) 
-- [dry_cleaning_or_laundry.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.secret.md) 

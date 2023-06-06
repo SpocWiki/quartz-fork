@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nischne-Udinsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Nischne-Udinsk.md) 
-- [Nischne-Udinsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nischne-Udinsk.internal.md) 
-- [Nischne-Udinsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nischne-Udinsk.protect.md) 
-- [Nischne-Udinsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nischne-Udinsk.private.md) 
-- [Nischne-Udinsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nischne-Udinsk.personal.md) 
-- [Nischne-Udinsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nischne-Udinsk.secret.md) 

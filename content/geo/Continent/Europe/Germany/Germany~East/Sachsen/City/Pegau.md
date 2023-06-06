@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pegau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.md) 
-- [Pegau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.internal.md) 
-- [Pegau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.protect.md) 
-- [Pegau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.private.md) 
-- [Pegau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.personal.md) 
-- [Pegau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Pegau.secret.md) 

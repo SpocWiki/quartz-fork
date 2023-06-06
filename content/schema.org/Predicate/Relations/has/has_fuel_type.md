@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_fuel_type](../../../../../_public/schema.org/Predicate/Relations/has/has_fuel_type.md) 
-- [has_fuel_type.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_fuel_type.internal.md) 
-- [has_fuel_type.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_fuel_type.protect.md) 
-- [has_fuel_type.private](../../../../../_private/schema.org/Predicate/Relations/has/has_fuel_type.private.md) 
-- [has_fuel_type.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_fuel_type.personal.md) 
-- [has_fuel_type.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_fuel_type.secret.md) 

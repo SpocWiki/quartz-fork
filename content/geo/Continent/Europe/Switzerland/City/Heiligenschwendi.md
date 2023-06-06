@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heiligenschwendi](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.md) 
-- [Heiligenschwendi.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.internal.md) 
-- [Heiligenschwendi.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.protect.md) 
-- [Heiligenschwendi.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.private.md) 
-- [Heiligenschwendi.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.personal.md) 
-- [Heiligenschwendi.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Heiligenschwendi.secret.md) 

@@ -49,10 +49,3 @@ Is [sub_property_of::]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_date_to_start_job](../../../../_public/schema.org/Predicate/Date_Times/has_date_to_start_job.md) 
-- [has_date_to_start_job.internal](../../../../_internal/schema.org/Predicate/Date_Times/has_date_to_start_job.internal.md) 
-- [has_date_to_start_job.protect](../../../../_protect/schema.org/Predicate/Date_Times/has_date_to_start_job.protect.md) 
-- [has_date_to_start_job.private](../../../../_private/schema.org/Predicate/Date_Times/has_date_to_start_job.private.md) 
-- [has_date_to_start_job.personal](../../../../_personal/schema.org/Predicate/Date_Times/has_date_to_start_job.personal.md) 
-- [has_date_to_start_job.secret](../../../../_secret/schema.org/Predicate/Date_Times/has_date_to_start_job.secret.md) 

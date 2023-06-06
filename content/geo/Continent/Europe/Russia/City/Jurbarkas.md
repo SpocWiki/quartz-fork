@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jurbarkas](../../../../../../_public/geo/Continent/Europe/Russia/City/Jurbarkas.md) 
-- [Jurbarkas.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jurbarkas.internal.md) 
-- [Jurbarkas.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jurbarkas.protect.md) 
-- [Jurbarkas.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jurbarkas.private.md) 
-- [Jurbarkas.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jurbarkas.personal.md) 
-- [Jurbarkas.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jurbarkas.secret.md) 

@@ -45,10 +45,3 @@ A book.
 
 
 
-## Confidential Links & Embeds: 
-- [book](../../../../../_public/schema.org/Type/is_a_/creative_work/book.md) 
-- [book.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/book.internal.md) 
-- [book.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/book.protect.md) 
-- [book.private](../../../../../_private/schema.org/Type/is_a_/creative_work/book.private.md) 
-- [book.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/book.personal.md) 
-- [book.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/book.secret.md) 

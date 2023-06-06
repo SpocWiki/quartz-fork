@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Joniskelis](../../../../../../_public/geo/Continent/Europe/Russia/City/Joniskelis.md) 
-- [Joniskelis.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Joniskelis.internal.md) 
-- [Joniskelis.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Joniskelis.protect.md) 
-- [Joniskelis.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Joniskelis.private.md) 
-- [Joniskelis.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Joniskelis.personal.md) 
-- [Joniskelis.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Joniskelis.secret.md) 

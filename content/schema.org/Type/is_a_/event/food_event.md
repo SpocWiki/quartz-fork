@@ -43,10 +43,3 @@ Event type: Food event.
 
 
 
-## Confidential Links & Embeds: 
-- [food_event](../../../../../_public/schema.org/Type/is_a_/event/food_event.md) 
-- [food_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/food_event.internal.md) 
-- [food_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/food_event.protect.md) 
-- [food_event.private](../../../../../_private/schema.org/Type/is_a_/event/food_event.private.md) 
-- [food_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/food_event.personal.md) 
-- [food_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/food_event.secret.md) 

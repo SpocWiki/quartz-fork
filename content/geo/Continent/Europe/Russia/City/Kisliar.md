@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kisliar](../../../../../../_public/geo/Continent/Europe/Russia/City/Kisliar.md) 
-- [Kisliar.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kisliar.internal.md) 
-- [Kisliar.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kisliar.protect.md) 
-- [Kisliar.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kisliar.private.md) 
-- [Kisliar.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kisliar.personal.md) 
-- [Kisliar.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kisliar.secret.md) 

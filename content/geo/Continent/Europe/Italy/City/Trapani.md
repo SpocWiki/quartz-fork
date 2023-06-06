@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trapani](../../../../../../_public/geo/Continent/Europe/Italy/City/Trapani.md) 
-- [Trapani.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Trapani.internal.md) 
-- [Trapani.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Trapani.protect.md) 
-- [Trapani.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Trapani.private.md) 
-- [Trapani.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Trapani.personal.md) 
-- [Trapani.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Trapani.secret.md) 

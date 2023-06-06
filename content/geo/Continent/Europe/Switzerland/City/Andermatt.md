@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Andermatt](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Andermatt.md) 
-- [Andermatt.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Andermatt.internal.md) 
-- [Andermatt.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Andermatt.protect.md) 
-- [Andermatt.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Andermatt.private.md) 
-- [Andermatt.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Andermatt.personal.md) 
-- [Andermatt.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Andermatt.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Reykjavik](../../../../../../_public/geo/Continent/Europe/Iceland/City/Reykjavik.md) 
-- [Reykjavik.internal](../../../../../../_internal/geo/Continent/Europe/Iceland/City/Reykjavik.internal.md) 
-- [Reykjavik.protect](../../../../../../_protect/geo/Continent/Europe/Iceland/City/Reykjavik.protect.md) 
-- [Reykjavik.private](../../../../../../_private/geo/Continent/Europe/Iceland/City/Reykjavik.private.md) 
-- [Reykjavik.personal](../../../../../../_personal/geo/Continent/Europe/Iceland/City/Reykjavik.personal.md) 
-- [Reykjavik.secret](../../../../../../_secret/geo/Continent/Europe/Iceland/City/Reykjavik.secret.md) 

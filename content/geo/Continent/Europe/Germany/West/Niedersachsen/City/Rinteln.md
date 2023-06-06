@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rinteln](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rinteln.md) 
-- [Rinteln.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rinteln.internal.md) 
-- [Rinteln.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rinteln.protect.md) 
-- [Rinteln.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rinteln.private.md) 
-- [Rinteln.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rinteln.personal.md) 
-- [Rinteln.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rinteln.secret.md) 

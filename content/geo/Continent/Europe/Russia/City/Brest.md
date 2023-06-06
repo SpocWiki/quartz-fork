@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brest](../../../../../../_public/geo/Continent/Europe/Russia/City/Brest.md) 
-- [Brest.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Brest.internal.md) 
-- [Brest.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Brest.protect.md) 
-- [Brest.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Brest.private.md) 
-- [Brest.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Brest.personal.md) 
-- [Brest.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Brest.secret.md) 

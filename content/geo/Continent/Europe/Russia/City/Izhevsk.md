@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Izhevsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Izhevsk.md) 
-- [Izhevsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Izhevsk.internal.md) 
-- [Izhevsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Izhevsk.protect.md) 
-- [Izhevsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Izhevsk.private.md) 
-- [Izhevsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Izhevsk.personal.md) 
-- [Izhevsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Izhevsk.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mater_domini](../../../../../../_public/geo/Continent/Europe/Italy/City/Mater_domini.md) 
-- [Mater_domini.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Mater_domini.internal.md) 
-- [Mater_domini.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Mater_domini.protect.md) 
-- [Mater_domini.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Mater_domini.private.md) 
-- [Mater_domini.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Mater_domini.personal.md) 
-- [Mater_domini.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Mater_domini.secret.md) 

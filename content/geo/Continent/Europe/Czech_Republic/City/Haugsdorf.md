@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haugsdorf](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.md) 
-- [Haugsdorf.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.internal.md) 
-- [Haugsdorf.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.protect.md) 
-- [Haugsdorf.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.private.md) 
-- [Haugsdorf.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.personal.md) 
-- [Haugsdorf.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.secret.md) 

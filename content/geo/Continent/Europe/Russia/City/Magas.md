@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Magas](../../../../../../_public/geo/Continent/Europe/Russia/City/Magas.md) 
-- [Magas.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Magas.internal.md) 
-- [Magas.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Magas.protect.md) 
-- [Magas.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Magas.private.md) 
-- [Magas.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Magas.personal.md) 
-- [Magas.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Magas.secret.md) 

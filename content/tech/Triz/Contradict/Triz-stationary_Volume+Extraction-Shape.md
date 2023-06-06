@@ -19,10 +19,3 @@ title: Triz-stationary_Volume+Extraction-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Volume+Extraction-Shape](../../../../_public/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.md) 
-- [Triz-stationary_Volume+Extraction-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.internal.md) 
-- [Triz-stationary_Volume+Extraction-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.protect.md) 
-- [Triz-stationary_Volume+Extraction-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.private.md) 
-- [Triz-stationary_Volume+Extraction-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.personal.md) 
-- [Triz-stationary_Volume+Extraction-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Volume+Extraction-Shape.secret.md) 

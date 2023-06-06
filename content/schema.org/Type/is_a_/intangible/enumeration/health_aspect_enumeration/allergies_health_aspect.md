@@ -47,10 +47,3 @@ Content about the allergy-related aspects of a health topic.
 
 
 
-## Confidential Links & Embeds: 
-- [allergies_health_aspect](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.md) 
-- [allergies_health_aspect.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.internal.md) 
-- [allergies_health_aspect.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.protect.md) 
-- [allergies_health_aspect.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.private.md) 
-- [allergies_health_aspect.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.personal.md) 
-- [allergies_health_aspect.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.secret.md) 

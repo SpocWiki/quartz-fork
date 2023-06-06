@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Adalbert-Schloßstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Adalbert-Schlo%C3%9Fstra%C3%9Fe.md) 
-- [T-Adalbert-Schloßstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Adalbert-Schlo%C3%9Fstra%C3%9Fe.internal.md) 
-- [T-Adalbert-Schloßstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Adalbert-Schlo%C3%9Fstra%C3%9Fe.protect.md) 
-- [T-Adalbert-Schloßstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Adalbert-Schlo%C3%9Fstra%C3%9Fe.private.md) 
-- [T-Adalbert-Schloßstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Adalbert-Schlo%C3%9Fstra%C3%9Fe.personal.md) 
-- [T-Adalbert-Schloßstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Adalbert-Schlo%C3%9Fstra%C3%9Fe.secret.md) 

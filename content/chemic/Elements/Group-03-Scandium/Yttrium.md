@@ -35,10 +35,3 @@ title: Yttrium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yttrium)
 
-## Confidential Links & Embeds: 
-- [Yttrium](../../../../_public/chemic/Elements/Group-03-Scandium/Yttrium.md) 
-- [Yttrium.internal](../../../../_internal/chemic/Elements/Group-03-Scandium/Yttrium.internal.md) 
-- [Yttrium.protect](../../../../_protect/chemic/Elements/Group-03-Scandium/Yttrium.protect.md) 
-- [Yttrium.private](../../../../_private/chemic/Elements/Group-03-Scandium/Yttrium.private.md) 
-- [Yttrium.personal](../../../../_personal/chemic/Elements/Group-03-Scandium/Yttrium.personal.md) 
-- [Yttrium.secret](../../../../_secret/chemic/Elements/Group-03-Scandium/Yttrium.secret.md) 

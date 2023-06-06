@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gartz~Oder](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gartz~Oder.md) 
-- [Gartz~Oder.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gartz~Oder.internal.md) 
-- [Gartz~Oder.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gartz~Oder.protect.md) 
-- [Gartz~Oder.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gartz~Oder.private.md) 
-- [Gartz~Oder.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gartz~Oder.personal.md) 
-- [Gartz~Oder.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Gartz~Oder.secret.md) 

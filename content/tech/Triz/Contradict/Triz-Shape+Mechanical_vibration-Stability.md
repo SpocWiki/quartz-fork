@@ -19,10 +19,3 @@ title: Triz-Shape+Mechanical_vibration-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Mechanical_vibration-Stability](../../../../_public/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.md) 
-- [Triz-Shape+Mechanical_vibration-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.internal.md) 
-- [Triz-Shape+Mechanical_vibration-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.protect.md) 
-- [Triz-Shape+Mechanical_vibration-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.private.md) 
-- [Triz-Shape+Mechanical_vibration-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.personal.md) 
-- [Triz-Shape+Mechanical_vibration-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Mechanical_vibration-Stability.secret.md) 

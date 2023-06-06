@@ -19,10 +19,3 @@ title: Triz-Illumination+Universality-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Universality-Intensity](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.md) 
-- [Triz-Illumination+Universality-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.internal.md) 
-- [Triz-Illumination+Universality-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.protect.md) 
-- [Triz-Illumination+Universality-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.private.md) 
-- [Triz-Illumination+Universality-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.personal.md) 
-- [Triz-Illumination+Universality-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Universality-Intensity.secret.md) 

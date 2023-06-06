@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Steinmuehle](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Steinmuehle.md) 
-- [Steinmuehle.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Steinmuehle.internal.md) 
-- [Steinmuehle.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Steinmuehle.protect.md) 
-- [Steinmuehle.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Steinmuehle.private.md) 
-- [Steinmuehle.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Steinmuehle.personal.md) 
-- [Steinmuehle.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Steinmuehle.secret.md) 

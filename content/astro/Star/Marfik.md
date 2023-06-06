@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Marfik](../../../_public/astro/Star/Marfik.md) 
-- [Marfik.internal](../../../_internal/astro/Star/Marfik.internal.md) 
-- [Marfik.protect](../../../_protect/astro/Star/Marfik.protect.md) 
-- [Marfik.private](../../../_private/astro/Star/Marfik.private.md) 
-- [Marfik.personal](../../../_personal/astro/Star/Marfik.personal.md) 
-- [Marfik.secret](../../../_secret/astro/Star/Marfik.secret.md) 

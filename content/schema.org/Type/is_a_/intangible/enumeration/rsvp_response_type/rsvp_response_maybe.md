@@ -45,10 +45,3 @@ The invitee may or may not attend.
 
 
 
-## Confidential Links & Embeds: 
-- [rsvp_response_maybe](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.md) 
-- [rsvp_response_maybe.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.internal.md) 
-- [rsvp_response_maybe.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.protect.md) 
-- [rsvp_response_maybe.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.private.md) 
-- [rsvp_response_maybe.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.personal.md) 
-- [rsvp_response_maybe.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.secret.md) 

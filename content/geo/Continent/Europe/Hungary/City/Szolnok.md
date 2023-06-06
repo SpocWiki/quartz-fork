@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Szolnok](../../../../../../_public/geo/Continent/Europe/Hungary/City/Szolnok.md) 
-- [Szolnok.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szolnok.internal.md) 
-- [Szolnok.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szolnok.protect.md) 
-- [Szolnok.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Szolnok.private.md) 
-- [Szolnok.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szolnok.personal.md) 
-- [Szolnok.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szolnok.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Verviers](../../../../../../_public/geo/Continent/Europe/Belgium/City/Verviers.md) 
-- [Verviers.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Verviers.internal.md) 
-- [Verviers.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Verviers.protect.md) 
-- [Verviers.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Verviers.private.md) 
-- [Verviers.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Verviers.personal.md) 
-- [Verviers.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Verviers.secret.md) 

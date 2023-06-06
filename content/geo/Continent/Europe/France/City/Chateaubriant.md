@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chateaubriant](../../../../../../_public/geo/Continent/Europe/France/City/Chateaubriant.md) 
-- [Chateaubriant.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chateaubriant.internal.md) 
-- [Chateaubriant.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chateaubriant.protect.md) 
-- [Chateaubriant.private](../../../../../../_private/geo/Continent/Europe/France/City/Chateaubriant.private.md) 
-- [Chateaubriant.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chateaubriant.personal.md) 
-- [Chateaubriant.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chateaubriant.secret.md) 

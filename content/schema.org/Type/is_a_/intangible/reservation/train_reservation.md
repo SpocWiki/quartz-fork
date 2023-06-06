@@ -45,10 +45,3 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 
-## Confidential Links & Embeds: 
-- [train_reservation](../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/train_reservation.md) 
-- [train_reservation.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/train_reservation.internal.md) 
-- [train_reservation.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/train_reservation.protect.md) 
-- [train_reservation.private](../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/train_reservation.private.md) 
-- [train_reservation.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/train_reservation.personal.md) 
-- [train_reservation.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/train_reservation.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fermo](../../../../../../_public/geo/Continent/Europe/Italy/City/Fermo.md) 
-- [Fermo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Fermo.internal.md) 
-- [Fermo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Fermo.protect.md) 
-- [Fermo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Fermo.private.md) 
-- [Fermo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Fermo.personal.md) 
-- [Fermo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Fermo.secret.md) 

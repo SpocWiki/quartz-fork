@@ -43,10 +43,3 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 
 
 
-## Confidential Links & Embeds: 
-- [suspend_action](../../../../../../_public/schema.org/Type/is_a_/action/control_action/suspend_action.md) 
-- [suspend_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/control_action/suspend_action.internal.md) 
-- [suspend_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/control_action/suspend_action.protect.md) 
-- [suspend_action.private](../../../../../../_private/schema.org/Type/is_a_/action/control_action/suspend_action.private.md) 
-- [suspend_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/control_action/suspend_action.personal.md) 
-- [suspend_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/control_action/suspend_action.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaivara](../../../../../../_public/geo/Continent/Europe/Russia/City/Vaivara.md) 
-- [Vaivara.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vaivara.internal.md) 
-- [Vaivara.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vaivara.protect.md) 
-- [Vaivara.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vaivara.private.md) 
-- [Vaivara.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vaivara.personal.md) 
-- [Vaivara.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vaivara.secret.md) 

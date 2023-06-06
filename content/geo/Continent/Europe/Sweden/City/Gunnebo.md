@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gunnebo](../../../../../../_public/geo/Continent/Europe/Sweden/City/Gunnebo.md) 
-- [Gunnebo.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Gunnebo.internal.md) 
-- [Gunnebo.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Gunnebo.protect.md) 
-- [Gunnebo.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Gunnebo.private.md) 
-- [Gunnebo.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Gunnebo.personal.md) 
-- [Gunnebo.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Gunnebo.secret.md) 

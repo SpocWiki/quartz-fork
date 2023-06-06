@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauenburg~Elbe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.md) 
-- [Lauenburg~Elbe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.internal.md) 
-- [Lauenburg~Elbe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.protect.md) 
-- [Lauenburg~Elbe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.private.md) 
-- [Lauenburg~Elbe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.personal.md) 
-- [Lauenburg~Elbe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Lauenburg~Elbe.secret.md) 

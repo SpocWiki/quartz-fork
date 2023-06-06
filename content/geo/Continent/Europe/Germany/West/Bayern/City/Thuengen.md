@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Thuengen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Thuengen.md) 
-- [Thuengen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Thuengen.internal.md) 
-- [Thuengen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Thuengen.protect.md) 
-- [Thuengen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Thuengen.private.md) 
-- [Thuengen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Thuengen.personal.md) 
-- [Thuengen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Thuengen.secret.md) 

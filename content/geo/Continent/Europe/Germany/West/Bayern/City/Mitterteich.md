@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mitterteich](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Mitterteich.md) 
-- [Mitterteich.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mitterteich.internal.md) 
-- [Mitterteich.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mitterteich.protect.md) 
-- [Mitterteich.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mitterteich.private.md) 
-- [Mitterteich.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Mitterteich.personal.md) 
-- [Mitterteich.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Mitterteich.secret.md) 

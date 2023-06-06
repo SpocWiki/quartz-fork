@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Asymmetry-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Asymmetry-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Reliability.md) 
-- [Triz-Time-Loss+Asymmetry-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Reliability.internal.md) 
-- [Triz-Time-Loss+Asymmetry-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Reliability.protect.md) 
-- [Triz-Time-Loss+Asymmetry-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Reliability.private.md) 
-- [Triz-Time-Loss+Asymmetry-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Reliability.personal.md) 
-- [Triz-Time-Loss+Asymmetry-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Reliability.secret.md) 

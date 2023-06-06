@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Josefsthal](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Josefsthal.md) 
-- [Josefsthal.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Josefsthal.internal.md) 
-- [Josefsthal.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Josefsthal.protect.md) 
-- [Josefsthal.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Josefsthal.private.md) 
-- [Josefsthal.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Josefsthal.personal.md) 
-- [Josefsthal.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Josefsthal.secret.md) 

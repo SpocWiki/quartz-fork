@@ -19,10 +19,3 @@ title: Triz-affected_harm+Homogeneity-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Homogeneity-Quantity](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.md) 
-- [Triz-affected_harm+Homogeneity-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.internal.md) 
-- [Triz-affected_harm+Homogeneity-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.protect.md) 
-- [Triz-affected_harm+Homogeneity-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.private.md) 
-- [Triz-affected_harm+Homogeneity-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.personal.md) 
-- [Triz-affected_harm+Homogeneity-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Homogeneity-Quantity.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Malaga](../../../../../../_public/geo/Continent/Europe/Spain/City/Malaga.md) 
-- [Malaga.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Malaga.internal.md) 
-- [Malaga.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Malaga.protect.md) 
-- [Malaga.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Malaga.private.md) 
-- [Malaga.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Malaga.personal.md) 
-- [Malaga.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Malaga.secret.md) 

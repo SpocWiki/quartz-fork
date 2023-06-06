@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuenburg~Oldenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.md) 
-- [Neuenburg~Oldenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.internal.md) 
-- [Neuenburg~Oldenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.protect.md) 
-- [Neuenburg~Oldenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.private.md) 
-- [Neuenburg~Oldenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.personal.md) 
-- [Neuenburg~Oldenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Neuenburg~Oldenburg.secret.md) 

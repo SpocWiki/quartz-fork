@@ -43,10 +43,3 @@ An amusement park.
 
 
 
-## Confidential Links & Embeds: 
-- [amusement_park](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business/amusement_park.md) 
-- [amusement_park.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business/amusement_park.internal.md) 
-- [amusement_park.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business/amusement_park.protect.md) 
-- [amusement_park.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business/amusement_park.private.md) 
-- [amusement_park.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business/amusement_park.personal.md) 
-- [amusement_park.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business/amusement_park.secret.md) 

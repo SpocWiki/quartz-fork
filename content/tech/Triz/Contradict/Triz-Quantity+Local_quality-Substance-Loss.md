@@ -19,10 +19,3 @@ title: Triz-Quantity+Local_quality-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Local_quality-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.md) 
-- [Triz-Quantity+Local_quality-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.internal.md) 
-- [Triz-Quantity+Local_quality-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.protect.md) 
-- [Triz-Quantity+Local_quality-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.private.md) 
-- [Triz-Quantity+Local_quality-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.personal.md) 
-- [Triz-Quantity+Local_quality-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Substance-Loss.secret.md) 

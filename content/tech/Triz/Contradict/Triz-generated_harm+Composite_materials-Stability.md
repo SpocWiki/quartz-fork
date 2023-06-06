@@ -19,10 +19,3 @@ title: Triz-generated_harm+Composite_materials-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Composite_materials-Stability](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Stability.md) 
-- [Triz-generated_harm+Composite_materials-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Stability.internal.md) 
-- [Triz-generated_harm+Composite_materials-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Stability.protect.md) 
-- [Triz-generated_harm+Composite_materials-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Stability.private.md) 
-- [Triz-generated_harm+Composite_materials-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Stability.personal.md) 
-- [Triz-generated_harm+Composite_materials-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Composite_materials-Stability.secret.md) 

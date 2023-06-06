@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beatenberg](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Beatenberg.md) 
-- [Beatenberg.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Beatenberg.internal.md) 
-- [Beatenberg.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Beatenberg.protect.md) 
-- [Beatenberg.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Beatenberg.private.md) 
-- [Beatenberg.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Beatenberg.personal.md) 
-- [Beatenberg.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Beatenberg.secret.md) 

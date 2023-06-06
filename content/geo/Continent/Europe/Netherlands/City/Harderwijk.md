@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harderwijk](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Harderwijk.md) 
-- [Harderwijk.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Harderwijk.internal.md) 
-- [Harderwijk.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Harderwijk.protect.md) 
-- [Harderwijk.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Harderwijk.private.md) 
-- [Harderwijk.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Harderwijk.personal.md) 
-- [Harderwijk.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Harderwijk.secret.md) 

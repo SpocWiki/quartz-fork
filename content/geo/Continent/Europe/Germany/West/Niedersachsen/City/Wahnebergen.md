@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wahnebergen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahnebergen.md) 
-- [Wahnebergen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahnebergen.internal.md) 
-- [Wahnebergen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahnebergen.protect.md) 
-- [Wahnebergen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahnebergen.private.md) 
-- [Wahnebergen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahnebergen.personal.md) 
-- [Wahnebergen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Wahnebergen.secret.md) 

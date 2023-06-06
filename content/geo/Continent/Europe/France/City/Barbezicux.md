@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barbezicux](../../../../../../_public/geo/Continent/Europe/France/City/Barbezicux.md) 
-- [Barbezicux.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Barbezicux.internal.md) 
-- [Barbezicux.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Barbezicux.protect.md) 
-- [Barbezicux.private](../../../../../../_private/geo/Continent/Europe/France/City/Barbezicux.private.md) 
-- [Barbezicux.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Barbezicux.personal.md) 
-- [Barbezicux.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Barbezicux.secret.md) 

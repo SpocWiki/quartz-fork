@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Dynamicity-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Dynamicity-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Illumination.md) 
-- [Triz-Energy-Loss+Dynamicity-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Illumination.internal.md) 
-- [Triz-Energy-Loss+Dynamicity-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Illumination.protect.md) 
-- [Triz-Energy-Loss+Dynamicity-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Illumination.private.md) 
-- [Triz-Energy-Loss+Dynamicity-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Illumination.personal.md) 
-- [Triz-Energy-Loss+Dynamicity-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Dynamicity-Illumination.secret.md) 

@@ -14,10 +14,3 @@ title: Triz-Replacement_of_a_mechanical_system
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Replacement_of_a_mechanical_system](../../../../_public/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.md) 
-- [Triz-Replacement_of_a_mechanical_system.internal](../../../../_internal/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.internal.md) 
-- [Triz-Replacement_of_a_mechanical_system.protect](../../../../_protect/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.protect.md) 
-- [Triz-Replacement_of_a_mechanical_system.private](../../../../_private/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.private.md) 
-- [Triz-Replacement_of_a_mechanical_system.personal](../../../../_personal/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.personal.md) 
-- [Triz-Replacement_of_a_mechanical_system.secret](../../../../_secret/tech/Triz/Principle/Triz-Replacement_of_a_mechanical_system.secret.md) 

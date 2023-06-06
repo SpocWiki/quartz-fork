@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Markab](../../../_public/astro/Star/Markab.md) 
-- [Markab.internal](../../../_internal/astro/Star/Markab.internal.md) 
-- [Markab.protect](../../../_protect/astro/Star/Markab.protect.md) 
-- [Markab.private](../../../_private/astro/Star/Markab.private.md) 
-- [Markab.personal](../../../_personal/astro/Star/Markab.personal.md) 
-- [Markab.secret](../../../_secret/astro/Star/Markab.secret.md) 

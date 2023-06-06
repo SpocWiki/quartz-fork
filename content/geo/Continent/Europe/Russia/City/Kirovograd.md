@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirovograd](../../../../../../_public/geo/Continent/Europe/Russia/City/Kirovograd.md) 
-- [Kirovograd.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kirovograd.internal.md) 
-- [Kirovograd.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kirovograd.protect.md) 
-- [Kirovograd.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kirovograd.private.md) 
-- [Kirovograd.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kirovograd.personal.md) 
-- [Kirovograd.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kirovograd.secret.md) 

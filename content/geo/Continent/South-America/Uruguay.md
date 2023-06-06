@@ -120,7 +120,7 @@ markerFolder: ./Uruguay/City
 [Capital::[Montevideo](geo/Continent/South-America/Uruguay/City/Montevideo.md)]
 ![350](geo/Continent/South-America/Uruguay/Coat_of_arms_of_Uruguay.svg)
 
-![Anthem-Uruguay](xLarge/National-Anthem/Anthem-Uruguay.mp3)
+[Anthem-Uruguay](xLarge/National-Anthem/Anthem-Uruguay.mp3)
 
 ![350](geo/Continent/South-America/Uruguay/Flag_of_Uruguay.svg)
 
@@ -131,10 +131,3 @@ markerFolder: ./Uruguay/City
 
 
 
-## Confidential Links & Embeds: 
-- [Uruguay](../../../../_public/geo/Continent/South-America/Uruguay.md) 
-- [Uruguay.internal](../../../../_internal/geo/Continent/South-America/Uruguay.internal.md) 
-- [Uruguay.protect](../../../../_protect/geo/Continent/South-America/Uruguay.protect.md) 
-- [Uruguay.private](../../../../_private/geo/Continent/South-America/Uruguay.private.md) 
-- [Uruguay.personal](../../../../_personal/geo/Continent/South-America/Uruguay.personal.md) 
-- [Uruguay.secret](../../../../_secret/geo/Continent/South-America/Uruguay.secret.md) 

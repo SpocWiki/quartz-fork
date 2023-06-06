@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Semani](../../../../../../_public/geo/Continent/Europe/Albania/City/Semani.md) 
-- [Semani.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Semani.internal.md) 
-- [Semani.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Semani.protect.md) 
-- [Semani.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Semani.private.md) 
-- [Semani.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Semani.personal.md) 
-- [Semani.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Semani.secret.md) 

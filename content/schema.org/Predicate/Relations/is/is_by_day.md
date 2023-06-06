@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_by_day](../../../../../_public/schema.org/Predicate/Relations/is/is_by_day.md) 
-- [is_by_day.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_by_day.internal.md) 
-- [is_by_day.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_by_day.protect.md) 
-- [is_by_day.private](../../../../../_private/schema.org/Predicate/Relations/is/is_by_day.private.md) 
-- [is_by_day.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_by_day.personal.md) 
-- [is_by_day.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_by_day.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haadorf](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Haadorf.md) 
-- [Haadorf.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Haadorf.internal.md) 
-- [Haadorf.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Haadorf.protect.md) 
-- [Haadorf.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Haadorf.private.md) 
-- [Haadorf.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Haadorf.personal.md) 
-- [Haadorf.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Haadorf.secret.md) 

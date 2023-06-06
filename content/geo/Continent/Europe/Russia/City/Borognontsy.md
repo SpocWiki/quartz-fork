@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borognontsy](../../../../../../_public/geo/Continent/Europe/Russia/City/Borognontsy.md) 
-- [Borognontsy.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Borognontsy.internal.md) 
-- [Borognontsy.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Borognontsy.protect.md) 
-- [Borognontsy.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Borognontsy.private.md) 
-- [Borognontsy.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Borognontsy.personal.md) 
-- [Borognontsy.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Borognontsy.secret.md) 

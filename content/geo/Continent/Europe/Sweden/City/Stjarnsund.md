@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stjarnsund](../../../../../../_public/geo/Continent/Europe/Sweden/City/Stjarnsund.md) 
-- [Stjarnsund.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stjarnsund.internal.md) 
-- [Stjarnsund.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stjarnsund.protect.md) 
-- [Stjarnsund.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Stjarnsund.private.md) 
-- [Stjarnsund.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stjarnsund.personal.md) 
-- [Stjarnsund.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stjarnsund.secret.md) 

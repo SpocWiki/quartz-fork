@@ -43,10 +43,3 @@ An alternative, closely-related condition typically considered later in the diff
 
 
 
-## Confidential Links & Embeds: 
-- [d_dx_element](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_intangible/d_dx_element.md) 
-- [d_dx_element.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_intangible/d_dx_element.internal.md) 
-- [d_dx_element.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_intangible/d_dx_element.protect.md) 
-- [d_dx_element.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_intangible/d_dx_element.private.md) 
-- [d_dx_element.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_intangible/d_dx_element.personal.md) 
-- [d_dx_element.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_intangible/d_dx_element.secret.md) 

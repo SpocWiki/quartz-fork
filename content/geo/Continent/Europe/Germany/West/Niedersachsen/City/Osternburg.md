@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Osternburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.md) 
-- [Osternburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.internal.md) 
-- [Osternburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.protect.md) 
-- [Osternburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.private.md) 
-- [Osternburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.personal.md) 
-- [Osternburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osternburg.secret.md) 

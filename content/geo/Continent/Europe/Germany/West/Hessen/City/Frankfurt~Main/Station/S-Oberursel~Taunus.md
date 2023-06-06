@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Oberursel~Taunus](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel~Taunus.md) 
-- [S-Oberursel~Taunus.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel~Taunus.internal.md) 
-- [S-Oberursel~Taunus.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel~Taunus.protect.md) 
-- [S-Oberursel~Taunus.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel~Taunus.private.md) 
-- [S-Oberursel~Taunus.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel~Taunus.personal.md) 
-- [S-Oberursel~Taunus.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Oberursel~Taunus.secret.md) 

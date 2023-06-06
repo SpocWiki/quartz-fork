@@ -45,10 +45,3 @@ A collection of music tracks in playlist form.
 
 
 
-## Confidential Links & Embeds: 
-- [music_playlist](../../../../../_public/schema.org/Type/is_a_/creative_work/music_playlist.md) 
-- [music_playlist.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/music_playlist.internal.md) 
-- [music_playlist.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/music_playlist.protect.md) 
-- [music_playlist.private](../../../../../_private/schema.org/Type/is_a_/creative_work/music_playlist.private.md) 
-- [music_playlist.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/music_playlist.personal.md) 
-- [music_playlist.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/music_playlist.secret.md) 

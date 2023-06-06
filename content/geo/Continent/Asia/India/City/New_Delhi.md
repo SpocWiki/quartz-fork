@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [New_Delhi](../../../../../../_public/geo/Continent/Asia/India/City/New_Delhi.md) 
-- [New_Delhi.internal](../../../../../../_internal/geo/Continent/Asia/India/City/New_Delhi.internal.md) 
-- [New_Delhi.protect](../../../../../../_protect/geo/Continent/Asia/India/City/New_Delhi.protect.md) 
-- [New_Delhi.private](../../../../../../_private/geo/Continent/Asia/India/City/New_Delhi.private.md) 
-- [New_Delhi.personal](../../../../../../_personal/geo/Continent/Asia/India/City/New_Delhi.personal.md) 
-- [New_Delhi.secret](../../../../../../_secret/geo/Continent/Asia/India/City/New_Delhi.secret.md) 

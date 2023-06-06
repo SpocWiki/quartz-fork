@@ -19,11 +19,3 @@ title: Lang-ar
 
 
 
-## Confidential Links & Embeds: 
-- [Lang-ar](../../_public/lang/Lang-ar.md) 
-- [Lang-ar.internal](../../_internal/lang/Lang-ar.internal.md) 
-- [Lang-ar.protect](../../_protect/lang/Lang-ar.protect.md) 
-- [Lang-ar.private](../../_private/lang/Lang-ar.private.md) 
-- [Lang-ar.personal](../../_personal/lang/Lang-ar.personal.md) 
-- [Lang-ar.secret](../../_secret/lang/Lang-ar.secret.md)
-

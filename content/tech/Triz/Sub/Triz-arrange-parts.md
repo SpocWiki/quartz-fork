@@ -18,10 +18,3 @@ title: Triz-arrange-parts
 Pre-arrange objects such that they can come into action from the most convenient place and without losing time for their delivery.
 
 
-## Confidential Links & Embeds: 
-- [Triz-arrange-parts](../../../../_public/tech/Triz/Sub/Triz-arrange-parts.md) 
-- [Triz-arrange-parts.internal](../../../../_internal/tech/Triz/Sub/Triz-arrange-parts.internal.md) 
-- [Triz-arrange-parts.protect](../../../../_protect/tech/Triz/Sub/Triz-arrange-parts.protect.md) 
-- [Triz-arrange-parts.private](../../../../_private/tech/Triz/Sub/Triz-arrange-parts.private.md) 
-- [Triz-arrange-parts.personal](../../../../_personal/tech/Triz/Sub/Triz-arrange-parts.personal.md) 
-- [Triz-arrange-parts.secret](../../../../_secret/tech/Triz/Sub/Triz-arrange-parts.secret.md) 

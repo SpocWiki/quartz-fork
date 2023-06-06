@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lublin](../../../../../../_public/geo/Continent/Europe/Poland/City/Lublin.md) 
-- [Lublin.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Lublin.internal.md) 
-- [Lublin.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Lublin.protect.md) 
-- [Lublin.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Lublin.private.md) 
-- [Lublin.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Lublin.personal.md) 
-- [Lublin.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Lublin.secret.md) 

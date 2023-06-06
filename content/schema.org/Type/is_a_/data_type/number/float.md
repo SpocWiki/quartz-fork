@@ -41,10 +41,3 @@ Data type: Floating number.
 
 
 
-## Confidential Links & Embeds: 
-- [float](../../../../../../_public/schema.org/Type/is_a_/data_type/number/float.md) 
-- [float.internal](../../../../../../_internal/schema.org/Type/is_a_/data_type/number/float.internal.md) 
-- [float.protect](../../../../../../_protect/schema.org/Type/is_a_/data_type/number/float.protect.md) 
-- [float.private](../../../../../../_private/schema.org/Type/is_a_/data_type/number/float.private.md) 
-- [float.personal](../../../../../../_personal/schema.org/Type/is_a_/data_type/number/float.personal.md) 
-- [float.secret](../../../../../../_secret/schema.org/Type/is_a_/data_type/number/float.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wernberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wernberg.md) 
-- [Wernberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wernberg.internal.md) 
-- [Wernberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wernberg.protect.md) 
-- [Wernberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wernberg.private.md) 
-- [Wernberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wernberg.personal.md) 
-- [Wernberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wernberg.secret.md) 

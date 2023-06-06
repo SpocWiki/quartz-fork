@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pontypridd](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Pontypridd.md) 
-- [Pontypridd.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Pontypridd.internal.md) 
-- [Pontypridd.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Pontypridd.protect.md) 
-- [Pontypridd.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Pontypridd.private.md) 
-- [Pontypridd.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Pontypridd.personal.md) 
-- [Pontypridd.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Pontypridd.secret.md) 

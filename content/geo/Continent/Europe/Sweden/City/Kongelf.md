@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kongelf](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kongelf.md) 
-- [Kongelf.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kongelf.internal.md) 
-- [Kongelf.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kongelf.protect.md) 
-- [Kongelf.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kongelf.private.md) 
-- [Kongelf.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kongelf.personal.md) 
-- [Kongelf.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kongelf.secret.md) 

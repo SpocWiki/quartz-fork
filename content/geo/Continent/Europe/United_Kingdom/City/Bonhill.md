@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bonhill](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Bonhill.md) 
-- [Bonhill.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Bonhill.internal.md) 
-- [Bonhill.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Bonhill.protect.md) 
-- [Bonhill.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Bonhill.private.md) 
-- [Bonhill.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Bonhill.personal.md) 
-- [Bonhill.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Bonhill.secret.md) 

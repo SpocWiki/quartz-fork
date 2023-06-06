@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Utrecht](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Utrecht.md) 
-- [Utrecht.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Utrecht.internal.md) 
-- [Utrecht.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Utrecht.protect.md) 
-- [Utrecht.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Utrecht.private.md) 
-- [Utrecht.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Utrecht.personal.md) 
-- [Utrecht.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Utrecht.secret.md) 

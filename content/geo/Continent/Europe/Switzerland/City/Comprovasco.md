@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Comprovasco](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Comprovasco.md) 
-- [Comprovasco.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Comprovasco.internal.md) 
-- [Comprovasco.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Comprovasco.protect.md) 
-- [Comprovasco.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Comprovasco.private.md) 
-- [Comprovasco.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Comprovasco.personal.md) 
-- [Comprovasco.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Comprovasco.secret.md) 

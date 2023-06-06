@@ -32,10 +32,3 @@ markerFolder: ./Saarland/City
 
 
 
-## Confidential Links & Embeds: 
-- [Saarland](../../../../../_public/geo/Continent/Europe/Germany/Saarland.md) 
-- [Saarland.internal](../../../../../_internal/geo/Continent/Europe/Germany/Saarland.internal.md) 
-- [Saarland.protect](../../../../../_protect/geo/Continent/Europe/Germany/Saarland.protect.md) 
-- [Saarland.private](../../../../../_private/geo/Continent/Europe/Germany/Saarland.private.md) 
-- [Saarland.personal](../../../../../_personal/geo/Continent/Europe/Germany/Saarland.personal.md) 
-- [Saarland.secret](../../../../../_secret/geo/Continent/Europe/Germany/Saarland.secret.md) 

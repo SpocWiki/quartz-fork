@@ -19,10 +19,3 @@ title: Triz-Power+Thermal_expansion-moving_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Thermal_expansion-moving_Length](../../../../_public/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.md) 
-- [Triz-Power+Thermal_expansion-moving_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.internal.md) 
-- [Triz-Power+Thermal_expansion-moving_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.protect.md) 
-- [Triz-Power+Thermal_expansion-moving_Length.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.private.md) 
-- [Triz-Power+Thermal_expansion-moving_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.personal.md) 
-- [Triz-Power+Thermal_expansion-moving_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Thermal_expansion-moving_Length.secret.md) 

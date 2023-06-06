@@ -19,10 +19,3 @@ title: Triz-Stress+Asymmetry-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Asymmetry-Shape](../../../../_public/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.md) 
-- [Triz-Stress+Asymmetry-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.internal.md) 
-- [Triz-Stress+Asymmetry-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.protect.md) 
-- [Triz-Stress+Asymmetry-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.private.md) 
-- [Triz-Stress+Asymmetry-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.personal.md) 
-- [Triz-Stress+Asymmetry-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Asymmetry-Shape.secret.md) 

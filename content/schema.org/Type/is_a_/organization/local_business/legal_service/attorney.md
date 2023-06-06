@@ -45,10 +45,3 @@ This type is deprecated - <a class="localLink" href="/LegalService">LegalService
 
 
 
-## Confidential Links & Embeds: 
-- [attorney](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/legal_service/attorney.md) 
-- [attorney.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/legal_service/attorney.internal.md) 
-- [attorney.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/legal_service/attorney.protect.md) 
-- [attorney.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/legal_service/attorney.private.md) 
-- [attorney.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/legal_service/attorney.personal.md) 
-- [attorney.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/legal_service/attorney.secret.md) 

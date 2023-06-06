@@ -19,10 +19,3 @@ title: Triz-Speed+Spheroidality-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Speed+Spheroidality-Strength](../../../../_public/tech/Triz/Contradict/Triz-Speed+Spheroidality-Strength.md) 
-- [Triz-Speed+Spheroidality-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Speed+Spheroidality-Strength.internal.md) 
-- [Triz-Speed+Spheroidality-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Speed+Spheroidality-Strength.protect.md) 
-- [Triz-Speed+Spheroidality-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Speed+Spheroidality-Strength.private.md) 
-- [Triz-Speed+Spheroidality-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Speed+Spheroidality-Strength.personal.md) 
-- [Triz-Speed+Spheroidality-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Speed+Spheroidality-Strength.secret.md) 

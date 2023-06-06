@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_activity_frequency](../../../../_public/schema.org/Predicate/Quantities/has_value_for_activity_frequency.md) 
-- [has_value_for_activity_frequency.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_activity_frequency.internal.md) 
-- [has_value_for_activity_frequency.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_activity_frequency.protect.md) 
-- [has_value_for_activity_frequency.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_activity_frequency.private.md) 
-- [has_value_for_activity_frequency.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_activity_frequency.personal.md) 
-- [has_value_for_activity_frequency.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_activity_frequency.secret.md) 

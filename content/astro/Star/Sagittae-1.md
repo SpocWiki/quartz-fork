@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sagittae-1](../../../_public/astro/Star/Sagittae-1.md) 
-- [Sagittae-1.internal](../../../_internal/astro/Star/Sagittae-1.internal.md) 
-- [Sagittae-1.protect](../../../_protect/astro/Star/Sagittae-1.protect.md) 
-- [Sagittae-1.private](../../../_private/astro/Star/Sagittae-1.private.md) 
-- [Sagittae-1.personal](../../../_personal/astro/Star/Sagittae-1.personal.md) 
-- [Sagittae-1.secret](../../../_secret/astro/Star/Sagittae-1.secret.md) 

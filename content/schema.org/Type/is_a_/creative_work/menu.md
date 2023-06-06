@@ -43,10 +43,3 @@ A structured representation of food or drink items available from a FoodEstablis
 
 
 
-## Confidential Links & Embeds: 
-- [menu](../../../../../_public/schema.org/Type/is_a_/creative_work/menu.md) 
-- [menu.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/menu.internal.md) 
-- [menu.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/menu.protect.md) 
-- [menu.private](../../../../../_private/schema.org/Type/is_a_/creative_work/menu.private.md) 
-- [menu.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/menu.personal.md) 
-- [menu.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/menu.secret.md) 

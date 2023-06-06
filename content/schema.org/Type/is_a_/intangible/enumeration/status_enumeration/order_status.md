@@ -41,10 +41,3 @@ Enumerated status values for Order.
 
 
 
-## Confidential Links & Embeds: 
-- [order_status](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.md) 
-- [order_status.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.internal.md) 
-- [order_status.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.protect.md) 
-- [order_status.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.private.md) 
-- [order_status.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.personal.md) 
-- [order_status.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.secret.md) 

@@ -45,10 +45,3 @@ A review of an item - for example, of a restaurant, movie, or store.
 
 
 
-## Confidential Links & Embeds: 
-- [review](../../../../../_public/schema.org/Type/is_a_/creative_work/review.md) 
-- [review.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/review.internal.md) 
-- [review.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/review.protect.md) 
-- [review.private](../../../../../_private/schema.org/Type/is_a_/creative_work/review.private.md) 
-- [review.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/review.personal.md) 
-- [review.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/review.secret.md) 

@@ -43,10 +43,3 @@ A web page that provides medical information.
 
 
 
-## Confidential Links & Embeds: 
-- [medical_web_page](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.md) 
-- [medical_web_page.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.internal.md) 
-- [medical_web_page.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.protect.md) 
-- [medical_web_page.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.private.md) 
-- [medical_web_page.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.personal.md) 
-- [medical_web_page.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Berat](../../../../../../_public/geo/Continent/Europe/Albania/City/Berat.md) 
-- [Berat.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Berat.internal.md) 
-- [Berat.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Berat.protect.md) 
-- [Berat.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Berat.private.md) 
-- [Berat.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Berat.personal.md) 
-- [Berat.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Berat.secret.md) 

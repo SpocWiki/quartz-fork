@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montecassino](../../../../../../_public/geo/Continent/Europe/Italy/City/Montecassino.md) 
-- [Montecassino.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Montecassino.internal.md) 
-- [Montecassino.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Montecassino.protect.md) 
-- [Montecassino.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Montecassino.private.md) 
-- [Montecassino.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Montecassino.personal.md) 
-- [Montecassino.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Montecassino.secret.md) 

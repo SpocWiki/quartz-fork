@@ -47,10 +47,3 @@ Nonprofit501c26: Non-profit type referring to State-Sponsored Organizations Prov
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c26](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.md) 
-- [nonprofit501c26.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.internal.md) 
-- [nonprofit501c26.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.protect.md) 
-- [nonprofit501c26.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.private.md) 
-- [nonprofit501c26.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.personal.md) 
-- [nonprofit501c26.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c26.secret.md) 

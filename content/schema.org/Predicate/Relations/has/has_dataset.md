@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_dataset](../../../../../_public/schema.org/Predicate/Relations/has/has_dataset.md) 
-- [has_dataset.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_dataset.internal.md) 
-- [has_dataset.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_dataset.protect.md) 
-- [has_dataset.private](../../../../../_private/schema.org/Predicate/Relations/has/has_dataset.private.md) 
-- [has_dataset.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_dataset.personal.md) 
-- [has_dataset.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_dataset.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heideck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Heideck.md) 
-- [Heideck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Heideck.internal.md) 
-- [Heideck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Heideck.protect.md) 
-- [Heideck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Heideck.private.md) 
-- [Heideck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Heideck.personal.md) 
-- [Heideck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Heideck.secret.md) 

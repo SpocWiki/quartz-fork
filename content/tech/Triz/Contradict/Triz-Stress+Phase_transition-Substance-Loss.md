@@ -19,10 +19,3 @@ title: Triz-Stress+Phase_transition-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stress+Phase_transition-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.md) 
-- [Triz-Stress+Phase_transition-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.internal.md) 
-- [Triz-Stress+Phase_transition-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.protect.md) 
-- [Triz-Stress+Phase_transition-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.private.md) 
-- [Triz-Stress+Phase_transition-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.personal.md) 
-- [Triz-Stress+Phase_transition-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stress+Phase_transition-Substance-Loss.secret.md) 

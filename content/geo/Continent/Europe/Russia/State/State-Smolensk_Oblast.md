@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Smolensk_Oblast](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Smolensk_Oblast.md) 
-- [State-Smolensk_Oblast.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Smolensk_Oblast.internal.md) 
-- [State-Smolensk_Oblast.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Smolensk_Oblast.protect.md) 
-- [State-Smolensk_Oblast.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Smolensk_Oblast.private.md) 
-- [State-Smolensk_Oblast.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Smolensk_Oblast.personal.md) 
-- [State-Smolensk_Oblast.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Smolensk_Oblast.secret.md) 

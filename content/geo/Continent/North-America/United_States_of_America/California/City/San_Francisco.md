@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [San_Francisco](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.md) 
-- [San_Francisco.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.internal.md) 
-- [San_Francisco.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.protect.md) 
-- [San_Francisco.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.private.md) 
-- [San_Francisco.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.personal.md) 
-- [San_Francisco.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/California/City/San_Francisco.secret.md) 

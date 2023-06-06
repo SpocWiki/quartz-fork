@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Milken](../../../../../../_public/geo/Continent/Europe/Poland/City/Milken.md) 
-- [Milken.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Milken.internal.md) 
-- [Milken.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Milken.protect.md) 
-- [Milken.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Milken.private.md) 
-- [Milken.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Milken.personal.md) 
-- [Milken.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Milken.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aden](../../../../../../_public/geo/Continent/Asia/Yemen~Republic/City/Aden.md) 
-- [Aden.internal](../../../../../../_internal/geo/Continent/Asia/Yemen~Republic/City/Aden.internal.md) 
-- [Aden.protect](../../../../../../_protect/geo/Continent/Asia/Yemen~Republic/City/Aden.protect.md) 
-- [Aden.private](../../../../../../_private/geo/Continent/Asia/Yemen~Republic/City/Aden.private.md) 
-- [Aden.personal](../../../../../../_personal/geo/Continent/Asia/Yemen~Republic/City/Aden.personal.md) 
-- [Aden.secret](../../../../../../_secret/geo/Continent/Asia/Yemen~Republic/City/Aden.secret.md) 

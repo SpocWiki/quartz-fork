@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Tarazed](../../../_public/astro/Star/Tarazed.md) 
-- [Tarazed.internal](../../../_internal/astro/Star/Tarazed.internal.md) 
-- [Tarazed.protect](../../../_protect/astro/Star/Tarazed.protect.md) 
-- [Tarazed.private](../../../_private/astro/Star/Tarazed.private.md) 
-- [Tarazed.personal](../../../_personal/astro/Star/Tarazed.personal.md) 
-- [Tarazed.secret](../../../_secret/astro/Star/Tarazed.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Dynamicity-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Dynamicity-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.md) 
-- [Triz-Substance-Loss+Dynamicity-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.internal.md) 
-- [Triz-Substance-Loss+Dynamicity-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.protect.md) 
-- [Triz-Substance-Loss+Dynamicity-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.private.md) 
-- [Triz-Substance-Loss+Dynamicity-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.personal.md) 
-- [Triz-Substance-Loss+Dynamicity-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Dynamicity-Versatility.secret.md) 

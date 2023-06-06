@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zatec](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zatec.md) 
-- [Zatec.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zatec.internal.md) 
-- [Zatec.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zatec.protect.md) 
-- [Zatec.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zatec.private.md) 
-- [Zatec.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zatec.personal.md) 
-- [Zatec.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zatec.secret.md) 

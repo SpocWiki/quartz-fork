@@ -132,10 +132,3 @@ markerFolder: ./Cyprus/City
 
 
 
-## Confidential Links & Embeds: 
-- [Cyprus](../../../../_public/geo/Continent/Europe/Cyprus.md) 
-- [Cyprus.internal](../../../../_internal/geo/Continent/Europe/Cyprus.internal.md) 
-- [Cyprus.protect](../../../../_protect/geo/Continent/Europe/Cyprus.protect.md) 
-- [Cyprus.private](../../../../_private/geo/Continent/Europe/Cyprus.private.md) 
-- [Cyprus.personal](../../../../_personal/geo/Continent/Europe/Cyprus.personal.md) 
-- [Cyprus.secret](../../../../_secret/geo/Continent/Europe/Cyprus.secret.md) 

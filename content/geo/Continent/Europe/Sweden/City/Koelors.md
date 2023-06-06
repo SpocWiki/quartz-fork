@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koelors](../../../../../../_public/geo/Continent/Europe/Sweden/City/Koelors.md) 
-- [Koelors.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Koelors.internal.md) 
-- [Koelors.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Koelors.protect.md) 
-- [Koelors.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Koelors.private.md) 
-- [Koelors.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Koelors.personal.md) 
-- [Koelors.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Koelors.secret.md) 

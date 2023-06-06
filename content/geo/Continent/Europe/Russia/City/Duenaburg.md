@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Duenaburg](../../../../../../_public/geo/Continent/Europe/Russia/City/Duenaburg.md) 
-- [Duenaburg.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Duenaburg.internal.md) 
-- [Duenaburg.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Duenaburg.protect.md) 
-- [Duenaburg.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Duenaburg.private.md) 
-- [Duenaburg.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Duenaburg.personal.md) 
-- [Duenaburg.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Duenaburg.secret.md) 

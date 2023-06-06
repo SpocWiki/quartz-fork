@@ -19,10 +19,3 @@ title: Triz-affected_harm+Segmentation-stationary_Duration
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Segmentation-stationary_Duration](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Segmentation-stationary_Duration.md) 
-- [Triz-affected_harm+Segmentation-stationary_Duration.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Segmentation-stationary_Duration.internal.md) 
-- [Triz-affected_harm+Segmentation-stationary_Duration.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Segmentation-stationary_Duration.protect.md) 
-- [Triz-affected_harm+Segmentation-stationary_Duration.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Segmentation-stationary_Duration.private.md) 
-- [Triz-affected_harm+Segmentation-stationary_Duration.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Segmentation-stationary_Duration.personal.md) 
-- [Triz-affected_harm+Segmentation-stationary_Duration.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Segmentation-stationary_Duration.secret.md) 

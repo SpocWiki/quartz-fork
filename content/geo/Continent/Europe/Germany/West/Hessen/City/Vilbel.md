@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vilbel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Vilbel.md) 
-- [Vilbel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Vilbel.internal.md) 
-- [Vilbel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Vilbel.protect.md) 
-- [Vilbel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Vilbel.private.md) 
-- [Vilbel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Vilbel.personal.md) 
-- [Vilbel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Vilbel.secret.md) 

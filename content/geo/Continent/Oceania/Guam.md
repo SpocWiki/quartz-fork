@@ -129,10 +129,3 @@ markerFolder: ./Guam/City
 
 
 
-## Confidential Links & Embeds: 
-- [Guam](../../../../_public/geo/Continent/Oceania/Guam.md) 
-- [Guam.internal](../../../../_internal/geo/Continent/Oceania/Guam.internal.md) 
-- [Guam.protect](../../../../_protect/geo/Continent/Oceania/Guam.protect.md) 
-- [Guam.private](../../../../_private/geo/Continent/Oceania/Guam.private.md) 
-- [Guam.personal](../../../../_personal/geo/Continent/Oceania/Guam.personal.md) 
-- [Guam.secret](../../../../_secret/geo/Continent/Oceania/Guam.secret.md) 

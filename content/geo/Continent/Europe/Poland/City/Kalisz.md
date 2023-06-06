@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kalisz](../../../../../../_public/geo/Continent/Europe/Poland/City/Kalisz.md) 
-- [Kalisz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kalisz.internal.md) 
-- [Kalisz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kalisz.protect.md) 
-- [Kalisz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kalisz.private.md) 
-- [Kalisz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kalisz.personal.md) 
-- [Kalisz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kalisz.secret.md) 

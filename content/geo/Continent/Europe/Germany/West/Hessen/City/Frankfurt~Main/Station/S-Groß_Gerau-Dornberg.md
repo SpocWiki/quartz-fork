@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [S-Groß_Gerau-Dornberg](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Gerau-Dornberg.md) 
-- [S-Groß_Gerau-Dornberg.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Gerau-Dornberg.internal.md) 
-- [S-Groß_Gerau-Dornberg.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Gerau-Dornberg.protect.md) 
-- [S-Groß_Gerau-Dornberg.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Gerau-Dornberg.private.md) 
-- [S-Groß_Gerau-Dornberg.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Gerau-Dornberg.personal.md) 
-- [S-Groß_Gerau-Dornberg.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/S-Gro%C3%9F_Gerau-Dornberg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pieve_nel_Cairolt](../../../../../../_public/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.md) 
-- [Pieve_nel_Cairolt.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.internal.md) 
-- [Pieve_nel_Cairolt.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.protect.md) 
-- [Pieve_nel_Cairolt.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.private.md) 
-- [Pieve_nel_Cairolt.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.personal.md) 
-- [Pieve_nel_Cairolt.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pieve_nel_Cairolt.secret.md) 

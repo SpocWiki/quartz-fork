@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rengersdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Rengersdorf.md) 
-- [Rengersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Rengersdorf.internal.md) 
-- [Rengersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Rengersdorf.protect.md) 
-- [Rengersdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Rengersdorf.private.md) 
-- [Rengersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Rengersdorf.personal.md) 
-- [Rengersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Rengersdorf.secret.md) 

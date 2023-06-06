@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Prior_action-moving_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Prior_action-moving_Length](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.md) 
-- [Triz-Substance-Loss+Prior_action-moving_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.internal.md) 
-- [Triz-Substance-Loss+Prior_action-moving_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.protect.md) 
-- [Triz-Substance-Loss+Prior_action-moving_Length.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.private.md) 
-- [Triz-Substance-Loss+Prior_action-moving_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.personal.md) 
-- [Triz-Substance-Loss+Prior_action-moving_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-moving_Length.secret.md) 

@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_cholesterol_in_milliGram](../../../../_public/schema.org/Predicate/Quantities/has_value_for_cholesterol_in_milliGram.md) 
-- [has_value_for_cholesterol_in_milliGram.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_cholesterol_in_milliGram.internal.md) 
-- [has_value_for_cholesterol_in_milliGram.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_cholesterol_in_milliGram.protect.md) 
-- [has_value_for_cholesterol_in_milliGram.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_cholesterol_in_milliGram.private.md) 
-- [has_value_for_cholesterol_in_milliGram.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_cholesterol_in_milliGram.personal.md) 
-- [has_value_for_cholesterol_in_milliGram.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_cholesterol_in_milliGram.secret.md) 

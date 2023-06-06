@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wildenbruck](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wildenbruck.md) 
-- [Wildenbruck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wildenbruck.internal.md) 
-- [Wildenbruck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wildenbruck.protect.md) 
-- [Wildenbruck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wildenbruck.private.md) 
-- [Wildenbruck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wildenbruck.personal.md) 
-- [Wildenbruck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Wildenbruck.secret.md) 

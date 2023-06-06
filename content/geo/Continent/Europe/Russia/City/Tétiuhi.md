@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tétiuhi](../../../../../../_public/geo/Continent/Europe/Russia/City/T%C3%A9tiuhi.md) 
-- [Tétiuhi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/T%C3%A9tiuhi.internal.md) 
-- [Tétiuhi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/T%C3%A9tiuhi.protect.md) 
-- [Tétiuhi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/T%C3%A9tiuhi.private.md) 
-- [Tétiuhi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/T%C3%A9tiuhi.personal.md) 
-- [Tétiuhi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/T%C3%A9tiuhi.secret.md) 

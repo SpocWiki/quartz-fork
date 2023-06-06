@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flintsbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Flintsbach.md) 
-- [Flintsbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Flintsbach.internal.md) 
-- [Flintsbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Flintsbach.protect.md) 
-- [Flintsbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Flintsbach.private.md) 
-- [Flintsbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Flintsbach.personal.md) 
-- [Flintsbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Flintsbach.secret.md) 

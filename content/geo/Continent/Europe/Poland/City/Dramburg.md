@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dramburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Dramburg.md) 
-- [Dramburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Dramburg.internal.md) 
-- [Dramburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Dramburg.protect.md) 
-- [Dramburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Dramburg.private.md) 
-- [Dramburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Dramburg.personal.md) 
-- [Dramburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Dramburg.secret.md) 

@@ -45,10 +45,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_broadcast_timezone](../../../../_public/schema.org/Predicate/Texts/has_broadcast_timezone.md) 
-- [has_broadcast_timezone.internal](../../../../_internal/schema.org/Predicate/Texts/has_broadcast_timezone.internal.md) 
-- [has_broadcast_timezone.protect](../../../../_protect/schema.org/Predicate/Texts/has_broadcast_timezone.protect.md) 
-- [has_broadcast_timezone.private](../../../../_private/schema.org/Predicate/Texts/has_broadcast_timezone.private.md) 
-- [has_broadcast_timezone.personal](../../../../_personal/schema.org/Predicate/Texts/has_broadcast_timezone.personal.md) 
-- [has_broadcast_timezone.secret](../../../../_secret/schema.org/Predicate/Texts/has_broadcast_timezone.secret.md) 

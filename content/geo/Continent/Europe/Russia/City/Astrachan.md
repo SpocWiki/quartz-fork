@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Astrachan](../../../../../../_public/geo/Continent/Europe/Russia/City/Astrachan.md) 
-- [Astrachan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Astrachan.internal.md) 
-- [Astrachan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Astrachan.protect.md) 
-- [Astrachan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Astrachan.private.md) 
-- [Astrachan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Astrachan.personal.md) 
-- [Astrachan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Astrachan.secret.md) 

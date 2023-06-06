@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Mediator-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Mediator-Speed](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.md) 
-- [Triz-Measurement_Accuracy+Mediator-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.internal.md) 
-- [Triz-Measurement_Accuracy+Mediator-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.protect.md) 
-- [Triz-Measurement_Accuracy+Mediator-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.private.md) 
-- [Triz-Measurement_Accuracy+Mediator-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.personal.md) 
-- [Triz-Measurement_Accuracy+Mediator-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Mediator-Speed.secret.md) 

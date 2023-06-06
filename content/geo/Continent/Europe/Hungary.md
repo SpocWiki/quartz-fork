@@ -119,7 +119,7 @@ markerFolder: ./Hungary/City
 [Capital::[Budapest](geo/Continent/Europe/Hungary/City/Budapest.md)]
 ![359](geo/Continent/Europe/Hungary/Coat_of_arms_of_Hungary.svg)
 
-![Anthem-Hungary](xLarge/National-Anthem/Anthem-Hungary.mp3)
+[Anthem-Hungary](xLarge/National-Anthem/Anthem-Hungary.mp3)
 
 ![299](geo/Continent/Europe/Hungary/Flag_of_Hungary.svg)
 [Alcohol-l::16.3]
@@ -129,10 +129,3 @@ markerFolder: ./Hungary/City
 
 
 
-## Confidential Links & Embeds: 
-- [Hungary](../../../../_public/geo/Continent/Europe/Hungary.md) 
-- [Hungary.internal](../../../../_internal/geo/Continent/Europe/Hungary.internal.md) 
-- [Hungary.protect](../../../../_protect/geo/Continent/Europe/Hungary.protect.md) 
-- [Hungary.private](../../../../_private/geo/Continent/Europe/Hungary.private.md) 
-- [Hungary.personal](../../../../_personal/geo/Continent/Europe/Hungary.personal.md) 
-- [Hungary.secret](../../../../_secret/geo/Continent/Europe/Hungary.secret.md) 

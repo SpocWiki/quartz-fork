@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Foscani](../../../../../../_public/geo/Continent/Europe/Romania/City/Foscani.md) 
-- [Foscani.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Foscani.internal.md) 
-- [Foscani.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Foscani.protect.md) 
-- [Foscani.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Foscani.private.md) 
-- [Foscani.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Foscani.personal.md) 
-- [Foscani.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Foscani.secret.md) 

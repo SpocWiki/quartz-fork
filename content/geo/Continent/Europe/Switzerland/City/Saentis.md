@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Saentis](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Saentis.md) 
-- [Saentis.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Saentis.internal.md) 
-- [Saentis.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Saentis.protect.md) 
-- [Saentis.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Saentis.private.md) 
-- [Saentis.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Saentis.personal.md) 
-- [Saentis.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Saentis.secret.md) 

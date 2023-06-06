@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sunderland](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Sunderland.md) 
-- [Sunderland.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Sunderland.internal.md) 
-- [Sunderland.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Sunderland.protect.md) 
-- [Sunderland.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Sunderland.private.md) 
-- [Sunderland.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Sunderland.personal.md) 
-- [Sunderland.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Sunderland.secret.md) 

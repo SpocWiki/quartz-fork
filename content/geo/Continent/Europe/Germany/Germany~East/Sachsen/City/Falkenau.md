@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falkenau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenau.md) 
-- [Falkenau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenau.internal.md) 
-- [Falkenau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenau.protect.md) 
-- [Falkenau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenau.private.md) 
-- [Falkenau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenau.personal.md) 
-- [Falkenau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Falkenau.secret.md) 

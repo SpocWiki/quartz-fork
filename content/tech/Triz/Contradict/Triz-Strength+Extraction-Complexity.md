@@ -19,10 +19,3 @@ title: Triz-Strength+Extraction-Complexity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Strength+Extraction-Complexity](../../../../_public/tech/Triz/Contradict/Triz-Strength+Extraction-Complexity.md) 
-- [Triz-Strength+Extraction-Complexity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Strength+Extraction-Complexity.internal.md) 
-- [Triz-Strength+Extraction-Complexity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Strength+Extraction-Complexity.protect.md) 
-- [Triz-Strength+Extraction-Complexity.private](../../../../_private/tech/Triz/Contradict/Triz-Strength+Extraction-Complexity.private.md) 
-- [Triz-Strength+Extraction-Complexity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Strength+Extraction-Complexity.personal.md) 
-- [Triz-Strength+Extraction-Complexity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Strength+Extraction-Complexity.secret.md) 

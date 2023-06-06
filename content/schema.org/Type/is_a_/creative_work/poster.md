@@ -45,10 +45,3 @@ A large, usually printed placard, bill, or announcement, often illustrated, that
 
 
 
-## Confidential Links & Embeds: 
-- [poster](../../../../../_public/schema.org/Type/is_a_/creative_work/poster.md) 
-- [poster.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/poster.internal.md) 
-- [poster.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/poster.protect.md) 
-- [poster.private](../../../../../_private/schema.org/Type/is_a_/creative_work/poster.private.md) 
-- [poster.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/poster.personal.md) 
-- [poster.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/poster.secret.md) 

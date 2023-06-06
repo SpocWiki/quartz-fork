@@ -34,10 +34,3 @@ title: Protactinium
 
 
 
-## Confidential Links & Embeds: 
-- [Protactinium](../../../../_public/chemic/Elements/Actinide-Group/Protactinium.md) 
-- [Protactinium.internal](../../../../_internal/chemic/Elements/Actinide-Group/Protactinium.internal.md) 
-- [Protactinium.protect](../../../../_protect/chemic/Elements/Actinide-Group/Protactinium.protect.md) 
-- [Protactinium.private](../../../../_private/chemic/Elements/Actinide-Group/Protactinium.private.md) 
-- [Protactinium.personal](../../../../_personal/chemic/Elements/Actinide-Group/Protactinium.personal.md) 
-- [Protactinium.secret](../../../../_secret/chemic/Elements/Actinide-Group/Protactinium.secret.md) 

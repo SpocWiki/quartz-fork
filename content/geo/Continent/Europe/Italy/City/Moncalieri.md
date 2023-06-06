@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moncalieri](../../../../../../_public/geo/Continent/Europe/Italy/City/Moncalieri.md) 
-- [Moncalieri.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Moncalieri.internal.md) 
-- [Moncalieri.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Moncalieri.protect.md) 
-- [Moncalieri.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Moncalieri.private.md) 
-- [Moncalieri.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Moncalieri.personal.md) 
-- [Moncalieri.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Moncalieri.secret.md) 

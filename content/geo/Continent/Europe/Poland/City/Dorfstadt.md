@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dorfstadt](../../../../../../_public/geo/Continent/Europe/Poland/City/Dorfstadt.md) 
-- [Dorfstadt.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Dorfstadt.internal.md) 
-- [Dorfstadt.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Dorfstadt.protect.md) 
-- [Dorfstadt.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Dorfstadt.private.md) 
-- [Dorfstadt.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Dorfstadt.personal.md) 
-- [Dorfstadt.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Dorfstadt.secret.md) 

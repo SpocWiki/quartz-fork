@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Korschen](../../../../../../_public/geo/Continent/Europe/Poland/City/Korschen.md) 
-- [Korschen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Korschen.internal.md) 
-- [Korschen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Korschen.protect.md) 
-- [Korschen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Korschen.private.md) 
-- [Korschen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Korschen.personal.md) 
-- [Korschen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Korschen.secret.md) 

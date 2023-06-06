@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Esna](../../../../../../_public/geo/Continent/Europe/Russia/City/Esna.md) 
-- [Esna.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Esna.internal.md) 
-- [Esna.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Esna.protect.md) 
-- [Esna.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Esna.private.md) 
-- [Esna.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Esna.personal.md) 
-- [Esna.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Esna.secret.md) 

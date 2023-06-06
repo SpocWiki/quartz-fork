@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Duppau](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Duppau.md) 
-- [Duppau.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Duppau.internal.md) 
-- [Duppau.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Duppau.protect.md) 
-- [Duppau.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Duppau.private.md) 
-- [Duppau.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Duppau.personal.md) 
-- [Duppau.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Duppau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chatillon-sur-Seine](../../../../../../_public/geo/Continent/Europe/France/City/Chatillon-sur-Seine.md) 
-- [Chatillon-sur-Seine.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Chatillon-sur-Seine.internal.md) 
-- [Chatillon-sur-Seine.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Chatillon-sur-Seine.protect.md) 
-- [Chatillon-sur-Seine.private](../../../../../../_private/geo/Continent/Europe/France/City/Chatillon-sur-Seine.private.md) 
-- [Chatillon-sur-Seine.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Chatillon-sur-Seine.personal.md) 
-- [Chatillon-sur-Seine.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Chatillon-sur-Seine.secret.md) 

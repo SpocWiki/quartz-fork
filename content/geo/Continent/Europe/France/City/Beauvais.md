@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beauvais](../../../../../../_public/geo/Continent/Europe/France/City/Beauvais.md) 
-- [Beauvais.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Beauvais.internal.md) 
-- [Beauvais.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Beauvais.protect.md) 
-- [Beauvais.private](../../../../../../_private/geo/Continent/Europe/France/City/Beauvais.private.md) 
-- [Beauvais.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Beauvais.personal.md) 
-- [Beauvais.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Beauvais.secret.md) 

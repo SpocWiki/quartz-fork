@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Wezen](../../../_public/astro/Star/Wezen.md) 
-- [Wezen.internal](../../../_internal/astro/Star/Wezen.internal.md) 
-- [Wezen.protect](../../../_protect/astro/Star/Wezen.protect.md) 
-- [Wezen.private](../../../_private/astro/Star/Wezen.private.md) 
-- [Wezen.personal](../../../_personal/astro/Star/Wezen.personal.md) 
-- [Wezen.secret](../../../_secret/astro/Star/Wezen.secret.md) 

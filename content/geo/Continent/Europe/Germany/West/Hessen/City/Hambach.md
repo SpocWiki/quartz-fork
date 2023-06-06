@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hambach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.md) 
-- [Hambach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.internal.md) 
-- [Hambach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.protect.md) 
-- [Hambach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.private.md) 
-- [Hambach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.personal.md) 
-- [Hambach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Hambach.secret.md) 

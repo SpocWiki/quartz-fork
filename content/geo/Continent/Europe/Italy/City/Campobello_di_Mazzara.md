@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Campobello_di_Mazzara](../../../../../../_public/geo/Continent/Europe/Italy/City/Campobello_di_Mazzara.md) 
-- [Campobello_di_Mazzara.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Campobello_di_Mazzara.internal.md) 
-- [Campobello_di_Mazzara.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Campobello_di_Mazzara.protect.md) 
-- [Campobello_di_Mazzara.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Campobello_di_Mazzara.private.md) 
-- [Campobello_di_Mazzara.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Campobello_di_Mazzara.personal.md) 
-- [Campobello_di_Mazzara.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Campobello_di_Mazzara.secret.md) 

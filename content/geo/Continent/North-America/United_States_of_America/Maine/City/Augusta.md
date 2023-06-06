@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Augusta](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.md) 
-- [Augusta.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.internal.md) 
-- [Augusta.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.protect.md) 
-- [Augusta.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.private.md) 
-- [Augusta.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.personal.md) 
-- [Augusta.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Maine/City/Augusta.secret.md) 

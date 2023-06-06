@@ -125,7 +125,7 @@ markerFolder: ./Vietnam/City
 
 ![350](geo/Continent/Asia/Vietnam/Emblem_of_Vietnam.svg)
 
-![Anthem-Vietnam](xLarge/National-Anthem/Anthem-Vietnam.mp3)
+[Anthem-Vietnam](xLarge/National-Anthem/Anthem-Vietnam.mp3)
 
 ![350](geo/Continent/Asia/Vietnam/Flag_of_Vietnam.svg)
 
@@ -136,10 +136,3 @@ markerFolder: ./Vietnam/City
 
 
 
-## Confidential Links & Embeds: 
-- [Vietnam](../../../../_public/geo/Continent/Asia/Vietnam.md) 
-- [Vietnam.internal](../../../../_internal/geo/Continent/Asia/Vietnam.internal.md) 
-- [Vietnam.protect](../../../../_protect/geo/Continent/Asia/Vietnam.protect.md) 
-- [Vietnam.private](../../../../_private/geo/Continent/Asia/Vietnam.private.md) 
-- [Vietnam.personal](../../../../_personal/geo/Continent/Asia/Vietnam.personal.md) 
-- [Vietnam.secret](../../../../_secret/geo/Continent/Asia/Vietnam.secret.md) 

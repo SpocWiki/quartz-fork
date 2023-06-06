@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ramsgate](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ramsgate.md) 
-- [Ramsgate.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ramsgate.internal.md) 
-- [Ramsgate.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ramsgate.protect.md) 
-- [Ramsgate.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ramsgate.private.md) 
-- [Ramsgate.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ramsgate.personal.md) 
-- [Ramsgate.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ramsgate.secret.md) 

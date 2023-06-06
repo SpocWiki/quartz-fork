@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Arietis-5](../../../_public/astro/Star/Arietis-5.md) 
-- [Arietis-5.internal](../../../_internal/astro/Star/Arietis-5.internal.md) 
-- [Arietis-5.protect](../../../_protect/astro/Star/Arietis-5.protect.md) 
-- [Arietis-5.private](../../../_private/astro/Star/Arietis-5.private.md) 
-- [Arietis-5.personal](../../../_personal/astro/Star/Arietis-5.personal.md) 
-- [Arietis-5.secret](../../../_secret/astro/Star/Arietis-5.secret.md)
-

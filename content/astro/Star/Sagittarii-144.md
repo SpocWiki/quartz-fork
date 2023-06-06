@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sagittarii-144](../../../_public/astro/Star/Sagittarii-144.md) 
-- [Sagittarii-144.internal](../../../_internal/astro/Star/Sagittarii-144.internal.md) 
-- [Sagittarii-144.protect](../../../_protect/astro/Star/Sagittarii-144.protect.md) 
-- [Sagittarii-144.private](../../../_private/astro/Star/Sagittarii-144.private.md) 
-- [Sagittarii-144.personal](../../../_personal/astro/Star/Sagittarii-144.personal.md) 
-- [Sagittarii-144.secret](../../../_secret/astro/Star/Sagittarii-144.secret.md) 

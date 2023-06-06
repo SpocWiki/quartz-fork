@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wysoka](../../../../../../_public/geo/Continent/Europe/Poland/City/Wysoka.md) 
-- [Wysoka.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wysoka.internal.md) 
-- [Wysoka.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wysoka.protect.md) 
-- [Wysoka.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wysoka.private.md) 
-- [Wysoka.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wysoka.personal.md) 
-- [Wysoka.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wysoka.secret.md) 

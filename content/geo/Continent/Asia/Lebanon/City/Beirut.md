@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beirut](../../../../../../_public/geo/Continent/Asia/Lebanon/City/Beirut.md) 
-- [Beirut.internal](../../../../../../_internal/geo/Continent/Asia/Lebanon/City/Beirut.internal.md) 
-- [Beirut.protect](../../../../../../_protect/geo/Continent/Asia/Lebanon/City/Beirut.protect.md) 
-- [Beirut.private](../../../../../../_private/geo/Continent/Asia/Lebanon/City/Beirut.private.md) 
-- [Beirut.personal](../../../../../../_personal/geo/Continent/Asia/Lebanon/City/Beirut.personal.md) 
-- [Beirut.secret](../../../../../../_secret/geo/Continent/Asia/Lebanon/City/Beirut.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Difficulty+Segmentation-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Segmentation-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Versatility.md) 
-- [Triz-Difficulty+Segmentation-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Versatility.internal.md) 
-- [Triz-Difficulty+Segmentation-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Versatility.protect.md) 
-- [Triz-Difficulty+Segmentation-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Versatility.private.md) 
-- [Triz-Difficulty+Segmentation-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Versatility.personal.md) 
-- [Triz-Difficulty+Segmentation-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Versatility.secret.md) 

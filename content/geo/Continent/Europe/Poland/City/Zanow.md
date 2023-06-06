@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zanow](../../../../../../_public/geo/Continent/Europe/Poland/City/Zanow.md) 
-- [Zanow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zanow.internal.md) 
-- [Zanow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zanow.protect.md) 
-- [Zanow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zanow.private.md) 
-- [Zanow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zanow.personal.md) 
-- [Zanow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zanow.secret.md) 

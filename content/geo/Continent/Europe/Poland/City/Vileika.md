@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vileika](../../../../../../_public/geo/Continent/Europe/Poland/City/Vileika.md) 
-- [Vileika.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Vileika.internal.md) 
-- [Vileika.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Vileika.protect.md) 
-- [Vileika.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Vileika.private.md) 
-- [Vileika.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Vileika.personal.md) 
-- [Vileika.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Vileika.secret.md) 

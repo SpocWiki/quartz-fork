@@ -121,7 +121,7 @@ markerFolder: ./Seychelles/City
 
 ![550](geo/Continent/Africa/Seychelles/Coat_of_arms_of_Seychelles.svg)
 
-![Anthem-Seychelles](xLarge/National-Anthem/Anthem-Seychelles.mp3)
+[Anthem-Seychelles](xLarge/National-Anthem/Anthem-Seychelles.mp3)
 
 ![350](geo/Continent/Africa/Seychelles/Flag_of_Seychelles.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Seychelles/City
 
 
 
-## Confidential Links & Embeds: 
-- [Seychelles](../../../../_public/geo/Continent/Africa/Seychelles.md) 
-- [Seychelles.internal](../../../../_internal/geo/Continent/Africa/Seychelles.internal.md) 
-- [Seychelles.protect](../../../../_protect/geo/Continent/Africa/Seychelles.protect.md) 
-- [Seychelles.private](../../../../_private/geo/Continent/Africa/Seychelles.private.md) 
-- [Seychelles.personal](../../../../_personal/geo/Continent/Africa/Seychelles.personal.md) 
-- [Seychelles.secret](../../../../_secret/geo/Continent/Africa/Seychelles.secret.md) 

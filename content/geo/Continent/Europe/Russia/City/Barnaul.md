@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Barnaul](../../../../../../_public/geo/Continent/Europe/Russia/City/Barnaul.md) 
-- [Barnaul.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Barnaul.internal.md) 
-- [Barnaul.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Barnaul.protect.md) 
-- [Barnaul.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Barnaul.private.md) 
-- [Barnaul.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Barnaul.personal.md) 
-- [Barnaul.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Barnaul.secret.md) 

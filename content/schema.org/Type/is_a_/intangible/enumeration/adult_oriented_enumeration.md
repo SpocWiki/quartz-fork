@@ -43,10 +43,3 @@ Enumeration of considerations that make a product relevant or potentially restri
 
 
 
-## Confidential Links & Embeds: 
-- [adult_oriented_enumeration](../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.md) 
-- [adult_oriented_enumeration.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.internal.md) 
-- [adult_oriented_enumeration.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.protect.md) 
-- [adult_oriented_enumeration.private](../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.private.md) 
-- [adult_oriented_enumeration.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.personal.md) 
-- [adult_oriented_enumeration.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.secret.md) 

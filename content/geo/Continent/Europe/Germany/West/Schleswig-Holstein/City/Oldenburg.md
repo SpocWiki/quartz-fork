@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oldenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg.md) 
-- [Oldenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg.internal.md) 
-- [Oldenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg.protect.md) 
-- [Oldenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg.private.md) 
-- [Oldenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg.personal.md) 
-- [Oldenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Oldenburg.secret.md) 

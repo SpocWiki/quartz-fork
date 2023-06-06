@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Quimper](../../../../../../_public/geo/Continent/Europe/France/City/Quimper.md) 
-- [Quimper.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Quimper.internal.md) 
-- [Quimper.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Quimper.protect.md) 
-- [Quimper.private](../../../../../../_private/geo/Continent/Europe/France/City/Quimper.private.md) 
-- [Quimper.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Quimper.personal.md) 
-- [Quimper.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Quimper.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sulzbach~Mainufer](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.md) 
-- [Sulzbach~Mainufer.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.internal.md) 
-- [Sulzbach~Mainufer.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.protect.md) 
-- [Sulzbach~Mainufer.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.private.md) 
-- [Sulzbach~Mainufer.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.personal.md) 
-- [Sulzbach~Mainufer.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Etaples](../../../../../../_public/geo/Continent/Europe/France/City/Etaples.md) 
-- [Etaples.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Etaples.internal.md) 
-- [Etaples.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Etaples.protect.md) 
-- [Etaples.private](../../../../../../_private/geo/Continent/Europe/France/City/Etaples.private.md) 
-- [Etaples.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Etaples.personal.md) 
-- [Etaples.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Etaples.secret.md) 

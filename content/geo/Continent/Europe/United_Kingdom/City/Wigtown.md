@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wigtown](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wigtown.md) 
-- [Wigtown.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wigtown.internal.md) 
-- [Wigtown.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wigtown.protect.md) 
-- [Wigtown.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wigtown.private.md) 
-- [Wigtown.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wigtown.personal.md) 
-- [Wigtown.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wigtown.secret.md) 

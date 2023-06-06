@@ -31,10 +31,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Heister-Seehofstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstra%C3%9Fe.md) 
-- [T-Heister-Seehofstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstra%C3%9Fe.internal.md) 
-- [T-Heister-Seehofstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstra%C3%9Fe.protect.md) 
-- [T-Heister-Seehofstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstra%C3%9Fe.private.md) 
-- [T-Heister-Seehofstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstra%C3%9Fe.personal.md) 
-- [T-Heister-Seehofstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Heister-Seehofstra%C3%9Fe.secret.md) 

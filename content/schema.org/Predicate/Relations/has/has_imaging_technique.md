@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_imaging_technique](../../../../../_public/schema.org/Predicate/Relations/has/has_imaging_technique.md) 
-- [has_imaging_technique.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_imaging_technique.internal.md) 
-- [has_imaging_technique.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_imaging_technique.protect.md) 
-- [has_imaging_technique.private](../../../../../_private/schema.org/Predicate/Relations/has/has_imaging_technique.private.md) 
-- [has_imaging_technique.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_imaging_technique.personal.md) 
-- [has_imaging_technique.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_imaging_technique.secret.md) 

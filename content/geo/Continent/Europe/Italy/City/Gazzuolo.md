@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gazzuolo](../../../../../../_public/geo/Continent/Europe/Italy/City/Gazzuolo.md) 
-- [Gazzuolo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Gazzuolo.internal.md) 
-- [Gazzuolo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Gazzuolo.protect.md) 
-- [Gazzuolo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Gazzuolo.private.md) 
-- [Gazzuolo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Gazzuolo.personal.md) 
-- [Gazzuolo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Gazzuolo.secret.md) 

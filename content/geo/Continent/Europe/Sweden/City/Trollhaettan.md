@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trollhaettan](../../../../../../_public/geo/Continent/Europe/Sweden/City/Trollhaettan.md) 
-- [Trollhaettan.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Trollhaettan.internal.md) 
-- [Trollhaettan.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Trollhaettan.protect.md) 
-- [Trollhaettan.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Trollhaettan.private.md) 
-- [Trollhaettan.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Trollhaettan.personal.md) 
-- [Trollhaettan.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Trollhaettan.secret.md) 

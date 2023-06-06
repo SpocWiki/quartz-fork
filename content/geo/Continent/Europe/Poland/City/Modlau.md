@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Modlau](../../../../../../_public/geo/Continent/Europe/Poland/City/Modlau.md) 
-- [Modlau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Modlau.internal.md) 
-- [Modlau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Modlau.protect.md) 
-- [Modlau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Modlau.private.md) 
-- [Modlau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Modlau.personal.md) 
-- [Modlau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Modlau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mosowsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Mosowsk.md) 
-- [Mosowsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mosowsk.internal.md) 
-- [Mosowsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mosowsk.protect.md) 
-- [Mosowsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mosowsk.private.md) 
-- [Mosowsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mosowsk.personal.md) 
-- [Mosowsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mosowsk.secret.md) 

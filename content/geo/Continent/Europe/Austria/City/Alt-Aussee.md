@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Alt-Aussee](../../../../../../_public/geo/Continent/Europe/Austria/City/Alt-Aussee.md) 
-- [Alt-Aussee.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Alt-Aussee.internal.md) 
-- [Alt-Aussee.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Alt-Aussee.protect.md) 
-- [Alt-Aussee.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Alt-Aussee.private.md) 
-- [Alt-Aussee.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Alt-Aussee.personal.md) 
-- [Alt-Aussee.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Alt-Aussee.secret.md) 

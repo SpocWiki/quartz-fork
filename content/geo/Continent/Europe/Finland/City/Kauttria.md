@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kauttria](../../../../../../_public/geo/Continent/Europe/Finland/City/Kauttria.md) 
-- [Kauttria.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kauttria.internal.md) 
-- [Kauttria.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kauttria.protect.md) 
-- [Kauttria.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kauttria.private.md) 
-- [Kauttria.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kauttria.personal.md) 
-- [Kauttria.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kauttria.secret.md) 

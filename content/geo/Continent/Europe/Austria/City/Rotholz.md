@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rotholz](../../../../../../_public/geo/Continent/Europe/Austria/City/Rotholz.md) 
-- [Rotholz.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Rotholz.internal.md) 
-- [Rotholz.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Rotholz.protect.md) 
-- [Rotholz.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Rotholz.private.md) 
-- [Rotholz.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Rotholz.personal.md) 
-- [Rotholz.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Rotholz.secret.md) 

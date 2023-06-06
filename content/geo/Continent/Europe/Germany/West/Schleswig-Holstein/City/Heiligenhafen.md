@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Heiligenhafen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heiligenhafen.md) 
-- [Heiligenhafen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heiligenhafen.internal.md) 
-- [Heiligenhafen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heiligenhafen.protect.md) 
-- [Heiligenhafen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heiligenhafen.private.md) 
-- [Heiligenhafen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heiligenhafen.personal.md) 
-- [Heiligenhafen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Heiligenhafen.secret.md) 

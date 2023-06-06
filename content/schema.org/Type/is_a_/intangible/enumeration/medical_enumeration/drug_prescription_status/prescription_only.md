@@ -45,10 +45,3 @@ Available by prescription only.
 
 
 
-## Confidential Links & Embeds: 
-- [prescription_only](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.md) 
-- [prescription_only.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.internal.md) 
-- [prescription_only.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.protect.md) 
-- [prescription_only.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.private.md) 
-- [prescription_only.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.personal.md) 
-- [prescription_only.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/prescription_only.secret.md) 

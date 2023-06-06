@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jelgava](../../../../../../_public/geo/Continent/Europe/Russia/City/Jelgava.md) 
-- [Jelgava.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jelgava.internal.md) 
-- [Jelgava.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jelgava.protect.md) 
-- [Jelgava.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jelgava.private.md) 
-- [Jelgava.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jelgava.personal.md) 
-- [Jelgava.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jelgava.secret.md) 

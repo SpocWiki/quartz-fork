@@ -43,10 +43,3 @@ Event type: A social dance.
 
 
 
-## Confidential Links & Embeds: 
-- [dance_event](../../../../../_public/schema.org/Type/is_a_/event/dance_event.md) 
-- [dance_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/dance_event.internal.md) 
-- [dance_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/dance_event.protect.md) 
-- [dance_event.private](../../../../../_private/schema.org/Type/is_a_/event/dance_event.private.md) 
-- [dance_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/dance_event.personal.md) 
-- [dance_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/dance_event.secret.md) 

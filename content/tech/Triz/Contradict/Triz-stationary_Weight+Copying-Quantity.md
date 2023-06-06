@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Copying-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Copying-Quantity](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.md) 
-- [Triz-stationary_Weight+Copying-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.internal.md) 
-- [Triz-stationary_Weight+Copying-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.protect.md) 
-- [Triz-stationary_Weight+Copying-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.private.md) 
-- [Triz-stationary_Weight+Copying-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.personal.md) 
-- [Triz-stationary_Weight+Copying-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Copying-Quantity.secret.md) 

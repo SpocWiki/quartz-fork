@@ -43,10 +43,3 @@ A mosque.
 
 
 
-## Confidential Links & Embeds: 
-- [mosque](../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.md) 
-- [mosque.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.internal.md) 
-- [mosque.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.protect.md) 
-- [mosque.private](../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.private.md) 
-- [mosque.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.personal.md) 
-- [mosque.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.secret.md) 

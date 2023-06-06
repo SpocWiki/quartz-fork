@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loeblau](../../../../../../_public/geo/Continent/Europe/Poland/City/Loeblau.md) 
-- [Loeblau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Loeblau.internal.md) 
-- [Loeblau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Loeblau.protect.md) 
-- [Loeblau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Loeblau.private.md) 
-- [Loeblau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Loeblau.personal.md) 
-- [Loeblau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Loeblau.secret.md) 

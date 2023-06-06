@@ -47,10 +47,3 @@ Nonprofit501c18: Non-profit type referring to Employee Funded Pension Trust (cre
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c18](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c18.md) 
-- [nonprofit501c18.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c18.internal.md) 
-- [nonprofit501c18.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c18.protect.md) 
-- [nonprofit501c18.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c18.private.md) 
-- [nonprofit501c18.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c18.personal.md) 
-- [nonprofit501c18.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c18.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meckelfeld](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.md) 
-- [Meckelfeld.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.internal.md) 
-- [Meckelfeld.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.protect.md) 
-- [Meckelfeld.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.private.md) 
-- [Meckelfeld.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.personal.md) 
-- [Meckelfeld.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Meckelfeld.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-moving_Energy+Spheroidality-Temperature
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Energy+Spheroidality-Temperature](../../../../_public/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Temperature.md) 
-- [Triz-moving_Energy+Spheroidality-Temperature.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Temperature.internal.md) 
-- [Triz-moving_Energy+Spheroidality-Temperature.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Temperature.protect.md) 
-- [Triz-moving_Energy+Spheroidality-Temperature.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Temperature.private.md) 
-- [Triz-moving_Energy+Spheroidality-Temperature.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Temperature.personal.md) 
-- [Triz-moving_Energy+Spheroidality-Temperature.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Energy+Spheroidality-Temperature.secret.md) 

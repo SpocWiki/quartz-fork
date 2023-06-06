@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Noerdlingen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Noerdlingen.md) 
-- [Noerdlingen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Noerdlingen.internal.md) 
-- [Noerdlingen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Noerdlingen.protect.md) 
-- [Noerdlingen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Noerdlingen.private.md) 
-- [Noerdlingen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Noerdlingen.personal.md) 
-- [Noerdlingen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Noerdlingen.secret.md) 

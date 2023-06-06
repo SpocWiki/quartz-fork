@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ussel](../../../../../../_public/geo/Continent/Europe/France/City/Ussel.md) 
-- [Ussel.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Ussel.internal.md) 
-- [Ussel.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Ussel.protect.md) 
-- [Ussel.private](../../../../../../_private/geo/Continent/Europe/France/City/Ussel.private.md) 
-- [Ussel.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Ussel.personal.md) 
-- [Ussel.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Ussel.secret.md) 

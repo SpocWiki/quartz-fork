@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberhollabrunn](../../../../../../_public/geo/Continent/Europe/Austria/City/Oberhollabrunn.md) 
-- [Oberhollabrunn.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Oberhollabrunn.internal.md) 
-- [Oberhollabrunn.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Oberhollabrunn.protect.md) 
-- [Oberhollabrunn.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Oberhollabrunn.private.md) 
-- [Oberhollabrunn.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Oberhollabrunn.personal.md) 
-- [Oberhollabrunn.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Oberhollabrunn.secret.md) 

@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_net_worth](../../../../_public/schema.org/Predicate/Quantities/has_value_for_net_worth.md) 
-- [has_value_for_net_worth.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_net_worth.internal.md) 
-- [has_value_for_net_worth.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_net_worth.protect.md) 
-- [has_value_for_net_worth.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_net_worth.private.md) 
-- [has_value_for_net_worth.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_net_worth.personal.md) 
-- [has_value_for_net_worth.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_net_worth.secret.md) 

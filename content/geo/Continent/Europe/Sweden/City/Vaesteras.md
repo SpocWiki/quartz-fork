@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vaesteras](../../../../../../_public/geo/Continent/Europe/Sweden/City/Vaesteras.md) 
-- [Vaesteras.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Vaesteras.internal.md) 
-- [Vaesteras.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Vaesteras.protect.md) 
-- [Vaesteras.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Vaesteras.private.md) 
-- [Vaesteras.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Vaesteras.personal.md) 
-- [Vaesteras.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Vaesteras.secret.md) 

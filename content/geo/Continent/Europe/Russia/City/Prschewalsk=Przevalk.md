@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Prschewalsk=Przevalk](../../../../../../_public/geo/Continent/Europe/Russia/City/Prschewalsk=Przevalk.md) 
-- [Prschewalsk=Przevalk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Prschewalsk=Przevalk.internal.md) 
-- [Prschewalsk=Przevalk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Prschewalsk=Przevalk.protect.md) 
-- [Prschewalsk=Przevalk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Prschewalsk=Przevalk.private.md) 
-- [Prschewalsk=Przevalk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Prschewalsk=Przevalk.personal.md) 
-- [Prschewalsk=Przevalk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Prschewalsk=Przevalk.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chiarovalle](../../../../../../_public/geo/Continent/Europe/Italy/City/Chiarovalle.md) 
-- [Chiarovalle.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Chiarovalle.internal.md) 
-- [Chiarovalle.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Chiarovalle.protect.md) 
-- [Chiarovalle.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Chiarovalle.private.md) 
-- [Chiarovalle.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Chiarovalle.personal.md) 
-- [Chiarovalle.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Chiarovalle.secret.md) 

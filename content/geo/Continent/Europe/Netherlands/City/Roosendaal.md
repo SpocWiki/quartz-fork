@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roosendaal](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Roosendaal.md) 
-- [Roosendaal.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Roosendaal.internal.md) 
-- [Roosendaal.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Roosendaal.protect.md) 
-- [Roosendaal.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Roosendaal.private.md) 
-- [Roosendaal.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Roosendaal.personal.md) 
-- [Roosendaal.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Roosendaal.secret.md) 

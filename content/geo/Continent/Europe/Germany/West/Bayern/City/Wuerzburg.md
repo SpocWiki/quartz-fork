@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wuerzburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.md) 
-- [Wuerzburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.internal.md) 
-- [Wuerzburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.protect.md) 
-- [Wuerzburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.private.md) 
-- [Wuerzburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.personal.md) 
-- [Wuerzburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.secret.md) 

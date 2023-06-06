@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Briancon](../../../../../../_public/geo/Continent/Europe/France/City/Briancon.md) 
-- [Briancon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Briancon.internal.md) 
-- [Briancon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Briancon.protect.md) 
-- [Briancon.private](../../../../../../_private/geo/Continent/Europe/France/City/Briancon.private.md) 
-- [Briancon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Briancon.personal.md) 
-- [Briancon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Briancon.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hammelwarden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.md) 
-- [Hammelwarden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.internal.md) 
-- [Hammelwarden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.protect.md) 
-- [Hammelwarden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.private.md) 
-- [Hammelwarden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.personal.md) 
-- [Hammelwarden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hammelwarden.secret.md) 

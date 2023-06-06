@@ -45,10 +45,3 @@ A collection or bound volume of maps, charts, plates or tables, physical or in m
 
 
 
-## Confidential Links & Embeds: 
-- [atlas](../../../../../_public/schema.org/Type/is_a_/creative_work/atlas.md) 
-- [atlas.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/atlas.internal.md) 
-- [atlas.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/atlas.protect.md) 
-- [atlas.private](../../../../../_private/schema.org/Type/is_a_/creative_work/atlas.private.md) 
-- [atlas.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/atlas.personal.md) 
-- [atlas.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/atlas.secret.md) 

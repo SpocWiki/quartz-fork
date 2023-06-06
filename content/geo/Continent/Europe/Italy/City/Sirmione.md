@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sirmione](../../../../../../_public/geo/Continent/Europe/Italy/City/Sirmione.md) 
-- [Sirmione.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sirmione.internal.md) 
-- [Sirmione.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sirmione.protect.md) 
-- [Sirmione.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sirmione.private.md) 
-- [Sirmione.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sirmione.personal.md) 
-- [Sirmione.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sirmione.secret.md) 

@@ -43,10 +43,3 @@ Event type: Music event.
 
 
 
-## Confidential Links & Embeds: 
-- [music_event](../../../../../_public/schema.org/Type/is_a_/event/music_event.md) 
-- [music_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/music_event.internal.md) 
-- [music_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/music_event.protect.md) 
-- [music_event.private](../../../../../_private/schema.org/Type/is_a_/event/music_event.private.md) 
-- [music_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/music_event.personal.md) 
-- [music_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/music_event.secret.md) 

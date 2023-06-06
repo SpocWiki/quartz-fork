@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wolverhampton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.md) 
-- [Wolverhampton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.internal.md) 
-- [Wolverhampton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.protect.md) 
-- [Wolverhampton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.private.md) 
-- [Wolverhampton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.personal.md) 
-- [Wolverhampton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Wolverhampton.secret.md) 

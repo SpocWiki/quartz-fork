@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Heathrow_Terminal_4](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminal_4.md) 
-- [Sub-Heathrow_Terminal_4.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminal_4.internal.md) 
-- [Sub-Heathrow_Terminal_4.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminal_4.protect.md) 
-- [Sub-Heathrow_Terminal_4.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminal_4.private.md) 
-- [Sub-Heathrow_Terminal_4.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminal_4.personal.md) 
-- [Sub-Heathrow_Terminal_4.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Heathrow_Terminal_4.secret.md) 

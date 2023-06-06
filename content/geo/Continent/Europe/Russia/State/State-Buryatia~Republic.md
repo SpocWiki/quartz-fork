@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Buryatia~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Buryatia~Republic.md) 
-- [State-Buryatia~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Buryatia~Republic.internal.md) 
-- [State-Buryatia~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Buryatia~Republic.protect.md) 
-- [State-Buryatia~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Buryatia~Republic.private.md) 
-- [State-Buryatia~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Buryatia~Republic.personal.md) 
-- [State-Buryatia~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Buryatia~Republic.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Michelbach](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Michelbach.md) 
-- [Michelbach.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Michelbach.internal.md) 
-- [Michelbach.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Michelbach.protect.md) 
-- [Michelbach.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Michelbach.private.md) 
-- [Michelbach.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Michelbach.personal.md) 
-- [Michelbach.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Michelbach.secret.md) 

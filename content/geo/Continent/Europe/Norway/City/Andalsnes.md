@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Andalsnes](../../../../../../_public/geo/Continent/Europe/Norway/City/Andalsnes.md) 
-- [Andalsnes.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Andalsnes.internal.md) 
-- [Andalsnes.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Andalsnes.protect.md) 
-- [Andalsnes.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Andalsnes.private.md) 
-- [Andalsnes.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Andalsnes.personal.md) 
-- [Andalsnes.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Andalsnes.secret.md) 

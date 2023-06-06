@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Staraya_Roussa](../../../../../../_public/geo/Continent/Europe/Russia/City/Staraya_Roussa.md) 
-- [Staraya_Roussa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Staraya_Roussa.internal.md) 
-- [Staraya_Roussa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Staraya_Roussa.protect.md) 
-- [Staraya_Roussa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Staraya_Roussa.private.md) 
-- [Staraya_Roussa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Staraya_Roussa.personal.md) 
-- [Staraya_Roussa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Staraya_Roussa.secret.md) 

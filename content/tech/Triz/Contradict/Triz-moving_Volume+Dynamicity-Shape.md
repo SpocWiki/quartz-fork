@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Dynamicity-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Dynamicity-Shape](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.md) 
-- [Triz-moving_Volume+Dynamicity-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.internal.md) 
-- [Triz-moving_Volume+Dynamicity-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.protect.md) 
-- [Triz-moving_Volume+Dynamicity-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.private.md) 
-- [Triz-moving_Volume+Dynamicity-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.personal.md) 
-- [Triz-moving_Volume+Dynamicity-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Dynamicity-Shape.secret.md) 

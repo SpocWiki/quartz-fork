@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neustadt~Rheda~Pommern](../../../../../../_public/geo/Continent/Europe/Russia/City/Neustadt~Rheda~Pommern.md) 
-- [Neustadt~Rheda~Pommern.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Neustadt~Rheda~Pommern.internal.md) 
-- [Neustadt~Rheda~Pommern.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Neustadt~Rheda~Pommern.protect.md) 
-- [Neustadt~Rheda~Pommern.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Neustadt~Rheda~Pommern.private.md) 
-- [Neustadt~Rheda~Pommern.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Neustadt~Rheda~Pommern.personal.md) 
-- [Neustadt~Rheda~Pommern.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Neustadt~Rheda~Pommern.secret.md) 

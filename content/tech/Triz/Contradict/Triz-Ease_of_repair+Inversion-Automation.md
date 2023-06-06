@@ -19,10 +19,3 @@ title: Triz-Ease_of_repair+Inversion-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_repair+Inversion-Automation](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.md) 
-- [Triz-Ease_of_repair+Inversion-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.internal.md) 
-- [Triz-Ease_of_repair+Inversion-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.protect.md) 
-- [Triz-Ease_of_repair+Inversion-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.private.md) 
-- [Triz-Ease_of_repair+Inversion-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.personal.md) 
-- [Triz-Ease_of_repair+Inversion-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_repair+Inversion-Automation.secret.md) 

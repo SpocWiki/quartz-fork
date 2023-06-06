@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Clonmel](../../../../../../_public/geo/Continent/Europe/Ireland/City/Clonmel.md) 
-- [Clonmel.internal](../../../../../../_internal/geo/Continent/Europe/Ireland/City/Clonmel.internal.md) 
-- [Clonmel.protect](../../../../../../_protect/geo/Continent/Europe/Ireland/City/Clonmel.protect.md) 
-- [Clonmel.private](../../../../../../_private/geo/Continent/Europe/Ireland/City/Clonmel.private.md) 
-- [Clonmel.personal](../../../../../../_personal/geo/Continent/Europe/Ireland/City/Clonmel.personal.md) 
-- [Clonmel.secret](../../../../../../_secret/geo/Continent/Europe/Ireland/City/Clonmel.secret.md) 

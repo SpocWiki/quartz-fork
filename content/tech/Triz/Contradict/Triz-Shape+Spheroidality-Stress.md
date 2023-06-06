@@ -19,10 +19,3 @@ title: Triz-Shape+Spheroidality-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Spheroidality-Stress](../../../../_public/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.md) 
-- [Triz-Shape+Spheroidality-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.internal.md) 
-- [Triz-Shape+Spheroidality-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.protect.md) 
-- [Triz-Shape+Spheroidality-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.private.md) 
-- [Triz-Shape+Spheroidality-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.personal.md) 
-- [Triz-Shape+Spheroidality-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Spheroidality-Stress.secret.md) 

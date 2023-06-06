@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_educational_alignment](../../../../../_public/schema.org/Predicate/Relations/has/has_educational_alignment.md) 
-- [has_educational_alignment.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_educational_alignment.internal.md) 
-- [has_educational_alignment.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_educational_alignment.protect.md) 
-- [has_educational_alignment.private](../../../../../_private/schema.org/Predicate/Relations/has/has_educational_alignment.private.md) 
-- [has_educational_alignment.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_educational_alignment.personal.md) 
-- [has_educational_alignment.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_educational_alignment.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rotenburg~Wuemme](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.md) 
-- [Rotenburg~Wuemme.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.internal.md) 
-- [Rotenburg~Wuemme.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.protect.md) 
-- [Rotenburg~Wuemme.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.private.md) 
-- [Rotenburg~Wuemme.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.personal.md) 
-- [Rotenburg~Wuemme.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Rotenburg~Wuemme.secret.md) 

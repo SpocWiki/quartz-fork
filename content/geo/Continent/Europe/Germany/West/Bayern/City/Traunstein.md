@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Traunstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Traunstein.md) 
-- [Traunstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Traunstein.internal.md) 
-- [Traunstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Traunstein.protect.md) 
-- [Traunstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Traunstein.private.md) 
-- [Traunstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Traunstein.personal.md) 
-- [Traunstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Traunstein.secret.md) 

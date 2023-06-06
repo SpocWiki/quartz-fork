@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kavalla](../../../../../../_public/geo/Continent/Europe/Russia/City/Kavalla.md) 
-- [Kavalla.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Kavalla.internal.md) 
-- [Kavalla.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Kavalla.protect.md) 
-- [Kavalla.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Kavalla.private.md) 
-- [Kavalla.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Kavalla.personal.md) 
-- [Kavalla.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Kavalla.secret.md) 

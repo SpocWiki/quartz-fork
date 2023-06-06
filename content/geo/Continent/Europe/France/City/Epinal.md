@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Epinal](../../../../../../_public/geo/Continent/Europe/France/City/Epinal.md) 
-- [Epinal.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Epinal.internal.md) 
-- [Epinal.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Epinal.protect.md) 
-- [Epinal.private](../../../../../../_private/geo/Continent/Europe/France/City/Epinal.private.md) 
-- [Epinal.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Epinal.personal.md) 
-- [Epinal.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Epinal.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Benediktbeuren](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.md) 
-- [Benediktbeuren.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.internal.md) 
-- [Benediktbeuren.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.protect.md) 
-- [Benediktbeuren.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.private.md) 
-- [Benediktbeuren.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.personal.md) 
-- [Benediktbeuren.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.secret.md) 

@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Zawijava](../../../_public/astro/Star/Zawijava.md) 
-- [Zawijava.internal](../../../_internal/astro/Star/Zawijava.internal.md) 
-- [Zawijava.protect](../../../_protect/astro/Star/Zawijava.protect.md) 
-- [Zawijava.private](../../../_private/astro/Star/Zawijava.private.md) 
-- [Zawijava.personal](../../../_personal/astro/Star/Zawijava.personal.md) 
-- [Zawijava.secret](../../../_secret/astro/Star/Zawijava.secret.md) 

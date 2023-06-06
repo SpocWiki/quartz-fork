@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Birkfeld](../../../../../../_public/geo/Continent/Europe/Austria/City/Birkfeld.md) 
-- [Birkfeld.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Birkfeld.internal.md) 
-- [Birkfeld.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Birkfeld.protect.md) 
-- [Birkfeld.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Birkfeld.private.md) 
-- [Birkfeld.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Birkfeld.personal.md) 
-- [Birkfeld.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Birkfeld.secret.md) 

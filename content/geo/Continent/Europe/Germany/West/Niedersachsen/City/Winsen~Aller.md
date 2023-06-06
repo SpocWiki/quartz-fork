@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Winsen~Aller](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.md) 
-- [Winsen~Aller.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.internal.md) 
-- [Winsen~Aller.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.protect.md) 
-- [Winsen~Aller.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.private.md) 
-- [Winsen~Aller.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.personal.md) 
-- [Winsen~Aller.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Winsen~Aller.secret.md) 

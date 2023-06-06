@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Newport~Insel_Wright](../../../../../../_public/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.md) 
-- [Newport~Insel_Wright.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.internal.md) 
-- [Newport~Insel_Wright.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.protect.md) 
-- [Newport~Insel_Wright.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.private.md) 
-- [Newport~Insel_Wright.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.personal.md) 
-- [Newport~Insel_Wright.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/Wales/Newport~Insel_Wright.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [State-Kabardino-Balkar~Republic](../../../../../../_public/geo/Continent/Europe/Russia/State/State-Kabardino-Balkar~Republic.md) 
-- [State-Kabardino-Balkar~Republic.internal](../../../../../../_internal/geo/Continent/Europe/Russia/State/State-Kabardino-Balkar~Republic.internal.md) 
-- [State-Kabardino-Balkar~Republic.protect](../../../../../../_protect/geo/Continent/Europe/Russia/State/State-Kabardino-Balkar~Republic.protect.md) 
-- [State-Kabardino-Balkar~Republic.private](../../../../../../_private/geo/Continent/Europe/Russia/State/State-Kabardino-Balkar~Republic.private.md) 
-- [State-Kabardino-Balkar~Republic.personal](../../../../../../_personal/geo/Continent/Europe/Russia/State/State-Kabardino-Balkar~Republic.personal.md) 
-- [State-Kabardino-Balkar~Republic.secret](../../../../../../_secret/geo/Continent/Europe/Russia/State/State-Kabardino-Balkar~Republic.secret.md) 

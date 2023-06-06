@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loosdorf](../../../../../../_public/geo/Continent/Europe/Austria/City/Loosdorf.md) 
-- [Loosdorf.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Loosdorf.internal.md) 
-- [Loosdorf.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Loosdorf.protect.md) 
-- [Loosdorf.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Loosdorf.private.md) 
-- [Loosdorf.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Loosdorf.personal.md) 
-- [Loosdorf.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Loosdorf.secret.md) 

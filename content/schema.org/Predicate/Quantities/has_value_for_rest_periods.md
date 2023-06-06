@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_rest_periods](../../../../_public/schema.org/Predicate/Quantities/has_value_for_rest_periods.md) 
-- [has_value_for_rest_periods.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_rest_periods.internal.md) 
-- [has_value_for_rest_periods.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_rest_periods.protect.md) 
-- [has_value_for_rest_periods.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_rest_periods.private.md) 
-- [has_value_for_rest_periods.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_rest_periods.personal.md) 
-- [has_value_for_rest_periods.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_rest_periods.secret.md) 

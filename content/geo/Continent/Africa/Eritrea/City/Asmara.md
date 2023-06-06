@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Asmara](../../../../../../_public/geo/Continent/Africa/Eritrea/City/Asmara.md) 
-- [Asmara.internal](../../../../../../_internal/geo/Continent/Africa/Eritrea/City/Asmara.internal.md) 
-- [Asmara.protect](../../../../../../_protect/geo/Continent/Africa/Eritrea/City/Asmara.protect.md) 
-- [Asmara.private](../../../../../../_private/geo/Continent/Africa/Eritrea/City/Asmara.private.md) 
-- [Asmara.personal](../../../../../../_personal/geo/Continent/Africa/Eritrea/City/Asmara.personal.md) 
-- [Asmara.secret](../../../../../../_secret/geo/Continent/Africa/Eritrea/City/Asmara.secret.md) 

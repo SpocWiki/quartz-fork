@@ -45,10 +45,3 @@ Computer programming source code. Example: Full (compile ready) solutions, code 
 
 
 
-## Confidential Links & Embeds: 
-- [software_source_code](../../../../../_public/schema.org/Type/is_a_/creative_work/software_source_code.md) 
-- [software_source_code.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/software_source_code.internal.md) 
-- [software_source_code.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/software_source_code.protect.md) 
-- [software_source_code.private](../../../../../_private/schema.org/Type/is_a_/creative_work/software_source_code.private.md) 
-- [software_source_code.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/software_source_code.personal.md) 
-- [software_source_code.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/software_source_code.secret.md) 

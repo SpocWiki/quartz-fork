@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taivalkoski](../../../../../../_public/geo/Continent/Europe/Finland/City/Taivalkoski.md) 
-- [Taivalkoski.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Taivalkoski.internal.md) 
-- [Taivalkoski.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Taivalkoski.protect.md) 
-- [Taivalkoski.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Taivalkoski.private.md) 
-- [Taivalkoski.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Taivalkoski.personal.md) 
-- [Taivalkoski.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Taivalkoski.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Varkaus](../../../../../../_public/geo/Continent/Europe/Finland/City/Varkaus.md) 
-- [Varkaus.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Varkaus.internal.md) 
-- [Varkaus.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Varkaus.protect.md) 
-- [Varkaus.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Varkaus.private.md) 
-- [Varkaus.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Varkaus.personal.md) 
-- [Varkaus.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Varkaus.secret.md) 

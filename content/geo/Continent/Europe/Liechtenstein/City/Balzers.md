@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Balzers](../../../../../../_public/geo/Continent/Europe/Liechtenstein/City/Balzers.md) 
-- [Balzers.internal](../../../../../../_internal/geo/Continent/Europe/Liechtenstein/City/Balzers.internal.md) 
-- [Balzers.protect](../../../../../../_protect/geo/Continent/Europe/Liechtenstein/City/Balzers.protect.md) 
-- [Balzers.private](../../../../../../_private/geo/Continent/Europe/Liechtenstein/City/Balzers.private.md) 
-- [Balzers.personal](../../../../../../_personal/geo/Continent/Europe/Liechtenstein/City/Balzers.personal.md) 
-- [Balzers.secret](../../../../../../_secret/geo/Continent/Europe/Liechtenstein/City/Balzers.secret.md) 

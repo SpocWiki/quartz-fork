@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castiglione_delle_Stivier](../../../../../../_public/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.md) 
-- [Castiglione_delle_Stivier.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.internal.md) 
-- [Castiglione_delle_Stivier.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.protect.md) 
-- [Castiglione_delle_Stivier.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.private.md) 
-- [Castiglione_delle_Stivier.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.personal.md) 
-- [Castiglione_delle_Stivier.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Castiglione_delle_Stivier.secret.md) 

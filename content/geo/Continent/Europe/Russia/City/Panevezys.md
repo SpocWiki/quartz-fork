@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Panevezys](../../../../../../_public/geo/Continent/Europe/Russia/City/Panevezys.md) 
-- [Panevezys.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Panevezys.internal.md) 
-- [Panevezys.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Panevezys.protect.md) 
-- [Panevezys.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Panevezys.private.md) 
-- [Panevezys.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Panevezys.personal.md) 
-- [Panevezys.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Panevezys.secret.md) 

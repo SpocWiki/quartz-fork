@@ -45,10 +45,3 @@ A type of medical procedure that involves percutaneous techniques, where access 
 
 
 
-## Confidential Links & Embeds: 
-- [percutaneous_procedure](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.md) 
-- [percutaneous_procedure.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.internal.md) 
-- [percutaneous_procedure.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.protect.md) 
-- [percutaneous_procedure.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.private.md) 
-- [percutaneous_procedure.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.personal.md) 
-- [percutaneous_procedure.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.secret.md) 

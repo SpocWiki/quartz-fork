@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montevarchi](../../../../../../_public/geo/Continent/Europe/Italy/City/Montevarchi.md) 
-- [Montevarchi.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Montevarchi.internal.md) 
-- [Montevarchi.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Montevarchi.protect.md) 
-- [Montevarchi.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Montevarchi.private.md) 
-- [Montevarchi.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Montevarchi.personal.md) 
-- [Montevarchi.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Montevarchi.secret.md) 

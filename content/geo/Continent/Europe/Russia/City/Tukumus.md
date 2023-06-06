@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tukumus](../../../../../../_public/geo/Continent/Europe/Russia/City/Tukumus.md) 
-- [Tukumus.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tukumus.internal.md) 
-- [Tukumus.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tukumus.protect.md) 
-- [Tukumus.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tukumus.private.md) 
-- [Tukumus.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tukumus.personal.md) 
-- [Tukumus.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tukumus.secret.md) 

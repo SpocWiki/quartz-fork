@@ -14,10 +14,3 @@ title: Triz-Feedback
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Feedback](../../../../_public/tech/Triz/Principle/Triz-Feedback.md) 
-- [Triz-Feedback.internal](../../../../_internal/tech/Triz/Principle/Triz-Feedback.internal.md) 
-- [Triz-Feedback.protect](../../../../_protect/tech/Triz/Principle/Triz-Feedback.protect.md) 
-- [Triz-Feedback.private](../../../../_private/tech/Triz/Principle/Triz-Feedback.private.md) 
-- [Triz-Feedback.personal](../../../../_personal/tech/Triz/Principle/Triz-Feedback.personal.md) 
-- [Triz-Feedback.secret](../../../../_secret/tech/Triz/Principle/Triz-Feedback.secret.md) 

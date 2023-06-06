@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_membership_points_earned](../../../../_public/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.md) 
-- [has_value_for_membership_points_earned.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.internal.md) 
-- [has_value_for_membership_points_earned.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.protect.md) 
-- [has_value_for_membership_points_earned.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.private.md) 
-- [has_value_for_membership_points_earned.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.personal.md) 
-- [has_value_for_membership_points_earned.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.secret.md) 

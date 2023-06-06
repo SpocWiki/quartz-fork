@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kahl](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.md) 
-- [Kahl.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.internal.md) 
-- [Kahl.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.protect.md) 
-- [Kahl.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.private.md) 
-- [Kahl.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.personal.md) 
-- [Kahl.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.secret.md) 

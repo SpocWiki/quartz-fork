@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Shipurskoi-nos](../../../../../../_public/geo/Continent/Europe/Russia/City/Shipurskoi-nos.md) 
-- [Shipurskoi-nos.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Shipurskoi-nos.internal.md) 
-- [Shipurskoi-nos.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Shipurskoi-nos.protect.md) 
-- [Shipurskoi-nos.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Shipurskoi-nos.private.md) 
-- [Shipurskoi-nos.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Shipurskoi-nos.personal.md) 
-- [Shipurskoi-nos.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Shipurskoi-nos.secret.md) 

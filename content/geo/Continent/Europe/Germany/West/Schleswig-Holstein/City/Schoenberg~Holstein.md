@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoenberg~Holstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.md) 
-- [Schoenberg~Holstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.internal.md) 
-- [Schoenberg~Holstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.protect.md) 
-- [Schoenberg~Holstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.private.md) 
-- [Schoenberg~Holstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.personal.md) 
-- [Schoenberg~Holstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Schoenberg~Holstein.secret.md) 

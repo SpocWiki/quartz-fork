@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stolzenhagen](../../../../../../_public/geo/Continent/Europe/Poland/City/Stolzenhagen.md) 
-- [Stolzenhagen.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Stolzenhagen.internal.md) 
-- [Stolzenhagen.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Stolzenhagen.protect.md) 
-- [Stolzenhagen.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Stolzenhagen.private.md) 
-- [Stolzenhagen.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Stolzenhagen.personal.md) 
-- [Stolzenhagen.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Stolzenhagen.secret.md) 

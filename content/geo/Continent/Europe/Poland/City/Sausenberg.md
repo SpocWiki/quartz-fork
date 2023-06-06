@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sausenberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Sausenberg.md) 
-- [Sausenberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Sausenberg.internal.md) 
-- [Sausenberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Sausenberg.protect.md) 
-- [Sausenberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Sausenberg.private.md) 
-- [Sausenberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Sausenberg.personal.md) 
-- [Sausenberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Sausenberg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Torre_Annunciata](../../../../../../_public/geo/Continent/Europe/Italy/City/Torre_Annunciata.md) 
-- [Torre_Annunciata.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Torre_Annunciata.internal.md) 
-- [Torre_Annunciata.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Torre_Annunciata.protect.md) 
-- [Torre_Annunciata.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Torre_Annunciata.private.md) 
-- [Torre_Annunciata.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Torre_Annunciata.personal.md) 
-- [Torre_Annunciata.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Torre_Annunciata.secret.md) 

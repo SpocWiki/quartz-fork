@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Holzminden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.md) 
-- [Holzminden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.internal.md) 
-- [Holzminden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.protect.md) 
-- [Holzminden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.private.md) 
-- [Holzminden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.personal.md) 
-- [Holzminden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Holzminden.secret.md) 

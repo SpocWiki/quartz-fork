@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lohn](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Lohn.md) 
-- [Lohn.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Lohn.internal.md) 
-- [Lohn.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Lohn.protect.md) 
-- [Lohn.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Lohn.private.md) 
-- [Lohn.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Lohn.personal.md) 
-- [Lohn.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Lohn.secret.md) 

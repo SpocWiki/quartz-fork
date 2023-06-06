@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Annecy](../../../../../../_public/geo/Continent/Europe/France/City/Annecy.md) 
-- [Annecy.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Annecy.internal.md) 
-- [Annecy.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Annecy.protect.md) 
-- [Annecy.private](../../../../../../_private/geo/Continent/Europe/France/City/Annecy.private.md) 
-- [Annecy.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Annecy.personal.md) 
-- [Annecy.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Annecy.secret.md) 

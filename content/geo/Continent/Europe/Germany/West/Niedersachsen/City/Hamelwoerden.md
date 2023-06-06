@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hamelwoerden](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hamelwoerden.md) 
-- [Hamelwoerden.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hamelwoerden.internal.md) 
-- [Hamelwoerden.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hamelwoerden.protect.md) 
-- [Hamelwoerden.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hamelwoerden.private.md) 
-- [Hamelwoerden.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hamelwoerden.personal.md) 
-- [Hamelwoerden.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Hamelwoerden.secret.md) 

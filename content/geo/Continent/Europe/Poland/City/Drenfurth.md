@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Drenfurth](../../../../../../_public/geo/Continent/Europe/Poland/City/Drenfurth.md) 
-- [Drenfurth.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Drenfurth.internal.md) 
-- [Drenfurth.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Drenfurth.protect.md) 
-- [Drenfurth.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Drenfurth.private.md) 
-- [Drenfurth.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Drenfurth.personal.md) 
-- [Drenfurth.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Drenfurth.secret.md) 

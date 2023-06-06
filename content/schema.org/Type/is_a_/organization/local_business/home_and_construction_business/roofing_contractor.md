@@ -43,10 +43,3 @@ A roofing contractor.
 
 
 
-## Confidential Links & Embeds: 
-- [roofing_contractor](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.md) 
-- [roofing_contractor.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.internal.md) 
-- [roofing_contractor.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.protect.md) 
-- [roofing_contractor.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.private.md) 
-- [roofing_contractor.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.personal.md) 
-- [roofing_contractor.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.secret.md) 

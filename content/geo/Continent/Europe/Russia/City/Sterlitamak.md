@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sterlitamak](../../../../../../_public/geo/Continent/Europe/Russia/City/Sterlitamak.md) 
-- [Sterlitamak.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sterlitamak.internal.md) 
-- [Sterlitamak.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sterlitamak.protect.md) 
-- [Sterlitamak.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sterlitamak.private.md) 
-- [Sterlitamak.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sterlitamak.personal.md) 
-- [Sterlitamak.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sterlitamak.secret.md) 

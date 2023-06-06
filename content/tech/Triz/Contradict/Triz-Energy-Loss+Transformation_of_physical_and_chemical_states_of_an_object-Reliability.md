@@ -19,10 +19,3 @@ title: Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_obj
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.md) 
-- [Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.internal.md) 
-- [Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.protect.md) 
-- [Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.private.md) 
-- [Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.personal.md) 
-- [Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Energy-Loss+Transformation_of_physical_and_chemical_states_of_an_object-Reliability.secret.md) 

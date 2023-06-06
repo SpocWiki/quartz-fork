@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sterbfritz](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.md) 
-- [Sterbfritz.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.internal.md) 
-- [Sterbfritz.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.protect.md) 
-- [Sterbfritz.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.private.md) 
-- [Sterbfritz.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.personal.md) 
-- [Sterbfritz.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Sterbfritz.secret.md) 

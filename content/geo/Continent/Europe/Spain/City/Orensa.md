@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orensa](../../../../../../_public/geo/Continent/Europe/Spain/City/Orensa.md) 
-- [Orensa.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Orensa.internal.md) 
-- [Orensa.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Orensa.protect.md) 
-- [Orensa.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Orensa.private.md) 
-- [Orensa.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Orensa.personal.md) 
-- [Orensa.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Orensa.secret.md) 

@@ -47,10 +47,3 @@ Item contains tobacco and/or nicotine, for example cigars, cigarettes, chewing t
 
 
 
-## Confidential Links & Embeds: 
-- [tobacco_nicotine_consideration](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.md) 
-- [tobacco_nicotine_consideration.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.internal.md) 
-- [tobacco_nicotine_consideration.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.protect.md) 
-- [tobacco_nicotine_consideration.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.private.md) 
-- [tobacco_nicotine_consideration.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.personal.md) 
-- [tobacco_nicotine_consideration.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.secret.md) 

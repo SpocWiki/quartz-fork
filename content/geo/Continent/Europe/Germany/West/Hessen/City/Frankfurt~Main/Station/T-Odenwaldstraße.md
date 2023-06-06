@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Odenwaldstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Odenwaldstra%C3%9Fe.md) 
-- [T-Odenwaldstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Odenwaldstra%C3%9Fe.internal.md) 
-- [T-Odenwaldstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Odenwaldstra%C3%9Fe.protect.md) 
-- [T-Odenwaldstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Odenwaldstra%C3%9Fe.private.md) 
-- [T-Odenwaldstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Odenwaldstra%C3%9Fe.personal.md) 
-- [T-Odenwaldstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Odenwaldstra%C3%9Fe.secret.md) 

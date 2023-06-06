@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberschoeneweide](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.md) 
-- [Oberschoeneweide.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.internal.md) 
-- [Oberschoeneweide.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.protect.md) 
-- [Oberschoeneweide.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.private.md) 
-- [Oberschoeneweide.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.personal.md) 
-- [Oberschoeneweide.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Oberschoeneweide.secret.md) 

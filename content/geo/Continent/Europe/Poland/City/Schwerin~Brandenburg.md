@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwerin~Brandenburg](../../../../../../_public/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.md) 
-- [Schwerin~Brandenburg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.internal.md) 
-- [Schwerin~Brandenburg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.protect.md) 
-- [Schwerin~Brandenburg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.private.md) 
-- [Schwerin~Brandenburg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.personal.md) 
-- [Schwerin~Brandenburg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwerin~Brandenburg.secret.md) 

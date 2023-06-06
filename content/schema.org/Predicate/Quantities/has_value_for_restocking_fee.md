@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_restocking_fee](../../../../_public/schema.org/Predicate/Quantities/has_value_for_restocking_fee.md) 
-- [has_value_for_restocking_fee.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_restocking_fee.internal.md) 
-- [has_value_for_restocking_fee.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_restocking_fee.protect.md) 
-- [has_value_for_restocking_fee.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_restocking_fee.private.md) 
-- [has_value_for_restocking_fee.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_restocking_fee.personal.md) 
-- [has_value_for_restocking_fee.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_restocking_fee.secret.md) 

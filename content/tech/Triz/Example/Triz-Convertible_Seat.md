@@ -17,10 +17,3 @@ title: Triz-Convertible_Seat
 
 Child's car safety seat converts to a stroller
 
-## Confidential Links & Embeds: 
-- [Triz-Convertible_Seat](../../../../_public/tech/Triz/Example/Triz-Convertible_Seat.md) 
-- [Triz-Convertible_Seat.internal](../../../../_internal/tech/Triz/Example/Triz-Convertible_Seat.internal.md) 
-- [Triz-Convertible_Seat.protect](../../../../_protect/tech/Triz/Example/Triz-Convertible_Seat.protect.md) 
-- [Triz-Convertible_Seat.private](../../../../_private/tech/Triz/Example/Triz-Convertible_Seat.private.md) 
-- [Triz-Convertible_Seat.personal](../../../../_personal/tech/Triz/Example/Triz-Convertible_Seat.personal.md) 
-- [Triz-Convertible_Seat.secret](../../../../_secret/tech/Triz/Example/Triz-Convertible_Seat.secret.md) 

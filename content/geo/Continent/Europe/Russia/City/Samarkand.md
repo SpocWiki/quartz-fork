@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Samarkand](../../../../../../_public/geo/Continent/Europe/Russia/City/Samarkand.md) 
-- [Samarkand.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Samarkand.internal.md) 
-- [Samarkand.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Samarkand.protect.md) 
-- [Samarkand.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Samarkand.private.md) 
-- [Samarkand.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Samarkand.personal.md) 
-- [Samarkand.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Samarkand.secret.md) 

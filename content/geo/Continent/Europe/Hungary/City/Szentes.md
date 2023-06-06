@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Szentes](../../../../../../_public/geo/Continent/Europe/Hungary/City/Szentes.md) 
-- [Szentes.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Szentes.internal.md) 
-- [Szentes.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Szentes.protect.md) 
-- [Szentes.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Szentes.private.md) 
-- [Szentes.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Szentes.personal.md) 
-- [Szentes.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Szentes.secret.md) 

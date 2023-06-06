@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Timmendorfer_Strand](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.md) 
-- [Timmendorfer_Strand.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.internal.md) 
-- [Timmendorfer_Strand.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.protect.md) 
-- [Timmendorfer_Strand.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.private.md) 
-- [Timmendorfer_Strand.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.personal.md) 
-- [Timmendorfer_Strand.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Timmendorfer_Strand.secret.md) 

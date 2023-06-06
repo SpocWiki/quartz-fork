@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leonberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Leonberg.md) 
-- [Leonberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Leonberg.internal.md) 
-- [Leonberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Leonberg.protect.md) 
-- [Leonberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Leonberg.private.md) 
-- [Leonberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Leonberg.personal.md) 
-- [Leonberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Leonberg.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bogota](../../../../../../_public/geo/Continent/South-America/Colombia/City/Bogota.md) 
-- [Bogota.internal](../../../../../../_internal/geo/Continent/South-America/Colombia/City/Bogota.internal.md) 
-- [Bogota.protect](../../../../../../_protect/geo/Continent/South-America/Colombia/City/Bogota.protect.md) 
-- [Bogota.private](../../../../../../_private/geo/Continent/South-America/Colombia/City/Bogota.private.md) 
-- [Bogota.personal](../../../../../../_personal/geo/Continent/South-America/Colombia/City/Bogota.personal.md) 
-- [Bogota.secret](../../../../../../_secret/geo/Continent/South-America/Colombia/City/Bogota.secret.md) 

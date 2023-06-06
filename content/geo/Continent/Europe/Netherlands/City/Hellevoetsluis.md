@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hellevoetsluis](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.md) 
-- [Hellevoetsluis.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.internal.md) 
-- [Hellevoetsluis.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.protect.md) 
-- [Hellevoetsluis.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.private.md) 
-- [Hellevoetsluis.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.personal.md) 
-- [Hellevoetsluis.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Hellevoetsluis.secret.md) 

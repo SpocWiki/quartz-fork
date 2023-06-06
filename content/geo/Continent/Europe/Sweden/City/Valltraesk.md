@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Valltraesk](../../../../../../_public/geo/Continent/Europe/Sweden/City/Valltraesk.md) 
-- [Valltraesk.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Valltraesk.internal.md) 
-- [Valltraesk.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Valltraesk.protect.md) 
-- [Valltraesk.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Valltraesk.private.md) 
-- [Valltraesk.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Valltraesk.personal.md) 
-- [Valltraesk.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Valltraesk.secret.md) 

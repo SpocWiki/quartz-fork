@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tolna](../../../../../../_public/geo/Continent/Europe/Hungary/City/Tolna.md) 
-- [Tolna.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Tolna.internal.md) 
-- [Tolna.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Tolna.protect.md) 
-- [Tolna.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Tolna.private.md) 
-- [Tolna.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Tolna.personal.md) 
-- [Tolna.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Tolna.secret.md) 

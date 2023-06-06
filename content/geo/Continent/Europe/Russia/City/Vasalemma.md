@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vasalemma](../../../../../../_public/geo/Continent/Europe/Russia/City/Vasalemma.md) 
-- [Vasalemma.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vasalemma.internal.md) 
-- [Vasalemma.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vasalemma.protect.md) 
-- [Vasalemma.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vasalemma.private.md) 
-- [Vasalemma.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vasalemma.personal.md) 
-- [Vasalemma.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vasalemma.secret.md) 

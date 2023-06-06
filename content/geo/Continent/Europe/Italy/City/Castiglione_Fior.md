@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castiglione_Fior](../../../../../../_public/geo/Continent/Europe/Italy/City/Castiglione_Fior.md) 
-- [Castiglione_Fior.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Castiglione_Fior.internal.md) 
-- [Castiglione_Fior.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Castiglione_Fior.protect.md) 
-- [Castiglione_Fior.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Castiglione_Fior.private.md) 
-- [Castiglione_Fior.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Castiglione_Fior.personal.md) 
-- [Castiglione_Fior.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Castiglione_Fior.secret.md) 

@@ -121,7 +121,7 @@ markerFolder: ./Dominica/City
 
 ![350](geo/Continent/South-America/Dominica/Coat_of_arms_of_Dominica.svg)
 
-![Anthem-Dominica](xLarge/National-Anthem/Anthem-Dominica.mp3)
+[Anthem-Dominica](xLarge/National-Anthem/Anthem-Dominica.mp3)
 
 ![350](geo/Continent/South-America/Dominica/Flag_of_Dominica.svg)
 
@@ -132,10 +132,3 @@ markerFolder: ./Dominica/City
 
 
 
-## Confidential Links & Embeds: 
-- [Dominica](../../../../_public/geo/Continent/South-America/Dominica.md) 
-- [Dominica.internal](../../../../_internal/geo/Continent/South-America/Dominica.internal.md) 
-- [Dominica.protect](../../../../_protect/geo/Continent/South-America/Dominica.protect.md) 
-- [Dominica.private](../../../../_private/geo/Continent/South-America/Dominica.private.md) 
-- [Dominica.personal](../../../../_personal/geo/Continent/South-America/Dominica.personal.md) 
-- [Dominica.secret](../../../../_secret/geo/Continent/South-America/Dominica.secret.md) 

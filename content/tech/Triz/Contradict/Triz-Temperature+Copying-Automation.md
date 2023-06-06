@@ -19,10 +19,3 @@ title: Triz-Temperature+Copying-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Temperature+Copying-Automation](../../../../_public/tech/Triz/Contradict/Triz-Temperature+Copying-Automation.md) 
-- [Triz-Temperature+Copying-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-Temperature+Copying-Automation.internal.md) 
-- [Triz-Temperature+Copying-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-Temperature+Copying-Automation.protect.md) 
-- [Triz-Temperature+Copying-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-Temperature+Copying-Automation.private.md) 
-- [Triz-Temperature+Copying-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-Temperature+Copying-Automation.personal.md) 
-- [Triz-Temperature+Copying-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-Temperature+Copying-Automation.secret.md) 

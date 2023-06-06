@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wilkau~Westpommern](../../../../../../_public/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.md) 
-- [Wilkau~Westpommern.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.internal.md) 
-- [Wilkau~Westpommern.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.protect.md) 
-- [Wilkau~Westpommern.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.private.md) 
-- [Wilkau~Westpommern.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.personal.md) 
-- [Wilkau~Westpommern.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wilkau~Westpommern.secret.md) 

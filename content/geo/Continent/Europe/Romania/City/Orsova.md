@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orsova](../../../../../../_public/geo/Continent/Europe/Romania/City/Orsova.md) 
-- [Orsova.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Orsova.internal.md) 
-- [Orsova.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Orsova.protect.md) 
-- [Orsova.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Orsova.private.md) 
-- [Orsova.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Orsova.personal.md) 
-- [Orsova.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Orsova.secret.md) 

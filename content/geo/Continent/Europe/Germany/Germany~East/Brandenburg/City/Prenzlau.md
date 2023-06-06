@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Prenzlau](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Prenzlau.md) 
-- [Prenzlau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Prenzlau.internal.md) 
-- [Prenzlau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Prenzlau.protect.md) 
-- [Prenzlau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Prenzlau.private.md) 
-- [Prenzlau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Prenzlau.personal.md) 
-- [Prenzlau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Prenzlau.secret.md) 

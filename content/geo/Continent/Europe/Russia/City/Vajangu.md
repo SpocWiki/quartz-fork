@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vajangu](../../../../../../_public/geo/Continent/Europe/Russia/City/Vajangu.md) 
-- [Vajangu.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vajangu.internal.md) 
-- [Vajangu.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vajangu.protect.md) 
-- [Vajangu.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vajangu.private.md) 
-- [Vajangu.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vajangu.personal.md) 
-- [Vajangu.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vajangu.secret.md) 

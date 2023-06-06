@@ -52,10 +52,3 @@ A <a class="localLink" href="/ReportageNewsArticle">ReportageNewsArticle</a> whi
 
 
 
-## Confidential Links & Embeds: 
-- [reportage_news_article](../../../../../../../_public/schema.org/Type/is_a_/creative_work/article/news_article/reportage_news_article.md) 
-- [reportage_news_article.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/news_article/reportage_news_article.internal.md) 
-- [reportage_news_article.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/news_article/reportage_news_article.protect.md) 
-- [reportage_news_article.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/article/news_article/reportage_news_article.private.md) 
-- [reportage_news_article.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/news_article/reportage_news_article.personal.md) 
-- [reportage_news_article.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/news_article/reportage_news_article.secret.md) 

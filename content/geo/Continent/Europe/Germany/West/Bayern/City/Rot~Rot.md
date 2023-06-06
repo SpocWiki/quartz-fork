@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rot~Rot](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Rot~Rot.md) 
-- [Rot~Rot.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rot~Rot.internal.md) 
-- [Rot~Rot.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rot~Rot.protect.md) 
-- [Rot~Rot.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rot~Rot.private.md) 
-- [Rot~Rot.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rot~Rot.personal.md) 
-- [Rot~Rot.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rot~Rot.secret.md) 

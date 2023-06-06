@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_included_data_catalog](../../../../../_public/schema.org/Predicate/Relations/has/has_included_data_catalog.md) 
-- [has_included_data_catalog.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_included_data_catalog.internal.md) 
-- [has_included_data_catalog.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_included_data_catalog.protect.md) 
-- [has_included_data_catalog.private](../../../../../_private/schema.org/Predicate/Relations/has/has_included_data_catalog.private.md) 
-- [has_included_data_catalog.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_included_data_catalog.personal.md) 
-- [has_included_data_catalog.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_included_data_catalog.secret.md) 

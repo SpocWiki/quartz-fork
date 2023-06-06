@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stroemstadt](../../../../../../_public/geo/Continent/Europe/Sweden/City/Stroemstadt.md) 
-- [Stroemstadt.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Stroemstadt.internal.md) 
-- [Stroemstadt.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Stroemstadt.protect.md) 
-- [Stroemstadt.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Stroemstadt.private.md) 
-- [Stroemstadt.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Stroemstadt.personal.md) 
-- [Stroemstadt.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Stroemstadt.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Shape+Dynamicity-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Shape+Dynamicity-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Shape+Dynamicity-Illumination.md) 
-- [Triz-Shape+Dynamicity-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Illumination.internal.md) 
-- [Triz-Shape+Dynamicity-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Shape+Dynamicity-Illumination.protect.md) 
-- [Triz-Shape+Dynamicity-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Shape+Dynamicity-Illumination.private.md) 
-- [Triz-Shape+Dynamicity-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Shape+Dynamicity-Illumination.personal.md) 
-- [Triz-Shape+Dynamicity-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Shape+Dynamicity-Illumination.secret.md) 

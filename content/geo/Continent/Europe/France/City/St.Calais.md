@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Calais](../../../../../../_public/geo/Continent/Europe/France/City/St.Calais.md) 
-- [St.Calais.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Calais.internal.md) 
-- [St.Calais.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Calais.protect.md) 
-- [St.Calais.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Calais.private.md) 
-- [St.Calais.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Calais.personal.md) 
-- [St.Calais.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Calais.secret.md) 

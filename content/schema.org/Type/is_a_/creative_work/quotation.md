@@ -45,10 +45,3 @@ A quotation. Often but not necessarily from some written work, attributable to a
 
 
 
-## Confidential Links & Embeds: 
-- [quotation](../../../../../_public/schema.org/Type/is_a_/creative_work/quotation.md) 
-- [quotation.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/quotation.internal.md) 
-- [quotation.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/quotation.protect.md) 
-- [quotation.private](../../../../../_private/schema.org/Type/is_a_/creative_work/quotation.private.md) 
-- [quotation.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/quotation.personal.md) 
-- [quotation.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/quotation.secret.md) 

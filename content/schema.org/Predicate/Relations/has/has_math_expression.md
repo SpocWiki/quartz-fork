@@ -47,10 +47,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_math_expression](../../../../../_public/schema.org/Predicate/Relations/has/has_math_expression.md) 
-- [has_math_expression.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_math_expression.internal.md) 
-- [has_math_expression.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_math_expression.protect.md) 
-- [has_math_expression.private](../../../../../_private/schema.org/Predicate/Relations/has/has_math_expression.private.md) 
-- [has_math_expression.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_math_expression.personal.md) 
-- [has_math_expression.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_math_expression.secret.md) 

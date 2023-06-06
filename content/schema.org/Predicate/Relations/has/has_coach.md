@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_coach](../../../../../_public/schema.org/Predicate/Relations/has/has_coach.md) 
-- [has_coach.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_coach.internal.md) 
-- [has_coach.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_coach.protect.md) 
-- [has_coach.private](../../../../../_private/schema.org/Predicate/Relations/has/has_coach.private.md) 
-- [has_coach.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_coach.personal.md) 
-- [has_coach.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_coach.secret.md) 

@@ -43,10 +43,3 @@ Residence type: Gated community.
 
 
 
-## Confidential Links & Embeds: 
-- [gated_residence_community](../../../../../../_public/schema.org/Type/is_a_/place/residence/gated_residence_community.md) 
-- [gated_residence_community.internal](../../../../../../_internal/schema.org/Type/is_a_/place/residence/gated_residence_community.internal.md) 
-- [gated_residence_community.protect](../../../../../../_protect/schema.org/Type/is_a_/place/residence/gated_residence_community.protect.md) 
-- [gated_residence_community.private](../../../../../../_private/schema.org/Type/is_a_/place/residence/gated_residence_community.private.md) 
-- [gated_residence_community.personal](../../../../../../_personal/schema.org/Type/is_a_/place/residence/gated_residence_community.personal.md) 
-- [gated_residence_community.secret](../../../../../../_secret/schema.org/Type/is_a_/place/residence/gated_residence_community.secret.md) 

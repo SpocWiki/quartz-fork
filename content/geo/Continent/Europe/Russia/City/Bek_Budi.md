@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bek_Budi](../../../../../../_public/geo/Continent/Europe/Russia/City/Bek_Budi.md) 
-- [Bek_Budi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Bek_Budi.internal.md) 
-- [Bek_Budi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Bek_Budi.protect.md) 
-- [Bek_Budi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Bek_Budi.private.md) 
-- [Bek_Budi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Bek_Budi.personal.md) 
-- [Bek_Budi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Bek_Budi.secret.md) 

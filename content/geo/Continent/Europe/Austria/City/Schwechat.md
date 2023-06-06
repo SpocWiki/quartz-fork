@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwechat](../../../../../../_public/geo/Continent/Europe/Austria/City/Schwechat.md) 
-- [Schwechat.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Schwechat.internal.md) 
-- [Schwechat.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Schwechat.protect.md) 
-- [Schwechat.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Schwechat.private.md) 
-- [Schwechat.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Schwechat.personal.md) 
-- [Schwechat.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Schwechat.secret.md) 

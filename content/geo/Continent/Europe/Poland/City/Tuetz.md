@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tuetz](../../../../../../_public/geo/Continent/Europe/Poland/City/Tuetz.md) 
-- [Tuetz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Tuetz.internal.md) 
-- [Tuetz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Tuetz.protect.md) 
-- [Tuetz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Tuetz.private.md) 
-- [Tuetz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Tuetz.personal.md) 
-- [Tuetz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Tuetz.secret.md) 

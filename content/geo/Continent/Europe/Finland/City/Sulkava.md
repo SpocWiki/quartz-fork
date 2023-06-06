@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sulkava](../../../../../../_public/geo/Continent/Europe/Finland/City/Sulkava.md) 
-- [Sulkava.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Sulkava.internal.md) 
-- [Sulkava.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Sulkava.protect.md) 
-- [Sulkava.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Sulkava.private.md) 
-- [Sulkava.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Sulkava.personal.md) 
-- [Sulkava.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Sulkava.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Trond](../../../../../../_public/geo/Continent/Europe/Belgium/City/St.Trond.md) 
-- [St.Trond.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/St.Trond.internal.md) 
-- [St.Trond.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/St.Trond.protect.md) 
-- [St.Trond.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/St.Trond.private.md) 
-- [St.Trond.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/St.Trond.personal.md) 
-- [St.Trond.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/St.Trond.secret.md) 

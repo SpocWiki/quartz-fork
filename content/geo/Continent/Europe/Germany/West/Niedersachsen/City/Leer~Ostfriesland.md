@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Leer~Ostfriesland](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.md) 
-- [Leer~Ostfriesland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.internal.md) 
-- [Leer~Ostfriesland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.protect.md) 
-- [Leer~Ostfriesland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.private.md) 
-- [Leer~Ostfriesland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.personal.md) 
-- [Leer~Ostfriesland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Leer~Ostfriesland.secret.md) 

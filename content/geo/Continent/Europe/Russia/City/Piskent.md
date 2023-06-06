@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Piskent](../../../../../../_public/geo/Continent/Europe/Russia/City/Piskent.md) 
-- [Piskent.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Piskent.internal.md) 
-- [Piskent.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Piskent.protect.md) 
-- [Piskent.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Piskent.private.md) 
-- [Piskent.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Piskent.personal.md) 
-- [Piskent.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Piskent.secret.md) 

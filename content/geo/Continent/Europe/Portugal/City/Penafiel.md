@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Penafiel](../../../../../../_public/geo/Continent/Europe/Portugal/City/Penafiel.md) 
-- [Penafiel.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Penafiel.internal.md) 
-- [Penafiel.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Penafiel.protect.md) 
-- [Penafiel.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Penafiel.private.md) 
-- [Penafiel.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Penafiel.personal.md) 
-- [Penafiel.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Penafiel.secret.md) 

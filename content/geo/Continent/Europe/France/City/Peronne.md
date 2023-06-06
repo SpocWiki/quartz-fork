@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Peronne](../../../../../../_public/geo/Continent/Europe/France/City/Peronne.md) 
-- [Peronne.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Peronne.internal.md) 
-- [Peronne.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Peronne.protect.md) 
-- [Peronne.private](../../../../../../_private/geo/Continent/Europe/France/City/Peronne.private.md) 
-- [Peronne.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Peronne.personal.md) 
-- [Peronne.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Peronne.secret.md) 

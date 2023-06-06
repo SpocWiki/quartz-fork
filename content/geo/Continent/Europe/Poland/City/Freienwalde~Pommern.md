@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freienwalde~Pommern](../../../../../../_public/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.md) 
-- [Freienwalde~Pommern.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.internal.md) 
-- [Freienwalde~Pommern.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.protect.md) 
-- [Freienwalde~Pommern.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.private.md) 
-- [Freienwalde~Pommern.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.personal.md) 
-- [Freienwalde~Pommern.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Freienwalde~Pommern.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Freiberg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Freiberg.md) 
-- [Freiberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Freiberg.internal.md) 
-- [Freiberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Freiberg.protect.md) 
-- [Freiberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Freiberg.private.md) 
-- [Freiberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Freiberg.personal.md) 
-- [Freiberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Freiberg.secret.md) 

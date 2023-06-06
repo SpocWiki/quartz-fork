@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Utajaervi~Juor.](../../../../../../_public/geo/Continent/Europe/Finland/City/Utajaervi~Juor..md) 
-- [Utajaervi~Juor..internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Utajaervi~Juor..internal.md) 
-- [Utajaervi~Juor..protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Utajaervi~Juor..protect.md) 
-- [Utajaervi~Juor..private](../../../../../../_private/geo/Continent/Europe/Finland/City/Utajaervi~Juor..private.md) 
-- [Utajaervi~Juor..personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Utajaervi~Juor..personal.md) 
-- [Utajaervi~Juor..secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Utajaervi~Juor..secret.md) 

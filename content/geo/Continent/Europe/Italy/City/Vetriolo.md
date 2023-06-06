@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vetriolo](../../../../../../_public/geo/Continent/Europe/Italy/City/Vetriolo.md) 
-- [Vetriolo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Vetriolo.internal.md) 
-- [Vetriolo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Vetriolo.protect.md) 
-- [Vetriolo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Vetriolo.private.md) 
-- [Vetriolo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Vetriolo.personal.md) 
-- [Vetriolo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Vetriolo.secret.md) 

@@ -18,11 +18,3 @@ title: Star-Class-A
 
 
 
-## Confidential Links & Embeds: 
-- [Star-Class-A](../../../_public/astro/Class/Star-Class-A.md) 
-- [Star-Class-A.internal](../../../_internal/astro/Class/Star-Class-A.internal.md) 
-- [Star-Class-A.protect](../../../_protect/astro/Class/Star-Class-A.protect.md) 
-- [Star-Class-A.private](../../../_private/astro/Class/Star-Class-A.private.md) 
-- [Star-Class-A.personal](../../../_personal/astro/Class/Star-Class-A.personal.md) 
-- [Star-Class-A.secret](../../../_secret/astro/Class/Star-Class-A.secret.md)
-

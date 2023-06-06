@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tartu](../../../../../../_public/geo/Continent/Europe/Russia/City/Tartu.md) 
-- [Tartu.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tartu.internal.md) 
-- [Tartu.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tartu.protect.md) 
-- [Tartu.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tartu.private.md) 
-- [Tartu.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tartu.personal.md) 
-- [Tartu.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tartu.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weilburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Weilburg.md) 
-- [Weilburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Weilburg.internal.md) 
-- [Weilburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Weilburg.protect.md) 
-- [Weilburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Weilburg.private.md) 
-- [Weilburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Weilburg.personal.md) 
-- [Weilburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Weilburg.secret.md) 

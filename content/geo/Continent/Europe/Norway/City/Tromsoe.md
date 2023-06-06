@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tromsoe](../../../../../../_public/geo/Continent/Europe/Norway/City/Tromsoe.md) 
-- [Tromsoe.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Tromsoe.internal.md) 
-- [Tromsoe.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Tromsoe.protect.md) 
-- [Tromsoe.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Tromsoe.private.md) 
-- [Tromsoe.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Tromsoe.personal.md) 
-- [Tromsoe.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Tromsoe.secret.md) 

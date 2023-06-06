@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Miami](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.md) 
-- [Miami.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.internal.md) 
-- [Miami.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.protect.md) 
-- [Miami.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.private.md) 
-- [Miami.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.personal.md) 
-- [Miami.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Florida/City/Miami.secret.md) 

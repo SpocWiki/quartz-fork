@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Charlottenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/State-Berlin/City/Charlottenburg.md) 
-- [Charlottenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/State-Berlin/City/Charlottenburg.internal.md) 
-- [Charlottenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/State-Berlin/City/Charlottenburg.protect.md) 
-- [Charlottenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/State-Berlin/City/Charlottenburg.private.md) 
-- [Charlottenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/State-Berlin/City/Charlottenburg.personal.md) 
-- [Charlottenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/State-Berlin/City/Charlottenburg.secret.md) 

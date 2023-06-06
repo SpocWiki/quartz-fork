@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Luumaeki](../../../../../../_public/geo/Continent/Europe/Finland/City/Luumaeki.md) 
-- [Luumaeki.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Luumaeki.internal.md) 
-- [Luumaeki.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Luumaeki.protect.md) 
-- [Luumaeki.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Luumaeki.private.md) 
-- [Luumaeki.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Luumaeki.personal.md) 
-- [Luumaeki.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Luumaeki.secret.md) 

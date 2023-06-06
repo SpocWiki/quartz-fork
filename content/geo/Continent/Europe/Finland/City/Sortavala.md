@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sortavala](../../../../../../_public/geo/Continent/Europe/Finland/City/Sortavala.md) 
-- [Sortavala.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Sortavala.internal.md) 
-- [Sortavala.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Sortavala.protect.md) 
-- [Sortavala.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Sortavala.private.md) 
-- [Sortavala.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Sortavala.personal.md) 
-- [Sortavala.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Sortavala.secret.md) 

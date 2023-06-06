@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Keszthely](../../../../../../_public/geo/Continent/Europe/Hungary/City/Keszthely.md) 
-- [Keszthely.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Keszthely.internal.md) 
-- [Keszthely.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Keszthely.protect.md) 
-- [Keszthely.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Keszthely.private.md) 
-- [Keszthely.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Keszthely.personal.md) 
-- [Keszthely.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Keszthely.secret.md) 

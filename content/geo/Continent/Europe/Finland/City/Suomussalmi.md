@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suomussalmi](../../../../../../_public/geo/Continent/Europe/Finland/City/Suomussalmi.md) 
-- [Suomussalmi.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Suomussalmi.internal.md) 
-- [Suomussalmi.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Suomussalmi.protect.md) 
-- [Suomussalmi.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Suomussalmi.private.md) 
-- [Suomussalmi.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Suomussalmi.personal.md) 
-- [Suomussalmi.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Suomussalmi.secret.md) 

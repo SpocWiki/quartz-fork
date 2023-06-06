@@ -35,10 +35,3 @@ title: Bismuth
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bismuth)
 
-## Confidential Links & Embeds: 
-- [Bismuth](../../../../_public/chemic/Elements/Group-15-Nitrogen/Bismuth.md) 
-- [Bismuth.internal](../../../../_internal/chemic/Elements/Group-15-Nitrogen/Bismuth.internal.md) 
-- [Bismuth.protect](../../../../_protect/chemic/Elements/Group-15-Nitrogen/Bismuth.protect.md) 
-- [Bismuth.private](../../../../_private/chemic/Elements/Group-15-Nitrogen/Bismuth.private.md) 
-- [Bismuth.personal](../../../../_personal/chemic/Elements/Group-15-Nitrogen/Bismuth.personal.md) 
-- [Bismuth.secret](../../../../_secret/chemic/Elements/Group-15-Nitrogen/Bismuth.secret.md) 

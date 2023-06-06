@@ -19,10 +19,3 @@ title: Triz-Time-Loss+Asymmetry-Shape
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss+Asymmetry-Shape](../../../../_public/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.md) 
-- [Triz-Time-Loss+Asymmetry-Shape.internal](../../../../_internal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.internal.md) 
-- [Triz-Time-Loss+Asymmetry-Shape.protect](../../../../_protect/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.protect.md) 
-- [Triz-Time-Loss+Asymmetry-Shape.private](../../../../_private/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.private.md) 
-- [Triz-Time-Loss+Asymmetry-Shape.personal](../../../../_personal/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.personal.md) 
-- [Triz-Time-Loss+Asymmetry-Shape.secret](../../../../_secret/tech/Triz/Contradict/Triz-Time-Loss+Asymmetry-Shape.secret.md) 

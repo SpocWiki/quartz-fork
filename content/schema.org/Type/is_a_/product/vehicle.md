@@ -45,10 +45,3 @@ A vehicle is a device that is designed or used to transport people or cargo over
 
 
 
-## Confidential Links & Embeds: 
-- [vehicle](../../../../../_public/schema.org/Type/is_a_/product/vehicle.md) 
-- [vehicle.internal](../../../../../_internal/schema.org/Type/is_a_/product/vehicle.internal.md) 
-- [vehicle.protect](../../../../../_protect/schema.org/Type/is_a_/product/vehicle.protect.md) 
-- [vehicle.private](../../../../../_private/schema.org/Type/is_a_/product/vehicle.private.md) 
-- [vehicle.personal](../../../../../_personal/schema.org/Type/is_a_/product/vehicle.personal.md) 
-- [vehicle.secret](../../../../../_secret/schema.org/Type/is_a_/product/vehicle.secret.md) 

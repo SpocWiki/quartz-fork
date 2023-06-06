@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Toulouse](../../../../../../_public/geo/Continent/Europe/France/City/Toulouse.md) 
-- [Toulouse.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Toulouse.internal.md) 
-- [Toulouse.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Toulouse.protect.md) 
-- [Toulouse.private](../../../../../../_private/geo/Continent/Europe/France/City/Toulouse.private.md) 
-- [Toulouse.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Toulouse.personal.md) 
-- [Toulouse.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Toulouse.secret.md) 

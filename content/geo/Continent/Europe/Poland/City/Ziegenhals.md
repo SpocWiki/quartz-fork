@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ziegenhals](../../../../../../_public/geo/Continent/Europe/Poland/City/Ziegenhals.md) 
-- [Ziegenhals.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Ziegenhals.internal.md) 
-- [Ziegenhals.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Ziegenhals.protect.md) 
-- [Ziegenhals.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Ziegenhals.private.md) 
-- [Ziegenhals.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Ziegenhals.personal.md) 
-- [Ziegenhals.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Ziegenhals.secret.md) 

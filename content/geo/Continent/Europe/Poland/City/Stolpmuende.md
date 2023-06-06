@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stolpmuende](../../../../../../_public/geo/Continent/Europe/Poland/City/Stolpmuende.md) 
-- [Stolpmuende.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Stolpmuende.internal.md) 
-- [Stolpmuende.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Stolpmuende.protect.md) 
-- [Stolpmuende.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Stolpmuende.private.md) 
-- [Stolpmuende.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Stolpmuende.personal.md) 
-- [Stolpmuende.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Stolpmuende.secret.md) 

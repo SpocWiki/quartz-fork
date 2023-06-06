@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Twedt](../../../../../../_public/geo/Continent/Europe/Denmark/City/Twedt.md) 
-- [Twedt.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Twedt.internal.md) 
-- [Twedt.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Twedt.protect.md) 
-- [Twedt.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Twedt.private.md) 
-- [Twedt.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Twedt.personal.md) 
-- [Twedt.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Twedt.secret.md) 

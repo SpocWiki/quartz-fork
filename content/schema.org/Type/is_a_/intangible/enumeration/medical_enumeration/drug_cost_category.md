@@ -41,10 +41,3 @@ Enumerated categories of medical drug costs.
 
 
 
-## Confidential Links & Embeds: 
-- [drug_cost_category](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.md) 
-- [drug_cost_category.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.internal.md) 
-- [drug_cost_category.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.protect.md) 
-- [drug_cost_category.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.private.md) 
-- [drug_cost_category.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.personal.md) 
-- [drug_cost_category.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.secret.md) 

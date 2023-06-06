@@ -19,10 +19,3 @@ title: Triz-moving_Duration+Inversion-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Duration+Inversion-Versatility](../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Versatility.md) 
-- [Triz-moving_Duration+Inversion-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Versatility.internal.md) 
-- [Triz-moving_Duration+Inversion-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Versatility.protect.md) 
-- [Triz-moving_Duration+Inversion-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Versatility.private.md) 
-- [Triz-moving_Duration+Inversion-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Versatility.personal.md) 
-- [Triz-moving_Duration+Inversion-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Inversion-Versatility.secret.md) 

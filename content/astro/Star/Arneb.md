@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Arneb](../../../_public/astro/Star/Arneb.md) 
-- [Arneb.internal](../../../_internal/astro/Star/Arneb.internal.md) 
-- [Arneb.protect](../../../_protect/astro/Star/Arneb.protect.md) 
-- [Arneb.private](../../../_private/astro/Star/Arneb.private.md) 
-- [Arneb.personal](../../../_personal/astro/Star/Arneb.personal.md) 
-- [Arneb.secret](../../../_secret/astro/Star/Arneb.secret.md)
-

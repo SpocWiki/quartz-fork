@@ -126,7 +126,7 @@ markerFolder: ./Mauritania/City
 
 ![350](geo/Continent/Africa/Mauritania/Seal_of_Mauritania_(2018).svg) 
 
-![Anthem-Mauritania](xLarge/National-Anthem/Anthem-Mauritania.mp3)
+[Anthem-Mauritania](xLarge/National-Anthem/Anthem-Mauritania.mp3)
 
 ![350](geo/Continent/Africa/Mauritania/Flag_of_Mauritania.svg)
 
@@ -137,10 +137,3 @@ markerFolder: ./Mauritania/City
 
 
 
-## Confidential Links & Embeds: 
-- [Mauritania](../../../../_public/geo/Continent/Africa/Mauritania.md) 
-- [Mauritania.internal](../../../../_internal/geo/Continent/Africa/Mauritania.internal.md) 
-- [Mauritania.protect](../../../../_protect/geo/Continent/Africa/Mauritania.protect.md) 
-- [Mauritania.private](../../../../_private/geo/Continent/Africa/Mauritania.private.md) 
-- [Mauritania.personal](../../../../_personal/geo/Continent/Africa/Mauritania.personal.md) 
-- [Mauritania.secret](../../../../_secret/geo/Continent/Africa/Mauritania.secret.md) 

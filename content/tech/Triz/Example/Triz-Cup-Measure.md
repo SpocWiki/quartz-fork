@@ -17,10 +17,3 @@ title: Triz-Cup-Measure
 
 Measuring in Cups or Spoons
 
-## Confidential Links & Embeds: 
-- [Triz-Cup-Measure](../../../../_public/tech/Triz/Example/Triz-Cup-Measure.md) 
-- [Triz-Cup-Measure.internal](../../../../_internal/tech/Triz/Example/Triz-Cup-Measure.internal.md) 
-- [Triz-Cup-Measure.protect](../../../../_protect/tech/Triz/Example/Triz-Cup-Measure.protect.md) 
-- [Triz-Cup-Measure.private](../../../../_private/tech/Triz/Example/Triz-Cup-Measure.private.md) 
-- [Triz-Cup-Measure.personal](../../../../_personal/tech/Triz/Example/Triz-Cup-Measure.personal.md) 
-- [Triz-Cup-Measure.secret](../../../../_secret/tech/Triz/Example/Triz-Cup-Measure.secret.md) 

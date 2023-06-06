@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orughety](../../../../../../_public/geo/Continent/Europe/Russia/City/Orughety.md) 
-- [Orughety.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Orughety.internal.md) 
-- [Orughety.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Orughety.protect.md) 
-- [Orughety.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Orughety.private.md) 
-- [Orughety.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Orughety.personal.md) 
-- [Orughety.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Orughety.secret.md) 

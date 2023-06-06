@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lomé](../../../../../../_public/geo/Continent/Africa/Togo/City/Lom%C3%A9.md) 
-- [Lomé.internal](../../../../../../_internal/geo/Continent/Africa/Togo/City/Lom%C3%A9.internal.md) 
-- [Lomé.protect](../../../../../../_protect/geo/Continent/Africa/Togo/City/Lom%C3%A9.protect.md) 
-- [Lomé.private](../../../../../../_private/geo/Continent/Africa/Togo/City/Lom%C3%A9.private.md) 
-- [Lomé.personal](../../../../../../_personal/geo/Continent/Africa/Togo/City/Lom%C3%A9.personal.md) 
-- [Lomé.secret](../../../../../../_secret/geo/Continent/Africa/Togo/City/Lom%C3%A9.secret.md) 

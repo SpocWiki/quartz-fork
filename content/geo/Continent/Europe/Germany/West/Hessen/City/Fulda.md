@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fulda](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Fulda.md) 
-- [Fulda.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Fulda.internal.md) 
-- [Fulda.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Fulda.protect.md) 
-- [Fulda.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Fulda.private.md) 
-- [Fulda.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Fulda.personal.md) 
-- [Fulda.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Fulda.secret.md) 

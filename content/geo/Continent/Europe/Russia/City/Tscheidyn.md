@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tscheidyn](../../../../../../_public/geo/Continent/Europe/Russia/City/Tscheidyn.md) 
-- [Tscheidyn.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tscheidyn.internal.md) 
-- [Tscheidyn.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tscheidyn.protect.md) 
-- [Tscheidyn.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tscheidyn.private.md) 
-- [Tscheidyn.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tscheidyn.personal.md) 
-- [Tscheidyn.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tscheidyn.secret.md) 

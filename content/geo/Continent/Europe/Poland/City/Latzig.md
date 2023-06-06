@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Latzig](../../../../../../_public/geo/Continent/Europe/Poland/City/Latzig.md) 
-- [Latzig.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Latzig.internal.md) 
-- [Latzig.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Latzig.protect.md) 
-- [Latzig.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Latzig.private.md) 
-- [Latzig.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Latzig.personal.md) 
-- [Latzig.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Latzig.secret.md) 

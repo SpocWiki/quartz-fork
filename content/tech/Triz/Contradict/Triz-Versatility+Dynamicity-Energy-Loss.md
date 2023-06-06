@@ -19,10 +19,3 @@ title: Triz-Versatility+Dynamicity-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Dynamicity-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Energy-Loss.md) 
-- [Triz-Versatility+Dynamicity-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Energy-Loss.internal.md) 
-- [Triz-Versatility+Dynamicity-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Energy-Loss.protect.md) 
-- [Triz-Versatility+Dynamicity-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Energy-Loss.private.md) 
-- [Triz-Versatility+Dynamicity-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Energy-Loss.personal.md) 
-- [Triz-Versatility+Dynamicity-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Dynamicity-Energy-Loss.secret.md) 

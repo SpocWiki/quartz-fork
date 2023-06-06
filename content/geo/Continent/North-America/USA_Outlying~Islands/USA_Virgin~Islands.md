@@ -123,10 +123,3 @@ markerFolder: ./USA_Virgin~Islands/City
 
 
 
-## Confidential Links & Embeds: 
-- [USA_Virgin~Islands](../../../../../_public/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.md) 
-- [USA_Virgin~Islands.internal](../../../../../_internal/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.internal.md) 
-- [USA_Virgin~Islands.protect](../../../../../_protect/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.protect.md) 
-- [USA_Virgin~Islands.private](../../../../../_private/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.private.md) 
-- [USA_Virgin~Islands.personal](../../../../../_personal/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.personal.md) 
-- [USA_Virgin~Islands.secret](../../../../../_secret/geo/Continent/North-America/USA_Outlying~Islands/USA_Virgin~Islands.secret.md) 

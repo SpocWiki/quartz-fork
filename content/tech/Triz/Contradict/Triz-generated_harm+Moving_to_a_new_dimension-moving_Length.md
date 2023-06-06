@@ -19,10 +19,3 @@ title: Triz-generated_harm+Moving_to_a_new_dimension-moving_Length
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Moving_to_a_new_dimension-moving_Length](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.md) 
-- [Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.internal.md) 
-- [Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.protect.md) 
-- [Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.private.md) 
-- [Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.personal.md) 
-- [Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Moving_to_a_new_dimension-moving_Length.secret.md) 

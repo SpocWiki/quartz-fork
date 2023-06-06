@@ -47,10 +47,3 @@ Nonprofit501c12: Non-profit type referring to Benevolent Life Insurance Associat
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c12](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.md) 
-- [nonprofit501c12.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.internal.md) 
-- [nonprofit501c12.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.protect.md) 
-- [nonprofit501c12.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.private.md) 
-- [nonprofit501c12.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.personal.md) 
-- [nonprofit501c12.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c12.secret.md) 

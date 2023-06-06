@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Prizren](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Prizren.md) 
-- [Prizren.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Prizren.internal.md) 
-- [Prizren.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Prizren.protect.md) 
-- [Prizren.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Prizren.private.md) 
-- [Prizren.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Prizren.personal.md) 
-- [Prizren.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Prizren.secret.md) 

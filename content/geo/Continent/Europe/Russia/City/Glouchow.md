@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Glouchow](../../../../../../_public/geo/Continent/Europe/Russia/City/Glouchow.md) 
-- [Glouchow.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Glouchow.internal.md) 
-- [Glouchow.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Glouchow.protect.md) 
-- [Glouchow.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Glouchow.private.md) 
-- [Glouchow.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Glouchow.personal.md) 
-- [Glouchow.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Glouchow.secret.md) 

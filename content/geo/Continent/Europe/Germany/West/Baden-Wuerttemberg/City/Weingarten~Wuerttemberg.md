@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weingarten~Wuerttemberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Wuerttemberg.md) 
-- [Weingarten~Wuerttemberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Wuerttemberg.internal.md) 
-- [Weingarten~Wuerttemberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Wuerttemberg.protect.md) 
-- [Weingarten~Wuerttemberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Wuerttemberg.private.md) 
-- [Weingarten~Wuerttemberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Wuerttemberg.personal.md) 
-- [Weingarten~Wuerttemberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Weingarten~Wuerttemberg.secret.md) 

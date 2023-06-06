@@ -17,10 +17,3 @@ title: Triz-directed_Radiation
 
 Early Communications used omnidirectional Broadcasting. We now use Antennas with very detailed Structure of the Pattern of Radiation.
 
-## Confidential Links & Embeds: 
-- [Triz-directed_Radiation](../../../../_public/tech/Triz/Example/Triz-directed_Radiation.md) 
-- [Triz-directed_Radiation.internal](../../../../_internal/tech/Triz/Example/Triz-directed_Radiation.internal.md) 
-- [Triz-directed_Radiation.protect](../../../../_protect/tech/Triz/Example/Triz-directed_Radiation.protect.md) 
-- [Triz-directed_Radiation.private](../../../../_private/tech/Triz/Example/Triz-directed_Radiation.private.md) 
-- [Triz-directed_Radiation.personal](../../../../_personal/tech/Triz/Example/Triz-directed_Radiation.personal.md) 
-- [Triz-directed_Radiation.secret](../../../../_secret/tech/Triz/Example/Triz-directed_Radiation.secret.md) 

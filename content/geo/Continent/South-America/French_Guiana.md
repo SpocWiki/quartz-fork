@@ -129,10 +129,3 @@ markerFolder: ./French_Guiana/City
 
 
 
-## Confidential Links & Embeds: 
-- [French_Guiana](../../../../_public/geo/Continent/South-America/French_Guiana.md) 
-- [French_Guiana.internal](../../../../_internal/geo/Continent/South-America/French_Guiana.internal.md) 
-- [French_Guiana.protect](../../../../_protect/geo/Continent/South-America/French_Guiana.protect.md) 
-- [French_Guiana.private](../../../../_private/geo/Continent/South-America/French_Guiana.private.md) 
-- [French_Guiana.personal](../../../../_personal/geo/Continent/South-America/French_Guiana.personal.md) 
-- [French_Guiana.secret](../../../../_secret/geo/Continent/South-America/French_Guiana.secret.md) 

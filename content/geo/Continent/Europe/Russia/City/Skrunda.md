@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skrunda](../../../../../../_public/geo/Continent/Europe/Russia/City/Skrunda.md) 
-- [Skrunda.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Skrunda.internal.md) 
-- [Skrunda.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Skrunda.protect.md) 
-- [Skrunda.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Skrunda.private.md) 
-- [Skrunda.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Skrunda.personal.md) 
-- [Skrunda.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Skrunda.secret.md) 

@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Mimosa](../../../_public/astro/Star/Mimosa.md) 
-- [Mimosa.internal](../../../_internal/astro/Star/Mimosa.internal.md) 
-- [Mimosa.protect](../../../_protect/astro/Star/Mimosa.protect.md) 
-- [Mimosa.private](../../../_private/astro/Star/Mimosa.private.md) 
-- [Mimosa.personal](../../../_personal/astro/Star/Mimosa.personal.md) 
-- [Mimosa.secret](../../../_secret/astro/Star/Mimosa.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Weißkirchen_Ost](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fkirchen_Ost.md) 
-- [U-Weißkirchen_Ost.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fkirchen_Ost.internal.md) 
-- [U-Weißkirchen_Ost.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fkirchen_Ost.protect.md) 
-- [U-Weißkirchen_Ost.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fkirchen_Ost.private.md) 
-- [U-Weißkirchen_Ost.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fkirchen_Ost.personal.md) 
-- [U-Weißkirchen_Ost.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Wei%C3%9Fkirchen_Ost.secret.md) 

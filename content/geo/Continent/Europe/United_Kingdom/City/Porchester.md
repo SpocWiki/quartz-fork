@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Porchester](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Porchester.md) 
-- [Porchester.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Porchester.internal.md) 
-- [Porchester.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Porchester.protect.md) 
-- [Porchester.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Porchester.private.md) 
-- [Porchester.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Porchester.personal.md) 
-- [Porchester.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Porchester.secret.md) 

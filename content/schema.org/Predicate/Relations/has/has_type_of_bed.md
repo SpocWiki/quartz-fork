@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_type_of_bed](../../../../../_public/schema.org/Predicate/Relations/has/has_type_of_bed.md) 
-- [has_type_of_bed.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_type_of_bed.internal.md) 
-- [has_type_of_bed.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_type_of_bed.protect.md) 
-- [has_type_of_bed.private](../../../../../_private/schema.org/Predicate/Relations/has/has_type_of_bed.private.md) 
-- [has_type_of_bed.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_type_of_bed.personal.md) 
-- [has_type_of_bed.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_type_of_bed.secret.md) 

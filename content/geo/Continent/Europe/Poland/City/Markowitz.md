@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Markowitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Markowitz.md) 
-- [Markowitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Markowitz.internal.md) 
-- [Markowitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Markowitz.protect.md) 
-- [Markowitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Markowitz.private.md) 
-- [Markowitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Markowitz.personal.md) 
-- [Markowitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Markowitz.secret.md) 

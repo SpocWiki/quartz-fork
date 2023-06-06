@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dnjepropetrowsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.md) 
-- [Dnjepropetrowsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.internal.md) 
-- [Dnjepropetrowsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.protect.md) 
-- [Dnjepropetrowsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.private.md) 
-- [Dnjepropetrowsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.personal.md) 
-- [Dnjepropetrowsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Dnjepropetrowsk.secret.md) 

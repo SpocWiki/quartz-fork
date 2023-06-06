@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bochmia](../../../../../../_public/geo/Continent/Europe/Poland/City/Bochmia.md) 
-- [Bochmia.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Bochmia.internal.md) 
-- [Bochmia.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Bochmia.protect.md) 
-- [Bochmia.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Bochmia.private.md) 
-- [Bochmia.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Bochmia.personal.md) 
-- [Bochmia.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Bochmia.secret.md) 

@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Alnair](../../../_public/astro/Star/Alnair.md) 
-- [Alnair.internal](../../../_internal/astro/Star/Alnair.internal.md) 
-- [Alnair.protect](../../../_protect/astro/Star/Alnair.protect.md) 
-- [Alnair.private](../../../_private/astro/Star/Alnair.private.md) 
-- [Alnair.personal](../../../_personal/astro/Star/Alnair.personal.md) 
-- [Alnair.secret](../../../_secret/astro/Star/Alnair.secret.md)
-

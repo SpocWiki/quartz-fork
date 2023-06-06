@@ -45,10 +45,3 @@ The act of accomplishing something via previous efforts. It is an instantaneous 
 
 
 
-## Confidential Links & Embeds: 
-- [achieve_action](../../../../../_public/schema.org/Type/is_a_/action/achieve_action.md) 
-- [achieve_action.internal](../../../../../_internal/schema.org/Type/is_a_/action/achieve_action.internal.md) 
-- [achieve_action.protect](../../../../../_protect/schema.org/Type/is_a_/action/achieve_action.protect.md) 
-- [achieve_action.private](../../../../../_private/schema.org/Type/is_a_/action/achieve_action.private.md) 
-- [achieve_action.personal](../../../../../_personal/schema.org/Type/is_a_/action/achieve_action.personal.md) 
-- [achieve_action.secret](../../../../../_secret/schema.org/Type/is_a_/action/achieve_action.secret.md) 

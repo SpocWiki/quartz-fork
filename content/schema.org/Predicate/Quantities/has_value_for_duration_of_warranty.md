@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_duration_of_warranty](../../../../_public/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.md) 
-- [has_value_for_duration_of_warranty.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.internal.md) 
-- [has_value_for_duration_of_warranty.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.protect.md) 
-- [has_value_for_duration_of_warranty.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.private.md) 
-- [has_value_for_duration_of_warranty.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.personal.md) 
-- [has_value_for_duration_of_warranty.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_duration_of_warranty.secret.md) 

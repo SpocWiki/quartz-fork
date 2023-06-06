@@ -19,10 +19,3 @@ title: Triz-Manufacturing_Precision+Changing_the_color-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Manufacturing_Precision+Changing_the_color-Speed](../../../../_public/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Speed.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Speed.internal.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Speed.protect.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Speed.private.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Speed.personal.md) 
-- [Triz-Manufacturing_Precision+Changing_the_color-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Manufacturing_Precision+Changing_the_color-Speed.secret.md) 

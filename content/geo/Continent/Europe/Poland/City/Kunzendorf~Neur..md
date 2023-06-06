@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kunzendorf~Neur.](../../../../../../_public/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..md) 
-- [Kunzendorf~Neur..internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..internal.md) 
-- [Kunzendorf~Neur..protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..protect.md) 
-- [Kunzendorf~Neur..private](../../../../../../_private/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..private.md) 
-- [Kunzendorf~Neur..personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..personal.md) 
-- [Kunzendorf~Neur..secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Kunzendorf~Neur..secret.md) 

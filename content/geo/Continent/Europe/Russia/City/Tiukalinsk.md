@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tiukalinsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Tiukalinsk.md) 
-- [Tiukalinsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tiukalinsk.internal.md) 
-- [Tiukalinsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tiukalinsk.protect.md) 
-- [Tiukalinsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tiukalinsk.private.md) 
-- [Tiukalinsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tiukalinsk.personal.md) 
-- [Tiukalinsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tiukalinsk.secret.md) 

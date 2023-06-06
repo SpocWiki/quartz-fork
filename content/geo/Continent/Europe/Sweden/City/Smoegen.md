@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Smoegen](../../../../../../_public/geo/Continent/Europe/Sweden/City/Smoegen.md) 
-- [Smoegen.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Smoegen.internal.md) 
-- [Smoegen.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Smoegen.protect.md) 
-- [Smoegen.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Smoegen.private.md) 
-- [Smoegen.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Smoegen.personal.md) 
-- [Smoegen.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Smoegen.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krietern](../../../../../../_public/geo/Continent/Europe/Poland/City/Krietern.md) 
-- [Krietern.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Krietern.internal.md) 
-- [Krietern.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Krietern.protect.md) 
-- [Krietern.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Krietern.private.md) 
-- [Krietern.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Krietern.personal.md) 
-- [Krietern.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Krietern.secret.md) 

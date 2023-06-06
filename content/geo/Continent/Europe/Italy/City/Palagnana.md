@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palagnana](../../../../../../_public/geo/Continent/Europe/Italy/City/Palagnana.md) 
-- [Palagnana.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Palagnana.internal.md) 
-- [Palagnana.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Palagnana.protect.md) 
-- [Palagnana.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Palagnana.private.md) 
-- [Palagnana.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Palagnana.personal.md) 
-- [Palagnana.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Palagnana.secret.md) 

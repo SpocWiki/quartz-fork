@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dirmstein](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dirmstein.md) 
-- [Dirmstein.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dirmstein.internal.md) 
-- [Dirmstein.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dirmstein.protect.md) 
-- [Dirmstein.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dirmstein.private.md) 
-- [Dirmstein.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dirmstein.personal.md) 
-- [Dirmstein.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Dirmstein.secret.md) 

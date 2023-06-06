@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Desserto_di_Massalubrense](../../../../../../_public/geo/Continent/Europe/Italy/City/Desserto_di_Massalubrense.md) 
-- [Desserto_di_Massalubrense.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Desserto_di_Massalubrense.internal.md) 
-- [Desserto_di_Massalubrense.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Desserto_di_Massalubrense.protect.md) 
-- [Desserto_di_Massalubrense.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Desserto_di_Massalubrense.private.md) 
-- [Desserto_di_Massalubrense.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Desserto_di_Massalubrense.personal.md) 
-- [Desserto_di_Massalubrense.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Desserto_di_Massalubrense.secret.md) 

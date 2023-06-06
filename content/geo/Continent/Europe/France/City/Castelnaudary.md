@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Castelnaudary](../../../../../../_public/geo/Continent/Europe/France/City/Castelnaudary.md) 
-- [Castelnaudary.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Castelnaudary.internal.md) 
-- [Castelnaudary.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Castelnaudary.protect.md) 
-- [Castelnaudary.private](../../../../../../_private/geo/Continent/Europe/France/City/Castelnaudary.private.md) 
-- [Castelnaudary.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Castelnaudary.personal.md) 
-- [Castelnaudary.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Castelnaudary.secret.md) 

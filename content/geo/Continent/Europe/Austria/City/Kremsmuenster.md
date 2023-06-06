@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kremsmuenster](../../../../../../_public/geo/Continent/Europe/Austria/City/Kremsmuenster.md) 
-- [Kremsmuenster.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Kremsmuenster.internal.md) 
-- [Kremsmuenster.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Kremsmuenster.protect.md) 
-- [Kremsmuenster.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Kremsmuenster.private.md) 
-- [Kremsmuenster.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Kremsmuenster.personal.md) 
-- [Kremsmuenster.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Kremsmuenster.secret.md) 

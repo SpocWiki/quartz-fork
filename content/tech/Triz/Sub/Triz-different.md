@@ -18,10 +18,3 @@ title: Triz-different
 Make each part of an object fulfill a different and useful function.
 
 
-## Confidential Links & Embeds: 
-- [Triz-different](../../../../_public/tech/Triz/Sub/Triz-different.md) 
-- [Triz-different.internal](../../../../_internal/tech/Triz/Sub/Triz-different.internal.md) 
-- [Triz-different.protect](../../../../_protect/tech/Triz/Sub/Triz-different.protect.md) 
-- [Triz-different.private](../../../../_private/tech/Triz/Sub/Triz-different.private.md) 
-- [Triz-different.personal](../../../../_personal/tech/Triz/Sub/Triz-different.personal.md) 
-- [Triz-different.secret](../../../../_secret/tech/Triz/Sub/Triz-different.secret.md) 

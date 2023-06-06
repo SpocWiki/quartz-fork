@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Motala](../../../../../../_public/geo/Continent/Europe/Sweden/City/Motala.md) 
-- [Motala.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Motala.internal.md) 
-- [Motala.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Motala.protect.md) 
-- [Motala.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Motala.private.md) 
-- [Motala.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Motala.personal.md) 
-- [Motala.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Motala.secret.md) 

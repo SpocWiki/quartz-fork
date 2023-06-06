@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Telaw](../../../../../../_public/geo/Continent/Europe/Russia/City/Telaw.md) 
-- [Telaw.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Telaw.internal.md) 
-- [Telaw.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Telaw.protect.md) 
-- [Telaw.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Telaw.private.md) 
-- [Telaw.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Telaw.personal.md) 
-- [Telaw.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Telaw.secret.md) 

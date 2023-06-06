@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goslawitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Goslawitz.md) 
-- [Goslawitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Goslawitz.internal.md) 
-- [Goslawitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Goslawitz.protect.md) 
-- [Goslawitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Goslawitz.private.md) 
-- [Goslawitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Goslawitz.personal.md) 
-- [Goslawitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Goslawitz.secret.md) 

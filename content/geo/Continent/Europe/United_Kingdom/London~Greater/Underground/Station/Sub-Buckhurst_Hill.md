@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Buckhurst_Hill](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.md) 
-- [Sub-Buckhurst_Hill.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.internal.md) 
-- [Sub-Buckhurst_Hill.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.protect.md) 
-- [Sub-Buckhurst_Hill.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.private.md) 
-- [Sub-Buckhurst_Hill.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.personal.md) 
-- [Sub-Buckhurst_Hill.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Buckhurst_Hill.secret.md) 

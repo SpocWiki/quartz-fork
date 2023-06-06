@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Norrtelje](../../../../../../_public/geo/Continent/Europe/Sweden/City/Norrtelje.md) 
-- [Norrtelje.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Norrtelje.internal.md) 
-- [Norrtelje.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Norrtelje.protect.md) 
-- [Norrtelje.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Norrtelje.private.md) 
-- [Norrtelje.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Norrtelje.personal.md) 
-- [Norrtelje.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Norrtelje.secret.md) 

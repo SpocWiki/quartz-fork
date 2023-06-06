@@ -45,10 +45,3 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 
-## Confidential Links & Embeds: 
-- [flight_reservation](../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/flight_reservation.md) 
-- [flight_reservation.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/flight_reservation.internal.md) 
-- [flight_reservation.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/flight_reservation.protect.md) 
-- [flight_reservation.private](../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/flight_reservation.private.md) 
-- [flight_reservation.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/flight_reservation.personal.md) 
-- [flight_reservation.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/flight_reservation.secret.md) 

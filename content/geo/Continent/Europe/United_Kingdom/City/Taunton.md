@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taunton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Taunton.md) 
-- [Taunton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Taunton.internal.md) 
-- [Taunton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Taunton.protect.md) 
-- [Taunton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Taunton.private.md) 
-- [Taunton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Taunton.personal.md) 
-- [Taunton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Taunton.secret.md) 

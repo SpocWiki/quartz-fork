@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mannersdorf](../../../../../../_public/geo/Continent/Europe/Austria/City/Mannersdorf.md) 
-- [Mannersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Mannersdorf.internal.md) 
-- [Mannersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Mannersdorf.protect.md) 
-- [Mannersdorf.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Mannersdorf.private.md) 
-- [Mannersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Mannersdorf.personal.md) 
-- [Mannersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Mannersdorf.secret.md) 

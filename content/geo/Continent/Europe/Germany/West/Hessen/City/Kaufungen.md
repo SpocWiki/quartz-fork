@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kaufungen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Kaufungen.md) 
-- [Kaufungen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Kaufungen.internal.md) 
-- [Kaufungen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Kaufungen.protect.md) 
-- [Kaufungen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Kaufungen.private.md) 
-- [Kaufungen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Kaufungen.personal.md) 
-- [Kaufungen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Kaufungen.secret.md) 

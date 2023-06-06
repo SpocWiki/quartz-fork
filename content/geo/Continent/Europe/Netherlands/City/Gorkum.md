@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gorkum](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Gorkum.md) 
-- [Gorkum.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Gorkum.internal.md) 
-- [Gorkum.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Gorkum.protect.md) 
-- [Gorkum.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Gorkum.private.md) 
-- [Gorkum.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Gorkum.personal.md) 
-- [Gorkum.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Gorkum.secret.md) 

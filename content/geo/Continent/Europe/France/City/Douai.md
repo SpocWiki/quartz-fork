@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Douai](../../../../../../_public/geo/Continent/Europe/France/City/Douai.md) 
-- [Douai.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Douai.internal.md) 
-- [Douai.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Douai.protect.md) 
-- [Douai.private](../../../../../../_private/geo/Continent/Europe/France/City/Douai.private.md) 
-- [Douai.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Douai.personal.md) 
-- [Douai.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Douai.secret.md) 

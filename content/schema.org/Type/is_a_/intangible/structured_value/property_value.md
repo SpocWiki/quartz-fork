@@ -47,10 +47,3 @@ Always use specific schema.org properties when a) they exist and b) you can popu
 
 
 
-## Confidential Links & Embeds: 
-- [property_value](../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/property_value.md) 
-- [property_value.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/property_value.internal.md) 
-- [property_value.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/property_value.protect.md) 
-- [property_value.private](../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/property_value.private.md) 
-- [property_value.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/property_value.personal.md) 
-- [property_value.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/property_value.secret.md) 

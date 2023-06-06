@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Huelva](../../../../../../_public/geo/Continent/Europe/Spain/City/Huelva.md) 
-- [Huelva.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Huelva.internal.md) 
-- [Huelva.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Huelva.protect.md) 
-- [Huelva.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Huelva.private.md) 
-- [Huelva.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Huelva.personal.md) 
-- [Huelva.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Huelva.secret.md) 

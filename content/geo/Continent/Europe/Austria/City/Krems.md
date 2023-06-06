@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Krems](../../../../../../_public/geo/Continent/Europe/Austria/City/Krems.md) 
-- [Krems.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Krems.internal.md) 
-- [Krems.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Krems.protect.md) 
-- [Krems.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Krems.private.md) 
-- [Krems.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Krems.personal.md) 
-- [Krems.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Krems.secret.md) 

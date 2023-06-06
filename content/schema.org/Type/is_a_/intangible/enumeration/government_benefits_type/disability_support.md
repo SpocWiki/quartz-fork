@@ -47,10 +47,3 @@ DisabilitySupport: this is a benefit for disability support.
 
 
 
-## Confidential Links & Embeds: 
-- [disability_support](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.md) 
-- [disability_support.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.internal.md) 
-- [disability_support.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.protect.md) 
-- [disability_support.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.private.md) 
-- [disability_support.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.personal.md) 
-- [disability_support.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.secret.md) 

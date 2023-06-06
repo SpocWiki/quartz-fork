@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Falsterbo](../../../../../../_public/geo/Continent/Europe/Sweden/City/Falsterbo.md) 
-- [Falsterbo.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Falsterbo.internal.md) 
-- [Falsterbo.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Falsterbo.protect.md) 
-- [Falsterbo.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Falsterbo.private.md) 
-- [Falsterbo.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Falsterbo.personal.md) 
-- [Falsterbo.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Falsterbo.secret.md) 

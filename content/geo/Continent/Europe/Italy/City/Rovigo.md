@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rovigo](../../../../../../_public/geo/Continent/Europe/Italy/City/Rovigo.md) 
-- [Rovigo.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Rovigo.internal.md) 
-- [Rovigo.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Rovigo.protect.md) 
-- [Rovigo.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Rovigo.private.md) 
-- [Rovigo.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Rovigo.personal.md) 
-- [Rovigo.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Rovigo.secret.md) 

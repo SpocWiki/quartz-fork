@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nowaja-Semlja](../../../../../../_public/geo/Continent/Europe/Russia/City/Nowaja-Semlja.md) 
-- [Nowaja-Semlja.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowaja-Semlja.internal.md) 
-- [Nowaja-Semlja.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowaja-Semlja.protect.md) 
-- [Nowaja-Semlja.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Nowaja-Semlja.private.md) 
-- [Nowaja-Semlja.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowaja-Semlja.personal.md) 
-- [Nowaja-Semlja.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowaja-Semlja.secret.md) 

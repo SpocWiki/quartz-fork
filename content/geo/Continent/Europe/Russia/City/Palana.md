@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Palana](../../../../../../_public/geo/Continent/Europe/Russia/City/Palana.md) 
-- [Palana.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Palana.internal.md) 
-- [Palana.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Palana.protect.md) 
-- [Palana.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Palana.private.md) 
-- [Palana.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Palana.personal.md) 
-- [Palana.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Palana.secret.md) 

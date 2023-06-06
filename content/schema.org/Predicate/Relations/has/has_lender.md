@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_lender](../../../../../_public/schema.org/Predicate/Relations/has/has_lender.md) 
-- [has_lender.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_lender.internal.md) 
-- [has_lender.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_lender.protect.md) 
-- [has_lender.private](../../../../../_private/schema.org/Predicate/Relations/has/has_lender.private.md) 
-- [has_lender.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_lender.personal.md) 
-- [has_lender.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_lender.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Difficulty+Segmentation-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Segmentation-Power](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.md) 
-- [Triz-Difficulty+Segmentation-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.internal.md) 
-- [Triz-Difficulty+Segmentation-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.protect.md) 
-- [Triz-Difficulty+Segmentation-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.private.md) 
-- [Triz-Difficulty+Segmentation-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.personal.md) 
-- [Triz-Difficulty+Segmentation-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Segmentation-Power.secret.md) 

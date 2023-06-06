@@ -45,10 +45,3 @@ The act of editing by adding an object to a collection.
 
 
 
-## Confidential Links & Embeds: 
-- [add_action](../../../../../../_public/schema.org/Type/is_a_/action/update_action/add_action.md) 
-- [add_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/update_action/add_action.internal.md) 
-- [add_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/update_action/add_action.protect.md) 
-- [add_action.private](../../../../../../_private/schema.org/Type/is_a_/action/update_action/add_action.private.md) 
-- [add_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/update_action/add_action.personal.md) 
-- [add_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/update_action/add_action.secret.md) 

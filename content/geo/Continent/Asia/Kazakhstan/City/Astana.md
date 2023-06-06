@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Astana](../../../../../../_public/geo/Continent/Asia/Kazakhstan/City/Astana.md) 
-- [Astana.internal](../../../../../../_internal/geo/Continent/Asia/Kazakhstan/City/Astana.internal.md) 
-- [Astana.protect](../../../../../../_protect/geo/Continent/Asia/Kazakhstan/City/Astana.protect.md) 
-- [Astana.private](../../../../../../_private/geo/Continent/Asia/Kazakhstan/City/Astana.private.md) 
-- [Astana.personal](../../../../../../_personal/geo/Continent/Asia/Kazakhstan/City/Astana.personal.md) 
-- [Astana.secret](../../../../../../_secret/geo/Continent/Asia/Kazakhstan/City/Astana.secret.md) 

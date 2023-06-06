@@ -43,10 +43,3 @@ The legal availability status of a medical drug.
 
 
 
-## Confidential Links & Embeds: 
-- [drug_legal_status](../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.md) 
-- [drug_legal_status.internal](../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.internal.md) 
-- [drug_legal_status.protect](../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.protect.md) 
-- [drug_legal_status.private](../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.private.md) 
-- [drug_legal_status.personal](../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.personal.md) 
-- [drug_legal_status.secret](../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_legal_status.secret.md) 

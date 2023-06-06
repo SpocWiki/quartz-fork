@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Montbrison](../../../../../../_public/geo/Continent/Europe/France/City/Montbrison.md) 
-- [Montbrison.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Montbrison.internal.md) 
-- [Montbrison.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Montbrison.protect.md) 
-- [Montbrison.private](../../../../../../_private/geo/Continent/Europe/France/City/Montbrison.private.md) 
-- [Montbrison.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Montbrison.personal.md) 
-- [Montbrison.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Montbrison.secret.md) 

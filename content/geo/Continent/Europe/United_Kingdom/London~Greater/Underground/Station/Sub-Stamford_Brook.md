@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sub-Stamford_Brook](../../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.md) 
-- [Sub-Stamford_Brook.internal](../../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.internal.md) 
-- [Sub-Stamford_Brook.protect](../../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.protect.md) 
-- [Sub-Stamford_Brook.private](../../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.private.md) 
-- [Sub-Stamford_Brook.personal](../../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.personal.md) 
-- [Sub-Stamford_Brook.secret](../../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Underground/Station/Sub-Stamford_Brook.secret.md) 

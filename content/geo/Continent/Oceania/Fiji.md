@@ -131,10 +131,3 @@ markerFolder: ./Fiji/City
 
 
 
-## Confidential Links & Embeds: 
-- [Fiji](../../../../_public/geo/Continent/Oceania/Fiji.md) 
-- [Fiji.internal](../../../../_internal/geo/Continent/Oceania/Fiji.internal.md) 
-- [Fiji.protect](../../../../_protect/geo/Continent/Oceania/Fiji.protect.md) 
-- [Fiji.private](../../../../_private/geo/Continent/Oceania/Fiji.private.md) 
-- [Fiji.personal](../../../../_personal/geo/Continent/Oceania/Fiji.personal.md) 
-- [Fiji.secret](../../../../_secret/geo/Continent/Oceania/Fiji.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Arnswalde](../../../../../../_public/geo/Continent/Europe/Poland/City/Arnswalde.md) 
-- [Arnswalde.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Arnswalde.internal.md) 
-- [Arnswalde.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Arnswalde.protect.md) 
-- [Arnswalde.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Arnswalde.private.md) 
-- [Arnswalde.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Arnswalde.personal.md) 
-- [Arnswalde.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Arnswalde.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Groitzsch](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Groitzsch.md) 
-- [Groitzsch.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Groitzsch.internal.md) 
-- [Groitzsch.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Groitzsch.protect.md) 
-- [Groitzsch.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Groitzsch.private.md) 
-- [Groitzsch.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Groitzsch.personal.md) 
-- [Groitzsch.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Groitzsch.secret.md) 

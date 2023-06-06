@@ -19,10 +19,3 @@ title: Triz-Stability+Rejecting_and_regenerating_parts-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Rejecting_and_regenerating_parts-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.md) 
-- [Triz-Stability+Rejecting_and_regenerating_parts-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.internal.md) 
-- [Triz-Stability+Rejecting_and_regenerating_parts-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.protect.md) 
-- [Triz-Stability+Rejecting_and_regenerating_parts-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.private.md) 
-- [Triz-Stability+Rejecting_and_regenerating_parts-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.personal.md) 
-- [Triz-Stability+Rejecting_and_regenerating_parts-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Rejecting_and_regenerating_parts-Versatility.secret.md) 

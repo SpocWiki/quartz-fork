@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Golli_Vrh](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.md) 
-- [Golli_Vrh.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.internal.md) 
-- [Golli_Vrh.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.protect.md) 
-- [Golli_Vrh.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.private.md) 
-- [Golli_Vrh.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.personal.md) 
-- [Golli_Vrh.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Golli_Vrh.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Loudon](../../../../../../_public/geo/Continent/Europe/France/City/Loudon.md) 
-- [Loudon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Loudon.internal.md) 
-- [Loudon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Loudon.protect.md) 
-- [Loudon.private](../../../../../../_private/geo/Continent/Europe/France/City/Loudon.private.md) 
-- [Loudon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Loudon.personal.md) 
-- [Loudon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Loudon.secret.md) 

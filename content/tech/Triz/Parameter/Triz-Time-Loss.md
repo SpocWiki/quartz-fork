@@ -17,10 +17,3 @@ title: Triz-Time-Loss
 
 Loss of Time
 
-## Confidential Links & Embeds: 
-- [Triz-Time-Loss](../../../../_public/tech/Triz/Parameter/Triz-Time-Loss.md) 
-- [Triz-Time-Loss.internal](../../../../_internal/tech/Triz/Parameter/Triz-Time-Loss.internal.md) 
-- [Triz-Time-Loss.protect](../../../../_protect/tech/Triz/Parameter/Triz-Time-Loss.protect.md) 
-- [Triz-Time-Loss.private](../../../../_private/tech/Triz/Parameter/Triz-Time-Loss.private.md) 
-- [Triz-Time-Loss.personal](../../../../_personal/tech/Triz/Parameter/Triz-Time-Loss.personal.md) 
-- [Triz-Time-Loss.secret](../../../../_secret/tech/Triz/Parameter/Triz-Time-Loss.secret.md) 

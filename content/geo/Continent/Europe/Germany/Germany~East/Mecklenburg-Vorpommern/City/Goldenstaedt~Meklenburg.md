@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goldenstaedt~Meklenburg](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.md) 
-- [Goldenstaedt~Meklenburg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.internal.md) 
-- [Goldenstaedt~Meklenburg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.protect.md) 
-- [Goldenstaedt~Meklenburg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.private.md) 
-- [Goldenstaedt~Meklenburg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.personal.md) 
-- [Goldenstaedt~Meklenburg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Mecklenburg-Vorpommern/City/Goldenstaedt~Meklenburg.secret.md) 

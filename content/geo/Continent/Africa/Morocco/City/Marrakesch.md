@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Marrakesch](../../../../../../_public/geo/Continent/Africa/Morocco/City/Marrakesch.md) 
-- [Marrakesch.internal](../../../../../../_internal/geo/Continent/Africa/Morocco/City/Marrakesch.internal.md) 
-- [Marrakesch.protect](../../../../../../_protect/geo/Continent/Africa/Morocco/City/Marrakesch.protect.md) 
-- [Marrakesch.private](../../../../../../_private/geo/Continent/Africa/Morocco/City/Marrakesch.private.md) 
-- [Marrakesch.personal](../../../../../../_personal/geo/Continent/Africa/Morocco/City/Marrakesch.personal.md) 
-- [Marrakesch.secret](../../../../../../_secret/geo/Continent/Africa/Morocco/City/Marrakesch.secret.md) 

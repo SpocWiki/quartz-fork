@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Calimera](../../../../../../_public/geo/Continent/Europe/Italy/City/Calimera.md) 
-- [Calimera.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Calimera.internal.md) 
-- [Calimera.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Calimera.protect.md) 
-- [Calimera.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Calimera.private.md) 
-- [Calimera.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Calimera.personal.md) 
-- [Calimera.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Calimera.secret.md) 

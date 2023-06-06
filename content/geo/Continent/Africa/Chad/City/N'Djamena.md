@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [N'Djamena](../../../../../../_public/geo/Continent/Africa/Chad/City/N'Djamena.md) 
-- [N'Djamena.internal](../../../../../../_internal/geo/Continent/Africa/Chad/City/N'Djamena.internal.md) 
-- [N'Djamena.protect](../../../../../../_protect/geo/Continent/Africa/Chad/City/N'Djamena.protect.md) 
-- [N'Djamena.private](../../../../../../_private/geo/Continent/Africa/Chad/City/N'Djamena.private.md) 
-- [N'Djamena.personal](../../../../../../_personal/geo/Continent/Africa/Chad/City/N'Djamena.personal.md) 
-- [N'Djamena.secret](../../../../../../_secret/geo/Continent/Africa/Chad/City/N'Djamena.secret.md) 

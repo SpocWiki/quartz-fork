@@ -19,10 +19,3 @@ title: Triz-Power+Universality-moving_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Power+Universality-moving_Energy](../../../../_public/tech/Triz/Contradict/Triz-Power+Universality-moving_Energy.md) 
-- [Triz-Power+Universality-moving_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Power+Universality-moving_Energy.internal.md) 
-- [Triz-Power+Universality-moving_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Power+Universality-moving_Energy.protect.md) 
-- [Triz-Power+Universality-moving_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Power+Universality-moving_Energy.private.md) 
-- [Triz-Power+Universality-moving_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Power+Universality-moving_Energy.personal.md) 
-- [Triz-Power+Universality-moving_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Power+Universality-moving_Energy.secret.md) 

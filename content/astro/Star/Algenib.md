@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Algenib](../../../_public/astro/Star/Algenib.md) 
-- [Algenib.internal](../../../_internal/astro/Star/Algenib.internal.md) 
-- [Algenib.protect](../../../_protect/astro/Star/Algenib.protect.md) 
-- [Algenib.private](../../../_private/astro/Star/Algenib.private.md) 
-- [Algenib.personal](../../../_personal/astro/Star/Algenib.personal.md) 
-- [Algenib.secret](../../../_secret/astro/Star/Algenib.secret.md)
-

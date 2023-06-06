@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Toronto](../../../../../../_public/geo/Continent/North-America/Canada/City/Toronto.md) 
-- [Toronto.internal](../../../../../../_internal/geo/Continent/North-America/Canada/City/Toronto.internal.md) 
-- [Toronto.protect](../../../../../../_protect/geo/Continent/North-America/Canada/City/Toronto.protect.md) 
-- [Toronto.private](../../../../../../_private/geo/Continent/North-America/Canada/City/Toronto.private.md) 
-- [Toronto.personal](../../../../../../_personal/geo/Continent/North-America/Canada/City/Toronto.personal.md) 
-- [Toronto.secret](../../../../../../_secret/geo/Continent/North-America/Canada/City/Toronto.secret.md) 

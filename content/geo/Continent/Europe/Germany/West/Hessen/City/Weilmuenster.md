@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Weilmuenster](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.md) 
-- [Weilmuenster.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.internal.md) 
-- [Weilmuenster.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.protect.md) 
-- [Weilmuenster.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.private.md) 
-- [Weilmuenster.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.personal.md) 
-- [Weilmuenster.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Weilmuenster.secret.md) 

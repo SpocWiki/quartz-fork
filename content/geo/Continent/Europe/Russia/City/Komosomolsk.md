@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Komosomolsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Komosomolsk.md) 
-- [Komosomolsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Komosomolsk.internal.md) 
-- [Komosomolsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Komosomolsk.protect.md) 
-- [Komosomolsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Komosomolsk.private.md) 
-- [Komosomolsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Komosomolsk.personal.md) 
-- [Komosomolsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Komosomolsk.secret.md) 

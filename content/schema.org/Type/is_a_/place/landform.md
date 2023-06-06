@@ -45,10 +45,3 @@ A landform or physical feature.  Landform elements include mountains, plains, la
 
 
 
-## Confidential Links & Embeds: 
-- [landform](../../../../../_public/schema.org/Type/is_a_/place/landform.md) 
-- [landform.internal](../../../../../_internal/schema.org/Type/is_a_/place/landform.internal.md) 
-- [landform.protect](../../../../../_protect/schema.org/Type/is_a_/place/landform.protect.md) 
-- [landform.private](../../../../../_private/schema.org/Type/is_a_/place/landform.private.md) 
-- [landform.personal](../../../../../_personal/schema.org/Type/is_a_/place/landform.personal.md) 
-- [landform.secret](../../../../../_secret/schema.org/Type/is_a_/place/landform.secret.md) 

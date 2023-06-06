@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuenmarkt](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.md) 
-- [Neuenmarkt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.internal.md) 
-- [Neuenmarkt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.protect.md) 
-- [Neuenmarkt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.private.md) 
-- [Neuenmarkt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.personal.md) 
-- [Neuenmarkt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.secret.md) 

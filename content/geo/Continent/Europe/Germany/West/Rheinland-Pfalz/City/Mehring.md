@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mehring](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mehring.md) 
-- [Mehring.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mehring.internal.md) 
-- [Mehring.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mehring.protect.md) 
-- [Mehring.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mehring.private.md) 
-- [Mehring.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mehring.personal.md) 
-- [Mehring.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Mehring.secret.md) 

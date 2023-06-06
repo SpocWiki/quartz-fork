@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Koeln-Kalk](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Kalk.md) 
-- [Koeln-Kalk.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Kalk.internal.md) 
-- [Koeln-Kalk.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Kalk.protect.md) 
-- [Koeln-Kalk.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Kalk.private.md) 
-- [Koeln-Kalk.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Kalk.personal.md) 
-- [Koeln-Kalk.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Koeln-Kalk.secret.md) 

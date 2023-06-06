@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [TV_Piscium](../../../_public/astro/Star/TV_Piscium.md) 
-- [TV_Piscium.internal](../../../_internal/astro/Star/TV_Piscium.internal.md) 
-- [TV_Piscium.protect](../../../_protect/astro/Star/TV_Piscium.protect.md) 
-- [TV_Piscium.private](../../../_private/astro/Star/TV_Piscium.private.md) 
-- [TV_Piscium.personal](../../../_personal/astro/Star/TV_Piscium.personal.md) 
-- [TV_Piscium.secret](../../../_secret/astro/Star/TV_Piscium.secret.md) 

@@ -18,10 +18,3 @@ title: Triz-resonate
 Use an object's resonant frequency.
 
 
-## Confidential Links & Embeds: 
-- [Triz-resonate](../../../../_public/tech/Triz/Sub/Triz-resonate.md) 
-- [Triz-resonate.internal](../../../../_internal/tech/Triz/Sub/Triz-resonate.internal.md) 
-- [Triz-resonate.protect](../../../../_protect/tech/Triz/Sub/Triz-resonate.protect.md) 
-- [Triz-resonate.private](../../../../_private/tech/Triz/Sub/Triz-resonate.private.md) 
-- [Triz-resonate.personal](../../../../_personal/tech/Triz/Sub/Triz-resonate.personal.md) 
-- [Triz-resonate.secret](../../../../_secret/tech/Triz/Sub/Triz-resonate.secret.md) 

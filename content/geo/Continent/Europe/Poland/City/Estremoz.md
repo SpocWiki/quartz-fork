@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Estremoz](../../../../../../_public/geo/Continent/Europe/Poland/City/Estremoz.md) 
-- [Estremoz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Estremoz.internal.md) 
-- [Estremoz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Estremoz.protect.md) 
-- [Estremoz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Estremoz.private.md) 
-- [Estremoz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Estremoz.personal.md) 
-- [Estremoz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Estremoz.secret.md) 

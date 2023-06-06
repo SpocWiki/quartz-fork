@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pisa](../../../../../../_public/geo/Continent/Europe/Italy/City/Pisa.md) 
-- [Pisa.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Pisa.internal.md) 
-- [Pisa.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Pisa.protect.md) 
-- [Pisa.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Pisa.private.md) 
-- [Pisa.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Pisa.personal.md) 
-- [Pisa.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Pisa.secret.md) 

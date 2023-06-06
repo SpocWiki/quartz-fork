@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ulricehamm](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ulricehamm.md) 
-- [Ulricehamm.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ulricehamm.internal.md) 
-- [Ulricehamm.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ulricehamm.protect.md) 
-- [Ulricehamm.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ulricehamm.private.md) 
-- [Ulricehamm.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ulricehamm.personal.md) 
-- [Ulricehamm.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ulricehamm.secret.md) 

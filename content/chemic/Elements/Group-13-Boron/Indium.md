@@ -36,10 +36,3 @@ title: Indium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indium)
 
-## Confidential Links & Embeds: 
-- [Indium](../../../../_public/chemic/Elements/Group-13-Boron/Indium.md) 
-- [Indium.internal](../../../../_internal/chemic/Elements/Group-13-Boron/Indium.internal.md) 
-- [Indium.protect](../../../../_protect/chemic/Elements/Group-13-Boron/Indium.protect.md) 
-- [Indium.private](../../../../_private/chemic/Elements/Group-13-Boron/Indium.private.md) 
-- [Indium.personal](../../../../_personal/chemic/Elements/Group-13-Boron/Indium.personal.md) 
-- [Indium.secret](../../../../_secret/chemic/Elements/Group-13-Boron/Indium.secret.md) 

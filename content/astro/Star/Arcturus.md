@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Arcturus](../../../_public/astro/Star/Arcturus.md) 
-- [Arcturus.internal](../../../_internal/astro/Star/Arcturus.internal.md) 
-- [Arcturus.protect](../../../_protect/astro/Star/Arcturus.protect.md) 
-- [Arcturus.private](../../../_private/astro/Star/Arcturus.private.md) 
-- [Arcturus.personal](../../../_personal/astro/Star/Arcturus.personal.md) 
-- [Arcturus.secret](../../../_secret/astro/Star/Arcturus.secret.md)
-

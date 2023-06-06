@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Silistria](../../../../../../_public/geo/Continent/Europe/Romania/City/Silistria.md) 
-- [Silistria.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Silistria.internal.md) 
-- [Silistria.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Silistria.protect.md) 
-- [Silistria.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Silistria.private.md) 
-- [Silistria.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Silistria.personal.md) 
-- [Silistria.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Silistria.secret.md) 

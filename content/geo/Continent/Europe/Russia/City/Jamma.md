@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jamma](../../../../../../_public/geo/Continent/Europe/Russia/City/Jamma.md) 
-- [Jamma.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Jamma.internal.md) 
-- [Jamma.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Jamma.protect.md) 
-- [Jamma.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Jamma.private.md) 
-- [Jamma.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Jamma.personal.md) 
-- [Jamma.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Jamma.secret.md) 

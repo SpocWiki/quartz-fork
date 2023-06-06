@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Beroun](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Beroun.md) 
-- [Beroun.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Beroun.internal.md) 
-- [Beroun.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Beroun.protect.md) 
-- [Beroun.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Beroun.private.md) 
-- [Beroun.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Beroun.personal.md) 
-- [Beroun.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Beroun.secret.md) 

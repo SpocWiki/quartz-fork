@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Muessen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Muessen.md) 
-- [Muessen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Muessen.internal.md) 
-- [Muessen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Muessen.protect.md) 
-- [Muessen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Muessen.private.md) 
-- [Muessen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Muessen.personal.md) 
-- [Muessen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Muessen.secret.md) 

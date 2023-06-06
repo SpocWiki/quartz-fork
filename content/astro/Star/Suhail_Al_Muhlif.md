@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Suhail_Al_Muhlif](../../../_public/astro/Star/Suhail_Al_Muhlif.md) 
-- [Suhail_Al_Muhlif.internal](../../../_internal/astro/Star/Suhail_Al_Muhlif.internal.md) 
-- [Suhail_Al_Muhlif.protect](../../../_protect/astro/Star/Suhail_Al_Muhlif.protect.md) 
-- [Suhail_Al_Muhlif.private](../../../_private/astro/Star/Suhail_Al_Muhlif.private.md) 
-- [Suhail_Al_Muhlif.personal](../../../_personal/astro/Star/Suhail_Al_Muhlif.personal.md) 
-- [Suhail_Al_Muhlif.secret](../../../_secret/astro/Star/Suhail_Al_Muhlif.secret.md) 

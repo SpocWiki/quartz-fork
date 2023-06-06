@@ -19,10 +19,3 @@ title: Triz-Reliability+Prior_action-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Prior_action-Stress](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.md) 
-- [Triz-Reliability+Prior_action-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.internal.md) 
-- [Triz-Reliability+Prior_action-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.protect.md) 
-- [Triz-Reliability+Prior_action-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.private.md) 
-- [Triz-Reliability+Prior_action-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.personal.md) 
-- [Triz-Reliability+Prior_action-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Prior_action-Stress.secret.md) 

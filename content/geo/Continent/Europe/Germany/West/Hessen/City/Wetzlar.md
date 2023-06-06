@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wetzlar](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Wetzlar.md) 
-- [Wetzlar.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Wetzlar.internal.md) 
-- [Wetzlar.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Wetzlar.protect.md) 
-- [Wetzlar.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Wetzlar.private.md) 
-- [Wetzlar.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Wetzlar.personal.md) 
-- [Wetzlar.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Wetzlar.secret.md) 

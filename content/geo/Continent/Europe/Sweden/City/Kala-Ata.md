@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kala-Ata](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kala-Ata.md) 
-- [Kala-Ata.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kala-Ata.internal.md) 
-- [Kala-Ata.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kala-Ata.protect.md) 
-- [Kala-Ata.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kala-Ata.private.md) 
-- [Kala-Ata.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kala-Ata.personal.md) 
-- [Kala-Ata.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kala-Ata.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-generated_harm+Rushing_through-Energy-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Rushing_through-Energy-Loss](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Energy-Loss.md) 
-- [Triz-generated_harm+Rushing_through-Energy-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Energy-Loss.internal.md) 
-- [Triz-generated_harm+Rushing_through-Energy-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Energy-Loss.protect.md) 
-- [Triz-generated_harm+Rushing_through-Energy-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Energy-Loss.private.md) 
-- [Triz-generated_harm+Rushing_through-Energy-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Energy-Loss.personal.md) 
-- [Triz-generated_harm+Rushing_through-Energy-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Rushing_through-Energy-Loss.secret.md) 

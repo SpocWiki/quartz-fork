@@ -43,10 +43,3 @@ Car repair business.
 
 
 
-## Confidential Links & Embeds: 
-- [auto_repair](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.md) 
-- [auto_repair.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.internal.md) 
-- [auto_repair.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.protect.md) 
-- [auto_repair.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.private.md) 
-- [auto_repair.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.personal.md) 
-- [auto_repair.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.secret.md) 

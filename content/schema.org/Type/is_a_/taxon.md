@@ -45,10 +45,3 @@ A set of organisms asserted to represent a natural cohesive biological unit.
 
 
 
-## Confidential Links & Embeds: 
-- [taxon](../../../../_public/schema.org/Type/is_a_/taxon.md) 
-- [taxon.internal](../../../../_internal/schema.org/Type/is_a_/taxon.internal.md) 
-- [taxon.protect](../../../../_protect/schema.org/Type/is_a_/taxon.protect.md) 
-- [taxon.private](../../../../_private/schema.org/Type/is_a_/taxon.private.md) 
-- [taxon.personal](../../../../_personal/schema.org/Type/is_a_/taxon.personal.md) 
-- [taxon.secret](../../../../_secret/schema.org/Type/is_a_/taxon.secret.md) 

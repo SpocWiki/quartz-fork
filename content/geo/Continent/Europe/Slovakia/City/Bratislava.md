@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bratislava](../../../../../../_public/geo/Continent/Europe/Slovakia/City/Bratislava.md) 
-- [Bratislava.internal](../../../../../../_internal/geo/Continent/Europe/Slovakia/City/Bratislava.internal.md) 
-- [Bratislava.protect](../../../../../../_protect/geo/Continent/Europe/Slovakia/City/Bratislava.protect.md) 
-- [Bratislava.private](../../../../../../_private/geo/Continent/Europe/Slovakia/City/Bratislava.private.md) 
-- [Bratislava.personal](../../../../../../_personal/geo/Continent/Europe/Slovakia/City/Bratislava.personal.md) 
-- [Bratislava.secret](../../../../../../_secret/geo/Continent/Europe/Slovakia/City/Bratislava.secret.md) 

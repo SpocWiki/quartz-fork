@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bachtel](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Bachtel.md) 
-- [Bachtel.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Bachtel.internal.md) 
-- [Bachtel.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Bachtel.protect.md) 
-- [Bachtel.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Bachtel.private.md) 
-- [Bachtel.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Bachtel.personal.md) 
-- [Bachtel.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Bachtel.secret.md) 

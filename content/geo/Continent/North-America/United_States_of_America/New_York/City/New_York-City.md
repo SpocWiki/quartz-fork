@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [New_York-City](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/New_York/City/New_York-City.md) 
-- [New_York-City.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/New_York/City/New_York-City.internal.md) 
-- [New_York-City.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/New_York/City/New_York-City.protect.md) 
-- [New_York-City.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/New_York/City/New_York-City.private.md) 
-- [New_York-City.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/New_York/City/New_York-City.personal.md) 
-- [New_York-City.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/New_York/City/New_York-City.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-10307+22221-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-10307+22221-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-10307+22221-stationary_Weight.md) 
-- [Triz-10307+22221-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-10307+22221-stationary_Weight.internal.md) 
-- [Triz-10307+22221-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-10307+22221-stationary_Weight.protect.md) 
-- [Triz-10307+22221-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-10307+22221-stationary_Weight.private.md) 
-- [Triz-10307+22221-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-10307+22221-stationary_Weight.personal.md) 
-- [Triz-10307+22221-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-10307+22221-stationary_Weight.secret.md) 

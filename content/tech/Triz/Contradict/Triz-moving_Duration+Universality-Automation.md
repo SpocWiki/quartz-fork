@@ -19,10 +19,3 @@ title: Triz-moving_Duration+Universality-Automation
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Duration+Universality-Automation](../../../../_public/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.md) 
-- [Triz-moving_Duration+Universality-Automation.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.internal.md) 
-- [Triz-moving_Duration+Universality-Automation.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.protect.md) 
-- [Triz-moving_Duration+Universality-Automation.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.private.md) 
-- [Triz-moving_Duration+Universality-Automation.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.personal.md) 
-- [Triz-moving_Duration+Universality-Automation.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Duration+Universality-Automation.secret.md) 

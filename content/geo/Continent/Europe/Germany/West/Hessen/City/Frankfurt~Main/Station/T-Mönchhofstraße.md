@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Mönchhofstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%B6nchhofstra%C3%9Fe.md) 
-- [T-Mönchhofstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%B6nchhofstra%C3%9Fe.internal.md) 
-- [T-Mönchhofstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%B6nchhofstra%C3%9Fe.protect.md) 
-- [T-Mönchhofstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%B6nchhofstra%C3%9Fe.private.md) 
-- [T-Mönchhofstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%B6nchhofstra%C3%9Fe.personal.md) 
-- [T-Mönchhofstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-M%C3%B6nchhofstra%C3%9Fe.secret.md) 

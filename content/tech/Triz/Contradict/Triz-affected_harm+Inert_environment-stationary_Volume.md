@@ -19,10 +19,3 @@ title: Triz-affected_harm+Inert_environment-stationary_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Inert_environment-stationary_Volume](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-stationary_Volume.md) 
-- [Triz-affected_harm+Inert_environment-stationary_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-stationary_Volume.internal.md) 
-- [Triz-affected_harm+Inert_environment-stationary_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-stationary_Volume.protect.md) 
-- [Triz-affected_harm+Inert_environment-stationary_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-stationary_Volume.private.md) 
-- [Triz-affected_harm+Inert_environment-stationary_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-stationary_Volume.personal.md) 
-- [Triz-affected_harm+Inert_environment-stationary_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Inert_environment-stationary_Volume.secret.md) 

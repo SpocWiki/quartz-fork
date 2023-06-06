@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stalinir](../../../../../../_public/geo/Continent/Europe/Russia/City/Stalinir.md) 
-- [Stalinir.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Stalinir.internal.md) 
-- [Stalinir.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Stalinir.protect.md) 
-- [Stalinir.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Stalinir.private.md) 
-- [Stalinir.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Stalinir.personal.md) 
-- [Stalinir.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Stalinir.secret.md) 

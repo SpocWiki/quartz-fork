@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Jägerallee](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-J%C3%A4gerallee.md) 
-- [T-Jägerallee.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-J%C3%A4gerallee.internal.md) 
-- [T-Jägerallee.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-J%C3%A4gerallee.protect.md) 
-- [T-Jägerallee.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-J%C3%A4gerallee.private.md) 
-- [T-Jägerallee.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-J%C3%A4gerallee.personal.md) 
-- [T-Jägerallee.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-J%C3%A4gerallee.secret.md) 

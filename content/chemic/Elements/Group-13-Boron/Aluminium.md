@@ -40,10 +40,3 @@ SpocWebEntityId: 9523
 
 
 
-## Confidential Links & Embeds: 
-- [Aluminium](../../../../_public/chemic/Elements/Group-13-Boron/Aluminium.md) 
-- [Aluminium.internal](../../../../_internal/chemic/Elements/Group-13-Boron/Aluminium.internal.md) 
-- [Aluminium.protect](../../../../_protect/chemic/Elements/Group-13-Boron/Aluminium.protect.md) 
-- [Aluminium.private](../../../../_private/chemic/Elements/Group-13-Boron/Aluminium.private.md) 
-- [Aluminium.personal](../../../../_personal/chemic/Elements/Group-13-Boron/Aluminium.personal.md) 
-- [Aluminium.secret](../../../../_secret/chemic/Elements/Group-13-Boron/Aluminium.secret.md) 

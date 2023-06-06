@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Blackburn](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Blackburn.md) 
-- [Blackburn.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Blackburn.internal.md) 
-- [Blackburn.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Blackburn.protect.md) 
-- [Blackburn.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Blackburn.private.md) 
-- [Blackburn.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Blackburn.personal.md) 
-- [Blackburn.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Blackburn.secret.md) 

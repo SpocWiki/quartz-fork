@@ -47,10 +47,3 @@ Predicated describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_security_clearance_requirement](../../../../_public/schema.org/Predicate/Texts/has_security_clearance_requirement.md) 
-- [has_security_clearance_requirement.internal](../../../../_internal/schema.org/Predicate/Texts/has_security_clearance_requirement.internal.md) 
-- [has_security_clearance_requirement.protect](../../../../_protect/schema.org/Predicate/Texts/has_security_clearance_requirement.protect.md) 
-- [has_security_clearance_requirement.private](../../../../_private/schema.org/Predicate/Texts/has_security_clearance_requirement.private.md) 
-- [has_security_clearance_requirement.personal](../../../../_personal/schema.org/Predicate/Texts/has_security_clearance_requirement.personal.md) 
-- [has_security_clearance_requirement.secret](../../../../_secret/schema.org/Predicate/Texts/has_security_clearance_requirement.secret.md) 

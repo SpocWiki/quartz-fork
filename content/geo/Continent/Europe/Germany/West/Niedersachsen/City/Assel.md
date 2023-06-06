@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Assel](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Assel.md) 
-- [Assel.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Assel.internal.md) 
-- [Assel.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Assel.protect.md) 
-- [Assel.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Assel.private.md) 
-- [Assel.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Assel.personal.md) 
-- [Assel.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Assel.secret.md) 

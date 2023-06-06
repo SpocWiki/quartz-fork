@@ -19,10 +19,3 @@ title: Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength](../../../../_public/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.md) 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.internal.md) 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.protect.md) 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.private.md) 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.personal.md) 
-- [Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-Measurement_Accuracy+Replacement_of_a_mechanical_system-Strength.secret.md) 

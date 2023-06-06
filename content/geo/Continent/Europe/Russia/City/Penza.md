@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Penza](../../../../../../_public/geo/Continent/Europe/Russia/City/Penza.md) 
-- [Penza.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Penza.internal.md) 
-- [Penza.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Penza.protect.md) 
-- [Penza.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Penza.private.md) 
-- [Penza.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Penza.personal.md) 
-- [Penza.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Penza.secret.md) 

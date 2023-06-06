@@ -41,10 +41,3 @@ title: Chlorine
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chlorine)
 
-## Confidential Links & Embeds: 
-- [Chlorine](../../../../_public/chemic/Elements/Group-17-Halogene/Chlorine.md) 
-- [Chlorine.internal](../../../../_internal/chemic/Elements/Group-17-Halogene/Chlorine.internal.md) 
-- [Chlorine.protect](../../../../_protect/chemic/Elements/Group-17-Halogene/Chlorine.protect.md) 
-- [Chlorine.private](../../../../_private/chemic/Elements/Group-17-Halogene/Chlorine.private.md) 
-- [Chlorine.personal](../../../../_personal/chemic/Elements/Group-17-Halogene/Chlorine.personal.md) 
-- [Chlorine.secret](../../../../_secret/chemic/Elements/Group-17-Halogene/Chlorine.secret.md) 

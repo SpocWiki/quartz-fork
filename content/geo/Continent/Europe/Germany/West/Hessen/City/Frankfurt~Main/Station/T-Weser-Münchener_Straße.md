@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Weser-Münchener_Straße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-M%C3%BCnchener_Stra%C3%9Fe.md) 
-- [T-Weser-Münchener_Straße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-M%C3%BCnchener_Stra%C3%9Fe.internal.md) 
-- [T-Weser-Münchener_Straße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-M%C3%BCnchener_Stra%C3%9Fe.protect.md) 
-- [T-Weser-Münchener_Straße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-M%C3%BCnchener_Stra%C3%9Fe.private.md) 
-- [T-Weser-Münchener_Straße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-M%C3%BCnchener_Stra%C3%9Fe.personal.md) 
-- [T-Weser-Münchener_Straße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Weser-M%C3%BCnchener_Stra%C3%9Fe.secret.md) 

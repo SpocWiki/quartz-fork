@@ -42,10 +42,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_contraindication](../../../../../_public/schema.org/Predicate/Relations/has/has_contraindication.md) 
-- [has_contraindication.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_contraindication.internal.md) 
-- [has_contraindication.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_contraindication.protect.md) 
-- [has_contraindication.private](../../../../../_private/schema.org/Predicate/Relations/has/has_contraindication.private.md) 
-- [has_contraindication.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_contraindication.personal.md) 
-- [has_contraindication.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_contraindication.secret.md) 

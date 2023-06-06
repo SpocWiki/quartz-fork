@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vejle](../../../../../../_public/geo/Continent/Europe/Denmark/City/Vejle.md) 
-- [Vejle.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Vejle.internal.md) 
-- [Vejle.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Vejle.protect.md) 
-- [Vejle.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Vejle.private.md) 
-- [Vejle.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Vejle.personal.md) 
-- [Vejle.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Vejle.secret.md) 

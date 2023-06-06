@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Toestamaa](../../../../../../_public/geo/Continent/Europe/Russia/City/Toestamaa.md) 
-- [Toestamaa.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Toestamaa.internal.md) 
-- [Toestamaa.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Toestamaa.protect.md) 
-- [Toestamaa.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Toestamaa.private.md) 
-- [Toestamaa.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Toestamaa.personal.md) 
-- [Toestamaa.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Toestamaa.secret.md) 

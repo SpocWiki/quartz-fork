@@ -130,10 +130,3 @@ markerFolder: ./Brunei/City
 
 
 
-## Confidential Links & Embeds: 
-- [Brunei](../../../../_public/geo/Continent/Oceania/Brunei.md) 
-- [Brunei.internal](../../../../_internal/geo/Continent/Oceania/Brunei.internal.md) 
-- [Brunei.protect](../../../../_protect/geo/Continent/Oceania/Brunei.protect.md) 
-- [Brunei.private](../../../../_private/geo/Continent/Oceania/Brunei.private.md) 
-- [Brunei.personal](../../../../_personal/geo/Continent/Oceania/Brunei.personal.md) 
-- [Brunei.secret](../../../../_secret/geo/Continent/Oceania/Brunei.secret.md) 

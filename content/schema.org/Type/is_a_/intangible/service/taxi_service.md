@@ -45,10 +45,3 @@ A service for a vehicle for hire with a driver for local travel. Fares are usual
 
 
 
-## Confidential Links & Embeds: 
-- [taxi_service](../../../../../../_public/schema.org/Type/is_a_/intangible/service/taxi_service.md) 
-- [taxi_service.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/service/taxi_service.internal.md) 
-- [taxi_service.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/service/taxi_service.protect.md) 
-- [taxi_service.private](../../../../../../_private/schema.org/Type/is_a_/intangible/service/taxi_service.private.md) 
-- [taxi_service.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/service/taxi_service.personal.md) 
-- [taxi_service.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/service/taxi_service.secret.md) 

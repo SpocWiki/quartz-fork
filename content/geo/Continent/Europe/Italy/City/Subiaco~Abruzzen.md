@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Subiaco~Abruzzen](../../../../../../_public/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.md) 
-- [Subiaco~Abruzzen.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.internal.md) 
-- [Subiaco~Abruzzen.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.protect.md) 
-- [Subiaco~Abruzzen.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.private.md) 
-- [Subiaco~Abruzzen.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.personal.md) 
-- [Subiaco~Abruzzen.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Subiaco~Abruzzen.secret.md) 

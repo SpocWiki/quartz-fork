@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Jueterbog](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Jueterbog.md) 
-- [Jueterbog.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Jueterbog.internal.md) 
-- [Jueterbog.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Jueterbog.protect.md) 
-- [Jueterbog.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Jueterbog.private.md) 
-- [Jueterbog.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Jueterbog.personal.md) 
-- [Jueterbog.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Jueterbog.secret.md) 

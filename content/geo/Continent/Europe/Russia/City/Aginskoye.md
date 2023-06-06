@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aginskoye](../../../../../../_public/geo/Continent/Europe/Russia/City/Aginskoye.md) 
-- [Aginskoye.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Aginskoye.internal.md) 
-- [Aginskoye.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Aginskoye.protect.md) 
-- [Aginskoye.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Aginskoye.private.md) 
-- [Aginskoye.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Aginskoye.personal.md) 
-- [Aginskoye.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Aginskoye.secret.md) 

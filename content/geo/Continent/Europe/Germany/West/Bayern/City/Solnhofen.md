@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Solnhofen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Solnhofen.md) 
-- [Solnhofen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Solnhofen.internal.md) 
-- [Solnhofen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Solnhofen.protect.md) 
-- [Solnhofen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Solnhofen.private.md) 
-- [Solnhofen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Solnhofen.personal.md) 
-- [Solnhofen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Solnhofen.secret.md) 

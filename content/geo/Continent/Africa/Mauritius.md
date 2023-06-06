@@ -124,7 +124,7 @@ markerFolder: ./Mauritius/City
 
 ![450](geo/Continent/Africa/Mauritius/Coat_of_arms_of_Mauritius.svg)
 
-![Anthem-Mauritius](xLarge/National-Anthem/Anthem-Mauritius.mp3)
+[Anthem-Mauritius](xLarge/National-Anthem/Anthem-Mauritius.mp3)
 
 ![350](geo/Continent/Africa/Mauritius/Flag_of_Mauritius.svg)
 
@@ -135,10 +135,3 @@ markerFolder: ./Mauritius/City
 
 
 
-## Confidential Links & Embeds: 
-- [Mauritius](../../../../_public/geo/Continent/Africa/Mauritius.md) 
-- [Mauritius.internal](../../../../_internal/geo/Continent/Africa/Mauritius.internal.md) 
-- [Mauritius.protect](../../../../_protect/geo/Continent/Africa/Mauritius.protect.md) 
-- [Mauritius.private](../../../../_private/geo/Continent/Africa/Mauritius.private.md) 
-- [Mauritius.personal](../../../../_personal/geo/Continent/Africa/Mauritius.personal.md) 
-- [Mauritius.secret](../../../../_secret/geo/Continent/Africa/Mauritius.secret.md) 

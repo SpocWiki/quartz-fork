@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Chester](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Chester.md) 
-- [Chester.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Chester.internal.md) 
-- [Chester.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Chester.protect.md) 
-- [Chester.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Chester.private.md) 
-- [Chester.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Chester.personal.md) 
-- [Chester.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Chester.secret.md) 

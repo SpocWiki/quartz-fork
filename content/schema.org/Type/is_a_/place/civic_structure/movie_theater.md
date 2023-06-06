@@ -43,10 +43,3 @@ A movie theater.
 
 
 
-## Confidential Links & Embeds: 
-- [movie_theater](../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/movie_theater.md) 
-- [movie_theater.internal](../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/movie_theater.internal.md) 
-- [movie_theater.protect](../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/movie_theater.protect.md) 
-- [movie_theater.private](../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/movie_theater.private.md) 
-- [movie_theater.personal](../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/movie_theater.personal.md) 
-- [movie_theater.secret](../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/movie_theater.secret.md) 

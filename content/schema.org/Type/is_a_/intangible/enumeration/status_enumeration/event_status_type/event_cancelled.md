@@ -45,10 +45,3 @@ The event has been cancelled. If the event has multiple startDate values, all ar
 
 
 
-## Confidential Links & Embeds: 
-- [event_cancelled](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.md) 
-- [event_cancelled.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.internal.md) 
-- [event_cancelled.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.protect.md) 
-- [event_cancelled.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.private.md) 
-- [event_cancelled.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.personal.md) 
-- [event_cancelled.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.secret.md) 

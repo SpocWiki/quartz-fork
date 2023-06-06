@@ -34,10 +34,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sutton](../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.md) 
-- [Sutton.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.internal.md) 
-- [Sutton.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.protect.md) 
-- [Sutton.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.private.md) 
-- [Sutton.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.personal.md) 
-- [Sutton.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Sutton.secret.md) 

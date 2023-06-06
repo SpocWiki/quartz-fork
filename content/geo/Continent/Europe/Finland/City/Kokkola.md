@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kokkola](../../../../../../_public/geo/Continent/Europe/Finland/City/Kokkola.md) 
-- [Kokkola.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Kokkola.internal.md) 
-- [Kokkola.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Kokkola.protect.md) 
-- [Kokkola.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Kokkola.private.md) 
-- [Kokkola.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Kokkola.personal.md) 
-- [Kokkola.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Kokkola.secret.md) 

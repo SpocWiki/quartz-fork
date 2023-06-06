@@ -49,10 +49,3 @@ Is [sub_property_of::performTime]
 Has [sub_properties::]
 
 
-## Confidential Links & Embeds: 
-- [has_duration_of_cooking](../../../../_public/schema.org/Predicate/Durations/has_duration_of_cooking.md) 
-- [has_duration_of_cooking.internal](../../../../_internal/schema.org/Predicate/Durations/has_duration_of_cooking.internal.md) 
-- [has_duration_of_cooking.protect](../../../../_protect/schema.org/Predicate/Durations/has_duration_of_cooking.protect.md) 
-- [has_duration_of_cooking.private](../../../../_private/schema.org/Predicate/Durations/has_duration_of_cooking.private.md) 
-- [has_duration_of_cooking.personal](../../../../_personal/schema.org/Predicate/Durations/has_duration_of_cooking.personal.md) 
-- [has_duration_of_cooking.secret](../../../../_secret/schema.org/Predicate/Durations/has_duration_of_cooking.secret.md) 

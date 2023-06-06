@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Neuteich](../../../../../../_public/geo/Continent/Europe/Poland/City/Neuteich.md) 
-- [Neuteich.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Neuteich.internal.md) 
-- [Neuteich.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Neuteich.protect.md) 
-- [Neuteich.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Neuteich.private.md) 
-- [Neuteich.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Neuteich.personal.md) 
-- [Neuteich.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Neuteich.secret.md) 

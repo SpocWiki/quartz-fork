@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Coatbridge](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Coatbridge.md) 
-- [Coatbridge.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Coatbridge.internal.md) 
-- [Coatbridge.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Coatbridge.protect.md) 
-- [Coatbridge.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Coatbridge.private.md) 
-- [Coatbridge.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Coatbridge.personal.md) 
-- [Coatbridge.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Coatbridge.secret.md) 

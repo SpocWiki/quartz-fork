@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spassk~Rjaesan](../../../../../../_public/geo/Continent/Europe/Russia/City/Spassk~Rjaesan.md) 
-- [Spassk~Rjaesan.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Spassk~Rjaesan.internal.md) 
-- [Spassk~Rjaesan.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Spassk~Rjaesan.protect.md) 
-- [Spassk~Rjaesan.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Spassk~Rjaesan.private.md) 
-- [Spassk~Rjaesan.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Spassk~Rjaesan.personal.md) 
-- [Spassk~Rjaesan.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Spassk~Rjaesan.secret.md) 

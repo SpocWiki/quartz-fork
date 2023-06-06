@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tscherkassy](../../../../../../_public/geo/Continent/Europe/Russia/City/Tscherkassy.md) 
-- [Tscherkassy.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tscherkassy.internal.md) 
-- [Tscherkassy.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tscherkassy.protect.md) 
-- [Tscherkassy.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tscherkassy.private.md) 
-- [Tscherkassy.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tscherkassy.personal.md) 
-- [Tscherkassy.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tscherkassy.secret.md) 

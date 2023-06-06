@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Salekhard](../../../../../../_public/geo/Continent/Europe/Russia/City/Salekhard.md) 
-- [Salekhard.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Salekhard.internal.md) 
-- [Salekhard.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Salekhard.protect.md) 
-- [Salekhard.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Salekhard.private.md) 
-- [Salekhard.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Salekhard.personal.md) 
-- [Salekhard.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Salekhard.secret.md) 

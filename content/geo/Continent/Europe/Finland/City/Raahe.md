@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Raahe](../../../../../../_public/geo/Continent/Europe/Finland/City/Raahe.md) 
-- [Raahe.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Raahe.internal.md) 
-- [Raahe.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Raahe.protect.md) 
-- [Raahe.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Raahe.private.md) 
-- [Raahe.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Raahe.personal.md) 
-- [Raahe.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Raahe.secret.md) 

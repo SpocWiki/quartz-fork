@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tschardschui](../../../../../../_public/geo/Continent/Europe/Russia/City/Tschardschui.md) 
-- [Tschardschui.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschardschui.internal.md) 
-- [Tschardschui.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschardschui.protect.md) 
-- [Tschardschui.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tschardschui.private.md) 
-- [Tschardschui.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschardschui.personal.md) 
-- [Tschardschui.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschardschui.secret.md) 

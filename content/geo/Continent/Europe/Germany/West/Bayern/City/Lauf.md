@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lauf](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Lauf.md) 
-- [Lauf.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Lauf.internal.md) 
-- [Lauf.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Lauf.protect.md) 
-- [Lauf.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Lauf.private.md) 
-- [Lauf.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Lauf.personal.md) 
-- [Lauf.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Lauf.secret.md) 

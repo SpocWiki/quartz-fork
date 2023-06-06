@@ -43,10 +43,3 @@ A travel agency.
 
 
 
-## Confidential Links & Embeds: 
-- [travel_agency](../../../../../../_public/schema.org/Type/is_a_/organization/local_business/travel_agency.md) 
-- [travel_agency.internal](../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/travel_agency.internal.md) 
-- [travel_agency.protect](../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/travel_agency.protect.md) 
-- [travel_agency.private](../../../../../../_private/schema.org/Type/is_a_/organization/local_business/travel_agency.private.md) 
-- [travel_agency.personal](../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/travel_agency.personal.md) 
-- [travel_agency.secret](../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/travel_agency.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cernier](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Cernier.md) 
-- [Cernier.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Cernier.internal.md) 
-- [Cernier.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Cernier.protect.md) 
-- [Cernier.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Cernier.private.md) 
-- [Cernier.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Cernier.personal.md) 
-- [Cernier.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Cernier.secret.md) 

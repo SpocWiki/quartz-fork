@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Rothenkirchen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Rothenkirchen.md) 
-- [Rothenkirchen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenkirchen.internal.md) 
-- [Rothenkirchen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rothenkirchen.protect.md) 
-- [Rothenkirchen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rothenkirchen.private.md) 
-- [Rothenkirchen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenkirchen.personal.md) 
-- [Rothenkirchen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rothenkirchen.secret.md) 

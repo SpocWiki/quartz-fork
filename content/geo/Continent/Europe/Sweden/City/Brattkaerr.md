@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Brattkaerr](../../../../../../_public/geo/Continent/Europe/Sweden/City/Brattkaerr.md) 
-- [Brattkaerr.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Brattkaerr.internal.md) 
-- [Brattkaerr.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Brattkaerr.protect.md) 
-- [Brattkaerr.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Brattkaerr.private.md) 
-- [Brattkaerr.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Brattkaerr.personal.md) 
-- [Brattkaerr.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Brattkaerr.secret.md) 

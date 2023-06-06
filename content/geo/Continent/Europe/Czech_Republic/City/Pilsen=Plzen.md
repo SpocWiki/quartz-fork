@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Pilsen=Plzen](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.md) 
-- [Pilsen=Plzen.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.internal.md) 
-- [Pilsen=Plzen.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.protect.md) 
-- [Pilsen=Plzen.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.private.md) 
-- [Pilsen=Plzen.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.personal.md) 
-- [Pilsen=Plzen.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.secret.md) 

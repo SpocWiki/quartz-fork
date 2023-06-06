@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ukmerge](../../../../../../_public/geo/Continent/Europe/Russia/City/Ukmerge.md) 
-- [Ukmerge.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Ukmerge.internal.md) 
-- [Ukmerge.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Ukmerge.protect.md) 
-- [Ukmerge.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Ukmerge.private.md) 
-- [Ukmerge.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Ukmerge.personal.md) 
-- [Ukmerge.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Ukmerge.secret.md) 

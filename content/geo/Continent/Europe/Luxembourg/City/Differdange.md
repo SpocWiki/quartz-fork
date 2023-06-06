@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Differdange](../../../../../../_public/geo/Continent/Europe/Luxembourg/City/Differdange.md) 
-- [Differdange.internal](../../../../../../_internal/geo/Continent/Europe/Luxembourg/City/Differdange.internal.md) 
-- [Differdange.protect](../../../../../../_protect/geo/Continent/Europe/Luxembourg/City/Differdange.protect.md) 
-- [Differdange.private](../../../../../../_private/geo/Continent/Europe/Luxembourg/City/Differdange.private.md) 
-- [Differdange.personal](../../../../../../_personal/geo/Continent/Europe/Luxembourg/City/Differdange.personal.md) 
-- [Differdange.secret](../../../../../../_secret/geo/Continent/Europe/Luxembourg/City/Differdange.secret.md) 

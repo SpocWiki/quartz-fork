@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Woerishofen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.md) 
-- [Bad_Woerishofen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.internal.md) 
-- [Bad_Woerishofen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.protect.md) 
-- [Bad_Woerishofen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.private.md) 
-- [Bad_Woerishofen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.personal.md) 
-- [Bad_Woerishofen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bad_Woerishofen.secret.md) 

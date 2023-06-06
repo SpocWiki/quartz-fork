@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Burscheid](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burscheid.md) 
-- [Burscheid.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burscheid.internal.md) 
-- [Burscheid.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burscheid.protect.md) 
-- [Burscheid.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burscheid.private.md) 
-- [Burscheid.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burscheid.personal.md) 
-- [Burscheid.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Burscheid.secret.md) 

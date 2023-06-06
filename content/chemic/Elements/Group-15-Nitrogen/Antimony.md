@@ -38,10 +38,3 @@ title: Antimony
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antimony)
 
-## Confidential Links & Embeds: 
-- [Antimony](../../../../_public/chemic/Elements/Group-15-Nitrogen/Antimony.md) 
-- [Antimony.internal](../../../../_internal/chemic/Elements/Group-15-Nitrogen/Antimony.internal.md) 
-- [Antimony.protect](../../../../_protect/chemic/Elements/Group-15-Nitrogen/Antimony.protect.md) 
-- [Antimony.private](../../../../_private/chemic/Elements/Group-15-Nitrogen/Antimony.private.md) 
-- [Antimony.personal](../../../../_personal/chemic/Elements/Group-15-Nitrogen/Antimony.personal.md) 
-- [Antimony.secret](../../../../_secret/chemic/Elements/Group-15-Nitrogen/Antimony.secret.md) 

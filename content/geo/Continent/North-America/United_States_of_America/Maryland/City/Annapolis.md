@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Annapolis](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.md) 
-- [Annapolis.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.internal.md) 
-- [Annapolis.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.protect.md) 
-- [Annapolis.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.private.md) 
-- [Annapolis.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.personal.md) 
-- [Annapolis.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Maryland/City/Annapolis.secret.md) 

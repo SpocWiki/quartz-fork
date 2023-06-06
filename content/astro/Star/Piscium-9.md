@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Piscium-9](../../../_public/astro/Star/Piscium-9.md) 
-- [Piscium-9.internal](../../../_internal/astro/Star/Piscium-9.internal.md) 
-- [Piscium-9.protect](../../../_protect/astro/Star/Piscium-9.protect.md) 
-- [Piscium-9.private](../../../_private/astro/Star/Piscium-9.private.md) 
-- [Piscium-9.personal](../../../_personal/astro/Star/Piscium-9.personal.md) 
-- [Piscium-9.secret](../../../_secret/astro/Star/Piscium-9.secret.md) 

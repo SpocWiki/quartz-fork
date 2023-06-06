@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Balassagyaramat](../../../../../../_public/geo/Continent/Europe/Hungary/City/Balassagyaramat.md) 
-- [Balassagyaramat.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Balassagyaramat.internal.md) 
-- [Balassagyaramat.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Balassagyaramat.protect.md) 
-- [Balassagyaramat.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Balassagyaramat.private.md) 
-- [Balassagyaramat.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Balassagyaramat.personal.md) 
-- [Balassagyaramat.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Balassagyaramat.secret.md) 

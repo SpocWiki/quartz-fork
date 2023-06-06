@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vasknarva](../../../../../../_public/geo/Continent/Europe/Russia/City/Vasknarva.md) 
-- [Vasknarva.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Vasknarva.internal.md) 
-- [Vasknarva.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Vasknarva.protect.md) 
-- [Vasknarva.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Vasknarva.private.md) 
-- [Vasknarva.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Vasknarva.personal.md) 
-- [Vasknarva.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Vasknarva.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lyon](../../../../../../_public/geo/Continent/Europe/France/City/Lyon.md) 
-- [Lyon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Lyon.internal.md) 
-- [Lyon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Lyon.protect.md) 
-- [Lyon.private](../../../../../../_private/geo/Continent/Europe/France/City/Lyon.private.md) 
-- [Lyon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Lyon.personal.md) 
-- [Lyon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Lyon.secret.md) 

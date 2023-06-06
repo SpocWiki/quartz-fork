@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Serdobol](../../../../../../_public/geo/Continent/Europe/Finland/City/Serdobol.md) 
-- [Serdobol.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Serdobol.internal.md) 
-- [Serdobol.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Serdobol.protect.md) 
-- [Serdobol.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Serdobol.private.md) 
-- [Serdobol.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Serdobol.personal.md) 
-- [Serdobol.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Serdobol.secret.md) 

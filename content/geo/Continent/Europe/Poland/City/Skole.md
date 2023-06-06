@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Skole](../../../../../../_public/geo/Continent/Europe/Poland/City/Skole.md) 
-- [Skole.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Skole.internal.md) 
-- [Skole.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Skole.protect.md) 
-- [Skole.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Skole.private.md) 
-- [Skole.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Skole.personal.md) 
-- [Skole.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Skole.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tripolis=Tripoli](../../../../../../_public/geo/Continent/Africa/Libya/City/Tripolis=Tripoli.md) 
-- [Tripolis=Tripoli.internal](../../../../../../_internal/geo/Continent/Africa/Libya/City/Tripolis=Tripoli.internal.md) 
-- [Tripolis=Tripoli.protect](../../../../../../_protect/geo/Continent/Africa/Libya/City/Tripolis=Tripoli.protect.md) 
-- [Tripolis=Tripoli.private](../../../../../../_private/geo/Continent/Africa/Libya/City/Tripolis=Tripoli.private.md) 
-- [Tripolis=Tripoli.personal](../../../../../../_personal/geo/Continent/Africa/Libya/City/Tripolis=Tripoli.personal.md) 
-- [Tripolis=Tripoli.secret](../../../../../../_secret/geo/Continent/Africa/Libya/City/Tripolis=Tripoli.secret.md) 

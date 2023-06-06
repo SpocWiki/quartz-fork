@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Farsta](../../../../../../_public/geo/Continent/Europe/Sweden/City/Farsta.md) 
-- [Farsta.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Farsta.internal.md) 
-- [Farsta.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Farsta.protect.md) 
-- [Farsta.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Farsta.private.md) 
-- [Farsta.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Farsta.personal.md) 
-- [Farsta.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Farsta.secret.md) 

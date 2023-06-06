@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Perpignan](../../../../../../_public/geo/Continent/Europe/France/City/Perpignan.md) 
-- [Perpignan.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Perpignan.internal.md) 
-- [Perpignan.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Perpignan.protect.md) 
-- [Perpignan.private](../../../../../../_private/geo/Continent/Europe/France/City/Perpignan.private.md) 
-- [Perpignan.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Perpignan.personal.md) 
-- [Perpignan.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Perpignan.secret.md) 

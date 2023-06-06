@@ -45,10 +45,3 @@ Indicates employment-related experience requirements, e.g. <a class="localLink" 
 
 
 
-## Confidential Links & Embeds: 
-- [occupational_experience_requirements](../../../../../_public/schema.org/Type/is_a_/intangible/occupational_experience_requirements.md) 
-- [occupational_experience_requirements.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/occupational_experience_requirements.internal.md) 
-- [occupational_experience_requirements.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/occupational_experience_requirements.protect.md) 
-- [occupational_experience_requirements.private](../../../../../_private/schema.org/Type/is_a_/intangible/occupational_experience_requirements.private.md) 
-- [occupational_experience_requirements.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/occupational_experience_requirements.personal.md) 
-- [occupational_experience_requirements.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/occupational_experience_requirements.secret.md) 

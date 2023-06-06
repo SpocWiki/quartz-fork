@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Poeyttyae](../../../../../../_public/geo/Continent/Europe/Finland/City/Poeyttyae.md) 
-- [Poeyttyae.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Poeyttyae.internal.md) 
-- [Poeyttyae.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Poeyttyae.protect.md) 
-- [Poeyttyae.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Poeyttyae.private.md) 
-- [Poeyttyae.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Poeyttyae.personal.md) 
-- [Poeyttyae.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Poeyttyae.secret.md) 

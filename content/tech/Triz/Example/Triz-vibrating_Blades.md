@@ -17,10 +17,3 @@ title: Triz-vibrating_Blades
 
 Electric Carving Knife with vibrating Blades and electric Saw to allow the User to concentrate on Direction.
 
-## Confidential Links & Embeds: 
-- [Triz-vibrating_Blades](../../../../_public/tech/Triz/Example/Triz-vibrating_Blades.md) 
-- [Triz-vibrating_Blades.internal](../../../../_internal/tech/Triz/Example/Triz-vibrating_Blades.internal.md) 
-- [Triz-vibrating_Blades.protect](../../../../_protect/tech/Triz/Example/Triz-vibrating_Blades.protect.md) 
-- [Triz-vibrating_Blades.private](../../../../_private/tech/Triz/Example/Triz-vibrating_Blades.private.md) 
-- [Triz-vibrating_Blades.personal](../../../../_personal/tech/Triz/Example/Triz-vibrating_Blades.personal.md) 
-- [Triz-vibrating_Blades.secret](../../../../_secret/tech/Triz/Example/Triz-vibrating_Blades.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Philippopel=Plovdir](../../../../../../_public/geo/Continent/Europe/Bulgaria/City/Philippopel=Plovdir.md) 
-- [Philippopel=Plovdir.internal](../../../../../../_internal/geo/Continent/Europe/Bulgaria/City/Philippopel=Plovdir.internal.md) 
-- [Philippopel=Plovdir.protect](../../../../../../_protect/geo/Continent/Europe/Bulgaria/City/Philippopel=Plovdir.protect.md) 
-- [Philippopel=Plovdir.private](../../../../../../_private/geo/Continent/Europe/Bulgaria/City/Philippopel=Plovdir.private.md) 
-- [Philippopel=Plovdir.personal](../../../../../../_personal/geo/Continent/Europe/Bulgaria/City/Philippopel=Plovdir.personal.md) 
-- [Philippopel=Plovdir.secret](../../../../../../_secret/geo/Continent/Europe/Bulgaria/City/Philippopel=Plovdir.secret.md) 

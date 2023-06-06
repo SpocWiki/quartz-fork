@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Balti](../../../../../../_public/geo/Continent/Europe/Romania/City/Balti.md) 
-- [Balti.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Balti.internal.md) 
-- [Balti.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Balti.protect.md) 
-- [Balti.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Balti.private.md) 
-- [Balti.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Balti.personal.md) 
-- [Balti.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Balti.secret.md) 

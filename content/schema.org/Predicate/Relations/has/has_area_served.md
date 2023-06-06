@@ -47,10 +47,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_area_served](../../../../../_public/schema.org/Predicate/Relations/has/has_area_served.md) 
-- [has_area_served.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_area_served.internal.md) 
-- [has_area_served.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_area_served.protect.md) 
-- [has_area_served.private](../../../../../_private/schema.org/Predicate/Relations/has/has_area_served.private.md) 
-- [has_area_served.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_area_served.personal.md) 
-- [has_area_served.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_area_served.secret.md) 

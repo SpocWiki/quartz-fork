@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Catanzaro](../../../../../../_public/geo/Continent/Europe/Italy/City/Catanzaro.md) 
-- [Catanzaro.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Catanzaro.internal.md) 
-- [Catanzaro.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Catanzaro.protect.md) 
-- [Catanzaro.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Catanzaro.private.md) 
-- [Catanzaro.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Catanzaro.personal.md) 
-- [Catanzaro.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Catanzaro.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Damascus=Damaskus](../../../../../../_public/geo/Continent/Asia/Syria/City/Damascus=Damaskus.md) 
-- [Damascus=Damaskus.internal](../../../../../../_internal/geo/Continent/Asia/Syria/City/Damascus=Damaskus.internal.md) 
-- [Damascus=Damaskus.protect](../../../../../../_protect/geo/Continent/Asia/Syria/City/Damascus=Damaskus.protect.md) 
-- [Damascus=Damaskus.private](../../../../../../_private/geo/Continent/Asia/Syria/City/Damascus=Damaskus.private.md) 
-- [Damascus=Damaskus.personal](../../../../../../_personal/geo/Continent/Asia/Syria/City/Damascus=Damaskus.personal.md) 
-- [Damascus=Damaskus.secret](../../../../../../_secret/geo/Continent/Asia/Syria/City/Damascus=Damaskus.secret.md) 

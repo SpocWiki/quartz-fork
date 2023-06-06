@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zablotow](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zablotow.md) 
-- [Zablotow.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zablotow.internal.md) 
-- [Zablotow.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zablotow.protect.md) 
-- [Zablotow.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zablotow.private.md) 
-- [Zablotow.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zablotow.personal.md) 
-- [Zablotow.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zablotow.secret.md) 

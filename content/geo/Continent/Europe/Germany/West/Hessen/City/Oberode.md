@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberode](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Oberode.md) 
-- [Oberode.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Oberode.internal.md) 
-- [Oberode.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Oberode.protect.md) 
-- [Oberode.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Oberode.private.md) 
-- [Oberode.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Oberode.personal.md) 
-- [Oberode.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Oberode.secret.md) 

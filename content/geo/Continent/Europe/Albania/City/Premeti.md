@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Premeti](../../../../../../_public/geo/Continent/Europe/Albania/City/Premeti.md) 
-- [Premeti.internal](../../../../../../_internal/geo/Continent/Europe/Albania/City/Premeti.internal.md) 
-- [Premeti.protect](../../../../../../_protect/geo/Continent/Europe/Albania/City/Premeti.protect.md) 
-- [Premeti.private](../../../../../../_private/geo/Continent/Europe/Albania/City/Premeti.private.md) 
-- [Premeti.personal](../../../../../../_personal/geo/Continent/Europe/Albania/City/Premeti.personal.md) 
-- [Premeti.secret](../../../../../../_secret/geo/Continent/Europe/Albania/City/Premeti.secret.md) 

@@ -130,10 +130,3 @@ markerFolder: ./Samoa/City
 
 
 
-## Confidential Links & Embeds: 
-- [Samoa](../../../../_public/geo/Continent/Oceania/Samoa.md) 
-- [Samoa.internal](../../../../_internal/geo/Continent/Oceania/Samoa.internal.md) 
-- [Samoa.protect](../../../../_protect/geo/Continent/Oceania/Samoa.protect.md) 
-- [Samoa.private](../../../../_private/geo/Continent/Oceania/Samoa.private.md) 
-- [Samoa.personal](../../../../_personal/geo/Continent/Oceania/Samoa.personal.md) 
-- [Samoa.secret](../../../../_secret/geo/Continent/Oceania/Samoa.secret.md) 

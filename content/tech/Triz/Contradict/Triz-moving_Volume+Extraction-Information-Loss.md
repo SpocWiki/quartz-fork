@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Extraction-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Extraction-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.md) 
-- [Triz-moving_Volume+Extraction-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.internal.md) 
-- [Triz-moving_Volume+Extraction-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.protect.md) 
-- [Triz-moving_Volume+Extraction-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.private.md) 
-- [Triz-moving_Volume+Extraction-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.personal.md) 
-- [Triz-moving_Volume+Extraction-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Extraction-Information-Loss.secret.md) 

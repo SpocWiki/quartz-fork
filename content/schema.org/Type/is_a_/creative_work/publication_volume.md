@@ -45,10 +45,3 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 
 
-## Confidential Links & Embeds: 
-- [publication_volume](../../../../../_public/schema.org/Type/is_a_/creative_work/publication_volume.md) 
-- [publication_volume.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/publication_volume.internal.md) 
-- [publication_volume.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/publication_volume.protect.md) 
-- [publication_volume.private](../../../../../_private/schema.org/Type/is_a_/creative_work/publication_volume.private.md) 
-- [publication_volume.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/publication_volume.personal.md) 
-- [publication_volume.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/publication_volume.secret.md) 

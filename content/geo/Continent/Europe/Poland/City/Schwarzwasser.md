@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwarzwasser](../../../../../../_public/geo/Continent/Europe/Poland/City/Schwarzwasser.md) 
-- [Schwarzwasser.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Schwarzwasser.internal.md) 
-- [Schwarzwasser.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Schwarzwasser.protect.md) 
-- [Schwarzwasser.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Schwarzwasser.private.md) 
-- [Schwarzwasser.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Schwarzwasser.personal.md) 
-- [Schwarzwasser.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Schwarzwasser.secret.md) 

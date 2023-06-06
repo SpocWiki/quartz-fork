@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yourtchi](../../../../../../_public/geo/Continent/Europe/Russia/City/Yourtchi.md) 
-- [Yourtchi.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Yourtchi.internal.md) 
-- [Yourtchi.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Yourtchi.protect.md) 
-- [Yourtchi.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Yourtchi.private.md) 
-- [Yourtchi.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Yourtchi.personal.md) 
-- [Yourtchi.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Yourtchi.secret.md) 

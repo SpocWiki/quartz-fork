@@ -17,10 +17,3 @@ title: Triz-Ease_of_operation
 
 Ease of operation
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation](../../../../_public/tech/Triz/Parameter/Triz-Ease_of_operation.md) 
-- [Triz-Ease_of_operation.internal](../../../../_internal/tech/Triz/Parameter/Triz-Ease_of_operation.internal.md) 
-- [Triz-Ease_of_operation.protect](../../../../_protect/tech/Triz/Parameter/Triz-Ease_of_operation.protect.md) 
-- [Triz-Ease_of_operation.private](../../../../_private/tech/Triz/Parameter/Triz-Ease_of_operation.private.md) 
-- [Triz-Ease_of_operation.personal](../../../../_personal/tech/Triz/Parameter/Triz-Ease_of_operation.personal.md) 
-- [Triz-Ease_of_operation.secret](../../../../_secret/tech/Triz/Parameter/Triz-Ease_of_operation.secret.md) 

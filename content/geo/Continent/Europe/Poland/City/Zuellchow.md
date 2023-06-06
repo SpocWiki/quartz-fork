@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zuellchow](../../../../../../_public/geo/Continent/Europe/Poland/City/Zuellchow.md) 
-- [Zuellchow.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Zuellchow.internal.md) 
-- [Zuellchow.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Zuellchow.protect.md) 
-- [Zuellchow.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Zuellchow.private.md) 
-- [Zuellchow.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Zuellchow.personal.md) 
-- [Zuellchow.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Zuellchow.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Irkeschtam](../../../../../../_public/geo/Continent/Europe/Russia/City/Irkeschtam.md) 
-- [Irkeschtam.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Irkeschtam.internal.md) 
-- [Irkeschtam.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Irkeschtam.protect.md) 
-- [Irkeschtam.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Irkeschtam.private.md) 
-- [Irkeschtam.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Irkeschtam.personal.md) 
-- [Irkeschtam.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Irkeschtam.secret.md) 

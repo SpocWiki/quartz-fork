@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Voelklabruck](../../../../../../_public/geo/Continent/Europe/Austria/City/Voelklabruck.md) 
-- [Voelklabruck.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Voelklabruck.internal.md) 
-- [Voelklabruck.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Voelklabruck.protect.md) 
-- [Voelklabruck.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Voelklabruck.private.md) 
-- [Voelklabruck.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Voelklabruck.personal.md) 
-- [Voelklabruck.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Voelklabruck.secret.md) 

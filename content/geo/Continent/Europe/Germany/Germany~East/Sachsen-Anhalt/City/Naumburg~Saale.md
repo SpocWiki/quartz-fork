@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Naumburg~Saale](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.md) 
-- [Naumburg~Saale.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.internal.md) 
-- [Naumburg~Saale.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.protect.md) 
-- [Naumburg~Saale.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.private.md) 
-- [Naumburg~Saale.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.personal.md) 
-- [Naumburg~Saale.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen-Anhalt/City/Naumburg~Saale.secret.md) 

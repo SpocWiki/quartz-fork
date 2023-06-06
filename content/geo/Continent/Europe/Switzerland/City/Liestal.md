@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Liestal](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Liestal.md) 
-- [Liestal.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Liestal.internal.md) 
-- [Liestal.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Liestal.protect.md) 
-- [Liestal.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Liestal.private.md) 
-- [Liestal.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Liestal.personal.md) 
-- [Liestal.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Liestal.secret.md) 

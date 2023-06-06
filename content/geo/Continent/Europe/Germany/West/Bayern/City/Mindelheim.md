@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mindelheim](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Mindelheim.md) 
-- [Mindelheim.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Mindelheim.internal.md) 
-- [Mindelheim.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Mindelheim.protect.md) 
-- [Mindelheim.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Mindelheim.private.md) 
-- [Mindelheim.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Mindelheim.personal.md) 
-- [Mindelheim.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Mindelheim.secret.md) 

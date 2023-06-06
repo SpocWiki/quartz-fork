@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Troitzk](../../../../../../_public/geo/Continent/Europe/Russia/City/Troitzk.md) 
-- [Troitzk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Troitzk.internal.md) 
-- [Troitzk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Troitzk.protect.md) 
-- [Troitzk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Troitzk.private.md) 
-- [Troitzk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Troitzk.personal.md) 
-- [Troitzk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Troitzk.secret.md) 

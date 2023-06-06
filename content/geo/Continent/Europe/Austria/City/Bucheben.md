@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bucheben](../../../../../../_public/geo/Continent/Europe/Austria/City/Bucheben.md) 
-- [Bucheben.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Bucheben.internal.md) 
-- [Bucheben.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Bucheben.protect.md) 
-- [Bucheben.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Bucheben.private.md) 
-- [Bucheben.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Bucheben.personal.md) 
-- [Bucheben.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Bucheben.secret.md) 

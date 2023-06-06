@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Acrux](../../../_public/astro/Star/Acrux.md) 
-- [Acrux.internal](../../../_internal/astro/Star/Acrux.internal.md) 
-- [Acrux.protect](../../../_protect/astro/Star/Acrux.protect.md) 
-- [Acrux.private](../../../_private/astro/Star/Acrux.private.md) 
-- [Acrux.personal](../../../_personal/astro/Star/Acrux.personal.md) 
-- [Acrux.secret](../../../_secret/astro/Star/Acrux.secret.md)
-

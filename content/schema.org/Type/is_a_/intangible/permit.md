@@ -45,10 +45,3 @@ A permit issued by an organization, e.g. a parking pass.
 
 
 
-## Confidential Links & Embeds: 
-- [permit](../../../../../_public/schema.org/Type/is_a_/intangible/permit.md) 
-- [permit.internal](../../../../../_internal/schema.org/Type/is_a_/intangible/permit.internal.md) 
-- [permit.protect](../../../../../_protect/schema.org/Type/is_a_/intangible/permit.protect.md) 
-- [permit.private](../../../../../_private/schema.org/Type/is_a_/intangible/permit.private.md) 
-- [permit.personal](../../../../../_personal/schema.org/Type/is_a_/intangible/permit.personal.md) 
-- [permit.secret](../../../../../_secret/schema.org/Type/is_a_/intangible/permit.secret.md) 

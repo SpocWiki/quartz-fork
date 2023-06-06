@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Goes](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Goes.md) 
-- [Goes.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Goes.internal.md) 
-- [Goes.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Goes.protect.md) 
-- [Goes.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Goes.private.md) 
-- [Goes.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Goes.personal.md) 
-- [Goes.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Goes.secret.md) 

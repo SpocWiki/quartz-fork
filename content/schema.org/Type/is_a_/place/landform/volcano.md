@@ -43,10 +43,3 @@ A volcano, like Fujisan.
 
 
 
-## Confidential Links & Embeds: 
-- [volcano](../../../../../../_public/schema.org/Type/is_a_/place/landform/volcano.md) 
-- [volcano.internal](../../../../../../_internal/schema.org/Type/is_a_/place/landform/volcano.internal.md) 
-- [volcano.protect](../../../../../../_protect/schema.org/Type/is_a_/place/landform/volcano.protect.md) 
-- [volcano.private](../../../../../../_private/schema.org/Type/is_a_/place/landform/volcano.private.md) 
-- [volcano.personal](../../../../../../_personal/schema.org/Type/is_a_/place/landform/volcano.personal.md) 
-- [volcano.secret](../../../../../../_secret/schema.org/Type/is_a_/place/landform/volcano.secret.md) 

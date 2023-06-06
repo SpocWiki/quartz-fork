@@ -38,10 +38,3 @@ title: Potassium
 > [Wikipedia](https://en.wikipedia.org/wiki/Potassium)
 
 
-## Confidential Links & Embeds: 
-- [Potassium](../../../../_public/chemic/Elements/Group-01-Alkali/Potassium.md) 
-- [Potassium.internal](../../../../_internal/chemic/Elements/Group-01-Alkali/Potassium.internal.md) 
-- [Potassium.protect](../../../../_protect/chemic/Elements/Group-01-Alkali/Potassium.protect.md) 
-- [Potassium.private](../../../../_private/chemic/Elements/Group-01-Alkali/Potassium.private.md) 
-- [Potassium.personal](../../../../_personal/chemic/Elements/Group-01-Alkali/Potassium.personal.md) 
-- [Potassium.secret](../../../../_secret/chemic/Elements/Group-01-Alkali/Potassium.secret.md) 

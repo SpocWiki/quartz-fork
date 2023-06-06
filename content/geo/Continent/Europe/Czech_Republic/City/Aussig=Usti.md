@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aussig=Usti](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.md) 
-- [Aussig=Usti.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.internal.md) 
-- [Aussig=Usti.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.protect.md) 
-- [Aussig=Usti.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.private.md) 
-- [Aussig=Usti.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.personal.md) 
-- [Aussig=Usti.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.secret.md) 

@@ -114,7 +114,7 @@ markerFolder: ./San_Marino/City
 [name-en::San Marino]
 [name-de::San Marino]
 ![350](geo/Continent/Europe/San_Marino/Coat_of_arms_of_San_Marino.svg)
-![Anthem-Montenegro](xLarge/National-Anthem/Anthem-Montenegro.mp3)
+[Anthem-Montenegro](xLarge/National-Anthem/Anthem-Montenegro.mp3)
 ![350](geo/Continent/Europe/San_Marino/Flag_of_San_Marino.svg)
 
 [Area-Total::61]
@@ -129,10 +129,3 @@ markerFolder: ./San_Marino/City
 
 
 
-## Confidential Links & Embeds: 
-- [San_Marino](../../../../_public/geo/Continent/Europe/San_Marino.md) 
-- [San_Marino.internal](../../../../_internal/geo/Continent/Europe/San_Marino.internal.md) 
-- [San_Marino.protect](../../../../_protect/geo/Continent/Europe/San_Marino.protect.md) 
-- [San_Marino.private](../../../../_private/geo/Continent/Europe/San_Marino.private.md) 
-- [San_Marino.personal](../../../../_personal/geo/Continent/Europe/San_Marino.personal.md) 
-- [San_Marino.secret](../../../../_secret/geo/Continent/Europe/San_Marino.secret.md) 

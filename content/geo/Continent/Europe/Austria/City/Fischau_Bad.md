@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fischau_Bad](../../../../../../_public/geo/Continent/Europe/Austria/City/Fischau_Bad.md) 
-- [Fischau_Bad.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Fischau_Bad.internal.md) 
-- [Fischau_Bad.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Fischau_Bad.protect.md) 
-- [Fischau_Bad.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Fischau_Bad.private.md) 
-- [Fischau_Bad.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Fischau_Bad.personal.md) 
-- [Fischau_Bad.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Fischau_Bad.secret.md) 

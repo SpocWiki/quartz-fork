@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [U-Sigmund-Freud-Straße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sigmund-Freud-Stra%C3%9Fe.md) 
-- [U-Sigmund-Freud-Straße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sigmund-Freud-Stra%C3%9Fe.internal.md) 
-- [U-Sigmund-Freud-Straße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sigmund-Freud-Stra%C3%9Fe.protect.md) 
-- [U-Sigmund-Freud-Straße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sigmund-Freud-Stra%C3%9Fe.private.md) 
-- [U-Sigmund-Freud-Straße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sigmund-Freud-Stra%C3%9Fe.personal.md) 
-- [U-Sigmund-Freud-Straße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/U-Sigmund-Freud-Stra%C3%9Fe.secret.md) 

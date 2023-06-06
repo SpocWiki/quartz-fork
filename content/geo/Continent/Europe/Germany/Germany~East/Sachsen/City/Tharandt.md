@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tharandt](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Tharandt.md) 
-- [Tharandt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Tharandt.internal.md) 
-- [Tharandt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Tharandt.protect.md) 
-- [Tharandt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Tharandt.private.md) 
-- [Tharandt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Tharandt.personal.md) 
-- [Tharandt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Tharandt.secret.md) 

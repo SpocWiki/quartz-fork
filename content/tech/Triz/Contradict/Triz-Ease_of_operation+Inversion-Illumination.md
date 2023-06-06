@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Inversion-Illumination
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Inversion-Illumination](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Illumination.md) 
-- [Triz-Ease_of_operation+Inversion-Illumination.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Illumination.internal.md) 
-- [Triz-Ease_of_operation+Inversion-Illumination.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Illumination.protect.md) 
-- [Triz-Ease_of_operation+Inversion-Illumination.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Illumination.private.md) 
-- [Triz-Ease_of_operation+Inversion-Illumination.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Illumination.personal.md) 
-- [Triz-Ease_of_operation+Inversion-Illumination.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Inversion-Illumination.secret.md) 

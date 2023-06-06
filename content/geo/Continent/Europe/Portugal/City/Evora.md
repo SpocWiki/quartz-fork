@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Evora](../../../../../../_public/geo/Continent/Europe/Portugal/City/Evora.md) 
-- [Evora.internal](../../../../../../_internal/geo/Continent/Europe/Portugal/City/Evora.internal.md) 
-- [Evora.protect](../../../../../../_protect/geo/Continent/Europe/Portugal/City/Evora.protect.md) 
-- [Evora.private](../../../../../../_private/geo/Continent/Europe/Portugal/City/Evora.private.md) 
-- [Evora.personal](../../../../../../_personal/geo/Continent/Europe/Portugal/City/Evora.personal.md) 
-- [Evora.secret](../../../../../../_secret/geo/Continent/Europe/Portugal/City/Evora.secret.md) 

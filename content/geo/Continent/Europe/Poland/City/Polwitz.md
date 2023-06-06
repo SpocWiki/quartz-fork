@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Polwitz](../../../../../../_public/geo/Continent/Europe/Poland/City/Polwitz.md) 
-- [Polwitz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Polwitz.internal.md) 
-- [Polwitz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Polwitz.protect.md) 
-- [Polwitz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Polwitz.private.md) 
-- [Polwitz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Polwitz.personal.md) 
-- [Polwitz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Polwitz.secret.md) 

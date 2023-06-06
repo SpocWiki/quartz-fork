@@ -43,10 +43,3 @@ An event involving the delivery of an item.
 
 
 
-## Confidential Links & Embeds: 
-- [delivery_event](../../../../../_public/schema.org/Type/is_a_/event/delivery_event.md) 
-- [delivery_event.internal](../../../../../_internal/schema.org/Type/is_a_/event/delivery_event.internal.md) 
-- [delivery_event.protect](../../../../../_protect/schema.org/Type/is_a_/event/delivery_event.protect.md) 
-- [delivery_event.private](../../../../../_private/schema.org/Type/is_a_/event/delivery_event.private.md) 
-- [delivery_event.personal](../../../../../_personal/schema.org/Type/is_a_/event/delivery_event.personal.md) 
-- [delivery_event.secret](../../../../../_secret/schema.org/Type/is_a_/event/delivery_event.secret.md) 

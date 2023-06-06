@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tschistopol](../../../../../../_public/geo/Continent/Europe/Russia/City/Tschistopol.md) 
-- [Tschistopol.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschistopol.internal.md) 
-- [Tschistopol.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschistopol.protect.md) 
-- [Tschistopol.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tschistopol.private.md) 
-- [Tschistopol.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschistopol.personal.md) 
-- [Tschistopol.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschistopol.secret.md) 

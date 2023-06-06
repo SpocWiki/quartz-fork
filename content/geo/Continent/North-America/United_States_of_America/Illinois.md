@@ -37,10 +37,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Illinois](../../../../../_public/geo/Continent/North-America/United_States_of_America/Illinois.md) 
-- [Illinois.internal](../../../../../_internal/geo/Continent/North-America/United_States_of_America/Illinois.internal.md) 
-- [Illinois.protect](../../../../../_protect/geo/Continent/North-America/United_States_of_America/Illinois.protect.md) 
-- [Illinois.private](../../../../../_private/geo/Continent/North-America/United_States_of_America/Illinois.private.md) 
-- [Illinois.personal](../../../../../_personal/geo/Continent/North-America/United_States_of_America/Illinois.personal.md) 
-- [Illinois.secret](../../../../../_secret/geo/Continent/North-America/United_States_of_America/Illinois.secret.md) 

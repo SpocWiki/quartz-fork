@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sottomarina](../../../../../../_public/geo/Continent/Europe/Italy/City/Sottomarina.md) 
-- [Sottomarina.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Sottomarina.internal.md) 
-- [Sottomarina.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Sottomarina.protect.md) 
-- [Sottomarina.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Sottomarina.private.md) 
-- [Sottomarina.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Sottomarina.personal.md) 
-- [Sottomarina.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Sottomarina.secret.md) 

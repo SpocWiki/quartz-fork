@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Zubenelgenubi](../../../_public/astro/Star/Zubenelgenubi.md) 
-- [Zubenelgenubi.internal](../../../_internal/astro/Star/Zubenelgenubi.internal.md) 
-- [Zubenelgenubi.protect](../../../_protect/astro/Star/Zubenelgenubi.protect.md) 
-- [Zubenelgenubi.private](../../../_private/astro/Star/Zubenelgenubi.private.md) 
-- [Zubenelgenubi.personal](../../../_personal/astro/Star/Zubenelgenubi.personal.md) 
-- [Zubenelgenubi.secret](../../../_secret/astro/Star/Zubenelgenubi.secret.md) 

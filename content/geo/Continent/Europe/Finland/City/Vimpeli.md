@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vimpeli](../../../../../../_public/geo/Continent/Europe/Finland/City/Vimpeli.md) 
-- [Vimpeli.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Vimpeli.internal.md) 
-- [Vimpeli.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Vimpeli.protect.md) 
-- [Vimpeli.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Vimpeli.private.md) 
-- [Vimpeli.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Vimpeli.personal.md) 
-- [Vimpeli.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Vimpeli.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-generated_harm+Extraction-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-generated_harm+Extraction-Power](../../../../_public/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.md) 
-- [Triz-generated_harm+Extraction-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.internal.md) 
-- [Triz-generated_harm+Extraction-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.protect.md) 
-- [Triz-generated_harm+Extraction-Power.private](../../../../_private/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.private.md) 
-- [Triz-generated_harm+Extraction-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.personal.md) 
-- [Triz-generated_harm+Extraction-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-generated_harm+Extraction-Power.secret.md) 

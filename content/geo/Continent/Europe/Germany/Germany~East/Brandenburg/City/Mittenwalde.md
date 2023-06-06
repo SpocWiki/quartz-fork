@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mittenwalde](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.md) 
-- [Mittenwalde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.internal.md) 
-- [Mittenwalde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.protect.md) 
-- [Mittenwalde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.private.md) 
-- [Mittenwalde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.personal.md) 
-- [Mittenwalde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Mittenwalde.secret.md) 

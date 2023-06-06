@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lerwick](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Lerwick.md) 
-- [Lerwick.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Lerwick.internal.md) 
-- [Lerwick.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Lerwick.protect.md) 
-- [Lerwick.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Lerwick.private.md) 
-- [Lerwick.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Lerwick.personal.md) 
-- [Lerwick.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Lerwick.secret.md) 

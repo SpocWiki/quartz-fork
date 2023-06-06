@@ -19,10 +19,3 @@ title: Triz-Ease_of_operation+Extraction-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_operation+Extraction-Power](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Power.md) 
-- [Triz-Ease_of_operation+Extraction-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Power.internal.md) 
-- [Triz-Ease_of_operation+Extraction-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Power.protect.md) 
-- [Triz-Ease_of_operation+Extraction-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Power.private.md) 
-- [Triz-Ease_of_operation+Extraction-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Power.personal.md) 
-- [Triz-Ease_of_operation+Extraction-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_operation+Extraction-Power.secret.md) 

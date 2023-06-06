@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Avesnes](../../../../../../_public/geo/Continent/Europe/France/City/Avesnes.md) 
-- [Avesnes.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Avesnes.internal.md) 
-- [Avesnes.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Avesnes.protect.md) 
-- [Avesnes.private](../../../../../../_private/geo/Continent/Europe/France/City/Avesnes.private.md) 
-- [Avesnes.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Avesnes.personal.md) 
-- [Avesnes.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Avesnes.secret.md) 

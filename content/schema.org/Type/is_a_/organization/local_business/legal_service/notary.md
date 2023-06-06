@@ -43,10 +43,3 @@ A notary.
 
 
 
-## Confidential Links & Embeds: 
-- [notary](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/legal_service/notary.md) 
-- [notary.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/legal_service/notary.internal.md) 
-- [notary.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/legal_service/notary.protect.md) 
-- [notary.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/legal_service/notary.private.md) 
-- [notary.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/legal_service/notary.personal.md) 
-- [notary.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/legal_service/notary.secret.md) 

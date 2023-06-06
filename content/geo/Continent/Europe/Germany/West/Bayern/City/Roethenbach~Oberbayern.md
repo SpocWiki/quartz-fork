@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Roethenbach~Oberbayern](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberbayern.md) 
-- [Roethenbach~Oberbayern.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberbayern.internal.md) 
-- [Roethenbach~Oberbayern.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberbayern.protect.md) 
-- [Roethenbach~Oberbayern.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberbayern.private.md) 
-- [Roethenbach~Oberbayern.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberbayern.personal.md) 
-- [Roethenbach~Oberbayern.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberbayern.secret.md) 

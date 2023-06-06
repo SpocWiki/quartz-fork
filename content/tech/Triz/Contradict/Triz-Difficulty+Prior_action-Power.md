@@ -19,10 +19,3 @@ title: Triz-Difficulty+Prior_action-Power
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Prior_action-Power](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.md) 
-- [Triz-Difficulty+Prior_action-Power.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.internal.md) 
-- [Triz-Difficulty+Prior_action-Power.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.protect.md) 
-- [Triz-Difficulty+Prior_action-Power.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.private.md) 
-- [Triz-Difficulty+Prior_action-Power.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.personal.md) 
-- [Triz-Difficulty+Prior_action-Power.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Prior_action-Power.secret.md) 

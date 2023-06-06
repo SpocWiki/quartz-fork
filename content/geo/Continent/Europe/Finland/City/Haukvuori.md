@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haukvuori](../../../../../../_public/geo/Continent/Europe/Finland/City/Haukvuori.md) 
-- [Haukvuori.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Haukvuori.internal.md) 
-- [Haukvuori.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Haukvuori.protect.md) 
-- [Haukvuori.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Haukvuori.private.md) 
-- [Haukvuori.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Haukvuori.personal.md) 
-- [Haukvuori.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Haukvuori.secret.md) 

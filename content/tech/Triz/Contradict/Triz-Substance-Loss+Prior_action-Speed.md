@@ -19,10 +19,3 @@ title: Triz-Substance-Loss+Prior_action-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Substance-Loss+Prior_action-Speed](../../../../_public/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Speed.md) 
-- [Triz-Substance-Loss+Prior_action-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Speed.internal.md) 
-- [Triz-Substance-Loss+Prior_action-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Speed.protect.md) 
-- [Triz-Substance-Loss+Prior_action-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Speed.private.md) 
-- [Triz-Substance-Loss+Prior_action-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Speed.personal.md) 
-- [Triz-Substance-Loss+Prior_action-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Substance-Loss+Prior_action-Speed.secret.md) 

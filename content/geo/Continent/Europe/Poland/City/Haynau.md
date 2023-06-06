@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Haynau](../../../../../../_public/geo/Continent/Europe/Poland/City/Haynau.md) 
-- [Haynau.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Haynau.internal.md) 
-- [Haynau.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Haynau.protect.md) 
-- [Haynau.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Haynau.private.md) 
-- [Haynau.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Haynau.personal.md) 
-- [Haynau.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Haynau.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Moncontour](../../../../../../_public/geo/Continent/Europe/France/City/Moncontour.md) 
-- [Moncontour.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Moncontour.internal.md) 
-- [Moncontour.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Moncontour.protect.md) 
-- [Moncontour.private](../../../../../../_private/geo/Continent/Europe/France/City/Moncontour.private.md) 
-- [Moncontour.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Moncontour.personal.md) 
-- [Moncontour.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Moncontour.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bruenn](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bruenn.md) 
-- [Bruenn.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bruenn.internal.md) 
-- [Bruenn.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bruenn.protect.md) 
-- [Bruenn.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bruenn.private.md) 
-- [Bruenn.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bruenn.personal.md) 
-- [Bruenn.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bruenn.secret.md) 

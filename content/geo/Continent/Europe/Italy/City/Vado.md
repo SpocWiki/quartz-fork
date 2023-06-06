@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Vado](../../../../../../_public/geo/Continent/Europe/Italy/City/Vado.md) 
-- [Vado.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Vado.internal.md) 
-- [Vado.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Vado.protect.md) 
-- [Vado.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Vado.private.md) 
-- [Vado.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Vado.personal.md) 
-- [Vado.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Vado.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Storonetz-Putilla](../../../../../../_public/geo/Continent/Europe/Romania/City/Storonetz-Putilla.md) 
-- [Storonetz-Putilla.internal](../../../../../../_internal/geo/Continent/Europe/Romania/City/Storonetz-Putilla.internal.md) 
-- [Storonetz-Putilla.protect](../../../../../../_protect/geo/Continent/Europe/Romania/City/Storonetz-Putilla.protect.md) 
-- [Storonetz-Putilla.private](../../../../../../_private/geo/Continent/Europe/Romania/City/Storonetz-Putilla.private.md) 
-- [Storonetz-Putilla.personal](../../../../../../_personal/geo/Continent/Europe/Romania/City/Storonetz-Putilla.personal.md) 
-- [Storonetz-Putilla.secret](../../../../../../_secret/geo/Continent/Europe/Romania/City/Storonetz-Putilla.secret.md) 

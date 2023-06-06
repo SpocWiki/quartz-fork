@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Plaue](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.md) 
-- [Plaue.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.internal.md) 
-- [Plaue.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.protect.md) 
-- [Plaue.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.private.md) 
-- [Plaue.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.personal.md) 
-- [Plaue.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Plaue.secret.md) 

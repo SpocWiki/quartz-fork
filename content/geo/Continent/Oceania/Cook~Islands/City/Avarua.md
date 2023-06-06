@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Avarua](../../../../../../_public/geo/Continent/Oceania/Cook~Islands/City/Avarua.md) 
-- [Avarua.internal](../../../../../../_internal/geo/Continent/Oceania/Cook~Islands/City/Avarua.internal.md) 
-- [Avarua.protect](../../../../../../_protect/geo/Continent/Oceania/Cook~Islands/City/Avarua.protect.md) 
-- [Avarua.private](../../../../../../_private/geo/Continent/Oceania/Cook~Islands/City/Avarua.private.md) 
-- [Avarua.personal](../../../../../../_personal/geo/Continent/Oceania/Cook~Islands/City/Avarua.personal.md) 
-- [Avarua.secret](../../../../../../_secret/geo/Continent/Oceania/Cook~Islands/City/Avarua.secret.md) 

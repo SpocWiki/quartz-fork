@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Siculina](../../../../../../_public/geo/Continent/Europe/Italy/City/Siculina.md) 
-- [Siculina.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Siculina.internal.md) 
-- [Siculina.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Siculina.protect.md) 
-- [Siculina.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Siculina.private.md) 
-- [Siculina.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Siculina.personal.md) 
-- [Siculina.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Siculina.secret.md) 

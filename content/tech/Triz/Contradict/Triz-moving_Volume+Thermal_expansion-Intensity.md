@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Thermal_expansion-Intensity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Thermal_expansion-Intensity](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.md) 
-- [Triz-moving_Volume+Thermal_expansion-Intensity.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.internal.md) 
-- [Triz-moving_Volume+Thermal_expansion-Intensity.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.protect.md) 
-- [Triz-moving_Volume+Thermal_expansion-Intensity.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.private.md) 
-- [Triz-moving_Volume+Thermal_expansion-Intensity.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.personal.md) 
-- [Triz-moving_Volume+Thermal_expansion-Intensity.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Thermal_expansion-Intensity.secret.md) 

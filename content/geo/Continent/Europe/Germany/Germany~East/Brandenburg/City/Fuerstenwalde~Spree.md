@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuerstenwalde~Spree](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.md) 
-- [Fuerstenwalde~Spree.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.internal.md) 
-- [Fuerstenwalde~Spree.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.protect.md) 
-- [Fuerstenwalde~Spree.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.private.md) 
-- [Fuerstenwalde~Spree.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.personal.md) 
-- [Fuerstenwalde~Spree.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Fuerstenwalde~Spree.secret.md) 

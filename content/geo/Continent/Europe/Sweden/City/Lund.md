@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Lund](../../../../../../_public/geo/Continent/Europe/Sweden/City/Lund.md) 
-- [Lund.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Lund.internal.md) 
-- [Lund.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Lund.protect.md) 
-- [Lund.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Lund.private.md) 
-- [Lund.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Lund.personal.md) 
-- [Lund.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Lund.secret.md) 

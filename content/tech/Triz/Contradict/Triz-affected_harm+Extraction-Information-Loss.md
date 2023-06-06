@@ -19,10 +19,3 @@ title: Triz-affected_harm+Extraction-Information-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-affected_harm+Extraction-Information-Loss](../../../../_public/tech/Triz/Contradict/Triz-affected_harm+Extraction-Information-Loss.md) 
-- [Triz-affected_harm+Extraction-Information-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Information-Loss.internal.md) 
-- [Triz-affected_harm+Extraction-Information-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-affected_harm+Extraction-Information-Loss.protect.md) 
-- [Triz-affected_harm+Extraction-Information-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-affected_harm+Extraction-Information-Loss.private.md) 
-- [Triz-affected_harm+Extraction-Information-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-affected_harm+Extraction-Information-Loss.personal.md) 
-- [Triz-affected_harm+Extraction-Information-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-affected_harm+Extraction-Information-Loss.secret.md) 

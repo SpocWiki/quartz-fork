@@ -46,10 +46,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_part_of_trip](../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_trip.md) 
-- [is_part_of_trip.internal](../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_trip.internal.md) 
-- [is_part_of_trip.protect](../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_trip.protect.md) 
-- [is_part_of_trip.private](../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_trip.private.md) 
-- [is_part_of_trip.personal](../../../../../_personal/schema.org/Predicate/Relations/has/is_part_of_trip.personal.md) 
-- [is_part_of_trip.secret](../../../../../_secret/schema.org/Predicate/Relations/has/is_part_of_trip.secret.md) 

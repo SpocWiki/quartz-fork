@@ -28,10 +28,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [T-Schwarzwaldstraße](../../../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwarzwaldstra%C3%9Fe.md) 
-- [T-Schwarzwaldstraße.internal](../../../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwarzwaldstra%C3%9Fe.internal.md) 
-- [T-Schwarzwaldstraße.protect](../../../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwarzwaldstra%C3%9Fe.protect.md) 
-- [T-Schwarzwaldstraße.private](../../../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwarzwaldstra%C3%9Fe.private.md) 
-- [T-Schwarzwaldstraße.personal](../../../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwarzwaldstra%C3%9Fe.personal.md) 
-- [T-Schwarzwaldstraße.secret](../../../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main/Station/T-Schwarzwaldstra%C3%9Fe.secret.md) 

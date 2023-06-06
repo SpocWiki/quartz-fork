@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Adamstown](../../../../../../_public/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.md) 
-- [Adamstown.internal](../../../../../../_internal/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.internal.md) 
-- [Adamstown.protect](../../../../../../_protect/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.protect.md) 
-- [Adamstown.private](../../../../../../_private/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.private.md) 
-- [Adamstown.personal](../../../../../../_personal/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.personal.md) 
-- [Adamstown.secret](../../../../../../_secret/geo/Continent/Oceania/Pitcairn~Islands/City/Adamstown.secret.md) 

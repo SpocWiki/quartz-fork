@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Admont](../../../../../../_public/geo/Continent/Europe/Austria/City/Admont.md) 
-- [Admont.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Admont.internal.md) 
-- [Admont.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Admont.protect.md) 
-- [Admont.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Admont.private.md) 
-- [Admont.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Admont.personal.md) 
-- [Admont.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Admont.secret.md) 

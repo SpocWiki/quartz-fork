@@ -45,10 +45,3 @@ An account that allows an investor to deposit funds and place investment orders 
 
 
 
-## Confidential Links & Embeds: 
-- [brokerage_account](../../../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.md) 
-- [brokerage_account.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.internal.md) 
-- [brokerage_account.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.protect.md) 
-- [brokerage_account.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.private.md) 
-- [brokerage_account.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.personal.md) 
-- [brokerage_account.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.secret.md) 

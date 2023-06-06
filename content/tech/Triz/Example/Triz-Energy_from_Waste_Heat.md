@@ -17,10 +17,3 @@ title: Triz-Energy_from_Waste_Heat
 
 Use Waste Heat to generate Electric Power.
 
-## Confidential Links & Embeds: 
-- [Triz-Energy_from_Waste_Heat](../../../../_public/tech/Triz/Example/Triz-Energy_from_Waste_Heat.md) 
-- [Triz-Energy_from_Waste_Heat.internal](../../../../_internal/tech/Triz/Example/Triz-Energy_from_Waste_Heat.internal.md) 
-- [Triz-Energy_from_Waste_Heat.protect](../../../../_protect/tech/Triz/Example/Triz-Energy_from_Waste_Heat.protect.md) 
-- [Triz-Energy_from_Waste_Heat.private](../../../../_private/tech/Triz/Example/Triz-Energy_from_Waste_Heat.private.md) 
-- [Triz-Energy_from_Waste_Heat.personal](../../../../_personal/tech/Triz/Example/Triz-Energy_from_Waste_Heat.personal.md) 
-- [Triz-Energy_from_Waste_Heat.secret](../../../../_secret/tech/Triz/Example/Triz-Energy_from_Waste_Heat.secret.md) 

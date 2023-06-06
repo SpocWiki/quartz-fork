@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wasserburg~Bodensee](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.md) 
-- [Wasserburg~Bodensee.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.internal.md) 
-- [Wasserburg~Bodensee.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.protect.md) 
-- [Wasserburg~Bodensee.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.private.md) 
-- [Wasserburg~Bodensee.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.personal.md) 
-- [Wasserburg~Bodensee.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wasserburg~Bodensee.secret.md) 

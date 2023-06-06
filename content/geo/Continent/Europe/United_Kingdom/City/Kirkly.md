@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirkly](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Kirkly.md) 
-- [Kirkly.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Kirkly.internal.md) 
-- [Kirkly.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Kirkly.protect.md) 
-- [Kirkly.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Kirkly.private.md) 
-- [Kirkly.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Kirkly.personal.md) 
-- [Kirkly.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Kirkly.secret.md) 

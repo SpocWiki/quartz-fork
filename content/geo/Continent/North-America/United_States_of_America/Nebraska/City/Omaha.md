@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Omaha](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.md) 
-- [Omaha.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.internal.md) 
-- [Omaha.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.protect.md) 
-- [Omaha.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.private.md) 
-- [Omaha.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.personal.md) 
-- [Omaha.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Nebraska/City/Omaha.secret.md) 

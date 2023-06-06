@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Geesthacht](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Geesthacht.md) 
-- [Geesthacht.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Geesthacht.internal.md) 
-- [Geesthacht.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Geesthacht.protect.md) 
-- [Geesthacht.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Geesthacht.private.md) 
-- [Geesthacht.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Geesthacht.personal.md) 
-- [Geesthacht.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Schleswig-Holstein/City/Geesthacht.secret.md) 

@@ -47,10 +47,3 @@ Indicated that creating a return label is the responsibility of the customer.
 
 
 
-## Confidential Links & Embeds: 
-- [return_label_customer_responsibility](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.md) 
-- [return_label_customer_responsibility.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.internal.md) 
-- [return_label_customer_responsibility.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.protect.md) 
-- [return_label_customer_responsibility.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.private.md) 
-- [return_label_customer_responsibility.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.personal.md) 
-- [return_label_customer_responsibility.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.secret.md) 

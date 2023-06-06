@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bagneres_de_Bigorre](../../../../../../_public/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.md) 
-- [Bagneres_de_Bigorre.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.internal.md) 
-- [Bagneres_de_Bigorre.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.protect.md) 
-- [Bagneres_de_Bigorre.private](../../../../../../_private/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.private.md) 
-- [Bagneres_de_Bigorre.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.personal.md) 
-- [Bagneres_de_Bigorre.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Bagneres_de_Bigorre.secret.md) 

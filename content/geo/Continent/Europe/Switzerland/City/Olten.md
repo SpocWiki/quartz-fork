@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Olten](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Olten.md) 
-- [Olten.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Olten.internal.md) 
-- [Olten.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Olten.protect.md) 
-- [Olten.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Olten.private.md) 
-- [Olten.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Olten.personal.md) 
-- [Olten.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Olten.secret.md) 

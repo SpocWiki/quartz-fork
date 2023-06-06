@@ -43,10 +43,3 @@ A <a href="https://en.wikipedia.org/wiki/Blog">blog</a>, sometimes known as a "w
 
 
 
-## Confidential Links & Embeds: 
-- [blog](../../../../../_public/schema.org/Type/is_a_/creative_work/blog.md) 
-- [blog.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/blog.internal.md) 
-- [blog.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/blog.protect.md) 
-- [blog.private](../../../../../_private/schema.org/Type/is_a_/creative_work/blog.private.md) 
-- [blog.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/blog.personal.md) 
-- [blog.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/blog.secret.md) 

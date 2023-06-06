@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Groix](../../../../../../_public/geo/Continent/Europe/France/City/Groix.md) 
-- [Groix.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Groix.internal.md) 
-- [Groix.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Groix.protect.md) 
-- [Groix.private](../../../../../../_private/geo/Continent/Europe/France/City/Groix.private.md) 
-- [Groix.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Groix.personal.md) 
-- [Groix.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Groix.secret.md) 

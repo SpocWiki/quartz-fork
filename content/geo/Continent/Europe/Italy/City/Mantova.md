@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mantova](../../../../../../_public/geo/Continent/Europe/Italy/City/Mantova.md) 
-- [Mantova.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Mantova.internal.md) 
-- [Mantova.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Mantova.protect.md) 
-- [Mantova.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Mantova.private.md) 
-- [Mantova.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Mantova.personal.md) 
-- [Mantova.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Mantova.secret.md) 

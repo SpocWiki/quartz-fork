@@ -19,10 +19,3 @@ title: Triz-moving_Volume+Segmentation-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Volume+Segmentation-Reliability](../../../../_public/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Reliability.md) 
-- [Triz-moving_Volume+Segmentation-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Reliability.internal.md) 
-- [Triz-moving_Volume+Segmentation-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Reliability.protect.md) 
-- [Triz-moving_Volume+Segmentation-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Reliability.private.md) 
-- [Triz-moving_Volume+Segmentation-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Reliability.personal.md) 
-- [Triz-moving_Volume+Segmentation-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Volume+Segmentation-Reliability.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Zara](../../../../../../_public/geo/Continent/Europe/Russia/City/Zara.md) 
-- [Zara.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Zara.internal.md) 
-- [Zara.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Zara.protect.md) 
-- [Zara.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Zara.private.md) 
-- [Zara.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Zara.personal.md) 
-- [Zara.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Zara.secret.md) 

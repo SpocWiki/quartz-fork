@@ -45,10 +45,3 @@ Play mode: CoOp. Co-operative games, where you play on the same team with friend
 
 
 
-## Confidential Links & Embeds: 
-- [co_op](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/co_op.md) 
-- [co_op.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/co_op.internal.md) 
-- [co_op.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/co_op.protect.md) 
-- [co_op.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/co_op.private.md) 
-- [co_op.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/co_op.personal.md) 
-- [co_op.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/co_op.secret.md) 

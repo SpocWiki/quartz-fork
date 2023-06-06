@@ -19,10 +19,3 @@ title: Triz-Quantity+Local_quality-Stress
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Quantity+Local_quality-Stress](../../../../_public/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.md) 
-- [Triz-Quantity+Local_quality-Stress.internal](../../../../_internal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.internal.md) 
-- [Triz-Quantity+Local_quality-Stress.protect](../../../../_protect/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.protect.md) 
-- [Triz-Quantity+Local_quality-Stress.private](../../../../_private/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.private.md) 
-- [Triz-Quantity+Local_quality-Stress.personal](../../../../_personal/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.personal.md) 
-- [Triz-Quantity+Local_quality-Stress.secret](../../../../_secret/tech/Triz/Contradict/Triz-Quantity+Local_quality-Stress.secret.md) 

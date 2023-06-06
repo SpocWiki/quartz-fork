@@ -19,10 +19,3 @@ title: Triz-moving_Area+Extraction-Stability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Extraction-Stability](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Extraction-Stability.md) 
-- [Triz-moving_Area+Extraction-Stability.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Extraction-Stability.internal.md) 
-- [Triz-moving_Area+Extraction-Stability.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Extraction-Stability.protect.md) 
-- [Triz-moving_Area+Extraction-Stability.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Extraction-Stability.private.md) 
-- [Triz-moving_Area+Extraction-Stability.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Extraction-Stability.personal.md) 
-- [Triz-moving_Area+Extraction-Stability.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Extraction-Stability.secret.md) 

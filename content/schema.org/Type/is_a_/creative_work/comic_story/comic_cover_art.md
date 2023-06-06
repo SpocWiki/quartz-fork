@@ -45,10 +45,3 @@ The artwork on the cover of a comic.
 
 
 
-## Confidential Links & Embeds: 
-- [comic_cover_art](../../../../../../_public/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.md) 
-- [comic_cover_art.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.internal.md) 
-- [comic_cover_art.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.protect.md) 
-- [comic_cover_art.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.private.md) 
-- [comic_cover_art.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.personal.md) 
-- [comic_cover_art.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.secret.md) 

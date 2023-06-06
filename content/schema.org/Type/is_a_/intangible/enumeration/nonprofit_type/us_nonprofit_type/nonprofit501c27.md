@@ -47,10 +47,3 @@ Nonprofit501c27: Non-profit type referring to State-Sponsored Workers' Compensat
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c27](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c27.md) 
-- [nonprofit501c27.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c27.internal.md) 
-- [nonprofit501c27.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c27.protect.md) 
-- [nonprofit501c27.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c27.private.md) 
-- [nonprofit501c27.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c27.personal.md) 
-- [nonprofit501c27.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c27.secret.md) 

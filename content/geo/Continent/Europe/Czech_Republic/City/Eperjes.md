@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eperjes](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Eperjes.md) 
-- [Eperjes.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Eperjes.internal.md) 
-- [Eperjes.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Eperjes.protect.md) 
-- [Eperjes.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Eperjes.private.md) 
-- [Eperjes.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Eperjes.personal.md) 
-- [Eperjes.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Eperjes.secret.md) 

@@ -47,10 +47,3 @@ Nonprofit501c24: Non-profit type referring to Section 4049 ERISA Trusts.
 
 
 
-## Confidential Links & Embeds: 
-- [nonprofit501c24](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.md) 
-- [nonprofit501c24.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.internal.md) 
-- [nonprofit501c24.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.protect.md) 
-- [nonprofit501c24.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.private.md) 
-- [nonprofit501c24.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.personal.md) 
-- [nonprofit501c24.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c24.secret.md) 

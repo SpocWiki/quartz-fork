@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Bad_Ischl](../../../../../../_public/geo/Continent/Europe/Austria/City/Bad_Ischl.md) 
-- [Bad_Ischl.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Bad_Ischl.internal.md) 
-- [Bad_Ischl.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Bad_Ischl.protect.md) 
-- [Bad_Ischl.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Bad_Ischl.private.md) 
-- [Bad_Ischl.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Bad_Ischl.personal.md) 
-- [Bad_Ischl.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Bad_Ischl.secret.md) 

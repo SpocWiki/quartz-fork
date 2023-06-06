@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Adelsnaes](../../../../../../_public/geo/Continent/Europe/Sweden/City/Adelsnaes.md) 
-- [Adelsnaes.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Adelsnaes.internal.md) 
-- [Adelsnaes.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Adelsnaes.protect.md) 
-- [Adelsnaes.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Adelsnaes.private.md) 
-- [Adelsnaes.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Adelsnaes.personal.md) 
-- [Adelsnaes.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Adelsnaes.secret.md) 

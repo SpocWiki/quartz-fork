@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sarajevo](../../../../../../_public/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.md) 
-- [Sarajevo.internal](../../../../../../_internal/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.internal.md) 
-- [Sarajevo.protect](../../../../../../_protect/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.protect.md) 
-- [Sarajevo.private](../../../../../../_private/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.private.md) 
-- [Sarajevo.personal](../../../../../../_personal/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.personal.md) 
-- [Sarajevo.secret](../../../../../../_secret/geo/Continent/Europe/Bosnia_and_Herzegovina/City/Sarajevo.secret.md) 

@@ -43,10 +43,3 @@ A hospital.
 
 
 
-## Confidential Links & Embeds: 
-- [hospital](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.md) 
-- [hospital.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.internal.md) 
-- [hospital.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.protect.md) 
-- [hospital.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.private.md) 
-- [hospital.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.personal.md) 
-- [hospital.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.secret.md) 

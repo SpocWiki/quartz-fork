@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Popayan](../../../../../../_public/geo/Continent/South-America/Colombia/City/Popayan.md) 
-- [Popayan.internal](../../../../../../_internal/geo/Continent/South-America/Colombia/City/Popayan.internal.md) 
-- [Popayan.protect](../../../../../../_protect/geo/Continent/South-America/Colombia/City/Popayan.protect.md) 
-- [Popayan.private](../../../../../../_private/geo/Continent/South-America/Colombia/City/Popayan.private.md) 
-- [Popayan.personal](../../../../../../_personal/geo/Continent/South-America/Colombia/City/Popayan.personal.md) 
-- [Popayan.secret](../../../../../../_secret/geo/Continent/South-America/Colombia/City/Popayan.secret.md) 

@@ -19,10 +19,3 @@ title: Triz-Ease_of_manufacture+Segmentation-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Ease_of_manufacture+Segmentation-Speed](../../../../_public/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.internal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.protect.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.private.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.personal.md) 
-- [Triz-Ease_of_manufacture+Segmentation-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Ease_of_manufacture+Segmentation-Speed.secret.md) 

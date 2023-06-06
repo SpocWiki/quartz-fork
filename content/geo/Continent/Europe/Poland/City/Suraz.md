@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Suraz](../../../../../../_public/geo/Continent/Europe/Poland/City/Suraz.md) 
-- [Suraz.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Suraz.internal.md) 
-- [Suraz.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Suraz.protect.md) 
-- [Suraz.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Suraz.private.md) 
-- [Suraz.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Suraz.personal.md) 
-- [Suraz.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Suraz.secret.md) 

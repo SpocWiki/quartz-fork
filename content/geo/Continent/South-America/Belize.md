@@ -120,7 +120,7 @@ markerFolder: ./Belize/City
 
 ![350](geo/Continent/South-America/Belize/Coat_of_arms_of_Belize.svg)
 
-![Anthem-Belize](xLarge/National-Anthem/Anthem-Belize.mp3)
+[Anthem-Belize](xLarge/National-Anthem/Anthem-Belize.mp3)
 
 ![350](geo/Continent/South-America/Belize/Flag_of_Belize.svg)
 
@@ -131,10 +131,3 @@ markerFolder: ./Belize/City
 
 
 
-## Confidential Links & Embeds: 
-- [Belize](../../../../_public/geo/Continent/South-America/Belize.md) 
-- [Belize.internal](../../../../_internal/geo/Continent/South-America/Belize.internal.md) 
-- [Belize.protect](../../../../_protect/geo/Continent/South-America/Belize.protect.md) 
-- [Belize.private](../../../../_private/geo/Continent/South-America/Belize.private.md) 
-- [Belize.personal](../../../../_personal/geo/Continent/South-America/Belize.personal.md) 
-- [Belize.secret](../../../../_secret/geo/Continent/South-America/Belize.secret.md) 

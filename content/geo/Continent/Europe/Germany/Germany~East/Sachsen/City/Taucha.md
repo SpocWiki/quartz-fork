@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Taucha](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Taucha.md) 
-- [Taucha.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Taucha.internal.md) 
-- [Taucha.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Taucha.protect.md) 
-- [Taucha.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Taucha.private.md) 
-- [Taucha.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Taucha.personal.md) 
-- [Taucha.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Taucha.secret.md) 

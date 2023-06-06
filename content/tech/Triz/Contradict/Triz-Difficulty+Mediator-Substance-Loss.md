@@ -19,10 +19,3 @@ title: Triz-Difficulty+Mediator-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Difficulty+Mediator-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.md) 
-- [Triz-Difficulty+Mediator-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.internal.md) 
-- [Triz-Difficulty+Mediator-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.protect.md) 
-- [Triz-Difficulty+Mediator-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.private.md) 
-- [Triz-Difficulty+Mediator-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.personal.md) 
-- [Triz-Difficulty+Mediator-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Difficulty+Mediator-Substance-Loss.secret.md) 

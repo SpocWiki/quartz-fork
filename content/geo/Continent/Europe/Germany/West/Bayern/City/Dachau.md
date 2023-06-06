@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dachau](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Dachau.md) 
-- [Dachau.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dachau.internal.md) 
-- [Dachau.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dachau.protect.md) 
-- [Dachau.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dachau.private.md) 
-- [Dachau.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dachau.personal.md) 
-- [Dachau.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dachau.secret.md) 

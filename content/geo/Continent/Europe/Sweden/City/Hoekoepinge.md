@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hoekoepinge](../../../../../../_public/geo/Continent/Europe/Sweden/City/Hoekoepinge.md) 
-- [Hoekoepinge.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Hoekoepinge.internal.md) 
-- [Hoekoepinge.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Hoekoepinge.protect.md) 
-- [Hoekoepinge.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Hoekoepinge.private.md) 
-- [Hoekoepinge.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Hoekoepinge.personal.md) 
-- [Hoekoepinge.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Hoekoepinge.secret.md) 

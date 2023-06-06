@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Yttergrund](../../../../../../_public/geo/Continent/Europe/Finland/City/Yttergrund.md) 
-- [Yttergrund.internal](../../../../../../_internal/geo/Continent/Europe/Finland/City/Yttergrund.internal.md) 
-- [Yttergrund.protect](../../../../../../_protect/geo/Continent/Europe/Finland/City/Yttergrund.protect.md) 
-- [Yttergrund.private](../../../../../../_private/geo/Continent/Europe/Finland/City/Yttergrund.private.md) 
-- [Yttergrund.personal](../../../../../../_personal/geo/Continent/Europe/Finland/City/Yttergrund.personal.md) 
-- [Yttergrund.secret](../../../../../../_secret/geo/Continent/Europe/Finland/City/Yttergrund.secret.md) 

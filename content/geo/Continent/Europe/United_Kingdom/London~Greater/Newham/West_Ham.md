@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [West_Ham](../../../../../../../_public/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.md) 
-- [West_Ham.internal](../../../../../../../_internal/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.internal.md) 
-- [West_Ham.protect](../../../../../../../_protect/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.protect.md) 
-- [West_Ham.private](../../../../../../../_private/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.private.md) 
-- [West_Ham.personal](../../../../../../../_personal/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.personal.md) 
-- [West_Ham.secret](../../../../../../../_secret/geo/Continent/Europe/United_Kingdom/London~Greater/Newham/West_Ham.secret.md) 

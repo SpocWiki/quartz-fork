@@ -45,10 +45,3 @@ SingleRelease.
 
 
 
-## Confidential Links & Embeds: 
-- [single_release](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.md) 
-- [single_release.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.internal.md) 
-- [single_release.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.protect.md) 
-- [single_release.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.private.md) 
-- [single_release.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.personal.md) 
-- [single_release.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.secret.md) 

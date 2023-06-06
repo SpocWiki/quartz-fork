@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kirchheim-Teck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim-Teck.md) 
-- [Kirchheim-Teck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim-Teck.internal.md) 
-- [Kirchheim-Teck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim-Teck.protect.md) 
-- [Kirchheim-Teck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim-Teck.private.md) 
-- [Kirchheim-Teck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim-Teck.personal.md) 
-- [Kirchheim-Teck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Baden-Wuerttemberg/City/Kirchheim-Teck.secret.md) 

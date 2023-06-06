@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schoenenberg-Kuebelberg](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.md) 
-- [Schoenenberg-Kuebelberg.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.internal.md) 
-- [Schoenenberg-Kuebelberg.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.protect.md) 
-- [Schoenenberg-Kuebelberg.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.private.md) 
-- [Schoenenberg-Kuebelberg.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.personal.md) 
-- [Schoenenberg-Kuebelberg.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Rheinland-Pfalz/City/Schoenenberg-Kuebelberg.secret.md) 

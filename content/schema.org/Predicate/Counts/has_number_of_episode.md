@@ -47,10 +47,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_episode](../../../../_public/schema.org/Predicate/Counts/has_number_of_episode.md) 
-- [has_number_of_episode.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_episode.internal.md) 
-- [has_number_of_episode.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_episode.protect.md) 
-- [has_number_of_episode.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_episode.private.md) 
-- [has_number_of_episode.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_episode.personal.md) 
-- [has_number_of_episode.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_episode.secret.md) 

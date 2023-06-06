@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Albertville](../../../../../../_public/geo/Continent/Europe/France/City/Albertville.md) 
-- [Albertville.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Albertville.internal.md) 
-- [Albertville.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Albertville.protect.md) 
-- [Albertville.private](../../../../../../_private/geo/Continent/Europe/France/City/Albertville.private.md) 
-- [Albertville.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Albertville.personal.md) 
-- [Albertville.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Albertville.secret.md) 

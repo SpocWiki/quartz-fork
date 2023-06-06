@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wyganowo](../../../../../../_public/geo/Continent/Europe/Poland/City/Wyganowo.md) 
-- [Wyganowo.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Wyganowo.internal.md) 
-- [Wyganowo.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Wyganowo.protect.md) 
-- [Wyganowo.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Wyganowo.private.md) 
-- [Wyganowo.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Wyganowo.personal.md) 
-- [Wyganowo.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Wyganowo.secret.md) 

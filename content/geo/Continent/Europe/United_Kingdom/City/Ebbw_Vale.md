@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ebbw_Vale](../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Ebbw_Vale.md) 
-- [Ebbw_Vale.internal](../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Ebbw_Vale.internal.md) 
-- [Ebbw_Vale.protect](../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Ebbw_Vale.protect.md) 
-- [Ebbw_Vale.private](../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Ebbw_Vale.private.md) 
-- [Ebbw_Vale.personal](../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Ebbw_Vale.personal.md) 
-- [Ebbw_Vale.secret](../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Ebbw_Vale.secret.md) 

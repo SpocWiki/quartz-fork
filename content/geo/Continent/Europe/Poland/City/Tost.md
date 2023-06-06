@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tost](../../../../../../_public/geo/Continent/Europe/Poland/City/Tost.md) 
-- [Tost.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Tost.internal.md) 
-- [Tost.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Tost.protect.md) 
-- [Tost.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Tost.private.md) 
-- [Tost.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Tost.personal.md) 
-- [Tost.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Tost.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tulle](../../../../../../_public/geo/Continent/Europe/France/City/Tulle.md) 
-- [Tulle.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Tulle.internal.md) 
-- [Tulle.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Tulle.protect.md) 
-- [Tulle.private](../../../../../../_private/geo/Continent/Europe/France/City/Tulle.private.md) 
-- [Tulle.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Tulle.personal.md) 
-- [Tulle.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Tulle.secret.md) 

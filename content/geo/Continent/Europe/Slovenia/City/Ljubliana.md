@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ljubliana](../../../../../../_public/geo/Continent/Europe/Slovenia/City/Ljubliana.md) 
-- [Ljubliana.internal](../../../../../../_internal/geo/Continent/Europe/Slovenia/City/Ljubliana.internal.md) 
-- [Ljubliana.protect](../../../../../../_protect/geo/Continent/Europe/Slovenia/City/Ljubliana.protect.md) 
-- [Ljubliana.private](../../../../../../_private/geo/Continent/Europe/Slovenia/City/Ljubliana.private.md) 
-- [Ljubliana.personal](../../../../../../_personal/geo/Continent/Europe/Slovenia/City/Ljubliana.personal.md) 
-- [Ljubliana.secret](../../../../../../_secret/geo/Continent/Europe/Slovenia/City/Ljubliana.secret.md) 

@@ -45,10 +45,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_number_of_repetitions](../../../../_public/schema.org/Predicate/Counts/has_number_of_repetitions.md) 
-- [has_number_of_repetitions.internal](../../../../_internal/schema.org/Predicate/Counts/has_number_of_repetitions.internal.md) 
-- [has_number_of_repetitions.protect](../../../../_protect/schema.org/Predicate/Counts/has_number_of_repetitions.protect.md) 
-- [has_number_of_repetitions.private](../../../../_private/schema.org/Predicate/Counts/has_number_of_repetitions.private.md) 
-- [has_number_of_repetitions.personal](../../../../_personal/schema.org/Predicate/Counts/has_number_of_repetitions.personal.md) 
-- [has_number_of_repetitions.secret](../../../../_secret/schema.org/Predicate/Counts/has_number_of_repetitions.secret.md) 

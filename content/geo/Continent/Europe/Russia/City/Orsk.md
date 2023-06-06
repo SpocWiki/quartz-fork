@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Orsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Orsk.md) 
-- [Orsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Orsk.internal.md) 
-- [Orsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Orsk.protect.md) 
-- [Orsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Orsk.private.md) 
-- [Orsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Orsk.personal.md) 
-- [Orsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Orsk.secret.md) 

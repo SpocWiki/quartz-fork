@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Aarhus](../../../../../../_public/geo/Continent/Europe/Denmark/City/Aarhus.md) 
-- [Aarhus.internal](../../../../../../_internal/geo/Continent/Europe/Denmark/City/Aarhus.internal.md) 
-- [Aarhus.protect](../../../../../../_protect/geo/Continent/Europe/Denmark/City/Aarhus.protect.md) 
-- [Aarhus.private](../../../../../../_private/geo/Continent/Europe/Denmark/City/Aarhus.private.md) 
-- [Aarhus.personal](../../../../../../_personal/geo/Continent/Europe/Denmark/City/Aarhus.personal.md) 
-- [Aarhus.secret](../../../../../../_secret/geo/Continent/Europe/Denmark/City/Aarhus.secret.md) 

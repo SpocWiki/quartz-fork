@@ -25,7 +25,7 @@ markerFolder: ./United_States_of_America/City
 ![350](geo/Continent/North-America/United_States_of_America/Coat_of_Arms_of_the_United_States_(obverse).svg)
 
 ![350](Coat_of_arms_of_United-states.svg)
-![Anthem-United-states](xLarge/National-Anthem/Anthem-United-states.mp3)
+[Anthem-United-states](xLarge/National-Anthem/Anthem-United-states.mp3)
 ![350](Flag_of_United-states.svg)
 
 ![350](geo/Continent/North-America/United_States_of_America/Flag_of_the_United_States.svg)
@@ -41,10 +41,3 @@ markerFolder: ./United_States_of_America/City
 
 
 
-## Confidential Links & Embeds: 
-- [United_States_of_America](../../../../_public/geo/Continent/North-America/United_States_of_America.md) 
-- [United_States_of_America.internal](../../../../_internal/geo/Continent/North-America/United_States_of_America.internal.md) 
-- [United_States_of_America.protect](../../../../_protect/geo/Continent/North-America/United_States_of_America.protect.md) 
-- [United_States_of_America.private](../../../../_private/geo/Continent/North-America/United_States_of_America.private.md) 
-- [United_States_of_America.personal](../../../../_personal/geo/Continent/North-America/United_States_of_America.personal.md) 
-- [United_States_of_America.secret](../../../../_secret/geo/Continent/North-America/United_States_of_America.secret.md) 

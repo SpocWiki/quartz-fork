@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Deutsch-Kravern](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.md) 
-- [Deutsch-Kravern.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.internal.md) 
-- [Deutsch-Kravern.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.protect.md) 
-- [Deutsch-Kravern.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.private.md) 
-- [Deutsch-Kravern.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.personal.md) 
-- [Deutsch-Kravern.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.secret.md) 

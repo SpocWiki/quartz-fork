@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Friedeberg](../../../../../../_public/geo/Continent/Europe/Poland/City/Friedeberg.md) 
-- [Friedeberg.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Friedeberg.internal.md) 
-- [Friedeberg.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Friedeberg.protect.md) 
-- [Friedeberg.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Friedeberg.private.md) 
-- [Friedeberg.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Friedeberg.personal.md) 
-- [Friedeberg.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Friedeberg.secret.md) 

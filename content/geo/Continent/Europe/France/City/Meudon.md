@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Meudon](../../../../../../_public/geo/Continent/Europe/France/City/Meudon.md) 
-- [Meudon.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Meudon.internal.md) 
-- [Meudon.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Meudon.protect.md) 
-- [Meudon.private](../../../../../../_private/geo/Continent/Europe/France/City/Meudon.private.md) 
-- [Meudon.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Meudon.personal.md) 
-- [Meudon.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Meudon.secret.md) 

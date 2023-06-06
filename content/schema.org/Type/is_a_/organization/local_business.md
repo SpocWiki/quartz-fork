@@ -45,10 +45,3 @@ A particular physical business or branch of an organization. Examples of LocalBu
 
 
 
-## Confidential Links & Embeds: 
-- [local_business](../../../../../_public/schema.org/Type/is_a_/organization/local_business.md) 
-- [local_business.internal](../../../../../_internal/schema.org/Type/is_a_/organization/local_business.internal.md) 
-- [local_business.protect](../../../../../_protect/schema.org/Type/is_a_/organization/local_business.protect.md) 
-- [local_business.private](../../../../../_private/schema.org/Type/is_a_/organization/local_business.private.md) 
-- [local_business.personal](../../../../../_personal/schema.org/Type/is_a_/organization/local_business.personal.md) 
-- [local_business.secret](../../../../../_secret/schema.org/Type/is_a_/organization/local_business.secret.md) 

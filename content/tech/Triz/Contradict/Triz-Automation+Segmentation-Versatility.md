@@ -19,10 +19,3 @@ title: Triz-Automation+Segmentation-Versatility
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Automation+Segmentation-Versatility](../../../../_public/tech/Triz/Contradict/Triz-Automation+Segmentation-Versatility.md) 
-- [Triz-Automation+Segmentation-Versatility.internal](../../../../_internal/tech/Triz/Contradict/Triz-Automation+Segmentation-Versatility.internal.md) 
-- [Triz-Automation+Segmentation-Versatility.protect](../../../../_protect/tech/Triz/Contradict/Triz-Automation+Segmentation-Versatility.protect.md) 
-- [Triz-Automation+Segmentation-Versatility.private](../../../../_private/tech/Triz/Contradict/Triz-Automation+Segmentation-Versatility.private.md) 
-- [Triz-Automation+Segmentation-Versatility.personal](../../../../_personal/tech/Triz/Contradict/Triz-Automation+Segmentation-Versatility.personal.md) 
-- [Triz-Automation+Segmentation-Versatility.secret](../../../../_secret/tech/Triz/Contradict/Triz-Automation+Segmentation-Versatility.secret.md) 

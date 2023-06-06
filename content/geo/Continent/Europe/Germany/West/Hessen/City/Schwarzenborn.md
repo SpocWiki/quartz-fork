@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwarzenborn](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.md) 
-- [Schwarzenborn.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.internal.md) 
-- [Schwarzenborn.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.protect.md) 
-- [Schwarzenborn.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.private.md) 
-- [Schwarzenborn.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.personal.md) 
-- [Schwarzenborn.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Hessen/City/Schwarzenborn.secret.md) 

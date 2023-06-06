@@ -19,10 +19,3 @@ title: Triz-Illumination+Periodic_action-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Illumination+Periodic_action-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.md) 
-- [Triz-Illumination+Periodic_action-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.internal.md) 
-- [Triz-Illumination+Periodic_action-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.protect.md) 
-- [Triz-Illumination+Periodic_action-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.private.md) 
-- [Triz-Illumination+Periodic_action-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.personal.md) 
-- [Triz-Illumination+Periodic_action-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Illumination+Periodic_action-Quantity.secret.md) 

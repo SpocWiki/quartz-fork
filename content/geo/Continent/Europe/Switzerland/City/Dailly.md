@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dailly](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Dailly.md) 
-- [Dailly.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Dailly.internal.md) 
-- [Dailly.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Dailly.protect.md) 
-- [Dailly.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Dailly.private.md) 
-- [Dailly.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Dailly.personal.md) 
-- [Dailly.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Dailly.secret.md) 

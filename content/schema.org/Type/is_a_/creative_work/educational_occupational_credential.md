@@ -45,10 +45,3 @@ An educational or occupational credential. A diploma, academic degree, certifica
 
 
 
-## Confidential Links & Embeds: 
-- [educational_occupational_credential](../../../../../_public/schema.org/Type/is_a_/creative_work/educational_occupational_credential.md) 
-- [educational_occupational_credential.internal](../../../../../_internal/schema.org/Type/is_a_/creative_work/educational_occupational_credential.internal.md) 
-- [educational_occupational_credential.protect](../../../../../_protect/schema.org/Type/is_a_/creative_work/educational_occupational_credential.protect.md) 
-- [educational_occupational_credential.private](../../../../../_private/schema.org/Type/is_a_/creative_work/educational_occupational_credential.private.md) 
-- [educational_occupational_credential.personal](../../../../../_personal/schema.org/Type/is_a_/creative_work/educational_occupational_credential.personal.md) 
-- [educational_occupational_credential.secret](../../../../../_secret/schema.org/Type/is_a_/creative_work/educational_occupational_credential.secret.md) 

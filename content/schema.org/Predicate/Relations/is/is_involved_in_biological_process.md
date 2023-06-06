@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_involved_in_biological_process](../../../../../_public/schema.org/Predicate/Relations/is/is_involved_in_biological_process.md) 
-- [is_involved_in_biological_process.internal](../../../../../_internal/schema.org/Predicate/Relations/is/is_involved_in_biological_process.internal.md) 
-- [is_involved_in_biological_process.protect](../../../../../_protect/schema.org/Predicate/Relations/is/is_involved_in_biological_process.protect.md) 
-- [is_involved_in_biological_process.private](../../../../../_private/schema.org/Predicate/Relations/is/is_involved_in_biological_process.private.md) 
-- [is_involved_in_biological_process.personal](../../../../../_personal/schema.org/Predicate/Relations/is/is_involved_in_biological_process.personal.md) 
-- [is_involved_in_biological_process.secret](../../../../../_secret/schema.org/Predicate/Relations/is/is_involved_in_biological_process.secret.md) 

@@ -43,10 +43,3 @@ The act of consuming audio content.
 
 
 
-## Confidential Links & Embeds: 
-- [listen_action](../../../../../../_public/schema.org/Type/is_a_/action/consume_action/listen_action.md) 
-- [listen_action.internal](../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/listen_action.internal.md) 
-- [listen_action.protect](../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/listen_action.protect.md) 
-- [listen_action.private](../../../../../../_private/schema.org/Type/is_a_/action/consume_action/listen_action.private.md) 
-- [listen_action.personal](../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/listen_action.personal.md) 
-- [listen_action.secret](../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/listen_action.secret.md) 

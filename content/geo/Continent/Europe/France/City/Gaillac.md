@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Gaillac](../../../../../../_public/geo/Continent/Europe/France/City/Gaillac.md) 
-- [Gaillac.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Gaillac.internal.md) 
-- [Gaillac.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Gaillac.protect.md) 
-- [Gaillac.private](../../../../../../_private/geo/Continent/Europe/France/City/Gaillac.private.md) 
-- [Gaillac.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Gaillac.personal.md) 
-- [Gaillac.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Gaillac.secret.md) 

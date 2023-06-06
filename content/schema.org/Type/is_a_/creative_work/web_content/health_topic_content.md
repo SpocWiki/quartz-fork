@@ -45,10 +45,3 @@ Tag Instances like this:
 
 
 
-## Confidential Links & Embeds: 
-- [health_topic_content](../../../../../../_public/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.md) 
-- [health_topic_content.internal](../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.internal.md) 
-- [health_topic_content.protect](../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.protect.md) 
-- [health_topic_content.private](../../../../../../_private/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.private.md) 
-- [health_topic_content.personal](../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.personal.md) 
-- [health_topic_content.secret](../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Wurmbrand](../../../../../../_public/geo/Continent/Europe/Austria/City/Wurmbrand.md) 
-- [Wurmbrand.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Wurmbrand.internal.md) 
-- [Wurmbrand.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Wurmbrand.protect.md) 
-- [Wurmbrand.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Wurmbrand.private.md) 
-- [Wurmbrand.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Wurmbrand.personal.md) 
-- [Wurmbrand.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Wurmbrand.secret.md) 

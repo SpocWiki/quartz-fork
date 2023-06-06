@@ -19,10 +19,3 @@ title: Triz-Information-Loss+Copying-Speed
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Information-Loss+Copying-Speed](../../../../_public/tech/Triz/Contradict/Triz-Information-Loss+Copying-Speed.md) 
-- [Triz-Information-Loss+Copying-Speed.internal](../../../../_internal/tech/Triz/Contradict/Triz-Information-Loss+Copying-Speed.internal.md) 
-- [Triz-Information-Loss+Copying-Speed.protect](../../../../_protect/tech/Triz/Contradict/Triz-Information-Loss+Copying-Speed.protect.md) 
-- [Triz-Information-Loss+Copying-Speed.private](../../../../_private/tech/Triz/Contradict/Triz-Information-Loss+Copying-Speed.private.md) 
-- [Triz-Information-Loss+Copying-Speed.personal](../../../../_personal/tech/Triz/Contradict/Triz-Information-Loss+Copying-Speed.personal.md) 
-- [Triz-Information-Loss+Copying-Speed.secret](../../../../_secret/tech/Triz/Contradict/Triz-Information-Loss+Copying-Speed.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kristinehamm](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kristinehamm.md) 
-- [Kristinehamm.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kristinehamm.internal.md) 
-- [Kristinehamm.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kristinehamm.protect.md) 
-- [Kristinehamm.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kristinehamm.private.md) 
-- [Kristinehamm.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kristinehamm.personal.md) 
-- [Kristinehamm.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kristinehamm.secret.md) 

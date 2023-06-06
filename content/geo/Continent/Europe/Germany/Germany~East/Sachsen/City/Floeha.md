@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Floeha](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Floeha.md) 
-- [Floeha.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Floeha.internal.md) 
-- [Floeha.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Floeha.protect.md) 
-- [Floeha.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Floeha.private.md) 
-- [Floeha.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Floeha.personal.md) 
-- [Floeha.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Floeha.secret.md) 

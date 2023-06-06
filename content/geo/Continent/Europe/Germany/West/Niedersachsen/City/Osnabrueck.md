@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Osnabrueck](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.md) 
-- [Osnabrueck.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.internal.md) 
-- [Osnabrueck.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.protect.md) 
-- [Osnabrueck.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.private.md) 
-- [Osnabrueck.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.personal.md) 
-- [Osnabrueck.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Osnabrueck.secret.md) 

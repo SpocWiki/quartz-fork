@@ -39,10 +39,3 @@ title: Selenium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Selenium)
 
-## Confidential Links & Embeds: 
-- [Selenium](../../../../_public/chemic/Elements/Group-16-Chalcogene/Selenium.md) 
-- [Selenium.internal](../../../../_internal/chemic/Elements/Group-16-Chalcogene/Selenium.internal.md) 
-- [Selenium.protect](../../../../_protect/chemic/Elements/Group-16-Chalcogene/Selenium.protect.md) 
-- [Selenium.private](../../../../_private/chemic/Elements/Group-16-Chalcogene/Selenium.private.md) 
-- [Selenium.personal](../../../../_personal/chemic/Elements/Group-16-Chalcogene/Selenium.personal.md) 
-- [Selenium.secret](../../../../_secret/chemic/Elements/Group-16-Chalcogene/Selenium.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Novi_Pazar](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.md) 
-- [Novi_Pazar.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.internal.md) 
-- [Novi_Pazar.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.protect.md) 
-- [Novi_Pazar.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.private.md) 
-- [Novi_Pazar.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.personal.md) 
-- [Novi_Pazar.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Novi_Pazar.secret.md) 

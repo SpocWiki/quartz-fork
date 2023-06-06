@@ -19,10 +19,3 @@ title: Triz-Versatility+Counterweight-Reliability
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Versatility+Counterweight-Reliability](../../../../_public/tech/Triz/Contradict/Triz-Versatility+Counterweight-Reliability.md) 
-- [Triz-Versatility+Counterweight-Reliability.internal](../../../../_internal/tech/Triz/Contradict/Triz-Versatility+Counterweight-Reliability.internal.md) 
-- [Triz-Versatility+Counterweight-Reliability.protect](../../../../_protect/tech/Triz/Contradict/Triz-Versatility+Counterweight-Reliability.protect.md) 
-- [Triz-Versatility+Counterweight-Reliability.private](../../../../_private/tech/Triz/Contradict/Triz-Versatility+Counterweight-Reliability.private.md) 
-- [Triz-Versatility+Counterweight-Reliability.personal](../../../../_personal/tech/Triz/Contradict/Triz-Versatility+Counterweight-Reliability.personal.md) 
-- [Triz-Versatility+Counterweight-Reliability.secret](../../../../_secret/tech/Triz/Contradict/Triz-Versatility+Counterweight-Reliability.secret.md) 

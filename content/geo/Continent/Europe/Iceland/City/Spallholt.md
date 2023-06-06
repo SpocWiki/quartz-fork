@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Spallholt](../../../../../../_public/geo/Continent/Europe/Iceland/City/Spallholt.md) 
-- [Spallholt.internal](../../../../../../_internal/geo/Continent/Europe/Iceland/City/Spallholt.internal.md) 
-- [Spallholt.protect](../../../../../../_protect/geo/Continent/Europe/Iceland/City/Spallholt.protect.md) 
-- [Spallholt.private](../../../../../../_private/geo/Continent/Europe/Iceland/City/Spallholt.private.md) 
-- [Spallholt.personal](../../../../../../_personal/geo/Continent/Europe/Iceland/City/Spallholt.personal.md) 
-- [Spallholt.secret](../../../../../../_secret/geo/Continent/Europe/Iceland/City/Spallholt.secret.md) 

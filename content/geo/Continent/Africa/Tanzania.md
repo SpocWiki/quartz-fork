@@ -127,7 +127,7 @@ markerFolder: ./Tanzania/City
 
 ![350](geo/Continent/Africa/Tanzania/Coat_of_arms_of_Tanzania.svg)
 
-![Anthem-Tanzania](xLarge/National-Anthem/Anthem-Tanzania.mp3)
+[Anthem-Tanzania](xLarge/National-Anthem/Anthem-Tanzania.mp3)
 
 ![350](geo/Continent/Africa/Tanzania/Flag_of_Tanzania.svg)
 
@@ -138,10 +138,3 @@ markerFolder: ./Tanzania/City
 
 
 
-## Confidential Links & Embeds: 
-- [Tanzania](../../../../_public/geo/Continent/Africa/Tanzania.md) 
-- [Tanzania.internal](../../../../_internal/geo/Continent/Africa/Tanzania.internal.md) 
-- [Tanzania.protect](../../../../_protect/geo/Continent/Africa/Tanzania.protect.md) 
-- [Tanzania.private](../../../../_private/geo/Continent/Africa/Tanzania.private.md) 
-- [Tanzania.personal](../../../../_personal/geo/Continent/Africa/Tanzania.personal.md) 
-- [Tanzania.secret](../../../../_secret/geo/Continent/Africa/Tanzania.secret.md) 

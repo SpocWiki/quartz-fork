@@ -120,7 +120,7 @@ markerFolder: ./Angola/City
 
 ![350](geo/Continent/Africa/Angola/Emblem_of_Angola.svg)
 
-![Anthem-Angola](xLarge/National-Anthem/Anthem-Angola.mp3)
+[Anthem-Angola](xLarge/National-Anthem/Anthem-Angola.mp3)
 
 ![350](geo/Continent/Africa/Angola/Flag_of_Angola.svg)
 
@@ -131,10 +131,3 @@ markerFolder: ./Angola/City
 
 
 
-## Confidential Links & Embeds: 
-- [Angola](../../../../_public/geo/Continent/Africa/Angola.md) 
-- [Angola.internal](../../../../_internal/geo/Continent/Africa/Angola.internal.md) 
-- [Angola.protect](../../../../_protect/geo/Continent/Africa/Angola.protect.md) 
-- [Angola.private](../../../../_private/geo/Continent/Africa/Angola.private.md) 
-- [Angola.personal](../../../../_personal/geo/Continent/Africa/Angola.personal.md) 
-- [Angola.secret](../../../../_secret/geo/Continent/Africa/Angola.secret.md) 

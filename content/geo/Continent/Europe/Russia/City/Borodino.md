@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Borodino](../../../../../../_public/geo/Continent/Europe/Russia/City/Borodino.md) 
-- [Borodino.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Borodino.internal.md) 
-- [Borodino.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Borodino.protect.md) 
-- [Borodino.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Borodino.private.md) 
-- [Borodino.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Borodino.personal.md) 
-- [Borodino.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Borodino.secret.md) 

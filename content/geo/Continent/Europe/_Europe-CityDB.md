@@ -353,10 +353,3 @@ filters:
   conditions:
 ```
 
-## Confidential Links & Embeds: 
-- [_Europe-CityDB](../../../../_public/geo/Continent/Europe/_Europe-CityDB.md) 
-- [_Europe-CityDB.internal](../../../../_internal/geo/Continent/Europe/_Europe-CityDB.internal.md) 
-- [_Europe-CityDB.protect](../../../../_protect/geo/Continent/Europe/_Europe-CityDB.protect.md) 
-- [_Europe-CityDB.private](../../../../_private/geo/Continent/Europe/_Europe-CityDB.private.md) 
-- [_Europe-CityDB.personal](../../../../_personal/geo/Continent/Europe/_Europe-CityDB.personal.md) 
-- [_Europe-CityDB.secret](../../../../_secret/geo/Continent/Europe/_Europe-CityDB.secret.md) 

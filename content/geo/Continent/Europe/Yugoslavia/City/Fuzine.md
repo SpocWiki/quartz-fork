@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Fuzine](../../../../../../_public/geo/Continent/Europe/Yugoslavia/City/Fuzine.md) 
-- [Fuzine.internal](../../../../../../_internal/geo/Continent/Europe/Yugoslavia/City/Fuzine.internal.md) 
-- [Fuzine.protect](../../../../../../_protect/geo/Continent/Europe/Yugoslavia/City/Fuzine.protect.md) 
-- [Fuzine.private](../../../../../../_private/geo/Continent/Europe/Yugoslavia/City/Fuzine.private.md) 
-- [Fuzine.personal](../../../../../../_personal/geo/Continent/Europe/Yugoslavia/City/Fuzine.personal.md) 
-- [Fuzine.secret](../../../../../../_secret/geo/Continent/Europe/Yugoslavia/City/Fuzine.secret.md) 

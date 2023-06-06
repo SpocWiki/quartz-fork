@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Amstetten](../../../../../../_public/geo/Continent/Europe/Austria/City/Amstetten.md) 
-- [Amstetten.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Amstetten.internal.md) 
-- [Amstetten.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Amstetten.protect.md) 
-- [Amstetten.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Amstetten.private.md) 
-- [Amstetten.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Amstetten.personal.md) 
-- [Amstetten.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Amstetten.secret.md) 

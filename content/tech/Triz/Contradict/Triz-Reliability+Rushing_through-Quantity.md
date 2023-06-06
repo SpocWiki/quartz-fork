@@ -19,10 +19,3 @@ title: Triz-Reliability+Rushing_through-Quantity
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Rushing_through-Quantity](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.md) 
-- [Triz-Reliability+Rushing_through-Quantity.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.internal.md) 
-- [Triz-Reliability+Rushing_through-Quantity.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.protect.md) 
-- [Triz-Reliability+Rushing_through-Quantity.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.private.md) 
-- [Triz-Reliability+Rushing_through-Quantity.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.personal.md) 
-- [Triz-Reliability+Rushing_through-Quantity.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Rushing_through-Quantity.secret.md) 

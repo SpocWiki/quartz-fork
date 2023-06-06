@@ -19,10 +19,3 @@ title: Triz-moving_Area+Mechanical_vibration-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Mechanical_vibration-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.md) 
-- [Triz-moving_Area+Mechanical_vibration-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.internal.md) 
-- [Triz-moving_Area+Mechanical_vibration-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.protect.md) 
-- [Triz-moving_Area+Mechanical_vibration-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.private.md) 
-- [Triz-moving_Area+Mechanical_vibration-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.personal.md) 
-- [Triz-moving_Area+Mechanical_vibration-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Mechanical_vibration-Difficulty.secret.md) 

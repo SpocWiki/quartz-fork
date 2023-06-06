@@ -19,10 +19,3 @@ title: Triz-Intensity+Inversion-stationary_Weight
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Inversion-stationary_Weight](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Inversion-stationary_Weight.md) 
-- [Triz-Intensity+Inversion-stationary_Weight.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Inversion-stationary_Weight.internal.md) 
-- [Triz-Intensity+Inversion-stationary_Weight.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Inversion-stationary_Weight.protect.md) 
-- [Triz-Intensity+Inversion-stationary_Weight.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Inversion-stationary_Weight.private.md) 
-- [Triz-Intensity+Inversion-stationary_Weight.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Inversion-stationary_Weight.personal.md) 
-- [Triz-Intensity+Inversion-stationary_Weight.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Inversion-stationary_Weight.secret.md) 

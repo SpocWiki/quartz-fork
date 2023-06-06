@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Cremona](../../../../../../_public/geo/Continent/Europe/Italy/City/Cremona.md) 
-- [Cremona.internal](../../../../../../_internal/geo/Continent/Europe/Italy/City/Cremona.internal.md) 
-- [Cremona.protect](../../../../../../_protect/geo/Continent/Europe/Italy/City/Cremona.protect.md) 
-- [Cremona.private](../../../../../../_private/geo/Continent/Europe/Italy/City/Cremona.private.md) 
-- [Cremona.personal](../../../../../../_personal/geo/Continent/Europe/Italy/City/Cremona.personal.md) 
-- [Cremona.secret](../../../../../../_secret/geo/Continent/Europe/Italy/City/Cremona.secret.md) 

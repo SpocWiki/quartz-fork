@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Hartford](../../../../../../../_public/geo/Continent/North-America/United_States_of_America/Connecticut/City/Hartford.md) 
-- [Hartford.internal](../../../../../../../_internal/geo/Continent/North-America/United_States_of_America/Connecticut/City/Hartford.internal.md) 
-- [Hartford.protect](../../../../../../../_protect/geo/Continent/North-America/United_States_of_America/Connecticut/City/Hartford.protect.md) 
-- [Hartford.private](../../../../../../../_private/geo/Continent/North-America/United_States_of_America/Connecticut/City/Hartford.private.md) 
-- [Hartford.personal](../../../../../../../_personal/geo/Continent/North-America/United_States_of_America/Connecticut/City/Hartford.personal.md) 
-- [Hartford.secret](../../../../../../../_secret/geo/Continent/North-America/United_States_of_America/Connecticut/City/Hartford.secret.md) 

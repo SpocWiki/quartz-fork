@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Tesebend](../../../../../../_public/geo/Continent/Europe/Russia/City/Tesebend.md) 
-- [Tesebend.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Tesebend.internal.md) 
-- [Tesebend.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Tesebend.protect.md) 
-- [Tesebend.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Tesebend.private.md) 
-- [Tesebend.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Tesebend.personal.md) 
-- [Tesebend.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Tesebend.secret.md) 

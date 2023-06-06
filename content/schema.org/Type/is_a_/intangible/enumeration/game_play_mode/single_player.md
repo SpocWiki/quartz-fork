@@ -45,10 +45,3 @@ Play mode: SinglePlayer. Which is played by a lone player.
 
 
 
-## Confidential Links & Embeds: 
-- [single_player](../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/single_player.md) 
-- [single_player.internal](../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/single_player.internal.md) 
-- [single_player.protect](../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/single_player.protect.md) 
-- [single_player.private](../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/single_player.private.md) 
-- [single_player.personal](../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/single_player.personal.md) 
-- [single_player.secret](../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/game_play_mode/single_player.secret.md) 

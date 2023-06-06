@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ordino](../../../../../_public/geo/Continent/Europe/Andorra/Ordino.md) 
-- [Ordino.internal](../../../../../_internal/geo/Continent/Europe/Andorra/Ordino.internal.md) 
-- [Ordino.protect](../../../../../_protect/geo/Continent/Europe/Andorra/Ordino.protect.md) 
-- [Ordino.private](../../../../../_private/geo/Continent/Europe/Andorra/Ordino.private.md) 
-- [Ordino.personal](../../../../../_personal/geo/Continent/Europe/Andorra/Ordino.personal.md) 
-- [Ordino.secret](../../../../../_secret/geo/Continent/Europe/Andorra/Ordino.secret.md) 

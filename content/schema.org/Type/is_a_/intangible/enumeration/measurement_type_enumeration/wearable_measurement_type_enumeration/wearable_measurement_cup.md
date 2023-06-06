@@ -47,10 +47,3 @@ Measurement of the cup, for example of a bra
 
 
 
-## Confidential Links & Embeds: 
-- [wearable_measurement_cup](../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.md) 
-- [wearable_measurement_cup.internal](../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.internal.md) 
-- [wearable_measurement_cup.protect](../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.protect.md) 
-- [wearable_measurement_cup.private](../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.private.md) 
-- [wearable_measurement_cup.personal](../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.personal.md) 
-- [wearable_measurement_cup.secret](../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.secret.md) 

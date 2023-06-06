@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Harlingen](../../../../../../_public/geo/Continent/Europe/Netherlands/City/Harlingen.md) 
-- [Harlingen.internal](../../../../../../_internal/geo/Continent/Europe/Netherlands/City/Harlingen.internal.md) 
-- [Harlingen.protect](../../../../../../_protect/geo/Continent/Europe/Netherlands/City/Harlingen.protect.md) 
-- [Harlingen.private](../../../../../../_private/geo/Continent/Europe/Netherlands/City/Harlingen.private.md) 
-- [Harlingen.personal](../../../../../../_personal/geo/Continent/Europe/Netherlands/City/Harlingen.personal.md) 
-- [Harlingen.secret](../../../../../../_secret/geo/Continent/Europe/Netherlands/City/Harlingen.secret.md) 

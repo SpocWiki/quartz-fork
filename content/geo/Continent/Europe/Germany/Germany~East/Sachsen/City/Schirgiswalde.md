@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schirgiswalde](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.md) 
-- [Schirgiswalde.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.internal.md) 
-- [Schirgiswalde.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.protect.md) 
-- [Schirgiswalde.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.private.md) 
-- [Schirgiswalde.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.personal.md) 
-- [Schirgiswalde.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Schirgiswalde.secret.md) 

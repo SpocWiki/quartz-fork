@@ -43,10 +43,3 @@ A sea (for example, the Caspian sea).
 
 
 
-## Confidential Links & Embeds: 
-- [sea_body_of_water](../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/sea_body_of_water.md) 
-- [sea_body_of_water.internal](../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/sea_body_of_water.internal.md) 
-- [sea_body_of_water.protect](../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/sea_body_of_water.protect.md) 
-- [sea_body_of_water.private](../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/sea_body_of_water.private.md) 
-- [sea_body_of_water.personal](../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/sea_body_of_water.personal.md) 
-- [sea_body_of_water.secret](../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/sea_body_of_water.secret.md) 

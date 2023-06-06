@@ -46,10 +46,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [is_subscription_required](../../../../_public/schema.org/Predicate/Flags/is_subscription_required.md) 
-- [is_subscription_required.internal](../../../../_internal/schema.org/Predicate/Flags/is_subscription_required.internal.md) 
-- [is_subscription_required.protect](../../../../_protect/schema.org/Predicate/Flags/is_subscription_required.protect.md) 
-- [is_subscription_required.private](../../../../_private/schema.org/Predicate/Flags/is_subscription_required.private.md) 
-- [is_subscription_required.personal](../../../../_personal/schema.org/Predicate/Flags/is_subscription_required.personal.md) 
-- [is_subscription_required.secret](../../../../_secret/schema.org/Predicate/Flags/is_subscription_required.secret.md) 

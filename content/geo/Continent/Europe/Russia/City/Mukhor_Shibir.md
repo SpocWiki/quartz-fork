@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Mukhor_Shibir](../../../../../../_public/geo/Continent/Europe/Russia/City/Mukhor_Shibir.md) 
-- [Mukhor_Shibir.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Mukhor_Shibir.internal.md) 
-- [Mukhor_Shibir.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Mukhor_Shibir.protect.md) 
-- [Mukhor_Shibir.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Mukhor_Shibir.private.md) 
-- [Mukhor_Shibir.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Mukhor_Shibir.personal.md) 
-- [Mukhor_Shibir.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Mukhor_Shibir.secret.md) 

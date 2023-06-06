@@ -45,10 +45,3 @@ A blog post.
 
 
 
-## Confidential Links & Embeds: 
-- [blog_posting](../../../../../../../_public/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.md) 
-- [blog_posting.internal](../../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.internal.md) 
-- [blog_posting.protect](../../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.protect.md) 
-- [blog_posting.private](../../../../../../../_private/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.private.md) 
-- [blog_posting.personal](../../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.personal.md) 
-- [blog_posting.secret](../../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.secret.md) 

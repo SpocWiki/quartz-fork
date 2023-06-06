@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Nienburg~Weser](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nienburg~Weser.md) 
-- [Nienburg~Weser.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nienburg~Weser.internal.md) 
-- [Nienburg~Weser.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nienburg~Weser.protect.md) 
-- [Nienburg~Weser.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nienburg~Weser.private.md) 
-- [Nienburg~Weser.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nienburg~Weser.personal.md) 
-- [Nienburg~Weser.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Nienburg~Weser.secret.md) 

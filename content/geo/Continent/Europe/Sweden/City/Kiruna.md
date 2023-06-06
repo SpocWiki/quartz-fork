@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Kiruna](../../../../../../_public/geo/Continent/Europe/Sweden/City/Kiruna.md) 
-- [Kiruna.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kiruna.internal.md) 
-- [Kiruna.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kiruna.protect.md) 
-- [Kiruna.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Kiruna.private.md) 
-- [Kiruna.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kiruna.personal.md) 
-- [Kiruna.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kiruna.secret.md) 

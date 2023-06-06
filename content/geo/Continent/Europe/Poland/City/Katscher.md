@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Katscher](../../../../../../_public/geo/Continent/Europe/Poland/City/Katscher.md) 
-- [Katscher.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Katscher.internal.md) 
-- [Katscher.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Katscher.protect.md) 
-- [Katscher.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Katscher.private.md) 
-- [Katscher.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Katscher.personal.md) 
-- [Katscher.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Katscher.secret.md) 

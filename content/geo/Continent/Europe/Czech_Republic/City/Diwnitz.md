@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Diwnitz](../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Diwnitz.md) 
-- [Diwnitz.internal](../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Diwnitz.internal.md) 
-- [Diwnitz.protect](../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Diwnitz.protect.md) 
-- [Diwnitz.private](../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Diwnitz.private.md) 
-- [Diwnitz.personal](../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Diwnitz.personal.md) 
-- [Diwnitz.secret](../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Diwnitz.secret.md) 

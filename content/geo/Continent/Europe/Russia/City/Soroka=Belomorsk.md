@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Soroka=Belomorsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.md) 
-- [Soroka=Belomorsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.internal.md) 
-- [Soroka=Belomorsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.protect.md) 
-- [Soroka=Belomorsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.private.md) 
-- [Soroka=Belomorsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.personal.md) 
-- [Soroka=Belomorsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Soroka=Belomorsk.secret.md) 

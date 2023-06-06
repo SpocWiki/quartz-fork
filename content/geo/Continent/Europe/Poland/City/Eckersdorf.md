@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Eckersdorf](../../../../../../_public/geo/Continent/Europe/Poland/City/Eckersdorf.md) 
-- [Eckersdorf.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Eckersdorf.internal.md) 
-- [Eckersdorf.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Eckersdorf.protect.md) 
-- [Eckersdorf.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Eckersdorf.private.md) 
-- [Eckersdorf.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Eckersdorf.personal.md) 
-- [Eckersdorf.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Eckersdorf.secret.md) 

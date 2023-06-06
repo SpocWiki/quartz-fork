@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Schwedt](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwedt.md) 
-- [Schwedt.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwedt.internal.md) 
-- [Schwedt.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwedt.protect.md) 
-- [Schwedt.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwedt.private.md) 
-- [Schwedt.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwedt.personal.md) 
-- [Schwedt.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Brandenburg/City/Schwedt.secret.md) 

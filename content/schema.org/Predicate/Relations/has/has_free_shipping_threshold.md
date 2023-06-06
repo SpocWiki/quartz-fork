@@ -44,10 +44,3 @@ Relation describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_free_shipping_threshold](../../../../../_public/schema.org/Predicate/Relations/has/has_free_shipping_threshold.md) 
-- [has_free_shipping_threshold.internal](../../../../../_internal/schema.org/Predicate/Relations/has/has_free_shipping_threshold.internal.md) 
-- [has_free_shipping_threshold.protect](../../../../../_protect/schema.org/Predicate/Relations/has/has_free_shipping_threshold.protect.md) 
-- [has_free_shipping_threshold.private](../../../../../_private/schema.org/Predicate/Relations/has/has_free_shipping_threshold.private.md) 
-- [has_free_shipping_threshold.personal](../../../../../_personal/schema.org/Predicate/Relations/has/has_free_shipping_threshold.personal.md) 
-- [has_free_shipping_threshold.secret](../../../../../_secret/schema.org/Predicate/Relations/has/has_free_shipping_threshold.secret.md) 

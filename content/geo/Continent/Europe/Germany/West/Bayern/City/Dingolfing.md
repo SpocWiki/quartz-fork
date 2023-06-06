@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Dingolfing](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.md) 
-- [Dingolfing.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.internal.md) 
-- [Dingolfing.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.protect.md) 
-- [Dingolfing.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.private.md) 
-- [Dingolfing.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.personal.md) 
-- [Dingolfing.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.secret.md) 

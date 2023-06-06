@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Trafalgar](../../../../../../_public/geo/Continent/Europe/Spain/City/Trafalgar.md) 
-- [Trafalgar.internal](../../../../../../_internal/geo/Continent/Europe/Spain/City/Trafalgar.internal.md) 
-- [Trafalgar.protect](../../../../../../_protect/geo/Continent/Europe/Spain/City/Trafalgar.protect.md) 
-- [Trafalgar.private](../../../../../../_private/geo/Continent/Europe/Spain/City/Trafalgar.private.md) 
-- [Trafalgar.personal](../../../../../../_personal/geo/Continent/Europe/Spain/City/Trafalgar.personal.md) 
-- [Trafalgar.secret](../../../../../../_secret/geo/Continent/Europe/Spain/City/Trafalgar.secret.md) 

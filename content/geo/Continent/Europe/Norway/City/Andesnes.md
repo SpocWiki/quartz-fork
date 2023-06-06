@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Andesnes](../../../../../../_public/geo/Continent/Europe/Norway/City/Andesnes.md) 
-- [Andesnes.internal](../../../../../../_internal/geo/Continent/Europe/Norway/City/Andesnes.internal.md) 
-- [Andesnes.protect](../../../../../../_protect/geo/Continent/Europe/Norway/City/Andesnes.protect.md) 
-- [Andesnes.private](../../../../../../_private/geo/Continent/Europe/Norway/City/Andesnes.private.md) 
-- [Andesnes.personal](../../../../../../_personal/geo/Continent/Europe/Norway/City/Andesnes.personal.md) 
-- [Andesnes.secret](../../../../../../_secret/geo/Continent/Europe/Norway/City/Andesnes.secret.md) 

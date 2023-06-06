@@ -49,10 +49,3 @@ Predicate describes that:
 
 
 
-## Confidential Links & Embeds: 
-- [has_value_for_cargo_volume](../../../../_public/schema.org/Predicate/Quantities/has_value_for_cargo_volume.md) 
-- [has_value_for_cargo_volume.internal](../../../../_internal/schema.org/Predicate/Quantities/has_value_for_cargo_volume.internal.md) 
-- [has_value_for_cargo_volume.protect](../../../../_protect/schema.org/Predicate/Quantities/has_value_for_cargo_volume.protect.md) 
-- [has_value_for_cargo_volume.private](../../../../_private/schema.org/Predicate/Quantities/has_value_for_cargo_volume.private.md) 
-- [has_value_for_cargo_volume.personal](../../../../_personal/schema.org/Predicate/Quantities/has_value_for_cargo_volume.personal.md) 
-- [has_value_for_cargo_volume.secret](../../../../_secret/schema.org/Predicate/Quantities/has_value_for_cargo_volume.secret.md) 

@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Stuhr](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stuhr.md) 
-- [Stuhr.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stuhr.internal.md) 
-- [Stuhr.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stuhr.protect.md) 
-- [Stuhr.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stuhr.private.md) 
-- [Stuhr.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stuhr.personal.md) 
-- [Stuhr.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Stuhr.secret.md) 

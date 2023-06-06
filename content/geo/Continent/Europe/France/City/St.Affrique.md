@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [St.Affrique](../../../../../../_public/geo/Continent/Europe/France/City/St.Affrique.md) 
-- [St.Affrique.internal](../../../../../../_internal/geo/Continent/Europe/France/City/St.Affrique.internal.md) 
-- [St.Affrique.protect](../../../../../../_protect/geo/Continent/Europe/France/City/St.Affrique.protect.md) 
-- [St.Affrique.private](../../../../../../_private/geo/Continent/Europe/France/City/St.Affrique.private.md) 
-- [St.Affrique.personal](../../../../../../_personal/geo/Continent/Europe/France/City/St.Affrique.personal.md) 
-- [St.Affrique.secret](../../../../../../_secret/geo/Continent/Europe/France/City/St.Affrique.secret.md) 

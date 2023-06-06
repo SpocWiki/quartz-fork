@@ -28,10 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Sheratan](../../../_public/astro/Star/Sheratan.md) 
-- [Sheratan.internal](../../../_internal/astro/Star/Sheratan.internal.md) 
-- [Sheratan.protect](../../../_protect/astro/Star/Sheratan.protect.md) 
-- [Sheratan.private](../../../_private/astro/Star/Sheratan.private.md) 
-- [Sheratan.personal](../../../_personal/astro/Star/Sheratan.personal.md) 
-- [Sheratan.secret](../../../_secret/astro/Star/Sheratan.secret.md) 

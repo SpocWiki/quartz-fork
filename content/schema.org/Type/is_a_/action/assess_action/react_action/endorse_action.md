@@ -43,10 +43,3 @@ An agent approves/certifies/likes/supports/sanctions an object.
 
 
 
-## Confidential Links & Embeds: 
-- [endorse_action](../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action/endorse_action.md) 
-- [endorse_action.internal](../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action/endorse_action.internal.md) 
-- [endorse_action.protect](../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action/endorse_action.protect.md) 
-- [endorse_action.private](../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action/endorse_action.private.md) 
-- [endorse_action.personal](../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action/endorse_action.personal.md) 
-- [endorse_action.secret](../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action/endorse_action.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ostende](../../../../../../_public/geo/Continent/Europe/Belgium/City/Ostende.md) 
-- [Ostende.internal](../../../../../../_internal/geo/Continent/Europe/Belgium/City/Ostende.internal.md) 
-- [Ostende.protect](../../../../../../_protect/geo/Continent/Europe/Belgium/City/Ostende.protect.md) 
-- [Ostende.private](../../../../../../_private/geo/Continent/Europe/Belgium/City/Ostende.private.md) 
-- [Ostende.personal](../../../../../../_personal/geo/Continent/Europe/Belgium/City/Ostende.personal.md) 
-- [Ostende.secret](../../../../../../_secret/geo/Continent/Europe/Belgium/City/Ostende.secret.md) 

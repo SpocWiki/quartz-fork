@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Langenoels](../../../../../../_public/geo/Continent/Europe/Poland/City/Langenoels.md) 
-- [Langenoels.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Langenoels.internal.md) 
-- [Langenoels.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Langenoels.protect.md) 
-- [Langenoels.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Langenoels.private.md) 
-- [Langenoels.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Langenoels.personal.md) 
-- [Langenoels.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Langenoels.secret.md) 

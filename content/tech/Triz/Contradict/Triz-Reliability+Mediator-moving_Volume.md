@@ -19,10 +19,3 @@ title: Triz-Reliability+Mediator-moving_Volume
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Reliability+Mediator-moving_Volume](../../../../_public/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.md) 
-- [Triz-Reliability+Mediator-moving_Volume.internal](../../../../_internal/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.internal.md) 
-- [Triz-Reliability+Mediator-moving_Volume.protect](../../../../_protect/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.protect.md) 
-- [Triz-Reliability+Mediator-moving_Volume.private](../../../../_private/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.private.md) 
-- [Triz-Reliability+Mediator-moving_Volume.personal](../../../../_personal/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.personal.md) 
-- [Triz-Reliability+Mediator-moving_Volume.secret](../../../../_secret/tech/Triz/Contradict/Triz-Reliability+Mediator-moving_Volume.secret.md) 

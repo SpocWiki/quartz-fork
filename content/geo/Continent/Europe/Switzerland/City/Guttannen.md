@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Guttannen](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Guttannen.md) 
-- [Guttannen.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Guttannen.internal.md) 
-- [Guttannen.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Guttannen.protect.md) 
-- [Guttannen.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Guttannen.private.md) 
-- [Guttannen.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Guttannen.personal.md) 
-- [Guttannen.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Guttannen.secret.md) 

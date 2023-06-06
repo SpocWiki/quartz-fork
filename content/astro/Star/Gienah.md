@@ -28,11 +28,3 @@ confidential: public
 
 
 
-## Confidential Links & Embeds: 
-- [Gienah](../../../_public/astro/Star/Gienah.md) 
-- [Gienah.internal](../../../_internal/astro/Star/Gienah.internal.md) 
-- [Gienah.protect](../../../_protect/astro/Star/Gienah.protect.md) 
-- [Gienah.private](../../../_private/astro/Star/Gienah.private.md) 
-- [Gienah.personal](../../../_personal/astro/Star/Gienah.personal.md) 
-- [Gienah.secret](../../../_secret/astro/Star/Gienah.secret.md)
-

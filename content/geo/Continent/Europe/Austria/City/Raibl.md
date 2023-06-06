@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Raibl](../../../../../../_public/geo/Continent/Europe/Austria/City/Raibl.md) 
-- [Raibl.internal](../../../../../../_internal/geo/Continent/Europe/Austria/City/Raibl.internal.md) 
-- [Raibl.protect](../../../../../../_protect/geo/Continent/Europe/Austria/City/Raibl.protect.md) 
-- [Raibl.private](../../../../../../_private/geo/Continent/Europe/Austria/City/Raibl.private.md) 
-- [Raibl.personal](../../../../../../_personal/geo/Continent/Europe/Austria/City/Raibl.personal.md) 
-- [Raibl.secret](../../../../../../_secret/geo/Continent/Europe/Austria/City/Raibl.secret.md) 

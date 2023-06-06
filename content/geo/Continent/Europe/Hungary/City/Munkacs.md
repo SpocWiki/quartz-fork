@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Munkacs](../../../../../../_public/geo/Continent/Europe/Hungary/City/Munkacs.md) 
-- [Munkacs.internal](../../../../../../_internal/geo/Continent/Europe/Hungary/City/Munkacs.internal.md) 
-- [Munkacs.protect](../../../../../../_protect/geo/Continent/Europe/Hungary/City/Munkacs.protect.md) 
-- [Munkacs.private](../../../../../../_private/geo/Continent/Europe/Hungary/City/Munkacs.private.md) 
-- [Munkacs.personal](../../../../../../_personal/geo/Continent/Europe/Hungary/City/Munkacs.personal.md) 
-- [Munkacs.secret](../../../../../../_secret/geo/Continent/Europe/Hungary/City/Munkacs.secret.md) 

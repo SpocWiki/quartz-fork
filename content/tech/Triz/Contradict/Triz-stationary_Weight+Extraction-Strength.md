@@ -19,10 +19,3 @@ title: Triz-stationary_Weight+Extraction-Strength
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-stationary_Weight+Extraction-Strength](../../../../_public/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Strength.md) 
-- [Triz-stationary_Weight+Extraction-Strength.internal](../../../../_internal/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Strength.internal.md) 
-- [Triz-stationary_Weight+Extraction-Strength.protect](../../../../_protect/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Strength.protect.md) 
-- [Triz-stationary_Weight+Extraction-Strength.private](../../../../_private/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Strength.private.md) 
-- [Triz-stationary_Weight+Extraction-Strength.personal](../../../../_personal/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Strength.personal.md) 
-- [Triz-stationary_Weight+Extraction-Strength.secret](../../../../_secret/tech/Triz/Contradict/Triz-stationary_Weight+Extraction-Strength.secret.md) 

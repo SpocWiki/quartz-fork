@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Olekminsk](../../../../../../_public/geo/Continent/Europe/Russia/City/Olekminsk.md) 
-- [Olekminsk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Olekminsk.internal.md) 
-- [Olekminsk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Olekminsk.protect.md) 
-- [Olekminsk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Olekminsk.private.md) 
-- [Olekminsk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Olekminsk.personal.md) 
-- [Olekminsk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Olekminsk.secret.md) 

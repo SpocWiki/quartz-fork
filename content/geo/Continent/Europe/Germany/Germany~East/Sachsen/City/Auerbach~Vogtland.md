@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Auerbach~Vogtland](../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Auerbach~Vogtland.md) 
-- [Auerbach~Vogtland.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Auerbach~Vogtland.internal.md) 
-- [Auerbach~Vogtland.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Auerbach~Vogtland.protect.md) 
-- [Auerbach~Vogtland.private](../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Auerbach~Vogtland.private.md) 
-- [Auerbach~Vogtland.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Auerbach~Vogtland.personal.md) 
-- [Auerbach~Vogtland.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Sachsen/City/Auerbach~Vogtland.secret.md) 

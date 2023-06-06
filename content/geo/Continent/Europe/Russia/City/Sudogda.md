@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sudogda](../../../../../../_public/geo/Continent/Europe/Russia/City/Sudogda.md) 
-- [Sudogda.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Sudogda.internal.md) 
-- [Sudogda.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Sudogda.protect.md) 
-- [Sudogda.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Sudogda.private.md) 
-- [Sudogda.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Sudogda.personal.md) 
-- [Sudogda.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Sudogda.secret.md) 

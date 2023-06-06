@@ -45,10 +45,3 @@ A specific branch of medical science that specializes in the care of women durin
 
 
 
-## Confidential Links & Embeds: 
-- [obstetric](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/obstetric.md) 
-- [obstetric.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/obstetric.internal.md) 
-- [obstetric.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/obstetric.protect.md) 
-- [obstetric.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/obstetric.private.md) 
-- [obstetric.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/obstetric.personal.md) 
-- [obstetric.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/obstetric.secret.md) 

@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Villa_de_Condé](../../../../../../_public/geo/Continent/Europe/France/City/Villa_de_Cond%C3%A9.md) 
-- [Villa_de_Condé.internal](../../../../../../_internal/geo/Continent/Europe/France/City/Villa_de_Cond%C3%A9.internal.md) 
-- [Villa_de_Condé.protect](../../../../../../_protect/geo/Continent/Europe/France/City/Villa_de_Cond%C3%A9.protect.md) 
-- [Villa_de_Condé.private](../../../../../../_private/geo/Continent/Europe/France/City/Villa_de_Cond%C3%A9.private.md) 
-- [Villa_de_Condé.personal](../../../../../../_personal/geo/Continent/Europe/France/City/Villa_de_Cond%C3%A9.personal.md) 
-- [Villa_de_Condé.secret](../../../../../../_secret/geo/Continent/Europe/France/City/Villa_de_Cond%C3%A9.secret.md) 

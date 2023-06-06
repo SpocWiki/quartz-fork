@@ -123,7 +123,7 @@ markerFolder: ./Belarus/City
 
 ![350](geo/Continent/Europe/Belarus/Emblem_of_Belarus.svg)
 
-![Anthem-Belarus](xLarge/National-Anthem/Anthem-Belarus.mp3)
+[Anthem-Belarus](xLarge/National-Anthem/Anthem-Belarus.mp3)
 
 ![350](geo/Continent/Europe/Belarus/Flag_of_Belarus.svg)
 
@@ -134,10 +134,3 @@ markerFolder: ./Belarus/City
 
 
 
-## Confidential Links & Embeds: 
-- [Belarus](../../../../_public/geo/Continent/Europe/Belarus.md) 
-- [Belarus.internal](../../../../_internal/geo/Continent/Europe/Belarus.internal.md) 
-- [Belarus.protect](../../../../_protect/geo/Continent/Europe/Belarus.protect.md) 
-- [Belarus.private](../../../../_private/geo/Continent/Europe/Belarus.private.md) 
-- [Belarus.personal](../../../../_personal/geo/Continent/Europe/Belarus.personal.md) 
-- [Belarus.secret](../../../../_secret/geo/Continent/Europe/Belarus.secret.md) 

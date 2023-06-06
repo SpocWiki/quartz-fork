@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Oberhausen~Westfahlen](../../../../../../../../_public/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.md) 
-- [Oberhausen~Westfahlen.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.internal.md) 
-- [Oberhausen~Westfahlen.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.protect.md) 
-- [Oberhausen~Westfahlen.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.private.md) 
-- [Oberhausen~Westfahlen.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.personal.md) 
-- [Oberhausen~Westfahlen.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/NordRhein-Westfahlen/City/Oberhausen~Westfahlen.secret.md) 

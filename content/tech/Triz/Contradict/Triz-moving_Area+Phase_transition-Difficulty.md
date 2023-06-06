@@ -19,10 +19,3 @@ title: Triz-moving_Area+Phase_transition-Difficulty
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-moving_Area+Phase_transition-Difficulty](../../../../_public/tech/Triz/Contradict/Triz-moving_Area+Phase_transition-Difficulty.md) 
-- [Triz-moving_Area+Phase_transition-Difficulty.internal](../../../../_internal/tech/Triz/Contradict/Triz-moving_Area+Phase_transition-Difficulty.internal.md) 
-- [Triz-moving_Area+Phase_transition-Difficulty.protect](../../../../_protect/tech/Triz/Contradict/Triz-moving_Area+Phase_transition-Difficulty.protect.md) 
-- [Triz-moving_Area+Phase_transition-Difficulty.private](../../../../_private/tech/Triz/Contradict/Triz-moving_Area+Phase_transition-Difficulty.private.md) 
-- [Triz-moving_Area+Phase_transition-Difficulty.personal](../../../../_personal/tech/Triz/Contradict/Triz-moving_Area+Phase_transition-Difficulty.personal.md) 
-- [Triz-moving_Area+Phase_transition-Difficulty.secret](../../../../_secret/tech/Triz/Contradict/Triz-moving_Area+Phase_transition-Difficulty.secret.md) 

@@ -45,10 +45,3 @@ An item used as either a tool or supply when performing the instructions for how
 
 
 
-## Confidential Links & Embeds: 
-- [how_to_item](../../../../../../_public/schema.org/Type/is_a_/intangible/list_item/how_to_item.md) 
-- [how_to_item.internal](../../../../../../_internal/schema.org/Type/is_a_/intangible/list_item/how_to_item.internal.md) 
-- [how_to_item.protect](../../../../../../_protect/schema.org/Type/is_a_/intangible/list_item/how_to_item.protect.md) 
-- [how_to_item.private](../../../../../../_private/schema.org/Type/is_a_/intangible/list_item/how_to_item.private.md) 
-- [how_to_item.personal](../../../../../../_personal/schema.org/Type/is_a_/intangible/list_item/how_to_item.personal.md) 
-- [how_to_item.secret](../../../../../../_secret/schema.org/Type/is_a_/intangible/list_item/how_to_item.secret.md) 

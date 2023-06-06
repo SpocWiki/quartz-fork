@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Murmansk](../../../../../../_public/geo/Continent/Europe/Russia/City/Murmansk.md) 
-- [Murmansk.internal](../../../../../../_internal/geo/Continent/Europe/Russia/City/Murmansk.internal.md) 
-- [Murmansk.protect](../../../../../../_protect/geo/Continent/Europe/Russia/City/Murmansk.protect.md) 
-- [Murmansk.private](../../../../../../_private/geo/Continent/Europe/Russia/City/Murmansk.private.md) 
-- [Murmansk.personal](../../../../../../_personal/geo/Continent/Europe/Russia/City/Murmansk.personal.md) 
-- [Murmansk.secret](../../../../../../_secret/geo/Continent/Europe/Russia/City/Murmansk.secret.md) 

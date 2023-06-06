@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Ojebyn](../../../../../../_public/geo/Continent/Europe/Sweden/City/Ojebyn.md) 
-- [Ojebyn.internal](../../../../../../_internal/geo/Continent/Europe/Sweden/City/Ojebyn.internal.md) 
-- [Ojebyn.protect](../../../../../../_protect/geo/Continent/Europe/Sweden/City/Ojebyn.protect.md) 
-- [Ojebyn.private](../../../../../../_private/geo/Continent/Europe/Sweden/City/Ojebyn.private.md) 
-- [Ojebyn.personal](../../../../../../_personal/geo/Continent/Europe/Sweden/City/Ojebyn.personal.md) 
-- [Ojebyn.secret](../../../../../../_secret/geo/Continent/Europe/Sweden/City/Ojebyn.secret.md) 

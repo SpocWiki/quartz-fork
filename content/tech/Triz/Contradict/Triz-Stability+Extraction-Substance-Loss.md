@@ -19,10 +19,3 @@ title: Triz-Stability+Extraction-Substance-Loss
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Stability+Extraction-Substance-Loss](../../../../_public/tech/Triz/Contradict/Triz-Stability+Extraction-Substance-Loss.md) 
-- [Triz-Stability+Extraction-Substance-Loss.internal](../../../../_internal/tech/Triz/Contradict/Triz-Stability+Extraction-Substance-Loss.internal.md) 
-- [Triz-Stability+Extraction-Substance-Loss.protect](../../../../_protect/tech/Triz/Contradict/Triz-Stability+Extraction-Substance-Loss.protect.md) 
-- [Triz-Stability+Extraction-Substance-Loss.private](../../../../_private/tech/Triz/Contradict/Triz-Stability+Extraction-Substance-Loss.private.md) 
-- [Triz-Stability+Extraction-Substance-Loss.personal](../../../../_personal/tech/Triz/Contradict/Triz-Stability+Extraction-Substance-Loss.personal.md) 
-- [Triz-Stability+Extraction-Substance-Loss.secret](../../../../_secret/tech/Triz/Contradict/Triz-Stability+Extraction-Substance-Loss.secret.md) 

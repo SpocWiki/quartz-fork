@@ -19,10 +19,3 @@ title: Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy
 
 
 
-## Confidential Links & Embeds: 
-- [Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy](../../../../_public/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.md) 
-- [Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.internal](../../../../_internal/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.internal.md) 
-- [Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.protect](../../../../_protect/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.protect.md) 
-- [Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.private](../../../../_private/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.private.md) 
-- [Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.personal](../../../../_personal/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.personal.md) 
-- [Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.secret](../../../../_secret/tech/Triz/Contradict/Triz-Intensity+Partial,_overdone,_or_excessive_action-stationary_Energy.secret.md) 

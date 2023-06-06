@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Landsberg~Schlesien](../../../../../../_public/geo/Continent/Europe/Poland/City/Landsberg~Schlesien.md) 
-- [Landsberg~Schlesien.internal](../../../../../../_internal/geo/Continent/Europe/Poland/City/Landsberg~Schlesien.internal.md) 
-- [Landsberg~Schlesien.protect](../../../../../../_protect/geo/Continent/Europe/Poland/City/Landsberg~Schlesien.protect.md) 
-- [Landsberg~Schlesien.private](../../../../../../_private/geo/Continent/Europe/Poland/City/Landsberg~Schlesien.private.md) 
-- [Landsberg~Schlesien.personal](../../../../../../_personal/geo/Continent/Europe/Poland/City/Landsberg~Schlesien.personal.md) 
-- [Landsberg~Schlesien.secret](../../../../../../_secret/geo/Continent/Europe/Poland/City/Landsberg~Schlesien.secret.md) 

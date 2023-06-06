@@ -33,10 +33,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Flueh](../../../../../../_public/geo/Continent/Europe/Switzerland/City/Flueh.md) 
-- [Flueh.internal](../../../../../../_internal/geo/Continent/Europe/Switzerland/City/Flueh.internal.md) 
-- [Flueh.protect](../../../../../../_protect/geo/Continent/Europe/Switzerland/City/Flueh.protect.md) 
-- [Flueh.private](../../../../../../_private/geo/Continent/Europe/Switzerland/City/Flueh.private.md) 
-- [Flueh.personal](../../../../../../_personal/geo/Continent/Europe/Switzerland/City/Flueh.personal.md) 
-- [Flueh.secret](../../../../../../_secret/geo/Continent/Europe/Switzerland/City/Flueh.secret.md) 

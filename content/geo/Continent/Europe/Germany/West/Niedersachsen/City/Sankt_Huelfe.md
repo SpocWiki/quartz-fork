@@ -32,10 +32,3 @@ maxZoom: 18
 ```
 
 
-## Confidential Links & Embeds: 
-- [Sankt_Huelfe](../../../../../../../../_public/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sankt_Huelfe.md) 
-- [Sankt_Huelfe.internal](../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sankt_Huelfe.internal.md) 
-- [Sankt_Huelfe.protect](../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sankt_Huelfe.protect.md) 
-- [Sankt_Huelfe.private](../../../../../../../../_private/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sankt_Huelfe.private.md) 
-- [Sankt_Huelfe.personal](../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sankt_Huelfe.personal.md) 
-- [Sankt_Huelfe.secret](../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Niedersachsen/City/Sankt_Huelfe.secret.md) 

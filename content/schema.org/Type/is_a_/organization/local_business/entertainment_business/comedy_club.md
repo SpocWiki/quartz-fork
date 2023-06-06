@@ -43,10 +43,3 @@ A comedy club.
 
 
 
-## Confidential Links & Embeds: 
-- [comedy_club](../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.md) 
-- [comedy_club.internal](../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.internal.md) 
-- [comedy_club.protect](../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.protect.md) 
-- [comedy_club.private](../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.private.md) 
-- [comedy_club.personal](../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.personal.md) 
-- [comedy_club.secret](../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.secret.md) 
