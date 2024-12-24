@@ -5,11 +5,13 @@ title: Browse Data by Tag/Category
 enableToc: true
 ---
 
-# Samples
+# Sample-Pages
 
+- [United_States_of_America](geo/Continent/North-America/United_States_of_America.md)
+- [Canada](geo/Continent/North-America/Canada.md)
+- [Germany](geo/Continent/Europe/Germany)
+- [Frankfurt](geo/Continent/Europe/Germany/West/Hessen/City/Frankfurt~Main)
 - [Elements](chemic/Elements.md)
-- [United_States_of_America](North-America/United_States_of_America.md)
-- [Canada](North-America/Canada.md)
 
 
 # SpocWiki

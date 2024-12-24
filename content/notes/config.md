@@ -78,14 +78,12 @@ description:
 
 # title of the home page (also for SEO)
 page_title:
-  "🪴 Quartz 3.3"
+  "Spoc Wiki"
 
 # links to show in the footer
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/SpocWiki/
 ```
 
 ### Code Block Titles
